@@ -1,0 +1,26 @@
+{
+  "id": "hidden-in-plain-sight_1776307242",
+  "archived_at": "2026-04-16T02:45:21Z",
+  "metadata": {
+    "title": "Hidden in Plain Sight",
+    "artist": "Black Magick SS",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1233,
+    "duration_human": "00:20:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Black Magick SS - Hidden in Plain Sight",
+      "02 Black Magick SS - Black Magick Army",
+      "03 Black Magick SS - Wisdom Tree",
+      "04 Black Magick SS - War of the Sorcerer"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hidden-in-plain-sight_1776307242"
+    }
+  }
+}
