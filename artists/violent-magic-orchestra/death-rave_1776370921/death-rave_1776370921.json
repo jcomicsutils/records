@@ -1,0 +1,37 @@
+{
+  "id": "death-rave_1776370921",
+  "archived_at": "2026-04-16T20:26:39Z",
+  "metadata": {
+    "title": "Death Rave",
+    "artist": "Violent Magic Orchestra",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 4078,
+    "duration_human": "01:07:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Violent Magic Orchestra - Planet Helvetech",
+      "02 Violent Magic Orchestra - Warp",
+      "03 Violent Magic Orchestra - The Destroyer (Electric Utilities Version)",
+      "04 Violent Magic Orchestra - Choking Persuasion",
+      "05 Violent Magic Orchestra - Kokka",
+      "06 Violent Magic Orchestra - Welcome to Death Rave",
+      "07 Violent Magic Orchestra - Satanic Violent Device",
+      "08 Violent Magic Orchestra - Martello Mosh Pit",
+      "09 Violent Magic Orchestra - Venom",
+      "10 Violent Magic Orchestra - Abyss",
+      "11 Violent Magic Orchestra - Ecsedi Báthory Erzsébet",
+      "12 Violent Magic Orchestra - Supergaze",
+      "13 Violent Magic Orchestra - Fyre",
+      "14 Violent Magic Orchestra - Song for the Moon",
+      "15 Violent Magic Orchestra - Flapping Dragon Wings"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/death-rave_1776370921"
+    }
+  }
+}
