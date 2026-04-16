@@ -1,0 +1,28 @@
+{
+  "id": "spectral-ecstasy_1776308955",
+  "archived_at": "2026-04-16T03:12:51Z",
+  "metadata": {
+    "title": "Spectral Ecstasy",
+    "artist": "Black Magick SS",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1815,
+    "duration_human": "00:30:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Black Magick SS - Black Hand",
+      "02 Black Magick SS - Spectral Ecstasy",
+      "03 Black Magick SS - My Love",
+      "04 Black Magick SS - Fallen Tale",
+      "05 Black Magick SS - The Oath",
+      "06 Black Magick SS - Hymn of Pride"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/spectral-ecstasy_1776308955"
+    }
+  }
+}
