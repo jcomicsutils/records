@@ -1,0 +1,30 @@
+{
+  "id": "exo-swag-killa_1776371201",
+  "archived_at": "2026-04-16T20:27:36Z",
+  "metadata": {
+    "title": "Exo Swag Killa",
+    "artist": "Violent Magic Orchestra",
+    "year": "2026",
+    "codec": "Opus",
+    "num_tracks": 8,
+    "duration_seconds": 1002,
+    "duration_human": "00:16:42",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Violent Magic Orchestra - OP",
+      "02 Violent Magic Orchestra - The Third Lie",
+      "03 Violent Magic Orchestra - New Babyylon",
+      "04 Violent Magic Orchestra - Medical Use",
+      "05 Violent Magic Orchestra - False Memory of a Lento",
+      "06 Violent Magic Orchestra - Cruxxxified Friendz†††",
+      "07 Violent Magic Orchestra - 始める - Inizio",
+      "08 Violent Magic Orchestra - ED"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/exo-swag-killa_1776371201"
+    }
+  }
+}
