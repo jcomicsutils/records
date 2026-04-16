@@ -1,0 +1,28 @@
+{
+  "id": "hopscotch_1776300026",
+  "archived_at": "2026-04-16T00:42:02Z",
+  "metadata": {
+    "title": "Hopscotch",
+    "artist": "Opera for Infantry",
+    "year": "1984",
+    "codec": "MP3",
+    "num_tracks": 7,
+    "duration_seconds": 3525,
+    "duration_human": "00:58:45",
+    "sampling_rate": "44.1kHz",
+    "tracklist": [
+      "01 Opera for Infantry - Hopscotch",
+      "02 Opera for Infantry - Winds of Mauthausen",
+      "03 Opera for Infantry - Repetition",
+      "04 Opera for Infantry - Hopscotch Revisited",
+      "05 Opera for Infantry - Playing With Fire",
+      "06 Opera for Infantry - Propaganda",
+      "07 Opera for Infantry - Black Christmas"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hopscotch_1776300026"
+    }
+  }
+}
