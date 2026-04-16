@@ -1,0 +1,24 @@
+{
+  "id": "la-woman-pt-2",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "L.A. Woman, Pt. 2",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "8:41",
+    "sampling_rate": "192.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760537873_l_a__woman__pt__2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/fiptzMiJuZDCkHzYORCW.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/op3ly523.7z"
+    }
+  }
+}

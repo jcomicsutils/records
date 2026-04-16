@@ -1,0 +1,24 @@
+{
+  "id": "kapotte-muziek-by-peter-rehberg",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Kapotte Muziek by Peter Rehberg",
+    "artist": "Kapotte Muziek",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "17:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761158911_kapotte_muziek_by_peter_rehberg"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/qhGTCFWszCuWlszIBOy.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ov734f9.7z"
+    }
+  }
+}

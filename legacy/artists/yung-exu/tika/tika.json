@@ -1,0 +1,27 @@
+{
+  "id": "tika",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "tika?",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:05",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759628651_tika"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/cjLaRseOeXGPfvcbmyC.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/58ukbt.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/k5sck7wv.7z"
+    }
+  }
+}

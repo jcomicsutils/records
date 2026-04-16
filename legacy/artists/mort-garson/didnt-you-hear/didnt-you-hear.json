@@ -1,0 +1,27 @@
+{
+  "id": "didnt-you-hear",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Didn't You Hear?",
+    "artist": "Mort Garson",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_human": "32:38",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761303731_didn_t_you_hear"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/EtpaxTrOnCfYBRJvSKNq.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/mxzs59.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/slhdrvwh.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "whats-wrong-with-you-death",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "What's Wrong With You? (Death)",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:36",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769315373_what_s_wrong_with_you__death_"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/j6dtz1rr.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/t10wmk.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/NexiFndhIyqfMbVoYMCf.7z"
+    }
+  }
+}

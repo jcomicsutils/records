@@ -1,0 +1,27 @@
+{
+  "id": "klk",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "KLK",
+    "artist": "Arca",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "7:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760299997_klk"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/tHZMsKpymSqSmOfzzwdf.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/q5jvvq.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/aqkqlh50.7z"
+    }
+  }
+}

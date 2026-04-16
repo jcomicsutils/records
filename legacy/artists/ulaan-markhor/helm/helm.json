@@ -1,0 +1,27 @@
+{
+  "id": "helm",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Helm",
+    "artist": "Ulaan Markhor",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "36:19",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769914436_helm"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wp9yvtyd.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/zkyhcu.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/pRSvMLxkmnBwIvMWskgT.7z"
+    }
+  }
+}

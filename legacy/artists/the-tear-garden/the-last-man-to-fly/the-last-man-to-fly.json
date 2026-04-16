@@ -1,0 +1,24 @@
+{
+  "id": "the-last-man-to-fly",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Last Man to Fly",
+    "artist": "The Tear Garden",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752427477_the_last_man_to_fly"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/lVBUvpHgoFtSNzzkHTz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6yw1a0ml.7z"
+    }
+  }
+}

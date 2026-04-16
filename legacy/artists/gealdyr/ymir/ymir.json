@@ -1,0 +1,27 @@
+{
+  "id": "ymir",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ymir",
+    "artist": "Gealdýr",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:17",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760909253_ymir"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/jwNxhHcwziVpgFBzXyv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/k585e8.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/f4m2okzi.7z"
+    }
+  }
+}

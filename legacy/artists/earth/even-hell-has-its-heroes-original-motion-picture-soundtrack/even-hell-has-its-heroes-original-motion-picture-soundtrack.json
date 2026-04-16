@@ -1,0 +1,27 @@
+{
+  "id": "even-hell-has-its-heroes-original-motion-picture-soundtrack",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Even Hell has its Heroes (Original Motion Picture Soundtrack)",
+    "artist": "Earth",
+    "codec": "MP3",
+    "num_tracks": 16,
+    "duration_human": "1:02:52",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763922180_even_hell_has_its_heroes__original_motion_picture_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/JksrmvRexKHcGwILeIpR.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/128f2g.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jtr6plqt.7z"
+    }
+  }
+}

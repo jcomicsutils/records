@@ -1,0 +1,14 @@
+# Abyssic Hate
+
+
+| Album | Codec | Duration | Hosts |
+|-------|-------|----------|-------|
+| [Betrayed](betrayed/betrayed.md) | MP3 | Unknown | [IA](https://archive.org/details/1747260561_betrayed) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/eNFHlIeUeWBLEIysUvP.7z) [Catbox](https://files.catbox.moe/pamufr.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/y3s8jboi.7z) |
+| [Cleansing of an Ancient Race](cleansing-of-an-ancient-race/cleansing-of-an-ancient-race.md) | MP3 | Unknown | [IA](https://archive.org/details/1747261190_cleansing_of_an_ancient_race) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/VcwFBZnljmmtgRpxkv.7z) [Catbox](https://files.catbox.moe/aw7kyz.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/e2fjaq4y.7z) |
+| [Depression](depression/depression.md) | MP3 | Unknown | [IA](https://archive.org/details/1747245378_depression) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/QQvYLwwMsjZoVasjCee.7z) [Catbox](https://files.catbox.moe/vgjjuy.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/lclat1e3.7z) |
+| [Eternal Damnation](eternal-damnation/eternal-damnation.md) | FLAC | Unknown | [IA](https://archive.org/details/1747248991_eternal_damnation) [Fileditch](https://fileditchfiles.me/file.php?f=/b54/ZDVxydptviaGooiUNUw.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/b9pigmd4.7z) |
+| [Life Is a Pain in the Neck](life-is-a-pain-in-the-neck/life-is-a-pain-in-the-neck.md) | MP3 | Unknown | [IA](https://archive.org/details/1747246886_life_is_a_pain_in_the_neck) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/FHOBbyGObqTDkuUEUbZM.7z) [Catbox](https://files.catbox.moe/5a5unc.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/9abgqq.7z) |
+| [Suicidal Emotions](suicidal-emotions/suicidal-emotions.md) | FLAC | Unknown | [IA](https://archive.org/details/1747275995_suicidal_emotions) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/aMohnkHPgrimFaFgglG.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/yz6dkrhx.7z) |
+| [The Source of Suffering](the-source-of-suffering/the-source-of-suffering.md) | FLAC | Unknown | [IA](https://archive.org/details/1747245394_the_source_of_suffering) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/rBCaxoqNEBHstaJsvyhL.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/dxwvvtsp.7z) |
+| [United by Heathen Blood](united-by-heathen-blood/united-by-heathen-blood.md) | FLAC | Unknown | [IA](https://archive.org/details/1747254318_united_by_heathen_blood) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/kDrzWmPzBWJuYUvOLLXI.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/i7pg3ms.7z) |
+| [Welcome to the Anarchy](welcome-to-the-anarchy/welcome-to-the-anarchy.md) | FLAC | Unknown | [IA](https://archive.org/details/1747260812_welcome_to_the_anarchy) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/yvLwsGvaZLQKEDgSKrHT.7z) [Catbox](https://files.catbox.moe/uincc7.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/kbm34zl.7z) |

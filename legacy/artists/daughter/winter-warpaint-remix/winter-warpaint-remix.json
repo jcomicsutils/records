@@ -1,0 +1,27 @@
+{
+  "id": "winter-warpaint-remix",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Winter (Warpaint Remix)",
+    "artist": "Daughter",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:04",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "": {
+      "url": ""
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/1761019122_winter__warpaint_remix_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ArEuPGbusWqzGuKTopZq.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/q41y9xcy.7z"
+    }
+  }
+}

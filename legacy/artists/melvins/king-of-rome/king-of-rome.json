@@ -1,0 +1,27 @@
+{
+  "id": "king-of-rome",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "King of Rome",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:09",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769317867_king_of_rome"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/uwd7twf7.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/yfnrt5.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/wjIjLsarqFUTneRJPbq.7z"
+    }
+  }
+}

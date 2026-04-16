@@ -1,0 +1,27 @@
+{
+  "id": "puta-sola",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Puta / Sola",
+    "artist": "Arca",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "6:47",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760306940_puta_-_sola"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/blwYrTJAuntafuOtkdeZ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/v6zywn.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xt9r0oo4.7z"
+    }
+  }
+}

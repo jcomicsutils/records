@@ -1,0 +1,21 @@
+{
+  "id": "unfold",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Unfold",
+    "artist": "The Necks",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "1:14:37",
+    "sampling_rate": "88.2kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761598521_unfold"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/JTKUHgUnivCqhilYHZbx.7z"
+    }
+  }
+}

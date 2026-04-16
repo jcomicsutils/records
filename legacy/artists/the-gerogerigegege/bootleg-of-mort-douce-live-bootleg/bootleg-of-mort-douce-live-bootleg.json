@@ -1,0 +1,27 @@
+{
+  "id": "bootleg-of-mort-douce-live-bootleg",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Bootleg of Mort Douce Live Bootleg",
+    "artist": "The Gerogerigegege [ザ・ゲロゲリゲゲゲ]",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752396412_bootleg_of_mort_douce_live_bootleg"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/nsKbuqBxnyFqWNIaCEN.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/i18awv.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4th1qj2.7z"
+    }
+  }
+}

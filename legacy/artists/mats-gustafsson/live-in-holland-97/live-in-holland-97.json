@@ -1,0 +1,27 @@
+{
+  "id": "live-in-holland-97",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live in Holland '97",
+    "artist": "Mats Gustafsson",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1753663879_live_in_holland__97"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/wRwrlPbGvafwDZEfActd.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/znvppv.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ftc6hsx.7z"
+    }
+  }
+}

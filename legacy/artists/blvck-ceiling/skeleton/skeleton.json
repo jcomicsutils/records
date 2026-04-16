@@ -1,0 +1,27 @@
+{
+  "id": "skeleton",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Skeleton",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "18:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760912794_skeleton"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/lHEJcdhAsifboiNHGQsp.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/cch7q7.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rh2ksgw8.7z"
+    }
+  }
+}

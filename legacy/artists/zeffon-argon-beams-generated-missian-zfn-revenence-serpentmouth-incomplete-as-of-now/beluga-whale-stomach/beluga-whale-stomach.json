@@ -1,0 +1,27 @@
+{
+  "id": "beluga-whale-stomach",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Beluga Whale Stomach",
+    "artist": "Zeffon / Argon Beams / Generated Missiân ZFN / Revenence / Serpentmouth (incomplete as of now)",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1748605722_revenence_-_beluga_whale_stomach"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/DtySOHEFkWaQQjvlPBf.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/01og2q.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/p1rov8l.7z"
+    }
+  }
+}

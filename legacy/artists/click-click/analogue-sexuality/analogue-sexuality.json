@@ -1,0 +1,27 @@
+{
+  "id": "analogue-sexuality",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Analogue Sexuality",
+    "artist": "Click Click",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "15:41",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760740615_analogue_sexuality"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SKGrEqBEeesRFtuaXMoM.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/eeqhbv.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8bbjf603.7z"
+    }
+  }
+}

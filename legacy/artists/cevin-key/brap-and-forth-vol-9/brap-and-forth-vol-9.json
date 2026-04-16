@@ -1,0 +1,24 @@
+{
+  "id": "brap-and-forth-vol-9",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "bRap and fOrth, vol. 9",
+    "artist": "cEvin Key",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "51:53",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760279314_brap_and_forth__vol__9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/drvDwcuMlFBXVolBFdpP.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/kst2l3px.7z"
+    }
+  }
+}

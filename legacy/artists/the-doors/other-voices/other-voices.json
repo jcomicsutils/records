@@ -1,0 +1,24 @@
+{
+  "id": "other-voices",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Other Voices",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "40:19",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760545290_other_voices"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/EkQUZYkLyWZuKpwtxeXV.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0x3tdz9l.7z"
+    }
+  }
+}

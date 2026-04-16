@@ -1,0 +1,27 @@
+{
+  "id": "agony-of-the-lost-soul",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Agony of the lost soul",
+    "artist": "AgoMorietur",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747432444_agony_of_the_lost_soul"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/csEKmAGOTpgZujrYEBnL.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/l3hfh0.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9o4ofjhk.7z"
+    }
+  }
+}

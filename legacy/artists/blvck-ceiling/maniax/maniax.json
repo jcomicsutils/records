@@ -1,0 +1,27 @@
+{
+  "id": "maniax",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Maniax",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:08",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760906272_maniax"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/yYyRDckhUcXQNjNtFnzc.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/caxe3o.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9jv6lo92.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "chaos-unforgiven-kisses-or-grateful-dead-kennedys",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Chaos Unforgiven Kisses or Grateful Dead Kennedys",
+    "artist": "Acid Mothers Temple & The Cosmic Inferno",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "53:50",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765132523_chaos_unforgiven_kisses_or_grateful_dead_kennedys"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/runbp7hy.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/zKKzognFKOTVxmbkewjB.7z"
+    }
+  }
+}

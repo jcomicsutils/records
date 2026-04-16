@@ -1,0 +1,27 @@
+{
+  "id": "born-yesterday",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Born Yesterday",
+    "artist": "Arca",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:18",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760234659_born_yesterday"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/lzTITiKcAwYsgRvLnPu.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/86phz3.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mugepu3z.7z"
+    }
+  }
+}

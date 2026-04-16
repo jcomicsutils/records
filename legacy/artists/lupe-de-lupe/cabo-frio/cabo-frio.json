@@ -1,0 +1,27 @@
+{
+  "id": "cabo-frio",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Cabo Frio",
+    "artist": "Lupe de Lupe",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758494007_cabo_frio"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MUFNgurHFJnQvLEkNWIk.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/aj877g.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7elfk78a.7z"
+    }
+  }
+}

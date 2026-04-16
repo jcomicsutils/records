@@ -1,0 +1,27 @@
+{
+  "id": "savn",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Savn",
+    "artist": "Alleypisser",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747505365_savn"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/lJTQTjxynIRQqXfTcSde.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/af6ajy.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/yr872r0q.7z"
+    }
+  }
+}

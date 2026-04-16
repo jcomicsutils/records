@@ -1,0 +1,27 @@
+{
+  "id": "i",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "I",
+    "artist": "Ulaan Khol",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "36:48",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769912248_i"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2aspn3t.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/1u71bh.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/VaeWHAZXUFnmbNezxiBD.7z"
+    }
+  }
+}

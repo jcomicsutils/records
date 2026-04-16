@@ -1,0 +1,24 @@
+{
+  "id": "pictures-from-etruria-vintage-electronic-production-music",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Pictures from Etruria (Vintage Electronic & Production Music)",
+    "artist": "Claude Larson",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "37:10",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759770734_pictures_from_etruria__vintage_electronic___produc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/wvSIbdWsvdHHzKXFvNX.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8eckutpq.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "sumerland",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sumerland",
+    "artist": "Fields Of The Nephilim",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "22:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761095035_sumerland"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/FjqKAoNsmaZPdRKbWjGE.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8glw3h.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/akx4rptd.7z"
+    }
+  }
+}

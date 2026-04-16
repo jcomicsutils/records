@@ -1,0 +1,24 @@
+{
+  "id": "east-fork-north-fork",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "East Fork / North Fork",
+    "artist": "Pedestrian Deposit",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "58:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761350540_east_fork_-_north_fork"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/RMwAXAomJCehyUQMShoG.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2zhwxhk4.7z"
+    }
+  }
+}

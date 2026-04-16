@@ -1,0 +1,27 @@
+{
+  "id": "echoes-of-forgotten-times-acoustic-guitar-versions",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Echoes of forgotten times (Acoustic guitar versions)",
+    "artist": "Black Hill",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "24:01",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760742547_echoes_of_forgotten_times__acoustic_guitar_version"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/rBDJfwtgjwzDxbqjZPJC.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ikaukg.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/sgom95ut.7z"
+    }
+  }
+}

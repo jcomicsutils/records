@@ -1,0 +1,24 @@
+{
+  "id": "in-a-garden-of-eden",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "In a Garden of Eden",
+    "artist": "Heavenly Music Corporation",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "49:26",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769193222_in_a_garden_of_eden"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/j8e0cg8w.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/dksTBTeBYGJzaqRGixnf.7z"
+    }
+  }
+}

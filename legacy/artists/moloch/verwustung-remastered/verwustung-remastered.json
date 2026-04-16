@@ -1,0 +1,24 @@
+{
+  "id": "verwustung-remastered",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Verwüstung (Remastered)",
+    "artist": "Moloch",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_human": "49:11",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761358948_verw_stung__remastered_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/EaLJttsBoWwEWSMBRHiI.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fqygmxe2.7z"
+    }
+  }
+}

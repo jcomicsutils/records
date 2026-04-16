@@ -1,0 +1,24 @@
+{
+  "id": "mezzanine-the-remixes",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Mezzanine - The Remixes",
+    "artist": "Massive Attack",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "1:17:29",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760040212_mezzanine_-_the_remixes"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/zxSuvszsTzJNwHDxoYz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/37jr4ng9.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "l-u-c-k-h-a-o-s",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "L U C K H A O S",
+    "artist": "Luckhaos",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758482488_l_u_c_k_h_a_o_s"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/pbaClnUvDOBRrsGbuwZO.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/skb81w.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/42p2r4ld.7z"
+    }
+  }
+}

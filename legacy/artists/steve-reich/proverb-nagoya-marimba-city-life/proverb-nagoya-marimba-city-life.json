@@ -1,0 +1,27 @@
+{
+  "id": "proverb-nagoya-marimba-city-life",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Proverb, Nagoya Marimba, City Life",
+    "artist": "Steve Reich",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756079892_steve_proverb__nagoya_marimba__city_life"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/FBFatlGpINkBFZOkejNU.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/nnw8kc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/v9bk2vf.7z"
+    }
+  }
+}

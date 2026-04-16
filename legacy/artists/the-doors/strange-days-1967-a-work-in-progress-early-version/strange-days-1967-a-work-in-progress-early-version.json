@@ -1,0 +1,24 @@
+{
+  "id": "strange-days-1967-a-work-in-progress-early-version",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Strange Days 1967: A Work In Progress (Early Version)",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "27:58",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760569531_strange_days_1967_a_work_in_progress__early_versio"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/kwKikbvuBZDgnUUBoyv.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/uaq6svwx.7z"
+    }
+  }
+}

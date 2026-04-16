@@ -1,0 +1,27 @@
+{
+  "id": "all-my-circles-run",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "All My Circles Run",
+    "artist": "Sarah Davachi",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "41:26",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761485938_all_my_circles_run"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ENDVxTkcuNqrDKCbfqNv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wcuz68.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dftcml24.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "50-anos-de-musica-ao-vivo-na-sala-minas-gerais",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "50 Anos de Música – Ao Vivo Na Sala Minas Gerais",
+    "artist": "Lô Borges",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "1:01:37",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763905476_50_anos_de_m_sica___ao_vivo_na_sala_minas_gerais"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/KQjqjfklQinSwOrmLHGk.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9n88f7ez.7z"
+    }
+  }
+}

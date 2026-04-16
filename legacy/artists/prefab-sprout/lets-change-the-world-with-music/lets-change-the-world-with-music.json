@@ -1,0 +1,24 @@
+{
+  "id": "lets-change-the-world-with-music",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Let's Change the World With Music",
+    "artist": "Prefab Sprout",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "46:22",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760300511_let_s_change_the_world_with_music"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/BKJoPvxJTkbNxqHYxSRv.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mjq3rv32.7z"
+    }
+  }
+}

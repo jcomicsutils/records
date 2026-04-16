@@ -1,0 +1,27 @@
+{
+  "id": "windows-the-music-of-steve-lacy",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Windows: The Music of Steve Lacy",
+    "artist": "Mats Gustafsson",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1753666133_windows_the_music_of_steve_lacy"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/zebmaLhPUpZTbatRpi.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/620jbh.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zyh9q5l0.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "to-the-lighthouse",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "To The Lighthouse",
+    "artist": "The Ebony Tower (incomplete)",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752264921_to_the_lighthouse"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b55/CvTyTNZuxwBrUZFQjVDL.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/t1jk9jx.7z"
+    }
+  }
+}

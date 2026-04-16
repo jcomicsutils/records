@@ -1,0 +1,27 @@
+{
+  "id": "musicasparanovela-feat-putodiparis-remix",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "#musicasparanovela (feat. Putodiparis)  (remix)",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:54",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759609440__musicasparanovela__feat__putodiparis___remix_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/rDoCFurxMUiauoWSdlNs.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gd3agh.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dw14z84.7z"
+    }
+  }
+}

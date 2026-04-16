@@ -1,0 +1,27 @@
+{
+  "id": "control",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Control",
+    "artist": "Click Click",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "19:05",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760743578_control"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/XRBDtktdHRZesHThDCx.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/kkerel.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/h34fs441.7z"
+    }
+  }
+}

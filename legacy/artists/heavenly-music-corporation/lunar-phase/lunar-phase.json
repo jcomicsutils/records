@@ -1,0 +1,24 @@
+{
+  "id": "lunar-phase",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Lunar Phase",
+    "artist": "Heavenly Music Corporation",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "57:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769193386_lunar_phase"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wkvkbwbh.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/NZUDlVaRzCnEFJNHoWvx.7z"
+    }
+  }
+}

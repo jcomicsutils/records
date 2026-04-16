@@ -1,0 +1,24 @@
+{
+  "id": "the-spiral-sacrifice",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Spiral Sacrifice",
+    "artist": "Sopor Aeternus & The Ensemble of Shadows",
+    "codec": "FLAC",
+    "num_tracks": 19,
+    "duration_human": "1:18:53",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761589656_the_spiral_sacrifice"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/CQQTNvWUWvUWKAvBheA.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/yr9ezm9.7z"
+    }
+  }
+}

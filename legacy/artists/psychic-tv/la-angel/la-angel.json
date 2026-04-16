@@ -1,0 +1,27 @@
+{
+  "id": "la-angel",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "L.A. Angel",
+    "artist": "Psychic TV",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "9:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759703206_l_a__angel"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/KQZUgnixFcwYuZyFwGkm.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2sallx.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/70y8dhlo.7z"
+    }
+  }
+}

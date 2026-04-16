@@ -1,0 +1,27 @@
+{
+  "id": "someday-the-prince-will-stay-at-home",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Someday the Prince Will Stay at Home",
+    "artist": "Anti-Delusion Mechanism",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747650120_someday_the_prince_will_stay_at_home"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/yDuWOVVQodwyatuWkbcz.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/s03srr.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/k7stuoev.7z"
+    }
+  }
+}

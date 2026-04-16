@@ -1,0 +1,27 @@
+{
+  "id": "always-running",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Always Running",
+    "artist": "Soft Kill",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:17",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759949925_always_running"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ZkwszZcuepNajpSHpcd.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/rezyju.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/e8vqd2cz.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "the-wozard-of-iz-an-electronic-odyssey",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Wozard Of Iz - An Electronic Odyssey",
+    "artist": "Mort Garson",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "29:19",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761321125_the_wozard_of_iz_-_an_electronic_odyssey"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/TVSjlfOrQGuUPfctcbIO.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/we3arf.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mrks1uvg.7z"
+    }
+  }
+}

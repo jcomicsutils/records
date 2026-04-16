@@ -1,0 +1,27 @@
+{
+  "id": "flying-cars",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Flying cars",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:08",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760900481_flying_cars"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/HURnRLVThlOIVehFPzF.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/qk0u9r.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/q2lfyg7.7z"
+    }
+  }
+}

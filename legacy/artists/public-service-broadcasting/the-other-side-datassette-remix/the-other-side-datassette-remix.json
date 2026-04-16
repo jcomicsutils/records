@@ -1,0 +1,27 @@
+{
+  "id": "the-other-side-datassette-remix",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Other Side (Datassette Remix)",
+    "artist": "Public Service Broadcasting",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "6:26",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761517170_the_other_side__datassette_remix_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/KfNJzlqtbBrCROOknSEu.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/62ym9o.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rod34io1.7z"
+    }
+  }
+}

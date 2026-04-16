@@ -1,0 +1,27 @@
+{
+  "id": "vovivizm-another-episode",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Vovivizm Another Episode",
+    "artist": "Nani∞Guru",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_human": "1:00:37",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765158416_vovivizm_another_episode"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6ccr4uz3.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/3kcc77.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/sUmKXKBuhgWcByNpOlhR.7z"
+    }
+  }
+}

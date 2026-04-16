@@ -1,0 +1,24 @@
+{
+  "id": "hauenfiomiume",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hauenfiomiume",
+    "artist": "Keiji Haino & Tatsuya Yoshida",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_human": "50:15",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764524545_hauenfiomiume"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/clSZVaIqBAUbcujsqjWe.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fycwg0wf.7z"
+    }
+  }
+}

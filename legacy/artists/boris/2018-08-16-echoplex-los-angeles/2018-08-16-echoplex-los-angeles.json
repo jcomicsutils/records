@@ -1,0 +1,27 @@
+{
+  "id": "2018-08-16-echoplex-los-angeles",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "2018-08-16 Echoplex, Los Angeles",
+    "artist": "Boris",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_human": "1:02:56",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764474883_2018-08-16_echoplex__los_angeles"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/hAGxLLWsfYpwdBGSRIFX.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/lkk823.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7k87qql1.7z"
+    }
+  }
+}

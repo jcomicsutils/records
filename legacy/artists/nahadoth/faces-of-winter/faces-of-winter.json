@@ -1,0 +1,24 @@
+{
+  "id": "faces-of-winter",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Faces of Winter",
+    "artist": "Nahadoth",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "39:20",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761336275_faces_of_winter"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/fTjgrhObANpMkMYUJDf.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2bq764k5.7z"
+    }
+  }
+}

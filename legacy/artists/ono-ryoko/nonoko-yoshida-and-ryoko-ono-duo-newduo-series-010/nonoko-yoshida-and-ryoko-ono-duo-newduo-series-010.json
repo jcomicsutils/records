@@ -1,0 +1,27 @@
+{
+  "id": "nonoko-yoshida-and-ryoko-ono-duo-newduo-series-010",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Nonoko Yoshida and Ryoko Ono DUO (NEWDUO series 010)",
+    "artist": "Ono Ryoko",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_human": "15:53",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764962416_nonoko_yoshida_and_ryoko_ono_duo__newduo_series_01"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qkmzghhh.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jym1g8.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/GkQyHuUxzStvBtVOIIET.7z"
+    }
+  }
+}

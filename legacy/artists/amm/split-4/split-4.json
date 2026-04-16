@@ -1,0 +1,27 @@
+{
+  "id": "split-4",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Split #4",
+    "artist": "AMM",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1755299932_split__4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/nwdpWtAAdsBjyJAybnrF.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2oabuw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rxppk1ys.7z"
+    }
+  }
+}

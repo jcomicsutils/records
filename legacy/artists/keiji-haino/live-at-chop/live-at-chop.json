@@ -1,0 +1,27 @@
+{
+  "id": "live-at-chop",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at Chop",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "18:52",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764797164_live_at_chop"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/e4cee8tr.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ef1gn0.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/TEthllIIYRPYCTavELho.7z"
+    }
+  }
+}

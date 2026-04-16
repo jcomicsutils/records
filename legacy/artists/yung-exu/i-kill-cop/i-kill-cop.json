@@ -1,0 +1,27 @@
+{
+  "id": "i-kill-cop",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "I KILL COP",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "1:48",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759614732_i_kill_cop"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ciitdCMShXpqSBovwRyN.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/pupc9f.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lj4gz7x9.7z"
+    }
+  }
+}

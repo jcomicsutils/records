@@ -1,0 +1,27 @@
+{
+  "id": "skugge",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Skugge",
+    "artist": "Wardruna",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "6:38",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761689537_skugge"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/KdjXwGwmcOameoqAnJT.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/dlimpe.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zeh078qr.7z"
+    }
+  }
+}

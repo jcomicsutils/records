@@ -1,0 +1,24 @@
+{
+  "id": "one-inch-punch",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "One Inch Punch",
+    "artist": "YĪN YĪN",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759190144_one_inch_punch"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/HtvrKCaXLhMYkrRPQhnz.zip"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ikgas1.zip"
+    }
+  }
+}

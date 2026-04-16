@@ -1,0 +1,24 @@
+{
+  "id": "remixes-from-the-underground",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Remixes From The Underground",
+    "artist": "Clan of Xymox",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_human": "1:30:10",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760990036_remixes_from_the_underground"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/nLIbNjeUkIjLwhdQfhXQ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nyhbg8x.7z"
+    }
+  }
+}

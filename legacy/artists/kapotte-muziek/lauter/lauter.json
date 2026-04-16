@@ -1,0 +1,24 @@
+{
+  "id": "lauter",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Lauter",
+    "artist": "Kapotte Muziek",
+    "codec": "FLAC",
+    "num_tracks": 21,
+    "duration_human": "1:48:06",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761161395_lauter"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ZXLyyiTkSMKRQCIzeuBb.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6fdp6rns.7z"
+    }
+  }
+}

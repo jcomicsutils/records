@@ -1,0 +1,24 @@
+{
+  "id": "live-archives-vol1",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live Archives Vol.1",
+    "artist": "頭士奈生樹",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "1:22:23",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768406066_live_archives_vol_1"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/c87yxqrr.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b69/glpJnFWbGspHeDVqnPSK.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "more-music-for-films",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "More Music For Films",
+    "artist": "Brian Eno",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756330348_more_music_for_films"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/cuXFlVAXLHqzpDCQEIpz.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8vqfa3.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/imh16sz.7z"
+    }
+  }
+}

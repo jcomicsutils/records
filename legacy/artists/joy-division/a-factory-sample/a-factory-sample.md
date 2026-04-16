@@ -1,0 +1,18 @@
+# Joy Division — A Factory Sample
+
+| Field | Value |
+|-------|-------|
+| Codec | MP3 |
+| Sampling Rate | Unknown |
+| Tracks | 0 |
+| Duration | Unknown |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/13012025-a-factory-sample)
+- [Fileditch](https://fileditchfiles.me/file.php?f=/s22/nBwxGEisAkRvRpLxIXIX.7z)
+- [Catbox](https://files.catbox.moe/zr4hsg.7z)
+- [Pomf2 Lain La](https://pomf2.lain.la/f/8yewi4qk.7z)
+
+---
+*Legacy Archive*

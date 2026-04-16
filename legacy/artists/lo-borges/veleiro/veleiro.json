@@ -1,0 +1,27 @@
+{
+  "id": "veleiro",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Veleiro",
+    "artist": "Lô Borges",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:52",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763919386_veleiro"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/VDxhgyxHtOqMgHPkjTc.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/l0en9y.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nissrrd2.7z"
+    }
+  }
+}

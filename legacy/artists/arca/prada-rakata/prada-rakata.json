@@ -1,0 +1,27 @@
+{
+  "id": "prada-rakata",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Prada / Rakata",
+    "artist": "Arca",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "5:14",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760305735_prada_-_rakata"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/aLhsVqcuyJvSMuinULps.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/93kafo.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/z0rvd19s.7z"
+    }
+  }
+}

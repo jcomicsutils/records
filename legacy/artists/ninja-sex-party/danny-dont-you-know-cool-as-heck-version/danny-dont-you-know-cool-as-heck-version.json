@@ -1,0 +1,27 @@
+{
+  "id": "danny-dont-you-know-cool-as-heck-version",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Danny Don't You Know (Cool as Heck Version)",
+    "artist": "Ninja Sex Party",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761344769_danny_don_t_you_know__cool_as_heck_version_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/BAdJLAJugJBdxVDKhELH.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/9lvgj4.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nku0oh4p.7z"
+    }
+  }
+}

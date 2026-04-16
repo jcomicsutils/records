@@ -1,0 +1,21 @@
+{
+  "id": "behind-closed-doors-the-rarities",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Behind Closed Doors - The Rarities",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 58,
+    "duration_human": "4:36:18",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760484680_behind_closed_doors_-_the_rarities"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/VGmkOuJrRLadOHtISSIj.7z"
+    }
+  }
+}

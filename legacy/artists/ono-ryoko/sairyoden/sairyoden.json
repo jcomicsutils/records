@@ -1,0 +1,27 @@
+{
+  "id": "sairyoden",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "菜涼田 Sairyoden",
+    "artist": "Ono Ryoko",
+    "codec": "MP3",
+    "num_tracks": 14,
+    "duration_human": "1:17:17",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764965002_____sairyoden"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3vutd62t.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/xwy5jm.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SmNdWYxhQHmsFIPRCMB.7z"
+    }
+  }
+}

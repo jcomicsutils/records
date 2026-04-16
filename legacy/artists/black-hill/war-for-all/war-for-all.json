@@ -1,0 +1,24 @@
+{
+  "id": "war-for-all",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "War For All",
+    "artist": "Black Hill",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "33:56",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760749441_war_for_all"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/kyHItsGBwoxQfUmnpGRp.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/peuub0kf.7z"
+    }
+  }
+}

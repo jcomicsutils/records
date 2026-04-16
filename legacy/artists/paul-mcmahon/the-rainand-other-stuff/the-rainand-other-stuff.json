@@ -1,0 +1,24 @@
+{
+  "id": "the-rainand-other-stuff",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Rain...and Other Stuff",
+    "artist": "Paul McMahon",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "38:25",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761413737_the_rain___and_other_stuff"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/jEkIROUCREgkxayVHhd.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/p6vf0oyu.7z"
+    }
+  }
+}

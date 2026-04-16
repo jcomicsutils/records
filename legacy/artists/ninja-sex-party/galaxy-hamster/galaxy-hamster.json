@@ -1,0 +1,27 @@
+{
+  "id": "galaxy-hamster",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Galaxy Hamster",
+    "artist": "Ninja Sex Party",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:31",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761345168_galaxy_hamster"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/plSCVDPHzQmfQeUishsb.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gn0ndf.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/v915jzhz.7z"
+    }
+  }
+}

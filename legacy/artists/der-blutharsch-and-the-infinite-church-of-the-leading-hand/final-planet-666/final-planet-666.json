@@ -1,0 +1,27 @@
+{
+  "id": "final-planet-666",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Final Planet 666",
+    "artist": "Der Blutharsch and the Infinite Church of the Leading Hand",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:07",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759952395_final_planet_666"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/EcPwefoJPnnNEfXRRx.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7o0dop.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tn4960ky.7z"
+    }
+  }
+}

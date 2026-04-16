@@ -1,0 +1,21 @@
+{
+  "id": "the-complete-studio-albums",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Complete Studio Albums",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 79,
+    "duration_human": "5:12:55",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760712832_the_complete_studio_albums"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/TOGHfbeGBpaPNVhQrApS.7z"
+    }
+  }
+}

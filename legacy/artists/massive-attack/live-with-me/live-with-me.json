@@ -1,0 +1,27 @@
+{
+  "id": "live-with-me",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live With Me",
+    "artist": "Massive Attack",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "13:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760059743_live_with_me"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/fgbsIvlBPUfdOLNIYiXd.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/csyiwt.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dd4bskjy.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "universal-frequencies",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Universal Frequencies",
+    "artist": "His Name Is Alive",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "14:59",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761155138_universal_frequencies"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/mntXnskPcJelLogslNWR.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/v63qht.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/arabitc1.7z"
+    }
+  }
+}

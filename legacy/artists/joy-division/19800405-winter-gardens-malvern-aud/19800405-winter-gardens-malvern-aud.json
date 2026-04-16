@@ -1,0 +1,27 @@
+{
+  "id": "19800405-winter-gardens-malvern-aud",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "1980.04.05 Winter Gardens, Malvern (AUD)",
+    "artist": "Joy Division",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752454410_49_-_1980_04_05_winter_gardens__malvern__aud_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/xWQsUfQejMvCBVkyzRF.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/szpmd8.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6bqjd1bj.7z"
+    }
+  }
+}

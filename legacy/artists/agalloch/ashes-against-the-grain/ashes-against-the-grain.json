@@ -1,0 +1,24 @@
+{
+  "id": "ashes-against-the-grain",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ashes Against The Grain",
+    "artist": "Agalloch",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "59:51",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760712580_ashes_against_the_grain"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/nanqfPbRZrTirTmBcKHc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lawq046f.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "songs-of-the-wolf",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Songs of the Wolf",
+    "artist": "Above the Ruins",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746042702_songs_of_the_wolf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/EUvghXhyJQoGuIzEiPvw.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/y7ic38.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/36afktbt.7z"
+    }
+  }
+}

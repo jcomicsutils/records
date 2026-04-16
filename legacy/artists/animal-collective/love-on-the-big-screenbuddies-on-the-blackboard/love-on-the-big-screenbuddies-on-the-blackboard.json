@@ -1,0 +1,27 @@
+{
+  "id": "love-on-the-big-screenbuddies-on-the-blackboard",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Love On the Big Screen/Buddies On the Blackboard",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "6:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760848346_love_on_the_big_screen_-_buddies_on_the_blackboard"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/GtTBoPsWuqjYdCerQtfs.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/1xlhp2.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/la3um88l.7z"
+    }
+  }
+}

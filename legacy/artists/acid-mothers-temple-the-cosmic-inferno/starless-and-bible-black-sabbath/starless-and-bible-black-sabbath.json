@@ -1,0 +1,24 @@
+{
+  "id": "starless-and-bible-black-sabbath",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Starless And Bible Black Sabbath",
+    "artist": "Acid Mothers Temple & The Cosmic Inferno",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "40:43",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765143176_starless_and_bible_black_sabbath"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3wyph6x8.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ouseZvdgTwSTRMbkUoqD.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "gnip-gnop-hounds-of-bairro",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Gnip Gnop / Hounds of Bairro",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "7:42",
+    "sampling_rate": "88.2kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760845492_gnip_gnop_-_hounds_of_bairro"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/sxEUqxHmPMVxcKbZpwBu.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5c5fu3.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/h5mbm95s.7z"
+    }
+  }
+}

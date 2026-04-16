@@ -1,0 +1,24 @@
+{
+  "id": "in-the-fields",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "In The Fields",
+    "artist": "Darkwood",
+    "codec": "FLAC",
+    "num_tracks": 18,
+    "duration_human": "55:55",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760924514_in_the_fields"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/NZRcglcIuwDHlwpVEsok.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/i2pi9vfi.7z"
+    }
+  }
+}

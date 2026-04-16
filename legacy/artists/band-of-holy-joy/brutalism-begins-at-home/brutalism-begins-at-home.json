@@ -1,0 +1,27 @@
+{
+  "id": "brutalism-begins-at-home",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Brutalism Begins At Home",
+    "artist": "Band of Holy Joy",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "18:11",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759946529_brutalism_begins_at_home"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/rveouLQTVNemQrlCPpsa.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/djbr6u.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ubd7rhxk.7z"
+    }
+  }
+}

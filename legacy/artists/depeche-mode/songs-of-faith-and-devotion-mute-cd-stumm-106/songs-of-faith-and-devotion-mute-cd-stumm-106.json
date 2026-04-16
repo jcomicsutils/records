@@ -1,0 +1,24 @@
+{
+  "id": "songs-of-faith-and-devotion-mute-cd-stumm-106",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Songs Of Faith And Devotion [MUTE CD STUMM 106]",
+    "artist": "Depeche Mode",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746201133_depeche_mode_-_songs_of_faith_and_devotion__1993__"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/ilmWKpMcKKxJBBJPJVzc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9r6eno.7z"
+    }
+  }
+}

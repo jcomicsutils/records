@@ -1,0 +1,27 @@
+{
+  "id": "summer-jesus",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Summer, Jesus",
+    "artist": "Soviet Soviet",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "20:56",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761513795_summer__jesus"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/vvpqrXuxxPIlqdJVNldP.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/xblbyt.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/h863w0lt.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "babylon-the-great-pt-2",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Babylon the Great, Pt. 2",
+    "artist": "Ranges",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "9:26",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759618185_babylon_the_great__pt__2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/rCMzblkauhHFoPcYTRsA.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/y88hi4.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/060uzge.7z"
+    }
+  }
+}

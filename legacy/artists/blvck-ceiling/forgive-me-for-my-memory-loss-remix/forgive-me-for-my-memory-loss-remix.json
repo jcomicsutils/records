@@ -1,0 +1,27 @@
+{
+  "id": "forgive-me-for-my-memory-loss-remix",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Forgive me for my memory loss (Remix)",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760900642_forgive_me_for_my_memory_loss__remix_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/aXKzbMRmCcsUyZYXbRG.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ue8e0u.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hsj7ag6w.7z"
+    }
+  }
+}

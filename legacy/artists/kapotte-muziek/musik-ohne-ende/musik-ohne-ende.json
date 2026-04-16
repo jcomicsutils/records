@@ -1,0 +1,24 @@
+{
+  "id": "musik-ohne-ende",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Musik Ohne Ende",
+    "artist": "Kapotte Muziek",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "54:59",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761164911_musik_ohne_ende__2022_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/uRkLzLBPUtfUMIHGuFMU.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ae6an4iu.7z"
+    }
+  }
+}

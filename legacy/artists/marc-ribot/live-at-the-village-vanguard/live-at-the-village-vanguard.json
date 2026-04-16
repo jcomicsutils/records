@@ -1,0 +1,24 @@
+{
+  "id": "live-at-the-village-vanguard",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at the Village Vanguard",
+    "artist": "Marc Ribot",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756526973_live_at_the_village_vanguard"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b57/CXZlSsItlvoQImojBG.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1497l3.7z"
+    }
+  }
+}

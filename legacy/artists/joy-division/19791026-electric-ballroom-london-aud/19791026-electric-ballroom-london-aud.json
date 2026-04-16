@@ -1,0 +1,27 @@
+{
+  "id": "19791026-electric-ballroom-london-aud",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "1979.10.26 Electric Ballroom, London (AUD)",
+    "artist": "Joy Division",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752285679_1979_10_26_electric_ballroom__london__aud_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/jfszULyEKjjBrNwybd.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/6ke3ml.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7tnk6226.7z"
+    }
+  }
+}

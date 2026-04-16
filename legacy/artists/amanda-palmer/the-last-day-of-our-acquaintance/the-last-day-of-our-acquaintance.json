@@ -1,0 +1,27 @@
+{
+  "id": "the-last-day-of-our-acquaintance",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Last Day of Our Acquaintance",
+    "artist": "Amanda Palmer",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:30",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763751958_the_last_day_of_our_acquaintance"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/fotHFDuuOXcdxivdGHVq.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ualk0m.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ihd6z1j1.7z"
+    }
+  }
+}

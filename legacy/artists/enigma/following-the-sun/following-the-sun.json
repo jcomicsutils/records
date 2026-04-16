@@ -1,0 +1,27 @@
+{
+  "id": "following-the-sun",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Following The Sun",
+    "artist": "Enigma",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "14:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761088332_following_the_sun"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/jXOshbxBTEAVkUkmiTkr.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/laj5gn.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/et6zj0oi.7z"
+    }
+  }
+}

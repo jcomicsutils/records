@@ -1,0 +1,24 @@
+{
+  "id": "museff-musical-effects-unlimited",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Museff - Musical Effects Unlimited",
+    "artist": "Claude Larson",
+    "codec": "FLAC",
+    "num_tracks": 53,
+    "duration_human": "41:37",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759712079_museff_-_musical_effects_unlimited"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/lDKrKqzBDzxyuHQJXBI.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dk6ljz21.7z"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "006-a-gaze-among-a-thousand-others",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "006. A Gaze Among a Thousand Others.",
+    "artist": "Piranesi.",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747966034_piranesi__-_006__a_gaze_among_a_thousand_others"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/ymlvwzsbyFWoFiwBoiQ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/md6dll.7z"
+    },
+    "piranesiproject_bandcamp_com": {
+      "url": "https://piranesiproject.bandcamp.com/album/006-a-gaze-among-a-thousand-others"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/e3xxok1.7z"
+    }
+  }
+}

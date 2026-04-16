@@ -1,0 +1,27 @@
+{
+  "id": "worn-kissed",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Worn. Kissed.",
+    "artist": "Mats Gustafsson",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1753670606_worn__kissed"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/tRGOzuLhJHQtFLUkslTZ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/h9izvw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/w8b7so1q.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "unreleased-demo",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Unreleased Demo",
+    "artist": "あぶらだこ",
+    "codec": "MP3",
+    "num_tracks": 11,
+    "duration_human": "20:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767209326_unreleased_demo"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ii52uu08.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/n8hjyr.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/eNRpLYHusegfpOEznvQY.7z"
+    }
+  }
+}

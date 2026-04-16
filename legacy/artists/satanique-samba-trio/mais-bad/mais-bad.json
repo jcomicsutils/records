@@ -1,0 +1,27 @@
+{
+  "id": "mais-bad",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Mais Bad",
+    "artist": "Satanique Samba Trio",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752354318_mais_bad"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/NWEBUuvkjBrwFLYoqHVU.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7fa9ls.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jyqz1kff.7z"
+    }
+  }
+}

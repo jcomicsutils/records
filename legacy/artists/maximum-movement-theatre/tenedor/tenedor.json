@@ -1,0 +1,24 @@
+{
+  "id": "tenedor",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "tenedor",
+    "artist": "Maximum Movement Theatre",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "49:22",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761338515_tenedor"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/coYLYInZftTKYYvDWzAO.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ch1ud1i4.7z"
+    }
+  }
+}

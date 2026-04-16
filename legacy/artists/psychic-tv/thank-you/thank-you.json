@@ -1,0 +1,27 @@
+{
+  "id": "thank-you",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Thank You",
+    "artist": "Psychic TV",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "17:29",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759778005_thank_you"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LkmhuiMnsFtIcXNgOms.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/tdzi38.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/g1aj85u.7z"
+    }
+  }
+}

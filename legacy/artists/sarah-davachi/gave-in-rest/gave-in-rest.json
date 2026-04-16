@@ -1,0 +1,27 @@
+{
+  "id": "gave-in-rest",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Gave in Rest",
+    "artist": "Sarah Davachi",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "42:42",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761511636_gave_in_rest"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/xexMMFIOFSCsDkFMCCck.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gh3slp.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wfnebcz1.7z"
+    }
+  }
+}

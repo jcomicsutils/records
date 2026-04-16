@@ -1,0 +1,24 @@
+{
+  "id": "anthology-1-the-compilation-tracks-1989-1997",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Anthology 1 (The Compilation Tracks 1989-1997)",
+    "artist": "Beequeen",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "38:36",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760214648_anthology_1__the_compilation_tracks_1989-1997_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/HkilYnzQPLAzImVVcjAO.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/o5gzyp7f.7z"
+    }
+  }
+}

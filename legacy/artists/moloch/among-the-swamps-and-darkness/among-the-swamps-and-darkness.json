@@ -1,0 +1,24 @@
+{
+  "id": "among-the-swamps-and-darkness",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Among The Swamps And Darkness",
+    "artist": "Moloch",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "38:14",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761308168_among_the_swamps_and_darkness__2022___2_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/QptcWNcDCyGkmkznSBUv.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fot7ale8.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "isnt-everyone",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "ISN’T EVERYONE",
+    "artist": "Nine Inch Nails",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:14",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761394170_isn_t_everyone"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SVEqmXhlVtpFXqASNWii.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/4i8rlg.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bihi9be0.7z"
+    }
+  }
+}

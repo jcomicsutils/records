@@ -1,0 +1,24 @@
+{
+  "id": "a-recycle-sampler",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Recycle Sampler",
+    "artist": "Joy Division",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/RMpWlyoMJwTOhBcbDpJW.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2ngjfo.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/aeuq2n8h.7z"
+    }
+  }
+}

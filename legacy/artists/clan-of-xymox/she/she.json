@@ -1,0 +1,27 @@
+{
+  "id": "she",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "She",
+    "artist": "Clan of Xymox",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "24:29",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "": {
+      "url": ""
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/1760994377_she"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/aiwtoJHqjlUnxPrMLJIa.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vcpl2f3m.7z"
+    }
+  }
+}

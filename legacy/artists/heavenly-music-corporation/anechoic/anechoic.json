@@ -1,0 +1,24 @@
+{
+  "id": "anechoic",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Anechoic",
+    "artist": "Heavenly Music Corporation",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "2:01:07",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769192523_anechoic"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4wcttem.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/iGqOayAVyuxKeAIebVwI.7z"
+    }
+  }
+}

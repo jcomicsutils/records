@@ -1,0 +1,27 @@
+{
+  "id": "2010-2011",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "2010-2011",
+    "artist": "Seijaku [静寂]",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_human": "49:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764535032_2010-2011"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/XvTjWQcZDSvQdtSEHjo.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/deqxgq.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/uhm26mkz.7z"
+    }
+  }
+}

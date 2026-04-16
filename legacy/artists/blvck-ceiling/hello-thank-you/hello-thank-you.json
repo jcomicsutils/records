@@ -1,0 +1,27 @@
+{
+  "id": "hello-thank-you",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hello, Thank you",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "26:55",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760903481_hello__thank_you"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/BlwqefpHSVcniUkCcxHz.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/bg7f6m.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/c99ja0z4.7z"
+    }
+  }
+}

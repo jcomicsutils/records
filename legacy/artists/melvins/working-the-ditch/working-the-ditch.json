@@ -1,0 +1,27 @@
+{
+  "id": "working-the-ditch",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Working the Ditch",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "6:32",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769315538_working_the_ditch"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/26cym917.7z"
+    },
+    "": {
+      "url": ""
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/QJyMGpTHBImDOdZmAhE.7z"
+    }
+  }
+}

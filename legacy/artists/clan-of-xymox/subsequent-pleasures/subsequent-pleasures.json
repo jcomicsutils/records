@@ -1,0 +1,24 @@
+{
+  "id": "subsequent-pleasures",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Subsequent Pleasures",
+    "artist": "Clan of Xymox",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "58:45",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760999097_subsequent_pleasures"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ADJjhTQvyuHkqONcTJcm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/o65khutx.7z"
+    }
+  }
+}

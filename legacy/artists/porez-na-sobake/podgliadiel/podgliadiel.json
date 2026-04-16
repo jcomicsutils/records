@@ -1,0 +1,27 @@
+{
+  "id": "podgliadiel",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Podgliadiel [Подглядел]",
+    "artist": "Porez Na Sobake [Порез на собаке]",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752322303__________"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/yatBwjcmsqMVGrYcvEWC.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/iz1qen.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/l3qao4jz.7z"
+    }
+  }
+}

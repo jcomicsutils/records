@@ -1,0 +1,24 @@
+{
+  "id": "amanda-palmer-goes-down-under",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Amanda Palmer Goes Down Under",
+    "artist": "Amanda Palmer",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "56:52",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763738094_amanda_palmer_goes_down_under"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/RRCBqwlYtqoXDhjDIqf.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/yf0n25gv.7z"
+    }
+  }
+}

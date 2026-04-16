@@ -1,0 +1,24 @@
+{
+  "id": "farewell-milky-way",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Farewell, Milky Way",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "1:12:54",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760307582_farewell__milky_way"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/mRpONyQhKRkdyZqwQkn.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/o4de9bzv.7z"
+    }
+  }
+}

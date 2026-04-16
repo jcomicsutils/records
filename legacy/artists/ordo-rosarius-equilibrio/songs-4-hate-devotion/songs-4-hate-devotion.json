@@ -1,0 +1,24 @@
+{
+  "id": "songs-4-hate-devotion",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Songs 4 Hate & Devotion",
+    "artist": "Ordo Rosarius Equilibrio",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "1:01:04",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761395801_songs_4_hate___devotion"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/DYeBPgPaZRsfWPFQULAz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xuw38by8.7z"
+    }
+  }
+}

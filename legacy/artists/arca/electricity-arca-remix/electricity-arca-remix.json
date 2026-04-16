@@ -1,0 +1,27 @@
+{
+  "id": "electricity-arca-remix",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Electricity (Arca Remix)",
+    "artist": "Arca",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:38",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760237386_electricity__arca_remix_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/hcxWNCPffuQbTanVIziY.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8ihift.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/o38lbclq.7z"
+    }
+  }
+}

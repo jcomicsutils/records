@@ -1,0 +1,27 @@
+{
+  "id": "rare-acetate-tracks",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Rare Acetate Tracks",
+    "artist": "Boredoms",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_human": "10:49",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765073824_rare_acetate_tracks"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/sj2vhe75.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7rhem4.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/lEBZxupubUFVfYUFrfFo.7z"
+    }
+  }
+}

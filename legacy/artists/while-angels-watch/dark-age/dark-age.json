@@ -1,0 +1,24 @@
+{
+  "id": "dark-age",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Dark Age",
+    "artist": "While Angels Watch",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "45:51",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761401666_dark_age"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/gFwYhhgeuoJiXyANGXQn.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/u0wpzo02.7z"
+    }
+  }
+}

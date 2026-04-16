@@ -1,0 +1,21 @@
+# AgoMorietur
+
+
+| Album | Codec | Duration | Hosts |
+|-------|-------|----------|-------|
+| [AUGUE](augue/augue.md) | FLAC | Unknown | [IA](https://archive.org/details/1747434576_augue) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/MCUxXNXLOQGnNmyWCyHz.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/j2954d9.7z) |
+| [Agony of the lost soul](agony-of-the-lost-soul/agony-of-the-lost-soul.md) | FLAC | Unknown | [IA](https://archive.org/details/1747432444_agony_of_the_lost_soul) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/csEKmAGOTpgZujrYEBnL.7z) [Catbox](https://files.catbox.moe/l3hfh0.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/9o4ofjhk.7z) |
+| [Broke's Death](brokes-death/brokes-death.md) | FLAC | Unknown | [IA](https://archive.org/details/1747437726_broke_s_death) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/XIjOyMYpcokZtiZxCSr.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/7rkc89w.7z) |
+| [Desolation](desolation/desolation.md) | FLAC | Unknown | [IA](https://archive.org/details/1747425464_desolation) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/KXTAlGzeqbGRYKFlcAm.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/lfam68ao.7z) |
+| [Irrational Fear](irrational-fear/irrational-fear.md) | FLAC | Unknown | [IA](https://archive.org/details/1747437659_irrational_fear) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/OxMXErzidYzDuQtOSwPL.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/h9n2vly.7z) |
+| [M.A.D.H](madh/madh.md) | FLAC | Unknown | [IA](https://archive.org/details/1747439106_m_a_d_h) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/pisCjcfLijTCIdusGX.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/oyw92iv4.7z) |
+| [Parasite](parasite/parasite.md) | FLAC | Unknown | [IA](https://archive.org/details/1747450726_parasite) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/oGpeXmojCDnuhwNqZjtx.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/u3jcr6yv.7z) |
+| [Social Captivity](social-captivity/social-captivity.md) | FLAC | Unknown | [IA](https://archive.org/details/1747428555__social_captivity_) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/pmUKxVJNlymXXEBxwUK.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/kvm6d0at.7z) |
+| [YOUALLSHOULDDIE](youallshoulddie/youallshoulddie.md) | FLAC | Unknown | [IA](https://archive.org/details/1747430664__youallshoulddie_) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/VrdHfgqdLZkHyaTwBBP.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/dt0rg3p8.7z) |
+| [||Blinded by the hate||](blinded-by-the-hate/blinded-by-the-hate.md) | FLAC | Unknown | [IA](https://archive.org/details/1747436263_blinded_by_the_hate) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/DqZFBXseoOgEetVOPZOk.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/gph539fs.7z) |
+| [||Brutal Tenderness||](brutal-tenderness/brutal-tenderness.md) | FLAC | Unknown | [IA](https://archive.org/details/1747439116_brutal_tenderness) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/ITYOqtrUcbnOjudrqPIY.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/bjapxt28.7z) |
+| [||DISCONNECTED||](disconnected/disconnected.md) | FLAC | Unknown | [IA](https://archive.org/details/1747426437_disconnected) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/yLpZUdRWnyVngVAnSRBy.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/k7bijmgs.7z) |
+| [||Eternal Pain||](eternal-pain/eternal-pain.md) | FLAC | Unknown | [IA](https://archive.org/details/1747429885_eternal_pain) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/xkwgJgGhcCafeSyUScJO.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/8kujc44z.7z) |
+| [||MEURS||](meurs/meurs.md) | FLAC | Unknown | [IA](https://archive.org/details/1747446099_meurs) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/hzmTJdNonYsGMJlmslR.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/dz9gzcwc.7z) |
+| [||TEARS and LUST||](tears-and-lust/tears-and-lust.md) | FLAC | Unknown | [IA](https://archive.org/details/1747457833_tears_and_lust) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/OuzqobHPrxexPxOBqRv.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/4uxygg0m.7z) |
+| [||instalations demo||](instalations-demo/instalations-demo.md) | FLAC | Unknown | [IA](https://archive.org/details/1747433257_instalations_demo) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/ehQjFSGMnHjLoEBQUcJq.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/abzzl5yv.7z) |

@@ -1,0 +1,24 @@
+{
+  "id": "absolutego-studio-session-2018",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Absolutego Studio Session 2018",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "45:06",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764480562_absolutego_studio_session_2018"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/gFwITeGfENKSbSFWnaDy.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zdse4yf0.7z"
+    }
+  }
+}

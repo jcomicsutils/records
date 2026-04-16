@@ -1,0 +1,24 @@
+{
+  "id": "map-of-a-blue-city",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Map of a Blue City",
+    "artist": "Marc Ribot",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756578836_map_of_a_blue_city"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b57/VtAwLPCgjZDUTJrBoRdy.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/puhlql3c.7z"
+    }
+  }
+}

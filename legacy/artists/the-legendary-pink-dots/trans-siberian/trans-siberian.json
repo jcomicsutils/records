@@ -1,0 +1,27 @@
+{
+  "id": "trans-siberian",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Trans Siberian",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "6:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760496448_trans_siberian"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PFpoEFeEsuYkbFjkQGG.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jeiraz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/f629jt6u.7z"
+    }
+  }
+}

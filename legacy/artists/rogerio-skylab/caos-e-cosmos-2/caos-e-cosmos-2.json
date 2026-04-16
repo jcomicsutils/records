@@ -1,0 +1,24 @@
+{
+  "id": "caos-e-cosmos-2",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Caos e Cosmos 2",
+    "artist": "Rogério Skylab",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757457742_caos_e_cosmos_2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/FPAijMvFPBcVpykDIgpP.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zc3itq3o.7z"
+    }
+  }
+}

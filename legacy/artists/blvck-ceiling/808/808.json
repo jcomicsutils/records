@@ -1,0 +1,27 @@
+{
+  "id": "808",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "808",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "28:18",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760893559_808"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/aWakWVZlbYBDSaWqBPWv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/419z20.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lm53jrsy.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "this-is-the-truth",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "This is the Truth",
+    "artist": "Sutcliffe Jügend",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752412929_this_is_the_truth"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/MFgPccprCzpqVjetohM.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/12zp3g0n.7z"
+    }
+  }
+}

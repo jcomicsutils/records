@@ -1,0 +1,27 @@
+{
+  "id": "time",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Time",
+    "artist": "Arca",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:45",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760311607_time"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/pMfVrLpDRbNsNPZRgHNI.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/g50edu.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wxqbrq53.7z"
+    }
+  }
+}

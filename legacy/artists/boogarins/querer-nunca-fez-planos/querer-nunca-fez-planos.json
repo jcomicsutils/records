@@ -1,0 +1,27 @@
+{
+  "id": "querer-nunca-fez-planos",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Querer Nunca Fez Planos",
+    "artist": "Boogarins",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758079998_querer_nunca_fez_planos"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/YUzcuWtaGneDWUVYDGbe.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vxkk1e.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hd6ffaen.7z"
+    }
+  }
+}

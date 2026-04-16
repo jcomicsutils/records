@@ -1,0 +1,24 @@
+{
+  "id": "decrescendo",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Decrescendo",
+    "artist": "Sorry About My Face",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "25:55",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760470276_decrescendo"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/XjvxAcRGXiAMmajPjRUe.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vsd1xigm.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "meine-alte-melancholie",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Meine alte Melancholie",
+    "artist": "Moloch",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_human": "1:03:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761324823_meine_alte_melancholie"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/GCTbzXZmIiJeiigjSps.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/xyed4o.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/5fmcfljt.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "on-the-door",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "On the Door",
+    "artist": "Amanda Palmer",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "8:03",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763744969_on_the_door"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/keLXmDSCLtJlWKjDCM.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/c59ia7.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/y4o4z0w3.7z"
+    }
+  }
+}

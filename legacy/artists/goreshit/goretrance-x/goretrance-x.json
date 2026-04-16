@@ -1,0 +1,24 @@
+{
+  "id": "goretrance-x",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Goretrance X",
+    "artist": "Goreshit",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "50:47",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760559612_goretrance_x"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MJKivydMbubUKmMLBSXU.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9453mywf.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "les-bois-rouges",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Les bois rouges",
+    "artist": "Félicia Atkinson",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "46:35",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767035195_les_bois_rouges"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/s9a4pskz.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/y4sfi9.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/nFWjNJCAgelunBqVVsQe.7z"
+    }
+  }
+}

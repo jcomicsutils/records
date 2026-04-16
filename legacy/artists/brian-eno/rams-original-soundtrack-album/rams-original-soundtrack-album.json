@@ -1,0 +1,27 @@
+{
+  "id": "rams-original-soundtrack-album",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Rams - Original Soundtrack Album",
+    "artist": "Brian Eno",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756346530_rams_-_original_soundtrack_album"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/ODPJSaPTWaPQgQpMVlwg.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/p02ptb.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7ey7z2s3.7z"
+    }
+  }
+}

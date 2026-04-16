@@ -1,0 +1,27 @@
+{
+  "id": "high-visceral-b-sides",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "High Visceral (B-Sides)",
+    "artist": "Psychedelic Porn Crumpets",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "18:44",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760494667_high_visceral__b-sides_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PVqApjnpjjfajaTHdVK.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/u8rx2c.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fas3ettq.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "space-as-an-instrument",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Space As An Instrument",
+    "artist": "Félicia Atkinson",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "38:08",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767042616_space_as_an_instrument"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wo0ukct3.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/dbinq1.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/IfcClVDDFzZvBrDQzLeX.7z"
+    }
+  }
+}

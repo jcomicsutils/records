@@ -1,0 +1,27 @@
+{
+  "id": "people-lets-dance",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "People, Let's Dance",
+    "artist": "Public Service Broadcasting",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:31",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761512526_people__let_s_dance"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/lYXNBkaSSpHFSWFbJGkw.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/3t2wos.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/na7ahcmh.7z"
+    }
+  }
+}

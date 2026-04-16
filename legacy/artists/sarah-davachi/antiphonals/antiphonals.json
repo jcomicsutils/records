@@ -1,0 +1,24 @@
+{
+  "id": "antiphonals",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Antiphonals",
+    "artist": "Sarah Davachi",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "44:11",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761486927_antiphonals"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/GWAgmleOHVuWokXCUlrE.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/so8wuqyz.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "mea-culpa-part-ii",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Mea Culpa (Part II)",
+    "artist": "Enigma",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "14:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761146460_mea_culpa__part_ii_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/aeqFgcKcvrGEXbmZVjZf.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/crx1ww.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/j7ylnont.7z"
+    }
+  }
+}

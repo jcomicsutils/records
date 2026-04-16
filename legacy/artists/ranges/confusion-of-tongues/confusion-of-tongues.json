@@ -1,0 +1,27 @@
+{
+  "id": "confusion-of-tongues",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Confusion of Tongues",
+    "artist": "Ranges",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "18:40",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759623419_confusion_of_tongues"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/jhmwBbvBxoPSnQTmdxM.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/qn0ecq.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/pnor65d.7z"
+    }
+  }
+}

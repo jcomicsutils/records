@@ -1,0 +1,24 @@
+{
+  "id": "rebore-vol-0-vision-recreation-by-eye",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Rebore Vol. 0: Vision Recreation by Eye",
+    "artist": "Boredoms",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "50:29",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765073891_rebore_vol__0_vision_recreation_by_eye"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fvqe3ulj.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/JDdFJxpgftLTUoNigQX.7z"
+    }
+  }
+}

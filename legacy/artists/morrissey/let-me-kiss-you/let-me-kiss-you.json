@@ -1,0 +1,24 @@
+{
+  "id": "let-me-kiss-you",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Let Me Kiss You",
+    "artist": "Morrissey",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754908929_2004_-_let_me_kiss_you__cd_1_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/mPlHAtWSRrTPeTohbxZ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6jfa4pmn.7z"
+    }
+  }
+}

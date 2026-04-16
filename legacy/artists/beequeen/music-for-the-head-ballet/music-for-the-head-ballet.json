@@ -1,0 +1,24 @@
+{
+  "id": "music-for-the-head-ballet",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Music for the Head Ballet",
+    "artist": "Beequeen",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "1:06:15",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760229660_music_for_the_head_ballet"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/YwQFrBTROUuUBpRfkoZh.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nvqo4a2.7z"
+    }
+  }
+}

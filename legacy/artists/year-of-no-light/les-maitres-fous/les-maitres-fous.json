@@ -1,0 +1,27 @@
+{
+  "id": "les-maitres-fous",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Les Maîtres Fous",
+    "artist": "Year of No Light",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "29:16",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761585833_les_ma_tres_fous"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/JkUxSHqIHLczEqbDDNNp.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/pukr8y.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/c49k6t93.7z"
+    }
+  }
+}

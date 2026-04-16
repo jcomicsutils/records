@@ -1,0 +1,27 @@
+{
+  "id": "macula-kuru",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Macula Kuru",
+    "artist": "Mitsuru Tabata",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_human": "41:17",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765051906_macula_kuru"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/21yxf83.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/qa5vbu.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/wHbAGvLpDCgQmECrvYoW.7z"
+    }
+  }
+}

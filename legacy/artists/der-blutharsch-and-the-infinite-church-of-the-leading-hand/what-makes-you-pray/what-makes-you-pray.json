@@ -1,0 +1,24 @@
+{
+  "id": "what-makes-you-pray",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "What Makes You Pray",
+    "artist": "Der Blutharsch and the Infinite Church of the Leading Hand",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "46:03",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759966569_what_makes_you_pray"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/dLEOrjdqmfFQMdEJOdl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/85vyaj8s.7z"
+    }
+  }
+}

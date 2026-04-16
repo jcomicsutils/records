@@ -1,0 +1,27 @@
+{
+  "id": "scion-av-remix-electric-flower",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Scion A/V Remix: Electric Flower",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "28:26",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769307743_scion_a_-_v_remix_electric_flower"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ryocm1rm.7z"
+    },
+    "": {
+      "url": ""
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/OrSDynOAXSJIYNXYnOqB.7z"
+    }
+  }
+}

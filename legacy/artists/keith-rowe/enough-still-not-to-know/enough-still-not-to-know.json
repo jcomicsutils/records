@@ -1,0 +1,24 @@
+{
+  "id": "enough-still-not-to-know",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Enough Still Not To Know",
+    "artist": "Keith Rowe",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1755389416_enough_still_not_to_know"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b57/pmPYEkUeEeQIjQRjYOyG.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wx1qotz2.7z"
+    }
+  }
+}

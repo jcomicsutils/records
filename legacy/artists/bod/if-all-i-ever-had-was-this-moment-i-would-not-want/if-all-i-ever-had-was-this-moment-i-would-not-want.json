@@ -1,0 +1,27 @@
+{
+  "id": "if-all-i-ever-had-was-this-moment-i-would-not-want",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "if all i ever had was this moment i would not want",
+    "artist": "bod [包家巷]",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:14",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766770716_if_all_i_ever_had_was_this_moment_i_would_not_want"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6lt9ikfq.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/32m5y9.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/rHzeDjzwBznVwXQHQkco.7z"
+    }
+  }
+}

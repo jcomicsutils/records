@@ -1,0 +1,27 @@
+{
+  "id": "split-ep",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Split EP",
+    "artist": "Moloch",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "13:29",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761346774_split_ep"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/dFoAzJlcdXagaeUDoXE.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/yzqn35.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rw1up8bb.7z"
+    }
+  }
+}

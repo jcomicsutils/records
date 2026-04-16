@@ -1,0 +1,27 @@
+{
+  "id": "flow-uzumaki-feat-wesker",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Flow Uzumaki (feat. Wesker)",
+    "artist": "Luckhaos",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758481767_flow_uzumaki__feat__wesker_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/odZawietugEMshFynWP.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/40vnks.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/aviyj4h8.7z"
+    }
+  }
+}

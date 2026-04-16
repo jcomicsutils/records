@@ -1,0 +1,27 @@
+{
+  "id": "your-music",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Your Music 消失音乐（家）无声, 翻译失败（没）注意",
+    "artist": "bod [包家巷]",
+    "codec": "MP3",
+    "num_tracks": 8,
+    "duration_human": "29:26",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766788957_your_music_____________________"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tbka7hrs.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5otaya.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/uwCigIvqoTIRwPoBbZYL.7z"
+    }
+  }
+}

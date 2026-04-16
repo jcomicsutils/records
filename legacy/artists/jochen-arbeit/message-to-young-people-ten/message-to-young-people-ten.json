@@ -1,0 +1,27 @@
+{
+  "id": "message-to-young-people-ten",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Message to Young People (TEN!)",
+    "artist": "Jochen Arbeit",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "6:14",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760394678_message_to_young_people__ten__"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ZghlZqJlTDGHgRWNViYI.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/we4hlo.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/x1ls99yd.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "sun-kil-moon-and-amoeba-vol-ii",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sun Kil Moon and Amoeba, Vol. II",
+    "artist": "Sun Kil Moon",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "1:01:20",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768687848_sun_kil_moon_and_amoeba__vol__ii"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ym9azj4o.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/cjgSdnkmElqbtMhthOEe.7z"
+    }
+  }
+}

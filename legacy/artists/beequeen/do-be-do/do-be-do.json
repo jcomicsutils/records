@@ -1,0 +1,24 @@
+{
+  "id": "do-be-do",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Do Be Do",
+    "artist": "Beequeen",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "1:12:38",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760224950_do_be_do"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/JkgHJANrGHaNMQxASuF.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gn97ybi0.7z"
+    }
+  }
+}

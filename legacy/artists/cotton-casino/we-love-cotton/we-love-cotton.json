@@ -1,0 +1,24 @@
+{
+  "id": "we-love-cotton",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "We Love Cotton",
+    "artist": "Cotton Casino",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "47:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764954597_we_love_cotton"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/86epd2gn.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/HKpFDdEeonrySeGTUuw.7z"
+    }
+  }
+}

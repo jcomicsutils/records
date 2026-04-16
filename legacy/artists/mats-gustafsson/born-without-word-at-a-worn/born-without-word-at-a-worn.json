@@ -1,0 +1,27 @@
+{
+  "id": "born-without-word-at-a-worn",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Born Without Word / At a Worn",
+    "artist": "Mats Gustafsson",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1753657796_born_without_word_-_at_a_worn"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/YdcfUrBLMIVmsqOVihkV.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/9c7zpt.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tfk6m958.7z"
+    }
+  }
+}

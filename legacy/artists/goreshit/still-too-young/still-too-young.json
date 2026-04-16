@@ -1,0 +1,24 @@
+{
+  "id": "still-too-young",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "(still) too young",
+    "artist": "Goreshit",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:01",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760481714__still__too_young"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/gjUtaiYDPjIFStqFkhEo.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/j7fb3ak5.7z"
+    }
+  }
+}

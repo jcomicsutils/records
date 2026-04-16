@@ -1,0 +1,27 @@
+{
+  "id": "songs",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Songs",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_human": "42:18",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764808874_songs"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/e8thioqu.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/nlz6pu.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/eRYHDpPTQFsJjBvBuPVu.7z"
+    }
+  }
+}

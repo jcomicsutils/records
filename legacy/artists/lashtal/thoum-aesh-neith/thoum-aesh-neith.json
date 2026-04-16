@@ -1,0 +1,24 @@
+{
+  "id": "thoum-aesh-neith",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Thoum Aesh Neith",
+    "artist": "LAShTAL",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752295128_thoum_aesh_neith"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/YVcmyLBEvclhzMJACwae.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mflthgkt.7z"
+    }
+  }
+}

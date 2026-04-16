@@ -1,0 +1,21 @@
+{
+  "id": "isnt-it-now",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Isn’t It Now?",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "1:09:57",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760802900_isn_t_it_now"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/OhjoJNWuZqEbmuMvLsr.7z"
+    }
+  }
+}

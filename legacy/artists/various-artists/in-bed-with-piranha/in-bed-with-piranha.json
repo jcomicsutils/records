@@ -1,0 +1,27 @@
+{
+  "id": "in-bed-with-piranha",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "In Bed With Piranha",
+    "artist": "Various Artists",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747117290_in_bed_with_piranha"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/GHuFSyhRhjctsOUfmCFt.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/a2nsop.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/uuzg5abj.7z"
+    }
+  }
+}

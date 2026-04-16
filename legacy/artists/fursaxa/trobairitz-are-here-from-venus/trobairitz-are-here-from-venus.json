@@ -1,0 +1,27 @@
+{
+  "id": "trobairitz-are-here-from-venus",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Trobairitz Are Here From Venus",
+    "artist": "Fursaxa",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746331226_trobairitz_are_here_from_venus"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/chQEukFIHzYUjtQWuIh.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/d3kbg1.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/60b1ejls.7z"
+    }
+  }
+}

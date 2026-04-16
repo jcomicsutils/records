@@ -1,0 +1,27 @@
+{
+  "id": "reflection-excerpt",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Reflection (Excerpt)",
+    "artist": "Brian Eno",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756348992_reflection__excerpt_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/iuslKXzirFHWyBMocbzz.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/r06ur6.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6gwesyou.7z"
+    }
+  }
+}

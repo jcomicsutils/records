@@ -1,0 +1,24 @@
+{
+  "id": "from-here-youll-watch-the-world-go-by-remastered",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "From Here You’ll Watch the World Go By (Remastered)",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_human": "1:15:54",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760313604_from_here_you_ll_watch_the_world_go_by__remastered"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/InWREXeXJgKtxfSTsZt.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/da0w7kkn.7z"
+    }
+  }
+}

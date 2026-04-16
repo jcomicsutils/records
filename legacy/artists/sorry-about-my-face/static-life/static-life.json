@@ -1,0 +1,24 @@
+{
+  "id": "static-life",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Static life",
+    "artist": "Sorry About My Face",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "22:35",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760494424_static_life"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/reEgUATOFjaUsGjwyARX.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/cfxx81h9.7z"
+    }
+  }
+}

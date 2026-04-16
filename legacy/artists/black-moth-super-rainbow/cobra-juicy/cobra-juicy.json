@@ -1,0 +1,24 @@
+{
+  "id": "cobra-juicy",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Cobra Juicy",
+    "artist": "Black Moth Super Rainbow",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "39:06",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760898861_cobra_juicy"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/lUEDBZVrJXhgBAzGYfW.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/m3j02nya.7z"
+    }
+  }
+}

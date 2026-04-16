@@ -1,0 +1,24 @@
+{
+  "id": "live-at-roadburn-2008-live-at-roadburn-tilburg-nl-2008",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live At Roadburn, 2008 (Live At Roadburn, Tilburg, NL, 2008)",
+    "artist": "Year of No Light",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "59:54",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761587657_live_at_roadburn__2008__live_at_roadburn__tilburg_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/pWqrYDkNEishgRBuAsem.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/pru8hkj.7z"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+# Year of No Light — Sar Ha-Olam
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | 44.1kHz |
+| Tracks | 1 |
+| Duration | 7:07 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/1761598770_sar_ha-olam)
+- [Fileditch](https://fileditchfiles.me/file.php?f=/s24/xIGlRhpFFPyzOrSlEtNG.7z)
+- [Catbox](https://files.catbox.moe/2ye3da.7z)
+- [Pomf2 Lain La](https://pomf2.lain.la/f/kl2f4w6.7z)
+
+---
+*Legacy Archive*

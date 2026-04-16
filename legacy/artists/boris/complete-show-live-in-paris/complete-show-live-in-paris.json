@@ -1,0 +1,27 @@
+{
+  "id": "complete-show-live-in-paris",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Complete Show Live In Paris",
+    "artist": "Boris",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_human": "1:26:59",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764472103_complete_show_live_in_paris"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PBpEwldmDkhdCcrCXKBr.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/02x4xk.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ds68dxxn.7z"
+    }
+  }
+}

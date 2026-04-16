@@ -1,0 +1,24 @@
+{
+  "id": "party-intellectuals",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Party Intellectuals",
+    "artist": "Marc Ribot",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756586821_party_intellectuals"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/DOCjgJPTuUqKpOuazqex.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/g48jdc00.7z"
+    }
+  }
+}

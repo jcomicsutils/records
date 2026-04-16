@@ -1,0 +1,24 @@
+{
+  "id": "paradise",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Paradise",
+    "artist": "頭士奈生樹",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "52:06",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768406841_paradise"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/41q8yyp2.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b69/WfmvicYjutAUQBhGDdyp.7z"
+    }
+  }
+}

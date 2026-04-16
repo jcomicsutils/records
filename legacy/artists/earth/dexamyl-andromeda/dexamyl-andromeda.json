@@ -1,0 +1,24 @@
+{
+  "id": "dexamyl-andromeda",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Dexamyl / Andromeda",
+    "artist": "Earth",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "55:16",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763920922_dexamyl_-_andromeda"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/xyjxvkLqAcTxvCrsZwPS.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qr1f5tdb.7z"
+    }
+  }
+}

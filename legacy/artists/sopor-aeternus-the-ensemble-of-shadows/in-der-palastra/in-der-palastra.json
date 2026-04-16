@@ -1,0 +1,27 @@
+{
+  "id": "in-der-palastra",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "In der Palästra",
+    "artist": "Sopor Aeternus & The Ensemble of Shadows",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "14:18",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761515949_in_der_pal_stra"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/qIzWeqAlqSUbbRgNuNm.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/a8rzun.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/t7a2fm6m.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "sonder",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "sonder",
+    "artist": "Maximum Movement Theatre",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "47:12",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761323739_sonder"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/OboTgSFxumjvThIOUNCW.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rc2nkcua.7z"
+    }
+  }
+}

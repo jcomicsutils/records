@@ -1,0 +1,27 @@
+{
+  "id": "roses-all-around-single",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Roses All Around  (Single)",
+    "artist": "Soft Kill",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:26",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760035053_roses_all_around__single_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/uSkVpgCpUwDgCbrsoKCJ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/s4hsap.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/sz0ldq6v.7z"
+    }
+  }
+}

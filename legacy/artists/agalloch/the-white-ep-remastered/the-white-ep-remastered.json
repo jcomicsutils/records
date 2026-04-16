@@ -1,0 +1,24 @@
+{
+  "id": "the-white-ep-remastered",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The White EP (Remastered)",
+    "artist": "Agalloch",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "37:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760733104_the_white_ep__remastered_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PhqmnbPehxeWmnNjXOKA.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/pwmyqhsw.7z"
+    }
+  }
+}

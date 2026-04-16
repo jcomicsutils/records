@@ -1,0 +1,27 @@
+{
+  "id": "glitnir",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Glitnir",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:06",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760745495_glitnir"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/kTvVKWumUdxAXJZmmjnp.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/bulxso.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mfgtsvkk.7z"
+    }
+  }
+}

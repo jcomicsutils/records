@@ -1,0 +1,24 @@
+{
+  "id": "so-lonely-in-heaven",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "So Lonely In Heaven",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "1:03:19",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760320101_so_lonely_in_heaven"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/JhFxkNHlPdCuxmAnoaCN.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/d4p0hsuk.7z"
+    }
+  }
+}

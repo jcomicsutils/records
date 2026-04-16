@@ -1,0 +1,27 @@
+{
+  "id": "living-in-the-gleam-of-an-unsheathed-sword",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Living In The Gleam Of An Unsheathed Sword",
+    "artist": "Earth",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_human": "1:13:23",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763925008_living_in_the_gleam_of_an_unsheathed_sword"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ZcbGtnRDAixMLVEtuqoZ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/r0zz6o.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2svy17xx.7z"
+    }
+  }
+}

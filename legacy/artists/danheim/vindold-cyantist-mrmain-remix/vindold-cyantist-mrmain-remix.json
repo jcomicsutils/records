@@ -1,0 +1,27 @@
+{
+  "id": "vindold-cyantist-mrmain-remix",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Vindöld (Cyantist & Mr.Main Remix)",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:27",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760808857_vind_ld__cyantist___mr_main_remix_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/HTrCeHqsZYmZibfBpnKt.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/cpdhmc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/o9gzrj35.7z"
+    }
+  }
+}

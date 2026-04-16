@@ -1,0 +1,24 @@
+{
+  "id": "endingreturning",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ending/Returning",
+    "artist": "Steven R. Smith",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_human": "1:10:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769914760_ending_-_returning"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hdwxxzmq.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/zdENlNtUoawwbxzZdwf.7z"
+    }
+  }
+}

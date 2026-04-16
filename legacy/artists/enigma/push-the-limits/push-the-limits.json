@@ -1,0 +1,27 @@
+{
+  "id": "push-the-limits",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Push The Limits",
+    "artist": "Enigma",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "22:19",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761077181_push_the_limits"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/qXrdhFExfSCikDAUtgZl.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2aybga.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bv7m8m4e.7z"
+    }
+  }
+}

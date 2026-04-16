@@ -1,0 +1,24 @@
+{
+  "id": "imperial",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Imperial",
+    "artist": "Robin Guthrie",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756668389_imperial"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/YcrxbetaOOBvhPGPDNH.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/evhcxz.7z"
+    }
+  }
+}

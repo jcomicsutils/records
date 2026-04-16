@@ -1,0 +1,24 @@
+{
+  "id": "live-at-roadburn-2018",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at Roadburn 2018",
+    "artist": "Hell",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "56:23",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763934086_live_at_roadburn_2018"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ScazMnxoWaLlVxVkfwN.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/amfnev8z.7z"
+    }
+  }
+}

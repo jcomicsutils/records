@@ -1,0 +1,21 @@
+{
+  "id": "splitshit",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "splitshit",
+    "artist": "Goreshit",
+    "codec": "FLAC",
+    "num_tracks": 50,
+    "duration_human": "2:18:51",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760538086_splitshit"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/IaBUkYXZhUTFlvGjVgEO.7z"
+    }
+  }
+}

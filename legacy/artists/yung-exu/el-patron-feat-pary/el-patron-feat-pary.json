@@ -1,0 +1,27 @@
+{
+  "id": "el-patron-feat-pary",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "EL PATRON (feat. Pary!)",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:31",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759614184_el_patron__feat__pary__"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/IbLICwQUpmtvxFxUqeUN.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/e9gq6p.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lqfb9t.7z"
+    }
+  }
+}

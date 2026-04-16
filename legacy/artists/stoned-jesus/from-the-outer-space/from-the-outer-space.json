@@ -1,0 +1,24 @@
+{
+  "id": "from-the-outer-space",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "From the Outer Space",
+    "artist": "Stoned Jesus",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "48:17",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760474286_from_the_outer_space"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/YYiAalMnMtfJXSQMQdI.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/cw6bi360.7z"
+    }
+  }
+}

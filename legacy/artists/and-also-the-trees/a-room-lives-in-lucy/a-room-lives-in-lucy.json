@@ -1,0 +1,27 @@
+{
+  "id": "a-room-lives-in-lucy",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Room Lives In Lucy",
+    "artist": "And Also the Trees",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747585987_a_room_lives_in_lucy"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/NgXSifgCcdwnVradUQAu.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0wa1aw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fjy578bo.7z"
+    }
+  }
+}

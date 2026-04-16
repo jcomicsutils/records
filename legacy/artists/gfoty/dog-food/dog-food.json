@@ -1,0 +1,27 @@
+{
+  "id": "dog-food",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Dog Food",
+    "artist": "GFOTY",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "14:26",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760470401_dog_food"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/FXjcITNUNlpfEYfapTgK.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/aotcbz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/19sveteg.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "blissing-me",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Blissing Me",
+    "artist": "Arca",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:05",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760234428_blissing_me"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MhmtBdxiDlEirxWknXxb.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/qdbaj3.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/v2h8t59x.7z"
+    }
+  }
+}

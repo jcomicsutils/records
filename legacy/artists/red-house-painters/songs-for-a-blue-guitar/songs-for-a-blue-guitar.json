@@ -1,0 +1,24 @@
+{
+  "id": "songs-for-a-blue-guitar",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Songs for a Blue Guitar",
+    "artist": "Red House Painters",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "1:10:48",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768680367_songs_for_a_blue_guitar"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/s6zen3lq.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/mvuzhCMNszTpQuqEfVvY.7z"
+    }
+  }
+}

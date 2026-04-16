@@ -1,0 +1,27 @@
+{
+  "id": "boris-tomsk-7",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Boris / Tomsk 7",
+    "artist": "Boris",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_human": "11:33",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764467737_boris_-_tomsk_7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/dustFjvcqBKhvJqcuyHB.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/meca3x.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/v6yn2vox.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "cop-young-god",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Cop / Young God",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "1:05:14",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759971809_cop_-_young_god"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/WGiVbzLabgFQngqhLUkZ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wo8hmqo1.7z"
+    }
+  }
+}

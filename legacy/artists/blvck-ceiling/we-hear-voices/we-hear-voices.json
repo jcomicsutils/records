@@ -1,0 +1,27 @@
+{
+  "id": "we-hear-voices",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "We hear voices",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "1:54",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760915840_we_hear_voices"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/BpszknlqFCGANrgFrwdX.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/bwhasr.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6pbqyp50.7z"
+    }
+  }
+}

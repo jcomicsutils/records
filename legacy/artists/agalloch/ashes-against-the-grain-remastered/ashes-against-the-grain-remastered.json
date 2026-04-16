@@ -1,0 +1,24 @@
+{
+  "id": "ashes-against-the-grain-remastered",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ashes Against The Grain (Remastered)",
+    "artist": "Agalloch",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "1:00:02",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760714473_ashes_against_the_grain__remastered_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/OJmsQspUJqGWkvddTVy.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ray2pwc.7z"
+    }
+  }
+}

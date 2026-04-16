@@ -1,0 +1,18 @@
+{
+  "id": "wao-wao",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Wao! Wao!",
+    "artist": "Various Artists",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1755436370_v_a__wao__wao__tears_compilations_tear_266__89"
+    }
+  }
+}

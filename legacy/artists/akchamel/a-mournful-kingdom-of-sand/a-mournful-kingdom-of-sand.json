@@ -1,0 +1,24 @@
+{
+  "id": "a-mournful-kingdom-of-sand",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Mournful Kingdom Of Sand",
+    "artist": "Ak'chamel",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1751931251_a_mournful_kingdom_of_sand"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/cIWNtiuUTLYQAOYUpnlB.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/r19g0t.7z"
+    }
+  }
+}

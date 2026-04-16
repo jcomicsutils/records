@@ -1,0 +1,24 @@
+{
+  "id": "love-of-life",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Love of Life",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_human": "53:58",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760048100_love_of_life"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/AwmwoJPsokFgFmQXByHm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/luktpb8j.7z"
+    }
+  }
+}

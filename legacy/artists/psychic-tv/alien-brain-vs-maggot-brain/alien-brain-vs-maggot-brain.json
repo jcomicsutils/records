@@ -1,0 +1,27 @@
+{
+  "id": "alien-brain-vs-maggot-brain",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Alien Brain vs. Maggot Brain",
+    "artist": "Psychic TV",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "27:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759674437_alien_brain_vs__maggot_brain"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PafERNInmxXbkQuiqsHp.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/emae5t.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2keaiwdg.7z"
+    }
+  }
+}

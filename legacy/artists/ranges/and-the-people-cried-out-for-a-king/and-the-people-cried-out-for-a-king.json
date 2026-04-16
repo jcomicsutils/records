@@ -1,0 +1,27 @@
+{
+  "id": "and-the-people-cried-out-for-a-king",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "And the People Cried out for a King",
+    "artist": "Ranges",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "8:59",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759615098_and_the_people_cried_out_for_a_king"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/BoODQLhKhiNoylgcbABF.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/o3fxa3.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ldenrm4.7z"
+    }
+  }
+}

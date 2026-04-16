@@ -1,0 +1,24 @@
+{
+  "id": "devil-in-the-woods-diw-32",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Devil in the Woods DIW #32",
+    "artist": "Red House Painters",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "13:09",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768677090_devil_in_the_woods_diw__32"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gqm2mob.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/VWOLQapfbgaOSIPhlOr.7z"
+    }
+  }
+}

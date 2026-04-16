@@ -1,0 +1,27 @@
+{
+  "id": "vincent-van-gogh",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Vincent Van Gogh",
+    "artist": "Aphex Twin",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757030039_vincent_van_gogh"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/NoWjSzLnJcMWCtCfhep.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/l3l20l.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3ol8fibl.7z"
+    }
+  }
+}

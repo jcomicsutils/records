@@ -1,0 +1,24 @@
+{
+  "id": "die-tur-ist-zu",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Die Tür Ist Zu",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "55:08",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759974644_die_t_r_ist_zu"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/YFgtwEHJcbCkfFnFYMv.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/byn11g6r.7z"
+    }
+  }
+}

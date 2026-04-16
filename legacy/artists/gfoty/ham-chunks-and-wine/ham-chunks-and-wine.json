@@ -1,0 +1,27 @@
+{
+  "id": "ham-chunks-and-wine",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ham Chunks and Wine",
+    "artist": "GFOTY",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "17:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760474798_ham_chunks_and_wine"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/RsXBYPTYibrxIvqIKCGn.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/xyg8yb.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vl016ueb.7z"
+    }
+  }
+}

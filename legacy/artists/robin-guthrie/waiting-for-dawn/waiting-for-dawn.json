@@ -1,0 +1,27 @@
+{
+  "id": "waiting-for-dawn",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Waiting For Dawn",
+    "artist": "Robin Guthrie",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756681249_waiting_for_dawn"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/bJJcBACeEZmyQPUgOzCW.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/kfub7d.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0ka361gm.7z"
+    }
+  }
+}

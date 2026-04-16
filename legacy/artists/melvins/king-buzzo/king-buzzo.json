@@ -1,0 +1,27 @@
+{
+  "id": "king-buzzo",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "King Buzzo",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "13:51",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769317827_king_buzzo"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8hlm7jyx.7z"
+    },
+    "": {
+      "url": ""
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/eeRdcjJpzGodyVVwLLCF.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "pure-misanthropia",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Pure Misanthropia",
+    "artist": "Stalaggh",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752350330_pure_misanthropia"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/YZZvVHtxNHOnooNaayBC.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/trumgody.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "dilemma-us-from-evil",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Dilemma Us from Evil",
+    "artist": "Psychedelic Porn Crumpets",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "10:24",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760490681_dilemma_us_from_evil"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/TxVQiqPXzFAHgruJPyb.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/eal49k.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qu05wwmv.7z"
+    }
+  }
+}

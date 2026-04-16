@@ -1,0 +1,27 @@
+{
+  "id": "live-at-rockpalast-1998",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at Rockpalast 1998",
+    "artist": "Anne Clark",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747597027_live_at_rockpalast_1998"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/ZeSGdDKTqmcAbOsepCIl.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gzou6g.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mylysp9.7z"
+    }
+  }
+}

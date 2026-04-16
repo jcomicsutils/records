@@ -1,0 +1,24 @@
+{
+  "id": "sravaka",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Śrāvaka [声聞]",
+    "artist": "Vajra",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "34:49",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764541283__r_vaka_____"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/vtjnJcbDSGSUKLneSsG.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1nkvoff.7z"
+    }
+  }
+}

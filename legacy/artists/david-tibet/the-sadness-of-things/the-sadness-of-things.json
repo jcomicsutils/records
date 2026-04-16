@@ -1,0 +1,24 @@
+{
+  "id": "the-sadness-of-things",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Sadness of Things",
+    "artist": "David Tibet",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747770370_the_sadness_of_things"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s21/sqKrxmpIXJGRVlhiPNYK.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zherwx26.7z"
+    }
+  }
+}

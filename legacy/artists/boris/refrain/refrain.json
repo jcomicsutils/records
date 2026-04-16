@@ -1,0 +1,27 @@
+{
+  "id": "refrain",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Refrain [リフレイン]",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "33:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764486264_refrain________"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/nfEDtCiKDdsiUQVAeSvw.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/he0zdo.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4plu642z.7z"
+    }
+  }
+}

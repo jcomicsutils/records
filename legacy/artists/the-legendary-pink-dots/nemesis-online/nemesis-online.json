@@ -1,0 +1,24 @@
+{
+  "id": "nemesis-online",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Nemesis Online",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "58:23",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760282378_nemesis_online"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/HIQToetTtwiNSHPBUL.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/scc98xko.7z"
+    }
+  }
+}

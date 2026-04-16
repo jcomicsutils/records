@@ -1,0 +1,24 @@
+{
+  "id": "live-in-tokyo",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live in Tokyo",
+    "artist": "Ground-Zero",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752183143_live_in_tokyo"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/UFbsidmhXFRlkkJFaoO.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/55i8gv3.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "island-of-jewels-2021-remaster",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Island of Jewels (2021 Remaster)",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 20,
+    "duration_human": "1:20:15",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760390067_island_of_jewels__2021_remaster_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/aTjpWuRcGoKoBMzXzcU.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ix53b1hu.7z"
+    }
+  }
+}

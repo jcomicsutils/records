@@ -1,0 +1,24 @@
+{
+  "id": "wsie",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Wsie",
+    "artist": "Wsie",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752457514_wsie"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/xBjEIMMyxhQhgJMMcsP.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/sprmdagz.7z"
+    }
+  }
+}

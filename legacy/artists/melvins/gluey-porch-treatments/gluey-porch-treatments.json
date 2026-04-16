@@ -1,0 +1,24 @@
+{
+  "id": "gluey-porch-treatments",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Gluey Porch Treatments",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 29,
+    "duration_human": "1:01:01",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769313351_gluey_porch_treatments"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4lxhe0hi.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/VSpNARVFxPFQDTBwbxD.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "theyre-coming-to-take-me-away-ha-haaa",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "They're Coming to Take Me Away, Ha-Haaa!",
+    "artist": "Napoleon XIV",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:14",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759949839_they_re_coming_to_take_me_away__ha-haaa___1966_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LhOoqqqIfvNTAxZnbdhm.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/3dbpoq.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8y95e7e3.7z"
+    }
+  }
+}

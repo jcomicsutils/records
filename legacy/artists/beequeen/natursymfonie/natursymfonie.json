@@ -1,0 +1,24 @@
+{
+  "id": "natursymfonie",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Natursymfonie",
+    "artist": "Beequeen",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "38:37",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760231828_natursymfonie"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/yiRxsrDobFDKktxUObEM.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8a5famil.7z"
+    }
+  }
+}

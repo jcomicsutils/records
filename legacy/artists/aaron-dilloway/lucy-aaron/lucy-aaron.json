@@ -1,0 +1,24 @@
+{
+  "id": "lucy-aaron",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Lucy & Aaron",
+    "artist": "Aaron Dilloway",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "38:55",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763738346_lucy___aaron"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/feKnKkKanCsfuTkqqErI.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/27wf0awk.7z"
+    }
+  }
+}

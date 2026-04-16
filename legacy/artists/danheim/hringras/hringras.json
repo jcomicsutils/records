@@ -1,0 +1,24 @@
+{
+  "id": "hringras",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hringrás",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "48:56",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760749373_hringr_s"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MsWAKXClAaSOrxOMgunp.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/n9f0suh2.7z"
+    }
+  }
+}

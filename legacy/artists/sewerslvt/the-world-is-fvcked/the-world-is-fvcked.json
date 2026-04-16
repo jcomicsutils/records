@@ -1,0 +1,24 @@
+{
+  "id": "the-world-is-fvcked",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The World Is Fvcked",
+    "artist": "Sewerslvt",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "35:20",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761519073_the_world_is_fvcked"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/aEtxkUDaaxJiOwGNBtjH.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jjqkzfh.7z"
+    }
+  }
+}

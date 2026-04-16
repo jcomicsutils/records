@@ -1,0 +1,24 @@
+{
+  "id": "eastern-most",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Eastern Most",
+    "artist": "Toho Sara",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "1:08:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765159967_eastern_most"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9ewdj0w2.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/zFONWdlncbPBwgNQNzcv.7z"
+    }
+  }
+}

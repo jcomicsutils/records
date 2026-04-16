@@ -1,0 +1,27 @@
+{
+  "id": "sculpture",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sculpture",
+    "artist": "Félicia Atkinson",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_human": "31:15",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767042374_sculpture"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/w4pzv6jv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/x7hnzk.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/qbBNHKVHwCjmHSqlZX.7z"
+    }
+  }
+}

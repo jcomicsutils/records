@@ -1,0 +1,27 @@
+{
+  "id": "netto-houze",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Netto Houze",
+    "artist": "Click Click",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "12:27",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760760432_netto_houze"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/GEIDvtCaqKGshpnIkhw.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/b3uofd.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ncbqw79x.7z"
+    }
+  }
+}

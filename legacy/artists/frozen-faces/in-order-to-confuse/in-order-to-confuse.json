@@ -1,0 +1,27 @@
+{
+  "id": "in-order-to-confuse",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "In Order to Confuse",
+    "artist": "Frozen Faces",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1748031509_in_order_to_confuse"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/ojzUpgWFVHUHEwGLibv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/b0ve13.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rgsd73v.7z"
+    }
+  }
+}

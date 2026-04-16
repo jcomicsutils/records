@@ -1,0 +1,27 @@
+{
+  "id": "remember-me-this-way",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Remember Me This Way",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "21:39",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760306254_remember_me_this_way"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/XWOFgnigiBZtZpRwatMu.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/nh8fij.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/b6k0vtjh.7z"
+    }
+  }
+}

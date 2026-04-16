@@ -1,0 +1,24 @@
+{
+  "id": "bring-the-neon-war-home",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Bring the Neon War Home",
+    "artist": "Yellow Swans",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754816384_bring_the_neon_war_home"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/IcTJpAlfaAZKMBqxLNIq.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/uvf9vs87.7z"
+    }
+  }
+}

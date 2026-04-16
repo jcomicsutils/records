@@ -1,0 +1,24 @@
+{
+  "id": "interplaysynchrosonic-patterns",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Interplay/Synchrosonic Patterns",
+    "artist": "Claude Larson",
+    "codec": "FLAC",
+    "num_tracks": 24,
+    "duration_human": "59:56",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759705742_interplay_-_synchrosonic_patterns"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LuLyeJOShwhigWbcsJ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/r8t1ofq6.7z"
+    }
+  }
+}

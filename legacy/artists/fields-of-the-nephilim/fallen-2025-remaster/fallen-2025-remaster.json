@@ -1,0 +1,24 @@
+{
+  "id": "fallen-2025-remaster",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Fallen (2025 remaster)",
+    "artist": "Fields Of The Nephilim",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "40:18",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761139464_fallen__2025_remaster_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/sXLccbilaXYPeLXSnKMq.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/5oo8ymzr.7z"
+    }
+  }
+}

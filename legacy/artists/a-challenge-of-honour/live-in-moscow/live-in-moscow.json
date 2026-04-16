@@ -1,0 +1,24 @@
+{
+  "id": "live-in-moscow",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live In Moscow",
+    "artist": "A Challenge Of Honour",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "54:31",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760896185_live_in_moscow"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PgdnPxaeBguNlKfUMrnp.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/d2p5aa21.7z"
+    }
+  }
+}

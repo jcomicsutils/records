@@ -1,0 +1,24 @@
+{
+  "id": "apple-vs-7g",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Apple vs. 7G",
+    "artist": "A. G. Cook",
+    "codec": "FLAC",
+    "num_tracks": 21,
+    "duration_human": "1:24:58",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760228388_apple_vs__7g"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/bpNiQIayLBhiMvPyXvIA.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ky8waqfy.7z"
+    }
+  }
+}

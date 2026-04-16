@@ -1,0 +1,24 @@
+{
+  "id": "primitive-and-deadly",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Primitive and Deadly",
+    "artist": "Earth",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "59:40",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763928295_primitive_and_deadly"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b63/WDamBhUuOjfLKCtfmn.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ldsjr2qw.7z"
+    }
+  }
+}

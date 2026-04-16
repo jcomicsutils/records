@@ -1,0 +1,27 @@
+{
+  "id": "phase-iv",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Phase IV",
+    "artist": "Mitsuru Tabata",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_human": "36:40",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765052392_phase_iv"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bcnze6q1.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/p40zql.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/tiMHdPexMUdOqtPWge.7z"
+    }
+  }
+}

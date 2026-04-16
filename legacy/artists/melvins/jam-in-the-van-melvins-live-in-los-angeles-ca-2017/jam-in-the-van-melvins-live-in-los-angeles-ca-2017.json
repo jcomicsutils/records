@@ -1,0 +1,27 @@
+{
+  "id": "jam-in-the-van-melvins-live-in-los-angeles-ca-2017",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Jam in the Van - Melvins (Live in Los Angeles, CA 2017)",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "14:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769317633_jam_in_the_van_-_melvins__live_in_los_angeles__ca_"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ynm58jy.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/j1hnu4.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/yqocDLGjIQLkHpXmoffP.7z"
+    }
+  }
+}

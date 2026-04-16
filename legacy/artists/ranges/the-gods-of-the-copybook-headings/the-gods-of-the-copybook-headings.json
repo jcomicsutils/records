@@ -1,0 +1,24 @@
+{
+  "id": "the-gods-of-the-copybook-headings",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Gods of the Copybook Headings",
+    "artist": "Ranges",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "44:54",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759682042_the_gods_of_the_copybook_headings"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/GODbcwBsmVQBcXQnIkhQ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/a93o92v0.7z"
+    }
+  }
+}

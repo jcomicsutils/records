@@ -1,0 +1,27 @@
+{
+  "id": "quick-cum",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Quick Cum",
+    "artist": "Libertinage",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752295669_quick_cum"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/eCjyWAgPsbhSlHKfJqXL.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/6kj0sj.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/74modzsq.7z"
+    }
+  }
+}

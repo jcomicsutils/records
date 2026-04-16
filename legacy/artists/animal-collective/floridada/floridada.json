@@ -1,0 +1,27 @@
+{
+  "id": "floridada",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "FloriDada",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:05",
+    "sampling_rate": "88.2kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760844220_floridada"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/BBSlyGlSHaGToVclEcaj.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/e5m41c.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gtarwwk.7z"
+    }
+  }
+}

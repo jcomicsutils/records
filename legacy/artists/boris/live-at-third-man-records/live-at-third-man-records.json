@@ -1,0 +1,24 @@
+{
+  "id": "live-at-third-man-records",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live At Third Man Records",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "32:36",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764475225_live_at_third_man_records"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/UTkALtcnqvBmCDUwNUwi.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ecwnbwjm.7z"
+    }
+  }
+}

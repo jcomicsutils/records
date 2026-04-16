@@ -1,0 +1,27 @@
+{
+  "id": "aventine",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "AVENTINE",
+    "artist": "Berith",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "1:41",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768758556_aventine"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/r7u2vkt3.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/qpe2r1.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/VcQWJBgIAAJpByQGKtRY.7z"
+    }
+  }
+}

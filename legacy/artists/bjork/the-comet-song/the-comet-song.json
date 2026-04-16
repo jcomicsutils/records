@@ -1,0 +1,27 @@
+{
+  "id": "the-comet-song",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Comet Song",
+    "artist": "Björk",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757029605_the_comet_song"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/qLuWQHzAMCivlwbhHdnC.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/r101yj.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8n1jq5yv.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "black-forest-gateau",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Black Forest Gateau",
+    "artist": "NEU!",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752306594_black_forest_gateau"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/pBVnaazOrOwlhACPYpAF.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5p2l8q.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/udcaaaok.7z"
+    }
+  }
+}

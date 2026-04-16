@@ -1,0 +1,27 @@
+{
+  "id": "19800502-birmingham-university-aud",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "1980.05.02 Birmingham University (AUD)",
+    "artist": "Joy Division",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752456273_53_-_1980_05_02_birmingham_university__aud___192_k"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/mFTCkVinvZMJosxlEkoW.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jse3ix.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1emda7jh.7z"
+    }
+  }
+}

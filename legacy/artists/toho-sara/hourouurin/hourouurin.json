@@ -1,0 +1,27 @@
+{
+  "id": "hourouurin",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hourouurin",
+    "artist": "Toho Sara",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_human": "36:19",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765160447_hourouurin"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lrufpau6.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/tkqz8h.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ixOGwxpKktlegvlXVK.7z"
+    }
+  }
+}

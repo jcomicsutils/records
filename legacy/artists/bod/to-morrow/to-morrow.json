@@ -1,0 +1,27 @@
+{
+  "id": "to-morrow",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "To Morrow",
+    "artist": "bod [包家巷]",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:29",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766788450_to_morrow"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tc7uklak.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/tm5fvb.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/OuYHBFxoSFHGkMGnGML.7z"
+    }
+  }
+}

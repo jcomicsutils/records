@@ -1,0 +1,24 @@
+{
+  "id": "campo-di-marte-deluxe-edition",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Campo di marte (Deluxe Edition)",
+    "artist": "Camerata Mediolanense",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_human": "1:11:42",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760899710_campo_di_marte__deluxe_edition_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/efxqOMFmEqSUjIaXnVPq.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3zs66ct7.7z"
+    }
+  }
+}

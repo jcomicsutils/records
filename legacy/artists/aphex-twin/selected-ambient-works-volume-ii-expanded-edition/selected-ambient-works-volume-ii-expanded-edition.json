@@ -1,0 +1,21 @@
+{
+  "id": "selected-ambient-works-volume-ii-expanded-edition",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Selected Ambient Works Volume II (Expanded Edition)",
+    "artist": "Aphex Twin",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757021592_selected_ambient_works_volume_ii__expanded_edition"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b57/eHKGQkOmRxMEwcDbcGqG.7z"
+    }
+  }
+}

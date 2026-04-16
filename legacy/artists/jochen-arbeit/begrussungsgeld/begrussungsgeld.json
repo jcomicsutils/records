@@ -1,0 +1,27 @@
+{
+  "id": "begrussungsgeld",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Begrüssungsgeld",
+    "artist": "Jochen Arbeit",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:40",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760390036_begr_ssungsgeld"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ihNgOTItheFfBWNLzbC.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/nkwqsl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/z3ji6j5.7z"
+    }
+  }
+}

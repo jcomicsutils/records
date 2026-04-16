@@ -1,0 +1,24 @@
+{
+  "id": "live-1992",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live 1992",
+    "artist": "Ground-Zero",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752182320_live_1992__"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/LvKnjJWAUZAedEtXGWKC.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/cz9nwa6w.7z"
+    }
+  }
+}

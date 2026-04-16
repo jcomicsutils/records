@@ -1,0 +1,27 @@
+{
+  "id": "t69-collapse",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "T69 collapse",
+    "artist": "Aphex Twin",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757028902_t69_collapse"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/lUjVPKFfmUyAlnRNLTrE.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/sxnc3c.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/g07ys2d.7z"
+    }
+  }
+}

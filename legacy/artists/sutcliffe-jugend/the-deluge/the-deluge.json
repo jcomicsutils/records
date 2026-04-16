@@ -1,0 +1,27 @@
+{
+  "id": "the-deluge",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Deluge",
+    "artist": "Sutcliffe Jügend",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752407190_the_deluge"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/USrllVWSkNFnbcpXiVVV.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/lcnjo1.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8qgl4th3.7z"
+    }
+  }
+}

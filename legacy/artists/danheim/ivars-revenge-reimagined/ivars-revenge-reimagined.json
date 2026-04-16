@@ -1,0 +1,27 @@
+{
+  "id": "ivars-revenge-reimagined",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ivar's Revenge (Reimagined)",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:35",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760751540_ivar_s_revenge__reimagined_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/UEUxKWLZHUbCXstLOcQW.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5tg4ei.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bt1sfrg.7z"
+    }
+  }
+}

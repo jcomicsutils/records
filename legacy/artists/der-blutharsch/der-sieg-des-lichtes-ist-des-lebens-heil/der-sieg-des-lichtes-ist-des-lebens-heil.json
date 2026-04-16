@@ -1,0 +1,24 @@
+{
+  "id": "der-sieg-des-lichtes-ist-des-lebens-heil",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Der Sieg des Lichtes ist des Lebens Heil!",
+    "artist": "Der Blutharsch",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_human": "1:03:06",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759949445_der_sieg_des_lichtes_ist_des_lebens_heil_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/aILbkRzlMuDeysYBNOGR.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/y7dlyxb.7z"
+    }
+  }
+}

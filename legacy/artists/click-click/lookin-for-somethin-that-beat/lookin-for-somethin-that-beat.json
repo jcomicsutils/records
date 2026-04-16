@@ -1,0 +1,27 @@
+{
+  "id": "lookin-for-somethin-that-beat",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Lookin For Somethin / That Beat",
+    "artist": "Click Click",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "12:29",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760755411_lookin_for_somethin_-_that_beat"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/xrzEmMFbOnokgbphPHkr.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2ic0er.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/pqkmbwdb.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "skylda",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Skylda",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:42",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760763670_skylda"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ywFZiUChaJrgxIBAsQZL.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/xum226.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/goz2r9sg.7z"
+    }
+  }
+}

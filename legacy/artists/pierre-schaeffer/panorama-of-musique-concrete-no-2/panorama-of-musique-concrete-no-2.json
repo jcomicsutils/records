@@ -1,0 +1,27 @@
+{
+  "id": "panorama-of-musique-concrete-no-2",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Panorama of Musique Concrete, No. 2",
+    "artist": "Pierre Schaeffer",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_human": "46:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767146860_panorama_of_musique_concrete__no__2"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/snr08vp.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ygsods.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/MWjlpBtTWRllnZrPUMK.7z"
+    }
+  }
+}

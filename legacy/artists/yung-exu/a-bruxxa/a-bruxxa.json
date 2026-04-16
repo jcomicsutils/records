@@ -1,0 +1,27 @@
+{
+  "id": "a-bruxxa",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "a bruxxa",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "1:16",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759610530_a_bruxxa"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MTyNPRnnaxCahVYNQkou.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/skibd6.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8txheyck.7z"
+    }
+  }
+}

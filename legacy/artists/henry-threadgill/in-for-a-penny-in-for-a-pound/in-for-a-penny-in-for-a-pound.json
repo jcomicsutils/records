@@ -1,0 +1,21 @@
+{
+  "id": "in-for-a-penny-in-for-a-pound",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "In for a Penny, In for a Pound",
+    "artist": "Henry Threadgill",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756099257_in_for_a_penny__in_for_a_pound"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b57/pamTNLAshKpIOlqoFjEJ.7z"
+    }
+  }
+}

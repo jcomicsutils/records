@@ -1,0 +1,24 @@
+{
+  "id": "saucers-over-lincoln",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Saucers Over Lincoln",
+    "artist": "A Star Too Far",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "1:09:47",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760212331_saucers_over_lincoln"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/IqrDJRNPJXSzwkbiNfBB.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ghx3nsn.7z"
+    }
+  }
+}

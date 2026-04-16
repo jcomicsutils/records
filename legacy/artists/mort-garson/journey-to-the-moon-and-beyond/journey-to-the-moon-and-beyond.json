@@ -1,0 +1,24 @@
+{
+  "id": "journey-to-the-moon-and-beyond",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Journey to the Moon and Beyond",
+    "artist": "Mort Garson",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_human": "33:57",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761307189_journey_to_the_moon_and_beyond"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/wZPTZenOImFuwbhiuiXx.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/s9c6gd1d.7z"
+    }
+  }
+}

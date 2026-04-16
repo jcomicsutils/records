@@ -1,0 +1,27 @@
+{
+  "id": "skitser-ufrdigt-materiale",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Skitser & ufærdigt materiale",
+    "artist": "Alleypisser",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747512425_skitser___ufardigt_materiale"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/YHWsjCAJBIBQoQJINhi.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/rcjrh1.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3cn4aic4.7z"
+    }
+  }
+}

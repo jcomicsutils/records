@@ -1,0 +1,27 @@
+{
+  "id": "night-horns-edit",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Night Horns (edit)",
+    "artist": "Sarah Davachi",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "8:23",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761592119_night_horns__edit_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/yEdCDXxLDEZOewjgSKkf.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wo75bi.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zeaatged.7z"
+    }
+  }
+}

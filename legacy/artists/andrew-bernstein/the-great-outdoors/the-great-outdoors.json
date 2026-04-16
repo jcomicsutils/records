@@ -1,0 +1,27 @@
+{
+  "id": "the-great-outdoors",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Great Outdoors",
+    "artist": "Andrew Bernstein",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "33:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769365675_the_great_outdoors"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dq2bb2on.7z"
+    },
+    "": {
+      "url": ""
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/McSsfZxpvCDynzhZpSPm.7z"
+    }
+  }
+}

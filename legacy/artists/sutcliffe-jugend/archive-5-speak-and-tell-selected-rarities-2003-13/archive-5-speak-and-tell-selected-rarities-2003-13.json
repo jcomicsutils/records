@@ -1,0 +1,24 @@
+{
+  "id": "archive-5-speak-and-tell-selected-rarities-2003-13",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Archive 5 - Speak and Tell (Selected Rarities 2003-13)",
+    "artist": "Sutcliffe Jügend",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752386894_archive_5_-_speak_and_tell__selected_rarities_2003"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/PrZlCIoriivehRNLJTik.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vhw7cdb.7z"
+    }
+  }
+}

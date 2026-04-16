@@ -1,0 +1,24 @@
+{
+  "id": "live-at-the-old-museum-brisbane",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at The Old Museum - Brisbane",
+    "artist": "Sun Kil Moon",
+    "codec": "MP3",
+    "num_tracks": 12,
+    "duration_human": "2:16:49",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768683596_live_at_the_old_museum_-_brisbane"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/p09jzeh7.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/JNjmrLkXENqfKNCdYDeL.7z"
+    }
+  }
+}

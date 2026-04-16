@@ -1,0 +1,24 @@
+{
+  "id": "lorazepam-resonance-ep",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Lorazepam Resonance EP",
+    "artist": "Goreshit",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "23:05",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760567292_lorazepam_resonance_ep"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/IIxkakvjFVSJesvnkZeJ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/oz4wih2u.7z"
+    }
+  }
+}

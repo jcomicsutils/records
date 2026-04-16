@@ -1,0 +1,27 @@
+{
+  "id": "sou-eu-memo",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "sou + eu memo",
+    "artist": "COPA",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758664061_sou___eu_memo"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/fQIVyaIIrAIKvaJnPSsW.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ce6z2v.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/i78kriz3.7z"
+    }
+  }
+}

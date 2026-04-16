@@ -1,0 +1,27 @@
+{
+  "id": "the-spoils",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Spoils",
+    "artist": "Massive Attack",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "10:40",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760129919_the_spoils"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/zizlOMaePRgVlVvxseUk.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/q2941w.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/w5wwfz6y.7z"
+    }
+  }
+}

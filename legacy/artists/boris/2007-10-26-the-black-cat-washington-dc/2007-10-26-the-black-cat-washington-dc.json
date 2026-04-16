@@ -1,0 +1,24 @@
+{
+  "id": "2007-10-26-the-black-cat-washington-dc",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "2007-10-26 The Black Cat, Washington, DC",
+    "artist": "Boris",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_human": "1:27:58",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764471964_2007-10-26_the_black_cat__washington__dc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/vDxgWBTYGnuGghlkTFm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/swwiccvu.7z"
+    }
+  }
+}

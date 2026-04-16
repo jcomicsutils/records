@@ -1,0 +1,27 @@
+{
+  "id": "outta-space",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Outta Space",
+    "artist": "Click Click",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "16:52",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760760858_outta_space"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/abxSZaNTuTLaeLgvIWCz.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/z132y6.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/j6ovrptz.7z"
+    }
+  }
+}

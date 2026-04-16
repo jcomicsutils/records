@@ -1,0 +1,27 @@
+{
+  "id": "i-the-slings-and-arrows-of-outrageous-fortune",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "I. The Slings and Arrows of Outrageous Fortune",
+    "artist": "Ranges",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "7:33",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759624828_i__the_slings_and_arrows_of_outrageous_fortune"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/naHwZXtakWnnBlzhVAR.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/6axctc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/sx9uxx2u.7z"
+    }
+  }
+}

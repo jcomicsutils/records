@@ -1,0 +1,27 @@
+{
+  "id": "beautiful-superstar",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Beautiful Superstar",
+    "artist": "A. G. Cook",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:42",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760232853_beautiful_superstar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ilFfbuxlQwKPgflaORkZ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/u7ozyl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/p36o2t2b.7z"
+    }
+  }
+}

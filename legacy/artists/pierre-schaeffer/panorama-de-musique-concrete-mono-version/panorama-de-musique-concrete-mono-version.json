@@ -1,0 +1,24 @@
+{
+  "id": "panorama-de-musique-concrete-mono-version",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Panorama de musique concrète (Mono Version)",
+    "artist": "Pierre Schaeffer",
+    "codec": "FLAC",
+    "num_tracks": 30,
+    "duration_human": "1:35:35",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767137255_panorama_de_musique_concr_te__mono_version_"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xxgkr5ys.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b68/tLaTRXDwSLCKnYGCXhyR.7z"
+    }
+  }
+}

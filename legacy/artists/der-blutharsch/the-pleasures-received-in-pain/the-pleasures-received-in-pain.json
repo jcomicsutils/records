@@ -1,0 +1,24 @@
+{
+  "id": "the-pleasures-received-in-pain",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Pleasures Received in Pain",
+    "artist": "Der Blutharsch",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "51:10",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759965165_the_pleasures_received_in_pain"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/HpZULkqsyuFUtfTVHnkQ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mp0oo48.7z"
+    }
+  }
+}

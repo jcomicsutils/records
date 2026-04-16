@@ -1,0 +1,24 @@
+{
+  "id": "the-burning-world",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Burning World",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "44:06",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760219625_the_burning_world"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/mtgwmlwNgPwwcXTGDVJ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/uhaasczt.7z"
+    }
+  }
+}

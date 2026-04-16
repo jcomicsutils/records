@@ -1,0 +1,24 @@
+{
+  "id": "haltern-1988",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Haltern 1988",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "1:07:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769293401_haltern_1988"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dl1tlo1.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/OlSvtwhRBoelrEsElbM.7z"
+    }
+  }
+}

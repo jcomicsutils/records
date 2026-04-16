@@ -1,0 +1,27 @@
+{
+  "id": "party-hate-revisited",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Party Hate Revisited",
+    "artist": "Click Click",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "30:17",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760762275_party_hate_revisited"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/NHReJoPaGJDTByJBrjFS.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ert652.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/oejrzdz.7z"
+    }
+  }
+}

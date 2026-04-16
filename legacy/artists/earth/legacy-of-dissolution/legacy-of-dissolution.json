@@ -1,0 +1,27 @@
+{
+  "id": "legacy-of-dissolution",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Legacy Of Dissolution",
+    "artist": "Earth",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_human": "1:08:15",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763923698_legacy_of_dissolution"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/NLCdtKVHPKUyEoyhbSg.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/s6exae.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ickqoem.7z"
+    }
+  }
+}

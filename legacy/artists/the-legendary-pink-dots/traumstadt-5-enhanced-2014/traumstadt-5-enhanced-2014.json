@@ -1,0 +1,24 @@
+{
+  "id": "traumstadt-5-enhanced-2014",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Traumstadt 5 (enhanced 2014)",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "55:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760542851_traumstadt_5__enhanced_2014_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ArDuUrvXMyvpnhcjnSkw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ubfvxxt6.7z"
+    }
+  }
+}

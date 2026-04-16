@@ -1,0 +1,24 @@
+{
+  "id": "marc-ribot-plays-solo-guitar-works-of-frantz-casseus",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Marc Ribot Plays Solo Guitar Works of Frantz Casseus",
+    "artist": "Marc Ribot",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756580550_marc_ribot_plays_solo_guitar_works_of_frantz_casse"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b57/VOOekweImmWenaAohyh.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1qrzgl5u.7z"
+    }
+  }
+}

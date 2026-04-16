@@ -1,0 +1,27 @@
+{
+  "id": "tiny-cities",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Tiny Cities",
+    "artist": "Sun Kil Moon",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "30:35",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768691577_tiny_cities"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hrorq2al.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/9u81k3.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/hnkAPpEuFxtamacqiCym.7z"
+    }
+  }
+}

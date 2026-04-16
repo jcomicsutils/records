@@ -1,0 +1,24 @@
+{
+  "id": "red-house-painters",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Red House Painters",
+    "artist": "Red House Painters",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "28:38",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768678056_red_house_painters__1991_"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6jv5sku5.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/hCULKmDTfwWfcrzkXLbS.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "forget-gita-ep",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Forget / Gita EP",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "12:54",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "": {
+      "url": ""
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/1760543640_forget_-_gita_ep"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/zmSTIcYWJSKzzNessXAf.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hvvpmq9w.7z"
+    }
+  }
+}

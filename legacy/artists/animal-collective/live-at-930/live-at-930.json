@@ -1,0 +1,21 @@
+{
+  "id": "live-at-930",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at 9:30",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "1:56:01",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760824292_live_at_930"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/mKnBSNDuxUCgfWUiplBg.7z"
+    }
+  }
+}

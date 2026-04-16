@@ -1,0 +1,24 @@
+{
+  "id": "pop-tatari",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Pop Tatari",
+    "artist": "Boredoms",
+    "codec": "FLAC",
+    "num_tracks": 18,
+    "duration_human": "1:07:23",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765073364_pop_tatari"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tpx5zjzn.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MrGIXdkrWrgDlITabYOa.7z"
+    }
+  }
+}

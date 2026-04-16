@@ -1,0 +1,27 @@
+{
+  "id": "mindbodylightsound-remastered",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Mind/Body/Light/Sound  (Remastered)",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:41",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760061441_mind_-_body_-_light_-_sound__remastered_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/xNZephDnZbnKgzdWdDu.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/qflc0d.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/e2gadxq6.7z"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "002-fogged-void-oer-vantablack-waters",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "002. Fogged Void O'er Vantablack Waters.",
+    "artist": "Piranesi.",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747929318_piranesi__-_002__fogged_void_o_er_vantablack_water"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/jujbcmCYSRfGhDAbnS.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gvautr.7z"
+    },
+    "piranesiproject_bandcamp_com": {
+      "url": "https://piranesiproject.bandcamp.com/album/002-fogged-void-oer-vantablack-waters"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/izynw4h.7z"
+    }
+  }
+}

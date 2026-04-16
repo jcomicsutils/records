@@ -1,0 +1,24 @@
+{
+  "id": "stoner-witch",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Stoner Witch",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "49:52",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769308835_stoner_witch"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ari5hlf0.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/KeEWTFFgvgTehJRrciV.7z"
+    }
+  }
+}

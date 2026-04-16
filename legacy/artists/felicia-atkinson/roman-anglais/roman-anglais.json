@@ -1,0 +1,27 @@
+{
+  "id": "roman-anglais",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Roman Anglais",
+    "artist": "Félicia Atkinson",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "40:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767042010_roman_anglais"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/exy49iyl.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/rjj7i4.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/aVZYOtxjcvoFWzjXKEDH.7z"
+    }
+  }
+}

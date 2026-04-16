@@ -1,0 +1,27 @@
+{
+  "id": "love-will-tear-us-apart",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Love Will Tear Us Apart",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "23:42",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769297208_love_will_tear_us_apart"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ippmbgra.7z"
+    },
+    "": {
+      "url": ""
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/yYMoBXOaaiIcBucOikI.7z"
+    }
+  }
+}

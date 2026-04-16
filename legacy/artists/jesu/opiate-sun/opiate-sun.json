@@ -1,0 +1,27 @@
+{
+  "id": "opiate-sun",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Opiate Sun",
+    "artist": "Jesu",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "25:55",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764206881_opiate_sun"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/innuTDsmdSsRcJfiBPF.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jlx6ht.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/iwrsa9u7.7z"
+    }
+  }
+}

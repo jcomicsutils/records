@@ -1,0 +1,27 @@
+{
+  "id": "night-day-2023-remaster",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Night & Day  (2023 Remaster)",
+    "artist": "Ranges",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "24:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759636748_night___day__2023_remaster_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/nnsbJuBhkpLdrLnxBuNp.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/q2nt8m.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fgsxsgri.7z"
+    }
+  }
+}

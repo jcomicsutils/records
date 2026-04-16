@@ -1,0 +1,24 @@
+{
+  "id": "seadrum-house-of-sun",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Seadrum / House of Sun",
+    "artist": "Boredoms",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "43:06",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765074929_seadrum_-_house_of_sun"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dtpg1qs7.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/wEFOKvVQYdICRtjuZjhm.7z"
+    }
+  }
+}

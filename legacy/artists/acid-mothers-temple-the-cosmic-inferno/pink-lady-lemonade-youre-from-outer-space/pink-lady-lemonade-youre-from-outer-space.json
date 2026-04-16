@@ -1,0 +1,24 @@
+{
+  "id": "pink-lady-lemonade-youre-from-outer-space",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Pink Lady Lemonade - You're From Outer Space",
+    "artist": "Acid Mothers Temple & The Cosmic Inferno",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "1:03:50",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765141827_pink_lady_lemonade_-_you_re_from_outer_space"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/r4wrf410.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/wzWYoirZHZkwMjWLukzB.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "19800404-the-moonlight-club-london-aud",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "1980.04.04 The Moonlight Club, London (AUD)",
+    "artist": "Joy Division",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752454056_48_-_1980_04_04_the_moonlight_club__london__aud_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/zArqUAaynXQubZjtqdJO.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/sqfoy2.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/g6ak3ilh.7z"
+    }
+  }
+}

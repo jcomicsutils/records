@@ -1,0 +1,24 @@
+{
+  "id": "words-on-the-floor",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Words on the Floor",
+    "artist": "Mats Gustafsson",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1753668148_words_on_the_floor"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/uyYzmRfgCPHMGRtgWAP.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/b1jxfwio.7z"
+    }
+  }
+}

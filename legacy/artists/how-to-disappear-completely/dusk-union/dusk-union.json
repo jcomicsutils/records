@@ -1,0 +1,27 @@
+{
+  "id": "dusk-union",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Dusk Union",
+    "artist": "How To Disappear Completely",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "36:20",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759950512_dusk_union"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/jQqJVRLyXkeXyMeqtJSC.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/c1gfj8.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0xgsool8.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a-little-god-in-my-hands",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Little God in My Hands",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "7:08",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759950650_a_little_god_in_my_hands"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/JARjSIrjqRFFdGlxmrpP.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7ver1o.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/epcmerb.7z"
+    }
+  }
+}

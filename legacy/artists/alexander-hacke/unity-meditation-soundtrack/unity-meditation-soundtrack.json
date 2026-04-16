@@ -1,0 +1,24 @@
+{
+  "id": "unity-meditation-soundtrack",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Unity  (Meditation Soundtrack)",
+    "artist": "Alexander Hacke",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "1:00:38",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760409599_unity__meditation_soundtrack_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/naYAOQnXFzYUcuIfKAkL.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/5wzx98a.7z"
+    }
+  }
+}

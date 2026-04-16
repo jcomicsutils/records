@@ -1,0 +1,27 @@
+{
+  "id": "burn-bright",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Burn Bright",
+    "artist": "Strength Through Joy",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "11:17",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761514853_burn_bright"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/mBNffhbUWQSIWqMxgYv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/awhi3j.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wnczjaxp.7z"
+    }
+  }
+}

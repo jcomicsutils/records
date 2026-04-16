@@ -1,0 +1,21 @@
+{
+  "id": "live-in-new-york",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live in New York",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 90,
+    "duration_human": "6:41:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760564198_live_in_new_york"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/xBokSPbZhHSYoveEbuB.7z"
+    }
+  }
+}

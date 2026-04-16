@@ -1,0 +1,24 @@
+{
+  "id": "a-touch-of-brimstone",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Touch of Brimstone",
+    "artist": "Beequeen",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "1:04:27",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760212388_a_touch_of_brimstone"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/qHoddytAToZXKSZnxFGR.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9titsti6.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "forever-sophie-remix",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Forever (SOPHIE Remix)",
+    "artist": "SOPHIE",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:39",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760215313_forever__sophie_remix_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/uYsJARxDhzzFvifMvKVZ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jfu829.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/02a4wyhe.7z"
+    }
+  }
+}

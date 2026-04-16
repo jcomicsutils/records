@@ -1,0 +1,27 @@
+{
+  "id": "otveta-net",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ответа Нет / Otveta Net",
+    "artist": "Molchat Doma",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:02",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760470971____________-_otveta_net"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/eAkeUnqGZpOMXPHklSGq.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/mweh49.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/awqf4rl7.7z"
+    }
+  }
+}

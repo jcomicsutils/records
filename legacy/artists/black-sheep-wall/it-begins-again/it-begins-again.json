@@ -1,0 +1,27 @@
+{
+  "id": "it-begins-again",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "It Begins Again",
+    "artist": "Black Sheep Wall",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757903868_it_begins_again"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/caDOOkNOlcCgHCCNXkLg.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/hlatnu.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mwkc49mt.7z"
+    }
+  }
+}

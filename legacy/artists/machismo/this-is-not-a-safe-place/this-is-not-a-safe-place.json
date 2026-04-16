@@ -1,0 +1,27 @@
+{
+  "id": "this-is-not-a-safe-place",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "This Is Not a Safe Place",
+    "artist": "Machismo",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752298203_this_is_not_a_safe_place"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/iNsEhDKbOqTJkdwubtP.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/w5hga4.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0m170nrt.7z"
+    }
+  }
+}

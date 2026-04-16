@@ -1,0 +1,24 @@
+{
+  "id": "birchville-cat-motel-yellow-swans",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Birchville Cat Motel & Yellow Swans",
+    "artist": "Yellow Swans",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754816051_birchville_cat_motel___yellow_swans"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/ZrQTyLskKZuhMSSvNVGW.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rc5ef58.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "silent-shout-an-audio-visual-experience-live",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Silent Shout - An Audio-Visual Experience (Live)",
+    "artist": "The Knife",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "50:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761599011_silent_shout_-_an_audio-visual_experience__live_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/FAoBzvdtOTdvhbtkcYsL.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ko2by607.7z"
+    }
+  }
+}

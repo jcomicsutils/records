@@ -1,0 +1,27 @@
+{
+  "id": "chamber-lightness",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Chamber Lightness",
+    "artist": "Brian Eno",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756331510_chamber_lightness"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/sHJDrhcMtnxKAyGvGTvM.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/e61bf3.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/krcmox6m.7z"
+    }
+  }
+}

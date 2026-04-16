@@ -1,0 +1,27 @@
+{
+  "id": "tonband-protokoll",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Tonband-Protokoll",
+    "artist": "894",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1745902018_tonband-protokoll"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/rioSfGlwQDHPGravnvii.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8c6zri.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ooikj1w1.7z"
+    }
+  }
+}

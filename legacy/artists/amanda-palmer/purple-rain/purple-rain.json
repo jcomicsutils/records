@@ -1,0 +1,27 @@
+{
+  "id": "purple-rain",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Purple Rain",
+    "artist": "Amanda Palmer",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "10:24",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763750696_purple_rain"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/pPRyrEcYcHuSdPgrsbNg.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/qdg3g1.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4ojeeclz.7z"
+    }
+  }
+}

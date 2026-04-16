@@ -1,0 +1,27 @@
+{
+  "id": "the-day-before-psychochemistry",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Day Before: Psychochemistry",
+    "artist": "Hiroshi Higashi",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_human": "42:51",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764955332_the_day_before_psychochemistry"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tcigjvun.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/o518cr.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/wzlpFqXndvVJoHAPOrUu.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "middle-farm-session-middle-farm-session",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Middle Farm Session (Middle Farm Session)",
+    "artist": "Daughter",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "28:02",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760994778_middle_farm_session__middle_farm_session_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/mvmLvfSTdSTcXoKYWtok.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wp84v2w.7z"
+    }
+  }
+}

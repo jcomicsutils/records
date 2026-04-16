@@ -1,0 +1,27 @@
+{
+  "id": "the-ballad-of-the-new-york-times",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Ballad of the New York Times",
+    "artist": "Amanda Palmer",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "8:29",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763751831_the_ballad_of_the_new_york_times"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/piApiqbGstJQaDXNwki.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/h7yuzx.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1z9knhbi.7z"
+    }
+  }
+}

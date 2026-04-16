@@ -1,0 +1,24 @@
+{
+  "id": "the-ascensionist",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Ascensionist",
+    "artist": "Ranges",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "50:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759678536_the_ascensionist__2017___2_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ctkZjjFtqcanyLEccWQ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/pnsemwy1.7z"
+    }
+  }
+}

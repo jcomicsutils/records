@@ -1,0 +1,24 @@
+{
+  "id": "last-night",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Last Night",
+    "artist": "His Name Is Alive",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "1:03:33",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761141500_last_night"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/QtkaOraTMunodBhKGDnN.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/i1muog8y.7z"
+    }
+  }
+}

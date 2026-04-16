@@ -1,0 +1,24 @@
+{
+  "id": "the-lost-interview-tapes-featuring-jim-morrison-volume-one",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Lost Interview Tapes Featuring Jim Morrison - Volume One",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "55:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760551341_the_lost_interview_tapes_featuring_jim_morrison_-_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/kcRSFJPDiCUxflaecjxU.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mj4qeaun.7z"
+    }
+  }
+}

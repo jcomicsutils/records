@@ -1,0 +1,27 @@
+{
+  "id": "alarm-call-4",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Alarm Call (4)",
+    "artist": "Björk",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756870704_alarm_call__4_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/fXhbJgGonGbGROIehOSS.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/cleouy.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/51vjq4.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "blind-spot",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Blind Spot",
+    "artist": "Maruja",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758599386_blind_spot"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/KpczFAFaWOjrzQnEbYGP.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/zae29b.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/usfjano3.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cursed-brazilian-beats-vol1",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Cursed Brazilian Beats Vol.1",
+    "artist": "Satanique Samba Trio",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752353239_cursed_brazilian_beats_vol_1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/oNWNUUYRxzsriNoSyJYe.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/l8a56s.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qtnxbje3.7z"
+    }
+  }
+}

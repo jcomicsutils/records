@@ -1,0 +1,24 @@
+{
+  "id": "le-paradise-funebre-lenvers-du-tristesse",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Le Paradise Funèbre, L'Envers Du Tristesse",
+    "artist": "Der Blaue Reiter",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "1:04:10",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760900993_le_paradise_fun_bre__l_envers_du_tristesse"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/YIgeKsiTznBwwryeDdcI.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/erdg7ldt.7z"
+    }
+  }
+}

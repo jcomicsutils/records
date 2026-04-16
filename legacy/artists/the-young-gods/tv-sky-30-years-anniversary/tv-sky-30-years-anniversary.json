@@ -1,0 +1,21 @@
+{
+  "id": "tv-sky-30-years-anniversary",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "TV Sky (30 years Anniversary)",
+    "artist": "The Young Gods",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_human": "1:38:51",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759701580_tv_sky__30_years_anniversary_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/hzOBFYygPHnsGLqsFbba.7z"
+    }
+  }
+}

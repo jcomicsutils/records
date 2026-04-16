@@ -1,0 +1,21 @@
+{
+  "id": "gensho",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Gensho [現象]",
+    "artist": "Boris with Merzbow",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "2:28:57",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763912221_gensho_____"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b63/ZMnuKcvFNwVXktNuLYn.7z"
+    }
+  }
+}

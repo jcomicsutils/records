@@ -1,0 +1,27 @@
+{
+  "id": "fall-be-kind",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Fall Be Kind",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "27:22",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760848568_fall_be_kind"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/KEYSkWXVaBiFwmueWZz.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/dvnm64.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/68ym14bu.7z"
+    }
+  }
+}

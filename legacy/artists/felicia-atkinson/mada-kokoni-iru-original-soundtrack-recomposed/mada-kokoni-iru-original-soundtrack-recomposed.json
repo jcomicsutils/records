@@ -1,0 +1,27 @@
+{
+  "id": "mada-kokoni-iru-original-soundtrack-recomposed",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Mada Kokoni Iru Original Soundtrack Recomposed",
+    "artist": "Félicia Atkinson",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "22:45",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767036343_mada_kokoni_iru_original_soundtrack_recomposed"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qhls53fk.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/eb1u5b.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/vJeJvMMmbignntsMULFc.7z"
+    }
+  }
+}

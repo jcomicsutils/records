@@ -1,0 +1,27 @@
+{
+  "id": "hell-ancestortooth",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hell / Ancestortooth",
+    "artist": "Hell",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_human": "38:37",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763930227_hell_-_ancestortooth"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/vbSScEsxZzPleDgeysVk.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vao19m.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hk5jje.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "visdomr-reimagined-feat-mrmain",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Vísdómr (Reimagined) (feat. Mr.Main)",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:37",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760809504_v_sd_mr__reimagined___feat__mr_main_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/uadtYQCerfEQQvXaEvD.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/q8s6yj.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/keo73pop.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "alone-at-sams-an-evening-with",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Alone at Sam's - An Evening with...",
+    "artist": "Sopor Aeternus & The Ensemble of Shadows",
+    "codec": "FLAC",
+    "num_tracks": 18,
+    "duration_human": "1:13:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761487303_alone_at_sam_s_-_an_evening_with"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/HVYpJiAFwSuJKtlwezdn.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/24wf6ei0.7z"
+    }
+  }
+}

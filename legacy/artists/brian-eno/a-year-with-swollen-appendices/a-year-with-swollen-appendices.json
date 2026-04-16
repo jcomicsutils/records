@@ -1,0 +1,27 @@
+{
+  "id": "a-year-with-swollen-appendices",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Year With Swollen Appendices",
+    "artist": "Brian Eno",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756318668_a_year_with_swollen_appendices"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/QagzFtEOqSXHYIUYClyh.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vt335h.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zq7985ez.7z"
+    }
+  }
+}

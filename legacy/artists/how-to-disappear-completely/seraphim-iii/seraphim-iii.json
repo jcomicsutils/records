@@ -1,0 +1,27 @@
+{
+  "id": "seraphim-iii",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Seraphim III",
+    "artist": "How To Disappear Completely",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "1:25:19",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759970244_seraphim_iii"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/epgiqYvEtxxERXFZIxrK.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8yd7o5.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/aduy954k.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "predella-avant",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Predella Avant",
+    "artist": "Predella Avant",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "44:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761487075_predella_avant"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/BETIWOIvjiyMslulAcYT.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tbvegn1x.7z"
+    }
+  }
+}

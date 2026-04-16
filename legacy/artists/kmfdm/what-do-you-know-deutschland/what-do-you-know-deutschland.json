@@ -1,0 +1,24 @@
+{
+  "id": "what-do-you-know-deutschland",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "What Do You Know, Deutschland?",
+    "artist": "KMFDM",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "1:02:55",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761281359_what_do_you_know__deutschland"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ANDrlfxyfzQnIAJkByN.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/p4zinv9n.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "traversee-live-at-roadburn-2008",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Traversée (Live at Roadburn, 2008)",
+    "artist": "Year of No Light",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "8:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761603447_travers_e__live_at_roadburn__2008_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/EIAHvcDhZRWeKQSQRVBC.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5jkhkd.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/p5seekjh.7z"
+    }
+  }
+}

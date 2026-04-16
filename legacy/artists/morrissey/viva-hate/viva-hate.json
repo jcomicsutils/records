@@ -1,0 +1,24 @@
+{
+  "id": "viva-hate",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Viva Hate",
+    "artist": "Morrissey",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754893844_1988_-_viva_hate"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/ehgTOnxQKHHNOXvldTPN.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qqtgz5j.7z"
+    }
+  }
+}

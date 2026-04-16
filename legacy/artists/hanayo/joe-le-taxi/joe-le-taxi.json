@@ -1,0 +1,27 @@
+{
+  "id": "joe-le-taxi",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Joe Le Taxi",
+    "artist": "Hanayo [花代]",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_human": "19:41",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769912431_joe_le_taxi"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/oqdxst8l.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/hvsfox.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/stoGvkQzXGcxPqgeLVT.7z"
+    }
+  }
+}

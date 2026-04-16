@@ -1,0 +1,24 @@
+{
+  "id": "12-steps-off-the-path",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "12 Steps Off The Path",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "1:14:42",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760279370_12_steps_off_the_path"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/zikErlRpkedTpdJaWmk.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/j7qfg1pr.7z"
+    }
+  }
+}

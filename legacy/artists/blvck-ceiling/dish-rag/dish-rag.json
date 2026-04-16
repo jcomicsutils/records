@@ -1,0 +1,27 @@
+{
+  "id": "dish-rag",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Dish Rag",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "1:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760898907_dish_rag"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/yVAlAnxoRIyuQzaDtsui.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/xv8hp0.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/konjaq5d.7z"
+    }
+  }
+}

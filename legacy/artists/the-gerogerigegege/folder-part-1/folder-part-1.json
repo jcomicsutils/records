@@ -1,0 +1,21 @@
+{
+  "id": "folder-part-1",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Folder Part 1",
+    "artist": "The Gerogerigegege [ザ・ゲロゲリゲゲゲ]",
+    "codec": "Unknown",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-gerogerigegege-discography"
+    },
+    "buzzheavier_com": {
+      "url": "https://buzzheavier.com/d8p3btcmd63a"
+    }
+  }
+}

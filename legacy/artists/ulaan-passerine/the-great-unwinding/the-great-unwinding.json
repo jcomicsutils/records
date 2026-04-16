@@ -1,0 +1,24 @@
+{
+  "id": "the-great-unwinding",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Great Unwinding",
+    "artist": "Ulaan Passerine",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "1:07:23",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769918315_the_great_unwinding"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/he2k932y.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/bYEaMkaUZccdEzHbiGJr.7z"
+    }
+  }
+}

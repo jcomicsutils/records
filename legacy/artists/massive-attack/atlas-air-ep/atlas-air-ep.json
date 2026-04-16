@@ -1,0 +1,27 @@
+{
+  "id": "atlas-air-ep",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Atlas Air EP",
+    "artist": "Massive Attack",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "18:54",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759950916_atlas_air_ep"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SVlhqAOpqVIHmtYQZdQ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/xhp3a2.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/75wz4ri.7z"
+    }
+  }
+}

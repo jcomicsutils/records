@@ -1,0 +1,24 @@
+{
+  "id": "these-nuts",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "These Nuts",
+    "artist": "Ninja Sex Party",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_human": "35:20",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761362482_these_nuts"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/VjGldxAzDcwANvmjHet.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qipgbvhf.7z"
+    }
+  }
+}

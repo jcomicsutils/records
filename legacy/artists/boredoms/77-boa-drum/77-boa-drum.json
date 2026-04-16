@@ -1,0 +1,21 @@
+{
+  "id": "77-boa-drum",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "77 Boa Drum",
+    "artist": "Boredoms",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "1:40:11",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765054014_77_boa_drum"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b65/XxJZWfuOfZfcwxJWTGfI.7z"
+    }
+  }
+}

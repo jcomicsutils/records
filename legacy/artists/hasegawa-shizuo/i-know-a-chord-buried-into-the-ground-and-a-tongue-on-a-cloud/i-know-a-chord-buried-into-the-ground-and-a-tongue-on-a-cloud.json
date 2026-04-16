@@ -1,0 +1,24 @@
+{
+  "id": "i-know-a-chord-buried-into-the-ground-and-a-tongue-on-a-cloud",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "I Know a Chord Buried Into the Ground and a Tongue on a Cloud",
+    "artist": "Hasegawa-Shizuo",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "1:15:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767211041_i_know_a_chord_buried_into_the_ground_and_a_tongue"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6ty81lz7.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/MLBLPkBnSpnoQWzmtRIF.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "itual",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Яitual",
+    "artist": "Arca",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "1:24",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760316331__itual"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/RzbQTBVJUjxiSSiiupYx.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ctns0u.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/y1cg0gjr.7z"
+    }
+  }
+}

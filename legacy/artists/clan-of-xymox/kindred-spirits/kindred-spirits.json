@@ -1,0 +1,24 @@
+{
+  "id": "kindred-spirits",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Kindred Spirits",
+    "artist": "Clan of Xymox",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "49:06",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760993537_kindred_spirits"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/hMoWhqpfYDiJhZcWDyI.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xqv0r02k.7z"
+    }
+  }
+}

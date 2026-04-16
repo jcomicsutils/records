@@ -1,0 +1,27 @@
+{
+  "id": "77-million-paintings",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "77 Million Paintings",
+    "artist": "Brian Eno",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756316611_77_million_paintings"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/bhpLIyvnTnNFTpaqLi.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/sa9fgr.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/5rvs5a8l.7z"
+    }
+  }
+}

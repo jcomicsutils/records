@@ -1,0 +1,24 @@
+{
+  "id": "live-10122016",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live 10.12.2016",
+    "artist": "Boris",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_human": "1:29:08",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764488402_live_10_12_2016"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/vsjQZRkhulCzmuXesNyt.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2wn2nus3.7z"
+    }
+  }
+}

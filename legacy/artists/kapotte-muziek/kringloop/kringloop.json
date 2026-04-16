@@ -1,0 +1,24 @@
+{
+  "id": "kringloop",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Kringloop",
+    "artist": "Kapotte Muziek",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "47:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761160178_kringloop"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ZrnsAtvUtoNyQoKHesi.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ru3g2nxg.7z"
+    }
+  }
+}

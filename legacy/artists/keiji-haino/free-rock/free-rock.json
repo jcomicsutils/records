@@ -1,0 +1,24 @@
+{
+  "id": "free-rock",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Free Rock",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "34:54",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764809497_free_rock"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/i8x1k0d5.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/HranRILREdboHYvEibaO.7z"
+    }
+  }
+}

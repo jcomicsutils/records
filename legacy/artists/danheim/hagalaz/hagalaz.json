@@ -1,0 +1,27 @@
+{
+  "id": "hagalaz",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hagalaz",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:57",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760746085_hagalaz"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/jBznjBEgJtrzvFTbiKRq.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/k45zia.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jpgsvee7.7z"
+    }
+  }
+}

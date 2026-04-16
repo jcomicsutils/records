@@ -1,0 +1,27 @@
+{
+  "id": "vikinger",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Vikinger",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:17",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760766579_vikinger"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/UmmBqCsHfMZkpacpLUfo.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/q56ioi.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/relwfl8w.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ragnarok",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ragnarök",
+    "artist": "Gealdýr",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:24",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760902884_ragnar_k"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/KXcJsdqDacDtxJEJfVT.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/s6oefj.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/azwq6wn.7z"
+    }
+  }
+}

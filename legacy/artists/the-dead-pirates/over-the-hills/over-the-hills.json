@@ -1,0 +1,27 @@
+{
+  "id": "over-the-hills",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Over the Hills",
+    "artist": "The Dead Pirates",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "16:17",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760394806_over_the_hills"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/RuGcDzxUBTKTbfkvqn.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jhkn93.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/v05twl9o.7z"
+    }
+  }
+}

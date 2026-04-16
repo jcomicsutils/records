@@ -1,0 +1,24 @@
+{
+  "id": "new-york-live-94-remastered-live-new-york-1994",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "New York Live '94 - Remastered (Live: New York 1994)",
+    "artist": "Nine Inch Nails",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_human": "1:21:37",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761397485_new_york_live__94_-_remastered__live_new_york_1994"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/RIKgwlZDXqWUkNTlVNmD.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jl2qx091.7z"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+# Rainer Riehn
+
+
+| Album | Codec | Duration | Hosts |
+|-------|-------|----------|-------|
+| [Atlas eclipticalis; Winter Music; Cartridge Music / Glossolalie](atlas-eclipticalis-winter-music-cartridge-music-glossolalie/atlas-eclipticalis-winter-music-cartridge-music-glossolalie.md) | FLAC | Unknown | [IA](https://archive.org/details/1752329093_atlas_eclipticalis__winter_music__cartridge_music_) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/yEpPuJEMHGEFbsczxL.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/nxuvvwnv.7z) |
+| [Chants de Maldoror: Electronic Music From the Institute of Sonology, Utrecht, 1965-71](chants-de-maldoror-electronic-music-from-the-institute-of-sonology-utrecht-1965-71/chants-de-maldoror-electronic-music-from-the-institute-of-sonology-utrecht-1965-71.md) | MP3 | Unknown | [IA](https://archive.org/details/1752329891_chants_de_maldoror_-_electronic_music_from_the_ins) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/lWvpdcJlqsELmeJywvdf.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/wft05y.7z) |
+| [Concert for Piano and Orchestra; Credo in Us; Imaginary Landscape No. 1; Rozart Mix; Suite for Toy Piano; Music for Carillon](concert-for-piano-and-orchestra-credo-in-us-imaginary-landscape-no-1-rozart-mix-suite-for-toy-piano-music-for-carillon/concert-for-piano-and-orchestra-credo-in-us-imaginary-landscape-no-1-rozart-mix-suite-for-toy-piano-music-for-carillon.md) | FLAC | Unknown | [IA](https://archive.org/details/1752330309_concert_for_piano_and_orchestra__credo_in_us__imag) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/sAJlXnAjHAqzcrEHpxAq.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/37hzs3gh.7z) |
+| [Music Before Revolution](music-before-revolution/music-before-revolution.md) | FLAC | Unknown | [IA](https://archive.org/details/1752330681_music_before_revolution) [Fileditch](https://fileditchfiles.me/file.php?f=/b54/dkREGMUjNYTWpJjOAwfi.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/9q8jo6fz.7z) |

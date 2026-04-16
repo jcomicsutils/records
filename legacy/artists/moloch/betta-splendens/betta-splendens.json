@@ -1,0 +1,27 @@
+{
+  "id": "betta-splendens",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Betta Splendens",
+    "artist": "Moloch",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "27:25",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761311741_betta_splendens"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/zfQFuqmaGKaHBVLifflD.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/shdd05.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/glggwsl.7z"
+    }
+  }
+}

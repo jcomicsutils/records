@@ -1,0 +1,27 @@
+{
+  "id": "2012-12-04-sticky-mikes-frog-bar-brighton-uk",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "2012-12-04 Sticky Mike's Frog Bar, Brighton, UK",
+    "artist": "Boris",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_human": "1:19:56",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764473075_2012-12-04_sticky_mike_s_frog_bar__brighton__uk"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/VhLkZUratdzbvSgAHIWS.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/fqv510.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/81pddk8w.7z"
+    }
+  }
+}

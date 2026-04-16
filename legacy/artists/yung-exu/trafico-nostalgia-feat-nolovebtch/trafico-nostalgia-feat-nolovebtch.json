@@ -1,0 +1,27 @@
+{
+  "id": "trafico-nostalgia-feat-nolovebtch",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "tráfico nostalgia (feat. NoLoveB!tch)",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:49",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759628726_tr_fico_nostalgia__feat__noloveb_tch_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/aIpuVILhAgorjjmkgpc.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/oddyxo.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/liks6sjn.7z"
+    }
+  }
+}

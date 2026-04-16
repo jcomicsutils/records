@@ -1,0 +1,24 @@
+{
+  "id": "live-in-glasgow-plus-live",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live In Glasgow Plus  (Live)",
+    "artist": "Psychic TV",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "1:11:18",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759712650_live_in_glasgow_plus__live_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/hBRPBOBTKVrmIJoHAlCe.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xb8mp3hn.7z"
+    }
+  }
+}

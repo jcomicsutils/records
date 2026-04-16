@@ -1,0 +1,24 @@
+{
+  "id": "all-is-suffering",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "All Is Suffering",
+    "artist": "Genocide Organ",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "47:03",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760982099_all_is_suffering"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/rxQAWUWWQrhkmvVYAoZf.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/oygohgzk.7z"
+    }
+  }
+}

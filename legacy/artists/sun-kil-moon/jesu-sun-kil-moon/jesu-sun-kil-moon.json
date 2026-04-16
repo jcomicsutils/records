@@ -1,0 +1,24 @@
+{
+  "id": "jesu-sun-kil-moon",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Jesu / Sun Kil Moon",
+    "artist": "Sun Kil Moon",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "1:19:36",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768682033_jesu_-_sun_kil_moon"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4zrykkol.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/aDJBajVcGKlRqZSSrDtJ.7z"
+    }
+  }
+}

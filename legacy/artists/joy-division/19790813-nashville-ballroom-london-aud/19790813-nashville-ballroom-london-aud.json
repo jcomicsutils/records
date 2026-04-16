@@ -1,0 +1,27 @@
+{
+  "id": "19790813-nashville-ballroom-london-aud",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "1979.08.13 Nashville Ballroom, London (AUD)",
+    "artist": "Joy Division",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752283423_1979_08_13_nashville_ballroom__london__aud_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/yZmcrLkrRcjOauQCedN.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jczv1q.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bpd2ifnh.7z"
+    }
+  }
+}

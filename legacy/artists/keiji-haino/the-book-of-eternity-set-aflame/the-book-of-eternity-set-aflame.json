@@ -1,0 +1,27 @@
+{
+  "id": "the-book-of-eternity-set-aflame",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Book of Eternity Set Aflame",
+    "artist": "Keiji Haino",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_human": "1:10:15",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764795760_the_book_of_eternity_set_aflame"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jyiggh9.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/hf6i92.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/VLKUUfSNlYqwsxglQVk.7z"
+    }
+  }
+}

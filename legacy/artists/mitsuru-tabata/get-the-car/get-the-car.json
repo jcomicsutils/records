@@ -1,0 +1,27 @@
+{
+  "id": "get-the-car",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Get the Car",
+    "artist": "Mitsuru Tabata",
+    "codec": "MP3",
+    "num_tracks": 9,
+    "duration_human": "56:18",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765050703_get_the_car"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ndbmnlal.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/95wxos.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/rwoFiAIzkJOZXbnmEQBO.7z"
+    }
+  }
+}

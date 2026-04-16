@@ -1,0 +1,24 @@
+{
+  "id": "speak-spell-cd-stumm-5-mute",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Speak & Spell [CD STUMM 5 MUTE]",
+    "artist": "Depeche Mode",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746123723_depeche_mode_-_speak___spell__1981___cd_stumm_5_mu"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/weEPYdoInsKNkGeeCuS.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/i67o2hvq.7z"
+    }
+  }
+}

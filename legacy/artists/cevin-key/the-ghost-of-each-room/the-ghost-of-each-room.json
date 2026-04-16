@@ -1,0 +1,24 @@
+{
+  "id": "the-ghost-of-each-room",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Ghost of Each Room",
+    "artist": "cEvin Key",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "51:11",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760291355_the_ghost_of_each_room"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/iqgFOSwbCEwcGVlEZ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/szq57fjp.7z"
+    }
+  }
+}

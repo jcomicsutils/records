@@ -1,0 +1,24 @@
+{
+  "id": "live",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live",
+    "artist": "Clan of Xymox",
+    "codec": "FLAC",
+    "num_tracks": 19,
+    "duration_human": "1:45:03",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760999541_live"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/UCmqQaOQEMjKQtXebiQ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/kn5wbjvn.7z"
+    }
+  }
+}

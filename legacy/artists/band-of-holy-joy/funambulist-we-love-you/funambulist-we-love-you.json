@@ -1,0 +1,24 @@
+{
+  "id": "funambulist-we-love-you",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Funambulist We Love You",
+    "artist": "Band of Holy Joy",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "38:17",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759950683_funambulist_we_love_you"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/KEvWCXCAxoknLdGCMQpl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/j57sv63j.7z"
+    }
+  }
+}

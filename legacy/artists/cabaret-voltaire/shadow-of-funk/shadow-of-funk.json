@@ -1,0 +1,21 @@
+{
+  "id": "shadow-of-funk",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Shadow of Funk",
+    "artist": "Cabaret Voltaire",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759102572_shadow_of_funk"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/dlyTGUdHrhHakLIVqcgD.zip"
+    }
+  }
+}

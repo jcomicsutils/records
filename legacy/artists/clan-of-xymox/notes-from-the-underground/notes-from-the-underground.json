@@ -1,0 +1,24 @@
+{
+  "id": "notes-from-the-underground",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Notes From The Underground",
+    "artist": "Clan of Xymox",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "1:06:18",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760985997_notes_from_the_underground"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/jBxLvBktHefKrfydfynm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wqcpmej8.7z"
+    }
+  }
+}

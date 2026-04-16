@@ -1,0 +1,27 @@
+{
+  "id": "sar-ha-olam",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sar Ha-Olam",
+    "artist": "Year of No Light",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "7:07",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761598770_sar_ha-olam"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/xIGlRhpFFPyzOrSlEtNG.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2ye3da.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/kl2f4w6.7z"
+    }
+  }
+}

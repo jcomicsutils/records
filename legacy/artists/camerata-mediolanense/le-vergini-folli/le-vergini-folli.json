@@ -1,0 +1,27 @@
+{
+  "id": "le-vergini-folli",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Le Vergini Folli",
+    "artist": "Camerata Mediolanense",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "33:21",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760902412_le_vergini_folli"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/swGqlkLitktwEBWMzcZ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/e3zwce.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2ttcfs33.7z"
+    }
+  }
+}

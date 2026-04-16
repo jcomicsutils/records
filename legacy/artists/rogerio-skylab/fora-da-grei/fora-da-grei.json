@@ -1,0 +1,24 @@
+{
+  "id": "fora-da-grei",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Fora da Grei",
+    "artist": "Rogério Skylab",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757508305_fora_da_grei"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/kclGXNMxAFYKKaDMQXyN.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rw7x07j.7z"
+    }
+  }
+}

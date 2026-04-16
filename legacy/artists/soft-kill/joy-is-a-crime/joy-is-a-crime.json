@@ -1,0 +1,27 @@
+{
+  "id": "joy-is-a-crime",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Joy is a Crime",
+    "artist": "Soft Kill",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:46",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759975809_joy_is_a_crime"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/IErwcOwrTubvlpzqaFSH.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/4qxagq.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1hiyc65.7z"
+    }
+  }
+}

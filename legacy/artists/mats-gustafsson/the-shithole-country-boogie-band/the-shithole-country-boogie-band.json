@@ -1,0 +1,27 @@
+{
+  "id": "the-shithole-country-boogie-band",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Shithole Country & Boogie Band",
+    "artist": "Mats Gustafsson",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1753673879_the_shithole_country___boogie_band"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/jyzofZILmTUyQoQNokJ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/61lc0b.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/u3o6f0fc.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "chao-de-taco-locomotiva-sessions",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Chão de Taco (Locomotiva Sessions)",
+    "artist": "Chão de Taco",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758155426_ch_o_de_taco__locomotiva_sessions_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/pqkbhEeDRffXtYBylYVM.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ztxcg9.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/flt8iats.7z"
+    }
+  }
+}

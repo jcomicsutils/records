@@ -1,0 +1,24 @@
+{
+  "id": "the-downward-spiral",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Downward Spiral",
+    "artist": "Nine Inch Nails",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_human": "1:05:10",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761415838_the_downward_spiral"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/BaBNNJaRqmqeGoaqKMun.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9efs7ot.7z"
+    }
+  }
+}

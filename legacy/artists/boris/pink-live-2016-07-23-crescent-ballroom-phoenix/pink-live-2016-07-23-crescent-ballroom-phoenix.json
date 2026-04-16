@@ -1,0 +1,24 @@
+{
+  "id": "pink-live-2016-07-23-crescent-ballroom-phoenix",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "PINK Live 2016-07-23 Crescent Ballroom, Phoenix",
+    "artist": "Boris",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_human": "1:31:01",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764481158_pink_live_2016-07-23_crescent_ballroom__phoenix"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/NeWjcJgHTqqzyfcEHZk.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/h2l229iw.7z"
+    }
+  }
+}

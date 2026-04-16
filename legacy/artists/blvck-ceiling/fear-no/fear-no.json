@@ -1,0 +1,27 @@
+{
+  "id": "fear-no",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "fear no",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760899713_fear_no"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LbnaXfDToQNTLGSUxdC.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/uqvdbi.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/pt20g31z.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "smother",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Smother",
+    "artist": "Daughter",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "8:06",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "": {
+      "url": ""
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/1761009679_smother"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/XMdmnHlZscGwFAYcRgLh.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3dyk4l5r.7z"
+    }
+  }
+}

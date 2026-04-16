@@ -1,0 +1,27 @@
+{
+  "id": "langskib",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Langskib",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:03",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760752283_langskib"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/qUyMAiByclujqaWSmBb.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/d5w7c9.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mmjxlz8u.7z"
+    }
+  }
+}

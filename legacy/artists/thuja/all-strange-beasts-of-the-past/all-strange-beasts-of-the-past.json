@@ -1,0 +1,27 @@
+{
+  "id": "all-strange-beasts-of-the-past",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "All Strange Beasts of the Past",
+    "artist": "Thuja",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "39:49",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769912560_all_strange_beasts_of_the_past"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nefc2h8x.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/e5ssgt.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/FJxkzgSsJTHblfPLDzTi.7z"
+    }
+  }
+}

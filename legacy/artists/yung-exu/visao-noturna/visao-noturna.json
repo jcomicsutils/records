@@ -1,0 +1,27 @@
+{
+  "id": "visao-noturna",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "visao noturna",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759629721_visao_noturna"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/oNCclbueqYomTWEqPzt.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gsed06.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/eejcrxsa.7z"
+    }
+  }
+}

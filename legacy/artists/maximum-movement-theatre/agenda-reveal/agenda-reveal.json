@@ -1,0 +1,24 @@
+{
+  "id": "agenda-reveal",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "agenda reveal",
+    "artist": "Maximum Movement Theatre",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "37:06",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761309673_agenda_reveal"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SvpcYSGmjthMUGGFCxsF.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3byagq7.7z"
+    }
+  }
+}

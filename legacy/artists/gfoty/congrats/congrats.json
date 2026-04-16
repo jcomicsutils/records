@@ -1,0 +1,27 @@
+{
+  "id": "congrats",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "CONGRATS..",
+    "artist": "GFOTY",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:18",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760468740_congrats"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LnUQMcuiXZixGoWSCz.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/3kcryw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xkkg3p2r.7z"
+    }
+  }
+}

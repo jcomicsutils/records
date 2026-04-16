@@ -1,0 +1,24 @@
+{
+  "id": "carte-blanche",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Carte Blanche",
+    "artist": "Genocide Organ",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "41:20",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760985352_carte_blanche"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/bwXaLhfhvwUgDDKKvBLU.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8qihtz49.7z"
+    }
+  }
+}

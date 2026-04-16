@@ -1,0 +1,27 @@
+{
+  "id": "los-angeles-city-of-death",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Los Angeles: City of Death",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:29",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769296688_los_angeles_city_of_death"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nt0x9m58.7z"
+    },
+    "": {
+      "url": ""
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/epRSbqEZhGcPHOSRHOM.7z"
+    }
+  }
+}

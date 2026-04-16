@@ -1,0 +1,27 @@
+{
+  "id": "terror",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Terror",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:58",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760913867_terror"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ukCEuBGDkZssuUnIMhVh.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ug7lmt.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/joqjz7s.7z"
+    }
+  }
+}

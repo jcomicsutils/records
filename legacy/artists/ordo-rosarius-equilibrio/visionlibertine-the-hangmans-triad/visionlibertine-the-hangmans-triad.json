@@ -1,0 +1,24 @@
+{
+  "id": "visionlibertine-the-hangmans-triad",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Vision:Libertine the Hangman's Triad",
+    "artist": "Ordo Rosarius Equilibrio",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_human": "1:09:25",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761398313_visionlibertine_the_hangman_s_triad"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/mrLXVdseZYqSkfnuJVk.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jrxs3wkc.7z"
+    }
+  }
+}

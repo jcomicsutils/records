@@ -1,0 +1,27 @@
+{
+  "id": "stenstans-fordarv-mitt-blod-min-kropp",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Stenstans fördärv - Mitt blod, min kropp",
+    "artist": "Ättestupa",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747708081_stenstans_f_rd_rv_-_mitt_blod__min_kropp"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/pulOvRLXXRPIpxwrPf.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/zng3v4.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/5adhevde.7z"
+    }
+  }
+}

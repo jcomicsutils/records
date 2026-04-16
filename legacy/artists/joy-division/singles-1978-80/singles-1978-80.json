@@ -1,0 +1,24 @@
+{
+  "id": "singles-1978-80",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "- Singles 1978-80",
+    "artist": "Joy Division",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752464675_2010___-_singles_1978-80"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/sjTrdamNPcLprwuGCEnR.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/g9jcipt5.7z"
+    }
+  }
+}

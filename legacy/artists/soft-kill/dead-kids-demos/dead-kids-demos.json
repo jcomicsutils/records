@@ -1,0 +1,21 @@
+{
+  "id": "dead-kids-demos",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Dead Kids Demos",
+    "artist": "Soft Kill",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "51:46",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759956553_dead_kids_demos"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/QGYfDJbOmkxGcIBnQAUk.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "dear-extra",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "DEAR Extra",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "23:58",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764479069_dear_extra"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/WZNiQTQdwhicEWmHnlQv.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/r81bzwxb.7z"
+    }
+  }
+}

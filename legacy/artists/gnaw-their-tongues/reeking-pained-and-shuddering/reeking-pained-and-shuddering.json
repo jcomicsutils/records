@@ -1,0 +1,24 @@
+{
+  "id": "reeking-pained-and-shuddering",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Reeking Pained and Shuddering",
+    "artist": "Gnaw Their Tongues",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "43:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760923109_reeking_pained_and_shuddering"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/QBGUUbwdPPyqHOVEToo.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vml4u8ox.7z"
+    }
+  }
+}

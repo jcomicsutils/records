@@ -1,0 +1,24 @@
+{
+  "id": "roul-doors",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Roul & Doors",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "11:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760553473_roul___doors"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/fLmzIKfQyMVsOGbArbd.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mrblbcui.7z"
+    }
+  }
+}

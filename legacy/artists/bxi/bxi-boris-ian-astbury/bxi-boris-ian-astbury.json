@@ -1,0 +1,27 @@
+{
+  "id": "bxi-boris-ian-astbury",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "BXI: Boris & Ian Astbury",
+    "artist": "BXI",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "20:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764179962_bxi_boris___ian_astbury"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/hpXzOvztfgvXQRzLMDjE.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0igxl2.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/caw7f3tk.7z"
+    }
+  }
+}

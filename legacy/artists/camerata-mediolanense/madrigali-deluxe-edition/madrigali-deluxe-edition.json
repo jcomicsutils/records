@@ -1,0 +1,24 @@
+{
+  "id": "madrigali-deluxe-edition",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Madrigali (Deluxe Edition)",
+    "artist": "Camerata Mediolanense",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "49:18",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760903751_madrigali__deluxe_edition_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/nfpRvlXgEqoaqqPzQMYI.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/i43irqwu.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "beautiful-2023-edit",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Beautiful (2023 Edit)",
+    "artist": "A. G. Cook",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:04",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760232722_beautiful__2023_edit_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/baqomYxANJYpfMtYobv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/xkacod.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/92hxyr0n.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "nao-me-espere-na-estacao",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Não Me Espere Na Estação",
+    "artist": "Lô Borges",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "36:47",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763907098_n_o_me_espere_na_esta__o"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SnNBJRDFysfzQxLrmMaD.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/18disi28.7z"
+    }
+  }
+}

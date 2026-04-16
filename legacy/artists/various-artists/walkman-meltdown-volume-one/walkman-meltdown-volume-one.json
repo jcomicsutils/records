@@ -1,0 +1,18 @@
+{
+  "id": "walkman-meltdown-volume-one",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Walkman Meltdown Volume One",
+    "artist": "Various Artists",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1755400157_v_a__walkman_meltdown_volume_one_tape_hwe_67__92"
+    }
+  }
+}

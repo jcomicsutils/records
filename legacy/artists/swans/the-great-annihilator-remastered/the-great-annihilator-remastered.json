@@ -1,0 +1,24 @@
+{
+  "id": "the-great-annihilator-remastered",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Great Annihilator (Remastered)",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_human": "1:14:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760227771_the_great_annihilator__remastered_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/qCegcbgrrmfSaOBCwDyr.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/p4srvbss.7z"
+    }
+  }
+}

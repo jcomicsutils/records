@@ -1,0 +1,24 @@
+{
+  "id": "the-last-10-years-vol-1",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Last 10 Years, Vol. 1",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "58:39",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760405645_the_last_10_years__vol__1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/bWepchAeezjGpxxrvdw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dt5ljcz.7z"
+    }
+  }
+}

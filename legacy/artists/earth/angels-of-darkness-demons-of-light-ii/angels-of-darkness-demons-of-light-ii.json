@@ -1,0 +1,24 @@
+{
+  "id": "angels-of-darkness-demons-of-light-ii",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Angels of Darkness, Demons of Light II",
+    "artist": "Earth",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "45:53",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763920210_angels_of_darkness__demons_of_light_ii"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/xiqavtlhBjJDkyooavZH.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/e55pqu.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "seconds-late-for-the-brighton-line",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Seconds Late For The Brighton Line",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "1:24:03",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760312952_seconds_late_for_the_brighton_line"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/UGarEvqptosbwGtIhof.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ja7cz804.7z"
+    }
+  }
+}

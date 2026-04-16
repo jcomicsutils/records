@@ -1,0 +1,27 @@
+{
+  "id": "breakn-a-sweat",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Breakn' A Sweat",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "": {
+      "url": ""
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/1760538135_breakn__a_sweat"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/bjhEUCUTnRWulNZpcKJX.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mplqepm.7z"
+    }
+  }
+}

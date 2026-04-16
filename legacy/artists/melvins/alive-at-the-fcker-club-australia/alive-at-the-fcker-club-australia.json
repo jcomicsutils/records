@@ -1,0 +1,27 @@
+{
+  "id": "alive-at-the-fcker-club-australia",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Alive at the F*cker Club Australia",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "21:44",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769305612_alive_at_the_fcker_club_australia"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1jacspop.7z"
+    },
+    "": {
+      "url": ""
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/bCzSkZfZrnryBpAZcARy.7z"
+    }
+  }
+}

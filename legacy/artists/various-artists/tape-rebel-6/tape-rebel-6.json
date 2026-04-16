@@ -1,0 +1,18 @@
+{
+  "id": "tape-rebel-6",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Tape Rebel 6",
+    "artist": "Various Artists",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1755396010_tape_rebel_6"
+    }
+  }
+}

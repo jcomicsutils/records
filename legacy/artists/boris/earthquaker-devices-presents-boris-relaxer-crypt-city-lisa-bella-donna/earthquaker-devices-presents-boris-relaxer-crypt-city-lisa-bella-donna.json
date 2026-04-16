@@ -1,0 +1,27 @@
+{
+  "id": "earthquaker-devices-presents-boris-relaxer-crypt-city-lisa-bella-donna",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "EarthQuaker Devices Presents: Boris | Relaxer | Crypt City | Lisa Bella Donna",
+    "artist": "Boris",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_human": "22:32",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764490246_earthquaker_devices_presents_boris_relaxer_crypt_c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/dRKDizWRJvaxAvvMNfgA.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vixwo2.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/b73ltib.7z"
+    }
+  }
+}

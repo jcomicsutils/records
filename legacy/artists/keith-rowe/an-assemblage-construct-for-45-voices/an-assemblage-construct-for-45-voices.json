@@ -1,0 +1,27 @@
+{
+  "id": "an-assemblage-construct-for-45-voices",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "An Assemblage / Construct for 45 Voices",
+    "artist": "Keith Rowe",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1755380773_an_assemblage_-_construct_for_45_voices"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/fHRNFzKlnUeWuOIgPugg.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/yds0us.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ur0ojv5g.7z"
+    }
+  }
+}

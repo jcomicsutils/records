@@ -1,0 +1,27 @@
+{
+  "id": "bees-on-echinacea",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Bees on Echinacea",
+    "artist": "Sun Kil Moon",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:45",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768677949_bees_on_echinacea"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8h1huvyj.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vsxrk9.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/iVxUsAMUgkZEGRHQgcEn.7z"
+    }
+  }
+}

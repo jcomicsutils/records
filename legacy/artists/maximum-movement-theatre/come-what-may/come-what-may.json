@@ -1,0 +1,24 @@
+{
+  "id": "come-what-may",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "come what may",
+    "artist": "Maximum Movement Theatre",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "37:00",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761328863_come_what_may"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/FAcrHCrxiEaEyiuOqVLv.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/51bul0zw.7z"
+    }
+  }
+}

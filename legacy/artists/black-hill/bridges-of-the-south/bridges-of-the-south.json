@@ -1,0 +1,27 @@
+{
+  "id": "bridges-of-the-south",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Bridges of the South",
+    "artist": "Black Hill",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "29:04",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760741648_bridges_of_the_south"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/yYptSIRKgbMkVRzCLddO.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/lc602l.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/twgczisc.7z"
+    }
+  }
+}

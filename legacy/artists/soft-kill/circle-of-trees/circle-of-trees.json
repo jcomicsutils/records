@@ -1,0 +1,27 @@
+{
+  "id": "circle-of-trees",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Circle of Trees",
+    "artist": "Soft Kill",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "35:29",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759954951_circle_of_trees"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/CYgOuhMnquaYiLmcmOnq.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/mx8h31.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/n7kxttf.7z"
+    }
+  }
+}

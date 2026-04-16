@@ -1,0 +1,24 @@
+{
+  "id": "the-doors-50th-anniversary-deluxe-edition",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Doors  (50th Anniversary Deluxe Edition)",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 30,
+    "duration_human": "2:15:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760718827_the_doors__50th_anniversary_deluxe_edition_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/dUJHwabFAXjJNTzLKFCm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7tnjotb.7z"
+    }
+  }
+}

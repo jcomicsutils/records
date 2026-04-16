@@ -1,0 +1,27 @@
+{
+  "id": "the-bored-fortress-7-club",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Bored Fortress 7\" Club",
+    "artist": "Yellow Swans",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754829902_the_bored_fortress_7_club"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/oTfwgnLFRdVnePozzr.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/pcs4t8.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4w59qc3m.7z"
+    }
+  }
+}

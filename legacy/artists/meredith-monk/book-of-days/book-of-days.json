@@ -1,0 +1,24 @@
+{
+  "id": "book-of-days",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Book of Days",
+    "artist": "Meredith Monk",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756054445_book_of_days"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/AaWLNPDaPwibHxBvfEHc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/x2cadg2l.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "the-tamburas-of-pandit-pran-nath",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Tamburas of Pandit Pran Nath",
+    "artist": "La Monte Young",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756085693_the_tamburas_of_pandit_pran_nath"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/NwtdfwYyKKKfHUOwxrT.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/komfpb.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8wvridt6.7z"
+    }
+  }
+}

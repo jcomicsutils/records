@@ -1,0 +1,24 @@
+{
+  "id": "animamima",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Animamima",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "1:37:50",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764800264_animamima"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hrv0m50c.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b65/WooPoForPQJRoQpBVYi.7z"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "019-origin-of-insects",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "019. Origin of Insects.",
+    "artist": "Piranesi.",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747969907_piranesi__-_019__origin_of_insects"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/zhCsgFKVEOGxcoDuIG.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/23u9yj.7z"
+    },
+    "piranesiproject_bandcamp_com": {
+      "url": "https://piranesiproject.bandcamp.com/album/019-origin-of-insects"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9ptqrix.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "paris-blues",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Paris Blues",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:53",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "": {
+      "url": ""
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/1760547066_paris_blues"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/zJmgxuSKnWytgKGcbm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/sy6zq5cn.7z"
+    }
+  }
+}

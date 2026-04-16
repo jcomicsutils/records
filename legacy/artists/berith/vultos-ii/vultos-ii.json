@@ -1,0 +1,27 @@
+{
+  "id": "vultos-ii",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "VULTOS II",
+    "artist": "Berith",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "9:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768761570_vultos_ii"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rby14wpa.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/oyaibp.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/GLeaeFJyelnhMIRWTrzL.7z"
+    }
+  }
+}

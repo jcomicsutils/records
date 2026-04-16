@@ -1,0 +1,24 @@
+{
+  "id": "hard-to-reach",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hard to Reach",
+    "artist": "Jesu",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "44:24",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764188544_hard_to_reach"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/havZdkChfOFJfvhexMBW.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/x5al3zw.7z"
+    }
+  }
+}

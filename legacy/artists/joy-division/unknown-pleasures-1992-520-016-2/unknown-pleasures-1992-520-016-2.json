@@ -1,0 +1,24 @@
+{
+  "id": "unknown-pleasures-1992-520-016-2",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Unknown Pleasures [1992, 520 016-2]",
+    "artist": "Joy Division",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752456993_1979__unknown_pleasures__1992__520_016-2_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/VHKEttqqeDMUnCXozYkx.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/blq6psd.7z"
+    }
+  }
+}

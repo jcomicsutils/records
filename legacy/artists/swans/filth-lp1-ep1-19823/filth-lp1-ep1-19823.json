@@ -1,0 +1,24 @@
+{
+  "id": "filth-lp1-ep1-19823",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Filth L.P.#1 E.P.#1 1982/3",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "56:11",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769292576_filth_l_p__1_e_p__1_1982_-_3"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/riu94qvc.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/ghItPTxRFdPZuEaYzPK.7z"
+    }
+  }
+}

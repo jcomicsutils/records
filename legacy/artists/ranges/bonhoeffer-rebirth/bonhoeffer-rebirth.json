@@ -1,0 +1,24 @@
+{
+  "id": "bonhoeffer-rebirth",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Bonhoeffer (Rebirth)",
+    "artist": "Ranges",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "21:25",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759618797_bonhoeffer__rebirth_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/unpOLPoVnWrzRNdHIUSr.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ejdwvt04.7z"
+    }
+  }
+}

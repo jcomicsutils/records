@@ -1,0 +1,24 @@
+{
+  "id": "attention-please",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Attention Please",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "41:20",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764495139_attention_please"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ltmKIKvhrejJfTdTYsPd.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9camp56q.7z"
+    }
+  }
+}

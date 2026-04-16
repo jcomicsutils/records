@@ -1,0 +1,24 @@
+{
+  "id": "rock-dream",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Rock Dream",
+    "artist": "Boris with Merzbow",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "1:50:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763916368_rock_dream"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b63/gzNnRrDKuaGDnbOmNTgo.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/02affvh.7z"
+    }
+  }
+}

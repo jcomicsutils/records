@@ -1,0 +1,24 @@
+{
+  "id": "feel-good-now-2020-remaster",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Feel Good Now (2020 Remaster)",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "1:15:23",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759976556_feel_good_now__2020_remaster_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/vPaQREXDfeqYVCaUEHyp.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ptfe1gal.7z"
+    }
+  }
+}

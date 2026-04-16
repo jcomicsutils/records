@@ -1,0 +1,24 @@
+{
+  "id": "under",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "under",
+    "artist": "Maximum Movement Theatre",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "56:38",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761365341_under"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/wFbSOjsVTAFrdoXCoJCw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/i6bu2wdx.7z"
+    }
+  }
+}

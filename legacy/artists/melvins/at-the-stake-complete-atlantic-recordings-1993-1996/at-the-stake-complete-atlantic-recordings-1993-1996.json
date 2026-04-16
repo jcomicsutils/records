@@ -1,0 +1,21 @@
+{
+  "id": "at-the-stake-complete-atlantic-recordings-1993-1996",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "At the Stake: Complete Atlantic Recordings 1993-1996",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 52,
+    "duration_human": "3:28:22",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769305733_at_the_stake_complete_atlantic_recordings_1993-199"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/mFptTkwuxqLXtnskuYD.7z"
+    }
+  }
+}

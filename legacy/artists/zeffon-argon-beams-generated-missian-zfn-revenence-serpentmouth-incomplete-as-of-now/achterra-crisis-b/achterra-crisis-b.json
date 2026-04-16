@@ -1,0 +1,27 @@
+{
+  "id": "achterra-crisis-b",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Achterra - Crisis B",
+    "artist": "Zeffon / Argon Beams / Generated Missiân ZFN / Revenence / Serpentmouth (incomplete as of now)",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1748609437_zeffon_-_achterra_-_crisis_b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/JpKsmQYgoKhkyTFRrFTv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/zoaot2.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tos0d9qu.7z"
+    }
+  }
+}

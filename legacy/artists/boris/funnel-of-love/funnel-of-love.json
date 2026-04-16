@@ -1,0 +1,27 @@
+{
+  "id": "funnel-of-love",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Funnel of Love",
+    "artist": "Boris",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_human": "4:37",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764469629_funnel_of_love"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/uuojhmDKbtPJIknuXVuI.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/obysq9.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/g4z09ktu.7z"
+    }
+  }
+}

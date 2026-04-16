@@ -1,0 +1,24 @@
+{
+  "id": "feels",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Feels",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "51:51",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760849428_feels"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/WICQPLbFxgFfoOUOmlDz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/p3zyi64.7z"
+    }
+  }
+}

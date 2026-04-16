@@ -1,0 +1,24 @@
+{
+  "id": "wont-becomes-cant",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Won’t Becomes Can’t [やらないが できないことに なってゆく]",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "1:08:23",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764807342_won_t_becomes_can_t______________________"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/pj51yp0q.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/VrjjDBoiqqXJiMXuurjK.7z"
+    }
+  }
+}

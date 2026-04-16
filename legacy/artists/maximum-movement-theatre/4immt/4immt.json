@@ -1,0 +1,27 @@
+{
+  "id": "4immt",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "4I/MMT",
+    "artist": "Maximum Movement Theatre",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "25:12",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761301253_4i_-_mmt"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/nCHfxaDgScaoBvGKeq.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/svzxsw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zvpx9y1e.7z"
+    }
+  }
+}

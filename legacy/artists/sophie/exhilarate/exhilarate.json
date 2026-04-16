@@ -1,0 +1,27 @@
+{
+  "id": "exhilarate",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Exhilarate",
+    "artist": "SOPHIE",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:23",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760214549_exhilarate"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/drmqSmqAJwxiaVuTUUP.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/864sps.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xys2ux5i.7z"
+    }
+  }
+}

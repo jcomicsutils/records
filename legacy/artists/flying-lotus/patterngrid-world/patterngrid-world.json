@@ -1,0 +1,27 @@
+{
+  "id": "patterngrid-world",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Pattern+Grid World",
+    "artist": "Flying Lotus",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757208322_pattern_grid_world"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LDMFRMnBxDPQZUwjDsS.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0hup97.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tlubswmo.7z"
+    }
+  }
+}

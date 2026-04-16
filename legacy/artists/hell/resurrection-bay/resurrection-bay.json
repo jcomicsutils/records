@@ -1,0 +1,27 @@
+{
+  "id": "resurrection-bay",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Resurrection Bay",
+    "artist": "Hell",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "11:51",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763935768_resurrection_bay"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/puLTaedHVeYARYQHlHX.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/o843mu.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1b3ykfw.7z"
+    }
+  }
+}

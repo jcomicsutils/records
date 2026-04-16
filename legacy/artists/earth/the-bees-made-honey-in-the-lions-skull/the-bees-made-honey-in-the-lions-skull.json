@@ -1,0 +1,24 @@
+{
+  "id": "the-bees-made-honey-in-the-lions-skull",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Bees Made Honey in the Lion's Skull",
+    "artist": "Earth",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "53:26",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763932816_the_bees_made_honey_in_the_lion_s_skull"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/fJWNMgqquzOcqJpYPof.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ye63dho1.7z"
+    }
+  }
+}

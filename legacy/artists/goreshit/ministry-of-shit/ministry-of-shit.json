@@ -1,0 +1,24 @@
+{
+  "id": "ministry-of-shit",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ministry of Shit",
+    "artist": "Goreshit",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "40:22",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760570983_ministry_of_shit"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/DmrIpnGGjhbcjvjgUQNW.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/en17tz6.7z"
+    }
+  }
+}

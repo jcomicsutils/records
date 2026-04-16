@@ -1,0 +1,24 @@
+{
+  "id": "psychic-driving-tapes",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Psychic Driving Tapes",
+    "artist": "Aaron Dilloway",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "49:29",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763739887_psychic_driving_tapes"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/hdakyIRhcHuulPySgcWW.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/k7g2yu72.7z"
+    }
+  }
+}

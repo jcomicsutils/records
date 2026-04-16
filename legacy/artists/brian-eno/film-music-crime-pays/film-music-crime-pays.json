@@ -1,0 +1,27 @@
+{
+  "id": "film-music-crime-pays",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Film Music: Crime Pays",
+    "artist": "Brian Eno",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756353833_film_music_crime_pays"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/hczkSipFDUbmpRhnqrO.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/udoupe.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/076817eb.7z"
+    }
+  }
+}

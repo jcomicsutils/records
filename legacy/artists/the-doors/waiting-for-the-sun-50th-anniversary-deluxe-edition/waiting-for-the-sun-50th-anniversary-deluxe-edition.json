@@ -1,0 +1,21 @@
+{
+  "id": "waiting-for-the-sun-50th-anniversary-deluxe-edition",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Waiting for the Sun (50th Anniversary Deluxe Edition)",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 25,
+    "duration_human": "1:16:17",
+    "sampling_rate": "192.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760732039_waiting_for_the_sun__50th_anniversary_deluxe_editi"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/NsDOeCTOWEkLCKWkxjZP.7z"
+    }
+  }
+}

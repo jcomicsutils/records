@@ -1,0 +1,24 @@
+{
+  "id": "the-crybaby",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Crybaby",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "1:07:59",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769312671_the_crybaby"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/s44k38z3.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/MhSpGQdwAIsHlnciSipd.7z"
+    }
+  }
+}

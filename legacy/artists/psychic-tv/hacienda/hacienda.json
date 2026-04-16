@@ -1,0 +1,24 @@
+{
+  "id": "hacienda",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hacienda",
+    "artist": "Psychic TV",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "1:27:39",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759695468_hacienda"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/yCtJuSVoaJGgrRhDCcme.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jnmtl0g5.7z"
+    }
+  }
+}

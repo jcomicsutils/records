@@ -1,0 +1,24 @@
+{
+  "id": "el-kaleidoscopio-terminal",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "El Kaleidoscopio Terminal",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "1:03:40",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760302734_el_kaleidoscopio_terminal"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ChiITtUvfewWNXndDcl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/x3cqgio4.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "shruti-box",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "黒き祈りは在る　黒き祈りは本当に在る　ほら　ここに [Shruti Box]",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "18:51",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764809775____________________________shruti_box_"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lkm1v1rh.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0sudi2.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/VCvWrecVKNRnGgbLfnql.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rejoice",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Rejoice",
+    "artist": "Der Blutharsch and the Infinite Church of the Leading Hand",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "37:39",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759953785_rejoice"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/kKynfTGwfJTcRcvbMWxU.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fnambq7g.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "y",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Y",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "58:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764807684_y"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/a3xtsa.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/JpMseiljnKGBtkUTsIIG.7z"
+    }
+  }
+}

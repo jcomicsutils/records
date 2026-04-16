@@ -1,0 +1,27 @@
+{
+  "id": "the-evening-of-the-24th",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Evening of the 24th",
+    "artist": "And Also the Trees",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747578805_the_evening_of_the_24th"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/nERtSgmBvRdXFInpXVUm.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5u08qu.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lxet6gq.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "oto-t31",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "(oTo) T31",
+    "artist": "(oTo)",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746076029_oto_t31___purple_better_one"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/uXGfISOFONMRdZPsTETc.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/6vkh64.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/86wbh7q.7z"
+    }
+  }
+}

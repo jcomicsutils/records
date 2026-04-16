@@ -1,0 +1,27 @@
+{
+  "id": "live-at-islington-mill-salford-england-05-12-2012",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at Islington Mill, Salford, England (05-12-2012)",
+    "artist": "Boris",
+    "codec": "MP3",
+    "num_tracks": 9,
+    "duration_human": "1:23:15",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764472335_live_at_islington_mill__salford__england__05-12-20"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/CShgtRxYiZuoWdGHzAPu.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/iqigw3.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/x6aru1ni.7z"
+    }
+  }
+}

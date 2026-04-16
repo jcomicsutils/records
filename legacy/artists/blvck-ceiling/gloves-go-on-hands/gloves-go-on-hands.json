@@ -1,0 +1,27 @@
+{
+  "id": "gloves-go-on-hands",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Gloves Go On Hands",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760903000_gloves_go_on_hands"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/tkmeaGmDtPjIQaCYqdQD.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0moynq.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/o76uq2vx.7z"
+    }
+  }
+}

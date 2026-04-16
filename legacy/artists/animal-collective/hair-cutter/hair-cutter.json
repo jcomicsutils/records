@@ -1,0 +1,27 @@
+{
+  "id": "hair-cutter",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hair Cutter",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:01",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760799873_hair_cutter"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ZwgcpUmsLsfilTtxEEgF.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/f44iys.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/anijvjz4.7z"
+    }
+  }
+}

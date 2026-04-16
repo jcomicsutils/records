@@ -1,0 +1,27 @@
+{
+  "id": "hexagono",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hexagono",
+    "artist": "Lô Borges",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "29:49",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763916441_hexagono"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MtGoqkcCmzSNbqPBbUW.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/dyn7xn.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/su8m78kq.7z"
+    }
+  }
+}

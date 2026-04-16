@@ -1,0 +1,27 @@
+{
+  "id": "kebaku-tenjite-myohasen",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Kebaku Tenjite Myohasen 謦縛転じて冥播遷",
+    "artist": "Tsurubami",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_human": "54:21",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765162354_kebaku_tenjite_myohasen_________"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ub4no4np.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/yiquj8.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/vjjhKzGainCCQdhlSkRB.7z"
+    }
+  }
+}

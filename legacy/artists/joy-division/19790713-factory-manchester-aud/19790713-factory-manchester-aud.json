@@ -1,0 +1,27 @@
+{
+  "id": "19790713-factory-manchester-aud",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "1979.07.13 Factory, Manchester (AUD)",
+    "artist": "Joy Division",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752281521_1979_07_13_factory__manchester__aud_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/yWFeIDaWMcyOafmapZo.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/6pycwn.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/kd77ez0f.7z"
+    }
+  }
+}

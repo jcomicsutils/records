@@ -1,0 +1,27 @@
+{
+  "id": "c-o-s-m-o-s",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "c o s m o s",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:29",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760897227_c_o_s_m_o_s"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/WeSfYDTsgUKZkJbMkxzA.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0q2gfl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gra0aetb.7z"
+    }
+  }
+}

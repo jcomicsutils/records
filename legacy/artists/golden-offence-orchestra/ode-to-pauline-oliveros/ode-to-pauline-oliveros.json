@@ -1,0 +1,24 @@
+{
+  "id": "ode-to-pauline-oliveros",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ode to Pauline Oliveros",
+    "artist": "Golden Offence Orchestra",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "57:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767020612_ode_to_pauline_oliveros"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/uxzl3cym.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/cPpqpFffXXVWcmYpBeY.7z"
+    }
+  }
+}

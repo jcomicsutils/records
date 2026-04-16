@@ -1,0 +1,27 @@
+{
+  "id": "this-new-noise-live",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "This New Noise (Live)",
+    "artist": "Public Service Broadcasting",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:53",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761529554_this_new_noise__live___2023___2_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/cMBBeDFCvbfexgOvjLPg.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/rgw346.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/z8albcv3.7z"
+    }
+  }
+}

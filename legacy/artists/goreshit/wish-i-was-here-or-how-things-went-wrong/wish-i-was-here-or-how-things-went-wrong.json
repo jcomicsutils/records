@@ -1,0 +1,24 @@
+{
+  "id": "wish-i-was-here-or-how-things-went-wrong",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Wish I Was Here (Or How Things Went Wrong)",
+    "artist": "Goreshit",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "48:32",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760572260_wish_i_was_here__or_how_things_went_wrong_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MOrFwThqIbimhwqHqEeN.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ncwcd7te.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "dead-lovers-sarabande",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Dead Lovers Sarabande",
+    "artist": "Sopor Aeternus & The Ensemble of Shadows",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "1:04:27",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761496521_dead_lovers_sarabande"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/jdxhucCNiiouTTIxreLG.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/40yn1hnp.7z"
+    }
+  }
+}

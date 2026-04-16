@@ -1,0 +1,24 @@
+{
+  "id": "the-dragon-experience",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Dragon Experience",
+    "artist": "cEvin Key",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "53:53",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760288914_the_dragon_experience"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MgxoPrwZFOUQGnVwCDz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/yl97zga.7z"
+    }
+  }
+}

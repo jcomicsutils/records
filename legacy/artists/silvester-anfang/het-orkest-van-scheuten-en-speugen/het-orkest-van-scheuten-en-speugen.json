@@ -1,0 +1,27 @@
+{
+  "id": "het-orkest-van-scheuten-en-speugen",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Het Orkest Van Scheuten en Speugen",
+    "artist": "Silvester Anfang",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752359160_het_orkest_van_scheuten_en_speugen"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/WUVbdFWARWHwrbXvuIMl.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/hlde7y.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4z06rnfs.7z"
+    }
+  }
+}

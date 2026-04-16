@@ -1,0 +1,27 @@
+{
+  "id": "victory-of-the-pyramids",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Victory of the Pyramids",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "9:36",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769314622_victory_of_the_pyramids"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zf9mdzcx.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/p5lgkl.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/UtbDOVixDZkigxqvEUcn.7z"
+    }
+  }
+}

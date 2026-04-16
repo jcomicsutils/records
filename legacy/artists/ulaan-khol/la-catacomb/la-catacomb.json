@@ -1,0 +1,27 @@
+{
+  "id": "la-catacomb",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "La Catacomb",
+    "artist": "Ulaan Khol",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "36:35",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769913193_la_catacomb"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mmmm5bjv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/klujea.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/tJyHWowRVDKUsXOliIF.7z"
+    }
+  }
+}

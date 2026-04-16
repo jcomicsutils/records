@@ -1,0 +1,24 @@
+{
+  "id": "lip-syncing-to-verme",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Lip Syncing To Verme",
+    "artist": "Aaron Dilloway",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "45:07",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763737658_lip_syncing_to_verme"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/nztveeXNHDatgnUGDUhl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/yjwnv1ba.7z"
+    }
+  }
+}

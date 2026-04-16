@@ -1,0 +1,27 @@
+{
+  "id": "live-at-sound-fury-29102005",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at Sound & Fury 29.10.2005",
+    "artist": "Yellow Swans",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754817415_live_at_sound___fury_29_10_2005"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/nasjLWLBpRkFsXUOTtOo.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/fp4jfp.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6836g7dx.7z"
+    }
+  }
+}

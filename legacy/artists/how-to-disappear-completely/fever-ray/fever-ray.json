@@ -1,0 +1,27 @@
+{
+  "id": "fever-ray",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Fever Ray",
+    "artist": "How To Disappear Completely",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "24:03",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759951368_fever_ray"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/QFrbidBIFXZiKXdJlUJ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/boksa0.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ksntf5q.7z"
+    }
+  }
+}

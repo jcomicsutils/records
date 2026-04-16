@@ -1,0 +1,24 @@
+{
+  "id": "perichoresis",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Perichoresis",
+    "artist": "Pulsefear",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752325117_perichoresis"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/gpNsTDRYGENzdDmIHWFV.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/x4s1mrl.7z"
+    }
+  }
+}

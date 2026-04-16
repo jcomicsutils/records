@@ -1,0 +1,27 @@
+{
+  "id": "down-in-it",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Down In It",
+    "artist": "Nine Inch Nails",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "17:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761353324_down_in_it"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LGSuHqTcrKxvSlrzMqg.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7te171.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vaq9r7vi.7z"
+    }
+  }
+}

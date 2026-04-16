@@ -1,0 +1,27 @@
+{
+  "id": "christmas",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Christmas",
+    "artist": "Jesu",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "28:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764185560_christmas"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/qwItNLXqfzxweVMAsRhL.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/m7zze6.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/iwgepkg0.7z"
+    }
+  }
+}

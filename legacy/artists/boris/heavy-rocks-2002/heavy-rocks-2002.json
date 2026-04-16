@@ -1,0 +1,24 @@
+{
+  "id": "heavy-rocks-2002",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Heavy Rocks (2002)",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "46:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764470062_heavy_rocks__2002_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/EczhNiluKpAPLmmsMRbs.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/e3wui7qq.7z"
+    }
+  }
+}

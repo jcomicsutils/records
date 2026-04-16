@@ -1,0 +1,24 @@
+{
+  "id": "tower-block-knife-crime",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Tower Block Knife Crime",
+    "artist": "Goreshit",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "56:58",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760562748_tower_block_knife_crime"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/qNWncsKZPTCpztVozeTz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/s1r9hz1y.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "martin-escalante-and-ryoko-ono-duo-newduo-series-014",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Martín Escalante and Ryoko Ono DUO (NEWDUO series 014)",
+    "artist": "Ono Ryoko",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_human": "33:23",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764962098_mart_n_escalante_and_ryoko_ono_duo__newduo_series_"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/eyzipisx.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/mlnorr.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/GxmCzulfrAHljuoazRZ.7z"
+    }
+  }
+}

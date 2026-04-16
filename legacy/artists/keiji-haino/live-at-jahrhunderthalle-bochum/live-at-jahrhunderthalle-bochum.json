@@ -1,0 +1,24 @@
+{
+  "id": "live-at-jahrhunderthalle-bochum",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at Jahrhunderthalle Bochum",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "42:51",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764797338_live_at_jahrhunderthalle_bochum"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zmz8xyj.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SuVaIGYsMrsatieqOr.7z"
+    }
+  }
+}

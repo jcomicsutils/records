@@ -1,0 +1,27 @@
+{
+  "id": "cold-steel",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Cold Steel",
+    "artist": "Psychic TV",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:54",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759685742_cold_steel"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/GNrdTorklItdkjpNgcKL.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/olfw48.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/p1xvcuoc.7z"
+    }
+  }
+}

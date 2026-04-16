@@ -1,0 +1,24 @@
+{
+  "id": "daudarstev",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Daudarstev",
+    "artist": "Eldrim",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "43:52",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760896375_daudarstev"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PNxibirVUCAkpNTdFHil.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/32qc18kz.7z"
+    }
+  }
+}

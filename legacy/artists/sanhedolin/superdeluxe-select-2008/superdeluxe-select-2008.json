@@ -1,0 +1,27 @@
+{
+  "id": "superdeluxe-select-2008",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "SuperDeluxe SELECT ～ ライブ 2008 (複数の抜粋)",
+    "artist": "Sanhedolin",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_human": "31:44",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764534267_superdeluxe_select_______2008________"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/vFBNqcbPPRCiMAaAARnK.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/xx2o5o.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/93ub8ycx.7z"
+    }
+  }
+}

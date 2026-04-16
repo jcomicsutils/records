@@ -1,0 +1,27 @@
+{
+  "id": "an-unmistakably-mistaken-subject-now-in-use",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "An Unmistakably Mistaken Subject Now in Use",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "23:32",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764799130_an_unmistakably_mistaken_subject_now_in_use"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/smofko5u.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/kpj1lw.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/mWZrqYhfzCIzJQRSHYvd.7z"
+    }
+  }
+}

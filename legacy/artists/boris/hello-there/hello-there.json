@@ -1,0 +1,24 @@
+{
+  "id": "hello-there",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hello There",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "39:26",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764474462_hello_there"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/KZPJsoCviEoXsWUljXVV.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dcfhpuu9.7z"
+    }
+  }
+}

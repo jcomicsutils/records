@@ -1,0 +1,27 @@
+{
+  "id": "9",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "9",
+    "artist": "Supersilent",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752367223_9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/YcqHgkwxemLPlfgfTDxO.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2797f3.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ru379hs6.7z"
+    }
+  }
+}

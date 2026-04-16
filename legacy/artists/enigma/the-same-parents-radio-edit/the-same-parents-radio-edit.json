@@ -1,0 +1,27 @@
+{
+  "id": "the-same-parents-radio-edit",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Same Parents (Radio Edit)",
+    "artist": "Enigma",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:02",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761150175_the_same_parents__radio_edit_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/VvvjKnWewwOKAzvWNWTm.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2vz1ul.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/b8hql5v0.7z"
+    }
+  }
+}

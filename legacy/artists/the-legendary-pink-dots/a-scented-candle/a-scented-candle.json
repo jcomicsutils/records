@@ -1,0 +1,27 @@
+{
+  "id": "a-scented-candle",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Scented Candle",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "17:56",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760285917_a_scented_candle"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/KikNYWqscTHMXEWQezk.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0lwnax.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hemw340d.7z"
+    }
+  }
+}

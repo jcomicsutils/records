@@ -1,0 +1,24 @@
+{
+  "id": "cryogenic-spacefaring",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Cryogenic Spacefaring",
+    "artist": "Creation VI",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "1:19:53",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760758143_cryogenic_spacefaring"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/AQhpzkVGTQMthfAAWBou.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/um3uj9ep.7z"
+    }
+  }
+}

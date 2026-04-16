@@ -1,0 +1,24 @@
+{
+  "id": "live-in-seattle-1970",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live in Seattle 1970",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "1:13:05",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760718022_live_in_seattle_1970"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/EuKucXfUGPWVsJBuRyLS.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9w9kfkdw.7z"
+    }
+  }
+}

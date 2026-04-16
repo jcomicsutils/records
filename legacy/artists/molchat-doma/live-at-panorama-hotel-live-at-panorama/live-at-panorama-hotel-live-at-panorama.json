@@ -1,0 +1,27 @@
+{
+  "id": "live-at-panorama-hotel-live-at-panorama",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at Panorama Hotel (Live at Panorama)",
+    "artist": "Molchat Doma",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "10:40",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760405073_live_at_panorama_hotel__live_at_panorama_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/FLlWpNowkvJqnJPtRPuM.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5dyc7q.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vxnf1am2.7z"
+    }
+  }
+}

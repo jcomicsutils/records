@@ -1,0 +1,24 @@
+{
+  "id": "death-and-flamingos",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Death and Flamingos",
+    "artist": "Sopor Aeternus & The Ensemble of Shadows",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "42:41",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761501910_death_and_flamingos"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/qzavlFlMMklodUpqjT.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wx6ubv6u.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rocky-the-sweden-and-boris",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Rocky & The Sweden and Boris",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "22:36",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764487164_rocky___the_sweden_and_boris"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/KpIVvQjffpHIILFkFrkq.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/a9fhfa.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ga2rdh3e.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "19790314-bowden-vale-altrincham-sbd",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "1979.03.14 Bowden Vale, Altrincham (SBD)",
+    "artist": "Joy Division",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752280610_1979_03_14_bowden_vale__altrincham__sbd_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/tZWyFEkjswNZpeHFauDE.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/nk5jrt.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lgopwj9d.7z"
+    }
+  }
+}

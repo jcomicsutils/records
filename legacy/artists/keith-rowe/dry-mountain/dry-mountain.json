@@ -1,0 +1,24 @@
+{
+  "id": "dry-mountain",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Dry Mountain",
+    "artist": "Keith Rowe",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1755388279_dry_mountain"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/FBDhtKDuwtVniaHbra.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/06efz8fu.7z"
+    }
+  }
+}

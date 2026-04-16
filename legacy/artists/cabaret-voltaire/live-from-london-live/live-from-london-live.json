@@ -1,0 +1,21 @@
+{
+  "id": "live-from-london-live",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live From London (Live)",
+    "artist": "Cabaret Voltaire",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759077211_live_from_london__live_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MEObUwAvnWqBduYeVZW.zip"
+    }
+  }
+}

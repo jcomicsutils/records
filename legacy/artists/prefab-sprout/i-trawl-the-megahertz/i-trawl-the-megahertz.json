@@ -1,0 +1,24 @@
+{
+  "id": "i-trawl-the-megahertz",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "I Trawl the Megahertz",
+    "artist": "Prefab Sprout",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "53:40",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760250320_i_trawl_the_megahertz"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/KMcmQmjNnCOOqMQvbfgl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/5jrlb5hb.7z"
+    }
+  }
+}

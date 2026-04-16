@@ -1,0 +1,24 @@
+{
+  "id": "live-in-montpellier-1994",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live In Montpellier 1994",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "1:41:11",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760407041_live_in_montpellier_1994"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/WoMNmsftNQElrBSmUurk.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/5abwsuen.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "an-infectious-teaser",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "An Infectious Teaser",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "11:56",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760295471_an_infectious_teaser"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SfgsJrurLgsIMDnvCqO.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/k6yr1o.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/sgd4oczq.7z"
+    }
+  }
+}

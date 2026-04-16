@@ -1,0 +1,27 @@
+{
+  "id": "call-him-a-doctor",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Call Him A Doctor",
+    "artist": "GFOTY",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "20:25",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760467333_call_him_a_doctor"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/pqdOivtaLaNqiZOwcQE.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/386vkv.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/o6eq66a6.7z"
+    }
+  }
+}

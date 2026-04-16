@@ -1,0 +1,27 @@
+{
+  "id": "acid-rain",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Acid Rain",
+    "artist": "Zeffon / Argon Beams / Generated Missiân ZFN / Revenence / Serpentmouth (incomplete as of now)",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1748609734_zeffon_-_acid_rain"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/TvmDicIuVpbmJUBzBmq.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/hiwg50.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8vl9itnk.7z"
+    }
+  }
+}

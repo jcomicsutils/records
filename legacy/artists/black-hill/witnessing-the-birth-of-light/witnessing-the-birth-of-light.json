@@ -1,0 +1,27 @@
+{
+  "id": "witnessing-the-birth-of-light",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Witnessing the birth of light",
+    "artist": "Black Hill",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "24:16",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760752729_witnessing_the_birth_of_light"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/iVccyesVyKRWChkZoYN.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/owj3m9.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8u5lz3vy.7z"
+    }
+  }
+}

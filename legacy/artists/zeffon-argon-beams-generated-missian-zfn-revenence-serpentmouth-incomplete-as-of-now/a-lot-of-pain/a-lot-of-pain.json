@@ -1,0 +1,27 @@
+{
+  "id": "a-lot-of-pain",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Lot of Pain",
+    "artist": "Zeffon / Argon Beams / Generated Missiân ZFN / Revenence / Serpentmouth (incomplete as of now)",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1748227312_zeffon_-_a_lot_of_pain"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/OHjRqJMrESgxnBwdiqq.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vxpp3t.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/g8vhvzo6.7z"
+    }
+  }
+}

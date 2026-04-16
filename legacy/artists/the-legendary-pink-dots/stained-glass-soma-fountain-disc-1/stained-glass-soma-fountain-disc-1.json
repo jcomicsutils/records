@@ -1,0 +1,24 @@
+{
+  "id": "stained-glass-soma-fountain-disc-1",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Stained Glass Soma Fountain (Disc 1)",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 22,
+    "duration_human": "2:06:03",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760323246_stained_glass_soma_fountain__disc_1_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/brtfdHTWqAajqOmymXqV.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/a3jahpk.7z"
+    }
+  }
+}

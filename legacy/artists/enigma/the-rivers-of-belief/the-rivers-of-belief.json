@@ -1,0 +1,27 @@
+{
+  "id": "the-rivers-of-belief",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Rivers Of Belief",
+    "artist": "Enigma",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "15:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761149046_the_rivers_of_belief"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/zKWCxRvoWyMFpyWObhTg.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ig73lq.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7sywva4p.7z"
+    }
+  }
+}

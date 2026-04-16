@@ -1,0 +1,24 @@
+{
+  "id": "arst-la-passe-a-quatre-live-in-nantes-1999",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Arst (La Passe à Quatre, Live in Nantes, 1999)",
+    "artist": "Keith Rowe",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1755380916_arst__la_passe___quatre__live_in_nantes__1999_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/ZiCrwZKaveDjsAbELxyg.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vbv19.7z"
+    }
+  }
+}

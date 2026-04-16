@@ -1,0 +1,24 @@
+{
+  "id": "realgar",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Réalgar",
+    "artist": "Year of No Light",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "12:45",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761597141_r_algar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/lpzUAeKmuibzSGHHNrLm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fbwpr4ao.7z"
+    }
+  }
+}

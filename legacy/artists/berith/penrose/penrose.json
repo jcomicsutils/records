@@ -1,0 +1,27 @@
+{
+  "id": "penrose",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "PENROSE",
+    "artist": "Berith",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "12:06",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768760848_penrose"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/h9hrlxb.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/3el8c6.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/BNREnqdsEShpgDhAJfi.7z"
+    }
+  }
+}

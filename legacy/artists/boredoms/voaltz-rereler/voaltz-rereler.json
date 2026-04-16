@@ -1,0 +1,27 @@
+{
+  "id": "voaltz-rereler",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Voaltz / Rereler",
+    "artist": "Boredoms",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "15:51",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765129178_voaltz_-_rereler"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nekyzrs.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/j2oggs.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/yICRmhQvLuiFTGZHAHXd.7z"
+    }
+  }
+}

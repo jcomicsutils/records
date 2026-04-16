@@ -1,0 +1,24 @@
+{
+  "id": "plantlife-light-industrial",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Plantlife - Light Industrial",
+    "artist": "Claude Larson",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_human": "39:04",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759772157_plantlife_-_light_industrial"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/znGUBJugVYtUKkdMGrym.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4ezfxo7.7z"
+    }
+  }
+}

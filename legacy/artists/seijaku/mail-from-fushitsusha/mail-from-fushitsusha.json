@@ -1,0 +1,24 @@
+{
+  "id": "mail-from-fushitsusha",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Mail From Fushitsusha",
+    "artist": "Seijaku [静寂]",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "56:26",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764536193_mail_from_fushitsusha"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/spplcqRPQSXOjXSDZWB.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gxh6c82.7z"
+    }
+  }
+}

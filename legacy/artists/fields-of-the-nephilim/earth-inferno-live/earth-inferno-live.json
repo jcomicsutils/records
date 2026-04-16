@@ -1,0 +1,24 @@
+{
+  "id": "earth-inferno-live",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Earth Inferno (Live)",
+    "artist": "Fields Of The Nephilim",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "1:17:29",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761092923_earth_inferno__live_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/JDYXiRYjQoxSrkkQRMhg.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/edw47n9z.7z"
+    }
+  }
+}

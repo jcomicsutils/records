@@ -1,0 +1,27 @@
+{
+  "id": "adonde-vas-juliano",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "¿Adónde vas Juliano?",
+    "artist": "Boogarins",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758058557_ad_nde_vas_juliano"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PxvIVExQUEQRtrJWXMY.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/q6lfnn.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tlne51m0.7z"
+    }
+  }
+}

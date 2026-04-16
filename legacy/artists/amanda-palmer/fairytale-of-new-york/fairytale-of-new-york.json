@@ -1,0 +1,27 @@
+{
+  "id": "fairytale-of-new-york",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Fairytale of New York",
+    "artist": "Amanda Palmer",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:37",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763742242_fairytale_of_new_york"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/hqvLaRKjRpTsFkVrUbzq.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wppw13.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qeu47th6.7z"
+    }
+  }
+}

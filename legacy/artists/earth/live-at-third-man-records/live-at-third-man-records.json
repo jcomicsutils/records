@@ -1,0 +1,27 @@
+{
+  "id": "live-at-third-man-records",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at Third Man Records",
+    "artist": "Earth",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_human": "35:42",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763923935_live_at_third_man_records"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/tCdkzDQgWYfQecVOlfDj.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/lmp4zr.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0n1r27d2.7z"
+    }
+  }
+}

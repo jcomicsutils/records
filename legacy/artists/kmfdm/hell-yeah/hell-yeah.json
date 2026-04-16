@@ -1,0 +1,24 @@
+{
+  "id": "hell-yeah",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hell Yeah",
+    "artist": "KMFDM",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:05",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761283059_hell_yeah__single_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ExFBuRyyVMwdycggnlDg.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/j5bh035f.7z"
+    }
+  }
+}

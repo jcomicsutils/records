@@ -1,0 +1,24 @@
+{
+  "id": "live-in-thee-mean-fiddler-live-from-thee-mean-fiddler-13th-december-1989",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live In Thee Mean Fiddler (Live from Thee Mean Fiddler, 13th December 1989)",
+    "artist": "Psychic TV",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "1:00:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759717322_live_in_thee_mean_fiddler__live_from_thee_mean_fid"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/iuYKseYEQGnQXgYrmgUn.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/a9f2k3t7.7z"
+    }
+  }
+}

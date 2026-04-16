@@ -1,0 +1,27 @@
+{
+  "id": "2006-05-25-walker-arts-center-minnesota",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "2006-05-25 Walker Arts Center, Minnesota",
+    "artist": "Boris",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_human": "58:24",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764469838_2006-05-25_walker_arts_center__minnesota"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/XmxosuKbppkywDpRxxtJ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/3x8b67.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/doblv0ur.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "motionless-constant",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Motionless Constant",
+    "artist": "How To Disappear Completely",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "12:01",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759960712_motionless_constant"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/pPykDtXrWytQCEcNVwSJ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/afvze4.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ut6q2qow.7z"
+    }
+  }
+}

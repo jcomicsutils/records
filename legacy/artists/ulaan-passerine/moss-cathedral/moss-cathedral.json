@@ -1,0 +1,24 @@
+{
+  "id": "moss-cathedral",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Moss Cathedral",
+    "artist": "Ulaan Passerine",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "36:22",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769916891_moss_cathedral"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9xwvq0d.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/VyhEiFdUKCEOhXGBaep.7z"
+    }
+  }
+}

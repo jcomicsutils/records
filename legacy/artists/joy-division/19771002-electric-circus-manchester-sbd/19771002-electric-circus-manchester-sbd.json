@@ -1,0 +1,27 @@
+{
+  "id": "19771002-electric-circus-manchester-sbd",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "1977.10.02 Electric Circus, Manchester (SBD)",
+    "artist": "Joy Division",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752279962_1977_10_02_electric_circus__manchester__sbd_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/DajfjFvpMkPhpJmzXQHu.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ipn3cy.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7bq1ljfw.7z"
+    }
+  }
+}

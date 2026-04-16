@@ -1,0 +1,24 @@
+{
+  "id": "carpet-bed",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Carpet Bed",
+    "artist": "Ethel Cain",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "15:02",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767669195_carpet_bed"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lfp279ey.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b69/OnBOqeQxOzDPSthesufE.7z"
+    }
+  }
+}

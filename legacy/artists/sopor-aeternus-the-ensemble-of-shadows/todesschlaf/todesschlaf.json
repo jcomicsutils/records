@@ -1,0 +1,27 @@
+{
+  "id": "todesschlaf",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Todesschlaf",
+    "artist": "Sopor Aeternus & The Ensemble of Shadows",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "14:02",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761593668_todesschlaf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/qUcBVpDQzbAjuKxaoxh.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ppyvqs.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/96excuy3.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "chicken-switch",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Chicken Switch",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_human": "1:09:55",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769307611_chicken_switch"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gw5811cl.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/pXkVuIkrfDnvlIHSlFZD.7z"
+    }
+  }
+}

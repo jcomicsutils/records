@@ -1,0 +1,27 @@
+{
+  "id": "on-being-kind-to-horses",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "On Being Kind to Horses",
+    "artist": "Félicia Atkinson",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "25:36",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767036775_on_being_kind_to_horses"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7hw4ekna.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/cute4h.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/fiSoPNcCVEncdryfIgo.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "amanda-palmer-performs-the-popular-hits-of-radiohead-on-her-magical-ukulele",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Amanda Palmer Performs the Popular Hits of Radiohead on Her Magical Ukulele",
+    "artist": "Amanda Palmer",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "32:43",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763738830_amanda_palmer_performs_the_popular_hits_of_radiohe"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/asuTLxpfTpzZwZURKlYo.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/xmzssk.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3plzhb5q.7z"
+    }
+  }
+}

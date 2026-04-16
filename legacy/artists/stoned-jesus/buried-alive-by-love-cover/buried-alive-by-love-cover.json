@@ -1,0 +1,27 @@
+{
+  "id": "buried-alive-by-love-cover",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Buried Alive by Love  (Cover)",
+    "artist": "Stoned Jesus",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:59",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760467549_buried_alive_by_love__cover_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ytXuajqafFpPrCLhZGyH.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/kqfl1y.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mrjrod9.7z"
+    }
+  }
+}

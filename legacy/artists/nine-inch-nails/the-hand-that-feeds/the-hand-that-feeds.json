@@ -1,0 +1,27 @@
+{
+  "id": "the-hand-that-feeds",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Hand That Feeds",
+    "artist": "Nine Inch Nails",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "19:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761428662_the_hand_that_feeds__2005___2_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/maBBxFfvqyDOhMWwvi.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/s15pwg.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/uyfh61h.7z"
+    }
+  }
+}

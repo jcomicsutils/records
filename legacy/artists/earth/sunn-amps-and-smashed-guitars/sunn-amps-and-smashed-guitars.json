@@ -1,0 +1,27 @@
+{
+  "id": "sunn-amps-and-smashed-guitars",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sunn Amps And Smashed Guitars",
+    "artist": "Earth",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_human": "54:24",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763932202_sunn_amps_and_smashed_guitars"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/tjUqzmveHrYYKZLRgXGx.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/m39vu1.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4qk5u6xu.7z"
+    }
+  }
+}

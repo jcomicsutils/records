@@ -1,0 +1,27 @@
+{
+  "id": "cute",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Cute",
+    "artist": "Sutcliffe Jügend",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752389786_cute"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/UBKFnQQnWZNktQBXDJzA.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/82xexe.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/u1h5w00r.7z"
+    }
+  }
+}

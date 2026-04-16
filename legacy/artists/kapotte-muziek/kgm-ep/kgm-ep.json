@@ -1,0 +1,24 @@
+{
+  "id": "kgm-ep",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "KGM - EP",
+    "artist": "Kapotte Muziek",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "21:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761159641_kgm_-_ep"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/XKDiNxAneGBvXGoCPqPj.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9vjoxk19.7z"
+    }
+  }
+}

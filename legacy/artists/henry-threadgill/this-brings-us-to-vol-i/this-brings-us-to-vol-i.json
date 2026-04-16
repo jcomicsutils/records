@@ -1,0 +1,24 @@
+{
+  "id": "this-brings-us-to-vol-i",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "This Brings Us To, Vol. I",
+    "artist": "Henry Threadgill",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756149269_this_brings_us_to__vol__i"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/tUsacsJzGSEDtynzMY.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/v7s8khvv.7z"
+    }
+  }
+}

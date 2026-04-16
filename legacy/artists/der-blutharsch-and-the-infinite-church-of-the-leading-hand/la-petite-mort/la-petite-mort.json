@@ -1,0 +1,27 @@
+{
+  "id": "la-petite-mort",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "La Petite Mort",
+    "artist": "Der Blutharsch and the Infinite Church of the Leading Hand",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "15:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759952584_la_petite_mort"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/gpZLQUderPUwAJurTi.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/fon3sk.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gigqmh0.7z"
+    }
+  }
+}

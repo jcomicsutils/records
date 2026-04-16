@@ -1,0 +1,27 @@
+{
+  "id": "one-day-in-may",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "One Day in May",
+    "artist": "Sun Kil Moon",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "27:10",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768685736_one_day_in_may"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rkufc1k4.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/r1cz60.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/wYGqqEwIVVPNDIWMwRZG.7z"
+    }
+  }
+}

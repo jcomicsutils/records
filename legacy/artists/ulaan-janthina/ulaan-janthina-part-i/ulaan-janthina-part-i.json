@@ -1,0 +1,27 @@
+{
+  "id": "ulaan-janthina-part-i",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ulaan Janthina (Part I)",
+    "artist": "Ulaan Janthina",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "33:44",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769915290_ulaan_janthina__part_i_"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/t2r63gir.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ft9dv9.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/YVEiwRbEAaffbVqNikEo.7z"
+    }
+  }
+}

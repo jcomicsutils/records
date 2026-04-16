@@ -1,0 +1,24 @@
+{
+  "id": "selected-works-ii",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Selected Works II",
+    "artist": "Sarah Davachi",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "42:31",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761598616_selected_works_ii"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/kEuoqgwvIIeQQZIDaryo.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/x4nnvs3.7z"
+    }
+  }
+}

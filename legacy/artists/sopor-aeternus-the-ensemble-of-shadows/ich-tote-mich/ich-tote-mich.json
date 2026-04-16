@@ -1,0 +1,24 @@
+{
+  "id": "ich-tote-mich",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ich töte mich",
+    "artist": "Sopor Aeternus & The Ensemble of Shadows",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_human": "1:18:22",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761513282_ich_t_te_mich"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/szGpGLvlZvRTGorvQvCt.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/brdp8b01.7z"
+    }
+  }
+}

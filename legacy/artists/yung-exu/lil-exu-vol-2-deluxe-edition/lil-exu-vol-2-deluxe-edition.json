@@ -1,0 +1,24 @@
+{
+  "id": "lil-exu-vol-2-deluxe-edition",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Lil Exu Vol. 2 ( Deluxe Edition )",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "30:05",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759617094_lil_exu_vol__2___deluxe_edition__"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/xlcdlzqCKTeHRTWCx.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2plui1ct.7z"
+    }
+  }
+}

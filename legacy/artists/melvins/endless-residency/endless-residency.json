@@ -1,0 +1,24 @@
+{
+  "id": "endless-residency",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Endless Residency",
+    "artist": "Melvins",
+    "codec": "MP3",
+    "num_tracks": 48,
+    "duration_human": "4:02:32",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769309977_endless_residency"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2fg16fzk.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/PDqZsNkrCLIhjSDYBhB.7z"
+    }
+  }
+}

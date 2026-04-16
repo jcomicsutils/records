@@ -1,0 +1,24 @@
+{
+  "id": "in-love-we-trust",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "In Love We Trust",
+    "artist": "Clan of Xymox",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "48:37",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760991032_in_love_we_trust"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/oQSzZsEZCwjUqHrQBJlq.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/141d9e1.7z"
+    }
+  }
+}

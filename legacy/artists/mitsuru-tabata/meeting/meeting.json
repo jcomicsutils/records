@@ -1,0 +1,27 @@
+{
+  "id": "meeting",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "出会い Meeting",
+    "artist": "Mitsuru Tabata",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_human": "50:38",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765053799_____meeting"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nqww5az6.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0hqp37.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/JqlMlaeeUMNqPGxfCDUe.7z"
+    }
+  }
+}

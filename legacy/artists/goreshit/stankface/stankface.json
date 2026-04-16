@@ -1,0 +1,24 @@
+{
+  "id": "stankface",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Stankface",
+    "artist": "Goreshit",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_human": "53:18",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760552860_stankface"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/oDnBEsXWaFztMcpmyX.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/14dynvyo.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "for-harpsichord-for-pipe-organ-and-string-trio",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "For Harpsichord / For Pipe Organ And String Trio",
+    "artist": "Sarah Davachi",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "48:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761510750_for_harpsichord_-_for_pipe_organ_and_string_trio"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/YgUCPBJSmNHAtPBDNIC.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jfpd5e.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mf84ixra.7z"
+    }
+  }
+}

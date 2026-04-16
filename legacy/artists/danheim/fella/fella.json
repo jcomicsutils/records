@@ -1,0 +1,27 @@
+{
+  "id": "fella",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Fella",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:11",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760743866_fella"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/EibabjIurELltyYDdX.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0aukw9.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/s4gg3lv4.7z"
+    }
+  }
+}

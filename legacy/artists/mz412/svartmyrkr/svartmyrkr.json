@@ -1,0 +1,21 @@
+{
+  "id": "svartmyrkr",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Svartmyrkr",
+    "artist": "Mz.412",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759018699_svartmyrkr"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/WheNRrWDSvzDYxqjJTAc.zip"
+    }
+  }
+}

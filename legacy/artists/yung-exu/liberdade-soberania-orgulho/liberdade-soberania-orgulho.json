@@ -1,0 +1,27 @@
+{
+  "id": "liberdade-soberania-orgulho",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Liberdade Soberania & Orgulho",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "23:51",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759615644_liberdade_soberania___orgulho"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/lJYhvAfZbGPPaPaCpLX.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/hmgss9.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gj5xkhv2.7z"
+    }
+  }
+}

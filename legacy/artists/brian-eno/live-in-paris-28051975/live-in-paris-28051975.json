@@ -1,0 +1,24 @@
+{
+  "id": "live-in-paris-28051975",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "LIVE IN PARIS 28.05.1975",
+    "artist": "Brian Eno",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756319088_live_in_paris_28_05_1975"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b57/KCLnCHWsqBVIaydiKoE.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fz4yejk8.7z"
+    }
+  }
+}

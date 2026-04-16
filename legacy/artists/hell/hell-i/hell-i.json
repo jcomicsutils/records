@@ -1,0 +1,24 @@
+{
+  "id": "hell-i",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hell I",
+    "artist": "Hell",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "48:15",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763931221_hell_i"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/BCsrxtPMXhOaJEwTQoQ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/04pr1wuq.7z"
+    }
+  }
+}

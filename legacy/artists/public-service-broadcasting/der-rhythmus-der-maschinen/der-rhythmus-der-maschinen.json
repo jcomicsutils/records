@@ -1,0 +1,24 @@
+{
+  "id": "der-rhythmus-der-maschinen",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Der Rhythmus der Maschinen",
+    "artist": "Public Service Broadcasting",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "17:39",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761495239_der_rhythmus_der_maschinen"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SJjOmhqFDcnwvcovsVYN.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/a4mie4am.7z"
+    }
+  }
+}

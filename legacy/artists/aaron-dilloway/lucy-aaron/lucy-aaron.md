@@ -1,0 +1,17 @@
+# Aaron Dilloway — Lucy & Aaron
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | 48.0kHz |
+| Tracks | 12 |
+| Duration | 38:55 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/1763738346_lucy___aaron)
+- [Fileditch](https://fileditchfiles.me/file.php?f=/s24/feKnKkKanCsfuTkqqErI.7z)
+- [Pomf2 Lain La](https://pomf2.lain.la/f/27wf0awk.7z)
+
+---
+*Legacy Archive*

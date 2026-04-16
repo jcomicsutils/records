@@ -1,0 +1,21 @@
+{
+  "id": "the-isolation-tapes-volume-three",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Isolation Tapes Volume Three",
+    "artist": "Dead Voices On Air",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759087158_the_isolation_tapes_volume_three"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/thvsZuFTlvXNFTwaZsm.zip"
+    }
+  }
+}

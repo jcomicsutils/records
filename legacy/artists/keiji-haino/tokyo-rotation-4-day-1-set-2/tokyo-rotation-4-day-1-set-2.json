@@ -1,0 +1,24 @@
+{
+  "id": "tokyo-rotation-4-day-1-set-2",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Tokyo Rotation 4 - Day 1 Set 2",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "1:01:59",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764798790_tokyo_rotation_4_-_day_1_set_2"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/sisupahm.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b65/KYGNbRirwYEePedRDSZg.7z"
+    }
+  }
+}

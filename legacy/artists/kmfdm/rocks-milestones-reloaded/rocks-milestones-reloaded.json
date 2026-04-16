@@ -1,0 +1,24 @@
+{
+  "id": "rocks-milestones-reloaded",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Rocks - Milestones Reloaded",
+    "artist": "KMFDM",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_human": "1:06:55",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761161967_rocks_-_milestones_reloaded"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/uazhYaExaJlaRRmIgpyt.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/baxeyb8z.7z"
+    }
+  }
+}

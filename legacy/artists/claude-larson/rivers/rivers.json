@@ -1,0 +1,24 @@
+{
+  "id": "rivers",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Rivers",
+    "artist": "Claude Larson",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "36:10",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759778092_rivers"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LVDwWeIYHpVKUYAIdxK.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/80jg5y0l.7z"
+    }
+  }
+}

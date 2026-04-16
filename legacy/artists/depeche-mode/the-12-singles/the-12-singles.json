@@ -1,0 +1,21 @@
+{
+  "id": "the-12-singles",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The 12\" Singles",
+    "artist": "Depeche Mode",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746472785_2022_-_the_12___singles__10_cd_box__columbia-sony_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b54/TDNKSRGaFEuzpRoacB.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "stretch-2",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Stretch 2",
+    "artist": "Arca",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "26:49",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760309738_stretch_2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MUkbLOCYxDVsFtDWFuVQ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/6ips99.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vnuo52tg.7z"
+    }
+  }
+}

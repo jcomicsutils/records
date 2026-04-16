@@ -1,0 +1,27 @@
+{
+  "id": "spectro-sonic-cosmic-gaze",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Spectro-Sonic Cosmic Gaze",
+    "artist": "The Ocular Audio Experiment",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "45:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760403293_spectro_-_sonic_cosmic_gaze"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SstHXMxThxsSTEyhdTLm.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/e2se8b.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/m3py9gw.7z"
+    }
+  }
+}

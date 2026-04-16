@@ -1,0 +1,27 @@
+{
+  "id": "fehu-first-flight-of-the-white-raven-live",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Fehu (First Flight of the White Raven LIVE)",
+    "artist": "Wardruna",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:28",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761574845_fehu__first_flight_of_the_white_raven_live_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/gvELiFOxpzNpMHIIeLYF.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/kau82y.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/o21dn67g.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "fate",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Fate",
+    "artist": "Soviet Soviet",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "34:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761508950_fate"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/geqLpOamzaHYDoFqAZkj.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tyfyyqir.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "five-days-the-instrumentals",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Five Days- The Instrumentals",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "32:43",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760312071_five_days-_the_instrumentals"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/yUywOtKsbKdpacdxlYZl.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/cqqiui.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wqln2z2j.7z"
+    }
+  }
+}

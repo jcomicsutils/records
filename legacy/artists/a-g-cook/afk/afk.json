@@ -1,0 +1,27 @@
+{
+  "id": "afk",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "AFK",
+    "artist": "A. G. Cook",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:27",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760226127_afk"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LCeshwHjDFHzCxWpJHp.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ezl2i4.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mbhshl7j.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "friendly-psychic-strangers-church",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Friendly Psychic Strangers Church",
+    "artist": "The Ocular Audio Experiment",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "30:52",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760396789_friendly_psychic_strangers_church"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/GJMEhqPwZOHTXnRRLuig.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/15ceeh.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ldll1lfs.7z"
+    }
+  }
+}

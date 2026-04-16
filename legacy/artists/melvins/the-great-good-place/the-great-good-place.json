@@ -1,0 +1,27 @@
+{
+  "id": "the-great-good-place",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Great Good Place",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:50",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769313114_the_great_good_place"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2kbbd11.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/w7tl03.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/wnMoEbvXWpTRgSnyfth.7z"
+    }
+  }
+}

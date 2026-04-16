@@ -1,0 +1,24 @@
+{
+  "id": "5w1h",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "「好」の５W１H",
+    "artist": "Sanhedolin",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "59:31",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764533210______w_h"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/iMTqvMnpozJsqlDtVMma.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0ikutylo.7z"
+    }
+  }
+}

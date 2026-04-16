@@ -1,0 +1,24 @@
+{
+  "id": "ultra",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ultra",
+    "artist": "Depeche Mode",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746221997_depeche_mode_-_ultra__1997___mute_int_4_84456_2___"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/eTJgVTRRgnaKziwIveLF.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lcdzuuun.7z"
+    }
+  }
+}

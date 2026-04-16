@@ -1,0 +1,24 @@
+{
+  "id": "probably-nothing-possibly-everything",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Probably Nothing, Possibly Everything",
+    "artist": "Pat The Bunny",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "26:22",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761341550_probably_nothing__possibly_everything"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/jWIYAcdFFlLSZIjuSPbx.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/r16osbv1.7z"
+    }
+  }
+}

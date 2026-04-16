@@ -1,0 +1,27 @@
+{
+  "id": "molly",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Molly",
+    "artist": "Soft Kill",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "11:44",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759979630_molly"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/YZOhkVEdbpPMVRWsWTqo.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8uteny.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/b9nz9hxn.7z"
+    }
+  }
+}

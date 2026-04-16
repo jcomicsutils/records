@@ -1,0 +1,27 @@
+{
+  "id": "veil-of-pain-feat-n8noface",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Veil of Pain (feat. N8NOFACE)",
+    "artist": "Soft Kill",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:49",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760041318_veil_of_pain__feat__n8noface_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/jckbTznGoUjNdHmnuHwU.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/kzspeb.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/217x2xx3.7z"
+    }
+  }
+}

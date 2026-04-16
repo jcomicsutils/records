@@ -1,0 +1,24 @@
+{
+  "id": "no-one-here-gets-out-alive",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "No One Here Gets Out Alive",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_human": "3:06:26",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760537906_no_one_here_gets_out_alive"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/DPWImFwoZWYWmKTuLwc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/p6k8unh3.7z"
+    }
+  }
+}

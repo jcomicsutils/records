@@ -1,0 +1,21 @@
+{
+  "id": "nox-orae-2023",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Nox Orae 2023",
+    "artist": "Swans",
+    "codec": "MKV",
+    "num_tracks": 1,
+    "duration_human": "1:33:25",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769297696_nox_orae_2023"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/LBwBTxEstWNLCVNJNkar.7z"
+    }
+  }
+}

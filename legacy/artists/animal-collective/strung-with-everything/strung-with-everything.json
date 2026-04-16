@@ -1,0 +1,27 @@
+{
+  "id": "strung-with-everything",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Strung with Everything",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "6:56",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760811257_strung_with_everything"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PDulOVuBRaqxuRcMrIC.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/end91j.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gjcjc33s.7z"
+    }
+  }
+}

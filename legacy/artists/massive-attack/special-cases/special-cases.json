@@ -1,0 +1,27 @@
+{
+  "id": "special-cases",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Special Cases",
+    "artist": "Massive Attack",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "26:56",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760123306_special_cases"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/AKXzWIOGkDCAkzfEFCMT.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5evxqd.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lsjmv4yf.7z"
+    }
+  }
+}

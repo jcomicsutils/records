@@ -1,0 +1,27 @@
+{
+  "id": "19790727-imperial-hotel-blackpool-aud-1",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "1979.07.27 Imperial Hotel, Blackpool (AUD 1)",
+    "artist": "Joy Division",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752282096_1979_07_27_imperial_hotel__blackpool__aud_1___128_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/izgPHHWkcLKYhtCpSitc.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/civ4zu.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/cvvh3ged.7z"
+    }
+  }
+}

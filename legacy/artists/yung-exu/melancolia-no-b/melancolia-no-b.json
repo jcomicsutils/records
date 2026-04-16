@@ -1,0 +1,27 @@
+{
+  "id": "melancolia-no-b",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "melancolia no /b/",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:20",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759620498_melancolia_no_-_b_-"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MWuYZwbOPkOtDwsRTtVT.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jf3mnd.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dyf3z854.7z"
+    }
+  }
+}

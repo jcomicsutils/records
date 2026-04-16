@@ -1,0 +1,27 @@
+{
+  "id": "musique-concrete-1959-no-1-mono-version",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Musique concrète 1959 No. 1  (Mono Version)",
+    "artist": "Pierre Schaeffer",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "13:29",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767130262_musique_concr_te_1959_no__1__mono_version_"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/q93r4gjm.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/bqkjg5.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/LyJFiZQWlUIJTfGJjXvO.7z"
+    }
+  }
+}

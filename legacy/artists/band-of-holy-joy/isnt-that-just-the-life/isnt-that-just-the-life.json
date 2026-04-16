@@ -1,0 +1,27 @@
+{
+  "id": "isnt-that-just-the-life",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Isn't That Just The Life",
+    "artist": "Band of Holy Joy",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:01",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759951654_isn_t_that_just_the_life"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/nFjfvVTbWhaaAOBVLezK.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7arw0f.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2n4drzg8.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "with-records",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "With Records",
+    "artist": "Mats Gustafsson",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1753667744_with_records"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/kEAPnnCodsrdkVdRsSEw.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/1myze1.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/a74r6em.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "drowning-in-the-sound",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Drowning In The Sound",
+    "artist": "Amanda Palmer",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "10:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763741976_drowning_in_the_sound__2019_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/cUOkyJPfTyywpPifByRv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/awjaw0.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dus5k9r.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "hold-on-to-your-friends",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hold On To Your Friends",
+    "artist": "Morrissey",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754896704_1994_-_hold_on_to_your_friends"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/TwHXfnWIRaEmYvlcrfRR.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/d4z0t2bu.7z"
+    }
+  }
+}

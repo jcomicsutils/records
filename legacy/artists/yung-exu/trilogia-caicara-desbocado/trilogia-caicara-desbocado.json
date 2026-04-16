@@ -1,0 +1,27 @@
+{
+  "id": "trilogia-caicara-desbocado",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Trilogia Caiçara Desbocado",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "9:51",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759628862_trilogia_cai_ara_desbocado"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/CSxMWKHGaFXRxihWUfHU.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ox2h4a.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wmvofkky.7z"
+    }
+  }
+}

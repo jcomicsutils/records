@@ -1,0 +1,24 @@
+{
+  "id": "under-milk-wood",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Under Milk Wood",
+    "artist": "LSD March",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752308184_under_milk_wood"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/wpjxSipOVWZDuxLWmZCE.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/prhg1nvo.7z"
+    }
+  }
+}

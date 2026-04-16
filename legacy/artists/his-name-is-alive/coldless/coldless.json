@@ -1,0 +1,27 @@
+{
+  "id": "coldless",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Coldless",
+    "artist": "His Name Is Alive",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761084795_coldless"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/BYPHtMtyxoXazaFaftIZ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/xz4gcj.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/edvhruq.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "lve-evl",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "LΦVE & EVΦL",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "1:02:16",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764488107_l_ve___ev_l"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/qNEIjXIhrGWOaWuSzaUu.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jspi5382.7z"
+    }
+  }
+}

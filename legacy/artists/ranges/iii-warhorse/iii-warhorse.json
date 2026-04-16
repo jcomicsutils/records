@@ -1,0 +1,27 @@
+{
+  "id": "iii-warhorse",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "III. Warhorse",
+    "artist": "Ranges",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:17",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759625778_iii__warhorse"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LiBpwQASohkaQHzpqTBP.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/1z3zwi.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/oym6o44e.7z"
+    }
+  }
+}

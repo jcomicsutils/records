@@ -1,0 +1,27 @@
+{
+  "id": "mannys-ready-to-roll",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Manny's Ready to Roll",
+    "artist": "Psychedelic Porn Crumpets",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:41",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760539764_manny_s_ready_to_roll"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PHFGWWSUgxcXezXpWwEx.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ur7nwx.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/5bcf4sv8.7z"
+    }
+  }
+}

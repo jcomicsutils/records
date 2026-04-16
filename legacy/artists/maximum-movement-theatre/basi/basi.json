@@ -1,0 +1,27 @@
+{
+  "id": "basi",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "basi",
+    "artist": "Maximum Movement Theatre",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "22:47",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761317246_basi"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/rovovNLtZoSSomCENcqB.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/t6y7pa.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4dnu5md.7z"
+    }
+  }
+}

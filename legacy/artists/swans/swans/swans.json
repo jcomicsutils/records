@@ -1,0 +1,24 @@
+{
+  "id": "swans",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Swans",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "19:19",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769300241_swans"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vvfoq80h.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/SxbjDqhHTiSioERGSPv.7z"
+    }
+  }
+}

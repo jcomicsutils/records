@@ -1,0 +1,27 @@
+{
+  "id": "todo-amor-de-verdade-tem-um-fim",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Todo amor de verdade tem um fim",
+    "artist": "Luckhaos",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758491117_todo_amor_de_verdade_tem_um_fim"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/efEIhLqCHEVSOspZwHt.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/3eafxy.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jksxwhbh.7z"
+    }
+  }
+}

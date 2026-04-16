@@ -1,0 +1,24 @@
+{
+  "id": "pink-live-2016-07-22-the-casbah-san-diego",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "PINK Live 2016-07-22 The Casbah, San Diego",
+    "artist": "Boris",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_human": "1:29:55",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764480819_pink_live_2016-07-22_the_casbah__san_diego"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/udMBPatwMrzBGmYnimTP.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/slyien6.7z"
+    }
+  }
+}

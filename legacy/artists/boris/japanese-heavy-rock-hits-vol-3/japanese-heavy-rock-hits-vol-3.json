@@ -1,0 +1,27 @@
+{
+  "id": "japanese-heavy-rock-hits-vol-3",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Japanese Heavy Rock Hits Vol. 3",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "12:25",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764483192_japanese_heavy_rock_hits_vol__3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SGrybBjcviQZdDipiuJ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/whwu6q.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/w0ac75v3.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "6teen-cheers",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "6teen Cheers",
+    "artist": "His Name Is Alive",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:03",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761077273_6teen_cheers"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/EuilNkkcCZaJPyNcFMSi.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/whjla8.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/e3xoxluz.7z"
+    }
+  }
+}

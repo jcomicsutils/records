@@ -1,0 +1,27 @@
+{
+  "id": "the-end",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The End",
+    "artist": "Daughter",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:29",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "": {
+      "url": ""
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/1761017608_the_end"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/svyfPwtGLsaLnwFJmyRu.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/o9uxrxz.7z"
+    }
+  }
+}

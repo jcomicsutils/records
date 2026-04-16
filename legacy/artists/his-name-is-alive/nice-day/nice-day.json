@@ -1,0 +1,27 @@
+{
+  "id": "nice-day",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Nice Day",
+    "artist": "His Name Is Alive",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "14:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761143716_nice_day"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/EjrGcJvFnAPVDhkdxUge.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/6o7lbc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8ab5wco9.7z"
+    }
+  }
+}

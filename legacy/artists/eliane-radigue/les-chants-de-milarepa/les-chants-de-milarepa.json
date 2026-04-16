@@ -1,0 +1,18 @@
+{
+  "id": "les-chants-de-milarepa",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Les Chants de Milarepa",
+    "artist": "Eliane Radigue",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1755815349_les_chants_de_milarepa"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "all-the-artists",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "All the Artists",
+    "artist": "Sun Kil Moon",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "57:57",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768677262_all_the_artists"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/e3j2r4gq.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/wdVmjxpgUteLTpqdoOoO.7z"
+    }
+  }
+}

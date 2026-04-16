@@ -1,0 +1,24 @@
+{
+  "id": "the-witchs-whispering-tomes-pt-2",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Witch's Whispering Tomes, Pt. 2",
+    "artist": "The Ocular Audio Experiment",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "1:00:50",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760408567_the_witch_s_whispering_tomes__pt__2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/trwfqqZCQHQVPiXaOmrV.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tmroz7u.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "grimnir-trist-regnum-hypothermia",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Grimnir / Trist / Regnum / Hypothermia",
+    "artist": "Trist",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752466181_grimnir_-_trist_-_regnum_-_hypothermia"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/CXqfjICCVJjXNVSiXVb.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7txvon.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0q5qoj.7z"
+    }
+  }
+}

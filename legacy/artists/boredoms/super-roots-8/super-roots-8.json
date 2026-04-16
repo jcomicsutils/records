@@ -1,0 +1,27 @@
+{
+  "id": "super-roots-8",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Super Roots 8",
+    "artist": "Boredoms",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "14:17",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765078667_super_roots_8"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wastlgj7.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/1lyo5c.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/kMfZyWbDrNWsdMQjRukZ.7z"
+    }
+  }
+}

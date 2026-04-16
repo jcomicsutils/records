@@ -1,0 +1,27 @@
+{
+  "id": "promenades",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Promenades",
+    "artist": "Félicia Atkinson",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "25:49",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767037967_promenades"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tou3h0rp.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/k3yzav.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/ZZGrNsltFltKLmBtQqxs.7z"
+    }
+  }
+}

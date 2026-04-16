@@ -1,0 +1,24 @@
+{
+  "id": "gfotybucks",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "GFOTYBUCKS",
+    "artist": "GFOTY",
+    "codec": "FLAC",
+    "num_tracks": 19,
+    "duration_human": "38:04",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760471413_gfotybucks"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/hoDgRJzQDHvUieUnoQn.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mzux01cm.7z"
+    }
+  }
+}

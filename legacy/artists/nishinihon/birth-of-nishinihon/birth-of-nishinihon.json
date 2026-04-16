@@ -1,0 +1,27 @@
+{
+  "id": "birth-of-nishinihon",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Birth of Nishinihon 西日本爆誕",
+    "artist": "Nishinihon",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_human": "22:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765159577_birth_of_nishinihon______"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/c48q1t1.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ekzsql.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ktKYHUqzTPZJWxuGarZj.7z"
+    }
+  }
+}

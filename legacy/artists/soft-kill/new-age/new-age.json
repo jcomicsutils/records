@@ -1,0 +1,27 @@
+{
+  "id": "new-age",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "New Age",
+    "artist": "Soft Kill",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:59",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759981059_new_age"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/oUgjovynkkELdmACvDdy.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0w6gm3.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/yoi5qbr.7z"
+    }
+  }
+}

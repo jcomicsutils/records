@@ -1,0 +1,24 @@
+{
+  "id": "voices",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Voices",
+    "artist": "Kink Gong",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "40:41",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761003866_voices"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ncWWPAwYEWRroGpHFBj.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lctw6hp3.7z"
+    }
+  }
+}

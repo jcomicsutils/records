@@ -1,0 +1,21 @@
+{
+  "id": "to-be-kind",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "To Be Kind",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "2:01:16",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760240905_to_be_kind"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/aSMlaqKRRydjGQKUYcRj.7z"
+    }
+  }
+}

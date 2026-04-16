@@ -1,0 +1,27 @@
+{
+  "id": "kebab-kaaos-monolith-dance",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Kebab Kaaos / Monolith Dance",
+    "artist": "The Gerogerigegege [ザ・ゲロゲリゲゲゲ]",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752405207_kebab_kaaos__-_monolith_dance"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/GyYJUYbLZyZeKkHVjiqB.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/oany28.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/cdww6hta.7z"
+    }
+  }
+}

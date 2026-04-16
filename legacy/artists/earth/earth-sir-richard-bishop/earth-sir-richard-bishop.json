@@ -1,0 +1,27 @@
+{
+  "id": "earth-sir-richard-bishop",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Earth / Sir Richard Bishop",
+    "artist": "Earth",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_human": "27:45",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763921334_earth_-_sir_richard_bishop"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MmOybBdktLbTgbTybKoB.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/45e2nh.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ny3wwjbc.7z"
+    }
+  }
+}

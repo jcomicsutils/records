@@ -1,0 +1,27 @@
+{
+  "id": "the-whorses-mouth",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Whorse's Mouth",
+    "artist": "Rozz Williams",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752376784_the_whorse_s_mouth"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/FIycSusZNVAaascmYnbJ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/tqd94p.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/d7h3dec.7z"
+    }
+  }
+}

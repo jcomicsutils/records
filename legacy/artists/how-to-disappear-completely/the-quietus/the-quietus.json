@@ -1,0 +1,27 @@
+{
+  "id": "the-quietus",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Quietus",
+    "artist": "How To Disappear Completely",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "1:00:19",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759972539_the_quietus"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/jgUIRNluswmWxNovSfxZ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/uscv1t.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ud1d6ldk.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "sisters",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sisters",
+    "artist": "Brian Eno",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756351999_sisters"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/gceJwTSEwyhfanywOEwL.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vzna62.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3tu3a740.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a-challenge-to-fate",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Challenge to Fate [運命への挑戦]",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "56:47",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764796738_a_challenge_to_fate_________"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ig53lme6.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ncJlmzyyrazGwICAYOVn.7z"
+    }
+  }
+}

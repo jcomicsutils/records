@@ -1,0 +1,24 @@
+{
+  "id": "from-the-forest-temple-live",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "From The Forest Temple (Live)",
+    "artist": "Creation VI",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "35:18",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760799361_from_the_forest_temple__live_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/IjzXEzIEcJLUXTTUIiZO.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jmv7t0pk.7z"
+    }
+  }
+}

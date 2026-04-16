@@ -1,0 +1,24 @@
+{
+  "id": "radio-live-2007-2008",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Radio Live 2007-2008",
+    "artist": "Earth",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "50:49",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763930708_radio_live_2007-2008"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LBAYFaoLMjHkehpaAYA.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/f7jv6j2k.7z"
+    }
+  }
+}

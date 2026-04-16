@@ -1,0 +1,27 @@
+{
+  "id": "the-loss-of-what-we-keep",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Loss of What We Keep",
+    "artist": "Steven R. Smith",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_human": "28:15",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769919809_the_loss_of_what_we_keep"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/huwata7v.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/9zercu.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/VhOSELyjFbDDdgjsMoga.7z"
+    }
+  }
+}

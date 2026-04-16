@@ -1,0 +1,24 @@
+{
+  "id": "juke-joint-jezebel-2021",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Juke Joint Jezebel 2021",
+    "artist": "KMFDM",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:42",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761289531_juke_joint_jezebel_2021"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MTSWUyIdKCiMKIYlSyC.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fwwom0vm.7z"
+    }
+  }
+}

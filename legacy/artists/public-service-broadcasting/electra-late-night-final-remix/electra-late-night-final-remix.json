@@ -1,0 +1,27 @@
+{
+  "id": "electra-late-night-final-remix",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Electra (Late Night Final Remix)",
+    "artist": "Public Service Broadcasting",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "6:48",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761497135_electra__late_night_final_remix_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/aNOBeefLpsCeKGEzmGS.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/mlzr78.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ul9n4swj.7z"
+    }
+  }
+}

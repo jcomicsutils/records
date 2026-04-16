@@ -1,0 +1,24 @@
+{
+  "id": "tron-ares-original-motion-picture-soundtrack",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "TRON: Ares (Original Motion Picture Soundtrack)",
+    "artist": "Nine Inch Nails",
+    "codec": "FLAC",
+    "num_tracks": 24,
+    "duration_human": "1:07:00",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761433195_tron_ares__original_motion_picture_soundtrack_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/kZPLSMHNfUeeXOLhQopo.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/cl4notsu.7z"
+    }
+  }
+}

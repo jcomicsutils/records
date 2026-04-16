@@ -1,0 +1,27 @@
+{
+  "id": "oto-t07",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "(oTo) T07",
+    "artist": "(oTo)",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746072606_oto_t07___killy_dog_box"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/rRtcIoCDQoULoVyihjuN.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/m8yq3y.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ck8q0xt7.7z"
+    }
+  }
+}

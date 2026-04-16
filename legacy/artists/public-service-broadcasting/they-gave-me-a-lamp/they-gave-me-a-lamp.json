@@ -1,0 +1,27 @@
+{
+  "id": "they-gave-me-a-lamp",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "They Gave Me a Lamp",
+    "artist": "Public Service Broadcasting",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:24",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761525536_they_gave_me_a_lamp"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/oaiQCIedMrqKiFEHmfTA.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/f7e7n2.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mla81va5.7z"
+    }
+  }
+}

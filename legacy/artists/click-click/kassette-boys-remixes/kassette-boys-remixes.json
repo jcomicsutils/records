@@ -1,0 +1,27 @@
+{
+  "id": "kassette-boys-remixes",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Kassette Boys Remixes",
+    "artist": "Click Click",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "27:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760753968_kassette_boys_remixes"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/jkasEgMeIJZXLgMBufip.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7z7hdo.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/76dbspl1.7z"
+    }
+  }
+}

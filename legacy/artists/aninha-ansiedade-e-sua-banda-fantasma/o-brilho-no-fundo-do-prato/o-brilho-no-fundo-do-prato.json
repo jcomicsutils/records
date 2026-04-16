@@ -1,0 +1,24 @@
+{
+  "id": "o-brilho-no-fundo-do-prato",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "O brilho no fundo do prato",
+    "artist": "Aninha Ansiedade e sua Banda Fantasma",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747584797_aninha_ansiedade_e_sua_banda_fantasma_-_o_brilho_n"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/imWjrAVXmBBvBmMKIrli.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/df92fe04.7z"
+    }
+  }
+}

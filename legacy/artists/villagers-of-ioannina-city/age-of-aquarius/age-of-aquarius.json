@@ -1,0 +1,21 @@
+{
+  "id": "age-of-aquarius",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Age of Aquarius",
+    "artist": "Villagers of Ioannina City",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "1:05:50",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761374547_age_of_aquarius"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/pnscpzToLXlNHhjpOvVS.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "the-doors-original-soundtrack-recording",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Doors (Original Soundtrack Recording)",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "1:05:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760543544_the_doors__original_soundtrack_recording_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/lyZhPQMKddCJBZstmrzG.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ifl86j3.7z"
+    }
+  }
+}

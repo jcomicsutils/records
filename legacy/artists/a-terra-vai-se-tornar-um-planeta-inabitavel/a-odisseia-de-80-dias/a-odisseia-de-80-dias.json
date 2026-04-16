@@ -1,0 +1,24 @@
+{
+  "id": "a-odisseia-de-80-dias",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Odisseia de 80 Dias",
+    "artist": "a terra vai se tornar um planeta inabitável",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "18:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766789406_a_odisseia_de_80_dias"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/pnvj3lxu.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/CPAlgDFNkRYVBQaEueN.7z"
+    }
+  }
+}

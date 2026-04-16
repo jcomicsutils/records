@@ -1,0 +1,27 @@
+{
+  "id": "is-this-a-pencil-or-a-sheep",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Is This a Pencil or a Sheep?",
+    "artist": "Atsushi Tsuyama",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_human": "34:31",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764955787_is_this_a_pencil_or_a_sheep"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2wvq2fl4.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ssqatb.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/gscVzhYMlSdsOuqWjZb.7z"
+    }
+  }
+}

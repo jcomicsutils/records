@@ -1,0 +1,24 @@
+{
+  "id": "sun-down-sun-rise",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sun Down / Sun Rise",
+    "artist": "Jesu",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "32:40",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764209029_sun_down_-_sun_rise"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/URFVtnVgQgKEEvWEKPfe.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/h8gyd5ai.7z"
+    }
+  }
+}

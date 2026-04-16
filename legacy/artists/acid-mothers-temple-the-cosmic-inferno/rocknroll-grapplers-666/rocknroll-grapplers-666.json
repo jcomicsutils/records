@@ -1,0 +1,27 @@
+{
+  "id": "rocknroll-grapplers-666",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Rock’n’Roll Grapplers 666",
+    "artist": "Acid Mothers Temple & The Cosmic Inferno",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_human": "1:16:17",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765142373_rock_n_roll_grapplers_666"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3vfpvrjz.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gpxury.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/JWDSEbSAMAnBsPjsAJEX.7z"
+    }
+  }
+}

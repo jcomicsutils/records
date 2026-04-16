@@ -1,0 +1,27 @@
+{
+  "id": "welcome-to-utopia",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Welcome To Utopia",
+    "artist": "Click Click",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "20:10",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760806417_welcome_to_utopia"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/iyomlEDPXEXIGoLMKSbk.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2g761g.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0pf79s4.7z"
+    }
+  }
+}

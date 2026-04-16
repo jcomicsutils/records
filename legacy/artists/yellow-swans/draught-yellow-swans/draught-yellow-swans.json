@@ -1,0 +1,27 @@
+{
+  "id": "draught-yellow-swans",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Draught Yellow Swans",
+    "artist": "Yellow Swans",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754824820_draught_yellow_swans"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/pPanJzIuaDLXzyCgqxya.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/xak5yi.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8nyy5nwd.7z"
+    }
+  }
+}

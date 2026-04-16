@@ -1,0 +1,27 @@
+{
+  "id": "hertta-lussu-assa",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hertta Lussu Ässä",
+    "artist": "Hertta Lussu Ässä",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752259033_hertta_lussu__ss_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/SGBgnpksovDVCVZMSUQ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ym7qna.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/g1ulbs59.7z"
+    }
+  }
+}

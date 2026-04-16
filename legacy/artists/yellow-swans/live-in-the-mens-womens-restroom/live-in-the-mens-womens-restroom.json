@@ -1,0 +1,27 @@
+{
+  "id": "live-in-the-mens-womens-restroom",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live in the Men's & Women's Restroom",
+    "artist": "Yellow Swans",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754821560_live_in_the_men_s___women_s_restroom"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/guNxiOgrKEprbsDrtiCW.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/m5ky4n.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6fowwgyv.7z"
+    }
+  }
+}

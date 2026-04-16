@@ -1,0 +1,27 @@
+{
+  "id": "15-watts",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "15 Watts",
+    "artist": "Zeffon / Argon Beams / Generated Missiân ZFN / Revenence / Serpentmouth (incomplete as of now)",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1748602063_zeffon_-_15_watts"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/vWotdCqmtuaNEjSFupb.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7h229a.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/prbc16y2.7z"
+    }
+  }
+}

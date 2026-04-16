@@ -1,0 +1,27 @@
+{
+  "id": "spiral-horns-black-onions-et-al",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Spiral Horns, Black Onions, et al",
+    "artist": "Ulaan Markhor",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "36:26",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769914676_spiral_horns__black_onions__et_al"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/weeawpq0.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/aip9f9.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/VYZgqCNMpSRKOIMlJgWe.7z"
+    }
+  }
+}

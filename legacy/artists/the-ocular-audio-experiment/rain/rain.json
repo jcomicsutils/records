@@ -1,0 +1,24 @@
+{
+  "id": "rain",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Rain",
+    "artist": "The Ocular Audio Experiment",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "42:06",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760401618_rain"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ovszBFcsmFKynMwtGBV.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jrqsjdig.7z"
+    }
+  }
+}

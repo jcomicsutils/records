@@ -1,0 +1,24 @@
+{
+  "id": "benji",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Benji",
+    "artist": "Sun Kil Moon",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_human": "1:28:39",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768677977_benji"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jjxm2uif.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/hQdFCAgZjaDRJySnhckz.7z"
+    }
+  }
+}

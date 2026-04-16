@@ -1,0 +1,24 @@
+{
+  "id": "dont-blow-your-top",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Don't Blow Your Top",
+    "artist": "KMFDM",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "51:33",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761158902_don_t_blow_your_top"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/kazduQhqGeIpqWCSGqDi.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rh2a31ro.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "another-nightmare",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Another Nightmare",
+    "artist": "Soft Kill",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "7:10",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759950037_another_nightmare"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/aSQmCFNUVlQmWQAlVueV.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/uvtxej.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ro8hzcxh.7z"
+    }
+  }
+}

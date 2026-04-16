@@ -1,0 +1,24 @@
+{
+  "id": "fountains-for-assisi-seven-movements-for-mrm",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Fountains For Assisi (Seven Movements For M.R.M.)",
+    "artist": "Virginia Aveline",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "26:17",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759948199_fountains_for_assisi__seven_movements_for_m_r_m__"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/eOhjrZcpGDqtszzZEAZ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/h9gqg4u0.7z"
+    }
+  }
+}

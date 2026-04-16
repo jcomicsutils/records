@@ -1,0 +1,21 @@
+{
+  "id": "in-concert-in-residence",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "In Concert & In Residence",
+    "artist": "Sarah Davachi",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "2:35:15",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761512979_in_concert___in_residence"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/xDUOffTCGkUwskxuJwUp.7z"
+    }
+  }
+}

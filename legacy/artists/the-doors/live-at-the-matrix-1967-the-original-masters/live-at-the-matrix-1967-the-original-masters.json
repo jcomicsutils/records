@@ -1,0 +1,24 @@
+{
+  "id": "live-at-the-matrix-1967-the-original-masters",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live At The Matrix 1967 The Original Masters",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 37,
+    "duration_human": "3:13:31",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760553801_live_at_the_matrix_1967_the_original_masters"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/TxtSVboMPSVdVNbyYm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/k3tgtscz.7z"
+    }
+  }
+}

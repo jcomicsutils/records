@@ -1,0 +1,27 @@
+{
+  "id": "perfect-future-wits-end-split",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Perfect Future / Wits End Split",
+    "artist": "Perfect Future",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752318215_perfect_future_-_wits_end_split"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/QAAeuihQMXalrKVIakT.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/1d7st5.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/n3cz8cd6.7z"
+    }
+  }
+}

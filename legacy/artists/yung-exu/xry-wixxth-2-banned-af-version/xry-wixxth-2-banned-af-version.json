@@ -1,0 +1,27 @@
+{
+  "id": "xry-wixxth-2-banned-af-version",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "xry wixxth 2 #banned  (AF VERSION)",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759631125_xry_wixxth_2__banned__af_version_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/hKilLghnGmVIbVzPSJlx.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/itlrlv.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/r4e2aezt.7z"
+    }
+  }
+}

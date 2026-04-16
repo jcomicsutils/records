@@ -1,0 +1,24 @@
+{
+  "id": "aus-den-sieben-tagen",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Aus den sieben Tagen",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "42:33",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764800899_aus_den_sieben_tagen"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/q3mpua71.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SDtRWeFAygIxyFyTbzHK.7z"
+    }
+  }
+}

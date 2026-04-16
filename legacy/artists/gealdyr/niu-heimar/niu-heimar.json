@@ -1,0 +1,27 @@
+{
+  "id": "niu-heimar",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Níu Heimar",
+    "artist": "Gealdýr",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:49",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760902572_n_u_heimar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/AnRSYPETQiyTJGbOMXdo.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/6iy7km.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/5goww450.7z"
+    }
+  }
+}

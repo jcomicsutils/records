@@ -1,0 +1,27 @@
+{
+  "id": "the-valley",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Valley",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "28:35",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760913976_the_valley"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SdAyWrboPRIkOiYdzlj.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/fdg4eb.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8ifua1rh.7z"
+    }
+  }
+}

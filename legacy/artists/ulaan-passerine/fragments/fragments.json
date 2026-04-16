@@ -1,0 +1,24 @@
+{
+  "id": "fragments",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Fragments",
+    "artist": "Ulaan Passerine",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "38:03",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769915739_fragments"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/i9g6f1qe.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/gSHFVTNFJzzeUsqRnc.7z"
+    }
+  }
+}

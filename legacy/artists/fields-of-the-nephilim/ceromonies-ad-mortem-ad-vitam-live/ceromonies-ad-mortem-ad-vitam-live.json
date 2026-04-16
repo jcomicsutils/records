@@ -1,0 +1,24 @@
+{
+  "id": "ceromonies-ad-mortem-ad-vitam-live",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ceromonies (Ad Mortem Ad Vitam) (Live)",
+    "artist": "Fields Of The Nephilim",
+    "codec": "FLAC",
+    "num_tracks": 18,
+    "duration_human": "1:54:39",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761083740_ceromonies__ad_mortem_ad_vitam___live_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/UbbtIcAAmNtcSpZqZxV.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/es4xhc70.7z"
+    }
+  }
+}

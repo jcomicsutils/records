@@ -1,0 +1,24 @@
+{
+  "id": "for-my-friends-sleep",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "For My Friends’ Sleep",
+    "artist": "頭士奈生樹",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "48:06",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768405201_for_my_friends__sleep"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ijd97jkw.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b69/VhCZxMWKODiaCEwuMjbO.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "the-creature-that-tasted-sound",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Creature That Tasted Sound",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "51:51",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760391407_the_creature_that_tasted_sound"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ZABypwadoRiadazvNbiW.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gubztksz.7z"
+    }
+  }
+}

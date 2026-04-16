@@ -1,0 +1,27 @@
+{
+  "id": "25000-kittens",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "25,000 kittens",
+    "artist": "25,000 kittens",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747190908_25_000_kittens"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/CbKknhouPIuioNNIzlRP.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/geh2mi.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wm27wips.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "colibri-feat-lo-borges",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Colibri (feat. Lô Borges)",
+    "artist": "Lô Borges",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:06",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763914710_colibri__feat__l__borges_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/VjEZxYSbsWQYBYDOfIOO.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7j949m.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bg5rv5eu.7z"
+    }
+  }
+}

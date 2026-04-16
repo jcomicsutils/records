@@ -1,0 +1,24 @@
+{
+  "id": "the-pearl-2005-digital-remaster",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Pearl (2005 Digital Remaster)",
+    "artist": "Brian Eno",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756409397_the_pearl__2005_digital_remaster_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/zZlqsuwbNgMQkPWdMc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mg1dcba0.7z"
+    }
+  }
+}

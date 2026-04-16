@@ -1,0 +1,24 @@
+{
+  "id": "the-adventure-of-sleep",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Adventure of Sleep",
+    "artist": "Reinier van Houdt",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752368399_the_adventure_of_sleep"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b54/lCJXuYHKWxhPrtNykMYh.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/erh5oxbm.7z"
+    }
+  }
+}

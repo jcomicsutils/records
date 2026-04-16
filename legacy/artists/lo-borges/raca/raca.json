@@ -1,0 +1,27 @@
+{
+  "id": "raca",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Raça",
+    "artist": "Lô Borges",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:19",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763910921_ra_a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/oZkuAoXGXsrDjnRJvuZ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/xbyfio.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8rlrw1tk.7z"
+    }
+  }
+}

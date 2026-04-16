@@ -1,0 +1,24 @@
+{
+  "id": "the-fat-is-gone",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Fat Is Gone",
+    "artist": "Mats Gustafsson",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1753673096_the_fat_is_gone"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/gxMAbdVRkjFyiIHpoRt.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0ui8w1h.7z"
+    }
+  }
+}

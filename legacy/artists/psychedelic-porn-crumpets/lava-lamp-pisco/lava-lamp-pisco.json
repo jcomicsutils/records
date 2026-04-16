@@ -1,0 +1,27 @@
+{
+  "id": "lava-lamp-pisco",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Lava Lamp Pisco",
+    "artist": "Psychedelic Porn Crumpets",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:01",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760538942_lava_lamp_pisco"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/XPRapQyyZfvRKVCFEngJ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/9xc1br.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/aag7oubu.7z"
+    }
+  }
+}

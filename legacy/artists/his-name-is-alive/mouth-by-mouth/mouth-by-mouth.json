@@ -1,0 +1,24 @@
+{
+  "id": "mouth-by-mouth",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Mouth By Mouth",
+    "artist": "His Name Is Alive",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_human": "49:52",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761091271_mouth_by_mouth"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/RcmngQCIcsFftVpCpjeB.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gr62octa.7z"
+    }
+  }
+}

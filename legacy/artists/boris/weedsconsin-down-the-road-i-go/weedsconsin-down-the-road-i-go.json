@@ -1,0 +1,27 @@
+{
+  "id": "weedsconsin-down-the-road-i-go",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Weedsconsin / Down the Road I Go",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "8:33",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764492047_weedsconsin_-_down_the_road_i_go"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ucRhneUwBYvtrroljpi.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ur8beh.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/07lqgwts.7z"
+    }
+  }
+}

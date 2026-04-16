@@ -1,0 +1,24 @@
+{
+  "id": "the-singles-81-85-mute-int-846817-5th-germany",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Singles 81 - 85 [MUTE INT 846.817 5th Germany]",
+    "artist": "Depeche Mode",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746146772_depeche_mode_-_the_singles_81_-_85__1985___mute_in"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/ukEvAyxxEJygbiuKvGm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/raohn7of.7z"
+    }
+  }
+}

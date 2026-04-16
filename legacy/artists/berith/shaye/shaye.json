@@ -1,0 +1,27 @@
+{
+  "id": "shaye",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "SHAYE",
+    "artist": "Berith",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "1:31",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768761135_shaye"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/94n0i1v3.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/fyombh.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/mHAOpcagZdAXtKMgXWZj.7z"
+    }
+  }
+}

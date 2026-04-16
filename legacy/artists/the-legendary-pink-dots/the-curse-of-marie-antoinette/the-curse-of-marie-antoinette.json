@@ -1,0 +1,24 @@
+{
+  "id": "the-curse-of-marie-antoinette",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Curse of Marie Antoinette",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "44:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760396932_the_curse_of_marie_antoinette"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/dprqMfxVKLaEIHalmJkS.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0remwjr.7z"
+    }
+  }
+}

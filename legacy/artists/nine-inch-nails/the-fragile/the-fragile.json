@@ -1,0 +1,24 @@
+{
+  "id": "the-fragile",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Fragile",
+    "artist": "Nine Inch Nails",
+    "codec": "FLAC",
+    "num_tracks": 23,
+    "duration_human": "1:43:47",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761424290_the_fragile"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/mbNEqdaMDpAkRirMHHoD.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fpyvbdgg.7z"
+    }
+  }
+}

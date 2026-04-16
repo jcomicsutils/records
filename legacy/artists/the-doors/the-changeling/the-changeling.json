@@ -1,0 +1,24 @@
+{
+  "id": "the-changeling",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Changeling",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:22",
+    "sampling_rate": "192.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760711339_the_changeling"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/wtyLyQDaowyaVLVBBQxY.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/s6tprgt3.7z"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mode",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "MODE",
+    "artist": "Depeche Mode",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746433660_2020_-_mode__18cd_box__rhino_603497849062__sire_88"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b54/mvDXlkdajOwjvqmtVRZ.7z"
+    }
+  }
+}

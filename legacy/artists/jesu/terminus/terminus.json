@@ -1,0 +1,24 @@
+{
+  "id": "terminus",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Terminus",
+    "artist": "Jesu",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "51:27",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764209227_terminus"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/fOCWufsVMmAuFnNCJmpE.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/x003bvh.7z"
+    }
+  }
+}

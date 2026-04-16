@@ -1,0 +1,27 @@
+{
+  "id": "dark-rose",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Dark Rose",
+    "artist": "Strength Through Joy",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "15:35",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761515268_dark_rose"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ITnYspkbpWOmqZyopiah.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/rwzh7k.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rori5xm.7z"
+    }
+  }
+}

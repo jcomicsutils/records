@@ -1,0 +1,27 @@
+{
+  "id": "padova-solo",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Padova Solo",
+    "artist": "Mats Gustafsson",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1753676352_padova_solo"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/vYdaVmEgGUFQURFoceSJ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/rs6bye.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2v7f7qm.7z"
+    }
+  }
+}

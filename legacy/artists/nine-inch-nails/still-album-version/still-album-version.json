@@ -1,0 +1,27 @@
+{
+  "id": "still-album-version",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Still (Album Version)",
+    "artist": "Nine Inch Nails",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "43:24",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761414478_still__album_version_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/BbsHbdMYQwNijHQLaYyJ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/tychf2.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3cmp0x76.7z"
+    }
+  }
+}

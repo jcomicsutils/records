@@ -1,0 +1,27 @@
+{
+  "id": "psychic-oscillations",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Psychic Oscillations",
+    "artist": "Spires That in the Sunset Rise",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746311302_psychic_oscillations"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/fVclnMAGKiCazQeJUFHn.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ow6asm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/emrspfoc.7z"
+    }
+  }
+}

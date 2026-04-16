@@ -1,0 +1,24 @@
+{
+  "id": "eremos",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Erēmos",
+    "artist": "Arktau Eos",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747671331_er_mos"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/CfewgoSeqvjRMotZSEA.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fb4lm4z6.7z"
+    }
+  }
+}

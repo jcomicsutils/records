@@ -1,0 +1,24 @@
+{
+  "id": "alchemist-oracle-terror-yearns",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Alchemist, Oracle, Terror Yearns",
+    "artist": "Nahadoth",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "25:56",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761325326_alchemist__oracle__terror_yearns"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/cIoKalRnsGoJjdbjurge.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rpyvurkd.7z"
+    }
+  }
+}

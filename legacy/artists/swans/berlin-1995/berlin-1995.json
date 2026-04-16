@@ -1,0 +1,24 @@
+{
+  "id": "berlin-1995",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Berlin 1995",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "1:26:05",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769284734_berlin_1995"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vtmw8tl7.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/STFTSWXyXyJbCWRXbTmD.7z"
+    }
+  }
+}

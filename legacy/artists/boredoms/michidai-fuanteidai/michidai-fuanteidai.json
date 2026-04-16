@@ -1,0 +1,27 @@
+{
+  "id": "michidai-fuanteidai",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Michidai / Fuanteidai",
+    "artist": "Boredoms",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "6:41",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765072817_michidai_-_fuanteidai"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/c84m4ib.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/aly3m9.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/kBrsLwzDsxsUsGsSeOWl.7z"
+    }
+  }
+}

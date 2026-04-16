@@ -1,0 +1,24 @@
+{
+  "id": "newcastle-1987",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Newcastle 1987",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "1:03:01",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769297398_newcastle_1987"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xa3o7uap.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/qEWjrxmqZUEZHqaRkSY.7z"
+    }
+  }
+}

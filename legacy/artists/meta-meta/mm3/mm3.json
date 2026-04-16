@@ -1,0 +1,24 @@
+{
+  "id": "mm3",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "MM3",
+    "artist": "Metá Metá",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758850172_mm3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b58/fHfsabrBTSEGvlGDYgw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/d4athcp1.7z"
+    }
+  }
+}

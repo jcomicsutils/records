@@ -1,0 +1,24 @@
+{
+  "id": "meu-filme",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Meu Filme",
+    "artist": "Lô Borges",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "42:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763918508_meu_filme"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MbVvmDNcmoIKkVuAlHlc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/5d19a6.7z"
+    }
+  }
+}

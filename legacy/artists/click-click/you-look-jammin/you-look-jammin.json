@@ -1,0 +1,27 @@
+{
+  "id": "you-look-jammin",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "You Look... Jammin'",
+    "artist": "Click Click",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "13:06",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760807202_you_look____jammin_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/kGAsTtvhYegdsjUOZia.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/69rtbk.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/izpgz0y9.7z"
+    }
+  }
+}

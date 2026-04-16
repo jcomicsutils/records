@@ -1,0 +1,27 @@
+{
+  "id": "devils",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Devils",
+    "artist": "Xmal Deutschland",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752458745_devils"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/DwvCqfNgGkeXCziVQLas.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2ycma4.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3jkniqjn.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "you-me",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "You + Me",
+    "artist": "Public Service Broadcasting",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:44",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761532032_you___me"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MoGuIOUKJAijfmqabaCW.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/9uywcm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/btk4r7v.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "start-a-people",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Start a People",
+    "artist": "Black Moth Super Rainbow",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_human": "39:21",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760914408_start_a_people"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/GrlKPWKLgPvBmuLlZhCT.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7960g4fw.7z"
+    }
+  }
+}

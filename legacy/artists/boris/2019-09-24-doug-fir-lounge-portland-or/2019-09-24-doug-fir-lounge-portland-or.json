@@ -1,0 +1,24 @@
+{
+  "id": "2019-09-24-doug-fir-lounge-portland-or",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "2019-09-24 - Doug Fir Lounge, Portland, OR",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "1:40:42",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764474928_2019-09-24_-_doug_fir_lounge__portland__or"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/NAjGDrbjgDAWAmJfDuyt.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9rxvfk83.7z"
+    }
+  }
+}

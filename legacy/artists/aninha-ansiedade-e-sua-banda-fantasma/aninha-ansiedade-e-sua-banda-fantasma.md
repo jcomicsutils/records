@@ -1,0 +1,10 @@
+# Aninha Ansiedade e sua Banda Fantasma
+
+
+| Album | Codec | Duration | Hosts |
+|-------|-------|----------|-------|
+| [As fitas do insone: Evento violento desconhecido](as-fitas-do-insone-evento-violento-desconhecido/as-fitas-do-insone-evento-violento-desconhecido.md) | FLAC | Unknown | [IA](https://archive.org/details/1747588377_aninha_ansiedade_e_sua_banda_fantasma_-_as_fitas_d) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/lXKodsimkmsBfmnEJcif.7z) [Catbox](https://files.catbox.moe/ya7xq0.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/tgqutw8.7z) |
+| [As fitas do insone: Névoa de sangue](as-fitas-do-insone-nevoa-de-sangue/as-fitas-do-insone-nevoa-de-sangue.md) | FLAC | Unknown | [IA](https://archive.org/details/1747592671_aninha_ansiedade_e_sua_banda_fantasma_-_as_fitas_d) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/YfhzOVxZgkvVxELtGCaQ.7z) [Catbox](https://files.catbox.moe/idqz3t.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/i5rt4f4o.7z) |
+| [As fitas do insone: Sussurrando no abismo infinito](as-fitas-do-insone-sussurrando-no-abismo-infinito/as-fitas-do-insone-sussurrando-no-abismo-infinito.md) | FLAC | Unknown | [IA](https://archive.org/details/1747596362_aninha_ansiedade_e_sua_banda_fantasma_-_as_fitas_d) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/GtnEcxnLwEOOnziIfBoN.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/5xnxh48o.7z) |
+| [O brilho no fundo do prato](o-brilho-no-fundo-do-prato/o-brilho-no-fundo-do-prato.md) | FLAC | Unknown | [IA](https://archive.org/details/1747584797_aninha_ansiedade_e_sua_banda_fantasma_-_o_brilho_n) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/imWjrAVXmBBvBmMKIrli.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/df92fe04.7z) |
+| [O manifesto espiritual do insone](o-manifesto-espiritual-do-insone/o-manifesto-espiritual-do-insone.md) | FLAC | Unknown | [IA](https://archive.org/details/1747592220_o_manifesto_espiritual_do_insone) [Fileditch](https://fileditchfiles.me/file.php?f=/b53/tXKCasRZIbAwaJszncJG.zip) |

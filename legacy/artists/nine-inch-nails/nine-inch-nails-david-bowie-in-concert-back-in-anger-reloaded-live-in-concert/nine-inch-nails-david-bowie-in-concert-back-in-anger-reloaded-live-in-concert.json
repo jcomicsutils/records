@@ -1,0 +1,24 @@
+{
+  "id": "nine-inch-nails-david-bowie-in-concert-back-in-anger-reloaded-live-in-concert",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Nine Inch Nails & David Bowie In Concert: Back In Anger Reloaded (Live In Concert)",
+    "artist": "Nine Inch Nails",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_human": "1:19:11",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761404783_nine_inch_nails___david_bowie_in_concert_back_in_a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/JDXoPOdvzRWiMWmVgTHB.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xdmr4npa.7z"
+    }
+  }
+}

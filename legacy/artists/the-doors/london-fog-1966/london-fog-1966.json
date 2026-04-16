@@ -1,0 +1,24 @@
+{
+  "id": "london-fog-1966",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "London Fog 1966",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "32:10",
+    "sampling_rate": "192.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760722588_london_fog_1966"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/QkNUJxBGaUVzayywfExQ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/loagznp.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "lineaments",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Lineaments",
+    "artist": "Steven R. Smith",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "40:11",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769916416_lineaments"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/x5zky70h.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/EtziePRfLpjxCchMFiYe.7z"
+    }
+  }
+}

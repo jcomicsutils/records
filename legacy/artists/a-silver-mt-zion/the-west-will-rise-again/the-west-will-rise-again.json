@@ -1,0 +1,27 @@
+{
+  "id": "the-west-will-rise-again",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "\"The West Will Rise Again\"",
+    "artist": "A Silver Mt. Zion",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747335372_the_west_will_rise_again"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/yeHDIJZfNyqadCbgpMmF.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ymk693.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/exi6megy.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "yeh-yellow-swans",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Yeh Yellow Swans",
+    "artist": "Yellow Swans",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754830216_yeh_yellow_swans"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/EzdhNhgrDwowHAFcWDAA.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/n7xc2p.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tq213uz0.7z"
+    }
+  }
+}

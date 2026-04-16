@@ -1,0 +1,24 @@
+{
+  "id": "father-light",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Father Light",
+    "artist": "Stoned Jesus",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "43:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760468472_father_light"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/rrPsZSvstPeBGiZwCJU.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qkecmkzf.7z"
+    }
+  }
+}

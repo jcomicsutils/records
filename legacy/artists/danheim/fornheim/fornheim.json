@@ -1,0 +1,27 @@
+{
+  "id": "fornheim",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Fornheim",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:35",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760743970_fornheim"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SmIdPUCjXxZomDioTctR.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/dxzrja.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fmfhspk6.7z"
+    }
+  }
+}

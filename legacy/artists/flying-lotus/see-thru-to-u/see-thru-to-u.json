@@ -1,0 +1,27 @@
+{
+  "id": "see-thru-to-u",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "See Thru to U",
+    "artist": "Flying Lotus",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757209458_see_thru_to_u"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/KHnIBZqVcJSFfEzpZaFT.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/qb7va1.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3c8ww34n.7z"
+    }
+  }
+}

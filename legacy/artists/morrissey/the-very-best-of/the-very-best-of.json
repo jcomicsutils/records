@@ -1,0 +1,24 @@
+{
+  "id": "the-very-best-of",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Very Best Of",
+    "artist": "Morrissey",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754915953_2011_-_the_very_best_of"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/sqfeovQleCDTbXtnlSx.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/u1sy3min.7z"
+    }
+  }
+}

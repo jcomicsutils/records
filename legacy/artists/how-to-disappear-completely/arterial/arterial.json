@@ -1,0 +1,24 @@
+{
+  "id": "arterial",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Arterial",
+    "artist": "How To Disappear Completely",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "49:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759948357_arterial"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/zgGMSwWKIItaJUomzBtS.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ozxsfpy5.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "0911-isaque-ducristo-remix",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "09/11  ($isaque duCristo Remix)",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759610148_09_-_11___isaque_ducristo_remix_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/GCFfvSEGYleLlrTcnL.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/i7154h.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lpdy03kg.7z"
+    }
+  }
+}

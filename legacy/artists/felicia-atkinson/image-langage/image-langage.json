@@ -1,0 +1,24 @@
+{
+  "id": "image-langage",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Image Langage",
+    "artist": "Félicia Atkinson",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "1:03:15",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767032558_image_langage"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/l2ychfv.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b68/NKvoIBxdunJDrVwoxjT.7z"
+    }
+  }
+}

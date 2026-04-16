@@ -1,0 +1,27 @@
+{
+  "id": "amt-tour-02-cd-r",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "AMT Tour '02 CD-R",
+    "artist": "Atsushi Tsuyama",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_human": "32:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764955672_amt_tour__02_cd-r"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/uz8gkvu.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/3z90pb.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/rCrpJhvImWYQurYvrCgY.7z"
+    }
+  }
+}

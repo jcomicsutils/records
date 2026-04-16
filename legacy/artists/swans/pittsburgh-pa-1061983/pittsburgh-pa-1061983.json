@@ -1,0 +1,27 @@
+{
+  "id": "pittsburgh-pa-1061983",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Pittsburgh, PA 10/6/1983",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "24:47",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769299626_pittsburgh__pa_10_-_6_-_1983"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mqwojf5m.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/cw82nz.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/TivMPDQprvSODohPHcQ.7z"
+    }
+  }
+}

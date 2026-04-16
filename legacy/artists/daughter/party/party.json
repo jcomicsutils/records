@@ -1,0 +1,27 @@
+{
+  "id": "party",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Party",
+    "artist": "Daughter",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:27",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "": {
+      "url": ""
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/1761008518_party"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/VPDnptHwWHtqvIIZTtW.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qtlhq9l6.7z"
+    }
+  }
+}

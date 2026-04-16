@@ -1,0 +1,24 @@
+{
+  "id": "haw-phin",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Haw Phin",
+    "artist": "YĪN YĪN",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759113106_haw_phin"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/IEZAsnvfezPXATQACZTf.zip"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0w6e72.zip"
+    }
+  }
+}

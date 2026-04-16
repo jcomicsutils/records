@@ -1,0 +1,24 @@
+{
+  "id": "sly",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sly",
+    "artist": "Massive Attack",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "49:56",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760121298_sly__1994_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/URXOOPjdAbLMKRWfXdF.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/agdmu39u.7z"
+    }
+  }
+}

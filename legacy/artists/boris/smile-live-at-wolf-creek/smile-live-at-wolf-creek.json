@@ -1,0 +1,24 @@
+{
+  "id": "smile-live-at-wolf-creek",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Smile -Live at Wolf Creek-",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "1:34:57",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764492228_smile_-live_at_wolf_creek-"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/aGWreMFVUjiQlHYEFwQ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ocit4y9i.7z"
+    }
+  }
+}

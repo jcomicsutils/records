@@ -1,0 +1,21 @@
+{
+  "id": "pink",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "PINK",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "1:11:54",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764473287_pink"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/qxOmwezXYOgCcZJxlJhv.7z"
+    }
+  }
+}

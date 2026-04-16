@@ -1,0 +1,21 @@
+{
+  "id": "elizium",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Elizium",
+    "artist": "Fields Of The Nephilim",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "49:13",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761096589_elizium"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/bVhACFwOquLklEoAyBo.7z"
+    }
+  }
+}

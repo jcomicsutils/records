@@ -1,0 +1,27 @@
+{
+  "id": "perfect-future-list-split",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Perfect Future / List - Split",
+    "artist": "Perfect Future",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752314899_list_-_split"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/gxHEuStlnGBvmYdobCRj.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/z552n1.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lskjd8u.7z"
+    }
+  }
+}

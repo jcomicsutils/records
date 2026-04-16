@@ -1,0 +1,27 @@
+{
+  "id": "space-is-an-illusion-live-in-vilnius",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Space is an Illusion - Live in Vilnius",
+    "artist": "Atomine Elektrine",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747683231_space_is_an_illusion_-_live_in_vilnius"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/ruRGbrqMRJFyhfdCmFzc.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5hgfl6.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/r3zxmg9.7z"
+    }
+  }
+}

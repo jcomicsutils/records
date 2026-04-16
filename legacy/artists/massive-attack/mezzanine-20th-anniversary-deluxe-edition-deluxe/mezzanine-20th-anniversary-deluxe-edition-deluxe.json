@@ -1,0 +1,24 @@
+{
+  "id": "mezzanine-20th-anniversary-deluxe-edition-deluxe",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Mezzanine (20th Anniversary Deluxe Edition) (Deluxe)",
+    "artist": "Massive Attack",
+    "codec": "FLAC",
+    "num_tracks": 19,
+    "duration_human": "1:51:58",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760045609_mezzanine__20th_anniversary_deluxe_edition___delux"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/cGqhaOXIAPAXKKLCZCWo.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/r23zyjx0.7z"
+    }
+  }
+}

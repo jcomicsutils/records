@@ -1,0 +1,24 @@
+{
+  "id": "samuel-rosa-lo-borges-ao-vivo-no-cine-theatro-brasil",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Samuel Rosa & Lô Borges Ao Vivo no Cine Theatro Brasil",
+    "artist": "Lô Borges",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_human": "1:01:20",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763913844_samuel_rosa___l__borges_ao_vivo_no_cine_theatro_br"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/RGCAqiIOtvrxDlnRwtZ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/cemvzf0z.7z"
+    }
+  }
+}

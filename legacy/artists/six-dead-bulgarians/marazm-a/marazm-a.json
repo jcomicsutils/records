@@ -1,0 +1,27 @@
+{
+  "id": "marazm-a",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Marazm: A",
+    "artist": "Six Dead Bulgarians",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "41:38",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761495808_marazm_a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/eTKtqePGpuOwnTuhOdgF.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ft29q2.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7829jadw.7z"
+    }
+  }
+}

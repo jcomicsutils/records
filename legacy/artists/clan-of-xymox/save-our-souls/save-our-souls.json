@@ -1,0 +1,27 @@
+{
+  "id": "save-our-souls",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Save Our Souls",
+    "artist": "Clan of Xymox",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:40",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "": {
+      "url": ""
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/1760994154_save_our_souls"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SCotfVgFJwdeAbmiECbC.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dcxad3la.7z"
+    }
+  }
+}

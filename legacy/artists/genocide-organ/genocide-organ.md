@@ -1,0 +1,19 @@
+# Genocide Organ
+
+
+| Album | Codec | Duration | Hosts |
+|-------|-------|----------|-------|
+| [: In-Konflikt :](in-konflikt/in-konflikt.md) | FLAC | 47:57 | [IA](https://archive.org/details/1760991322_in-konflikt) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/DIQIArrkijTppVCkDyVX.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/i1eficmz.7z) |
+| [Absolute Truth](absolute-truth/absolute-truth.md) | FLAC | 29:00 | [IA](https://archive.org/details/1760980894_absolute_truth) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/xXAybFMACoDwPujfZiT.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/psyeucpt.7z) |
+| [All Is Suffering](all-is-suffering/all-is-suffering.md) | FLAC | 47:03 | [IA](https://archive.org/details/1760982099_all_is_suffering) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/rxQAWUWWQrhkmvVYAoZf.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/oygohgzk.7z) |
+| [Archive II - EP](archive-ii-ep/archive-ii-ep.md) | FLAC | 20:12 | []() [IA](https://archive.org/details/1760984160_archive_ii_-_ep) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/HWNHlCDqESSxjCiHooio.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/xs9tgkp.7z) |
+| [Carte Blanche](carte-blanche/carte-blanche.md) | FLAC | 41:20 | [IA](https://archive.org/details/1760985352_carte_blanche) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/bwXaLhfhvwUgDDKKvBLU.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/8qihtz49.7z) |
+| [Death Zones](death-zones/death-zones.md) | FLAC | 1:22:09 | [IA](https://archive.org/details/1760987794_death_zones) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/eaVJiyavPuEdHzadRqH.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/falz646.7z) |
+| [Live in Japan 2007](live-in-japan-2007/live-in-japan-2007.md) | FLAC | 41:10 | [IA](https://archive.org/details/1760993298_live_in_japan_2007) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/WLsIGGScSyvCVYMptKsl.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/6p6x1w3v.7z) |
+| [Mind Control](mind-control/mind-control.md) | FLAC | 40:44 | [IA](https://archive.org/details/1760995276_mind_control__1995_) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/PNtjxDyRrIEbTKEXYtVm.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/n8xkcy7c.7z) |
+| [Mind Control](mind-control/mind-control.md) | FLAC | 47:46 | [IA](https://archive.org/details/1760996783_mind_control__2018_) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/NRBXVmYNzSUxtYmScvc.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/gd5ftmsy.7z) |
+| [Operations with contempt](operations-with-contempt/operations-with-contempt.md) | FLAC | 43:32 | [IA](https://archive.org/details/1760998731_operations_with_contempt) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/KmJZlsSzoGxBbJAgKGGw.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/wnohizht.7z) |
+| [Same](same/same.md) | FLAC | 56:22 | [IA](https://archive.org/details/1761000950_same) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/mifSwKiARQrCkaTYgdeh.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/rgy0jux.7z) |
+| [The Truth Will Make You Free](the-truth-will-make-you-free/the-truth-will-make-you-free.md) | FLAC | 46:09 | [IA](https://archive.org/details/1761002998_the_truth_will_make_you_free) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/FkaLsRjXGTWQJgOxKkqQ.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/hbaohiq.7z) |
+| [Under-Kontrakt](under-kontrakt/under-kontrakt.md) | FLAC | 40:43 | [IA](https://archive.org/details/1761004567_under-kontrakt) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/KglCJpccGoluPfpiapBY.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/gkkjx4.7z) |
+| [With Heart and Hand](with-heart-and-hand/with-heart-and-hand.md) | FLAC | 6:31 | [IA](https://archive.org/details/1761006256_with_heart_and_hand) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/opYyKrKnVFcioxhAIhZ.7z) [Catbox](https://files.catbox.moe/of1dqk.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/r9m79jlt.7z) |

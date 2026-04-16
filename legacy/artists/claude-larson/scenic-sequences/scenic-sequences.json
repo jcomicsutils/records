@@ -1,0 +1,24 @@
+{
+  "id": "scenic-sequences",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Scenic Sequences",
+    "artist": "Claude Larson",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_human": "37:57",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759789582_scenic_sequences"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/nQgrLWZlSYvmCgmyYQaj.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/a9bkttdu.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a-broken-frame-cd-stumm-9-mute",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Broken Frame [CD STUMM 9 MUTE]",
+    "artist": "Depeche Mode",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746124523_depeche_mode_-_a_broken_frame__1982___cd_stumm_9_m"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/FBArpLCgkPUOAxiJJTsk.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/l21x1l0s.7z"
+    }
+  }
+}

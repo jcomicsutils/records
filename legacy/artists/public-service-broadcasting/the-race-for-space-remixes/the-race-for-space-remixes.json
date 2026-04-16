@@ -1,0 +1,24 @@
+{
+  "id": "the-race-for-space-remixes",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Race For Space Remixes'",
+    "artist": "Public Service Broadcasting",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "1:11:59",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761520643_the_race_for_space_remixes_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/gxjMRwSvsGOdWSMSPhLn.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/w1uanlg8.7z"
+    }
+  }
+}

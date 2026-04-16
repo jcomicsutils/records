@@ -1,0 +1,27 @@
+{
+  "id": "baron-von-rhonedakk-and-the-crystal-sun",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Baron Von Rhonedakk and the Crystal Sun",
+    "artist": "Cotton Casino",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_human": "40:57",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764954018_baron_von_rhonedakk_and_the_crystal_sun"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9s557334.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gowyo4.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/CHiOhXmBQdZYkzMiEgFL.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "live-in-berlin-i-live",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live In Berlin I  (Live)",
+    "artist": "Psychic TV",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "57:14",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759705537_live_in_berlin_i__live_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/KtuemxwUwoTaETpJblaE.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/v26ksnzr.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "morbida-medicine-bow",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Morbida / Medicine Bow",
+    "artist": "Medicine Bow",
+    "codec": "MP3",
+    "num_tracks": 8,
+    "duration_human": "41:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767021622_morbida_-_medicine_bow"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/r1fdykj.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/9sopmg.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/rjzXGaHrMLHDqSHUYQ.7z"
+    }
+  }
+}

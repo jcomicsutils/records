@@ -1,0 +1,24 @@
+{
+  "id": "weltuntergangsstimmung",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Weltuntergangsstimmung",
+    "artist": "Kiss The Anus Of A Black Cat",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "36:55",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760925898_weltuntergangsstimmung"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/nbGLvewCmvNVyVjWnoZs.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wdr4pbq0.7z"
+    }
+  }
+}

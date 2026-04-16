@@ -1,0 +1,27 @@
+{
+  "id": "drift-nowhere-past-22-march-2020",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Drift Nowhere Past (22 March 2020)",
+    "artist": "Reinier van Houdt",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752352981_drift_nowhere_past__22_march_2020_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/XMBDMfNZdyrAdSdsLOb.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/yn7egc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/y3jizj3b.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "masked-winged-and-hidden",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Masked, Winged, and Hidden",
+    "artist": "Nahadoth",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "48:29",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761339275_masked__winged__and_hidden"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/IFZAZvoUVQuYqlPUCaUs.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0308zdjv.7z"
+    }
+  }
+}

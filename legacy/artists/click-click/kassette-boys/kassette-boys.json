@@ -1,0 +1,27 @@
+{
+  "id": "kassette-boys",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Kassette Boys",
+    "artist": "Click Click",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "14:06",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760753245_kassette_boys"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/wVrLNvMLMhHbOWfoqVg.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/broaaq.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6g47vseq.7z"
+    }
+  }
+}

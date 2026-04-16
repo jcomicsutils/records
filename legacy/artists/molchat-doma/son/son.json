@@ -1,0 +1,27 @@
+{
+  "id": "son",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Сон / Son",
+    "artist": "Molchat Doma",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "9:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760472899_____-_son"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/XCpBUOOdyUrSRUWYYtyT.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/p7gug5.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wbxigsm9.7z"
+    }
+  }
+}

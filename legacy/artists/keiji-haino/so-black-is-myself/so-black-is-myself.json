@@ -1,0 +1,24 @@
+{
+  "id": "so-black-is-myself",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "So, Black Is Myself",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "1:07:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764808677_so__black_is_myself"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bjn6wngl.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/OYKugVCMJpntBlwRjhAo.7z"
+    }
+  }
+}

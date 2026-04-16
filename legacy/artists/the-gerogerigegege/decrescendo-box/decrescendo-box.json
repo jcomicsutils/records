@@ -1,0 +1,27 @@
+{
+  "id": "decrescendo-box",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": ">(decrescendo) Box",
+    "artist": "The Gerogerigegege [ザ・ゲロゲリゲゲゲ]",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752391516__decrescendo__box"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/ukaAjUOxSowsTbpLjroc.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/j6oqo8.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/n6iwel3h.7z"
+    }
+  }
+}

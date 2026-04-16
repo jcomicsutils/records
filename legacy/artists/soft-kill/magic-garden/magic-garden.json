@@ -1,0 +1,27 @@
+{
+  "id": "magic-garden",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Magic Garden",
+    "artist": "Soft Kill",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759976109_magic_garden"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/KCzDkoHjZkFMJaVVbbY.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wlcpnw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4qfszcum.7z"
+    }
+  }
+}

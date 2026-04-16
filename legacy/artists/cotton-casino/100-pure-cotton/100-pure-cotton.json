@@ -1,0 +1,27 @@
+{
+  "id": "100-pure-cotton",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "100% Pure Cotton",
+    "artist": "Cotton Casino",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_human": "11:05",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764953955_100__pure_cotton"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0lodms.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/y1skoi.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/yZVJNrmxQtAEVQJwrrm.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "music-for-nitrous-oxide",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Music For Nitrous Oxide",
+    "artist": "Stars of the Lid",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754838004_music_for_nitrous_oxide"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/ZuIijpnYJZAHwgCgdyK.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ir6v5fl.7z"
+    }
+  }
+}

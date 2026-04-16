@@ -1,0 +1,24 @@
+{
+  "id": "orchestra-of-the-frozen-state",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Orchestra of the Frozen State [冰国乐队]",
+    "artist": "bod [包家巷]",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "48:24",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766781229_orchestra_of_the_frozen_state_______"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/m6ul48y.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/YWJIqzMTeqyfDEDnaLFm.7z"
+    }
+  }
+}

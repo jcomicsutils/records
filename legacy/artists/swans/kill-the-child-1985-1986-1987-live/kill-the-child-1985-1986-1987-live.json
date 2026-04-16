@@ -1,0 +1,24 @@
+{
+  "id": "kill-the-child-1985-1986-1987-live",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Kill the Child: 1985 / 1986 / 1987 Live",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "1:02:18",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769293860_kill_the_child_1985_-_1986_-_1987_live"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/d6c4lmcs.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/CWDpqWHNBWNguHfMtYP.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "songs-of-maldoror",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Songs of Maldoror",
+    "artist": "Anti-Delusion Mechanism",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747651487_songs_of_maldoror"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/RvPnxuLHRQdfaLYjwtpU.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/4a8nwn.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vl8so38u.7z"
+    }
+  }
+}

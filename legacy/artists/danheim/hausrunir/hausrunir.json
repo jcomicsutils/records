@@ -1,0 +1,27 @@
+{
+  "id": "hausrunir",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hausrunir",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:22",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760746255_hausrunir"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/qvAmutGwDjsuIDUfHysi.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ufht55.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gh9p2lcm.7z"
+    }
+  }
+}

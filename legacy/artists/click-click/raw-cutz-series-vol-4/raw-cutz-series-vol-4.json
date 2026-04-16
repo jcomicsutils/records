@@ -1,0 +1,27 @@
+{
+  "id": "raw-cutz-series-vol-4",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "RAW CUTZ Series, Vol. 4",
+    "artist": "Click Click",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "11:22",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760766155_raw_cutz_series__vol__4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/kuQytphMyxBoIAkxgFQr.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ineny8.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/iqydhc6.7z"
+    }
+  }
+}

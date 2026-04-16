@@ -1,0 +1,24 @@
+{
+  "id": "2r0i2p0",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "2R0I2P0",
+    "artist": "Boris with Merzbow",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "1:17:58",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763909008_2r0i2p0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b63/DPlXXBvHQOeSXAiUwxAO.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/sfqtq6y8.7z"
+    }
+  }
+}

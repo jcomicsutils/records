@@ -1,0 +1,24 @@
+{
+  "id": "jesu-picture-disc-mix-unreleased-original-vision",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Jesu (Picture Disc Mix: Unreleased Original Vision)",
+    "artist": "Jesu",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "1:14:59",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764202602_jesu__picture_disc_mix_unreleased_original_vision_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/VJfmNpIUzmVmdKGfRmZ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fxo9bwci.7z"
+    }
+  }
+}

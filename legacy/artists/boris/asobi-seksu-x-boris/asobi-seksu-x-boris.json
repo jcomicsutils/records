@@ -1,0 +1,27 @@
+{
+  "id": "asobi-seksu-x-boris",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Asobi Seksu x Boris",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "26:23",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764494620_asobi_seksu_x_boris"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/aJJhhTUMtXRukMAPqZQ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/1h4bbg.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/yc524fto.7z"
+    }
+  }
+}

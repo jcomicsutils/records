@@ -1,0 +1,24 @@
+{
+  "id": "super-roots-3",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Super Roots 3",
+    "artist": "Boredoms",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "33:31",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765077685_super_roots_3"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/pxmuljym.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/lJPbybdGhdxorBeFApfA.7z"
+    }
+  }
+}

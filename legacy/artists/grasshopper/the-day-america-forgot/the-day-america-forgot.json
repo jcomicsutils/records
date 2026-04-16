@@ -1,0 +1,27 @@
+{
+  "id": "the-day-america-forgot",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Day America Forgot",
+    "artist": "Grasshopper",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "33:51",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766199761_the_day_america_forgot"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/x73dw7tj.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/i2s7cm.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/ciRkLxiRcodVLZvStKze.7z"
+    }
+  }
+}

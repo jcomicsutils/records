@@ -1,0 +1,27 @@
+{
+  "id": "c2m-mixx-lacey-hosted-by-hellsingglockboyz",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "(c2m mixx) lacey  (HOSTED BY HELLSINGGLOCKBOYZ)",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:57",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759609632__c2m_mixx__lacey__hosted_by_hellsingglockboyz_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SPPnUwMsjpzxaXToMKOm.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/frwatc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/b55ff6tw.7z"
+    }
+  }
+}

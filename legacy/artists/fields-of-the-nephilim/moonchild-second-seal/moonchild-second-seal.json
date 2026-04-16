@@ -1,0 +1,27 @@
+{
+  "id": "moonchild-second-seal",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Moonchild (Second Seal)",
+    "artist": "Fields Of The Nephilim",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "24:07",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761078297_moonchild__second_seal_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/XhnyrlwdHlnvFfCsZu.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/p7yx54.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/cpjgneuc.7z"
+    }
+  }
+}

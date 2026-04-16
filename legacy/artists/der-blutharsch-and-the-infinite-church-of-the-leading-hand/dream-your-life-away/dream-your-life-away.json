@@ -1,0 +1,24 @@
+{
+  "id": "dream-your-life-away",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Dream Your Life Away",
+    "artist": "Der Blutharsch and the Infinite Church of the Leading Hand",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "48:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759950749_dream_your_life_away"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/zDKnuSwEhojaEmdIeUdJ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/x149zc8n.7z"
+    }
+  }
+}

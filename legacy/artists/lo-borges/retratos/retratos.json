@@ -1,0 +1,24 @@
+{
+  "id": "retratos",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Retratos",
+    "artist": "Lô Borges",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "43:36",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763911322_retratos"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/GiXqpKxYiBHoUwqMkGyG.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/djvhj4xb.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "grudge-for-life",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Grudge For Life",
+    "artist": "Ramleh",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752328221_grudge_for_life"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b54/ckNnIHjOsLBcRcnMbhkm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2qglnc2b.7z"
+    }
+  }
+}

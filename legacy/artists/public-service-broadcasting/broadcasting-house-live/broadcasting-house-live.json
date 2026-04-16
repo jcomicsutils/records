@@ -1,0 +1,27 @@
+{
+  "id": "broadcasting-house-live",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Broadcasting House (Live)",
+    "artist": "Public Service Broadcasting",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "6:39",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761494593_broadcasting_house__live_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SpHcEmPCmGpraltAHoXX.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/iacleb.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fdtll2tb.7z"
+    }
+  }
+}

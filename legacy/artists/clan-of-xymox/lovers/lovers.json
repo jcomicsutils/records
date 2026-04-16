@@ -1,0 +1,27 @@
+{
+  "id": "lovers",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Lovers",
+    "artist": "Clan of Xymox",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "25:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "": {
+      "url": ""
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/1761004572_lovers"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/CkTkzBRYbQjXDXHbDPou.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gp2eprr4.7z"
+    }
+  }
+}

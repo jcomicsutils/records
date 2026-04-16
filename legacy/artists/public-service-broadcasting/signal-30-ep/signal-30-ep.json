@@ -1,0 +1,27 @@
+{
+  "id": "signal-30-ep",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Signal 30 EP",
+    "artist": "Public Service Broadcasting",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "17:42",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761513248_signal_30_ep"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/YPxLbAmwRtuEWXqjKLT.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ho1zx4.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/54rkgu9y.7z"
+    }
+  }
+}

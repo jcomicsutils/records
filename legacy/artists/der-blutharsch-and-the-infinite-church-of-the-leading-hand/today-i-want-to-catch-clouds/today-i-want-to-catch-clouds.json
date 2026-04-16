@@ -1,0 +1,24 @@
+{
+  "id": "today-i-want-to-catch-clouds",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Today I Want to Catch Clouds",
+    "artist": "Der Blutharsch and the Infinite Church of the Leading Hand",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "58:57",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759964464_today_i_want_to_catch_clouds"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/iWCtWpsUMVuHkbMbkgPO.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xgmarjt2.7z"
+    }
+  }
+}

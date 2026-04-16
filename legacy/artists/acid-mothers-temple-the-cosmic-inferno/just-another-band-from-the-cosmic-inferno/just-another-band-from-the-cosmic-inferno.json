@@ -1,0 +1,24 @@
+{
+  "id": "just-another-band-from-the-cosmic-inferno",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Just Another Band From The Cosmic Inferno",
+    "artist": "Acid Mothers Temple & The Cosmic Inferno",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "1:04:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765140930_just_another_band_from_the_cosmic_inferno"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/blrkuk.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/cXyLQdsqngwRoOEuuOpk.7z"
+    }
+  }
+}

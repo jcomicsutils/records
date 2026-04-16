@@ -1,0 +1,27 @@
+{
+  "id": "ritual-spirit-ep-ep",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ritual Spirit EP (EP)",
+    "artist": "Massive Attack",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "17:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760065915_ritual_spirit_ep__ep_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/dCaexyNGfWdwZxbaTtft.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/z2hdhx.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/n2q62jcg.7z"
+    }
+  }
+}

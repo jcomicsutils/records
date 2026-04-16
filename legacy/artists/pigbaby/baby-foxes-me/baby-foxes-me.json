@@ -1,0 +1,24 @@
+{
+  "id": "baby-foxes-me",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Baby foxes & me.",
+    "artist": "pigbaby",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759038980_baby_foxes___me"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/TDqjbQreFYUhkjWAoeFM.zip"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ul3007.zip"
+    }
+  }
+}

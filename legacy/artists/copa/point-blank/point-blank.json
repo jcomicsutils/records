@@ -1,0 +1,27 @@
+{
+  "id": "point-blank",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "point blank",
+    "artist": "COPA",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758596241_point_blank"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/AoNXgkkIKPyDiEytUQVt.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/mbwyxk.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/sxjgyd5l.7z"
+    }
+  }
+}

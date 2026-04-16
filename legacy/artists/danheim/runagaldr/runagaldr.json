@@ -1,0 +1,24 @@
+{
+  "id": "runagaldr",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Runagaldr",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "53:20",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760756215_runagaldr"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/KHlfIomeDqMtClAFjHT.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/cntiin8.7z"
+    }
+  }
+}

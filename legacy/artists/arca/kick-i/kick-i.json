@@ -1,0 +1,24 @@
+{
+  "id": "kick-i",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "KiCk i",
+    "artist": "Arca",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "38:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760243374_kick_i"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/oNoAwuHAhjxvgGktjCip.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/x1divcjb.7z"
+    }
+  }
+}

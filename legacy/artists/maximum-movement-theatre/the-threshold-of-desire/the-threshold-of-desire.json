@@ -1,0 +1,24 @@
+{
+  "id": "the-threshold-of-desire",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "the threshold of desire",
+    "artist": "Maximum Movement Theatre",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "46:12",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761392013_the_threshold_of_desire"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/RCBvaNkjRspPHhrAtjd.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/cqiu5qfq.7z"
+    }
+  }
+}

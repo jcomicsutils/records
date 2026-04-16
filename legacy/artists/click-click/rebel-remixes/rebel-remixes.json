@@ -1,0 +1,27 @@
+{
+  "id": "rebel-remixes",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Rebel (Remixes)",
+    "artist": "Click Click",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "13:54",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760766366_rebel__remixes_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/eceDqJiBosvpFXDUxHBR.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/lqvymw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/p4m3fn4n.7z"
+    }
+  }
+}

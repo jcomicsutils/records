@@ -1,0 +1,24 @@
+{
+  "id": "live-at-konserthuset-stockholm-september-20-1968",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at Konserthuset, Stockholm September 20, 1968",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 20,
+    "duration_human": "2:00:57",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760546334_live_at_konserthuset__stockholm_september_20__1968"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/lDQCpsPmLfMhupFlqOC.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3labl86.7z"
+    }
+  }
+}

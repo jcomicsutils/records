@@ -1,0 +1,24 @@
+{
+  "id": "dysthymic-disorder",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "dysthymic disorder",
+    "artist": "Sorry About My Face",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "21:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760475948_dysthymic_disorder"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ToHWgVLvJoCdPxajLBa.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8hn1audp.7z"
+    }
+  }
+}

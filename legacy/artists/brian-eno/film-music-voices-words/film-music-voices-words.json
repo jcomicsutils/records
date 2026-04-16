@@ -1,0 +1,27 @@
+{
+  "id": "film-music-voices-words",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Film Music: Voices & Words",
+    "artist": "Brian Eno",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756403623_film_music_voices___words"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/SQVgEXAJIsEgNwJxfy.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/p8rxgy.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/kgnv2h3c.7z"
+    }
+  }
+}

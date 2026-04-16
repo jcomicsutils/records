@@ -1,0 +1,27 @@
+{
+  "id": "out-from-the-deep",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Out From The Deep",
+    "artist": "Enigma",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "20:23",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761147170_out_from_the_deep"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/WYgjNUhgPfsjLgfnKHpN.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/mc8frl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vax6h0zl.7z"
+    }
+  }
+}

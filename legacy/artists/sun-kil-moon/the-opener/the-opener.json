@@ -1,0 +1,27 @@
+{
+  "id": "the-opener",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Opener",
+    "artist": "Sun Kil Moon",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:52",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768689855_the_opener"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/u1c0vor8.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/guk6o4.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/BBobVuigYuPTtIZpugoA.7z"
+    }
+  }
+}

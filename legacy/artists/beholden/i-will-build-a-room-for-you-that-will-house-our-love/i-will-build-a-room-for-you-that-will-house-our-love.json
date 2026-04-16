@@ -1,0 +1,24 @@
+{
+  "id": "i-will-build-a-room-for-you-that-will-house-our-love",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "I will build a room for you that will house our love.",
+    "artist": "Beholden",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "52:32",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766261112_i_will_build_a_room_for_you_that_will_house_our_lo"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nv9ycs32.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/iJLoIHbgXDqVAczjsuE.7z"
+    }
+  }
+}

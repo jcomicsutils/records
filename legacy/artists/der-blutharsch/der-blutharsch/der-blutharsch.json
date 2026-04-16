@@ -1,0 +1,27 @@
+{
+  "id": "der-blutharsch",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Der Blutharsch",
+    "artist": "Der Blutharsch",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "36:40",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759947674_der_blutharsch"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/bdKruHoXFyZAloKUulSa.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/w82atd.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/owppmyl3.7z"
+    }
+  }
+}

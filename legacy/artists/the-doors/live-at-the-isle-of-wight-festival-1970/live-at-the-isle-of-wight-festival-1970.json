@@ -1,0 +1,24 @@
+{
+  "id": "live-at-the-isle-of-wight-festival-1970",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at the Isle of Wight Festival 1970",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "1:05:07",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760550928_live_at_the_isle_of_wight_festival_1970"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/RmtYQetUlWgWwZsihKVA.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ik54xav8.7z"
+    }
+  }
+}

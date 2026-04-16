@@ -1,0 +1,24 @@
+{
+  "id": "the-boy-racer-cd-1",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Boy Racer  [CD #1]",
+    "artist": "Morrissey",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754902717_1995_-_the_boy_racer__cd_1_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/qvvqSMGVxpJtyvDrCdr.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/pt8w8ml5.7z"
+    }
+  }
+}

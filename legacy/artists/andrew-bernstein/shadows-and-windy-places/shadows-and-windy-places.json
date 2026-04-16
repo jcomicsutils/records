@@ -1,0 +1,24 @@
+{
+  "id": "shadows-and-windy-places",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Shadows and Windy Places",
+    "artist": "Andrew Bernstein",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "29:58",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769365303_shadows_and_windy_places"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/trui93hs.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/CkjiQivwMRrzUCBhIEFT.7z"
+    }
+  }
+}

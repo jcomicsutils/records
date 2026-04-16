@@ -1,0 +1,27 @@
+{
+  "id": "time-runs-slowlie",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "time runs slowlie",
+    "artist": "Maximum Movement Theatre",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "50:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761359592_time_runs_slowlie"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/FZUWGnWivXOWWPlfhUio.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/9h5ar9.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jkcj0yin.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "smile-live-in-prague-2008",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Smile: Live in Prague 2008",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "1:17:36",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764464639_smile_live_in_prague_2008"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/qOpkYqdtgQRoprIiqQsU.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/c589qq1.7z"
+    }
+  }
+}

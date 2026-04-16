@@ -1,0 +1,27 @@
+{
+  "id": "sturmwind",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sturmwind",
+    "artist": "Beequeen",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "7:03",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760243755_sturmwind"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PkVxKLMZYjErkZPbKva.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/z0obfl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lhrcibgr.7z"
+    }
+  }
+}

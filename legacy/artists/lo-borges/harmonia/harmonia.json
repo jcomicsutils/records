@@ -1,0 +1,24 @@
+{
+  "id": "harmonia",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Harmonia",
+    "artist": "Lô Borges",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "36:48",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763915937_harmonia"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/YhuqHEKxCGkKgmAtzHwc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2msbhzp.7z"
+    }
+  }
+}

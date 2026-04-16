@@ -1,0 +1,27 @@
+{
+  "id": "the-gate-edit",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Gate (Edit)",
+    "artist": "Arca",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:55",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760311217_the_gate__edit_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/kULqMuqLXcHXLCVKqOcO.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/rifxko.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0kwptck.7z"
+    }
+  }
+}

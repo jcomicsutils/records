@@ -1,0 +1,27 @@
+{
+  "id": "the-green-regenerating",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Green, Regenerating",
+    "artist": "Nahadoth",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "27:25",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761346036_the_green__regenerating"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LJwOuZpccqYCsBaSGNOJ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/cmglhc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8mgk6hb8.7z"
+    }
+  }
+}

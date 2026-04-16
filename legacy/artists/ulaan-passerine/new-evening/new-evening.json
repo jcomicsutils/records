@@ -1,0 +1,27 @@
+{
+  "id": "new-evening",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "New Evening",
+    "artist": "Ulaan Passerine",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "33:01",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769917591_new_evening"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3cro1zk.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/x8pcc6.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/CZZvamvOjNDLVVqMTWvO.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "hostile-ambient-takeover",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hostile Ambient Takeover",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "46:26",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769313849_hostile_ambient_takeover"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/kvzii5en.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/vLlrimTQbSSBQPNNBGhX.7z"
+    }
+  }
+}

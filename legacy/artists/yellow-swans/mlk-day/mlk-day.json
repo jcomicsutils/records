@@ -1,0 +1,27 @@
+{
+  "id": "mlk-day",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "MLK Day",
+    "artist": "Yellow Swans",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754823851_mlk_day"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/GNKiFAbrAAXcRBbemkPF.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/h5zcd7.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vtor6w9w.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "the-hidden-bloodline-2",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Hidden Bloodline 2",
+    "artist": "Boris",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_human": "10:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764469067_the_hidden_bloodline_2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/rYDBQDyHWluGmUoycTIj.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/9o9fhg.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/oej1gf6t.7z"
+    }
+  }
+}

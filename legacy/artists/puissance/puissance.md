@@ -1,0 +1,16 @@
+# Puissance
+
+
+| Album | Codec | Duration | Hosts |
+|-------|-------|----------|-------|
+| [Back in Control](back-in-control/back-in-control.md) | FLAC | 44:02 | [IA](https://archive.org/details/1761485526_back_in_control) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/jeqJKPXcCeAFrtGGHrfM.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/gd60tm73.7z) |
+| [Bloodless Hunt (Original Mix)](bloodless-hunt-original-mix/bloodless-hunt-original-mix.md) | FLAC | 5:57 | [IA](https://archive.org/details/1761487783_bloodless_hunt__original_mix_) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/fiXNRaIvGxXQIfqpTLg.7z) [Catbox](https://files.catbox.moe/0gpbrv.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/arneqe1u.7z) |
+| [Boom (Puissance Mix)](boom-puissance-mix/boom-puissance-mix.md) | FLAC | 5:20 | [IA](https://archive.org/details/1761488077_boom__puissance_mix_) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/iCVpkVRzQCPOnQrFWNaV.7z) [Catbox](https://files.catbox.moe/lxzzpb.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/1sy4nzh9.7z) |
+| [Dance](dance/dance.md) | FLAC | 2:11 | [IA](https://archive.org/details/1761488355_dance) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/kSIENjPDJxPaUExdliph.7z) [Catbox](https://files.catbox.moe/zx74st.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/4y5ig38o.7z) |
+| [Grace of God](grace-of-god/grace-of-god.md) | FLAC | 42:21 | [IA](https://archive.org/details/1761488473_grace_of_god) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/PPtwoMFhHKvTEVNMvyWQ.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/b1ziveqo.7z) |
+| [Hail The Mushroom Cloud](hail-the-mushroom-cloud/hail-the-mushroom-cloud.md) | FLAC | 19:39 | [IA](https://archive.org/details/1761490407_hail_the_mushroom_cloud) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/MZvPssMGzSRHSBhvvQiH.7z) [Catbox](https://files.catbox.moe/1vvkoj.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/a04lhkvm.7z) |
+| [Let the State Collapse](let-the-state-collapse/let-the-state-collapse.md) | FLAC | 3:12:43 | [IA](https://archive.org/details/1761491552_let_the_state_collapse) [Fileditch](https://fileditchfiles.me/file.php?f=/b60/vlXbGUcIXaqhfybDET.7z) |
+| [Mother of Disease](mother-of-disease/mother-of-disease.md) | FLAC | 48:30 | [IA](https://archive.org/details/1761499166_mother_of_disease) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/WoaxtnajDWvhulWzXNo.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/n1aov8iy.7z) |
+| [Representation (Puissance Mix)](representation-puissance-mix/representation-puissance-mix.md) | FLAC | 6:12 | [IA](https://archive.org/details/1761501488_representation__puissance_mix_) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/COxiUtOXJCroVofsPjCU.7z) [Catbox](https://files.catbox.moe/1leoqr.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/hrvicbmn.7z) |
+| [State Collapse](state-collapse/state-collapse.md) | FLAC | 43:57 | [IA](https://archive.org/details/1761501850_state_collapse) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/aoNPLmNclzzQtwuVZLLr.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/hn6a493i.7z) |
+| [War On](war-on/war-on.md) | FLAC | 51:03 | [IA](https://archive.org/details/1761503832_war_on) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/NPkRKLtEkKvvrsQXCnCV.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/rmabh8n1.7z) |

@@ -1,0 +1,27 @@
+{
+  "id": "dont-come-to-the-woods",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Don't Come to the Woods",
+    "artist": "BACKXWASH",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758067601_don_t_come_to_the_woods"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/quyKyLiJtepGUBTnywg.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5svemf.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ojppimp3.7z"
+    }
+  }
+}

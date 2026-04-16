@@ -1,0 +1,21 @@
+{
+  "id": "filth-deluxe",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Filth (Deluxe)",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 39,
+    "duration_human": "3:16:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769291214_filth__deluxe_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/zPWIJPhwUHBxhgkwBYFp.7z"
+    }
+  }
+}

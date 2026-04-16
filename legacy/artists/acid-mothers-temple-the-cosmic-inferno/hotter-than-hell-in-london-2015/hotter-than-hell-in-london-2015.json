@@ -1,0 +1,24 @@
+{
+  "id": "hotter-than-hell-in-london-2015",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hotter Than Hell in London 2015",
+    "artist": "Acid Mothers Temple & The Cosmic Inferno",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "1:11:31",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765139284_hotter_than_hell_in_london_2015"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/c49dry.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b65/DGANYYlaMFsFLxfBOLZ.7z"
+    }
+  }
+}

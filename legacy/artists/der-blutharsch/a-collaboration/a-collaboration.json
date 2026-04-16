@@ -1,0 +1,24 @@
+{
+  "id": "a-collaboration",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Collaboration",
+    "artist": "Der Blutharsch",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "42:42",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759946292_a_collaboration"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/cJaurVwDIXnDPdpQjCF.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/go51nqb.7z"
+    }
+  }
+}

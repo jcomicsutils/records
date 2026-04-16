@@ -1,0 +1,24 @@
+{
+  "id": "music-for-18-musicians-2005",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Music for 18 Musicians (2005)",
+    "artist": "Steve Reich",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756054072_music_for_18_musicians__2005_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/bQRRByFRaUZjaJzMmtQ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hf3mme2k.7z"
+    }
+  }
+}

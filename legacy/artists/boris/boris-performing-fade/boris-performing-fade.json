@@ -1,0 +1,21 @@
+{
+  "id": "boris-performing-fade",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "ア バオ ア ク -Boris Performing Fade-",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "1:12:36",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764492736__________-boris_performing_fade-"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/aVnJMMSCrmnJZKVcHct.7z"
+    }
+  }
+}

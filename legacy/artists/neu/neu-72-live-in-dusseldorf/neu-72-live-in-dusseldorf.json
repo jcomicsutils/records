@@ -1,0 +1,24 @@
+{
+  "id": "neu-72-live-in-dusseldorf",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Neu! '72 Live! In Düsseldorf",
+    "artist": "NEU!",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752305604__72_live_in_dusseldorf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/zeXRQmTQTAhxKKdjUWQy.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/e9z7h41.7z"
+    }
+  }
+}

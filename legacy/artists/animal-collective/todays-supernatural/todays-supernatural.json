@@ -1,0 +1,27 @@
+{
+  "id": "todays-supernatural",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Today's Supernatural",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:14",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760881134_today_s_supernatural"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/NpgGWJDHASqKLugmVVmu.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ualewn.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mofomu4p.7z"
+    }
+  }
+}

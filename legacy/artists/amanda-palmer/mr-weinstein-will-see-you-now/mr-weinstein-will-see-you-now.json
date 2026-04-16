@@ -1,0 +1,27 @@
+{
+  "id": "mr-weinstein-will-see-you-now",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Mr. Weinstein Will See You Now",
+    "artist": "Amanda Palmer",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:50",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763744167_mr__weinstein_will_see_you_now"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/uwvCstYhVebEOtmvXoUh.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/cia8az.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zuzcca.7z"
+    }
+  }
+}

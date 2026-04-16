@@ -1,0 +1,27 @@
+{
+  "id": "long-stones-and-circles",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Long Stones and Circles",
+    "artist": "Beequeen",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "18:01",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760228828_long_stones_and_circles"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/EZFELbrFHLxFrNUhURSU.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/p7ryr6.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/48s6cz1u.7z"
+    }
+  }
+}

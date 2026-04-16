@@ -1,0 +1,27 @@
+{
+  "id": "me-separa-da-minha-arte",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "me separa da minha arte",
+    "artist": "COPA",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758508930_me_separa_da_minha_arte"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/RTEJOxfxaZumlJJygDBP.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/lpapsb.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gc2mp2f9.7z"
+    }
+  }
+}

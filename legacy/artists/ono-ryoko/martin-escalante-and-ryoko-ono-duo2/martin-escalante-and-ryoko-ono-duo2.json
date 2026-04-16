@@ -1,0 +1,27 @@
+{
+  "id": "martin-escalante-and-ryoko-ono-duo2",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Martín Escalante and Ryoko Ono DUO2",
+    "artist": "Ono Ryoko",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "13:18",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764962203_mart_n_escalante_and_ryoko_ono_duo2"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xs0xu3p6.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ghnx9k.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ZnaLupONVItvYuYmWHxO.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "studies-for-just-intonation-saxophone",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Studies for Just Intonation Saxophone",
+    "artist": "Andrew Bernstein",
+    "codec": "MP3",
+    "num_tracks": 7,
+    "duration_human": "31:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769365613_studies_for_just_intonation_saxophone"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/cehamrmu.7z"
+    },
+    "": {
+      "url": ""
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/anPjhwPHvdTMDCZqwWh.7z"
+    }
+  }
+}

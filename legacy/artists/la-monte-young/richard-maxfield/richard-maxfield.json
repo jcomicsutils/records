@@ -1,0 +1,27 @@
+{
+  "id": "richard-maxfield",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Richard Maxfield",
+    "artist": "La Monte Young",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756080889_richard_maxfield"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/gXodfzRuOBHKmmJHeBgT.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/m02j5f.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/oy3b6db.7z"
+    }
+  }
+}

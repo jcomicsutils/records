@@ -1,0 +1,27 @@
+{
+  "id": "in-the-town-where-i-was-born",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "In The Town Where I Was Born",
+    "artist": "Soft Kill",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:10",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759975529_in_the_town_where_i_was_born"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/JzsbhDHeySYooTouvNbx.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/s5vh03.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/sffqvcix.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "songs-77-79",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Songs '77-'79",
+    "artist": "Theoretical Girls",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752431638_songs__77-_79"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/qSBazaIZXGMGtMvhQHgZ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/n9cmzz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3xk5p010.7z"
+    }
+  }
+}

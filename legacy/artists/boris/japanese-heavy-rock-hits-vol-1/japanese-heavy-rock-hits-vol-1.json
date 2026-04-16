@@ -1,0 +1,27 @@
+{
+  "id": "japanese-heavy-rock-hits-vol-1",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Japanese Heavy Rock Hits Vol. 1",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "9:10",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764481917_japanese_heavy_rock_hits_vol__1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/tuwAGPGAPEvcwrNaPCu.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/89xo06.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6looq7h.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "the-original-band-live-at-ndr-live-at-ndr-studio-hamburg-1985",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Original Band Live at NDR  (Live at NDR Studio, Hamburg, 1985)",
+    "artist": "Alexander Hacke",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "19:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760408397_the_original_band_live_at_ndr__live_at_ndr_studio_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MSXGDQTorRZEWawNLBrT.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4718cdxg.7z"
+    }
+  }
+}

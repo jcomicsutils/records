@@ -1,0 +1,27 @@
+{
+  "id": "rebel-girl",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Rebel Girl",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:35",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769307528_rebel_girl"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wfc0o4em.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/spr0ye.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/zawmSNOGDUNAWhzpcebn.7z"
+    }
+  }
+}

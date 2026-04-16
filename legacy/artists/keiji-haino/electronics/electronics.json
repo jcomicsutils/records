@@ -1,0 +1,24 @@
+{
+  "id": "electronics",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Electronics",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "56:57",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764808447_electronics"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fsw8yl0.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/FjRZebTxYjMVmsQEggl.7z"
+    }
+  }
+}

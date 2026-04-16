@@ -1,0 +1,27 @@
+{
+  "id": "rough-mix-demo",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Rough Mix Demo",
+    "artist": "Earth",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_human": "45:55",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763931948_rough_mix_demo"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/RHkzrAwyKyLdBqKuYLh.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vazspr.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/yvywy3z.7z"
+    }
+  }
+}

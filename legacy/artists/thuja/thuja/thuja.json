@@ -1,0 +1,27 @@
+{
+  "id": "thuja",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Thuja",
+    "artist": "Thuja",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_human": "38:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769914930_thuja"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nhu2f5z.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7j9hpq.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/xRpZAEnSKkrJqcRhfhhK.7z"
+    }
+  }
+}

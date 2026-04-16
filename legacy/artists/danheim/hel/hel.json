@@ -1,0 +1,27 @@
+{
+  "id": "hel",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hel",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760748065_hel"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/KWheeszWDnuqEYXOFBkH.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jn25ss.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/htz9lb.7z"
+    }
+  }
+}

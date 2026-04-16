@@ -1,0 +1,24 @@
+{
+  "id": "roadhouse-blues-takes-1-2-were-gonna-have-a-real-good-time",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Roadhouse Blues (Takes 1 & 2) [We're Gonna Have A Real Good Time]",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:00",
+    "sampling_rate": "192.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760551524_roadhouse_blues__takes_1___2___we_re_gonna_have_a_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/uAsbKeZaitmNlutCmFa.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ewo54awl.7z"
+    }
+  }
+}

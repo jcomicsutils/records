@@ -1,0 +1,27 @@
+{
+  "id": "from-under-the-hill",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "From Under The Hill",
+    "artist": "And Also the Trees",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747579356_from_under_the_hill"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/LwOVNpEGBmXceTGpDRch.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/leevi1.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ob2db2v9.7z"
+    }
+  }
+}

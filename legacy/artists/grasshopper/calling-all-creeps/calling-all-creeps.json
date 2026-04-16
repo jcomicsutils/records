@@ -1,0 +1,27 @@
+{
+  "id": "calling-all-creeps",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Calling All Creeps",
+    "artist": "Grasshopper",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_human": "17:01",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766193444_calling_all_creeps"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ofba88i0.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/qy4o00.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/FIliukCvCcqFKxLWssig.7z"
+    }
+  }
+}

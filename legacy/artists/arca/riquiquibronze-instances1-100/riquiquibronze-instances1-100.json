@@ -1,0 +1,21 @@
+{
+  "id": "riquiquibronze-instances1-100",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Riquiquí;Bronze-Instances(1-100)",
+    "artist": "Arca",
+    "codec": "FLAC",
+    "num_tracks": 100,
+    "duration_human": "5:50:18",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760317700_riquiqu__bronze-instances_1-100_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/fHQLarJAjyZRWLRWQTvf.7z"
+    }
+  }
+}

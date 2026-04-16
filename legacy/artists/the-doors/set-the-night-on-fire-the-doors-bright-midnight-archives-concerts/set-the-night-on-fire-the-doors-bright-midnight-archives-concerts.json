@@ -1,0 +1,21 @@
+{
+  "id": "set-the-night-on-fire-the-doors-bright-midnight-archives-concerts",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Set the Night on Fire: The Doors Bright Midnight Archives Concerts",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 81,
+    "duration_human": "6:13:42",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760554572_set_the_night_on_fire_the_doors_bright_midnight_ar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/wKpzAfkSXLaPrImJCClc.7z"
+    }
+  }
+}

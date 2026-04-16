@@ -1,0 +1,27 @@
+{
+  "id": "the-mess-inside",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Mess Inside",
+    "artist": "Amanda Palmer",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:26",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763752055_the_mess_inside"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SgAdPvOgiEKGeZXkOpR.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/3i7orc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/i9w0ocbj.7z"
+    }
+  }
+}

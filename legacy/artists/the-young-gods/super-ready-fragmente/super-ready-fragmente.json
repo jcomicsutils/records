@@ -1,0 +1,24 @@
+{
+  "id": "super-ready-fragmente",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Super Ready / Fragmenté",
+    "artist": "The Young Gods",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "51:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759690491_super_ready_-_fragment_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/fgysUTGyHJdhvBvvBzO.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bh5oojpn.7z"
+    }
+  }
+}

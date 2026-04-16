@@ -1,0 +1,24 @@
+{
+  "id": "archive-volume-two-drumless-shows",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Archive Volume Two: Drumless Shows",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "47:57",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764491607_archive_volume_two_drumless_shows"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/lnimVRSXFAhjMqbKQMEG.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/y0398a01.7z"
+    }
+  }
+}

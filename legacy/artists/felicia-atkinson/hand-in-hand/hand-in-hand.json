@@ -1,0 +1,24 @@
+{
+  "id": "hand-in-hand",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hand in Hand",
+    "artist": "Félicia Atkinson",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "58:08",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767029807_hand_in_hand"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/inur55ut.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/ZQmVpIJtrGlljMyGMKvo.7z"
+    }
+  }
+}

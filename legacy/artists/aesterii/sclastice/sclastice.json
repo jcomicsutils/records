@@ -1,0 +1,27 @@
+{
+  "id": "sclastice",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sclastice",
+    "artist": "Aesterii",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1745902767_sclastice"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/WaDBOymrnwmVaVOlCqoH.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/88dx7y.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/705vq8fq.7z"
+    }
+  }
+}

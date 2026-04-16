@@ -1,0 +1,27 @@
+{
+  "id": "f-choir",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "F Choir",
+    "artist": "His Name Is Alive",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:06",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761085167_f_choir"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/yAQQGaVMEvXDqbwVsjKc.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wcv32n.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/b0htfcz5.7z"
+    }
+  }
+}

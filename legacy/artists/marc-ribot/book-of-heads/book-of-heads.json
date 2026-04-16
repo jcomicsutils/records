@@ -1,0 +1,27 @@
+{
+  "id": "book-of-heads",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Book of Heads",
+    "artist": "Marc Ribot",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756517820_book_of_heads"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/IuaSXVJkWsKQnBypCsbl.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gy7u3a.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ndb899e6.7z"
+    }
+  }
+}

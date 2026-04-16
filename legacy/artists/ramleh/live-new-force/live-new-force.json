@@ -1,0 +1,27 @@
+{
+  "id": "live-new-force",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live New Force",
+    "artist": "Ramleh",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752305639__bf_20__ramleh_-_live_new_force_c46"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/ElYYkjszkISVtZmoWjby.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/n0o3vv.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4m0kmny.7z"
+    }
+  }
+}

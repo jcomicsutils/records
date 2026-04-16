@@ -1,0 +1,27 @@
+{
+  "id": "anjo-de-luz",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "ANJO DE LUZ",
+    "artist": "Lô Borges",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763908845_anjo_de_luz"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/qFQIHADgFQuheLlmatAr.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2hrgdv.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ypnfa6y0.7z"
+    }
+  }
+}

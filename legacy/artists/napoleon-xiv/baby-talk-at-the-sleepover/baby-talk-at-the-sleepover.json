@@ -1,0 +1,27 @@
+{
+  "id": "baby-talk-at-the-sleepover",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Baby Talk at the Sleepover",
+    "artist": "Napoleon XIV",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:06",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759946370_baby_talk_at_the_sleepover"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/mihxijJYJDJzFHGLHRv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/pk8sqi.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/p418o0tm.7z"
+    }
+  }
+}

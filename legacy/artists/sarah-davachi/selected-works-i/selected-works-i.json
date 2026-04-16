@@ -1,0 +1,24 @@
+{
+  "id": "selected-works-i",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Selected Works I",
+    "artist": "Sarah Davachi",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "45:58",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761596721_selected_works_i"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/FJGQpabOybDUfqYxgeX.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/g1xegesp.7z"
+    }
+  }
+}

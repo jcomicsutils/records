@@ -1,0 +1,24 @@
+{
+  "id": "super-roots-10",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Super Roots 10",
+    "artist": "Boredoms",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "46:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765078766_super_roots_10"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/5u1opk2i.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/EOGAfDjVEvKciNeEhyxN.7z"
+    }
+  }
+}

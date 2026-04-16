@@ -1,0 +1,27 @@
+{
+  "id": "old-skete",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Old Skete",
+    "artist": "Steven R. Smith",
+    "codec": "MP3",
+    "num_tracks": 11,
+    "duration_human": "33:06",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769916836_old_skete"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nx19edb7.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/k3k3ok.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/JgPriysJFgHpmyPtbxj.7z"
+    }
+  }
+}

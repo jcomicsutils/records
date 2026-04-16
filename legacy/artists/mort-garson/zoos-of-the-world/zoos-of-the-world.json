@@ -1,0 +1,24 @@
+{
+  "id": "zoos-of-the-world",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Zoos Of The World",
+    "artist": "Mort Garson",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "11:49",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761322107_zoos_of_the_world"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SVIwlxXoOfAuSzNczvhM.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mmp26gs.7z"
+    }
+  }
+}

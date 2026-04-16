@@ -1,0 +1,24 @@
+{
+  "id": "the-thing-which-solomon-overlooked-2",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Thing Which Solomon Overlooked 2",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "37:51",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764469782_the_thing_which_solomon_overlooked_2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/oZZEhxPuyAcDCMkKcZDL.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/eo5hw7h.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "daytrotter-session",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Daytrotter Session",
+    "artist": "Akron/Family",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747455567_daytrotter_session"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/akarSQpJuiCWEfaSJOp.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/i7oyvm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/r1kb31kt.7z"
+    }
+  }
+}

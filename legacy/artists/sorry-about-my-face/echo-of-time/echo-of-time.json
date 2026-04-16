@@ -1,0 +1,24 @@
+{
+  "id": "echo-of-time",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Echo of Time",
+    "artist": "Sorry About My Face",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "20:52",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760477425_echo_of_time"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/BsJTGgnuoUTekOEaBeEv.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/j22elnnn.7z"
+    }
+  }
+}

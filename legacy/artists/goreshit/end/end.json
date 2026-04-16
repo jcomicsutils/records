@@ -1,0 +1,24 @@
+{
+  "id": "end",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "End.",
+    "artist": "Goreshit",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "38:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760555930_end"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/crFLaTVnSlUTpYMQKPf.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rhc0vcvl.7z"
+    }
+  }
+}

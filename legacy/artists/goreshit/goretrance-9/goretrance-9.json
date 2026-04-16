@@ -1,0 +1,24 @@
+{
+  "id": "goretrance-9",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Goretrance 9",
+    "artist": "Goreshit",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "46:54",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760558201_goretrance_9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MDbKvMuySIFxPmGZttcc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/pv6rwpyq.7z"
+    }
+  }
+}

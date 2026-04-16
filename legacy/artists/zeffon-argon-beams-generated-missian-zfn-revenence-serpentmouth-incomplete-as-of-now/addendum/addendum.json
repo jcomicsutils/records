@@ -1,0 +1,27 @@
+{
+  "id": "addendum",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Addendum",
+    "artist": "Zeffon / Argon Beams / Generated Missiân ZFN / Revenence / Serpentmouth (incomplete as of now)",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1748610052_zeffon_-_addendum"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/aAJTzqBkhgkCeXzhmXF.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/zo95ev.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zzxp233.7z"
+    }
+  }
+}

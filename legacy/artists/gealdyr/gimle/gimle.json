@@ -1,0 +1,27 @@
+{
+  "id": "gimle",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Gimlé",
+    "artist": "Gealdýr",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:35",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760901391_giml_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/sqjyinWmcDTPPyEBbeUm.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7bskq6.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0tw2gf1y.7z"
+    }
+  }
+}

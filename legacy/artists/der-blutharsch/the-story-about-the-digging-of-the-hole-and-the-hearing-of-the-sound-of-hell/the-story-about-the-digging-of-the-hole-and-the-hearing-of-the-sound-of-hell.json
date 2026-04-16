@@ -1,0 +1,24 @@
+{
+  "id": "the-story-about-the-digging-of-the-hole-and-the-hearing-of-the-sound-of-hell",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Story about the digging of the hole and the hearing of the sound of hell",
+    "artist": "Der Blutharsch",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "55:55",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759966716_the_story_about_the_digging_of_the_hole_and_the_he"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/gEFnmiyTJhhZNBncaYqO.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1blurxmh.7z"
+    }
+  }
+}

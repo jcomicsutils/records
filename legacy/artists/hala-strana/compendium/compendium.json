@@ -1,0 +1,24 @@
+{
+  "id": "compendium",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Compendium",
+    "artist": "Hala Strana",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_human": "58:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769914449_compendium"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/e9qm4k4f.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/iJLdnAhXOuOJNKDahSXa.7z"
+    }
+  }
+}

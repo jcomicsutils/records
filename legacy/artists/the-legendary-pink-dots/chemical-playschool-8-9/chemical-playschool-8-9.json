@@ -1,0 +1,24 @@
+{
+  "id": "chemical-playschool-8-9",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Chemical Playschool 8 & 9",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 19,
+    "duration_human": "2:12:02",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760315323_chemical_playschool_8___9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/ioPZwxxlTaUKmnXyfq.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/b5ji1cnf.7z"
+    }
+  }
+}

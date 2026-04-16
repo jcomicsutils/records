@@ -1,0 +1,27 @@
+{
+  "id": "ambient-1-music-for-airports-remastered-2004",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ambient 1: Music for Airports (Remastered 2004)",
+    "artist": "Brian Eno",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756319482_ambient_1_music_for_airports__remastered_2004_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/UTvXEmUFXjLVhSkjMREg.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/b1m6c0.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bxjvh9zr.7z"
+    }
+  }
+}

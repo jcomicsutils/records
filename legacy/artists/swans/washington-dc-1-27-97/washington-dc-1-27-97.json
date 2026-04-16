@@ -1,0 +1,24 @@
+{
+  "id": "washington-dc-1-27-97",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Washington DC 1-27-97",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "1:19:43",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769305859_washington_dc_1-27-97"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0dnwu2cz.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/NwxIUkdZOVUrGoLpHHcB.7z"
+    }
+  }
+}

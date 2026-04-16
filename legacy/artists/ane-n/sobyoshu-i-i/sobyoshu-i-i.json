@@ -1,0 +1,24 @@
+{
+  "id": "sobyoshu-i-i",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sobyoshu I [素描集Ⅰ]",
+    "artist": "A/N【eɪ-ɛn】",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "44:11",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763905524_sobyoshu_i_______"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/IvXljYVUzmysirPEXfQQ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/000r87cn.7z"
+    }
+  }
+}

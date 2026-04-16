@@ -1,0 +1,24 @@
+{
+  "id": "live-at-bakersfield-august-21-1970",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at Bakersfield, August 21, 1970",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "1:31:42",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760541685_live_at_bakersfield__august_21__1970"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/cEtUWezMdQWxGZkREAhT.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/st2ciry4.7z"
+    }
+  }
+}

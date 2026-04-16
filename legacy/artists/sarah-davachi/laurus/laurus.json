@@ -1,0 +1,27 @@
+{
+  "id": "laurus",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Laurus",
+    "artist": "Sarah Davachi",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "27:29",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761529727_laurus"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/GzWlKaSdsMiSrezezOmh.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/f3ym6j.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/j0jbuls8.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "discreet-music-remastered-2004",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Discreet Music (Remastered 2004)",
+    "artist": "Brian Eno",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756337073_discreet_music__remastered_2004_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/gAikynSHXrmsNeyqUECs.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/f9pej6vu.7z"
+    }
+  }
+}

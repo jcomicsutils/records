@@ -1,0 +1,24 @@
+{
+  "id": "vulnicura-strings-vulnicura-the-acoustic-version-strings-voice-and-viola-organista-only",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Vulnicura Strings (Vulnicura: The Acoustic Version - Strings , Voice and Viola Organista Only)",
+    "artist": "Björk",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757168702_vulnicura_strings__vulnicura_the_acoustic_version_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/nKzaDdOreTHCXWtEFMfU.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ec5vdnpv.7z"
+    }
+  }
+}

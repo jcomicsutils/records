@@ -1,0 +1,24 @@
+{
+  "id": "sol",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sól",
+    "artist": "Gealdýr",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "35:10",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760903899_s_l"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/fprMUMgEBUPEUHcAoLk.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/sfeo3c73.7z"
+    }
+  }
+}

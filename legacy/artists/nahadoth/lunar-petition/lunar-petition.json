@@ -1,0 +1,27 @@
+{
+  "id": "lunar-petition",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Lunar Petition",
+    "artist": "Nahadoth",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "34:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761338821_lunar_petition"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/JiJdDYlKMATYtOMeFynZ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ypf0qp.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ojbn3zob.7z"
+    }
+  }
+}

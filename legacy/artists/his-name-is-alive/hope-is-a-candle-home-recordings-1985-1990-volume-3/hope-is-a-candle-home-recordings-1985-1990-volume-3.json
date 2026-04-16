@@ -1,0 +1,24 @@
+{
+  "id": "hope-is-a-candle-home-recordings-1985-1990-volume-3",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hope Is A Candle [Home Recordings 1985 - 1990 Volume 3]",
+    "artist": "His Name Is Alive",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "33:50",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761139453_hope_is_a_candle__home_recordings_1985_-_1990_volu"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/uNhghyebBjPTnSgyogkT.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jl268ta.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "jeszcze-polska",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Jeszcze Polska",
+    "artist": "Alexander Hacke",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "13:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760392053_jeszcze_polska"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/XpJtxxkxOmqStjoNLzvq.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/mzad18.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vrzziozv.7z"
+    }
+  }
+}

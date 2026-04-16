@@ -1,0 +1,27 @@
+{
+  "id": "float",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "float",
+    "artist": "Maximum Movement Theatre",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "22:30",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761345555_float"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/RTkwWrtfsgXCfXEGIyRe.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/hg6ed6.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/szagf83.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "memory-loss",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Memory Loss",
+    "artist": "Soft Kill",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "9:04",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759976329_memory_loss"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/qHcivgfegSbohoRXYoTl.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/g0etto.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/x3f1177j.7z"
+    }
+  }
+}

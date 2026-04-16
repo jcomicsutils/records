@@ -1,0 +1,27 @@
+{
+  "id": "walrus-groon",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Walrus / Groon",
+    "artist": "Boris with Merzbow",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "13:36",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763918152_walrus_-_groon"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/qBPmWaQXcHHErKnymcbJ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/m5ob8x.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2p0otsr.7z"
+    }
+  }
+}

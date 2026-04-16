@@ -1,0 +1,27 @@
+{
+  "id": "allergic-to-food",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Allergic to Food",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:37",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769305693_allergic_to_food"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ne2opfg.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/unfwrs.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/fgMQGtfCvsolMNXlCiHS.7z"
+    }
+  }
+}

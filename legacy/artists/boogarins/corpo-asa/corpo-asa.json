@@ -1,0 +1,27 @@
+{
+  "id": "corpo-asa",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Corpo Asa",
+    "artist": "Boogarins",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758068659_corpo_asa"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/eDpmpnPWMHTZwNNleqWi.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ib74gq.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/5shf5gpa.7z"
+    }
+  }
+}

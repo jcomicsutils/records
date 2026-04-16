@@ -1,0 +1,27 @@
+{
+  "id": "the-untuning-of-the-sky",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Untuning Of The Sky",
+    "artist": "Sarah Davachi",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "41:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761609410_the_untuning_of_the_sky"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MdxKTKgFdOesnacvGDQ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/bzq235.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vb7wjeuu.7z"
+    }
+  }
+}

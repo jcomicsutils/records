@@ -1,0 +1,27 @@
+{
+  "id": "es-reiten-die-toten-so-schnell-remastered",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Es reiten die Toten so schnell (Remastered)",
+    "artist": "Sopor Aeternus & The Ensemble of Shadows",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "29:42",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761506623_es_reiten_die_toten_so_schnell__remastered_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/jIDgtQMQiiVHcKdJtJuq.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/eyz4ni.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/i33wg18o.7z"
+    }
+  }
+}

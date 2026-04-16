@@ -1,0 +1,24 @@
+{
+  "id": "have-you-seen-this-ghost",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Have You Seen This Ghost?",
+    "artist": "Sopor Aeternus & The Ensemble of Shadows",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "1:14:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761509802_have_you_seen_this_ghost"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/jBqiMxUtfMOktxnAMMeR.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dp4oat5j.7z"
+    }
+  }
+}

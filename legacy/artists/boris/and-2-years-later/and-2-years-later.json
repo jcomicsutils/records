@@ -1,0 +1,24 @@
+{
+  "id": "and-2-years-later",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "And 2 Years Later",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "23:50",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764486388_and_2_years_later"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SPWPDFNngISjvFurcglz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/uwulb4o1.7z"
+    }
+  }
+}

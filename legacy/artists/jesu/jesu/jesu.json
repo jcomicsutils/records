@@ -1,0 +1,21 @@
+{
+  "id": "jesu",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Jesu",
+    "artist": "Jesu",
+    "codec": "FLAC",
+    "num_tracks": 22,
+    "duration_human": "3:29:07",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764196384_jesu"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/obPMZdmZMeGBVawVzji.7z"
+    }
+  }
+}

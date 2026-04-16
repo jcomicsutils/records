@@ -1,0 +1,27 @@
+{
+  "id": "house-tried-to-kill-me",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "House Tried to KILL ME",
+    "artist": "cEvin Key",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760281881_house_tried_to_kill_me"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/UQRqUgeSIVKSgdWxAbYl.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/a3xxql.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/e34wm4o4.7z"
+    }
+  }
+}

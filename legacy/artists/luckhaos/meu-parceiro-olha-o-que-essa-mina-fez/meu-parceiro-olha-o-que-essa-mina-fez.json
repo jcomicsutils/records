@@ -1,0 +1,27 @@
+{
+  "id": "meu-parceiro-olha-o-que-essa-mina-fez",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Meu parceiro, olha o que essa mina fez",
+    "artist": "Luckhaos",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758483495_meu_parceiro__olha_o_que_essa_mina_fez"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/vNRKNmkAhLnZqyHWNSKV.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/m7jmpr.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dujn1sh.7z"
+    }
+  }
+}

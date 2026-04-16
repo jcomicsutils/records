@@ -1,0 +1,27 @@
+{
+  "id": "123-dayz-up",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "1,2,3 dayz up",
+    "artist": "SOPHIE",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:33",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760212450_1_2_3_dayz_up"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MIpDnQcwpgQCLgTKWpYu.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/9pauol.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/afzhxvx4.7z"
+    }
+  }
+}

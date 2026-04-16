@@ -1,0 +1,27 @@
+{
+  "id": "2011-10-07-slo-brew-san-luis-obispo-california",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "2011-10-07 SLO Brew, San Luis Obispo, California",
+    "artist": "Boris",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_human": "1:23:38",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764472333_2011-10-07_slo_brew__san_luis_obispo__california"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/HIHGJtZmEetTHrGdiBAi.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5ifqmj.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zmypsiv.7z"
+    }
+  }
+}

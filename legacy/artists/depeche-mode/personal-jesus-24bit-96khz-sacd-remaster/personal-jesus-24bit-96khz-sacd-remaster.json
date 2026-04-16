@@ -1,0 +1,24 @@
+{
+  "id": "personal-jesus-24bit-96khz-sacd-remaster",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Personal Jesus (24bit 96khz SACD Remaster)",
+    "artist": "Depeche Mode",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1745867341_2011_-_personal_jesus_2011__24bit_96khz_vinyl_flac"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b54/EnZcGcXMHHohcfdCcCbe.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tw1d0bjm.7z"
+    }
+  }
+}

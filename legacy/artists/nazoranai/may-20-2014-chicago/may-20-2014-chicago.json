@@ -1,0 +1,24 @@
+{
+  "id": "may-20-2014-chicago",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "May 20, 2014, Chicago",
+    "artist": "Nazoranai [なぞらない]",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "1:22:48",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764519413_may_20__2014__chicago"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/QDXGFFDAvhCikGkgCuEx.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/o0hg9mek.7z"
+    }
+  }
+}

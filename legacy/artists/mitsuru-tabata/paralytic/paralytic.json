@@ -1,0 +1,27 @@
+{
+  "id": "paralytic",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "酩酊 Paralytic",
+    "artist": "Mitsuru Tabata",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_human": "39:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765053910____paralytic"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ellf460y.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/bgwed3.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/njRZoIUQnREYexBJyif.7z"
+    }
+  }
+}

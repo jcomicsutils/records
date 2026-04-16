@@ -1,0 +1,24 @@
+{
+  "id": "kick-iii",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "KicK iii",
+    "artist": "Arca",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "35:45",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760282495_kick_iii"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/rKgpsAkDAeiAHAiLsFQ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2cqbs1lw.7z"
+    }
+  }
+}

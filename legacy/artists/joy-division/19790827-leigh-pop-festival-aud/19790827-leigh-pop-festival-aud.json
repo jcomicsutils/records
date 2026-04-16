@@ -1,0 +1,27 @@
+{
+  "id": "19790827-leigh-pop-festival-aud",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "1979.08.27 Leigh Pop Festival (AUD)",
+    "artist": "Joy Division",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752283534_1979_08_27_leigh_pop_festival__aud_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/InwcFPpaeYdTLogjIOJI.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/caw3fj.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ipzgxlbv.7z"
+    }
+  }
+}

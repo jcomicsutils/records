@@ -1,0 +1,27 @@
+{
+  "id": "green-is-the-sea",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Green Is the Sea",
+    "artist": "And Also the Trees",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747583759_green_is_the_sea"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/QaqAHbGXVeqbQFLNwclB.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/k37xej.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ddfind0t.7z"
+    }
+  }
+}

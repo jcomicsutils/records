@@ -1,0 +1,24 @@
+{
+  "id": "taken-by-the-flames",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Taken by the Flames",
+    "artist": "A Challenge Of Honour",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "59:57",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760906359_taken_by_the_flames"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/QWVaanxjLrPsXMJplu.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lmqldpz.7z"
+    }
+  }
+}

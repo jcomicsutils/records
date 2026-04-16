@@ -1,0 +1,27 @@
+{
+  "id": "sway-acoustic",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sway (Acoustic)",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:09",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769310971_sway__acoustic_"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zxph0h2a.7z"
+    },
+    "": {
+      "url": ""
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/LAxKNDazdGDUQdgimgth.7z"
+    }
+  }
+}

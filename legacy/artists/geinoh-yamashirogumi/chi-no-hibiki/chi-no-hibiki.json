@@ -1,0 +1,27 @@
+{
+  "id": "chi-no-hibiki",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Chi no Hibiki [地の響: 東ヨーロッパを歌う]",
+    "artist": "Geinoh Yamashirogumi [芸能山城組]",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1748285285_chi_no_hibiki______-___________"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/BjitgpaSegylFRYLMPvJ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/sdnjr3.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6o242d7i.7z"
+    }
+  }
+}

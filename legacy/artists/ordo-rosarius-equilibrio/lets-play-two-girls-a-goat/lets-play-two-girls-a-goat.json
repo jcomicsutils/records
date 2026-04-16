@@ -1,0 +1,24 @@
+{
+  "id": "lets-play-two-girls-a-goat",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Let's Play (Two Girls & a Goat)",
+    "artist": "Ordo Rosarius Equilibrio",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "59:33",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761387636_let_s_play__two_girls___a_goat_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/wqwtspExmSARjrHdPkbd.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6b4i6vd.7z"
+    }
+  }
+}

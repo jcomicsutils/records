@@ -1,0 +1,24 @@
+{
+  "id": "steve-mcqueenfrom-langley-park-to-memphis",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Steve McQueen/From Langley Park To Memphis",
+    "artist": "Prefab Sprout",
+    "codec": "FLAC",
+    "num_tracks": 21,
+    "duration_human": "1:30:32",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760306824_steve_mcqueen_-_from_langley_park_to_memphis"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/ghmUeIcaxHSZxBgZnDGn.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/o75q5loe.7z"
+    }
+  }
+}

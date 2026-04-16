@@ -1,0 +1,24 @@
+{
+  "id": "1997-08-30-20000v-tokyo-japan",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "1997-08-30: 20000V, Tokyo, Japan",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "2:23:16",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764468166_1997-08-30_20000v__tokyo__japan"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/ZPlynhZScAYsxiHEClC.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/x3wh94ti.7z"
+    }
+  }
+}

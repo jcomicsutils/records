@@ -1,0 +1,27 @@
+{
+  "id": "trigger-in-trigger-out-2005-us-tour-single",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Trigger In, Trigger Out (2005 US Tour Single)",
+    "artist": "Acid Mothers Temple & The Cosmic Inferno",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_human": "19:17",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765144268_trigger_in__trigger_out__2005_us_tour_single_"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fxn9ppya.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ryejyf.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/yixVAxSFLCfoZLtcUTm.7z"
+    }
+  }
+}

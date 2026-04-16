@@ -1,0 +1,24 @@
+{
+  "id": "both-at-last-will-reach-the-sea",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "both at last will reach the sea",
+    "artist": "Maximum Movement Theatre",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "41:12",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761320078_both_at_last_will_reach_the_sea"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/okFLDOOHWxRTTeGBtjHq.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/y5s364kk.7z"
+    }
+  }
+}

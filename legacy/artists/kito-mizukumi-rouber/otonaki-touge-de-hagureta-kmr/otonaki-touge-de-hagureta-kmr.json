@@ -1,0 +1,27 @@
+{
+  "id": "otonaki-touge-de-hagureta-kmr",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Otonaki Touge De Hagureta KMR",
+    "artist": "Kito-mizukumi Rouber",
+    "codec": "MP3",
+    "num_tracks": 13,
+    "duration_human": "42:52",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767297478_otonaki_touge_de_hagureta_kmr"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3aevmokz.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/4jhbtf.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/bCSrKLIRCcAgRGLSRoRi.7z"
+    }
+  }
+}

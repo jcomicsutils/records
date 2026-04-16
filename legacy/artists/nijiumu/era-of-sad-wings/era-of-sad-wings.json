@@ -1,0 +1,24 @@
+{
+  "id": "era-of-sad-wings",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Era of Sad Wings [悲翼紀]",
+    "artist": "Nijiumu [滲有無]",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "1:06:03",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764525045_era_of_sad_wings______"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/BPMShFlSprmZukFfjCGC.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/v1ofzf.7z"
+    }
+  }
+}

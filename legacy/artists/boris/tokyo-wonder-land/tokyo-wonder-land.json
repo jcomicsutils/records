@@ -1,0 +1,21 @@
+{
+  "id": "tokyo-wonder-land",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Tokyo Wonder Land",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "1:40:00",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764473743_tokyo_wonder_land"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/qokjbMcoCjqpaAxDaorP.7z"
+    }
+  }
+}

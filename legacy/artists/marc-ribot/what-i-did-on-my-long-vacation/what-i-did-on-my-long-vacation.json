@@ -1,0 +1,24 @@
+{
+  "id": "what-i-did-on-my-long-vacation",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "What I Did On My Long 'Vacation'",
+    "artist": "Marc Ribot",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756589683_what_i_did_on_my_long__vacation_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b57/tiUEPDYbeepIywijgscw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1gsq39vw.7z"
+    }
+  }
+}

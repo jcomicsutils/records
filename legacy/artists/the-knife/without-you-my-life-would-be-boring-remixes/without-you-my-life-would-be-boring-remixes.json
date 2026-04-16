@@ -1,0 +1,27 @@
+{
+  "id": "without-you-my-life-would-be-boring-remixes",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Without You My Life Would Be Boring (Remixes)",
+    "artist": "The Knife",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "27:02",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761687099_without_you_my_life_would_be_boring__remixes_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/yGhIMugSIdVvPkDMcC.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/01ecj8.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rx8mar5w.7z"
+    }
+  }
+}

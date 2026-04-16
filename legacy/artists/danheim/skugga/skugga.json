@@ -1,0 +1,27 @@
+{
+  "id": "skugga",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Skugga",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:03",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760763504_skugga"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/OZKTuLPXeeVzOfvHJqCS.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/appgz5.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ym6w0l.7z"
+    }
+  }
+}

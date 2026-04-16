@@ -1,0 +1,24 @@
+{
+  "id": "live-in-nagoya",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live in Nagoya",
+    "artist": "Acid Mothers Gong",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "1:13:58",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765129839_live_in_nagoya"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ed7w9790.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b65/JtrWaqrQKDRfpOyqRzgd.7z"
+    }
+  }
+}

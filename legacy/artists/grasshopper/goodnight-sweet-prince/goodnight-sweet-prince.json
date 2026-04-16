@@ -1,0 +1,27 @@
+{
+  "id": "goodnight-sweet-prince",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Goodnight Sweet Prince",
+    "artist": "Grasshopper",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_human": "36:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766195721_goodnight_sweet_prince"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/y1p552c.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/awo2su.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/XMXUTldjShGkXEcWUGc.7z"
+    }
+  }
+}

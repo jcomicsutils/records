@@ -1,0 +1,24 @@
+{
+  "id": "swans-are-dead-live-95-97",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Swans Are Dead: Live '95-'97",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_human": "2:23:02",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760127449_swans_are_dead_live__95-_97"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/LIMVAUZQLVXcxZzBTgci.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/32kl6xzm.7z"
+    }
+  }
+}

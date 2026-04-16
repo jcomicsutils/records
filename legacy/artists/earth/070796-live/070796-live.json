@@ -1,0 +1,27 @@
+{
+  "id": "070796-live",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "070796 Live",
+    "artist": "Earth",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_human": "1:08:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763919517_070796_live"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/UAxCsPtETxZyxsEYnrvl.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5a5tvz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/5thvl2zk.7z"
+    }
+  }
+}

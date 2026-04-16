@@ -1,0 +1,24 @@
+{
+  "id": "aughton-the-patient-books",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Aughton - The Patient Books",
+    "artist": "Beequeen",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "42:21",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760219314_aughton_-_the_patient_books"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/AWqZxvsQQCRPMntbTSD.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/spfp2zu.7z"
+    }
+  }
+}

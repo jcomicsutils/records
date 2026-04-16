@@ -1,0 +1,24 @@
+{
+  "id": "rebore-vol-1",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Rebore Vol. 1",
+    "artist": "Boredoms",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "46:01",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765074231_rebore_vol__1"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ugci392s.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/YMTDkGLJDVgUwpbHDjBX.7z"
+    }
+  }
+}

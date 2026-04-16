@@ -1,0 +1,27 @@
+{
+  "id": "seven-veils",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Seven Veils",
+    "artist": "Ranges",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "6:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759637299_seven_veils"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/abcfsiPqTjfuwMFdWCm.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/4ohowt.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qpx604h1.7z"
+    }
+  }
+}

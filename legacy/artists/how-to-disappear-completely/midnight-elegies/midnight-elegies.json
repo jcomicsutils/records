@@ -1,0 +1,27 @@
+{
+  "id": "midnight-elegies",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Midnight Elegies",
+    "artist": "How To Disappear Completely",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "19:38",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759960040_midnight_elegies"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/uIsapHGFUUbszIwElmcD.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/g0bwae.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9xib4nov.7z"
+    }
+  }
+}

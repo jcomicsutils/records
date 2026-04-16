@@ -1,0 +1,27 @@
+{
+  "id": "rain-over-curtains-blues-for-hanne",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Rain Over Curtains' Blues (For Hanne)",
+    "artist": "Félicia Atkinson",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_human": "1:03:06",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767041614_rain_over_curtains__blues__for_hanne_"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hgq1lugh.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/bzl8sh.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/AQGnRQYUIdNUnDSSvew.7z"
+    }
+  }
+}

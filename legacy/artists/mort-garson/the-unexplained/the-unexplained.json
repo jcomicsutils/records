@@ -1,0 +1,24 @@
+{
+  "id": "the-unexplained",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Unexplained",
+    "artist": "Mort Garson",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "34:59",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761317081_the_unexplained"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/pkZbtmmJbNFjAmOZLqXt.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ws4w6wh1.7z"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "live-studio-recordings-august-2020",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live Studio Recordings August 2020",
+    "artist": "Dead Voices On Air",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759072190_live_studio_recordings_august_2020"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/woewJtDbxToasmuMYWDh.zip"
+    }
+  }
+}

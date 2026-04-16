@@ -1,0 +1,27 @@
+{
+  "id": "polybius",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "POLYBIUS",
+    "artist": "Berith",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "10:52",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768760924_polybius"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/v58y632p.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/203p5p.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/MOhexVEXxsumZLbAraRL.7z"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "la-coquille-a-planetes",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "La coquille à planètes",
+    "artist": "Pierre Schaeffer",
+    "codec": "FLAC",
+    "num_tracks": 30,
+    "duration_human": "4:58:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767059063_la_coquille___plan_tes"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b68/vAYktmSloDOVGmimCSHR.7z"
+    }
+  }
+}

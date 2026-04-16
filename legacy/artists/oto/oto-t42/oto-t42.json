@@ -1,0 +1,27 @@
+{
+  "id": "oto-t42",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "(oTo) T42",
+    "artist": "(oTo)",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746077751_oto_t42___anomali_vs_fornax"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/XgywwIdlTYZmkMliNSUW.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/xw31w1.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hagvp7x.7z"
+    }
+  }
+}

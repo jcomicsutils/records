@@ -1,0 +1,24 @@
+{
+  "id": "industrial-future",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Industrial Future",
+    "artist": "Claude Larson",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_human": "39:09",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759703323_industrial_future"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/UxBSaaACBwjMHcNFsESo.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lj6pdruf.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "leau-rougered-water",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "L'Eau Rouge/Red Water",
+    "artist": "The Young Gods",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_human": "54:50",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759636160_l_eau_rouge_-_red_water"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/EEUAHwqiuYtvoXyVyXsU.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mjw98dij.7z"
+    }
+  }
+}

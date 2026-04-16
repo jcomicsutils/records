@@ -1,0 +1,27 @@
+{
+  "id": "cytokine",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "CYTOKINE",
+    "artist": "Berith",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "11:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768759002_cytokine"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/n0me0ib.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/58f6fc.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/JnRGymxloYDFbVZAVQF.7z"
+    }
+  }
+}

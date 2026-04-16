@@ -1,0 +1,24 @@
+{
+  "id": "live-hex-in-a-large-city-on-the-north-american-continent",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live Hex; In a Large City on the North American Continent",
+    "artist": "Earth",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "1:24:42",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763924336_live_hex__in_a_large_city_on_the_north_american_co"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b63/gKoVhjOdOBlXyONLNJI.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7n2ffq1q.7z"
+    }
+  }
+}

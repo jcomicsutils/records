@@ -1,0 +1,27 @@
+{
+  "id": "hringablot",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hringablót",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760749333_hringabl_t"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/TNVozaKksvCbhfVfcnYY.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7fwahu.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/a00mtiyd.7z"
+    }
+  }
+}

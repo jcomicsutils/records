@@ -1,0 +1,27 @@
+{
+  "id": "oxygen",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Oxygen",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "20:02",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760063789_oxygen"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/qYrzmByOqtnwkamkpwA.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/um2fkl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lo1oledr.7z"
+    }
+  }
+}

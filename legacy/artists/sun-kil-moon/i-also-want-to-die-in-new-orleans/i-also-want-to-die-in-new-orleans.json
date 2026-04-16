@@ -1,0 +1,24 @@
+{
+  "id": "i-also-want-to-die-in-new-orleans",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "I Also Want to Die in New Orleans",
+    "artist": "Sun Kil Moon",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "1:29:05",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768680207_i_also_want_to_die_in_new_orleans"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7uof9jxp.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/cUqjfjyrHejywzOdNwAf.7z"
+    }
+  }
+}

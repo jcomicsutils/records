@@ -1,0 +1,27 @@
+{
+  "id": "plantar-acoes-feat-lo-borges",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Plantar Ações (feat. Lô Borges)",
+    "artist": "Lô Borges",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763910432_plantar_a__es__feat__l__borges_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/OBsQjSXeNDlqpVgJEnUF.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/z4ot14.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2pojwdza.7z"
+    }
+  }
+}

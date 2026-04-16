@@ -1,0 +1,27 @@
+{
+  "id": "gurzle",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Gurzle",
+    "artist": "Psychedelic Porn Crumpets",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:31",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760494422_gurzle"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/tENKgausUqfUXjTjxdT.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ppvdrc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xsykiebv.7z"
+    }
+  }
+}

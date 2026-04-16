@@ -1,0 +1,27 @@
+{
+  "id": "arborescence",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Arborescence",
+    "artist": "Moloch",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "9:26",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761309449_arborescence"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ADtONMxhSSWKsHAZikO.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/oj1x4w.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ybb156en.7z"
+    }
+  }
+}

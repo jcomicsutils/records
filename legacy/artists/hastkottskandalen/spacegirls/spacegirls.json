@@ -1,0 +1,24 @@
+{
+  "id": "spacegirls",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Spacegirls",
+    "artist": "Hästköttskandalen",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "38:48",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767020199_spacegirls"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bo2t5001.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/mGJDnoCazyTIkJSelZsI.7z"
+    }
+  }
+}

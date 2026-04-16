@@ -1,0 +1,24 @@
+{
+  "id": "verlorene-welt",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Verlorene Welt",
+    "artist": "Darkwood",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "46:39",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760986215_verlorene_welt"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/rimnPFgFIDrFMwwgsbf.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/5hbr3cfj.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "19790802-ymca-london-sbd",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "1979.08.02 YMCA, London (SBD)",
+    "artist": "Joy Division",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752282653_1979_08_02_ymca__london__sbd_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/yfLbFCfwloUCdtnDvuB.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/kx7s9x.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ksztc3ai.7z"
+    }
+  }
+}

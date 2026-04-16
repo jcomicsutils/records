@@ -1,0 +1,21 @@
+{
+  "id": "live-at-great-american-music-hall-san-francisco-ca-09-21-2022",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at Great American Music Hall, San Francisco, CA (09-21-2022)",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_human": "1:35:45",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764467524_live_at_great_american_music_hall__san_francisco__"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/CJkPwVfgkWysyfqkMNe.7z"
+    }
+  }
+}

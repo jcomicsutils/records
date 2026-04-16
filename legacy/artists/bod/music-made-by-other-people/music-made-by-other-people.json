@@ -1,0 +1,24 @@
+{
+  "id": "music-made-by-other-people",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Music Made by Other People",
+    "artist": "bod [包家巷]",
+    "codec": "FLAC",
+    "num_tracks": 21,
+    "duration_human": "1:08:59",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766777118_music_made_by_other_people"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qi81erbk.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/mkiSRvabZhrwvIJaTHN.7z"
+    }
+  }
+}

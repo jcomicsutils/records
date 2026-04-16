@@ -1,0 +1,27 @@
+{
+  "id": "as-alive-as-you-need-me-to-be",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "As Alive As You Need Me To Be",
+    "artist": "Nine Inch Nails",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:53",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761346969_as_alive_as_you_need_me_to_be"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/douzMSpJmbkHIKzvpuyE.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ogc82e.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7i4t4sv.7z"
+    }
+  }
+}

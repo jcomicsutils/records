@@ -1,0 +1,27 @@
+{
+  "id": "my-name-is-lucifer-live-in-kochi-2013",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "My Name Is Lucifer: Live in Kochi 2013",
+    "artist": "Acid Mothers Temple & Space Paranoid",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_human": "1:05:15",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765145929_my_name_is_lucifer_live_in_kochi_2013"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/sdtw8uts.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gqjflx.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/pSEqRAKskPZkiwHuPkfR.7z"
+    }
+  }
+}

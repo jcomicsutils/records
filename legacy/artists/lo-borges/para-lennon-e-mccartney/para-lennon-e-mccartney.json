@@ -1,0 +1,27 @@
+{
+  "id": "para-lennon-e-mccartney",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Para Lennon e McCartney",
+    "artist": "Lô Borges",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:05",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763909055_para_lennon_e_mccartney"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LtzcpKNJpWXmIVPMNeeg.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/m724l5.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qlawy17.7z"
+    }
+  }
+}

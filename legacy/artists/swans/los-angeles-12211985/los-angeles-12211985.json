@@ -1,0 +1,24 @@
+{
+  "id": "los-angeles-12211985",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Los Angeles 12/21/1985",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "50:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769296576_los_angeles_12_-_21_-_1985"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/neo9rooy.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/RpEYUZcVRcWJSQhxOIMA.7z"
+    }
+  }
+}

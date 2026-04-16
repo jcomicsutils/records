@@ -1,0 +1,27 @@
+{
+  "id": "let-no-one-want-what-i-have",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Let No One Want What I Have",
+    "artist": "Ak'chamel",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1751933116_let_no_one_want_what_i_have"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/PaIukLLrbBzFfAwxAiHV.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2o0esf.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/m8vfzkq5.7z"
+    }
+  }
+}

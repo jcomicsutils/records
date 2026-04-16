@@ -1,0 +1,27 @@
+{
+  "id": "19800419-ajanta-theatre-derby-aud",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "1980.04.19 Ajanta Theatre, Derby (AUD)",
+    "artist": "Joy Division",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752454881_50_-_1980_04_19_ajanta_theatre__derby__aud_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/UmQvgDDXITXDMJutoQXm.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/pylc42.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/m8y9u5dr.7z"
+    }
+  }
+}

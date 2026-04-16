@@ -1,0 +1,24 @@
+{
+  "id": "cinematique",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Cinématique",
+    "artist": "Arca",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "42:47",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760216983_cin_matique"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/xpoJhGFzCcegSGeQPhT.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/htr9y5s8.7z"
+    }
+  }
+}

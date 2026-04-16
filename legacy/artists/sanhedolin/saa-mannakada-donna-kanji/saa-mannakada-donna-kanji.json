@@ -1,0 +1,27 @@
+{
+  "id": "saa-mannakada-donna-kanji",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Saa Mannakada Donna Kanji [さあ 真ん中だ どんな感じ]",
+    "artist": "Sanhedolin",
+    "codec": "MP3",
+    "num_tracks": 8,
+    "duration_human": "1:07:20",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764534022_saa_mannakada_donna_kanji________________"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/kEGDTTjVvwEtqHfrYnl.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/l4hkmx.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nszgkrmn.7z"
+    }
+  }
+}

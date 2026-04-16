@@ -1,0 +1,27 @@
+{
+  "id": "live-at-warsaw-brooklyn-8-5-2016",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at Warsaw Brooklyn 8-5-2016",
+    "artist": "Boris",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_human": "1:18:41",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764476741_live_at_warsaw_brooklyn_8-5-2016"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/dBwwRNbUFZGSyHmLYEIt.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/bkrtud.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/h7zxzx22.7z"
+    }
+  }
+}

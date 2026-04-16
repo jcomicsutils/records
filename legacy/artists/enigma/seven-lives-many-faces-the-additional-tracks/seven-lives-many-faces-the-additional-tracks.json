@@ -1,0 +1,27 @@
+{
+  "id": "seven-lives-many-faces-the-additional-tracks",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Seven Lives Many Faces (The Additional Tracks)",
+    "artist": "Enigma",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "15:32",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761084029_seven_lives_many_faces__the_additional_tracks_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/mHkoldvmTrNYSVuPQtq.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/lihwq4.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7ixf3zww.7z"
+    }
+  }
+}

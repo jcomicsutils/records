@@ -1,0 +1,27 @@
+{
+  "id": "vovivizm",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Vovivizm",
+    "artist": "Nani∞Guru",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_human": "55:18",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765157941_vovivizm"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wvjj7bu9.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/xqbp35.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/vArfEKWigvejSIGPmRk.7z"
+    }
+  }
+}

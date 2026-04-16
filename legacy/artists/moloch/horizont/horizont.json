@@ -1,0 +1,24 @@
+{
+  "id": "horizont",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Horizont",
+    "artist": "Moloch",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "44:59",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761321043_horizont"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ScegYdFesLDjsjuqpFz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/cced0m8h.7z"
+    }
+  }
+}

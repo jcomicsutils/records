@@ -1,0 +1,27 @@
+{
+  "id": "awareness-of-eclecticism",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Awareness of Eclecticism",
+    "artist": "Six Dead Bulgarians",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "20:52",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761485597_awareness_of_eclecticism"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ybVgyEhwZLsHwetKnazm.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/cajmur.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0xransfx.7z"
+    }
+  }
+}

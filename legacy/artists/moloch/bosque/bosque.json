@@ -1,0 +1,27 @@
+{
+  "id": "bosque",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Bosque",
+    "artist": "Moloch",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:16",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761313096_bosque"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/iLOwRaCHQLWIseugDqr.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5i2vqe.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jtmrkwx.7z"
+    }
+  }
+}

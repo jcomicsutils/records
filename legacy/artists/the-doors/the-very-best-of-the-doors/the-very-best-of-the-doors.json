@@ -1,0 +1,21 @@
+{
+  "id": "the-very-best-of-the-doors",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Very Best of the Doors",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 39,
+    "duration_human": "2:48:43",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760722213_the_very_best_of_the_doors"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/mKhffUwCiKVyIPaePEJh.7z"
+    }
+  }
+}

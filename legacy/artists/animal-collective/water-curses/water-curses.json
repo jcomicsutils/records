@@ -1,0 +1,27 @@
+{
+  "id": "water-curses",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Water Curses",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "18:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760884144_water_curses"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/XRFLLpEsxbBbQroPMCSf.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/fd69d6.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6c89zs7w.7z"
+    }
+  }
+}

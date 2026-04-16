@@ -1,0 +1,27 @@
+{
+  "id": "dawn",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Dawn",
+    "artist": "Ulaan Passerine",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "37:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769915507_dawn"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/betctewh.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wr6aou.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/NpyKfeuVklqwfNLjJdu.7z"
+    }
+  }
+}

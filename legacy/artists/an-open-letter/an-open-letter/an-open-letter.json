@@ -1,0 +1,27 @@
+{
+  "id": "an-open-letter",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "An Open Letter",
+    "artist": "An Open Letter",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747515671_an_open_letter"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/PqTnwMxWjNWgDXxkNfT.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0f50y8.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ym7js149.7z"
+    }
+  }
+}

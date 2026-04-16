@@ -1,0 +1,27 @@
+{
+  "id": "stetson",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Stetson",
+    "artist": "Beequeen",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "36:20",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760242278_stetson"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/NbDtOShFrOoeLWdpvJvD.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/rkjlp5.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/idckqqvc.7z"
+    }
+  }
+}

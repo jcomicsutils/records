@@ -1,0 +1,24 @@
+{
+  "id": "the-inspection-original-motion-picture-soundtrack",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Inspection (Original Motion Picture Soundtrack)",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 30,
+    "duration_human": "48:43",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760833176_the_inspection__original_motion_picture_soundtrack"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/pQSCfyCFJFfmjtfgBVHm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mjprt7k0.7z"
+    }
+  }
+}

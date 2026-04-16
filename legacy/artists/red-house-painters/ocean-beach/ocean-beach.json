@@ -1,0 +1,24 @@
+{
+  "id": "ocean-beach",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ocean Beach",
+    "artist": "Red House Painters",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "54:43",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768677507_ocean_beach"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1dycnddi.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/qdGjjALHpnAMBERrWbKj.7z"
+    }
+  }
+}

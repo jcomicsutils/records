@@ -1,0 +1,21 @@
+{
+  "id": "rawhide",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Rawhide",
+    "artist": "Aaron Dilloway",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "1:01:17",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763740858_rawhide"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b63/BtvXtEUlwuhEaDmZlFS.7z"
+    }
+  }
+}

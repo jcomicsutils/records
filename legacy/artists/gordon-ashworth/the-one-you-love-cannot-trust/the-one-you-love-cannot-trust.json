@@ -1,0 +1,27 @@
+{
+  "id": "the-one-you-love-cannot-trust",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The One You Love & Cannot Trust",
+    "artist": "Gordon Ashworth",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1748032146_the_one_you_love___cannot_trust"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/dZNfnxsROoThYBExqmVU.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/xcl5vm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/5wzmz1r1.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "les-voutes-paris-18052007",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Les Voutes, Paris 18.05.2007",
+    "artist": "Stars of the Lid",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754834320_les_voutes__paris_18_05_2007"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/xtrHfgFklGnsjSlkyYPX.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/nhy0cs.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/l7eyopx.7z"
+    }
+  }
+}

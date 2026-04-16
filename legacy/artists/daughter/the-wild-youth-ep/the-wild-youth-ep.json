@@ -1,0 +1,27 @@
+{
+  "id": "the-wild-youth-ep",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Wild Youth EP",
+    "artist": "Daughter",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "18:33",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "": {
+      "url": ""
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/1761018039_the_wild_youth_ep"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/gqjHHQHvihBEdCUvXIgv.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jsync7co.7z"
+    }
+  }
+}

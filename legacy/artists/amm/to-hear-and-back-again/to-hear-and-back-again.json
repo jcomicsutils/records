@@ -1,0 +1,24 @@
+{
+  "id": "to-hear-and-back-again",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "To Hear And Back Again",
+    "artist": "AMM",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1755305108_to_hear_and_back_again"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/IKwDyXCAQHinUJAyrVPm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/84rqz22.7z"
+    }
+  }
+}

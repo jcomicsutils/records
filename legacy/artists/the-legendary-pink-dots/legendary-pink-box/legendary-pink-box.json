@@ -1,0 +1,24 @@
+{
+  "id": "legendary-pink-box",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Legendary Pink Box",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 24,
+    "duration_human": "2:04:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760394973_legendary_pink_box"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/KGukSrDNBwDKSFrPpsWX.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/54vhd4xa.7z"
+    }
+  }
+}

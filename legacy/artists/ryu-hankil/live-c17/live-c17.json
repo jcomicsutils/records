@@ -1,0 +1,27 @@
+{
+  "id": "live-c17",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live @ C17",
+    "artist": "Ryu Hankil",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1755201479_live___c17"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/oIGrVmDAAbVyvTlIShT.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7csd4d.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7iupxwpo.7z"
+    }
+  }
+}

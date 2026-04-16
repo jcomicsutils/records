@@ -1,0 +1,24 @@
+{
+  "id": "lexperience-musicale",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "L'expérience musicale",
+    "artist": "Pierre Schaeffer",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "1:58:56",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767115054_l_exp_rience_musicale"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/kunwivm.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b68/jxrNnMArYmmcxFPwEUmA.7z"
+    }
+  }
+}

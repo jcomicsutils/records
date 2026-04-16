@@ -1,0 +1,27 @@
+{
+  "id": "ice-cream-day-nice-day",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ice Cream Day! Nice Day!",
+    "artist": "Sukora",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752359824_ice_cream_day__nice_day_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/LraPsxUTlOUJxpBcJH.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/o8fpm4.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4ln8i11y.7z"
+    }
+  }
+}

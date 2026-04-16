@@ -1,0 +1,27 @@
+{
+  "id": "you-take-my-breath-away-remixes",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "You Take My Breath Away (Remixes)",
+    "artist": "The Knife",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "24:17",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761688565_you_take_my_breath_away__remixes_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/HHYNQIcyzXMFmrOnTa.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/eo3uiz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mjf8k9sd.7z"
+    }
+  }
+}

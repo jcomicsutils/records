@@ -1,0 +1,27 @@
+{
+  "id": "lost-everything-reign",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Lost Everything / Reign",
+    "artist": "A. G. Cook",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "6:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760243792_lost_everything_-_reign"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ukjGeEKDPHNsYlOlTaYU.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/a4r91x.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1bt8183m.7z"
+    }
+  }
+}

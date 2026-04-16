@@ -1,0 +1,27 @@
+{
+  "id": "cant-always-be-loved",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Can’t Always Be Loved",
+    "artist": "His Name Is Alive",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "19:43",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761083485_can_t_always_be_loved"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ZkyBZzlCfcwuSzNFUrth.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wwiums.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/uybvze83.7z"
+    }
+  }
+}

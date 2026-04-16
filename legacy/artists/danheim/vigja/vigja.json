@@ -1,0 +1,27 @@
+{
+  "id": "vigja",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Vigja",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:03",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760766189_vigja"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/QQMjnrsNsWXrdDIzue.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/umsb7y.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ek9infn.7z"
+    }
+  }
+}

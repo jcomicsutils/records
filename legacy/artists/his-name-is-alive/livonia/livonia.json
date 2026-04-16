@@ -1,0 +1,27 @@
+{
+  "id": "livonia",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Livonia",
+    "artist": "His Name Is Alive",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "35:47",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761077512_livonia"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/UvieZbtvglpSnYSbXCQg.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/fj967f.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ddo7p35v.7z"
+    }
+  }
+}

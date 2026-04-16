@@ -1,0 +1,24 @@
+{
+  "id": "terugkoppeling",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Terugkoppeling",
+    "artist": "Kapotte Muziek",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "1:04:38",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761141286_terugkoppeling"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/IfhlnRlBRNYoBHWnMze.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gs40vpmh.7z"
+    }
+  }
+}

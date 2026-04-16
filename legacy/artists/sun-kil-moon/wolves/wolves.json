@@ -1,0 +1,27 @@
+{
+  "id": "wolves",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Wolves",
+    "artist": "Sun Kil Moon",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:52",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768692551_wolves"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gp9w5r3x.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/s7k52c.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/yjttQBXIVawWvALkfpcN.7z"
+    }
+  }
+}

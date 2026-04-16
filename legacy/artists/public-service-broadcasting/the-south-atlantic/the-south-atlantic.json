@@ -1,0 +1,27 @@
+{
+  "id": "the-south-atlantic",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The South Atlantic",
+    "artist": "Public Service Broadcasting",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "7:31",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761523962_the_south_atlantic"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/JjscuVPoTKBBqLWXIdfv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/g083cc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xor3b4a8.7z"
+    }
+  }
+}

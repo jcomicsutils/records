@@ -1,0 +1,24 @@
+{
+  "id": "blinded-by-the-hate",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "||Blinded by the hate||",
+    "artist": "AgoMorietur",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747436263_blinded_by_the_hate"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/DqZFBXseoOgEetVOPZOk.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gph539fs.7z"
+    }
+  }
+}

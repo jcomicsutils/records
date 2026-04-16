@@ -1,0 +1,27 @@
+{
+  "id": "freaks",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "F.R.E.A.K.S",
+    "artist": "BACKXWASH",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758067695_f_r_e_a_k_s"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/RrqKonPcqTPvWPNHtlxa.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/11xkb7.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/5v2axx1.7z"
+    }
+  }
+}

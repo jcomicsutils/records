@@ -1,0 +1,24 @@
+{
+  "id": "the-painters",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Painters",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "13:24",
+    "sampling_rate": "88.2kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760837829_the_painters"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/XRCQZAxKYpjUJeyNqoXM.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3275g558.7z"
+    }
+  }
+}

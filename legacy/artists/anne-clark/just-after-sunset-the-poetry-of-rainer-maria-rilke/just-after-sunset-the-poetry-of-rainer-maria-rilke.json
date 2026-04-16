@@ -1,0 +1,27 @@
+{
+  "id": "just-after-sunset-the-poetry-of-rainer-maria-rilke",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Just After Sunset: The Poetry of Rainer Maria Rilke",
+    "artist": "Anne Clark",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747596113_just_after_sunset_-_the_poetry_of_rainer_maria_ril"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/UsfHhFBnOEuZnhjtIiAa.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/go0egx.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/o49xmu4a.7z"
+    }
+  }
+}

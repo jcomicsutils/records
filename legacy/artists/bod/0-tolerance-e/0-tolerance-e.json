@@ -1,0 +1,27 @@
+{
+  "id": "0-tolerance-e",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "0-tolerance (E+)",
+    "artist": "bod [包家巷]",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:35",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766763656_0-tolerance__e__"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xts2mah.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/txyhnf.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/tfgknAbHzJOSviTZBfgQ.7z"
+    }
+  }
+}

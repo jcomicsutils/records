@@ -1,0 +1,24 @@
+{
+  "id": "behold-thy-death",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Behold! Thy Death!",
+    "artist": "Moloch",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "38:17",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761309844_behold__thy_death_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/iiCLCPOmqVBLXFwnLMhV.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/aqkdyabh.7z"
+    }
+  }
+}

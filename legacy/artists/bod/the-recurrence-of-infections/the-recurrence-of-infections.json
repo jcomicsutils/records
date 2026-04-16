@@ -1,0 +1,24 @@
+{
+  "id": "the-recurrence-of-infections",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Recurrence of Infections",
+    "artist": "bod [包家巷]",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "54:31",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766787019_the_recurrence_of_infections"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ogl04oi3.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/AGhziyhMxiCQdBxZqqev.7z"
+    }
+  }
+}

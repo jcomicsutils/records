@@ -1,0 +1,27 @@
+{
+  "id": "big-yellow-taxi",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Big Yellow Taxi",
+    "artist": "Amanda Palmer",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:10",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763741609_big_yellow_taxi"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/zTXUKplCkEwqpyGCyCZD.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wu7gx2.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/12n1f5zk.7z"
+    }
+  }
+}

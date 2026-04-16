@@ -1,0 +1,24 @@
+{
+  "id": "sophie",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "SOPHIE",
+    "artist": "SOPHIE",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_human": "1:07:02",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760244487_sophie"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/zrluVsQgDVyMmuqqFpzN.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ww84pv6i.7z"
+    }
+  }
+}

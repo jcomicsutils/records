@@ -1,0 +1,24 @@
+{
+  "id": "texture",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Texture",
+    "artist": "Claude Larson",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "57:22",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759791676_texture"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/nVlwLwQiwGwntZFRJeJl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jb1kqhn7.7z"
+    }
+  }
+}

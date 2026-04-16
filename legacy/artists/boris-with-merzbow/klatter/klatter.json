@@ -1,0 +1,24 @@
+{
+  "id": "klatter",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Klatter",
+    "artist": "Boris with Merzbow",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "41:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763915315_klatter"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/VvSPuPTFKXoALIxYONky.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/06qlchs1.7z"
+    }
+  }
+}

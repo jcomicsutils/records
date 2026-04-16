@@ -1,0 +1,24 @@
+{
+  "id": "forever-burned",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Forever Burned",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_human": "1:11:38",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769292752_forever_burned"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/maoij7pg.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/GCnyZNSZCyqpFbleeYqU.7z"
+    }
+  }
+}

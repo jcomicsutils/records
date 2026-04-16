@@ -1,0 +1,27 @@
+{
+  "id": "voluspa-skaldic-version",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Voluspá (Skaldic Version)",
+    "artist": "Wardruna",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "6:20",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761691861_volusp___skaldic_version_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/QWEiQeOHQtzrHYnZFnwx.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/omgw9i.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bpmfmv8.7z"
+    }
+  }
+}

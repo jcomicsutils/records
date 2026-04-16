@@ -1,0 +1,27 @@
+{
+  "id": "heavy-rain",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Heavy Rain",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:14",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760903373_heavy_rain"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ykjvgmViFvcUNHNJJX.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/h4j3jc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/j344aow.7z"
+    }
+  }
+}

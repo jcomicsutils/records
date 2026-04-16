@@ -1,0 +1,27 @@
+{
+  "id": "two-strings-will-do-it",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Two Strings Will Do It",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "48:22",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764800521_two_strings_will_do_it"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/y1m3weja.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ccipdo.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/nbkFTqaRjhwGEooGpvQT.7z"
+    }
+  }
+}

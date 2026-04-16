@@ -1,0 +1,27 @@
+{
+  "id": "emergenceresurgence",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Emergence/Resurgence",
+    "artist": "bod [包家巷]",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "5:52",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766770072_emergence_-_resurgence"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/y40eyn7z.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/tpyet4.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/UadslyeVKoXNKVDgZAKg.7z"
+    }
+  }
+}

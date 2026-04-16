@@ -1,0 +1,27 @@
+{
+  "id": "suicide-club",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "suicide club",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "8:49",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759627585_suicide_club"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/UAHZTyGpeOORrLyeOTAu.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/amcd1p.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/u5gsnss.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "reunion-anniversary-edition",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Reunion (Anniversary Edition)",
+    "artist": "How To Disappear Completely",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "1:09:48",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759965386_reunion__anniversary_edition_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/xTgvAsOgswuWUnSBgZET.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/n43ml7g0.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "the-landscape-of-memory",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Landscape of Memory",
+    "artist": "Ulaan Passerine",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "36:54",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769919884_the_landscape_of_memory"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wapce4dy.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/BjdRVDzhUdzOJPlinFpV.7z"
+    }
+  }
+}

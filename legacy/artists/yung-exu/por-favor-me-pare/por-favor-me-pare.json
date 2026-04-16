@@ -1,0 +1,27 @@
+{
+  "id": "por-favor-me-pare",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "POR FAVOR ME PARE",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "15:37",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759624072_por_favor_me_pare"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/kFSzscukVnZDpWjkFsuc.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ojg542.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/khlou0hq.7z"
+    }
+  }
+}

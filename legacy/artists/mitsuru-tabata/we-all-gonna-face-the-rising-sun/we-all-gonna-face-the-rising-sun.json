@@ -1,0 +1,27 @@
+{
+  "id": "we-all-gonna-face-the-rising-sun",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "We All Gonna Face The Rising Sun",
+    "artist": "Mitsuru Tabata",
+    "codec": "MP3",
+    "num_tracks": 7,
+    "duration_human": "45:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765053519_we_all_gonna_face_the_rising_sun"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1bmjkuqk.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8kgg1t.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/JgTgppYwSHXlYJjcrJAs.7z"
+    }
+  }
+}

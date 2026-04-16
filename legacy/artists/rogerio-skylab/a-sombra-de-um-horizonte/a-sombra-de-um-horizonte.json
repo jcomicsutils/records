@@ -1,0 +1,27 @@
+{
+  "id": "a-sombra-de-um-horizonte",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "À Sombra de um Horizonte",
+    "artist": "Rogério Skylab",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757450601___sombra_de_um_horizonte"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/JwrciLkJvJSLwrbVspmT.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/62i7i1.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/kxu8xdv.7z"
+    }
+  }
+}

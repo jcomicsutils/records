@@ -1,0 +1,24 @@
+{
+  "id": "the-forest-kingdom",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Forest Kingdom",
+    "artist": "Moloch",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_human": "46:16",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761350927_the_forest_kingdom"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/CTutaruLYMsthDNPvoHt.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/j4ny0nlr.7z"
+    }
+  }
+}

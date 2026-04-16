@@ -1,0 +1,27 @@
+{
+  "id": "the-john-peel-session-1988-live",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The John Peel Session 1988 (Live)",
+    "artist": "The Young Gods",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "15:21",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759695542_the_john_peel_session_1988__live_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ZnIodLoICSjHRdowzxJa.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/a2ea6t.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ajpz9ik.7z"
+    }
+  }
+}

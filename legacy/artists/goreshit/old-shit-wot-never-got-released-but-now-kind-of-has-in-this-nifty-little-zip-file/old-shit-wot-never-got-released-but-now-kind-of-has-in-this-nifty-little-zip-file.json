@@ -1,0 +1,24 @@
+{
+  "id": "old-shit-wot-never-got-released-but-now-kind-of-has-in-this-nifty-little-zip-file",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "old shit wot never got released but now kind of has in this nifty little zip file",
+    "artist": "Goreshit",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "12:33",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760483447_old_shit_wot_never_got_released_but_now_kind_of_ha"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/UAoHiXFggwzQTfFsCGBV.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hm73vwov.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tt-01-live-at-abbeydale-picture-house",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "TT​-​01  (Live at Abbeydale Picture House)",
+    "artist": "Goreshit",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "37:41",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760566041_tt_-_01__live_at_abbeydale_picture_house_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/bZZfxODJHqCUjAFelmUF.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mlshrvnn.7z"
+    }
+  }
+}

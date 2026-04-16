@@ -1,0 +1,27 @@
+{
+  "id": "painting-with-priests",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Painting With Priests",
+    "artist": "Steven Stapleton",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752355504_painting_with_priests"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/bTqrLDicLfcPrSgCJow.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/awodw7.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/up50bafz.7z"
+    }
+  }
+}

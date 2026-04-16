@@ -1,0 +1,27 @@
+{
+  "id": "gfotybucks-red-cups",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "GFOTYBUCKS : RED CUPS",
+    "artist": "GFOTY",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "24:51",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760473307_gfotybucks_red_cups"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/BaIgQEsxxZNvfrkCMYtk.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/zahlf4.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/iz0p6aqf.7z"
+    }
+  }
+}

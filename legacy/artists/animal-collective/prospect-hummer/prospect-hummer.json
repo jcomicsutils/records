@@ -1,0 +1,27 @@
+{
+  "id": "prospect-hummer",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Prospect Hummer",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "15:43",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760802259_prospect_hummer"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SJrwcMjkmJgROJlRgGW.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/fivrhd.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ayviazs3.7z"
+    }
+  }
+}

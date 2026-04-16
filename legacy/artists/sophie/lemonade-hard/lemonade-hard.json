@@ -1,0 +1,27 @@
+{
+  "id": "lemonade-hard",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "LEMONADE / HARD",
+    "artist": "SOPHIE",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "4:53",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760216856_lemonade_-_hard"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/iHCzfdnyllbSrHfCJLJ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ibrn17.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9vy5pgu.7z"
+    }
+  }
+}

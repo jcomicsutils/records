@@ -1,0 +1,27 @@
+{
+  "id": "on-a-deserted-path",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "On a deserted path",
+    "artist": "Black Hill",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "45:16",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760744119_on_a_deserted_path"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/NLFMBqDvFdgqzLHijOtu.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wwxor4.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dj0mp9r.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "broken-arc",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Broken Arc",
+    "artist": "Andrew Bernstein",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:04",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769365028_broken_arc"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/43v6j26n.7z"
+    },
+    "": {
+      "url": ""
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/pTWGQoCZCRGlAenApWJy.7z"
+    }
+  }
+}

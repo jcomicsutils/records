@@ -1,0 +1,24 @@
+{
+  "id": "honnomajikanaharu-keiji-haino",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Honnomajika~Naharu × Keiji Haino",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "55:54",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764813465_honnomajika_naharu___keiji_haino"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/yb8igog.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/grPzhAIoDNrdUEOBqasJ.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "chocolate-girl-untitled-1",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Chocolate Girl / Untitled #1",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "15:18",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760832310_chocolate_girl_-_untitled__1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LuUaCqkutqorCrRefqAt.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/67q9py.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/a5cfzf43.7z"
+    }
+  }
+}

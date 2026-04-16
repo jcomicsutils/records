@@ -1,0 +1,27 @@
+{
+  "id": "watch-me-dissapear",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "watch me dissapear",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760915698_watch_me_dissapear"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/FCVYVaEBcvXEpSjMZuCQ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/yo7xbr.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1vp02y8y.7z"
+    }
+  }
+}

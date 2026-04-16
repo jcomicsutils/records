@@ -1,0 +1,27 @@
+{
+  "id": "slithering-slaughter",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Slithering Slaughter",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "16:06",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769308107_slithering_slaughter"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3a5325i0.7z"
+    },
+    "": {
+      "url": ""
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/VsjZHdoGBgzfXwOqdIoJ.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "substance-1999-3984-28224-2",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Substance [1999, 3984 28224 2]",
+    "artist": "Joy Division",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752455745_1988__substance__1999__3984_28224_2_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/MexbGlBhwVLaNGJQmDoW.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zz21m8vy.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "piccadilly-palare",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Piccadilly Palare",
+    "artist": "Morrissey",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754894581_1990_-_piccadilly_palare"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/oWgubmyEPjYECXuhYpjE.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/51i4c6w.7z"
+    }
+  }
+}

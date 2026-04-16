@@ -1,0 +1,24 @@
+{
+  "id": "amor",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Amor",
+    "artist": "Lupe de Lupe",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758491616_amor"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b58/jJxBTsfueULagyEHVmCc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2zl3dey6.7z"
+    }
+  }
+}

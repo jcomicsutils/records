@@ -1,0 +1,27 @@
+{
+  "id": "paradise-is-mine",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Paradise Is Mine",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "9:23",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769299585_paradise_is_mine"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/o3927glc.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ksgmhh.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/QQsDOfhIYzxcachWgwGZ.7z"
+    }
+  }
+}

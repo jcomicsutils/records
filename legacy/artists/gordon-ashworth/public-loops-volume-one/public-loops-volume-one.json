@@ -1,0 +1,27 @@
+{
+  "id": "public-loops-volume-one",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Public Loops Volume One",
+    "artist": "Gordon Ashworth",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1748027229_public_loops_volume_one"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/TMOZBhoKgBlbpQYZFFP.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/04j3it.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7nyq4zb.7z"
+    }
+  }
+}

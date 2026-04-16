@@ -1,0 +1,27 @@
+{
+  "id": "oto-t33",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "(oTo) T33",
+    "artist": "(oTo)",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746076443_oto_t33___hedren"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/dIxZijEqvxlIeakonvQT.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/d4ofe7.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/e7qesdx3.7z"
+    }
+  }
+}

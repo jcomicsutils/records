@@ -1,0 +1,24 @@
+{
+  "id": "knead",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Knead",
+    "artist": "Knead",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "1:15:44",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764514143_knead"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/zFsiJosGzuCqfelULrL.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ey4g6epu.7z"
+    }
+  }
+}

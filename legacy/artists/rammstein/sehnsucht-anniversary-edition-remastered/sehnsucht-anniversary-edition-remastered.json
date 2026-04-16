@@ -1,0 +1,24 @@
+{
+  "id": "sehnsucht-anniversary-edition-remastered",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sehnsucht (Anniversary Edition - Remastered)",
+    "artist": "Rammstein",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "48:47",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761577486_sehnsucht__anniversary_edition_-_remastered_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/LuzJSEWwMHrictvibQze.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/y22rb62t.7z"
+    }
+  }
+}

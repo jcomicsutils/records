@@ -1,0 +1,27 @@
+{
+  "id": "junkyard-version-apocalypse-mantis-mantra",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Junkyard (Version Apocalypse) / Mantis Mantra",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "10:58",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760393983_junkyard__version_apocalypse__-_mantis_mantra"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/yfDmchwyOuzOrsnVdTpA.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/r05lq0.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/adg0gm3.7z"
+    }
+  }
+}

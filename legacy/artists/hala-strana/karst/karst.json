@@ -1,0 +1,27 @@
+{
+  "id": "karst",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Karst",
+    "artist": "Hala Strana",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_human": "18:02",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769916073_karst"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/k5bu6ok4.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8bbvr0.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/QdbcXZBmagmirhsCpgJH.7z"
+    }
+  }
+}

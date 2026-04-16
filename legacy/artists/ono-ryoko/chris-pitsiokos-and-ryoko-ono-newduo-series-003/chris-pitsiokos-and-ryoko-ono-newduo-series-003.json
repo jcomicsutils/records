@@ -1,0 +1,27 @@
+{
+  "id": "chris-pitsiokos-and-ryoko-ono-newduo-series-003",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Chris Pitsiokos and Ryoko Ono 小埜涼子 (NEWDUO series 003)",
+    "artist": "Ono Ryoko",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_human": "6:49",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764960253_chris_pitsiokos_and_ryoko_ono_______newduo_series_"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dj722yxa.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/g93efa.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SwbnezoYkiREPLroPCGg.7z"
+    }
+  }
+}

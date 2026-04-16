@@ -1,0 +1,24 @@
+{
+  "id": "pias-40",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "[PIAS] 40",
+    "artist": "The Young Gods",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "20:14",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759609424__pias__40"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/snIgiFviekCAMyqZyVrR.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/51rva8ra.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "music-for-the-masses-mute-int-846833-1st-germany",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Music For The Masses [MUTE INT 846.833 1st Germany]",
+    "artist": "Depeche Mode",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746139366_depeche_mode_-_music_for_the_masses__1987___mute_i"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/QqbdRXIRFrwGRUIMPlOn.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lxg0p417.7z"
+    }
+  }
+}

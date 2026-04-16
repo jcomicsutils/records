@@ -1,0 +1,27 @@
+{
+  "id": "play-the-ghost",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Play The Ghost",
+    "artist": "Sarah Davachi",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:01",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761594091_play_the_ghost"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LKqXfxESkrGdaNyPLmh.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/n9zu24.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/erybm844.7z"
+    }
+  }
+}

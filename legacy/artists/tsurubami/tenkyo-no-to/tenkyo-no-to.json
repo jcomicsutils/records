@@ -1,0 +1,27 @@
+{
+  "id": "tenkyo-no-to",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Tenkyo No To 天侠の徒",
+    "artist": "Tsurubami",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_human": "42:40",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765163219_tenkyo_no_to_____"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/d02y26ii.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/4p9mms.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/zSiIFmsdsnJcCwWCqZ.7z"
+    }
+  }
+}

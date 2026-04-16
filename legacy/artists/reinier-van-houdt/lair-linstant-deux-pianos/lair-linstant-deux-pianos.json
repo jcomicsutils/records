@@ -1,0 +1,24 @@
+{
+  "id": "lair-linstant-deux-pianos",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "L'air, l'instant - Deux pianos",
+    "artist": "Reinier van Houdt",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752353751_l_air__l_instant_-_deux_pianos"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b54/jKXQEmMGRVmfOiNgiim.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6pb8mgq.7z"
+    }
+  }
+}

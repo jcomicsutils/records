@@ -1,0 +1,27 @@
+{
+  "id": "castle-in-the-sky",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Castle in the sky",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:32",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760898041_castle_in_the_sky"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/eecqVCnEFiUgbnnwXKy.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/a8pezp.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/e58yu7dn.7z"
+    }
+  }
+}

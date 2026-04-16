@@ -1,0 +1,24 @@
+{
+  "id": "2018-08-08-san-francisco",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "2018-08-08 San Francisco",
+    "artist": "Peter Brötzmann / Keiji Haino Duo",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "1:23:53",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764527858_2018-08-08_san_francisco"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/iBNjqpijMtjCAhpVWLkE.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qkfswg59.7z"
+    }
+  }
+}

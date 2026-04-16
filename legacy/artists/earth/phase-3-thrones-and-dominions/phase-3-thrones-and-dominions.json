@@ -1,0 +1,24 @@
+{
+  "id": "phase-3-thrones-and-dominions",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Phase 3: Thrones and Dominions",
+    "artist": "Earth",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "55:02",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763926605_phase_3_thrones_and_dominions"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b63/JCtLQymxkMqLbQvYEfSh.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1ab6yoc1.7z"
+    }
+  }
+}

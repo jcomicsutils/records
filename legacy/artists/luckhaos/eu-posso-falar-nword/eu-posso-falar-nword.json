@@ -1,0 +1,27 @@
+{
+  "id": "eu-posso-falar-nword",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Eu posso falar nword",
+    "artist": "Luckhaos",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758481660_eu_posso_falar_nword"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/HcIEVhBlhLdzTlRoJfQX.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/o3wjf5.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ttwsb57.7z"
+    }
+  }
+}

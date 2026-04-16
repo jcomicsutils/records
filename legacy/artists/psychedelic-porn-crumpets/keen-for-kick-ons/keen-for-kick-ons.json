@@ -1,0 +1,27 @@
+{
+  "id": "keen-for-kick-ons",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Keen For Kick Ons",
+    "artist": "Psychedelic Porn Crumpets",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:38",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760538555_keen_for_kick_ons"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/cYAXXjuaZrurIAIsxPab.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/g9za9b.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tuxzc3d7.7z"
+    }
+  }
+}

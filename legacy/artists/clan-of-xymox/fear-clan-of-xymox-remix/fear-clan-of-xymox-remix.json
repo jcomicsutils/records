@@ -1,0 +1,27 @@
+{
+  "id": "fear-clan-of-xymox-remix",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Fear (Clan of Xymox Remix)",
+    "artist": "Clan of Xymox",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:15",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "": {
+      "url": ""
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/1760986825_fear__clan_of_xymox_remix_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/UvpZfhMfkoVHEHRCyDiz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bo9s9oj3.7z"
+    }
+  }
+}

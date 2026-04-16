@@ -1,0 +1,24 @@
+{
+  "id": "selmasongs-music-from-the-motion-picture-dancer-in-the-dark",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Selmasongs: Music from the Motion Picture \"Dancer in the Dark\"",
+    "artist": "Björk",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757028016_selmasongs_music_from_the_motion_picture_dancer_in"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/NUTlslCFoxbVdXIxhga.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/znla01uj.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "boogarins-on-audiotree-live-audiotree-live-version",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Boogarins on Audiotree Live (Audiotree Live Version)",
+    "artist": "Boogarins",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758066895_boogarins_on_audiotree_live__audiotree_live_versio"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/lQznLyKlnfybtNRHFvf.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gpt38h.7z"
+    }
+  }
+}

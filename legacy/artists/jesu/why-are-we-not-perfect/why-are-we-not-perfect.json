@@ -1,0 +1,27 @@
+{
+  "id": "why-are-we-not-perfect",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Why Are We Not Perfect",
+    "artist": "Jesu",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "30:29",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764211563_why_are_we_not_perfect"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/DFjZrghmXrVrHbokPAlL.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5ucmxq.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/r7bcl6j.7z"
+    }
+  }
+}

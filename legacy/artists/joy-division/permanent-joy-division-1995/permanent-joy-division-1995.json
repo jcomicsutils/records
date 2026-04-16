@@ -1,0 +1,24 @@
+{
+  "id": "permanent-joy-division-1995",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Permanent: Joy Division 1995",
+    "artist": "Joy Division",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752457925_1995__permanent-_joy_division_1995__pocd-1174_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b54/JLLAkGgUtlaltHmMHAJM.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/a6oo7t5a.7z"
+    }
+  }
+}

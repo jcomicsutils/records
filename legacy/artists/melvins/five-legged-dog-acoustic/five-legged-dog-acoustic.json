@@ -1,0 +1,21 @@
+{
+  "id": "five-legged-dog-acoustic",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Five Legged Dog (Acoustic)",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 36,
+    "duration_human": "2:29:50",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769312141_five_legged_dog__acoustic_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/GhnyZuoBRilPBMwMuMzj.7z"
+    }
+  }
+}

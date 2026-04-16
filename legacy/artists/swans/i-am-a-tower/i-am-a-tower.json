@@ -1,0 +1,27 @@
+{
+  "id": "i-am-a-tower",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "I Am a Tower",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "19:17",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760037769_i_am_a_tower"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/hecClXSLEVlYpTYgIWKl.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/dr01h5.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7xf0bpwa.7z"
+    }
+  }
+}

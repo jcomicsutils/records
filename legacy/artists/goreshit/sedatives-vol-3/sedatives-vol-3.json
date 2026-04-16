@@ -1,0 +1,24 @@
+{
+  "id": "sedatives-vol-3",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sedatives, Vol. 3",
+    "artist": "Goreshit",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "33:27",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760494582_sedatives__vol__3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/EzkztydAtuREbbKIvtMp.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4l4hkbs.7z"
+    }
+  }
+}

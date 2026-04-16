@@ -1,0 +1,24 @@
+{
+  "id": "appear-disappear",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Appear Disappear",
+    "artist": "The Young Gods",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "44:01",
+    "sampling_rate": "88.2kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759611939_appear_disappear__2025___2_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/cyQxbfChfhRUgdvKxlsI.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1s64z0xb.7z"
+    }
+  }
+}

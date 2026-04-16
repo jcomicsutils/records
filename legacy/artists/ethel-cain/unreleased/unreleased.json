@@ -1,0 +1,24 @@
+{
+  "id": "unreleased",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Unreleased",
+    "artist": "Ethel Cain",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "50:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767676044_unreleased"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/47rgeqc.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b69/YUCJLcqOhqymHUOwAIHq.7z"
+    }
+  }
+}

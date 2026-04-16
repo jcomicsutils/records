@@ -1,0 +1,24 @@
+{
+  "id": "new-zealand-survival-songs",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "New Zealand Survival Songs",
+    "artist": "Amanda Palmer",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "37:39",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763744308_new_zealand_survival_songs"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/hvPwbrZUGvUaFcrgTPCZ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rmx1ghq8.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "night-flower",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Night Flower",
+    "artist": "cEvin Key",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:52",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760285487_night_flower"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/eONzASXTZoIRQmllrXZx.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/a83f2x.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jd2mnfgy.7z"
+    }
+  }
+}

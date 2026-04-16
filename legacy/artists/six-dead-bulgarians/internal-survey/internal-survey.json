@@ -1,0 +1,27 @@
+{
+  "id": "internal-survey",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Internal Survey",
+    "artist": "Six Dead Bulgarians",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:19",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761489450_internal_survey"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/QvWZaJSczOzHImfoHgl.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/skhg3m.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4jvos6wu.7z"
+    }
+  }
+}

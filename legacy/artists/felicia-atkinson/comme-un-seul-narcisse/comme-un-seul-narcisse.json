@@ -1,0 +1,27 @@
+{
+  "id": "comme-un-seul-narcisse",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Comme un seul narcisse",
+    "artist": "Félicia Atkinson",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "40:05",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767022939_comme_un_seul_narcisse"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/a3i3jxk0.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ue47mt.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/hlLpsmNUSgRCEyBPWlB.7z"
+    }
+  }
+}

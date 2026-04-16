@@ -1,0 +1,24 @@
+{
+  "id": "death-zones",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Death Zones",
+    "artist": "Genocide Organ",
+    "codec": "FLAC",
+    "num_tracks": 18,
+    "duration_human": "1:22:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760987794_death_zones"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/eaVJiyavPuEdHzadRqH.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/falz646.7z"
+    }
+  }
+}

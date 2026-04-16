@@ -1,0 +1,24 @@
+{
+  "id": "shohjohkisshohtan",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Shohjohkisshohtan 清浄吉祥譚",
+    "artist": "Tsurubami",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "56:47",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765162747_shohjohkisshohtan______"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xf48e1s6.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/DvUylutESgPckCmNWXHL.7z"
+    }
+  }
+}

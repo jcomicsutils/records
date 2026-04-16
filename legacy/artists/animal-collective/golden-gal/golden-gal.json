@@ -1,0 +1,27 @@
+{
+  "id": "golden-gal",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Golden Gal",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:41",
+    "sampling_rate": "88.2kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760846892_golden_gal"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/FYdrfgnnreWZFWOTocT.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/otzzca.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/5k14zmqj.7z"
+    }
+  }
+}

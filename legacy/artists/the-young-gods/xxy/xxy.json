@@ -1,0 +1,24 @@
+{
+  "id": "xxy",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Xxy",
+    "artist": "The Young Gods",
+    "codec": "FLAC",
+    "num_tracks": 35,
+    "duration_human": "2:34:08",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759708427_xxy"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/VoitcJBqicVwuxdxiy.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/35a5bpsj.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "black-blues-electric",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Black Blues [Electric]",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "53:31",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764806774_black_blues__electric_"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mouey2ur.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/rBbTwXNmpxiFtvmzhPPi.7z"
+    }
+  }
+}

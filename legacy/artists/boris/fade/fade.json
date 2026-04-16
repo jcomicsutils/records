@@ -1,0 +1,24 @@
+{
+  "id": "fade",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Fade",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "1:04:13",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764495927_fade"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/JMzUHDaQYUbgNyEWVyFD.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/u4ikltf2.7z"
+    }
+  }
+}

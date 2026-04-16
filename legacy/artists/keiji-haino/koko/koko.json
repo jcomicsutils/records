@@ -1,0 +1,27 @@
+{
+  "id": "koko",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Koko [ここ]",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "31:24",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764796349_koko_____"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xh7ec9ef.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/aon9tc.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/KAIXeZpEwzeOSwTdVucv.7z"
+    }
+  }
+}

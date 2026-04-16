@@ -1,0 +1,27 @@
+{
+  "id": "bundie",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "bundie",
+    "artist": "Maximum Movement Theatre",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "25:05",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761323947_bundie"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/jxaevDcvUdyKTiubJXPN.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/pfoly8.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/va11ujt.7z"
+    }
+  }
+}

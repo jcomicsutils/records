@@ -1,0 +1,27 @@
+{
+  "id": "self-care-sunday",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Self Care Sunday",
+    "artist": "Ninja Sex Party",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:49",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761357210_self_care_sunday"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/uBMeJQdnDshUabBQLaPU.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/6a9pro.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/i4al97ls.7z"
+    }
+  }
+}

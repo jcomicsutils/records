@@ -1,0 +1,24 @@
+{
+  "id": "kanau-re-master-live",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Kanau Re-master + Live",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "46:18",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764484200_kanau_re-master___live"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/vczCwXXiHWFsXucLizDB.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/cvq4g7q8.7z"
+    }
+  }
+}

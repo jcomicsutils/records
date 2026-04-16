@@ -1,0 +1,27 @@
+{
+  "id": "ne-smeshno",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Не Смешно / Ne Smeshno",
+    "artist": "Molchat Doma",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:52",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760470200___________-_ne_smeshno"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/hHzvHeOajpPcFhYhKHy.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/1ri61s.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xnkioerq.7z"
+    }
+  }
+}

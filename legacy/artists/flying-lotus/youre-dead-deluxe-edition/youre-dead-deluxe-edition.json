@@ -1,0 +1,24 @@
+{
+  "id": "youre-dead-deluxe-edition",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "You're Dead! (Deluxe Edition)",
+    "artist": "Flying Lotus",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757262753_you_re_dead___deluxe_edition_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b57/DsQXWdiLvsbWdZHTOR.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xmcen8n.7z"
+    }
+  }
+}

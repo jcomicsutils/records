@@ -1,0 +1,27 @@
+{
+  "id": "preston-28-february-1980",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Preston 28 February 1980",
+    "artist": "Joy Division",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752291254_preston_28_february_1980"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/XqLTIFEmHikzXbYzUsPe.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/uqivsi.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/q5rs56j.7z"
+    }
+  }
+}

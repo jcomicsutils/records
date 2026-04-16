@@ -1,0 +1,24 @@
+{
+  "id": "live-at-20000v-tokyo-japan-25-01-1997",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at 20000V, Tokyo, Japan (25-01-1997)",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "1:12:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764488737_live_at_20000v__tokyo__japan__25-01-1997_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/VgcCrvmgYYYDyyGWrFso.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3pi5hpvc.7z"
+    }
+  }
+}

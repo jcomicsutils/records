@@ -1,0 +1,21 @@
+{
+  "id": "another-grey-world",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Another Grey World",
+    "artist": "Dead Voices On Air",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759091583_another_grey_world"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/eXNiLGSWBbjiAAijQUgL.zip"
+    }
+  }
+}

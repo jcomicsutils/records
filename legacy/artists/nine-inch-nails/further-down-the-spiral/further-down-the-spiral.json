@@ -1,0 +1,24 @@
+{
+  "id": "further-down-the-spiral",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Further Down The Spiral",
+    "artist": "Nine Inch Nails",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "1:00:29",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761366897_further_down_the_spiral__1995_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/zrCxZRuMGTkSAIpaRHDu.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/k4txvigd.7z"
+    }
+  }
+}

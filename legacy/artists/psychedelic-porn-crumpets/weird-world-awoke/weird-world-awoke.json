@@ -1,0 +1,27 @@
+{
+  "id": "weird-world-awoke",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Weird World Awoke",
+    "artist": "Psychedelic Porn Crumpets",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "10:21",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760548112_weird_world_awoke"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ghdrLkOAZVEJyISnjsVb.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/kw1qpy.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zjvavl6.7z"
+    }
+  }
+}

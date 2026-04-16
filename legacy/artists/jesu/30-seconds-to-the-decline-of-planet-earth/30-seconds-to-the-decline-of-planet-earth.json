@@ -1,0 +1,24 @@
+{
+  "id": "30-seconds-to-the-decline-of-planet-earth",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "30 Seconds to the Decline of Planet Earth",
+    "artist": "Jesu",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "1:17:11",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764181493_30_seconds_to_the_decline_of_planet_earth"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/NvuUXMzbrkzhAewRLLed.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/erhmzn3w.7z"
+    }
+  }
+}

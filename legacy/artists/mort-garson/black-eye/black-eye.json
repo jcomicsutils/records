@@ -1,0 +1,27 @@
+{
+  "id": "black-eye",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Black Eye",
+    "artist": "Mort Garson",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_human": "22:31",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761301310_black_eye"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/oSmAtaYbZSZmkBeMYfiA.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/djmm6g.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7nf1ulyj.7z"
+    }
+  }
+}

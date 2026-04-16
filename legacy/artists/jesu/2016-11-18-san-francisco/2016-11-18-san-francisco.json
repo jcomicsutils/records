@@ -1,0 +1,24 @@
+{
+  "id": "2016-11-18-san-francisco",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "2016-11-18 San Francisco",
+    "artist": "Jesu",
+    "codec": "FLAC",
+    "num_tracks": 27,
+    "duration_human": "2:55:44",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764183998_2016-11-18_san_francisco"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/vNUOvhCMVwmRngWvoOJc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/oqu162z.7z"
+    }
+  }
+}

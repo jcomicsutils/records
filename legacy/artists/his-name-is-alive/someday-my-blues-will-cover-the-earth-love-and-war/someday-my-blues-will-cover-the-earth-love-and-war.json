@@ -1,0 +1,24 @@
+{
+  "id": "someday-my-blues-will-cover-the-earth-love-and-war",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Someday My Blues Will Cover The Earth (Love And War)",
+    "artist": "His Name Is Alive",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "42:19",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761148300_someday_my_blues_will_cover_the_earth__love_and_wa"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/qCxNCHsGQFQkiHFkRTJL.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ery0viw9.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "seefu-lilac",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Seefu Lilac",
+    "artist": "Black Moth Super Rainbow",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "19:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760911513_seefu_lilac"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/zACEWBnCEHUZOwpiIhcb.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ntlz5b.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/h8ptj0g8.7z"
+    }
+  }
+}

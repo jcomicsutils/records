@@ -1,0 +1,24 @@
+{
+  "id": "toboga",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Tobogã",
+    "artist": "Lô Borges",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "44:44",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763917796_tobog___2024___2_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/NyKFApknzYvZsgsgggdP.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hl6ncm4w.7z"
+    }
+  }
+}

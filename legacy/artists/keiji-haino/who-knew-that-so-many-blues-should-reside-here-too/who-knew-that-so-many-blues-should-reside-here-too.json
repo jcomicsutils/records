@@ -1,0 +1,24 @@
+{
+  "id": "who-knew-that-so-many-blues-should-reside-here-too",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Who Knew That So Many Blues Should Reside Here Too... [ここにもこんなにブルースが宿っているとは...]",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "1:06:25",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764807015_who_knew_that_so_many_blues_should_reside_here_too"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ph6awp52.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/lCdHNGgQpjopDDuoEJOj.7z"
+    }
+  }
+}

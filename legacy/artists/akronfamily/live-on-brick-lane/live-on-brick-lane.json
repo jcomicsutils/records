@@ -1,0 +1,27 @@
+{
+  "id": "live-on-brick-lane",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live on Brick Lane",
+    "artist": "Akron/Family",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747509099_live_on_brick_lane"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/pYplnoVWzxDcQeuMIbCz.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/v7s475.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0zf6j7an.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "soul-capturer",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Soul Capturer",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:44",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760803011_soul_capturer"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/lBBNtaJueVdRJnPaIMjz.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ubjrkk.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4bs40cep.7z"
+    }
+  }
+}

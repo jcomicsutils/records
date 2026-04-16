@@ -1,0 +1,27 @@
+{
+  "id": "paleolith",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Paleolith",
+    "artist": "Creation VI",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "30:38",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760807398_paleolith"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/TeLcUmpAbLrpWKDjTVKA.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/6258hi.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vsno53.7z"
+    }
+  }
+}

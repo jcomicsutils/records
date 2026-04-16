@@ -1,0 +1,27 @@
+{
+  "id": "high-desert-overdose",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "High Desert Overdose",
+    "artist": "Melvins",
+    "codec": "MP3",
+    "num_tracks": 8,
+    "duration_human": "13:05",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769313532_high_desert_overdose"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1f807khl.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/3l357v.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/dvrERKKmNRwoOBgnLSoj.7z"
+    }
+  }
+}

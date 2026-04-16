@@ -1,0 +1,24 @@
+{
+  "id": "tides-of-breathing",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Tides of Breathing",
+    "artist": "Creation VI",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "51:19",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760815289_tides_of_breathing"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/OiyEYUWzeNlkCkczJFUM.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zci1s4lq.7z"
+    }
+  }
+}

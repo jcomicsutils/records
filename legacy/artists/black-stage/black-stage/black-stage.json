@@ -1,0 +1,24 @@
+{
+  "id": "black-stage",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Black Stage",
+    "artist": "Black Stage",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "55:36",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764515123_black_stage"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/OijzEOJjXcfHxPtNAHp.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/a8yf5s86.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "european-son-live-1968",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "European Son (Live 1968)",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 19,
+    "duration_human": "1:47:07",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760538523_european_son__live_1968_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/FwoyXfHDtZyOChQNYsTv.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jjkim85h.7z"
+    }
+  }
+}

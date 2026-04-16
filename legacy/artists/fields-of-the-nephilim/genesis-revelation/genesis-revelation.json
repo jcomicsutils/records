@@ -1,0 +1,24 @@
+{
+  "id": "genesis-revelation",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Genesis & Revelation",
+    "artist": "Fields Of The Nephilim",
+    "codec": "FLAC",
+    "num_tracks": 18,
+    "duration_human": "1:40:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761146417_genesis___revelation"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/oIPxRvVXJJbJswrvrDc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ej8pml3l.7z"
+    }
+  }
+}

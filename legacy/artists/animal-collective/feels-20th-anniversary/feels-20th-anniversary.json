@@ -1,0 +1,21 @@
+{
+  "id": "feels-20th-anniversary",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Feels (20th Anniversary)",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 18,
+    "duration_human": "1:33:38",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760851890_feels__20th_anniversary_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/fBBHSqPTNezzGYhBlcwa.7z"
+    }
+  }
+}

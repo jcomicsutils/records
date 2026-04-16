@@ -1,0 +1,30 @@
+{
+  "id": "018-the-rhinestones-continued-to-sing",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "018. The Rhinestones Continued to Sing.",
+    "artist": "Piranesi.",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747967952_piranesi__-_018__the_rhinestones_continued_to_sing"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/rRAWiWVJbeSIxDFEnRa.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/q7kzft.7z"
+    },
+    "piranesiproject_bandcamp_com": {
+      "url": "https://piranesiproject.bandcamp.com/album/018-the-rhinestones-continued-to-sing"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hf9aeime.7z"
+    }
+  }
+}

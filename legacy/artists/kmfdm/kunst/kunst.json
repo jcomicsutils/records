@@ -1,0 +1,24 @@
+{
+  "id": "kunst",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Kunst",
+    "artist": "KMFDM",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "46:53",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761293425_kunst"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/sHlMizCUqwFSmmaqcwm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4t86ioif.7z"
+    }
+  }
+}

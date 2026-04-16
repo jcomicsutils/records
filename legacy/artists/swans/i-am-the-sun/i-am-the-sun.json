@@ -1,0 +1,27 @@
+{
+  "id": "i-am-the-sun",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "I Am the Sun",
+    "artist": "Swans",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_human": "8:14",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769293702_i_am_the_sun"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bn4pna22.7z"
+    },
+    "": {
+      "url": ""
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/EBbNBQNXqdIRjBezFiG.7z"
+    }
+  }
+}

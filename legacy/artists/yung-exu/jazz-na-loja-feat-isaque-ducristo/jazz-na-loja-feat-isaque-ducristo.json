@@ -1,0 +1,27 @@
+{
+  "id": "jazz-na-loja-feat-isaque-ducristo",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "jazz na loja (feat. $isaque duCristo)",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "7:05",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759614853_jazz_na_loja__feat___isaque_ducristo_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/xMUqRKLexLPxgXjdcjrQ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7gyk53.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ofurefk.7z"
+    }
+  }
+}

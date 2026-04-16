@@ -1,0 +1,27 @@
+{
+  "id": "epigeius",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "EPIGEIUS",
+    "artist": "Berith",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "1:18",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768759572_epigeius"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dqe3jgs.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/1w7u4k.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/skARbBiBYXmefNyyVPgA.7z"
+    }
+  }
+}

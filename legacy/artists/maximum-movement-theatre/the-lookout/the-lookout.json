@@ -1,0 +1,27 @@
+{
+  "id": "the-lookout",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "the lookout",
+    "artist": "Maximum Movement Theatre",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "25:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761350915_the_lookout"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/POSLQbEMzVztmpfQTxcF.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wexlbi.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/r0vmsy6j.7z"
+    }
+  }
+}

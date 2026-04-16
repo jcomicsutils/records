@@ -1,0 +1,27 @@
+{
+  "id": "ambiance-li-cruxifixion",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ambiance Li / Cruxifixion",
+    "artist": "Pierre Schaeffer",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "11:59",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767058943_ambiance_li_-_cruxifixion"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2kvwvq75.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/cbax86.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/JYRFGyiFuRKmHMmFzuUu.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "duo-improvisation",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Duo Improvisation",
+    "artist": "Futoshi Okano",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "29:42",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764958714_duo_improvisation"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/78a7wj3x.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/JmjgoPAfSXUwWuRwUksf.7z"
+    }
+  }
+}

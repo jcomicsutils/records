@@ -1,0 +1,27 @@
+{
+  "id": "chama",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Chama",
+    "artist": "Arca",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:16",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760236039_chama"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/BZnTWbdKuBMHDsjwVv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/p979t3.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1zuslho3.7z"
+    }
+  }
+}

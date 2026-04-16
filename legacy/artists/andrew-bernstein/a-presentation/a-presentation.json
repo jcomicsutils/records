@@ -1,0 +1,24 @@
+{
+  "id": "a-presentation",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Presentation",
+    "artist": "Andrew Bernstein",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "47:45",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769363158_a_presentation"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jysyd86r.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/yQRnKeMvkUBWJjnQWlT.7z"
+    }
+  }
+}

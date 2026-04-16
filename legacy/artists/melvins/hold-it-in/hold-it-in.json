@@ -1,0 +1,24 @@
+{
+  "id": "hold-it-in",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hold It In",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "53:08",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769313579_hold_it_in"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/iexadpl5.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/VmdCALrdAkabEfCqJfax.7z"
+    }
+  }
+}

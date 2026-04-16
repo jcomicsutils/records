@@ -1,0 +1,24 @@
+{
+  "id": "strange-days-50th-anniversary-expanded-edition-2017-remaster",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Strange Days (50th Anniversary Expanded Edition)  (2017 Remaster)",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 20,
+    "duration_human": "1:10:24",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760566311_strange_days__50th_anniversary_expanded_edition___"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/BXHQOCGOTXzSBwtnHPKc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6ned7kv5.7z"
+    }
+  }
+}

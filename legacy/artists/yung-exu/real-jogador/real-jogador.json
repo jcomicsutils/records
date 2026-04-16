@@ -1,0 +1,27 @@
+{
+  "id": "real-jogador",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Real Jogador",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "8:53",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759625000_real_jogador"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SYkjrXUyVqXtVzvDWeb.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/q4wqmv.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/c36ekq6.7z"
+    }
+  }
+}

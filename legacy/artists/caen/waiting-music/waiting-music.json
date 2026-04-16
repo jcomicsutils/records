@@ -1,0 +1,27 @@
+{
+  "id": "waiting-music",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Waiting Music",
+    "artist": "Caen",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747768948_waiting_music"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/mNNZRZsNgVApRYynvZd.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/c99stw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1ilhg1bi.7z"
+    }
+  }
+}

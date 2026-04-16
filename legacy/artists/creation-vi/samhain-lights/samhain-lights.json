@@ -1,0 +1,27 @@
+{
+  "id": "samhain-lights",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Samhain Lights",
+    "artist": "Creation VI",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "23:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760812509_samhain_lights"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/DBfoMbEBKCuiGkzpgzKz.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/if5352.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4kr4lp11.7z"
+    }
+  }
+}

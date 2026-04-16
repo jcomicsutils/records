@@ -1,0 +1,27 @@
+{
+  "id": "guilty-connector-und-tabata",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Guilty Connector Und Tabata",
+    "artist": "Mitsuru Tabata",
+    "codec": "MP3",
+    "num_tracks": 8,
+    "duration_human": "41:06",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765050887_guilty_connector_und_tabata"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/u1ulm3lr.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/u7b2zt.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/zZFTCFDKsZDmdJXPFpeT.7z"
+    }
+  }
+}

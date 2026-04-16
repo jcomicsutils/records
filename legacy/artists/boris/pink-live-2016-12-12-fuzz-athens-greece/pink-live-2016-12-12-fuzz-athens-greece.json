@@ -1,0 +1,27 @@
+{
+  "id": "pink-live-2016-12-12-fuzz-athens-greece",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "PINK Live 2016-12-12 Fuzz, Athens, Greece",
+    "artist": "Boris",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_human": "1:18:48",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764485061_pink_live_2016-12-12_fuzz__athens__greece"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/cMpvWSguyIqDGJEiFZLQ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7t4id8.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/opqmgn4y.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a-peaceful-warriors-guide-to-daily-living",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Peaceful Warrior's Guide To Daily Living",
+    "artist": "Grasshopper",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_human": "28:47",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766192093_a_peaceful_warrior_s_guide_to_daily_living"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3meru4ni.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/f673iw.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/AnYnWXoyJYjlYqtykIin.7z"
+    }
+  }
+}

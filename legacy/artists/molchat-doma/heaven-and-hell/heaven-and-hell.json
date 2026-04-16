@@ -1,0 +1,27 @@
+{
+  "id": "heaven-and-hell",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Небеса и Ад (Heaven and Hell)",
+    "artist": "Molchat Doma",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760470470______________heaven_and_hell_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/wLSkkmFpJkKwLLnzodwc.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/j71fyl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/j2rkgi.7z"
+    }
+  }
+}

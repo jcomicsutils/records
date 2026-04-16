@@ -1,0 +1,27 @@
+{
+  "id": "riemann-angels",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Riemann Angels",
+    "artist": "Reinier van Houdt",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752366388_riemann_angels"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/DvBKwOrdoTCyrqkRTuh.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gslmcb.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hs7qugk.7z"
+    }
+  }
+}

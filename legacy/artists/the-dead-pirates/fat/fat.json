@@ -1,0 +1,27 @@
+{
+  "id": "fat",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Fat",
+    "artist": "The Dead Pirates",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "12:20",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760387499_fat"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/GCeMwsjBCouzIjoCGDeo.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/b6kuc8.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/cm8tu9wa.7z"
+    }
+  }
+}

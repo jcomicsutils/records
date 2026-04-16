@@ -1,0 +1,27 @@
+{
+  "id": "drop-fm",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Drop FM",
+    "artist": "A. G. Cook",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:49",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760243380_drop_fm"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/dzmtYJxadttDCVqNZKX.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/itve68.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/aixw97jw.7z"
+    }
+  }
+}

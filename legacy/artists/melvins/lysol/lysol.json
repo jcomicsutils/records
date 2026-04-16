@@ -1,0 +1,27 @@
+{
+  "id": "lysol",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Lysol",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "31:21",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769318224_lysol"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ot82nvwj.7z"
+    },
+    "": {
+      "url": ""
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/konlsvOCVkeqfgGjULiq.7z"
+    }
+  }
+}

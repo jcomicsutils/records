@@ -1,0 +1,27 @@
+{
+  "id": "divided",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Divided",
+    "artist": "How To Disappear Completely",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "18:08",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759949806_divided"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/bKOZCYbxyupSQtUIaO.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/xvj1t6.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ce7t3hka.7z"
+    }
+  }
+}

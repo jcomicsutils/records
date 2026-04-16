@@ -1,0 +1,24 @@
+{
+  "id": "same",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Same",
+    "artist": "Genocide Organ",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "56:22",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761000950_same"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/mifSwKiARQrCkaTYgdeh.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rgy0jux.7z"
+    }
+  }
+}

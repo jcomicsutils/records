@@ -1,0 +1,27 @@
+{
+  "id": "mouths-without-a-head",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Mouths Without a Head",
+    "artist": "Reinier van Houdt",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752365434_mouths_without_a_head"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/bDkOagCBCBOhppbVajYb.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/yzx7fl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ayfpobpk.7z"
+    }
+  }
+}

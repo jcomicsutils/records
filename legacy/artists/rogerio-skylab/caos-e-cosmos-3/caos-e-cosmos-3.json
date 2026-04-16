@@ -1,0 +1,24 @@
+{
+  "id": "caos-e-cosmos-3",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Caos e Cosmos 3",
+    "artist": "Rogério Skylab",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757461017_caos_e_cosmos_3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/nxzKvthIJquIqaEhRse.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/sa3hg0p.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "gravity-of-love",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Gravity Of Love",
+    "artist": "Enigma",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "16:45",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761089231_gravity_of_love"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/pDDojhxhhDUgKbTckMbA.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/mrusze.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bu7t16x.7z"
+    }
+  }
+}

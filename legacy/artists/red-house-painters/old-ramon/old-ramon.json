@@ -1,0 +1,24 @@
+{
+  "id": "old-ramon",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Old Ramon",
+    "artist": "Red House Painters",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "1:11:54",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768677660_old_ramon"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fzkwice5.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/OMejEDQieBacgABFGUp.7z"
+    }
+  }
+}

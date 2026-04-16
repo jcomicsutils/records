@@ -1,0 +1,27 @@
+{
+  "id": "ve-snech-nekrvacim",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ve Snech Nekrvácím",
+    "artist": "Trist",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752468252_ve_snech_nekrv_c_m"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/uWjKsuTkulVqzVcVLpLQ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5lxovm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fg4y9q56.7z"
+    }
+  }
+}

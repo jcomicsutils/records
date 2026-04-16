@@ -1,0 +1,27 @@
+{
+  "id": "lueurs",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Lueurs",
+    "artist": "Félicia Atkinson",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "29:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767036050_lueurs"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/sfouclfl.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/3z0yga.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/XBonapSiWVKcUzSFPlL.7z"
+    }
+  }
+}

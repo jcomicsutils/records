@@ -1,0 +1,27 @@
+{
+  "id": "five-studies-of-noises",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Five Studies of Noises",
+    "artist": "Pierre Schaeffer",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_human": "16:25",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767059019_five_studies_of_noises"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7sxs67oi.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/qmls8i.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/GqRAtARyXqhkvNixjSvR.7z"
+    }
+  }
+}

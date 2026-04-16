@@ -1,0 +1,24 @@
+{
+  "id": "peace-frogblue-sunday-take-4",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Peace Frog/Blue Sunday (Take 4)",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:42",
+    "sampling_rate": "192.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760547636_peace_frog_-_blue_sunday__take_4_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/fNjXqUvRkMRHkoBcNQNs.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/j53wsk4j.7z"
+    }
+  }
+}

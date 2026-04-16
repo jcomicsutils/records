@@ -1,0 +1,24 @@
+{
+  "id": "crushed-velvet-apocalypse",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Crushed Velvet Apocalypse",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "1:08:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760291587_crushed_velvet_apocalypse"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/mupZjhjycgOiPvMtpcq.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/d6ijtphn.7z"
+    }
+  }
+}

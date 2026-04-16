@@ -1,0 +1,27 @@
+{
+  "id": "authenticity",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Authenticity",
+    "artist": "Zeffon / Argon Beams / Generated Missiân ZFN / Revenence / Serpentmouth (incomplete as of now)",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1748593579_serpentmouth_-_generated_missi_n_zfn_-_argon_lo_cu"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/QPYaCEyLXssomLoimbhq.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/1fhs3d.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4p5fqh7w.7z"
+    }
+  }
+}

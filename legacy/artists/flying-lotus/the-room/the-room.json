@@ -1,0 +1,27 @@
+{
+  "id": "the-room",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Room",
+    "artist": "Flying Lotus",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757259960_the_room"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/TaXoTKtgYyFgehuDSvg.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7dacp0.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/02tfuwi.7z"
+    }
+  }
+}

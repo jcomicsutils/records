@@ -1,0 +1,27 @@
+{
+  "id": "lichtspiel-iii-symphonie-diagonale",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Lichtspiel III: Symphonie Diagonale",
+    "artist": "Public Service Broadcasting",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "13:45",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761505668_lichtspiel_iii_symphonie_diagonale"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/cbJtvVhEEkUUCNCyJbdN.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/krjxrm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/acgcnfeb.7z"
+    }
+  }
+}

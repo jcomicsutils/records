@@ -1,0 +1,27 @@
+{
+  "id": "nights-alone",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "nights alone",
+    "artist": "Maximum Movement Theatre",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "46:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761302621_nights_alone"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/pxESHgbeifPQKdJjVmRk.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/fp46v8.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xdy14k0u.7z"
+    }
+  }
+}

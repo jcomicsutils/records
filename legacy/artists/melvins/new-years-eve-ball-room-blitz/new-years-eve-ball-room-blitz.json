@@ -1,0 +1,24 @@
+{
+  "id": "new-years-eve-ball-room-blitz",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "New Years Eve Ball Room Blitz",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "16:35",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769305977_new_years_eve_ball_room_blitz"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/98rwhbt.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/FCzngrdbpIkkjKRdNnyB.7z"
+    }
+  }
+}

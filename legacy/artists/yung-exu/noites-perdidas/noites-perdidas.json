@@ -1,0 +1,27 @@
+{
+  "id": "noites-perdidas",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Noites Perdidas",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:37",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759621392_noites_perdidas"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/awvMpUjqjPHujVGpXho.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ml4dhs.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7nc5m1sz.7z"
+    }
+  }
+}

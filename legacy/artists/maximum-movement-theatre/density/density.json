@@ -1,0 +1,27 @@
+{
+  "id": "density",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "density",
+    "artist": "Maximum Movement Theatre",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "23:23",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761331124_density"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/InIdNfBbrLPBnvaSxm.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/otbufd.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/748l882k.7z"
+    }
+  }
+}

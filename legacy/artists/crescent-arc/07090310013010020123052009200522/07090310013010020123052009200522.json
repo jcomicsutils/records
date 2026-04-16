@@ -1,0 +1,24 @@
+{
+  "id": "07090310013010020123052009200522",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "07090310013010020123052009200522",
+    "artist": "crescent arc",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/kVRFHCVkQMDUOSCOZHJP.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/kz3x27.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mxxqk0gt.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "early-demos-9192",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Early Demos '91/'92",
+    "artist": "Red House Painters",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_human": "1:32:01",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768677335_early_demos__91_-__92"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tkv100j7.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/srbeQnkppleVzYEQyNA.7z"
+    }
+  }
+}

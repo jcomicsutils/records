@@ -1,0 +1,27 @@
+{
+  "id": "love-will-tear-us-apart-session-i",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Love Will Tear Us Apart session I",
+    "artist": "Joy Division",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752289537_love_will_tear_us_apart_session_i__1980-01-08_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/mKFxtRYvTIxlwZppQXiU.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wzuda2.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9lrwaloz.7z"
+    }
+  }
+}

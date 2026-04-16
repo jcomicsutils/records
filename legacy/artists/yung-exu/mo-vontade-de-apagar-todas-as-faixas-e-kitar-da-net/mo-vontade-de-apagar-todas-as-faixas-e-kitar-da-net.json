@@ -1,0 +1,27 @@
+{
+  "id": "mo-vontade-de-apagar-todas-as-faixas-e-kitar-da-net",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "mo vontade de apagar todas as faixas e kitar da net",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:43",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759620633_mo_vontade_de_apagar_todas_as_faixas_e_kitar_da_ne"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/CaSJFSiVDTGpkEkuJGfQ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/o82cyo.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/g6gmlhpi.7z"
+    }
+  }
+}

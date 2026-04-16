@@ -1,0 +1,27 @@
+{
+  "id": "19800121-kant-kino-berlin-germany-aud",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "1980.01.21 Kant Kino, Berlin, Germany (AUD)",
+    "artist": "Joy Division",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752282330_1980_01_21_kant_kino__berlin__germany__aud_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/WHMaLkzrAPnkfMJeMkMv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vsvwsk.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vg3124jb.7z"
+    }
+  }
+}

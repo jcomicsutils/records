@@ -1,0 +1,6 @@
+# Aos Sí
+
+
+| Album | Codec | Duration | Hosts |
+|-------|-------|----------|-------|
+| [Songs of Anger, Lullabies](songs-of-anger-lullabies/songs-of-anger-lullabies.md) | FLAC | Unknown | [IA](https://archive.org/details/1747629705_songs_of_anger__lullabies) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/eRMyYiNARYWMoMurDAa.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/t6l4p8jc.7z) |

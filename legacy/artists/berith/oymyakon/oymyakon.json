@@ -1,0 +1,27 @@
+{
+  "id": "oymyakon",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "OYMYAKON",
+    "artist": "Berith",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "1:27",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768760826_oymyakon"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mhcwyeg1.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0pj6ek.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/YfXWEzRMVhijKswpIod.7z"
+    }
+  }
+}

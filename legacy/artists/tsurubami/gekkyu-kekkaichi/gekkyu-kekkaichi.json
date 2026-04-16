@@ -1,0 +1,27 @@
+{
+  "id": "gekkyu-kekkaichi",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Gekkyu Kekkaichi 月球結界地",
+    "artist": "Tsurubami",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_human": "1:00:52",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765161932_gekkyu_kekkaichi______"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/llpz3fkg.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/khqs71.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/zVKTnHzpZGPOVftvokQx.7z"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "004-tender-rose-the-great-devourer",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "004. Tender Rose, the Great Devourer.",
+    "artist": "Piranesi.",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747932269_piranesi__-_004__tender_rose-_the_great_devourer"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/BUlJBAkLaDMkcbAqxqjx.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jhtqvm.7z"
+    },
+    "piranesiproject_bandcamp_com": {
+      "url": "https://piranesiproject.bandcamp.com/album/004-tender-rose-the-great-devourer"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/kyd7tig.7z"
+    }
+  }
+}

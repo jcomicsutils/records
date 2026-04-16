@@ -1,0 +1,24 @@
+{
+  "id": "cat-last-mandala",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Cat Last [MANDALAキ・『やっと』]",
+    "artist": "Vajra",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "39:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764537643_cat_last__mandala________"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/VqfSNrasuCJcQcZwbqRg.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rv0oy.7z"
+    }
+  }
+}

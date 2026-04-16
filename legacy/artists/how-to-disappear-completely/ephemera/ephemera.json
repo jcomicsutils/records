@@ -1,0 +1,27 @@
+{
+  "id": "ephemera",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ephemera",
+    "artist": "How To Disappear Completely",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "17:43",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759951033_ephemera"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/YEOMlhibDpLhkNjvpMxh.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/d4k32c.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/n0wp2jyr.7z"
+    }
+  }
+}

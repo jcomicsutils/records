@@ -1,0 +1,18 @@
+# Gealdýr — Druí
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | 44.1kHz |
+| Tracks | 1 |
+| Duration | 5:26 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/1760900398_dru_)
+- [Fileditch](https://fileditchfiles.me/file.php?f=/s24/WDTuvQaoLieTjWmvcXZ.7z)
+- [Catbox](https://files.catbox.moe/ofcnhl.7z)
+- [Pomf2 Lain La](https://pomf2.lain.la/f/jf4xn0e.7z)
+
+---
+*Legacy Archive*

@@ -1,0 +1,24 @@
+{
+  "id": "hell",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hell",
+    "artist": "Hell",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "49:51",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763927831_hell"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/DRSMtGotAJTlnYXgHAl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/r6jrw418.7z"
+    }
+  }
+}

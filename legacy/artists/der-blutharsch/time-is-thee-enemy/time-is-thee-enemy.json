@@ -1,0 +1,24 @@
+{
+  "id": "time-is-thee-enemy",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Time Is Thee Enemy!",
+    "artist": "Der Blutharsch",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_human": "40:40",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759970072_time_is_thee_enemy_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/zTTvvSwBIJqlhtYLyqDZ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vdnl4h1f.7z"
+    }
+  }
+}

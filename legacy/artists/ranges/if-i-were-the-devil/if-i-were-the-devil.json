@@ -1,0 +1,27 @@
+{
+  "id": "if-i-were-the-devil",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "If I Were the Devil",
+    "artist": "Ranges",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:54",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759625491_if_i_were_the_devil"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ifINKIQAtnAqDRPBMlaD.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/4bufbp.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ozlkjgm8.7z"
+    }
+  }
+}

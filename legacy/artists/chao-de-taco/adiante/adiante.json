@@ -1,0 +1,27 @@
+{
+  "id": "adiante",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Adiante",
+    "artist": "Chão de Taco",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758154399_adiante"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/bVOHOhpyzgVqgDsOrpQv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5x4jpj.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nww6qo9o.7z"
+    }
+  }
+}

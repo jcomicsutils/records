@@ -1,0 +1,27 @@
+{
+  "id": "rust",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Rust",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "21:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760910722_rust"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/JjIFrxhUBOTNZCIGfpix.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/edbz8v.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ufrm76av.7z"
+    }
+  }
+}

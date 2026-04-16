@@ -1,0 +1,27 @@
+{
+  "id": "the-fun-of-it",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Fun Of It",
+    "artist": "Public Service Broadcasting",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "11:08",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761513868_the_fun_of_it"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/mQFnCGMHZIfqntNRNsT.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/p38jdu.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2udptv2z.7z"
+    }
+  }
+}

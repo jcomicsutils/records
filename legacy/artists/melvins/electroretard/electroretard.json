@@ -1,0 +1,24 @@
+{
+  "id": "electroretard",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Electroretard",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "42:21",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769308821_electroretard"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1psf73jd.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/PDvXIVNnsPSkBFEdTjfR.7z"
+    }
+  }
+}

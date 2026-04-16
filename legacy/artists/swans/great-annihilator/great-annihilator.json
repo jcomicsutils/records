@@ -1,0 +1,24 @@
+{
+  "id": "great-annihilator",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Great Annihilator",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_human": "1:13:51",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760111006_great_annihilator"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/uJcTsIqDTdhsZkVUyXKh.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/t35hs8r7.7z"
+    }
+  }
+}

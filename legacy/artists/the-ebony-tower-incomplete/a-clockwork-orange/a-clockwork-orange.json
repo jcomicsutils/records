@@ -1,0 +1,21 @@
+{
+  "id": "a-clockwork-orange",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Clockwork Orange",
+    "artist": "The Ebony Tower (incomplete)",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752202296_a_clockwork_orange"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b55/wgSBDtHAjeobyuuxFoKq.7z"
+    }
+  }
+}

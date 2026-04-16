@@ -1,0 +1,27 @@
+{
+  "id": "the-track-of-the-hunted",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Track of the Hunted",
+    "artist": "Der Blutharsch",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "40:25",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759969109_the_track_of_the_hunted"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/BdeBLRUfYOMSBkGMXzVb.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wbccxe.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4ccgik9.7z"
+    }
+  }
+}

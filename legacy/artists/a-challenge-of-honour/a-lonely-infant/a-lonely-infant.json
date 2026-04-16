@@ -1,0 +1,27 @@
+{
+  "id": "a-lonely-infant",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Lonely Infant",
+    "artist": "A Challenge Of Honour",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "6:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760892607_a_lonely_infant"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/WOqGzbgLtMJrgSSu.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/u9hben.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/85fchai7.7z"
+    }
+  }
+}

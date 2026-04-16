@@ -1,0 +1,24 @@
+{
+  "id": "songs-of-faith-and-devotion-live",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Songs Of Faith And Devotion Live",
+    "artist": "Depeche Mode",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746210610_depeche_mode_-_songs_of_faith_and_devotion_live__1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/VOusJmhufuxbFFxwAJO.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/td7hho8.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "belaya-polosa-remixes",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Belaya Polosa Remixes",
+    "artist": "Molchat Doma",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "45:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760400518_belaya_polosa_remixes"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/JvDVBIKzGTUPQpZaDNKg.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/w0f2wbgk.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "neu-72-non-public-test",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "NEU! '72 Non-Public Test",
+    "artist": "NEU!",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752310373_neu___72_non-public_test"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/PKDmzuNfUSroGQiOukWf.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5ftx7n.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mhku635g.7z"
+    }
+  }
+}

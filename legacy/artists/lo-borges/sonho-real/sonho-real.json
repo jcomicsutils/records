@@ -1,0 +1,24 @@
+{
+  "id": "sonho-real",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sonho Real",
+    "artist": "Lô Borges",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "32:48",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763915032_sonho_real"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/cBqothSDRgBCTfZoSxSe.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/i8ob77m.7z"
+    }
+  }
+}

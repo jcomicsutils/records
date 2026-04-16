@@ -1,0 +1,24 @@
+{
+  "id": "yuraku",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Yuraku [愉楽]",
+    "artist": "Seiko [精魂]",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "1:06:04",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764541979_yuraku_____"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ZJzdRZxahCWARJQOmxcz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xihn62k7.7z"
+    }
+  }
+}

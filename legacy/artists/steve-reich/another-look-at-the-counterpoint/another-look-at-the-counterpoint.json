@@ -1,0 +1,27 @@
+{
+  "id": "another-look-at-the-counterpoint",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Another Look At the Counterpoint",
+    "artist": "Steve Reich",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1755995952_another_look_at_the_counterpoint"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/YCaHKGKVnpTQUssvnJG.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/tge46n.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/boorrffv.7z"
+    }
+  }
+}

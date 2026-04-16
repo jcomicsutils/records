@@ -1,0 +1,27 @@
+{
+  "id": "i-want-to-mix-mine",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "I want to mix mine",
+    "artist": "Sorry About My Face",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "11:15",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760487797_i_want_to_mix_mine"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/tQgjkPajWPUtQcxLpehZ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/isy51l.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qetdzu7q.7z"
+    }
+  }
+}

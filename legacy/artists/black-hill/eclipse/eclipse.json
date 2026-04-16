@@ -1,0 +1,27 @@
+{
+  "id": "eclipse",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Eclipse",
+    "artist": "Black Hill",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "16:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760743118_eclipse"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/qrFXGawGLFXRtFpQZxsp.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2jogys.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/whu765ci.7z"
+    }
+  }
+}

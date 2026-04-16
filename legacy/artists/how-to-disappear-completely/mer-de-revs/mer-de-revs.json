@@ -1,0 +1,24 @@
+{
+  "id": "mer-de-revs",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Mer de Revs",
+    "artist": "How To Disappear Completely",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "1:22:40",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759954654_mer_de_revs"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/DPkCevleevkFOwmYvUKe.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8kxp239l.7z"
+    }
+  }
+}

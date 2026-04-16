@@ -1,0 +1,27 @@
+{
+  "id": "unyielding-wetware",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Unyielding Wetware",
+    "artist": "bod [包家巷]",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "5:32",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766788595_unyielding_wetware"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zv59mfpn.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0q8t9u.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/SWSgDOtNVwOizmRVCqt.7z"
+    }
+  }
+}

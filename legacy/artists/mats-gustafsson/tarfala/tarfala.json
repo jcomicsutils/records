@@ -1,0 +1,24 @@
+{
+  "id": "tarfala",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Tarfala",
+    "artist": "Mats Gustafsson",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1753671517_tarfala"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b56/NRXacirrPJGMZNGoAztl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9oh0rfyg.7z"
+    }
+  }
+}

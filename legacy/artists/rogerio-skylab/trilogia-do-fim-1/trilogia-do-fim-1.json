@@ -1,0 +1,24 @@
+{
+  "id": "trilogia-do-fim-1",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Trilogia do Fim 1",
+    "artist": "Rogério Skylab",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757622254_trilogia_do_fim_1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SFbCZOFVWGbijRpaQWfb.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3zjr0x4t.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "switches",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Switches",
+    "artist": "Aaron Dilloway",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "37:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763743866_switches"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/XzGrLySTCLIeXHwTCsHU.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bvxezso5.7z"
+    }
+  }
+}

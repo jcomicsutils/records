@@ -1,0 +1,24 @@
+{
+  "id": "live-in-pittsburgh-1970",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live in Pittsburgh 1970",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_human": "1:19:48",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760716139_live_in_pittsburgh_1970"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/RsgneviHPthWmRrvsmYw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qfmjkzhs.7z"
+    }
+  }
+}

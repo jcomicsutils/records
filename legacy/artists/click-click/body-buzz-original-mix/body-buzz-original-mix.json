@@ -1,0 +1,27 @@
+{
+  "id": "body-buzz-original-mix",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Body Buzz (Original Mix)",
+    "artist": "Click Click",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "24:21",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760743006_body_buzz__original_mix_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/xbArJWTerNzLZtVxCg.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/nbewns.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/oacobd1s.7z"
+    }
+  }
+}

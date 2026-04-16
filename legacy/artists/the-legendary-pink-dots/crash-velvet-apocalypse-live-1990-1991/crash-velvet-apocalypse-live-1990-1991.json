@@ -1,0 +1,24 @@
+{
+  "id": "crash-velvet-apocalypse-live-1990-1991",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Crash Velvet Apocalypse (Live 1990-1991)",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_human": "2:17:50",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760283709_crash_velvet_apocalypse__live_1990-1991_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/TEOjYFtaElsiTswTOiYc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9uw7tdwu.7z"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+# Hell
+
+
+| Album | Codec | Duration | Hosts |
+|-------|-------|----------|-------|
+| [Alluvion](alluvion/alluvion.md) | FLAC | 39:57 | [IA](https://archive.org/details/1763925185_alluvion) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/ZxugYgQOGtIPDROkhuc.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/3dwdqjmn.7z) |
+| [Amarok / Hell](amarok-hell/amarok-hell.md) | FLAC | 39:21 | [IA](https://archive.org/details/1763927167_amarok_-_hell) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/qXCityRxjUODOPqtOlHV.7z) [Catbox](https://files.catbox.moe/rowfhc.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/3k11u815.7z) |
+| [Hell](hell/hell.md) | FLAC | 49:51 | [IA](https://archive.org/details/1763927831_hell) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/DRSMtGotAJTlnYXgHAl.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/r6jrw418.7z) |
+| [Hell / Ancestortooth](hell-ancestortooth/hell-ancestortooth.md) | MP3 | 38:37 | [IA](https://archive.org/details/1763930227_hell_-_ancestortooth) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/vbSScEsxZzPleDgeysVk.7z) [Catbox](https://files.catbox.moe/vao19m.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/hk5jje.7z) |
+| [Hell / Mizmor](hell-mizmor/hell-mizmor.md) | FLAC | 30:13 | [IA](https://archive.org/details/1763930497_hell_-_mizmor) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/CsguQxmXuAEmOKAWBBDq.7z) [Catbox](https://files.catbox.moe/bt9qdi.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/8js7lo36.7z) |
+| [Hell I](hell-i/hell-i.md) | FLAC | 48:15 | [IA](https://archive.org/details/1763931221_hell_i) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/BCsrxtPMXhOaJEwTQoQ.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/04pr1wuq.7z) |
+| [Hell II](hell-ii/hell-ii.md) | FLAC | 57:13 | [IA](https://archive.org/details/1763932501_hell_ii) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/jSpiuDjTHGLGhBXSNZHL.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/hdze4f5j.7z) |
+| [Hell III](hell-iii/hell-iii.md) | FLAC | 38:55 | [IA](https://archive.org/details/1763933617_hell_iii) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/bYuldNMTllMMRCKamanm.7z) [Catbox](https://files.catbox.moe/sveenu.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/em1be6jv.7z) |
+| [Live at Roadburn 2018](live-at-roadburn-2018/live-at-roadburn-2018.md) | FLAC | 56:23 | [IA](https://archive.org/details/1763934086_live_at_roadburn_2018) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/ScazMnxoWaLlVxVkfwN.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/amfnev8z.7z) |
+| [Primitive Man / Hell](primitive-man-hell/primitive-man-hell.md) | FLAC | 22:25 | [IA](https://archive.org/details/1763935272_primitive_man_-_hell) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/FlYvLaxsFOecPXGuiTXr.7z) [Catbox](https://files.catbox.moe/afv2cz.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/qd6n637.7z) |
+| [Resurrection Bay](resurrection-bay/resurrection-bay.md) | FLAC | 11:51 | [IA](https://archive.org/details/1763935768_resurrection_bay) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/puLTaedHVeYARYQHlHX.7z) [Catbox](https://files.catbox.moe/o843mu.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/1b3ykfw.7z) |
+| [Sheol](sheol/sheol.md) | MP3 | 1:22:31 | [IA](https://archive.org/details/1763936030_sheol) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/gOXacJzhtAwLdtshotx.7z) [Catbox](https://files.catbox.moe/1hee5s.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/4tgbfv4.7z) |
+| [Submersus](submersus/submersus.md) | FLAC | 41:09 | [IA](https://archive.org/details/1763936568_submersus) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/nLYJlsvaMLOAShwTBMCF.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/j1i3xlm.7z) |

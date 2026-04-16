@@ -1,0 +1,24 @@
+{
+  "id": "diving-wounds",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Diving Wounds",
+    "artist": "Virginia Aveline",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "31:34",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759946422_diving_wounds"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/lnkmgHbiGrHCpeVEel.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/br1e9ia.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "decent-upbeat-news",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Decent Upbeat News",
+    "artist": "Gdansk",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1748017895_decent_upbeat_news"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/JNMYanaTnIhklzyEMykF.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/1guf14.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/obk69exu.7z"
+    }
+  }
+}

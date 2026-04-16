@@ -1,0 +1,24 @@
+{
+  "id": "with-teeth-bonus-tracks",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "With Teeth (Bonus Tracks)",
+    "artist": "Nine Inch Nails",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_human": "1:04:26",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761437995_with_teeth__bonus_tracks_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ZlxDKkgPlqaaSiErARs.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/40nr4jqp.7z"
+    }
+  }
+}

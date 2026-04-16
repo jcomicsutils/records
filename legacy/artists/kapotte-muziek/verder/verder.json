@@ -1,0 +1,24 @@
+{
+  "id": "verder",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Verder",
+    "artist": "Kapotte Muziek",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "53:16",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761257859_verder"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/qBcBmnlsQKiERFLinMfv.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nyajfq17.7z"
+    }
+  }
+}

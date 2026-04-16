@@ -1,0 +1,27 @@
+{
+  "id": "rainbows-end",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Rainbow's End",
+    "artist": "Amanda Palmer",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "7:10",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763750911_rainbow_s_end"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/mcqoiOaVCdHbvBSETFZQ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/o77h5u.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/v9cxqhsr.7z"
+    }
+  }
+}

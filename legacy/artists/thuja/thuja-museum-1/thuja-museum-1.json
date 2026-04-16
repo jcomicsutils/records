@@ -1,0 +1,27 @@
+{
+  "id": "thuja-museum-1",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Thuja Museum #1",
+    "artist": "Thuja",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_human": "20:03",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769915153_thuja_museum__1"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jh2zd1s.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0io10x.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/ysRvDjLOoVWKwOaFRyUv.7z"
+    }
+  }
+}

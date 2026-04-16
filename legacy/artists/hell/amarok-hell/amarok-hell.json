@@ -1,0 +1,27 @@
+{
+  "id": "amarok-hell",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Amarok / Hell",
+    "artist": "Hell",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "39:21",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763927167_amarok_-_hell"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/qXCityRxjUODOPqtOlHV.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/rowfhc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3k11u815.7z"
+    }
+  }
+}

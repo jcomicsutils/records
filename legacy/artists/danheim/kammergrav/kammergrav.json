@@ -1,0 +1,27 @@
+{
+  "id": "kammergrav",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Kammergrav",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760752109_kammergrav"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/cOjIhnDDwtRfqPsxgarr.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/02p6fv.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jly31dlf.7z"
+    }
+  }
+}

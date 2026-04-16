@@ -1,0 +1,27 @@
+{
+  "id": "turning",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Turning",
+    "artist": "Steven R. Smith",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "17:33",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769920380_turning"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3eeabwse.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/x4is2q.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/vrsxLjNWITZgvYfHMetg.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "new-joy",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "New Joy",
+    "artist": "Slauson Malone 1",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759033579_new_joy"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/lSKNgCaWmEHXNYlKfkSK.zip"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/q1ksbx.zip"
+    }
+  }
+}

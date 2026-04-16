@@ -1,0 +1,27 @@
+{
+  "id": "the-soul-of-a-mountain-wolf",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Soul of a Mountain Wolf",
+    "artist": "Acid Mothers Temple & The Pink Ladies Blues",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_human": "19:47",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765149136_the_soul_of_a_mountain_wolf"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1j17360i.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ns612e.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/VuYaZpvecoPquLTbAPS.7z"
+    }
+  }
+}

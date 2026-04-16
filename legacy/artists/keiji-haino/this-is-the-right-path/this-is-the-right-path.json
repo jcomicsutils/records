@@ -1,0 +1,24 @@
+{
+  "id": "this-is-the-right-path",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "This is the Right Path [这条路是正确的]",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "1:13:33",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764797532_this_is_the_right_path__________"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/heuhfkps.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/KVGnJIlRFRcfoAqzoXZx.7z"
+    }
+  }
+}

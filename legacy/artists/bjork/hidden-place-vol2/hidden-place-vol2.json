@@ -1,0 +1,27 @@
+{
+  "id": "hidden-place-vol2",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hidden Place (Vol.2)",
+    "artist": "Björk",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756868953_hidden_place__vol_2_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ZJmSKeKWQCufZuklaiBW.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/yao1cx.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/q4lbfw1r.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "the-growing-surface",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Growing Surface",
+    "artist": "Steven R. Smith",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "24:48",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769919526_the_growing_surface"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/owso76d.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/qVvSNPNPwBuaCipoqGA.7z"
+    }
+  }
+}

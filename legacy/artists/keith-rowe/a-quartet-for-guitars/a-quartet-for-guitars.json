@@ -1,0 +1,27 @@
+{
+  "id": "a-quartet-for-guitars",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Quartet For Guitars",
+    "artist": "Keith Rowe",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1755378833_a_quartet_for_guitars"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/luWRhHjeHmeACtvdZVKv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/kgstgt.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nrib3a0.7z"
+    }
+  }
+}

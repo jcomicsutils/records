@@ -1,0 +1,27 @@
+{
+  "id": "the-colours",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Colours",
+    "artist": "Sopor Aeternus & The Ensemble of Shadows",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "18:22",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761587431_the_colours"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ecJhrHQMhPYnmzOxPfx.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/93wh4l.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zf1mt54x.7z"
+    }
+  }
+}

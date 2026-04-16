@@ -1,0 +1,27 @@
+{
+  "id": "warpath",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Warpath",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "39:21",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764491596_warpath"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/YNxKhtxxKUXgApeKtoPv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/dy1i91.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ar96w9zn.7z"
+    }
+  }
+}

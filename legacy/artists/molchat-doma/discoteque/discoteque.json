@@ -1,0 +1,27 @@
+{
+  "id": "discoteque",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Дискотека / Discoteque",
+    "artist": "Molchat Doma",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:04",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760469815___________-_discoteque"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/mhkmOQuzrxvqFGyGTKmi.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/c9990s.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/c0ifssho.7z"
+    }
+  }
+}

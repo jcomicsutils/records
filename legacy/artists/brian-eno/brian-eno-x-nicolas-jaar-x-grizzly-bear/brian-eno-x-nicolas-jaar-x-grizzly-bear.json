@@ -1,0 +1,27 @@
+{
+  "id": "brian-eno-x-nicolas-jaar-x-grizzly-bear",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Brian Eno x Nicolas Jaar x Grizzly Bear",
+    "artist": "Brian Eno",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756331276_brian_eno_x_nicolas_jaar_x_grizzly_bear"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/qlSyJrkRPTrZRnzCxLQC.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/c9s256.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/s6a0ooi1.7z"
+    }
+  }
+}

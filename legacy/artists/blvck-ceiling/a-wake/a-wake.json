@@ -1,0 +1,27 @@
+{
+  "id": "a-wake",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A WAKE",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:24",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760895387_a_wake"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/uSxcfHJnFWTWRbTaEDOd.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/uhvfap.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/97g533x7.7z"
+    }
+  }
+}

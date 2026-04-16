@@ -1,0 +1,27 @@
+{
+  "id": "the-story-of-es-reiten-die-toten-so-schnell",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Story Of 'Es reiten die Toten so schnell'",
+    "artist": "Sopor Aeternus & The Ensemble of Shadows",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "26:20",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761592802_the_story_of__es_reiten_die_toten_so_schnell_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/pCgiXRACPahBrhibdRWj.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/pvp1wi.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0jyng7o.7z"
+    }
+  }
+}

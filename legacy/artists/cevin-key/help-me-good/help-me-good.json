@@ -1,0 +1,27 @@
+{
+  "id": "help-me-good",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Help Me Good",
+    "artist": "cEvin Key",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:20",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760281642_help_me_good"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/JzKmpmilqSuVLqZhuZt.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/uoztx1.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/l59ppwd6.7z"
+    }
+  }
+}

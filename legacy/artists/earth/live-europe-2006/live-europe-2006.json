@@ -1,0 +1,27 @@
+{
+  "id": "live-europe-2006",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live Europe 2006",
+    "artist": "Earth",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_human": "59:53",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763924134_live_europe_2006"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PeXYooWhIovlZtqtPhsq.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/3lrpqt.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/isl90pem.7z"
+    }
+  }
+}

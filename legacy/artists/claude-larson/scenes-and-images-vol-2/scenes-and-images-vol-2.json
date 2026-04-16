@@ -1,0 +1,24 @@
+{
+  "id": "scenes-and-images-vol-2",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Scenes and Images, Vol. 2",
+    "artist": "Claude Larson",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_human": "37:18",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759782215_scenes_and_images__vol__2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/eSAzwqyeGjzBdiChnTg.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6alc9slh.7z"
+    }
+  }
+}

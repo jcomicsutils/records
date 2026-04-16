@@ -1,0 +1,24 @@
+{
+  "id": "joy-meditation-soundtrack",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Joy  (Meditation Soundtrack)",
+    "artist": "Alexander Hacke",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "1:07:36",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760392865_joy__meditation_soundtrack_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/rvPwhnJNVQzNhUoMoMl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/55keohm.7z"
+    }
+  }
+}

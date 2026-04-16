@@ -1,0 +1,21 @@
+{
+  "id": "trouble-the-water",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Trouble The Water",
+    "artist": "Show Me the Body",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759017693_trouble_the_water"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/sszVmZYmaCavVAQIBfYG.zip"
+    }
+  }
+}

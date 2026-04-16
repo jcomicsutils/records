@@ -1,0 +1,24 @@
+{
+  "id": "ultratronics-15",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "ultratronics 15",
+    "artist": "Ryoji Ikeda",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759082210_ultratronics_15"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/gzgVCoAgnVooheCadSWz.zip"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/j58lbn.zip"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "extra-volume-1",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "EXTRA Volume 1",
+    "artist": "KMFDM",
+    "codec": "FLAC",
+    "num_tracks": 27,
+    "duration_human": "2:18:48",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761160369_extra_volume_1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/HKBNXmLDJCMeEZlOWtN.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/f85zgkla.7z"
+    }
+  }
+}

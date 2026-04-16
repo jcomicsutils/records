@@ -1,0 +1,24 @@
+{
+  "id": "live-at-mohawk-austin-texas-26-07-2016",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at Mohawk, Austin, Texas (26-07-2016)",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_human": "1:30:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764473788_live_at_mohawk__austin__texas__26-07-2016_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/PkgZRNPHMURvBKvsiUhU.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/42nayhd.7z"
+    }
+  }
+}

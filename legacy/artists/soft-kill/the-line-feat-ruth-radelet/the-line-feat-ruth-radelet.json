@@ -1,0 +1,27 @@
+{
+  "id": "the-line-feat-ruth-radelet",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Line (feat. Ruth Radelet)",
+    "artist": "Soft Kill",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760040902_the_line__feat__ruth_radelet_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/mFEimwqvTkOYeZCqtuzM.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jkcl9i.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3p5m0nbf.7z"
+    }
+  }
+}

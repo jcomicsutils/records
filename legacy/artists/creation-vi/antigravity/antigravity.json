@@ -1,0 +1,27 @@
+{
+  "id": "antigravity",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Antigravity",
+    "artist": "Creation VI",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "36:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760742450_antigravity"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/WvmojkAfBxloEGPPCYu.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/c6by7s.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0jw8njfy.7z"
+    }
+  }
+}

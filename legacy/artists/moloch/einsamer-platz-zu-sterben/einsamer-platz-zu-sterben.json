@@ -1,0 +1,27 @@
+{
+  "id": "einsamer-platz-zu-sterben",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Einsamer Platz zu sterben",
+    "artist": "Moloch",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "19:52",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761317689_einsamer_platz_zu_sterben"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/FOGNLEFCPFIrTdiIijfa.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/i4hwy4.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6vnyf1u1.7z"
+    }
+  }
+}

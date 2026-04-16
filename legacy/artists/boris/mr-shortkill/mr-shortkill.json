@@ -1,0 +1,24 @@
+{
+  "id": "mr-shortkill",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Mr. Shortkill",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "19:30",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764494496_mr__shortkill"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/UIsUglStVUxCMnVITSMR.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ffxcwll6.7z"
+    }
+  }
+}

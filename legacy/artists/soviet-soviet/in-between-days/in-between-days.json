@@ -1,0 +1,27 @@
+{
+  "id": "in-between-days",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "In Between Days",
+    "artist": "Soviet Soviet",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:44",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761512121_in_between_days"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/zQelpwuKvhJslOKHXrM.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5g83fa.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fybh9j7q.7z"
+    }
+  }
+}

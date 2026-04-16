@@ -1,0 +1,27 @@
+{
+  "id": "oto-t32",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "(oTo) T32",
+    "artist": "(oTo)",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746076183_oto_t32___paradise_camp_23"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/RrHEgBcdCILJHEDhmGDs.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/b2nd95.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nsyhk548.7z"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "live-in-boston-1970",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live in Boston 1970",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 46,
+    "duration_human": "3:04:38",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760558214_live_in_boston_1970"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/SVIlMqnabCIOJLhFBrIA.7z"
+    }
+  }
+}

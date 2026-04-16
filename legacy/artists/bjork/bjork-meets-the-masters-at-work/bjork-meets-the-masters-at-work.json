@@ -1,0 +1,27 @@
+{
+  "id": "bjork-meets-the-masters-at-work",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Björk Meets The Masters At Work",
+    "artist": "Björk",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757002431_bj_rk_meets_the_masters_at_work"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/siCFSPquWPjAhVjLFViY.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gb8jxi.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/eum5r14h.7z"
+    }
+  }
+}

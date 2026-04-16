@@ -1,0 +1,24 @@
+{
+  "id": "musica-p-acampamentos",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Música P/ Acampamentos",
+    "artist": "Legião Urbana",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746666867_legi_o_urbana_-_1992_-_m_sica_p_acampamentos"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b54/CXHGNEWwJodsiUwChiIM.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/15a8zavb.7z"
+    }
+  }
+}

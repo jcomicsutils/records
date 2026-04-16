@@ -1,0 +1,27 @@
+{
+  "id": "blue-studies-for-tom-smith",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Blue Studies (For Tom Smith)",
+    "artist": "Aaron Dilloway",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:15",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763737142_blue_studies__for_tom_smith_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LQpBMCyJbrezPCUibNMQ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/zu7u3c.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/endglbu1.7z"
+    }
+  }
+}

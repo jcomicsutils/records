@@ -1,0 +1,27 @@
+{
+  "id": "angel",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Angel",
+    "artist": "Massive Attack",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "32:21",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759950317_angel"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/HXPBYvcVcotBdAcgavsN.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2skc6r.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6i1yfzmr.7z"
+    }
+  }
+}

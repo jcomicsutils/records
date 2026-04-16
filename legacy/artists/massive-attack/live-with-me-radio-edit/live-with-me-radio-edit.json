@@ -1,0 +1,27 @@
+{
+  "id": "live-with-me-radio-edit",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live With Me (Radio Edit)",
+    "artist": "Massive Attack",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:02",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760060406_live_with_me__radio_edit_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/TtqXqKaERJfCOKRLStJu.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/y0clpx.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/r23m6oq.7z"
+    }
+  }
+}

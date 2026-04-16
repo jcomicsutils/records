@@ -1,0 +1,24 @@
+{
+  "id": "rituals",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Rituals",
+    "artist": "Goreshit",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "33:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760489728_rituals"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/acGqoYSPXOTXMluDYV.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8fc4mrlo.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "mother-of-all-trees",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Mother of all Trees",
+    "artist": "Black Hill",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "36:02",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760743832_mother_of_all_trees"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/bvPNyVicQntQPmieZoUx.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8eg973.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rd387v0j.7z"
+    }
+  }
+}

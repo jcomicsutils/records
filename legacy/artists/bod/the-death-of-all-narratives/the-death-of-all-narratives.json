@@ -1,0 +1,27 @@
+{
+  "id": "the-death-of-all-narratives",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "the death of all narratives",
+    "artist": "bod [包家巷]",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "8:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766786355_the_death_of_all_narratives"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/f1b4829b.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/izq1n8.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/cUfRMZwIkuXHYJyzqTH.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "highbury-garage-london-uk-oct-1997",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Highbury Garage, London, UK, Oct 1997",
+    "artist": "Stars of the Lid",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754834036_highbury_garage__london__uk__oct_1997"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/GURewPFzBavUtpNRgUwG.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/c2po01.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/64fdl8kf.7z"
+    }
+  }
+}

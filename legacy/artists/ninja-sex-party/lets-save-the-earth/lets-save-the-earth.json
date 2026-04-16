@@ -1,0 +1,27 @@
+{
+  "id": "lets-save-the-earth",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Let's Save The Earth",
+    "artist": "Ninja Sex Party",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:33",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761345824_let_s_save_the_earth"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LClGyasXTMDtSlWDohkq.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0w0z10.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/isteivba.7z"
+    }
+  }
+}

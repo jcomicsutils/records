@@ -1,0 +1,27 @@
+{
+  "id": "embrace-the-rub",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Embrace the Rub",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "1:40",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769309855_embrace_the_rub"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1li69rhg.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0wel2t.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/dfrwuzYiwZvxPVktDBdj.7z"
+    }
+  }
+}

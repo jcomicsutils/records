@@ -1,0 +1,24 @@
+{
+  "id": "runaljod-gap-var-ginnunga",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Runaljod – gap var Ginnunga",
+    "artist": "Wardruna",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "51:57",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761598870_runaljod___gap_var_ginnunga"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/RGhqMvkvAdyrHwgsVaVq.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/j25xv3zh.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "until-one-overlaps-with-the-other",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Until One Overlaps With the Other [一と一が重なってしまうまで]",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "1:15:36",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764804721_until_one_overlaps_with_the_other________________"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/h3mvo684.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b65/JYBNLgMHwdWJqvjsOTD.7z"
+    }
+  }
+}

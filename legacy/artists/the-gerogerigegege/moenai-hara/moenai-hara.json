@@ -1,0 +1,27 @@
+{
+  "id": "moenai-hara",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Moenai Hara [燃えない腹]",
+    "artist": "The Gerogerigegege [ザ・ゲロゲリゲゲゲ]",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752407690_moenai_hara________"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/MxLVUYrPxibCKmeKIXl.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/lkzrrv.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/yq6mxtxn.7z"
+    }
+  }
+}

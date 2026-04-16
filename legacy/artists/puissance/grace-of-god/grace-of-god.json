@@ -1,0 +1,24 @@
+{
+  "id": "grace-of-god",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Grace of God",
+    "artist": "Puissance",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "42:21",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761488473_grace_of_god"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PPtwoMFhHKvTEVNMvyWQ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/b1ziveqo.7z"
+    }
+  }
+}

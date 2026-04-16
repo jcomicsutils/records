@@ -1,0 +1,24 @@
+{
+  "id": "ap2",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ap2",
+    "artist": "Goreshit",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "50:45",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760489485_ap2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/uxUzBkyYaalLADyDmCvk.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/e59wfwfa.7z"
+    }
+  }
+}

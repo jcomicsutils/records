@@ -1,0 +1,24 @@
+{
+  "id": "american-nights-in-concert",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "American Nights - In Concert",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 31,
+    "duration_human": "2:20:38",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760473636_american_nights_-_in_concert"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/GPcDekEdXgIsaUGaeqUV.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9r6scwj2.7z"
+    }
+  }
+}

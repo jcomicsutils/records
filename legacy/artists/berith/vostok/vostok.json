@@ -1,0 +1,27 @@
+{
+  "id": "vostok",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "VOSTOK",
+    "artist": "Berith",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "6:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768761532_vostok"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/37kt2mt3.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/i0dt1m.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/cTRdMVLtZxlJNMmsTjp.7z"
+    }
+  }
+}

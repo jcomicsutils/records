@@ -1,0 +1,27 @@
+{
+  "id": "oto-t12",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "(oTo) T12",
+    "artist": "(oTo)",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746073660_oto_t12_-robert_warner"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/aoayFleNLHJxseZYXXtz.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2xpbqn.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2th2bgga.7z"
+    }
+  }
+}

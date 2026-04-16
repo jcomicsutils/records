@@ -1,0 +1,27 @@
+{
+  "id": "voce-vai-continuar-fazendo-musica",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Você Vai Continuar Fazendo Música?",
+    "artist": "Rogério Skylab",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757633346_voc__vai_continuar_fazendo_m_sica"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/dLvxbMYyGvdXGWVGUM.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ju3nwr.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vsrceu0y.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "the-devil-and-his-servants",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Devil and his Servants",
+    "artist": "A Challenge Of Honour",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "49:05",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760909253_the_devil_and_his_servants"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/sPEFudhHepNSyjGGa.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2so4jxvu.7z"
+    }
+  }
+}

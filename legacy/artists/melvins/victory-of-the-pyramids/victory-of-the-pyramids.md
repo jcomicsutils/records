@@ -1,0 +1,18 @@
+# Melvins — Victory of the Pyramids
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | 48.0kHz |
+| Tracks | 1 |
+| Duration | 9:36 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/1769314622_victory_of_the_pyramids)
+- [Pomf2 Lain La](https://pomf2.lain.la/f/zf9mdzcx.7z)
+- [Catbox](https://files.catbox.moe/p5lgkl.7z)
+- [Fileditch](https://fileditchfiles.me/file.php?f=/b71/UtbDOVixDZkigxqvEUcn.7z)
+
+---
+*Legacy Archive*

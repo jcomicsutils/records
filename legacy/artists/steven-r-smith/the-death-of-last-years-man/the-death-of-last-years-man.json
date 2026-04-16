@@ -1,0 +1,27 @@
+{
+  "id": "the-death-of-last-years-man",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Death of Last Year's Man",
+    "artist": "Steven R. Smith",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "14:56",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769919445_the_death_of_last_year_s_man"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/52x7r4o1.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/rjtn3w.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/aGXXECxqlRhOFJgcZPj.7z"
+    }
+  }
+}

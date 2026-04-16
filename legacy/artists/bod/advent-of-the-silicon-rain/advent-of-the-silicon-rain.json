@@ -1,0 +1,27 @@
+{
+  "id": "advent-of-the-silicon-rain",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Advent Of The Silicon Rain [硅雨来临]",
+    "artist": "bod [包家巷]",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_human": "28:58",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766766297_advent_of_the_silicon_rain_______"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/iotu5yf.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/03rg8n.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/udVDFGhfaQskclTtxzlC.7z"
+    }
+  }
+}

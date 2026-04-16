@@ -1,0 +1,21 @@
+{
+  "id": "violator-24bit-176khz-sacd-remaster",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Violator (24bit 176kHz SACD Remaster)",
+    "artist": "Depeche Mode",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1745867311_1990_-_violator__24bit_176khz_2006_sacd_remaster_f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b54/MkkqzSmmxGrlDrniUXS.7z"
+    }
+  }
+}

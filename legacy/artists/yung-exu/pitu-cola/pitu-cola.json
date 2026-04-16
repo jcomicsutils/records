@@ -1,0 +1,27 @@
+{
+  "id": "pitu-cola",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Pitu-Cola",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:01",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759623885_pitu-cola"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/UXpeMQgQvZcxsIWYHlIb.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8o7yby.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7u27r9gg.7z"
+    }
+  }
+}

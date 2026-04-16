@@ -1,0 +1,24 @@
+{
+  "id": "home-is-in-your-head",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Home Is in Your Head",
+    "artist": "His Name Is Alive",
+    "codec": "FLAC",
+    "num_tracks": 23,
+    "duration_human": "48:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761091943_home_is_in_your_head"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/pAGypPFXnTfkQwgXSZmB.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/eqktxtq2.7z"
+    }
+  }
+}

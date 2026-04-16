@@ -1,0 +1,27 @@
+{
+  "id": "the-long-afternoon-of-tabata",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Long Afternoon of Tabata",
+    "artist": "Mitsuru Tabata",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_human": "36:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765053116_the_long_afternoon_of_tabata"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6i7y1ep9.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0wpp4z.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/xBiuZKtEoIyiqTZIPuxw.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "little-island",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Little Island",
+    "artist": "Amanda Palmer",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "6:48",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763743817_little_island"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/yxWZsFmbPfvQkYxwEIGT.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/a463kr.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/orz2iwwa.7z"
+    }
+  }
+}

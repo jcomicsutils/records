@@ -1,0 +1,24 @@
+{
+  "id": "his-first-steps",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "His First Steps",
+    "artist": "Sand",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752347379_his_first_steps"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s21/uPktZJTDqZnCdapdyNXj.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bv5l5gp2.7z"
+    }
+  }
+}

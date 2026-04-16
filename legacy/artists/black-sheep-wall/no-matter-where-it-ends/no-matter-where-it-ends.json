@@ -1,0 +1,24 @@
+{
+  "id": "no-matter-where-it-ends",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "No Matter Where It Ends",
+    "artist": "Black Sheep Wall",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757904931_no_matter_where_it_ends"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/RgHybHbRfrpZwBLhIzU.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/coad7c7.7z"
+    }
+  }
+}

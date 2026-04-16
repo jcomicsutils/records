@@ -1,0 +1,27 @@
+{
+  "id": "saturday-night-dance-date",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Saturday-Night Dance Date",
+    "artist": "Sukora",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752360189_saturday-night_dance_date"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/FGPXyunbrTIFleJPVZCN.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jppn7l.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tt6br855.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "crt",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "CRT",
+    "artist": "Berith",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "1:33",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768758977_crt"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/014pl45b.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/341l6e.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/nXYQKYzNhfcqOUWLZWuU.7z"
+    }
+  }
+}

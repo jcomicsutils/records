@@ -1,0 +1,27 @@
+{
+  "id": "neni-cesty-zpet",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Není Cesty Zpět",
+    "artist": "Trist",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752466559_nen__cesty_zp_t"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/eZsKAgzCDycXYaORNKeK.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/1og70t.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2msk4axi.7z"
+    }
+  }
+}

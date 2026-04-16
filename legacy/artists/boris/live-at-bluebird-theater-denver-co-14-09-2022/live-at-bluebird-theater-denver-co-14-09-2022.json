@@ -1,0 +1,24 @@
+{
+  "id": "live-at-bluebird-theater-denver-co-14-09-2022",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at Bluebird Theater, Denver, CO (14-09-2022)",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_human": "1:23:04",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764498128_live_at_bluebird_theater__denver__co__14-09-2022_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/KlUrBESKrhWasXPNzZKK.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/v73hm85b.7z"
+    }
+  }
+}

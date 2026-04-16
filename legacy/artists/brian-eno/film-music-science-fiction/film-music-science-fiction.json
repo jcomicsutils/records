@@ -1,0 +1,27 @@
+{
+  "id": "film-music-science-fiction",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Film Music: Science / Fiction",
+    "artist": "Brian Eno",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756403052_film_music_science_-_fiction"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/RtcrefXuTlEmDIkvJjuJ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/u23of0.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0iyz60r0.7z"
+    }
+  }
+}

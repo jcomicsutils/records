@@ -1,0 +1,24 @@
+{
+  "id": "electronic-music-from-the-eighties-and-nineties",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Electronic Music from the Eighties and Nineties",
+    "artist": "Carl Stone",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756482959_electronic_music_from_the_eighties_and_nineties"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b57/hqOZjOOYuxWiGAcOOFV.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vm47v5ob.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "my-father-will-guide-me-up-a-rope-to-the-sky",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "My Father Will Guide Me Up a Rope to the Sky",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "44:16",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760061630_my_father_will_guide_me_up_a_rope_to_the_sky"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/aMSxvLuuXmYzCCOBdeQU.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zhcygjo.7z"
+    }
+  }
+}

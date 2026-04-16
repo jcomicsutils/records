@@ -1,0 +1,27 @@
+{
+  "id": "meijyoutansyou-part-1-6",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Meijyoutansyou Part 1-6 冥鄭蛋廠",
+    "artist": "Toho Sara",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_human": "48:58",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765161087_meijyoutansyou_part_1-6_____"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/o7nt9c29.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/6oc022.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/AwuWsmUdsOzwTMExkhTC.7z"
+    }
+  }
+}

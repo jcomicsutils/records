@@ -1,0 +1,27 @@
+{
+  "id": "live-stream-obscene-vol-1-3",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live Stream Obscene, Vol. 1-3",
+    "artist": "Melvins",
+    "codec": "MP3",
+    "num_tracks": 16,
+    "duration_human": "1:07:53",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769318069_live_stream_obscene__vol__1-3"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/i8uwc2ur.7z"
+    },
+    "": {
+      "url": ""
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/gogAvBHBdHKMuUIduoJ.7z"
+    }
+  }
+}

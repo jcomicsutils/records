@@ -1,0 +1,24 @@
+{
+  "id": "cathedral-engine",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Cathedral Engine",
+    "artist": "Psychic TV",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "58:48",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759683364_cathedral_engine"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MDYNLaKUjGlaPWNeIDZc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vtweqdfw.7z"
+    }
+  }
+}

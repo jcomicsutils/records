@@ -1,0 +1,24 @@
+{
+  "id": "our-time-will-come",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Our Time Will Come",
+    "artist": "KMFDM",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "48:27",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761157540_our_time_will_come"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/KaeCDJynqqmBDbNzqRD.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/5pbdry6.7z"
+    }
+  }
+}

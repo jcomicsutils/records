@@ -1,0 +1,27 @@
+{
+  "id": "039-nocturnal-industry",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "039. Nocturnal Industry.",
+    "artist": "Piranesi.",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747979470_piranesi__-_039__nocturnal_industry"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/wRMFmInWiRowznDeBuHE.7z"
+    },
+    "piranesiproject_bandcamp_com": {
+      "url": "https://piranesiproject.bandcamp.com/album/039-nocturnal-industry"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tqoxm9g3.7z"
+    }
+  }
+}

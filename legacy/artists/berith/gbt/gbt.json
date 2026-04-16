@@ -1,0 +1,27 @@
+{
+  "id": "gbt",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "G.B.T",
+    "artist": "Berith",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:16",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768759812_g_b_t"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/x7oe43li.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/85p5ll.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/gQmOtiDvqiPxEBcGdPFi.7z"
+    }
+  }
+}

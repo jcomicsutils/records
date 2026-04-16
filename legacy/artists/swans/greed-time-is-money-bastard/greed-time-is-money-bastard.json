@@ -1,0 +1,24 @@
+{
+  "id": "greed-time-is-money-bastard",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Greed / Time Is Money (Bastard)",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "48:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760118417_greed_-_time_is_money__bastard_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/shdoFzFNgFiWjJcNTkgY.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tt1sw9ul.7z"
+    }
+  }
+}

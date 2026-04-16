@@ -1,0 +1,27 @@
+{
+  "id": "the-fun-of-it-gus-alt-j-remix",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Fun Of It (Gus alt-J Remix)",
+    "artist": "Public Service Broadcasting",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:14",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761514369_the_fun_of_it__gus_alt-j_remix_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/lFbCsOXXfpPptUQunfUl.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vvf7a6.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/r3eukwan.7z"
+    }
+  }
+}

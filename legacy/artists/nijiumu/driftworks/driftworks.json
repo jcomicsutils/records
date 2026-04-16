@@ -1,0 +1,24 @@
+{
+  "id": "driftworks",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Driftworks",
+    "artist": "Nijiumu [滲有無]",
+    "codec": "FLAC",
+    "num_tracks": 22,
+    "duration_human": "3:31:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764523813_driftworks"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/pJFcqVqblzCWpqyXSeuN.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xivnc2z.7z"
+    }
+  }
+}

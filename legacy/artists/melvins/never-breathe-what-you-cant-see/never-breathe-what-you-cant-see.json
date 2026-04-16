@@ -1,0 +1,24 @@
+{
+  "id": "never-breathe-what-you-cant-see",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Never Breathe What You Can't See",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "40:15",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769305827_never_breathe_what_you_can_t_see"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7g16rbzu.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/qmYlEFesJwzLpIkrfrVl.7z"
+    }
+  }
+}

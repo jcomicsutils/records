@@ -1,0 +1,27 @@
+{
+  "id": "heilagr-domr",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Heilagr Domr",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:34",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760746904_heilagr_domr"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/tQFWZFHsfGsGRMFvEkL.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/h60hho.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ayzpdu37.7z"
+    }
+  }
+}

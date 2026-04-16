@@ -1,0 +1,27 @@
+{
+  "id": "caddy-daddy",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Caddy Daddy",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:25",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769307489_caddy_daddy"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/u2m1yzf.7z"
+    },
+    "": {
+      "url": ""
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/ESnISCTelRaucYkdhE.7z"
+    }
+  }
+}

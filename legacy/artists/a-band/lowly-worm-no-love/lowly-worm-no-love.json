@@ -1,0 +1,27 @@
+{
+  "id": "lowly-worm-no-love",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Lowly Worm / No Love",
+    "artist": "A Band",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746042248_lowly_worm_-_no_love"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/tAJWUaIPbRfmvrtWFJEC.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7q9hq7.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/u50f9gc.7z"
+    }
+  }
+}

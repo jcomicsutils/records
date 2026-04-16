@@ -1,0 +1,24 @@
+{
+  "id": "a-walk-with-love-and-death",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Walk With Love and Death",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 23,
+    "duration_human": "1:21:40",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769305178_a_walk_with_love_and_death"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gicrh3b.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/edbLKcmYYQumCcgSnTBL.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "con",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "CON",
+    "artist": "Stoned Jesus",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760497189_stoned_jesus_-_con"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/jSDxCpWOpkVngUsTjEhx.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/1prkhl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/o2esuzzd.7z"
+    }
+  }
+}

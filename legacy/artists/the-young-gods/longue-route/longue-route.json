@@ -1,0 +1,27 @@
+{
+  "id": "longue-route",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Longue Route",
+    "artist": "The Young Gods",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "13:03",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759670809_longue_route"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/prYAKTvyMvVJiHyfVFMF.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/4orzka.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/s4xdnar8.7z"
+    }
+  }
+}

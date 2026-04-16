@@ -1,0 +1,27 @@
+{
+  "id": "yuen-chee-wai-and-ryoko-ono-duo-newduo-series-009",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Yuen Chee Wai and Ryoko Ono DUO (NEWDUO series 009)",
+    "artist": "Ono Ryoko",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_human": "13:04",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764964559_yuen_chee_wai_and_ryoko_ono_duo__newduo_series_009"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/d72nug4v.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8rt0cu.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/UnjxDqRQwgHickAvBss.7z"
+    }
+  }
+}

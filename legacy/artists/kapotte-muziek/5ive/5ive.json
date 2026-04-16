@@ -1,0 +1,24 @@
+{
+  "id": "5ive",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "5ive",
+    "artist": "Kapotte Muziek",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "50:11",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761150868_5ive"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LhDhOqgLwcuflcFkvFsk.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/y7wz4qgz.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "1973-live-milky-way",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "天乃川 1973 Live - Milky Way",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "47:42",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764808222_____1973_live_-_milky_way"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/o15eng1o.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PxjJtVOYscwypyFFZag.7z"
+    }
+  }
+}

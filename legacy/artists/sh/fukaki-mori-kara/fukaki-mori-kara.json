@@ -1,0 +1,27 @@
+{
+  "id": "fukaki-mori-kara",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Fukaki Mori Kara [深き森から]",
+    "artist": "sh",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sh-fukaki-mori-kara"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/tzIEPfxEIRnMkqhBgGmz.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jpa38s.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0viytp0j.7z"
+    }
+  }
+}

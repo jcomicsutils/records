@@ -1,0 +1,27 @@
+{
+  "id": "project-fukushima-shiki-no-sato-fukushima-japan-2011-08-15",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Project Fukushima, Shiki no sato, Fukushima, Japan, 2011-08-15",
+    "artist": "Seijaku [静寂]",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_human": "47:25",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764536703_project_fukushima__shiki_no_sato__fukushima__japan"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/psGPTnDojxESsUaQuO.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/3e6pcs.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gv5s5jk9.7z"
+    }
+  }
+}

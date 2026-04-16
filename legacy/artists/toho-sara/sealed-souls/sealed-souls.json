@@ -1,0 +1,27 @@
+{
+  "id": "sealed-souls",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sealed Souls  魂の封印",
+    "artist": "Toho Sara",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_human": "36:40",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765161231_sealed_souls_____"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ch5cfr9q.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/9i9mnl.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ZRzEeLQejrAfoeHzasPn.7z"
+    }
+  }
+}

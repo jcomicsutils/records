@@ -1,0 +1,27 @@
+{
+  "id": "bttr-phil-gonzo-remix",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "BTTR (Phil Gonzo Remix)",
+    "artist": "Clan of Xymox",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:22",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "": {
+      "url": ""
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/1760992129_bttr__phil_gonzo_remix_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/iRWrBUcGWoJCDeJVrxej.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nndz9idk.7z"
+    }
+  }
+}

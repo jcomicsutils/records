@@ -1,0 +1,27 @@
+{
+  "id": "fatima-bernardes-experiencia",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Fátima Bernardes Experiência",
+    "artist": "Rogério Skylab",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757508061_f_tima_bernardes_experi_ncia"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/UtMSSkYCMDVOaPunPvQO.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/l5sdk2.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zo9v0rje.7z"
+    }
+  }
+}

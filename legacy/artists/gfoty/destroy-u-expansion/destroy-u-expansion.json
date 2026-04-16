@@ -1,0 +1,27 @@
+{
+  "id": "destroy-u-expansion",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Destroy U  (Expansion)",
+    "artist": "GFOTY",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "20:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760469032_destroy_u__expansion_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/wkXbTcflccBKiKOIIVg.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/mvayto.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vv8gvig2.7z"
+    }
+  }
+}

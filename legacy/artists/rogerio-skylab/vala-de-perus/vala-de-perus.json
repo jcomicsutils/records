@@ -1,0 +1,27 @@
+{
+  "id": "vala-de-perus",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Vala de Perus",
+    "artist": "Rogério Skylab",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757633079_vala_de_perus"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/JTjvdFLejGQNwkUQtoxA.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/3qm1b2.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7g9tgoj6.7z"
+    }
+  }
+}

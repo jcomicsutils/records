@@ -1,0 +1,27 @@
+{
+  "id": "psychonaut-lib-ii",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Psychonaut Lib II",
+    "artist": "Fields Of The Nephilim",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "19:31",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761086670_psychonaut_lib_ii"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/GQfrEMpHqFZMOneCQCV.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/s8vnlj.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/53kwq1oh.7z"
+    }
+  }
+}

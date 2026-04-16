@@ -1,0 +1,27 @@
+{
+  "id": "menage-a-quatre",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ménage à quatre",
+    "artist": "Ordo Rosarius Equilibrio",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "16:20",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761393002_m_nage___quatre"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/mawdmeZwNFkoQaTPuDX.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/s31hf1.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0tgl7b08.7z"
+    }
+  }
+}

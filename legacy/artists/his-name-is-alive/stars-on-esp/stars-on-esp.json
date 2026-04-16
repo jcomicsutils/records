@@ -1,0 +1,24 @@
+{
+  "id": "stars-on-esp",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Stars On E.S.P.",
+    "artist": "His Name Is Alive",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_human": "44:20",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761149912_stars_on_e_s_p"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/GfHiyzBoGVVcnuvMmaQw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/b86zq9q0.7z"
+    }
+  }
+}

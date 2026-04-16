@@ -1,0 +1,27 @@
+{
+  "id": "madrigals-in-duos",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Madrigals In Duos",
+    "artist": "Fursaxa",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746322988_madrigals_in_duos"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/qOLfHkVVoqtMbGDiMrCz.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0hp7qs.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vhqxguwj.7z"
+    }
+  }
+}

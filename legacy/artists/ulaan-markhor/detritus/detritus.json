@@ -1,0 +1,24 @@
+{
+  "id": "detritus",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Detritus",
+    "artist": "Ulaan Markhor",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "38:21",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769913941_detritus"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rbjc47.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/DRhlXMqtszoNFsXMsHlK.7z"
+    }
+  }
+}

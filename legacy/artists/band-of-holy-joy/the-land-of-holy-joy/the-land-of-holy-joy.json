@@ -1,0 +1,24 @@
+{
+  "id": "the-land-of-holy-joy",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Land Of Holy Joy",
+    "artist": "Band of Holy Joy",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "38:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759955705_the_land_of_holy_joy"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/OYBlsGGmftLYLVDxlaEz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mw0rt5jk.7z"
+    }
+  }
+}

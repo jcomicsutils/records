@@ -1,0 +1,24 @@
+{
+  "id": "dear-live-2017-11-18-exitin-nashville-tennessee",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Dear Live 2017-11-18 Exit/In, Nashville, Tennessee",
+    "artist": "Boris",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_human": "1:42:15",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764480314_dear_live_2017-11-18_exit_-_in__nashville__tenness"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/qEHdEELGJxhymlTYMtpV.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/f9gz6ee.7z"
+    }
+  }
+}

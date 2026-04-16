@@ -1,0 +1,24 @@
+{
+  "id": "tocsin",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Tocsin",
+    "artist": "Year of No Light",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "57:18",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761600200_tocsin"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/retyrHVPiaveRGCkObBR.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ty8nlrc2.7z"
+    }
+  }
+}

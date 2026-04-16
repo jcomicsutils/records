@@ -1,0 +1,24 @@
+{
+  "id": "campfire-songs",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Campfire Songs",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "42:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760820592_campfire_songs"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/cWwUbrAsJKvJSSwRLNRM.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wfuis2s9.7z"
+    }
+  }
+}

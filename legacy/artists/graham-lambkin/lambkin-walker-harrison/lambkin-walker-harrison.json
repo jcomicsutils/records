@@ -1,0 +1,27 @@
+{
+  "id": "lambkin-walker-harrison",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Lambkin, Walker, Harrison",
+    "artist": "Graham Lambkin",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754577569_lambkin__walker__harrison"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/NvIccMKGIUXLIMslSBaF.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/znjitq.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jk129z3k.7z"
+    }
+  }
+}

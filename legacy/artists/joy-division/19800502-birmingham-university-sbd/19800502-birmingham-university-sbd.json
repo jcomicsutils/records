@@ -1,0 +1,27 @@
+{
+  "id": "19800502-birmingham-university-sbd",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "1980.05.02 Birmingham University (SBD)",
+    "artist": "Joy Division",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752455647_52_-_1980_05_02_birmingham_university__sbd_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/sGPMYmrwooFnrzfgqvu.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/qrvnr8.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/l11enoen.7z"
+    }
+  }
+}

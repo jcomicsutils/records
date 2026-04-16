@@ -1,0 +1,24 @@
+{
+  "id": "smile-japanese-ver",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Smile (Japanese Ver.)",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "1:01:44",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764491192_smile__japanese_ver__"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/CeQAgEXvlTFvTQKuzmBZ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/377adylf.7z"
+    }
+  }
+}

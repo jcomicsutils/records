@@ -1,0 +1,24 @@
+{
+  "id": "an-american-prayer",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "An American Prayer",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 23,
+    "duration_human": "46:23",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760479058_an_american_prayer"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/loRUyjajMKFBFualExYJ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/37726d2c.7z"
+    }
+  }
+}

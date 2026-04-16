@@ -1,0 +1,27 @@
+{
+  "id": "suffering-from-melancholia",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "suffering from melancholia",
+    "artist": "Sewerslvt",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "13:12",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761517717_suffering_from_melancholia"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/usHmWSdveUizgDCDcAZe.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wp6epi.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/j7bmr2kf.7z"
+    }
+  }
+}

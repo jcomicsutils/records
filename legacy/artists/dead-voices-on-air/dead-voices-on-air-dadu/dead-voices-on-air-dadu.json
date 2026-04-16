@@ -1,0 +1,21 @@
+{
+  "id": "dead-voices-on-air-dadu",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": ":dead voices on air: dadu:",
+    "artist": "Dead Voices On Air",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759255061_dead_voices_on_air_dadu"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/QCisNhRFeqiVvbcTe.zip"
+    }
+  }
+}

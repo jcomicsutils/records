@@ -1,0 +1,27 @@
+{
+  "id": "kvile",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Kvile",
+    "artist": "Eldrim",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "37:54",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760898549_kvile"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PTXoTfmGMKSDkvSzTHYG.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gn4pne.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/w4bl8tro.7z"
+    }
+  }
+}

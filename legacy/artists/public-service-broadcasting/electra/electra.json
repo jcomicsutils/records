@@ -1,0 +1,27 @@
+{
+  "id": "electra",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Electra",
+    "artist": "Public Service Broadcasting",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761496817_electra"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/HTEjVNMEIBlDVFAtlOND.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/o191jv.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/iswsb6k0.7z"
+    }
+  }
+}

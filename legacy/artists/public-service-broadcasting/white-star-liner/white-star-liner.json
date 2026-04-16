@@ -1,0 +1,27 @@
+{
+  "id": "white-star-liner",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "White Star Liner",
+    "artist": "Public Service Broadcasting",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "13:42",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761531280_white_star_liner__2018___2_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/AEPZSuUHtxclMeVahk.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/y3wyo1.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/84nn1gg.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "broken",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Broken",
+    "artist": "Nine Inch Nails",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "31:38",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761349456_broken"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/sUqZZKHHQYVBLEzhKQT.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/co8soqi.7z"
+    }
+  }
+}

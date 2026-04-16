@@ -1,0 +1,27 @@
+{
+  "id": "dang-dong",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Dang Dong",
+    "artist": "Hanayo [花代]",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "13:43",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769910765_dang_dong"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rgvt2ln6.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vl5nqd.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/QhRIHAxeGGyWamIWsHU.7z"
+    }
+  }
+}

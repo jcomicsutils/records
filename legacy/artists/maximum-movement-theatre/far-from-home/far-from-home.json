@@ -1,0 +1,27 @@
+{
+  "id": "far-from-home",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "far from home",
+    "artist": "Maximum Movement Theatre",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "23:10",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761339680_far_from_home"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/JWaGjSpyGoUbHAYKnBHS.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/3s9799.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dsuwjjp.7z"
+    }
+  }
+}

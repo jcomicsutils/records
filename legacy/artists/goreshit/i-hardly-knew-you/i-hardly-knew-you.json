@@ -1,0 +1,24 @@
+{
+  "id": "i-hardly-knew-you",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "I Hardly Knew You.",
+    "artist": "Goreshit",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "41:17",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760563828_i_hardly_knew_you__2016_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/DEZAiOoxnrtnWQodPnm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/riii20mv.7z"
+    }
+  }
+}

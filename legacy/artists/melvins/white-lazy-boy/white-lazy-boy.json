@@ -1,0 +1,27 @@
+{
+  "id": "white-lazy-boy",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "White Lazy Boy",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "14:56",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769315448_white_lazy_boy"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9d9lgl7y.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ljxc8d.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/QlqTPzTzHAbIFxUmVTCk.7z"
+    }
+  }
+}

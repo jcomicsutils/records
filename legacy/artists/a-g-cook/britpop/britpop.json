@@ -1,0 +1,27 @@
+{
+  "id": "britpop",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Britpop",
+    "artist": "A. G. Cook",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:22",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760242514_britpop__2024___2_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/wgInqApiCUUffnEuaev.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gjxo9n.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3y3rhd3b.7z"
+    }
+  }
+}

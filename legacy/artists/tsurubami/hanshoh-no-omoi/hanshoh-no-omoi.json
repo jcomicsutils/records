@@ -1,0 +1,27 @@
+{
+  "id": "hanshoh-no-omoi",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hanshoh No Omoi 反照の想ひ",
+    "artist": "Tsurubami",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_human": "57:03",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765162021_hanshoh_no_omoi______"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/64fryjlz.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/lb9ro4.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/fyuEzqfJGfANjAWOvCRb.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "gold-cut-square-voice",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Gold-cut Square Voice",
+    "artist": "Ono Ryoko",
+    "codec": "MP3",
+    "num_tracks": 10,
+    "duration_human": "36:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764960990_gold-cut_square_voice"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1qk2q9b.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/k8lpfx.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MQYfuhKAnQnqQcHFYgGs.7z"
+    }
+  }
+}

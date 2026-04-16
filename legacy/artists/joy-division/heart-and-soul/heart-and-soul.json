@@ -1,0 +1,24 @@
+{
+  "id": "heart-and-soul",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Heart And Soul",
+    "artist": "Joy Division",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752459023_1997__heart_and_soul"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b54/wNUwFeICTWTOoQZOlFCf.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/cyuy5n5j.7z"
+    }
+  }
+}

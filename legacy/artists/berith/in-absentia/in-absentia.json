@@ -1,0 +1,27 @@
+{
+  "id": "in-absentia",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "IN ABSENTIA",
+    "artist": "Berith",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "1:44",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768760278_in_absentia"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/pwxgyv5k.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gek5sm.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/iaqImwQLAEpkoMjqSlyf.7z"
+    }
+  }
+}

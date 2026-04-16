@@ -1,0 +1,24 @@
+{
+  "id": "visioncreationnewsun",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Vision△Creation△Newsun△",
+    "artist": "Boredoms",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "43:33",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765080365_vision_creation_newsun_"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/28dmyg9v.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/DmIxZPecLccNXJpZZYmE.7z"
+    }
+  }
+}

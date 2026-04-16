@@ -1,0 +1,27 @@
+{
+  "id": "anti-geldof-compilation",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Anti-Geldof Compilation",
+    "artist": "Stalaggh",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752347012_anti-geldof_compilation"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/OjRayYqzsitJQeDatoy.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/mo0wio.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/d18wohpt.7z"
+    }
+  }
+}

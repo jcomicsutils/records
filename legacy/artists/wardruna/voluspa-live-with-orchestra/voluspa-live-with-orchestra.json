@@ -1,0 +1,27 @@
+{
+  "id": "voluspa-live-with-orchestra",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Voluspá (Live with Orchestra)",
+    "artist": "Wardruna",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "6:04",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761691206_volusp___live_with_orchestra_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PgedJbGaWOMnhbHKrUG.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5j5sfm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/y96pul1v.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "novemberquebec",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "(November:Quebec)",
+    "artist": "N:Q",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1755255452__novemberquebec_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/xiKciyLEgLoPIYPnvVF.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/h39udj.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/t3fb5ys1.7z"
+    }
+  }
+}

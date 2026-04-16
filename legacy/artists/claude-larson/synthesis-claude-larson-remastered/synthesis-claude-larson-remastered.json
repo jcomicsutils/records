@@ -1,0 +1,24 @@
+{
+  "id": "synthesis-claude-larson-remastered",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Synthesis - Claude Larson (Remastered)",
+    "artist": "Claude Larson",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "36:17",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759802789_synthesis_-_claude_larson__remastered_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/yTQcDesKGWicAUVgiOKZ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wyzdx6nj.7z"
+    }
+  }
+}

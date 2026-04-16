@@ -1,0 +1,27 @@
+{
+  "id": "congratulations-text",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Congratulations Text",
+    "artist": "Soft Kill",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:47",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759956296_congratulations_text"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PNOgZrIPthkEYRxqAOjf.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ssc65v.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/kogvifb0.7z"
+    }
+  }
+}

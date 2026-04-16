@@ -1,0 +1,27 @@
+{
+  "id": "runatal",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Runatal",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "6:05",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760760618_runatal"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/TKXTExXgKpUIQZmLOOic.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/kdvb21.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/90aud04.7z"
+    }
+  }
+}

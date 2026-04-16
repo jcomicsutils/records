@@ -1,0 +1,12 @@
+# Giles Corey
+
+
+| Album | Codec | Duration | Hosts |
+|-------|-------|----------|-------|
+| [A Landless Earth [Bootleg]](a-landless-earth-bootleg/a-landless-earth-bootleg.md) | MP3 | Unknown | [IA](https://archive.org/details/1748019344_a_landless_earth__bootleg_) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/CxkcXkRLglstQdIdSoY.7z) [Catbox](https://files.catbox.moe/1hs347.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/hap3ubaq.7z) |
+| [Deconstructionist](deconstructionist/deconstructionist.md) | FLAC | Unknown | [IA](https://archive.org/details/1748021364_deconstructionist) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/NgzCTFuQkwMQGRtjDNkv.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/4z7zv02.7z) |
+| [Giles Corey](giles-corey/giles-corey.md) | FLAC | Unknown | [IA](https://archive.org/details/1748027627_giles_corey) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/pNKdlBfjoVBqdBYGFFJ.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/qkso5xsx.7z) |
+| [Hinterkaifeck](hinterkaifeck/hinterkaifeck.md) | FLAC | Unknown | [IA](https://archive.org/details/1748032915_hinterkaifeck) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/mymMRJrPSmruGkmHiUbI.7z) [Catbox](https://files.catbox.moe/lrq9uf.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/7dn4zs62.7z) |
+| [In Spiritual Exile - Collected Recordings](in-spiritual-exile-collected-recordings/in-spiritual-exile-collected-recordings.md) | MP3 | Unknown | [IA](https://archive.org/details/1748033953_in_spiritual_exile_-_collected_recordings) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/RtSpKXmuUiMfsSRaaiIQ.7z) [Catbox](https://files.catbox.moe/gvwhoq.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/xam07o3l.7z) |
+| [Live in the Middle of Nowhere](live-in-the-middle-of-nowhere/live-in-the-middle-of-nowhere.md) | FLAC | Unknown | [IA](https://archive.org/details/1748036519_live_in_the_middle_of_nowhere) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/dVJLsHGbKDYybUgHFemU.7z) [Catbox](https://files.catbox.moe/pr0ujd.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/1host7fi.7z) |
+| [Santa Is Real: The Enemies List Christmas Album](santa-is-real-the-enemies-list-christmas-album/santa-is-real-the-enemies-list-christmas-album.md) | MP3 | Unknown | [IA](https://archive.org/details/1748039393_santa_is_real_-_the_enemies_list_christmas_album) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/BiQiSaoomEcOnlVUXsk.7z) [Catbox](https://files.catbox.moe/3t1qaw.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/gkltpnvk.7z) |

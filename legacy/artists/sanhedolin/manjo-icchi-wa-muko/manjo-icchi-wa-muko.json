@@ -1,0 +1,24 @@
+{
+  "id": "manjo-icchi-wa-muko",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Manjo icchi wa muko [満場一致は無効]",
+    "artist": "Sanhedolin",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "1:05:04",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764533671_manjo_icchi_wa_muko__________"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LXYCLGdBrlTouXJdwhHD.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/e8wl08m0.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "pass-this-on-remixes",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Pass This On (Remixes)",
+    "artist": "The Knife",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "16:14",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761587275_pass_this_on__remixes_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/DBmWlVeARJpniJuYVSYz.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/6vz5fs.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/n1hq0wwl.7z"
+    }
+  }
+}

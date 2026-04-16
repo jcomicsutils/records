@@ -1,0 +1,27 @@
+{
+  "id": "ovule",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ovule",
+    "artist": "Björk",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757025306_ovule"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/kPmBNwvvHWXHqOqTtX.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/4i2di5.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qgtk3ey.7z"
+    }
+  }
+}

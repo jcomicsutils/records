@@ -1,0 +1,24 @@
+{
+  "id": "from-langley-park-to-memphis",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "From Langley Park to Memphis",
+    "artist": "Prefab Sprout",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "45:25",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760245284_from_langley_park_to_memphis__1988_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/tnOLeIIlpIBnLxofCP.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/enzbh9ea.7z"
+    }
+  }
+}

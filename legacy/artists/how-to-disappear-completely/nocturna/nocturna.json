@@ -1,0 +1,24 @@
+{
+  "id": "nocturna",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Nocturna",
+    "artist": "How To Disappear Completely",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "1:00:17",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759961034_nocturna"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/cQwanywOvgjdkxaJBhY.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/l4cyglo3.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "songs-to-help-my-children-sleep",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Songs To Help My Children Sleep",
+    "artist": "Robin Guthrie",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756677688_songs_to_help_my_children_sleep"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/VTVUKdCYwqplIWBrWDAP.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5toee4.7z"
+    }
+  }
+}

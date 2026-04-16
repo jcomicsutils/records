@@ -1,0 +1,27 @@
+{
+  "id": "live-at-neumos-seattle-wa-10-12-2011",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at Neumo's, Seattle, WA (10-12-2011)",
+    "artist": "Boris",
+    "codec": "MP3",
+    "num_tracks": 12,
+    "duration_human": "1:07:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764474918_live_at_neumo_s__seattle__wa__10-12-2011_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ZBBzbzLUHpHVwBFLMkFb.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/eirl5a.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/op8055wx.7z"
+    }
+  }
+}

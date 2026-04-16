@@ -1,0 +1,27 @@
+{
+  "id": "japanese-new-music-festival-japan-tour-2022",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Japanese New Music Festival Japan Tour 2022",
+    "artist": "Acid Mothers Temple SWR",
+    "codec": "MP3",
+    "num_tracks": 17,
+    "duration_human": "1:17:20",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765150658_japanese_new_music_festival_japan_tour_2022"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/sb9nck2u.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/cniub5.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PBENFlrHhhBKVgLAOGNU.7z"
+    }
+  }
+}

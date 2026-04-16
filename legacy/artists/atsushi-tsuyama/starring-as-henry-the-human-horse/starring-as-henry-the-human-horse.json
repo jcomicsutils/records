@@ -1,0 +1,27 @@
+{
+  "id": "starring-as-henry-the-human-horse",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Starring as Henry the Human Horse!",
+    "artist": "Atsushi Tsuyama",
+    "codec": "MP3",
+    "num_tracks": 9,
+    "duration_human": "36:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764957816_starring_as_henry_the_human_horse_"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ga07rix3.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/emdg7g.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/CrnLYitKjETDhOWgGxG.7z"
+    }
+  }
+}

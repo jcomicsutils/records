@@ -1,0 +1,24 @@
+{
+  "id": "scorched-jerusalem",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Scorched Jerusalem",
+    "artist": "Band of Holy Joy",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "38:21",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759953385_scorched_jerusalem"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SZkBRkyGrdOPtvMGDTx.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4hmgut49.7z"
+    }
+  }
+}

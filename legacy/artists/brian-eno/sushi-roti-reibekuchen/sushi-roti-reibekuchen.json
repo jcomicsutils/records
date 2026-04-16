@@ -1,0 +1,24 @@
+{
+  "id": "sushi-roti-reibekuchen",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sushi. Roti. Reibekuchen",
+    "artist": "Brian Eno",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756404280_sushi__roti__reibekuchen"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/pPwsgzqTozLCeklqcYxl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gcgsty0k.7z"
+    }
+  }
+}

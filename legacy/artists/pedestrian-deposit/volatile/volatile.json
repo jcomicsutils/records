@@ -1,0 +1,24 @@
+{
+  "id": "volatile",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Volatile",
+    "artist": "Pedestrian Deposit",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "57:41",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761371753_volatile"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/bZVYwvCugXxFTrkzDVVm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3dc0octa.7z"
+    }
+  }
+}

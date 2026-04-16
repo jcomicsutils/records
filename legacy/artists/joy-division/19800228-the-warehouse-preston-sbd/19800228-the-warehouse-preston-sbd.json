@@ -1,0 +1,27 @@
+{
+  "id": "19800228-the-warehouse-preston-sbd",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "1980.02.28 The Warehouse, Preston (SBD)",
+    "artist": "Joy Division",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752283734_1980_02_28_the_warehouse__preston__sbd_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/cBQNOnsiPPldDiRugJJc.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/f093xn.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zg8ge7nx.7z"
+    }
+  }
+}

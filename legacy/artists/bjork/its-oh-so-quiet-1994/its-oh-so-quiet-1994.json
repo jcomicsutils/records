@@ -1,0 +1,27 @@
+{
+  "id": "its-oh-so-quiet-1994",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "It's Oh So Quiet (1994)",
+    "artist": "Björk",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757019504_it_s_oh_so_quiet__1994_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/wjpQrGNrcWOfpncZGOU.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jq1it1.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/pj3k6w7.7z"
+    }
+  }
+}

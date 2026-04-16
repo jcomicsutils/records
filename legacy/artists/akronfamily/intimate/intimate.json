@@ -1,0 +1,27 @@
+{
+  "id": "intimate",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Intimate",
+    "artist": "Akron/Family",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747502203_intimate"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/cIzkvlcAXBBJShWRDMGK.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/argelc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hvhut62c.7z"
+    }
+  }
+}

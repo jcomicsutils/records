@@ -1,0 +1,27 @@
+{
+  "id": "hymnal",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hymnal",
+    "artist": "Steven R. Smith",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_human": "1:20:08",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769915683_hymnal"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/idvr7p13.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/tnrkud.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/KMtjaTdEgFInYLMjZMJt.7z"
+    }
+  }
+}

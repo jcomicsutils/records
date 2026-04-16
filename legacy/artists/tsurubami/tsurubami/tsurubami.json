@@ -1,0 +1,27 @@
+{
+  "id": "tsurubami",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Tsurubami つるばみ",
+    "artist": "Tsurubami",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_human": "41:38",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765163840_tsurubami_____"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wjwvxvgn.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/u0f0t6.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ziKFkqrIQpDhuvWgOqjt.7z"
+    }
+  }
+}

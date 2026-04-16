@@ -1,0 +1,27 @@
+{
+  "id": "skinflowers",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Skinflowers",
+    "artist": "The Young Gods",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "20:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759689601_skinflowers"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/rhNGnJIkLCFfXtWQBVQS.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vetaod.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/od1afkr.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "monkey-riches-brian-degraw-gang-gang-dance-remix-animal-collective",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Monkey Riches (Brian DeGraw [Gang Gang Dance] Remix) (Animal Collective)",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "6:55",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760844602_monkey_riches__brian_degraw__gang_gang_dance__remi"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/kSKwJYWOZuLuTQEmMKa.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/r79dpx.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2wq8dn95.7z"
+    }
+  }
+}

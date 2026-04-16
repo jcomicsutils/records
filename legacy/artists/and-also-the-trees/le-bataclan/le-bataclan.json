@@ -1,0 +1,27 @@
+{
+  "id": "le-bataclan",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Le Bataclan",
+    "artist": "And Also the Trees",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747578956_le_bataclan"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/meYyNDfzVpjKyByEFOAw.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/773tji.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dehmqsm.7z"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "011-it-was-murder-silent-and-slow",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "011. It Was Murder, Silent and Slow.",
+    "artist": "Piranesi.",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747966065_piranesi__-_011__it_was_murder-_silent_and_slow"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/BpEVbwNhVIZhTsVasRtI.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/l4ylyi.7z"
+    },
+    "piranesiproject_bandcamp_com": {
+      "url": "https://piranesiproject.bandcamp.com/album/011-it-was-murder-silent-and-slow"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xr1xdapd.7z"
+    }
+  }
+}

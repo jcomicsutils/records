@@ -1,0 +1,24 @@
+{
+  "id": "live-in-allentown-usa",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live in Allentown USA",
+    "artist": "AMM",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1755297723_live_in_allentown_usa"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/tOCipvMElsiLDdAzovGN.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qj7ka3kx.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "electronic-hair-pieces",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Electronic Hair Pieces",
+    "artist": "Mort Garson",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "28:26",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761306213_electronic_hair_pieces"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/KYDTcNCeaBoWARnpXHDf.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gn7vhw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/48of7ils.7z"
+    }
+  }
+}

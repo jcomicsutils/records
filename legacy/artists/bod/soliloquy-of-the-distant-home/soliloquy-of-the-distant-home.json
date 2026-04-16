@@ -1,0 +1,27 @@
+{
+  "id": "soliloquy-of-the-distant-home",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Soliloquy of the Distant Home [远家独白]",
+    "artist": "bod [包家巷]",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_human": "14:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766785843_soliloquy_of_the_distant_home_______"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/v7vbz05.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/f9uika.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/rLhSmLxOlKqDsPlTQnJ.7z"
+    }
+  }
+}

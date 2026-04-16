@@ -1,0 +1,24 @@
+{
+  "id": "black-celebration-cdor-9212",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Black Celebration [CDOR 9212]",
+    "artist": "Depeche Mode",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746133794_depeche_mode_-_black_celebration__1986___dischi_ri"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/SgSPapksXyiycvWBkzvw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1l0meeyg.7z"
+    }
+  }
+}

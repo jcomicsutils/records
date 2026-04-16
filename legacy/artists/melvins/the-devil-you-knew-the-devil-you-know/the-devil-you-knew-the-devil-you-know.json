@@ -1,0 +1,27 @@
+{
+  "id": "the-devil-you-knew-the-devil-you-know",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Devil You Knew, the Devil You Know",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "25:59",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769312963_the_devil_you_knew__the_devil_you_know"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4amgdhm2.7z"
+    },
+    "": {
+      "url": ""
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/tyLToMvNNudORZJFUkJc.7z"
+    }
+  }
+}

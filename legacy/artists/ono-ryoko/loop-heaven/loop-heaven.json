@@ -1,0 +1,24 @@
+{
+  "id": "loop-heaven",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Loop Heaven",
+    "artist": "Ono Ryoko",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "37:45",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764961967_loop_heaven"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/41bf0swj.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/WgaTubhjgICzXEZmxNVi.7z"
+    }
+  }
+}

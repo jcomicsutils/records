@@ -1,0 +1,27 @@
+{
+  "id": "eu-conto-segredos-atraves-da-arte",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "eu conto segredos através da arte",
+    "artist": "COPA",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758500201_eu_conto_segredos_atrav_s_da_arte"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/vjbTJutRKPoorZGQUglj.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ypap84.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tbgzh3x1.7z"
+    }
+  }
+}

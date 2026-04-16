@@ -1,0 +1,27 @@
+{
+  "id": "the-very-top-of-lina-baby-doll",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Very Top of Lina Baby Doll",
+    "artist": "Lina Baby Doll",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752296496_the_very_top_of_lina_baby_doll"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/wJkScstmerwMmGWrlBSw.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wu8qq1.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hw1aztnt.7z"
+    }
+  }
+}

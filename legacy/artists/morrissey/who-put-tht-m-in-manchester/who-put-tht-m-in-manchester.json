@@ -1,0 +1,24 @@
+{
+  "id": "who-put-tht-m-in-manchester",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Who  Put Tht M In Manchester?",
+    "artist": "Morrissey",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754906526_2004_-__who_put_the_m_in_manchester"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/EFvTTzYYFnkkRLtXhLaa.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/e5mi54jy.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a-different-state-of-consciousness",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Different State of Consciousness",
+    "artist": "Screaming Corpses",
+    "codec": "MP3",
+    "num_tracks": 21,
+    "duration_human": "1:00:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767382186_a_different_state_of_consciousness"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/oub5j2k.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/kwebo0.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/bpIOcdCFkLtoRyouASXV.7z"
+    }
+  }
+}

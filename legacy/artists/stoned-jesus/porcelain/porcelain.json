@@ -1,0 +1,27 @@
+{
+  "id": "porcelain",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Porcelain",
+    "artist": "Stoned Jesus",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "8:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760479644_porcelain"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/xabFbjyYBnAQiRRZXWzx.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/735gxz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1snqzzw4.7z"
+    }
+  }
+}

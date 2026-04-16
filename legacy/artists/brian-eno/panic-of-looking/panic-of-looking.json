@@ -1,0 +1,27 @@
+{
+  "id": "panic-of-looking",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Panic of Looking",
+    "artist": "Brian Eno",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756345858_panic_of_looking"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/hKIdJqujzQXazOUOUuOX.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/azv4mg.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/21jz6olw.7z"
+    }
+  }
+}

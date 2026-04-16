@@ -1,0 +1,27 @@
+{
+  "id": "big-science-arca-remix",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Big Science  (Arca Remix)",
+    "artist": "Arca",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "10:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760233512_big_science__arca_remix_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/IUUSiUkOLBewUMTeVWTu.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/nfeke4.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/j2vu9j0a.7z"
+    }
+  }
+}

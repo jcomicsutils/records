@@ -1,0 +1,24 @@
+{
+  "id": "limbo",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Limbo",
+    "artist": "Clan of Xymox",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "55:39",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760996735_limbo"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/gowdIoiqgovEtAvDCbRB.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/iwt754f.7z"
+    }
+  }
+}

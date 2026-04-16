@@ -1,0 +1,27 @@
+{
+  "id": "incendio",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Incendio",
+    "artist": "Arca",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:44",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760237619_incendio"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/WjKcGUFLIrmfBaPJabdr.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jlzian.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/122kyqu7.7z"
+    }
+  }
+}

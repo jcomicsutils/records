@@ -1,0 +1,27 @@
+{
+  "id": "1-fuck-you",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "1 Fuck You",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:27",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769304587_1_fuck_you"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0izg2c0b.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/i8kvet.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/MqJclnnJDdCwXUSDdpzB.7z"
+    }
+  }
+}

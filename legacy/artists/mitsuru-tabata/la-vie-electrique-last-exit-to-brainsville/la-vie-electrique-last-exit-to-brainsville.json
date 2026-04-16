@@ -1,0 +1,27 @@
+{
+  "id": "la-vie-electrique-last-exit-to-brainsville",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "La Vie Electrique: Last Exit To Brainsville",
+    "artist": "Mitsuru Tabata",
+    "codec": "MP3",
+    "num_tracks": 15,
+    "duration_human": "42:05",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765051219_la_vie_electrique_last_exit_to_brainsville"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/yjt9p0sn.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7p7qnl.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/FwhyEWoAUaMytrzWFJjO.7z"
+    }
+  }
+}

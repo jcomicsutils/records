@@ -1,0 +1,24 @@
+{
+  "id": "chemical-playschool-3-4",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Chemical Playschool 3 & 4",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 29,
+    "duration_human": "2:19:50",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760310008_chemical_playschool_3___4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/BbYNfdGfzMeOoudQCgJO.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8vzhvcl.7z"
+    }
+  }
+}

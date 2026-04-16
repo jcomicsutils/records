@@ -1,0 +1,27 @@
+{
+  "id": "son-juno-reactor-remix",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Son (Juno Reactor Remix)",
+    "artist": "Molchat Doma",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "13:01",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760409312_son__juno_reactor_remix_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/QWLixKQLSxtBViPuIhC.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/91m5n2.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/e5avd20l.7z"
+    }
+  }
+}

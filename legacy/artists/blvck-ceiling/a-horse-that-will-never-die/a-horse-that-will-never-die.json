@@ -1,0 +1,27 @@
+{
+  "id": "a-horse-that-will-never-die",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Horse That Will Never Die",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:17",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760895163_a_horse_that_will_never_die"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/oAuysBNtQOjISEsCNUk.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/31jnou.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lb8pc017.7z"
+    }
+  }
+}

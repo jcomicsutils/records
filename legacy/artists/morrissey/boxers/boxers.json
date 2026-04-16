@@ -1,0 +1,24 @@
+{
+  "id": "boxers",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Boxers",
+    "artist": "Morrissey",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754900046_1995_-_boxers"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/oyqVbiXqLozXSOKPakMG.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fp2vg77c.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "postcard-history-of-saugerties",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Postcard History of Saugerties",
+    "artist": "Sun Kil Moon",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:11",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768686289_postcard_history_of_saugerties"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/i9lmgeha.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/u4b14c.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/GKBPJOTkTsjpCaXIRRw.7z"
+    }
+  }
+}

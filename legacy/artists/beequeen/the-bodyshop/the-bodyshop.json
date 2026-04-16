@@ -1,0 +1,27 @@
+{
+  "id": "the-bodyshop",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Bodyshop",
+    "artist": "Beequeen",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "37:03",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760248682_the_bodyshop"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/FPqnNQBbhAgQSmENlKfH.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2lye8i.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zp3mgjf8.7z"
+    }
+  }
+}

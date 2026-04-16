@@ -1,0 +1,27 @@
+{
+  "id": "nootmare-killing-meow",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Nootmare (K.I.L.L.I.N.G) [Meow!]",
+    "artist": "Psychedelic Porn Crumpets",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:32",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760546039_nootmare__k_i_l_l_i_n_g___meow__"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/bQcMflnHQXSYmNwBmTYQ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/x870xf.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/084fjdz7.7z"
+    }
+  }
+}

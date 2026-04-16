@@ -1,0 +1,24 @@
+{
+  "id": "o-trem-azul",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "O Trem Azul",
+    "artist": "Lô Borges",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_human": "51:41",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763908416_o_trem_azul"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MaWgDveUxfXREJBpCNZ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/w87h6xs.7z"
+    }
+  }
+}

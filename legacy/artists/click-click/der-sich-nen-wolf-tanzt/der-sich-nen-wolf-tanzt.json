@@ -1,0 +1,27 @@
+{
+  "id": "der-sich-nen-wolf-tanzt",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Der Sich Nen Wolf Tanzt",
+    "artist": "Click Click",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "22:35",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760744150_der_sich_nen_wolf_tanzt"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/UYWKfZXKqANhgoOPCPvV.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/28m3gr.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ba0dyapb.7z"
+    }
+  }
+}

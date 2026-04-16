@@ -1,0 +1,24 @@
+{
+  "id": "carpe-diem-moonman",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Carpe Diem, Moonman",
+    "artist": "Psychedelic Porn Crumpets",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "40:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760486734_carpe_diem__moonman"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/BECSWerKrgPfqWKzxKLc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ly2fi7zy.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "muito-alem-do-fim",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Muito Além do Fim",
+    "artist": "Lô Borges",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "37:22",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763905655_muito_al_m_do_fim__2021_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SSqPmbieZWeQSbiLfdGz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9uwn7wbb.7z"
+    }
+  }
+}

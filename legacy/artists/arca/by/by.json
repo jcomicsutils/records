@@ -1,0 +1,24 @@
+{
+  "id": "by",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "By",
+    "artist": "Arca",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "1:04:59",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760214498_by"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/yToqUFFDRxPHeOsYCGWh.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/d0qy9lnb.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "the-dark",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "the dark",
+    "artist": "Maximum Movement Theatre",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "48:31",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761346973_the_dark"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/vqBULLtYZxNddWcwZKh.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/32nng8.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/oyeswzoy.7z"
+    }
+  }
+}

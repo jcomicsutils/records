@@ -1,0 +1,27 @@
+{
+  "id": "the-tortured-mind",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "the tortured mind",
+    "artist": "Maximum Movement Theatre",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "46:02",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761357221_the_tortured_mind"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/tikKAzyciAKnYirLhGW.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/xupyym.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/al5j6ir9.7z"
+    }
+  }
+}

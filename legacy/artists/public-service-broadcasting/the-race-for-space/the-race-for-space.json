@@ -1,0 +1,24 @@
+{
+  "id": "the-race-for-space",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Race for Space",
+    "artist": "Public Service Broadcasting",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "43:17",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761517557_the_race_for_space"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/OhThxjHBYHCSZQZURuZ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xiokq74.7z"
+    }
+  }
+}

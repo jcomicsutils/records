@@ -1,0 +1,24 @@
+{
+  "id": "belaya-polosa",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Белая Полоса / Belaya Polosa",
+    "artist": "Molchat Doma",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "22:29",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760467474______________-_belaya_polosa"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/BlQMHYJnDdVxAHEMTqMX.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hlabgd8.7z"
+    }
+  }
+}

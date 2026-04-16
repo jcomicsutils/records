@@ -1,0 +1,27 @@
+{
+  "id": "christmas-in-new-orleans",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Christmas in New Orleans",
+    "artist": "Sun Kil Moon",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:13",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768678263_christmas_in_new_orleans"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2fvbdc0.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/x7i0bt.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/eiokpCoddELOqrdxRdO.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "mavambo",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Mavambo",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:16",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759620277_mavambo"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/zaAZBPhNwnkrbKeeFGoJ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/m7ivps.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fuvqxdj.7z"
+    }
+  }
+}

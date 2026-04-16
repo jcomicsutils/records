@@ -1,0 +1,27 @@
+{
+  "id": "moovin-groovin",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Moovin' & Groovin'",
+    "artist": "Click Click",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:38",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760759604_moovin____groovin_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/IlyfHnzsNQigfWmYkdR.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/dvs2pr.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ove74itf.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "live-in-japan",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live in Japan",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_human": "1:53:03",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764480224_live_in_japan"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/FnTSyaigaAKOqvHtxFxG.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zlwnrtvz.7z"
+    }
+  }
+}

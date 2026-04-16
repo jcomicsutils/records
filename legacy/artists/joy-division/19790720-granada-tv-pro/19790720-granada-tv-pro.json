@@ -1,0 +1,27 @@
+{
+  "id": "19790720-granada-tv-pro",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "1979.07.20 Granada TV (PRO)",
+    "artist": "Joy Division",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752282059_1979_07_20_granada_tv__pro___256_kbps_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/mktzyspCYzmhAIOHeQOT.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/q0ve9b.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wactpn5d.7z"
+    }
+  }
+}

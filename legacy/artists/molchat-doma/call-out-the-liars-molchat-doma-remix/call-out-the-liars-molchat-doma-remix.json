@@ -1,0 +1,27 @@
+{
+  "id": "call-out-the-liars-molchat-doma-remix",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Call Out The Liars  (Molchat Doma Remix)",
+    "artist": "Molchat Doma",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:14",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760404955_call_out_the_liars__molchat_doma_remix_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/fpWrnlMhvNKpmyzWaoNX.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ia8ucg.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/axx76l0x.7z"
+    }
+  }
+}

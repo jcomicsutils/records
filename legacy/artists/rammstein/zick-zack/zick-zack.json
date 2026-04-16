@@ -1,0 +1,27 @@
+{
+  "id": "zick-zack",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Zick Zack",
+    "artist": "Rammstein",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "12:35",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761588479_zick_zack"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/apgbreWSdBnkYBCIoCl.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/s470bz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/oglq9dwz.7z"
+    }
+  }
+}

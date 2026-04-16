@@ -1,0 +1,27 @@
+{
+  "id": "mountain-game",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Mountain Game",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:31",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760844846_mountain_game"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/kXmQHCeeRLrFzdmKoNX.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/uklp5k.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/od0qgeyb.7z"
+    }
+  }
+}

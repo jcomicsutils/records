@@ -1,0 +1,24 @@
+{
+  "id": "ty-zhe-ne-znaesh-kto-ya",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ты Же Не Знаешь Кто Я / Ty Zhe Ne Znaesh Kto Ya",
+    "artist": "Molchat Doma",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "17:35",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760473393_______________________-_ty_zhe_ne_znaesh_kto_ya"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LaPNnZpWIABpRQNnGbRD.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7bq0tssf.7z"
+    }
+  }
+}

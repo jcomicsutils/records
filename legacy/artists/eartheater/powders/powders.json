@@ -1,0 +1,24 @@
+{
+  "id": "powders",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Powders",
+    "artist": "Eartheater",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747759684_powders"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/AJJjZDqeOpCoyHvubPjs.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/cfb6tfr3.7z"
+    }
+  }
+}

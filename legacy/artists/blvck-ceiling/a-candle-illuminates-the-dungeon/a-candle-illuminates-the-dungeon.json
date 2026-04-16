@@ -1,0 +1,27 @@
+{
+  "id": "a-candle-illuminates-the-dungeon",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Candle Illuminates The Dungeon",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "30:15",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760894459_a_candle_illuminates_the_dungeon"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/deoVVtsMItEuFbJuJuU.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0m013b.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qhvo743.7z"
+    }
+  }
+}

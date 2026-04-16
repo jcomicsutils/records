@@ -1,0 +1,27 @@
+{
+  "id": "sin",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sin",
+    "artist": "Nine Inch Nails",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "19:29",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761413759_sin"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MrQdGlNmZSmpjaBgAHZ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/olm3l7.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/izluw5sy.7z"
+    }
+  }
+}

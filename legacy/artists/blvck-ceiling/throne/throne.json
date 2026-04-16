@@ -1,0 +1,27 @@
+{
+  "id": "throne",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Throne",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "21:15",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760914965_throne"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/wkbuVJKRNnYzcezBEN.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ojn38u.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/iohd9ico.7z"
+    }
+  }
+}

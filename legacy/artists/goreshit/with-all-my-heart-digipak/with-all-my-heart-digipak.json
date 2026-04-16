@@ -1,0 +1,24 @@
+{
+  "id": "with-all-my-heart-digipak",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "With All My Heart. Digipak",
+    "artist": "Goreshit",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_human": "1:03:08",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760574433_with_all_my_heart__digipak"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LptGfoUHsCytCDVJdMN.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6b7wbgfl.7z"
+    }
+  }
+}

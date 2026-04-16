@@ -1,0 +1,27 @@
+{
+  "id": "shindara-jigoku",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Shindara Jigoku",
+    "artist": "LSD March",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752306340_shindara_jigoku"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/fsnCpgyDCGmUDZBSEPCl.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/xbc3qh.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wnhvtrwb.7z"
+    }
+  }
+}

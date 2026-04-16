@@ -1,0 +1,27 @@
+{
+  "id": "the-war-room",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The War Room",
+    "artist": "Public Service Broadcasting",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "17:43",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761524522_the_war_room"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/tOwlwlnTlVmbSzqRQX.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ct4xtr.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/emtz6o9n.7z"
+    }
+  }
+}

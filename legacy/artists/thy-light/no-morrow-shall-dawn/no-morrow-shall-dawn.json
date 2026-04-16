@@ -1,0 +1,24 @@
+{
+  "id": "no-morrow-shall-dawn",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "No Morrow Shall Dawn",
+    "artist": "Thy Light",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752432963_no_morrow_shall_dawn"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/zlNrELHFFVQHhPRcVFon.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ovjjz79m.7z"
+    }
+  }
+}

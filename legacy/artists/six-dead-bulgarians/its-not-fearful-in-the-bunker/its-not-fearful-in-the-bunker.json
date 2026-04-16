@@ -1,0 +1,24 @@
+{
+  "id": "its-not-fearful-in-the-bunker",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "It's Not Fearful in the Bunker",
+    "artist": "Six Dead Bulgarians",
+    "codec": "FLAC",
+    "num_tracks": 21,
+    "duration_human": "1:23:51",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761489933_it_s_not_fearful_in_the_bunker"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/xLqDRQmPZeIFeiOBlyrc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6kx1f75w.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "the-theatre-of-eternal-music",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Theatre of Eternal Music",
+    "artist": "La Monte Young",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756086123_the_theatre_of_eternal_music"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/PynQjPNyqirkMNlvpc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/m77jv83r.7z"
+    }
+  }
+}

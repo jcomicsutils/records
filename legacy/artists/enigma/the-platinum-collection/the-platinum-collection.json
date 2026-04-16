@@ -1,0 +1,21 @@
+{
+  "id": "the-platinum-collection",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Platinum Collection",
+    "artist": "Enigma",
+    "codec": "FLAC",
+    "num_tracks": 40,
+    "duration_human": "3:00:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761094285_the_platinum_collection"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/AgldjtftiwfowtYZMDHQ.7z"
+    }
+  }
+}

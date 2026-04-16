@@ -1,0 +1,27 @@
+{
+  "id": "grasshopper-twisty-cat",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Grasshopper / Twisty Cat",
+    "artist": "Grasshopper",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_human": "28:14",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766196806_grasshopper_-_twisty_cat"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vbz0bjcq.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/bfw2w9.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/nqctgytAorYZTqWMyMWq.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "azure-style-doll",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Azure-Style Doll",
+    "artist": "Zeffon / Argon Beams / Generated Missiân ZFN / Revenence / Serpentmouth (incomplete as of now)",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1748644833_zeffon_-_azure-style_doll"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/khpontunMkGAUvpLPga.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/94ef7a.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mnq6c99a.7z"
+    }
+  }
+}

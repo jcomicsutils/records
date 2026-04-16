@@ -1,0 +1,24 @@
+{
+  "id": "fourth-world-vol-1-possible-musics",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Fourth World, Vol. 1: Possible Musics",
+    "artist": "Brian Eno",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756407625_fourth_world__vol__1_possible_musics"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/VJtGIhXnlGUobubAodPA.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/b74dcgou.7z"
+    }
+  }
+}

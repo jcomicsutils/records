@@ -1,0 +1,17 @@
+# Purple Trap — The Stone
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | 48.0kHz |
+| Tracks | 7 |
+| Duration | 48:46 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/1764530447_the_stone)
+- [Fileditch](https://fileditchfiles.me/file.php?f=/b64/JppYLBRtKSnKdguUrQKn.7z)
+- [Pomf2 Lain La](https://pomf2.lain.la/f/qm1hphrw.7z)
+
+---
+*Legacy Archive*

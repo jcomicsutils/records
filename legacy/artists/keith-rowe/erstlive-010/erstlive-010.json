@@ -1,0 +1,24 @@
+{
+  "id": "erstlive-010",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "ErstLive 010",
+    "artist": "Keith Rowe",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1755394536_erstlive_010"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/YXcyZpafDCSdqajDEgQ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/euzxxn4.7z"
+    }
+  }
+}

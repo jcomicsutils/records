@@ -1,0 +1,24 @@
+{
+  "id": "and-all-that-could-have-beenstill",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "And All That Could Have Been/Still",
+    "artist": "Nine Inch Nails",
+    "codec": "FLAC",
+    "num_tracks": 25,
+    "duration_human": "1:57:20",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761341879_and_all_that_could_have_been_-_still"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/bOWOjLBQfkDOHgInwZZ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/79tw8qwu.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "for-her-light",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "For Her Light",
+    "artist": "Fields Of The Nephilim",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "22:51",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761143100_for_her_light"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/JCSYhjMslGdUNocJIBN.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/sliobd.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2149xu5y.7z"
+    }
+  }
+}

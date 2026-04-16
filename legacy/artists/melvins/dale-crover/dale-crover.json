@@ -1,0 +1,27 @@
+{
+  "id": "dale-crover",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Dale Crover",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "12:39",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769308378_dale_crover"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gat3whid.7z"
+    },
+    "": {
+      "url": ""
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/RUoZqIKJYmfxkIeRHexE.7z"
+    }
+  }
+}

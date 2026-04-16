@@ -1,0 +1,27 @@
+{
+  "id": "rite",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Rite",
+    "artist": "Mats Gustafsson",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1753662037_rite"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/cfWLQiPKlKSGZZmDbKDH.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/6fsp6f.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tg6uow0i.7z"
+    }
+  }
+}

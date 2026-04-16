@@ -1,0 +1,27 @@
+{
+  "id": "higashi-solo-3-he-no-he-no",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Higashi Solo 3: He No He No",
+    "artist": "Hiroshi Higashi",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "46:43",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764955142_higashi_solo_3_he_no_he_no"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/35u05mh.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5ok74p.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/JoSukTUYItzaAdIXFdws.7z"
+    }
+  }
+}

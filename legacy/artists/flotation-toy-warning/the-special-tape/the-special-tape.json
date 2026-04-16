@@ -1,0 +1,27 @@
+{
+  "id": "the-special-tape",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Special Tape",
+    "artist": "Flotation Toy Warning",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1748024585_the_special_tape"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/CIhHFPnWUTzEOpKTOqM.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/p9q5lh.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/f03vr58b.7z"
+    }
+  }
+}

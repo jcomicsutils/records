@@ -1,0 +1,24 @@
+{
+  "id": "nrrv5",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Nrrv5",
+    "artist": "Goreshit",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "32:33",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760478499_nrrv5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/CvrsEtEvoHMzZCLnaMD.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/myn8xhuy.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2001-boredoms",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "2001 Boredoms",
+    "artist": "Boredoms",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_human": "35:35",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765066681_2001_boredoms"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/f72byvu4.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ce4cdb.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/rVVnKLRyoQVVlUeKrXN.7z"
+    }
+  }
+}

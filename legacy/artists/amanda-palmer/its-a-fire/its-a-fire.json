@@ -1,0 +1,27 @@
+{
+  "id": "its-a-fire",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "It's a Fire",
+    "artist": "Amanda Palmer",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:04",
+    "sampling_rate": "192.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763743379_it_s_a_fire"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LuUzFBVBlfxwtPYQebXZ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wrtjuw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/euszhviz.7z"
+    }
+  }
+}

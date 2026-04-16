@@ -1,0 +1,27 @@
+{
+  "id": "sampler-tape-cassette",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sampler Tape Cassette",
+    "artist": "Atsushi Tsuyama",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_human": "1:02:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764957525_sampler_tape_cassette"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xwbk8ss.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/r4fc5w.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/dWLmKQrmRnBJEqDAKaPP.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "la-puerta-del-cielo-seven-lives",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "La Puerta Del Cielo / Seven Lives",
+    "artist": "Enigma",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "7:22",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761090925_la_puerta_del_cielo_-_seven_lives"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/TYaLKemnAADekSPLqcSr.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/mv0s7w.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9xhpotzf.7z"
+    }
+  }
+}

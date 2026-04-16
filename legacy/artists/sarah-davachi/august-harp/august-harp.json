@@ -1,0 +1,27 @@
+{
+  "id": "august-harp",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "August Harp",
+    "artist": "Sarah Davachi",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "49:58",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761490324_august_harp"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ZDXWgwhXjmXNFkvyBQx.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2hfqp1.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/v2rw686t.7z"
+    }
+  }
+}

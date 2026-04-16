@@ -1,0 +1,24 @@
+{
+  "id": "music-for-self-esteem",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Music for Self Esteem",
+    "artist": "bod [包家巷]",
+    "codec": "FLAC",
+    "num_tracks": 37,
+    "duration_human": "1:37:23",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766772718_music_for_self_esteem"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/x1j9ono7.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b67/ukqbfLspytflVFRpiIOH.7z"
+    }
+  }
+}

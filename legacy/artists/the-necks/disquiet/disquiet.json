@@ -1,0 +1,21 @@
+{
+  "id": "disquiet",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Disquiet",
+    "artist": "The Necks",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "3:09:29",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761575917_disquiet"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/maLmETmwQWfFRoAVJlsG.7z"
+    }
+  }
+}

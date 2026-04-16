@@ -1,0 +1,24 @@
+{
+  "id": "raga-cycle-palace-theatre-paris-1972",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Raga Cycle: Palace Theatre, Paris 1972",
+    "artist": "La Monte Young",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756077695_raga_cycle_palace_theatre__paris_1972"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/kWCMPpjrwKMtVLuKWffw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4j61lcgv.7z"
+    }
+  }
+}

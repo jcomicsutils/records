@@ -1,0 +1,27 @@
+{
+  "id": "the-end",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The End",
+    "artist": "Melvins",
+    "codec": "MP3",
+    "num_tracks": 9,
+    "duration_human": "37:24",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769313042_the_end"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zm7qxcb.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/t5ofuu.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/awwOQlTZnHgjTqOuPRM.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "we-rose-from-your-bed-with-the-sun-in-our-head",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "We Rose From Your Bed With The Sun In Our Head",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "2:02:31",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769306134_we_rose_from_your_bed_with_the_sun_in_our_head"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/66zxyvxy.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/FKGcujupcqujKCyJVtB.7z"
+    }
+  }
+}

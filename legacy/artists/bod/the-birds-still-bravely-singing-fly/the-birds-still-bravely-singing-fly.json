@@ -1,0 +1,27 @@
+{
+  "id": "the-birds-still-bravely-singing-fly",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Birds, Still Bravely Singing, Fly",
+    "artist": "bod [包家巷]",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "10:37",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766785936_the_birds__still_bravely_singing__fly"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/801r5lie.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8pd5cs.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/xuIdlqdEPNnwuOOzRlEU.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "birds-of-naukan",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Birds of Naukan",
+    "artist": "Creation VI",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "50:41",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760744484_birds_of_naukan"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/BPimpEXHSvlaGoXTtLGo.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/z0f4cpgo.7z"
+    }
+  }
+}

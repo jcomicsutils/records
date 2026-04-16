@@ -1,0 +1,27 @@
+{
+  "id": "vega",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Vega",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:51",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760766010_vega"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/XyoNcQgVFzGLffJrQKHx.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/o66cvr.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/efoyn7uj.7z"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+# Sukora
+
+
+| Album | Codec | Duration | Hosts |
+|-------|-------|----------|-------|
+| [A Visit to Jazzland](a-visit-to-jazzland/a-visit-to-jazzland.md) | MP3 | Unknown | [IA](https://archive.org/details/1752359459_a_visit_to_jazzland) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/mEnmTMuQenEKtFLXGKiE.7z) [Catbox](https://files.catbox.moe/rrhf2n.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/gf2l034.7z) |
+| [Hermit / Sukora](hermit-sukora/hermit-sukora.md) | MP3 | Unknown | [IA](https://archive.org/details/1752359509_hermit_-_sukora) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/dXDULiXmEgviaKvNrLv.7z) [Catbox](https://files.catbox.moe/k45f4e.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/a9xluasx.7z) |
+| [Ice Cream Day! Nice Day!](ice-cream-day-nice-day/ice-cream-day-nice-day.md) | FLAC | Unknown | [IA](https://archive.org/details/1752359824_ice_cream_day__nice_day_) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/LraPsxUTlOUJxpBcJH.7z) [Catbox](https://files.catbox.moe/o8fpm4.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/4ln8i11y.7z) |
+| [Oeo](oeo/oeo.md) | MP3 | Unknown | [IA](https://archive.org/details/1752360023_oeo) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/IXLfQxqgilLKVBuCZPZb.7z) [Catbox](https://files.catbox.moe/alkqdl.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/x6xzmxje.7z) |
+| [Saturday-Night Dance Date](saturday-night-dance-date/saturday-night-dance-date.md) | MP3 | Unknown | [IA](https://archive.org/details/1752360189_saturday-night_dance_date) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/FGPXyunbrTIFleJPVZCN.7z) [Catbox](https://files.catbox.moe/jppn7l.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/tt6br855.7z) |
+| [Snowdrop](snowdrop/snowdrop.md) | MP3 | Unknown | [IA](https://archive.org/details/1752360298_snowdrop) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/RLjIlsmETblcFtaQbCky.7z) [Catbox](https://files.catbox.moe/vfrjve.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/68jmht7t.7z) |
+| [This Would Sound Good If I Was A Diverse 8](this-would-sound-good-if-i-was-a-diverse-8/this-would-sound-good-if-i-was-a-diverse-8.md) | MP3 | Unknown | [IA](https://archive.org/details/1752360396_this_would_sound_good_if_i_was_a_diverse_8) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/DfwNhTWEyDybuSGXZWTA.7z) [Catbox](https://files.catbox.moe/zlvhgd.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/dri22qf.7z) |
+| [Tower](tower/tower.md) | MP3 | Unknown | [IA](https://archive.org/details/1752360513_tower) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/cmKkzHelopiwwQfUszG.7z) [Catbox](https://files.catbox.moe/vltykj.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/xu4jaj4f.7z) |
+| [Two Horses](two-horses/two-horses.md) | MP3 | Unknown | [IA](https://archive.org/details/1752360875_two_horses) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/bCpOxaaWpoREurpaIitM.7z) [Catbox](https://files.catbox.moe/7u2k8n.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/9sjb1r3c.7z) |

@@ -1,0 +1,24 @@
+{
+  "id": "the-serpent-cult-of-darkness",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Serpent Cult of Darkness",
+    "artist": "Moloch",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "30:50",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761354767_the_serpent_cult_of_darkness"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/jvbRtldwFuszLgmqQRhw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6m8bv9h8.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "back-in-control",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Back in Control",
+    "artist": "Puissance",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "44:02",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761485526_back_in_control"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/jeqJKPXcCeAFrtGGHrfM.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gd60tm73.7z"
+    }
+  }
+}

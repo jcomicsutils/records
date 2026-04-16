@@ -1,0 +1,24 @@
+{
+  "id": "aihiyo",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Aihiyo",
+    "artist": "Aihiyo [哀秘謡]",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "59:11",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764514095_aihiyo"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ItNZWXtfADnrafczEsiO.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/w51ogr79.7z"
+    }
+  }
+}

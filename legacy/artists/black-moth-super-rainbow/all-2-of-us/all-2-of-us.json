@@ -1,0 +1,27 @@
+{
+  "id": "all-2-of-us",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "All 2 of Us",
+    "artist": "Black Moth Super Rainbow",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:10",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760898190_all_2_of_us"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/FTspxnByMOwshfTXGtt.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/rmgx3r.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/f6qd5387.7z"
+    }
+  }
+}

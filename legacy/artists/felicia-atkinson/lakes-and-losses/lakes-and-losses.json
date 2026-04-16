@@ -1,0 +1,24 @@
+{
+  "id": "lakes-and-losses",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Lakes and Losses",
+    "artist": "Félicia Atkinson",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "44:37",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767034870_lakes_and_losses"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/kc65hkrl.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/hIatNQdTIhpeATzaXszA.7z"
+    }
+  }
+}

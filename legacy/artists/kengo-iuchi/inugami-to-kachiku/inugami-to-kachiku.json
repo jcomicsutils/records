@@ -1,0 +1,27 @@
+{
+  "id": "inugami-to-kachiku",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Inugami to Kachiku [犬神と家畜]",
+    "artist": "Kengo Iuchi [井内賢吾]",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752291770_inugami_to_kachiku__________mp3_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/ovFuGaeDbmGOklkBmhYv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ughl8w.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/n1mni0g2.7z"
+    }
+  }
+}

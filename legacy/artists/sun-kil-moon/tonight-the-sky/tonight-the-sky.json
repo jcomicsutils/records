@@ -1,0 +1,27 @@
+{
+  "id": "tonight-the-sky",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Tonight the Sky",
+    "artist": "Sun Kil Moon",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_human": "40:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768691913_tonight_the_sky"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zjnrb1it.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/e2nonr.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/yTNNapTgLGUafYsxXrW.7z"
+    }
+  }
+}

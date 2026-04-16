@@ -1,0 +1,24 @@
+{
+  "id": "andromeda-heights",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Andromeda Heights",
+    "artist": "Prefab Sprout",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "47:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760232831_andromeda_heights"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/KHUVQPEVZOuyNDUBGWaS.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/m9v1am7f.7z"
+    }
+  }
+}

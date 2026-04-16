@@ -1,0 +1,27 @@
+{
+  "id": "19790915-bbc2-studio-manchester-pro",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "1979.09.15 BBC2 Studio, Manchester (PRO)",
+    "artist": "Joy Division",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752284491_1979_09_15_bbc2_studio__manchester__pro_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/dbeZqfkWBxiwZicUIFcw.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/mufxsp.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tn3z39l.7z"
+    }
+  }
+}

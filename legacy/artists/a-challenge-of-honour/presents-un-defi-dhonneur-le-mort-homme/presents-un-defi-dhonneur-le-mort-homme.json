@@ -1,0 +1,27 @@
+{
+  "id": "presents-un-defi-dhonneur-le-mort-homme",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Presents Un Defi D'Honneur Le Mort Homme",
+    "artist": "A Challenge Of Honour",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "20:39",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760901274_presents_un_defi_d_honneur_le_mort_homme"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/EvWMusrOSATyUebkWvUI.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/it4w4f.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mo2igpii.7z"
+    }
+  }
+}

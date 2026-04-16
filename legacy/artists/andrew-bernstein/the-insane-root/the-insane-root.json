@@ -1,0 +1,27 @@
+{
+  "id": "the-insane-root",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Insane Root",
+    "artist": "Andrew Bernstein",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "25:26",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769365765_the_insane_root"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/424j5jg7.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ha5iez.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/tMJonZonddRGbUaBmMyY.7z"
+    }
+  }
+}

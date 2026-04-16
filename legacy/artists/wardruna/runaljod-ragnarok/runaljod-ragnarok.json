@@ -1,0 +1,24 @@
+{
+  "id": "runaljod-ragnarok",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Runaljod - Ragnarok",
+    "artist": "Wardruna",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "58:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761601562_runaljod_-_ragnarok"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/VGQueKdTerKLrTvZbaij.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fspp5jpy.7z"
+    }
+  }
+}

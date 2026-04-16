@@ -1,0 +1,24 @@
+{
+  "id": "doublet",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "doublet",
+    "artist": "Sorry About My Face",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "16:08",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760474598_doublet"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/xhLEUfpQhjbWabXvaawd.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/k7cf50lw.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cyning",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Cyning",
+    "artist": "Gealdýr",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "17:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760899726_cyning"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/rYapfFyxpoIeMkFroJwS.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ovp9zw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/miznr9xf.7z"
+    }
+  }
+}

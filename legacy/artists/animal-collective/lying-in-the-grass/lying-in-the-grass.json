@@ -1,0 +1,27 @@
+{
+  "id": "lying-in-the-grass",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Lying In The Grass",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:34",
+    "sampling_rate": "88.2kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760848937_lying_in_the_grass"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/xFZcNOgOrJdMLkDHSmHI.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/pcg35c.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7s5jmr2i.7z"
+    }
+  }
+}

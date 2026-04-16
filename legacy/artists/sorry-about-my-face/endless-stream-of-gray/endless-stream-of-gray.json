@@ -1,0 +1,24 @@
+{
+  "id": "endless-stream-of-gray",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Endless stream of gray",
+    "artist": "Sorry About My Face",
+    "codec": "FLAC",
+    "num_tracks": 29,
+    "duration_human": "1:29:53",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760479538_endless_stream_of_gray"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/tQZCHptehedXpAedOgKJ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/33nznsqd.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "vii-nigredo-melancholia-a-black-blacker-than-black",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "VII. Nigredo Melancholia: A Black Blacker than Black",
+    "artist": "Ranges",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "11:24",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759683924_vii__nigredo_melancholia_a_black_blacker_than_blac"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/sNhrkyGKKZEEGXahswqD.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gzidk2.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/uy9vcwe9.7z"
+    }
+  }
+}

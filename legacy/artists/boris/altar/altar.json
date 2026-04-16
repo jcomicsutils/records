@@ -1,0 +1,24 @@
+{
+  "id": "altar",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Altar",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "1:27:02",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764484230_altar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/RPPIxovlXiHGPcOxseDq.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/x9hph7gt.7z"
+    }
+  }
+}

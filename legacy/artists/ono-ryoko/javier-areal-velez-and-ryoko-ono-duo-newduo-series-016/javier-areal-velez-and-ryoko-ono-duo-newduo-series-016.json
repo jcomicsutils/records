@@ -1,0 +1,27 @@
+{
+  "id": "javier-areal-velez-and-ryoko-ono-duo-newduo-series-016",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Javier Areal Velez and Ryoko Ono DUO (NEWDUO series 016)",
+    "artist": "Ono Ryoko",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "21:14",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764961582_javier_areal_velez_and_ryoko_ono_duo__newduo_serie"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/62u43bkx.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/s6tnbp.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/EwEYCkRDYywVAaOHRncl.7z"
+    }
+  }
+}

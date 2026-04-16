@@ -1,0 +1,27 @@
+{
+  "id": "makka-na-shizuku",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "まっ赤なしずく (Makka Na Shizuku)",
+    "artist": "Hanayo [花代]",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "23:10",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769912847__________makka_na_shizuku_"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/s0c4ycpb.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/9y2ybt.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/hWGAKkZITgshIbKeHtsz.7z"
+    }
+  }
+}

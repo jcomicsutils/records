@@ -1,0 +1,27 @@
+{
+  "id": "kitanomaru-hyakkei",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Kitanomaru Hyakkei [北の丸百景]",
+    "artist": "The Gerogerigegege [ザ・ゲロゲリゲゲゲ]",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752405326_kitanomaru_hyakkei________"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/uHpeFRjkjDJwBRIXfLxV.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/abd0mn.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0eim8fp.7z"
+    }
+  }
+}

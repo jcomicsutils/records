@@ -1,0 +1,24 @@
+{
+  "id": "data-mirage-tangram",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Data Mirage Tangram",
+    "artist": "The Young Gods",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "53:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759621171_data_mirage_tangram"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/QQTzFuhuWzmGsaCPgGUI.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6syz7g25.7z"
+    }
+  }
+}

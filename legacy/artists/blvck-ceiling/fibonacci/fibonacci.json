@@ -1,0 +1,27 @@
+{
+  "id": "fibonacci",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Fibonacci",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "8:53",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760899850_fibonacci"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/RhMpOJvRiPWwbSlACFO.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/mc3r2k.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3blt5up.7z"
+    }
+  }
+}

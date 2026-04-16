@@ -1,0 +1,27 @@
+{
+  "id": "sextet-six-marimbas",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sextet - Six Marimbas",
+    "artist": "Steve Reich",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756082893_steve_reich_sextet_-_six_marimbas"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/LQXqRptwmmayXBchkbON.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/tzrv7j.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/y3ov65ku.7z"
+    }
+  }
+}

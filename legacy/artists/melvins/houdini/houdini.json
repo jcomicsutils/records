@@ -1,0 +1,24 @@
+{
+  "id": "houdini",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Houdini",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "54:44",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769315540_houdini"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/x4vkkvc5.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/SdqnnvFmVDtxhtcocJtQ.7z"
+    }
+  }
+}

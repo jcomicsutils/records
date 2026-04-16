@@ -1,0 +1,24 @@
+{
+  "id": "a-document-film-of-keiji-haino",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Document Film of Keiji Haino",
+    "artist": "Fushitsusha [不失者]",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1748106912_a_document_film_of_keiji_haino"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/IAnQpSlOYcKAsBhCNxJR.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8q2taq23.7z"
+    }
+  }
+}

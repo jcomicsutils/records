@@ -1,0 +1,30 @@
+{
+  "id": "010-down-the-river-around-the-bend",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "010. Down the River, Around the Bend.",
+    "artist": "Piranesi.",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747975433_piranesi__-_010__down_the_river-_around_the_bend"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/fDKVBkiDuPqAWWfIbbhI.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/h3pmrt.7z"
+    },
+    "piranesiproject_bandcamp_com": {
+      "url": "https://piranesiproject.bandcamp.com/album/010-down-the-river-around-the-bend"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hh2zq2ae.7z"
+    }
+  }
+}

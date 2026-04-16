@@ -1,0 +1,27 @@
+{
+  "id": "extra-capsular-extraction",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Extra-Capsular Extraction",
+    "artist": "Earth",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "32:21",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763922530_extra-capsular_extraction"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/tpwmCTFkYxxewcJLII.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gxda05.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ha29tnsm.7z"
+    }
+  }
+}

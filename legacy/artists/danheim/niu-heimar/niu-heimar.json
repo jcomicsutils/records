@@ -1,0 +1,27 @@
+{
+  "id": "niu-heimar",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Níu Heimar",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:49",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760754929_n_u_heimar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ubmsIcgdvPXqKeQcQqnR.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/apscdx.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6g7rm82o.7z"
+    }
+  }
+}

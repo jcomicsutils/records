@@ -1,0 +1,27 @@
+{
+  "id": "split",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Split",
+    "artist": "Moloch",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "12:48",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761346238_split__2020_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/eaBQYhcRhIMPnUXyOAFR.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/f5s69r.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dhrqnls4.7z"
+    }
+  }
+}

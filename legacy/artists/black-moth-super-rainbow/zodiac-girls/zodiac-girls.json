@@ -1,0 +1,27 @@
+{
+  "id": "zodiac-girls",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Zodiac Girls",
+    "artist": "Black Moth Super Rainbow",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "6:59",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760918955_zodiac_girls"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/tFXGyydiQextrHgEPocT.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/m6n0e0.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vi6sivu.7z"
+    }
+  }
+}

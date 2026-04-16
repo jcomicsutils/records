@@ -1,0 +1,27 @@
+{
+  "id": "push-away-the-moon",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Push Away the Moon",
+    "artist": "Reaching Away",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752346653_push_away_the_moon"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/HQZAYqkCZOALalNViB.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/bzws8c.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qrkzj5kx.7z"
+    }
+  }
+}

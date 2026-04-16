@@ -1,0 +1,24 @@
+{
+  "id": "hot-fish",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hot Fish",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "27:45",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769314537_hot_fish"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0rp90gke.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/qNpKsJbchMjiNkJnuFW.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "alienist",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Alienist",
+    "artist": "Psychic TV",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "34:27",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759675810_alienist"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/CEwPikKOyRFjkYrDxNDQ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/q0fx3p94.7z"
+    }
+  }
+}

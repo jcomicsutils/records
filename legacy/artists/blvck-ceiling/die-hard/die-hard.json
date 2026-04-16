@@ -1,0 +1,27 @@
+{
+  "id": "die-hard",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Die Hard",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:02",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760898788_die_hard"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/cTcMmeDdSLgccKhfuxeg.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/4vdq38.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/u21zu5b.7z"
+    }
+  }
+}

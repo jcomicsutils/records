@@ -1,0 +1,27 @@
+{
+  "id": "never",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Never",
+    "artist": "Jesu",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "30:47",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764205147_never"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ErlBptDXEUUTAfpotURp.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/tw2eyy.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mimpy5yo.7z"
+    }
+  }
+}

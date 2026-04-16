@@ -1,0 +1,24 @@
+{
+  "id": "ty-zhe-ne-znaesh-the-bug-remix",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ty Zhe Ne Znaesh (The Bug Remix)",
+    "artist": "Molchat Doma",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "12:40",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760410201_ty_zhe_ne_znaesh__the_bug_remix_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/WckTHltXXbnJlBqFMgRW.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/61pc9jba.7z"
+    }
+  }
+}

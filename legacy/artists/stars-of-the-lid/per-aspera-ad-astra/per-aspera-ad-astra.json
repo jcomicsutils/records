@@ -1,0 +1,27 @@
+{
+  "id": "per-aspera-ad-astra",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Per aspera ad astra",
+    "artist": "Stars of the Lid",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754838614_per_aspera_ad_astra"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/uwZJxqPjhcnbGJdAzKs.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ojk54z.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mxduadvd.7z"
+    }
+  }
+}

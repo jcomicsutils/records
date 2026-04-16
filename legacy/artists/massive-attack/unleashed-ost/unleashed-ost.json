@@ -1,0 +1,24 @@
+{
+  "id": "unleashed-ost",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Unleashed OST",
+    "artist": "Massive Attack",
+    "codec": "FLAC",
+    "num_tracks": 23,
+    "duration_human": "58:39",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760132070_unleashed_ost"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/wLaUJjfzSDvNJgpqZdQO.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0uomt86v.7z"
+    }
+  }
+}

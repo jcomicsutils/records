@@ -1,0 +1,24 @@
+{
+  "id": "ass",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "ASS",
+    "artist": "Jochen Arbeit",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "43:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760387565_ass"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/akrVbsXrwwXmnDSrZYS.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hwlqt2.7z"
+    }
+  }
+}

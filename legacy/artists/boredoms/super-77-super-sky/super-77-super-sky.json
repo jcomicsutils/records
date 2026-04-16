@@ -1,0 +1,24 @@
+{
+  "id": "super-77-super-sky",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Super 77 / Super Sky",
+    "artist": "Boredoms",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "33:56",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765075919_super_77_-_super_sky"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lj9o5yeq.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b65/kwJVTFlOsfjdVahFxXvm.7z"
+    }
+  }
+}

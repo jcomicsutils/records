@@ -1,0 +1,24 @@
+{
+  "id": "matters-of-mind-body-and-soul",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Matters of Mind, Body and Soul",
+    "artist": "Clan of Xymox",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "1:04:33",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761005622_matters_of_mind__body_and_soul"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/pkZQYUVKKtwfdaRrlevG.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qcrn2k.7z"
+    }
+  }
+}

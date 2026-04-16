@@ -1,0 +1,24 @@
+{
+  "id": "second-nature",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Second Nature",
+    "artist": "The Young Gods",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "52:16",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759686268_second_nature"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/IibRhlbpKILSeiUjTvi.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ur81046o.7z"
+    }
+  }
+}

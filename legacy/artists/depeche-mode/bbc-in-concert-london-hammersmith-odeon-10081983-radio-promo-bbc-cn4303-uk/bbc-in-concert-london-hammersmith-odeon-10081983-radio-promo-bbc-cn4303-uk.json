@@ -1,0 +1,27 @@
+{
+  "id": "bbc-in-concert-london-hammersmith-odeon-10081983-radio-promo-bbc-cn4303-uk",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "BBC In Concert (London Hammersmith Odeon 10.08.1983) (Radio Promo, BBC CN4303, UK)",
+    "artist": "Depeche Mode",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746428405_1984_-_bbc_in_concert__london_hammersmith_odeon_10"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/CLEGgWIBYjlxMwIJUiUY.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/27hp3f.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/54f7qw8v.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "take-a-first-ride",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "TAKE A FIRST RIDE?",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "11:16",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760212229_take_a_first_ride"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/NvTAcPdmfOKtvqFaZEXU.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2vp7r4.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4dxljn58.7z"
+    }
+  }
+}

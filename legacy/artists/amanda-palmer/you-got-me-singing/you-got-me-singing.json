@@ -1,0 +1,24 @@
+{
+  "id": "you-got-me-singing",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "You Got Me Singing",
+    "artist": "Amanda Palmer",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "47:52",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763756972_you_got_me_singing"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b63/KcEQUoXNCNaktgkBlvoz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/stqxdsxn.7z"
+    }
+  }
+}

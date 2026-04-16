@@ -1,0 +1,27 @@
+{
+  "id": "pursuit-of-pleasure",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Pursuit of Pleasure",
+    "artist": "Sutcliffe Jügend",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752397089_pursuit_of_pleasure"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/XIBUcvbhFrvAauRQACO.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/swzuff.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xnwei500.7z"
+    }
+  }
+}

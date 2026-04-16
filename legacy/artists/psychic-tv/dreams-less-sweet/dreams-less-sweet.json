@@ -1,0 +1,24 @@
+{
+  "id": "dreams-less-sweet",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Dreams Less Sweet",
+    "artist": "Psychic TV",
+    "codec": "FLAC",
+    "num_tracks": 19,
+    "duration_human": "43:23",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759685890_dreams_less_sweet"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/bJEwXJbLLsPUXcuRGPPm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1vo5k49p.7z"
+    }
+  }
+}

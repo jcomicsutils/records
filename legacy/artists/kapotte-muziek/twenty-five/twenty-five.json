@@ -1,0 +1,21 @@
+{
+  "id": "twenty-five",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Twenty Five",
+    "artist": "Kapotte Muziek",
+    "codec": "FLAC",
+    "num_tracks": 70,
+    "duration_human": "11:39:49",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761150948_twenty_five"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/WkoZQTVwRGhymGbolTuw.7z"
+    }
+  }
+}

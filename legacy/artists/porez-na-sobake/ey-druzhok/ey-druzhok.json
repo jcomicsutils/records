@@ -1,0 +1,27 @@
+{
+  "id": "ey-druzhok",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ey, Druzhok [Эй, Дружок]",
+    "artist": "Porez Na Sobake [Порез на собаке]",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752325013_____________2025_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/akgGtqDxnGbtlutOlomo.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/eeso09.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lsi0nv20.7z"
+    }
+  }
+}

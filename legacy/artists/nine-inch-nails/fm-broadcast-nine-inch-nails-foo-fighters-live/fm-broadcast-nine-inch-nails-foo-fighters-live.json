@@ -1,0 +1,24 @@
+{
+  "id": "fm-broadcast-nine-inch-nails-foo-fighters-live",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "FM Broadcast Nine Inch Nails & Foo Fighters (Live)",
+    "artist": "Nine Inch Nails",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_human": "1:08:57",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761357209_fm_broadcast_nine_inch_nails___foo_fighters__live_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/fdinYBbtjBIynJiHmKHt.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4zkk5lw7.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "if-you-think-im-a-bitch-you-should-meet-gfoty",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "If You Think I'm a Bitch, You Should Meet Gfoty",
+    "artist": "GFOTY",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "12:44",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760475838_if_you_think_i_m_a_bitch__you_should_meet_gfoty"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/VRSUgfaiJooJdRKzuJs.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/oivl49.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9l62y8o.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "sayo",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sayo 小夜",
+    "artist": "Ono Ryoko",
+    "codec": "MP3",
+    "num_tracks": 7,
+    "duration_human": "35:07",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764962668_sayo___"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/yq6cy3bm.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/u6dy81.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/QsHnYSnlFgtELoSdGfkE.7z"
+    }
+  }
+}

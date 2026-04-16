@@ -1,0 +1,24 @@
+{
+  "id": "the-downward-spiral-deluxe-edition",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Downward Spiral (Deluxe Edition)",
+    "artist": "Nine Inch Nails",
+    "codec": "FLAC",
+    "num_tracks": 27,
+    "duration_human": "2:15:38",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761418773_the_downward_spiral__deluxe_edition_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/XTSknZgyrDNKEkIbLUBX.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bujgysbh.7z"
+    }
+  }
+}

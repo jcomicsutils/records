@@ -1,0 +1,27 @@
+{
+  "id": "thirteen",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Thirteen",
+    "artist": "cEvin Key",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:43",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760294204_thirteen"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/lrqNhQmIVQooqxapDMyR.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/p8cyo0.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/o7h4t5w7.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "os-nicks",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Os Nicks",
+    "artist": "Rogério Skylab",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757517182_os_nicks"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ilMjEhbBzSizTIdtoiXj.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/l2k25s.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/db83w3e3.7z"
+    }
+  }
+}

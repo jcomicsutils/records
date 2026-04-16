@@ -1,0 +1,24 @@
+{
+  "id": "paris-live",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Paris (Live)",
+    "artist": "Rammstein",
+    "codec": "FLAC",
+    "num_tracks": 22,
+    "duration_human": "1:57:19",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761504804_paris__live_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/AHrBtKenpxKfUzBolDJX.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/igw0myqj.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "bigger-on-the-inside-feat-zoe-keating",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Bigger on the Inside (feat. Zoë Keating)",
+    "artist": "Amanda Palmer",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "7:52",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763741704_bigger_on_the_inside__feat__zo__keating_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/gozdPXPIjydwVMBeZxTD.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/rbb6e2.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bq0gmm5s.7z"
+    }
+  }
+}

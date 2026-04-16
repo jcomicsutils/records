@@ -1,0 +1,18 @@
+# Pedestrian Deposit — Vestige
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | 44.1kHz |
+| Tracks | 5 |
+| Duration | 31:50 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/1761370775_vestige)
+- [Fileditch](https://fileditchfiles.me/file.php?f=/s24/aGBXpweVBcrKCaMwWzXm.7z)
+- [Catbox](https://files.catbox.moe/yfkmgy.7z)
+- [Pomf2 Lain La](https://pomf2.lain.la/f/flqudd9c.7z)
+
+---
+*Legacy Archive*

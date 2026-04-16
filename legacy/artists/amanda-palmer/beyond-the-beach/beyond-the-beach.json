@@ -1,0 +1,27 @@
+{
+  "id": "beyond-the-beach",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Beyond the Beach",
+    "artist": "Amanda Palmer",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:50",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763741471_beyond_the_beach"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/YHiakgJkcCUdNCrigVrZ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/w5rxk3.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7jp1q2hs.7z"
+    }
+  }
+}

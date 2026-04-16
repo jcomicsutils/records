@@ -1,0 +1,27 @@
+{
+  "id": "ulaan-markhor",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ulaan Markhor",
+    "artist": "Ulaan Markhor",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "37:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769914898_ulaan_markhor"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4wbz66y.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8ks45d.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/NrMQqWswzqqiDpbojcKL.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "episode-008-keith-rowe-jon-abbey",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Episode 008 - Keith Rowe & Jon Abbey",
+    "artist": "Keith Rowe",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1755390022_episode_008_-_keith_rowe___jon_abbey"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/VjFatuGuWdhgAtSTcHwV.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nm3o7mjv.7z"
+    }
+  }
+}

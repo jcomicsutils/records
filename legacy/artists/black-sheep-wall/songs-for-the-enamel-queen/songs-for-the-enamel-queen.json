@@ -1,0 +1,24 @@
+{
+  "id": "songs-for-the-enamel-queen",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Songs for the Enamel Queen",
+    "artist": "Black Sheep Wall",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757908367_songs_for_the_enamel_queen"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b58/ozhAXgjSCHHNcueFexAy.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fh7osto0.7z"
+    }
+  }
+}

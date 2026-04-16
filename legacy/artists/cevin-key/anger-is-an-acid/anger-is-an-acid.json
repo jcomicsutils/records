@@ -1,0 +1,27 @@
+{
+  "id": "anger-is-an-acid",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Anger is an Acid",
+    "artist": "cEvin Key",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760252269_anger_is_an_acid"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/okuuRlAPhYQhnjgubiL.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/632o0e.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/a2uzm2yb.7z"
+    }
+  }
+}

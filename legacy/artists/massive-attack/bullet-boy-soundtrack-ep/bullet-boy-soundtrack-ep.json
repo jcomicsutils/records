@@ -1,0 +1,27 @@
+{
+  "id": "bullet-boy-soundtrack-ep",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Bullet Boy Soundtrack E.P.",
+    "artist": "Massive Attack",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "33:04",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759965481_bullet_boy_soundtrack_e_p"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LnTiLUaEqsWdMdsvo.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/679ecb.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/icq4h0cp.7z"
+    }
+  }
+}

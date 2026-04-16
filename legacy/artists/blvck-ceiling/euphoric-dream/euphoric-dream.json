@@ -1,0 +1,27 @@
+{
+  "id": "euphoric-dream",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "ｅｕｐｈｏｒｉｃ__ｄｒｅａｍ",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "6:01",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760899544________________"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/bviUkWQAwkmMUqiKGriX.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5llvhp.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fwt17pt.7z"
+    }
+  }
+}

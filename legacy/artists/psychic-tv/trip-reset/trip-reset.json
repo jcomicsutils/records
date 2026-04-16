@@ -1,0 +1,24 @@
+{
+  "id": "trip-reset",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Trip Reset",
+    "artist": "Psychic TV",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "1:17:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759785593_trip_reset"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/zjdOMqVArdluhkaFarC.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mv9vebo.7z"
+    }
+  }
+}

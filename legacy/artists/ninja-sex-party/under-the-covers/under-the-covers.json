@@ -1,0 +1,24 @@
+{
+  "id": "under-the-covers",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Under the Covers",
+    "artist": "Ninja Sex Party",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "45:56",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761366131_under_the_covers"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/rYjeAEjYSmLERaIcZfzw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/chocujhv.7z"
+    }
+  }
+}

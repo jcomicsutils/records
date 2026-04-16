@@ -1,0 +1,27 @@
+{
+  "id": "another-reincarnation",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Another Reincarnation",
+    "artist": "Psychedelic Porn Crumpets",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760482213_another_reincarnation"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/dpkclHnkyshpDFaauXGn.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/bb2esf.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ffdfglg.7z"
+    }
+  }
+}

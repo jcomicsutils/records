@@ -1,0 +1,27 @@
+{
+  "id": "fate-remixes",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Fate Remixes",
+    "artist": "Soviet Soviet",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "6:31",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761510569_fate_remixes"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/KwxyeXnxKUbcxNIznci.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/g34hnh.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qjz6iwjn.7z"
+    }
+  }
+}

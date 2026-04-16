@@ -1,0 +1,27 @@
+{
+  "id": "lite",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "LITE",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "32:14",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760904743_lite"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/FMoyknQubRezoYUTdvzV.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/zv1m66.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/sst027od.7z"
+    }
+  }
+}

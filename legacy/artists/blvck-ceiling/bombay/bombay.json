@@ -1,0 +1,27 @@
+{
+  "id": "bombay",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Bombay",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:08",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760896996_bombay"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/nqjCjmyEfHzOtgfPTtjI.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/qr4wj6.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/w9qhs5h.7z"
+    }
+  }
+}

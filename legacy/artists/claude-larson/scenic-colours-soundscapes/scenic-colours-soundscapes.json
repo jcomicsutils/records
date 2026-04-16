@@ -1,0 +1,24 @@
+{
+  "id": "scenic-colours-soundscapes",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Scenic Colours - Soundscapes",
+    "artist": "Claude Larson",
+    "codec": "FLAC",
+    "num_tracks": 25,
+    "duration_human": "1:11:58",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759785294_scenic_colours_-_soundscapes"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/yqWhAVdOMhCWUMVqQNHU.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/b89oucxw.7z"
+    }
+  }
+}

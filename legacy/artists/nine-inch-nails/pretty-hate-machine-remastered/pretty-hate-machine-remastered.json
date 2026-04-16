@@ -1,0 +1,24 @@
+{
+  "id": "pretty-hate-machine-remastered",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Pretty Hate Machine (Remastered)",
+    "artist": "Nine Inch Nails",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "53:10",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761410280_pretty_hate_machine__remastered_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/wNVomshcBuZnGNmjcdCT.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/haj4pa3f.7z"
+    }
+  }
+}

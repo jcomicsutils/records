@@ -1,0 +1,27 @@
+{
+  "id": "abyss",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "abyss",
+    "artist": "Maximum Movement Theatre",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "22:45",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761308617_abyss"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/CdlBPgAEXmMYDvXRDORc.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7d12k3.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dxk8wi3c.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "carpathian-winter",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Carpathian Winter",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760897566_carpathian_winter"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/VnHuEsCJoFMFZzkFoUoV.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ltdfg4.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fiw60fmz.7z"
+    }
+  }
+}

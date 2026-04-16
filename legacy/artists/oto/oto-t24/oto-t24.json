@@ -1,0 +1,27 @@
+{
+  "id": "oto-t24",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "(oTo) T24",
+    "artist": "(oTo)",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746075183_oto_t24___basquadeck_shelf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/LhLQLXVqrrrckklDbci.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/36f9g3.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4zmn2gkn.7z"
+    }
+  }
+}

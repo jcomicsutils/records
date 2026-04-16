@@ -1,0 +1,27 @@
+{
+  "id": "the-electric-kool-aide-results",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Electric Kool-Aide Results",
+    "artist": "Acid Maso Temple",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746104456_the_electric_koole-aide_results"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/whBPvQvdKbsPzjakNwYK.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jky7wo.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ugrfvd1.7z"
+    }
+  }
+}

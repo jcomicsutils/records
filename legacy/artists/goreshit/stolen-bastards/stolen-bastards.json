@@ -1,0 +1,24 @@
+{
+  "id": "stolen-bastards",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "stolen bastards",
+    "artist": "Goreshit",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "1:05:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760556542_stolen_bastards"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/HhKLkZkcnaZEcvWaRoqs.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/sx96aox.7z"
+    }
+  }
+}

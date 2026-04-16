@@ -1,0 +1,21 @@
+{
+  "id": "strange-nights-of-stone",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Strange Nights of Stone",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 152,
+    "duration_human": "11:03:31",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760570957_strange_nights_of_stone"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/ecmzmxYHUBRedIAOpi.7z"
+    }
+  }
+}

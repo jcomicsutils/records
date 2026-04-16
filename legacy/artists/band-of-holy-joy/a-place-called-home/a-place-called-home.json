@@ -1,0 +1,27 @@
+{
+  "id": "a-place-called-home",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Place Called Home",
+    "artist": "Band of Holy Joy",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:41",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759946286_a_place_called_home"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PPTHmjNOlzNVRjBlbEW.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/z9ghfg.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/pf7j71kc.7z"
+    }
+  }
+}

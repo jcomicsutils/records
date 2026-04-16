@@ -1,0 +1,27 @@
+{
+  "id": "eu-nao-do-a-foda",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "EU NAO DO A FODA",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759614256_eu_nao_do_a_foda"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MjUUSfFjHJDibjydiFfQ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/a6uq4t.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/m5wx5h71.7z"
+    }
+  }
+}

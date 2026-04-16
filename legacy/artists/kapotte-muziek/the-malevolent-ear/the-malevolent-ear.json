@@ -1,0 +1,24 @@
+{
+  "id": "the-malevolent-ear",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Malevolent Ear",
+    "artist": "Kapotte Muziek",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "1:01:11",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761144731_the_malevolent_ear"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ZsxwTGLEeAOesFioJQVj.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/kgna916g.7z"
+    }
+  }
+}

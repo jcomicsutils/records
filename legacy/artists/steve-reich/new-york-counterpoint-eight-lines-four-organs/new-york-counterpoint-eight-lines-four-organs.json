@@ -1,0 +1,24 @@
+{
+  "id": "new-york-counterpoint-eight-lines-four-organs",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "New York Counterpoint, Eight Lines, Four Organs",
+    "artist": "Steve Reich",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756063006_new_york_counterpoint__eight_lines__four_organs"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/xgnYQxsrFtOafgaWELz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lz85g38l.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "live-at-the-tripledoor-18042008",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at the Tripledoor, 18.04.2008",
+    "artist": "Stars of the Lid",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754837088_live_at_the_tripledoor__18_04_2008"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/oyOKPNiQsYxArlVhvTyw.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/hqw6xn.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gslupqf3.7z"
+    }
+  }
+}

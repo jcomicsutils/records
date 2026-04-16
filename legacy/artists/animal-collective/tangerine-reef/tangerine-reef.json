@@ -1,0 +1,21 @@
+{
+  "id": "tangerine-reef",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Tangerine Reef",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "52:50",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760824143_tangerine_reef"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/CZUYRykuYYUAsocQVeb.7z"
+    }
+  }
+}

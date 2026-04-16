@@ -1,0 +1,27 @@
+{
+  "id": "bana",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Bana",
+    "artist": "Gealdýr",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:05",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760899606_bana"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/uQgIalQvsqXFbSLXXqQz.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/r73fh8.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1umtvm9d.7z"
+    }
+  }
+}

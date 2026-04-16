@@ -1,0 +1,21 @@
+{
+  "id": "sung-tongs-live-at-the-theatre-at-ace-hotel",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sung Tongs (Live at the Theatre at Ace Hotel)",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 18,
+    "duration_human": "1:40:51",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760815121_sung_tongs__live_at_the_theatre_at_ace_hotel_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/UVinMwXOeUHidyZzGHQS.7z"
+    }
+  }
+}

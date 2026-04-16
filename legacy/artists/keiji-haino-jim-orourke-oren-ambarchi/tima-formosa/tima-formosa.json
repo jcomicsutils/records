@@ -1,0 +1,24 @@
+{
+  "id": "tima-formosa",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Tima Formosa",
+    "artist": "Keiji Haino, Jim O'Rourke & Oren Ambarchi",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "59:43",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764532776_tima_formosa"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/EjvQArrdrbSDBphFeIep.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bux2xy6.7z"
+    }
+  }
+}

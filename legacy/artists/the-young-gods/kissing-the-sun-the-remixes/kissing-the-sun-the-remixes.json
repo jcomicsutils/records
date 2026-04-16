@@ -1,0 +1,24 @@
+{
+  "id": "kissing-the-sun-the-remixes",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Kissing The Sun The Remixes",
+    "artist": "The Young Gods",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "39:14",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759631738_kissing_the_sun_the_remixes"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/WJpjMeNilmsyoBBIJbxF.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rgpx3feo.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "songs-of-faith-and-devotion-pony-canyon-inc-pccy-00560",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Songs Of Faith And Devotion [Pony Canyon Inc. PCCY-00560]",
+    "artist": "Depeche Mode",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746201133_depeche_mode_-_songs_of_faith_and_devotion__1993__"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/LUaDQbJhhiTENOVFqyNL.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ontj545n.7z"
+    }
+  }
+}

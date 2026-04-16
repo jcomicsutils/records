@@ -1,0 +1,27 @@
+{
+  "id": "hills",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hills",
+    "artist": "Thuja",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "42:14",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769913553_hills"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/297jol1c.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/6wlulb.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/dvMvgvXemXxikTUlMoRa.7z"
+    }
+  }
+}

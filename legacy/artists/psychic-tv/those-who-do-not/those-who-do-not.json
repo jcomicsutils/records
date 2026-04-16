@@ -1,0 +1,24 @@
+{
+  "id": "those-who-do-not",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Those Who Do Not",
+    "artist": "Psychic TV",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "1:12:41",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759782089_those_who_do_not"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/gwOYxWfGXXaOoraOqjdh.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/q9xvxg9c.7z"
+    }
+  }
+}

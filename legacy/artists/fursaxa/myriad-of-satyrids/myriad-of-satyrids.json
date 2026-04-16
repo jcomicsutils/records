@@ -1,0 +1,27 @@
+{
+  "id": "myriad-of-satyrids",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Myriad of Satyrids",
+    "artist": "Fursaxa",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746331226_myriad_of_satyrids"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/HeQTJKXamdkTyvrpHSs.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/p20jmk.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/p5zubvkv.7z"
+    }
+  }
+}

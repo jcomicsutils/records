@@ -1,0 +1,27 @@
+{
+  "id": "demagogue",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Demagogue",
+    "artist": "Ranges",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:15",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759624593_demagogue"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/rNjLrCggqRpHyhEHzJzl.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ymvnmt.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/g4185lq5.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "beasts-in-the-garden",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Beasts in the Garden",
+    "artist": "Spires That in the Sunset Rise",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746302541_beasts_in_the_garden"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/XXeKlyWSvlNTYJwhBtG.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9k598lsq.7z"
+    }
+  }
+}

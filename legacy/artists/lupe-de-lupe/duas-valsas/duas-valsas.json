@@ -1,0 +1,27 @@
+{
+  "id": "duas-valsas",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Duas Valsas",
+    "artist": "Lupe de Lupe",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758495335_duas_valsas"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/DxRlQOXyVXTzNRrEcupW.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2z4dbc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/yuxi47rh.7z"
+    }
+  }
+}

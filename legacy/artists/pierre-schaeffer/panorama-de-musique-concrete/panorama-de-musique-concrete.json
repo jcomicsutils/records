@@ -1,0 +1,24 @@
+{
+  "id": "panorama-de-musique-concrete",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Panorama de Musique Concréte",
+    "artist": "Pierre Schaeffer",
+    "codec": "FLAC",
+    "num_tracks": 27,
+    "duration_human": "1:19:32",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767134783_panorama_de_musique_concr_te"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8mwjzml9.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/cmNCrVmgdujjvZwojyMj.7z"
+    }
+  }
+}

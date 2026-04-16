@@ -1,0 +1,24 @@
+{
+  "id": "im-throwing-my-arms-around-paris-cd-1",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "I'm Throwing My Arms Around Paris (CD 1)",
+    "artist": "Morrissey",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754911867_2009_-_i_m_throwing_my_arms_around_paris__cd_1_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/PddPfHHvCFoIvqgAqwx.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2ffpup6x.7z"
+    }
+  }
+}

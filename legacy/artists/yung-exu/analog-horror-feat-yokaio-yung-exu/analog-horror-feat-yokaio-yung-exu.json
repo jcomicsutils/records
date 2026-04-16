@@ -1,0 +1,27 @@
+{
+  "id": "analog-horror-feat-yokaio-yung-exu",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "ANALOG HORROR (feat. yokaio & YUNG EXU)",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:41",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759610619_analog_horror__feat__yokaio___yung_exu_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/rIjwfcBFIjOsapHvIEAD.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/fh1hl6.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dottqm3.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "from-the-earth-to-the-spheres",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "From the Earth to the Spheres",
+    "artist": "Thuja",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_human": "37:26",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769913167_from_the_earth_to_the_spheres"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/z0mxkww0.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/9644ua.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/HsKwCFLuCWkIPpHAOIPT.7z"
+    }
+  }
+}

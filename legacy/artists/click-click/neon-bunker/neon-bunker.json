@@ -1,0 +1,27 @@
+{
+  "id": "neon-bunker",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Neon Bunker",
+    "artist": "Click Click",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "19:55",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760759761_neon_bunker"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PKBnxWMZgFYgxaaaQOod.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8arpl8.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/sn5p07d.7z"
+    }
+  }
+}

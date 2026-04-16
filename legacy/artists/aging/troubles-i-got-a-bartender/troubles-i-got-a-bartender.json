@@ -1,0 +1,27 @@
+{
+  "id": "troubles-i-got-a-bartender",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Troubles? I Got a Bartender",
+    "artist": "Aging",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747430103_troubles_i_got_a_bartender"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/ftqZLiSWZtCmhWeXmOKP.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/181qh6.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bo3m3v4.7z"
+    }
+  }
+}

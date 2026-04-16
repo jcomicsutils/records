@@ -1,0 +1,27 @@
+{
+  "id": "maze-in-the-dark-forest",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Maze in the dark forest",
+    "artist": "Black Hill",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "32:56",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760743500_maze_in_the_dark_forest"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/TguvZuiDsAyFcmdXBhz.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/hyd8zm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/o70dutth.7z"
+    }
+  }
+}

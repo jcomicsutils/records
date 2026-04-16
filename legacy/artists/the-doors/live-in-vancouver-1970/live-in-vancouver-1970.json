@@ -1,0 +1,24 @@
+{
+  "id": "live-in-vancouver-1970",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live in Vancouver 1970",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 22,
+    "duration_human": "1:54:25",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760719255_live_in_vancouver_1970"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/VRMoYvDXqdOUWPddMVg.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ry8xrhfs.7z"
+    }
+  }
+}

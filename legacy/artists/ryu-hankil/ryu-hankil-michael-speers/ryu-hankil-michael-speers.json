@@ -1,0 +1,27 @@
+{
+  "id": "ryu-hankil-michael-speers",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ryu Hankil / Michael Speers",
+    "artist": "Ryu Hankil",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1755204673_ryu_hankil_-_michael_speers"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/bGkzrdQXmJBWOgJnxBL.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/9hu2n9.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/yzhs8v.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "pitfalls-in-serving-warrants-acoustic",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Pitfalls in Serving Warrants (Acoustic)",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:48",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769307252_pitfalls_in_serving_warrants__acoustic_"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nitegxl2.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/rc8oi6.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/KVbTtiupjNMlslvvsZIZ.7z"
+    }
+  }
+}

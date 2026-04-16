@@ -1,0 +1,27 @@
+{
+  "id": "floodgate-single",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Floodgate  (Single)",
+    "artist": "Soft Kill",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:36",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759971559_floodgate__single_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/TxbQKhFKdnKjudyPUvyj.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ivces2.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1ctomni6.7z"
+    }
+  }
+}

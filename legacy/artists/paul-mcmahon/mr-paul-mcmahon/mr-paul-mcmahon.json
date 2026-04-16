@@ -1,0 +1,24 @@
+{
+  "id": "mr-paul-mcmahon",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Mr. Paul Mcmahon",
+    "artist": "Paul McMahon",
+    "codec": "FLAC",
+    "num_tracks": 22,
+    "duration_human": "1:16:28",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761407849_mr__paul_mcmahon"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/lfOOjVgPKapKDjVSzThB.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rxqj1gdf.7z"
+    }
+  }
+}

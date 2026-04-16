@@ -1,0 +1,24 @@
+{
+  "id": "unfinished-sympathy",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Unfinished Sympathy",
+    "artist": "Massive Attack",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "36:08",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760130481_unfinished_sympathy"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/hbNygcFImYNDvnFTJDoG.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gvk4xraj.7z"
+    }
+  }
+}

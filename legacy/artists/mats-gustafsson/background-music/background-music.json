@@ -1,0 +1,27 @@
+{
+  "id": "background-music",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Background Music",
+    "artist": "Mats Gustafsson",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1753649301_background_music"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/AuPivXahwXNnChgOmil.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8wdovb.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jtukkwsp.7z"
+    }
+  }
+}

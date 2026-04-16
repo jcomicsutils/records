@@ -1,0 +1,24 @@
+{
+  "id": "bad-witch",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Bad Witch",
+    "artist": "Nine Inch Nails",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "30:14",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761347278_bad_witch"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/HTPOdsofZMrydnFcGBfP.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bzs2puua.7z"
+    }
+  }
+}

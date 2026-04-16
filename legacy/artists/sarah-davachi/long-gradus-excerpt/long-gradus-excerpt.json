@@ -1,0 +1,27 @@
+{
+  "id": "long-gradus-excerpt",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Long Gradus Excerpt",
+    "artist": "Sarah Davachi",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "9:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761589335_long_gradus_excerpt"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/pmVhcxWqDmyuEsHNnBm.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ztla3l.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qyr2w264.7z"
+    }
+  }
+}

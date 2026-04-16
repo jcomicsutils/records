@@ -1,0 +1,24 @@
+{
+  "id": "heave-the-gambrel-roof",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Heave the Gambrel Roof",
+    "artist": "Hala Strana",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "40:11",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769915813_heave_the_gambrel_roof"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/057i5009.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/ngLFoDkDMVMPoZbYtuq.7z"
+    }
+  }
+}

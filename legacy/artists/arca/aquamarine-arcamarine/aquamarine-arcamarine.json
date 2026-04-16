@@ -1,0 +1,27 @@
+{
+  "id": "aquamarine-arcamarine",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Aquamarine / Arcamarine",
+    "artist": "Arca",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:14",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760226862_aquamarine_-_arcamarine"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/zEwStgyEJmnuvgBuwypW.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/9pqbj2.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/n5b5a7g.7z"
+    }
+  }
+}

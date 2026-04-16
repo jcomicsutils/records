@@ -1,0 +1,24 @@
+{
+  "id": "earth-2-special-low-frequency-version",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Earth 2: Special Low Frequency Version",
+    "artist": "Earth",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "1:13:01",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763921444_earth_2_special_low_frequency_version"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/nUlihGLndXtWqGFEHBz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/j3ghf3iq.7z"
+    }
+  }
+}

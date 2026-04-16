@@ -1,0 +1,24 @@
+{
+  "id": "the-gag-file",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Gag File",
+    "artist": "Aaron Dilloway",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "35:38",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763747323_the_gag_file"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/POoinLPTkpFzwlBcEJa.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nc2whjbb.7z"
+    }
+  }
+}

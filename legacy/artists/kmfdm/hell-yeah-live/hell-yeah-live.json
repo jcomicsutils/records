@@ -1,0 +1,24 @@
+{
+  "id": "hell-yeah-live",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hell Yeah (Live)",
+    "artist": "KMFDM",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:35",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761282598_hell_yeah__live_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/jcgaffitOeoDfFpdobaB.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4v4m9x8.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "nada-sera-como-antes",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Nada Será Como Antes",
+    "artist": "Lô Borges",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:02",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763906997_nada_ser__como_antes"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/DzCBgggLMvNYIBXrRcUL.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8nzxif.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/17lwb86t.7z"
+    }
+  }
+}

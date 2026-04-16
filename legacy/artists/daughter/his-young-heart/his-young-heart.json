@@ -1,0 +1,27 @@
+{
+  "id": "his-young-heart",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "His Young Heart",
+    "artist": "Daughter",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "16:55",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "": {
+      "url": ""
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/1760992090_his_young_heart"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/CjvBbEfTgSxdTvqBKeb.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fgs3zqi0.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ghost",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ghost",
+    "artist": "crescent arc",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747773428_crescent_arc_-_ghost_mp3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/emEtUnaoFjpLLrDZOnh.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2wf0xi.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vzpic46.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "the-collection",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Collection",
+    "artist": "Prefab Sprout",
+    "codec": "FLAC",
+    "num_tracks": 37,
+    "duration_human": "2:32:22",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760390990_the_collection"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/kAzRbSSCjNgXZwrIlgYR.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qf6fpnxi.7z"
+    }
+  }
+}

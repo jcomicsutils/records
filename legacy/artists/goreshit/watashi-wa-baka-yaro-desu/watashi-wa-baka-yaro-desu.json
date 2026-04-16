@@ -1,0 +1,24 @@
+{
+  "id": "watashi-wa-baka-yaro-desu",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "watashi wa baka yaro desu",
+    "artist": "Goreshit",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "29:50",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760570922_watashi_wa_baka_yaro_desu"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/duaTHXeaYJgEfaviGXwc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gf40bgmy.7z"
+    }
+  }
+}

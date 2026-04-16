@@ -1,0 +1,27 @@
+{
+  "id": "sonata-op-40-grand-duet-sonata",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sonata Op. 40 / Grand Duet / Sonata",
+    "artist": "Reinier van Houdt",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752367335_sonata_op__40_-_grand_duet_-_sonata"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/trdveOYOrNvWTXcrjMDv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/sp3nb7.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/d2zz5063.7z"
+    }
+  }
+}

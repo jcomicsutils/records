@@ -1,0 +1,24 @@
+{
+  "id": "welcome-to-sparks-nevada",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Welcome to Sparks, Nevada",
+    "artist": "Sun Kil Moon",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "1:32:58",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768692405_welcome_to_sparks__nevada"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/83axl893.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/CENgDpuYhzBrgNRZtoz.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "presents-un-defi-dhonneur-verdun-1916",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Presents Un Defi d'Honneur Verdun 1916",
+    "artist": "A Challenge Of Honour",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "50:39",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760902047_presents_un_defi_d_honneur_verdun_1916"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/dpPftFuLHsinlsslwAc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/d2uym2.7z"
+    }
+  }
+}

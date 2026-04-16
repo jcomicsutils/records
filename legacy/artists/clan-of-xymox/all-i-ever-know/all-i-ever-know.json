@@ -1,0 +1,24 @@
+{
+  "id": "all-i-ever-know",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "All I Ever Know",
+    "artist": "Clan of Xymox",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "31:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760980582_all_i_ever_know"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LpnqvhXBsVrsiQryKLFw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9agyhtka.7z"
+    }
+  }
+}

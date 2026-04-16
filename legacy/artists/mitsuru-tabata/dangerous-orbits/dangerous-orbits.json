@@ -1,0 +1,27 @@
+{
+  "id": "dangerous-orbits",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Dangerous Orbits",
+    "artist": "Mitsuru Tabata",
+    "codec": "MP3",
+    "num_tracks": 8,
+    "duration_human": "52:50",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765050445_dangerous_orbits"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ab2hsbre.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/b7ts81.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/COQpirrWXLGMIcZmqyv.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "con-trails",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "con trails",
+    "artist": "Maximum Movement Theatre",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "21:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761330665_con_trails"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/oIgQTCevSpnfEQGmSBW.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/k8m4d0.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rxayvr4.7z"
+    }
+  }
+}

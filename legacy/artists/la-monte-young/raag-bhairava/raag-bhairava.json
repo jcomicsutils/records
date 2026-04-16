@@ -1,0 +1,24 @@
+{
+  "id": "raag-bhairava",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Raag Bhairava",
+    "artist": "La Monte Young",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756077116_raag_bhairava"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/NxGRxyTGGcajfeRuGmV.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/r0eh66y5.7z"
+    }
+  }
+}

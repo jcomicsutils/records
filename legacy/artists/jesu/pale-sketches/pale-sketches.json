@@ -1,0 +1,24 @@
+{
+  "id": "pale-sketches",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Pale Sketches",
+    "artist": "Jesu",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "1:05:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764207827_pale_sketches"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SPlaoyBJsfebNzODFURR.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xxm6hs8o.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "people",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "People",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "18:56",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760800222_people"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/nhbAdxLAoSmIMZzTVLJF.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/4mr8ul.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/s00pnpji.7z"
+    }
+  }
+}

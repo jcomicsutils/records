@@ -1,0 +1,24 @@
+{
+  "id": "next-lets-try-changing-the-shape",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Next, Let's Try Changing the Shape",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "1:10:35",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764803607_next__let_s_try_changing_the_shape"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zf9dkow.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/hFkTLIWuwobhLVxdxBN.7z"
+    }
+  }
+}

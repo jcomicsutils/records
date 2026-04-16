@@ -1,0 +1,27 @@
+{
+  "id": "nureimi",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Nureimi 濡忌",
+    "artist": "Kazuhiko Mano",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_human": "57:03",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764958243_nureimi___"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ovx7bm4u.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/d6x6jy.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/GYBvaCiUVersMBEdBkPA.7z"
+    }
+  }
+}

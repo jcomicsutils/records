@@ -1,0 +1,18 @@
+# Maximum Movement Theatre — float
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | 48.0kHz |
+| Tracks | 1 |
+| Duration | 22:30 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/1761345555_float)
+- [Fileditch](https://fileditchfiles.me/file.php?f=/s24/RTkwWrtfsgXCfXEGIyRe.7z)
+- [Catbox](https://files.catbox.moe/hg6ed6.7z)
+- [Pomf2 Lain La](https://pomf2.lain.la/f/szagf83.7z)
+
+---
+*Legacy Archive*

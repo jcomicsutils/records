@@ -1,0 +1,24 @@
+{
+  "id": "the-serpent-the-sphere",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Serpent & the Sphere",
+    "artist": "Agalloch",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "59:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760727581_the_serpent___the_sphere"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/ZCnCKtLshNuPNAeEvIwx.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/337pse8h.7z"
+    }
+  }
+}

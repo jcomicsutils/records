@@ -1,0 +1,21 @@
+{
+  "id": "live-at-sunflancisco",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at Sunflancisco",
+    "artist": "Boredoms",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "11:26",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765069090_live_at_sunflancisco"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b65/VHZrRJpAaTxrGskdCApq.7z"
+    }
+  }
+}

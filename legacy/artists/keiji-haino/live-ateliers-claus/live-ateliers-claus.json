@@ -1,0 +1,24 @@
+{
+  "id": "live-ateliers-claus",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live Ateliers Claus",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "1:12:32",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764797624_live_ateliers_claus"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vqprz6cr.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/hYomtDUIJxLIUQMnJnA.7z"
+    }
+  }
+}

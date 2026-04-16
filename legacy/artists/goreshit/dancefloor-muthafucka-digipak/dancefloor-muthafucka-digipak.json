@@ -1,0 +1,24 @@
+{
+  "id": "dancefloor-muthafucka-digipak",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Dancefloor Muthafucka! Digipak",
+    "artist": "Goreshit",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_human": "59:48",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760497175_dancefloor_muthafucka__digipak"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/oUVusIiqXuQKXnuihiIW.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/usjgonyu.7z"
+    }
+  }
+}

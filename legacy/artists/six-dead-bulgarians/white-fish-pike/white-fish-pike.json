@@ -1,0 +1,27 @@
+{
+  "id": "white-fish-pike",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "White Fish Pike",
+    "artist": "Six Dead Bulgarians",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:48",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761504346_white_fish_pike"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/nwSsanICMayPSNcFnnnr.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ngtmcj.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6lkt3vk.7z"
+    }
+  }
+}

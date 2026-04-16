@@ -1,0 +1,24 @@
+{
+  "id": "pink-live-2016-07-26-the-mohawk-austin-texas",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "PINK Live 2016-07-26 The Mohawk, Austin, Texas",
+    "artist": "Boris",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_human": "1:30:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764483048_pink_live_2016-07-26_the_mohawk__austin__texas"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/oMByVBSNSTzvzgdldhBd.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nrgbyr1b.7z"
+    }
+  }
+}

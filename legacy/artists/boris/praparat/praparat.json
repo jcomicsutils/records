@@ -1,0 +1,24 @@
+{
+  "id": "praparat",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Präparat",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "41:38",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764485454_pr_parat"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/joeDBYNsREwERVfyvlgg.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vik8uch.7z"
+    }
+  }
+}

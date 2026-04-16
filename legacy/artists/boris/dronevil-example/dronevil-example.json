@@ -1,0 +1,24 @@
+{
+  "id": "dronevil-example",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Dronevil -Example-",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "1:21:19",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764484340_dronevil_-example-"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/nbIIJbkyAaKjnVHpeKz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/haouuoxq.7z"
+    }
+  }
+}

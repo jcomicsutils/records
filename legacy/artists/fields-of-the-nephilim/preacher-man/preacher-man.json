@@ -1,0 +1,27 @@
+{
+  "id": "preacher-man",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Preacher Man",
+    "artist": "Fields Of The Nephilim",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "13:56",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761084230_preacher_man"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LoVIGzkAJrrkMyqWbwl.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/zpm9g2.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/pzgwf171.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "giant-psychedelia",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Giant Psychedelia",
+    "artist": "Yamamoto Seiichi & Acid Mothers Temple",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_human": "1:41:01",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765163911_giant_psychedelia"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zlhuqfp0.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/hORUvimOXpivRwOoUoVj.7z"
+    }
+  }
+}

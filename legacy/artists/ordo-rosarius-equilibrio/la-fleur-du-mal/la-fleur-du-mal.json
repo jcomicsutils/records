@@ -1,0 +1,27 @@
+{
+  "id": "la-fleur-du-mal",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "La Fleur du Mal",
+    "artist": "Ordo Rosarius Equilibrio",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "15:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761386831_la_fleur_du_mal"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/cIRrMwCHTCbfvykChbRl.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5hslch.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ofexjky3.7z"
+    }
+  }
+}

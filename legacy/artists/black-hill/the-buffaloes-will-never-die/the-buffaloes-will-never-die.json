@@ -1,0 +1,27 @@
+{
+  "id": "the-buffaloes-will-never-die",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Buffaloes Will Never Die",
+    "artist": "Black Hill",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "33:11",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760747276_the_buffaloes_will_never_die"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/UiLaRqYQXxIRDXNKOXmR.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/itmuzd.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qmc225g1.7z"
+    }
+  }
+}

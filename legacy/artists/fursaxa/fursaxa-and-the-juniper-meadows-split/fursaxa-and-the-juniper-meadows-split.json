@@ -1,0 +1,27 @@
+{
+  "id": "fursaxa-and-the-juniper-meadows-split",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Fursaxa and The Juniper Meadows Split",
+    "artist": "Fursaxa",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746314196_fursaxa_and_the_juniper_meadows"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/aMcFedbovwUJzfjzqJAj.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/sui5zi.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/12t6kvu4.7z"
+    }
+  }
+}

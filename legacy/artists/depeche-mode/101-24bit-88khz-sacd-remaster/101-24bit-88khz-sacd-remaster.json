@@ -1,0 +1,21 @@
+{
+  "id": "101-24bit-88khz-sacd-remaster",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "101 (24bit 88kHz SACD Remaster)",
+    "artist": "Depeche Mode",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1745867299_1989_-_101__24bit_88khz_2004_sacd_remaster_flac___"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b54/sUCODQRqbsLXWeRplsV.7z"
+    }
+  }
+}

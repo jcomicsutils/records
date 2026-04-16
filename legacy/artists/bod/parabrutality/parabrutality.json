@@ -1,0 +1,27 @@
+{
+  "id": "parabrutality",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "parabrutality",
+    "artist": "bod [包家巷]",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "9:22",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766783628_parabrutality"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mn62qktk.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/lfvmpe.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/DVogRcgTSLSHDkmagWn.7z"
+    }
+  }
+}

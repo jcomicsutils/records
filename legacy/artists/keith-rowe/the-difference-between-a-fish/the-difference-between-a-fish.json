@@ -1,0 +1,27 @@
+{
+  "id": "the-difference-between-a-fish",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Difference Between a Fish",
+    "artist": "Keith Rowe",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1755387680_the_difference_between_a_fish"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/uYgxdRZQporsyfpXSGLx.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/1n3rur.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4xh4u7ph.7z"
+    }
+  }
+}

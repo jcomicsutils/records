@@ -1,0 +1,27 @@
+{
+  "id": "she-drowned",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "She Drowned",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "23:41",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760911672_she_drowned"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/AjHVgHCXjudSjnmWAzHc.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/59c72u.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/774g5t18.7z"
+    }
+  }
+}

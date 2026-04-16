@@ -1,0 +1,27 @@
+{
+  "id": "raido",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Raido",
+    "artist": "Wardruna",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:45",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761598693_raido"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/CkrCtafelRARjvuyqp.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/bmksa1.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/i8n0zyhi.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "butterfly-caught",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Butterfly Caught",
+    "artist": "Massive Attack",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "50:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759967768_butterfly_caught__2003_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/fZfIYhJqhZuvzeYyviA.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/oucmkfhr.7z"
+    }
+  }
+}

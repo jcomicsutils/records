@@ -1,0 +1,27 @@
+{
+  "id": "the-chosen",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Chosen",
+    "artist": "Brethren",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747717346_the_chosen"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/BrhyVmdAZVnwDUkvvbAL.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5erqgs.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/q4lzb8c6.7z"
+    }
+  }
+}

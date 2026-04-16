@@ -1,0 +1,24 @@
+{
+  "id": "ghosts-i-iv",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ghosts I-IV",
+    "artist": "Nine Inch Nails",
+    "codec": "FLAC",
+    "num_tracks": 36,
+    "duration_human": "1:50:24",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761370182_ghosts_i-iv"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/zOFArrUjWrIHwaLCLDKz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gds9lzij.7z"
+    }
+  }
+}

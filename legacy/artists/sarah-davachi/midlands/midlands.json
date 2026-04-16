@@ -1,0 +1,27 @@
+{
+  "id": "midlands",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Midlands",
+    "artist": "Sarah Davachi",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "9:45",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761590150_midlands"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/EgBCNRCXsMxECDKMMsAa.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/obud2m.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/52bn46rf.7z"
+    }
+  }
+}

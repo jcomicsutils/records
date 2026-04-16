@@ -1,0 +1,24 @@
+{
+  "id": "smile-international-ver",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Smile (International Ver.)",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "1:05:02",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764488553_smile__international_ver__"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/ktcDXodGxmXnElAkaQW.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rv9a70h3.7z"
+    }
+  }
+}

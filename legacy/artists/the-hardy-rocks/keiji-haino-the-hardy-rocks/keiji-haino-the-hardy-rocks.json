@@ -1,0 +1,24 @@
+{
+  "id": "keiji-haino-the-hardy-rocks",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Keiji Haino & The Hardy Rocks",
+    "artist": "The Hardy Rocks",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "42:10",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764517900_keiji_haino___the_hardy_rocks"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/cSQIJkMwEatsPJigCez.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rnefc77l.7z"
+    }
+  }
+}

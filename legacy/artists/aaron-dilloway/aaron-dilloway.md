@@ -1,0 +1,17 @@
+# Aaron Dilloway
+
+
+| Album | Codec | Duration | Hosts |
+|-------|-------|----------|-------|
+| [Blue Studies (For Tom Smith)](blue-studies-for-tom-smith/blue-studies-for-tom-smith.md) | FLAC | 5:15 | [IA](https://archive.org/details/1763737142_blue_studies__for_tom_smith_) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/LQpBMCyJbrezPCUibNMQ.7z) [Catbox](https://files.catbox.moe/zu7u3c.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/endglbu1.7z) |
+| [Electronic Extension](electronic-extension/electronic-extension.md) | FLAC | 39:57 | [IA](https://archive.org/details/1763737244_electronic_extension) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/ihZSownfBkADaoGvyONo.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/eqpsf91i.7z) |
+| [Lip Syncing To Verme](lip-syncing-to-verme/lip-syncing-to-verme.md) | FLAC | 45:07 | [IA](https://archive.org/details/1763737658_lip_syncing_to_verme) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/nztveeXNHDatgnUGDUhl.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/yjwnv1ba.7z) |
+| [Lucy & Aaron](lucy-aaron/lucy-aaron.md) | FLAC | 38:55 | [IA](https://archive.org/details/1763738346_lucy___aaron) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/feKnKkKanCsfuTkqqErI.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/27wf0awk.7z) |
+| [Medicine Stunts](medicine-stunts/medicine-stunts.md) | FLAC | 33:31 | [IA](https://archive.org/details/1763739347_medicine_stunts) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/HLmrBZCiMEPVNkPxUbQQ.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/mqqo3p49.7z) |
+| [Psychic Driving Tapes](psychic-driving-tapes/psychic-driving-tapes.md) | FLAC | 49:29 | [IA](https://archive.org/details/1763739887_psychic_driving_tapes) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/hdakyIRhcHuulPySgcWW.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/k7g2yu72.7z) |
+| [Rawhide](rawhide/rawhide.md) | FLAC | 1:01:17 | [IA](https://archive.org/details/1763740858_rawhide) [Fileditch](https://fileditchfiles.me/file.php?f=/b63/BtvXtEUlwuhEaDmZlFS.7z) |
+| [Rozart Mix](rozart-mix/rozart-mix.md) | FLAC | 29:39 | [IA](https://archive.org/details/1763743098_rozart_mix) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/QcJPxMmlRBwQwZgoTUkC.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/rlv1w229.7z) |
+| [Switches](switches/switches.md) | FLAC | 37:09 | [IA](https://archive.org/details/1763743866_switches) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/XzGrLySTCLIeXHwTCsHU.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/bvxezso5.7z) |
+| [The Absence Of Milk In The Mouths Of The Lost (Original Score)](the-absence-of-milk-in-the-mouths-of-the-lost-original-score/the-absence-of-milk-in-the-mouths-of-the-lost-original-score.md) | FLAC | 59:25 | [IA](https://archive.org/details/1763744648_the_absence_of_milk_in_the_mouths_of_the_lost__ori) [Fileditch](https://fileditchfiles.me/file.php?f=/b63/APkIMDqXrJxwefpDvB.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/yzt1fyi.7z) |
+| [The Beauty Bath](the-beauty-bath/the-beauty-bath.md) | FLAC | 44:43 | [IA](https://archive.org/details/1763745660_the_beauty_bath) [Fileditch](https://fileditchfiles.me/file.php?f=/b63/rHgcXjzZzGgvBroTLGNA.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/bqudq62w.7z) |
+| [The Gag File](the-gag-file/the-gag-file.md) | FLAC | 35:38 | [IA](https://archive.org/details/1763747323_the_gag_file) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/POoinLPTkpFzwlBcEJa.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/nc2whjbb.7z) |

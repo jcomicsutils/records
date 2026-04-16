@@ -1,0 +1,21 @@
+{
+  "id": "live-dvd-atak-night-3",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live DVD Atak Night 3",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "2:54:59",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764798063_live_dvd_atak_night_3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b65/kPhcuvVNMGRhwzxeDPq.7z"
+    }
+  }
+}

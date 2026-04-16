@@ -1,0 +1,27 @@
+{
+  "id": "lost-rivers",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Lost Rivers",
+    "artist": "Black Hill",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "13:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760743274_lost_rivers"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/TNQTyVcYAtbjAGgqNATe.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/fg4ib6.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9el90vbr.7z"
+    }
+  }
+}

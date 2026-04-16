@@ -1,0 +1,27 @@
+{
+  "id": "all-i-wanted-live-at-asylum-chapel",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "All I Wanted (Live at Asylum Chapel)",
+    "artist": "Daughter",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:39",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "": {
+      "url": ""
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/1760991214_all_i_wanted__live_at_asylum_chapel_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/FgGCfeZILujzajwCvks.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3dnolx12.7z"
+    }
+  }
+}

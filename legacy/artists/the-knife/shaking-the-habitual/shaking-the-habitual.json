@@ -1,0 +1,24 @@
+{
+  "id": "shaking-the-habitual",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Shaking the Habitual",
+    "artist": "The Knife",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "1:36:19",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761594077_shaking_the_habitual"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/gqZUDCssnwtnFwRacdp.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tjtuqx2u.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "domadagr",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Domadagr",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "46:56",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760741834_domadagr"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/kdrZSbmAFMqSAZTWUuYf.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6yzw22kg.7z"
+    }
+  }
+}

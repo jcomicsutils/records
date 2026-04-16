@@ -1,0 +1,27 @@
+{
+  "id": "purulence",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Purulence",
+    "artist": "Acrimonious",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746105955_purulence"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/DlrvOriHyuEcHYSxjRof.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/dr4xj1.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wz2f0s54.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "still-the-star-shines",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Still The Star Shines",
+    "artist": "While Angels Watch",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "21:08",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761405166_still_the_star_shines"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/tqKMGSslpXoCYRAknLy.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/3pxzv8.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/35ujgrpm.7z"
+    }
+  }
+}

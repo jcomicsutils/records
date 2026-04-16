@@ -1,0 +1,27 @@
+{
+  "id": "tommy-gun-mixtape",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "tommy gun mixtape",
+    "artist": "COPA",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758665022_tommy_gun_mixtape"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/WWgLdFHZFlcNJHllRXk.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0pwx54.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/07bwut4j.7z"
+    }
+  }
+}

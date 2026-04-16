@@ -1,0 +1,24 @@
+{
+  "id": "vampyr-original-motion-picture-soundtrack",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Vampyr (Original Motion Picture Soundtrack)",
+    "artist": "Year of No Light",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_human": "1:10:59",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761603876_vampyr__original_motion_picture_soundtrack_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/QqCvPajZILvyLmSedFBm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bklip89e.7z"
+    }
+  }
+}

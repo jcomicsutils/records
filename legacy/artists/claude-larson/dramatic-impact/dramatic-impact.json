@@ -1,0 +1,24 @@
+{
+  "id": "dramatic-impact",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Dramatic Impact",
+    "artist": "Claude Larson",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "37:18",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759689206_dramatic_impact"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/bbAMOliZVHuOTAVzMkhf.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ah061w5r.7z"
+    }
+  }
+}

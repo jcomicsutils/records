@@ -1,0 +1,24 @@
+{
+  "id": "all-the-kings-sessions",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "All The King's Sessions",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "47:05",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760293438_all_the_king_s_sessions"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MjScHwDlFtHESqZOUjsY.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/s87ruu8v.7z"
+    }
+  }
+}

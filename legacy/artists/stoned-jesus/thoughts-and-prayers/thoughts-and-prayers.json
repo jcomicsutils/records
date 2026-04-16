@@ -1,0 +1,27 @@
+{
+  "id": "thoughts-and-prayers",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Thoughts and Prayers",
+    "artist": "Stoned Jesus",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "6:22",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760537689_thoughts_and_prayers"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/WifLHsaRQGUsqvOzTUur.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/kxk86m.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/sy4zqgql.7z"
+    }
+  }
+}

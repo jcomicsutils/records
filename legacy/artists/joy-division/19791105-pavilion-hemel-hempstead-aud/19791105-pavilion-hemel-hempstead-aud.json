@@ -1,0 +1,27 @@
+{
+  "id": "19791105-pavilion-hemel-hempstead-aud",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "1979.11.05 Pavilion, Hemel Hempstead (AUD)",
+    "artist": "Joy Division",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752287216_1979_11_05_pavilion__hemel_hempstead__aud_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/PbpVCIiApqqJAaVUuZi.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/4x7l7p.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ejxgosec.7z"
+    }
+  }
+}

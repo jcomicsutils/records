@@ -1,0 +1,27 @@
+{
+  "id": "primitive-ambiance-music",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Primitive Ambiance Music",
+    "artist": "Pierre Schaeffer",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "48:38",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767148914_primitive_ambiance_music"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3bscghp.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0o2xqz.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/CcoSiEJvemQLZFOnBwsZ.7z"
+    }
+  }
+}

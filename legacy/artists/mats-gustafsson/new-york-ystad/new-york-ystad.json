@@ -1,0 +1,27 @@
+{
+  "id": "new-york-ystad",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "New York - Ystad",
+    "artist": "Mats Gustafsson",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1753671973_new_york_-_ystad"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/hoRzaabSosCrxFwozsl.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ymuill.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ufmbk2ph.7z"
+    }
+  }
+}

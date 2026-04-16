@@ -1,0 +1,27 @@
+{
+  "id": "alameda-casa-branca",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Alameda Casa Branca",
+    "artist": "Rogério Skylab",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757453395_alameda_casa_branca"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/WmWryqxtdCyIgFYFjeLu.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/42azi4.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6ont6eft.7z"
+    }
+  }
+}

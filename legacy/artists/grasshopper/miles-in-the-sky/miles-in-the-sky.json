@@ -1,0 +1,27 @@
+{
+  "id": "miles-in-the-sky",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Miles In The Sky",
+    "artist": "Grasshopper",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_human": "20:17",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766199295_miles_in_the_sky"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/q0378wyz.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/v7l8gp.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/KUDIrNKqRNrQgDygUYcv.7z"
+    }
+  }
+}

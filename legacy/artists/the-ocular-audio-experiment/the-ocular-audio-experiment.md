@@ -1,0 +1,13 @@
+# The Ocular Audio Experiment
+
+
+| Album | Codec | Duration | Hosts |
+|-------|-------|----------|-------|
+| [Friendly Psychic Strangers Church](friendly-psychic-strangers-church/friendly-psychic-strangers-church.md) | FLAC | 30:52 | [IA](https://archive.org/details/1760396789_friendly_psychic_strangers_church) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/GJMEhqPwZOHTXnRRLuig.7z) [Catbox](https://files.catbox.moe/15ceeh.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/ldll1lfs.7z) |
+| [Ghoul](ghoul/ghoul.md) | FLAC | 39:29 | [IA](https://archive.org/details/1760398111_ghoul) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/qQKZysDfkBYWGrCUEyIT.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/x4t24ei8.7z) |
+| [Laughing Dreams](laughing-dreams/laughing-dreams.md) | FLAC | 46:43 | [IA](https://archive.org/details/1760399350_laughing_dreams) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/AQwAMhyXEuwfJBQuzc.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/zmk45owp.7z) |
+| [Rain](rain/rain.md) | FLAC | 42:06 | [IA](https://archive.org/details/1760401618_rain) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/ovszBFcsmFKynMwtGBV.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/jrqsjdig.7z) |
+| [Spectro-Sonic Cosmic Gaze](spectro-sonic-cosmic-gaze/spectro-sonic-cosmic-gaze.md) | FLAC | 45:30 | [IA](https://archive.org/details/1760403293_spectro_-_sonic_cosmic_gaze) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/SstHXMxThxsSTEyhdTLm.7z) [Catbox](https://files.catbox.moe/e2se8b.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/m3py9gw.7z) |
+| [The Ocular Audio Experiment](the-ocular-audio-experiment/the-ocular-audio-experiment.md) | FLAC | 29:48 | [IA](https://archive.org/details/1760404298_the_ocular_audio_experiment) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/AwoYdXTVTmBQDLzjxkFJ.7z) [Catbox](https://files.catbox.moe/xf9g9i.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/8nzvji4k.7z) |
+| [The Witch's Whispering Tomes, Pt. 1](the-witchs-whispering-tomes-pt-1/the-witchs-whispering-tomes-pt-1.md) | FLAC | 1:25:54 | [IA](https://archive.org/details/1760405072_the_witch_s_whispering_tomes__pt__1) [Fileditch](https://fileditchfiles.me/file.php?f=/b59/AfmeKrGDxxbUZkIoFeo.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/75qal6kq.7z) |
+| [The Witch's Whispering Tomes, Pt. 2](the-witchs-whispering-tomes-pt-2/the-witchs-whispering-tomes-pt-2.md) | FLAC | 1:00:50 | [IA](https://archive.org/details/1760408567_the_witch_s_whispering_tomes__pt__2) [Fileditch](https://fileditchfiles.me/file.php?f=/s24/trwfqqZCQHQVPiXaOmrV.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/tmroz7u.7z) |

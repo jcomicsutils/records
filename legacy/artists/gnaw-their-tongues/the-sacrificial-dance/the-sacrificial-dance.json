@@ -1,0 +1,27 @@
+{
+  "id": "the-sacrificial-dance",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Sacrificial Dance",
+    "artist": "Gnaw Their Tongues",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "17:50",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760981063_the_sacrificial_dance"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/FnZcwEoCvTYWFpVZyzk.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ii3245.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/buup3uqr.7z"
+    }
+  }
+}

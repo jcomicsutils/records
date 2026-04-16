@@ -1,0 +1,24 @@
+{
+  "id": "dathonahs-prescriptions-the-trials-of-oda-thahn",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Dathonah's Prescriptions / The Trials of Oda Thahn",
+    "artist": "Nahadoth",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "46:14",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761331987_dathonah_s_prescriptions_-_the_trials_of_oda_thahn"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/uFELkJOPSVYfvYutHHat.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rii33qko.7z"
+    }
+  }
+}

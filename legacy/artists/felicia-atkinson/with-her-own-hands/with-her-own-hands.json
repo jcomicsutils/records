@@ -1,0 +1,27 @@
+{
+  "id": "with-her-own-hands",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "With Her Own Hands",
+    "artist": "Félicia Atkinson",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "19:29",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767059392_with_her_own_hands"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/j2i7ohwb.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/w1hmf3.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/ZVkSRhbTetiveqKEpJXe.7z"
+    }
+  }
+}

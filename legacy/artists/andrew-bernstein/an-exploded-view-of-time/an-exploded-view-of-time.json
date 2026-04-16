@@ -1,0 +1,27 @@
+{
+  "id": "an-exploded-view-of-time",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "An Exploded View of Time",
+    "artist": "Andrew Bernstein",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "35:44",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769364221_an_exploded_view_of_time"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ggm6k3jo.7z"
+    },
+    "": {
+      "url": ""
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/ozECgpVReqwxYiEwQlFw.7z"
+    }
+  }
+}

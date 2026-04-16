@@ -1,0 +1,24 @@
+{
+  "id": "flammenlieder",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Flammenlieder",
+    "artist": "Darkwood",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_human": "57:22",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760918398_flammenlieder"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/SrcdadJbRpqQweqSiQM.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/o33t0pd3.7z"
+    }
+  }
+}

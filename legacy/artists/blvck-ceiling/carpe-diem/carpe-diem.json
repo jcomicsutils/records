@@ -1,0 +1,27 @@
+{
+  "id": "carpe-diem",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "carpe diem",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760897849_carpe_diem"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ZfdRMuFztapWzdJofbZ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/h6a3xs.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4jilfbue.7z"
+    }
+  }
+}

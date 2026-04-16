@@ -1,0 +1,27 @@
+{
+  "id": "the-butterfly-fart-album",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Butterfly Fart Album",
+    "artist": "Hertta Lussu Ässä",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752273757_the_butterfly_fart_album"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/koSvAzkLXSYxryNDeLaI.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/qq07l4.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/br763o6p.7z"
+    }
+  }
+}

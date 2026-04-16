@@ -1,0 +1,27 @@
+{
+  "id": "o-fim-e-um-comeco",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "o fim é um começo",
+    "artist": "a terra vai se tornar um planeta inabitável",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "15:04",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766797725_o_fim___um_come_o"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jcabtcc.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/77ggx1.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/NUYqpZFHtYEMcEMgNxLg.7z"
+    }
+  }
+}

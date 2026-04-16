@@ -1,0 +1,24 @@
+{
+  "id": "live",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live [ライヴ]",
+    "artist": "Aihiyo [哀秘謡]",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "1:13:03",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764514463_live______"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/tiPDCuIIqEjDgxtLElGb.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4esfe6gf.7z"
+    }
+  }
+}

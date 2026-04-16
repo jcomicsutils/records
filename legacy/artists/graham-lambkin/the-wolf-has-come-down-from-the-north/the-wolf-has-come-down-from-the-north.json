@@ -1,0 +1,27 @@
+{
+  "id": "the-wolf-has-come-down-from-the-north",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Wolf Has Come Down From the North",
+    "artist": "Graham Lambkin",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754594220_the_wolf_has_come_down_from_the_north"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/MGxKqKONjHPsTTjhSFWM.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/x7frqr.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bf80hn2p.7z"
+    }
+  }
+}

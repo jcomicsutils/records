@@ -1,0 +1,24 @@
+{
+  "id": "leaving-meaning",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "leaving meaning.",
+    "artist": "Swans",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "1:33:15",
+    "sampling_rate": "88.2kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760039735_leaving_meaning"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/iUuKRNHiDwuHRJCQOAtg.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/cuhk3zzh.7z"
+    }
+  }
+}

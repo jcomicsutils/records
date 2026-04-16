@@ -1,0 +1,24 @@
+{
+  "id": "o-descobrimento-do-brasil",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "O Descobrimento do Brasil",
+    "artist": "Legião Urbana",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746649426_legi_o_urbana_-_1993_-_o_descobrimento_do_brasil"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/saozYrYUcMMBCGngtpBi.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/eu6haa7.7z"
+    }
+  }
+}

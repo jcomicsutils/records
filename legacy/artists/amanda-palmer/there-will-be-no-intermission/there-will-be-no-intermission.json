@@ -1,0 +1,24 @@
+{
+  "id": "there-will-be-no-intermission",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "There Will Be No Intermission",
+    "artist": "Amanda Palmer",
+    "codec": "FLAC",
+    "num_tracks": 20,
+    "duration_human": "1:17:59",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763752225_there_will_be_no_intermission"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b63/qXYtXCEsRlYhwMKnVxSc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/63a12n6b.7z"
+    }
+  }
+}

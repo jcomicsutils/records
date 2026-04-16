@@ -1,0 +1,27 @@
+{
+  "id": "westering",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Westering",
+    "artist": "Steven R. Smith",
+    "codec": "MP3",
+    "num_tracks": 10,
+    "duration_human": "40:37",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769920466_westering"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7x302qqr.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/izq8l8.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/gakHubvOOMPmWowHlgSK.7z"
+    }
+  }
+}

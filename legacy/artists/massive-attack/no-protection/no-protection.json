@@ -1,0 +1,24 @@
+{
+  "id": "no-protection",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "No Protection",
+    "artist": "Massive Attack",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "49:55",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760050805_no_protection"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ytTMdDaGLLBLaOuBelcn.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/j0baao0t.7z"
+    }
+  }
+}

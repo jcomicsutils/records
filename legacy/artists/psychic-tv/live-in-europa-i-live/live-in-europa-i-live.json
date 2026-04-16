@@ -1,0 +1,24 @@
+{
+  "id": "live-in-europa-i-live",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live In Europa I  (Live)",
+    "artist": "Psychic TV",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_human": "1:11:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759710552_live_in_europa_i__live_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/mzGQERxJLfeJfkCFOpc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2ry33fjz.7z"
+    }
+  }
+}

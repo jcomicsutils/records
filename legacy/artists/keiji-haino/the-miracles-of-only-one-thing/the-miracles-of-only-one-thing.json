@@ -1,0 +1,24 @@
+{
+  "id": "the-miracles-of-only-one-thing",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Miracles of Only One Thing",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "59:01",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764796657_the_miracles_of_only_one_thing"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6bm41cx9.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/GRfEgNJRoewvBiuYZaM.7z"
+    }
+  }
+}

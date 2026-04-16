@@ -1,0 +1,27 @@
+{
+  "id": "live-from-death-valley",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live from Death Valley",
+    "artist": "Death Grips",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758678509_live_from_death_valley"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/hLWXXPMsGVmewjjFdYLC.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/nk27a1.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ojs6d0t6.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "at-stockholm",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "At Stockholm",
+    "artist": "Psychic TV",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "1:10:24",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759679651_at_stockholm"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/fOUyQvFRmKvPKVcydUV.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rpxzmr0q.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "objets-infernaux",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Objets Infernaux",
+    "artist": "Ryu Hankil",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1755201571_objets_infernaux"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/YxytmwdbyOsvuwkLhnH.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/uwv7uybj.7z"
+    }
+  }
+}

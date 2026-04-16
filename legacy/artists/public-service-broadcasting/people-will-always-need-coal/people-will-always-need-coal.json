@@ -1,0 +1,24 @@
+{
+  "id": "people-will-always-need-coal",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "People Will Always Need Coal",
+    "artist": "Public Service Broadcasting",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "33:57",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761510102_people_will_always_need_coal__2018_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PZYcQPLGbmDwJRtgIMTN.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bcb0bd1j.7z"
+    }
+  }
+}

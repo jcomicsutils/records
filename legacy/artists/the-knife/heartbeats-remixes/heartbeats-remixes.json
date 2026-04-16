@@ -1,0 +1,27 @@
+{
+  "id": "heartbeats-remixes",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Heartbeats (Remixes)",
+    "artist": "The Knife",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "16:42",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761577331_heartbeats__remixes_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PNuSdOIZvYaYtdFwKHfL.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8nhwzs.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/g0a9zbr2.7z"
+    }
+  }
+}

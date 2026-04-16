@@ -1,0 +1,27 @@
+{
+  "id": "oto-t23",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "(oTo) T23",
+    "artist": "(oTo)",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746075143_oto_t23___joe_n"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/SuVGmimlDuGoFuJmEWoy.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/lz0hli.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/sdksnrp.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1guy1glock",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "1Guy1Glock",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:07",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759610053_1guy1glock"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/NXdVavXLucXdhIFJXEI.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/hv1w04.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/j1f74qf.7z"
+    }
+  }
+}

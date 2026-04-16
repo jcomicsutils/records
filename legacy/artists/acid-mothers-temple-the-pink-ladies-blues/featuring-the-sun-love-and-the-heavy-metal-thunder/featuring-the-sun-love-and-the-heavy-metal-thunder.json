@@ -1,0 +1,27 @@
+{
+  "id": "featuring-the-sun-love-and-the-heavy-metal-thunder",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Featuring the Sun Love and the Heavy Metal Thunder",
+    "artist": "Acid Mothers Temple & The Pink Ladies Blues",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_human": "1:15:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765148544_featuring_the_sun_love_and_the_heavy_metal_thunder"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lmoeilw2.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/q6w363.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/LqGMnEJBJFRmvzAZuPkh.7z"
+    }
+  }
+}

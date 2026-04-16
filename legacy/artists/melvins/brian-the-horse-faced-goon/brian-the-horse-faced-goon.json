@@ -1,0 +1,27 @@
+{
+  "id": "brian-the-horse-faced-goon",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Brian, the Horse-Faced Goon",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:06",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769307090_brian__the_horse-faced_goon"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ktr27v5z.7z"
+    },
+    "": {
+      "url": ""
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/XjfmmlaWrCTJaUlWdKw.7z"
+    }
+  }
+}

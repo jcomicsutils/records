@@ -1,0 +1,18 @@
+# Boogarins — SOME
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | Unknown |
+| Tracks | 0 |
+| Duration | Unknown |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/1758153901_some)
+- [Fileditch](https://fileditchfiles.me/file.php?f=/s24/EcIeFZUdjXVvzzLlYs.7z)
+- [Catbox](https://files.catbox.moe/qxqtud.7z)
+- [Pomf2 Lain La](https://pomf2.lain.la/f/zmpyey0t.7z)
+
+---
+*Legacy Archive*

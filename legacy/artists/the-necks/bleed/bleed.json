@@ -1,0 +1,27 @@
+{
+  "id": "bleed",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Bleed",
+    "artist": "The Necks",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "42:10",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761574734_bleed"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/aRFYPmyGEYMpjVPkFsXg.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7dz0mp.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ososi3bd.7z"
+    }
+  }
+}

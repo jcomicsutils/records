@@ -1,0 +1,27 @@
+{
+  "id": "dimas",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "DIMAS",
+    "artist": "Berith",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:56",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768759344_dimas"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ailc1mvi.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gjqv1c.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/sTlkQEkgHkbfYkQYHAF.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "sanctuary",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sanctuary",
+    "artist": "Alexander Hacke",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "54:20",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760398517_sanctuary"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/wGctRArXyylbVfVGTaYR.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/98fpqeh.7z"
+    }
+  }
+}

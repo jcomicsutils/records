@@ -1,0 +1,24 @@
+{
+  "id": "the-valerie-project",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Valerie Project",
+    "artist": "The Valerie Project",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752430562_the_valerie_project"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/oumoHobUUvIAhetsUWfj.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/b779i5t2.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "the-dead",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Dead",
+    "artist": "Sopor Aeternus & The Ensemble of Shadows",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "3:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761589326_the_dead"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/fUofBwlRQrcRcPCUjfqm.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/e521ym.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/5zwec80m.7z"
+    }
+  }
+}

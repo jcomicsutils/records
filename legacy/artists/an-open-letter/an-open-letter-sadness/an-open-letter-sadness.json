@@ -1,0 +1,27 @@
+{
+  "id": "an-open-letter-sadness",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "An Open Letter / Sadness",
+    "artist": "An Open Letter",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747499204_an_open_letter_-_sadness"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/IKeDeETObYZPMWtJeD.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/92munl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/yf42dk78.7z"
+    }
+  }
+}

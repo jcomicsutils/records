@@ -1,0 +1,24 @@
+{
+  "id": "x2",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "X2",
+    "artist": "Depeche Mode",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746428439_1991_-_x2__4cd_box__alfa_alcb-205-208__japan_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b54/VichtXUMBLnYgWuhAPGa.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lrnj0g1w.7z"
+    }
+  }
+}

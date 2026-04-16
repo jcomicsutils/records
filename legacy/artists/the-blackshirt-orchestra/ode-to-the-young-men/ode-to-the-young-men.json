@@ -1,0 +1,27 @@
+{
+  "id": "ode-to-the-young-men",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ode To The Young Men",
+    "artist": "The Blackshirt Orchestra",
+    "codec": "MP3",
+    "num_tracks": 10,
+    "duration_human": "58:26",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769192038_ode_to_the_young_men"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3bv8qlf0.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jmitf8.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/UvOimzqNmTXKcxEzcQbw.7z"
+    }
+  }
+}

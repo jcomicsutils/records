@@ -1,0 +1,27 @@
+{
+  "id": "poke-from-tiny-changes-a-celebration-of-frightened-rabbits-the-midnight-organ-fight",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Poke (from Tiny Changes: A Celebration of Frightened Rabbit's 'The Midnight Organ Fight')",
+    "artist": "Daughter",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:06",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "": {
+      "url": ""
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/1761009267_poke__from_tiny_changes_a_celebration_of_frightene"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/TYFthVhlbywQMymggcar.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vkavgo8g.7z"
+    }
+  }
+}

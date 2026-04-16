@@ -1,0 +1,27 @@
+{
+  "id": "tomorrow-we-live",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Tomorrow We Live",
+    "artist": "Ramleh",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752337684_tomorrow_we_live"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/xxkQvWIGbEVVzoTBflYb.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/afv0e7.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6oa9q3gx.7z"
+    }
+  }
+}

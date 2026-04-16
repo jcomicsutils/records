@@ -1,0 +1,27 @@
+{
+  "id": "ny-avant-garde-festival-1965",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "N.Y. Avant Garde Festival 1965",
+    "artist": "La Monte Young",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756074933_n_y__avant_garde_festival_1965"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/JckZWEWsrYKdAHjgiOcF.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/h1cane.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7a8xxuy.7z"
+    }
+  }
+}

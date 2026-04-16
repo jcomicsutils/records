@@ -1,0 +1,27 @@
+{
+  "id": "12",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "12",
+    "artist": "Porez Na Sobake [Порез на собаке]",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752318568_12"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/OTDTkaGqulTKXBCrxY.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vpkfzh.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xowwayd3.7z"
+    }
+  }
+}

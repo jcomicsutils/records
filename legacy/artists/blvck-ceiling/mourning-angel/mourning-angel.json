@@ -1,0 +1,27 @@
+{
+  "id": "mourning-angel",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "mourning angel",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:36",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760906605_mourning_angel"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/hweucQObotoqdDhqLEq.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/hexhpn.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8n9ktblq.7z"
+    }
+  }
+}

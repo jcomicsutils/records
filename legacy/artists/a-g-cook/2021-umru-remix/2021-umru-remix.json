@@ -1,0 +1,27 @@
+{
+  "id": "2021-umru-remix",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "2021 (umru remix)",
+    "artist": "A. G. Cook",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "5:33",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760225882_2021__umru_remix_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PWEGVZAmsasEzXyoKSrE.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/oh1ewc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8dcorfri.7z"
+    }
+  }
+}

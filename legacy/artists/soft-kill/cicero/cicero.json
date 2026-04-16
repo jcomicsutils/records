@@ -1,0 +1,27 @@
+{
+  "id": "cicero",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Cicero",
+    "artist": "Soft Kill",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "12:48",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759954387_cicero"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/EsJREXTRDpTpnWyxGQH.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/99zrn7.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/v2q57ea0.7z"
+    }
+  }
+}

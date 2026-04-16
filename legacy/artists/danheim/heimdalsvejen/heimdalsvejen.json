@@ -1,0 +1,27 @@
+{
+  "id": "heimdalsvejen",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Heimdalsvejen",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:41",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760747157_heimdalsvejen"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/dUncthDseFXTjksWfrur.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/v20asx.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/pyuq141s.7z"
+    }
+  }
+}

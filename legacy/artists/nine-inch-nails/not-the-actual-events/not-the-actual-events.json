@@ -1,0 +1,27 @@
+{
+  "id": "not-the-actual-events",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Not The Actual Events",
+    "artist": "Nine Inch Nails",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "21:10",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761406990_not_the_actual_events"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/xnshKqFoURnHueGPGxe.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7tv7g7.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qn8o5cmj.7z"
+    }
+  }
+}

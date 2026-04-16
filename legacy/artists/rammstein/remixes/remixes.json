@@ -1,0 +1,21 @@
+{
+  "id": "remixes",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Remixes",
+    "artist": "Rammstein",
+    "codec": "FLAC",
+    "num_tracks": 84,
+    "duration_human": "6:38:44",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761514871_remixes"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/IAuYOjJenYjPaBkKiJR.7z"
+    }
+  }
+}

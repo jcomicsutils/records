@@ -1,0 +1,27 @@
+{
+  "id": "a-droga-e-minha",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Droga é Minha",
+    "artist": "Rogério Skylab",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757450262_a_droga___minha"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/VJvDrGaemzqEyMumHyv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/hmfswo.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/s2ogio7q.7z"
+    }
+  }
+}

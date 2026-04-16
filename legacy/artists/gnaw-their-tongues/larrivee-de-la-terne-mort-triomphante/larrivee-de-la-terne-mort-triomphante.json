@@ -1,0 +1,24 @@
+{
+  "id": "larrivee-de-la-terne-mort-triomphante",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "L'arrivée de la terne mort triomphante",
+    "artist": "Gnaw Their Tongues",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "44:43",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760920767_l_arriv_e_de_la_terne_mort_triomphante"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/aJPHWWryuiVwopKZipq.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rijszbo2.7z"
+    }
+  }
+}

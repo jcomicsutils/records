@@ -1,0 +1,27 @@
+{
+  "id": "pague-pra-entrar-reze-pra-sair-2",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "PAGUE PRA ENTRAR REZE PRA SAIR 2",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "1:32",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759623503_pague_pra_entrar_reze_pra_sair_2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/etUyPmBAjXeyLhMTWMLt.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/b7yt9x.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1u55putl.7z"
+    }
+  }
+}

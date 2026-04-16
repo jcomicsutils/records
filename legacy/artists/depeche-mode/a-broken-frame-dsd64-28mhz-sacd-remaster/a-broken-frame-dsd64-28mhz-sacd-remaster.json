@@ -1,0 +1,21 @@
+{
+  "id": "a-broken-frame-dsd64-28mhz-sacd-remaster",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Broken Frame (DSD64 2.8mHz SACD Remaster)",
+    "artist": "Depeche Mode",
+    "codec": "DSF",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1745867250_1982_-_a_broken_frame__dsd64_2_8mhz_2006_sacd_rema"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b54/OAiwGverVNGbQhFuAdOP.7z"
+    }
+  }
+}

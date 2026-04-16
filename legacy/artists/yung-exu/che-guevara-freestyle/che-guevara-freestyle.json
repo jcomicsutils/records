@@ -1,0 +1,27 @@
+{
+  "id": "che-guevara-freestyle",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "(che guevara freestyle)",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:04",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759609917__che_guevara_freestyle_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/nbpVtIPmmolWaLadFckS.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/03fep2.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jftbelzq.7z"
+    }
+  }
+}

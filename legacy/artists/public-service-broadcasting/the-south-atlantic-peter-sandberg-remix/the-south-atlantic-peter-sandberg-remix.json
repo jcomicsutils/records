@@ -1,0 +1,27 @@
+{
+  "id": "the-south-atlantic-peter-sandberg-remix",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The South Atlantic (Peter Sandberg Remix)",
+    "artist": "Public Service Broadcasting",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:40",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761524239_the_south_atlantic__peter_sandberg_remix_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/IBfzYaAimfAjydIrRHwa.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/zf0hb3.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/r88kqgj.7z"
+    }
+  }
+}

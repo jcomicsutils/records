@@ -1,0 +1,24 @@
+{
+  "id": "xen-edition",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Xen  (????? Edition)",
+    "artist": "Arca",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_human": "51:01",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760313938_xen___edition_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/IMgfzqwOpNcvWyfFxwt.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/g6k5le6q.7z"
+    }
+  }
+}

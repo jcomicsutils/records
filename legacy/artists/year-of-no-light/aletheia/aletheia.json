@@ -1,0 +1,27 @@
+{
+  "id": "aletheia",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Alètheia",
+    "artist": "Year of No Light",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "7:39",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761572612_al_theia"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/hxSnqVLnLsrumhYmwywA.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/eup3e5.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/la6e7wuu.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "hotter-than-inferno-live-in-osaka-2007",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hotter Than Inferno - Live in Osaka 2007",
+    "artist": "Acid Mothers Temple & The Cosmic Inferno",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_human": "48:49",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765139812_hotter_than_inferno_-_live_in_osaka_2007"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qong99a8.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/rid1jc.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/RwhPcDehZPSbQuAYCAC.7z"
+    }
+  }
+}

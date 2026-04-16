@@ -1,0 +1,27 @@
+{
+  "id": "hail-the-mushroom-cloud",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hail The Mushroom Cloud",
+    "artist": "Puissance",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "19:39",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761490407_hail_the_mushroom_cloud"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MZvPssMGzSRHSBhvvQiH.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/1vvkoj.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/a04lhkvm.7z"
+    }
+  }
+}

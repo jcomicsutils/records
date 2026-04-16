@@ -1,0 +1,24 @@
+{
+  "id": "who-killed-amanda-palmer",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Who Killed Amanda Palmer",
+    "artist": "Amanda Palmer",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "53:10",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763753775_who_killed_amanda_palmer"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/XUeYFsTiPuawllZGSzoL.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/w9jdfhn7.7z"
+    }
+  }
+}

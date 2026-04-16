@@ -1,0 +1,27 @@
+{
+  "id": "eu-nao-sou-ateu",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Eu Não Sou Ateu",
+    "artist": "Mariposa Alice",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758677090_eu_n_o_sou_ateu"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/GPVcuNlKRyotMswcqJR.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/uog5di.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zreaipd.7z"
+    }
+  }
+}

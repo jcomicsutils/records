@@ -1,0 +1,27 @@
+{
+  "id": "monkey-been-to-burn-town",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Monkey Been To Burn Town",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "23:47",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760843888_monkey_been_to_burn_town"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/aZTyAsKYhWnRNiwpwCbD.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/iw5imw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/k450kpwd.7z"
+    }
+  }
+}

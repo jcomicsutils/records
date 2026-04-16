@@ -1,0 +1,27 @@
+{
+  "id": "jimmy-mack",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Jimmy Mack",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:07",
+    "sampling_rate": "88.2kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760822258_jimmy_mack"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/UQOhrnSycrGlcjZhjmVs.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/6q0q9q.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ufznxfp5.7z"
+    }
+  }
+}

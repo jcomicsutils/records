@@ -1,0 +1,27 @@
+{
+  "id": "with-heart-and-hand",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "With Heart and Hand",
+    "artist": "Genocide Organ",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "6:31",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761006256_with_heart_and_hand"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/opYyKrKnVFcioxhAIhZ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/of1dqk.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/r9m79jlt.7z"
+    }
+  }
+}

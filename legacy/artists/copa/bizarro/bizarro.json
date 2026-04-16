@@ -1,0 +1,27 @@
+{
+  "id": "bizarro",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "BIZARRO",
+    "artist": "COPA",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758492822_bizarro"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/xbtUevJYHKhvynjsovCn.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ozny09.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ndn9krfd.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "hipofanias",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hipofanías",
+    "artist": "Moloch",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "43:33",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761318261_hipofan_as"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/lzWfWIMwmBZHGJJAbPdt.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/v7d84vq.7z"
+    }
+  }
+}

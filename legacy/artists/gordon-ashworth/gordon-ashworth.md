@@ -1,0 +1,12 @@
+# Gordon Ashworth
+
+
+| Album | Codec | Duration | Hosts |
+|-------|-------|----------|-------|
+| [Cajun Mix for Dinner](cajun-mix-for-dinner/cajun-mix-for-dinner.md) | FLAC | Unknown | [IA](https://archive.org/details/1748017907_cajun_mix_for_dinner) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/KPxQybqLOlgGTagfYOq.7z) [Catbox](https://files.catbox.moe/tk852e.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/i6ae9xfk.7z) |
+| [Despairing Summer - American Ulterior](despairing-summer-american-ulterior/despairing-summer-american-ulterior.md) | FLAC | Unknown | [IA](https://archive.org/details/1748023897_despairing_summer_-_american_ulterior) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/KHZGQXFFeUYWROakvbw.7z) [Catbox](https://files.catbox.moe/hoygt3.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/pvw9uk3o.7z) |
+| [Live From Si'ahl](live-from-siahl/live-from-siahl.md) | FLAC | Unknown | [IA](https://archive.org/details/1748025905_live_from_si_ahl) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/iOxyVpuyyLcBoCSjjHu.7z) [Catbox](https://files.catbox.moe/a039f1.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/d0hizeab.7z) |
+| [Public Loops Volume One](public-loops-volume-one/public-loops-volume-one.md) | FLAC | Unknown | [IA](https://archive.org/details/1748027229_public_loops_volume_one) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/TMOZBhoKgBlbpQYZFFP.7z) [Catbox](https://files.catbox.moe/04j3it.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/7nyq4zb.7z) |
+| [S.T.L.A.](stla/stla.md) | MP3 | Unknown | [IA](https://archive.org/details/1748030765_s_t_l_a) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/mJxbMAaPdljFMtUhZEe.7z) [Catbox](https://files.catbox.moe/u0y53e.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/4gp5bf04.7z) |
+| [The One You Love & Cannot Trust](the-one-you-love-cannot-trust/the-one-you-love-cannot-trust.md) | FLAC | Unknown | [IA](https://archive.org/details/1748032146_the_one_you_love___cannot_trust) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/dZNfnxsROoThYBExqmVU.7z) [Catbox](https://files.catbox.moe/xcl5vm.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/5wzmz1r1.7z) |
+| [Tree of Heaven](tree-of-heaven/tree-of-heaven.md) | FLAC | Unknown | [IA](https://archive.org/details/1748034075_tree_of_heaven) [Fileditch](https://fileditchfiles.me/file.php?f=/s22/xagvJJhQtodLAWQwFdt.7z) [Catbox](https://files.catbox.moe/gj27ki.7z) [Pomf2 Lain La](https://pomf2.lain.la/f/m3q2goa.7z) |

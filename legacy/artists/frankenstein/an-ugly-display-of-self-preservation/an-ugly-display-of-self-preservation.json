@@ -1,0 +1,27 @@
+{
+  "id": "an-ugly-display-of-self-preservation",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "An Ugly Display of Self-Preservation",
+    "artist": "Frankenstein",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1748026372_an_ugly_display_of_self-preservation"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/wFEmThMTNehXvEazipSD.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wrthm1.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/kln4cfs.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mutter",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Mutter",
+    "artist": "Rammstein",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "45:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761502574_mutter"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/FxpRLKYsWHrncGOKoXp.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/z4x49wk.7z"
+    }
+  }
+}

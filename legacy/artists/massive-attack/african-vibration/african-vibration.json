@@ -1,0 +1,27 @@
+{
+  "id": "african-vibration",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "African Vibration",
+    "artist": "Massive Attack",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "6:44",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759949979_african_vibration"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ANDkmhqrOHuzZtWCGm.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/q9vfgc.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ghh4sfuq.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "sorrowing-christ",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sorrowing Christ",
+    "artist": "Sorrowing Christ",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_human": "22:40",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767020076_sorrowing_christ"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hwarkzyi.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/a4evk5.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/GlzjvlvPviWHYvFIQAyz.7z"
+    }
+  }
+}

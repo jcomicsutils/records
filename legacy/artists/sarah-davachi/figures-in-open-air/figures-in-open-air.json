@@ -1,0 +1,21 @@
+{
+  "id": "figures-in-open-air",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Figures In Open Air",
+    "artist": "Sarah Davachi",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "2:38:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761502754_figures_in_open_air"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/ADTEMjPYllanQTxYzEw.7z"
+    }
+  }
+}

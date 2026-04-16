@@ -1,0 +1,27 @@
+{
+  "id": "when-a-gift-is-a-curse",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "When a Gift Is a Curse",
+    "artist": "Band of Holy Joy",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:08",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759958695_when_a_gift_is_a_curse"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/orxCPjkYazFYqmeGzSX.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/lm1sw5.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/axfywasl.7z"
+    }
+  }
+}

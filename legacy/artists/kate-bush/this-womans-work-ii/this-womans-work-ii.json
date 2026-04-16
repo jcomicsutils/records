@@ -1,0 +1,24 @@
+{
+  "id": "this-womans-work-ii",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "This Woman's Work II",
+    "artist": "Kate Bush",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756612046_this_woman_s_work_ii"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b57/xLnrrrrXafRDPbekurhl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3kr7r61x.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a-body-turns-to-eden",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Body Turns To Eden",
+    "artist": "Body Sculptures",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757645656_a_body_turns_to_eden"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/EIIEoGNhURbDzAmCmtoE.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/munx5s.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/f80n7ob3.7z"
+    }
+  }
+}

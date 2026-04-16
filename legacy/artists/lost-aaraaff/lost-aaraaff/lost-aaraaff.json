@@ -1,0 +1,24 @@
+{
+  "id": "lost-aaraaff",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Lost Aaraaff",
+    "artist": "Lost Aaraaff [ロスト・アラーフ]",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "1:57:49",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764515921_lost_aaraaff__2020_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/lLRryVAWejLKAYkhOQOo.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/y0cse9ro.7z"
+    }
+  }
+}

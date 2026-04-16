@@ -1,0 +1,24 @@
+{
+  "id": "the-best-of-clan-of-xymox",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Best Of Clan Of Xymox",
+    "artist": "Clan of Xymox",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_human": "1:17:26",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761001919_the_best_of_clan_of_xymox"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/aNuWoVKCbTbZDewKYqxR.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/65ch2zee.7z"
+    }
+  }
+}

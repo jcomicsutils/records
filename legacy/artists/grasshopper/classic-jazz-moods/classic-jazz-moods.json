@@ -1,0 +1,27 @@
+{
+  "id": "classic-jazz-moods",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Classic Jazz Moods",
+    "artist": "Grasshopper",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_human": "29:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766194231_classic_jazz_moods"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/j43dudlv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/xly4i5.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/TdASzoUvLztsZHUJsqZu.7z"
+    }
+  }
+}

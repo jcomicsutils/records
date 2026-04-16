@@ -1,0 +1,24 @@
+{
+  "id": "music-from-patch-cord-productions",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Music from Patch Cord Productions",
+    "artist": "Mort Garson",
+    "codec": "FLAC",
+    "num_tracks": 19,
+    "duration_human": "47:08",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761314763_music_from_patch_cord_productions"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/rFVVwpWbuIuetKVFiYru.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/k2n7pc0r.7z"
+    }
+  }
+}

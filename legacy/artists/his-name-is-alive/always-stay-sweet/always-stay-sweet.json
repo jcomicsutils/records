@@ -1,0 +1,24 @@
+{
+  "id": "always-stay-sweet",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Always Stay Sweet",
+    "artist": "His Name Is Alive",
+    "codec": "FLAC",
+    "num_tracks": 21,
+    "duration_human": "1:06:52",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761080364_always_stay_sweet"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/WKxheRVfLTLkEDflEXsD.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0r6b5o1b.7z"
+    }
+  }
+}

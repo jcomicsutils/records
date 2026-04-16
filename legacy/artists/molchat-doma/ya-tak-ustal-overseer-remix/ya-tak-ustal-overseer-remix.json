@@ -1,0 +1,27 @@
+{
+  "id": "ya-tak-ustal-overseer-remix",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ya Tak Ustal (Overseer Remix)",
+    "artist": "Molchat Doma",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "11:04",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760411759_ya_tak_ustal__overseer_remix_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/YCOxkZDXkUBAoFNlvBSu.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/12wxx2.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/yxz11sxh.7z"
+    }
+  }
+}

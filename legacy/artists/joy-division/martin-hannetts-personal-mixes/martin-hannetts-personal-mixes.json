@@ -1,0 +1,27 @@
+{
+  "id": "martin-hannetts-personal-mixes",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Martin Hannett's Personal Mixes",
+    "artist": "Joy Division",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752462485_2007__martin_hannett_s_personal_mixes"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/nIWBffscrgSGfEDnQ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ga23gj.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2omayh4.7z"
+    }
+  }
+}

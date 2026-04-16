@@ -1,0 +1,24 @@
+{
+  "id": "carl-stone-1196",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Carl Stone 1196",
+    "artist": "Carl Stone",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756437832_carl_stone_1196"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/wMmskeGYJBuRvFKApUz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/z0eb3k31.7z"
+    }
+  }
+}

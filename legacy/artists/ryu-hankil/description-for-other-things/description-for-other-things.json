@@ -1,0 +1,27 @@
+{
+  "id": "description-for-other-things",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Description for Other Things",
+    "artist": "Ryu Hankil",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1755193497_description_for_other_things"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/sOpWNFTPbjWVMEAEkFYH.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7n0135.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8ulx0eo.7z"
+    }
+  }
+}

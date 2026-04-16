@@ -1,0 +1,24 @@
+{
+  "id": "songs-to-sun",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Songs to Sun",
+    "artist": "Stoned Jesus",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "41:06",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760493632_songs_to_sun"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/gJGknMUBbdILUWovmDmz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/aa9xl2yg.7z"
+    }
+  }
+}

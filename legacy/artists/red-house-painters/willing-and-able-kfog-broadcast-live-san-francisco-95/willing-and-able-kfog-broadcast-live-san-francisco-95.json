@@ -1,0 +1,24 @@
+{
+  "id": "willing-and-able-kfog-broadcast-live-san-francisco-95",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Willing and Able (KFOG Broadcast) [Live San Francisco '95]",
+    "artist": "Red House Painters",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "17:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768681641_willing_and_able__kfog_broadcast___live_san_franci"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/m78q9ou6.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/jgbCfCZWcntccOgnYii.7z"
+    }
+  }
+}

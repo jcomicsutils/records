@@ -1,0 +1,24 @@
+{
+  "id": "demo-recording-shit",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "demo-recording-shit",
+    "artist": "Sorry About My Face",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "32:02",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760472577_demo-recording-shit"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ydNaXDnLXuVbfYGLstph.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/t7ykm11z.7z"
+    }
+  }
+}

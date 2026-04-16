@@ -1,0 +1,24 @@
+{
+  "id": "may-11-2013-chicago-lincoln-hall",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "May 11, 2013 Chicago Lincoln Hall",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "1:27:23",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764491754_may_11__2013_chicago_lincoln_hall"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/EynsNfsfMEhrERcjIwIj.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jn9r8e5d.7z"
+    }
+  }
+}

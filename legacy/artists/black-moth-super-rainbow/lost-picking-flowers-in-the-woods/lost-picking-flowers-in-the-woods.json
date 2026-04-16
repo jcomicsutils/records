@@ -1,0 +1,27 @@
+{
+  "id": "lost-picking-flowers-in-the-woods",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Lost, Picking Flowers in the Woods",
+    "artist": "Black Moth Super Rainbow",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "21:17",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760908436_lost__picking_flowers_in_the_woods"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/bjHCwZqJIFujvvCnkDMG.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wzlb5v.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ownexqhm.7z"
+    }
+  }
+}

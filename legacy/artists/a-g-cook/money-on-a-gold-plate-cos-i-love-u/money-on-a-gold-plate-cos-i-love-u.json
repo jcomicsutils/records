@@ -1,0 +1,27 @@
+{
+  "id": "money-on-a-gold-plate-cos-i-love-u",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Money on a Gold Plate / Cos I Love U",
+    "artist": "A. G. Cook",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "4:32",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760244248_money_on_a_gold_plate_-_cos_i_love_u"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/lpOpspeRsNWiaLHmyRUc.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2s7xba.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ss5m2ja.7z"
+    }
+  }
+}

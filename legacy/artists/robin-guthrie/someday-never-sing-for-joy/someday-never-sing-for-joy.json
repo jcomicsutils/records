@@ -1,0 +1,24 @@
+{
+  "id": "someday-never-sing-for-joy",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Someday / Never Sing For Joy",
+    "artist": "Robin Guthrie",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756677360_someday_-_never_sing_for_joy"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/wstDiKIAEQeOdJETAnhj.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/x539em.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "propa-bo-ep",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "propa bo! EP",
+    "artist": "Goreshit",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "9:53",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760488499_propa_bo__ep"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ZrflahoIcuFVNAgqFALT.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/jkl5k9qz.7z"
+    }
+  }
+}

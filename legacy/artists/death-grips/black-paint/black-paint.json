@@ -1,0 +1,27 @@
+{
+  "id": "black-paint",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Black Paint",
+    "artist": "Death Grips",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758594555_black_paint"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/RiNBHSXhZNBcCezBBuMl.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wfwj0s.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/b0ow2oso.7z"
+    }
+  }
+}

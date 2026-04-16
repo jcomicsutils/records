@@ -1,0 +1,27 @@
+{
+  "id": "prester-john",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Prester John",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "6:29",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760801108_prester_john"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/nDJjWnpDsLIQKxJVoHQ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/zh5sad.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/e7w3k7h.7z"
+    }
+  }
+}

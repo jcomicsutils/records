@@ -1,0 +1,24 @@
+{
+  "id": "fated-beautiful-mistakes",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Fated Beautiful Mistakes",
+    "artist": "Band of Holy Joy",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "37:25",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759948600_fated_beautiful_mistakes"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/vCEdKuPwpgcEECzWgZmI.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/zalb0a36.7z"
+    }
+  }
+}

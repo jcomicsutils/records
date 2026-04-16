@@ -1,0 +1,27 @@
+{
+  "id": "the-last-supper",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Last Supper",
+    "artist": "Vagina Dentata Organ",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756184581_the_last_supper"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/sxxLvymFhTRRrwtBEH.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/29gx59.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mdxctu8.7z"
+    }
+  }
+}

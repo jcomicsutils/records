@@ -1,0 +1,24 @@
+{
+  "id": "the-original-band-1984-86-the-original-band",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Original Band (1984-86) (The Original Band)",
+    "artist": "Alexander Hacke",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "36:44",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760405467_the_original_band__1984-86___the_original_band_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/WAFdVkpnkrZtMMkvFlDv.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rud5vqh.7z"
+    }
+  }
+}

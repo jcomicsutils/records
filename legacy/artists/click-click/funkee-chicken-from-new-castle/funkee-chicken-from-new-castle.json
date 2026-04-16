@@ -1,0 +1,27 @@
+{
+  "id": "funkee-chicken-from-new-castle",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Funkee Chicken From New Castle",
+    "artist": "Click Click",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "7:29",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760751507_funkee_chicken_from_new_castle"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/oqyoDjJzAJBCXplbyrD.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/yekomd.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/l0sdagw.7z"
+    }
+  }
+}

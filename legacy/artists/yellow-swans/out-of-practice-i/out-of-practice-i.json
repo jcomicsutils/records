@@ -1,0 +1,27 @@
+{
+  "id": "out-of-practice-i",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Out of Practice I",
+    "artist": "Yellow Swans",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754826602_out_of_practice_i"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/QJwVbMsKAEPZagyBGoa.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vspz2l.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/newe3iw6.7z"
+    }
+  }
+}

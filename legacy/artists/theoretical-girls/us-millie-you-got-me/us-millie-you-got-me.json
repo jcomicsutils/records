@@ -1,0 +1,27 @@
+{
+  "id": "us-millie-you-got-me",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "U.S. Millie / You Got Me",
+    "artist": "Theoretical Girls",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752432904_u_s__millie_-_you_got_me"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/YkYfMFEgoSfCUtEcIPUZ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/atws4r.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/33xtg9yz.7z"
+    }
+  }
+}

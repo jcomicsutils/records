@@ -1,0 +1,24 @@
+{
+  "id": "song-for-paloma",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Song for Paloma",
+    "artist": "Old Saw",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759037710_song_for_paloma"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/lMqcespzxiwFrISDZCku.zip"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5bkphi.zip"
+    }
+  }
+}

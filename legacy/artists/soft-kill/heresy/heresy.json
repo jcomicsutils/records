@@ -1,0 +1,24 @@
+{
+  "id": "heresy",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Heresy",
+    "artist": "Soft Kill",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "29:15",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759972006_heresy"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/nytWjKjGNliFzGsPZQNm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vgyv0h0.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tenis-clube-ao-vivo-no-circo-voador-ao-vivo",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Tênis + Clube - Ao Vivo No Circo Voador (Ao Vivo)",
+    "artist": "Lô Borges",
+    "codec": "FLAC",
+    "num_tracks": 24,
+    "duration_human": "1:16:55",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763915546_t_nis___clube_-_ao_vivo_no_circo_voador__ao_vivo_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/zrcIhvDcywCmxfZItoPR.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/b8g058rb.7z"
+    }
+  }
+}

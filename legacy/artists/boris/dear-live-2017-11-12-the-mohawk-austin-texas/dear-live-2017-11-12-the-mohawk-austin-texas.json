@@ -1,0 +1,27 @@
+{
+  "id": "dear-live-2017-11-12-the-mohawk-austin-texas",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Dear Live 2017-11-12 The Mohawk, Austin, Texas",
+    "artist": "Boris",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_human": "1:23:54",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764479839_dear_live_2017-11-12_the_mohawk__austin__texas"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/wreJIneABvfSNNfIiCLQ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/d1o4xm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/eateav0.7z"
+    }
+  }
+}

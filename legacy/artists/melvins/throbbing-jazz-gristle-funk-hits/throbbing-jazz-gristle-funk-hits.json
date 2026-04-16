@@ -1,0 +1,24 @@
+{
+  "id": "throbbing-jazz-gristle-funk-hits",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Throbbing Jazz Gristle Funk Hits",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "41:03",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769313560_throbbing_jazz_gristle_funk_hits"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9zrqgsje.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/IKdwWHYxMeQrSzrXffvT.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rainbow",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Rainbow",
+    "artist": "Boris with Michio Kurihara",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "40:58",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763907678_rainbow"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/gonOirfnQLdVxKlVqkaP.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/oz7pai2c.7z"
+    }
+  }
+}

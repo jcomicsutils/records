@@ -1,0 +1,24 @@
+{
+  "id": "keeping-on-breathing",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Keeping On Breathing [息をしているまま]",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "1:13:05",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764795577_keeping_on_breathing___________"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9hre1sdy.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/DqfjCvuzwnvcPBTqUuy.7z"
+    }
+  }
+}

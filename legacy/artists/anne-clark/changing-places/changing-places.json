@@ -1,0 +1,27 @@
+{
+  "id": "changing-places",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Changing Places",
+    "artist": "Anne Clark",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747592731_changing_places"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/xbDzmkGeDDnKKJkhDESz.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/pbjgs5.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lnt4u53v.7z"
+    }
+  }
+}

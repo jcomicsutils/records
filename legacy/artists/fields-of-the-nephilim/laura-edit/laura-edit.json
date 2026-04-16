@@ -1,0 +1,27 @@
+{
+  "id": "laura-edit",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Laura (edit)",
+    "artist": "Fields Of The Nephilim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:10",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761151062_laura__edit_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/YkglTDFvtTfCYBYGUnI.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/mgegek.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1jl9vg7m.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "the-music-of-surround-panner",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Music of Surround Panner",
+    "artist": "Yoshimitsu Ichiraku",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "51:32",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764958420_the_music_of_surround_panner"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/985bixui.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/vlyBuPjZaWqQmpMemuiJ.7z"
+    }
+  }
+}

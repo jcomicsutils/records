@@ -1,0 +1,27 @@
+{
+  "id": "live-at-ccsp",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at CCSP",
+    "artist": "Stara Rzeka",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752351705_live_at_ccsp"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/jWmZOBBkoEkZfqNLByG.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8bbfir.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/udsrrey.7z"
+    }
+  }
+}

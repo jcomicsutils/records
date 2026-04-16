@@ -1,0 +1,27 @@
+{
+  "id": "forgot-the-words",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "FORGOT THE WORDS",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "25:03",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760900870_forgot_the_words"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ptTRboyzFHxFswrypwcO.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/okah96.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/igvyrmg.7z"
+    }
+  }
+}

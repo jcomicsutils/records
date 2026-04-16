@@ -1,0 +1,27 @@
+{
+  "id": "ducks-in-the-kiddie-pool-remixes",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ducks In The Kiddie Pool Remixes",
+    "artist": "Click Click",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "32:19",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760746229_ducks_in_the_kiddie_pool_remixes"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/CnBYWGcfUhnEykYZGZrq.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ctruoa.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/p0udllrf.7z"
+    }
+  }
+}

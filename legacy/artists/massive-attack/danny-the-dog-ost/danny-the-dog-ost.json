@@ -1,0 +1,24 @@
+{
+  "id": "danny-the-dog-ost",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Danny The Dog - OST",
+    "artist": "Massive Attack",
+    "codec": "FLAC",
+    "num_tracks": 21,
+    "duration_human": "52:37",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759974441_danny_the_dog_-_ost"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/PcwBBnqYzAmOCxxOmhiE.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/w31vunn.7z"
+    }
+  }
+}

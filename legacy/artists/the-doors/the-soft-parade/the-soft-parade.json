@@ -1,0 +1,24 @@
+{
+  "id": "the-soft-parade",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Soft Parade",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "33:40",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760558522_the_soft_parade"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/nTXqGHvGdVJhvItgYsIq.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/pfw6671x.7z"
+    }
+  }
+}

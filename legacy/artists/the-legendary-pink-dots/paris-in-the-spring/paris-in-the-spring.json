@@ -1,0 +1,24 @@
+{
+  "id": "paris-in-the-spring",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Paris In The Spring",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "1:29:23",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760287985_paris_in_the_spring"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/nJtgdDOsxmsoStRuDLEh.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xrkwkp8.7z"
+    }
+  }
+}

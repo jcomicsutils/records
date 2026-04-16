@@ -1,0 +1,24 @@
+{
+  "id": "desert-island-selection",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Desert Island Selection",
+    "artist": "Brian Eno",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756336047_desert_island_selection"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/rPWvHkASaLCPKHFLfsUB.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/r058onlp.7z"
+    }
+  }
+}

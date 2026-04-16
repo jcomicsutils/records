@@ -1,0 +1,27 @@
+{
+  "id": "black-lake-bloom-remix",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Black Lake (Bloom Remix)",
+    "artist": "Björk",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757002675_black_lake__bloom_remix_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/eNhUHkhOqGWNfwSanAO.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/lcuens.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/b2r16n2.7z"
+    }
+  }
+}

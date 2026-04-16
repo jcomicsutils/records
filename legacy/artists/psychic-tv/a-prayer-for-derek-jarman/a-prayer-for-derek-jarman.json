@@ -1,0 +1,24 @@
+{
+  "id": "a-prayer-for-derek-jarman",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Prayer For Derek Jarman",
+    "artist": "Psychic TV",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "1:13:45",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759670895_a_prayer_for_derek_jarman"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/tLpLzlISnvMLNmQjVVeP.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8w2i35n9.7z"
+    }
+  }
+}

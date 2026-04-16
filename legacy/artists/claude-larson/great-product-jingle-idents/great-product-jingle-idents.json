@@ -1,0 +1,24 @@
+{
+  "id": "great-product-jingle-idents",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Great Product - Jingle & Idents",
+    "artist": "Claude Larson",
+    "codec": "FLAC",
+    "num_tracks": 22,
+    "duration_human": "22:13",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759697956_great_product_-_jingle___idents"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/rVqlStMXpcFQctoYmOmT.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/w1tzgi3w.7z"
+    }
+  }
+}

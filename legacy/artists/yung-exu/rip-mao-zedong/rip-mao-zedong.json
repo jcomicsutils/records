@@ -1,0 +1,27 @@
+{
+  "id": "rip-mao-zedong",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "RIP MAO ZEDONG",
+    "artist": "Yung Exu",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:46",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759625527_rip_mao_zedong"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/TdRzCxgRGkdULyiZcwOW.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/xbjsjl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/lmakqtny.7z"
+    }
+  }
+}

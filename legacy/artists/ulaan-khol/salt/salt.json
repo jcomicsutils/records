@@ -1,0 +1,27 @@
+{
+  "id": "salt",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Salt",
+    "artist": "Ulaan Khol",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "36:49",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769913743_salt"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bsfgmbzv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vim267.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/hOYroCGBAmmbaKbaOhmk.7z"
+    }
+  }
+}

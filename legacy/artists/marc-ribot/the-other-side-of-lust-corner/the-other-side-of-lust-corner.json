@@ -1,0 +1,27 @@
+{
+  "id": "the-other-side-of-lust-corner",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Other Side of Lust Corner",
+    "artist": "Marc Ribot",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756527190_the_other_side_of_lust_corner"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/ULJXWnXLIZYhPklieLMn.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/m9diwr.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8o0q3z52.7z"
+    }
+  }
+}

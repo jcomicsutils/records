@@ -1,0 +1,27 @@
+{
+  "id": "cymbal-violin-lapsteel",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Cymbal Violin Lapsteel",
+    "artist": "Yoshimitsu Ichiraku",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_human": "31:01",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764958312_cymbal_violin_lapsteel"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/8dn60hso.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8ab9bl.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/HrXVvCOKFydTJeeBCSuj.7z"
+    }
+  }
+}

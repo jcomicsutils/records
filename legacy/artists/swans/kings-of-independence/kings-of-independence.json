@@ -1,0 +1,24 @@
+{
+  "id": "kings-of-independence",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Kings of Independence",
+    "artist": "Swans",
+    "codec": "MKV",
+    "num_tracks": 1,
+    "duration_human": "36:44",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769293991_kings_of_independence"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ughw5fog.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/GtGRDwzPHHwRHGlfOloN.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "leave-me-alone",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Leave Me Alone",
+    "artist": "Der Blutharsch and the Infinite Church of the Leading Hand",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "8:44",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759953206_leave_me_alone"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/yPxlxxLWoKSOGvDwWbFf.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/55r8my.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/e55q6mnk.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "next-stop-vienna-to-rome",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Next Stop Vienna to Rome",
+    "artist": "Sun Kil Moon",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "9:41",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768685631_next_stop_vienna_to_rome"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/c2ys7iez.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/c4uy66.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/YXBlGiobBKbSEHUvYxLy.7z"
+    }
+  }
+}

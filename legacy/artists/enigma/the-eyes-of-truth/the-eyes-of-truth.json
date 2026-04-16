@@ -1,0 +1,27 @@
+{
+  "id": "the-eyes-of-truth",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Eyes Of Truth",
+    "artist": "Enigma",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "25:02",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761088261_the_eyes_of_truth"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/buiHyRiqcMvRCLVRfmxJ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/50inp3.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/54jz1xf2.7z"
+    }
+  }
+}

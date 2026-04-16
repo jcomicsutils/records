@@ -1,0 +1,27 @@
+{
+  "id": "quem-sabe-isso-quer-dizer-amor",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Quem Sabe Isso Quer Dizer Amor",
+    "artist": "Lô Borges",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:08",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763910768_quem_sabe_isso_quer_dizer_amor"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/iDjdgumqmUYsRaPXzgFS.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8o79ud.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nrtl21eg.7z"
+    }
+  }
+}

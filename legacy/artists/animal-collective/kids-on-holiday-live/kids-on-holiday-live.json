@@ -1,0 +1,27 @@
+{
+  "id": "kids-on-holiday-live",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Kids On Holiday (Live)",
+    "artist": "Animal Collective",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "6:36",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760823073_kids_on_holiday__live_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/eEfcfwsekBMFwnknRWYA.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/j3fhiy.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/e0vo0iai.7z"
+    }
+  }
+}

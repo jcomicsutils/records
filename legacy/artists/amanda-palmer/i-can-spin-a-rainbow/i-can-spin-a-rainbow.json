@@ -1,0 +1,24 @@
+{
+  "id": "i-can-spin-a-rainbow",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "I Can Spin a Rainbow",
+    "artist": "Amanda Palmer",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_human": "50:53",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763742351_i_can_spin_a_rainbow"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b63/BrHWdTzHpENhfYXJJDOm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tt77wsp.7z"
+    }
+  }
+}

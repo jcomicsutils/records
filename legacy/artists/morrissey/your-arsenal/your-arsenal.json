@@ -1,0 +1,24 @@
+{
+  "id": "your-arsenal",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Your Arsenal",
+    "artist": "Morrissey",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754896226_1992_-_your_arsenal"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/aFVlvHDHrCgyHwYIFfIC.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/roow886o.7z"
+    }
+  }
+}

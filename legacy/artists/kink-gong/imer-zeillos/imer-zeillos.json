@@ -1,0 +1,24 @@
+{
+  "id": "imer-zeillos",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Imer Zeillos",
+    "artist": "Kink Gong",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_human": "35:55",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760993015_imer_zeillos"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/xqXQKwoXRIpIptgxXZjO.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6jdl68qs.7z"
+    }
+  }
+}

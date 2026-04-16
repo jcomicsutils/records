@@ -1,0 +1,27 @@
+{
+  "id": "homage-the-silence-inside",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Homage: The Silence Inside",
+    "artist": "Anne Clark",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747589079_homage_-_the_silence_inside"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/QKrgrqaFESCYUovrXiYM.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wakqin.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/y2ur0fnm.7z"
+    }
+  }
+}

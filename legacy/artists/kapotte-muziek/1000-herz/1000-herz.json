@@ -1,0 +1,24 @@
+{
+  "id": "1000-herz",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "1000 Herz",
+    "artist": "Kapotte Muziek",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "27:27",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761152703_1000_herz"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/wjZcavKezTNYtcuRTOva.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/wwcr0zq1.7z"
+    }
+  }
+}

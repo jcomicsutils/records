@@ -1,0 +1,27 @@
+{
+  "id": "sadeness-part-i",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sadeness (Part I)",
+    "artist": "Enigma",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "17:29",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761079917_sadeness__part_i_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/FWknBfsBtbTjMBuCGLHE.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vy0l6u.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/pt1gakme.7z"
+    }
+  }
+}

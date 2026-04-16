@@ -1,0 +1,24 @@
+{
+  "id": "musique-experimentale-mono-version",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Musique expérimentale (Mono Version)",
+    "artist": "Pierre Schaeffer",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "50:45",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767132213_musique_exp_rimentale__mono_version_"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/w12hmwjo.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/kaJhnqDCUNCdGZmwGMsy.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "societe-de-radiodiffusion-de-lhomme-et-du-fils-francais-bruit-dans-linteret-de-musique",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Société de radiodiffusion de l'homme et du fils français : bruit dans l'intéret de musique",
+    "artist": "Frenchbloke & Son",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_human": "2:00:37",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767021761_soci_t__de_radiodiffusion_de_l_homme_et_du_fils_fr"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/a1pa1ys3.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/wqAfPKtjLTpQADAYk.7z"
+    }
+  }
+}

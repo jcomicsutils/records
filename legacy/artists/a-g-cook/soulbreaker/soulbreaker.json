@@ -1,0 +1,27 @@
+{
+  "id": "soulbreaker",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Soulbreaker",
+    "artist": "A. G. Cook",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:54",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760249004_soulbreaker"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/lNbJplrpkLffMAJXDElW.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/s97r3m.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/am75d85y.7z"
+    }
+  }
+}

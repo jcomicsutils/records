@@ -1,0 +1,24 @@
+{
+  "id": "badtriptych",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Badtriptych",
+    "artist": "Satanique Samba Trio",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752352153_badtriptych"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/sAIEDIbctqowErDeeKM.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/y7cb3a9m.7z"
+    }
+  }
+}

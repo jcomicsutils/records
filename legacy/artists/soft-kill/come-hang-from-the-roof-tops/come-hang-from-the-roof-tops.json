@@ -1,0 +1,27 @@
+{
+  "id": "come-hang-from-the-roof-tops",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Come Hang From The Roof Tops",
+    "artist": "Soft Kill",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:04",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759955867_come_hang_from_the_roof_tops"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/woBESceuhdHUyWBMnRYe.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/pyx175.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/2hrgfvcf.7z"
+    }
+  }
+}

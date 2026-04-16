@@ -1,0 +1,24 @@
+{
+  "id": "daitokai-benjo",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Daitokai / Benjo [大都会 / 便所]",
+    "artist": "The Gerogerigegege [ザ・ゲロゲリゲゲゲ]",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752396681_daitokai_-_benjo______-____"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/qihHLVQjAZAPjsKudin.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/aho2s7xo.7z"
+    }
+  }
+}

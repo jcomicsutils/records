@@ -1,0 +1,27 @@
+{
+  "id": "averno-inferno",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Averno / Inferno",
+    "artist": "Sopor Aeternus & The Ensemble of Shadows",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "38:02",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761494044_averno_-_inferno"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/eGFwpgwfDxkSBLKgHrE.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/m3s8x9.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/muqq92o0.7z"
+    }
+  }
+}

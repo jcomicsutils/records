@@ -1,0 +1,24 @@
+{
+  "id": "myth-about-flat-world",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Myth About Flat World",
+    "artist": "Creation VI",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "58:55",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760805512_myth_about_flat_world__2016___2_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/obPJZjYbfoIKhclvKpaI.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/775czt52.7z"
+    }
+  }
+}

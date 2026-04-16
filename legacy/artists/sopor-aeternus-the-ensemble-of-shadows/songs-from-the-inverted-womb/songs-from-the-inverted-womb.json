@@ -1,0 +1,24 @@
+{
+  "id": "songs-from-the-inverted-womb",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Songs from the Inverted Womb",
+    "artist": "Sopor Aeternus & The Ensemble of Shadows",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "1:12:33",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761583889_songs_from_the_inverted_womb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/AUPjvnCwQJRPwuuuzTmm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/c7yfj9ok.7z"
+    }
+  }
+}

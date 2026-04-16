@@ -1,0 +1,27 @@
+{
+  "id": "fable",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Fable",
+    "artist": "Thuja",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "21:57",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769912982_fable"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/j5u1n6k5.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/fjrfcu.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/CtvSBdvnqohGdWUgOoAs.7z"
+    }
+  }
+}

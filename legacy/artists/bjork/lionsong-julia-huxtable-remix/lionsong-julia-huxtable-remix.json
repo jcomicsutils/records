@@ -1,0 +1,27 @@
+{
+  "id": "lionsong-julia-huxtable-remix",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Lionsong (Julia Huxtable Remix)",
+    "artist": "Björk",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757020119_lionsong__julia_huxtable_remix_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/EpCBBzLvNbIaRmPWhLM.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vbswcm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7mzybx8.7z"
+    }
+  }
+}

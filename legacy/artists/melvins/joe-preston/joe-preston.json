@@ -1,0 +1,27 @@
+{
+  "id": "joe-preston",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Joe Preston",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "27:34",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769317684_joe_preston"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6r5fu3sr.7z"
+    },
+    "": {
+      "url": ""
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/zZtvljwEBGKrLmjBNjyx.7z"
+    }
+  }
+}

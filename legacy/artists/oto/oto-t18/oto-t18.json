@@ -1,0 +1,27 @@
+{
+  "id": "oto-t18",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "(oTo) T18",
+    "artist": "(oTo)",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746074577_oto_t18___leo_slayer"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/rgvjSnwiHKNdCFQUwuf.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vhsd4z.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xdr6htn6.7z"
+    }
+  }
+}

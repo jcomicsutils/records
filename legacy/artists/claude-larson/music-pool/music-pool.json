@@ -1,0 +1,24 @@
+{
+  "id": "music-pool",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Music-Pool",
+    "artist": "Claude Larson",
+    "codec": "FLAC",
+    "num_tracks": 94,
+    "duration_human": "53:39",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759714772_music-pool"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/mMtjWUGEdcmJDvqFWVm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ujv5jofl.7z"
+    }
+  }
+}

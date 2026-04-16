@@ -1,0 +1,27 @@
+{
+  "id": "nonware",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "NONWARE 空件提高",
+    "artist": "bod [包家巷]",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "17:27",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1766778929_nonware_____"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bmbyvlc2.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/4q7dhd.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/YcLgTiNhkVHhdwNjtvDT.7z"
+    }
+  }
+}

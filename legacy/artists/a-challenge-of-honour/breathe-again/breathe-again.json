@@ -1,0 +1,27 @@
+{
+  "id": "breathe-again",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Breathe Again",
+    "artist": "A Challenge Of Honour",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "6:08",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760894789_breathe_again"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MFmgpXWwQUTykCNtCDWW.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/f6se49.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/e5g7s3q2.7z"
+    }
+  }
+}

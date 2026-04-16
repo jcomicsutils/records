@@ -1,0 +1,27 @@
+{
+  "id": "birna",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Birna",
+    "artist": "Wardruna",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "29:44",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761573513_birna"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/NGevDYRJhlYZNGYhyONn.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7tjl1x.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/yoi9qcf8.7z"
+    }
+  }
+}

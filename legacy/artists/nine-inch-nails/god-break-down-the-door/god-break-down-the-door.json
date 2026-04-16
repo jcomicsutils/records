@@ -1,0 +1,27 @@
+{
+  "id": "god-break-down-the-door",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "God Break Down the Door",
+    "artist": "Nine Inch Nails",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:14",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761383856_god_break_down_the_door"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ooOueOyFpejkHQkmaVB.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/91u2mi.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/y7t1iv05.7z"
+    }
+  }
+}

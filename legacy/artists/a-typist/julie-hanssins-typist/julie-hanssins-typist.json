@@ -1,0 +1,27 @@
+{
+  "id": "julie-hanssins-typist",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Julie Hanssin's Typist",
+    "artist": "A. Typist",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1755215857_julie_hanssin_s_typist"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/mZJKIfaGUBpLRuaVjJUF.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/f3cyou.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4sdyxak.7z"
+    }
+  }
+}

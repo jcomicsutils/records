@@ -1,0 +1,27 @@
+{
+  "id": "ratnik",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "RATNIK",
+    "artist": "Berith",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "1:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768760996_ratnik"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/i3ah4hu6.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jxwjx9.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/ecpLSJpQasmqPphWquR.7z"
+    }
+  }
+}

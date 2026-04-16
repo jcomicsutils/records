@@ -1,0 +1,27 @@
+{
+  "id": "stara-rzeka",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Stara Rzeka",
+    "artist": "Stara Rzeka",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752351920_stara_rzeka"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/ANDRHJZyFWrJkPNdvgq.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/050nda.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ffkltzgu.7z"
+    }
+  }
+}

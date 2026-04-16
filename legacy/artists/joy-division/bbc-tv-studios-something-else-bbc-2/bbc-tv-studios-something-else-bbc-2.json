@@ -1,0 +1,27 @@
+{
+  "id": "bbc-tv-studios-something-else-bbc-2",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "BBC TV Studios (Something Else, BBC 2)",
+    "artist": "Joy Division",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752285323_bbc_tv_studios__something_else__bbc_2_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/VzBGYQqOzLTndNEWBb.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/hookx7.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/x25m4z5m.7z"
+    }
+  }
+}

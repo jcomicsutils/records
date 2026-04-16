@@ -1,0 +1,24 @@
+{
+  "id": "jesu-battle-of-mice",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Jesu / Battle of Mice",
+    "artist": "Jesu",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_human": "30:06",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764200553_jesu_-_battle_of_mice"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/mYVMQSMQFhWNwBEHlbcx.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/thktoqam.7z"
+    }
+  }
+}

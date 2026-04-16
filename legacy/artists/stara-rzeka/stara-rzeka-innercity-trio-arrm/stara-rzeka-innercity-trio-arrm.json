@@ -1,0 +1,27 @@
+{
+  "id": "stara-rzeka-innercity-trio-arrm",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Stara Rzeka / Innercity Trio / ARRM",
+    "artist": "Stara Rzeka",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752352011_stara_rzeka_-_innercity_trio_-_arrm"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/hMoPvftpjRgDEEnbEBoU.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8sib2p.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/iuykxpq.7z"
+    }
+  }
+}

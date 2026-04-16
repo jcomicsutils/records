@@ -1,0 +1,24 @@
+{
+  "id": "vein-hardcore",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Vein [Hardcore]",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "29:48",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764483080_vein__hardcore_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/MQGovSnMoDwBOOLuMHS.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3z8leubu.7z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "chama-viva",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Chama Viva",
+    "artist": "Lô Borges",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "36:59",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763911849_chama_viva"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/kESgRhRIVzkXGyUJSpcX.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bph39q9p.7z"
+    }
+  }
+}

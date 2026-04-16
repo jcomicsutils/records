@@ -1,0 +1,24 @@
+{
+  "id": "sentient-eidolon",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sentient Eidolon",
+    "artist": "Nahadoth",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "54:36",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761342346_sentient_eidolon"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ufSzQsmJiMfgkdKyGYPl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tj7qkeaq.7z"
+    }
+  }
+}

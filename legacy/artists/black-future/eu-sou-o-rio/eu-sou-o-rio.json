@@ -1,0 +1,27 @@
+{
+  "id": "eu-sou-o-rio",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Eu sou o Rio",
+    "artist": "Black Future",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747714251_eu_sou_o_rio"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/fMRMFRRoMCapSuNzCHq.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ptskm8.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/t0ipeayt.7z"
+    }
+  }
+}

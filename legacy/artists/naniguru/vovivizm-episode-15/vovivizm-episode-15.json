@@ -1,0 +1,27 @@
+{
+  "id": "vovivizm-episode-15",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Vovivizm Episode 1.5",
+    "artist": "Nani∞Guru",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_human": "1:08:35",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765158797_vovivizm_episode_1_5"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/125t2w3j.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/723s83.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/YRPZNZxLKGyssdncwBYj.7z"
+    }
+  }
+}

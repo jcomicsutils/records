@@ -1,0 +1,27 @@
+{
+  "id": "light-in-dust",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Light in Dust",
+    "artist": "Ulaan Passerine",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "21:40",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769916487_light_in_dust"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9dyrhuqc.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wmmfgk.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b72/XlfaWVoWsSnQqRIgkDzJ.7z"
+    }
+  }
+}

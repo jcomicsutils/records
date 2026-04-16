@@ -1,0 +1,24 @@
+{
+  "id": "music-for-cats",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Music for Cats",
+    "artist": "cEvin Key",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "1:13:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760282165_music_for_cats"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/UjMlTtmWvbPhkmYTGDAl.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hvphzg1i.7z"
+    }
+  }
+}

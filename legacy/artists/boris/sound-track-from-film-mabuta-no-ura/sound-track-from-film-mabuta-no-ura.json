@@ -1,0 +1,24 @@
+{
+  "id": "sound-track-from-film-mabuta-no-ura",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sound Track From Film \"Mabuta no ura\" [マブタノウラ]",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 25,
+    "duration_human": "1:33:24",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764466830_sound_track_from_film_mabuta_no_ura_________"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/khGyWXPXJcIGtGrzm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/glzb0ey.7z"
+    }
+  }
+}

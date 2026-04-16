@@ -1,0 +1,27 @@
+{
+  "id": "earth-223-special-lower-frequency-mix",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Earth 2.23: Special Lower Frequency Mix",
+    "artist": "Earth",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_human": "1:17:49",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763921964_earth_2_23_special_lower_frequency_mix"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ROZTRSFxFmyLYyJqYxv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/a0qyln.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/m17j2ftq.7z"
+    }
+  }
+}

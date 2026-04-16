@@ -1,0 +1,27 @@
+{
+  "id": "the-kahanek-incident-volume-3",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Kahanek Incident, Volume 3",
+    "artist": "Stars of the Lid",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754839327_the_kahanek_incident__volume_3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/YkozBjYvWwAuZIWsWKJg.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/hohoha.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/emr63gy2.7z"
+    }
+  }
+}

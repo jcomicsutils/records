@@ -1,0 +1,24 @@
+{
+  "id": "protection-the-remixes",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Protection - The Remixes",
+    "artist": "Massive Attack",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_human": "1:27:19",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760053139_protection_-_the_remixes"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/lHGSgpKZarxxIotroTcL.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hw2zah.7z"
+    }
+  }
+}

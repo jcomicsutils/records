@@ -1,0 +1,24 @@
+{
+  "id": "oblivion-rites",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Oblivion Rites",
+    "artist": "How To Disappear Completely",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "50:22",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759962808_oblivion_rites"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/BJBqQseKHaMPBaDvgIzm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nt8k55fp.7z"
+    }
+  }
+}

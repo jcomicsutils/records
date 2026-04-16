@@ -1,0 +1,21 @@
+{
+  "id": "dead-kids-rip-city",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Dead Kids R.I.P. City",
+    "artist": "Soft Kill",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "47:39",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759962539_dead_kids_r_i_p__city"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/WJEuVUHKiMnJyhoUQk.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "white-shoes",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "White Shoes",
+    "artist": "Blvck Ceiling",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:51",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760915930_white_shoes"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/aPzJGuXjGeYKrQzVsZkL.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/eimvmd.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7uw90sj.7z"
+    }
+  }
+}

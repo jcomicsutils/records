@@ -1,0 +1,27 @@
+{
+  "id": "aspen-magazine-no-8-fall-winter",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Aspen Magazine No. 8 Fall-Winter",
+    "artist": "La Monte Young",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1755987117_aspen_magazine_no__8_fall-winter"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/qloNIsCFFGeXFYeeHTJD.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/qm5wj9.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/5d5m29g.7z"
+    }
+  }
+}

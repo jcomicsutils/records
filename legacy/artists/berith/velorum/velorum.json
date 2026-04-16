@@ -1,0 +1,27 @@
+{
+  "id": "velorum",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "VELORUM",
+    "artist": "Berith",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "4:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768761372_velorum"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7sle5iod.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/m8n2c5.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/tDrymwaEfTtubLNStesp.7z"
+    }
+  }
+}

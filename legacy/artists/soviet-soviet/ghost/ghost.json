@@ -1,0 +1,27 @@
+{
+  "id": "ghost",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ghost",
+    "artist": "Soviet Soviet",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "11:03",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761510928_ghost"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/gDSeoGrbLRAkOdqboQmg.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0rlou9.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xm8eztqx.7z"
+    }
+  }
+}

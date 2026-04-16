@@ -1,0 +1,27 @@
+{
+  "id": "yandsen-and-ryoko-saxophone-duo-newduo-series-006",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Yandsen and Ryoko Saxophone DUO (NEWDUO series 006)",
+    "artist": "Ono Ryoko",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "16:19",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764963976_yandsen_and_ryoko_saxophone_duo__newduo_series_006"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ei4gr5mk.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/a1b7ek.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/DVjCBhoTlNIGKLrpqwDW.7z"
+    }
+  }
+}

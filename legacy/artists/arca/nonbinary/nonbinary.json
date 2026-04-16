@@ -1,0 +1,27 @@
+{
+  "id": "nonbinary",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Nonbinary",
+    "artist": "Arca",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "2:19",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760305526_nonbinary"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/XhlLmBnZHEFZGHGxVHEa.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/fzza5o.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/pib6mwl.7z"
+    }
+  }
+}

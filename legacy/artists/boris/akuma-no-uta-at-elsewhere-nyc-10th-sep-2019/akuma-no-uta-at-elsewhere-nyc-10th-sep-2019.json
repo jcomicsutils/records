@@ -1,0 +1,27 @@
+{
+  "id": "akuma-no-uta-at-elsewhere-nyc-10th-sep-2019",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "\"Akuma no uta\" at Elsewhere NYC 10th Sep. 2019",
+    "artist": "Boris",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_human": "5:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764484058_akuma_no_uta_at_elsewhere_nyc_10th_sep__2019"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/jqvqaYnBZXAstlWDZRkq.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/76qya0.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7bflzp21.7z"
+    }
+  }
+}

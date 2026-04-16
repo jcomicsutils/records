@@ -1,0 +1,27 @@
+{
+  "id": "bana",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Bana",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "4:05",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760741123_bana"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/zDRjPHhWaRnSMwOGBFni.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8x1ed5.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/3ov7nm2.7z"
+    }
+  }
+}

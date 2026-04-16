@@ -1,0 +1,24 @@
+{
+  "id": "honky",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Honky",
+    "artist": "Melvins",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "1:10:51",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769313736_honky"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/tggaks9k.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/AOsgkhCANAmlwJcYPOe.7z"
+    }
+  }
+}

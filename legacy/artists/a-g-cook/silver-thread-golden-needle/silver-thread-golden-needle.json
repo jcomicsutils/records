@@ -1,0 +1,27 @@
+{
+  "id": "silver-thread-golden-needle",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Silver Thread Golden Needle",
+    "artist": "A. G. Cook",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "9:56",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760245564_silver_thread_golden_needle"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/exgWjigMDSDZoyQBZFj.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ifaiyb.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9gttcpa7.7z"
+    }
+  }
+}

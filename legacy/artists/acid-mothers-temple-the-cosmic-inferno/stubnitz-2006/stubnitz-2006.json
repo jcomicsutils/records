@@ -1,0 +1,27 @@
+{
+  "id": "stubnitz-2006",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Stubnitz 2006",
+    "artist": "Acid Mothers Temple & The Cosmic Inferno",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_human": "1:20:21",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1765144122_stubnitz_2006"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/37unkvpi.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/j6zkw3.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/zQvaTTfDduiKeEiMzOiz.7z"
+    }
+  }
+}

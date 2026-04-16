@@ -1,0 +1,27 @@
+{
+  "id": "fall-galore-a-g-cook-remixes",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "fall / galore  (A. G. Cook Remixes)",
+    "artist": "A. G. Cook",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "5:00",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760243555_fall_-_galore__a__g__cook_remixes_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/IuLIJrvJxvgUXQOZsVTd.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/400qiu.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/grc8clwp.7z"
+    }
+  }
+}

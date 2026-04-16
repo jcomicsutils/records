@@ -1,0 +1,27 @@
+{
+  "id": "the-hand-of-glory",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Hand Of Glory",
+    "artist": "Ramleh",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1752337572_the_hand_of_glory"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/WLgdfgrBTxztMMoYVpBi.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/p7u3yz.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hhuhyf2p.7z"
+    }
+  }
+}

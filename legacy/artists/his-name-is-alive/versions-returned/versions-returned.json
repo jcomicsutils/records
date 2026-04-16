@@ -1,0 +1,27 @@
+{
+  "id": "versions-returned",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Versions Returned",
+    "artist": "His Name Is Alive",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "28:17",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761155752_versions_returned"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/IhFENaXeRRTiUDRQARxG.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/dhroye.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vc4xckc.7z"
+    }
+  }
+}

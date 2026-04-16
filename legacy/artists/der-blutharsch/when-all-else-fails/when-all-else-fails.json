@@ -1,0 +1,24 @@
+{
+  "id": "when-all-else-fails",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "When All Else Fails!",
+    "artist": "Der Blutharsch",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_human": "48:56",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759971275_when_all_else_fails_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/sUWHDucTcsSKbjbSYeZw.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/9jmrl3ea.7z"
+    }
+  }
+}

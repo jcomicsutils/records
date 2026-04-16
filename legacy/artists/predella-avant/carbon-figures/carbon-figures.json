@@ -1,0 +1,24 @@
+{
+  "id": "carbon-figures",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Carbon Figures",
+    "artist": "Predella Avant",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "40:45",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761485504_carbon_figures"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/XarKReIktZLeoLzUUhfR.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/y3uhfbmy.7z"
+    }
+  }
+}

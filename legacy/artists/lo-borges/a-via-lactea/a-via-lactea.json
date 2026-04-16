@@ -1,0 +1,24 @@
+{
+  "id": "a-via-lactea",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "A Via-Láctea",
+    "artist": "Lô Borges",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "36:25",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763908351_a_via-l_ctea"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/BxjetyoSGasGQAazpaGJ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/1lh618co.7z"
+    }
+  }
+}

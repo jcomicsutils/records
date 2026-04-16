@@ -1,0 +1,27 @@
+{
+  "id": "gund",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Gund",
+    "artist": "Beequeen",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "43:54",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760227307_gund"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/UCKVwfZmYLtsUfDvjNUY.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vjtk2t.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/83zy3p8d.7z"
+    }
+  }
+}

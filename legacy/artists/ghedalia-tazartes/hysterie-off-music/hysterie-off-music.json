@@ -1,0 +1,27 @@
+{
+  "id": "hysterie-off-music",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hystérie Off Music",
+    "artist": "Ghédalia Tazartès",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1748382809_hyst_rie_off_music"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/zbMcloxspnBwORmVZbNJ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/u7583t.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fwboegxu.7z"
+    }
+  }
+}

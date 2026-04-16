@@ -1,0 +1,24 @@
+{
+  "id": "the-singles-2017-remaster",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Singles  (2017 Remaster)",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 44,
+    "duration_human": "2:19:53",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760555026_the_singles__2017_remaster_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/tFjHfPTELsFYAGGgFFJd.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/pe6f7g8.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "gtfo",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "GTFO",
+    "artist": "GFOTY",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:41",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760474603_gtfo"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/KRDJiysrpiVqsrLpVknI.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/um7a0c.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/nl3488ou.7z"
+    }
+  }
+}

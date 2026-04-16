@@ -1,0 +1,24 @@
+{
+  "id": "for-sure",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "For Sure",
+    "artist": "Ethel Cain",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "13:09",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767669262_for_sure"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/b8ozeth8.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b69/pUvsANVSaiMubFqBwOvZ.7z"
+    }
+  }
+}

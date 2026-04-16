@@ -1,0 +1,24 @@
+{
+  "id": "keep-the-way",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Keep The Way",
+    "artist": "Dead Voices On Air",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759113129_keep_the_way"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/pZfwYSIpXuMAMDJrYlYL.zip"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/h2ov85.zip"
+    }
+  }
+}

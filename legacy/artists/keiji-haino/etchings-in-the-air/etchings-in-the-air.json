@@ -1,0 +1,27 @@
+{
+  "id": "etchings-in-the-air",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Etchings in the Air",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_human": "46:30",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764808857_etchings_in_the_air"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/o642ktkb.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/rnagb1.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/xAeQYTpEyNQfAYTQXDnj.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "no-coke-toni",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "No Coke Toni",
+    "artist": "Click Click",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:48",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760760683_no_coke_toni"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/WzsqeHVXFpdVHixCcfrj.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/pwzkxo.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/kkatna3.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "gene-packs",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Gene Packs",
+    "artist": "Hasegawa-Shizuo",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_human": "42:54",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767210078_gene_packs"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/rkduw8d9.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/f98ucv.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s25/DQEnrSJGffcdPOydknoN.7z"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "piano-is-evil",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Piano Is Evil",
+    "artist": "Amanda Palmer",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "1:11:43",
+    "sampling_rate": "96.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1763745079_piano_is_evil"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b63/pXIkPRQqOhIrdldcFBVF.7z"
+    }
+  }
+}

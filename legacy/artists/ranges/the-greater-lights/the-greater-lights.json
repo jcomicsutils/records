@@ -1,0 +1,27 @@
+{
+  "id": "the-greater-lights",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Greater Lights",
+    "artist": "Ranges",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "6:15",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759683443_the_greater_lights"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/aFOAxtQbhXqvlmPCiLh.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/fsyfg1.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/fhuj2n3c.7z"
+    }
+  }
+}

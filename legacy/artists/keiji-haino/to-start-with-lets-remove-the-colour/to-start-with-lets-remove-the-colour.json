@@ -1,0 +1,24 @@
+{
+  "id": "to-start-with-lets-remove-the-colour",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "To Start With, Let's Remove the Colour!! [まずは　色を無くそうか！！]",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "1:07:32",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764798008_to_start_with__let_s_remove_the_colour____________"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/qy60vucn.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/joRlHVtAFhDgueAIbZPa.7z"
+    }
+  }
+}

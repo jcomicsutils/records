@@ -1,0 +1,24 @@
+{
+  "id": "luvre-musicale",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "L'œuvre musicale",
+    "artist": "Pierre Schaeffer",
+    "codec": "FLAC",
+    "num_tracks": 63,
+    "duration_human": "3:16:37",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767121087_l__uvre_musicale"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/mpakx5f2.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b68/pEJMmrLfvICUxJAHDwpI.7z"
+    }
+  }
+}

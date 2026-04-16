@@ -1,0 +1,27 @@
+{
+  "id": "hello-i-love-you",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Hello I Love You",
+    "artist": "The Doors",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "7:44",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "": {
+      "url": ""
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/1760548188_hello_i_love_you__2_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/HKkdIPNVIRCSASAhMPsX.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/kemr0d5i.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "the-very-very-very-very-classy-acoustic-album",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Very, Very, Very, Very Classy Acoustic Album",
+    "artist": "Ninja Sex Party",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_human": "33:25",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761360873_the_very__very__very__very_classy_acoustic_album"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/MdQgCuEWEZfGdAwzdWh.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/20nj0r.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/m4c41lwx.7z"
+    }
+  }
+}

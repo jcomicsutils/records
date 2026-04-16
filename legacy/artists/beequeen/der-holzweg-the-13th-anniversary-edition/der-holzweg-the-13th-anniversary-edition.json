@@ -1,0 +1,24 @@
+{
+  "id": "der-holzweg-the-13th-anniversary-edition",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Der Holzweg - The 13th Anniversary Edition",
+    "artist": "Beequeen",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_human": "58:41",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760222924_der_holzweg_-_the_13th_anniversary_edition"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/pmeIxuaVqSogNaFSdDy.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/uz9t4o9.7z"
+    }
+  }
+}

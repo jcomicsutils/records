@@ -1,0 +1,24 @@
+{
+  "id": "the-golden-age-2018-remaster",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Golden Age (2018 Remaster)",
+    "artist": "The Legendary Pink Dots",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_human": "1:22:17",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760402577_the_golden_age__2018_remaster_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b59/aLlDLicadwFoqWhAQex.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dyzq5e3.7z"
+    }
+  }
+}

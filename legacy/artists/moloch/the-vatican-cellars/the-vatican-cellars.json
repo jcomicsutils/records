@@ -1,0 +1,24 @@
+{
+  "id": "the-vatican-cellars",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Vatican Cellars",
+    "artist": "Moloch",
+    "codec": "FLAC",
+    "num_tracks": 36,
+    "duration_human": "2:16:15",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761356138_the_vatican_cellars"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/CRiUzFFGHQYXWsCuSMca.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/skmnd843.7z"
+    }
+  }
+}

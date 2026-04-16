@@ -1,0 +1,18 @@
+# Danheim — Fella
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | 48.0kHz |
+| Tracks | 1 |
+| Duration | 3:11 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/1760743866_fella)
+- [Fileditch](https://fileditchfiles.me/file.php?f=/s24/EibabjIurELltyYDdX.7z)
+- [Catbox](https://files.catbox.moe/0aukw9.7z)
+- [Pomf2 Lain La](https://pomf2.lain.la/f/s4gg3lv4.7z)
+
+---
+*Legacy Archive*

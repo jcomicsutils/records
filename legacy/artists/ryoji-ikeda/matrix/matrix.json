@@ -1,0 +1,24 @@
+{
+  "id": "matrix",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Matrix",
+    "artist": "Ryoji Ikeda",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759069001_matrix"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/bqtIajLMVIpBhEQYhsj.zip"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/b7s8mo.zip"
+    }
+  }
+}

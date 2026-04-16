@@ -1,0 +1,24 @@
+{
+  "id": "no-better-no-worse-vol-3",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "No Better No Worse (Vol 3)",
+    "artist": "Graham Lambkin",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1754580585_no_better_no_worse__vol_3_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b56/bPrMEAxJwyRDCioChnaZ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/dwrzmn7t.7z"
+    }
+  }
+}

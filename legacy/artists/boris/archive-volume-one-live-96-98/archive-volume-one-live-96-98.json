@@ -1,0 +1,24 @@
+{
+  "id": "archive-volume-one-live-96-98",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Archive Volume One: Live 96-98",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_human": "46:04",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764489420_archive_volume_one_live_96-98"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/ZAgeKHyRwGeYtPVSVbIB.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/0xyido04.7z"
+    }
+  }
+}

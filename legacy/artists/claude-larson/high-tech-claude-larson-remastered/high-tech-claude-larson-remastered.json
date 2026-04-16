@@ -1,0 +1,24 @@
+{
+  "id": "high-tech-claude-larson-remastered",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "High-Tech - Claude Larson (Remastered)",
+    "artist": "Claude Larson",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_human": "35:32",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759699314_high-tech_-_claude_larson__remastered_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/uaJIxyEFvANKwThBZsZm.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/k3y4hk08.7z"
+    }
+  }
+}

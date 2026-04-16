@@ -1,0 +1,24 @@
+{
+  "id": "the-use-of-recycling",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Use of Recycling",
+    "artist": "Kapotte Muziek",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "1:08:49",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761146454_the_use_of_recycling"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/UcMQcpOULkvZbcbnGep.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/hsnvt5hn.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "eleventh-hour",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Eleventh Hour",
+    "artist": "Pedestrian Deposit",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "29:47",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761353928_eleventh_hour"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/kpGZWNEheXgQaTkuuTK.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/tbso6x.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/xvp9gmr1.7z"
+    }
+  }
+}

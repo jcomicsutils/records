@@ -1,0 +1,24 @@
+{
+  "id": "two-city-blues-2",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Two City Blues 2",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "55:13",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764800206_two_city_blues_2"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gynkj760.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/DPwCfoezCPDytlzJiN.7z"
+    }
+  }
+}

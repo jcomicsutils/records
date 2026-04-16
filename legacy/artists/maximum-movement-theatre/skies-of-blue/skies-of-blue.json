@@ -1,0 +1,27 @@
+{
+  "id": "skies-of-blue",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "skies of blue",
+    "artist": "Maximum Movement Theatre",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_human": "45:12",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761322567_skies_of_blue"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/XGNnCtQksmFJqOLKwQpM.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/57w3rn.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ctk7r8c0.7z"
+    }
+  }
+}

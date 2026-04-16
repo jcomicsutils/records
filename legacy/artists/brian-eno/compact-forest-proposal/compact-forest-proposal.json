@@ -1,0 +1,27 @@
+{
+  "id": "compact-forest-proposal",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Compact Forest Proposal",
+    "artist": "Brian Eno",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756332332_compact_forest_proposal"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/ALgrAPbAFBDnCwNDrpUZ.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/dmunie.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/cpbdiwow.7z"
+    }
+  }
+}

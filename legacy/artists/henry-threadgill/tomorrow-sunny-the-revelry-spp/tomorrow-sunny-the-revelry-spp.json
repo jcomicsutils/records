@@ -1,0 +1,24 @@
+{
+  "id": "tomorrow-sunny-the-revelry-spp",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Tomorrow Sunny / The Revelry, Spp",
+    "artist": "Henry Threadgill",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1756151598_tomorrow_sunny_-_the_revelry__spp"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/qtFSKpIUCQDFVIbAWuPS.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/atldtrv9.7z"
+    }
+  }
+}

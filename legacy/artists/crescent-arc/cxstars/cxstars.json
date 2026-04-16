@@ -1,0 +1,27 @@
+{
+  "id": "cxstars",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Cxstars",
+    "artist": "crescent arc",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747773248_crescent_arc_-_cxstars_mp3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/smaMJrQAMCbgsiAsmcjv.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/o6unpa.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/4qjum324.7z"
+    }
+  }
+}

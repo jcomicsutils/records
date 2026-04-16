@@ -1,0 +1,27 @@
+{
+  "id": "the-fake-star-judgeman-the-havens",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Fake Star Judgeman & the Havens",
+    "artist": "Atsushi Tsuyama",
+    "codec": "MP3",
+    "num_tracks": 10,
+    "duration_human": "37:32",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764957999_the_fake_star_judgeman___the_havens"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/q0e60tmk.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8pprpg.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/rzCbzMmHmCvlgcAlZFM.7z"
+    }
+  }
+}

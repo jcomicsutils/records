@@ -1,0 +1,24 @@
+{
+  "id": "live-at-zal-ozhidaniya-saint-petersburg-russia-26-11-2019",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at Zal Ozhidaniya, Saint Petersburg, Russia (26-11-2019)",
+    "artist": "Boris",
+    "codec": "MP3",
+    "num_tracks": 13,
+    "duration_human": "1:40:17",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764479538_live_at_zal_ozhidaniya__saint_petersburg__russia__"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/lDPrWIlcCxpFsMWIjQ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gtx4ydw.7z"
+    }
+  }
+}

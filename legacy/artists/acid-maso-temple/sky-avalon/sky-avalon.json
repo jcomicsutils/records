@@ -1,0 +1,27 @@
+{
+  "id": "sky-avalon",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Sky Avalon",
+    "artist": "Acid Maso Temple",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1746104456_sky_avalon"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/iCvBKDBntieXKVwAdZko.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/3xx3fo.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/91zhmdpg.7z"
+    }
+  }
+}

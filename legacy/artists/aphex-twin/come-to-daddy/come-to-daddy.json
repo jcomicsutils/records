@@ -1,0 +1,27 @@
+{
+  "id": "come-to-daddy",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Come To Daddy",
+    "artist": "Aphex Twin",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1757004849_come_to_daddy"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/kbrvBYNclKoCncDzVdyF.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7ewh65.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/i61vkt73.7z"
+    }
+  }
+}

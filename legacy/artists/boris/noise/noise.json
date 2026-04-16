@@ -1,0 +1,24 @@
+{
+  "id": "noise",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Noise",
+    "artist": "Boris",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_human": "1:21:24",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764468381_noise"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b64/vkGdHXGFZIiuoLnrrOxG.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/vzmf2bd.7z"
+    }
+  }
+}

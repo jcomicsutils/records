@@ -1,0 +1,24 @@
+{
+  "id": "preachers-daughter",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Preacher’s Daughter",
+    "artist": "Ethel Cain",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_human": "1:15:43",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1767672671_preacher_s_daughter"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/u1euwb8.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b69/LGCZKyHvsjGcXHeoZHTo.7z"
+    }
+  }
+}

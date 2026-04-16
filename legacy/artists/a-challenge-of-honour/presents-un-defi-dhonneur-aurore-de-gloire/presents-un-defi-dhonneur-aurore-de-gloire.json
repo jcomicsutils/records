@@ -1,0 +1,27 @@
+{
+  "id": "presents-un-defi-dhonneur-aurore-de-gloire",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Presents Un Defi d'Honneur Aurore de Gloire",
+    "artist": "A Challenge Of Honour",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_human": "38:48",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760900150_presents_un_defi_d_honneur_aurore_de_gloire"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/oFSbSlmKYxXNjqJGoEsr.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/lehncg.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/24umyzm8.7z"
+    }
+  }
+}

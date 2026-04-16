@@ -1,0 +1,27 @@
+{
+  "id": "vol-2",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Vol. 2",
+    "artist": "Keiji Haino",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_human": "27:53",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1764805620_vol__2"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/7tjwq3m.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/qq1b2r.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/UlBgaHodSpIZODVVuvW.7z"
+    }
+  }
+}

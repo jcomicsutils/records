@@ -1,0 +1,24 @@
+{
+  "id": "among-the-leaves",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Among The Leaves",
+    "artist": "Sun Kil Moon",
+    "codec": "FLAC",
+    "num_tracks": 22,
+    "duration_human": "1:33:08",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1768677509_among_the_leaves"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/t97nb6uy.7z"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b70/MVWLxRAsmhEWaBxvXZPD.7z"
+    }
+  }
+}

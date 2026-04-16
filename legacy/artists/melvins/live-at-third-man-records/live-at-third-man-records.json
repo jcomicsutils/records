@@ -1,0 +1,27 @@
+{
+  "id": "live-at-third-man-records",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Live at Third Man Records",
+    "artist": "Melvins",
+    "codec": "MP3",
+    "num_tracks": 7,
+    "duration_human": "39:57",
+    "sampling_rate": "44.1kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1769317938_live_at_third_man_records"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/6z3jn9ng.7z"
+    },
+    "": {
+      "url": ""
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b71/GZYZpprYZJZpDKdmmqIA.7z"
+    }
+  }
+}

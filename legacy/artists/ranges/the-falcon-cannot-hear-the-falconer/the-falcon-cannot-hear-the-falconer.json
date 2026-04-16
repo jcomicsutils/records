@@ -1,0 +1,27 @@
+{
+  "id": "the-falcon-cannot-hear-the-falconer",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "The Falcon Cannot Hear the Falconer",
+    "artist": "Ranges",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "5:50",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1759681415_the_falcon_cannot_hear_the_falconer"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/FCSpnadXtQWvPJHMGGOj.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gguti0.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/ra294ab9.7z"
+    }
+  }
+}

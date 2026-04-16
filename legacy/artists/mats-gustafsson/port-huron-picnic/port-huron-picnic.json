@@ -1,0 +1,27 @@
+{
+  "id": "port-huron-picnic",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Port Huron Picnic",
+    "artist": "Mats Gustafsson",
+    "codec": "MP3",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1753687048_port_huron_picnic"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s23/ARsXhfogupJWroMkmrTi.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/6q9289.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/gz8uqito.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "pretty-little-lightning-paw",
+  "archived_at": "2026-04-16T03:56:07Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Pretty Little Lightning Paw",
+    "artist": "A Silver Mt. Zion",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1747341119_the_pretty_little_lightning_paw"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s22/HzPwDyYDpwtBlwXcMtKS.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/l26kvg.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/n71zatxh.7z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "feikinstafir",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Feikinstafir",
+    "artist": "Danheim",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_human": "3:55",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1760743686_feikinstafir"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/NYUKttIcypPTSwXLMvij.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/tq4vrg.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/kqa3lvxx.7z"
+    }
+  }
+}

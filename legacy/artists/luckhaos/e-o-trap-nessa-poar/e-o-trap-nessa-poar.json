@@ -1,0 +1,27 @@
+{
+  "id": "e-o-trap-nessa-poar",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "É o Trap Nessa Poar!",
+    "artist": "Luckhaos",
+    "codec": "FLAC",
+    "num_tracks": 0,
+    "duration_human": "Unknown",
+    "sampling_rate": "Unknown"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1758481194___o_trap_nessa_poar_"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/s24/rhOFqwjRdupUDdHbwar.7z"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/d5y4g4.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/f4jrsc36.7z"
+    }
+  }
+}

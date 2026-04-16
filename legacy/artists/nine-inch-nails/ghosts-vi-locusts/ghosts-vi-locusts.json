@@ -1,0 +1,24 @@
+{
+  "id": "ghosts-vi-locusts",
+  "archived_at": "2026-04-16T03:56:08Z",
+  "legacy": true,
+  "metadata": {
+    "title": "Ghosts VI: Locusts",
+    "artist": "Nine Inch Nails",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_human": "1:23:04",
+    "sampling_rate": "48.0kHz"
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1761378745_ghosts_vi_locusts"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/b60/EppaJhdqzvvVmRdJBJJ.7z"
+    },
+    "pomf2_lain_la": {
+      "url": "https://pomf2.lain.la/f/bh23qb8w.7z"
+    }
+  }
+}
