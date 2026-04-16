@@ -1,0 +1,28 @@
+{
+  "id": "rainbow-nights_1776307667",
+  "archived_at": "2026-04-16T02:51:34Z",
+  "metadata": {
+    "title": "Rainbow Nights",
+    "artist": "Black Magick SS",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1849,
+    "duration_human": "00:30:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Black Magick SS - Endless Hallucinations",
+      "02 Black Magick SS - Rainbow Nights",
+      "03 Black Magick SS - Get Out",
+      "04 Black Magick SS - Kali",
+      "05 Black Magick SS - Mothers Lullaby",
+      "06 Black Magick SS - The Truth"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rainbow-nights_1776307667"
+    }
+  }
+}
