@@ -1,0 +1,26 @@
+{
+  "id": "ep_1776399648",
+  "archived_at": "2026-04-17T04:21:26Z",
+  "metadata": {
+    "title": "Ep",
+    "artist": "The Runners From 1984",
+    "year": "1978",
+    "codec": "Opus",
+    "num_tracks": 4,
+    "duration_seconds": 646,
+    "duration_human": "00:10:46",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The Runners From 1984 - Back of Our Minds",
+      "02 The Runners From 1984 - For the Cause",
+      "03 The Runners From 1984 - Only a Human Being",
+      "04 The Runners From 1984 - Four Minute Warning"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ep_1776399648"
+    }
+  }
+}
