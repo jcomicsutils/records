@@ -1,6 +1,8 @@
 # Artists
 
+- [A Cackle or a Coughing Fit](A-Cackle-or-a-Coughing-Fit/A-Cackle-or-a-Coughing-Fit.md)
 - [Noise](Noise/Noise.md)
+- [Peace & Freedom](Peace-&-Freedom/Peace-&-Freedom.md)
 - [The Runners From 1984](The-Runners-From-1984/The-Runners-From-1984.md)
 - [Black Magick SS](black-magick-ss/black-magick-ss.md)
 - [Opera for Infantry](opera-for-infantry/opera-for-infantry.md)

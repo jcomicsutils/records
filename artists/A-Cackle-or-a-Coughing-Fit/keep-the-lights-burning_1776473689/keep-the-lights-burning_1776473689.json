@@ -1,0 +1,28 @@
+{
+  "id": "keep-the-lights-burning_1776473689",
+  "archived_at": "2026-04-18T00:56:03Z",
+  "metadata": {
+    "title": "Keep the Lights Burning",
+    "artist": "A Cackle or a Coughing Fit",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2121,
+    "duration_human": "00:35:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 A Cackle or a Coughing Fit - Spirit in a Room",
+      "02 A Cackle or a Coughing Fit - Strange Light",
+      "03 A Cackle or a Coughing Fit - The Lighthouse and the Storm",
+      "04 A Cackle or a Coughing Fit - Tunnel",
+      "05 A Cackle or a Coughing Fit - Tremble",
+      "06 A Cackle or a Coughing Fit - You Are Welcome Here Until the Cold Takes You"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/keep-the-lights-burning_1776473689"
+    }
+  }
+}

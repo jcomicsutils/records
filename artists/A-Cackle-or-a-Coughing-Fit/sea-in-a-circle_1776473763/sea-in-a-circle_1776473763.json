@@ -1,0 +1,30 @@
+{
+  "id": "sea-in-a-circle_1776473763",
+  "archived_at": "2026-04-18T00:57:50Z",
+  "metadata": {
+    "title": "Sea in a Circle",
+    "artist": "A Cackle or a Coughing Fit",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1256,
+    "duration_human": "00:20:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 A Cackle or a Coughing Fit - Dogfish",
+      "02 A Cackle or a Coughing Fit - Wire Thicket",
+      "03 A Cackle or a Coughing Fit - You Are the Eyes of the Wild",
+      "04 A Cackle or a Coughing Fit - The Bridge and the Nest",
+      "05 A Cackle or a Coughing Fit - Shadow on the Water",
+      "06 A Cackle or a Coughing Fit - Bells or Wings",
+      "07 A Cackle or a Coughing Fit - Wrinkling",
+      "08 A Cackle or a Coughing Fit - Tangle"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sea-in-a-circle_1776473763"
+    }
+  }
+}
