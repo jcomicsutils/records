@@ -1,0 +1,32 @@
+{
+  "id": "rawskulled_1776531100",
+  "archived_at": "2026-04-18T16:56:18Z",
+  "metadata": {
+    "title": "Rawskulled",
+    "artist": "Ak'chamel",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2552,
+    "duration_human": "00:42:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Ak'chamel - Sheela Na Gig Ceremony",
+      "02 Ak'chamel - Apocalypse by Oud",
+      "03 Ak'chamel - Quarter Fed Seance Machines",
+      "04 Ak'chamel - Monsoon Tears",
+      "05 Ak'chamel - Mauled Compressed Twisted and Ruptured",
+      "06 Ak'chamel - You Exist Solely to Work My Will",
+      "07 Ak'chamel - TuburcuGnosis",
+      "08 Ak'chamel - I Call You Into Being From Nothing",
+      "09 Ak'chamel - The Smoking Gunlocks and Girthrings Dragged From the Ashes",
+      "10 Ak'chamel - Take a Scripture, It'll Last Longer"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rawskulled_1776531100"
+    }
+  }
+}
