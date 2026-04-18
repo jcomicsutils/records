@@ -2,6 +2,7 @@
 
 - [A Cackle or a Coughing Fit](A-Cackle-or-a-Coughing-Fit/A-Cackle-or-a-Coughing-Fit.md)
 - [Absolute Controlled Clinical Maniacs](Absolute-Controlled-Clinical-Maniacs/Absolute-Controlled-Clinical-Maniacs.md)
+- [Death Ambient](Death-Ambient/Death-Ambient.md)
 - [Noise](Noise/Noise.md)
 - [Peace & Freedom](Peace-&-Freedom/Peace-&-Freedom.md)
 - [The Runners From 1984](The-Runners-From-1984/The-Runners-From-1984.md)
