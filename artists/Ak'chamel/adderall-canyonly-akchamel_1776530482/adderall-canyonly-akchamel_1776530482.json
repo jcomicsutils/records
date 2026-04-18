@@ -1,0 +1,26 @@
+{
+  "id": "adderall-canyonly-akchamel_1776530482",
+  "archived_at": "2026-04-18T16:42:04Z",
+  "metadata": {
+    "title": "Adderall Canyonly / Ak'chamel",
+    "artist": "Ak'chamel",
+    "year": "2017",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1768,
+    "duration_human": "00:29:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Adderall Canyonly - Sinner Get Thee Ready",
+      "02 Adderall Canyonly - But if Not",
+      "03 Ak'chamel - Live on KTRU (Part I)",
+      "04 Ak'chamel - Live on KTRU (Part II)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/adderall-canyonly-akchamel_1776530482"
+    }
+  }
+}
