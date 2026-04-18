@@ -1,0 +1,30 @@
+{
+  "id": "old-norse-mara_1776530952",
+  "archived_at": "2026-04-18T16:50:43Z",
+  "metadata": {
+    "title": "Old Norse Mara",
+    "artist": "Ak'chamel",
+    "year": "2013",
+    "codec": "MP3",
+    "num_tracks": 8,
+    "duration_seconds": 1602,
+    "duration_human": "00:26:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Ak'chamel, The Giver of Illness - A Ceremonial Harvest (Intro)",
+      "02 Ak'chamel, The Giver of Illness - Pussy Gloating the Give",
+      "03 Ak'chamel, The Giver of Illness - El Carretero",
+      "04 Ak'chamel, The Giver of Illness - Death Was on You From the Moment of Birth",
+      "05 Ak'chamel, The Giver of Illness - Virgen del Mercedes",
+      "06 Ak'chamel, The Giver of Illness - Slalom",
+      "07 Ak'chamel, The Giver of Illness - Mountain of the Sleeping Lady",
+      "08 Ak'chamel, The Giver of Illness - The Other Side of the Dark Waters"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/old-norse-mara_1776530952"
+    }
+  }
+}
