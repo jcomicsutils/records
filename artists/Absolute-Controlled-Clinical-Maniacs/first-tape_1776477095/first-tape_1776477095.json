@@ -1,0 +1,26 @@
+{
+  "id": "first-tape_1776477095",
+  "archived_at": "2026-04-18T01:52:16Z",
+  "metadata": {
+    "title": "First Tape",
+    "artist": "Absolute Controlled Clinical Maniacs",
+    "year": "1984",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1527,
+    "duration_human": "00:25:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Absolute Controlled Clinical Maniacs - Sick in Your Mind / Rozenberg's Dead / Walking With Shadows / Go Back",
+      "02 Absolute Controlled Clinical Maniacs - NYMPF",
+      "03 Absolute Controlled Clinical Maniacs - Rozenberg's Dead",
+      "04 Absolute Controlled Clinical Maniacs - The Hate of Religion"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/first-tape_1776477095"
+    }
+  }
+}
