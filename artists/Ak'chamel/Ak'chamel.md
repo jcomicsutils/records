@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Lowlands of Hteklum](lowlands-of-hteklum_1776530795/lowlands-of-hteklum_1776530795.md) | 2014 | MP3 | 00:39:55 | [IA](https://archive.org/details/lowlands-of-hteklum_1776530795) |
 | [Fucking With Spirits](fucking-with-spirits_1776530685/fucking-with-spirits_1776530685.md) | 2014 | MP3 | 00:36:33 | [IA](https://archive.org/details/fucking-with-spirits_1776530685) |
 | [Let No One Want What I Have](let-no-one-want-what-i-have_1776530749/let-no-one-want-what-i-have_1776530749.md) | 2015 | MP3 | 00:28:49 | [IA](https://archive.org/details/let-no-one-want-what-i-have_1776530749) |
 | [Foreskin of Enlightenment](foreskin-of-enlightenment_1776530628/foreskin-of-enlightenment_1776530628.md) | 2015 | FLAC | 00:38:51 | [IA](https://archive.org/details/foreskin-of-enlightenment_1776530628) |
