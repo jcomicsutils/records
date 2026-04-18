@@ -1,0 +1,33 @@
+{
+  "id": "drunken-forest_1776488523",
+  "archived_at": "2026-04-18T05:06:19Z",
+  "metadata": {
+    "title": "Drunken Forest",
+    "artist": "Death Ambient",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 3252,
+    "duration_human": "00:54:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Death Ambient - Lake Chad",
+      "02 Death Ambient - Greenhouse",
+      "03 Death Ambient - Belarus",
+      "04 Death Ambient - A Cocktail of Chemicals",
+      "05 Death Ambient - Thermohaline",
+      "06 Death Ambient - Dead Zone",
+      "07 Death Ambient - Qianwei Sky",
+      "08 Death Ambient - Yellow Rain",
+      "09 Death Ambient - River Tigris",
+      "10 Death Ambient - Drunken Forest",
+      "11 Death Ambient - Coral Necropolis"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/drunken-forest_1776488523"
+    }
+  }
+}
