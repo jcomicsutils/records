@@ -1,0 +1,37 @@
+{
+  "id": "live_1776477139",
+  "archived_at": "2026-04-18T01:53:36Z",
+  "metadata": {
+    "title": "Live",
+    "artist": "Absolute Controlled Clinical Maniacs",
+    "year": "1985",
+    "codec": "MP3",
+    "num_tracks": 15,
+    "duration_seconds": 2955,
+    "duration_human": "00:49:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Absolute Controlled Clinical Maniacs - Decay",
+      "02 Absolute Controlled Clinical Maniacs - NYMPF",
+      "03 Absolute Controlled Clinical Maniacs - Braindamage",
+      "04 Absolute Controlled Clinical Maniacs - Torture",
+      "05 Absolute Controlled Clinical Maniacs - Sick in Your Mind",
+      "06 Absolute Controlled Clinical Maniacs - Ronald Reagan",
+      "07 Absolute Controlled Clinical Maniacs - So Hard",
+      "08 Absolute Controlled Clinical Maniacs - Bikini Atol",
+      "09 Absolute Controlled Clinical Maniacs - Power of Passion",
+      "10 Absolute Controlled Clinical Maniacs - Let the Bomb Go",
+      "11 Absolute Controlled Clinical Maniacs - Vietnam",
+      "12 Absolute Controlled Clinical Maniacs - Rozenberg's Dead",
+      "13 Absolute Controlled Clinical Maniacs - Target",
+      "14 Absolute Controlled Clinical Maniacs - Burning Inside",
+      "15 Absolute Controlled Clinical Maniacs - Hours & Hours"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live_1776477139"
+    }
+  }
+}
