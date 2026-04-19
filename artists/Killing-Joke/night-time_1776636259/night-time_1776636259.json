@@ -1,0 +1,39 @@
+{
+  "id": "night-time_1776636259",
+  "archived_at": "2026-04-19T22:15:19Z",
+  "metadata": {
+    "title": "Night Time",
+    "artist": "Killing Joke",
+    "year": "1985",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_seconds": 4630,
+    "duration_human": "01:17:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Killing Joke - Night Time",
+      "02 Killing Joke - Darkness Before Dawn",
+      "03 Killing Joke - Love Like Blood",
+      "04 Killing Joke - Kings and Queens",
+      "05 Killing Joke - Tabazan",
+      "06 Killing Joke - Multitudes",
+      "07 Killing Joke - Europe",
+      "08 Killing Joke - Eighties",
+      "09 Killing Joke - Eighties (Kid Jensen Session)",
+      "10 Killing Joke - New Culture (Kid Jensen Session)",
+      "11 Killing Joke - Blue Feather (Kid Jensen Session)",
+      "12 Killing Joke - All Play Rebel (Kid Jensen Session)",
+      "13 Killing Joke - A New Day",
+      "14 Killing Joke - The Madding Crowd",
+      "15 Killing Joke - Blue Feather (Joke Mix)",
+      "16 Killing Joke - Love Like Blood (Gestalt Mix)",
+      "17 Killing Joke - Kings and Queens (Geordie's Dub Mix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/night-time_1776636259"
+    }
+  }
+}

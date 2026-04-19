@@ -5,6 +5,7 @@
 | [Almost Red](almost-red_1776628230/almost-red_1776628230.md) | 1979 | FLAC | 00:17:08 | [IA](https://archive.org/details/almost-red_1776628230) |
 | [Killing Joke](killing-joke_1776634440/killing-joke_1776634440.md) | 1980 | FLAC | 00:55:28 | [IA](https://archive.org/details/killing-joke_1776634440) |
 | [''Ha'' Killing Joke Live](ha-killing-joke-live_1776627398/ha-killing-joke-live_1776627398.md) | 1983 | FLAC | 00:38:28 | [IA](https://archive.org/details/ha-killing-joke-live_1776627398) |
+| [Night Time](night-time_1776636259/night-time_1776636259.md) | 1985 | FLAC | 01:17:10 | [IA](https://archive.org/details/night-time_1776636259) |
 | [Brighter Than a Thousand Suns](brighter-than-a-thousand-suns_1776629137/brighter-than-a-thousand-suns_1776629137.md) | 1986 | FLAC | 01:00:36 | [IA](https://archive.org/details/brighter-than-a-thousand-suns_1776629137) |
 | [Laugh? I Nearly Bought One!](laugh-i-nearly-bought-one_1776634791/laugh-i-nearly-bought-one_1776634791.md) | 1992 | FLAC | 01:19:17 | [IA](https://archive.org/details/laugh-i-nearly-bought-one_1776634791) |
 | [Change (The Youth Mixes)](change-the-youth-mixes_1776629987/change-the-youth-mixes_1776629987.md) | 1992 | FLAC | 00:15:43 | [IA](https://archive.org/details/change-the-youth-mixes_1776629987) |
