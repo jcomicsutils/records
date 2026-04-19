@@ -1,0 +1,26 @@
+{
+  "id": "turn-to-red-2020_1776642024",
+  "archived_at": "2026-04-19T23:47:37Z",
+  "metadata": {
+    "title": "Turn to Red 2020",
+    "artist": "Killing Joke",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1338,
+    "duration_human": "00:22:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Killing Joke - Turn to Red (In Dub Extended)",
+      "02 Killing Joke - Turn to Red (In Dub)",
+      "03 Killing Joke - Turn to Red (Remastered)",
+      "04 Killing Joke - Almost Red"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/turn-to-red-2020_1776642024"
+    }
+  }
+}
