@@ -24,3 +24,4 @@
 | [Fire Dances](fire-dances_1776632530/fire-dances_1776632530.md) | 2008 | FLAC | 01:15:55 | [IA](https://archive.org/details/fire-dances_1776632530) |
 | [Absolute Dissent](absolute-dissent_1776627525/absolute-dissent_1776627525.md) | 2010 | FLAC | 01:55:01 | [IA](https://archive.org/details/absolute-dissent_1776627525) |
 | [In Excelsis](in-excelsis_1776634039/in-excelsis_1776634039.md) | 2010 | FLAC | 00:26:50 | [IA](https://archive.org/details/in-excelsis_1776634039) |
+| [Lord of Chaos](lord-of-chaos_1776635557/lord-of-chaos_1776635557.md) | 2022 | FLAC | 00:21:41 | [IA](https://archive.org/details/lord-of-chaos_1776635557) |

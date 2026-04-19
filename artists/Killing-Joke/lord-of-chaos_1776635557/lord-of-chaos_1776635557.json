@@ -1,0 +1,26 @@
+{
+  "id": "lord-of-chaos_1776635557",
+  "archived_at": "2026-04-19T21:56:26Z",
+  "metadata": {
+    "title": "Lord of Chaos",
+    "artist": "Killing Joke",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1301,
+    "duration_human": "00:21:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Killing Joke - Lord of Chaos",
+      "02 Killing Joke - Total",
+      "03 Killing Joke - Big Buzz (Motorcade Mix)",
+      "04 Killing Joke - Delete in Dub (Youth's Disco 45 Dystopian Dub)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lord-of-chaos_1776635557"
+    }
+  }
+}
