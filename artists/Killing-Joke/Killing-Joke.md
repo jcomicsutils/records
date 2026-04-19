@@ -8,6 +8,7 @@
 | [Change (The Youth Mixes)](change-the-youth-mixes_1776629987/change-the-youth-mixes_1776629987.md) | 1992 | FLAC | 00:15:43 | [IA](https://archive.org/details/change-the-youth-mixes_1776629987) |
 | [Democracy](democracy_1776630829/democracy_1776630829.md) | 1996 | FLAC | 00:54:19 | [IA](https://archive.org/details/democracy_1776630829) |
 | [Democracy](democracy_1776631055/democracy_1776631055.md) | 1999 | FLAC | 00:55:12 | [IA](https://archive.org/details/democracy_1776631055) |
+| [Democracy](democracy_1776631511/democracy_1776631511.md) | 1999 | FLAC | 00:30:40 | [IA](https://archive.org/details/democracy_1776631511) |
 | [Chaos for Breakfast](chaos-for-breakfast_1776630204/chaos-for-breakfast_1776630204.md) | 2004 | MP3 | 01:50:46 | [IA](https://archive.org/details/chaos-for-breakfast_1776630204) |
 | [Bootleg Vinyl Archive, Vol. 1](bootleg-vinyl-archive-vol-1_1776628641/bootleg-vinyl-archive-vol-1_1776628641.md) | 2007 | MP3 | 03:00:41 | [IA](https://archive.org/details/bootleg-vinyl-archive-vol-1_1776628641) |
 | [Absolute Dissent](absolute-dissent_1776627525/absolute-dissent_1776627525.md) | 2010 | FLAC | 01:55:01 | [IA](https://archive.org/details/absolute-dissent_1776627525) |

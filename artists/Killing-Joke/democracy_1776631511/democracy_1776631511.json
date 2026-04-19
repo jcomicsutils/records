@@ -1,0 +1,25 @@
+{
+  "id": "democracy_1776631511",
+  "archived_at": "2026-04-19T20:46:09Z",
+  "metadata": {
+    "title": "Democracy",
+    "artist": "Killing Joke",
+    "year": "1999",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1840,
+    "duration_human": "00:30:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Killing Joke - Democracy (United Nations Mix)",
+      "02 Killing Joke - Democracy (The Russian Tundra Mix)",
+      "03 Killing Joke - Democracy (Hallucinogen Mix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/democracy_1776631511"
+    }
+  }
+}
