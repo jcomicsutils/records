@@ -1,0 +1,31 @@
+{
+  "id": "ha-killing-joke-live_1776627398",
+  "archived_at": "2026-04-19T19:38:42Z",
+  "metadata": {
+    "title": "''Ha'' Killing Joke Live",
+    "artist": "Killing Joke",
+    "year": "1983",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2308,
+    "duration_human": "00:38:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Killing Joke - Pssyche",
+      "02 Killing Joke - Sun Goes Down",
+      "03 Killing Joke - The Pandys Are Coming",
+      "04 Killing Joke - Take Take Take",
+      "05 Killing Joke - Unspeakable",
+      "06 Killing Joke - Wardance",
+      "07 Killing Joke - Sun Goes Down",
+      "08 Killing Joke - Birds of a Feather [Bonus Track]",
+      "09 Killing Joke - Flock the B Side"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ha-killing-joke-live_1776627398"
+    }
+  }
+}

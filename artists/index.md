@@ -4,6 +4,7 @@
 - [Absolute Controlled Clinical Maniacs](Absolute-Controlled-Clinical-Maniacs/Absolute-Controlled-Clinical-Maniacs.md)
 - [Ak'chamel](Ak'chamel/Ak'chamel.md)
 - [Death Ambient](Death-Ambient/Death-Ambient.md)
+- [Killing Joke](Killing-Joke/Killing-Joke.md)
 - [Noise](Noise/Noise.md)
 - [Peace & Freedom](Peace-&-Freedom/Peace-&-Freedom.md)
 - [The Runners From 1984](The-Runners-From-1984/The-Runners-From-1984.md)
