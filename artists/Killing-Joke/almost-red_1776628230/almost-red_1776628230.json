@@ -1,0 +1,26 @@
+{
+  "id": "almost-red_1776628230",
+  "archived_at": "2026-04-19T19:57:17Z",
+  "metadata": {
+    "title": "Almost Red",
+    "artist": "Killing Joke",
+    "year": "1979",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1028,
+    "duration_human": "00:17:08",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Killing Joke - Almost Red",
+      "02 Killing Joke - Nervous System",
+      "03 Killing Joke - Are You Receiving?",
+      "04 Killing Joke - Turn to Red"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/almost-red_1776628230"
+    }
+  }
+}
