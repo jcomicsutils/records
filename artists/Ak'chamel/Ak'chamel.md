@@ -13,6 +13,7 @@
 | [Death Chants](death-chants_1776530526/death-chants_1776530526.md) | 2017 | MP3 | 00:41:33 | [IA](https://archive.org/details/death-chants_1776530526) |
 | [Adderall Canyonly / Ak'chamel](adderall-canyonly-akchamel_1776530482/adderall-canyonly-akchamel_1776530482.md) | 2017 | MP3 | 00:29:28 | [IA](https://archive.org/details/adderall-canyonly-akchamel_1776530482) |
 | [The Totemist](the-totemist_1776531436/the-totemist_1776531436.md) | 2020 | FLAC | 00:45:02 | [IA](https://archive.org/details/the-totemist_1776531436) |
+| [Transitory Tape Collection Vol. 1](transitory-tape-collection-vol-1_1776625912/transitory-tape-collection-vol-1_1776625912.md) | 2020 | MP3 | 00:29:41 | [IA](https://archive.org/details/transitory-tape-collection-vol-1_1776625912) |
 | [Transitory Collection Vol II](transitory-collection-vol-ii_1776625752/transitory-collection-vol-ii_1776625752.md) | 2022 | FLAC | 00:28:05 | [IA](https://archive.org/details/transitory-collection-vol-ii_1776625752) |
 | [A Mournful Kingdom of Sand](a-mournful-kingdom-of-sand_1776530361/a-mournful-kingdom-of-sand_1776530361.md) | 2023 | FLAC | 00:37:15 | [IA](https://archive.org/details/a-mournful-kingdom-of-sand_1776530361) |
 | [Rawskulled](rawskulled_1776531100/rawskulled_1776531100.md) | 2024 | FLAC | 00:42:32 | [IA](https://archive.org/details/rawskulled_1776531100) |

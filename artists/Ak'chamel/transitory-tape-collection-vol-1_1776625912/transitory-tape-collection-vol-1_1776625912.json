@@ -1,0 +1,27 @@
+{
+  "id": "transitory-tape-collection-vol-1_1776625912",
+  "archived_at": "2026-04-19T19:13:09Z",
+  "metadata": {
+    "title": "Transitory Tape Collection Vol. 1",
+    "artist": "Ak'chamel",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 1781,
+    "duration_human": "00:29:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Ak'chamel, The Giver of Illness - [untitled]",
+      "02 Ak'chamel, The Giver of Illness - [untitled]",
+      "03 Ak'chamel, The Giver of Illness - [untitled]",
+      "04 Ak'chamel, The Giver of Illness - [untitled]",
+      "05 Ak'chamel, The Giver of Illness - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/transitory-tape-collection-vol-1_1776625912"
+    }
+  }
+}
