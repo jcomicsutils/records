@@ -11,6 +11,7 @@
 | [Democracy](democracy_1776630829/democracy_1776630829.md) | 1996 | FLAC | 00:54:19 | [IA](https://archive.org/details/democracy_1776630829) |
 | [Democracy](democracy_1776631055/democracy_1776631055.md) | 1999 | FLAC | 00:55:12 | [IA](https://archive.org/details/democracy_1776631055) |
 | [Democracy](democracy_1776631511/democracy_1776631511.md) | 1999 | FLAC | 00:30:40 | [IA](https://archive.org/details/democracy_1776631511) |
+| [Killing Joke](killing-joke_1776634597/killing-joke_1776634597.md) | 2003 | FLAC | 00:55:52 | [IA](https://archive.org/details/killing-joke_1776634597) |
 | [Chaos for Breakfast](chaos-for-breakfast_1776630204/chaos-for-breakfast_1776630204.md) | 2004 | MP3 | 01:50:46 | [IA](https://archive.org/details/chaos-for-breakfast_1776630204) |
 | [For Beginners](for-beginners_1776633206/for-beginners_1776633206.md) | 2004 | FLAC | 01:10:51 | [IA](https://archive.org/details/for-beginners_1776633206) |
 | [Hosannas From the Basements of Hell](hosannas-from-the-basements-of-hell_1776633892/hosannas-from-the-basements-of-hell_1776633892.md) | 2006 | FLAC | 01:02:04 | [IA](https://archive.org/details/hosannas-from-the-basements-of-hell_1776633892) |
