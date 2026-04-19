@@ -1,0 +1,32 @@
+{
+  "id": "mmxii_1776635968",
+  "archived_at": "2026-04-19T22:04:17Z",
+  "metadata": {
+    "title": "MMXII",
+    "artist": "Killing Joke",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3052,
+    "duration_human": "00:50:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Killing Joke - Pole Shift",
+      "02 Killing Joke - FEMA Camp",
+      "03 Killing Joke - Rapture",
+      "04 Killing Joke - Colony Collapse",
+      "05 Killing Joke - Corporate Elect",
+      "06 Killing Joke - In Cythera",
+      "07 Killing Joke - Primobile",
+      "08 Killing Joke - Glitch",
+      "09 Killing Joke - Trance",
+      "10 Killing Joke - On All Hallow's Eve"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mmxii_1776635968"
+    }
+  }
+}
