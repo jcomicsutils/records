@@ -1,0 +1,39 @@
+{
+  "id": "the-peel-sessions-1979-1981_1776640447",
+  "archived_at": "2026-04-19T23:30:31Z",
+  "metadata": {
+    "title": "The Peel Sessions 1979 - 1981",
+    "artist": "Killing Joke",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_seconds": 3993,
+    "duration_human": "01:06:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Killing Joke - Pssyche (17.10.79)",
+      "02 Killing Joke - Wardance (17.10.79)",
+      "03 Killing Joke - Nuclear Boy (17.10.79)",
+      "04 Killing Joke - Malicious Boogie (17.10.79)",
+      "05 Killing Joke - Change (05.03.80)",
+      "06 Killing Joke - Tomorrow's World (05.03.80)",
+      "07 Killing Joke - Complication (05.03.80)",
+      "08 Killing Joke - The Fall of Because (27.04.81)",
+      "09 Killing Joke - Tension (27.04.81)",
+      "10 Killing Joke - Butcher (27.04.81)",
+      "11 Killing Joke - The Hum (16.12.81)",
+      "12 Killing Joke - Empire Song (16.12.81)",
+      "13 Killing Joke - We Have Joy (16.12.81)",
+      "14 Killing Joke - Chop Chop (16.12.81)",
+      "15 Killing Joke - Tension (Richard Skinner Session 29.05.81)",
+      "16 Killing Joke - Unspeakable (Richard Skinner Session 29.05.81)",
+      "17 Killing Joke - Exit (Richard Skinner Session 29.05.81)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-peel-sessions-1979-1981_1776640447"
+    }
+  }
+}
