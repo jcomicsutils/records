@@ -1,0 +1,29 @@
+{
+  "id": "millennium_1776635788",
+  "archived_at": "2026-04-19T21:59:25Z",
+  "metadata": {
+    "title": "Millennium",
+    "artist": "Killing Joke",
+    "year": "1994",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2646,
+    "duration_human": "00:44:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Killing Joke - Millennium (Aotearoa Mix)",
+      "02 Killing Joke - Millennium (Cybersank Edit)",
+      "03 Killing Joke - Millennium (Back to Orion Mix)",
+      "04 Killing Joke - Millennium (Cybersank Extended Mix)",
+      "05 Killing Joke - Millennium (23 Minutes to Midnight Mix)",
+      "06 Killing Joke - Millennium (Dissolving Particles Reaction Mix)",
+      "07 Killing Joke - Exorcism (A Germanic Interpretation - Unification Catastrophe Mandra Gora Remix Edit)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/millennium_1776635788"
+    }
+  }
+}
