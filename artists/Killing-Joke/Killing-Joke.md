@@ -15,6 +15,7 @@
 | [The Pandemonium Single](the-pandemonium-single_1776640059/the-pandemonium-single_1776640059.md) | 1994 | FLAC | 00:33:12 | [IA](https://archive.org/details/the-pandemonium-single_1776640059) |
 | [Jana Live](jana-live_1776634258/jana-live_1776634258.md) | 1994 | FLAC | 00:21:32 | [IA](https://archive.org/details/jana-live_1776634258) |
 | [Democracy](democracy_1776630829/democracy_1776630829.md) | 1996 | FLAC | 00:54:19 | [IA](https://archive.org/details/democracy_1776630829) |
+| [Wardance - The Remixes](wardance-the-remixes_1776642459/wardance-the-remixes_1776642459.md) | 1998 | FLAC | 01:08:40 | [IA](https://archive.org/details/wardance-the-remixes_1776642459) |
 | [Democracy](democracy_1776631055/democracy_1776631055.md) | 1999 | FLAC | 00:55:12 | [IA](https://archive.org/details/democracy_1776631055) |
 | [Democracy](democracy_1776631511/democracy_1776631511.md) | 1999 | FLAC | 00:30:40 | [IA](https://archive.org/details/democracy_1776631511) |
 | [Loose Cannon](loose-cannon_1776635493/loose-cannon_1776635493.md) | 2003 | FLAC | 00:11:55 | [IA](https://archive.org/details/loose-cannon_1776635493) |

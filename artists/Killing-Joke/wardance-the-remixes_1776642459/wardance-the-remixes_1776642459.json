@@ -1,0 +1,31 @@
+{
+  "id": "wardance-the-remixes_1776642459",
+  "archived_at": "2026-04-19T23:55:29Z",
+  "metadata": {
+    "title": "Wardance - The Remixes",
+    "artist": "Killing Joke",
+    "year": "1998",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 4120,
+    "duration_human": "01:08:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Killing Joke - Love Like Blood - Deedrah Remix",
+      "02 Killing Joke - Savage Freedom - Ux Remix",
+      "03 Killing Joke - Democracy (Nin Remix)",
+      "04 Killing Joke - Four Stations of the Sun - Hallucinogen Remix",
+      "05 Killing Joke - Pandemonium - Man With No Name Remix",
+      "06 Killing Joke - Jana - Hallucinogenic",
+      "07 Killing Joke - Black Moon California Sunshine",
+      "08 Killing Joke - Intellect - Johan Remix",
+      "09 Killing Joke - White Out - Johan Remix"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wardance-the-remixes_1776642459"
+    }
+  }
+}
