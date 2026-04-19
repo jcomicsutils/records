@@ -1,0 +1,26 @@
+{
+  "id": "transitory-collection-vol-ii_1776625752",
+  "archived_at": "2026-04-19T19:10:36Z",
+  "metadata": {
+    "title": "Transitory Collection Vol II",
+    "artist": "Ak'chamel",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1685,
+    "duration_human": "00:28:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Ak'chamel, the Ibex Entrails String Band - Seven Cigars",
+      "02 Ak'chamel, the Ibex Entrails String Band - Their Limbs Were Sinuous and Snake-Like",
+      "03 Ak'chamel, the Ibex Entrails String Band - One Must Lay Upon the Alter and Breathe in the Lust of the Jaguar",
+      "04 Ak'chamel, the Ibex Entrails String Band - Nightfires"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/transitory-collection-vol-ii_1776625752"
+    }
+  }
+}
