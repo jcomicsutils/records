@@ -1,0 +1,33 @@
+{
+  "id": "brighter-than-a-thousand-suns_1776629137",
+  "archived_at": "2026-04-19T20:19:45Z",
+  "metadata": {
+    "title": "Brighter Than a Thousand Suns",
+    "artist": "Killing Joke",
+    "year": "1986",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 3636,
+    "duration_human": "01:00:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Killing Joke - Adorations",
+      "02 Killing Joke - Sanity",
+      "03 Killing Joke - Chessboards",
+      "04 Killing Joke - Twilight of the Mortal",
+      "05 Killing Joke - Love of the Masses",
+      "06 Killing Joke - A Southern Sky",
+      "07 Killing Joke - Victory",
+      "08 Killing Joke - Wintergardens",
+      "09 Killing Joke - Rubicon",
+      "10 Killing Joke - Goodbye to the Village",
+      "11 Killing Joke - Exile"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/brighter-than-a-thousand-suns_1776629137"
+    }
+  }
+}
