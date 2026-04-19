@@ -24,6 +24,7 @@
 | [Bootleg Vinyl Archive, Vol. 1](bootleg-vinyl-archive-vol-1_1776628641/bootleg-vinyl-archive-vol-1_1776628641.md) | 2007 | MP3 | 03:00:41 | [IA](https://archive.org/details/bootleg-vinyl-archive-vol-1_1776628641) |
 | [Inside Extremities, Mixes, Rehearsals & Live](inside-extremities-mixes-rehearsals-live_1776634103/inside-extremities-mixes-rehearsals-live_1776634103.md) | 2007 | MP3 | 02:14:00 | [IA](https://archive.org/details/inside-extremities-mixes-rehearsals-live_1776634103) |
 | [Extremities, Dirt and Various Repressed Emotions](extremities-dirt-and-various-repressed-emotions_1776631670/extremities-dirt-and-various-repressed-emotions_1776631670.md) | 2007 | FLAC | 01:36:29 | [IA](https://archive.org/details/extremities-dirt-and-various-repressed-emotions_1776631670) |
+| [RMXD](rmxd_1776638522/rmxd_1776638522.md) | 2008 | FLAC | 01:15:46 | [IA](https://archive.org/details/rmxd_1776638522) |
 | [Duende - The Spanish Sessions](duende-the-spanish-sessions_1776631571/duende-the-spanish-sessions_1776631571.md) | 2008 | MP3 | 01:02:30 | [IA](https://archive.org/details/duende-the-spanish-sessions_1776631571) |
 | [Outside the Gate](outside-the-gate_1776636922/outside-the-gate_1776636922.md) | 2008 | FLAC | 01:12:37 | [IA](https://archive.org/details/outside-the-gate_1776636922) |
 | [Fire Dances](fire-dances_1776632530/fire-dances_1776632530.md) | 2008 | FLAC | 01:15:55 | [IA](https://archive.org/details/fire-dances_1776632530) |

@@ -1,0 +1,37 @@
+{
+  "id": "rmxd_1776638522",
+  "archived_at": "2026-04-19T22:46:23Z",
+  "metadata": {
+    "title": "RMXD",
+    "artist": "Killing Joke",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 4546,
+    "duration_human": "01:15:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Killing Joke - Eighties [Serious Dance Mix]",
+      "02 Killing Joke - Blue Feather [Dub Version]",
+      "03 Killing Joke - A New Day [Dub Version]",
+      "04 Killing Joke - Love Like Blood [Extended 12'' Mix]",
+      "05 Killing Joke - Kings and Queens [A Right Royal Mix]",
+      "06 Killing Joke - Blue Feather [Extended Mix]",
+      "07 Killing Joke - Eighties [Coming Mix]",
+      "08 Killing Joke - Dance Day",
+      "09 Killing Joke - Wardance ['86 Remix]",
+      "10 Killing Joke - Sanity [The Roman Mix]",
+      "11 Killing Joke - Ecstacy [Extended Mix]",
+      "12 Killing Joke - Adorations",
+      "13 Killing Joke - Love Like Blood ['86 Remix]",
+      "14 Killing Joke - Stay One Jump Ahead [Extended Mix]",
+      "15 Killing Joke - America [Dub Version]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rmxd_1776638522"
+    }
+  }
+}
