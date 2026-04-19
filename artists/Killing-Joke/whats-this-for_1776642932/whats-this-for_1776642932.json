@@ -1,0 +1,33 @@
+{
+  "id": "whats-this-for_1776642932",
+  "archived_at": "2026-04-19T23:57:43Z",
+  "metadata": {
+    "title": "What's THIS For...!",
+    "artist": "Killing Joke",
+    "year": "1982",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 3456,
+    "duration_human": "00:57:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Killing Joke - The Fall of Because",
+      "02 Killing Joke - Tension",
+      "03 Killing Joke - Unspeakable",
+      "04 Killing Joke - Butcher",
+      "05 Killing Joke - Follow the Leaders",
+      "06 Killing Joke - Madness",
+      "07 Killing Joke - Who Told You How?",
+      "08 Killing Joke - Exit",
+      "09 Killing Joke - Follow the Leaders (Dub)",
+      "10 Killing Joke - Madness (Dub)",
+      "11 Killing Joke - Brilliant"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/whats-this-for_1776642932"
+    }
+  }
+}
