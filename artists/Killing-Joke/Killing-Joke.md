@@ -6,6 +6,7 @@
 | [Killing Joke](killing-joke_1776634440/killing-joke_1776634440.md) | 1980 | FLAC | 00:55:28 | [IA](https://archive.org/details/killing-joke_1776634440) |
 | [''Ha'' Killing Joke Live](ha-killing-joke-live_1776627398/ha-killing-joke-live_1776627398.md) | 1983 | FLAC | 00:38:28 | [IA](https://archive.org/details/ha-killing-joke-live_1776627398) |
 | [Brighter Than a Thousand Suns](brighter-than-a-thousand-suns_1776629137/brighter-than-a-thousand-suns_1776629137.md) | 1986 | FLAC | 01:00:36 | [IA](https://archive.org/details/brighter-than-a-thousand-suns_1776629137) |
+| [Laugh? I Nearly Bought One!](laugh-i-nearly-bought-one_1776634791/laugh-i-nearly-bought-one_1776634791.md) | 1992 | FLAC | 01:19:17 | [IA](https://archive.org/details/laugh-i-nearly-bought-one_1776634791) |
 | [Change (The Youth Mixes)](change-the-youth-mixes_1776629987/change-the-youth-mixes_1776629987.md) | 1992 | FLAC | 00:15:43 | [IA](https://archive.org/details/change-the-youth-mixes_1776629987) |
 | [Jana Live](jana-live_1776634258/jana-live_1776634258.md) | 1994 | FLAC | 00:21:32 | [IA](https://archive.org/details/jana-live_1776634258) |
 | [Democracy](democracy_1776630829/democracy_1776630829.md) | 1996 | FLAC | 00:54:19 | [IA](https://archive.org/details/democracy_1776630829) |
