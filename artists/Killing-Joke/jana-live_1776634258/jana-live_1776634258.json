@@ -1,0 +1,26 @@
+{
+  "id": "jana-live_1776634258",
+  "archived_at": "2026-04-19T21:33:57Z",
+  "metadata": {
+    "title": "Jana Live",
+    "artist": "Killing Joke",
+    "year": "1994",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1292,
+    "duration_human": "00:21:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Killing Joke - Jana",
+      "02 Killing Joke - Wardance",
+      "03 Killing Joke - Exorcism",
+      "04 Killing Joke - Kings and Queens"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/jana-live_1776634258"
+    }
+  }
+}
