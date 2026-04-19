@@ -1,0 +1,27 @@
+{
+  "id": "in-excelsis_1776634039",
+  "archived_at": "2026-04-19T21:28:20Z",
+  "metadata": {
+    "title": "In Excelsis",
+    "artist": "Killing Joke",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1610,
+    "duration_human": "00:26:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Killing Joke - In Excelsis",
+      "02 Killing Joke - Endgame",
+      "03 Killing Joke - Kali Yuga",
+      "04 Killing Joke - Ghosts of Ladbroke Grove",
+      "05 Killing Joke - Ghosts of Ladbroke Grove (Dub)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/in-excelsis_1776634039"
+    }
+  }
+}

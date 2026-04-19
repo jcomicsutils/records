@@ -17,3 +17,4 @@
 | [Duende - The Spanish Sessions](duende-the-spanish-sessions_1776631571/duende-the-spanish-sessions_1776631571.md) | 2008 | MP3 | 01:02:30 | [IA](https://archive.org/details/duende-the-spanish-sessions_1776631571) |
 | [Fire Dances](fire-dances_1776632530/fire-dances_1776632530.md) | 2008 | FLAC | 01:15:55 | [IA](https://archive.org/details/fire-dances_1776632530) |
 | [Absolute Dissent](absolute-dissent_1776627525/absolute-dissent_1776627525.md) | 2010 | FLAC | 01:55:01 | [IA](https://archive.org/details/absolute-dissent_1776627525) |
+| [In Excelsis](in-excelsis_1776634039/in-excelsis_1776634039.md) | 2010 | FLAC | 00:26:50 | [IA](https://archive.org/details/in-excelsis_1776634039) |
