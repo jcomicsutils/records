@@ -1,0 +1,26 @@
+{
+  "id": "the-unseen-traveler_1776625659",
+  "archived_at": "2026-04-19T19:08:33Z",
+  "metadata": {
+    "title": "The Unseen Traveler",
+    "artist": "Ak'chamel",
+    "year": "2015",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 2676,
+    "duration_human": "00:44:36",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Ak'chamel - Sands of Essaouria",
+      "02 Ak'chamel - Ancient Grounds",
+      "03 Ak'chamel - Mountain Spirits of Daen Lao",
+      "04 Ak'chamel - Unseen Traveler of Night"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-unseen-traveler_1776625659"
+    }
+  }
+}

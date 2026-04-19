@@ -9,6 +9,7 @@
 | [Fucking With Spirits](fucking-with-spirits_1776530685/fucking-with-spirits_1776530685.md) | 2014 | MP3 | 00:36:33 | [IA](https://archive.org/details/fucking-with-spirits_1776530685) |
 | [Let No One Want What I Have](let-no-one-want-what-i-have_1776530749/let-no-one-want-what-i-have_1776530749.md) | 2015 | MP3 | 00:28:49 | [IA](https://archive.org/details/let-no-one-want-what-i-have_1776530749) |
 | [Foreskin of Enlightenment](foreskin-of-enlightenment_1776530628/foreskin-of-enlightenment_1776530628.md) | 2015 | FLAC | 00:38:51 | [IA](https://archive.org/details/foreskin-of-enlightenment_1776530628) |
+| [The Unseen Traveler](the-unseen-traveler_1776625659/the-unseen-traveler_1776625659.md) | 2015 | MP3 | 00:44:36 | [IA](https://archive.org/details/the-unseen-traveler_1776625659) |
 | [Death Chants](death-chants_1776530526/death-chants_1776530526.md) | 2017 | MP3 | 00:41:33 | [IA](https://archive.org/details/death-chants_1776530526) |
 | [Adderall Canyonly / Ak'chamel](adderall-canyonly-akchamel_1776530482/adderall-canyonly-akchamel_1776530482.md) | 2017 | MP3 | 00:29:28 | [IA](https://archive.org/details/adderall-canyonly-akchamel_1776530482) |
 | [The Totemist](the-totemist_1776531436/the-totemist_1776531436.md) | 2020 | FLAC | 00:45:02 | [IA](https://archive.org/details/the-totemist_1776531436) |
