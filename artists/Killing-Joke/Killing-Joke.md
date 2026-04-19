@@ -12,6 +12,7 @@
 | [Change (The Youth Mixes)](change-the-youth-mixes_1776629987/change-the-youth-mixes_1776629987.md) | 1992 | FLAC | 00:15:43 | [IA](https://archive.org/details/change-the-youth-mixes_1776629987) |
 | [Millennium](millennium_1776635788/millennium_1776635788.md) | 1994 | FLAC | 00:44:06 | [IA](https://archive.org/details/millennium_1776635788) |
 | [Pandemonium](pandemonium_1776637207/pandemonium_1776637207.md) | 1994 | FLAC | 01:00:49 | [IA](https://archive.org/details/pandemonium_1776637207) |
+| [The Pandemonium Single](the-pandemonium-single_1776640059/the-pandemonium-single_1776640059.md) | 1994 | FLAC | 00:33:12 | [IA](https://archive.org/details/the-pandemonium-single_1776640059) |
 | [Jana Live](jana-live_1776634258/jana-live_1776634258.md) | 1994 | FLAC | 00:21:32 | [IA](https://archive.org/details/jana-live_1776634258) |
 | [Democracy](democracy_1776630829/democracy_1776630829.md) | 1996 | FLAC | 00:54:19 | [IA](https://archive.org/details/democracy_1776630829) |
 | [Democracy](democracy_1776631055/democracy_1776631055.md) | 1999 | FLAC | 00:55:12 | [IA](https://archive.org/details/democracy_1776631055) |
