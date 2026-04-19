@@ -1,0 +1,35 @@
+{
+  "id": "killing-joke_1776634440",
+  "archived_at": "2026-04-19T21:36:35Z",
+  "metadata": {
+    "title": "Killing Joke",
+    "artist": "Killing Joke",
+    "year": "1980",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 3328,
+    "duration_human": "00:55:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Killing Joke - Requiem",
+      "02 Killing Joke - Wardance",
+      "03 Killing Joke - Tomorrow's World",
+      "04 Killing Joke - Bloodsport",
+      "05 Killing Joke - The Wait",
+      "06 Killing Joke - Complications",
+      "07 Killing Joke - SO36",
+      "08 Killing Joke - Primitive",
+      "09 Killing Joke - Change",
+      "10 Killing Joke - Requiem (Single Version)",
+      "11 Killing Joke - Change (Dub)",
+      "12 Killing Joke - Primitive (Rough Mix)",
+      "13 Killing Joke - Bloodsport (Rough Mix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/killing-joke_1776634440"
+    }
+  }
+}
