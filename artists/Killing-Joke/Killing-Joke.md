@@ -4,6 +4,7 @@
 |-------|------|-------|----------|-------|
 | [Almost Red](almost-red_1776628230/almost-red_1776628230.md) | 1979 | FLAC | 00:17:08 | [IA](https://archive.org/details/almost-red_1776628230) |
 | [Killing Joke](killing-joke_1776634440/killing-joke_1776634440.md) | 1980 | FLAC | 00:55:28 | [IA](https://archive.org/details/killing-joke_1776634440) |
+| [Revelations](revelations_1776638407/revelations_1776638407.md) | 1982 | FLAC | 00:41:54 | [IA](https://archive.org/details/revelations_1776638407) |
 | [''Ha'' Killing Joke Live](ha-killing-joke-live_1776627398/ha-killing-joke-live_1776627398.md) | 1983 | FLAC | 00:38:28 | [IA](https://archive.org/details/ha-killing-joke-live_1776627398) |
 | [Night Time](night-time_1776636259/night-time_1776636259.md) | 1985 | FLAC | 01:17:10 | [IA](https://archive.org/details/night-time_1776636259) |
 | [Brighter Than a Thousand Suns](brighter-than-a-thousand-suns_1776629137/brighter-than-a-thousand-suns_1776629137.md) | 1986 | FLAC | 01:00:36 | [IA](https://archive.org/details/brighter-than-a-thousand-suns_1776629137) |
