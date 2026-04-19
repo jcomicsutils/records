@@ -11,5 +11,6 @@
 | [Democracy](democracy_1776631511/democracy_1776631511.md) | 1999 | FLAC | 00:30:40 | [IA](https://archive.org/details/democracy_1776631511) |
 | [Chaos for Breakfast](chaos-for-breakfast_1776630204/chaos-for-breakfast_1776630204.md) | 2004 | MP3 | 01:50:46 | [IA](https://archive.org/details/chaos-for-breakfast_1776630204) |
 | [Bootleg Vinyl Archive, Vol. 1](bootleg-vinyl-archive-vol-1_1776628641/bootleg-vinyl-archive-vol-1_1776628641.md) | 2007 | MP3 | 03:00:41 | [IA](https://archive.org/details/bootleg-vinyl-archive-vol-1_1776628641) |
+| [Extremities, Dirt and Various Repressed Emotions](extremities-dirt-and-various-repressed-emotions_1776631670/extremities-dirt-and-various-repressed-emotions_1776631670.md) | 2007 | FLAC | 01:36:29 | [IA](https://archive.org/details/extremities-dirt-and-various-repressed-emotions_1776631670) |
 | [Duende - The Spanish Sessions](duende-the-spanish-sessions_1776631571/duende-the-spanish-sessions_1776631571.md) | 2008 | MP3 | 01:02:30 | [IA](https://archive.org/details/duende-the-spanish-sessions_1776631571) |
 | [Absolute Dissent](absolute-dissent_1776627525/absolute-dissent_1776627525.md) | 2010 | FLAC | 01:55:01 | [IA](https://archive.org/details/absolute-dissent_1776627525) |
