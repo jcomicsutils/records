@@ -1,0 +1,26 @@
+{
+  "id": "change-the-youth-mixes_1776629987",
+  "archived_at": "2026-04-19T20:23:21Z",
+  "metadata": {
+    "title": "Change (The Youth Mixes)",
+    "artist": "Killing Joke",
+    "year": "1992",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 943,
+    "duration_human": "00:15:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Killing Joke - Change (Re-Evolution 23 Mix)",
+      "02 Killing Joke - Requiem (Malicious Damage MiX)",
+      "03 Killing Joke - Change (Instrumental Mix)",
+      "04 Killing Joke - Requiem (Full Moon Instrumental Mix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/change-the-youth-mixes_1776629987"
+    }
+  }
+}
