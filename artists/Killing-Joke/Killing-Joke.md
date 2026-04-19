@@ -11,6 +11,7 @@
 | [Democracy](democracy_1776631511/democracy_1776631511.md) | 1999 | FLAC | 00:30:40 | [IA](https://archive.org/details/democracy_1776631511) |
 | [Chaos for Breakfast](chaos-for-breakfast_1776630204/chaos-for-breakfast_1776630204.md) | 2004 | MP3 | 01:50:46 | [IA](https://archive.org/details/chaos-for-breakfast_1776630204) |
 | [For Beginners](for-beginners_1776633206/for-beginners_1776633206.md) | 2004 | FLAC | 01:10:51 | [IA](https://archive.org/details/for-beginners_1776633206) |
+| [Hosannas From the Basements of Hell](hosannas-from-the-basements-of-hell_1776633892/hosannas-from-the-basements-of-hell_1776633892.md) | 2006 | FLAC | 01:02:04 | [IA](https://archive.org/details/hosannas-from-the-basements-of-hell_1776633892) |
 | [Bootleg Vinyl Archive, Vol. 1](bootleg-vinyl-archive-vol-1_1776628641/bootleg-vinyl-archive-vol-1_1776628641.md) | 2007 | MP3 | 03:00:41 | [IA](https://archive.org/details/bootleg-vinyl-archive-vol-1_1776628641) |
 | [Extremities, Dirt and Various Repressed Emotions](extremities-dirt-and-various-repressed-emotions_1776631670/extremities-dirt-and-various-repressed-emotions_1776631670.md) | 2007 | FLAC | 01:36:29 | [IA](https://archive.org/details/extremities-dirt-and-various-repressed-emotions_1776631670) |
 | [Duende - The Spanish Sessions](duende-the-spanish-sessions_1776631571/duende-the-spanish-sessions_1776631571.md) | 2008 | MP3 | 01:02:30 | [IA](https://archive.org/details/duende-the-spanish-sessions_1776631571) |
