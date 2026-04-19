@@ -1,0 +1,25 @@
+{
+  "id": "loose-cannon_1776635493",
+  "archived_at": "2026-04-19T21:52:35Z",
+  "metadata": {
+    "title": "Loose Cannon",
+    "artist": "Killing Joke",
+    "year": "2003",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 715,
+    "duration_human": "00:11:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Killing Joke - Loose Cannon",
+      "02 Killing Joke - Loose Cannon (Full Version)",
+      "03 Killing Joke - Wardance (The Ultimate Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/loose-cannon_1776635493"
+    }
+  }
+}
