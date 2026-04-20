@@ -10,6 +10,7 @@
 | [Let No One Want What I Have](let-no-one-want-what-i-have_1776530749/let-no-one-want-what-i-have_1776530749.md) | 2015 | MP3 | 00:28:49 | [IA](https://archive.org/details/let-no-one-want-what-i-have_1776530749) |
 | [Foreskin of Enlightenment](foreskin-of-enlightenment_1776530628/foreskin-of-enlightenment_1776530628.md) | 2015 | FLAC | 00:38:51 | [IA](https://archive.org/details/foreskin-of-enlightenment_1776530628) |
 | [The Unseen Traveler](the-unseen-traveler_1776625659/the-unseen-traveler_1776625659.md) | 2015 | MP3 | 00:44:36 | [IA](https://archive.org/details/the-unseen-traveler_1776625659) |
+| [The Man Who Drank God](the-man-who-drank-god_1776643262/the-man-who-drank-god_1776643262.md) | 2015 | Opus | 00:28:02 | [IA](https://archive.org/details/the-man-who-drank-god_1776643262) |
 | [Transmissions From Boshqa](transmissions-from-boshqa_1776625992/transmissions-from-boshqa_1776625992.md) | 2016 | MP3 | 00:34:40 | [IA](https://archive.org/details/transmissions-from-boshqa_1776625992) |
 | [Death Chants](death-chants_1776530526/death-chants_1776530526.md) | 2017 | MP3 | 00:41:33 | [IA](https://archive.org/details/death-chants_1776530526) |
 | [Adderall Canyonly / Ak'chamel](adderall-canyonly-akchamel_1776530482/adderall-canyonly-akchamel_1776530482.md) | 2017 | MP3 | 00:29:28 | [IA](https://archive.org/details/adderall-canyonly-akchamel_1776530482) |
