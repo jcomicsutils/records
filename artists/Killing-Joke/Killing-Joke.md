@@ -15,6 +15,7 @@
 | [Pandemonium](pandemonium_1776637207/pandemonium_1776637207.md) | 1994 | FLAC | 01:00:49 | [IA](https://archive.org/details/pandemonium_1776637207) |
 | [The Pandemonium Single](the-pandemonium-single_1776640059/the-pandemonium-single_1776640059.md) | 1994 | FLAC | 00:33:12 | [IA](https://archive.org/details/the-pandemonium-single_1776640059) |
 | [Jana Live](jana-live_1776634258/jana-live_1776634258.md) | 1994 | FLAC | 00:21:32 | [IA](https://archive.org/details/jana-live_1776634258) |
+| [Wilful Days](wilful-days_1776643065/wilful-days_1776643065.md) | 1995 | FLAC | 01:08:42 | [IA](https://archive.org/details/wilful-days_1776643065) |
 | [Democracy](democracy_1776630829/democracy_1776630829.md) | 1996 | FLAC | 00:54:19 | [IA](https://archive.org/details/democracy_1776630829) |
 | [Wardance - The Remixes](wardance-the-remixes_1776642459/wardance-the-remixes_1776642459.md) | 1998 | FLAC | 01:08:40 | [IA](https://archive.org/details/wardance-the-remixes_1776642459) |
 | [Democracy](democracy_1776631055/democracy_1776631055.md) | 1999 | FLAC | 00:55:12 | [IA](https://archive.org/details/democracy_1776631055) |

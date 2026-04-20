@@ -1,0 +1,35 @@
+{
+  "id": "wilful-days_1776643065",
+  "archived_at": "2026-04-20T00:00:22Z",
+  "metadata": {
+    "title": "Wilful Days",
+    "artist": "Killing Joke",
+    "year": "1995",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 4122,
+    "duration_human": "01:08:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Killing Joke - Are You Receiving?",
+      "02 Killing Joke - Follow the Leaders (Dub)",
+      "03 Killing Joke - Sun Goes Down",
+      "04 Killing Joke - Dominator (Extended)",
+      "05 Killing Joke - Me or You",
+      "06 Killing Joke - Wilful Days",
+      "07 Killing Joke - Eighties (Serious Dance Mix)",
+      "08 Killing Joke - A New Day",
+      "09 Killing Joke - Love Like Blood (Gestalt Mix)",
+      "10 Killing Joke - The Madding Crowd",
+      "11 Killing Joke - Ecstacy (The Extended Mix)",
+      "12 Killing Joke - America (Extended)",
+      "13 Killing Joke - Change (Re-Evolution Mix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wilful-days_1776643065"
+    }
+  }
+}
