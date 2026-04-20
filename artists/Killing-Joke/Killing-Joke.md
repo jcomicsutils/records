@@ -38,6 +38,7 @@
 | [Absolute Dissent](absolute-dissent_1776627525/absolute-dissent_1776627525.md) | 2010 | FLAC | 01:55:01 | [IA](https://archive.org/details/absolute-dissent_1776627525) |
 | [In Excelsis](in-excelsis_1776634039/in-excelsis_1776634039.md) | 2010 | FLAC | 00:26:50 | [IA](https://archive.org/details/in-excelsis_1776634039) |
 | [MMXII](mmxii_1776635968/mmxii_1776635968.md) | 2012 | FLAC | 00:50:52 | [IA](https://archive.org/details/mmxii_1776635968) |
+| [Your Worst Fears Confirmed: Selected Singles 1979-2012](your-worst-fears-confirmed-selected-singles-1979-2012_1776643224/your-worst-fears-confirmed-selected-singles-1979-2012_1776643224.md) | 2013 | MP3 | 00:15:01 | [IA](https://archive.org/details/your-worst-fears-confirmed-selected-singles-1979-2012_1776643224) |
 | [Pylon](pylon_1776637830/pylon_1776637830.md) | 2015 | FLAC | 01:31:35 | [IA](https://archive.org/details/pylon_1776637830) |
 | [Turn to Red 2020](turn-to-red-2020_1776642024/turn-to-red-2020_1776642024.md) | 2020 | FLAC | 00:22:18 | [IA](https://archive.org/details/turn-to-red-2020_1776642024) |
 | [Lord of Chaos](lord-of-chaos_1776635557/lord-of-chaos_1776635557.md) | 2022 | FLAC | 00:21:41 | [IA](https://archive.org/details/lord-of-chaos_1776635557) |
