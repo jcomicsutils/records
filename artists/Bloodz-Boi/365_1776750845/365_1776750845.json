@@ -1,0 +1,30 @@
+{
+  "id": "365_1776750845",
+  "archived_at": "2026-04-21T05:56:51Z",
+  "metadata": {
+    "title": "365",
+    "artist": "Bloodz Boi",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1414,
+    "duration_human": "00:23:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bloodz Boi, Quit Life - Mist",
+      "02 Bloodz Boi, Quit Life - Physalia",
+      "03 Bloodz Boi, Quit Life - Ghost Moon",
+      "04 Bloodz Boi, Quit Life - Sentiment Overload",
+      "05 Bloodz Boi, Quit Life - Anemone",
+      "06 Bloodz Boi, Quit Life - Soma",
+      "07 Bloodz Boi, Quit Life - Mistral",
+      "08 Bloodz Boi, Quit Life - 365"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/365_1776750845"
+    }
+  }
+}
