@@ -1,0 +1,28 @@
+{
+  "id": "a-crying-poem_1776751013",
+  "archived_at": "2026-04-21T05:57:51Z",
+  "metadata": {
+    "title": "A Crying Poem",
+    "artist": "Bloodz Boi",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 901,
+    "duration_human": "00:15:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Claire Rousay, More Eaze, Bloodz Boi - Sad Gondola",
+      "02 Claire Rousay, More Eaze, Bloodz Boi - Sleepwalking",
+      "03 Claire Rousay, More Eaze, Bloodz Boi - The Lighter",
+      "04 Claire Rousay, More Eaze, Bloodz Boi - Jailbird",
+      "05 Claire Rousay, More Eaze, Bloodz Boi - Frozen Torches",
+      "06 Claire Rousay, More Eaze, Bloodz Boi - Overcast"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-crying-poem_1776751013"
+    }
+  }
+}
