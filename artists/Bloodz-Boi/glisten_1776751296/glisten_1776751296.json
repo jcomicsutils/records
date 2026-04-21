@@ -1,0 +1,23 @@
+{
+  "id": "glisten_1776751296",
+  "archived_at": "2026-04-21T06:02:00Z",
+  "metadata": {
+    "title": "Glisten",
+    "artist": "Bloodz Boi",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 150,
+    "duration_human": "00:02:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 ilykarma, Bloodz Boi, Madara TBH - Glisten"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/glisten_1776751296"
+    }
+  }
+}
