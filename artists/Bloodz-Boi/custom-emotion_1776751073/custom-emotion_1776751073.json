@@ -1,0 +1,24 @@
+{
+  "id": "custom-emotion_1776751073",
+  "archived_at": "2026-04-21T05:59:15Z",
+  "metadata": {
+    "title": "Custom Emotion",
+    "artist": "Bloodz Boi",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 325,
+    "duration_human": "00:05:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Ryan Hemsworth, Bloodz Boi - Custom Emotion",
+      "02 Ryan Hemsworth, Bloodz Boi - Custom Emotion (Instrumental)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/custom-emotion_1776751073"
+    }
+  }
+}
