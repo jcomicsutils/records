@@ -1,0 +1,31 @@
+{
+  "id": "time-place_1776751404",
+  "archived_at": "2026-04-21T06:09:07Z",
+  "metadata": {
+    "title": "Time & Place",
+    "artist": "Bloodz Boi",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1470,
+    "duration_human": "00:24:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Bloodz Boi, Cat Soup - Wishful",
+      "02 Bloodz Boi, Cat Soup - Unnatural",
+      "03 Bloodz Boi, Cat Soup - The Future I Wanted Was Gone",
+      "04 Bloodz Boi, Cat Soup - Dioxide",
+      "05 Bloodz Boi, Cat Soup - Broken Road",
+      "06 Bloodz Boi, Cat Soup - The Outside",
+      "07 Bloodz Boi, Cat Soup - Daydreaming",
+      "08 Bloodz Boi, Cat Soup - Closed Curtains",
+      "09 Bloodz Boi, Cat Soup - When I Think of You"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/time-place_1776751404"
+    }
+  }
+}
