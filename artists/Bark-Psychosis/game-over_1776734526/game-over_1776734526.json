@@ -1,0 +1,32 @@
+{
+  "id": "game-over_1776734526",
+  "archived_at": "2026-04-21T01:25:55Z",
+  "metadata": {
+    "title": "Game Over",
+    "artist": "Bark Psychosis",
+    "year": "1997",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 4500,
+    "duration_human": "01:15:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bark Psychosis - Blue",
+      "02 Bark Psychosis - Three Girl Rhumba",
+      "03 Bark Psychosis - I Know",
+      "04 Bark Psychosis - All Different Things",
+      "05 Bark Psychosis - Manman",
+      "06 Bark Psychosis - Bloodrush",
+      "07 Bark Psychosis - A Street Scene",
+      "08 Bark Psychosis - Murder City",
+      "09 Bark Psychosis - Scum",
+      "10 Bark Psychosis - Pendulum Man (Live)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/game-over_1776734526"
+    }
+  }
+}
