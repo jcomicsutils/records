@@ -1,0 +1,25 @@
+{
+  "id": "blue_1776734209",
+  "archived_at": "2026-04-21T01:18:22Z",
+  "metadata": {
+    "title": "Blue",
+    "artist": "Bark Psychosis",
+    "year": "1994",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1209,
+    "duration_human": "00:20:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bark Psychosis - Blue (Edit)",
+      "02 Bark Psychosis - Hex",
+      "03 Bark Psychosis - Big Shot (Alice’s Cheshire Cat Mix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/blue_1776734209"
+    }
+  }
+}
