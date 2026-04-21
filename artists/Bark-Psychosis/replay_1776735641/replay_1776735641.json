@@ -1,0 +1,35 @@
+{
+  "id": "replay_1776735641",
+  "archived_at": "2026-04-21T01:45:34Z",
+  "metadata": {
+    "title": "Replay",
+    "artist": "Bark Psychosis",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 4783,
+    "duration_human": "01:19:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bark Psychosis - Clawhammer",
+      "02 Bark Psychosis - By Blow",
+      "03 Bark Psychosis - Nothing Feels",
+      "04 Bark Psychosis - Tooled Up",
+      "05 Bark Psychosis - Reserve Shotgunman",
+      "06 Bark Psychosis - Murder City",
+      "07 Bark Psychosis - Big Shot (Alice’s Cheshire Cat Mix)",
+      "08 Bark Psychosis - Hex",
+      "09 Bark Psychosis - The Loom",
+      "10 Bark Psychosis - Manman",
+      "11 Bark Psychosis - Pendulum Man",
+      "12 Bark Psychosis - Bloodrush",
+      "13 Bark Psychosis - All Different Things"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/replay_1776735641"
+    }
+  }
+}
