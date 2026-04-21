@@ -1,0 +1,30 @@
+{
+  "id": "night-of-fire_1776736938",
+  "archived_at": "2026-04-21T02:04:23Z",
+  "metadata": {
+    "title": "Night of Fire",
+    "artist": "---__--___",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1595,
+    "duration_human": "00:26:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 ---__--___ - Night of Fire",
+      "02 ---__--___ - Countdown City",
+      "03 ---__--___ - Christian Rock",
+      "04 ---__--___ - Formation",
+      "05 ---__--___ - Kill Kare",
+      "06 ---__--___ - Eating Out on Xmas",
+      "07 ---__--___ - Darke County",
+      "08 ---__--___ - When God Released Me"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/night-of-fire_1776736938"
+    }
+  }
+}
