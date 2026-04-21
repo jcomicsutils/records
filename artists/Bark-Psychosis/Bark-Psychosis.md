@@ -13,3 +13,4 @@
 | [Replay](replay_1776735641/replay_1776735641.md) | 2004 | FLAC | 01:19:43 | [IA](https://archive.org/details/replay_1776735641) |
 | [///Codename: Dustsucker](codename-dustsucker_1776734304/codename-dustsucker_1776734304.md) | 2004 | FLAC | 00:50:22 | [IA](https://archive.org/details/codename-dustsucker_1776734304) |
 | [400 Winters](400-winters_1776733702/400-winters_1776733702.md) | 2005 | FLAC | 00:20:36 | [IA](https://archive.org/details/400-winters_1776733702) |
+| [SCUM (2023 Remastered)](scum-2023-remastered_1776735936/scum-2023-remastered_1776735936.md) | 2023 | FLAC | 00:42:43 | [IA](https://archive.org/details/scum-2023-remastered_1776735936) |
