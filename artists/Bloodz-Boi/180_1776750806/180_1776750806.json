@@ -1,0 +1,23 @@
+{
+  "id": "180_1776750806",
+  "archived_at": "2026-04-21T05:54:03Z",
+  "metadata": {
+    "title": "180",
+    "artist": "Bloodz Boi",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 196,
+    "duration_human": "00:03:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Bloodz Boi, Eden - 180"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/180_1776750806"
+    }
+  }
+}
