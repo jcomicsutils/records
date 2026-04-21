@@ -1,0 +1,29 @@
+{
+  "id": "hex_1776734757",
+  "archived_at": "2026-04-21T01:32:14Z",
+  "metadata": {
+    "title": "Hex",
+    "artist": "Bark Psychosis",
+    "year": "1994",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3078,
+    "duration_human": "00:51:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bark Psychosis - The Loom",
+      "02 Bark Psychosis - A Street Scene",
+      "03 Bark Psychosis - Absent Friend",
+      "04 Bark Psychosis - Big Shot",
+      "05 Bark Psychosis - Fingerspit",
+      "06 Bark Psychosis - Eyes & Smiles",
+      "07 Bark Psychosis - Pendulum Man"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hex_1776734757"
+    }
+  }
+}
