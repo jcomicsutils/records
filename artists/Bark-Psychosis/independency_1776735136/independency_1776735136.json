@@ -1,0 +1,30 @@
+{
+  "id": "independency_1776735136",
+  "archived_at": "2026-04-21T01:38:02Z",
+  "metadata": {
+    "title": "Independency",
+    "artist": "Bark Psychosis",
+    "year": "1994",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 3741,
+    "duration_human": "01:02:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bark Psychosis - I Know",
+      "02 Bark Psychosis - Nothing Feels",
+      "03 Bark Psychosis - All Different Things",
+      "04 Bark Psychosis - By Blow",
+      "05 Bark Psychosis - Manman",
+      "06 Bark Psychosis - Blood Rush",
+      "07 Bark Psychosis - Tooled Up",
+      "08 Bark Psychosis - Scum"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/independency_1776735136"
+    }
+  }
+}
