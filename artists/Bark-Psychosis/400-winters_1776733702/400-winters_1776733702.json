@@ -1,0 +1,26 @@
+{
+  "id": "400-winters_1776733702",
+  "archived_at": "2026-04-21T01:11:42Z",
+  "metadata": {
+    "title": "400 Winters",
+    "artist": "Bark Psychosis",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1236,
+    "duration_human": "00:20:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bark Psychosis - 400 Winters (Edit)",
+      "02 Bark Psychosis - INQB8TR (Alt Mix)",
+      "03 Bark Psychosis - The Black Meat (Alt Mix)",
+      "04 Bark Psychosis - Burning the City (Alt Mix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/400-winters_1776733702"
+    }
+  }
+}
