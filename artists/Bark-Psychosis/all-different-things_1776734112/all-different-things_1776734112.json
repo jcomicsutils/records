@@ -1,0 +1,24 @@
+{
+  "id": "all-different-things_1776734112",
+  "archived_at": "2026-04-21T01:16:47Z",
+  "metadata": {
+    "title": "All Different Things",
+    "artist": "Bark Psychosis",
+    "year": "1990",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 794,
+    "duration_human": "00:13:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bark Psychosis - All Things Different",
+      "02 Bark Psychosis - By-Blow"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/all-different-things_1776734112"
+    }
+  }
+}
