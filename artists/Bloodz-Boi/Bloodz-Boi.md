@@ -4,6 +4,7 @@
 |-------|------|-------|----------|-------|
 | [Dong Leng Cha](dong-leng-cha_1776751258/dong-leng-cha_1776751258.md) | 2018 | FLAC | 00:02:24 | [IA](https://archive.org/details/dong-leng-cha_1776751258) |
 | [Glisten](glisten_1776751296/glisten_1776751296.md) | 2019 | FLAC | 00:02:30 | [IA](https://archive.org/details/glisten_1776751296) |
+| [When I Think of You](when-i-think-of-you_1776751749/when-i-think-of-you_1776751749.md) | 2020 | FLAC | 00:03:27 | [IA](https://archive.org/details/when-i-think-of-you_1776751749) |
 | [Custom Emotion](custom-emotion_1776751073/custom-emotion_1776751073.md) | 2021 | FLAC | 00:05:25 | [IA](https://archive.org/details/custom-emotion_1776751073) |
 | [365](365_1776750845/365_1776750845.md) | 2022 | FLAC | 00:23:34 | [IA](https://archive.org/details/365_1776750845) |
 | [Darling, You Don't Need to Translate Your Heart All the Time](darling-you-dont-need-to-translate-your-heart-all-the-time_1776751157/darling-you-dont-need-to-translate-your-heart-all-the-time_1776751157.md) | 2022 | FLAC | 00:02:23 | [IA](https://archive.org/details/darling-you-dont-need-to-translate-your-heart-all-the-time_1776751157) |
