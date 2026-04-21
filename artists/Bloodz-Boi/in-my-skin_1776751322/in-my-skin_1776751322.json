@@ -1,0 +1,23 @@
+{
+  "id": "in-my-skin_1776751322",
+  "archived_at": "2026-04-21T06:02:43Z",
+  "metadata": {
+    "title": "In My Skin",
+    "artist": "Bloodz Boi",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 112,
+    "duration_human": "00:01:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Harto Falión, Bloodz Boi - In My Skin"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/in-my-skin_1776751322"
+    }
+  }
+}
