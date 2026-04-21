@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [All Different Things](all-different-things_1776734112/all-different-things_1776734112.md) | 1990 | FLAC | 00:13:14 | [IA](https://archive.org/details/all-different-things_1776734112) |
+| [Manman](manman_1776735485/manman_1776735485.md) | 1993 | FLAC | 00:19:56 | [IA](https://archive.org/details/manman_1776735485) |
 | [Blue](blue_1776734209/blue_1776734209.md) | 1994 | FLAC | 00:20:09 | [IA](https://archive.org/details/blue_1776734209) |
 | [Hex](hex_1776734757/hex_1776734757.md) | 1994 | FLAC | 00:51:18 | [IA](https://archive.org/details/hex_1776734757) |
 | [Independency](independency_1776735136/independency_1776735136.md) | 1994 | FLAC | 01:02:21 | [IA](https://archive.org/details/independency_1776735136) |

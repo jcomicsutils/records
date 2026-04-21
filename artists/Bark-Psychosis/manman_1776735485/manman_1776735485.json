@@ -1,0 +1,25 @@
+{
+  "id": "manman_1776735485",
+  "archived_at": "2026-04-21T01:39:24Z",
+  "metadata": {
+    "title": "Manman",
+    "artist": "Bark Psychosis",
+    "year": "1993",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1196,
+    "duration_human": "00:19:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bark Psychosis - Manman",
+      "02 Bark Psychosis - Blood Rush",
+      "03 Bark Psychosis - Tooled Up"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/manman_1776735485"
+    }
+  }
+}
