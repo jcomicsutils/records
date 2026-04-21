@@ -1,0 +1,26 @@
+{
+  "id": "nothing-feels-i-know_1776735566",
+  "archived_at": "2026-04-21T01:40:39Z",
+  "metadata": {
+    "title": "Nothing Feels / I Know",
+    "artist": "Bark Psychosis",
+    "year": "1990",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1284,
+    "duration_human": "00:21:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bark Psychosis - Nothing Feels",
+      "02 Bark Psychosis - I Know",
+      "03 Bark Psychosis - All Different Things",
+      "04 Bark Psychosis - By Blow"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nothing-feels-i-know_1776735566"
+    }
+  }
+}
