@@ -1,16 +1,17 @@
 # Artists
 
+- [---__--___](---__--___/---__--___.md)
 - [A Cackle or a Coughing Fit](A-Cackle-or-a-Coughing-Fit/A-Cackle-or-a-Coughing-Fit.md)
 - [Absolute Controlled Clinical Maniacs](Absolute-Controlled-Clinical-Maniacs/Absolute-Controlled-Clinical-Maniacs.md)
 - [Ak'chamel](Ak'chamel/Ak'chamel.md)
 - [Bark Psychosis](Bark-Psychosis/Bark-Psychosis.md)
+- [Bloodz Boi](Bloodz-Boi/Bloodz-Boi.md)
 - [Death Ambient](Death-Ambient/Death-Ambient.md)
 - [Killing Joke](Killing-Joke/Killing-Joke.md)
 - [Noise](Noise/Noise.md)
 - [Peace & Freedom](Peace-&-Freedom/Peace-&-Freedom.md)
 - [The Runners From 1984](The-Runners-From-1984/The-Runners-From-1984.md)
 - [Black Magick SS](black-magick-ss/black-magick-ss.md)
-- [---__--___](---__--___/---__--___.md)
 - [Opera for Infantry](opera-for-infantry/opera-for-infantry.md)
 - [Violent Magic Orchestra](violent-magic-orchestra/violent-magic-orchestra.md)
 - [Το Ψυγείο Ψυγείο](Το-Ψυγείο-Ψυγείο/Το-Ψυγείο-Ψυγείο.md)
