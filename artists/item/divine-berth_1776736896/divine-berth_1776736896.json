@@ -1,0 +1,24 @@
+{
+  "id": "divine-berth_1776736896",
+  "archived_at": "2026-04-21T02:02:16Z",
+  "metadata": {
+    "title": "Divine Berth",
+    "artist": "---__--___",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 521,
+    "duration_human": "00:08:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 ---__--___ - Pierre Ruby",
+      "02 ---__--___ - Divine Berth"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/divine-berth_1776736896"
+    }
+  }
+}
