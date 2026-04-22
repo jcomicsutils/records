@@ -1,0 +1,24 @@
+{
+  "id": "a-magnetic-road-to-hell_1776829669",
+  "archived_at": "2026-04-22T03:58:24Z",
+  "metadata": {
+    "title": "A Magnetic Road to Hell",
+    "artist": "Bardo Todol",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2521,
+    "duration_human": "00:42:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bardo Todol - Side A",
+      "02 Bardo Todol - Side B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-magnetic-road-to-hell_1776829669"
+    }
+  }
+}
