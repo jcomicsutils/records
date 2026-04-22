@@ -1,0 +1,26 @@
+{
+  "id": "invasiones_1776833587",
+  "archived_at": "2026-04-22T05:01:02Z",
+  "metadata": {
+    "title": "Invasiones",
+    "artist": "Bardo Todol",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2109,
+    "duration_human": "00:35:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Bardo Todol - Pasos en el Río",
+      "02 Bardo Todol - Tengo Mis Melodías en el Desierto",
+      "03 Bardo Todol - Enjambre",
+      "04 Bardo Todol - Espejismo en el Viento"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/invasiones_1776833587"
+    }
+  }
+}
