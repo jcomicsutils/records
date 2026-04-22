@@ -1,0 +1,24 @@
+{
+  "id": "el-violin-dorado-el-violin-arabe_1776830447",
+  "archived_at": "2026-04-22T04:03:27Z",
+  "metadata": {
+    "title": "El Violín Dorado / El Violín Arabe",
+    "artist": "Bardo Todol",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1977,
+    "duration_human": "00:32:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bardo Todol - El Violín Dorado",
+      "02 Bardo Todol - El Violín Arabe"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/el-violin-dorado-el-violin-arabe_1776830447"
+    }
+  }
+}
