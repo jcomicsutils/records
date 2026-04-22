@@ -1,0 +1,26 @@
+{
+  "id": "towers_1776890069",
+  "archived_at": "2026-04-22T20:50:59Z",
+  "metadata": {
+    "title": "Towers",
+    "artist": "Burning Witch",
+    "year": "1998",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2224,
+    "duration_human": "00:37:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burning Witch - Sacred Predictions",
+      "02 Burning Witch - Country Doctor",
+      "03 Burning Witch - Tower Place",
+      "04 Burning Witch - Sea Hag"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/towers_1776890069"
+    }
+  }
+}
