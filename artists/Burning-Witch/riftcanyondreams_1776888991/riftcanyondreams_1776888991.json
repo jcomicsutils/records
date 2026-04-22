@@ -1,0 +1,26 @@
+{
+  "id": "riftcanyondreams_1776888991",
+  "archived_at": "2026-04-22T20:34:27Z",
+  "metadata": {
+    "title": "Rift.Canyon.Dreams",
+    "artist": "Burning Witch",
+    "year": "1998",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2145,
+    "duration_human": "00:35:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burning Witch - Warning Signs",
+      "02 Burning Witch - Stillborn",
+      "03 Burning Witch - History of Hell (Crippled Lucifer)",
+      "04 Burning Witch - Communion"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/riftcanyondreams_1776888991"
+    }
+  }
+}
