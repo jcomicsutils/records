@@ -1,0 +1,29 @@
+{
+  "id": "en-form-for-bla_1776883054",
+  "archived_at": "2026-04-22T18:41:52Z",
+  "metadata": {
+    "title": "En Form for Blå",
+    "artist": "Æthenor",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3271,
+    "duration_human": "00:54:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Æthenor - Jocasta",
+      "02 Æthenor - One Number of Destiny in Ninety Nine",
+      "03 Æthenor - Laudanum Tusk",
+      "04 Æthenor - Vivarium",
+      "05 Æthenor - Dream Tassels",
+      "06 Æthenor - Vyomagami Plume",
+      "07 Æthenor - Something to Sleep is Still"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/en-form-for-bla_1776883054"
+    }
+  }
+}
