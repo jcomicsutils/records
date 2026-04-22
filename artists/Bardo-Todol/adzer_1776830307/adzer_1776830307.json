@@ -1,0 +1,28 @@
+{
+  "id": "adzer_1776830307",
+  "archived_at": "2026-04-22T04:00:45Z",
+  "metadata": {
+    "title": "Adzer",
+    "artist": "Bardo Todol",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2186,
+    "duration_human": "00:36:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bardo Todol - El Alfabeto Cartílago",
+      "02 Bardo Todol - Soldado de Cremma Rubio Claro Claro Ceniza",
+      "03 Bardo Todol - Semen de PaÌjaro",
+      "04 Bardo Todol - Caravania Maegenta",
+      "05 Bardo Todol - Semen de Mariposa",
+      "06 Bardo Todol - El Gran Vultan (aka Aster Diablo)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/adzer_1776830307"
+    }
+  }
+}
