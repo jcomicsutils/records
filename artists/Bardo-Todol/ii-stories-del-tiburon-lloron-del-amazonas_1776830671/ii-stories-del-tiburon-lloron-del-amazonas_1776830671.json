@@ -1,0 +1,28 @@
+{
+  "id": "ii-stories-del-tiburon-lloron-del-amazonas_1776830671",
+  "archived_at": "2026-04-22T04:32:47Z",
+  "metadata": {
+    "title": "II Stories Del Tiburón Llorón Del Amazonas",
+    "artist": "Bardo Todol",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 5727,
+    "duration_human": "01:35:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Hannibal Chew III - La Noche / A la Selva / En la Sombre",
+      "02 Hannibal Chew III - A la Lluvia",
+      "03 Hannibal Chew III - La Guagua Transamazónica",
+      "04 Hannibal Chew III - Dos Leyendas de una Fauna Perdida",
+      "05 Hannibal Chew III - Radios Húmedas",
+      "06 Hannibal Chew III - Mercados de Insectos Vibrantes"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ii-stories-del-tiburon-lloron-del-amazonas_1776830671"
+    }
+  }
+}
