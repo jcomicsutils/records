@@ -1,0 +1,24 @@
+{
+  "id": "caprichos-1-80-rift-canyon-dreams_1776885403",
+  "archived_at": "2026-04-22T19:20:56Z",
+  "metadata": {
+    "title": "Caprichos 1-80 / Rift Canyon Dreams",
+    "artist": "Burning Witch",
+    "year": "2004",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1953,
+    "duration_human": "00:32:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Asva - Caprichos 1-80",
+      "02 Burning Witch - Rift Canyon Dreams"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/caprichos-1-80-rift-canyon-dreams_1776885403"
+    }
+  }
+}

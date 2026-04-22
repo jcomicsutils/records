@@ -7,6 +7,7 @@
 - [Bardo Todol](Bardo-Todol/Bardo-Todol.md)
 - [Bark Psychosis](Bark-Psychosis/Bark-Psychosis.md)
 - [Bloodz Boi](Bloodz-Boi/Bloodz-Boi.md)
+- [Burning Witch](Burning-Witch/Burning-Witch.md)
 - [Death Ambient](Death-Ambient/Death-Ambient.md)
 - [Ensemble Pearl](Ensemble-Pearl/Ensemble-Pearl.md)
 - [Fungal Hex](Fungal-Hex/Fungal-Hex.md)
