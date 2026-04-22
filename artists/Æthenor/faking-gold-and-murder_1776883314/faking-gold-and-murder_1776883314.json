@@ -1,0 +1,26 @@
+{
+  "id": "faking-gold-and-murder_1776883314",
+  "archived_at": "2026-04-22T18:49:57Z",
+  "metadata": {
+    "title": "Faking Gold and Murder",
+    "artist": "Æthenor",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2148,
+    "duration_human": "00:35:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Æthenor - I",
+      "02 Æthenor - II",
+      "03 Æthenor - III",
+      "04 Æthenor - IV"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/faking-gold-and-murder_1776883314"
+    }
+  }
+}
