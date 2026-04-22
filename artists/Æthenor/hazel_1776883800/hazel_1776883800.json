@@ -1,0 +1,27 @@
+{
+  "id": "hazel_1776883800",
+  "archived_at": "2026-04-22T19:03:48Z",
+  "metadata": {
+    "title": "Hazel",
+    "artist": "Æthenor",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2349,
+    "duration_human": "00:39:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Æthenor - Silk to Breath",
+      "02 Æthenor - Leather Umbrella",
+      "03 Æthenor - Anaïs",
+      "04 Æthenor - Ermanna",
+      "05 Æthenor - Murmurum"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hazel_1776883800"
+    }
+  }
+}
