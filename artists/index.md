@@ -16,4 +16,5 @@
 - [Opera for Infantry](opera-for-infantry/opera-for-infantry.md)
 - [Violent Magic Orchestra](violent-magic-orchestra/violent-magic-orchestra.md)
 - [ÄÄNIPÄÄ](ÄÄNIPÄÄ/ÄÄNIPÄÄ.md)
+- [Æthenor](Æthenor/Æthenor.md)
 - [Το Ψυγείο Ψυγείο](Το-Ψυγείο-Ψυγείο/Το-Ψυγείο-Ψυγείο.md)
