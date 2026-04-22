@@ -1,0 +1,26 @@
+{
+  "id": "fungal-hex_1776885337",
+  "archived_at": "2026-04-22T19:16:41Z",
+  "metadata": {
+    "title": "Fungal Hex",
+    "artist": "Fungal Hex",
+    "year": "2005",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 2368,
+    "duration_human": "00:39:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Fungal Hex - [untitled]",
+      "02 Fungal Hex - [untitled]",
+      "03 Fungal Hex - [untitled]",
+      "04 Fungal Hex - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fungal-hex_1776885337"
+    }
+  }
+}
