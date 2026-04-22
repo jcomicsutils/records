@@ -8,6 +8,7 @@
 - [Bark Psychosis](Bark-Psychosis/Bark-Psychosis.md)
 - [Bloodz Boi](Bloodz-Boi/Bloodz-Boi.md)
 - [Death Ambient](Death-Ambient/Death-Ambient.md)
+- [Ensemble Pearl](Ensemble-Pearl/Ensemble-Pearl.md)
 - [Killing Joke](Killing-Joke/Killing-Joke.md)
 - [Noise](Noise/Noise.md)
 - [Peace & Freedom](Peace-&-Freedom/Peace-&-Freedom.md)

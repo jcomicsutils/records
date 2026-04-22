@@ -1,0 +1,28 @@
+{
+  "id": "ensemble-pearl_1776884630",
+  "archived_at": "2026-04-22T19:15:35Z",
+  "metadata": {
+    "title": "Ensemble Pearl",
+    "artist": "Ensemble Pearl",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3614,
+    "duration_human": "01:00:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Ensemble Pearl - Ghost Parade",
+      "02 Ensemble Pearl - Painting on a Corpse",
+      "03 Ensemble Pearl - Wray",
+      "04 Ensemble Pearl - Island Epiphany",
+      "05 Ensemble Pearl - Giant",
+      "06 Ensemble Pearl - Sexy Angle"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ensemble-pearl_1776884630"
+    }
+  }
+}
