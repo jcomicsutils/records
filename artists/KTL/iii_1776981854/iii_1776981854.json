@@ -1,0 +1,24 @@
+{
+  "id": "iii_1776981854",
+  "archived_at": "2026-04-23T22:04:57Z",
+  "metadata": {
+    "title": "III",
+    "artist": "KTL",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1081,
+    "duration_human": "00:18:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 KTL - Loud Game",
+      "02 KTL - Sunday"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/iii_1776981854"
+    }
+  }
+}
