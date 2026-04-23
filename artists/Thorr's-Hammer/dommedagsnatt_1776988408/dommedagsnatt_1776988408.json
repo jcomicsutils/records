@@ -1,0 +1,26 @@
+{
+  "id": "dommedagsnatt_1776988408",
+  "archived_at": "2026-04-23T23:58:28Z",
+  "metadata": {
+    "title": "Dommedagsnatt",
+    "artist": "Thorr's Hammer",
+    "year": "1998",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1945,
+    "duration_human": "00:32:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Thorr's Hammer - Norge",
+      "02 Thorr's Hammer - Troll",
+      "03 Thorr's Hammer - Dommedagsnatt",
+      "04 Thorr's Hammer - Mellom Galgene (Live)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dommedagsnatt_1776988408"
+    }
+  }
+}
