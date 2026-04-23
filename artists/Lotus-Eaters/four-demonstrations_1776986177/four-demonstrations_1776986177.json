@@ -1,0 +1,26 @@
+{
+  "id": "four-demonstrations_1776986177",
+  "archived_at": "2026-04-23T23:17:12Z",
+  "metadata": {
+    "title": "Four Demonstrations",
+    "artist": "Lotus Eaters",
+    "year": "2001",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 2261,
+    "duration_human": "00:37:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Lotus Eaters - Corea",
+      "02 Lotus Eaters - Dejohnette",
+      "03 Lotus Eaters - Sharrock",
+      "04 Lotus Eaters - Zawinul"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/four-demonstrations_1776986177"
+    }
+  }
+}
