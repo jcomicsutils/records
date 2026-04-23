@@ -1,0 +1,24 @@
+{
+  "id": "lotus-eaters_1776986234",
+  "archived_at": "2026-04-23T23:17:53Z",
+  "metadata": {
+    "title": "Lotus Eaters",
+    "artist": "Lotus Eaters",
+    "year": "2002",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 755,
+    "duration_human": "00:12:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Lotus Eaters - [untitled]",
+      "02 Lotus Eaters - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lotus-eaters_1776986234"
+    }
+  }
+}
