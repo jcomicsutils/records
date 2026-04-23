@@ -1,0 +1,29 @@
+{
+  "id": "radio-sessions_1776979328",
+  "archived_at": "2026-04-23T21:29:07Z",
+  "metadata": {
+    "title": "Radio Sessions",
+    "artist": "Khanate",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 4440,
+    "duration_human": "01:14:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Khanate - Pieces of Quiet",
+      "02 Khanate - German Dental Work",
+      "03 Khanate - No Joy",
+      "04 Khanate - Skin Coat",
+      "05 Khanate - Under Rotting Sky",
+      "06 Khanate - German Dental Work",
+      "07 Khanate - Skin Coat"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/radio-sessions_1776979328"
+    }
+  }
+}
