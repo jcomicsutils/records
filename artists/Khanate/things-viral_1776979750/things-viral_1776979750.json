@@ -1,0 +1,26 @@
+{
+  "id": "things-viral_1776979750",
+  "archived_at": "2026-04-23T21:34:55Z",
+  "metadata": {
+    "title": "Things Viral",
+    "artist": "Khanate",
+    "year": "2003",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3583,
+    "duration_human": "00:59:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Khanate - Commuted",
+      "02 Khanate - Fields",
+      "03 Khanate - Dead",
+      "04 Khanate - Too Close Enough to Touch"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/things-viral_1776979750"
+    }
+  }
+}
