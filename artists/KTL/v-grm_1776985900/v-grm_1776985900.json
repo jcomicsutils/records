@@ -1,0 +1,26 @@
+{
+  "id": "v-grm_1776985900",
+  "archived_at": "2026-04-23T23:12:21Z",
+  "metadata": {
+    "title": "V GRM",
+    "artist": "KTL",
+    "year": "2012",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 906,
+    "duration_human": "00:15:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 KTL - Study D",
+      "02 KTL - Study E",
+      "03 KTL - Study B",
+      "04 KTL - Study C"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/v-grm_1776985900"
+    }
+  }
+}

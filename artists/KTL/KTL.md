@@ -16,6 +16,7 @@
 | [The Pyre IRCAM Demos Vol. 1](the-pyre-ircam-demos-vol-1_1776984228/the-pyre-ircam-demos-vol-1_1776984228.md) | 2012 | MP3 | 04:23:37 | [IA](https://archive.org/details/the-pyre-ircam-demos-vol-1_1776984228) |
 | [The Pyre IRCAM Demos Vol. 2](the-pyre-ircam-demos-vol-2_1776984350/the-pyre-ircam-demos-vol-2_1776984350.md) | 2012 | MP3 | 01:31:28 | [IA](https://archive.org/details/the-pyre-ircam-demos-vol-2_1776984350) |
 | [V](v_1776985352/v_1776985352.md) | 2012 | FLAC | 01:11:29 | [IA](https://archive.org/details/v_1776985352) |
+| [V GRM](v-grm_1776985900/v-grm_1776985900.md) | 2012 | MP3 | 00:15:06 | [IA](https://archive.org/details/v-grm_1776985900) |
 | [Live at Presences Électronique Paris 2013](live-at-presences-electronique-paris-2013_1776983960/live-at-presences-electronique-paris-2013_1776983960.md) | 2013 | MP3 | 00:37:18 | [IA](https://archive.org/details/live-at-presences-electronique-paris-2013_1776983960) |
 | [The Ventriloquist Convention Demos](the-ventriloquist-convention-demos_1776985277/the-ventriloquist-convention-demos_1776985277.md) | 2015 | MP3 | 01:49:43 | [IA](https://archive.org/details/the-ventriloquist-convention-demos_1776985277) |
 | [Live at Presences Électronique Geneva 2015](live-at-presences-electronique-geneva-2015_1776983925/live-at-presences-electronique-geneva-2015_1776983925.md) | 2015 | MP3 | 00:20:48 | [IA](https://archive.org/details/live-at-presences-electronique-geneva-2015_1776983925) |
