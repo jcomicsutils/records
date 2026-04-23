@@ -1,0 +1,23 @@
+{
+  "id": "le-vampire-de-paris_1776909138",
+  "archived_at": "2026-04-23T01:55:22Z",
+  "metadata": {
+    "title": "Le Vampire de Paris",
+    "artist": "Gravetemple",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3293,
+    "duration_human": "00:54:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Gravetemple - Le Vampire de Paris"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/le-vampire-de-paris_1776909138"
+    }
+  }
+}
