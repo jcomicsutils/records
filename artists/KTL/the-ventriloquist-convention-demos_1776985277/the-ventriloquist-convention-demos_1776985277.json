@@ -1,0 +1,30 @@
+{
+  "id": "the-ventriloquist-convention-demos_1776985277",
+  "archived_at": "2026-04-23T23:02:29Z",
+  "metadata": {
+    "title": "The Ventriloquist Convention Demos",
+    "artist": "KTL",
+    "year": "2015",
+    "codec": "MP3",
+    "num_tracks": 8,
+    "duration_seconds": 6583,
+    "duration_human": "01:49:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 KTL - 1_MIX",
+      "02 KTL - 2_MIX",
+      "03 KTL - 3_MIX",
+      "04 KTL - 4_MIX",
+      "05 KTL - 5_MIX",
+      "06 KTL - 6_MIX",
+      "07 KTL - 7_MIX",
+      "08 KTL - 8_MIX"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-ventriloquist-convention-demos_1776985277"
+    }
+  }
+}
