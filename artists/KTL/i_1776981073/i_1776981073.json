@@ -1,0 +1,28 @@
+{
+  "id": "i_1776981073",
+  "archived_at": "2026-04-23T21:55:19Z",
+  "metadata": {
+    "title": "I",
+    "artist": "KTL",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 4669,
+    "duration_human": "01:17:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 KTL - Estranged",
+      "02 KTL - Forest Floor 1",
+      "03 KTL - Forest Floor 2",
+      "04 KTL - Forest Floor 3",
+      "05 KTL - Forest Floor 4",
+      "06 KTL - Snow"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i_1776981073"
+    }
+  }
+}
