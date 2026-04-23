@@ -1,0 +1,26 @@
+{
+  "id": "ii_1776981322",
+  "archived_at": "2026-04-23T22:04:12Z",
+  "metadata": {
+    "title": "II",
+    "artist": "KTL",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4290,
+    "duration_human": "01:11:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 KTL - Game",
+      "02 KTL - Theme",
+      "03 KTL - Abattoir",
+      "04 KTL - Snow 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ii_1776981322"
+    }
+  }
+}
