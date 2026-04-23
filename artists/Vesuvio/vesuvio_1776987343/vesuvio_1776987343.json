@@ -1,0 +1,25 @@
+{
+  "id": "vesuvio_1776987343",
+  "archived_at": "2026-04-23T23:37:00Z",
+  "metadata": {
+    "title": "Vesuvio",
+    "artist": "Vesuvio",
+    "year": "2014",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 3258,
+    "duration_human": "00:54:18",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Vesuvio - Pompeii",
+      "02 Vesuvio - Herculaneum",
+      "03 Vesuvio - Resin A"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vesuvio_1776987343"
+    }
+  }
+}
