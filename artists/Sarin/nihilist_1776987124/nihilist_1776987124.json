@@ -1,0 +1,26 @@
+{
+  "id": "nihilist_1776987124",
+  "archived_at": "2026-04-23T23:33:48Z",
+  "metadata": {
+    "title": "Nihilist",
+    "artist": "Sarin",
+    "year": "1996",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 3032,
+    "duration_human": "00:50:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Sarin - Tektoniks",
+      "02 Sarin - 6:66",
+      "03 Sarin - Red Army",
+      "04 Sarin - War of the Worlds"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nihilist_1776987124"
+    }
+  }
+}

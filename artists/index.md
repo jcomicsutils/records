@@ -22,6 +22,7 @@
 - [Mamiffer & House Of Low Culture](Mamiffer-&-House-Of-Low-Culture/Mamiffer-&-House-Of-Low-Culture.md)
 - [Noise](Noise/Noise.md)
 - [Peace & Freedom](Peace-&-Freedom/Peace-&-Freedom.md)
+- [Sarin](Sarin/Sarin.md)
 - [St. Francis Duo](St.-Francis-Duo/St.-Francis-Duo.md)
 - [The Runners From 1984](The-Runners-From-1984/The-Runners-From-1984.md)
 - [Black Magick SS](black-magick-ss/black-magick-ss.md)
