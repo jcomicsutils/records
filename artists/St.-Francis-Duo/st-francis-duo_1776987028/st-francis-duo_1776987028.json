@@ -1,0 +1,26 @@
+{
+  "id": "st-francis-duo_1776987028",
+  "archived_at": "2026-04-23T23:32:02Z",
+  "metadata": {
+    "title": "St. Francis Duo",
+    "artist": "St. Francis Duo",
+    "year": "2012",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 4572,
+    "duration_human": "01:16:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 St. Francis Duo - Side A",
+      "02 St. Francis Duo - Side B",
+      "03 St. Francis Duo - Side C",
+      "04 St. Francis Duo - Side D"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/st-francis-duo_1776987028"
+    }
+  }
+}
