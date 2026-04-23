@@ -1,0 +1,26 @@
+{
+  "id": "live-wfmu-911_1776979071",
+  "archived_at": "2026-04-23T21:21:03Z",
+  "metadata": {
+    "title": "Live WFMU 91.1",
+    "artist": "Khanate",
+    "year": "2002",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2814,
+    "duration_human": "00:46:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Khanate - Pieces of Quiet",
+      "02 Khanate - German Dental Work (Earth Cover)",
+      "03 Khanate - No Joy",
+      "04 Khanate - Skin Coat"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-wfmu-911_1776979071"
+    }
+  }
+}

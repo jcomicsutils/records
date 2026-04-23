@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Khanate](khanate_1776978578/khanate_1776978578.md) | 2001 | FLAC | 00:56:30 | [IA](https://archive.org/details/khanate_1776978578) |
+| [Live WFMU 91.1](live-wfmu-911_1776979071/live-wfmu-911_1776979071.md) | 2002 | FLAC | 00:46:54 | [IA](https://archive.org/details/live-wfmu-911_1776979071) |
 | [Capture & Release](capture-release_1776976954/capture-release_1776976954.md) | 2005 | FLAC | 00:43:16 | [IA](https://archive.org/details/capture-release_1776976954) |
 | [It's Cold When Birds Fall From the Sky](its-cold-when-birds-fall-from-the-sky_1776978390/its-cold-when-birds-fall-from-the-sky_1776978390.md) | 2005 | FLAC | 00:57:34 | [IA](https://archive.org/details/its-cold-when-birds-fall-from-the-sky_1776978390) |
 | [KHNTvsSTOCKHOLM](khntvsstockholm_1776978759/khntvsstockholm_1776978759.md) | 2007 | FLAC | 00:50:01 | [IA](https://archive.org/details/khntvsstockholm_1776978759) |
