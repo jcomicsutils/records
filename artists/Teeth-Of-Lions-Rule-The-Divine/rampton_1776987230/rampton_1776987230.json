@@ -1,0 +1,25 @@
+{
+  "id": "rampton_1776987230",
+  "archived_at": "2026-04-23T23:35:40Z",
+  "metadata": {
+    "title": "Rampton",
+    "artist": "Teeth Of Lions Rule The Divine",
+    "year": "2002",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3262,
+    "duration_human": "00:54:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Teeth of Lions Rule the Divine - He Who Accepts All That is Offered (Feel Bad Hit of the Winter)",
+      "02 Teeth of Lions Rule the Divine - New Pants & Shirt",
+      "03 Teeth of Lions Rule the Divine - The Smiler"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rampton_1776987230"
+    }
+  }
+}
