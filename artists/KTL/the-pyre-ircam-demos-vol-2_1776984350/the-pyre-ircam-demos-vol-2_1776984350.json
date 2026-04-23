@@ -1,0 +1,30 @@
+{
+  "id": "the-pyre-ircam-demos-vol-2_1776984350",
+  "archived_at": "2026-04-23T22:47:02Z",
+  "metadata": {
+    "title": "The Pyre IRCAM Demos Vol. 2",
+    "artist": "KTL",
+    "year": "2012",
+    "codec": "MP3",
+    "num_tracks": 8,
+    "duration_seconds": 5488,
+    "duration_human": "01:31:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 KTL - 231112a Drum",
+      "02 KTL - 231112b Drum",
+      "03 KTL - 241112a About to Faint",
+      "04 KTL - 241112b About to Faint",
+      "05 KTL - 251112 Hit Attempt",
+      "06 KTL - 251112 Madhit",
+      "07 KTL - 251112 Sadhit",
+      "08 KTL - 251112 Slowmadhit"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-pyre-ircam-demos-vol-2_1776984350"
+    }
+  }
+}
