@@ -1,0 +1,26 @@
+{
+  "id": "clean-hands-go-foul_1776977751",
+  "archived_at": "2026-04-23T21:06:27Z",
+  "metadata": {
+    "title": "Clean Hands Go Foul",
+    "artist": "Khanate",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3609,
+    "duration_human": "01:00:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Khanate - Wings From Spine",
+      "02 Khanate - In That Corner",
+      "03 Khanate - Clean My Heart",
+      "04 Khanate - Every God Damn Thing"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/clean-hands-go-foul_1776977751"
+    }
+  }
+}
