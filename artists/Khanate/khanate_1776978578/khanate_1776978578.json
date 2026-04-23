@@ -1,0 +1,27 @@
+{
+  "id": "khanate_1776978578",
+  "archived_at": "2026-04-23T21:12:36Z",
+  "metadata": {
+    "title": "Khanate",
+    "artist": "Khanate",
+    "year": "2001",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3390,
+    "duration_human": "00:56:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Khanate - Pieces of Quiet",
+      "02 Khanate - Skin Coat",
+      "03 Khanate - Torching Koroviev",
+      "04 Khanate - Under Rotting Sky",
+      "05 Khanate - No Joy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/khanate_1776978578"
+    }
+  }
+}
