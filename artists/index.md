@@ -3,6 +3,7 @@
 - [---__--___](---__--___/---__--___.md)
 - [A Cackle or a Coughing Fit](A-Cackle-or-a-Coughing-Fit/A-Cackle-or-a-Coughing-Fit.md)
 - [Absolute Controlled Clinical Maniacs](Absolute-Controlled-Clinical-Maniacs/Absolute-Controlled-Clinical-Maniacs.md)
+- [Accident Prone Records](Accident-Prone-Records/Accident-Prone-Records.md)
 - [Ak'chamel](Ak'chamel/Ak'chamel.md)
 - [Bardo Todol](Bardo-Todol/Bardo-Todol.md)
 - [Bark Psychosis](Bark-Psychosis/Bark-Psychosis.md)
