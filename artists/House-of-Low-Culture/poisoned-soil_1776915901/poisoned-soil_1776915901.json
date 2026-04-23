@@ -1,0 +1,25 @@
+{
+  "id": "poisoned-soil_1776915901",
+  "archived_at": "2026-04-23T03:47:38Z",
+  "metadata": {
+    "title": "Poisoned Soil",
+    "artist": "House of Low Culture",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3166,
+    "duration_human": "00:52:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 House of Low Culture - Spoiled Fruits of the Kingdom",
+      "02 House of Low Culture - The Ladder That Leads to Nowhere",
+      "03 House of Low Culture - Inappropriate Body"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/poisoned-soil_1776915901"
+    }
+  }
+}
