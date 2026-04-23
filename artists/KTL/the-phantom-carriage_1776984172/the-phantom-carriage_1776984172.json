@@ -1,0 +1,23 @@
+{
+  "id": "the-phantom-carriage_1776984172",
+  "archived_at": "2026-04-23T22:43:46Z",
+  "metadata": {
+    "title": "The Phantom Carriage",
+    "artist": "KTL",
+    "year": "2008",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 6439,
+    "duration_human": "01:47:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 KTL - The Phantom Carriage"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-phantom-carriage_1776984172"
+    }
+  }
+}
