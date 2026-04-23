@@ -1,0 +1,28 @@
+{
+  "id": "impassable-fears_1776908768",
+  "archived_at": "2026-04-23T01:52:16Z",
+  "metadata": {
+    "title": "Impassable Fears",
+    "artist": "Gravetemple",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2098,
+    "duration_human": "00:34:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Gravetemple - A Szarka (The Magpie)",
+      "02 Gravetemple - Elavúlt Földbolygó (World Out of Date)",
+      "03 Gravetemple - A Karma Karmai (Karmas Claws)",
+      "04 Gravetemple - Domino",
+      "05 Gravetemple - Áthatolhatatlan Félelmek (Impassable Fears)",
+      "06 Gravetemple - Az Örök Végtelen Üresség (Eternal Endless Void)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/impassable-fears_1776908768"
+    }
+  }
+}
