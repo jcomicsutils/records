@@ -1,0 +1,27 @@
+{
+  "id": "live-at-supersonic-2007_1776986540",
+  "archived_at": "2026-04-23T23:24:35Z",
+  "metadata": {
+    "title": "Live at Supersonic, 2007",
+    "artist": "Love's Holiday Orchestra",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2210,
+    "duration_human": "00:36:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Love's Holiday Orchestra - The Geometry of Business",
+      "02 Love's Holiday Orchestra - A Winner Every Time",
+      "03 Love's Holiday Orchestra - 3 O'Clock",
+      "04 Love's Holiday Orchestra - Bomb",
+      "05 Love's Holiday Orchestra - You Pay First"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-at-supersonic-2007_1776986540"
+    }
+  }
+}
