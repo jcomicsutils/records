@@ -1,0 +1,24 @@
+{
+  "id": "peacemaker-assembly_1776986975",
+  "archived_at": "2026-04-23T23:30:25Z",
+  "metadata": {
+    "title": "Peacemaker Assembly",
+    "artist": "St. Francis Duo",
+    "year": "2016",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 2262,
+    "duration_human": "00:37:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 St. Francis Duo - A",
+      "02 St. Francis Duo - B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/peacemaker-assembly_1776986975"
+    }
+  }
+}
