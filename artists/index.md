@@ -12,6 +12,7 @@
 - [Ensemble Pearl](Ensemble-Pearl/Ensemble-Pearl.md)
 - [Fungal Hex](Fungal-Hex/Fungal-Hex.md)
 - [Gravetemple](Gravetemple/Gravetemple.md)
+- [House of Low Culture](House-of-Low-Culture/House-of-Low-Culture.md)
 - [Killing Joke](Killing-Joke/Killing-Joke.md)
 - [Noise](Noise/Noise.md)
 - [Peace & Freedom](Peace-&-Freedom/Peace-&-Freedom.md)

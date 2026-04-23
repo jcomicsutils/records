@@ -1,0 +1,24 @@
+{
+  "id": "chinatown-squalls_1776912295",
+  "archived_at": "2026-04-23T02:45:59Z",
+  "metadata": {
+    "title": "Chinatown Squalls",
+    "artist": "House of Low Culture",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1821,
+    "duration_human": "00:30:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 House of Low Culture - Chinatown Squalls",
+      "02 House of Low Culture - Chinatown Lull"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chinatown-squalls_1776912295"
+    }
+  }
+}
