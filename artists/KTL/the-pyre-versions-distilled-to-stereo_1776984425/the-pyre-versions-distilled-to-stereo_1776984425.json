@@ -1,0 +1,27 @@
+{
+  "id": "the-pyre-versions-distilled-to-stereo_1776984425",
+  "archived_at": "2026-04-23T23:01:14Z",
+  "metadata": {
+    "title": "The Pyre: Versions Distilled to Stereo",
+    "artist": "KTL",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2619,
+    "duration_human": "00:43:39",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 KTL, Peter Rehberg, Stephen O'Malley - Escalade",
+      "02 KTL, Peter Rehberg, Stephen O'Malley - MadHIT",
+      "03 KTL, Peter Rehberg, Stephen O'Malley - Glass X",
+      "04 KTL, Peter Rehberg, Stephen O'Malley - Hit",
+      "05 KTL, Peter Rehberg, Stephen O'Malley - SuperMellow"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-pyre-versions-distilled-to-stereo_1776984425"
+    }
+  }
+}
