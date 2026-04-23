@@ -1,0 +1,35 @@
+{
+  "id": "the-pyre-ircam-demos-vol-1_1776984228",
+  "archived_at": "2026-04-23T22:45:48Z",
+  "metadata": {
+    "title": "The Pyre IRCAM Demos Vol. 1",
+    "artist": "KTL",
+    "year": "2012",
+    "codec": "MP3",
+    "num_tracks": 13,
+    "duration_seconds": 15817,
+    "duration_human": "04:23:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 KTL - 230912 Akira1",
+      "02 KTL - 230912 Big Akira",
+      "03 KTL - 230912 Supermellow",
+      "04 KTL - 230912 Tiger",
+      "05 KTL - 240812 Glasx2p",
+      "06 KTL - 240912 Akira3",
+      "07 KTL - 240912 Glassx",
+      "08 KTL - 240912 Glassx2",
+      "09 KTL - 240912 Supermellow3",
+      "10 KTL - 250912 Akira4",
+      "11 KTL - 250912 Black Akira4",
+      "12 KTL - 250912 Fourth Black",
+      "13 KTL - 250912 Third Black"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-pyre-ircam-demos-vol-1_1776984228"
+    }
+  }
+}
