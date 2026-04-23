@@ -1,0 +1,26 @@
+{
+  "id": "gettin-sentimental_1776913140",
+  "archived_at": "2026-04-23T03:01:44Z",
+  "metadata": {
+    "title": "Gettin' Sentimental",
+    "artist": "House of Low Culture",
+    "year": "2002",
+    "codec": "AAC",
+    "num_tracks": 4,
+    "duration_seconds": 1456,
+    "duration_human": "00:24:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 House of Low Culture - Smoke Out Loud (Agnb Treatment 1 - \"The Break In\")",
+      "02 House of Low Culture - Gettin' Sentimental",
+      "03 House of Low Culture - In the Midnight Kitchen, Part 1",
+      "04 House of Low Culture - Nuthin' New for Trash Like You"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/gettin-sentimental_1776913140"
+    }
+  }
+}
