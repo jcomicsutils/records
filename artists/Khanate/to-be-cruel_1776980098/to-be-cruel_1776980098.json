@@ -1,0 +1,25 @@
+{
+  "id": "to-be-cruel_1776980098",
+  "archived_at": "2026-04-23T21:48:23Z",
+  "metadata": {
+    "title": "To Be Cruel",
+    "artist": "Khanate",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3673,
+    "duration_human": "01:01:13",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Khanate - Like a Poisoned Dog",
+      "02 Khanate - It Wants to Fly",
+      "03 Khanate - To Be Cruel"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/to-be-cruel_1776980098"
+    }
+  }
+}

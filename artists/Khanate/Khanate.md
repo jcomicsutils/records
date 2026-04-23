@@ -11,3 +11,4 @@
 | [KHNTvsSTOCKHOLM](khntvsstockholm_1776978759/khntvsstockholm_1776978759.md) | 2007 | FLAC | 00:50:01 | [IA](https://archive.org/details/khntvsstockholm_1776978759) |
 | [Clean Hands Go Foul](clean-hands-go-foul_1776977751/clean-hands-go-foul_1776977751.md) | 2009 | FLAC | 01:00:09 | [IA](https://archive.org/details/clean-hands-go-foul_1776977751) |
 | [Radio Sessions](radio-sessions_1776979328/radio-sessions_1776979328.md) | 2023 | FLAC | 01:14:00 | [IA](https://archive.org/details/radio-sessions_1776979328) |
+| [To Be Cruel](to-be-cruel_1776980098/to-be-cruel_1776980098.md) | 2023 | FLAC | 01:01:13 | [IA](https://archive.org/details/to-be-cruel_1776980098) |
