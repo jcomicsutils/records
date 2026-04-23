@@ -1,0 +1,30 @@
+{
+  "id": "housing-tracts_1776913651",
+  "archived_at": "2026-04-23T03:16:42Z",
+  "metadata": {
+    "title": "Housing Tracts ‎",
+    "artist": "House of Low Culture",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 4066,
+    "duration_human": "01:07:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 House of Low Culture - Intercontinental Sound Drift",
+      "02 House of Low Culture - Showtime at the Apollo 9",
+      "03 House of Low Culture - Bastard Remix Treatment",
+      "04 House of Low Culture - Untitled (For 4 Guitars)",
+      "05 House of Low Culture - Merzbow (HoLC Remix)",
+      "06 House of Low Culture - Advancing Hordes (Merzbow Frog Remix)",
+      "07 House of Low Culture - Edward",
+      "08 House of Low Culture - A.T. Drone Home"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/housing-tracts_1776913651"
+    }
+  }
+}
