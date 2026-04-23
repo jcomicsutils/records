@@ -6,3 +6,4 @@
 | [Alienist on a Pale Horse](alienist-on-a-pale-horse_1776986065/alienist-on-a-pale-horse_1776986065.md) | 2001 | MP3 | 00:29:38 | [IA](https://archive.org/details/alienist-on-a-pale-horse_1776986065) |
 | [Lotus Eaters](lotus-eaters_1776986234/lotus-eaters_1776986234.md) | 2002 | MP3 | 00:12:35 | [IA](https://archive.org/details/lotus-eaters_1776986234) |
 | [Mind Control for Infants](mind-control-for-infants_1776986275/mind-control-for-infants_1776986275.md) | 2002 | MP3 | 00:59:39 | [IA](https://archive.org/details/mind-control-for-infants_1776986275) |
+| [Wurmwulv](wurmwulv_1776986435/wurmwulv_1776986435.md) | 2007 | MP3 | 00:50:13 | [IA](https://archive.org/details/wurmwulv_1776986435) |

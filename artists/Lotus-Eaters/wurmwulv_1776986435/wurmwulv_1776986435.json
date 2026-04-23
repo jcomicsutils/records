@@ -1,0 +1,25 @@
+{
+  "id": "wurmwulv_1776986435",
+  "archived_at": "2026-04-23T23:22:18Z",
+  "metadata": {
+    "title": "Wurmwulv",
+    "artist": "Lotus Eaters",
+    "year": "2007",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 3013,
+    "duration_human": "00:50:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Lotus Eaters - [untitled]",
+      "02 Lotus Eaters - [untitled]",
+      "03 Lotus Eaters - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wurmwulv_1776986435"
+    }
+  }
+}
