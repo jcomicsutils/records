@@ -1,0 +1,24 @@
+{
+  "id": "uncrossing-ice-mole_1776916205",
+  "archived_at": "2026-04-23T03:50:50Z",
+  "metadata": {
+    "title": "Uncrossing / Ice Mole",
+    "artist": "House of Low Culture",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1071,
+    "duration_human": "00:17:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mamiffer & House of Low Culture - Uncrossing",
+      "02 Mamiffer & House of Low Culture - Ice Mole"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/uncrossing-ice-mole_1776916205"
+    }
+  }
+}

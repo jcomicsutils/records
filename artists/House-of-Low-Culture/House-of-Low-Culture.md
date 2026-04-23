@@ -6,6 +6,7 @@
 | [Gettin' Sentimental](gettin-sentimental_1776913140/gettin-sentimental_1776913140.md) | 2002 | AAC | 00:24:16 | [IA](https://archive.org/details/gettin-sentimental_1776913140) |
 | [Edward's Lament](edwards-lament_1776912361/edwards-lament_1776912361.md) | 2003 | FLAC | 01:09:40 | [IA](https://archive.org/details/edwards-lament_1776912361) |
 | [Live From the House of Low Temperature!](live-from-the-house-of-low-temperature_1776914436/live-from-the-house-of-low-temperature_1776914436.md) | 2004 | MP3 | 00:21:43 | [IA](https://archive.org/details/live-from-the-house-of-low-temperature_1776914436) |
+| [Uncrossing / Ice Mole](uncrossing-ice-mole_1776916205/uncrossing-ice-mole_1776916205.md) | 2010 | FLAC | 00:17:51 | [IA](https://archive.org/details/uncrossing-ice-mole_1776916205) |
 | [Housing Tracts ‎](housing-tracts_1776913651/housing-tracts_1776913651.md) | 2010 | FLAC | 01:07:46 | [IA](https://archive.org/details/housing-tracts_1776913651) |
 | [Lou Lou... In Tokyo](lou-lou-in-tokyo_1776914505/lou-lou-in-tokyo_1776914505.md) | 2011 | FLAC | 00:46:18 | [IA](https://archive.org/details/lou-lou-in-tokyo_1776914505) |
 | [Poisoned Soil](poisoned-soil_1776915901/poisoned-soil_1776915901.md) | 2011 | FLAC | 00:52:46 | [IA](https://archive.org/details/poisoned-soil_1776915901) |
