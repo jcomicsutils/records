@@ -1,0 +1,23 @@
+{
+  "id": "live-at-presences-electronique-paris-2013_1776983960",
+  "archived_at": "2026-04-23T22:39:53Z",
+  "metadata": {
+    "title": "Live at Presences Électronique Paris 2013",
+    "artist": "KTL",
+    "year": "2013",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 2238,
+    "duration_human": "00:37:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 KTL - Live at Presences Électronique"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-at-presences-electronique-paris-2013_1776983960"
+    }
+  }
+}
