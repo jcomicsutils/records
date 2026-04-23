@@ -1,0 +1,23 @@
+{
+  "id": "the-holy-down_1776909324",
+  "archived_at": "2026-04-23T02:44:53Z",
+  "metadata": {
+    "title": "The Holy Down",
+    "artist": "Gravetemple",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3615,
+    "duration_human": "01:00:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Gravetemple - The Holy Down"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-holy-down_1776909324"
+    }
+  }
+}
