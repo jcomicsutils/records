@@ -1,0 +1,31 @@
+{
+  "id": "edwards-lament_1776912361",
+  "archived_at": "2026-04-23T02:58:58Z",
+  "metadata": {
+    "title": "Edward's Lament",
+    "artist": "House of Low Culture",
+    "year": "2003",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 4180,
+    "duration_human": "01:09:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 House of Low Culture - Edward's Intent",
+      "02 House of Low Culture - Intrmssn_A",
+      "03 House of Low Culture - On the Upswing",
+      "04 House of Low Culture - Intrmssn_B",
+      "05 House of Low Culture - \"...And Now the Man You've All Been Waiting For!\"",
+      "06 House of Low Culture - A Temporary Setback",
+      "07 House of Low Culture - Edward's Lament",
+      "08 House of Low Culture - Off You Go",
+      "09 House of Low Culture - \"Thank You, and Good Night!\""
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/edwards-lament_1776912361"
+    }
+  }
+}
