@@ -11,6 +11,7 @@
 - [Death Ambient](Death-Ambient/Death-Ambient.md)
 - [Ensemble Pearl](Ensemble-Pearl/Ensemble-Pearl.md)
 - [Fungal Hex](Fungal-Hex/Fungal-Hex.md)
+- [Gravetemple](Gravetemple/Gravetemple.md)
 - [Killing Joke](Killing-Joke/Killing-Joke.md)
 - [Noise](Noise/Noise.md)
 - [Peace & Freedom](Peace-&-Freedom/Peace-&-Freedom.md)

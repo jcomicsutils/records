@@ -1,0 +1,26 @@
+{
+  "id": "ambientruin_1776907844",
+  "archived_at": "2026-04-23T01:46:06Z",
+  "metadata": {
+    "title": "Ambient/Ruin",
+    "artist": "Gravetemple",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3270,
+    "duration_human": "00:54:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Gravetemple - Ambient/Ruin A",
+      "02 Gravetemple - Ambient/Ruin B",
+      "03 Gravetemple - Ambient/Ruin C",
+      "04 Gravetemple - Ambient/Ruin D"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ambientruin_1776907844"
+    }
+  }
+}
