@@ -1,0 +1,23 @@
+{
+  "id": "irretrievable_1776914204",
+  "archived_at": "2026-04-23T03:20:34Z",
+  "metadata": {
+    "title": "Irretrievable",
+    "artist": "House of Low Culture",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2017,
+    "duration_human": "00:33:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 House of Low Culture - Irretrievable"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/irretrievable_1776914204"
+    }
+  }
+}
