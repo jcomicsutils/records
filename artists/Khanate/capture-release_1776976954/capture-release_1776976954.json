@@ -1,0 +1,24 @@
+{
+  "id": "capture-release_1776976954",
+  "archived_at": "2026-04-23T20:55:48Z",
+  "metadata": {
+    "title": "Capture & Release",
+    "artist": "Khanate",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2596,
+    "duration_human": "00:43:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Khanate - Capture",
+      "02 Khanate - Release"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/capture-release_1776976954"
+    }
+  }
+}

@@ -14,6 +14,7 @@
 - [Fungal Hex](Fungal-Hex/Fungal-Hex.md)
 - [Gravetemple](Gravetemple/Gravetemple.md)
 - [House of Low Culture](House-of-Low-Culture/House-of-Low-Culture.md)
+- [Khanate](Khanate/Khanate.md)
 - [Killing Joke](Killing-Joke/Killing-Joke.md)
 - [Mamiffer & House Of Low Culture](Mamiffer-&-House-Of-Low-Culture/Mamiffer-&-House-Of-Low-Culture.md)
 - [Noise](Noise/Noise.md)
