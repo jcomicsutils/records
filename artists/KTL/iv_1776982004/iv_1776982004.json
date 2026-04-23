@@ -1,0 +1,28 @@
+{
+  "id": "iv_1776982004",
+  "archived_at": "2026-04-23T22:12:28Z",
+  "metadata": {
+    "title": "IV",
+    "artist": "KTL",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3580,
+    "duration_human": "00:59:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 KTL - Paraug",
+      "02 KTL - Paratrooper",
+      "03 KTL - Wicked Way",
+      "04 KTL - Benbbet",
+      "05 KTL - Eternal Winter",
+      "06 KTL - Natural Trouble"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/iv_1776982004"
+    }
+  }
+}
