@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Submarine Immersion Techniques Vol. 1](submarine-immersion-techniques-vol-1_1776916061/submarine-immersion-techniques-vol-1_1776916061.md) | 2000 | FLAC | 00:48:06 | [IA](https://archive.org/details/submarine-immersion-techniques-vol-1_1776916061) |
 | [Gettin' Sentimental](gettin-sentimental_1776913140/gettin-sentimental_1776913140.md) | 2002 | AAC | 00:24:16 | [IA](https://archive.org/details/gettin-sentimental_1776913140) |
 | [Edward's Lament](edwards-lament_1776912361/edwards-lament_1776912361.md) | 2003 | FLAC | 01:09:40 | [IA](https://archive.org/details/edwards-lament_1776912361) |
 | [Live From the House of Low Temperature!](live-from-the-house-of-low-temperature_1776914436/live-from-the-house-of-low-temperature_1776914436.md) | 2004 | MP3 | 00:21:43 | [IA](https://archive.org/details/live-from-the-house-of-low-temperature_1776914436) |
