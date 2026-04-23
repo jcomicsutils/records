@@ -1,0 +1,27 @@
+{
+  "id": "lou-lou-in-tokyo_1776914505",
+  "archived_at": "2026-04-23T03:43:35Z",
+  "metadata": {
+    "title": "Lou Lou... In Tokyo",
+    "artist": "House of Low Culture",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2778,
+    "duration_human": "00:46:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mamiffer - This Land",
+      "02 Mamiffer - Blanket of Ash",
+      "03 Mamiffer - Iron Water",
+      "04 Mamiffer - Lilac",
+      "05 House of Low Culture & Merzbow - Mole Man"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lou-lou-in-tokyo_1776914505"
+    }
+  }
+}
