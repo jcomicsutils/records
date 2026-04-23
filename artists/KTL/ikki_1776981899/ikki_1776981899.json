@@ -1,0 +1,25 @@
+{
+  "id": "ikki_1776981899",
+  "archived_at": "2026-04-23T22:06:41Z",
+  "metadata": {
+    "title": "IKKI",
+    "artist": "KTL",
+    "year": "2008",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 2195,
+    "duration_human": "00:36:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 KTL - Soba Ghost, Horse, Hells (Bathing in Vulkano Tears)",
+      "02 KTL - Submarine Peanut",
+      "03 KTL - Happy in Nagoya"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ikki_1776981899"
+    }
+  }
+}
