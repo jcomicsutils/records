@@ -1,0 +1,24 @@
+{
+  "id": "eine-eiserne-faust-in-einem-samthandschuh_1776980999",
+  "archived_at": "2026-04-23T21:51:10Z",
+  "metadata": {
+    "title": "Eine eiserne Faust in einem Samthandschuh",
+    "artist": "KTL",
+    "year": "2007",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 3723,
+    "duration_human": "01:02:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 KTL - 20070529 Luminaire, London (Salvage Mix)",
+      "02 KTL - Forest Floor (Filter Mix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/eine-eiserne-faust-in-einem-samthandschuh_1776980999"
+    }
+  }
+}
