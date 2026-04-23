@@ -1,0 +1,25 @@
+{
+  "id": "its-cold-when-birds-fall-from-the-sky_1776978390",
+  "archived_at": "2026-04-23T21:09:35Z",
+  "metadata": {
+    "title": "It's Cold When Birds Fall From the Sky",
+    "artist": "Khanate",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3454,
+    "duration_human": "00:57:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Khanate - Capture",
+      "02 Khanate - Release",
+      "03 Khanate - Pieces of Quiet"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/its-cold-when-birds-fall-from-the-sky_1776978390"
+    }
+  }
+}
