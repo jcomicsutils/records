@@ -22,6 +22,7 @@
 - [Mamiffer & House Of Low Culture](Mamiffer-&-House-Of-Low-Culture/Mamiffer-&-House-Of-Low-Culture.md)
 - [Noise](Noise/Noise.md)
 - [Peace & Freedom](Peace-&-Freedom/Peace-&-Freedom.md)
+- [Pentemple](Pentemple/Pentemple.md)
 - [Sarin](Sarin/Sarin.md)
 - [St. Francis Duo](St.-Francis-Duo/St.-Francis-Duo.md)
 - [Teeth Of Lions Rule The Divine](Teeth-Of-Lions-Rule-The-Divine/Teeth-Of-Lions-Rule-The-Divine.md)

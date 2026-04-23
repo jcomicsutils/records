@@ -1,0 +1,25 @@
+{
+  "id": "o-presents-pentemple_1776987422",
+  "archived_at": "2026-04-23T23:53:26Z",
+  "metadata": {
+    "title": "O))) Presents... Pentemple",
+    "artist": "Pentemple",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4472,
+    "duration_human": "01:14:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Pentemple - Pazuzu 1",
+      "02 Pentemple - Pazuzu 2",
+      "03 Pentemple - Pazuzu 3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/o-presents-pentemple_1776987422"
+    }
+  }
+}
