@@ -1,0 +1,25 @@
+{
+  "id": "khntvsstockholm_1776978759",
+  "archived_at": "2026-04-23T21:17:49Z",
+  "metadata": {
+    "title": "KHNTvsSTOCKHOLM",
+    "artist": "Khanate",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3001,
+    "duration_human": "00:50:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Khanate - Fields",
+      "02 Khanate - Pieces of Quiet",
+      "03 Khanate - Under Rotting Sky"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/khntvsstockholm_1776978759"
+    }
+  }
+}
