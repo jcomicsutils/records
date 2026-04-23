@@ -1,0 +1,26 @@
+{
+  "id": "kindertotenlieder-demos_1776982640",
+  "archived_at": "2026-04-23T22:21:02Z",
+  "metadata": {
+    "title": "Kindertotenlieder Demos",
+    "artist": "KTL",
+    "year": "2006",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 4792,
+    "duration_human": "01:19:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 KTL - High on Resin",
+      "02 KTL - TRZ Ø",
+      "03 KTL - TRZ",
+      "04 KTL - Fast Birthday"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kindertotenlieder-demos_1776982640"
+    }
+  }
+}
