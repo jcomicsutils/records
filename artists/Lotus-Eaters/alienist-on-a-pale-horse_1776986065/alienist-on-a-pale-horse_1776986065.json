@@ -1,0 +1,26 @@
+{
+  "id": "alienist-on-a-pale-horse_1776986065",
+  "archived_at": "2026-04-23T23:16:15Z",
+  "metadata": {
+    "title": "Alienist on a Pale Horse",
+    "artist": "Lotus Eaters",
+    "year": "2001",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1778,
+    "duration_human": "00:29:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Lotus Eaters - [untitled]",
+      "02 Lotus Eaters - [untitled]",
+      "03 Lotus Eaters - [untitled]",
+      "04 Lotus Eaters - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/alienist-on-a-pale-horse_1776986065"
+    }
+  }
+}

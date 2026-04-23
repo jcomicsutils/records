@@ -17,6 +17,7 @@
 - [KTL](KTL/KTL.md)
 - [Khanate](Khanate/Khanate.md)
 - [Killing Joke](Killing-Joke/Killing-Joke.md)
+- [Lotus Eaters](Lotus-Eaters/Lotus-Eaters.md)
 - [Mamiffer & House Of Low Culture](Mamiffer-&-House-Of-Low-Culture/Mamiffer-&-House-Of-Low-Culture.md)
 - [Noise](Noise/Noise.md)
 - [Peace & Freedom](Peace-&-Freedom/Peace-&-Freedom.md)
