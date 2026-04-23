@@ -1,0 +1,25 @@
+{
+  "id": "live-from-the-house-of-low-temperature_1776914436",
+  "archived_at": "2026-04-23T03:21:42Z",
+  "metadata": {
+    "title": "Live From the House of Low Temperature!",
+    "artist": "House of Low Culture",
+    "year": "2004",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 1303,
+    "duration_human": "00:21:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 House of Low Culture - [untitled]",
+      "02 House of Low Culture - [untitled]",
+      "03 House of Low Culture - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-from-the-house-of-low-temperature_1776914436"
+    }
+  }
+}
