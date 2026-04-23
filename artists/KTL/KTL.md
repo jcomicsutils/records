@@ -13,6 +13,7 @@
 | [IKKI](ikki_1776981899/ikki_1776981899.md) | 2008 | MP3 | 00:36:35 | [IA](https://archive.org/details/ikki_1776981899) |
 | [IV](iv_1776982004/iv_1776982004.md) | 2009 | FLAC | 00:59:40 | [IA](https://archive.org/details/iv_1776982004) |
 | [Murnau's L'aurore Live at The Louvre 2010](murnaus-laurore-live-at-the-louvre-2010_1776984122/murnaus-laurore-live-at-the-louvre-2010_1776984122.md) | 2010 | MP3 | 01:43:13 | [IA](https://archive.org/details/murnaus-laurore-live-at-the-louvre-2010_1776984122) |
+| [V Japan Bonus](v-japan-bonus_1776985944/v-japan-bonus_1776985944.md) | 2012 | MP3 | 00:38:54 | [IA](https://archive.org/details/v-japan-bonus_1776985944) |
 | [The Pyre IRCAM Demos Vol. 1](the-pyre-ircam-demos-vol-1_1776984228/the-pyre-ircam-demos-vol-1_1776984228.md) | 2012 | MP3 | 04:23:37 | [IA](https://archive.org/details/the-pyre-ircam-demos-vol-1_1776984228) |
 | [The Pyre IRCAM Demos Vol. 2](the-pyre-ircam-demos-vol-2_1776984350/the-pyre-ircam-demos-vol-2_1776984350.md) | 2012 | MP3 | 01:31:28 | [IA](https://archive.org/details/the-pyre-ircam-demos-vol-2_1776984350) |
 | [V](v_1776985352/v_1776985352.md) | 2012 | FLAC | 01:11:29 | [IA](https://archive.org/details/v_1776985352) |
