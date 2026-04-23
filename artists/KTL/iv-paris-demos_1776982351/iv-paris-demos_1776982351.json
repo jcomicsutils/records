@@ -1,0 +1,26 @@
+{
+  "id": "iv-paris-demos_1776982351",
+  "archived_at": "2026-04-23T22:17:17Z",
+  "metadata": {
+    "title": "IV Paris Demos",
+    "artist": "KTL",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2863,
+    "duration_human": "00:47:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 KTL - Paraug 1 Part 2",
+      "02 KTL - Paraug 1 Part 3",
+      "03 KTL - Benbbet",
+      "04 KTL - Parathird"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/iv-paris-demos_1776982351"
+    }
+  }
+}

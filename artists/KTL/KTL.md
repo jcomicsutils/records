@@ -6,6 +6,7 @@
 | [Eine eiserne Faust in einem Samthandschuh](eine-eiserne-faust-in-einem-samthandschuh_1776980999/eine-eiserne-faust-in-einem-samthandschuh_1776980999.md) | 2007 | MP3 | 01:02:03 | [IA](https://archive.org/details/eine-eiserne-faust-in-einem-samthandschuh_1776980999) |
 | [III](iii_1776981854/iii_1776981854.md) | 2007 | FLAC | 00:18:01 | [IA](https://archive.org/details/iii_1776981854) |
 | [II](ii_1776981322/ii_1776981322.md) | 2007 | FLAC | 01:11:30 | [IA](https://archive.org/details/ii_1776981322) |
+| [IV Paris Demos](iv-paris-demos_1776982351/iv-paris-demos_1776982351.md) | 2008 | FLAC | 00:47:43 | [IA](https://archive.org/details/iv-paris-demos_1776982351) |
 | [IKKI](ikki_1776981899/ikki_1776981899.md) | 2008 | MP3 | 00:36:35 | [IA](https://archive.org/details/ikki_1776981899) |
 | [IV](iv_1776982004/iv_1776982004.md) | 2009 | FLAC | 00:59:40 | [IA](https://archive.org/details/iv_1776982004) |
 | [20190323 Big Ears@Mill and Mine, Knoxville, TN](20190323-big-earsmill-and-mine-knoxville-tn_1776980906/20190323-big-earsmill-and-mine-knoxville-tn_1776980906.md) | 2019 | MP3 | 01:04:00 | [IA](https://archive.org/details/20190323-big-earsmill-and-mine-knoxville-tn_1776980906) |
