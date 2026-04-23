@@ -1,0 +1,27 @@
+{
+  "id": "v_1776985352",
+  "archived_at": "2026-04-23T23:11:38Z",
+  "metadata": {
+    "title": "V",
+    "artist": "KTL",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 4289,
+    "duration_human": "01:11:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 KTL - Phill 1",
+      "02 KTL - Study A",
+      "03 KTL - Tony",
+      "04 KTL - Phill 2",
+      "05 KTL - Last Spring: A Prequel"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/v_1776985352"
+    }
+  }
+}
