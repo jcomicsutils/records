@@ -1,0 +1,26 @@
+{
+  "id": "live-at-roadburn-2010_1776988711",
+  "archived_at": "2026-04-24T00:06:45Z",
+  "metadata": {
+    "title": "Live at Roadburn 2010",
+    "artist": "Thorr's Hammer",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2523,
+    "duration_human": "00:42:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Thorr's Hammer - Norge",
+      "02 Thorr's Hammer - Aasgaardsreien",
+      "03 Thorr's Hammer - Troll",
+      "04 Thorr's Hammer - Dommedagsnatt"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-at-roadburn-2010_1776988711"
+    }
+  }
+}
