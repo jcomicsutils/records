@@ -1,0 +1,27 @@
+{
+  "id": "vii_1776997492",
+  "archived_at": "2026-04-24T02:39:14Z",
+  "metadata": {
+    "title": "VII",
+    "artist": "KTL",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2670,
+    "duration_human": "00:44:30",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 KTL - The Director",
+      "02 KTL - Silver Lining",
+      "03 KTL - Lee's Garlic",
+      "04 KTL - Tea With Kali",
+      "05 KTL - Frostless"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vii_1776997492"
+    }
+  }
+}
