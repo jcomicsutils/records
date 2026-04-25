@@ -1,0 +1,37 @@
+{
+  "id": "the-grimm-robe-demos_1777153887",
+  "archived_at": "2026-04-25T21:54:58Z",
+  "metadata": {
+    "title": "The Grimm Robe Demos",
+    "artist": "Sunn O)))",
+    "year": "1999",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4345,
+    "duration_human": "01:12:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 SUNN O))) - Black Wedding",
+      "02 SUNN O))) - Defeating Earths's Gravity",
+      "03 SUNN O))) - Dylan Carlson",
+      "04 SUNN O))) - Grimm & Bear It"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-grimm-robe-demos_1777153887"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/93qmi2.001"
+        },
+        {
+          "url": "https://files.catbox.moe/04y4nd.002"
+        }
+      ]
+    }
+  }
+}
