@@ -26,6 +26,7 @@
 - [Pentemple](Pentemple/Pentemple.md)
 - [Sarin](Sarin/Sarin.md)
 - [St. Francis Duo](St.-Francis-Duo/St.-Francis-Duo.md)
+- [Stephen O'Malley](Stephen-O'Malley/Stephen-O'Malley.md)
 - [Teeth Of Lions Rule The Divine](Teeth-Of-Lions-Rule-The-Divine/Teeth-Of-Lions-Rule-The-Divine.md)
 - [The Runners From 1984](The-Runners-From-1984/The-Runners-From-1984.md)
 - [Thorr's Hammer](Thorr's-Hammer/Thorr's-Hammer.md)
