@@ -1,0 +1,24 @@
+{
+  "id": "25th-anniversary-rehearsal-demo_1777135047",
+  "archived_at": "2026-04-25T16:48:29Z",
+  "metadata": {
+    "title": "25th Anniversary Rehearsal Demo",
+    "artist": "Sunn O)))",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2333,
+    "duration_human": "00:38:53",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sunn O))) - Wyoming Big Sky",
+      "02 Sunn O))) - Acres of Calms"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/25th-anniversary-rehearsal-demo_1777135047"
+    }
+  }
+}
