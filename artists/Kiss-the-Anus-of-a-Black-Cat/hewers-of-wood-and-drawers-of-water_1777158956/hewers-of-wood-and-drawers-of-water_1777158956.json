@@ -1,0 +1,42 @@
+{
+  "id": "hewers-of-wood-and-drawers-of-water_1777158956",
+  "archived_at": "2026-04-25T23:19:15Z",
+  "metadata": {
+    "title": "Hewers of Wood and Drawers of Water",
+    "artist": "Kiss the Anus of a Black Cat",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2354,
+    "duration_human": "00:39:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kiss the Anus of a Black Cat - Hewers of Wood and Drawers of Water",
+      "02 Kiss the Anus of a Black Cat - All Your Ghosts Are Worried",
+      "03 Kiss the Anus of a Black Cat - Argonaut and Magneto",
+      "04 Kiss the Anus of a Black Cat - Harrow",
+      "05 Kiss the Anus of a Black Cat - Veneration",
+      "06 Kiss the Anus of a Black Cat - Taking the Auspices",
+      "07 Kiss the Anus of a Black Cat - Feathers of the Wings of the Angel Gabriel",
+      "08 Kiss the Anus of a Black Cat - All the Heroes Run in Armour",
+      "09 Kiss the Anus of a Black Cat - Wander or Waiver"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hewers-of-wood-and-drawers-of-water_1777158956"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/z60eta.001"
+        },
+        {
+          "url": "https://files.catbox.moe/r4jwpr.002"
+        }
+      ]
+    }
+  }
+}
