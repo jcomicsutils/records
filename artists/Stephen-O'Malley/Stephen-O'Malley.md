@@ -18,6 +18,7 @@
 | [Bima Sakti](bima-sakti_1777086370/bima-sakti_1777086370.md) | 2020 | FLAC | 00:43:03 | [IA](https://archive.org/details/bima-sakti_1777086370) |
 | [Géante 4](geante-4_1777088593/geante-4_1777088593.md) | 2020 | FLAC | 00:25:21 | [IA](https://archive.org/details/geante-4_1777088593) |
 | [Auﬂösung der Zeit](auflosung-der-zeit_1777086213/auflosung-der-zeit_1777086213.md) | 2020 | FLAC | 00:43:52 | [IA](https://archive.org/details/auflosung-der-zeit_1777086213) |
+| [Öst-Väst Sommaren](ost-vast-sommaren_1777089239/ost-vast-sommaren_1777089239.md) | 2021 | FLAC | 00:19:59 | [IA](https://archive.org/details/ost-vast-sommaren_1777089239) |
 | [Cylene Suisse Redux](cylene-suisse-redux_1777087686/cylene-suisse-redux_1777087686.md) | 2021 | FLAC | 00:36:51 | [IA](https://archive.org/details/cylene-suisse-redux_1777087686) |
 | [Cylene II](cylene-ii_1777087459/cylene-ii_1777087459.md) | 2023 | FLAC | 00:46:57 | [IA](https://archive.org/details/cylene-ii_1777087459) |
 | [But Remember What You Have Had](but-remember-what-you-have-had_1777086573/but-remember-what-you-have-had_1777086573.md) | 2025 | FLAC | 00:32:39 | [IA](https://archive.org/details/but-remember-what-you-have-had_1777086573) |
