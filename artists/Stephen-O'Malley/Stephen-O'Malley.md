@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [6°Fskyquake](6degfskyquake_1777085150/6degfskyquake_1777085150.md) | 2008 | FLAC | 00:33:41 | [IA](https://archive.org/details/6degfskyquake_1777085150) |
+| [Keep an Eye Out](keep-an-eye-out_1777089006/keep-an-eye-out_1777089006.md) | 2009 | MP3 | 00:12:07 | [IA](https://archive.org/details/keep-an-eye-out_1777089006) |
 | [Cocon & Oiseau De Nuit](cocon-oiseau-de-nuit_1777087187/cocon-oiseau-de-nuit_1777087187.md) | 2010 | MP3 | 00:41:33 | [IA](https://archive.org/details/cocon-oiseau-de-nuit_1777087187) |
 | [Fuck Fundamentalist Pigs](fuck-fundamentalist-pigs_1777088505/fuck-fundamentalist-pigs_1777088505.md) | 2015 | FLAC | 01:01:40 | [IA](https://archive.org/details/fuck-fundamentalist-pigs_1777088505) |
 | [Gruidés](gruides_1777088878/gruides_1777088878.md) | 2015 | MP3 | 00:34:26 | [IA](https://archive.org/details/gruides_1777088878) |
