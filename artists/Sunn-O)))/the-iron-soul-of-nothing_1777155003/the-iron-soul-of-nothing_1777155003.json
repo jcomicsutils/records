@@ -1,0 +1,37 @@
+{
+  "id": "the-iron-soul-of-nothing_1777155003",
+  "archived_at": "2026-04-25T22:32:27Z",
+  "metadata": {
+    "title": "The Iron Soul of Nothing",
+    "artist": "Sunn O)))",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3930,
+    "duration_human": "01:05:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 SUNN O))), Nurse With Wound - Dysnystaxis (...A Chance Meeting With Somnus)",
+      "02 SUNN O))), Nurse With Wound - Ra at Dawn, Pt. 1 (Rapture, at Last)",
+      "03 SUNN O))), Nurse With Wound - Ash on the Trees (The Sudden Ebb of a Diatribe)",
+      "04 SUNN O))), Nurse With Wound - Ra at Dawn, Pt. 2 (Numbed by Her Light)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-iron-soul-of-nothing_1777155003"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/dqb8ad.001"
+        },
+        {
+          "url": "https://files.catbox.moe/q7dgux.002"
+        }
+      ]
+    }
+  }
+}
