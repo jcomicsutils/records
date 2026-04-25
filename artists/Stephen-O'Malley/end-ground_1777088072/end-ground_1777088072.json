@@ -1,0 +1,24 @@
+{
+  "id": "end-ground_1777088072",
+  "archived_at": "2026-04-25T03:36:36Z",
+  "metadata": {
+    "title": "End Ground",
+    "artist": "Stephen O'Malley",
+    "year": "2016",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1831,
+    "duration_human": "00:30:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Stephen O'Malley - [untitled]",
+      "02 Stephen O'Malley - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/end-ground_1777088072"
+    }
+  }
+}
