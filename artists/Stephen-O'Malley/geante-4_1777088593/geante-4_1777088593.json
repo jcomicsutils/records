@@ -1,0 +1,24 @@
+{
+  "id": "geante-4_1777088593",
+  "archived_at": "2026-04-25T03:47:56Z",
+  "metadata": {
+    "title": "Géante 4",
+    "artist": "Stephen O'Malley",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1521,
+    "duration_human": "00:25:21",
+    "sampling_rate": "88.2kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Stephen O'Malley - Géante 4 (4 Layer Mix)",
+      "02 Stephen O'Malley - Géante 4 (5 Layer Mix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/geante-4_1777088593"
+    }
+  }
+}
