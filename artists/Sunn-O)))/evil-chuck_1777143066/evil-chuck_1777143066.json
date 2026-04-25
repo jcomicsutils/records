@@ -1,0 +1,24 @@
+{
+  "id": "evil-chuck_1777143066",
+  "archived_at": "2026-04-25T18:55:34Z",
+  "metadata": {
+    "title": "Evil Chuck",
+    "artist": "Sunn O)))",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 691,
+    "duration_human": "00:11:31",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 SUNN O))) - Evil Chuck",
+      "02 SUNN O))) - Ron G. Warrior"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/evil-chuck_1777143066"
+    }
+  }
+}

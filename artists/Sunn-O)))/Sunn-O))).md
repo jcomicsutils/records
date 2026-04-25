@@ -16,4 +16,5 @@
 | [606_LM Preproduction 290618](606-lm-preproduction-290618_1777136629/606-lm-preproduction-290618_1777136629.md) | 2020 | FLAC | 01:25:30 | [IA](https://archive.org/details/606-lm-preproduction-290618_1777136629) |
 | [606_LM Preproduction 270618](606-lm-preproduction-270618_1777135711/606-lm-preproduction-270618_1777135711.md) | 2020 | FLAC | 01:35:31 | [IA](https://archive.org/details/606-lm-preproduction-270618_1777135711) |
 | [25th Anniversary Rehearsal Demo](25th-anniversary-rehearsal-demo_1777135047/25th-anniversary-rehearsal-demo_1777135047.md) | 2023 | FLAC | 00:38:53 | [IA](https://archive.org/details/25th-anniversary-rehearsal-demo_1777135047) |
+| [Evil Chuck](evil-chuck_1777143066/evil-chuck_1777143066.md) | 2023 | FLAC | 00:11:31 | [IA](https://archive.org/details/evil-chuck_1777143066) |
 | [Eternity's Pillars / Raise the Chalice & Reverential](eternitys-pillars-raise-the-chalice-reverential_1777141587/eternitys-pillars-raise-the-chalice-reverential_1777141587.md) | 2025 | FLAC | 00:29:42 | [IA](https://archive.org/details/eternitys-pillars-raise-the-chalice-reverential_1777141587) |
