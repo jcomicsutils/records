@@ -1,0 +1,37 @@
+{
+  "id": "white1_1777156981",
+  "archived_at": "2026-04-25T22:52:29Z",
+  "metadata": {
+    "title": "White1",
+    "artist": "Sunn O)))",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4507,
+    "duration_human": "01:15:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 SUNN O))) - My Wall",
+      "02 SUNN O))) - The Gates of Ballard",
+      "03 SUNN O))) - A Shaving of the Horn That Speared You",
+      "04 SUNN O))) - Cut Wooded"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/white1_1777156981"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/odjky8.001"
+        },
+        {
+          "url": "https://files.catbox.moe/gmcs9b.002"
+        }
+      ]
+    }
+  }
+}
