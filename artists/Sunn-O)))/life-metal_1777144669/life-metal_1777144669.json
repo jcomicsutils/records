@@ -1,0 +1,26 @@
+{
+  "id": "life-metal_1777144669",
+  "archived_at": "2026-04-25T19:26:21Z",
+  "metadata": {
+    "title": "Life Metal",
+    "artist": "Sunn O)))",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4135,
+    "duration_human": "01:08:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 SUNN O))) - Between Sleipnir's Breaths",
+      "02 SUNN O))) - Troubled Air",
+      "03 SUNN O))) - Aurora",
+      "04 SUNN O))) - Novae"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/life-metal_1777144669"
+    }
+  }
+}
