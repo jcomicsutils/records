@@ -1,0 +1,24 @@
+{
+  "id": "at-the-grm-paris-performed-by-stephen-omalley_1777085398",
+  "archived_at": "2026-04-25T03:03:31Z",
+  "metadata": {
+    "title": "At the GRM Paris (Performed by Stephen O’Malley)",
+    "artist": "Stephen O'Malley",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4543,
+    "duration_human": "01:15:43",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Stephen O'Malley, Iancu Dumitrescu, Ana Maria Avram - Crepescule",
+      "02 Stephen O'Malley, Iancu Dumitrescu, Ana Maria Avram - MetalStorm"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/at-the-grm-paris-performed-by-stephen-omalley_1777085398"
+    }
+  }
+}
