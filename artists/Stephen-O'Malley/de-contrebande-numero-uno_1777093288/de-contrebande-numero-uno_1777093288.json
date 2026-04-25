@@ -1,0 +1,26 @@
+{
+  "id": "de-contrebande-numero-uno_1777093288",
+  "archived_at": "2026-04-25T05:16:50Z",
+  "metadata": {
+    "title": "De contrebande numéro uno",
+    "artist": "Stephen O'Malley",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3393,
+    "duration_human": "00:56:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Stephen O'Malley - Première partie",
+      "02 Stephen O'Malley - Seconde partie",
+      "03 Stephen O'Malley - Troisième partie",
+      "04 Stephen O'Malley - Quatrième partie"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/de-contrebande-numero-uno_1777093288"
+    }
+  }
+}
