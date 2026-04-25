@@ -1,0 +1,26 @@
+{
+  "id": "troubled-air_1777156349",
+  "archived_at": "2026-04-25T22:34:24Z",
+  "metadata": {
+    "title": "Troubled Air",
+    "artist": "Sunn O)))",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 705,
+    "duration_human": "00:11:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 SUNN O))) - Troubled Air"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/troubled-air_1777156349"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/xf4qh4.tar"
+    }
+  }
+}
