@@ -1,0 +1,38 @@
+{
+  "id": "akasa-dhatu_1777150207",
+  "archived_at": "2026-04-25T20:56:32Z",
+  "metadata": {
+    "title": "Ākāsa-Dhātu",
+    "artist": "Stephen O'Malley",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 4958,
+    "duration_human": "01:22:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Stephen O'Malley - Aurore",
+      "02 Stephen O'Malley - L'aube",
+      "03 Stephen O'Malley - Nom",
+      "04 Stephen O'Malley - Prénom",
+      "05 Stephen O'Malley - Anantākāsa"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/akasa-dhatu_1777150207"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/nnz59j.001"
+        },
+        {
+          "url": "https://files.catbox.moe/fchjqs.002"
+        }
+      ]
+    }
+  }
+}
