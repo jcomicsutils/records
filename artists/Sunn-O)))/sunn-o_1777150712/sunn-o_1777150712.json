@@ -1,0 +1,28 @@
+{
+  "id": "sunn-o_1777150712",
+  "archived_at": "2026-04-25T21:45:35Z",
+  "metadata": {
+    "title": "Sunn O)))",
+    "artist": "Sunn O)))",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 4777,
+    "duration_human": "01:19:37",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 SUNN O))) - Xxann",
+      "02 SUNN O))) - Does Anyone Hear Like Venom?",
+      "03 SUNN O))) - Butch's Guns",
+      "04 SUNN O))) - Mindrolling",
+      "05 SUNN O))) - Everett Moses",
+      "06 SUNN O))) - Glory Black"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sunn-o_1777150712"
+    }
+  }
+}

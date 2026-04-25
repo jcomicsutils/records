@@ -32,3 +32,4 @@
 | [25th Anniversary Rehearsal Demo](25th-anniversary-rehearsal-demo_1777135047/25th-anniversary-rehearsal-demo_1777135047.md) | 2023 | FLAC | 00:38:53 | [IA](https://archive.org/details/25th-anniversary-rehearsal-demo_1777135047) |
 | [Evil Chuck](evil-chuck_1777143066/evil-chuck_1777143066.md) | 2023 | FLAC | 00:11:31 | [IA](https://archive.org/details/evil-chuck_1777143066) |
 | [Eternity's Pillars / Raise the Chalice & Reverential](eternitys-pillars-raise-the-chalice-reverential_1777141587/eternitys-pillars-raise-the-chalice-reverential_1777141587.md) | 2025 | FLAC | 00:29:42 | [IA](https://archive.org/details/eternitys-pillars-raise-the-chalice-reverential_1777141587) |
+| [Sunn O)))](sunn-o_1777150712/sunn-o_1777150712.md) | 2026 | FLAC | 01:19:37 | [IA](https://archive.org/details/sunn-o_1777150712) |
