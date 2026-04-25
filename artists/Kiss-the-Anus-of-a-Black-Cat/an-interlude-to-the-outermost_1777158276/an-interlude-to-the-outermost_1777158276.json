@@ -1,0 +1,42 @@
+{
+  "id": "an-interlude-to-the-outermost_1777158276",
+  "archived_at": "2026-04-25T23:15:54Z",
+  "metadata": {
+    "title": "An Interlude to the Outermost",
+    "artist": "Kiss the Anus of a Black Cat",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3077,
+    "duration_human": "00:51:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kiss the Anus of a Black Cat - Prelude (\"The World is in Fear Again and It Has All Been Manufactured.\")",
+      "02 Kiss the Anus of a Black Cat - The Firesky",
+      "03 Kiss the Anus of a Black Cat - A Scatterbrain Sings of Christians and the Ghoul Bares Teeth",
+      "04 Kiss the Anus of a Black Cat - The Cranes Are Scared of Sunwords",
+      "05 Kiss the Anus of a Black Cat - Salt",
+      "06 Kiss the Anus of a Black Cat - You Will Reap a Whirlwind",
+      "07 Kiss the Anus of a Black Cat - Beyond the Tanarian Hills",
+      "08 Kiss the Anus of a Black Cat - Cornflowers for Our Brothers",
+      "09 Kiss the Anus of a Black Cat - All Movements Are Targets in the Minds of Tigers"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/an-interlude-to-the-outermost_1777158276"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/9r8k5q.001"
+        },
+        {
+          "url": "https://files.catbox.moe/ip7vtp.002"
+        }
+      ]
+    }
+  }
+}

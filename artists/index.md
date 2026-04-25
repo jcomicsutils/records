@@ -18,6 +18,7 @@
 - [KTL](KTL/KTL.md)
 - [Khanate](Khanate/Khanate.md)
 - [Killing Joke](Killing-Joke/Killing-Joke.md)
+- [Kiss the Anus of a Black Cat](Kiss-the-Anus-of-a-Black-Cat/Kiss-the-Anus-of-a-Black-Cat.md)
 - [Lotus Eaters](Lotus-Eaters/Lotus-Eaters.md)
 - [Love's Holiday Orchestra](Love's-Holiday-Orchestra/Love's-Holiday-Orchestra.md)
 - [Mamiffer & House Of Low Culture](Mamiffer-&-House-Of-Low-Culture/Mamiffer-&-House-Of-Low-Culture.md)
