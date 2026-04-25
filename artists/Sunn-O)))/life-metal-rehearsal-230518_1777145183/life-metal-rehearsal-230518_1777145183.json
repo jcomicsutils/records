@@ -1,0 +1,29 @@
+{
+  "id": "life-metal-rehearsal-230518_1777145183",
+  "archived_at": "2026-04-25T19:34:22Z",
+  "metadata": {
+    "title": "Life Metal Rehearsal 230518",
+    "artist": "Sunn O)))",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 4900,
+    "duration_human": "01:21:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sunn O))) - Rat Eater 230518",
+      "02 Sunn O))) - Indio Amor 230518",
+      "03 Sunn O))) - MountLakeTerrace1993 230518",
+      "04 Sunn O))) - Pyroclasts 230518",
+      "05 Sunn O))) - Rat Eater Riff 1 230518",
+      "06 Sunn O))) - Rat Eater Riff 2 230518",
+      "07 Sunn O))) - Rat Eater Riff 3 230518"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/life-metal-rehearsal-230518_1777145183"
+    }
+  }
+}
