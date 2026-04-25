@@ -1,0 +1,40 @@
+{
+  "id": "white2_1777157551",
+  "archived_at": "2026-04-25T23:04:34Z",
+  "metadata": {
+    "title": "White2",
+    "artist": "Sunn O)))",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 5273,
+    "duration_human": "01:27:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 SUNN O))) - Hell-O))) - Ween",
+      "02 SUNN O))) - Bassaliens",
+      "03 SUNN O))) - Decay2 (Nihils' Maw)",
+      "04 SUNN O))) - Decay (The Symptoms of Kali Yuga)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/white2_1777157551"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/46fq1q.001"
+        },
+        {
+          "url": "https://files.catbox.moe/2y5kow.002"
+        },
+        {
+          "url": "https://files.catbox.moe/ubuyu5.003"
+        }
+      ]
+    }
+  }
+}

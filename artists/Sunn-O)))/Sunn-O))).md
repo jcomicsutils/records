@@ -5,6 +5,7 @@
 | [The Grimm Robe Demos](the-grimm-robe-demos_1777153887/the-grimm-robe-demos_1777153887.md) | 1999 | FLAC | 01:12:25 | [IA](https://archive.org/details/the-grimm-robe-demos_1777153887) [Catbox ×2](the-grimm-robe-demos_1777153887/the-grimm-robe-demos_1777153887.md) |
 | [ØØ Void](oo-void_1777148215/oo-void_1777148215.md) | 2000 | FLAC | 00:58:34 | [IA](https://archive.org/details/oo-void_1777148215) |
 | [Flight of the Behemoth](flight-of-the-behemoth_1777143336/flight-of-the-behemoth_1777143336.md) | 2002 | FLAC | 00:51:29 | [IA](https://archive.org/details/flight-of-the-behemoth_1777143336) |
+| [White2](white2_1777157551/white2_1777157551.md) | 2004 | FLAC | 01:27:53 | [IA](https://archive.org/details/white2_1777157551) [Catbox ×3](white2_1777157551/white2_1777157551.md) |
 | [CroMonolithic Remixes for an Iron Age](cromonolithic-remixes-for-an-iron-age_1777139055/cromonolithic-remixes-for-an-iron-age_1777139055.md) | 2004 | FLAC | 00:28:25 | [IA](https://archive.org/details/cromonolithic-remixes-for-an-iron-age_1777139055) |
 | [Black One](black-one_1777138180/black-one_1777138180.md) | 2005 | FLAC | 01:07:11 | [IA](https://archive.org/details/black-one_1777138180) |
 | [Angel Coma](angel-coma_1777137860/angel-coma_1777137860.md) | 2006 | MP3 | 00:29:47 | [IA](https://archive.org/details/angel-coma_1777137860) |
