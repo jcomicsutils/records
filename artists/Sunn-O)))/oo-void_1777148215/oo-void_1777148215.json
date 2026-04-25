@@ -1,0 +1,26 @@
+{
+  "id": "oo-void_1777148215",
+  "archived_at": "2026-04-25T20:18:57Z",
+  "metadata": {
+    "title": "ØØ Void",
+    "artist": "Sunn O)))",
+    "year": "2000",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3514,
+    "duration_human": "00:58:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 SUNN O))) - Richard",
+      "02 SUNN O))) - NN O)))",
+      "03 SUNN O))) - Rabbits' Revenge",
+      "04 SUNN O))) - Ra at Dusk"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/oo-void_1777148215"
+    }
+  }
+}
