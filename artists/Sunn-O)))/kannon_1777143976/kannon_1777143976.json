@@ -1,0 +1,25 @@
+{
+  "id": "kannon_1777143976",
+  "archived_at": "2026-04-25T19:14:14Z",
+  "metadata": {
+    "title": "Kannon",
+    "artist": "Sunn O)))",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2005,
+    "duration_human": "00:33:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 SUNN O))) - Kannon1",
+      "02 SUNN O))) - Kannon2",
+      "03 SUNN O))) - Kannon3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kannon_1777143976"
+    }
+  }
+}
