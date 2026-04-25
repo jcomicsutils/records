@@ -1,0 +1,37 @@
+{
+  "id": "if-the-sky-falls-we-shall-catch-larks_1777159157",
+  "archived_at": "2026-04-25T23:23:10Z",
+  "metadata": {
+    "title": "If the Sky Falls, We Shall Catch Larks",
+    "artist": "Kiss the Anus of a Black Cat",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2341,
+    "duration_human": "00:39:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kiss the Anus of a Black Cat - Sevenfold",
+      "02 Kiss the Anus of a Black Cat - Nihil, as in Nihilism",
+      "03 Kiss the Anus of a Black Cat - Sighing, Seething, Soothing",
+      "04 Kiss the Anus of a Black Cat - Almost, Silver"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/if-the-sky-falls-we-shall-catch-larks_1777159157"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/y4zrd9.001"
+        },
+        {
+          "url": "https://files.catbox.moe/o16fkt.002"
+        }
+      ]
+    }
+  }
+}
