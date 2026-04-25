@@ -1,0 +1,27 @@
+{
+  "id": "flight-of-the-behemoth_1777143336",
+  "archived_at": "2026-04-25T19:06:14Z",
+  "metadata": {
+    "title": "Flight of the Behemoth",
+    "artist": "Sunn O)))",
+    "year": "2002",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3089,
+    "duration_human": "00:51:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 SUNN O))) - Mocking Solemnity",
+      "02 SUNN O))) - Death Becomes You",
+      "03 SUNN O))) - O))) Bow 1",
+      "04 SUNN O))) - O))) Bow 2",
+      "05 SUNN O))) - FWTBT"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/flight-of-the-behemoth_1777143336"
+    }
+  }
+}
