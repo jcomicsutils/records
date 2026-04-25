@@ -19,6 +19,7 @@
 | [Kannon](kannon_1777143976/kannon_1777143976.md) | 2015 | FLAC | 00:33:25 | [IA](https://archive.org/details/kannon_1777143976) |
 | [Downtown LA Rehearsal / Rifftape March 1998](downtown-la-rehearsal-rifftape-march-1998_1777141264/downtown-la-rehearsal-rifftape-march-1998_1777141264.md) | 2018 | FLAC | 00:33:02 | [IA](https://archive.org/details/downtown-la-rehearsal-rifftape-march-1998_1777141264) |
 | [Life Metal](life-metal_1777144669/life-metal_1777144669.md) | 2019 | FLAC | 01:08:55 | [IA](https://archive.org/details/life-metal_1777144669) |
+| [Pyroclasts](pyroclasts_1777148653/pyroclasts_1777148653.md) | 2019 | FLAC | 00:43:58 | [IA](https://archive.org/details/pyroclasts_1777148653) |
 | [606_LM Preproduction 280618](606-lm-preproduction-280618_1777135964/606-lm-preproduction-280618_1777135964.md) | 2020 | FLAC | 01:53:05 | [IA](https://archive.org/details/606-lm-preproduction-280618_1777135964) |
 | [606_LM Preproduction 290618](606-lm-preproduction-290618_1777136629/606-lm-preproduction-290618_1777136629.md) | 2020 | FLAC | 01:25:30 | [IA](https://archive.org/details/606-lm-preproduction-290618_1777136629) |
 | [606_LM Preproduction 270618](606-lm-preproduction-270618_1777135711/606-lm-preproduction-270618_1777135711.md) | 2020 | FLAC | 01:35:31 | [IA](https://archive.org/details/606-lm-preproduction-270618_1777135711) |

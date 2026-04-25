@@ -1,0 +1,26 @@
+{
+  "id": "pyroclasts_1777148653",
+  "archived_at": "2026-04-25T20:42:58Z",
+  "metadata": {
+    "title": "Pyroclasts",
+    "artist": "Sunn O)))",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2638,
+    "duration_human": "00:43:58",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 SUNN O))) - Frost (C)",
+      "02 SUNN O))) - Kingdoms (G)",
+      "03 SUNN O))) - Ampliphædies (E)",
+      "04 SUNN O))) - Ascension (A)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pyroclasts_1777148653"
+    }
+  }
+}
