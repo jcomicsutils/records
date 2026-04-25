@@ -1,0 +1,29 @@
+{
+  "id": "black-one_1777138180",
+  "archived_at": "2026-04-25T17:35:44Z",
+  "metadata": {
+    "title": "Black One",
+    "artist": "Sunn O)))",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 4031,
+    "duration_human": "01:07:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 SUNN O))) - Sin Nanna",
+      "02 SUNN O))) - It Took the Night to Believe",
+      "03 SUNN O))) - Cursed Realms (Of the Winterdemons)",
+      "04 SUNN O))) - Orthodox Caveman",
+      "05 SUNN O))) - Candle Goat",
+      "06 SUNN O))) - Cry for the Weeper",
+      "07 SUNN O))) - Báthory Erzsébet"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/black-one_1777138180"
+    }
+  }
+}

@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Black One](black-one_1777138180/black-one_1777138180.md) | 2005 | FLAC | 01:07:11 | [IA](https://archive.org/details/black-one_1777138180) |
 | [Angel Coma](angel-coma_1777137860/angel-coma_1777137860.md) | 2006 | MP3 | 00:29:47 | [IA](https://archive.org/details/angel-coma_1777137860) |
 | [Altar](altar_1777137742/altar_1777137742.md) | 2009 | FLAC | 00:53:44 | [IA](https://archive.org/details/altar_1777137742) |
 | [Angel Coma](angel-coma_1777137910/angel-coma_1777137910.md) | 2013 | FLAC | 00:26:26 | [IA](https://archive.org/details/angel-coma_1777137910) |
