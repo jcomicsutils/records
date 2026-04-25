@@ -1,0 +1,25 @@
+{
+  "id": "rehearsal-demo-nov-11-2011_1777149780",
+  "archived_at": "2026-04-25T20:45:06Z",
+  "metadata": {
+    "title": "Rehearsal Demo Nov 11 2011",
+    "artist": "Sunn O)))",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2173,
+    "duration_human": "00:36:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sunn O))) - Holy Water",
+      "02 Sunn O))) - Peacock Angel",
+      "03 Sunn O))) - Power Nurse"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rehearsal-demo-nov-11-2011_1777149780"
+    }
+  }
+}

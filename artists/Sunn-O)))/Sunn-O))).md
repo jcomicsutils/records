@@ -12,6 +12,7 @@
 | [Domkirke (Live)](domkirke-live_1777139898/domkirke-live_1777139898.md) | 2009 | FLAC | 01:05:38 | [IA](https://archive.org/details/domkirke-live_1777139898) |
 | [Altar](altar_1777137742/altar_1777137742.md) | 2009 | FLAC | 00:53:44 | [IA](https://archive.org/details/altar_1777137742) |
 | [Monoliths and Dimensions](monoliths-and-dimensions_1777147751/monoliths-and-dimensions_1777147751.md) | 2009 | FLAC | 00:53:39 | [IA](https://archive.org/details/monoliths-and-dimensions_1777147751) |
+| [Rehearsal Demo Nov 11 2011](rehearsal-demo-nov-11-2011_1777149780/rehearsal-demo-nov-11-2011_1777149780.md) | 2012 | FLAC | 00:36:13 | [IA](https://archive.org/details/rehearsal-demo-nov-11-2011_1777149780) |
 | [Candlewolff ov Thee Golden Chalice](candlewolff-ov-thee-golden-chalice_1777138546/candlewolff-ov-thee-golden-chalice_1777138546.md) | 2013 | FLAC | 00:19:26 | [IA](https://archive.org/details/candlewolff-ov-thee-golden-chalice_1777138546) |
 | [Angel Coma](angel-coma_1777137910/angel-coma_1777137910.md) | 2013 | FLAC | 00:26:26 | [IA](https://archive.org/details/angel-coma_1777137910) |
 | [LA Reh 012](la-reh-012_1777144456/la-reh-012_1777144456.md) | 2014 | FLAC | 00:38:29 | [IA](https://archive.org/details/la-reh-012_1777144456) |
