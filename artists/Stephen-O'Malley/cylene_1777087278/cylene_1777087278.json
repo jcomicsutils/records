@@ -1,0 +1,29 @@
+{
+  "id": "cylene_1777087278",
+  "archived_at": "2026-04-25T03:24:17Z",
+  "metadata": {
+    "title": "Cylene",
+    "artist": "Stephen O'Malley",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3294,
+    "duration_human": "00:54:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 François J. Bonnet, Stephen O'Malley - Première noire",
+      "02 François J. Bonnet, Stephen O'Malley - Erosion Always Wins",
+      "03 François J. Bonnet, Stephen O'Malley - Pāhoehoe",
+      "04 François J. Bonnet, Stephen O'Malley - Deuxième noire",
+      "05 François J. Bonnet, Stephen O'Malley - Tephras",
+      "06 François J. Bonnet, Stephen O'Malley - Dernières teintes noires",
+      "07 François J. Bonnet, Stephen O'Malley - Des pas dans les cendres"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cylene_1777087278"
+    }
+  }
+}
