@@ -1,0 +1,26 @@
+{
+  "id": "domkirke-live_1777139898",
+  "archived_at": "2026-04-25T18:21:02Z",
+  "metadata": {
+    "title": "Domkirke (Live)",
+    "artist": "Sunn O)))",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3938,
+    "duration_human": "01:05:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 SUNN O))) - Why Dost Thou Hide Thyself in Clouds? (Live)",
+      "02 SUNN O))) - Cannon (Live)",
+      "03 SUNN O))) - Cymatics (Live)",
+      "04 SUNN O))) - Masks the Aetmospheres (Live)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/domkirke-live_1777139898"
+    }
+  }
+}
