@@ -1,0 +1,24 @@
+{
+  "id": "angel-coma_1777137860",
+  "archived_at": "2026-04-25T17:25:08Z",
+  "metadata": {
+    "title": "Angel Coma",
+    "artist": "Sunn O)))",
+    "year": "2006",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1787,
+    "duration_human": "00:29:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Sunn O))) - Coma Mirror",
+      "02 Earth - A Plague of Angels"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/angel-coma_1777137860"
+    }
+  }
+}
