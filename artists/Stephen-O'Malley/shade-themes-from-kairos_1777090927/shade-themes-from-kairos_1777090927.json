@@ -1,0 +1,27 @@
+{
+  "id": "shade-themes-from-kairos_1777090927",
+  "archived_at": "2026-04-25T04:30:58Z",
+  "metadata": {
+    "title": "Shade Themes From Kairos",
+    "artist": "Stephen O'Malley",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 4064,
+    "duration_human": "01:07:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Ambarchi / O'Malley / Dunn - That Space Between",
+      "02 Ambarchi / O'Malley / Dunn - Temporal, Eponymous",
+      "03 Ambarchi / O'Malley / Dunn - Circumstances of Faith",
+      "04 Ambarchi / O'Malley / Dunn - Sometimes",
+      "05 Ambarchi / O'Malley / Dunn - Ebony Pagoda"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/shade-themes-from-kairos_1777090927"
+    }
+  }
+}
