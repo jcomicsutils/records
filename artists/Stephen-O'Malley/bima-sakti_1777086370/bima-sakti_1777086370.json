@@ -1,0 +1,28 @@
+{
+  "id": "bima-sakti_1777086370",
+  "archived_at": "2026-04-25T03:09:31Z",
+  "metadata": {
+    "title": "Bima Sakti",
+    "artist": "Stephen O'Malley",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2583,
+    "duration_human": "00:43:03",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Senyawa, Stephen O'Malley - Dewi Hera, Part I",
+      "02 Senyawa, Stephen O'Malley - Bima dan Ular Naga, Part I",
+      "03 Senyawa, Stephen O'Malley - Bintang Gemintang",
+      "04 Senyawa, Stephen O'Malley - Hakikat Kabut",
+      "05 Senyawa, Stephen O'Malley - Bima dan Ular Naga, Part II",
+      "06 Senyawa, Stephen O'Malley - Dewi Hera, Part II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bima-sakti_1777086370"
+    }
+  }
+}
