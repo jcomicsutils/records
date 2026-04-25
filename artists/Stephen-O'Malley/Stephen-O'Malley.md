@@ -12,6 +12,7 @@
 | [End Ground](end-ground_1777088072/end-ground_1777088072.md) | 2016 | MP3 | 00:30:31 | [IA](https://archive.org/details/end-ground_1777088072) |
 | [Dread Live](dread-live_1777088013/dread-live_1777088013.md) | 2016 | MP3 | 00:32:25 | [IA](https://archive.org/details/dread-live_1777088013) |
 | [Criss-Cross / Hanover](criss-cross-hanover_1777087230/criss-cross-hanover_1777087230.md) | 2018 | FLAC | 00:34:21 | [IA](https://archive.org/details/criss-cross-hanover_1777087230) |
+| [Rêve Noir](reve-noir_1777089620/reve-noir_1777089620.md) | 2018 | FLAC | 00:35:43 | [IA](https://archive.org/details/reve-noir_1777089620) |
 | [Cylene](cylene_1777087278/cylene_1777087278.md) | 2019 | FLAC | 00:54:54 | [IA](https://archive.org/details/cylene_1777087278) |
 | [At the GRM Paris (Performed by Stephen O’Malley)](at-the-grm-paris-performed-by-stephen-omalley_1777085398/at-the-grm-paris-performed-by-stephen-omalley_1777085398.md) | 2020 | FLAC | 01:15:43 | [IA](https://archive.org/details/at-the-grm-paris-performed-by-stephen-omalley_1777085398) |
 | [Géante 4](geante-4_1777084172/geante-4_1777084172.md) | 2020 | FLAC | 00:25:21 | [IA](https://archive.org/details/geante-4_1777084172) |

@@ -1,0 +1,25 @@
+{
+  "id": "reve-noir_1777089620",
+  "archived_at": "2026-04-25T04:07:29Z",
+  "metadata": {
+    "title": "Rêve Noir",
+    "artist": "Stephen O'Malley",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2143,
+    "duration_human": "00:35:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Stephen O'Malley, Anthony Pateras - Rêve Noir [I]",
+      "02 Stephen O'Malley, Anthony Pateras - Rêve Noir [II]",
+      "03 Stephen O'Malley, Anthony Pateras - Rêve Noir [III]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/reve-noir_1777089620"
+    }
+  }
+}
