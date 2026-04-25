@@ -1,0 +1,28 @@
+{
+  "id": "cylene-ii_1777087459",
+  "archived_at": "2026-04-25T03:28:04Z",
+  "metadata": {
+    "title": "Cylene II",
+    "artist": "Stephen O'Malley",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2817,
+    "duration_human": "00:46:57",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 François J. Bonnet, Stephen O'Malley - Four Rays (Anti Divide)",
+      "02 François J. Bonnet, Stephen O'Malley - Rainbows",
+      "03 François J. Bonnet, Stephen O'Malley - Vulcani di Fango",
+      "04 François J. Bonnet, Stephen O'Malley - Ghosts of Precognition",
+      "05 François J. Bonnet, Stephen O'Malley - Troisième Noire",
+      "06 François J. Bonnet, Stephen O'Malley - La ronde"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cylene-ii_1777087459"
+    }
+  }
+}
