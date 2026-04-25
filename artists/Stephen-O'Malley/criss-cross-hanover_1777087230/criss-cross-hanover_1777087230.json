@@ -1,0 +1,24 @@
+{
+  "id": "criss-cross-hanover_1777087230",
+  "archived_at": "2026-04-25T03:21:16Z",
+  "metadata": {
+    "title": "Criss-Cross / Hanover",
+    "artist": "Stephen O'Malley",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2061,
+    "duration_human": "00:34:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Stephen O'Malley - Criss-Cross",
+      "02 Stephen O'Malley - Hanover"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/criss-cross-hanover_1777087230"
+    }
+  }
+}
