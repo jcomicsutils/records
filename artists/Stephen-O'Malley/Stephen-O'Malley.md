@@ -7,6 +7,7 @@
 | [Keep an Eye Out](keep-an-eye-out_1777089006/keep-an-eye-out_1777089006.md) | 2009 | MP3 | 00:12:07 | [IA](https://archive.org/details/keep-an-eye-out_1777089006) |
 | [Cocon & Oiseau De Nuit](cocon-oiseau-de-nuit_1777087187/cocon-oiseau-de-nuit_1777087187.md) | 2010 | MP3 | 00:41:33 | [IA](https://archive.org/details/cocon-oiseau-de-nuit_1777087187) |
 | [Uroborus Circuit](uroborus-circuit_1777093187/uroborus-circuit_1777093187.md) | 2011 | MP3 | 00:35:16 | [IA](https://archive.org/details/uroborus-circuit_1777093187) |
+| [TEMPESTARII + DISintegration](tempestarii-disintegration_1777143381/tempestarii-disintegration_1777143381.md) | 2013 | MP3 | 01:27:48 | [IA](https://archive.org/details/tempestarii-disintegration_1777143381) |
 | [Shade Themes From Kairos](shade-themes-from-kairos_1777090927/shade-themes-from-kairos_1777090927.md) | 2014 | FLAC | 01:07:44 | [IA](https://archive.org/details/shade-themes-from-kairos_1777090927) |
 | [Fuck Fundamentalist Pigs](fuck-fundamentalist-pigs_1777088505/fuck-fundamentalist-pigs_1777088505.md) | 2015 | FLAC | 01:01:40 | [IA](https://archive.org/details/fuck-fundamentalist-pigs_1777088505) |
 | [Gruidés](gruides_1777088878/gruides_1777088878.md) | 2015 | MP3 | 00:34:26 | [IA](https://archive.org/details/gruides_1777088878) |
