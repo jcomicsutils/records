@@ -1,0 +1,23 @@
+{
+  "id": "6degfskyquake_1777085150",
+  "archived_at": "2026-04-25T02:49:56Z",
+  "metadata": {
+    "title": "6°Fskyquake",
+    "artist": "Stephen O'Malley",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2021,
+    "duration_human": "00:33:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Stephen O'Malley, Attila Csihar - 6°Fskyquake"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/6degfskyquake_1777085150"
+    }
+  }
+}
