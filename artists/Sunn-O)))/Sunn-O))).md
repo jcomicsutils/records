@@ -7,6 +7,7 @@
 | [CroMonolithic Remixes for an Iron Age](cromonolithic-remixes-for-an-iron-age_1777139055/cromonolithic-remixes-for-an-iron-age_1777139055.md) | 2004 | FLAC | 00:28:25 | [IA](https://archive.org/details/cromonolithic-remixes-for-an-iron-age_1777139055) |
 | [Black One](black-one_1777138180/black-one_1777138180.md) | 2005 | FLAC | 01:07:11 | [IA](https://archive.org/details/black-one_1777138180) |
 | [Angel Coma](angel-coma_1777137860/angel-coma_1777137860.md) | 2006 | MP3 | 00:29:47 | [IA](https://archive.org/details/angel-coma_1777137860) |
+| [Oracle](oracle_1777148339/oracle_1777148339.md) | 2007 | FLAC | 01:20:56 | [IA](https://archive.org/details/oracle_1777148339) |
 | [Che](che_1777138698/che_1777138698.md) | 2009 | FLAC | 00:15:41 | [IA](https://archive.org/details/che_1777138698) |
 | [Domkirke (Live)](domkirke-live_1777139898/domkirke-live_1777139898.md) | 2009 | FLAC | 01:05:38 | [IA](https://archive.org/details/domkirke-live_1777139898) |
 | [Altar](altar_1777137742/altar_1777137742.md) | 2009 | FLAC | 00:53:44 | [IA](https://archive.org/details/altar_1777137742) |

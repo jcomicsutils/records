@@ -1,0 +1,25 @@
+{
+  "id": "oracle_1777148339",
+  "archived_at": "2026-04-25T20:24:11Z",
+  "metadata": {
+    "title": "Oracle",
+    "artist": "Sunn O)))",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4856,
+    "duration_human": "01:20:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "1-01 Sunn O))) - Belülrol Pusztít",
+      "1-02 Sunn O))) - Orakulum",
+      "2-01 Sunn O))) - Helio)))sophist"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/oracle_1777148339"
+    }
+  }
+}
