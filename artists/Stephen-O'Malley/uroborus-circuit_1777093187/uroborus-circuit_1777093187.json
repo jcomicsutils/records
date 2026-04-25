@@ -1,0 +1,24 @@
+{
+  "id": "uroborus-circuit_1777093187",
+  "archived_at": "2026-04-25T05:00:44Z",
+  "metadata": {
+    "title": "Uroborus Circuit",
+    "artist": "Stephen O'Malley",
+    "year": "2011",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 2116,
+    "duration_human": "00:35:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Stephen O'Malley & Atsuo - [untitled]",
+      "02 Stephen O'Malley & Atsuo - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/uroborus-circuit_1777093187"
+    }
+  }
+}
