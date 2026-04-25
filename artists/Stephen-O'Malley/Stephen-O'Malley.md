@@ -22,5 +22,6 @@
 | [Öst-Väst Sommaren](ost-vast-sommaren_1777089239/ost-vast-sommaren_1777089239.md) | 2021 | FLAC | 00:19:59 | [IA](https://archive.org/details/ost-vast-sommaren_1777089239) |
 | [Cylene Suisse Redux](cylene-suisse-redux_1777087686/cylene-suisse-redux_1777087686.md) | 2021 | FLAC | 00:36:51 | [IA](https://archive.org/details/cylene-suisse-redux_1777087686) |
 | [Requiēs](requies_1777089497/requies_1777089497.md) | 2022 | FLAC | 00:21:22 | [IA](https://archive.org/details/requies_1777089497) |
+| [Sept duos pour guitar acoustique et piano préparé](sept-duos-pour-guitar-acoustique-et-piano-prepare_1777090051/sept-duos-pour-guitar-acoustique-et-piano-prepare_1777090051.md) | 2023 | FLAC | 01:00:50 | [IA](https://archive.org/details/sept-duos-pour-guitar-acoustique-et-piano-prepare_1777090051) |
 | [Cylene II](cylene-ii_1777087459/cylene-ii_1777087459.md) | 2023 | FLAC | 00:46:57 | [IA](https://archive.org/details/cylene-ii_1777087459) |
 | [But Remember What You Have Had](but-remember-what-you-have-had_1777086573/but-remember-what-you-have-had_1777086573.md) | 2025 | FLAC | 00:32:39 | [IA](https://archive.org/details/but-remember-what-you-have-had_1777086573) |
