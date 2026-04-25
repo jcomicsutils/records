@@ -15,6 +15,7 @@
 | [Rehearsal Demo Nov 11 2011](rehearsal-demo-nov-11-2011_1777149780/rehearsal-demo-nov-11-2011_1777149780.md) | 2012 | FLAC | 00:36:13 | [IA](https://archive.org/details/rehearsal-demo-nov-11-2011_1777149780) |
 | [Candlewolff ov Thee Golden Chalice](candlewolff-ov-thee-golden-chalice_1777138546/candlewolff-ov-thee-golden-chalice_1777138546.md) | 2013 | FLAC | 00:19:26 | [IA](https://archive.org/details/candlewolff-ov-thee-golden-chalice_1777138546) |
 | [Angel Coma](angel-coma_1777137910/angel-coma_1777137910.md) | 2013 | FLAC | 00:26:26 | [IA](https://archive.org/details/angel-coma_1777137910) |
+| [Soused](soused_1777149908/soused_1777149908.md) | 2014 | FLAC | 00:48:33 | [IA](https://archive.org/details/soused_1777149908) |
 | [LA Reh 012](la-reh-012_1777144456/la-reh-012_1777144456.md) | 2014 | FLAC | 00:38:29 | [IA](https://archive.org/details/la-reh-012_1777144456) |
 | [2007.12.10, "Altar" Presentation With Boris, Kentish Town Forum, London, UK](20071210-altar-presentation-with-boris-kentish-town-forum-london-uk_1777137593/20071210-altar-presentation-with-boris-kentish-town-forum-london-uk_1777137593.md) | 2015 | FLAC | 00:51:03 | [IA](https://archive.org/details/20071210-altar-presentation-with-boris-kentish-town-forum-london-uk_1777137593) |
 | [Kannon](kannon_1777143976/kannon_1777143976.md) | 2015 | FLAC | 00:33:25 | [IA](https://archive.org/details/kannon_1777143976) |
