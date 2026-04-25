@@ -1,0 +1,29 @@
+{
+  "id": "life-metal-rehearsal-260518_1777146807",
+  "archived_at": "2026-04-25T20:00:40Z",
+  "metadata": {
+    "title": "Life Metal Rehearsal 260518",
+    "artist": "Sunn O)))",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3359,
+    "duration_human": "00:55:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sunn O))) - Dreamcanyon 260518",
+      "02 Sunn O))) - Wold End 260518",
+      "03 Sunn O))) - Gratitude 260518",
+      "04 Sunn O))) - A Dronian Slip 260518",
+      "05 Sunn O))) - SOMA’s Soundcheck 260518",
+      "06 Sunn O))) - The Lord’s Soundcheck 1 260518",
+      "07 Sunn O))) - The Lord’s Soundcheck 2 260518"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/life-metal-rehearsal-260518_1777146807"
+    }
+  }
+}

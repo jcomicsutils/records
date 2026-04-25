@@ -19,6 +19,7 @@
 | [606_LM Preproduction 280618](606-lm-preproduction-280618_1777135964/606-lm-preproduction-280618_1777135964.md) | 2020 | FLAC | 01:53:05 | [IA](https://archive.org/details/606-lm-preproduction-280618_1777135964) |
 | [606_LM Preproduction 290618](606-lm-preproduction-290618_1777136629/606-lm-preproduction-290618_1777136629.md) | 2020 | FLAC | 01:25:30 | [IA](https://archive.org/details/606-lm-preproduction-290618_1777136629) |
 | [606_LM Preproduction 270618](606-lm-preproduction-270618_1777135711/606-lm-preproduction-270618_1777135711.md) | 2020 | FLAC | 01:35:31 | [IA](https://archive.org/details/606-lm-preproduction-270618_1777135711) |
+| [Life Metal Rehearsal 260518](life-metal-rehearsal-260518_1777146807/life-metal-rehearsal-260518_1777146807.md) | 2020 | FLAC | 00:55:59 | [IA](https://archive.org/details/life-metal-rehearsal-260518_1777146807) |
 | [Life Metal Rehearsal 250518](life-metal-rehearsal-250518_1777145664/life-metal-rehearsal-250518_1777145664.md) | 2020 | FLAC | 01:06:25 | [IA](https://archive.org/details/life-metal-rehearsal-250518_1777145664) |
 | [Life Metal Rehearsal 230518](life-metal-rehearsal-230518_1777145183/life-metal-rehearsal-230518_1777145183.md) | 2020 | FLAC | 01:21:40 | [IA](https://archive.org/details/life-metal-rehearsal-230518_1777145183) |
 | [25th Anniversary Rehearsal Demo](25th-anniversary-rehearsal-demo_1777135047/25th-anniversary-rehearsal-demo_1777135047.md) | 2023 | FLAC | 00:38:53 | [IA](https://archive.org/details/25th-anniversary-rehearsal-demo_1777135047) |
