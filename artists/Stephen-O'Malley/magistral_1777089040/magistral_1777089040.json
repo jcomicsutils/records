@@ -1,0 +1,27 @@
+{
+  "id": "magistral_1777089040",
+  "archived_at": "2026-04-25T03:53:57Z",
+  "metadata": {
+    "title": "Magistral",
+    "artist": "Stephen O'Malley",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2986,
+    "duration_human": "00:49:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Stephen O'Malley & Z'EV - 6m 59s From Last 42s Left Channel Only - 26 Track Submix",
+      "02 Stephen O'Malley & Z'EV - 13m 48s From 34s From 5m - 5m 34s - 20 Track Submix",
+      "03 Stephen O'Malley & Z'EV - 6m 7s From 36s From 6m 53s - 7m 27s - 34 Track Submix",
+      "04 Stephen O'Malley & Z'EV - 14m 10s From 1m From 22s - 1m 22s - 28 Track Submix",
+      "05 Stephen O'Malley & Z'EV - 8m 39s From 1m 18s From 4m 55s - 6m 13s - 18 Track Submix"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/magistral_1777089040"
+    }
+  }
+}
