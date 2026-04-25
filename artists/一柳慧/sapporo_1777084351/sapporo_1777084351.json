@@ -1,0 +1,23 @@
+{
+  "id": "sapporo_1777084351",
+  "archived_at": "2026-04-25T02:34:26Z",
+  "metadata": {
+    "title": "Sapporo",
+    "artist": "一柳慧",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3045,
+    "duration_human": "00:50:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Eye Music - Sapporo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sapporo_1777084351"
+    }
+  }
+}
