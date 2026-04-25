@@ -1,0 +1,24 @@
+{
+  "id": "dread-live_1777088013",
+  "archived_at": "2026-04-25T03:34:30Z",
+  "metadata": {
+    "title": "Dread Live",
+    "artist": "Stephen O'Malley",
+    "year": "2016",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1945,
+    "duration_human": "00:32:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Stephen O'Malley - [untitled]",
+      "02 Stephen O'Malley - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dread-live_1777088013"
+    }
+  }
+}

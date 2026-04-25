@@ -4,6 +4,7 @@
 |-------|------|-------|----------|-------|
 | [6°Fskyquake](6degfskyquake_1777085150/6degfskyquake_1777085150.md) | 2008 | FLAC | 00:33:41 | [IA](https://archive.org/details/6degfskyquake_1777085150) |
 | [Cocon & Oiseau De Nuit](cocon-oiseau-de-nuit_1777087187/cocon-oiseau-de-nuit_1777087187.md) | 2010 | MP3 | 00:41:33 | [IA](https://archive.org/details/cocon-oiseau-de-nuit_1777087187) |
+| [Dread Live](dread-live_1777088013/dread-live_1777088013.md) | 2016 | MP3 | 00:32:25 | [IA](https://archive.org/details/dread-live_1777088013) |
 | [Criss-Cross / Hanover](criss-cross-hanover_1777087230/criss-cross-hanover_1777087230.md) | 2018 | FLAC | 00:34:21 | [IA](https://archive.org/details/criss-cross-hanover_1777087230) |
 | [Cylene](cylene_1777087278/cylene_1777087278.md) | 2019 | FLAC | 00:54:54 | [IA](https://archive.org/details/cylene_1777087278) |
 | [At the GRM Paris (Performed by Stephen O’Malley)](at-the-grm-paris-performed-by-stephen-omalley_1777085398/at-the-grm-paris-performed-by-stephen-omalley_1777085398.md) | 2020 | FLAC | 01:15:43 | [IA](https://archive.org/details/at-the-grm-paris-performed-by-stephen-omalley_1777085398) |
