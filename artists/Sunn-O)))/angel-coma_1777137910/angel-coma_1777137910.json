@@ -1,0 +1,24 @@
+{
+  "id": "angel-coma_1777137910",
+  "archived_at": "2026-04-25T17:29:38Z",
+  "metadata": {
+    "title": "Angel Coma",
+    "artist": "Sunn O)))",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1586,
+    "duration_human": "00:26:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sunn O))) - Coma Mirror",
+      "02 Sunn O))) - Coma Mirror (No Vocals)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/angel-coma_1777137910"
+    }
+  }
+}
