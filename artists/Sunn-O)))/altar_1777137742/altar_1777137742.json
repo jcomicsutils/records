@@ -1,0 +1,28 @@
+{
+  "id": "altar_1777137742",
+  "archived_at": "2026-04-25T17:24:18Z",
+  "metadata": {
+    "title": "Altar",
+    "artist": "Sunn O)))",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3224,
+    "duration_human": "00:53:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 SUNN O))), Boris - Etna",
+      "02 SUNN O))), Boris - N.L.T.",
+      "03 SUNN O))), Boris - The Sinking Belle (Blue Sheep)",
+      "04 SUNN O))), Boris - Akuma No Kuma",
+      "05 SUNN O))), Boris - Fried Eagle Mind",
+      "06 SUNN O))), Boris - Blood Swamp"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/altar_1777137742"
+    }
+  }
+}
