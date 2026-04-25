@@ -1,0 +1,23 @@
+{
+  "id": "requies_1777089497",
+  "archived_at": "2026-04-25T04:00:18Z",
+  "metadata": {
+    "title": "Requiēs",
+    "artist": "Stephen O'Malley",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1282,
+    "duration_human": "00:21:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Fire! / Stephen O'Malley / David Sandström - Requiēs"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/requies_1777089497"
+    }
+  }
+}
