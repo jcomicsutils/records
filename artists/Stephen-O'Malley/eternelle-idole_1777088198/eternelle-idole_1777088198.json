@@ -1,0 +1,25 @@
+{
+  "id": "eternelle-idole_1777088198",
+  "archived_at": "2026-04-25T03:41:43Z",
+  "metadata": {
+    "title": "Eternelle Idole",
+    "artist": "Stephen O'Malley",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2955,
+    "duration_human": "00:49:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Stephen O'Malley - L’étang // Aurore Theme",
+      "02 Stephen O'Malley - Eternal Idol // Arrival of the Trainer",
+      "03 Stephen O'Malley - (Empty Track) // Return / Escape"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/eternelle-idole_1777088198"
+    }
+  }
+}
