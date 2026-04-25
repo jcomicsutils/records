@@ -1,0 +1,28 @@
+{
+  "id": "terrestrials_1777153641",
+  "archived_at": "2026-04-25T21:51:24Z",
+  "metadata": {
+    "title": "Terrestrials",
+    "artist": "Sunn O)))",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2114,
+    "duration_human": "00:35:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 SUNN O))), Ulver - Let There Be Light",
+      "02 SUNN O))), Ulver - Western Horn",
+      "03 SUNN O))), Ulver - Eternal Return"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/terrestrials_1777153641"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/fmmju8.tar"
+    }
+  }
+}

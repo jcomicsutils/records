@@ -9,7 +9,7 @@
 | [Angel Coma](angel-coma_1777137860/angel-coma_1777137860.md) | 2006 | MP3 | 00:29:47 | [IA](https://archive.org/details/angel-coma_1777137860) |
 | [Oracle](oracle_1777148339/oracle_1777148339.md) | 2007 | FLAC | 01:20:56 | [IA](https://archive.org/details/oracle_1777148339) |
 | [Che](che_1777138698/che_1777138698.md) | 2009 | FLAC | 00:15:41 | [IA](https://archive.org/details/che_1777138698) |
-| [Domkirke (Live)](domkirke-live_1777139898/domkirke-live_1777139898.md) | 2009 | FLAC | 01:05:38 | [IA](https://archive.org/details/domkirke-live_1777139898) |
+| [Domkirke \(Live\)](domkirke-live_1777139898/domkirke-live_1777139898.md) | 2009 | FLAC | 01:05:38 | [IA](https://archive.org/details/domkirke-live_1777139898) |
 | [Altar](altar_1777137742/altar_1777137742.md) | 2009 | FLAC | 00:53:44 | [IA](https://archive.org/details/altar_1777137742) |
 | [Monoliths and Dimensions](monoliths-and-dimensions_1777147751/monoliths-and-dimensions_1777147751.md) | 2009 | FLAC | 00:53:39 | [IA](https://archive.org/details/monoliths-and-dimensions_1777147751) |
 | [Rehearsal Demo Nov 11 2011](rehearsal-demo-nov-11-2011_1777149780/rehearsal-demo-nov-11-2011_1777149780.md) | 2012 | FLAC | 00:36:13 | [IA](https://archive.org/details/rehearsal-demo-nov-11-2011_1777149780) |
@@ -17,6 +17,7 @@
 | [Angel Coma](angel-coma_1777137910/angel-coma_1777137910.md) | 2013 | FLAC | 00:26:26 | [IA](https://archive.org/details/angel-coma_1777137910) |
 | [Soused](soused_1777149908/soused_1777149908.md) | 2014 | FLAC | 00:48:33 | [IA](https://archive.org/details/soused_1777149908) |
 | [LA Reh 012](la-reh-012_1777144456/la-reh-012_1777144456.md) | 2014 | FLAC | 00:38:29 | [IA](https://archive.org/details/la-reh-012_1777144456) |
+| [Terrestrials](terrestrials_1777153641/terrestrials_1777153641.md) | 2014 | FLAC | 00:35:14 | [IA](https://archive.org/details/terrestrials_1777153641) [Catbox](https://files.catbox.moe/fmmju8.tar) |
 | [2007.12.10, "Altar" Presentation With Boris, Kentish Town Forum, London, UK](20071210-altar-presentation-with-boris-kentish-town-forum-london-uk_1777137593/20071210-altar-presentation-with-boris-kentish-town-forum-london-uk_1777137593.md) | 2015 | FLAC | 00:51:03 | [IA](https://archive.org/details/20071210-altar-presentation-with-boris-kentish-town-forum-london-uk_1777137593) |
 | [Kannon](kannon_1777143976/kannon_1777143976.md) | 2015 | FLAC | 00:33:25 | [IA](https://archive.org/details/kannon_1777143976) |
 | [Downtown LA Rehearsal / Rifftape March 1998](downtown-la-rehearsal-rifftape-march-1998_1777141264/downtown-la-rehearsal-rifftape-march-1998_1777141264.md) | 2018 | FLAC | 00:33:02 | [IA](https://archive.org/details/downtown-la-rehearsal-rifftape-march-1998_1777141264) |
@@ -32,4 +33,4 @@
 | [25th Anniversary Rehearsal Demo](25th-anniversary-rehearsal-demo_1777135047/25th-anniversary-rehearsal-demo_1777135047.md) | 2023 | FLAC | 00:38:53 | [IA](https://archive.org/details/25th-anniversary-rehearsal-demo_1777135047) |
 | [Evil Chuck](evil-chuck_1777143066/evil-chuck_1777143066.md) | 2023 | FLAC | 00:11:31 | [IA](https://archive.org/details/evil-chuck_1777143066) |
 | [Eternity's Pillars / Raise the Chalice & Reverential](eternitys-pillars-raise-the-chalice-reverential_1777141587/eternitys-pillars-raise-the-chalice-reverential_1777141587.md) | 2025 | FLAC | 00:29:42 | [IA](https://archive.org/details/eternitys-pillars-raise-the-chalice-reverential_1777141587) |
-| [Sunn O)))](sunn-o_1777150712/sunn-o_1777150712.md) | 2026 | FLAC | 01:19:37 | [IA](https://archive.org/details/sunn-o_1777150712) |
+| [Sunn O\)\)\)](sunn-o_1777150712/sunn-o_1777150712.md) | 2026 | FLAC | 01:19:37 | [IA](https://archive.org/details/sunn-o_1777150712) |
