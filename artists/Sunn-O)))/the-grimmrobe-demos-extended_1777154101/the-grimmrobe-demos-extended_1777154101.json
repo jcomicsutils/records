@@ -1,0 +1,36 @@
+{
+  "id": "the-grimmrobe-demos-extended_1777154101",
+  "archived_at": "2026-04-25T22:10:01Z",
+  "metadata": {
+    "title": "The Grimmrobe Demos Extended",
+    "artist": "Sunn O)))",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3539,
+    "duration_human": "00:58:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sunn O))) - Grimm & Bear It",
+      "02 Sunn O))) - Bremerton",
+      "03 Sunn O))) - Live at Gabah: The Anti Club 1.999"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-grimmrobe-demos-extended_1777154101"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/i9v0ot.001"
+        },
+        {
+          "url": "https://files.catbox.moe/c9se82.002"
+        }
+      ]
+    }
+  }
+}

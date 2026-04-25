@@ -14,6 +14,7 @@
 | [Altar](altar_1777137742/altar_1777137742.md) | 2009 | FLAC | 00:53:44 | [IA](https://archive.org/details/altar_1777137742) |
 | [Monoliths and Dimensions](monoliths-and-dimensions_1777147751/monoliths-and-dimensions_1777147751.md) | 2009 | FLAC | 00:53:39 | [IA](https://archive.org/details/monoliths-and-dimensions_1777147751) |
 | [Rehearsal Demo Nov 11 2011](rehearsal-demo-nov-11-2011_1777149780/rehearsal-demo-nov-11-2011_1777149780.md) | 2012 | FLAC | 00:36:13 | [IA](https://archive.org/details/rehearsal-demo-nov-11-2011_1777149780) |
+| [The Grimmrobe Demos Extended](the-grimmrobe-demos-extended_1777154101/the-grimmrobe-demos-extended_1777154101.md) | 2013 | FLAC | 00:58:59 | [IA](https://archive.org/details/the-grimmrobe-demos-extended_1777154101) [Catbox ×2](the-grimmrobe-demos-extended_1777154101/the-grimmrobe-demos-extended_1777154101.md) |
 | [Candlewolff ov Thee Golden Chalice](candlewolff-ov-thee-golden-chalice_1777138546/candlewolff-ov-thee-golden-chalice_1777138546.md) | 2013 | FLAC | 00:19:26 | [IA](https://archive.org/details/candlewolff-ov-thee-golden-chalice_1777138546) |
 | [Angel Coma](angel-coma_1777137910/angel-coma_1777137910.md) | 2013 | FLAC | 00:26:26 | [IA](https://archive.org/details/angel-coma_1777137910) |
 | [Soused](soused_1777149908/soused_1777149908.md) | 2014 | FLAC | 00:48:33 | [IA](https://archive.org/details/soused_1777149908) |
