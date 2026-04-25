@@ -1,0 +1,27 @@
+{
+  "id": "606-lm-preproduction-290618_1777136629",
+  "archived_at": "2026-04-25T17:19:51Z",
+  "metadata": {
+    "title": "606_LM Preproduction 290618",
+    "artist": "Sunn O)))",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 5130,
+    "duration_human": "01:25:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sunn O))) - 606Day3_LM Song1",
+      "02 Sunn O))) - 606Day3_LM Song2",
+      "03 Sunn O))) - 606Day3_LM Song3",
+      "04 Sunn O))) - 606Day3_LM Song4",
+      "05 Sunn O))) - 606Day3_LM Song5"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/606-lm-preproduction-290618_1777136629"
+    }
+  }
+}
