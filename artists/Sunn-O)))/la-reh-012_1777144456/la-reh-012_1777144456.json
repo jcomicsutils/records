@@ -1,0 +1,24 @@
+{
+  "id": "la-reh-012_1777144456",
+  "archived_at": "2026-04-25T19:17:47Z",
+  "metadata": {
+    "title": "LA Reh 012",
+    "artist": "Sunn O)))",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2309,
+    "duration_human": "00:38:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sunn O))) - Last One / Valentine’s Day",
+      "02 Sunn O))) - Invisible / Sleeper"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/la-reh-012_1777144456"
+    }
+  }
+}
