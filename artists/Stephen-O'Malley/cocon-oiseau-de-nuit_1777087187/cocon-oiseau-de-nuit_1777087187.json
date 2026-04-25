@@ -1,0 +1,23 @@
+{
+  "id": "cocon-oiseau-de-nuit_1777087187",
+  "archived_at": "2026-04-25T03:20:28Z",
+  "metadata": {
+    "title": "Cocon & Oiseau De Nuit",
+    "artist": "Stephen O'Malley",
+    "year": "2010",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 2493,
+    "duration_human": "00:41:33",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Stephen O'Malley - Cocon & Oiseau De Nuit"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cocon-oiseau-de-nuit_1777087187"
+    }
+  }
+}
