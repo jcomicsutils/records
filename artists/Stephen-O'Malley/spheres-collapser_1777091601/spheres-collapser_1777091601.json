@@ -1,0 +1,24 @@
+{
+  "id": "spheres-collapser_1777091601",
+  "archived_at": "2026-04-25T04:59:45Z",
+  "metadata": {
+    "title": "Spheres Collapser",
+    "artist": "Stephen O'Malley",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2936,
+    "duration_human": "00:48:56",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Stephen O'Malley - Les Sphères (effondrez les) phase I Organ",
+      "02 Stephen O'Malley - Les Sphères (effondrez les) phase II Organ"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/spheres-collapser_1777091601"
+    }
+  }
+}
