@@ -1,0 +1,25 @@
+{
+  "id": "che_1777138698",
+  "archived_at": "2026-04-25T17:44:13Z",
+  "metadata": {
+    "title": "Che",
+    "artist": "Sunn O)))",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 941,
+    "duration_human": "00:15:41",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sunn O))) & Pan Sonic - Che",
+      "02 Alan Vega - Thirteen Crosses",
+      "03 Stephen Burroughs - Goodbye Darling"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/che_1777138698"
+    }
+  }
+}

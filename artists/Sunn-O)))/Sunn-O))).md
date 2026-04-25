@@ -4,6 +4,7 @@
 |-------|------|-------|----------|-------|
 | [Black One](black-one_1777138180/black-one_1777138180.md) | 2005 | FLAC | 01:07:11 | [IA](https://archive.org/details/black-one_1777138180) |
 | [Angel Coma](angel-coma_1777137860/angel-coma_1777137860.md) | 2006 | MP3 | 00:29:47 | [IA](https://archive.org/details/angel-coma_1777137860) |
+| [Che](che_1777138698/che_1777138698.md) | 2009 | FLAC | 00:15:41 | [IA](https://archive.org/details/che_1777138698) |
 | [Altar](altar_1777137742/altar_1777137742.md) | 2009 | FLAC | 00:53:44 | [IA](https://archive.org/details/altar_1777137742) |
 | [Candlewolff ov Thee Golden Chalice](candlewolff-ov-thee-golden-chalice_1777138546/candlewolff-ov-thee-golden-chalice_1777138546.md) | 2013 | FLAC | 00:19:26 | [IA](https://archive.org/details/candlewolff-ov-thee-golden-chalice_1777138546) |
 | [Angel Coma](angel-coma_1777137910/angel-coma_1777137910.md) | 2013 | FLAC | 00:26:26 | [IA](https://archive.org/details/angel-coma_1777137910) |
