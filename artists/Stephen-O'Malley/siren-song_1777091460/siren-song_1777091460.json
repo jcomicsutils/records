@@ -1,0 +1,23 @@
+{
+  "id": "siren-song_1777091460",
+  "archived_at": "2026-04-25T04:33:19Z",
+  "metadata": {
+    "title": "Siren Song",
+    "artist": "Stephen O'Malley",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 351,
+    "duration_human": "00:05:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Kali Malone, Stephen O'Malley, Htrk - Siren Song"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/siren-song_1777091460"
+    }
+  }
+}

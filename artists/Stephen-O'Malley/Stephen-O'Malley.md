@@ -26,3 +26,4 @@
 | [Sept duos pour guitar acoustique et piano préparé](sept-duos-pour-guitar-acoustique-et-piano-prepare_1777090051/sept-duos-pour-guitar-acoustique-et-piano-prepare_1777090051.md) | 2023 | FLAC | 01:00:50 | [IA](https://archive.org/details/sept-duos-pour-guitar-acoustique-et-piano-prepare_1777090051) |
 | [Cylene II](cylene-ii_1777087459/cylene-ii_1777087459.md) | 2023 | FLAC | 00:46:57 | [IA](https://archive.org/details/cylene-ii_1777087459) |
 | [But Remember What You Have Had](but-remember-what-you-have-had_1777086573/but-remember-what-you-have-had_1777086573.md) | 2025 | FLAC | 00:32:39 | [IA](https://archive.org/details/but-remember-what-you-have-had_1777086573) |
+| [Siren Song](siren-song_1777091460/siren-song_1777091460.md) | 2025 | FLAC | 00:05:51 | [IA](https://archive.org/details/siren-song_1777091460) |
