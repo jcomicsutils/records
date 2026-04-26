@@ -1,0 +1,25 @@
+{
+  "id": "great-waves_1777168454",
+  "fingerprint": "fa0e384308031ef1fd5f29dbc7884c7c0f16c403d500b592743233145ca63c72",
+  "archived_at": "2026-04-26T01:54:46Z",
+  "metadata": {
+    "title": "Great Waves",
+    "artist": "Dirty Three",
+    "year": "2005",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 388,
+    "duration_human": "00:06:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Dirty Three - Great Waves",
+      "02 Dirty Three - Lisa's Mountain"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/great-waves_1777168454"
+    }
+  }
+}

@@ -10,6 +10,7 @@
 - [Bloodz Boi](Bloodz-Boi/Bloodz-Boi.md)
 - [Burning Witch](Burning-Witch/Burning-Witch.md)
 - [Death Ambient](Death-Ambient/Death-Ambient.md)
+- [Dirty Three](Dirty-Three/Dirty-Three.md)
 - [Ensemble Pearl](Ensemble-Pearl/Ensemble-Pearl.md)
 - [Ever Present Orchestra](Ever-Present-Orchestra/Ever-Present-Orchestra.md)
 - [Fungal Hex](Fungal-Hex/Fungal-Hex.md)
