@@ -1,0 +1,32 @@
+{
+  "id": "love-changes-everything_1777235772",
+  "fingerprint": "0ed1ebf59ede369bdc5588a2e82063c5536532632f5cc8efe9f0054711bd0b97",
+  "archived_at": "2026-04-26T20:51:06Z",
+  "metadata": {
+    "title": "Love Changes Everything",
+    "artist": "Dirty Three",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2482,
+    "duration_human": "00:41:22",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Dirty Three - Love Changes Everything I",
+      "02 Dirty Three - Love Changes Everything II",
+      "03 Dirty Three - Love Changes Everything III",
+      "04 Dirty Three - Love Changes Everything IV",
+      "05 Dirty Three - Love Changes Everything V",
+      "06 Dirty Three - Love Changes Everything VI"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/love-changes-everything_1777235772"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha3/ca8ee943ad6aad004508/Love_Changes_Everything.tar"
+    }
+  }
+}
