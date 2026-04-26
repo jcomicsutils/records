@@ -1,0 +1,24 @@
+{
+  "id": "veils-it-white_1777164034",
+  "fingerprint": "0654377e414dd3c2a264ce00db0401e4c4454f8e0147bd96eea634b3ec8b35b6",
+  "archived_at": "2026-04-26T00:42:28Z",
+  "metadata": {
+    "title": "Veils It White",
+    "artist": "Sunn O)))",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1274,
+    "duration_human": "00:21:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sunn O))) - Veils It White"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/veils-it-white_1777164034"
+    }
+  }
+}
