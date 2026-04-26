@@ -1,0 +1,35 @@
+{
+  "id": "in-the-fishtank_1777233872",
+  "fingerprint": "1d3946cc6f1aa7ee8294af326afa096310d1dc221005218cc6d6fc07f3e7dcbd",
+  "archived_at": "2026-04-26T20:10:15Z",
+  "metadata": {
+    "title": "In the Fishtank",
+    "artist": "Dirty Three",
+    "year": "2001",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1809,
+    "duration_human": "00:30:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Low + Dirty Three - I Hear... Goodnight",
+      "02 Low + Dirty Three - Down by the River",
+      "03 Low + Dirty Three - Invitation Day",
+      "04 Low + Dirty Three - When I Called Upon Your Seed",
+      "05 Low + Dirty Three - Cody",
+      "06 Low + Dirty Three - Lordy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/in-the-fishtank_1777233872"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/g2xe0i.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha3/d0cb4e1c39e81af90ea3/In_the_Fishtank.tar"
+    }
+  }
+}
