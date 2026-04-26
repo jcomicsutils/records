@@ -1,0 +1,46 @@
+{
+  "id": "horse-stories_1777232741",
+  "fingerprint": "613743a5eeec594655060d3653b00679a2df59d1397578ba30f3081e0314068a",
+  "archived_at": "2026-04-26T20:00:41Z",
+  "metadata": {
+    "title": "Horse Stories",
+    "artist": "Dirty Three",
+    "year": "1996",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3405,
+    "duration_human": "00:56:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Dirty Three - 1000 Miles",
+      "02 Dirty Three - Sue's Last Ride",
+      "03 Dirty Three - Hope",
+      "04 Dirty Three - I Remember a Time When Once You Used to Love Me",
+      "05 Dirty Three - At the Bar",
+      "06 Dirty Three - Red",
+      "07 Dirty Three - Warren's Lament",
+      "08 Dirty Three - Horse",
+      "09 Dirty Three - I Knew It Would Come to This"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/horse-stories_1777232741"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/fk90jk.001"
+        },
+        {
+          "url": "https://files.catbox.moe/gsppll.002"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha3/d049cb64ac8d657d3a6e/Horse_Stories.tar"
+    }
+  }
+}
