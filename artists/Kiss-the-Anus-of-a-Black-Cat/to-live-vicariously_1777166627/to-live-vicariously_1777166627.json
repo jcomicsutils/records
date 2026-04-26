@@ -1,0 +1,49 @@
+{
+  "id": "to-live-vicariously_1777166627",
+  "fingerprint": "780a05115899b2157dc76b5813ea9014474acbc80a846045eee394a0f4697fdc",
+  "archived_at": "2026-04-26T01:44:18Z",
+  "metadata": {
+    "title": "To Live Vicariously",
+    "artist": "Kiss the Anus of a Black Cat",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3034,
+    "duration_human": "00:50:34",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Kiss the Anus of a Black Cat - Semantics",
+      "02 Kiss the Anus of a Black Cat - Drone for Conan",
+      "03 Kiss the Anus of a Black Cat - Walls and Ways to Hide",
+      "04 Kiss the Anus of a Black Cat - Reminiscence",
+      "05 Kiss the Anus of a Black Cat - Lying",
+      "06 Kiss the Anus of a Black Cat - To Live Vicariously",
+      "07 Kiss the Anus of a Black Cat - Be the Death of Me",
+      "08 Kiss the Anus of a Black Cat - Evening of Light",
+      "09 Kiss the Anus of a Black Cat - Epiphany"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/to-live-vicariously_1777166627"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/654q6o.001"
+        },
+        {
+          "url": "https://files.catbox.moe/0zt0h0.002"
+        },
+        {
+          "url": "https://files.catbox.moe/ciwqhx.003"
+        },
+        {
+          "url": "https://files.catbox.moe/r9pf2j.004"
+        }
+      ]
+    }
+  }
+}
