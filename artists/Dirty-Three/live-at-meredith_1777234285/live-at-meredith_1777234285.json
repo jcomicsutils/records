@@ -1,0 +1,47 @@
+{
+  "id": "live-at-meredith_1777234285",
+  "fingerprint": "1c07a530d409964f930fd048c828ab2c075a19c01ef865a51c5ecea64e2db505",
+  "archived_at": "2026-04-26T20:33:22Z",
+  "metadata": {
+    "title": "Live! At Meredith",
+    "artist": "Dirty Three",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 4568,
+    "duration_human": "01:16:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Dirty Three - Indian Love Song",
+      "02 Dirty Three - Some Summers (They Drop Like Flies)",
+      "03 Dirty Three - She Has No Strings",
+      "04 Dirty Three - Hope",
+      "05 Dirty Three - Alice Wading",
+      "06 Dirty Three - Everything is Fucked",
+      "07 Dirty Three - Deep Waters"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-at-meredith_1777234285"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/omt7zr.001"
+        },
+        {
+          "url": "https://files.catbox.moe/3fc8nm.002"
+        },
+        {
+          "url": "https://files.catbox.moe/7suc90.003"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha3/9ca2ffd23ed6ab3303ba/Live_At_Meredith.tar"
+    }
+  }
+}
