@@ -1,0 +1,29 @@
+{
+  "id": "the-nebulous-dreams_1777166369",
+  "fingerprint": "a5606f41c3da26c368ca74c8f95df38dd4fbdfff261697537310dc1570fad03e",
+  "archived_at": "2026-04-26T01:22:52Z",
+  "metadata": {
+    "title": "The Nebulous Dreams",
+    "artist": "Kiss the Anus of a Black Cat",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1853,
+    "duration_human": "00:30:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kiss the Anus of a Black Cat - Between Skylla and Charybdis",
+      "02 Kiss the Anus of a Black Cat - Dyptich",
+      "03 Kiss the Anus of a Black Cat - Miserere"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-nebulous-dreams_1777166369"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/p9h6gj.tar"
+    }
+  }
+}
