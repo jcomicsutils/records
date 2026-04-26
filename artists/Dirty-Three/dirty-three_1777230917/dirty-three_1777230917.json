@@ -1,0 +1,52 @@
+{
+  "id": "dirty-three_1777230917",
+  "fingerprint": "e5ee3a9e4145e2ccbe9f12a0dcbe302ada678a6d723451055357fa1102e61995",
+  "archived_at": "2026-04-26T19:34:00Z",
+  "metadata": {
+    "title": "Dirty Three",
+    "artist": "Dirty Three",
+    "year": "1992",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 5138,
+    "duration_human": "01:25:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Dirty Three - Warren's Waltz",
+      "02 Dirty Three - Kim's Dirt",
+      "03 Dirty Three - Indian Love Song",
+      "04 Dirty Three - Forever Gone",
+      "05 Dirty Three - In Bed With the Dirty Three",
+      "06 Dirty Three - Turk",
+      "07 Dirty Three - Jim's Dog",
+      "08 Dirty Three - Short Break",
+      "09 Dirty Three - Theme",
+      "10 Dirty Three - Monks Lament",
+      "11 Dirty Three - You Were a Bum Dream",
+      "12 Dirty Three - Turk Reprise"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dirty-three_1777230917"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/xyc2l2.001"
+        },
+        {
+          "url": "https://files.catbox.moe/l5etn7.002"
+        },
+        {
+          "url": "https://files.catbox.moe/pf1inr.003"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha3/81b2ead1f9cb3940257c/Dirty_Three_%281992%29.tar"
+    }
+  }
+}
