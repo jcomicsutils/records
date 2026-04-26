@@ -1,0 +1,34 @@
+{
+  "id": "a-strange-holiday_1777229408",
+  "fingerprint": "deb97fabf79f501820a3eba99876b3d48aed1f80bca7c7b5f04289ddacb384cc",
+  "archived_at": "2026-04-26T18:53:44Z",
+  "metadata": {
+    "title": "A Strange Holiday",
+    "artist": "Dirty Three",
+    "year": "2003",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1358,
+    "duration_human": "00:22:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Dirty Three - Summer's Lost Heart",
+      "02 Dirty Three - Somewhere Else, Someplace Good",
+      "03 Dirty Three - A Strange Holiday",
+      "04 Dirty Three - Xmas Song",
+      "05 Dirty Three - Au Revoir Petit Chat"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-strange-holiday_1777229408"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/98px7b.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha3/f9feeac820bc1fa49a81/A_Strange_Holiday.tar"
+    }
+  }
+}
