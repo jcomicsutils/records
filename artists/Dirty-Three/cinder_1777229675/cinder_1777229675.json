@@ -1,0 +1,59 @@
+{
+  "id": "cinder_1777229675",
+  "fingerprint": "8ad54c9c034ed4236175306295fd1bdc78677099f773ee9e6f7ae21eecaa17ba",
+  "archived_at": "2026-04-26T19:12:58Z",
+  "metadata": {
+    "title": "Cinder",
+    "artist": "Dirty Three",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 19,
+    "duration_seconds": 4232,
+    "duration_human": "01:10:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Dirty Three - Ever Since",
+      "02 Dirty Three - She Passed Through",
+      "03 Dirty Three - Amy",
+      "04 Dirty Three - Sad Sexy",
+      "05 Dirty Three - Cinders",
+      "06 Dirty Three - Doris",
+      "07 Dirty Three - Flutter",
+      "08 Dirty Three - The Zither Player",
+      "09 Dirty Three - It Happened",
+      "10 Dirty Three - Great Waves",
+      "11 Dirty Three - Dream Evie",
+      "12 Dirty Three - Too Soon, Too Late",
+      "13 Dirty Three - This Night",
+      "14 Dirty Three - Rain On",
+      "15 Dirty Three - Ember",
+      "16 Dirty Three - Michele",
+      "17 Dirty Three - Feral",
+      "18 Dirty Three - Last Dance",
+      "19 Dirty Three - In Fall"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cinder_1777229675"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/cog8gv.001"
+        },
+        {
+          "url": "https://files.catbox.moe/885wq4.002"
+        },
+        {
+          "url": "https://files.catbox.moe/sg5oc7.003"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha3/9bcb9d08fb973db39e86/Cinder.tar"
+    }
+  }
+}
