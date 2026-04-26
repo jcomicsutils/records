@@ -1,0 +1,42 @@
+{
+  "id": "weltuntergangsstimmung_1777168154",
+  "fingerprint": "4f14eee4726133b24aad274b673afc7c6bbd93411ecb0766ade79bc97e9152a4",
+  "archived_at": "2026-04-26T01:52:13Z",
+  "metadata": {
+    "title": "Weltuntergangsstimmung",
+    "artist": "Kiss the Anus of a Black Cat",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2215,
+    "duration_human": "00:36:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kiss the Anus of a Black Cat - My Word as Gospel",
+      "02 Kiss the Anus of a Black Cat - Define Pi",
+      "03 Kiss the Anus of a Black Cat - The Shadows Are You",
+      "04 Kiss the Anus of a Black Cat - Ruins",
+      "05 Kiss the Anus of a Black Cat - Triple Fall",
+      "06 Kiss the Anus of a Black Cat - Shake Off Your Dreams",
+      "07 Kiss the Anus of a Black Cat - Let Things Drift",
+      "08 Kiss the Anus of a Black Cat - Weltuntergangsstimmung"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/weltuntergangsstimmung_1777168154"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/n957jr.001"
+        },
+        {
+          "url": "https://files.catbox.moe/dr9qq5.002"
+        }
+      ]
+    }
+  }
+}
