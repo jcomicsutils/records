@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/veils-it-white_1777164034)
+- [Catbox](https://files.catbox.moe/x7emwh.tar)
 
 ## Tracklist
 

@@ -19,6 +19,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/veils-it-white_1777164034"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/x7emwh.tar"
     }
   }
 }
