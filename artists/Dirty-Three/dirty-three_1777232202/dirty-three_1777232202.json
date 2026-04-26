@@ -1,0 +1,44 @@
+{
+  "id": "dirty-three_1777232202",
+  "fingerprint": "7e953cd326e3f718821ebd6778b2d57f51f9cc7e14167418fea079c8caa333aa",
+  "archived_at": "2026-04-26T19:43:40Z",
+  "metadata": {
+    "title": "Dirty Three",
+    "artist": "Dirty Three",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2961,
+    "duration_human": "00:49:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Dirty Three - Indian Love Song",
+      "02 Dirty Three - Better Go Home Now",
+      "03 Dirty Three - Odd Couple",
+      "04 Dirty Three - Kim's Dirt",
+      "05 Dirty Three - Everything's Fucked",
+      "06 Dirty Three - The Last Night",
+      "07 Dirty Three - Dirty Equation"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dirty-three_1777232202"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/8sbact.001"
+        },
+        {
+          "url": "https://files.catbox.moe/lnesaj.002"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha3/be621951ecf0340183bd/Dirty_Three_%282005%29.tar"
+    }
+  }
+}
