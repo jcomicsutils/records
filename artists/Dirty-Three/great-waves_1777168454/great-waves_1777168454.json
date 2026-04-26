@@ -20,6 +20,12 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/great-waves_1777168454"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vhfsri.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha3/1f95a69ce96b8f0a3b01/Great_Waves.tar"
     }
   }
 }
