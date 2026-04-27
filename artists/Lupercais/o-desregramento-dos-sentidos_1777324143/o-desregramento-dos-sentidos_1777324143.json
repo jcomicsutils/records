@@ -1,0 +1,32 @@
+{
+  "id": "o-desregramento-dos-sentidos_1777324143",
+  "fingerprint": "03936ab35b69de366d2719248eee1d793e002da012bb85db623c07f6b5f5215e",
+  "archived_at": "2026-04-27T21:11:27Z",
+  "metadata": {
+    "title": "O desregramento dos sentidos",
+    "artist": "Lupercais",
+    "year": "1997",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 1340,
+    "duration_human": "00:22:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Lupercais - Elegia",
+      "02 Lupercais - Eterno retorno",
+      "03 Lupercais - O sonho da areia",
+      "04 Lupercais - O tempo",
+      "05 Lupercais - Ogro moderno",
+      "06 Lupercais - Quando chega o dia da caça"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/o-desregramento-dos-sentidos_1777324143"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha3/ef7d8e63ddaecb36c290/O_desregramento_dos_sentidos.tar"
+    }
+  }
+}
