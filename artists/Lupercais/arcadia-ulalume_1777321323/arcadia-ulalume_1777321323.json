@@ -1,0 +1,34 @@
+{
+  "id": "arcadia-ulalume_1777321323",
+  "fingerprint": "78b1fceb8501490a6422b4734b367faedfe3b265b04705e0b0ee982024aef4b0",
+  "archived_at": "2026-04-27T20:38:43Z",
+  "metadata": {
+    "title": "Arcadia / Ulalume",
+    "artist": "Lupercais",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2084,
+    "duration_human": "00:34:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lupercais - Carne Criada",
+      "02 Lupercais - Crônicas de um Morto Cafajeste",
+      "03 Lupercais - Funeral",
+      "04 Lupercais - Espectros",
+      "05 Pompas Funebres - Entrada",
+      "06 Pompas Funebres - Ulalume",
+      "07 Pompas Funebres - Poema de Fernando Freire",
+      "08 Pompas Funebres - Terra e Fogo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/arcadia-ulalume_1777321323"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha3/5a7e0656ed24cd7acd3f/Arcadia_-_Ulalume.tar"
+    }
+  }
+}

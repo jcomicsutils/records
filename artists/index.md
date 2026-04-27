@@ -22,6 +22,7 @@
 - [Kiss the Anus of a Black Cat](Kiss-the-Anus-of-a-Black-Cat/Kiss-the-Anus-of-a-Black-Cat.md)
 - [Lotus Eaters](Lotus-Eaters/Lotus-Eaters.md)
 - [Love's Holiday Orchestra](Love's-Holiday-Orchestra/Love's-Holiday-Orchestra.md)
+- [Lupercais](Lupercais/Lupercais.md)
 - [Mamiffer & House Of Low Culture](Mamiffer-&-House-Of-Low-Culture/Mamiffer-&-House-Of-Low-Culture.md)
 - [Noise](Noise/Noise.md)
 - [Peace & Freedom](Peace-&-Freedom/Peace-&-Freedom.md)

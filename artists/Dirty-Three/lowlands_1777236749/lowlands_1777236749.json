@@ -1,0 +1,31 @@
+{
+  "id": "lowlands_1777236749",
+  "fingerprint": "3667fcaf4aaf9fc3c4401f58c3f222c810c0c33cfc2cc40183e2de89538ba2f4",
+  "archived_at": "2026-04-26T21:10:36Z",
+  "metadata": {
+    "title": "Lowlands",
+    "artist": "Dirty Three",
+    "year": "2000",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2309,
+    "duration_human": "00:38:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Dirty Three - Cottonhead",
+      "02 Dirty Three - Country Song",
+      "03 Dirty Three - Kangaroo",
+      "04 Dirty Three - Lowlands",
+      "05 Dirty Three - Three Mile Creek",
+      "06 Dirty Three - Wheels",
+      "07 Dirty Three - Time After",
+      "08 Dirty Three - Irish Red"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lowlands_1777236749"
+    }
+  }
+}
