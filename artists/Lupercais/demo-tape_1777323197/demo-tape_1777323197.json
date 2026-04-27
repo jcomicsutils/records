@@ -1,0 +1,31 @@
+{
+  "id": "demo-tape_1777323197",
+  "fingerprint": "fefccf646f0ced86acaed3388999d758a5bf45072bd07e02fa4de8818e1e9551",
+  "archived_at": "2026-04-27T21:06:03Z",
+  "metadata": {
+    "title": "Demo Tape",
+    "artist": "Lupercais",
+    "year": "1995",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1108,
+    "duration_human": "00:18:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lupercais - Carne Criada",
+      "02 Lupercais - Crônicas de um Morto Cafajeste",
+      "03 Lupercais - Espectros (Demo)",
+      "04 Lupercais - O Suplício de Bruno",
+      "05 Lupercais - Testamento de Caim"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/demo-tape_1777323197"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha3/2d94e6b9154c16b0566b/Demo_Tape.tar"
+    }
+  }
+}
