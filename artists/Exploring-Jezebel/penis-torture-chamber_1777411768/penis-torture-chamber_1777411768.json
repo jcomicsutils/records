@@ -32,7 +32,10 @@
     ]
   },
   "hosts": {
-    "fileditch": {
+        "archive_org": {
+      "url": "https://archive.org/details/penis-torture-chamber_1777344831"
+    },
+        "fileditch": {
       "url": "https://fileditchfiles.me/file.php?f=/beta0/bf4d30a82736c8b05d95/Penis_Torture_Chamber.tar"
     }
   }
