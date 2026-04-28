@@ -1,0 +1,27 @@
+{
+  "id": "rvmyv_1777413357",
+  "fingerprint": "a55cb46768f4954ba2d658629ec9255fe45db4378ba6110cedc907fa0d5757f1",
+  "archived_at": "2026-04-28T21:59:31Z",
+  "metadata": {
+    "title": "רומיאו",
+    "artist": "Stephen O'Malley",
+    "year": "2011",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 2477,
+    "duration_human": "00:41:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Stephen O'Malley - רומיאו"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rvmyv_1777413357"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/1829133e8fd358d74ffc/%D7%A8%D7%95%D7%9E%D7%99%D7%90%D7%95.tar"
+    }
+  }
+}
