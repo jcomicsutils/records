@@ -13,6 +13,7 @@
 - [Dirty Three](Dirty-Three/Dirty-Three.md)
 - [Ensemble Pearl](Ensemble-Pearl/Ensemble-Pearl.md)
 - [Ever Present Orchestra](Ever-Present-Orchestra/Ever-Present-Orchestra.md)
+- [Exploring Jezebel](Exploring-Jezebel/Exploring-Jezebel.md)
 - [Fungal Hex](Fungal-Hex/Fungal-Hex.md)
 - [Gravetemple](Gravetemple/Gravetemple.md)
 - [House of Low Culture](House-of-Low-Culture/House-of-Low-Culture.md)
