@@ -15,4 +15,5 @@
 | [A\\B\\C\\D](abcd_1777742921/abcd_1777742921.md) | 2010 | MP3 | 00:22:03 | [IA](https://archive.org/details/abcd_1777742921) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/df64d9476ccc585185ad/A_-_B_-_C_-_D.tar) |
 | [Narrow](narrow_1777744063/narrow_1777744063.md) | 2011 | FLAC | 00:41:29 | [IA](https://archive.org/details/narrow_1777744063) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/57097c2f8e4fee51726c/Narrow.tar) |
 | [Seam](seam_1777744705/seam_1777744705.md) | 2012 | MP3 | 00:43:26 | [IA](https://archive.org/details/seam_1777744705) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/2fa8c6270f59504181a3/Seam.tar) |
+| [Sinus](sinus_1777744825/sinus_1777744825.md) | 2012 | MP3 | 00:58:41 | [IA](https://archive.org/details/sinus_1777744825) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/fb2af29fa3088a207b8d/Sinus.tar) |
 | [Parallel Landscapes](parallel-landscapes_1777744269/parallel-landscapes_1777744269.md) | 2015 | FLAC | 00:50:52 | [IA](https://archive.org/details/parallel-landscapes_1777744269) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/0777767cf9a90aa11f72/Parallel_Landscapes.tar) |
