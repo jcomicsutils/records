@@ -1,0 +1,39 @@
+{
+  "id": "seam_1777744705",
+  "fingerprint": "b42897b8552c6720a2bf3280223b62c3dbf8dfe0a916c507ca05c282eb756713",
+  "archived_at": "2026-05-02T18:00:11Z",
+  "metadata": {
+    "title": "Seam",
+    "artist": "Steinbrüchel",
+    "year": "2012",
+    "codec": "MP3",
+    "num_tracks": 13,
+    "duration_seconds": 2606,
+    "duration_human": "00:43:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Steinbrüchel + Cory Allen - -- - -- -",
+      "02 Steinbrüchel + Cory Allen - Seam 01",
+      "03 Steinbrüchel + Cory Allen - - -- - --",
+      "04 Steinbrüchel + Cory Allen - Seam 02",
+      "05 Steinbrüchel + Cory Allen - -- - -- -",
+      "06 Steinbrüchel + Cory Allen - Seam 03",
+      "07 Steinbrüchel + Cory Allen - - -- - --",
+      "08 Steinbrüchel + Cory Allen - Seam 04",
+      "09 Steinbrüchel + Cory Allen - -- - -- -",
+      "10 Steinbrüchel + Cory Allen - Seam 05",
+      "11 Steinbrüchel + Cory Allen - - -- - --",
+      "12 Steinbrüchel + Cory Allen - Seam 06",
+      "13 Steinbrüchel + Cory Allen - - -- - --"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/seam_1777744705"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/2fa8c6270f59504181a3/Seam.tar"
+    }
+  }
+}
