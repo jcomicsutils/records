@@ -1,0 +1,36 @@
+{
+  "id": "stage_1777745127",
+  "fingerprint": "5e4ddf2f5bb98f071056a6eec2381a10f58be7903c1f4e8718f873e4c22d6307",
+  "archived_at": "2026-05-02T18:07:25Z",
+  "metadata": {
+    "title": "Stage",
+    "artist": "Steinbrüchel",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 4039,
+    "duration_human": "01:07:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Steinbrüchel - Scene 01",
+      "02 Steinbrüchel - Scene 02",
+      "03 Steinbrüchel - Scene 03",
+      "04 Steinbrüchel - Scene 04",
+      "05 Steinbrüchel - Scene 05",
+      "06 Steinbrüchel - Scene 06",
+      "07 Steinbrüchel - Scene 07",
+      "08 Steinbrüchel - Scene 08",
+      "09 Steinbrüchel - Scene 09",
+      "10 Steinbrüchel - Scene 10"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stage_1777745127"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/feecc772d478fc3c39b1/Stage.tar"
+    }
+  }
+}
