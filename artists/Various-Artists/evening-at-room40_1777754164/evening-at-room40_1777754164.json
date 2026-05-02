@@ -1,0 +1,55 @@
+{
+  "id": "evening-at-room40_1777754164",
+  "fingerprint": "6c51589ad539cca23ae382dd3919f4c81925cae713212eed2abcecac71464198",
+  "archived_at": "2026-05-02T20:38:21Z",
+  "metadata": {
+    "title": "Evening at Room40",
+    "artist": "Various Artists",
+    "year": "2006",
+    "codec": "MP3",
+    "num_tracks": 29,
+    "duration_seconds": 4432,
+    "duration_human": "01:13:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Unknown Artist - Evening at Room40",
+      "02 I/O - Cityscape (Cast_Back)",
+      "03 Reinhold Friedl & Michael Vorfeld - Torf",
+      "04 Chris Abrahams - Can of Faces",
+      "05 Oren Ambarchi - Lost Time Not Found Again",
+      "06 Steinbruechel & Oblaat - Duplex",
+      "07 Zane Trow - Arcade",
+      "08 David Toop & Scanner & Lawrence English - Live Excerpt Sprawl 2004",
+      "09 Lloyd Barrett - Swarm",
+      "10 Greg Davis - Swell [Brisbane Reversion]",
+      "11 Chris Watson - Runway O2E",
+      "12 Marina Rosenfeld - Arm Dormant",
+      "13 Philip Samartzis & Kozo Inada - H ( )",
+      "14 John Chantler - Slow Closuree",
+      "15 Erik Griswold - Clicks + Pops",
+      "16 Tujiko Noriko - Magpies and Mornings",
+      "17 Toshiya Tsunoda - Untitled (Opaque Version)",
+      "18 Stephen Vitiello - Dorm Ant (GTR)",
+      "19 DJ Olive - Sleep",
+      "20 DJ Olive Meets Iothree - First Light Sunday",
+      "21 Ubique - Neglect of Those in-Between",
+      "22 Ami Yoshida and Lawrence English - Live, Syncretism 2003 [Post by Robin Fox]",
+      "23 Haruna Ito - Excavation",
+      "24 Robin Fox and Clayton Thomas - Bird Song",
+      "25 Mroesner - Blurred Hues",
+      "26 Ben Frost - Deconstructing Michael Gira",
+      "27 Tenniscoats - Aurora Curtains [Slow Breeze Mix]",
+      "28 Rod Cooper - Stratum",
+      "29 Keith Fullerton Whitman - 2nd Early Monolith"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/evening-at-room40_1777754164"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/7879e360555361eb02c6/Evening_at_Room40.tar"
+    }
+  }
+}
