@@ -1,0 +1,30 @@
+{
+  "id": "muzak_1777755545",
+  "fingerprint": "8259cb191f3b220d6e59839e6189c81cea32175b9bc7a496bb5fc3e3688f6116",
+  "archived_at": "2026-05-02T21:00:00Z",
+  "metadata": {
+    "title": "Muzak",
+    "artist": "Mailcop",
+    "year": "1987",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 3666,
+    "duration_human": "01:01:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Mailcop - NYD",
+      "02 Mailcop - L4",
+      "03 Mailcop - LV18",
+      "04 Mailcop - LVB"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/muzak_1777755545"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/4df68c2eae70377da4bc/Muzak.tar"
+    }
+  }
+}
