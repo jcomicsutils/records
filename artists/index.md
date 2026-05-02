@@ -9,6 +9,7 @@
 - [Bark Psychosis](Bark-Psychosis/Bark-Psychosis.md)
 - [Bloodz Boi](Bloodz-Boi/Bloodz-Boi.md)
 - [Burning Witch](Burning-Witch/Burning-Witch.md)
+- [Club Rialto](Club-Rialto/Club-Rialto.md)
 - [Death Ambient](Death-Ambient/Death-Ambient.md)
 - [Dirty Three](Dirty-Three/Dirty-Three.md)
 - [Ensemble Pearl](Ensemble-Pearl/Ensemble-Pearl.md)
