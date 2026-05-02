@@ -1,0 +1,30 @@
+{
+  "id": "momentan-def_1777744002",
+  "fingerprint": "513525a8874a52c79daedcdf85f8e1512628f6f8ab05c43cea4310a0f662a6b9",
+  "archived_at": "2026-05-02T17:47:33Z",
+  "metadata": {
+    "title": "Momentan Def.",
+    "artist": "Steinbrüchel",
+    "year": "2003",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 3200,
+    "duration_human": "00:53:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Tomas Korber, Günter Müller & Steinbrüchel - Momentan Live",
+      "02 Tomas Korber - Def. Rmx",
+      "03 Steinbrüchel - Def. Rmx",
+      "04 Günter Müller - Def. Rmx"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/momentan-def_1777744002"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/790fc565f2d903465d82/Momentan_Def.tar"
+    }
+  }
+}
