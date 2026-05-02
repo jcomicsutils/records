@@ -1,0 +1,88 @@
+# Various Artists — Elements I-V (地 | 水 | 火 | 風 | 空) (2014)
+
+![Cover](https://archive.org/download/elements-i-v-de-shui-huo-feng-kong_1777753484/__ia_thumb.jpg)
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | 44.1kHz |
+| Bit Depth | 16-bit |
+| Tracks | 64 |
+| Duration | 06:02:07 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/elements-i-v-de-shui-huo-feng-kong_1777753484)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/43b5de03a09a0600329b/Elements_I-V.tar)
+
+## Tracklist
+
+```
+1-01 Clem Leek - Fujisan
+1-02 Melodia - La Luz De La Tarde
+1-03 Ghost and Tape - Chime
+1-04 Olan Mill - Prone / Supine
+1-05 Islands of Light - Perla
+1-06 Isnaj Dui - Aerotine
+1-07 The Inventors of Aircraft - Live at Recursive Space
+1-08 Elian - The Magician
+1-09 Ithaca Trio - Saavik
+1-10 Nils Quak - Gestern Ist Lange Her
+1-11 The Green Kingdom - Februa
+1-12 Birdt - The I in Mine
+2-01 Darren McLure - Placebo Buttons
+2-02 David Wenngren - Snon Foll Snabbare an Meteorna
+2-03 Gurun Gurun - Mado
+2-04 Antonymes - Are We There? is This 20th Century?
+2-05 Piiptsjilling - Stienrinner
+2-06 Tobias Hellkvist - Kreep
+2-07 Nicolas Bernier - 6pst
+2-08 Rene Margraff - Where Caffeine is Taking Me
+2-09 Y0t0 - The Island is a Mighty Fortress
+2-10 Wil Bolton - At the Desert's Edge
+2-11 Spheruleus - Frama
+2-12 Steinbruchel - Flechten
+2-13 Stefano Guzzetti - Womb (Piano Solo)
+3-01 From the Mouth of the Sun - Landfall
+3-02 Segue - Prairie Night
+3-03 Polar M - Faraway Blue
+3-04 Yann Novak - About to Begin
+3-05 Hannu Karjalainen - The Wind Has Carried Us Both to the Same Acknowledgement
+3-06 Ten and Tracer - Molossom
+3-07 Taishi Kamiya - Moving Phase
+3-08 Quinn Walker - Reify
+3-09 Matteo Uggeri with Enrico Coniglio and Gaia Margutti - Family Man
+3-10 Part Timer - Not Gone Yet
+3-11 Marsen Jules - Il N'ya Pas De Lune
+3-12 Cookson - Michael
+3-13 Spheruleus - A Wooden Sketch
+3-14 Chronovalve - In Silence
+4-01 Ruhe - The Irish Sea (For Richard)
+4-02 Offthesky - 82 Devil's Highway
+4-03 dot tape dot - KnifeWall
+4-04 Ekca Liena - All Revolve
+4-05 Ed Hamilton - Ayu
+4-06 Astrid - Mosquito
+4-07 Federico Durand - Estrella Fugaz
+4-08 Fabio Orsi - Train to Rostov
+4-09 The Frozen Vaults - The Great Thaw
+4-10 Isan - Hedge Fond
+4-11 Philippe Petit - Ypsilon
+4-12 Gareth Davis - Haroun
+4-13 Giulio Aldinucci - The First Rain
+5-01 Slowcraft - Fallen From Grace
+5-02 The Sly and Unseen - Ash Wednesday
+5-03 Autistici - Sky Garden
+5-04 Pleq and Giulio Aldinucci - The Prelude To
+5-05 Remote - Isolate (For Pav)
+5-06 Hideki Umezawa and Shohei Animori - Debris Dans Le Jardin
+5-07 Grace Period - There is Love in You 82 (Angel Echoes)
+5-08 Dorosoto - Cavern Galaxy
+5-09 Le Berger - The Hegemony of Nothingness
+5-10 Dom Mino' - A Colour of Diagonal Nature
+5-11 wndfrm - Alpental Cascade
+5-12 Danny Norbury - A View of Fujisan From Kawaguchiko
+```
+
+---
+*Archived: 2026-05-02*
