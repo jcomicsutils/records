@@ -1,0 +1,38 @@
+{
+  "id": "status_1777745276",
+  "fingerprint": "0cc1084fefd5b55d84d57f086aef8516d21466ec7f22e02e2c91462da4124321",
+  "archived_at": "2026-05-02T18:10:24Z",
+  "metadata": {
+    "title": "Status",
+    "artist": "Steinbrüchel",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3535,
+    "duration_human": "00:58:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bretschneider + Steinbrüchel - Spirale",
+      "02 Bretschneider + Steinbrüchel - Antenne",
+      "03 Bretschneider + Steinbrüchel - Funktion",
+      "04 Bretschneider + Steinbrüchel - Periode",
+      "05 Bretschneider + Steinbrüchel - Phase",
+      "06 Bretschneider + Steinbrüchel - Spektrum",
+      "07 Bretschneider + Steinbrüchel - Basis",
+      "08 Bretschneider + Steinbrüchel - Passage",
+      "09 Bretschneider + Steinbrüchel - Position",
+      "10 Bretschneider + Steinbrüchel - Faktor",
+      "11 Bretschneider + Steinbrüchel - Impuls",
+      "12 Bretschneider + Steinbrüchel - Frequenz"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/status_1777745276"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/502bb17725f63a12fcd4/Status.tar"
+    }
+  }
+}
