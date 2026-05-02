@@ -1,0 +1,31 @@
+{
+  "id": "the-speed-of-mind_1777756623",
+  "fingerprint": "917a188d8ed2ba1493773161c90d92b55709033becf9bce4d7c2ef14472e6cc8",
+  "archived_at": "2026-05-02T21:17:53Z",
+  "metadata": {
+    "title": "The Speed of Mind",
+    "artist": "Happy Halloween",
+    "year": "1985",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 1196,
+    "duration_human": "00:19:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Happy Halloween - Saints",
+      "02 Happy Halloween - Cut",
+      "03 Happy Halloween - I Try",
+      "04 Happy Halloween - Unclear",
+      "05 Happy Halloween - Car"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-speed-of-mind_1777756623"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/38e73928659b1c1b0c6e/The_Speed_Of_Mind.tar"
+    }
+  }
+}
