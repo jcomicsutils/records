@@ -1,0 +1,34 @@
+{
+  "id": "falte_1777743576",
+  "fingerprint": "958326fd10732c04e58abfb468e712d83b0dab411caac6aa639e34dcb0077017",
+  "archived_at": "2026-05-02T17:41:06Z",
+  "metadata": {
+    "title": "Falte",
+    "artist": "Steinbrüchel",
+    "year": "2007",
+    "codec": "MP3",
+    "num_tracks": 8,
+    "duration_seconds": 3445,
+    "duration_human": "00:57:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Schurer > Steinbrüchel - [untitled]",
+      "02 Schurer > Steinbrüchel - [untitled]",
+      "03 Schurer > Steinbrüchel - [untitled]",
+      "04 Schurer > Steinbrüchel - [untitled]",
+      "05 Schurer > Steinbrüchel - [untitled]",
+      "06 Schurer > Steinbrüchel - [untitled]",
+      "07 Schurer > Steinbrüchel - [untitled]",
+      "08 Schurer > Steinbrüchel - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/falte_1777743576"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/0bf31e0dcefe4bd92dbe/Falte.tar"
+    }
+  }
+}
