@@ -1,0 +1,30 @@
+{
+  "id": "abcd_1777742921",
+  "fingerprint": "7e5ce284d0c8dc29f36aae71e6d397195d15bde89c9a7aa13316016c73bd38cb",
+  "archived_at": "2026-05-02T17:30:45Z",
+  "metadata": {
+    "title": "A\\B\\C\\D",
+    "artist": "Steinbrüchel",
+    "year": "2010",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1323,
+    "duration_human": "00:22:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Steinbrüchel - A",
+      "02 Steinbrüchel - B",
+      "03 Steinbrüchel - C",
+      "04 Steinbrüchel - D"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/abcd_1777742921"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/df64d9476ccc585185ad/A_-_B_-_C_-_D.tar"
+    }
+  }
+}
