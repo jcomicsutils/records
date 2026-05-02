@@ -1,0 +1,41 @@
+{
+  "id": "the-wire-tapper-7_1777754532",
+  "fingerprint": "f19e96c4decd6e3c13efc630266ecc1e555274083a09f923ff7e58e24a5fd60c",
+  "archived_at": "2026-05-02T20:45:12Z",
+  "metadata": {
+    "title": "The Wire Tapper 7",
+    "artist": "Various Artists",
+    "year": "2001",
+    "codec": "ALAC",
+    "num_tracks": 15,
+    "duration_seconds": 4338,
+    "duration_human": "01:12:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Four Tet - Glue of the World",
+      "02 Pulseprogramming - To the Expert Eye Alone",
+      "03 Daniel Figgis - Drool’s Holdings / Mudder / The Light Again",
+      "04 Jin Hi Kim - EK for JC (Excerpt)",
+      "05 Kim Hiorthøy - Det Blev Fel",
+      "06 Antibalas - Uprising",
+      "07 Bigg Jus - Gaffeling Whips",
+      "08 Nolte - 21st Century Schizoid Man or How to Lose Your Head Baby",
+      "09 Ralph Steinbrüchel - Lost Things We Found Borrowed at the End of Last Week",
+      "10 Mice Parade - Into the Freedom Part 3",
+      "11 Illusion Of Safety - Stillpoint",
+      "12 Monks Of The Monastery Of Gyuto, Tibet - Le Grand Noir (Mahākāla) (Excerpt)",
+      "13 Eardrum - [untitled]",
+      "14 Lasse Marhaug - Polar",
+      "15 Max Nagl / Edward Gorey Featuring Julie Tippetts - The Disrespectful Summons"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-wire-tapper-7_1777754532"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/d5089d7645196958cb6a/The_Wire_Tapper_7.tar"
+    }
+  }
+}
