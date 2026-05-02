@@ -1,0 +1,31 @@
+{
+  "id": "may-6-2001_1777743794",
+  "fingerprint": "0cc428b97cb56defb4ec85bfff8b5039b0b65d6f5dc38e0c66aad1994af67008",
+  "archived_at": "2026-05-02T17:44:40Z",
+  "metadata": {
+    "title": "May 6, 2001",
+    "artist": "Steinbrüchel",
+    "year": "2006",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 3718,
+    "duration_human": "01:01:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Steinbrüchel - Bank",
+      "02 Aaron Ximm - Negative Architectures",
+      "03 Kenneth Kirschner - May 6, 2001 (Abridged)",
+      "04 Tomas Korber - Financial District",
+      "05 Taylor Deupree - Dust"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/may-6-2001_1777743794"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/a353b7bb47ec0970378c/May_6_2001.tar"
+    }
+  }
+}
