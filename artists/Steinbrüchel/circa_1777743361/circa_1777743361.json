@@ -1,0 +1,38 @@
+{
+  "id": "circa_1777743361",
+  "fingerprint": "560fff495678167b2685fcc1596bb1b1b0779bba60adde3d83bfe11ce90e290a",
+  "archived_at": "2026-05-02T17:39:11Z",
+  "metadata": {
+    "title": "Circa",
+    "artist": "Steinbrüchel",
+    "year": "2003",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 4322,
+    "duration_human": "01:12:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Steinbrüchel - [untitled]",
+      "02 Steinbrüchel - [untitled]",
+      "03 Steinbrüchel - [untitled]",
+      "04 Steinbrüchel - [untitled]",
+      "05 Steinbrüchel - [untitled]",
+      "06 Steinbrüchel - [untitled]",
+      "07 Steinbrüchel - [untitled]",
+      "08 Steinbrüchel - [untitled]",
+      "09 Steinbrüchel - [untitled]",
+      "10 Steinbrüchel - [untitled]",
+      "11 Steinbrüchel - [untitled]",
+      "12 Steinbrüchel - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/circa_1777743361"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/ac6a0e73aa0811e1e7df/Circa.tar"
+    }
+  }
+}
