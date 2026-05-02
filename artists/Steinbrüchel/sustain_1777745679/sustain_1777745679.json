@@ -1,0 +1,27 @@
+{
+  "id": "sustain_1777745679",
+  "fingerprint": "6294b7d6ef1477903af091fb1e44c02b2e64730bc2fc2b32996a137bebc5fd6b",
+  "archived_at": "2026-05-02T18:15:32Z",
+  "metadata": {
+    "title": "Sustain",
+    "artist": "Steinbrüchel",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1313,
+    "duration_human": "00:21:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Steinbrüchel - Sustain"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sustain_1777745679"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/fb3e82a1e7a8ea9f43cd/Sustain.tar"
+    }
+  }
+}
