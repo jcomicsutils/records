@@ -1,0 +1,27 @@
+{
+  "id": "staub_1777745454",
+  "fingerprint": "bcdd10ebe3a6b173cd3c6453109201d3c727f1cc092711f031d4079ddb8f10eb",
+  "archived_at": "2026-05-02T18:14:25Z",
+  "metadata": {
+    "title": "Staub",
+    "artist": "Steinbrüchel",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1329,
+    "duration_human": "00:22:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Steinbrüchel & Machinefabriek - Staub"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/staub_1777745454"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/7916ba5429b738bd76d3/Staub.tar"
+    }
+  }
+}
