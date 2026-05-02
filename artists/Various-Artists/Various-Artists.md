@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Substrat - Innovation Durch Irritation](substrat-innovation-durch-irritation_1777754314/substrat-innovation-durch-irritation_1777754314.md) | 2001 | MP3 | 02:11:17 | [IA](https://archive.org/details/substrat-innovation-durch-irritation_1777754314) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/31f0e6db040addc96cbc/Substrat_-_Innovation_Durch_Irritation.tar) |
 | [60 Sound Artists Protest the War](60-sound-artists-protest-the-war_1777752690/60-sound-artists-protest-the-war_1777752690.md) | 2003 | FLAC | 01:00:48 | [IA](https://archive.org/details/60-sound-artists-protest-the-war_1777752690) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/82c7012d934960989ed0/60_Sound_Artists_Protest_the_War.tar) |
 | [Club Transmediale 03](club-transmediale-03_1777753269/club-transmediale-03_1777753269.md) | 2003 | FLAC | 01:17:45 | [IA](https://archive.org/details/club-transmediale-03_1777753269) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/ee00a78d588e2cff4c81/Club_Transmediale_03.tar) |
 | [Evening at Room40](evening-at-room40_1777754164/evening-at-room40_1777754164.md) | 2006 | MP3 | 01:13:52 | [IA](https://archive.org/details/evening-at-room40_1777754164) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/7879e360555361eb02c6/Evening_at_Room40.tar) |
