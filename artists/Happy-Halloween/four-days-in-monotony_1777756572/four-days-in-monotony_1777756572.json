@@ -1,0 +1,30 @@
+{
+  "id": "four-days-in-monotony_1777756572",
+  "fingerprint": "43a6c762e1c31aff893bace757810b020aadc676e053a93e5e26c846d96d274d",
+  "archived_at": "2026-05-02T21:16:57Z",
+  "metadata": {
+    "title": "Four Days in Monotony",
+    "artist": "Happy Halloween",
+    "year": "1985",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1171,
+    "duration_human": "00:19:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Happy Halloween - Day 1",
+      "02 Happy Halloween - Day 2",
+      "03 Happy Halloween - Day 3",
+      "04 Happy Halloween - Day 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/four-days-in-monotony_1777756572"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/b6f5341211b3dea8f40e/Four_Days_In_Monotony.tar"
+    }
+  }
+}

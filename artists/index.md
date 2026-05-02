@@ -17,6 +17,7 @@
 - [Exploring Jezebel](Exploring-Jezebel/Exploring-Jezebel.md)
 - [Fungal Hex](Fungal-Hex/Fungal-Hex.md)
 - [Gravetemple](Gravetemple/Gravetemple.md)
+- [Happy Halloween](Happy-Halloween/Happy-Halloween.md)
 - [House of Low Culture](House-of-Low-Culture/House-of-Low-Culture.md)
 - [KTL](KTL/KTL.md)
 - [Khanate](Khanate/Khanate.md)
