@@ -25,6 +25,7 @@
 - [Lotus Eaters](Lotus-Eaters/Lotus-Eaters.md)
 - [Love's Holiday Orchestra](Love's-Holiday-Orchestra/Love's-Holiday-Orchestra.md)
 - [Lupercais](Lupercais/Lupercais.md)
+- [Mailcop](Mailcop/Mailcop.md)
 - [Noise](Noise/Noise.md)
 - [Peace & Freedom](Peace-&-Freedom/Peace-&-Freedom.md)
 - [Pentemple](Pentemple/Pentemple.md)

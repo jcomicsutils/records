@@ -1,0 +1,29 @@
+{
+  "id": "death-pact-6_1777755433",
+  "fingerprint": "92b4f51245a0084d04fc3fc4c14acb45fd69828dedc8254bcce18b134dd7b572",
+  "archived_at": "2026-05-02T20:57:50Z",
+  "metadata": {
+    "title": "Death Pact 6",
+    "artist": "Mailcop",
+    "year": "1988",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 2749,
+    "duration_human": "00:45:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Victor/Im & Mailcop - [untitled]",
+      "02 Victor/Im & Mailcop - [untitled]",
+      "03 Victor/Im & Mailcop - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/death-pact-6_1777755433"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/cf1df7a3a87afad5d33d/Death_Pact_6.tar"
+    }
+  }
+}
