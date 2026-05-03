@@ -1,0 +1,52 @@
+{
+  "id": "fading-frontier_1777845899",
+  "fingerprint": "f4abe2eb0611c28c6408bccc76aae3d1c92f2e1e536c95a5bb387686145c3153",
+  "archived_at": "2026-05-03T22:28:58Z",
+  "metadata": {
+    "title": "Fading Frontier",
+    "artist": "Deerhunter",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2165,
+    "duration_human": "00:36:05",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deerhunter - All the Same",
+      "02 Deerhunter - Living My Life",
+      "03 Deerhunter - Breaker",
+      "04 Deerhunter - Duplex Planet",
+      "05 Deerhunter - Take Care",
+      "06 Deerhunter - Leather and Wood",
+      "07 Deerhunter - Snakeskin",
+      "08 Deerhunter - Ad Astra",
+      "09 Deerhunter - Carrion"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fading-frontier_1777845899"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/uxj45f.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/8odc5k.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/8m1ng2.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/twsdla.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/4bde1bc8210bafd61635/Fading_Frontier.tar"
+    }
+  }
+}
