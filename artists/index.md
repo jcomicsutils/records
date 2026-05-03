@@ -27,6 +27,7 @@
 - [Love's Holiday Orchestra](Love's-Holiday-Orchestra/Love's-Holiday-Orchestra.md)
 - [Lupercais](Lupercais/Lupercais.md)
 - [Mailcop](Mailcop/Mailcop.md)
+- [Modest Mouse](Modest-Mouse/Modest-Mouse.md)
 - [Mão Morta](Mão-Morta/Mão-Morta.md)
 - [Neutral Milk Hotel](Neutral-Milk-Hotel/Neutral-Milk-Hotel.md)
 - [Noise](Noise/Noise.md)

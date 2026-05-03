@@ -1,0 +1,40 @@
+{
+  "id": "a-mouthful-of-lost-thoughts_1777835681",
+  "fingerprint": "d679507f7c7255eef58ab5fa8a3a4f6f276fba1c9e56270cec49507d1b14712c",
+  "archived_at": "2026-05-03T19:19:35Z",
+  "metadata": {
+    "title": "A Mouthful of Lost Thoughts",
+    "artist": "Modest Mouse",
+    "year": "1994",
+    "codec": "MP3",
+    "num_tracks": 11,
+    "duration_seconds": 2863,
+    "duration_human": "00:47:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Modest Mouse - Sugar in My Coffeeo",
+      "02 Modest Mouse - Happy Little Ower",
+      "03 Modest Mouse - Ding, Urch, Ding Zoom Bean Gone",
+      "04 Modest Mouse - Woodgrain",
+      "05 Modest Mouse - Old New Agers",
+      "06 Modest Mouse - Rolloff",
+      "07 Modest Mouse - Jumpsuit or Jumpship",
+      "08 Modest Mouse - AEIOU and Sometimes Why",
+      "09 Modest Mouse - In Like Roses",
+      "10 Modest Mouse - Kirchies Song",
+      "11 Modest Mouse - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-mouthful-of-lost-thoughts_1777835681"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/hdmv4s.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/59b5cfd1bfa080ac256e/A_Mouthful_of_Lost_Thoughts.tar"
+    }
+  }
+}
