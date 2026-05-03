@@ -1,0 +1,27 @@
+{
+  "id": "horas-de-matar_1777824937",
+  "fingerprint": "27090399af0f589b6db5feb4bbf469ad3a47bbf7f872dafdb69382f5e762a2f7",
+  "archived_at": "2026-05-03T16:16:35Z",
+  "metadata": {
+    "title": "Horas de Matar",
+    "artist": "Mão Morta",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 202,
+    "duration_human": "00:03:22",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Mão Morta - Horas de matar"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/horas-de-matar_1777824937"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/15d9fe496e5fab5a29eb/Horas_de_Matar.tar"
+    }
+  }
+}
