@@ -1,0 +1,35 @@
+{
+  "id": "naito-on-za-san_1777844404",
+  "fingerprint": "211e6ab7a4b75513ca4c2bf6549f9136a96c28656ed347b60a8a235bc311840c",
+  "archived_at": "2026-05-03T21:41:03Z",
+  "metadata": {
+    "title": "ナイト・オン・ザ・サン",
+    "artist": "Modest Mouse",
+    "year": "1999",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1414,
+    "duration_human": "00:23:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Modest Mouse - Night on the Sun",
+      "02 Modest Mouse - You’re the Good Things (It’s Alright to Die)",
+      "03 Modest Mouse - Wild Packs of Family Dogs",
+      "04 Modest Mouse - Dark Center of the Universe",
+      "05 Modest Mouse - Your Life",
+      "06 Modest Mouse - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/naito-on-za-san_1777844404"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vcwiin.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/c79ea0b643bfb559a044/%E3%83%8A%E3%82%A4%E3%83%88%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%B6%E3%83%BB%E3%82%B5%E3%83%B3.tar"
+    }
+  }
+}
