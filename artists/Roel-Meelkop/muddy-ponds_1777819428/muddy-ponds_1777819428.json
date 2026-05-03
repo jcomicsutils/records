@@ -1,0 +1,29 @@
+{
+  "id": "muddy-ponds_1777819428",
+  "fingerprint": "81303af2ce07deb770ec738f462f545fbb3b4511dd0b1fab6b6a09ff397b0b4c",
+  "archived_at": "2026-05-03T14:46:16Z",
+  "metadata": {
+    "title": "Muddy Ponds",
+    "artist": "Roel Meelkop",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2643,
+    "duration_human": "00:44:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - Manifold Presence",
+      "02 Roel Meelkop - Minor Particles",
+      "03 Roel Meelkop - Medium Pleasure"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/muddy-ponds_1777819428"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/528bb254eb0cc54c2e2e/Muddy_Ponds.tar"
+    }
+  }
+}
