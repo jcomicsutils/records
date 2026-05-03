@@ -1,0 +1,30 @@
+{
+  "id": "2000-or-so_1777816014",
+  "fingerprint": "c51201595a0d32002d44b8a75669a1cb8d94d37390af36a22b1ae1e53ae9efac",
+  "archived_at": "2026-05-03T13:50:42Z",
+  "metadata": {
+    "title": "2000 or So...",
+    "artist": "Roel Meelkop",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1719,
+    "duration_human": "00:28:39",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Mikael Stavöstrand & Roel Meelkop - I",
+      "02 Mikael Stavöstrand & Roel Meelkop - II",
+      "03 Mikael Stavöstrand & Roel Meelkop - III",
+      "04 Mikael Stavöstrand & Roel Meelkop - IV"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/2000-or-so_1777816014"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/ac2d6a94cee1d1fadcae/2000_or_So.tar"
+    }
+  }
+}
