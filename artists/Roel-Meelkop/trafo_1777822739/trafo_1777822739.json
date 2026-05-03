@@ -1,0 +1,30 @@
+{
+  "id": "trafo_1777822739",
+  "fingerprint": "f2bcad0d580055f62e0ff67ee35f5fbb7112abc80e4229ee3b1f44f00f049873",
+  "archived_at": "2026-05-03T15:41:53Z",
+  "metadata": {
+    "title": "Trafo",
+    "artist": "Roel Meelkop",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2549,
+    "duration_human": "00:42:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop & Reinhold Bogaard - Trafo 1",
+      "02 Roel Meelkop & Reinhold Bogaard - Trafo 2",
+      "03 Roel Meelkop & Reinhold Bogaard - Trafo 3",
+      "04 Roel Meelkop & Reinhold Bogaard - Trafo 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/trafo_1777822739"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/15fe892fd01075cb648f/Trafo.tar"
+    }
+  }
+}
