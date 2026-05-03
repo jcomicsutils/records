@@ -1,0 +1,54 @@
+{
+  "id": "we-were-dead-before-the-ship-even-sank_1777844067",
+  "fingerprint": "055c989533c011053afb393bf9a0553af6ac27a4644ea1f96392e07f70b8f3b8",
+  "archived_at": "2026-05-03T21:37:26Z",
+  "metadata": {
+    "title": "We Were Dead Before the Ship Even Sank",
+    "artist": "Modest Mouse",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 3753,
+    "duration_human": "01:02:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Modest Mouse - March Into the Sea (Album Version)",
+      "02 Modest Mouse - Dashboard (Album Version)",
+      "03 Modest Mouse - Fire It Up (Album Version)",
+      "04 Modest Mouse - Florida (Album Version)",
+      "05 Modest Mouse - Parting of the Sensory (Album Version)",
+      "06 Modest Mouse - Missed the Boat (Album Version)",
+      "07 Modest Mouse - We've Got Everything (Album Version)",
+      "08 Modest Mouse - Fly Trapped in a Jar (Album Version)",
+      "09 Modest Mouse - Education (Album Version)",
+      "10 Modest Mouse - Little Motel",
+      "11 Modest Mouse - Steam Engenius (Album Version)",
+      "12 Modest Mouse - Spitting Venom (Album Version)",
+      "13 Modest Mouse - People as Places as People (Album Version)",
+      "14 Modest Mouse - Invisible (Album Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/we-were-dead-before-the-ship-even-sank_1777844067"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/fivq0p.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/mn6yew.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/keawb7.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/d170e14eada1533f3728/We_Were_Dead_Before_the_Ship_Even_Sank.tar"
+    }
+  }
+}
