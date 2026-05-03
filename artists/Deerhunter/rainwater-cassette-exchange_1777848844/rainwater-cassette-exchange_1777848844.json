@@ -1,0 +1,34 @@
+{
+  "id": "rainwater-cassette-exchange_1777848844",
+  "fingerprint": "a6ade2a9eed0f91686c3fd978bb79c38572bd2547a08f1f5896e4ae56b43ee52",
+  "archived_at": "2026-05-03T22:55:56Z",
+  "metadata": {
+    "title": "Rainwater Cassette Exchange",
+    "artist": "Deerhunter",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 921,
+    "duration_human": "00:15:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhunter - Rainwater Cassette Exchange",
+      "02 Deerhunter - Disappearing Ink",
+      "03 Deerhunter - Famous Last Words",
+      "04 Deerhunter - Game of Diamonds",
+      "05 Deerhunter - Circulation"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rainwater-cassette-exchange_1777848844"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/mvlf0a.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/2319dfcd466e0b21b60e/Rainwater_Cassette_Exchange.tar"
+    }
+  }
+}
