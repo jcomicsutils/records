@@ -1,0 +1,31 @@
+{
+  "id": "fluorescent-grey-oh-its-such-a-shame_1777847732",
+  "fingerprint": "849df0ccef7b5f09289789662f47e500da962271a99ac62ca23c4237f721c72e",
+  "archived_at": "2026-05-03T22:36:10Z",
+  "metadata": {
+    "title": "Fluorescent Grey | Oh, It's Such a Shame",
+    "artist": "Deerhunter",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 515,
+    "duration_human": "00:08:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jay Reatard, Deerhunter - Fluorescent Grey",
+      "02 Jay Reatard, Deerhunter - Oh, It's Such a Shame"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fluorescent-grey-oh-its-such-a-shame_1777847732"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/kuf55p.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/5333b4841d92e2e07563/Fluorescent_Grey_Oh_It%27s_Such_a_Shame.tar"
+    }
+  }
+}
