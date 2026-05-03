@@ -1,0 +1,27 @@
+{
+  "id": "passaros-a-esvoacar-ao-vivo_1777832158",
+  "fingerprint": "14ce6b11a5090cec7cc9b1d29bc996343ba636e66577525b42cfdbc1044ce2ce",
+  "archived_at": "2026-05-03T18:16:30Z",
+  "metadata": {
+    "title": "Pássaros a Esvoaçar (Ao Vivo)",
+    "artist": "Mão Morta",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 369,
+    "duration_human": "00:06:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mão Morta, Remix Ensemble - Pássaros a esvoaçar (Ao vivo)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/passaros-a-esvoacar-ao-vivo_1777832158"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/420648f415ac000d0374/P%C3%A1ssaros_a_Esvoa%C3%A7ar_%28Ao_Vivo.tar"
+    }
+  }
+}
