@@ -1,0 +1,27 @@
+{
+  "id": "haramudrempel_1777817678",
+  "fingerprint": "ab02be00c445434797a8e813412be604637e2b318ea30fe5bfa8a0a0c3197006",
+  "archived_at": "2026-05-03T14:16:43Z",
+  "metadata": {
+    "title": "Haramu/Drempel",
+    "artist": "Roel Meelkop",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4427,
+    "duration_human": "01:13:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - Haramu/Drempel"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/haramudrempel_1777817678"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/b32726c24c695d32a826/Haramu_-_Drempel.tar"
+    }
+  }
+}
