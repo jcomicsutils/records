@@ -1,0 +1,30 @@
+{
+  "id": "ice-cream-party_1777838337",
+  "fingerprint": "a1336e2f84a43175c34e4127aad02ad538820b604e0d055ff9d83c38b6618694",
+  "archived_at": "2026-05-03T19:59:33Z",
+  "metadata": {
+    "title": "Ice Cream Party",
+    "artist": "Modest Mouse",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 370,
+    "duration_human": "00:06:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Modest Mouse - Ice Cream Party"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ice-cream-party_1777838337"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/sl904b.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/23dc147c134492eb4829/Ice_Cream_Party.tar"
+    }
+  }
+}
