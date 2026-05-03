@@ -1,0 +1,31 @@
+{
+  "id": "5-ambiences_1777814966",
+  "fingerprint": "ce766d961499115b3513a65b014a23632260bc1e9f1036d0525c211b4bbf2bba",
+  "archived_at": "2026-05-03T13:31:52Z",
+  "metadata": {
+    "title": "5 (Ambiences)",
+    "artist": "Roel Meelkop",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3351,
+    "duration_human": "00:55:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - 1",
+      "02 Roel Meelkop - 2",
+      "03 Roel Meelkop - 3",
+      "04 Roel Meelkop - 4",
+      "05 Roel Meelkop - 5"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/5-ambiences_1777814966"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/c682ea49b830c7f61478/5_%28Ambiences.tar"
+    }
+  }
+}
