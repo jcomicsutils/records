@@ -1,0 +1,45 @@
+{
+  "id": "everywhere-and-his-nasty-parlour-tricks_1777837158",
+  "fingerprint": "fc610d2a6a44ca039307fffcc84f82a5431fc832819aaae72c2ecdd8492031ae",
+  "archived_at": "2026-05-03T19:40:32Z",
+  "metadata": {
+    "title": "Everywhere and His Nasty Parlour Tricks",
+    "artist": "Modest Mouse",
+    "year": "2001",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1968,
+    "duration_human": "00:32:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Modest Mouse - Willful Suspension of Disbelief",
+      "02 Modest Mouse - Night on the Sun",
+      "03 Modest Mouse - 3 Inch Horses, Two Faced Monsters",
+      "04 Modest Mouse - You're the Good Things",
+      "05 Modest Mouse - The Air",
+      "06 Modest Mouse - So Much Beauty in Dirt",
+      "07 Modest Mouse - Here It Comes",
+      "08 Modest Mouse - I Came as a Rat (Long Walk Off a Short Dock)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/everywhere-and-his-nasty-parlour-tricks_1777837158"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/gu2xlr.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/djyluw.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/dbee4e1e374cc20a04f5/Everywhere_and_His_Nasty_Parlour_Tricks.tar"
+    }
+  }
+}
