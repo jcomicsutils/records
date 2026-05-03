@@ -1,0 +1,40 @@
+{
+  "id": "mail-art-muzic-project_1777769680",
+  "fingerprint": "2d4887627239ccec77a77560be6aa8639b8266f904d492fa52f8dac03045cddd",
+  "archived_at": "2026-05-03T00:56:16Z",
+  "metadata": {
+    "title": "Mail-Art Muzic Project",
+    "artist": "Various Artists",
+    "year": "1987",
+    "codec": "MP3",
+    "num_tracks": 14,
+    "duration_seconds": 1653,
+    "duration_human": "00:27:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 DMDN - The Tapeloop",
+      "02 Ad & Riet´Duimelinks - [untitled]",
+      "03 Gerrie Broeders - [untitled]",
+      "04 Marielle Cremers - [untitled]",
+      "05 Jos Smolders - [untitled]",
+      "06 John P - [untitled]",
+      "07 Christian Nijs - [untitled]",
+      "08 Hapunkt Fix - [untitled]",
+      "09 Guido Doesborg - [untitled]",
+      "10 Peter Duimelinks - [untitled]",
+      "11 Frans De Waard - [untitled]",
+      "12 Roel Meelkop - [untitled]",
+      "13 GX Jupitter-Larsen - [untitled]",
+      "14 Jac Van Bussel - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mail-art-muzic-project_1777769680"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/c2cdaca0ab741153765a/Mail-Art_Muzic_Project.tar"
+    }
+  }
+}
