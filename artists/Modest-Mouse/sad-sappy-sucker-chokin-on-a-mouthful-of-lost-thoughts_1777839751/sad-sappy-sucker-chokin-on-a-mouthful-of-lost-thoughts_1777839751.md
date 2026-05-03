@@ -1,0 +1,64 @@
+# Modest Mouse — Sad Sappy Sucker Chokin on a Mouthful of Lost Thoughts (1994)
+
+![Cover](https://archive.org/download/sad-sappy-sucker-chokin-on-a-mouthful-of-lost-thoughts_1777839751/__ia_thumb.jpg)
+
+| Field | Value |
+|-------|-------|
+| Codec | MP3 |
+| Sampling Rate | 44.1kHz |
+| Bit Depth | N/A |
+| Tracks | 39 |
+| Duration | 01:20:08 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/sad-sappy-sucker-chokin-on-a-mouthful-of-lost-thoughts_1777839751)
+- [Catbox](https://files.catbox.moe/koiovm.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/1577a8ac842a19096c36/Sad_Sappy_Sucker_Chokin_on_a_Mouthful_of_Lost_Thoughts.tar)
+
+## Tracklist
+
+```
+01 Modest Mouse - Sugar in My Coffeeo
+02 Modest Mouse - Ugly Cassanova
+03 Modest Mouse - Part Time Pastenseolinth
+04 Modest Mouse - Play Taps
+05 Modest Mouse - Happy Little Ower
+06 Modest Mouse - Play Ground for the Shot Gun Kids
+07 Modest Mouse - Sad Sorta Angry
+08 Modest Mouse - Ding, Urch, Ding / Zoom Bean Gone
+09 Modest Mouse - Study to Use a Crayon
+10 Modest Mouse - Treat Me Like a Mammal
+11 Modest Mouse - Woodgrain
+12 Modest Mouse - Alone on the Shelf / The Doomsday Blimp Can't Play Ping Pong
+13 Modest Mouse - Plyode
+14 Modest Mouse - Old New Agers
+15 Modest Mouse - Rolloff
+16 Modest Mouse - Inanimate Know-How
+17 Modest Mouse - Teachers Fieldtrip to the Moon
+18 Modest Mouse - The Trouble With....
+19 Modest Mouse - Happy Face Goes To...
+20 Modest Mouse - ...But Theyre Not Singing Gohsts
+21 Modest Mouse - Intermision
+22 Modest Mouse - Dont Know Direction
+23 Modest Mouse - Jumpsuit or Jumpship
+24 Modest Mouse - AEIOU and Sometimes Why
+25 Modest Mouse - In Like Roses
+26 Modest Mouse - Teeth Mean Smiles
+27 Modest Mouse - Noel
+28 Modest Mouse - N.R.G.
+29 Modest Mouse - Kirchies Song
+30 Modest Mouse - Singun Chaser
+31 Modest Mouse - Nosaysisaysnoone
+32 Modest Mouse - Wingtips
+33 Modest Mouse - Osteropithicus
+34 Modest Mouse - The Neck a Throne for Bad Ideas
+35 Modest Mouse - Eviction Day for the Guilt
+36 Modest Mouse - A Song
+37 Modest Mouse - Live in Sunburst MT.
+38 Modest Mouse - Election Day
+39 Modest Mouse - Tip Toed
+```
+
+---
+*Archived: 2026-05-03*
