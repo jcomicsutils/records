@@ -1,0 +1,47 @@
+{
+  "id": "primavera-de-destrocos_1777830920",
+  "fingerprint": "9cf8b2a2d32859f6d1b33fb20dc6fc9c81eb00a64a1b89bbfea66dc0680a6a1b",
+  "archived_at": "2026-05-03T18:01:07Z",
+  "metadata": {
+    "title": "Primavera de destroços",
+    "artist": "Mão Morta",
+    "year": "2001",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2659,
+    "duration_human": "00:44:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mão Morta - Cão da morte",
+      "02 Mão Morta - Arrastando o seu cadáver",
+      "03 Mão Morta - Tu disseste",
+      "04 Mão Morta - Penso que penso",
+      "05 Mão Morta - Gin tonic",
+      "06 Mão Morta - O jardim",
+      "07 Mão Morta - Humano",
+      "08 Mão Morta - Nada a perder",
+      "09 Mão Morta - O combate",
+      "10 Mão Morta - Primavera de destroços"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/primavera-de-destrocos_1777830920"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/am8ha6.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/egu8wh.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/3f52dc79deab27319afb/Primavera_de_destro%C3%A7os.tar"
+    }
+  }
+}
