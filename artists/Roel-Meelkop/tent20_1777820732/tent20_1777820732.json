@@ -1,0 +1,27 @@
+{
+  "id": "tent20_1777820732",
+  "fingerprint": "a1ec793736ef70f7edaf65a7d48b86647ea2bde204b621f85007fdb4a7ff415b",
+  "archived_at": "2026-05-03T15:09:17Z",
+  "metadata": {
+    "title": "TENT20",
+    "artist": "Roel Meelkop",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1706,
+    "duration_human": "00:28:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - TENT20"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tent20_1777820732"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/c030dc70d70e355478ad/TENT20.tar"
+    }
+  }
+}
