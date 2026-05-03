@@ -1,0 +1,30 @@
+{
+  "id": "4-pieces_1777814780",
+  "fingerprint": "94d4d20e00c1ab6e2778ed0dafa83a23a67d0d210efcb82a1741361194611299",
+  "archived_at": "2026-05-03T13:29:13Z",
+  "metadata": {
+    "title": "4 Pieces",
+    "artist": "Roel Meelkop",
+    "year": "1999",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 3744,
+    "duration_human": "01:02:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Roel Meelkop + Toy Bizarre - 1 (Détude)",
+      "02 Roel Meelkop + Toy Bizarre - 0,5 (Détude) - Kdi Dctb 69",
+      "03 Roel Meelkop + Toy Bizarre - Kdi Dctb 51",
+      "04 Roel Meelkop + Toy Bizarre - Ddi Dctb 66"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/4-pieces_1777814780"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/a7018869e7b9c563f8b1/4_Pieces.tar"
+    }
+  }
+}
