@@ -1,0 +1,53 @@
+{
+  "id": "why-hasnt-everything-already-disappeared_1777849813",
+  "fingerprint": "14d607c51cb26568b9260ae31bd8c9e91276afa437cb2b5b7368fa508ef4ba2b",
+  "archived_at": "2026-05-03T23:23:22Z",
+  "metadata": {
+    "title": "Why Hasn't Everything Already Disappeared?",
+    "artist": "Deerhunter",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2168,
+    "duration_human": "00:36:08",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deerhunter - Death in Midsummer",
+      "02 Deerhunter - No One's Sleeping",
+      "03 Deerhunter - Greenpoint Gothic",
+      "04 Deerhunter - Element",
+      "05 Deerhunter - What Happens to People?",
+      "06 Deerhunter - Détournement",
+      "07 Deerhunter - Futurism",
+      "08 Deerhunter - Tarnung",
+      "09 Deerhunter - Plains",
+      "10 Deerhunter - Nocturne"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/why-hasnt-everything-already-disappeared_1777849813"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/oc2hzz.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/2aym9h.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/rrrwj7.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/07cam9.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/563e733cb031945192de/Why_Hasn%27t_Everything_Already_Disappeared.tar"
+    }
+  }
+}
