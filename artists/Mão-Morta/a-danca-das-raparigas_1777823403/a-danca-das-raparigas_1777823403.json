@@ -1,0 +1,27 @@
+{
+  "id": "a-danca-das-raparigas_1777823403",
+  "fingerprint": "927d84d1c41523d020e0fb8c4b6adab60fb872a403e8cdb44c443229b29ca36e",
+  "archived_at": "2026-05-03T15:51:44Z",
+  "metadata": {
+    "title": "A Dança das Raparigas",
+    "artist": "Mão Morta",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 318,
+    "duration_human": "00:05:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mão Morta, Pedro Sousa - A dança das raparigas"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-danca-das-raparigas_1777823403"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/71a7f5291e1fde5af763/A_Dan%C3%A7a_das_Raparigas.tar"
+    }
+  }
+}
