@@ -1,0 +1,42 @@
+{
+  "id": "the-future-is-in-the-past_1777821236",
+  "fingerprint": "21dde83aaf9db660ad38809f47f5c8392f5635a4ee7f31dad9597f4e4245b6cf",
+  "archived_at": "2026-05-03T15:18:10Z",
+  "metadata": {
+    "title": "The Future is in the Past",
+    "artist": "Roel Meelkop",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_seconds": 5278,
+    "duration_human": "01:27:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 roel meelkop - 1",
+      "02 roel meelkop - 2",
+      "03 roel meelkop - 3",
+      "04 roel meelkop - 4",
+      "05 roel meelkop - 5",
+      "06 roel meelkop - 6",
+      "07 roel meelkop - 7",
+      "08 roel meelkop - 7",
+      "09 roel meelkop - 8",
+      "10 roel meelkop - 9",
+      "11 roel meelkop - 10",
+      "12 roel meelkop - 11",
+      "13 roel meelkop - 12",
+      "14 roel meelkop - 13",
+      "15 roel meelkop - 14",
+      "16 roel meelkop - 15"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-future-is-in-the-past_1777821236"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/b2ab3cdb18f8c0e61d79/The_Future_is_in_the_Past.tar"
+    }
+  }
+}
