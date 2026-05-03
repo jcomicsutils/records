@@ -1,0 +1,29 @@
+{
+  "id": "ad-noiseam_1777816283",
+  "fingerprint": "26ec92ecea453e1248579737f2218f91e677b95644722e492194231e4c85f9ea",
+  "archived_at": "2026-05-03T13:53:35Z",
+  "metadata": {
+    "title": "Ad Noiseam",
+    "artist": "Roel Meelkop",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1771,
+    "duration_human": "00:29:31",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Roel Meelkop - Silvery",
+      "02 Roel Meelkop - Misty",
+      "03 Roel Meelkop - Goldy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ad-noiseam_1777816283"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/fbdeda317b8365cbcee4/Ad_Noiseam.tar"
+    }
+  }
+}
