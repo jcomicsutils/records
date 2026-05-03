@@ -1,0 +1,33 @@
+{
+  "id": "everything-is_1777807302",
+  "fingerprint": "409079b51f7e44ed6a43d57bf14c04080023bac353fc312e5a2e6c89dc5fe927",
+  "archived_at": "2026-05-03T11:22:58Z",
+  "metadata": {
+    "title": "Everything is",
+    "artist": "Neutral Milk Hotel",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1368,
+    "duration_human": "00:22:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Neutral Milk Hotel - Everything is",
+      "02 Neutral Milk Hotel - Here We Are (For W. Cullen Hart)",
+      "03 Neutral Milk Hotel - Unborn",
+      "04 Neutral Milk Hotel - Tuesday Moon",
+      "05 Neutral Milk Hotel - Ruby Bulbs",
+      "06 Neutral Milk Hotel - Snow Song",
+      "07 Neutral Milk Hotel - Aunt Eggma Blow Torch"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/everything-is_1777807302"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/968ff489a8cf69a20279/Everything_is.tar"
+    }
+  }
+}
