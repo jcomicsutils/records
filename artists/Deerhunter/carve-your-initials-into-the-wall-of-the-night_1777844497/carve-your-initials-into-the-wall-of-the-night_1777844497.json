@@ -1,0 +1,39 @@
+{
+  "id": "carve-your-initials-into-the-wall-of-the-night_1777844497",
+  "fingerprint": "ae136b12e7ac64cd94f9e2f82de3ab27b8a5ffb68f27ddeee3a32ad46f4472b4",
+  "archived_at": "2026-05-03T21:42:53Z",
+  "metadata": {
+    "title": "Carve Your Initials Into the Wall of the Night",
+    "artist": "Deerhunter",
+    "year": "2005",
+    "codec": "MP3",
+    "num_tracks": 10,
+    "duration_seconds": 2788,
+    "duration_human": "00:46:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Deerhunter - Bright and Early",
+      "02 Deerhunter - Cicadas",
+      "03 Deerhunter - Rotation",
+      "04 Deerhunter - But, I'm a Boy",
+      "05 Deerhunter - Three Dolphins Melting Into Orange Wax",
+      "06 Deerhunter - Snow Dogs",
+      "07 Deerhunter - Dogs Are Cool",
+      "08 Deerhunter - Homorobotic",
+      "09 Deerhunter - Cordless",
+      "10 Deerhunter - When I Taste Blood"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/carve-your-initials-into-the-wall-of-the-night_1777844497"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0za3yi.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/2d121a5af5c3bff63cf4/Carve_Your_Initials_Into_the_Wall_of_the_Night.tar"
+    }
+  }
+}

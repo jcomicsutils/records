@@ -11,6 +11,7 @@
 - [Burning Witch](Burning-Witch/Burning-Witch.md)
 - [Club Rialto](Club-Rialto/Club-Rialto.md)
 - [Death Ambient](Death-Ambient/Death-Ambient.md)
+- [Deerhunter](Deerhunter/Deerhunter.md)
 - [Dirty Three](Dirty-Three/Dirty-Three.md)
 - [Ensemble Pearl](Ensemble-Pearl/Ensemble-Pearl.md)
 - [Ever Present Orchestra](Ever-Present-Orchestra/Ever-Present-Orchestra.md)
