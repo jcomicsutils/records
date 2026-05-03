@@ -1,0 +1,40 @@
+{
+  "id": "on-avery-island_1777808122",
+  "fingerprint": "cf2bf48298ae73d3c9908923f82a81c5c448436c0b109b0525724f5f68d99b89",
+  "archived_at": "2026-05-03T11:40:33Z",
+  "metadata": {
+    "title": "On Avery Island",
+    "artist": "Neutral Milk Hotel",
+    "year": "1996",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 3333,
+    "duration_human": "00:55:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Neutral Milk Hotel - Song Against Sex",
+      "02 Neutral Milk Hotel - You've Passed",
+      "03 Neutral Milk Hotel - Someone is Waiting",
+      "04 Neutral Milk Hotel - A Baby for Pree",
+      "05 Neutral Milk Hotel - Marching Theme",
+      "06 Neutral Milk Hotel - Where You'll Find Me Now",
+      "07 Neutral Milk Hotel - Avery Island / April 1st",
+      "08 Neutral Milk Hotel - Gardenhead / Leave Me Alone",
+      "09 Neutral Milk Hotel - Three Peaches",
+      "10 Neutral Milk Hotel - Naomi",
+      "11 Neutral Milk Hotel - April 8th",
+      "12 Neutral Milk Hotel - Pree-Sisters Swallowing a Donkey's Eye",
+      "13 Neutral Milk Hotel - Everything Is…",
+      "14 Neutral Milk Hotel - Snow Song, Pt. 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/on-avery-island_1777808122"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/713113ba866aad6d91e6/On_Avery_Island.tar"
+    }
+  }
+}

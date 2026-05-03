@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Hype-City Soundtrack](hype-city-soundtrack_1777807492/hype-city-soundtrack_1777807492.md) | 1993 | FLAC | 00:28:38 | [IA](https://archive.org/details/hype-city-soundtrack_1777807492) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/4aca3d39d0ea36afdf1a/Hype-City_Soundtrack.tar) |
+| [On Avery Island](on-avery-island_1777808122/on-avery-island_1777808122.md) | 1996 | FLAC | 00:55:33 | [IA](https://archive.org/details/on-avery-island_1777808122) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/713113ba866aad6d91e6/On_Avery_Island.tar) |
 | [In the Aeroplane Over the Sea](in-the-aeroplane-over-the-sea_1777807789/in-the-aeroplane-over-the-sea_1777807789.md) | 1998 | FLAC | 00:39:54 | [IA](https://archive.org/details/in-the-aeroplane-over-the-sea_1777807789) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/c40bc10fd6609ef55205/In_the_Aeroplane_Over_the_Sea.tar) |
 | [Little Birds](little-birds_1777808045/little-birds_1777808045.md) | 2023 | FLAC | 00:12:16 | [IA](https://archive.org/details/little-birds_1777808045) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/9e911f0830af7e1af3b0/Little_Birds.tar) |
 | [Ferris Wheel on Fire](ferris-wheel-on-fire_1777807399/ferris-wheel-on-fire_1777807399.md) | 2023 | FLAC | 00:24:25 | [IA](https://archive.org/details/ferris-wheel-on-fire_1777807399) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/8e6d6eb8efc379986f37/Ferris_Wheel_on_Fire.tar) |
