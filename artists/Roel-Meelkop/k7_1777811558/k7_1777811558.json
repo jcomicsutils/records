@@ -1,0 +1,28 @@
+{
+  "id": "k7_1777811558",
+  "fingerprint": "f7ccc6a4abc10eda760779332921118adccf5ef071e2acaae0629e7c3fa2166d",
+  "archived_at": "2026-05-03T12:41:29Z",
+  "metadata": {
+    "title": "(K)7",
+    "artist": "Roel Meelkop",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3009,
+    "duration_human": "00:50:09",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Roel Meelkop - (K)7a",
+      "02 Roel Meelkop - (K)7b"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/k7_1777811558"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/e44266a58e84dbfd9b47/%28K%297.tar"
+    }
+  }
+}
