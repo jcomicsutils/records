@@ -1,0 +1,35 @@
+{
+  "id": "9-holes-in-the-head_1777815681",
+  "fingerprint": "1922b15edabfe0816943f11d577b3f071bdec44dd0aa59eb058c60a261cf5b1e",
+  "archived_at": "2026-05-03T13:42:56Z",
+  "metadata": {
+    "title": "9 (Holes in the Head)",
+    "artist": "Roel Meelkop",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3673,
+    "duration_human": "01:01:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - From How On",
+      "02 Roel Meelkop - Espace Formé",
+      "03 Roel Meelkop - Bewegt, Bewogen Usw",
+      "04 Roel Meelkop - Voor J",
+      "05 Roel Meelkop - (Pittoresk)",
+      "06 Roel Meelkop - Vergeten",
+      "07 Roel Meelkop - Loch Im Kopf",
+      "08 Roel Meelkop - Espace Fermé",
+      "09 Roel Meelkop - Left What Where"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/9-holes-in-the-head_1777815681"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/6ec3417af15f3bdd73b5/9_%28Holes_in_the_Head.tar"
+    }
+  }
+}
