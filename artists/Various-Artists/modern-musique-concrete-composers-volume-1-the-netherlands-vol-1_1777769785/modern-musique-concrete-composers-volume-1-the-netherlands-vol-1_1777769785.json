@@ -1,0 +1,28 @@
+{
+  "id": "modern-musique-concrete-composers-volume-1-the-netherlands-vol-1_1777769785",
+  "fingerprint": "4e7694ca202b39197c50053b8c595dd0353a8c9c410633edf71b13336988d8e9",
+  "archived_at": "2026-05-03T00:57:29Z",
+  "metadata": {
+    "title": "Modern Musique Concrete Composers Volume 1: The Netherlands Vol. 1",
+    "artist": "Various Artists",
+    "year": "1988",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1774,
+    "duration_human": "00:29:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Jos Smolders / Marcel van der Zwet - Electro-acoustische studie / Beton",
+      "02 Roel Meelkop / Frans de Waard - Drie Verhuizingen / Locaties"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/modern-musique-concrete-composers-volume-1-the-netherlands-vol-1_1777769785"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/a1c6716921712d6fd589/Modern_Musique_Concrete_Composers_Volume_1_The_Netherlands_Vol.tar"
+    }
+  }
+}
