@@ -1,0 +1,37 @@
+{
+  "id": "no-fim-era-o-frio_1777827289",
+  "fingerprint": "f1d06aed49b0800467ef1a92de15576e2e2f4fb2aabb936a39089d491366dd3a",
+  "archived_at": "2026-05-03T17:01:58Z",
+  "metadata": {
+    "title": "No Fim Era o Frio",
+    "artist": "Mão Morta",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 3044,
+    "duration_human": "00:50:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mão Morta - O despertar",
+      "02 Mão Morta - O mundo não é mais um lugar seguro",
+      "03 Mão Morta - Um ser que não se ilumina",
+      "04 Mão Morta - Quem és tu?",
+      "05 Mão Morta - Oxalá",
+      "06 Mão Morta - Passo o dia a olhar o sol",
+      "07 Mão Morta - Deflagram clarões de luz",
+      "08 Mão Morta - Invasão bélica",
+      "09 Mão Morta - A minha amada",
+      "10 Mão Morta - Isto é real?",
+      "11 Mão Morta - Sinto tanto frio"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/no-fim-era-o-frio_1777827289"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/ba1b589b475c6acb8b2d/No_Fim_Era_o_Frio.tar"
+    }
+  }
+}
