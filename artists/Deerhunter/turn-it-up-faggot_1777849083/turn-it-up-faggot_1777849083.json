@@ -1,0 +1,46 @@
+{
+  "id": "turn-it-up-faggot_1777849083",
+  "fingerprint": "7e638ae7428574d145dbaa912111a9fda2c884f0521a8d4c8fdfcda7359a93e1",
+  "archived_at": "2026-05-03T23:01:19Z",
+  "metadata": {
+    "title": "Turn It Up Faggot",
+    "artist": "Deerhunter",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1829,
+    "duration_human": "00:30:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhunter - N. Animals",
+      "02 Deerhunter - Adorno",
+      "03 Deerhunter - Tech School",
+      "04 Deerhunter - Ponds",
+      "05 Deerhunter - Language/Violence",
+      "06 Deerhunter - Oceans",
+      "07 Deerhunter - Basement",
+      "08 Deerhunter - Young Layer",
+      "09 Deerhunter - Death Drag"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/turn-it-up-faggot_1777849083"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/ybtnp7.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/gppp57.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/d9e85ce64b20e526399c/Turn_It_Up_Faggot.tar"
+    }
+  }
+}

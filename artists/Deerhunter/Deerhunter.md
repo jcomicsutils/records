@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Turn It Up Faggot](turn-it-up-faggot_1777849083/turn-it-up-faggot_1777849083.md) | 2005 | FLAC | 00:30:29 | [IA](https://archive.org/details/turn-it-up-faggot_1777849083) [Catbox ×2](turn-it-up-faggot_1777849083/turn-it-up-faggot_1777849083.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/d9e85ce64b20e526399c/Turn_It_Up_Faggot.tar) |
 | [Carve Your Initials Into the Wall of the Night](carve-your-initials-into-the-wall-of-the-night_1777844497/carve-your-initials-into-the-wall-of-the-night_1777844497.md) | 2005 | MP3 | 00:46:28 | [IA](https://archive.org/details/carve-your-initials-into-the-wall-of-the-night_1777844497) [Catbox](https://files.catbox.moe/0za3yi.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/2d121a5af5c3bff63cf4/Carve_Your_Initials_Into_the_Wall_of_the_Night.tar) |
 | [Deerhunter / Alphabets](deerhunter-alphabets_1777845653/deerhunter-alphabets_1777845653.md) | 2005 | MP3 | 00:13:26 | [IA](https://archive.org/details/deerhunter-alphabets_1777845653) [Catbox](https://files.catbox.moe/h9i8zw.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/78c6fd75b83cc6b74f91/Deerhunter_-_Alphabets.tar) |
 | [Cryptograms](cryptograms_1777844622/cryptograms_1777844622.md) | 2007 | FLAC | 01:04:31 | [IA](https://archive.org/details/cryptograms_1777844622) [Catbox ×7](cryptograms_1777844622/cryptograms_1777844622.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/e2b08717fcda8c65d094/Cryptograms.tar) |
