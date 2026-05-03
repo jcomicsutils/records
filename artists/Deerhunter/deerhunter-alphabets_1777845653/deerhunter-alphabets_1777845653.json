@@ -1,0 +1,35 @@
+{
+  "id": "deerhunter-alphabets_1777845653",
+  "fingerprint": "ab6c8be37958939e2fbd357791f0f1efcd391f6d3ca0f6ae692ce678f40cddb9",
+  "archived_at": "2026-05-03T22:01:36Z",
+  "metadata": {
+    "title": "Deerhunter / Alphabets",
+    "artist": "Deerhunter",
+    "year": "2005",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 806,
+    "duration_human": "00:13:26",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Deerhunter - Adorno (Notown Version)",
+      "02 Deerhunter - Tree Spies",
+      "03 Alphabets - Carnival Song",
+      "04 Alphabets - Haircut Breakdown",
+      "05 Alphabets - Ba Ba Ba Beach",
+      "06 Alphabets - Hot Art Boys on Dope"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/deerhunter-alphabets_1777845653"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/h9i8zw.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/78c6fd75b83cc6b74f91/Deerhunter_-_Alphabets.tar"
+    }
+  }
+}
