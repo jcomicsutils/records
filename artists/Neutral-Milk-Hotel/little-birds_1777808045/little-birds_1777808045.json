@@ -1,0 +1,28 @@
+{
+  "id": "little-birds_1777808045",
+  "fingerprint": "ecea290fee3fbfb36e1b424f874ae792312d4b984e5eb353563d6e4a7002d441",
+  "archived_at": "2026-05-03T11:35:07Z",
+  "metadata": {
+    "title": "Little Birds",
+    "artist": "Neutral Milk Hotel",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 736,
+    "duration_human": "00:12:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Neutral Milk Hotel - Little Birds (Live [2014])",
+      "02 Neutral Milk Hotel - Little Birds (Demo [1998])"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/little-birds_1777808045"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/9e911f0830af7e1af3b0/Little_Birds.tar"
+    }
+  }
+}
