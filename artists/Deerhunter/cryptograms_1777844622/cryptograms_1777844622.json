@@ -1,0 +1,68 @@
+{
+  "id": "cryptograms_1777844622",
+  "fingerprint": "295a3c96761b2267c95ad46de0f598c53553acf16aaaf076fc2ccb2778c9e36a",
+  "archived_at": "2026-05-03T21:52:21Z",
+  "metadata": {
+    "title": "Cryptograms",
+    "artist": "Deerhunter",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_seconds": 3871,
+    "duration_human": "01:04:31",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "1-01 Deerhunter - Intro",
+      "1-02 Deerhunter - Cryptograms",
+      "1-03 Deerhunter - White Ink",
+      "1-04 Deerhunter - Lake Somerset",
+      "1-05 Deerhunter - Providence",
+      "1-06 Deerhunter - Octet",
+      "1-07 Deerhunter - Red Ink",
+      "2-01 Deerhunter - Spring Hall Convert",
+      "2-02 Deerhunter - Strange Lights",
+      "2-03 Deerhunter - Hazel St",
+      "2-04 Deerhunter - Tape Hiss Orchid",
+      "2-05 Deerhunter - Heatherwood",
+      "2-06 Deerhunter - Fluorescent Grey",
+      "2-07 Deerhunter - Dr. Glass",
+      "2-08 Deerhunter - Like New",
+      "2-09 Deerhunter - Wash Off"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cryptograms_1777844622"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/jms9a6.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/sklist.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/v2pdox.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/xroyra.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/5749kl.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/6bb31l.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/xb0w4m.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/e2b08717fcda8c65d094/Cryptograms.tar"
+    }
+  }
+}
