@@ -1,0 +1,29 @@
+{
+  "id": "3-stucke-im-alten-stil_1777814535",
+  "fingerprint": "07f78db8e80c5046033e985725eb0e47d315d8acecbf81db35513b9ea966ac81",
+  "archived_at": "2026-05-03T13:24:25Z",
+  "metadata": {
+    "title": "3 (Stücke im alten Stil)",
+    "artist": "Roel Meelkop",
+    "year": "1997",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1390,
+    "duration_human": "00:23:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - Direkt",
+      "02 Roel Meelkop - Wiedergabe",
+      "03 Roel Meelkop - Indirekt"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/3-stucke-im-alten-stil_1777814535"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/c760d6287c3c08083a67/3_%28St%C3%BCcke_im_alten_Stil.tar"
+    }
+  }
+}

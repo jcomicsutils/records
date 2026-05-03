@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [3 \(Stücke im alten Stil\)](3-stucke-im-alten-stil_1777814535/3-stucke-im-alten-stil_1777814535.md) | 1997 | FLAC | 00:23:10 | [IA](https://archive.org/details/3-stucke-im-alten-stil_1777814535) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/c760d6287c3c08083a67/3_%28St%C3%BCcke_im_alten_Stil.tar) |
 | [\(Onkyo Ok\)](onkyo-ok_1777812127/onkyo-ok_1777812127.md) | 2004 | ALAC | 00:46:12 | [IA](https://archive.org/details/onkyo-ok_1777812127) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/e667fc488df855f3366d/%28Onkyo_Ok.tar) |
 | [1 \[Liar\]](1-liar_1777814433/1-liar_1777814433.md) | 2013 | FLAC | 00:21:16 | [IA](https://archive.org/details/1-liar_1777814433) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/6f021633140704e74237/1_%5BLiar.tar) |
 | [\(To Be Announced\)](to-be-announced_1777812391/to-be-announced_1777812391.md) | 2013 | FLAC | 00:44:06 | [IA](https://archive.org/details/to-be-announced_1777812391) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/de6076941756e6b16459/%28To_Be_Announced.tar) |
