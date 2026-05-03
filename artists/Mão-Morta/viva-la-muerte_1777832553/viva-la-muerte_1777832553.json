@@ -1,0 +1,58 @@
+{
+  "id": "viva-la-muerte_1777832553",
+  "fingerprint": "0ba4a60a441bb90b16bd23abdaf6e95b0aea21dd6ac9355a354d60d92b37dc66",
+  "archived_at": "2026-05-03T18:46:13Z",
+  "metadata": {
+    "title": "Viva La Muerte",
+    "artist": "Mão Morta",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3291,
+    "duration_human": "00:54:51",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Mão Morta - Deus pátria autoridade",
+      "02 Mão Morta - Corre corre corre",
+      "03 Mão Morta - É proibido",
+      "04 Mão Morta - Ressentidos e ressabiados",
+      "05 Mão Morta - A liberdade",
+      "06 Mão Morta - Pensamento único",
+      "07 Mão Morta - Líder povo nação",
+      "08 Mão Morta - Ratoeira bélica",
+      "09 Mão Morta - Viva la muerte!"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/viva-la-muerte_1777832553"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/nvbq1z.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ohwwi2.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/mxgpgx.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/szvf9u.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/xtbqpy.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/57wn28.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/67037feb4e80ba86c5f9/Viva_La_Muerte.tar"
+    }
+  }
+}
