@@ -1,0 +1,32 @@
+{
+  "id": "verklarte-tage_1777822933",
+  "fingerprint": "0958411bdd0b5d728fe601200bf254a194dfa1ca6117a6a571f6631fb51ed143",
+  "archived_at": "2026-05-03T15:43:21Z",
+  "metadata": {
+    "title": "Verklärte Tage",
+    "artist": "Roel Meelkop",
+    "year": "2000",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 3488,
+    "duration_human": "00:58:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Peter Duimelinks, Roel Meelkop & Ralf Wehowsky - Unvoll Plus",
+      "02 Peter Duimelinks, Roel Meelkop & Ralf Wehowsky - 1[Mat]",
+      "03 Peter Duimelinks, Roel Meelkop & Ralf Wehowsky - 2 x 10.5 In 11",
+      "04 Peter Duimelinks, Roel Meelkop & Ralf Wehowsky - Trivelogue",
+      "05 Peter Duimelinks, Roel Meelkop & Ralf Wehowsky - 9 in 3",
+      "06 Peter Duimelinks, Roel Meelkop & Ralf Wehowsky - Eemix"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/verklarte-tage_1777822933"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/dba69584b03a7d1dd15d/Verkl%C3%A4rte_Tage.tar"
+    }
+  }
+}
