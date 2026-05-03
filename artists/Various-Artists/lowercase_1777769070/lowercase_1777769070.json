@@ -1,0 +1,53 @@
+{
+  "id": "lowercase_1777769070",
+  "fingerprint": "683929752cef7e014f6d2cd1bfdd6f5b30a85329df61ab6b89f1ef01853709f1",
+  "archived_at": "2026-05-03T00:50:12Z",
+  "metadata": {
+    "title": "Lowercase",
+    "artist": "Various Artists",
+    "year": "2000",
+    "codec": "MP3",
+    "num_tracks": 27,
+    "duration_seconds": 8374,
+    "duration_human": "02:19:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "1-01 Roel Meelkop - 1 (Beegee)",
+      "1-02 Artificial Memory Trace - Infover",
+      "1-03 Bernhard Günter - In Her Dream / Mu is Running / Autumn Moon (Haiku for Mu)",
+      "1-04 Richard Chartier - 3particles",
+      "1-05 *0 - Cochler",
+      "1-06 Jason Lescalleet - Needles",
+      "1-07 Howard Stelzer - Bend or Fold",
+      "1-08 Steve Roden / In Be Tween Noise - 8 Windows (First Version)",
+      "1-09 Josh Russell - 1000x",
+      "1-10 Pimmon - Finja Falso Peixes",
+      "1-11 Brekekekexkoaxkoax - For Gerard Klauder",
+      "1-12 Michael Northam - Kapla (An Excerpt)",
+      "2-01 Taylor Deupree - Dopticn",
+      "2-02 Matthew Thomas + Oren Ambarchi - Strategem (Distortus)",
+      "2-03 Quockenzocker - Wonthaggi",
+      "2-04 Ios Smolders - Sequenzen (Somehow Inspired by Kh Stockhausen)",
+      "2-05 Kid606 - Done/Start",
+      "2-06 Adrian Lee - (u)n(-)t(i)t(l)e(d)",
+      "2-07 Warsaw (1921) - Sonarchy Sounding",
+      "2-08 Colin Jenkinson + Kevin Schwartz - Duoic Ecneirepxe",
+      "2-09 Lt Caramel - Music Pour Parking Payant",
+      "2-10 Joseph Zitt - Mouth.midnight",
+      "2-11 Ecclesiastical Scaffolding - By Winter. It Had to Come to an End",
+      "2-12 Richard Cochrane - Las Bas (Lower Depths)",
+      "2-13 Dale Anderson - Lost Velo",
+      "2-14 Rod Stasick - Obeliskrying",
+      "2-15 Tone Speak - Tone Shifter"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lowercase_1777769070"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/600e4ddde12aaae06c61/Lowercase.tar"
+    }
+  }
+}

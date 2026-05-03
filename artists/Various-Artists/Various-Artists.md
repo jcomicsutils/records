@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Lowercase](lowercase_1777769070/lowercase_1777769070.md) | 2000 | MP3 | 02:19:34 | [IA](https://archive.org/details/lowercase_1777769070) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/600e4ddde12aaae06c61/Lowercase.tar) |
 | [Substrat - Innovation Durch Irritation](substrat-innovation-durch-irritation_1777754314/substrat-innovation-durch-irritation_1777754314.md) | 2001 | MP3 | 02:11:17 | [IA](https://archive.org/details/substrat-innovation-durch-irritation_1777754314) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/31f0e6db040addc96cbc/Substrat_-_Innovation_Durch_Irritation.tar) |
 | [The Wire Tapper 7](the-wire-tapper-7_1777754532/the-wire-tapper-7_1777754532.md) | 2001 | ALAC | 01:12:18 | [IA](https://archive.org/details/the-wire-tapper-7_1777754532) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/d5089d7645196958cb6a/The_Wire_Tapper_7.tar) |
 | [60 Sound Artists Protest the War](60-sound-artists-protest-the-war_1777752690/60-sound-artists-protest-the-war_1777752690.md) | 2003 | FLAC | 01:00:48 | [IA](https://archive.org/details/60-sound-artists-protest-the-war_1777752690) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/82c7012d934960989ed0/60_Sound_Artists_Protest_the_War.tar) |
