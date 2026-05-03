@@ -1,0 +1,27 @@
+{
+  "id": "real-mass_1777820327",
+  "fingerprint": "83a3fcb33e3adfad90255679dee724a0ac714cbe381f201a639981a25cb05979",
+  "archived_at": "2026-05-03T15:05:22Z",
+  "metadata": {
+    "title": "Real Mass",
+    "artist": "Roel Meelkop",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1159,
+    "duration_human": "00:19:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - Real Mass"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/real-mass_1777820327"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/98c887087ba74b8402b0/Real_Mass.tar"
+    }
+  }
+}
