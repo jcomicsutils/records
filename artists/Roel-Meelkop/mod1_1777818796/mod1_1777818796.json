@@ -1,0 +1,27 @@
+{
+  "id": "mod1_1777818796",
+  "fingerprint": "cf58183d9eeb4896334e97794ad795ae3d9437b03b305c092eb3ddd15f80ccf2",
+  "archived_at": "2026-05-03T14:33:56Z",
+  "metadata": {
+    "title": "MOD(1)",
+    "artist": "Roel Meelkop",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 721,
+    "duration_human": "00:12:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - MOD(1)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mod1_1777818796"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/208fe906f1fb9b4884b8/MOD%281.tar"
+    }
+  }
+}
