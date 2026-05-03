@@ -1,0 +1,33 @@
+{
+  "id": "rituais-transfigurados_1777831334",
+  "fingerprint": "4ab162eae64b0c6004221324650a804324ebb842ecb83fb32ba873f2692f73b3",
+  "archived_at": "2026-05-03T18:03:14Z",
+  "metadata": {
+    "title": "Rituais Transfigurados",
+    "artist": "Mão Morta",
+    "year": "2009",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 2752,
+    "duration_human": "00:45:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Mão Morta - Um estudo coreográfico para a câmara",
+      "02 Mão Morta - Na terra",
+      "03 Mão Morta - Tramas do entardecer",
+      "04 Mão Morta - Ritual no tempo transfigurado"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rituais-transfigurados_1777831334"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5nhruz.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/4500167c37308d67b47b/Rituais_Transfigurados.tar"
+    }
+  }
+}
