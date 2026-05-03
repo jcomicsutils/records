@@ -1,0 +1,27 @@
+{
+  "id": "live-at-lmc_1777818654",
+  "fingerprint": "1d3be2cbaae997a863e8ba44295236b273f67f9035f678ad2ca760d948bc511d",
+  "archived_at": "2026-05-03T14:31:48Z",
+  "metadata": {
+    "title": "Live at LMC",
+    "artist": "Roel Meelkop",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2669,
+    "duration_human": "00:44:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - Live at LMC"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-at-lmc_1777818654"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/d29c2658ee48b0adab70/Live_at_LMC.tar"
+    }
+  }
+}
