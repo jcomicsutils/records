@@ -1,0 +1,32 @@
+{
+  "id": "mao-morta_1777825481",
+  "fingerprint": "b6d9bb61d3c0a504a233e4db3436fb0599bc4bdb2f5306634b735e163ba0b1e4",
+  "archived_at": "2026-05-03T16:27:40Z",
+  "metadata": {
+    "title": "Mão Morta",
+    "artist": "Mão Morta",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1773,
+    "duration_human": "00:29:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mão Morta - E se depois",
+      "02 Mão Morta - Até cair",
+      "03 Mão Morta - Sitiados",
+      "04 Mão Morta - Oub'lá",
+      "05 Mão Morta - Carícias malícias",
+      "06 Mão Morta - Aum"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mao-morta_1777825481"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/7d75618a889e99f190aa/M%C3%A3o_Morta_%282010.tar"
+    }
+  }
+}
