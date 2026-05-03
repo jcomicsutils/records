@@ -1,0 +1,27 @@
+{
+  "id": "viva-la-muerte_1777834261",
+  "fingerprint": "627e8e09697f18596f5bebb8ec0d1d81916a6168aaa398a1f1bc22d3856f0b99",
+  "archived_at": "2026-05-03T18:55:58Z",
+  "metadata": {
+    "title": "Viva la Muerte!",
+    "artist": "Mão Morta",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 306,
+    "duration_human": "00:05:06",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Mão Morta - Viva la muerte!"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/viva-la-muerte_1777834261"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/fabc6afee2ef1e0df5ad/Viva_la_Muerte.tar"
+    }
+  }
+}
