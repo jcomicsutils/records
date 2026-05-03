@@ -1,0 +1,49 @@
+{
+  "id": "monomania_1777848376",
+  "fingerprint": "68745e48ed24fc482a631ac0921fd430ea2fd07db594145e2180ff98a39c623b",
+  "archived_at": "2026-05-03T22:50:43Z",
+  "metadata": {
+    "title": "Monomania",
+    "artist": "Deerhunter",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2599,
+    "duration_human": "00:43:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhunter - Neon Junkyard",
+      "02 Deerhunter - Leather Jacket II",
+      "03 Deerhunter - The Missing",
+      "04 Deerhunter - Pensacola",
+      "05 Deerhunter - Dream Captain",
+      "06 Deerhunter - Blue Agent",
+      "07 Deerhunter - T.H.M.",
+      "08 Deerhunter - Sleepwalking",
+      "09 Deerhunter - Back to the Middle",
+      "10 Deerhunter - Monomania",
+      "11 Deerhunter - Nitebike",
+      "12 Deerhunter - Punk (La Vie Antérieure)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/monomania_1777848376"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/v8wqr6.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/tq8s7j.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/fffa081d4c3aa5cf4220/Monomania.tar"
+    }
+  }
+}
