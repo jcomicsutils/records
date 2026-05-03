@@ -1,0 +1,39 @@
+{
+  "id": "coracoes-felpudos_1777824487",
+  "fingerprint": "c180b2b1df41d9e208a2822d153aa2bb4918b8db5152aeb57082c67d74825689",
+  "archived_at": "2026-05-03T16:10:27Z",
+  "metadata": {
+    "title": "Corações Felpudos",
+    "artist": "Mão Morta",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 3491,
+    "duration_human": "00:58:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mão Morta - Ventos animais",
+      "02 Mão Morta - Olho da máscara",
+      "03 Mão Morta - Desmaia, irmã, desmaia",
+      "04 Mão Morta - Fogo fátuo",
+      "05 Mão Morta - Destilo ódio",
+      "06 Mão Morta - Fado canibal",
+      "07 Mão Morta - Cristina vai às compras",
+      "08 Mão Morta - Maria, oh Maria",
+      "09 Mão Morta - É uma selvajaria",
+      "10 Mão Morta - Santana menho",
+      "11 Mão Morta - Freamunde acapulco",
+      "12 Mão Morta - Facas em sangue",
+      "13 Mão Morta - Arlequim"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/coracoes-felpudos_1777824487"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/4f7420dcbe97562d84b3/Cora%C3%A7%C3%B5es_Felpudos.tar"
+    }
+  }
+}
