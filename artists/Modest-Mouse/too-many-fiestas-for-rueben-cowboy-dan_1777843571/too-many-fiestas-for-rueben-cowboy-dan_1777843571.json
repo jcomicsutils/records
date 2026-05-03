@@ -1,0 +1,31 @@
+{
+  "id": "too-many-fiestas-for-rueben-cowboy-dan_1777843571",
+  "fingerprint": "2dfb405b2c2abb289361216e0ae57da5bc5a6d878a15a7e97535f57803800346",
+  "archived_at": "2026-05-03T21:26:56Z",
+  "metadata": {
+    "title": "Too Many Fiestas for Rueben / Cowboy Dan",
+    "artist": "Modest Mouse",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 455,
+    "duration_human": "00:07:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Modest Mouse - Too Many Fiestas for Rueben",
+      "02 Modest Mouse - Cowboy Dan"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/too-many-fiestas-for-rueben-cowboy-dan_1777843571"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/klhhbt.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/1cd3d23aa5d6aa5a50e5/Too_Many_Fiestas_for_Rueben_-_Cowboy_Dan.tar"
+    }
+  }
+}
