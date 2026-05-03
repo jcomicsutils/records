@@ -1,0 +1,27 @@
+{
+  "id": "xii_1777823187",
+  "fingerprint": "cc2f4a366233ea6f961aa6e27ad8512c93b588cc5a06c7cf445eaedd4c3f7b1c",
+  "archived_at": "2026-05-03T15:47:42Z",
+  "metadata": {
+    "title": "XII",
+    "artist": "Roel Meelkop",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Roel Meelkop - XII"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xii_1777823187"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/f7fe344b1bab773f20c4/XII.tar"
+    }
+  }
+}
