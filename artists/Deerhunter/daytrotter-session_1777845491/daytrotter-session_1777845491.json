@@ -1,0 +1,33 @@
+{
+  "id": "daytrotter-session_1777845491",
+  "fingerprint": "56f8f77773c56610abce7476d1942a8b17b2c55631e98ff767af29a65dfd2ea6",
+  "archived_at": "2026-05-03T21:59:41Z",
+  "metadata": {
+    "title": "Daytrotter Session",
+    "artist": "Deerhunter",
+    "year": "2007",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 950,
+    "duration_human": "00:15:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Deerhunter - Heatherwood",
+      "02 Deerhunter - Dr. Glass",
+      "03 Deerhunter - Activa",
+      "04 Deerhunter - Calvary Scars"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/daytrotter-session_1777845491"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/akeljs.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/225c6f87b073a755e139/Daytrotter_Session.tar"
+    }
+  }
+}
