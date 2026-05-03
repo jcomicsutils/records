@@ -1,0 +1,31 @@
+{
+  "id": "picking-dragons-pockets_1777839233",
+  "fingerprint": "9c5ea31822836b6f644b6f5880d4ea396a78331a42c76db7e192167db1426fa4",
+  "archived_at": "2026-05-03T20:16:20Z",
+  "metadata": {
+    "title": "Picking Dragons' Pockets",
+    "artist": "Modest Mouse",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 391,
+    "duration_human": "00:06:31",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Modest Mouse - Picking Dragons' Pockets",
+      "02 Modest Mouse - Look How Far..."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/picking-dragons-pockets_1777839233"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/hjojrp.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/9acaad676e62b8119d11/Picking_Dragons%27_Pockets.tar"
+    }
+  }
+}
