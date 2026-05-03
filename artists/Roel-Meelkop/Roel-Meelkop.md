@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [3 \(Stücke im alten Stil\)](3-stucke-im-alten-stil_1777814535/3-stucke-im-alten-stil_1777814535.md) | 1997 | FLAC | 00:23:10 | [IA](https://archive.org/details/3-stucke-im-alten-stil_1777814535) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/c760d6287c3c08083a67/3_%28St%C3%BCcke_im_alten_Stil.tar) |
+| [Glas](glas_1777817456/glas_1777817456.md) | 1998 | FLAC | 00:28:56 | [IA](https://archive.org/details/glas_1777817456) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/3b64c519081859fd077e/Glas.tar) |
 | [4 Pieces](4-pieces_1777814780/4-pieces_1777814780.md) | 1999 | MP3 | 01:02:24 | [IA](https://archive.org/details/4-pieces_1777814780) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/a7018869e7b9c563f8b1/4_Pieces.tar) |
 | [Elfde Mixer](elfde-mixer_1777816978/elfde-mixer_1777816978.md) | 2002 | MP3 | 00:40:28 | [IA](https://archive.org/details/elfde-mixer_1777816978) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/aa2f430f8c4e5791bf2d/Elfde_Mixer.tar) |
 | [\(Onkyo Ok\)](onkyo-ok_1777812127/onkyo-ok_1777812127.md) | 2004 | ALAC | 00:46:12 | [IA](https://archive.org/details/onkyo-ok_1777812127) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/e667fc488df855f3366d/%28Onkyo_Ok.tar) |

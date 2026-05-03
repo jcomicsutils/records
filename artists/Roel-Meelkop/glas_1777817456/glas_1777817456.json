@@ -1,0 +1,28 @@
+{
+  "id": "glas_1777817456",
+  "fingerprint": "625c5718bb1eb0532d2bb8ccde16208b8465a3ce014d104eaff30c80637cbbb5",
+  "archived_at": "2026-05-03T14:12:38Z",
+  "metadata": {
+    "title": "Glas",
+    "artist": "Roel Meelkop",
+    "year": "1998",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1736,
+    "duration_human": "00:28:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Frans de Waard & Roel Meelkop - Kant A",
+      "02 Frans de Waard & Roel Meelkop - Kant B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/glas_1777817456"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/3b64c519081859fd077e/Glas.tar"
+    }
+  }
+}
