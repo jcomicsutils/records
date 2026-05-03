@@ -1,0 +1,30 @@
+{
+  "id": "elfde-mixer_1777816978",
+  "fingerprint": "f89948f87ec3ee30a1569cfb685a7def95eaeb040683d5f1885dd0237aa92be6",
+  "archived_at": "2026-05-03T14:03:48Z",
+  "metadata": {
+    "title": "Elfde Mixer",
+    "artist": "Roel Meelkop",
+    "year": "2002",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 2428,
+    "duration_human": "00:40:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Roel Meelkop - {Workshop} Part 1",
+      "02 Roel Meelkop - {Workshop} Part 2",
+      "03 Frans de Waard - Fragment Part 1",
+      "04 Frans de Waard - Fragment Part 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/elfde-mixer_1777816978"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/aa2f430f8c4e5791bf2d/Elfde_Mixer.tar"
+    }
+  }
+}
