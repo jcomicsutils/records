@@ -1,0 +1,38 @@
+{
+  "id": "the-fruit-that-ate-itself_1777841335",
+  "fingerprint": "11c4d3f6d93a3c86aafe54689b12f62c26c42c7c9b2111e2ab4ab02fdcdf89a9",
+  "archived_at": "2026-05-03T20:50:27Z",
+  "metadata": {
+    "title": "The Fruit That Ate Itself",
+    "artist": "Modest Mouse",
+    "year": "1997",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1246,
+    "duration_human": "00:20:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Modest Mouse - Sunspots",
+      "02 Modest Mouse - The Waydown",
+      "03 Modest Mouse - Fruit",
+      "04 Modest Mouse - Dirty Fingernails",
+      "05 Modest Mouse - Sunspots in the House of the Late",
+      "06 Modest Mouse - The Fruit That Ate Itself",
+      "07 Modest Mouse - Way Down",
+      "08 Modest Mouse - Summer",
+      "09 Modest Mouse - Karma's Payment"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-fruit-that-ate-itself_1777841335"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ecz206.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/36b98857c9446c1549fc/The_Fruit_That_Ate_Itself.tar"
+    }
+  }
+}
