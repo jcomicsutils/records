@@ -1,0 +1,32 @@
+{
+  "id": "grey-mass-grey-matter_1777817574",
+  "fingerprint": "721481f1102051cb7cc9f30a0deb6cb06d0e59876fc30a3f771f174fad831546",
+  "archived_at": "2026-05-03T14:14:17Z",
+  "metadata": {
+    "title": "Grey Mass Grey Matter",
+    "artist": "Roel Meelkop",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2556,
+    "duration_human": "00:42:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - Grey Mass",
+      "02 Roel Meelkop - Grey Mass",
+      "03 Roel Meelkop - Grey Mass",
+      "04 Roel Meelkop - Grey Matter",
+      "05 Roel Meelkop - Grey Matter",
+      "06 Roel Meelkop - Grey Matter"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/grey-mass-grey-matter_1777817574"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/068a1087d1975872bb7b/Grey_Mass_Grey_Matter.tar"
+    }
+  }
+}
