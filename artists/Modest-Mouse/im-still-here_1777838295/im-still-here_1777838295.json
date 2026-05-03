@@ -1,0 +1,30 @@
+{
+  "id": "im-still-here_1777838295",
+  "fingerprint": "b0ed9304002c0355a298414699a72bcfb129531fb2d67cfdb70a81c71c5b9dfb",
+  "archived_at": "2026-05-03T19:58:48Z",
+  "metadata": {
+    "title": "I'm Still Here",
+    "artist": "Modest Mouse",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 93,
+    "duration_human": "00:01:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Modest Mouse - I'm Still Here"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/im-still-here_1777838295"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5dsrtd.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/9a5e88c9439e2d8c1076/I%27m_Still_Here.tar"
+    }
+  }
+}
