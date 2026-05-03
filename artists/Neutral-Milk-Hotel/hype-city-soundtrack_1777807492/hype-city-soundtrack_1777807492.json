@@ -1,0 +1,37 @@
+{
+  "id": "hype-city-soundtrack_1777807492",
+  "fingerprint": "b9c832103b88aa947f8a8537469348b5fd8a17cafb91847255a2585c52e94e03",
+  "archived_at": "2026-05-03T11:29:30Z",
+  "metadata": {
+    "title": "Hype-City Soundtrack",
+    "artist": "Neutral Milk Hotel",
+    "year": "1993",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 1718,
+    "duration_human": "00:28:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Neutral Milk Hotel - Up and Over We Go",
+      "02 Neutral Milk Hotel - Wood Guitar",
+      "03 Neutral Milk Hotel - Tuesday Moon",
+      "04 Neutral Milk Hotel - April 1st",
+      "05 Neutral Milk Hotel - Tea-Time",
+      "06 Neutral Milk Hotel - Bomb Drop",
+      "07 Neutral Milk Hotel - Gardenhead / Leave Me Alone",
+      "08 Neutral Milk Hotel - Biscuit",
+      "09 Neutral Milk Hotel - Los Angelos Car Song",
+      "10 Neutral Milk Hotel - Piggy",
+      "11 Neutral Milk Hotel - Engine"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hype-city-soundtrack_1777807492"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/4aca3d39d0ea36afdf1a/Hype-City_Soundtrack.tar"
+    }
+  }
+}
