@@ -1,0 +1,36 @@
+{
+  "id": "10-favorites_1777815797",
+  "fingerprint": "eb0341829a70c46c001116ccd600d1bcf1ab7729a439cd76ece4cb495be8ccbb",
+  "archived_at": "2026-05-03T13:46:32Z",
+  "metadata": {
+    "title": "10 (Favorites)",
+    "artist": "Roel Meelkop",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3685,
+    "duration_human": "01:01:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - [untitled]",
+      "02 Roel Meelkop - [untitled]",
+      "03 Roel Meelkop - [untitled]",
+      "04 Roel Meelkop - [untitled]",
+      "05 Roel Meelkop - [untitled]",
+      "06 Roel Meelkop - [untitled]",
+      "07 Roel Meelkop - [untitled]",
+      "08 Roel Meelkop - [untitled]",
+      "09 Roel Meelkop - [untitled]",
+      "10 Roel Meelkop - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/10-favorites_1777815797"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/eb68daba1578433eba95/10_%28Favorites.tar"
+    }
+  }
+}
