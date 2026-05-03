@@ -1,0 +1,28 @@
+{
+  "id": "for-someone-at-some-point_1777817192",
+  "fingerprint": "4e8c7596773e3e8ccc4a6300c701c5dc74abf25c3b1b68140ad6e8d9fa90aab3",
+  "archived_at": "2026-05-03T14:07:14Z",
+  "metadata": {
+    "title": "For Someone at Some Point",
+    "artist": "Roel Meelkop",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 511,
+    "duration_human": "00:08:31",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Roel Meelkop - FSASP 1",
+      "02 Roel Meelkop - FSASP 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/for-someone-at-some-point_1777817192"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/df655240fc957820e5ed/For_Someone_at_Some_Point.tar"
+    }
+  }
+}
