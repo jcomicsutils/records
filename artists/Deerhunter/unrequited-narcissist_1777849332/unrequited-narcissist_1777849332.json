@@ -1,0 +1,39 @@
+{
+  "id": "unrequited-narcissist_1777849332",
+  "fingerprint": "476db6f3c51d3c9a3a9e2c4d16f0afa9649acd439fb88b894a8705981351dee3",
+  "archived_at": "2026-05-03T23:04:56Z",
+  "metadata": {
+    "title": "Unrequited Narcissist",
+    "artist": "Deerhunter",
+    "year": "2005",
+    "codec": "MP3",
+    "num_tracks": 10,
+    "duration_seconds": 4083,
+    "duration_human": "01:08:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Deerhunter - Summer 1991",
+      "02 Deerhunter - Fall 1992",
+      "03 Deerhunter - Spring 1993",
+      "04 Deerhunter - Winter 1994",
+      "05 Deerhunter - Winter 1995",
+      "06 Deerhunter - Fall 1996",
+      "07 Deerhunter - Spring 1997",
+      "08 Deerhunter - Fall 1998",
+      "09 Deerhunter - Summer 1999",
+      "10 Deerhunter - The Ballad of Robert Piest (Winter 1978 Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/unrequited-narcissist_1777849332"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ggvr24.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/5dcf87d8e8c217d5fa07/Unrequited_Narcissist.tar"
+    }
+  }
+}
