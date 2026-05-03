@@ -1,0 +1,30 @@
+{
+  "id": "poison-the-well_1777839404",
+  "fingerprint": "fe2a66407091098be11885668f790e560e9d97bd009cf05cbdfe84daa5661e3c",
+  "archived_at": "2026-05-03T20:18:33Z",
+  "metadata": {
+    "title": "Poison the Well",
+    "artist": "Modest Mouse",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 144,
+    "duration_human": "00:02:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Modest Mouse - Poison the Well"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/poison-the-well_1777839404"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/aet6y0.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/d06f5cc14529a05def43/Poison_the_Well.tar"
+    }
+  }
+}
