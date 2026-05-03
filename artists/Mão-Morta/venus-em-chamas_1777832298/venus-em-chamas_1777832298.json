@@ -1,0 +1,53 @@
+{
+  "id": "venus-em-chamas_1777832298",
+  "fingerprint": "4b46ef3da26552d17f62092878ad52777edd4ac0d11a3592a573fe385dceac23",
+  "archived_at": "2026-05-03T18:21:01Z",
+  "metadata": {
+    "title": "Vénus em Chamas",
+    "artist": "Mão Morta",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_seconds": 3198,
+    "duration_human": "00:53:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mão Morta - Escorpiões com sida",
+      "02 Mão Morta - Velocidade escaldante",
+      "03 Mão Morta - Anjos marotos",
+      "04 Mão Morta - Massagens suaves",
+      "05 Mão Morta - Negra flor",
+      "06 Mão Morta - Festim carnal",
+      "07 Mão Morta - Hotel paradis",
+      "08 Mão Morta - Fogo selvagem",
+      "09 Mão Morta - Veados com fome",
+      "10 Mão Morta - Desejos mecânicos",
+      "11 Mão Morta - Orgia scherzo em fá",
+      "12 Mão Morta - Delírios motores",
+      "13 Mão Morta - Champanhe quente & caviar",
+      "14 Mão Morta - Cães de crómio",
+      "15 Mão Morta - Escravos do desejo",
+      "16 Mão Morta - Vénus em chamas"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/venus-em-chamas_1777832298"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/vm0x6d.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/1nnntl.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/7b36b420113e2a2cde81/V%C3%A9nus_em_Chamas.tar"
+    }
+  }
+}
