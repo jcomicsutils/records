@@ -1,0 +1,64 @@
+{
+  "id": "strangers-to-ourselves_1777840069",
+  "fingerprint": "cb613e6ac9b50706b40633bf9344e90472ea3dfb654737a086be9b2fc4bdc0fc",
+  "archived_at": "2026-05-03T20:43:42Z",
+  "metadata": {
+    "title": "Strangers to Ourselves",
+    "artist": "Modest Mouse",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 3420,
+    "duration_human": "00:57:00",
+    "sampling_rate": "88.2kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Modest Mouse - Strangers to Ourselves",
+      "02 Modest Mouse - Lampshades on Fire",
+      "03 Modest Mouse - Shit in Your Cut",
+      "04 Modest Mouse - Pistol (A. Cunanan, Miami, FL. 1996)",
+      "05 Modest Mouse - Ansel",
+      "06 Modest Mouse - The Ground Walks, With Time in a Box",
+      "07 Modest Mouse - Coyotes",
+      "08 Modest Mouse - Pups to Dust",
+      "09 Modest Mouse - Sugar Boats",
+      "10 Modest Mouse - Wicked Campaign",
+      "11 Modest Mouse - Be Brave",
+      "12 Modest Mouse - God is an Indian and You're an Asshole",
+      "13 Modest Mouse - The Tortoise and the Tourist",
+      "14 Modest Mouse - The Best Room",
+      "15 Modest Mouse - Of Course We Know"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/strangers-to-ourselves_1777840069"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/p8hxpk.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/lhpjag.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ovtvnl.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/2spogt.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/7rom1z.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/w3ek9g.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/ea0ffdcdfd52f62b7e76/Strangers_to_Ourselves.tar"
+    }
+  }
+}
