@@ -1,0 +1,27 @@
+{
+  "id": "the-radiant-screen_1777821527",
+  "fingerprint": "2b4b857d83afbce70ae2bf5a592559333bdd0f0a6d0be41698d9c68e78e3685d",
+  "archived_at": "2026-05-03T15:19:24Z",
+  "metadata": {
+    "title": "The Radiant Screen",
+    "artist": "Roel Meelkop",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 829,
+    "duration_human": "00:13:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - The Radiant Screen"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-radiant-screen_1777821527"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/9f093a58cd62a29c69cb/The_Radiant_Screen.tar"
+    }
+  }
+}
