@@ -1,0 +1,32 @@
+{
+  "id": "mao-morta_1777825418",
+  "fingerprint": "52aa2a8803cca7e744738df2c41bd5701469c719df9b3e5981f71ee46048cbe0",
+  "archived_at": "2026-05-03T16:24:33Z",
+  "metadata": {
+    "title": "Mão Morta",
+    "artist": "Mão Morta",
+    "year": "1987",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 1819,
+    "duration_human": "00:30:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Mão Morta - Oub' lá",
+      "02 Mão Morta - Véus caídos",
+      "03 Mão Morta - Abandonada",
+      "04 Mão Morta - Aum",
+      "05 Mão Morta - Sitiados",
+      "06 Mão Morta - E se depois"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mao-morta_1777825418"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/e268428b85c156b08301/M%C3%A3o_Morta_%281987.tar"
+    }
+  }
+}
