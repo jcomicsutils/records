@@ -1,0 +1,36 @@
+{
+  "id": "platts-eyott-island-session_1777848719",
+  "fingerprint": "2408e35db7678d648f034f788303da9b916d77e91a5458d79a633d2df022a95d",
+  "archived_at": "2026-05-03T22:53:44Z",
+  "metadata": {
+    "title": "Platts Eyott Island Session",
+    "artist": "Deerhunter",
+    "year": "2008",
+    "codec": "MP3",
+    "num_tracks": 7,
+    "duration_seconds": 1465,
+    "duration_human": "00:24:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Deerhunter - Cum Horizon (Improvisation)",
+      "02 Deerhunter - Spring Hall Convert",
+      "03 Deerhunter - Microcastle",
+      "04 Deerhunter - Saved by Old Times",
+      "05 Deerhunter - Never Stops",
+      "06 Deerhunter - Backspace Century (Version II)",
+      "07 Deerhunter - Calvary Scars"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/platts-eyott-island-session_1777848719"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/t6e5ny.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/0b6c0f9c99f56ac99b97/Platts_Eyott_Island_Session.tar"
+    }
+  }
+}
