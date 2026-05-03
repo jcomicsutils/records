@@ -1,0 +1,31 @@
+{
+  "id": "crossmodulated_1777816864",
+  "fingerprint": "9bdf4e0d9a3352865a43e25174fee34b55ccb95a9f896a27314a6f0eb1e8a1ad",
+  "archived_at": "2026-05-03T14:02:28Z",
+  "metadata": {
+    "title": "Crossmodulated",
+    "artist": "Roel Meelkop",
+    "year": "2020",
+    "codec": "ALAC",
+    "num_tracks": 5,
+    "duration_seconds": 3553,
+    "duration_human": "00:59:13",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - Crossmodulated 1",
+      "02 Roel Meelkop - Crossmodulated 2",
+      "03 Roel Meelkop - Crossmodulated 3",
+      "04 Roel Meelkop - Crossmodulated 4",
+      "05 Roel Meelkop - Crossmodulated 5"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/crossmodulated_1777816864"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/2c3f446cd604fe41ab94/Crossmodulated.tar"
+    }
+  }
+}
