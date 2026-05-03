@@ -1,0 +1,33 @@
+{
+  "id": "nus_1777827993",
+  "fingerprint": "7f865b0a58f4425548b705995a547cff49beaf55360a716ae3e2e5959cd7ea70",
+  "archived_at": "2026-05-03T17:33:58Z",
+  "metadata": {
+    "title": "Nus",
+    "artist": "Mão Morta",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3195,
+    "duration_human": "00:53:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mão Morta - Gumes",
+      "02 Mão Morta - Gnoma",
+      "03 Mão Morta - Vertigem",
+      "04 Mão Morta - Estilo",
+      "05 Mão Morta - Tornados",
+      "06 Mão Morta - Cárcere",
+      "07 Mão Morta - Morgue"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nus_1777827993"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/8a6e50663abea602a007/Nus.tar"
+    }
+  }
+}
