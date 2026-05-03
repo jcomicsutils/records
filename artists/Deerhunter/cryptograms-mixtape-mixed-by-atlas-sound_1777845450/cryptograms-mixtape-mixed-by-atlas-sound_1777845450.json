@@ -1,0 +1,31 @@
+{
+  "id": "cryptograms-mixtape-mixed-by-atlas-sound_1777845450",
+  "fingerprint": "39ef185b2853e1d7316a610c7a37225315c04c87c41a7ac2b954c86a7bdbd835",
+  "archived_at": "2026-05-03T21:58:00Z",
+  "metadata": {
+    "title": "Cryptograms Mixtape (Mixed by Atlas Sound)",
+    "artist": "Deerhunter",
+    "year": "2008",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1847,
+    "duration_human": "00:30:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Deerhunter - Cryptograms Remix Tape Side A",
+      "02 Deerhunter - Cryptograms Remix Tape Side B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cryptograms-mixtape-mixed-by-atlas-sound_1777845450"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vu3byn.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/97c2312082ebf39e6243/Cryptograms_Mixtape_%28Mixed_by_Atlas_Sound.tar"
+    }
+  }
+}
