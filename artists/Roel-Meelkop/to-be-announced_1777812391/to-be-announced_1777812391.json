@@ -1,0 +1,27 @@
+{
+  "id": "to-be-announced_1777812391",
+  "fingerprint": "d420e04cc93bb9118837782b051d53f58f53faf262c023583b8bd72690d6da1f",
+  "archived_at": "2026-05-03T12:50:42Z",
+  "metadata": {
+    "title": "(To Be Announced)",
+    "artist": "Roel Meelkop",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2646,
+    "duration_human": "00:44:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - (To Be Announced)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/to-be-announced_1777812391"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/de6076941756e6b16459/%28To_Be_Announced.tar"
+    }
+  }
+}
