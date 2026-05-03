@@ -1,0 +1,30 @@
+{
+  "id": "look-how-far_1777838921",
+  "fingerprint": "0613589aaf4f0643665d85b2d281901031194ca1e8b54b12a05382ab62f31ada",
+  "archived_at": "2026-05-03T20:09:14Z",
+  "metadata": {
+    "title": "Look How Far...",
+    "artist": "Modest Mouse",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 115,
+    "duration_human": "00:01:55",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Modest Mouse - Look How Far..."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/look-how-far_1777838921"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/tt9b5z.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/7800060984b039242429/Look_How_Far.tar"
+    }
+  }
+}
