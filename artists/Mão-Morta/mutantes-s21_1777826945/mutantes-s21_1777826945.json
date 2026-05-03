@@ -1,0 +1,35 @@
+{
+  "id": "mutantes-s21_1777826945",
+  "fingerprint": "78489ba869fa4eac67b34470b555fc085cded6866fb2b1015214689f15ab90e3",
+  "archived_at": "2026-05-03T16:53:39Z",
+  "metadata": {
+    "title": "Mutantes S.21",
+    "artist": "Mão Morta",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2325,
+    "duration_human": "00:38:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mão Morta - Lisboa",
+      "02 Mão Morta - Amsterdão",
+      "03 Mão Morta - Budapeste",
+      "04 Mão Morta - Barcelona",
+      "05 Mão Morta - Marraquexe",
+      "06 Mão Morta - Berlim",
+      "07 Mão Morta - Paris",
+      "08 Mão Morta - Istambul",
+      "09 Mão Morta - Shambalah"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mutantes-s21_1777826945"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/39e062f8cf47d8a96c08/Mutantes_S.21.tar"
+    }
+  }
+}
