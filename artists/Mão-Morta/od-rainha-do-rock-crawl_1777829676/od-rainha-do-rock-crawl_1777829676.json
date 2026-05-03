@@ -1,0 +1,42 @@
+{
+  "id": "od-rainha-do-rock-crawl_1777829676",
+  "fingerprint": "91bbad7bd5290e3afd47d32febabd7fa862c6dabde4f485c87d22b5b0584724e",
+  "archived_at": "2026-05-03T17:43:08Z",
+  "metadata": {
+    "title": "O.D., Rainha Do Rock & Crawl",
+    "artist": "Mão Morta",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1887,
+    "duration_human": "00:31:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mão Morta - Bófia",
+      "02 Mão Morta - Anarquista duval",
+      "03 Mão Morta - Charles manson",
+      "04 Mão Morta - Quero morder-te as mãos",
+      "05 Mão Morta - O divino marquês"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/od-rainha-do-rock-crawl_1777829676"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/qbjf97.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/mb0eii.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/5a095ca3857280220725/O.D._Rainha_Do_Rock_Crawl.tar"
+    }
+  }
+}
