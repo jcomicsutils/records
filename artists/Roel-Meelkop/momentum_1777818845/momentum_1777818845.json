@@ -1,0 +1,32 @@
+{
+  "id": "momentum_1777818845",
+  "fingerprint": "2c4579107b196398d29958ffe2de64fbb9bf3663764c7f37c8d2b78038484f12",
+  "archived_at": "2026-05-03T14:35:43Z",
+  "metadata": {
+    "title": "<Momentum>",
+    "artist": "Roel Meelkop",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3634,
+    "duration_human": "01:00:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - Zer0 Return (1997)",
+      "02 Roel Meelkop - Am Birkenwald (2004)",
+      "03 Roel Meelkop - Sub Version With High End (2004)",
+      "04 Roel Meelkop - LocGroove (2002)",
+      "05 Roel Meelkop - Nu (2002)",
+      "06 Roel Meelkop - Sined (2002)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/momentum_1777818845"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/320a9f7fffaeb91670c3/Momentum.tar"
+    }
+  }
+}
