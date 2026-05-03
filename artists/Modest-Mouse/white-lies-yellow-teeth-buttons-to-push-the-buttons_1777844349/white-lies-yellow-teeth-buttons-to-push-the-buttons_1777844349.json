@@ -1,0 +1,31 @@
+{
+  "id": "white-lies-yellow-teeth-buttons-to-push-the-buttons_1777844349",
+  "fingerprint": "309bde453e684202f7bd7ae1268b06591d7494417622e180d29bd4ee985bbc94",
+  "archived_at": "2026-05-03T21:39:46Z",
+  "metadata": {
+    "title": "White Lies, Yellow Teeth / Buttons to Push the Buttons",
+    "artist": "Modest Mouse",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 480,
+    "duration_human": "00:08:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Modest Mouse - White Lies, Yellow Teeth",
+      "02 Modest Mouse - Buttons to Push the Buttons"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/white-lies-yellow-teeth-buttons-to-push-the-buttons_1777844349"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/a12ad4.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/51beefd941c89d8901c3/White_Lies_Yellow_Teeth_-_Buttons_to_Push_the_Buttons.tar"
+    }
+  }
+}
