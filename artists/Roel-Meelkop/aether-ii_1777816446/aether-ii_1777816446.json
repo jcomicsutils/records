@@ -1,0 +1,27 @@
+{
+  "id": "aether-ii_1777816446",
+  "fingerprint": "599caec7a8392375a7437b1b67d7d266e3776932eed4f0c76c2af4faab7985f6",
+  "archived_at": "2026-05-03T13:58:25Z",
+  "metadata": {
+    "title": "Aether II",
+    "artist": "Roel Meelkop",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2070,
+    "duration_human": "00:34:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Roel Meelkop / Machinefabriek - Aether II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/aether-ii_1777816446"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/cdf2ad6e094e26a0c167/Aether_II.tar"
+    }
+  }
+}
