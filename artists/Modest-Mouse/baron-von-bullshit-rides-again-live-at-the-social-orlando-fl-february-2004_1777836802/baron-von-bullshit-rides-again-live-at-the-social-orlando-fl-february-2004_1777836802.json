@@ -1,0 +1,47 @@
+{
+  "id": "baron-von-bullshit-rides-again-live-at-the-social-orlando-fl-february-2004_1777836802",
+  "fingerprint": "801382325d2e7d22b631aa7569fe79587945614af8db667ac652c152c463c1cf",
+  "archived_at": "2026-05-03T19:35:04Z",
+  "metadata": {
+    "title": "Baron Von Bullshit Rides Again (Live at the Social, Orlando, FL - February 2004)",
+    "artist": "Modest Mouse",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2733,
+    "duration_human": "00:45:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Modest Mouse - 3rd Planet (Live at the Social, Orlando, FL - February 2004)",
+      "02 Modest Mouse - Never Ending Math Equation (Live at the Social, Orlando, FL - February 2004)",
+      "03 Modest Mouse - Wild Packs of Family Dogs (Live at the Social, Orlando, FL - February 2004)",
+      "04 Modest Mouse - Broke (Live at the Social, Orlando, FL - February 2004)",
+      "05 Modest Mouse - Paper Thin Walls (Live at the Social, Orlando, FL - February 2004)",
+      "06 Modest Mouse - I Came as a Rat (Live at the Social, Orlando, FL - February 2004)",
+      "07 Modest Mouse - Doin' the Cockroach (Live at the Social, Orlando, FL - February 2004)",
+      "08 Modest Mouse - Bankrupt on Selling (Live at the Social, Orlando, FL - February 2004)",
+      "09 Modest Mouse - Interstate 8 (Live at the Social, Orlando, FL - February 2004)",
+      "10 Modest Mouse - The Good Times Are Killing Me (Live at the Social, Orlando, FL - February 2004)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/baron-von-bullshit-rides-again-live-at-the-social-orlando-fl-february-2004_1777836802"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/p4wd9o.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ge8n2k.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/86f60ed4bbb55979c013/Baron_Von_Bullshit_Rides_Again_%28Live_at_the_Social_Orlando_FL_-_February_2004.tar"
+    }
+  }
+}

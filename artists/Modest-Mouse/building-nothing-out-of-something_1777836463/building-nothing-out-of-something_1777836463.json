@@ -1,0 +1,35 @@
+{
+  "id": "building-nothing-out-of-something_1777836463",
+  "fingerprint": "1c3142309da5c3fd64b3d00e80e46b9737028904d65a4c399fbb0cc5d5fbda57",
+  "archived_at": "2026-05-03T19:29:29Z",
+  "metadata": {
+    "title": "Building Nothing Out of Something",
+    "artist": "Modest Mouse",
+    "year": "2000",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3320,
+    "duration_human": "00:55:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Modest Mouse - Never Ending Math Equation",
+      "02 Modest Mouse - Interstate 8",
+      "03 Modest Mouse - Broke",
+      "04 Modest Mouse - Medication",
+      "05 Modest Mouse - Workin' on Leavin' the Livin'",
+      "06 Modest Mouse - All Night Diner",
+      "07 Modest Mouse - Baby Blue Sedan",
+      "08 Modest Mouse - A Life of Arctic Sounds",
+      "09 Modest Mouse - Sleep Walkin'",
+      "10 Modest Mouse - Grey Ice Water",
+      "11 Modest Mouse - Whenever You Breathe Out, I Breathe in (Positive Negative)",
+      "12 Modest Mouse - Other People's Lives"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/building-nothing-out-of-something_1777836463"
+    }
+  }
+}
