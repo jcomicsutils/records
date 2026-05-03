@@ -1,0 +1,30 @@
+{
+  "id": "viva-in-pace_1777823123",
+  "fingerprint": "36796ad01ca7c24575ffa2f9ec8e2ce66876c4a8321a06d95dc66394d0643c56",
+  "archived_at": "2026-05-03T15:46:15Z",
+  "metadata": {
+    "title": "Viva in Pace",
+    "artist": "Roel Meelkop",
+    "year": "2023",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 2607,
+    "duration_human": "00:43:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Roel Meelkop - Viva in Pace I",
+      "02 Roel Meelkop - Viva in Pace II",
+      "03 Roel Meelkop - Viva in Pace III",
+      "04 Roel Meelkop - Viva in Pace IV"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/viva-in-pace_1777823123"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/730c548b5d06ed8549e1/Viva_in_Pace.tar"
+    }
+  }
+}
