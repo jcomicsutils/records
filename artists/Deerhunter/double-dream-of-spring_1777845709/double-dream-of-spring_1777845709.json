@@ -1,0 +1,39 @@
+{
+  "id": "double-dream-of-spring_1777845709",
+  "fingerprint": "be973223cd82176ad483ed462755113245d468f30d8b5f5d7da3e61528d59082",
+  "archived_at": "2026-05-03T22:04:06Z",
+  "metadata": {
+    "title": "Double Dream of Spring",
+    "artist": "Deerhunter",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2245,
+    "duration_human": "00:37:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhunter - Clorox Creek Chorus",
+      "02 Deerhunter - Dial's Metal Patterns",
+      "03 Deerhunter - [untitled]",
+      "04 Deerhunter - Strang's Glacier",
+      "05 Deerhunter - The Primitive Baptists",
+      "06 Deerhunter - Denim Opera",
+      "07 Deerhunter - Lilacs in Motor Oil",
+      "08 Deerhunter - Faulkner's Dance",
+      "09 Deerhunter - How German is It?",
+      "10 Deerhunter - Serenity 1919"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/double-dream-of-spring_1777845709"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wk01qu.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/4bba6aadb1597ab38ab1/Double_Dream_of_Spring.tar"
+    }
+  }
+}
