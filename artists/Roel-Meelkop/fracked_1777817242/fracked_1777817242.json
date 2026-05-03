@@ -1,0 +1,27 @@
+{
+  "id": "fracked_1777817242",
+  "fingerprint": "1f946ad39248567debc03d4dfebfc8f1ba254daba987320e1b99da787f9b8c69",
+  "archived_at": "2026-05-03T14:08:22Z",
+  "metadata": {
+    "title": "Fracked",
+    "artist": "Roel Meelkop",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 689,
+    "duration_human": "00:11:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Roel Meelkop - Fracked"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fracked_1777817242"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/81952b8c2be05525bcea/Fracked.tar"
+    }
+  }
+}
