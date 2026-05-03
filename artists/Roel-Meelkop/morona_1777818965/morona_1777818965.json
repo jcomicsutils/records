@@ -1,0 +1,27 @@
+{
+  "id": "morona_1777818965",
+  "fingerprint": "c4b8a0b5e176c0d0fc7d420dcb8207688280a010a4257227bbeedb903906c892",
+  "archived_at": "2026-05-03T14:43:13Z",
+  "metadata": {
+    "title": "Morona",
+    "artist": "Roel Meelkop",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2642,
+    "duration_human": "00:44:02",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Roel Meelkop - Morona"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/morona_1777818965"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/82e3faa38877c8eab6f0/Morona.tar"
+    }
+  }
+}
