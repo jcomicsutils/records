@@ -1,0 +1,48 @@
+{
+  "id": "halcyon-digest_1777847792",
+  "fingerprint": "50c255e992726bf475a6723d60118f32814d146975692da6dc3fafc7643aca33",
+  "archived_at": "2026-05-03T22:41:22Z",
+  "metadata": {
+    "title": "Halcyon Digest",
+    "artist": "Deerhunter",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2761,
+    "duration_human": "00:46:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhunter - Earthquake",
+      "02 Deerhunter - Don't Cry",
+      "03 Deerhunter - Revival",
+      "04 Deerhunter - Sailing",
+      "05 Deerhunter - Memory Boy",
+      "06 Deerhunter - Desire Lines",
+      "07 Deerhunter - Basement Scene",
+      "08 Deerhunter - Helicopter",
+      "09 Deerhunter - Fountain Stairs",
+      "10 Deerhunter - Coronado",
+      "11 Deerhunter - He Would Have Laughed"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/halcyon-digest_1777847792"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/ead8uf.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/bp8pu5.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/74f5e455a786c9f7d79a/Halcyon_Digest.tar"
+    }
+  }
+}
