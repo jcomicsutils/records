@@ -30,6 +30,20 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/building-nothing-out-of-something_1777836463"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/gqfztx.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/iyvs0f.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/f632aa3a68356f1f5b9c/Building_Nothing_Out_of_Something.tar"
     }
   }
 }

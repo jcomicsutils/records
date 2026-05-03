@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/building-nothing-out-of-something_1777836463)
+- Catbox: [Part 1](https://files.catbox.moe/gqfztx.tar) [Part 2](https://files.catbox.moe/iyvs0f.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/f632aa3a68356f1f5b9c/Building_Nothing_Out_of_Something.tar)
 
 ## Tracklist
 
