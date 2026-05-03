@@ -1,0 +1,32 @@
+{
+  "id": "onkyo-ok_1777812127",
+  "fingerprint": "8fd011978284171846d8eb30b34e30084f3660eff830ed2232b112073b80936b",
+  "archived_at": "2026-05-03T12:43:44Z",
+  "metadata": {
+    "title": "(Onkyo Ok)",
+    "artist": "Roel Meelkop",
+    "year": "2004",
+    "codec": "ALAC",
+    "num_tracks": 6,
+    "duration_seconds": 2772,
+    "duration_human": "00:46:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - [untitled]",
+      "02 Roel Meelkop - [untitled]",
+      "03 Roel Meelkop - [untitled]",
+      "04 Roel Meelkop - [untitled]",
+      "05 Roel Meelkop - [untitled]",
+      "06 Roel Meelkop - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/onkyo-ok_1777812127"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/e667fc488df855f3366d/%28Onkyo_Ok.tar"
+    }
+  }
+}

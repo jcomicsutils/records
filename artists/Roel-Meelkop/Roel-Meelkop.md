@@ -2,4 +2,5 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [\(Onkyo Ok\)](onkyo-ok_1777812127/onkyo-ok_1777812127.md) | 2004 | ALAC | 00:46:12 | [IA](https://archive.org/details/onkyo-ok_1777812127) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/e667fc488df855f3366d/%28Onkyo_Ok.tar) |
 | [\(K\)7](k7_1777811558/k7_1777811558.md) | 2018 | FLAC | 00:50:09 | [IA](https://archive.org/details/k7_1777811558) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/e44266a58e84dbfd9b47/%28K%297.tar) |
