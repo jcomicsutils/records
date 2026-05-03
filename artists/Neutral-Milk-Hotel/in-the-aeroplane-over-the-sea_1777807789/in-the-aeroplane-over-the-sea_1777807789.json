@@ -1,0 +1,37 @@
+{
+  "id": "in-the-aeroplane-over-the-sea_1777807789",
+  "fingerprint": "6420fc012defbe868c7220c6f77caf50047c40468b8259904213d70287f67c88",
+  "archived_at": "2026-05-03T11:33:43Z",
+  "metadata": {
+    "title": "In the Aeroplane Over the Sea",
+    "artist": "Neutral Milk Hotel",
+    "year": "1998",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2394,
+    "duration_human": "00:39:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Neutral Milk Hotel - King of Carrot Flowers Pt. 1",
+      "02 Neutral Milk Hotel - King of Carrot Flowers Pts. 2 & 3",
+      "03 Neutral Milk Hotel - In the Aeroplane Over the Sea",
+      "04 Neutral Milk Hotel - Two-Headed Boy",
+      "05 Neutral Milk Hotel - The Fool",
+      "06 Neutral Milk Hotel - Holland, 1945",
+      "07 Neutral Milk Hotel - Communist Daughter",
+      "08 Neutral Milk Hotel - Oh Comely",
+      "09 Neutral Milk Hotel - Ghost",
+      "10 Neutral Milk Hotel - [untitled]",
+      "11 Neutral Milk Hotel - Two-Headed Boy Pt. 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/in-the-aeroplane-over-the-sea_1777807789"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/c40bc10fd6609ef55205/In_the_Aeroplane_Over_the_Sea.tar"
+    }
+  }
+}
