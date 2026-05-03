@@ -1,0 +1,35 @@
+{
+  "id": "night-on-the-sun_1777838968",
+  "fingerprint": "fed9ce7d1ec55cda070259e4936a62e2923b244a24e04f82073f805828762db6",
+  "archived_at": "2026-05-03T20:10:29Z",
+  "metadata": {
+    "title": "Night on the Sun",
+    "artist": "Modest Mouse",
+    "year": "1999",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1414,
+    "duration_human": "00:23:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Modest Mouse - Night on the Sun",
+      "02 Modest Mouse - You're the Good Things (It's Alright to Die)",
+      "03 Modest Mouse - Wild Pack of Family Dogs",
+      "04 Modest Mouse - Dark Center of the Universe",
+      "05 Modest Mouse - Lives (Your Life)",
+      "06 Modest Mouse - No Title (Jeremiah Green Speaking Japanese)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/night-on-the-sun_1777838968"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wbl6sn.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/a1da676a4fa4fdb2899e/Night_on_the_Sun.tar"
+    }
+  }
+}
