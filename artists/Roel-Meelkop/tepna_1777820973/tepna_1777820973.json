@@ -1,0 +1,29 @@
+{
+  "id": "tepna_1777820973",
+  "fingerprint": "61bf8605a4e2f3d8191ead3286f8c13c72cc5aaeb14bd2aae50adcf354f4d3ae",
+  "archived_at": "2026-05-03T15:13:38Z",
+  "metadata": {
+    "title": "Tepna",
+    "artist": "Roel Meelkop",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2202,
+    "duration_human": "00:36:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - T1",
+      "02 Roel Meelkop - T2",
+      "03 Roel Meelkop - T3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tepna_1777820973"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/d074b790b52905be6d21/Tepna.tar"
+    }
+  }
+}
