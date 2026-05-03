@@ -1,0 +1,27 @@
+{
+  "id": "violence-against-the-evidence_1777823014",
+  "fingerprint": "a6c43c5572b3bd036b8ff5a80218c8b0ac293bed2d3e582122b15733c0b7090e",
+  "archived_at": "2026-05-03T15:45:10Z",
+  "metadata": {
+    "title": "Violence Against the Evidence",
+    "artist": "Roel Meelkop",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2412,
+    "duration_human": "00:40:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop & Das Synthetische Mischgewebe - Violence Against the Evidence"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/violence-against-the-evidence_1777823014"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/3007388ea7741938f3df/Violence_Against_the_Evidence.tar"
+    }
+  }
+}
