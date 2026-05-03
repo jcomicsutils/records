@@ -1,0 +1,33 @@
+{
+  "id": "7-perceptions_1777815459",
+  "fingerprint": "8840cd67bd8294226dfb991eb64ac0ac039c2bf72557220d9f6761b29ab08883",
+  "archived_at": "2026-05-03T13:39:23Z",
+  "metadata": {
+    "title": "7 (Perceptions)",
+    "artist": "Roel Meelkop",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3053,
+    "duration_human": "00:50:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - [untitled]",
+      "02 Roel Meelkop - [untitled]",
+      "03 Roel Meelkop - [untitled]",
+      "04 Roel Meelkop - [untitled]",
+      "05 Roel Meelkop - [untitled]",
+      "06 Roel Meelkop - [untitled]",
+      "07 Roel Meelkop - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/7-perceptions_1777815459"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/3fdcd24ee9f723850dd3/7_%28Perceptions.tar"
+    }
+  }
+}
