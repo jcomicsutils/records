@@ -1,0 +1,39 @@
+{
+  "id": "compiled-once_1777812661",
+  "fingerprint": "0c8f5375b589ce0c7e788189ed658afd492749c21e54cca5a7ab66ae0e717fb2",
+  "archived_at": "2026-05-03T12:54:33Z",
+  "metadata": {
+    "title": "[Compiled (Once)]",
+    "artist": "Roel Meelkop",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 6131,
+    "duration_human": "01:42:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - I",
+      "02 Roel Meelkop - II",
+      "03 Roel Meelkop - III",
+      "04 Roel Meelkop - IV",
+      "05 Roel Meelkop - V",
+      "06 Roel Meelkop - VI",
+      "07 Roel Meelkop - VII",
+      "08 Roel Meelkop - VIII",
+      "09 Roel Meelkop - IX",
+      "10 Roel Meelkop - X",
+      "11 Roel Meelkop - XI",
+      "12 Roel Meelkop - XII",
+      "13 Roel Meelkop - XIII"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/compiled-once_1777812661"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/00e8fe840562102987c6/%5BCompiled_%28Once.tar"
+    }
+  }
+}
