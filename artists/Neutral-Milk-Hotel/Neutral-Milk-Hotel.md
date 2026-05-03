@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [The Amazing Phantom Third Channel](the-amazing-phantom-third-channel_1777808466/the-amazing-phantom-third-channel_1777808466.md) | 1993 | MP3 | 00:10:32 | [IA](https://archive.org/details/the-amazing-phantom-third-channel_1777808466) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/c1fce2fac672c0a878a2/The_Amazing_Phantom_Third_Channel.tar) |
 | [Hype-City Soundtrack](hype-city-soundtrack_1777807492/hype-city-soundtrack_1777807492.md) | 1993 | FLAC | 00:28:38 | [IA](https://archive.org/details/hype-city-soundtrack_1777807492) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/4aca3d39d0ea36afdf1a/Hype-City_Soundtrack.tar) |
 | [On Avery Island](on-avery-island_1777808122/on-avery-island_1777808122.md) | 1996 | FLAC | 00:55:33 | [IA](https://archive.org/details/on-avery-island_1777808122) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/713113ba866aad6d91e6/On_Avery_Island.tar) |
 | [In the Aeroplane Over the Sea](in-the-aeroplane-over-the-sea_1777807789/in-the-aeroplane-over-the-sea_1777807789.md) | 1998 | FLAC | 00:39:54 | [IA](https://archive.org/details/in-the-aeroplane-over-the-sea_1777807789) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/c40bc10fd6609ef55205/In_the_Aeroplane_Over_the_Sea.tar) |

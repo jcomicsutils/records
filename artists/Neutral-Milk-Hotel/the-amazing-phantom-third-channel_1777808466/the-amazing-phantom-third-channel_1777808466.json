@@ -1,0 +1,31 @@
+{
+  "id": "the-amazing-phantom-third-channel_1777808466",
+  "fingerprint": "0fc0eefd073c9257aee4818669433780c10337ff406f4c12de44709defafc1bf",
+  "archived_at": "2026-05-03T11:41:48Z",
+  "metadata": {
+    "title": "The Amazing Phantom Third Channel",
+    "artist": "Neutral Milk Hotel",
+    "year": "1993",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 632,
+    "duration_human": "00:10:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Crayon - Too Much Sugar",
+      "02 Watercolor Sunset - Hollywood Decay",
+      "03 Neutral Milk Hotel - Up and Over We Go",
+      "04 Paste - Nickels",
+      "05 Unknown Artist - The Amazing Phantom Third Channel"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-amazing-phantom-third-channel_1777808466"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/c1fce2fac672c0a878a2/The_Amazing_Phantom_Third_Channel.tar"
+    }
+  }
+}
