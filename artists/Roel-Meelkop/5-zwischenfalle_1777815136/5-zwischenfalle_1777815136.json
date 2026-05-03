@@ -1,0 +1,35 @@
+{
+  "id": "5-zwischenfalle_1777815136",
+  "fingerprint": "50f57fd08a05099b7d1bd34584e3f2fb9df400f41eff46fe7a0ddfebc8c76a89",
+  "archived_at": "2026-05-03T13:33:43Z",
+  "metadata": {
+    "title": "5 (Zwischenfälle)",
+    "artist": "Roel Meelkop",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3321,
+    "duration_human": "00:55:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - 1",
+      "02 Roel Meelkop - 2",
+      "03 Roel Meelkop - 3",
+      "04 Roel Meelkop - 4",
+      "05 Roel Meelkop - 5",
+      "06 Roel Meelkop - 6",
+      "07 Roel Meelkop - 7",
+      "08 Roel Meelkop - 8",
+      "09 Roel Meelkop - 9"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/5-zwischenfalle_1777815136"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/0dbf81c82e694daf459b/5_%28Zwischenf%C3%A4lle.tar"
+    }
+  }
+}
