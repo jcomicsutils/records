@@ -1,0 +1,32 @@
+{
+  "id": "6-mailcop-rules_1777815242",
+  "fingerprint": "75d0766710ee7c6c054a385dcdcffe55f32bcc4e91ebd50a91ea5c3bd800d415",
+  "archived_at": "2026-05-03T13:37:12Z",
+  "metadata": {
+    "title": "6 (Mailcop Rules)",
+    "artist": "Roel Meelkop",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 4162,
+    "duration_human": "01:09:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - 1",
+      "02 Roel Meelkop - 2",
+      "03 Roel Meelkop - 3",
+      "04 Roel Meelkop - 4",
+      "05 Roel Meelkop - 5",
+      "06 Roel Meelkop - 6"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/6-mailcop-rules_1777815242"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/82da26e920d128d5e487/6_%28Mailcop_Rules.tar"
+    }
+  }
+}
