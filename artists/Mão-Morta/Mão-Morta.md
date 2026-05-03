@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Há já muito tempo que nesta latrina o ar se tornou irrespirável](ha-ja-muito-tempo-que-nesta-latrina-o-ar-se-tornou-irrespiravel_1777824698/ha-ja-muito-tempo-que-nesta-latrina-o-ar-se-tornou-irrespiravel_1777824698.md) | 1998 | FLAC | 00:48:55 | [IA](https://archive.org/details/ha-ja-muito-tempo-que-nesta-latrina-o-ar-se-tornou-irrespiravel_1777824698) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/fa721f36c2477f44a04b/H%C3%A1_j%C3%A1_muito_tempo_que_nesta_latrina_o_ar_se_tornou_irrespir%C3%A1vel.tar) |
 | [Ao Vivo na Aula Magna \(Live\)](ao-vivo-na-aula-magna-live_1777823513/ao-vivo-na-aula-magna-live_1777823513.md) | 2002 | FLAC | 01:06:42 | [IA](https://archive.org/details/ao-vivo-na-aula-magna-live_1777823513) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/8b0dde67c3aa684943d9/Ao_Vivo_na_Aula_Magna_%28Live.tar) |
 | [Carícias Malícias](caricias-malicias_1777824041/caricias-malicias_1777824041.md) | 2003 | FLAC | 01:07:47 | [IA](https://archive.org/details/caricias-malicias_1777824041) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/c1fcb4cb62daa2616b17/Car%C3%ADcias_Mal%C3%ADcias.tar) |
 | [Corações Felpudos](coracoes-felpudos_1777824487/coracoes-felpudos_1777824487.md) | 2010 | FLAC | 00:58:11 | [IA](https://archive.org/details/coracoes-felpudos_1777824487) [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/4f7420dcbe97562d84b3/Cora%C3%A7%C3%B5es_Felpudos.tar) |
