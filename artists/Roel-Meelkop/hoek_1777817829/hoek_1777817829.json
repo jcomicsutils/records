@@ -1,0 +1,27 @@
+{
+  "id": "hoek_1777817829",
+  "fingerprint": "5a6291af7a8c9f90d9854d44a945a7c0f12a19f3c4660a46253e28a4a2966e30",
+  "archived_at": "2026-05-03T14:18:08Z",
+  "metadata": {
+    "title": "Hoek",
+    "artist": "Roel Meelkop",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3219,
+    "duration_human": "00:53:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop & Marco Douma - Hoek"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hoek_1777817829"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/56aa5fd4cecebba8daf7/Hoek.tar"
+    }
+  }
+}
