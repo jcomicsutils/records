@@ -1,0 +1,47 @@
+{
+  "id": "ventos-animais_1777831904",
+  "fingerprint": "317ec9cd37a8851c3de3c01e722a36df8a79e55c6ee62b2198318e57bed261d7",
+  "archived_at": "2026-05-03T18:16:46Z",
+  "metadata": {
+    "title": "Ventos Animais",
+    "artist": "Mão Morta",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2808,
+    "duration_human": "00:46:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mão Morta - Ventos animais",
+      "02 Mão Morta - Budapeste (Sempre a rock & rollar)",
+      "03 Mão Morta - As tetas da alienação",
+      "04 Mão Morta - É um jogo",
+      "05 Mão Morta - Penso que penso",
+      "06 Mão Morta - Quero morder-te as mãos",
+      "07 Mão Morta - Anjos de pureza",
+      "08 Mão Morta - Oub'lá",
+      "09 Mão Morta - Bófia",
+      "10 Mão Morta - Chabala"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ventos-animais_1777831904"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/30l4s5.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/5e9gl2.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/90d7d153af7379f701c3/Ventos_Animais.tar"
+    }
+  }
+}
