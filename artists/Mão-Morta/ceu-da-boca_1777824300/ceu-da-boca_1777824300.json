@@ -1,0 +1,27 @@
+{
+  "id": "ceu-da-boca_1777824300",
+  "fingerprint": "fa3c1468a6022ffefd9bf21b4bcdbd6ac424bb1c86359d84405c780e72c40612",
+  "archived_at": "2026-05-03T16:07:58Z",
+  "metadata": {
+    "title": "Céu-da-Boca",
+    "artist": "Mão Morta",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 369,
+    "duration_human": "00:06:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mão Morta, Pedro Sousa - Céu-da-boca"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ceu-da-boca_1777824300"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/1ef6750468afddd8f5e3/C%C3%A9u-da-Boca.tar"
+    }
+  }
+}
