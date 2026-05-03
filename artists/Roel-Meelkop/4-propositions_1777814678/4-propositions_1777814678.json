@@ -1,0 +1,30 @@
+{
+  "id": "4-propositions_1777814678",
+  "fingerprint": "db35dd4d011d919873012a6af59d26799855c63df73e03594865fde8782ae83e",
+  "archived_at": "2026-05-03T13:26:02Z",
+  "metadata": {
+    "title": "4 (Propositions)",
+    "artist": "Roel Meelkop",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3377,
+    "duration_human": "00:56:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - [untitled]",
+      "02 Roel Meelkop - [untitled]",
+      "03 Roel Meelkop - [untitled]",
+      "04 Roel Meelkop - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/4-propositions_1777814678"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/e3cbac8e565a68e46061/4_%28Propositions.tar"
+    }
+  }
+}
