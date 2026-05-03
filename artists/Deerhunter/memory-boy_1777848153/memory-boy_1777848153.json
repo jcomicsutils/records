@@ -1,0 +1,31 @@
+{
+  "id": "memory-boy_1777848153",
+  "fingerprint": "8ee3ba273f67fc8d3846874e65a665e197a616de44840feab27eee0a6af12a20",
+  "archived_at": "2026-05-03T22:43:10Z",
+  "metadata": {
+    "title": "Memory Boy",
+    "artist": "Deerhunter",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 301,
+    "duration_human": "00:05:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhunter - Memory Boy",
+      "02 Deerhunter - Nosebleed"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/memory-boy_1777848153"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/snj3mq.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/07700044e700219969cd/Memory_Boy.tar"
+    }
+  }
+}
