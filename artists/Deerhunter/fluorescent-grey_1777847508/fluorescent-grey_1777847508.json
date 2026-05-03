@@ -1,0 +1,33 @@
+{
+  "id": "fluorescent-grey_1777847508",
+  "fingerprint": "d54fb7b43f29bc1782bb6b6a78dafb3bb55ec3cf3fcb4976f66a1af83e77e515",
+  "archived_at": "2026-05-03T22:34:58Z",
+  "metadata": {
+    "title": "Fluorescent Grey",
+    "artist": "Deerhunter",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 977,
+    "duration_human": "00:16:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhunter - Fluorescent Grey",
+      "02 Deerhunter - Dr Glass",
+      "03 Deerhunter - Like New",
+      "04 Deerhunter - Wash Off"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fluorescent-grey_1777847508"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/uy846q.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/a3c6b9e0ba6cdda3ca1d/Fluorescent_Grey.tar"
+    }
+  }
+}
