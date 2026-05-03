@@ -1,0 +1,28 @@
+{
+  "id": "2-kyoku_1777814489",
+  "fingerprint": "01b491d2c25eb9fa7e954886ea45331c036c52e4e2b09e63ff70301b85778ec2",
+  "archived_at": "2026-05-03T13:22:06Z",
+  "metadata": {
+    "title": "2 (Kyoku)",
+    "artist": "Roel Meelkop",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1238,
+    "duration_human": "00:20:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - Hikari",
+      "02 Roel Meelkop - Garasu"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/2-kyoku_1777814489"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/f0bc751732b2b46aa137/2_%28Kyoku.tar"
+    }
+  }
+}
