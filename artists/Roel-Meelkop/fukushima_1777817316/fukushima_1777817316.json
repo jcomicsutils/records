@@ -1,0 +1,29 @@
+{
+  "id": "fukushima_1777817316",
+  "fingerprint": "d53a37376f151463f444a0d3382abd5872df36ae17c513821020ac704635417e",
+  "archived_at": "2026-05-03T14:09:27Z",
+  "metadata": {
+    "title": "Fukushima",
+    "artist": "Roel Meelkop",
+    "year": "2011",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 2568,
+    "duration_human": "00:42:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Roel Meelkop & Takanobu Hoshino - Hoshinosolonext",
+      "02 Roel Meelkop & Takanobu Hoshino - Fukushima",
+      "03 Roel Meelkop & Takanobu Hoshino - From a Long Distance"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fukushima_1777817316"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/30a5ee1ca13c0382c379/Fukushima.tar"
+    }
+  }
+}
