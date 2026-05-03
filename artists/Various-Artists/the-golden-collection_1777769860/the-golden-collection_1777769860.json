@@ -1,0 +1,30 @@
+{
+  "id": "the-golden-collection_1777769860",
+  "fingerprint": "b83504a1c63cb3c4c8197288d0929895c7c07e3660cc8f1a81a496bd5c28b189",
+  "archived_at": "2026-05-03T00:59:14Z",
+  "metadata": {
+    "title": "The (Golden) Collection",
+    "artist": "Various Artists",
+    "year": "2002",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1159,
+    "duration_human": "00:19:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Roel Meelkop - Refuse",
+      "02 Peter Duimelinks - Drift",
+      "03 Rohan Thomas - Unt.dn",
+      "04 Rosy Parlene - Casper"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-golden-collection_1777769860"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/d80c87aae937d186b7ba/The_%28Golden%29_Collection.tar"
+    }
+  }
+}
