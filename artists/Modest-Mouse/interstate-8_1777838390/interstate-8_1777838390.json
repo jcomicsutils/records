@@ -1,0 +1,48 @@
+{
+  "id": "interstate-8_1777838390",
+  "fingerprint": "eab0fa7955f937457f4ccc020317d2520bfbf1a6325ac7ff16a03cd7c3b2a334",
+  "archived_at": "2026-05-03T20:03:53Z",
+  "metadata": {
+    "title": "Interstate 8",
+    "artist": "Modest Mouse",
+    "year": "1996",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 3380,
+    "duration_human": "00:56:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Modest Mouse - Interstate 8",
+      "02 Modest Mouse - All Night Diner",
+      "03 Modest Mouse - Sleepwalking (Couples Only Dance Prom Night)",
+      "04 Modest Mouse - Tundra/Desert",
+      "05 Modest Mouse - Edit the Sad Parts",
+      "06 Modest Mouse - Beach Side Property (Live)",
+      "07 Modest Mouse - Buttons to Push the Buttons (Live)",
+      "08 Modest Mouse - Novocaine Stain (Live)",
+      "09 Modest Mouse - Broke (Live)",
+      "10 Modest Mouse - Whenever You Breathe Out, I Breathe in (Positive Negative) (Live)",
+      "11 Modest Mouse - Edit the Sad Parts (Live)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/interstate-8_1777838390"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/ofe7zh.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/12kh2h.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/b9f1e31e7c7353682df2/Interstate_8.tar"
+    }
+  }
+}
