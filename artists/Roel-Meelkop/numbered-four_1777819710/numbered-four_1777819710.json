@@ -1,0 +1,27 @@
+{
+  "id": "numbered-four_1777819710",
+  "fingerprint": "16f433362b57a662f3be873cd4104f91e3843ac7e45caf14677e0f408626a86d",
+  "archived_at": "2026-05-03T14:48:58Z",
+  "metadata": {
+    "title": "Numbered Four",
+    "artist": "Roel Meelkop",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1249,
+    "duration_human": "00:20:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - Numbered Four"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/numbered-four_1777819710"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/d8cf330ee031660d23b4/Numbered_Four.tar"
+    }
+  }
+}
