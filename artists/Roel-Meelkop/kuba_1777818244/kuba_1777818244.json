@@ -1,0 +1,27 @@
+{
+  "id": "kuba_1777818244",
+  "fingerprint": "ad133c49b5d7584768a17bf759843d77346d71ed8ed56bb8d7f63edca6a81057",
+  "archived_at": "2026-05-03T14:30:27Z",
+  "metadata": {
+    "title": "Kuba",
+    "artist": "Roel Meelkop",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1751,
+    "duration_human": "00:29:11",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Roel Meelkop - Kuba"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kuba_1777818244"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/e1cfb6c810488233e6b9/Kuba.tar"
+    }
+  }
+}
