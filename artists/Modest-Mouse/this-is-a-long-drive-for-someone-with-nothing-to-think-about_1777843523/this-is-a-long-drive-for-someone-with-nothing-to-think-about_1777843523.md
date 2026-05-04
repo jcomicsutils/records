@@ -1,5 +1,7 @@
 # Modest Mouse — This is a Long Drive for Someone With Nothing to Think About (1996)
 
+![Cover](https://archive.org/download/this-is-a-long-drive-for-someone-with-nothing-to-think-about_1777843523/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -12,6 +14,7 @@
 
 - Catbox: [Part 1](https://files.catbox.moe/8te344.tar) [Part 2](https://files.catbox.moe/9f0nmk.tar) [Part 3](https://files.catbox.moe/vwyj6n.tar)
 - [FileDitch](https://fileditchfiles.me/file.php?f=/beta0/ef44ffe0822529eac8a2/This_is_a_Long_Drive_for_Someone_With_Nothing_to_Think_About.tar)
+- [Archive.org](https://archive.org/details/this-is-a-long-drive-for-someone-with-nothing-to-think-about_1777855401)
 
 ## Tracklist
 
