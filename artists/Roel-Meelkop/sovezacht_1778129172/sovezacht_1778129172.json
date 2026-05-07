@@ -1,0 +1,36 @@
+{
+  "id": "sovezacht_1778129172",
+  "fingerprint": "5d6b64b28717a5996aac6b76b6bdaf6d19b2d6be7c8d73e2fa19de0b4e36343e",
+  "archived_at": "2026-05-07T04:47:25Z",
+  "metadata": {
+    "title": "Sovezacht",
+    "artist": "Roel Meelkop",
+    "year": "2002",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2701,
+    "duration_human": "00:45:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tore Roel Honoré Meelkop Bøe - Brug",
+      "02 Tore Roel Honoré Meelkop Bøe - Muurpryd",
+      "03 Tore Roel Honoré Meelkop Bøe - Stemmstem",
+      "04 Tore Roel Honoré Meelkop Bøe - Tendereng",
+      "05 Tore Roel Honoré Meelkop Bøe - Misgulv",
+      "06 Tore Roel Honoré Meelkop Bøe - Kamerdukke",
+      "07 Tore Roel Honoré Meelkop Bøe - Sildatied",
+      "08 Tore Roel Honoré Meelkop Bøe - Oeweetikke",
+      "09 Tore Roel Honoré Meelkop Bøe - Feitstrot",
+      "10 Tore Roel Honoré Meelkop Bøe - Bru"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sovezacht_1778129172"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/22be7bd252be138d59e8/Sovezacht.tar"
+    }
+  }
+}
