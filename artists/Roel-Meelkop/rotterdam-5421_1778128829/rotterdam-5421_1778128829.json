@@ -1,0 +1,29 @@
+{
+  "id": "rotterdam-5421_1778128829",
+  "fingerprint": "0eee859693a37013cc628ae454c0ca9155c7ec2bbc126259fbd402637a9a4f67",
+  "archived_at": "2026-05-07T04:41:25Z",
+  "metadata": {
+    "title": "Rotterdam 54:21",
+    "artist": "Roel Meelkop",
+    "year": "2012",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 3261,
+    "duration_human": "00:54:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Roel Meelkop / Mecha/Orga - Duet (April 2012)",
+      "02 Roel Meelkop - Solo (April 2012)",
+      "03 Mecha/Orga - Solo (June 2012)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rotterdam-5421_1778128829"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta0/101f7d63fbc489f1aca3/Rotterdam_5421.tar"
+    }
+  }
+}
