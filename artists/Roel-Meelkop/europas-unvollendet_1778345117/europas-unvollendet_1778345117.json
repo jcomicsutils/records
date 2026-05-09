@@ -1,0 +1,30 @@
+{
+  "id": "europas-unvollendet_1778345117",
+  "fingerprint": "1b5028f598b611133cf6c5de3015843168b366c96388c6b548ffe7ce55391390",
+  "archived_at": "2026-05-09T16:48:01Z",
+  "metadata": {
+    "title": "Europa's Unvollendet",
+    "artist": "Roel Meelkop",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1198,
+    "duration_human": "00:19:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - Europa's Unvollendet"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/europas-unvollendet_1778345117"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/37ihad.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/4ab05a403d887f979af1/Europa%27s_Unvollendet.tar"
+    }
+  }
+}
