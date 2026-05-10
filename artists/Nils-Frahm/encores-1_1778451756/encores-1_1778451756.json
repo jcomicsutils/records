@@ -1,0 +1,45 @@
+{
+  "id": "encores-1_1778451756",
+  "fingerprint": "c465361e3de7e65a760c1f8b66de02e89f0eec827d7ab1597c779b612ac4ee38",
+  "archived_at": "2026-05-10T22:38:45Z",
+  "metadata": {
+    "title": "Encores 1",
+    "artist": "Nils Frahm",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1503,
+    "duration_human": "00:25:03",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - The Roughest Trade",
+      "02 Nils Frahm - Ringing",
+      "03 Nils Frahm - To Thomas",
+      "04 Nils Frahm - The Dane",
+      "05 Nils Frahm - Harmonium in the Well"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/encores-1_1778451756"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/j7jyt3.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/g73hhm.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/bbrca4.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/e7a0c00243e8af8b2926/Encores_1.tar"
+    }
+  }
+}
