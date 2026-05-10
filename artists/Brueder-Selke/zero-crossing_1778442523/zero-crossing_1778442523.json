@@ -1,0 +1,31 @@
+{
+  "id": "zero-crossing_1778442523",
+  "fingerprint": "f7291f8f8936043fe30c54df9ee86084a96cc530c37446db48526d8d3dd6f78b",
+  "archived_at": "2026-05-10T19:49:42Z",
+  "metadata": {
+    "title": "Zero Crossing",
+    "artist": "Brueder Selke",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1038,
+    "duration_human": "00:17:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Brueder Selke, Eric Maltz - Zero",
+      "02 Brueder Selke, Eric Maltz - Crossing"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zero-crossing_1778442523"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/03q6ew.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/4412de773c01737ddcb3/Zero_Crossing.tar"
+    }
+  }
+}

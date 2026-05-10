@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Zero Crossing](zero-crossing_1778442523/zero-crossing_1778442523.md) | 2020 | FLAC | 00:17:18 | [IA](https://archive.org/details/zero-crossing_1778442523) [Catbox](https://files.catbox.moe/03q6ew.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/4412de773c01737ddcb3/Zero_Crossing.tar) |
 | [QP](qp_1778441310/qp_1778441310.md) | 2021 | FLAC | 00:14:20 | [IA](https://archive.org/details/qp_1778441310) [Catbox](https://files.catbox.moe/hayebk.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/520b7371cc892a073826/QP.tar) |
 | [Your Village](your-village_1778442474/your-village_1778442474.md) | 2022 | FLAC | 00:04:45 | [IA](https://archive.org/details/your-village_1778442474) [Catbox](https://files.catbox.moe/ifgdsz.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/21ed9d853eb6cfa152c3/Your_Village.tar) |
 | [Marienborn](marienborn_1778440340/marienborn_1778440340.md) | 2022 | FLAC | 00:43:00 | [Catbox ×2](marienborn_1778440340/marienborn_1778440340.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/a05aae1ad19e2d51dc4e/Marienborn.tar) |
