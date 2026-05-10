@@ -8,6 +8,7 @@
 - [Bardo Todol](Bardo-Todol/Bardo-Todol.md)
 - [Bark Psychosis](Bark-Psychosis/Bark-Psychosis.md)
 - [Bloodz Boi](Bloodz-Boi/Bloodz-Boi.md)
+- [Brueder Selke](Brueder-Selke/Brueder-Selke.md)
 - [Burning Witch](Burning-Witch/Burning-Witch.md)
 - [Club Rialto](Club-Rialto/Club-Rialto.md)
 - [Death Ambient](Death-Ambient/Death-Ambient.md)
