@@ -1,0 +1,64 @@
+{
+  "id": "all-melody_1778447421",
+  "fingerprint": "9d54b17a74695b78a938dcd8f47c854fcf6696eb0d466864d383829cb0556d68",
+  "archived_at": "2026-05-10T21:20:41Z",
+  "metadata": {
+    "title": "All Melody",
+    "artist": "Nils Frahm",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 4440,
+    "duration_human": "01:14:00",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - The Whole Universe Wants to Be Touched",
+      "02 Nils Frahm - Sunson",
+      "03 Nils Frahm - A Place",
+      "04 Nils Frahm - My Friend the Forest",
+      "05 Nils Frahm - Human Range",
+      "06 Nils Frahm - Forever Changeless",
+      "07 Nils Frahm - All Melody",
+      "08 Nils Frahm - #2",
+      "09 Nils Frahm - Momentum",
+      "10 Nils Frahm - Fundamental Values",
+      "11 Nils Frahm - Kaleidoscope",
+      "12 Nils Frahm - Harm Hymn"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/all-melody_1778447421"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/v4odym.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ayhpuz.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/fm72h7.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/dwauso.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/4jtj7i.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/d9jonq.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/si8gk6.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/d359a46a73c526eb6797/All_Melody.tar"
+    }
+  }
+}
