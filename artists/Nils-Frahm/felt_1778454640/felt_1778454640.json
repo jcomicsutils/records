@@ -1,0 +1,49 @@
+{
+  "id": "felt_1778454640",
+  "fingerprint": "ba69299e272166e5574f3616bafc03d25feeac3be87823ac8d6531757b390111",
+  "archived_at": "2026-05-10T23:17:04Z",
+  "metadata": {
+    "title": "Felt",
+    "artist": "Nils Frahm",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2597,
+    "duration_human": "00:43:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - Keep",
+      "02 Nils Frahm - Less",
+      "03 Nils Frahm - Familiar",
+      "04 Nils Frahm - Unter",
+      "05 Nils Frahm - Old Thought",
+      "06 Nils Frahm - Snippet",
+      "07 Nils Frahm - Kind",
+      "08 Nils Frahm - Pause",
+      "09 Nils Frahm - More"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/felt_1778454640"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/f5k5q3.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/qaoue3.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/t3tdwe.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/4469d247d273eb7a37d3/Felt.tar"
+    }
+  }
+}
