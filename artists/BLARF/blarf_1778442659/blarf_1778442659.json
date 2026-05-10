@@ -1,0 +1,33 @@
+{
+  "id": "blarf_1778442659",
+  "fingerprint": "50c088156afc068d0b675f9514a1b9654996cb023cea7c6758219b6812a1aa05",
+  "archived_at": "2026-05-10T19:53:53Z",
+  "metadata": {
+    "title": "BLARF",
+    "artist": "BLARF",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 378,
+    "duration_human": "00:06:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Eric Andre & The First Seed - iSteal",
+      "02 Eric Andre & The First Seed - Who I Am",
+      "03 Eric Andre & The First Seed - Wickedpedia",
+      "04 Eric Andre & The First Seed - Beef Patty"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/blarf_1778442659"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8krou1.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/d3d61b64f7736c030af0/BLARF.tar"
+    }
+  }
+}
