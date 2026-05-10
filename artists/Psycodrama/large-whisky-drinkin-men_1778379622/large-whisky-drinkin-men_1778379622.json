@@ -1,0 +1,31 @@
+{
+  "id": "large-whisky-drinkin-men_1778379622",
+  "fingerprint": "982ba578c846554066af5eaab0741d4249b417c5046e1acec3ab90968eac1fd2",
+  "archived_at": "2026-05-10T02:22:05Z",
+  "metadata": {
+    "title": "Large Whisky Drinkin Men",
+    "artist": "Psycodrama",
+    "year": "1989",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 3082,
+    "duration_human": "00:51:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Psycodrama - [untitled]",
+      "02 Psycodrama - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/large-whisky-drinkin-men_1778379622"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ba8s24.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/b5ba91d7421af5f19b32/Large_Whisky_Drinkin_Men.tar"
+    }
+  }
+}
