@@ -1,0 +1,39 @@
+{
+  "id": "ellis_1778451091",
+  "fingerprint": "79fcf3f170dee097b3a6420e02f454af761dee7686ffe8406426749245cb90b8",
+  "archived_at": "2026-05-10T22:14:43Z",
+  "metadata": {
+    "title": "Ellis",
+    "artist": "Nils Frahm",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1469,
+    "duration_human": "00:24:29",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Woodkid, Nils Frahm - Winter Morning I",
+      "02 Woodkid, Nils Frahm - Winter Morning II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ellis_1778451091"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/bfp3a1.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/qifbq6.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/4d5fc54db91ee39f07bf/Ellis.tar"
+    }
+  }
+}
