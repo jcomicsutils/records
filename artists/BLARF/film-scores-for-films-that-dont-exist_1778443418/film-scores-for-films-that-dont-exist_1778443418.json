@@ -1,0 +1,45 @@
+{
+  "id": "film-scores-for-films-that-dont-exist_1778443418",
+  "fingerprint": "6ec6ca64feff1aa2f75a10e6e04859ae3f9b02c3e84a862fa340572863c5aaad",
+  "archived_at": "2026-05-10T20:11:03Z",
+  "metadata": {
+    "title": "Film Scores for Films That Don’t Exist",
+    "artist": "BLARF",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1866,
+    "duration_human": "00:31:06",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 BLARF - The Final Shootout",
+      "02 BLARF - What’s For Dinner",
+      "03 BLARF - Stars Without Light",
+      "04 BLARF - Piano Concerto No. 0",
+      "05 BLARF - Mercury Dripping Down My Spine",
+      "06 BLARF - Run For Your Death",
+      "07 BLARF - Dead Ballerina",
+      "08 BLARF - 1869 Overture"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/film-scores-for-films-that-dont-exist_1778443418"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/z29z33.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/oi3ksm.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/31a57b6a75b4bbfb1d2f/Film_Scores_for_Films_That_Don%E2%80%99t_Exist.tar"
+    }
+  }
+}
