@@ -1,0 +1,51 @@
+{
+  "id": "empty_1778451372",
+  "fingerprint": "6dfb0a26eb8890ac18edaf7a018aaa3e58548c3f9aa96089733bb2777c3061d6",
+  "archived_at": "2026-05-10T22:19:19Z",
+  "metadata": {
+    "title": "Empty",
+    "artist": "Nils Frahm",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2149,
+    "duration_human": "00:35:49",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - First Defeat",
+      "02 Nils Frahm - A Shine",
+      "03 Nils Frahm - No Step on Wing",
+      "04 Nils Frahm - The Big O",
+      "05 Nils Frahm - Second Defeat",
+      "06 Nils Frahm - A Shimmer",
+      "07 Nils Frahm - Sonar",
+      "08 Nils Frahm - Black Notes"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/empty_1778451372"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/rnzhlw.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/vit30q.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/7kyz3n.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/z1v4dh.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/a742b070b45352721782/Empty.tar"
+    }
+  }
+}
