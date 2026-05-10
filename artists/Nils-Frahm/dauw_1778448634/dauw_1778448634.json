@@ -1,0 +1,31 @@
+{
+  "id": "dauw_1778448634",
+  "fingerprint": "50bfdb1e2e5260786f39affe8037187e80b78a9df68d246e6a860be96d10e0f1",
+  "archived_at": "2026-05-10T21:31:59Z",
+  "metadata": {
+    "title": "Dauw",
+    "artist": "Nils Frahm",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 676,
+    "duration_human": "00:11:16",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Machinefabriek, Nils Frahm - Dauw (Single Version)",
+      "02 Machinefabriek, Nils Frahm - Dauw (Piano Adaptation)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dauw_1778448634"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/bmgi8q.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/48443b1928ed5b28411b/Dauw.tar"
+    }
+  }
+}

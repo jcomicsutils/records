@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Dauw](dauw_1778448634/dauw_1778448634.md) | 2009 | FLAC | 00:11:16 | [IA](https://archive.org/details/dauw_1778448634) [Catbox](https://files.catbox.moe/bmgi8q.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/48443b1928ed5b28411b/Dauw.tar) |
 | [7fingers](7fingers_1778445571/7fingers_1778445571.md) | 2011 | FLAC | 00:45:37 | [IA](https://archive.org/details/7fingers_1778445571) [Catbox ×2](7fingers_1778445571/7fingers_1778445571.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/86fb680096d83343a58c/7fingers.tar) |
 | [Bergschrund - Single](bergschrund-single_1778448483/bergschrund-single_1778448483.md) | 2016 | FLAC | 00:04:10 | [IA](https://archive.org/details/bergschrund-single_1778448483) [Catbox](https://files.catbox.moe/kaww72.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/f1ded7e4b737787e09d2/Bergschrund_-_Single.tar) |
 | [Because This Must Be](because-this-must-be_1778448433/because-this-must-be_1778448433.md) | 2017 | FLAC | 00:02:45 | [IA](https://archive.org/details/because-this-must-be_1778448433) [Catbox](https://files.catbox.moe/jyjjt2.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/bdc499992ec51e2f1289/Because_This_Must_Be.tar) |
