@@ -1,0 +1,30 @@
+{
+  "id": "your-village_1778442474",
+  "fingerprint": "a32191d797ff56cd24167f104a223ab53d85cbda9defaa6a02148aa01498777c",
+  "archived_at": "2026-05-10T19:48:29Z",
+  "metadata": {
+    "title": "Your Village",
+    "artist": "Brueder Selke",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 285,
+    "duration_human": "00:04:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Brueder Selke - Your Village"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/your-village_1778442474"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ifgdsz.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/21ed9d853eb6cfa152c3/Your_Village.tar"
+    }
+  }
+}

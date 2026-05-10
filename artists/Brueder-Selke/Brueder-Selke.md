@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [QP](qp_1778441310/qp_1778441310.md) | 2021 | FLAC | 00:14:20 | [IA](https://archive.org/details/qp_1778441310) [Catbox](https://files.catbox.moe/hayebk.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/520b7371cc892a073826/QP.tar) |
+| [Your Village](your-village_1778442474/your-village_1778442474.md) | 2022 | FLAC | 00:04:45 | [IA](https://archive.org/details/your-village_1778442474) [Catbox](https://files.catbox.moe/ifgdsz.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/21ed9d853eb6cfa152c3/Your_Village.tar) |
 | [Marienborn](marienborn_1778440340/marienborn_1778440340.md) | 2022 | FLAC | 00:43:00 | [Catbox ×2](marienborn_1778440340/marienborn_1778440340.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/a05aae1ad19e2d51dc4e/Marienborn.tar) |
 | [Stray Around the Cosmos](stray-around-the-cosmos_1778442410/stray-around-the-cosmos_1778442410.md) | 2023 | FLAC | 00:08:12 | [IA](https://archive.org/details/stray-around-the-cosmos_1778442410) [Catbox](https://files.catbox.moe/aiwtl6.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/8e645426e6626f355a5b/Stray_Around_the_Cosmos.tar) |
 | [Solitude](solitude_1778441398/solitude_1778441398.md) | 2023 | FLAC | 00:02:14 | [IA](https://archive.org/details/solitude_1778441398) [Catbox](https://files.catbox.moe/tfwome.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/4965467df97e53c6ed87/Solitude.tar) |
