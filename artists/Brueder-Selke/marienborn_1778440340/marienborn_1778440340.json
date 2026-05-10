@@ -1,0 +1,44 @@
+{
+  "id": "marienborn_1778440340",
+  "fingerprint": "019f2522a86511e6043318d70868ae9c1d64ed990cdde72edb883007e7b3fe07",
+  "archived_at": "2026-05-10T19:12:20Z",
+  "metadata": {
+    "title": "Marienborn",
+    "artist": "Brueder Selke",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2580,
+    "duration_human": "00:43:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Brueder Selke - Grenzuebergangsstelle",
+      "02 Brueder Selke - Bravo & Alpha",
+      "03 Brueder Selke - Marienborn",
+      "04 Brueder Selke - The Division",
+      "05 Brueder Selke - Landstrasse",
+      "06 Brueder Selke - Transit Traffic",
+      "07 Brueder Selke - Fourty-Five to Ninety",
+      "08 Brueder Selke - Your Village",
+      "09 Brueder Selke - Autobahn A2",
+      "10 Brueder Selke - Interrupted"
+    ]
+  },
+  "hosts": {
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/8cnjzn.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/oxrm33.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/a05aae1ad19e2d51dc4e/Marienborn.tar"
+    }
+  }
+}

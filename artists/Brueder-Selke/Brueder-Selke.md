@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Marienborn](marienborn_1778440340/marienborn_1778440340.md) | 2022 | FLAC | 00:43:00 | [Catbox ×2](marienborn_1778440340/marienborn_1778440340.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/a05aae1ad19e2d51dc4e/Marienborn.tar) |
 | [B3lk4 & Str3lk4](b3lk4-str3lk4_1778439141/b3lk4-str3lk4_1778439141.md) | 2023 | FLAC | 00:08:49 | [IA](https://archive.org/details/b3lk4-str3lk4_1778439141) [Catbox](https://files.catbox.moe/ewceqw.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/e62fa84453b181e258a0/B3lk4_Str3lk4.tar) |
 | [Belka & Strelka](belka-strelka_1778439390/belka-strelka_1778439390.md) | 2023 | FLAC | 00:43:25 | [IA](https://archive.org/details/belka-strelka_1778439390) [Catbox ×3](belka-strelka_1778439390/belka-strelka_1778439390.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/589005cbf5cb5a4606e1/Belka_Strelka.tar) |
 | [Go East](go-east_1778440058/go-east_1778440058.md) | 2023 | FLAC | 01:00:00 | [IA](https://archive.org/details/go-east_1778440058) [Catbox ×2](go-east_1778440058/go-east_1778440058.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/aff23cf1011034dc8635/Go_East.tar) |
