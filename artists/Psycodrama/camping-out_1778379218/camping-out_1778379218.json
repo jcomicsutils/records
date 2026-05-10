@@ -1,0 +1,31 @@
+{
+  "id": "camping-out_1778379218",
+  "fingerprint": "99e60be0e24aead233f9713c6b23c0a8b6491133bf691cf53a08b3a908d19a15",
+  "archived_at": "2026-05-10T02:19:58Z",
+  "metadata": {
+    "title": "Camping Out",
+    "artist": "Psycodrama",
+    "year": "",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 3710,
+    "duration_human": "01:01:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Psychodrama - [untitled]",
+      "02 Psychodrama - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/camping-out_1778379218"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/v0kexn.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/f950f78b57509e389c79/Camping_Out.tar"
+    }
+  }
+}
