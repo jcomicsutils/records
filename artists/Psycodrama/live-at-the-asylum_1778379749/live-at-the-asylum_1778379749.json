@@ -1,0 +1,46 @@
+{
+  "id": "live-at-the-asylum_1778379749",
+  "fingerprint": "6fdad50d6e81614b6e72c2c1fd8ec985271c004e59592c3b151be569072c2e70",
+  "archived_at": "2026-05-10T02:27:22Z",
+  "metadata": {
+    "title": "Live at the Asylum",
+    "artist": "Psycodrama",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2278,
+    "duration_human": "00:37:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Psycodrama - [untitled]",
+      "02 Psycodrama - [untitled]",
+      "03 Psycodrama - [untitled]",
+      "04 Psycodrama - [untitled]",
+      "05 Psycodrama - [untitled]",
+      "06 Psycodrama - [untitled]",
+      "07 Psycodrama - [untitled]",
+      "08 Suckdog - [untitled]",
+      "09 Suckdog - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-at-the-asylum_1778379749"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/p05eqd.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/qf9s1v.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/8f803bb74fc4673e6f7f/Live_at_the_Asylum.tar"
+    }
+  }
+}
