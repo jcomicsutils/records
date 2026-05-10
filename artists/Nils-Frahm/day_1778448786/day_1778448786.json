@@ -1,0 +1,46 @@
+{
+  "id": "day_1778448786",
+  "fingerprint": "b5bc6fde4e397e3e9f9a36eab3212511f3703d816331bfd2610a799e8002af66",
+  "archived_at": "2026-05-10T21:42:39Z",
+  "metadata": {
+    "title": "Day",
+    "artist": "Nils Frahm",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2053,
+    "duration_human": "00:34:13",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - You Name It",
+      "02 Nils Frahm - Tuesdays",
+      "03 Nils Frahm - Butter Notes",
+      "04 Nils Frahm - Hands On",
+      "05 Nils Frahm - Changes",
+      "06 Nils Frahm - Towards Zero"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/day_1778448786"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/u5cwsc.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/cb7vk1.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ilrjng.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/7788029907f0c658e17b/Day.tar"
+    }
+  }
+}
