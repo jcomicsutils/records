@@ -1,0 +1,50 @@
+{
+  "id": "electric-piano-remastered-2022_1778450201",
+  "fingerprint": "6bab3cd77081d746548e6922c1a3facdb7d1b41750857a3558cbae990193bfa9",
+  "archived_at": "2026-05-10T22:07:55Z",
+  "metadata": {
+    "title": "Electric Piano (Remastered 2022)",
+    "artist": "Nils Frahm",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2496,
+    "duration_human": "00:41:36",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - Part I (Remastered 2022)",
+      "02 Nils Frahm - Part II (Remastered 2022)",
+      "03 Nils Frahm - Part III (Remastered 2022)",
+      "04 Nils Frahm - Part V (Remastered 2022)",
+      "05 Nils Frahm - Part VI (Remastered 2022)",
+      "06 Nils Frahm - Part VII (Remastered 2022)",
+      "07 Nils Frahm - Part X (Remastered 2022)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/electric-piano-remastered-2022_1778450201"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/b2lbyj.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/unq9o1.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/34m29j.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/apwsqw.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/728092ad207bb0f4e835/Electric_Piano_%28Remastered_2022.tar"
+    }
+  }
+}
