@@ -1,0 +1,47 @@
+{
+  "id": "7fingers_1778445571",
+  "fingerprint": "6ace3a7ba3c93494af3a41bb8d491d5f72632b999d4e6650ff4df69b3a8a147f",
+  "archived_at": "2026-05-10T20:40:58Z",
+  "metadata": {
+    "title": "7fingers",
+    "artist": "Nils Frahm",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2737,
+    "duration_human": "00:45:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nils Frahm, Anne Müller - Teeth",
+      "02 Nils Frahm, Anne Müller - 7fingers",
+      "03 Nils Frahm, Anne Müller - Let My Key Be C",
+      "04 Nils Frahm, Anne Müller - Show Your Teeth",
+      "05 Nils Frahm, Anne Müller - Because This Must Be / Augmentation",
+      "06 Nils Frahm, Anne Müller - Journey for a Traveller",
+      "07 Nils Frahm, Anne Müller - Reminds to Teeth",
+      "08 Nils Frahm, Anne Müller - Duktus",
+      "09 Nils Frahm, Anne Müller - Long Enough",
+      "10 Nils Frahm, Anne Müller - Aussenseiter (Bonus Track)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/7fingers_1778445571"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/kz3lj4.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/kvyxy6.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/86fb680096d83343a58c/7fingers.tar"
+    }
+  }
+}
