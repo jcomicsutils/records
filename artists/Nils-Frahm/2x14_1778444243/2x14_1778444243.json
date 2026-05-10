@@ -1,0 +1,53 @@
+{
+  "id": "2x14_1778444243",
+  "fingerprint": "d5ff36f1749ea83d7b9b76366bef47ea05735a26d49d2eacc04d194954d2cea6",
+  "archived_at": "2026-05-10T20:29:22Z",
+  "metadata": {
+    "title": "2X1=4",
+    "artist": "Nils Frahm",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2992,
+    "duration_human": "00:49:52",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 F.S.Blumm, Nils Frahm - Desert Mule",
+      "02 F.S.Blumm, Nils Frahm - Presidential Tub",
+      "03 F.S.Blumm, Nils Frahm - Puddle Drop",
+      "04 F.S.Blumm, Nils Frahm - Buddy Hop",
+      "05 F.S.Blumm, Nils Frahm - Sarah & Eve",
+      "06 F.S.Blumm, Nils Frahm - Raw Chef",
+      "07 F.S.Blumm, Nils Frahm - Neckrub"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/2x14_1778444243"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/n5bmgb.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/llgfve.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ozhjbi.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/mscngj.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/pr14nd.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/17130d912c6254b5947c/2X1_4.tar"
+    }
+  }
+}
