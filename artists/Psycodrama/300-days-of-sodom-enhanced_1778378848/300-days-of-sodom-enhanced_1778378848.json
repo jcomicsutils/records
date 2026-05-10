@@ -1,0 +1,54 @@
+{
+  "id": "300-days-of-sodom-enhanced_1778378848",
+  "fingerprint": "3e26c18493865636baaea29f521c7b4dd72eb3643da80265314d2af8380a2df0",
+  "archived_at": "2026-05-10T02:12:11Z",
+  "metadata": {
+    "title": "300 Days of Sodom (Enhanced)",
+    "artist": "Psycodrama",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_seconds": 2654,
+    "duration_human": "00:44:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Psychodrama - Viva Vietnam Dada",
+      "02 Psychodrama - Right Way, Wrong Way",
+      "03 Psychodrama - Laurie and Hank",
+      "04 Psychodrama - You?",
+      "05 Psychodrama - Nervana",
+      "06 Psychodrama - Drivers Education",
+      "07 Psychodrama - I Want to See You",
+      "08 Psychodrama - Boy Shoots Mom",
+      "09 Psychodrama - These Are Eyes",
+      "10 Psychodrama - June 1968",
+      "11 Psychodrama - Splotch of Blood",
+      "12 From Far Away, Beauty? - Land of Your Dreams",
+      "13 Leslie Singer - I’M in Love and on KW (Version 1)",
+      "14 Leslie Singer - I’M in Love and on KW (Version 2)",
+      "15 Leslie Singer - Closet",
+      "16 Leslie Singer - Tunnel",
+      "17 Leslie Singer - Sound Collage"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/300-days-of-sodom-enhanced_1778378848"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/fxutd0.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/0eu4ny.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/636782a99c5e808dd8a5/300_Days_of_Sodom_%28Enhanced.tar"
+    }
+  }
+}

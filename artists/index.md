@@ -34,6 +34,7 @@
 - [Noise](Noise/Noise.md)
 - [Peace & Freedom](Peace-&-Freedom/Peace-&-Freedom.md)
 - [Pentemple](Pentemple/Pentemple.md)
+- [Psycodrama](Psycodrama/Psycodrama.md)
 - [Roel Meelkop](Roel-Meelkop/Roel-Meelkop.md)
 - [Sarin](Sarin/Sarin.md)
 - [St. Francis Duo](St.-Francis-Duo/St.-Francis-Duo.md)
