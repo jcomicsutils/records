@@ -1,0 +1,67 @@
+{
+  "id": "all-encores_1778445794",
+  "fingerprint": "82a1187cf26898427342d3dd86d5b1d6cdecbf9fbbf0082cca393e05590f8f94",
+  "archived_at": "2026-05-10T21:03:49Z",
+  "metadata": {
+    "title": "All Encores",
+    "artist": "Nils Frahm",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 4753,
+    "duration_human": "01:19:13",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - The Roughest Trade",
+      "02 Nils Frahm - Ringing",
+      "03 Nils Frahm - To Thomas",
+      "04 Nils Frahm - The Dane",
+      "05 Nils Frahm - Harmonium in the Well",
+      "06 Nils Frahm - Sweet Little Lie",
+      "07 Nils Frahm - A Walking Embrace",
+      "08 Nils Frahm - Talisman",
+      "09 Nils Frahm - Spells",
+      "10 Nils Frahm - Artificially Intelligent",
+      "11 Nils Frahm - All Armed",
+      "12 Nils Frahm - Amirador"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/all-encores_1778445794"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/nppk0q.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ex95mt.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/iznsuf.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/3vontb.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ng6e0y.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/gr5kt8.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/95gs95.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/dawoky.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/53bda9eebc77dd35b597/All_Encores.tar"
+    }
+  }
+}
