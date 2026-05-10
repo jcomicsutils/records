@@ -1,0 +1,31 @@
+{
+  "id": "psycodrama_1778380269",
+  "fingerprint": "75bad3c6cd1de218eff0eccd3adc9743484c149aad489a70d1ffd3318c343d09",
+  "archived_at": "2026-05-10T02:33:22Z",
+  "metadata": {
+    "title": "Psycodrama",
+    "artist": "Psycodrama",
+    "year": "1987",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 5327,
+    "duration_human": "01:28:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Psychodrama - [untitled]",
+      "02 Psychodrama - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/psycodrama_1778380269"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/d4w2vu.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/df8ff237b1f7bbc9bb99/Psycodrama.tar"
+    }
+  }
+}
