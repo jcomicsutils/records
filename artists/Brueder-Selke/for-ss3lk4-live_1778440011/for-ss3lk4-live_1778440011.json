@@ -1,0 +1,30 @@
+{
+  "id": "for-ss3lk4-live_1778440011",
+  "fingerprint": "e10861fa1099c5a6a40c65e7a6d5e8c83d6d70644a79964179e8acd0152f24ec",
+  "archived_at": "2026-05-10T19:07:21Z",
+  "metadata": {
+    "title": "For ß3Lk4 (Live)",
+    "artist": "Brueder Selke",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 354,
+    "duration_human": "00:05:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Brueder Selke - For ß3Lk4 (Live)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/for-ss3lk4-live_1778440011"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gbfo9d.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/07871c6eeb2c9f2015aa/For_%C3%9F3Lk4_%28Live.tar"
+    }
+  }
+}
