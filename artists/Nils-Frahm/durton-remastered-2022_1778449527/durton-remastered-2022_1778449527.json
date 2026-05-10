@@ -1,0 +1,56 @@
+{
+  "id": "durton-remastered-2022_1778449527",
+  "fingerprint": "dc190526b2cdc7a456fe022a5afdd6f77c6398e5a1530011758dadd145bbd1e8",
+  "archived_at": "2026-05-10T21:52:45Z",
+  "metadata": {
+    "title": "Durton (Remastered 2022)",
+    "artist": "Nils Frahm",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2599,
+    "duration_human": "00:43:19",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - Now Fast Be Slow (Remastered 2022)",
+      "02 Nils Frahm - Neuse (Remastered 2022)",
+      "03 Nils Frahm - Durton (Remastered 2022)",
+      "04 Nils Frahm - My Childhood Was Short (Remastered 2022)",
+      "05 Nils Frahm - But Nice (Remastered 2022)",
+      "06 Nils Frahm - Vacu Um (Remastered 2022)",
+      "07 Nils Frahm - Rarely Happens (Remastered 2022)",
+      "08 Nils Frahm - Last Call (Remastered 2022)",
+      "09 Nils Frahm - Tango TNT (Remastered 2022)",
+      "10 Nils Frahm - Personal Lift (Remastered 2022)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/durton-remastered-2022_1778449527"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/cem0l8.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/0hxsdj.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/tsczm7.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/tztd5t.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/04fkfb.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/e42733b1a80c52f535f0/Durton_%28Remastered_2022.tar"
+    }
+  }
+}

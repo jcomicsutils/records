@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Durton \(Remastered 2022\)](durton-remastered-2022_1778449527/durton-remastered-2022_1778449527.md) | 2006 | FLAC | 00:43:19 | [IA](https://archive.org/details/durton-remastered-2022_1778449527) [Catbox ×5](durton-remastered-2022_1778449527/durton-remastered-2022_1778449527.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/e42733b1a80c52f535f0/Durton_%28Remastered_2022.tar) |
 | [Dauw](dauw_1778448634/dauw_1778448634.md) | 2009 | FLAC | 00:11:16 | [IA](https://archive.org/details/dauw_1778448634) [Catbox](https://files.catbox.moe/bmgi8q.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/48443b1928ed5b28411b/Dauw.tar) |
 | [7fingers](7fingers_1778445571/7fingers_1778445571.md) | 2011 | FLAC | 00:45:37 | [IA](https://archive.org/details/7fingers_1778445571) [Catbox ×2](7fingers_1778445571/7fingers_1778445571.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/86fb680096d83343a58c/7fingers.tar) |
 | [Bergschrund - Single](bergschrund-single_1778448483/bergschrund-single_1778448483.md) | 2016 | FLAC | 00:04:10 | [IA](https://archive.org/details/bergschrund-single_1778448483) [Catbox](https://files.catbox.moe/kaww72.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/f1ded7e4b737787e09d2/Bergschrund_-_Single.tar) |
