@@ -1,0 +1,30 @@
+{
+  "id": "butter-notes_1778448538",
+  "fingerprint": "8a14cfc70436e048bff47dd2f8cb183949e7b286fbf440381a6e362a26ac2d00",
+  "archived_at": "2026-05-10T21:29:25Z",
+  "metadata": {
+    "title": "Butter Notes",
+    "artist": "Nils Frahm",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 321,
+    "duration_human": "00:05:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nils Frahm - Butter Notes"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/butter-notes_1778448538"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/zskjuy.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/d6ec5a40df759b0408dd/Butter_Notes.tar"
+    }
+  }
+}
