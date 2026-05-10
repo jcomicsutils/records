@@ -1,0 +1,51 @@
+{
+  "id": "felt-special-edition_1778455149",
+  "fingerprint": "7813b36e08dad0584c05915faa3f50bc92b72bd3014ab9fdd0e364fb33fa4c3b",
+  "archived_at": "2026-05-10T23:23:10Z",
+  "metadata": {
+    "title": "Felt (Special Edition)",
+    "artist": "Nils Frahm",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 3040,
+    "duration_human": "00:50:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - Keep",
+      "02 Nils Frahm - Less",
+      "03 Nils Frahm - Familiar",
+      "04 Nils Frahm - Unter",
+      "05 Nils Frahm - Old Thought",
+      "06 Nils Frahm - Snippet",
+      "07 Nils Frahm - Kind",
+      "08 Nils Frahm - Pause",
+      "09 Nils Frahm - More",
+      "10 Nils Frahm - Weak Spot (Bonus Track)",
+      "11 Nils Frahm - Then Patterns (Bonus Track)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/felt-special-edition_1778455149"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/5e37gi.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/q3rm17.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/xqog3x.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/d2a1371aa44ec1248876/Felt_%28Special_Edition.tar"
+    }
+  }
+}
