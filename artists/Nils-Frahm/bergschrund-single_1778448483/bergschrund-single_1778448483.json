@@ -1,0 +1,30 @@
+{
+  "id": "bergschrund-single_1778448483",
+  "fingerprint": "35470c18ee7933d5e4c6ed31ee0baff1d408839acf6c0e886c900379213c403b",
+  "archived_at": "2026-05-10T21:28:40Z",
+  "metadata": {
+    "title": "Bergschrund - Single",
+    "artist": "Nils Frahm",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 250,
+    "duration_human": "00:04:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 DJ Shadow, Nils Frahm - Bergschrund"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bergschrund-single_1778448483"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/kaww72.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/f1ded7e4b737787e09d2/Bergschrund_-_Single.tar"
+    }
+  }
+}
