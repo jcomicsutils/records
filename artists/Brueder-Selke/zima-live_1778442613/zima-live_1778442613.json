@@ -1,0 +1,30 @@
+{
+  "id": "zima-live_1778442613",
+  "fingerprint": "a1c7254d8c23f3acf5c3541478e00532d156fef05e705341b99f96d32399d1c5",
+  "archived_at": "2026-05-10T19:50:45Z",
+  "metadata": {
+    "title": "Zima (Live)",
+    "artist": "Brueder Selke",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 277,
+    "duration_human": "00:04:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Brueder Selke - Zima (Live)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zima-live_1778442613"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/odp85q.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/41c16b9ae48da0ca5d6c/Zima_%28Live.tar"
+    }
+  }
+}
