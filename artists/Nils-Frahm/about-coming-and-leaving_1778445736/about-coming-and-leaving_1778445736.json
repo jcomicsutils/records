@@ -1,0 +1,30 @@
+{
+  "id": "about-coming-and-leaving_1778445736",
+  "fingerprint": "518a8eb66064f52f6ce4acd4bea16b0b9d15c3b639ea880bbd1e43be897841e5",
+  "archived_at": "2026-05-10T20:42:42Z",
+  "metadata": {
+    "title": "About Coming and Leaving",
+    "artist": "Nils Frahm",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 127,
+    "duration_human": "00:02:07",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - About Coming and Leaving"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/about-coming-and-leaving_1778445736"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/36f6vr.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/71d804280dfbdd6e92fe/About_Coming_and_Leaving.tar"
+    }
+  }
+}
