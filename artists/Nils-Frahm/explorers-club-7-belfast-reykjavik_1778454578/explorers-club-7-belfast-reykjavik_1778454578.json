@@ -1,0 +1,32 @@
+{
+  "id": "explorers-club-7-belfast-reykjavik_1778454578",
+  "fingerprint": "e4c4598b9a2db99f0a75a0ee3a7e62c492d6ada0d4ee18bebbd85a0ff1309ca4",
+  "archived_at": "2026-05-10T23:10:22Z",
+  "metadata": {
+    "title": "Explorer's Club: 7. Belfast- Reykjavik",
+    "artist": "Nils Frahm",
+    "year": "2010",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 570,
+    "duration_human": "00:09:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Hauschka & Stefan Schneider - Common Exposure",
+      "02 Nils Frahm - Corn",
+      "03 Jóhann Jóhannsson - Sifreri"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/explorers-club-7-belfast-reykjavik_1778454578"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/joyhww.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/9d59fc216828dd5bb1bb/Explorer%27s_Club_7._Belfast-_Reykjavik.tar"
+    }
+  }
+}
