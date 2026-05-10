@@ -1,0 +1,43 @@
+{
+  "id": "encores-3_1778453573",
+  "fingerprint": "e9b499d72c9fa39f83650bc23a288ea1f346497245f944ddbc5dc1882dce947c",
+  "archived_at": "2026-05-10T23:06:56Z",
+  "metadata": {
+    "title": "Encores 3",
+    "artist": "Nils Frahm",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1638,
+    "duration_human": "00:27:18",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - Artificially Intelligent",
+      "02 Nils Frahm - All Armed",
+      "03 Nils Frahm - Amirador"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/encores-3_1778453573"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/g8a8th.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/74ps6v.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ud5ohp.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/4a089fb1266ce8d5f827/Encores_3.tar"
+    }
+  }
+}
