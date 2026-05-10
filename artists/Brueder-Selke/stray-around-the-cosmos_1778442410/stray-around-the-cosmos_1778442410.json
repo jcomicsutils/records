@@ -1,0 +1,30 @@
+{
+  "id": "stray-around-the-cosmos_1778442410",
+  "fingerprint": "a7871e2834c3ff1e2d47cea8066130d01c3e627c6960dcde93a5798360ca62ce",
+  "archived_at": "2026-05-10T19:47:30Z",
+  "metadata": {
+    "title": "Stray Around the Cosmos",
+    "artist": "Brueder Selke",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 492,
+    "duration_human": "00:08:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Brueder Selke - Stray Around the Cosmos"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stray-around-the-cosmos_1778442410"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/aiwtl6.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/8e645426e6626f355a5b/Stray_Around_the_Cosmos.tar"
+    }
+  }
+}
