@@ -1,0 +1,31 @@
+{
+  "id": "changes_1778448577",
+  "fingerprint": "224c1f0739e184afcbec7b5ea9353e647d154acbf31b5383476f596b9453fc50",
+  "archived_at": "2026-05-10T21:30:12Z",
+  "metadata": {
+    "title": "Changes",
+    "artist": "Nils Frahm",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 576,
+    "duration_human": "00:09:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nils Frahm - Changes",
+      "02 Nils Frahm - Butter Notes"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/changes_1778448577"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ta895l.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/64b9f39f44338944fc77/Changes.tar"
+    }
+  }
+}
