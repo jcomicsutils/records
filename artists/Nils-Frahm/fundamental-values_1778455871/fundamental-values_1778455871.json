@@ -1,0 +1,38 @@
+{
+  "id": "fundamental-values_1778455871",
+  "fingerprint": "940d9ecd09d5c9c0744a12186699c98db4740cdb2a40461c8cc680077424effa",
+  "archived_at": "2026-05-10T23:39:45Z",
+  "metadata": {
+    "title": "Fundamental Values",
+    "artist": "Nils Frahm",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 858,
+    "duration_human": "00:14:18",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - Fundamental Values"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fundamental-values_1778455871"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/vwvphx.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/3vvgua.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/bf067a7fcd803917a18c/Fundamental_Values.tar"
+    }
+  }
+}
