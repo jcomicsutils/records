@@ -1,0 +1,41 @@
+{
+  "id": "go-east_1778440058",
+  "fingerprint": "ceca76958f7d0119b0647c48daa8b6644dc543374b639789bf2092860d3491eb",
+  "archived_at": "2026-05-10T19:09:44Z",
+  "metadata": {
+    "title": "Go East",
+    "artist": "Brueder Selke",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Brueder Selke - When Things Fall Apart (Vermona Piano-Strings)",
+      "02 Brueder Selke - Nikita's Song (Vermona Sandy)",
+      "03 Brueder Selke - Sanseveria (Vermona ET 6-1)",
+      "04 Brueder Selke - Kontaktring (Vermona E-Piano)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/go-east_1778440058"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/ufr2ur.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/aylg3e.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/aff23cf1011034dc8635/Go_East.tar"
+    }
+  }
+}
