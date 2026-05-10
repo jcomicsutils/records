@@ -1,0 +1,30 @@
+{
+  "id": "paving-the-way-live_1778441270",
+  "fingerprint": "c9ea66de0b210d3004dcc35ed88a0eb95834e38d2d16e4ad20ad4a8e8c1de4df",
+  "archived_at": "2026-05-10T19:28:19Z",
+  "metadata": {
+    "title": "Paving the Way (Live)",
+    "artist": "Brueder Selke",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 197,
+    "duration_human": "00:03:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Brueder Selke - Paving the Way (Live)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/paving-the-way-live_1778441270"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ubwyc2.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/2abd424b352a8cd8d7c5/Paving_the_Way_%28Live.tar"
+    }
+  }
+}
