@@ -1,0 +1,46 @@
+{
+  "id": "cease-desist_1778442852",
+  "fingerprint": "53fee87a2a46f7780b2c2af0e8625f2f6bf3149e813de6283b5a9382c2edd562",
+  "archived_at": "2026-05-10T20:01:56Z",
+  "metadata": {
+    "title": "Cease & Desist",
+    "artist": "BLARF",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1667,
+    "duration_human": "00:27:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 BLARF - Badass Bullshit Benjamin Buttons Butthole Assassin",
+      "02 BLARF - Save it Babe",
+      "03 BLARF - Banana",
+      "04 BLARF - Like That",
+      "05 BLARF - I Dunno",
+      "06 BLARF - Hella Rhymes",
+      "07 BLARF - I Worship Satan",
+      "08 BLARF - Boom Ba",
+      "09 BLARF - The Me in Me"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cease-desist_1778442852"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/my2a7e.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/g160ys.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/f0af09fbfbb5532f287e/Cease_Desist.tar"
+    }
+  }
+}
