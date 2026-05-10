@@ -1,0 +1,36 @@
+{
+  "id": "stimmen-in-prague-live_1778442286",
+  "fingerprint": "5fdfd20028aa55bb0970776a99a684def6166db3d779ba71cc19a221108288df",
+  "archived_at": "2026-05-10T19:45:53Z",
+  "metadata": {
+    "title": "Stimmen in Prague (Live)",
+    "artist": "Brueder Selke",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2069,
+    "duration_human": "00:34:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Brueder Selke - Roam (Live)",
+      "02 Brueder Selke - Zima (Live)",
+      "03 Brueder Selke - Paving the Way (Live)",
+      "04 Brueder Selke - For ß3Lk4 (Live)",
+      "05 Brueder Selke - &&&& (Live)",
+      "06 Brueder Selke - 57R3Lk4 (Live)",
+      "07 Brueder Selke - Sapwood (Live)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stimmen-in-prague-live_1778442286"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/1il2ga.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/c53aec95f06c8fc884e2/Stimmen_in_Prague_%28Live.tar"
+    }
+  }
+}
