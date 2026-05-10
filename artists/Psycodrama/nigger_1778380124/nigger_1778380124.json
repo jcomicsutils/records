@@ -1,0 +1,31 @@
+{
+  "id": "nigger_1778380124",
+  "fingerprint": "750b4eb1deef4caa188476ac8156391e6363909913f1f5b188dc0c6910d77b17",
+  "archived_at": "2026-05-10T02:30:47Z",
+  "metadata": {
+    "title": "Nigger",
+    "artist": "Psycodrama",
+    "year": "1987",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 3265,
+    "duration_human": "00:54:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Psychodrama - Side A",
+      "02 Psychodrama - Side B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nigger_1778380124"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5n3abm.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/0498f30092ada8347caa/Nigger.tar"
+    }
+  }
+}
