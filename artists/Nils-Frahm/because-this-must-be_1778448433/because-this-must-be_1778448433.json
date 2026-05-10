@@ -1,0 +1,30 @@
+{
+  "id": "because-this-must-be_1778448433",
+  "fingerprint": "3598acddcaf60a1e9561e5cf061260b43da70c87675fb8a5266dfd0c6e6d47f2",
+  "archived_at": "2026-05-10T21:27:52Z",
+  "metadata": {
+    "title": "Because This Must Be",
+    "artist": "Nils Frahm",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 165,
+    "duration_human": "00:02:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nils Frahm - Because This Must Be"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/because-this-must-be_1778448433"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jyjjt2.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/bdc499992ec51e2f1289/Because_This_Must_Be.tar"
+    }
+  }
+}
