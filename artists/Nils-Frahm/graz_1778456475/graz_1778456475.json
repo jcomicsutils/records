@@ -1,0 +1,52 @@
+{
+  "id": "graz_1778456475",
+  "fingerprint": "898341a703d861d5bc789afb8e38b45afea1a4ad8f1751fdfe2f58da0ed8208b",
+  "archived_at": "2026-05-10T23:51:23Z",
+  "metadata": {
+    "title": "Graz",
+    "artist": "Nils Frahm",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2333,
+    "duration_human": "00:38:53",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - Lighter",
+      "02 Nils Frahm - O I End",
+      "03 Nils Frahm - Because This Must Be",
+      "04 Nils Frahm - Kurzum",
+      "05 Nils Frahm - And Om",
+      "06 Nils Frahm - Hammers",
+      "07 Nils Frahm - Crossings",
+      "08 Nils Frahm - About Coming and Leaving",
+      "09 Nils Frahm - Went Missing"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/graz_1778456475"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/7rmtq0.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/fc4dis.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/oyl2i9.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/38vn0k.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/18d99038c6319da3fb46/Graz.tar"
+    }
+  }
+}
