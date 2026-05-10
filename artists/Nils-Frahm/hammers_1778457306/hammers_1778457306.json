@@ -1,0 +1,30 @@
+{
+  "id": "hammers_1778457306",
+  "fingerprint": "1232744ac50c6de0f56a326f94cd04752d3280865f872dd528da55493595e32b",
+  "archived_at": "2026-05-10T23:55:31Z",
+  "metadata": {
+    "title": "Hammers",
+    "artist": "Nils Frahm",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 185,
+    "duration_human": "00:03:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Floraleda Sacchi, Nils Frahm - Hammers"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hammers_1778457306"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/1pjgll.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/c9347069fbc3f31a844b/Hammers.tar"
+    }
+  }
+}
