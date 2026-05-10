@@ -1,0 +1,48 @@
+{
+  "id": "belka-strelka_1778439390",
+  "fingerprint": "71b06212e5fea61830149b3586e4495d3b68402d5d47dc4051ee3b44d56ce03e",
+  "archived_at": "2026-05-10T19:03:44Z",
+  "metadata": {
+    "title": "Belka & Strelka",
+    "artist": "Brueder Selke",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2605,
+    "duration_human": "00:43:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Brueder Selke - Stray Around the Cosmos",
+      "02 Brueder Selke - Soyuz",
+      "03 Brueder Selke - Wendepunkte",
+      "04 Brueder Selke - Vor den Toren der Sternenstadt",
+      "05 Brueder Selke - B3lk4 & Str3lk4",
+      "06 Brueder Selke - Cemëpka",
+      "07 Brueder Selke - Berge & Taeler",
+      "08 Brueder Selke - Caroline's Present"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/belka-strelka_1778439390"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/3lzkqa.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/b28dpu.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/9c2zor.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/589005cbf5cb5a4606e1/Belka_Strelka.tar"
+    }
+  }
+}
