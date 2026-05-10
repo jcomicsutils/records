@@ -1,0 +1,48 @@
+{
+  "id": "split-scale_1778441446",
+  "fingerprint": "7e05017ea736c26f0629b35b81146d35256c35b8e4baf6659be464ad05dd3537",
+  "archived_at": "2026-05-10T19:42:37Z",
+  "metadata": {
+    "title": "Split Scale",
+    "artist": "Brueder Selke",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2618,
+    "duration_human": "00:43:38",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Brueder Selke & Midori Hirano - Scale A",
+      "02 Brueder Selke & Midori Hirano - Scale B",
+      "03 Brueder Selke & Midori Hirano - Scale C",
+      "04 Brueder Selke & Midori Hirano - Scale D",
+      "05 Brueder Selke & Midori Hirano - Scale E",
+      "06 Brueder Selke & Midori Hirano - Scale F",
+      "07 Brueder Selke & Midori Hirano - Scale G",
+      "08 Brueder Selke & Midori Hirano - Scale AA"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/split-scale_1778441446"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/vog099.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/z32avr.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ayq19g.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/cc5db6b8c363dee20ac6/Split_Scale.tar"
+    }
+  }
+}
