@@ -1,0 +1,30 @@
+{
+  "id": "solitude_1778441398",
+  "fingerprint": "059263bbe792089473c240e533387959b14abc1b881cccdd8c1f084ac0659100",
+  "archived_at": "2026-05-10T19:30:26Z",
+  "metadata": {
+    "title": "Solitude",
+    "artist": "Brueder Selke",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 134,
+    "duration_human": "00:02:14",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Hiroco.M, Brueder Selke - Solitude"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/solitude_1778441398"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/tfwome.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/4965467df97e53c6ed87/Solitude.tar"
+    }
+  }
+}
