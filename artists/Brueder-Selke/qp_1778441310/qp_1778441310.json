@@ -1,0 +1,32 @@
+{
+  "id": "qp_1778441310",
+  "fingerprint": "a689313fdcd8251104e029572e53470cf9d7e9c464c4c72b8b5c100c5b547e85",
+  "archived_at": "2026-05-10T19:29:16Z",
+  "metadata": {
+    "title": "QP",
+    "artist": "Brueder Selke",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 860,
+    "duration_human": "00:14:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Brueder Selke - Fuer Daniel",
+      "02 Brueder Selke - Dear Sebastian",
+      "03 Brueder Selke - QP (Hidden)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/qp_1778441310"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/hayebk.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/520b7371cc892a073826/QP.tar"
+    }
+  }
+}
