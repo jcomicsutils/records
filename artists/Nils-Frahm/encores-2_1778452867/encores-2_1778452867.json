@@ -1,0 +1,44 @@
+{
+  "id": "encores-2_1778452867",
+  "fingerprint": "00ea7bdba1b9ba5f8790c4a1713c840605e567e18d5c850e3dd97728bf27857d",
+  "archived_at": "2026-05-10T22:50:18Z",
+  "metadata": {
+    "title": "Encores 2",
+    "artist": "Nils Frahm",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1611,
+    "duration_human": "00:26:51",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - Sweet Little Lie",
+      "02 Nils Frahm - A Walking Embrace",
+      "03 Nils Frahm - Talisman",
+      "04 Nils Frahm - Spells"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/encores-2_1778452867"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/psbo1k.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/3ldtns.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/glciaa.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/c93b446e876fd77f2fda/Encores_2.tar"
+    }
+  }
+}
