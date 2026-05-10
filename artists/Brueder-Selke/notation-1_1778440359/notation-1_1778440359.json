@@ -1,0 +1,45 @@
+{
+  "id": "notation-1_1778440359",
+  "fingerprint": "7add6d7e3ba4398cf7762593dd6dac6a57bad4fcc22e5c773a0d0e753df1a2b7",
+  "archived_at": "2026-05-10T19:22:01Z",
+  "metadata": {
+    "title": "Notation 1",
+    "artist": "Brueder Selke",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2171,
+    "duration_human": "00:36:11",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Brueder Selke - Vers A",
+      "02 Brueder Selke - Einheit",
+      "03 Brueder Selke - Wand",
+      "04 Brueder Selke - Sleepers",
+      "05 Brueder Selke - Pass"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/notation-1_1778440359"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/kasmjk.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/m9dio6.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ydf083.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/c6fb090fe869019044d7/Notation_1.tar"
+    }
+  }
+}
