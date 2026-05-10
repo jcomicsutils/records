@@ -1,0 +1,30 @@
+{
+  "id": "berge-taeler_1778439942",
+  "fingerprint": "56c4fa20738e1954e5738e1855d3976444f6c5724ba4d14808e04150dcb106c9",
+  "archived_at": "2026-05-10T19:06:23Z",
+  "metadata": {
+    "title": "Berge & Taeler",
+    "artist": "Brueder Selke",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 408,
+    "duration_human": "00:06:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Brueder Selke - Berge & Taeler"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/berge-taeler_1778439942"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/glme8a.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/c7ca2d1aee42aeb3f0a8/Berge_Taeler.tar"
+    }
+  }
+}
