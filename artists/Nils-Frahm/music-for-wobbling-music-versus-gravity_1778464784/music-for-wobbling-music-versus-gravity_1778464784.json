@@ -1,0 +1,44 @@
+{
+  "id": "music-for-wobbling-music-versus-gravity_1778464784",
+  "fingerprint": "8603be52007f8c605abd78f9ffa99ba8830e4665f0e97c966c800701e008779a",
+  "archived_at": "2026-05-11T02:01:58Z",
+  "metadata": {
+    "title": "Music for Wobbling, Music Versus Gravity",
+    "artist": "Nils Frahm",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 2660,
+    "duration_human": "00:44:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 F.S. Blumm, Nils Frahm - Gr 1 B",
+      "02 F.S. Blumm, Nils Frahm - Perff",
+      "03 F.S. Blumm, Nils Frahm - Pending 1",
+      "04 F.S. Blumm, Nils Frahm - Pending 2",
+      "05 F.S. Blumm, Nils Frahm - As If",
+      "06 F.S. Blumm, Nils Frahm - Movements & Meetings",
+      "07 F.S. Blumm, Nils Frahm - Exercising Levitation",
+      "08 F.S. Blumm, Nils Frahm - B",
+      "09 F.S. Blumm, Nils Frahm - Old Friends Inst.",
+      "10 F.S. Blumm, Nils Frahm - Silently Sharing",
+      "11 F.S. Blumm, Nils Frahm - Sip Song",
+      "12 F.S. Blumm, Nils Frahm - I Karussell",
+      "13 F.S. Blumm, Nils Frahm - Brehm",
+      "14 F.S. Blumm, Nils Frahm - Juri",
+      "15 F.S. Blumm, Nils Frahm - Ten"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/music-for-wobbling-music-versus-gravity_1778464784"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8p7uh8.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/1733d3918c9b3f9fb48a/Music_for_Wobbling_Music_Versus_Gravity.tar"
+    }
+  }
+}
