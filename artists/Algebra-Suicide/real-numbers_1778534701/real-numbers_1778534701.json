@@ -1,0 +1,39 @@
+{
+  "id": "real-numbers_1778534701",
+  "fingerprint": "d4d83abc5469269688db3984ff1d4d3c13240297aec6a9ac6dc7a5c817fe63d9",
+  "archived_at": "2026-05-11T21:41:49Z",
+  "metadata": {
+    "title": "Real Numbers",
+    "artist": "Algebra Suicide",
+    "year": "1988",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4269,
+    "duration_human": "01:11:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Algebra Suicide - Set 1",
+      "02 Algebra Suicide - Set 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/real-numbers_1778534701"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/5h0cwo.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/v5jh4a.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/00953685033410f98efc/Real_Numbers.tar"
+    }
+  }
+}
