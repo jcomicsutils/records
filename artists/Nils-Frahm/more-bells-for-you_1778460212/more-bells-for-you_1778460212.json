@@ -1,0 +1,31 @@
+{
+  "id": "more-bells-for-you_1778460212",
+  "fingerprint": "8a53f18da50db07ca56224621f6538672d1afd3ab584084ab7a537aa5b301595",
+  "archived_at": "2026-05-11T00:44:10Z",
+  "metadata": {
+    "title": "More Bells for You",
+    "artist": "Nils Frahm",
+    "year": "2009",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 696,
+    "duration_human": "00:11:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Nils Frahm - C,E,G.",
+      "02 Nils Frahm - Body"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/more-bells-for-you_1778460212"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jnnrf6.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/fa906560054af5a2276b/More_Bells_for_You.tar"
+    }
+  }
+}
