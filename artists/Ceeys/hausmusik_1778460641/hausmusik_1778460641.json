@@ -1,0 +1,59 @@
+{
+  "id": "hausmusik_1778460641",
+  "fingerprint": "48db24fffcbafbd8e04687d9138f336feb4a5fa41d684f05e928f9bd39ede112",
+  "archived_at": "2026-05-11T00:59:15Z",
+  "metadata": {
+    "title": "Hausmusik",
+    "artist": "Ceeys",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 5025,
+    "duration_human": "01:23:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Ceeys - Vice Versa",
+      "02 Ceeys - Reunion (Extended Version)",
+      "03 Ceeys - Im Fenster (Extended Version)",
+      "04 Ceeys - Circa",
+      "05 Ceeys - Belka",
+      "06 Ceeys - Strelka",
+      "07 Ceeys - To Open a Door's Inner Frame",
+      "08 Ceeys - Fallen (Extended Version)",
+      "09 Ceeys - Yes, Brick by Brick",
+      "10 Ceeys - No. Eins",
+      "11 Ceeys - Fallen",
+      "12 Ceeys - Im Fenster",
+      "13 Ceeys - Reunion"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hausmusik_1778460641"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/on5nxe.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/l0xca6.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/2zilr6.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/iik4o3.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/qzvx9k.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/9bfeebf5cb13d8282207/Hausmusik.tar"
+    }
+  }
+}
