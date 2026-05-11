@@ -1,0 +1,49 @@
+{
+  "id": "tongue-wrestling_1778538472",
+  "fingerprint": "b95edfa388010659e0df93571077ef5a6121d34b0a5fd3f7ffc17d5f3bbf127f",
+  "archived_at": "2026-05-11T22:30:31Z",
+  "metadata": {
+    "title": "Tongue Wrestling",
+    "artist": "Algebra Suicide",
+    "year": "1994",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2484,
+    "duration_human": "00:41:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Algebra Suicide - What I Like Doing Best",
+      "02 Algebra Suicide - What is Not in Texas",
+      "03 Algebra Suicide - Thank You",
+      "04 Algebra Suicide - Wily",
+      "05 Algebra Suicide - Your Face",
+      "06 Algebra Suicide - Desire",
+      "07 Algebra Suicide - Incorrigible",
+      "08 Algebra Suicide - Luster Goddess",
+      "09 Algebra Suicide - Downpour",
+      "10 Algebra Suicide - Stopping",
+      "11 Algebra Suicide - One Night I Fell in Love",
+      "12 Algebra Suicide - Loose Change"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tongue-wrestling_1778538472"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/g3xs7v.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/curn8u.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/e05c13ff3848014eec71/Tongue_Wrestling.tar"
+    }
+  }
+}
