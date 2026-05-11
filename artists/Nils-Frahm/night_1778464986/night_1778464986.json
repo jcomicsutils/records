@@ -1,0 +1,45 @@
+{
+  "id": "night_1778464986",
+  "fingerprint": "8f50d4e012da57e97eb06af42054c1d04cb227f64171228de385c6d8152b963b",
+  "archived_at": "2026-05-11T02:16:29Z",
+  "metadata": {
+    "title": "Night",
+    "artist": "Nils Frahm",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1769,
+    "duration_human": "00:29:29",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - Wesen",
+      "02 Nils Frahm - Monuments Again",
+      "03 Nils Frahm - Kanten",
+      "04 Nils Frahm - Listening Over",
+      "05 Nils Frahm - Canton"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/night_1778464986"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/h2yifx.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/q031mc.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/iv4zil.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/36c5274ff122e9a06aa1/Night.tar"
+    }
+  }
+}
