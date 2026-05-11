@@ -1,0 +1,50 @@
+{
+  "id": "musikhaus_1778462111",
+  "fingerprint": "da2e66584616151fa060ef058e637435d1e8c32ea041d3445a2b3635da067fea",
+  "archived_at": "2026-05-11T01:20:12Z",
+  "metadata": {
+    "title": "Musikhaus",
+    "artist": "Ceeys",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2881,
+    "duration_human": "00:48:01",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Ceeys - Vice Versa (Pascal Schumacher Rework)",
+      "02 Ceeys - Reunion (Thor Harris Rework)",
+      "03 Ceeys - Im Fenster (Midori Hirano Rework)",
+      "04 Ceeys - Circa (Marina Baranova Rework)",
+      "05 Ceeys - Belka (David Allred Rework)",
+      "06 Ceeys - Strelka (Simon Goff Rework)",
+      "07 Ceeys - To Open a Door's Inner Frame (Arnold Kasar Rework)",
+      "08 Ceeys - Fallen (Ben Lukas Boysen Rework)",
+      "09 Ceeys - Yes, Brick by Brick (Mara Simpson Rework)",
+      "10 Ceeys - No. Eins (Hoshiko Yamane Rework)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/musikhaus_1778462111"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/hv7zya.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/w0gfh0.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/1adlgt.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/65a9463cab3a4ec4ff8b/Musikhaus.tar"
+    }
+  }
+}
