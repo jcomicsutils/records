@@ -1,0 +1,48 @@
+# Various Artists — Die Orgasmus Bigband (1985)
+
+![Cover](https://archive.org/download/die-orgasmus-bigband_1778542521/__ia_thumb.jpg)
+
+| Field | Value |
+|-------|-------|
+| Codec | MP3 |
+| Sampling Rate | 44.1kHz |
+| Bit Depth | N/A |
+| Tracks | 23 |
+| Duration | 00:58:07 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/die-orgasmus-bigband_1778542521)
+- [Catbox](https://files.catbox.moe/cj9fw8.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/110710029b607318b005/Die_Orgasmus_Bigband.tar)
+
+## Tracklist
+
+```
+01 Algebra Suicide - Somewhat Bleecker Street
+02 X-Ray Pop - Ejaculated Guitar in a Mousetrap's Garden
+03 No Unauthorized - Dialogue A L'Usine
+04 Kristian Jonsson - This is Our Latest Orgasm but Perhaps Not Our Best
+05 Berserker - X
+06 Ankles - Disco?
+07 Schlafengarten - Blowjob
+08 Armin Hofmann - Auf Die Schnelle
+09 Introverts - Fuck Fun
+10 Psycodrama - It Will Be Long and Schizophrenic
+11 Philippe Laurent - Encore, Encore
+12 Anomy - Waiting at the Station
+13 Vittore Baroni & Scarlatina Lust - Orgasmo
+14 Ice 9 - Tanzmuzik
+15 Steven Parker - Keys and Colleges
+16 HP2 - Sounds So Real You'll Think You Were There
+17 Smegma - Dancing Hairpiece Wears Two Left Shoes
+18 DDAA - Bruits Pour Un Bon Accouplement Chez Les Elephants
+19 Ono - ...Plays the Sex Show (Excerpt)
+20 Algebra Suicide - In Bed With Boys
+21 An Bene & Ska Mazda - Horizontal Linguistics
+22 C.W. Bell & Cassie O'Tone - The Conquerers
+23 Viscera - Expansion and Extension
+```
+
+---
+*Archived: 2026-05-11*
