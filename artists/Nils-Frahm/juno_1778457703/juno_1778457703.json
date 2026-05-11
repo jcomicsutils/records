@@ -1,0 +1,31 @@
+{
+  "id": "juno_1778457703",
+  "fingerprint": "0d731da95b7baee67f6c40e1c758538d58ccb41cfb1fa897c9ac2450ed3a4c8d",
+  "archived_at": "2026-05-11T00:04:41Z",
+  "metadata": {
+    "title": "Juno",
+    "artist": "Nils Frahm",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 787,
+    "duration_human": "00:13:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - For",
+      "02 Nils Frahm - Peter"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/juno_1778457703"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/i8e7d2.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/d7cfaa4558a5bae79a81/Juno.tar"
+    }
+  }
+}
