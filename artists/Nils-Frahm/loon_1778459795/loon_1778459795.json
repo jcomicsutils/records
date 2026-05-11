@@ -1,0 +1,45 @@
+{
+  "id": "loon_1778459795",
+  "fingerprint": "78020599cb6234d5fae2f5c96fbfceae4e9433f21665141baf15e2b704738661",
+  "archived_at": "2026-05-11T00:40:41Z",
+  "metadata": {
+    "title": "Loon",
+    "artist": "Nils Frahm",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1508,
+    "duration_human": "00:25:08",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Ólafur Arnalds, Nils Frahm - Four",
+      "02 Ólafur Arnalds, Nils Frahm - Three",
+      "03 Ólafur Arnalds, Nils Frahm - Wide Open",
+      "04 Ólafur Arnalds, Nils Frahm - W",
+      "05 Ólafur Arnalds, Nils Frahm - M"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/loon_1778459795"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/3ukfap.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/a7ooaa.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/zpzyd5.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/aec1a4644d763f079908/Loon.tar"
+    }
+  }
+}
