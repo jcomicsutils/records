@@ -1,0 +1,46 @@
+{
+  "id": "handling_1778457345",
+  "fingerprint": "69257e35c1a2dfca33cecddc0a2396fcee4e34579b16fd0e40c6ef9b87741de3",
+  "archived_at": "2026-05-10T23:58:33Z",
+  "metadata": {
+    "title": "Handling",
+    "artist": "Nils Frahm",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2386,
+    "duration_human": "00:39:46",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 F.S.Blumm, Nils Frahm - Leuchter 1",
+      "02 F.S.Blumm, Nils Frahm - Leuchter 2",
+      "03 F.S.Blumm, Nils Frahm - Leuchter 3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/handling_1778457345"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/3nl63g.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/odgl2n.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/0fbqn9.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/yw1m89.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/2cd311382048dee51e97/Handling.tar"
+    }
+  }
+}
