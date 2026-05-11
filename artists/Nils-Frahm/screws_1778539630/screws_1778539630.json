@@ -1,0 +1,46 @@
+{
+  "id": "screws_1778539630",
+  "fingerprint": "fd47ca0e24486b3b1783907e8e11c2821f5bf59909f65d4e01690a49dbafeaa5",
+  "archived_at": "2026-05-11T23:03:40Z",
+  "metadata": {
+    "title": "Screws",
+    "artist": "Nils Frahm",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1682,
+    "duration_human": "00:28:02",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - You",
+      "02 Nils Frahm - Do",
+      "03 Nils Frahm - Re",
+      "04 Nils Frahm - Mi",
+      "05 Nils Frahm - Fa",
+      "06 Nils Frahm - Sol",
+      "07 Nils Frahm - La",
+      "08 Nils Frahm - Si",
+      "09 Nils Frahm - Me"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/screws_1778539630"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/0z4waq.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/sxas6m.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/790d677ae85c0ee97900/Screws.tar"
+    }
+  }
+}
