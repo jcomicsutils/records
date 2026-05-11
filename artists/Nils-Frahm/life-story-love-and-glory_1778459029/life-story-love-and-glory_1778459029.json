@@ -1,0 +1,39 @@
+{
+  "id": "life-story-love-and-glory_1778459029",
+  "fingerprint": "0f880a399e88a0e05132cf3b6fa15f1e9f3eb6b21a0372e261a99bce37aba039",
+  "archived_at": "2026-05-11T00:26:46Z",
+  "metadata": {
+    "title": "Life Story Love and Glory",
+    "artist": "Nils Frahm",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 667,
+    "duration_human": "00:11:07",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Ólafur Arnalds, Nils Frahm - Life Story",
+      "02 Ólafur Arnalds, Nils Frahm - Love and Glory"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/life-story-love-and-glory_1778459029"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/mwraho.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/l92x10.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/d6e219b11f5045f7659b/Life_Story_Love_and_Glory.tar"
+    }
+  }
+}
