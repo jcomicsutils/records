@@ -1,0 +1,62 @@
+{
+  "id": "paris_1778537657",
+  "fingerprint": "e4a8fca9f6c772e74cb609545df1df86b6ce7b828b39974eff09ba704ddaa3c6",
+  "archived_at": "2026-05-11T22:40:12Z",
+  "metadata": {
+    "title": "Paris",
+    "artist": "Nils Frahm",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 5030,
+    "duration_human": "01:23:50",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - Prolog (Paris)",
+      "02 Nils Frahm - Right Right Right (Paris)",
+      "03 Nils Frahm - Briefly (Paris)",
+      "04 Nils Frahm - You Name It (Paris)",
+      "05 Nils Frahm - Some (Paris)",
+      "06 Nils Frahm - Re (Paris)",
+      "07 Nils Frahm - Spells (Paris)",
+      "08 Nils Frahm - Opera (Paris)",
+      "09 Nils Frahm - Our Own Roof (Paris)",
+      "10 Nils Frahm - Hammers (Paris)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/paris_1778537657"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/fz62lz.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/gm5zdy.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/to3aks.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/7lkdnu.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/4iakzn.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/lcgg52.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/x9iuem.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/38c090c2035a3956f9f5/Paris.tar"
+    }
+  }
+}
