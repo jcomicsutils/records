@@ -1,0 +1,41 @@
+{
+  "id": "juno-reworked_1778457920",
+  "fingerprint": "d63557dbcd8e3631c7bd5d8b05c1d05774cd45079bfd2e6de231c4991162eb5b",
+  "archived_at": "2026-05-11T00:12:01Z",
+  "metadata": {
+    "title": "Juno Reworked",
+    "artist": "Nils Frahm",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1759,
+    "duration_human": "00:29:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - For (Luke Abbott Rework)",
+      "02 Nils Frahm - For",
+      "03 Nils Frahm - Peter (Clark Remix)",
+      "04 Nils Frahm - Peter"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/juno-reworked_1778457920"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/88tkp9.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/5ihob7.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/4c58f592e33a6ce4dbc9/Juno_Reworked.tar"
+    }
+  }
+}
