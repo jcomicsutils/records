@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/screws-reworked_1778540701)
+- Catbox: [Part 1](https://files.catbox.moe/taaazt.tar) [Part 2](https://files.catbox.moe/gagevh.tar) [Part 3](https://files.catbox.moe/x6i3wp.tar) [Part 4](https://files.catbox.moe/iy8946.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/e3ff376b6e0c7a08014d/Screws_Reworked.tar)
 
 ## Tracklist
 
