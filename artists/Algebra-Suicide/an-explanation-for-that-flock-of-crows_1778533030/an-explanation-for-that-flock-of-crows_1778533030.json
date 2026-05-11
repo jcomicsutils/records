@@ -1,0 +1,33 @@
+{
+  "id": "an-explanation-for-that-flock-of-crows_1778533030",
+  "fingerprint": "2596f1a61b139dbffd1f5c112d44fde9f019c760db0649a58fadee48120b425f",
+  "archived_at": "2026-05-11T21:08:06Z",
+  "metadata": {
+    "title": "An Explanation for That Flock of Crows",
+    "artist": "Algebra Suicide",
+    "year": "1985",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 473,
+    "duration_human": "00:07:53",
+    "sampling_rate": "88.2kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Algebra Suicide - An Explanation for That Flock of Crows",
+      "02 Algebra Suicide - Somewhat Bleecker Street",
+      "03 Algebra Suicide - Tonight",
+      "04 Algebra Suicide - Agitation"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/an-explanation-for-that-flock-of-crows_1778533030"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/keuwvy.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/272013027e079b0c821b/An_Explanation_for_That_Flock_of_Crows.tar"
+    }
+  }
+}
