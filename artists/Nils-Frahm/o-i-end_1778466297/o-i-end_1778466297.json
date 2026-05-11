@@ -1,0 +1,30 @@
+{
+  "id": "o-i-end_1778466297",
+  "fingerprint": "3e32ee7ad3f2de7b90bf2d07c01b6cb0f3e8909f02ceb6c6ace99ca05beb08a5",
+  "archived_at": "2026-05-11T02:26:04Z",
+  "metadata": {
+    "title": "O I End",
+    "artist": "Nils Frahm",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 289,
+    "duration_human": "00:04:49",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - O I End"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/o-i-end_1778466297"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/6662w1.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/ddcbe0fba133be68bf3e/O_I_End.tar"
+    }
+  }
+}
