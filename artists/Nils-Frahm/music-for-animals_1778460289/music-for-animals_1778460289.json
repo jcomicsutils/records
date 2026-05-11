@@ -31,6 +31,59 @@
     },
     "fileditch": {
       "url": "https://fileditchfiles.me/file.php?f=/beta1/4f9ebf0be25670d0135f/Music_for_Animals.tar"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/uvg1pg.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/2j9a5r.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/i27sn1.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ijuwx9.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/qpl5xx.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/4mhd1r.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/d1jk3o.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/m7ul7r.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/kfe7zk.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/wtbqbd.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ihxr50.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/kpxx8s.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/b7l93d.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/lnlx27.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/t8r0sh.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/sogxcl.tar"
+        }
+      ]
     }
   }
 }
