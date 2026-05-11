@@ -1,0 +1,52 @@
+{
+  "id": "hiddensee_1778461399",
+  "fingerprint": "d6429934aa17e1bae9edf70c6766a07d4362d8aea19911bb62156ae6ecfdf73c",
+  "archived_at": "2026-05-11T01:06:02Z",
+  "metadata": {
+    "title": "Hiddensee",
+    "artist": "Ceeys",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2462,
+    "duration_human": "00:41:02",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Ceeys - Trabanten",
+      "02 Ceeys - Leaving Wallbook",
+      "03 Ceeys - Sagres",
+      "04 Ceeys - All Airport Delays",
+      "05 Ceeys - Horizont",
+      "06 Ceeys - Helikopter",
+      "07 Ceeys - Lost and Found",
+      "08 Ceeys - Solar Sunny",
+      "09 Ceeys - 0991",
+      "10 Ceeys - Wanda",
+      "11 Ceeys - Wanderer",
+      "12 Ceeys - Hiddensee"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hiddensee_1778461399"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/uymoyk.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/4o4mia.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/6byi1j.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/57e558b2659d0ff652d4/Hiddensee.tar"
+    }
+  }
+}
