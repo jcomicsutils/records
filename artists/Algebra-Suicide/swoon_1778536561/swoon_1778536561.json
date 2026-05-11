@@ -1,0 +1,62 @@
+{
+  "id": "swoon_1778536561",
+  "fingerprint": "f543208894b741f9dbee21b6bf3ec2f891472f0c9ef9fbb3612cd18a50b1f504",
+  "archived_at": "2026-05-11T22:06:39Z",
+  "metadata": {
+    "title": "Swoon",
+    "artist": "Algebra Suicide",
+    "year": "1992",
+    "codec": "FLAC",
+    "num_tracks": 22,
+    "duration_seconds": 4397,
+    "duration_human": "01:13:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Algebra Suicide - Blush #102",
+      "02 Algebra Suicide - Too Often",
+      "03 Algebra Suicide - After Busy Summer",
+      "04 Algebra Suicide - Lazy Sweat",
+      "05 Algebra Suicide - He's Famous Now",
+      "06 Algebra Suicide - Tender Red Net",
+      "07 Algebra Suicide - Charming Twilight Haze",
+      "08 Algebra Suicide - Jealous",
+      "09 Algebra Suicide - That Small Convulsion",
+      "10 Algebra Suicide - Sonics",
+      "11 Algebra Suicide - Coup de Grace",
+      "12 Algebra Suicide - Mantic Sway",
+      "13 Algebra Suicide - Summer Virus Night",
+      "14 Algebra Suicide - A Slap in the Face",
+      "15 Algebra Suicide - Friendly Manifesto",
+      "16 Algebra Suicide - Connoisseurs of Lightning",
+      "17 Algebra Suicide - What Rubs Up to You",
+      "18 Algebra Suicide - Beguine",
+      "19 Algebra Suicide - Cerebral Dance",
+      "20 Algebra Suicide - Verbal Blunder",
+      "21 Algebra Suicide - Tropical Depression",
+      "22 Algebra Suicide - Seven Song"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/swoon_1778536561"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/8xuk8m.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/fsesui.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/yyabqb.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/44fcf2c103580cf5795b/Swoon.tar"
+    }
+  }
+}
