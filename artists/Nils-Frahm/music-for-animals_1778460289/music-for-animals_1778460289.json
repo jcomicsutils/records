@@ -1,0 +1,36 @@
+{
+  "id": "music-for-animals_1778460289",
+  "fingerprint": "23202a85ede2cd607e1c7b60b16ad4d57992b1dd6113c5bb7eb1c73fd87bb7bf",
+  "archived_at": "2026-05-11T01:44:40Z",
+  "metadata": {
+    "title": "Music for Animals",
+    "artist": "Nils Frahm",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 11200,
+    "duration_human": "03:06:40",
+    "sampling_rate": "96kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Nils Frahm - The Dog With 1000 Faces",
+      "02 Nils Frahm - Mussel Memory",
+      "03 Nils Frahm - Seagull Scene",
+      "04 Nils Frahm - Sheep in Black and White",
+      "05 Nils Frahm - Stepping Stone",
+      "06 Nils Frahm - Briefly",
+      "07 Nils Frahm - Right Right Right",
+      "08 Nils Frahm - World of Squares",
+      "09 Nils Frahm - Lemon Day",
+      "10 Nils Frahm - Do Dream"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/music-for-animals_1778460289"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/4f9ebf0be25670d0135f/Music_for_Animals.tar"
+    }
+  }
+}
