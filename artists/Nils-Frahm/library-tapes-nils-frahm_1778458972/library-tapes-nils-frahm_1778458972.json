@@ -1,0 +1,32 @@
+{
+  "id": "library-tapes-nils-frahm_1778458972",
+  "fingerprint": "440f55cb014ece88c373e37c904e98dbc9c646b686beacc4e8101e6a498e3774",
+  "archived_at": "2026-05-11T00:23:33Z",
+  "metadata": {
+    "title": "Library Tapes / Nils Frahm",
+    "artist": "Nils Frahm",
+    "year": "2008",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 1206,
+    "duration_human": "00:20:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Library Tapes - Pieces of Us Were Left on the Tracks...",
+      "02 Library Tapes - The Rivers Turned to Cobblestone",
+      "03 Nils Frahm - Tonalogia"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/library-tapes-nils-frahm_1778458972"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/f274m9.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/b2a801eed79f32e991a9/Library_Tapes_-_Nils_Frahm.tar"
+    }
+  }
+}
