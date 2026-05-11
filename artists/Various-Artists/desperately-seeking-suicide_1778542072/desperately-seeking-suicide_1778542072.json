@@ -1,0 +1,53 @@
+{
+  "id": "desperately-seeking-suicide_1778542072",
+  "fingerprint": "d6a9c5df4e0ff1d3b221559811d90d3b2d7935ad8fb1c7975c7d4d8aa59693e8",
+  "archived_at": "2026-05-11T23:34:39Z",
+  "metadata": {
+    "title": "Desperately Seeking Suicide",
+    "artist": "Various Artists",
+    "year": "1987",
+    "codec": "MP3",
+    "num_tracks": 24,
+    "duration_seconds": 3682,
+    "duration_human": "01:01:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Algebra Suicide - Little Dead Body Poem",
+      "02 Controlled Bleeding & Art Barbeque - [untitled]",
+      "03 Human Flesh & Viscera - ...In Your Life Full of Screams",
+      "04 Staubsauger - Frühstück, Fernsehen, Schlafen",
+      "05 John Oswald - 1/2 Speed of Pig Slaughter: 'I Don't Want to Die!'",
+      "06 Maria Zerfall - Der Schnitter",
+      "07 Psycodrama - Into the Groove, Then Into the Grave",
+      "08 No Unauthorized - Suicidez-Moi Pas!",
+      "09 Maybe Mental - Witness",
+      "10 France Douce & The Abortions - Abort Yourself",
+      "11 Ich, Er Und Die Andern Zwei - Mutti Macht Schluß",
+      "12 H.N.A.S. - Ich Bin Ja...",
+      "13 Ampzilla's Delight - Desperately Seeking Suicide",
+      "14 Borbetomagus - Chatanooga",
+      "15 The Swallowed City - Paralysis",
+      "16 Null - Killing God",
+      "17 Algebra Suicide - Please Respect Our Decadence",
+      "18 Hybrids - The Willing Victim",
+      "19 X-Ray Pop - Oh Quel Supplice",
+      "20 Mullah - Nothing",
+      "21 Jean-Claude Charlier & Son Orchestre - Is Suicide Worth Living?",
+      "22 Phillip Perkins - Closing the Big Deal",
+      "23 Luc Fierens - Tape of My Suicide (± 3 Min.)",
+      "24 Die Form - Suicide Party"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/desperately-seeking-suicide_1778542072"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/k6pk86.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/4548ec8638ecd92cd5be/Desperately_Seeking_Suicide.tar"
+    }
+  }
+}
