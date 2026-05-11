@@ -1,0 +1,55 @@
+{
+  "id": "waende_1778462793",
+  "fingerprint": "688834cba5489e15e06fb48afdeac050d160897b2c8c3526ffe03b593ca2b3a3",
+  "archived_at": "2026-05-11T01:34:24Z",
+  "metadata": {
+    "title": "Waende",
+    "artist": "Ceeys",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2619,
+    "duration_human": "00:43:39",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Ceeys - Based in East Berlin",
+      "02 Ceeys - Union",
+      "03 Ceeys - Waende",
+      "04 Ceeys - Winter Sleep",
+      "05 Ceeys - Rectangles",
+      "06 Ceeys - Neighbour I",
+      "07 Ceeys - Neighbour II",
+      "08 Ceeys - Eichenthal 302",
+      "09 Ceeys - Greys",
+      "10 Ceeys - Fall",
+      "11 Ceeys - 9891",
+      "12 Ceeys - Zanzibar"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/waende_1778462793"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/u5h5p6.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/n4escf.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/t7v8ir.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/gu014d.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/1e3c44f88a57de277253/Waende.tar"
+    }
+  }
+}
