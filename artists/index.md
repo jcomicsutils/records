@@ -11,6 +11,7 @@
 - [Bloodz Boi](Bloodz-Boi/Bloodz-Boi.md)
 - [Brueder Selke](Brueder-Selke/Brueder-Selke.md)
 - [Burning Witch](Burning-Witch/Burning-Witch.md)
+- [Ceeys](Ceeys/Ceeys.md)
 - [Club Rialto](Club-Rialto/Club-Rialto.md)
 - [Death Ambient](Death-Ambient/Death-Ambient.md)
 - [Deerhunter](Deerhunter/Deerhunter.md)

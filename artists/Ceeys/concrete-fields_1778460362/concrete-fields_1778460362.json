@@ -1,0 +1,45 @@
+{
+  "id": "concrete-fields_1778460362",
+  "fingerprint": "923f0585dc40b811e112dc5ae3b826eaa0affc4cf8694e0af1317d9f19fcce0a",
+  "archived_at": "2026-05-11T00:49:18Z",
+  "metadata": {
+    "title": "Concrete Fields",
+    "artist": "Ceeys",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2864,
+    "duration_human": "00:47:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Ceeys - Based",
+      "02 Ceeys - Based II",
+      "03 Ceeys - Concrete Field",
+      "04 Ceeys - Lumen",
+      "05 Ceeys - Rueber",
+      "06 Ceeys - Hover, Over, Me",
+      "07 Ceeys - Without Shelter",
+      "08 Ceeys - Rueber"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/concrete-fields_1778460362"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/yfqy1j.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/bol6i1.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/a4a138a3a38d8e99d13a/Concrete_Fields.tar"
+    }
+  }
+}
