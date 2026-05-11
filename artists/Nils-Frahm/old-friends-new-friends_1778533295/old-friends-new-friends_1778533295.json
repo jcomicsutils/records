@@ -41,6 +41,35 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/old-friends-new-friends_1778533295"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/7utbkv.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/q0bwv0.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/qdmmga.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ou26nf.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/0m7pgd.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ymhwga.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/9zzjh6.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/b0543d140ef94f3b0750/Old_Friends_New_Friends.tar"
     }
   }
 }

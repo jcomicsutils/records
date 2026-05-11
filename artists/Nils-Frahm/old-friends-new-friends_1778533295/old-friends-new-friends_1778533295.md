@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/old-friends-new-friends_1778533295)
+- Catbox: [Part 1](https://files.catbox.moe/7utbkv.tar) [Part 2](https://files.catbox.moe/q0bwv0.tar) [Part 3](https://files.catbox.moe/qdmmga.tar) [Part 4](https://files.catbox.moe/ou26nf.tar) [Part 5](https://files.catbox.moe/0m7pgd.tar) [Part 6](https://files.catbox.moe/ymhwga.tar) [Part 7](https://files.catbox.moe/9zzjh6.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/b0543d140ef94f3b0750/Old_Friends_New_Friends.tar)
 
 ## Tracklist
 
