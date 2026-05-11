@@ -1,0 +1,42 @@
+{
+  "id": "big-skin_1778533734",
+  "fingerprint": "34125bf0606e0ec32b98d863bdf67ecf4f3bd3ee3e3630980669a9749d2d9120",
+  "archived_at": "2026-05-11T21:10:36Z",
+  "metadata": {
+    "title": "Big Skin",
+    "artist": "Algebra Suicide",
+    "year": "1986",
+    "codec": "MP3",
+    "num_tracks": 13,
+    "duration_seconds": 2257,
+    "duration_human": "00:37:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Algebra Suicide - After Charles",
+      "02 Algebra Suicide - Seasonal Zombies",
+      "03 Algebra Suicide - Little Dead Body Poem",
+      "04 Algebra Suicide - Proverbial Explanation for Why No Action is Taken",
+      "05 Algebra Suicide - After Rilke",
+      "06 Algebra Suicide - No War Bride",
+      "07 Algebra Suicide - Tractor Pull",
+      "08 Algebra Suicide - Sub Rosa",
+      "09 Algebra Suicide - Horizon",
+      "10 Algebra Suicide - Amusing One's Self",
+      "11 Algebra Suicide - Seven Song",
+      "12 Algebra Suicide - Please Respect Our Decadence",
+      "13 Algebra Suicide - Alphabet Song"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/big-skin_1778533734"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jqzrbl.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/74224d1c85976e0c8c11/Big_Skin.tar"
+    }
+  }
+}
