@@ -1,0 +1,39 @@
+{
+  "id": "live-at-nbi_1778459265",
+  "fingerprint": "5b80d476170a8f0a45af112d9901ea6d3ecd97d883a65c22022a54bc1a57400e",
+  "archived_at": "2026-05-11T00:34:57Z",
+  "metadata": {
+    "title": "Live at NBI",
+    "artist": "Nils Frahm",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3590,
+    "duration_human": "00:59:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nils Frahm - [untitled]",
+      "02 Library Tapes - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-at-nbi_1778459265"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/ax33ey.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/tak3o1.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/08d87a0d1376bb33d961/Live_at_NBI.tar"
+    }
+  }
+}
