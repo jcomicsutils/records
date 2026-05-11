@@ -1,0 +1,38 @@
+{
+  "id": "music-for-lovers-music-versus-time_1778464091",
+  "fingerprint": "46143d0215701fbc77ccca725716a42fea00a88230372099b4868fe0b42a5073",
+  "archived_at": "2026-05-11T01:50:24Z",
+  "metadata": {
+    "title": "Music for Lovers, Music Versus Time",
+    "artist": "Nils Frahm",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2233,
+    "duration_human": "00:37:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 F.S. Blumm, Nils Frahm - Kugler",
+      "02 F.S. Blumm, Nils Frahm - Rone Re",
+      "03 F.S. Blumm, Nils Frahm - Writing Letters to Myself",
+      "04 F.S. Blumm, Nils Frahm - Heber",
+      "05 F.S. Blumm, Nils Frahm - Lenz",
+      "06 F.S. Blumm, Nils Frahm - Sugar Coated Fennel Seeds",
+      "07 F.S. Blumm, Nils Frahm - Licht-Teil",
+      "08 F.S. Blumm, Nils Frahm - Onward Onward",
+      "09 F.S. Blumm, Nils Frahm - Wanda Marimba"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/music-for-lovers-music-versus-time_1778464091"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/eyi8n9.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/a7b43cb8157800925e84/Music_for_Lovers_Music_Versus_Time.tar"
+    }
+  }
+}
