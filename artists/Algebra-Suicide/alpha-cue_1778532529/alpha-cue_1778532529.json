@@ -1,0 +1,39 @@
+{
+  "id": "alpha-cue_1778532529",
+  "fingerprint": "4fa450a488309b9e9a9983e2681188f147c5f65096bf9df4aa42c8e716ceebfb",
+  "archived_at": "2026-05-11T20:56:02Z",
+  "metadata": {
+    "title": "Alpha Cue",
+    "artist": "Algebra Suicide",
+    "year": "1990",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 1952,
+    "duration_human": "00:32:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Algebra Suicide - Summer Virus Night",
+      "02 Algebra Suicide - A Slap in the Face",
+      "03 Algebra Suicide - Friendly Manifesto",
+      "04 Algebra Suicide - Connoisseurs of Lightning",
+      "05 Algebra Suicide - What Rubs Up to You",
+      "06 Algebra Suicide - Beguine",
+      "07 Algebra Suicide - Cerebral Dance",
+      "08 Algebra Suicide - Verbal Blunder",
+      "09 Algebra Suicide - Tropical Depression",
+      "10 Algebra Suicide - Seven Song"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/alpha-cue_1778532529"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ng24wc.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/d220057ddce2956c7fdd/Alpha_Cue.tar"
+    }
+  }
+}

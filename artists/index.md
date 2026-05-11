@@ -5,6 +5,7 @@
 - [Absolute Controlled Clinical Maniacs](Absolute-Controlled-Clinical-Maniacs/Absolute-Controlled-Clinical-Maniacs.md)
 - [Accident Prone Records](Accident-Prone-Records/Accident-Prone-Records.md)
 - [Ak'chamel](Ak'chamel/Ak'chamel.md)
+- [Algebra Suicide](Algebra-Suicide/Algebra-Suicide.md)
 - [BLARF](BLARF/BLARF.md)
 - [Bardo Todol](Bardo-Todol/Bardo-Todol.md)
 - [Bark Psychosis](Bark-Psychosis/Bark-Psychosis.md)
