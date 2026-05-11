@@ -1,0 +1,44 @@
+{
+  "id": "beyond-step-one_1778541549",
+  "fingerprint": "082ebb423afcfb7a059c6397d40723c7e0a93dff938417ecc89532c7792b5ff1",
+  "archived_at": "2026-05-11T23:27:06Z",
+  "metadata": {
+    "title": "Beyond Step One",
+    "artist": "Various Artists",
+    "year": "1984",
+    "codec": "MP3",
+    "num_tracks": 15,
+    "duration_seconds": 3370,
+    "duration_human": "00:56:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Enstruction - Final Solution",
+      "02 Slab - This Song Has No Title",
+      "03 Wall Of Genius - It's A Scary World Out There",
+      "04 Viscera - Nation",
+      "05 Het Zweet - El Voz",
+      "06 Unovidual - Once..Ago",
+      "07 Unovidual - Bagdad Dreams",
+      "08 Muslimgauze - Under the Hand of Jaruzelski",
+      "09 Billy Club Puppet, Sharon Gannon & Wade Tucker - We Come From Orgone",
+      "10 F/i - Glorystomper",
+      "11 ABC Mutes - Fuck Antropology / Pink Wants to Split / Bore / Wanna Puke / Zyclon B / Electric Blanket",
+      "12 Psycodrama - The Living End",
+      "13 Psycodrama - Father of Hell",
+      "14 X-Ray Pop - Mystic Mama",
+      "15 Los Monos - Castles in the Sand"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/beyond-step-one_1778541549"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/m6j0gb.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/bd734d85b50a98dda2de/Beyond_Step_One.tar"
+    }
+  }
+}
