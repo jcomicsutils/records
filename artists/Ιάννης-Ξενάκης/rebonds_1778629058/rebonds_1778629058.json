@@ -1,0 +1,28 @@
+{
+  "id": "rebonds_1778629058",
+  "fingerprint": "8347daceda5b784a2cd75f8beebfa51a7b51beacf373f3a327aaacc16b96ea39",
+  "archived_at": "2026-05-12T23:38:32Z",
+  "metadata": {
+    "title": "Rebonds",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 839,
+    "duration_human": "00:13:59",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Fujimoto Takafumi - 01 Rebonds a",
+      "02 Fujimoto Takafumi - 02 Rebonds b"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rebonds_1778629058"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/33147106760cb5180a2e/Rebonds.tar"
+    }
+  }
+}
