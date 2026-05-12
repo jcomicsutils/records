@@ -1,0 +1,41 @@
+{
+  "id": "diamorphoses-concret-ph-orient-occident-bohor_1778548878",
+  "fingerprint": "8a5beb801c5e3da1ec6258531df30caa6d8b9c921c4a22d21db4418512b4469f",
+  "archived_at": "2026-05-12T01:23:25Z",
+  "metadata": {
+    "title": "Diamorphoses / Concret PH / Orient Occident / Bohor",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2584,
+    "duration_human": "00:43:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Iannis Xenakis - Diamorphoses",
+      "02 Iannis Xenakis - Concret PH",
+      "03 Iannis Xenakis - Orient Occident",
+      "04 Iannis Xenakis - Bohor"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/diamorphoses-concret-ph-orient-occident-bohor_1778548878"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/x0iu6t.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/mde1wn.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/0c414802e159b67896f1/Diamorphoses_-_Concret_PH_-_Orient_Occident_-_Bohor.tar"
+    }
+  }
+}

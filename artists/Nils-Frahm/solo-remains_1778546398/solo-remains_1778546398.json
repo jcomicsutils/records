@@ -1,0 +1,35 @@
+{
+  "id": "solo-remains_1778546398",
+  "fingerprint": "eee0d7fcbcd106f652a7c19585fcda44cb863e20e060c829f43e73c7ce24979c",
+  "archived_at": "2026-05-12T01:26:01Z",
+  "metadata": {
+    "title": "Solo Remains",
+    "artist": "Nils Frahm",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3617,
+    "duration_human": "01:00:17",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - Ode",
+      "02 Nils Frahm - Some",
+      "03 Nils Frahm - Circling",
+      "04 Nils Frahm - Merry",
+      "05 Nils Frahm - Chant",
+      "06 Nils Frahm - Wall",
+      "07 Nils Frahm - Immerse!",
+      "08 Nils Frahm - Four Hands",
+      "09 Nils Frahm - Him",
+      "10 Nils Frahm - Son",
+      "11 Nils Frahm - Vice Versa",
+      "12 Nils Frahm - Passing"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/solo-remains_1778546398"
+    }
+  }
+}
