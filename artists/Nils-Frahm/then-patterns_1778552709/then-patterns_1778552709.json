@@ -1,0 +1,30 @@
+{
+  "id": "then-patterns_1778552709",
+  "fingerprint": "6afac104bdb9a8e3e688f2a6923ff02ac162c5919761865e266d1016bf7bf44b",
+  "archived_at": "2026-05-12T02:26:38Z",
+  "metadata": {
+    "title": "Then Patterns",
+    "artist": "Nils Frahm",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 211,
+    "duration_human": "00:03:31",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - Then Patterns"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/then-patterns_1778552709"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/da9er1.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/7f45bb6c285b97279389/Then_Patterns.tar"
+    }
+  }
+}
