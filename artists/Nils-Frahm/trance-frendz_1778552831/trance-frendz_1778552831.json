@@ -1,0 +1,30 @@
+{
+  "id": "trance-frendz_1778552831",
+  "fingerprint": "e7c327f97649392ad2c4ff3046239f31bd68828a211340b8ad2a41991f10c9a1",
+  "archived_at": "2026-05-12T02:50:52Z",
+  "metadata": {
+    "title": "Trance Frendz",
+    "artist": "Nils Frahm",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2249,
+    "duration_human": "00:37:29",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Ólafur Arnalds, Nils Frahm - 20:17",
+      "02 Ólafur Arnalds, Nils Frahm - 21:05",
+      "03 Ólafur Arnalds, Nils Frahm - 23:17",
+      "04 Ólafur Arnalds, Nils Frahm - 23:52",
+      "05 Ólafur Arnalds, Nils Frahm - 00:26",
+      "06 Ólafur Arnalds, Nils Frahm - 01:41",
+      "07 Ólafur Arnalds, Nils Frahm - 03:06"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/trance-frendz_1778552831"
+    }
+  }
+}
