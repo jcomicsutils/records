@@ -1,0 +1,31 @@
+{
+  "id": "percussion-recital-hauke-markus-ishii-m-hauke-m-wolf-b-cage-j-xenakis-i_1778628693",
+  "fingerprint": "d20857a43df3fc716dd9c4ac2fd64f4e973d87b7a564c98cafcab81fb4c93d14",
+  "archived_at": "2026-05-12T23:33:04Z",
+  "metadata": {
+    "title": "Percussion Recital: Hauke, Markus - ISHII, M. / HAUKE, M. / WOLF, B. / CAGE, J. / XENAKIS, I.",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3843,
+    "duration_human": "01:04:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Markus Hauke - 13 Drums, Op. 66",
+      "02 Markus Hauke - Richard; ausatmen …",
+      "03 Markus Hauke - … and our words mingle like tears and our tears whisper like fire …",
+      "04 Markus Hauke - cComposed Improvisations (version for snare drum)",
+      "05 Markus Hauke - Psappha"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/percussion-recital-hauke-markus-ishii-m-hauke-m-wolf-b-cage-j-xenakis-i_1778628693"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/b308a7db8236289e38e3/Percussion_Recital_Hauke_Markus_-_ISHII_M._-_HAUKE_M._-_WOLF.tar"
+    }
+  }
+}
