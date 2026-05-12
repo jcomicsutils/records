@@ -1,0 +1,30 @@
+{
+  "id": "xenakis-works-for-percussion_1778629435",
+  "fingerprint": "30ad3cb3122ca7204cd1acad1af5c7e82a3e3a3231dac0e24d57b057996ea9a7",
+  "archived_at": "2026-05-12T23:44:56Z",
+  "metadata": {
+    "title": "Xenakis (Works for Percussion)",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2456,
+    "duration_human": "00:40:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Alexandros Giovanos - Rebonds A",
+      "02 Alexandros Giovanos - Rebonds B",
+      "03 Alexandros Giovanos - Kassandra",
+      "04 Alexandros Giovanos - Psappha"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-works-for-percussion_1778629435"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/c56e9e10b6b10ac42623/Xenakis_%28Works_for_Percussion.tar"
+    }
+  }
+}
