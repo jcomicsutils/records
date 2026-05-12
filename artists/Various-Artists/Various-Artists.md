@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [The "You'll Hate This Record" Record](the-youll-hate-this-record-record_1778545584/the-youll-hate-this-record-record_1778545584.md) | 1983 | FLAC | 00:35:36 | [IA](https://archive.org/details/the-youll-hate-this-record-record_1778545584) [Catbox](https://files.catbox.moe/y7x579.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/dbf10cf2f62ac4b4302e/The_You%27ll_Hate_This_Record_Record.tar) |
 | [Beyond Step One](beyond-step-one_1778541549/beyond-step-one_1778541549.md) | 1984 | MP3 | 00:56:10 | [IA](https://archive.org/details/beyond-step-one_1778541549) [Catbox](https://files.catbox.moe/m6j0gb.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/bd734d85b50a98dda2de/Beyond_Step_One.tar) |
 | [Madness Lives](madness-lives_1778544704/madness-lives_1778544704.md) | 1985 | MP3 | 01:34:22 | [IA](https://archive.org/details/madness-lives_1778544704) [Catbox](https://files.catbox.moe/ac3yhn.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/cb63dc42be36686bbb27/Madness_Lives.tar) |
 | [Die Orgasmus Bigband](die-orgasmus-bigband_1778542521/die-orgasmus-bigband_1778542521.md) | 1985 | MP3 | 00:58:07 | [IA](https://archive.org/details/die-orgasmus-bigband_1778542521) [Catbox](https://files.catbox.moe/cj9fw8.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/110710029b607318b005/Die_Orgasmus_Bigband.tar) |
