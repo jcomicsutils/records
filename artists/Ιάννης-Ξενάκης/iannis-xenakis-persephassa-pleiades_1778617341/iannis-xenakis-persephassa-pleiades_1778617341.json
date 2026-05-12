@@ -1,0 +1,42 @@
+{
+  "id": "iannis-xenakis-persephassa-pleiades_1778617341",
+  "fingerprint": "6eaa12ea72c502be461596c40fc1d92b27a15fb47753ec1f08b79d83910bb743",
+  "archived_at": "2026-05-12T20:37:40Z",
+  "metadata": {
+    "title": "Iannis Xenakis: Persephassa / Pléïades",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 4440,
+    "duration_human": "01:14:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Shiniti Ueno & Phonix Reflexion - Persephassa for six percussionists",
+      "02 Shiniti Ueno & Phonix Reflexion - Pléïades for six percussionists: I. Métaux (Metals)",
+      "03 Shiniti Ueno & Phonix Reflexion - Pléïades for six percussionists: II. Claviers (Keyboards)",
+      "04 Shiniti Ueno & Phonix Reflexion - Pléïades for six percussionists: III. Peaux (Skins)",
+      "05 Shiniti Ueno & Phonix Reflexion - Pléïades for six percussionists: IV. Mélanges (Blends)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/iannis-xenakis-persephassa-pleiades_1778617341"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/1qj3jx.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/pr8ssx.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/a8f4188b203740f0e2e2/Iannis_Xenakis_Persephassa_-_Pl%C3%A9%C3%AFades.tar"
+    }
+  }
+}
