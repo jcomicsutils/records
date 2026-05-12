@@ -1,0 +1,26 @@
+{
+  "id": "hibiki-hana-ma-mycenae-alpha-polytope-de-cluny_1778549348",
+  "fingerprint": "85148d1331279401968c75111edaf68d700311e5187a5a08498f212e80a8eaa2",
+  "archived_at": "2026-05-12T01:39:38Z",
+  "metadata": {
+    "title": "Hibiki Hana-Ma / Mycenae Alpha / Polytope de Cluny",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3165,
+    "duration_human": "00:52:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Iannis Xenakis - Hibiki Hana-Ma",
+      "02 Iannis Xenakis - Mycenae Alpha",
+      "03 Iannis Xenakis - Polytope de Cluny"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hibiki-hana-ma-mycenae-alpha-polytope-de-cluny_1778549348"
+    }
+  }
+}

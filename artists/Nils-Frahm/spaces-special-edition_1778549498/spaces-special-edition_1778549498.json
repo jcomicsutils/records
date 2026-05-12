@@ -1,0 +1,50 @@
+{
+  "id": "spaces-special-edition_1778549498",
+  "fingerprint": "6cc9245566d2b02146f69f4be7bb63e355fe6fe4c8c342ba5d4ce72073bd1c3a",
+  "archived_at": "2026-05-12T01:38:11Z",
+  "metadata": {
+    "title": "Spaces (Special Edition)",
+    "artist": "Nils Frahm",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 4949,
+    "duration_human": "01:22:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - An Aborted Beginning",
+      "02 Nils Frahm - Says",
+      "03 Nils Frahm - Said and Done",
+      "04 Nils Frahm - Went Missing",
+      "05 Nils Frahm - Familiar",
+      "06 Nils Frahm - Improvisation for Coughs and a Cell Phone",
+      "07 Nils Frahm - Hammers",
+      "08 Nils Frahm - For – Peter – Toilet Brushes – More",
+      "09 Nils Frahm - Over There, It's Raining",
+      "10 Nils Frahm - Unter – Tristana – Ambre",
+      "11 Nils Frahm - Ross's Harmonium",
+      "12 Nils Frahm - Sol (Bonus Track)",
+      "13 Nils Frahm - Me (Bonus Track)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/spaces-special-edition_1778549498"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/qurb52.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/edz9hf.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/423b3e9f2d9c9cc73fdd/Spaces_%28Special_Edition.tar"
+    }
+  }
+}
