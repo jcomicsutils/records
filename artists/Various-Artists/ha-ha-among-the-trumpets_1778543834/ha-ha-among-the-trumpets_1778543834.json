@@ -1,0 +1,45 @@
+{
+  "id": "ha-ha-among-the-trumpets_1778543834",
+  "fingerprint": "25f3f14fe1cfc0f24f87d3a73f732d75581da7324935aed682078e91790efdfa",
+  "archived_at": "2026-05-12T00:02:30Z",
+  "metadata": {
+    "title": "Ha! Ha! Among the Trumpets",
+    "artist": "Various Artists",
+    "year": "1986",
+    "codec": "MP3",
+    "num_tracks": 16,
+    "duration_seconds": 3554,
+    "duration_human": "00:59:14",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Herself - Pig",
+      "02 Arms of Someone New - The Forest of Trees 2",
+      "03 El Obscuro Interior - Lemuria",
+      "04 Nomuzic - Firmer Words",
+      "05 37 Pink - Regula Fidei (Excerpt)",
+      "06 Zusammenwaschen - Zusammenhang Zer Da Au",
+      "07 Wiggins, John - Particle Music (Excerpt)",
+      "08 Dega-Ray - Reflex",
+      "09 La Otra Cara de un Jardín - Graveway",
+      "10 La Otra Cara de un Jardín - A While (After)",
+      "11 Psycodrama - Jesus Died for Your Sins",
+      "12 Horse He's Sick - Tastes Grrrr",
+      "13 Blackhouse - The 2 Classes of People",
+      "14 R.S. Pearson - Bad Season in Cycle",
+      "15 Línea Táctica - Al Final Les Despidieron",
+      "16 Man's Hate - Old Men in Drag"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ha-ha-among-the-trumpets_1778543834"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/1lcg9f.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/0463a95740847b7bf6e5/Ha_Ha_Among_the_Trumpets.tar"
+    }
+  }
+}
