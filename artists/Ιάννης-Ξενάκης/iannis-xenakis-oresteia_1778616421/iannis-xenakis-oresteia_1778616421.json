@@ -1,0 +1,42 @@
+{
+  "id": "iannis-xenakis-oresteia_1778616421",
+  "fingerprint": "3d19fbeb9c5faf40a0fc32f45562892c4f953c39c6453179bb6d1f3541ed7d00",
+  "archived_at": "2026-05-12T20:13:11Z",
+  "metadata": {
+    "title": "Iannis Xenakis: Oresteïa",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2002",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2963,
+    "duration_human": "00:49:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Spiros Sakkas, Sylvio Gualda, Dominique Debart - No. 1, Agamemnon",
+      "02 Spiros Sakkas, Sylvio Gualda, Dominique Debart - No. 2, Kassandra",
+      "03 Spiros Sakkas, Sylvio Gualda, Dominique Debart - No. 3, Agamemnon",
+      "04 Spiros Sakkas, Sylvio Gualda, Dominique Debart - No. 4, Les Choephores",
+      "05 Spiros Sakkas, Sylvio Gualda, Dominique Debart - No. 5, Les Euménides"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/iannis-xenakis-oresteia_1778616421"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/csqouc.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/nb8qwc.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/18e720bffd49c73c044f/Iannis_Xenakis_Oreste%C3%AFa.tar"
+    }
+  }
+}
