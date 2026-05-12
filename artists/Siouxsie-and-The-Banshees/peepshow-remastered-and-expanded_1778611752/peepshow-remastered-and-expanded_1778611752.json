@@ -1,0 +1,50 @@
+{
+  "id": "peepshow-remastered-and-expanded_1778611752",
+  "fingerprint": "f872ce8db8a81146f977c7ab36b340cc26ebcd45b18ce2070408a095e94640a7",
+  "archived_at": "2026-05-12T18:52:54Z",
+  "metadata": {
+    "title": "Peepshow (Remastered and Expanded)",
+    "artist": "Siouxsie and The Banshees",
+    "year": "1988",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 3728,
+    "duration_human": "01:02:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Siouxsie and The Banshees - Peek-a-Boo",
+      "02 Siouxsie and The Banshees - The Killing Jar",
+      "03 Siouxsie and The Banshees - Scarecrow",
+      "04 Siouxsie and The Banshees - Carousel",
+      "05 Siouxsie and The Banshees - Burn-Up",
+      "06 Siouxsie and The Banshees - Ornaments of Gold",
+      "07 Siouxsie and The Banshees - Turn to Stone",
+      "08 Siouxsie and The Banshees - Rawhead and Bloody Bones (Remastered 2014)",
+      "09 Siouxsie and The Banshees - The Last Beat of My Heart (Remastered 2014)",
+      "10 Siouxsie and The Banshees - Rhapsody",
+      "11 Siouxsie and The Banshees - El Dia De Los Muertos (Espiritu Mix)",
+      "12 Siouxsie and The Banshees - The Killing Jar (Lepidopteristic Mix / Remastered 2014)",
+      "13 Siouxsie and The Banshees - The Last Beat of My Heart (Live at Lollapalooza, Seattle/1991)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/peepshow-remastered-and-expanded_1778611752"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/tvrbm9.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ts5k9f.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/08111df76b83e18c8dd3/Peepshow_%28Remastered_and_Expanded.tar"
+    }
+  }
+}
