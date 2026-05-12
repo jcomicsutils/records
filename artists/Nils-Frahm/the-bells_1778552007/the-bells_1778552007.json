@@ -1,0 +1,48 @@
+{
+  "id": "the-bells_1778552007",
+  "fingerprint": "7dbed5c728a17d42192b2aa2319b79cb5b223c9eb64aad5d19f69848edaabf4a",
+  "archived_at": "2026-05-12T02:17:24Z",
+  "metadata": {
+    "title": "The Bells",
+    "artist": "Nils Frahm",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2408,
+    "duration_human": "00:40:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - In the Sky and on the Ground",
+      "02 Nils Frahm - I Would Like to Think",
+      "03 Nils Frahm - Said and Done",
+      "04 Nils Frahm - Dedication, Loyalty",
+      "05 Nils Frahm - Down Down",
+      "06 Nils Frahm - Over There, It's Raining",
+      "07 Nils Frahm - Small Me",
+      "08 Nils Frahm - My Things",
+      "09 Nils Frahm - Peter is Dead in the Piano",
+      "10 Nils Frahm - It Was Really, Really Grey",
+      "11 Nils Frahm - Somewhere Nearby"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-bells_1778552007"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/f79i8a.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/8mrpac.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/b1dc0775229a92fcb448/The_Bells.tar"
+    }
+  }
+}
