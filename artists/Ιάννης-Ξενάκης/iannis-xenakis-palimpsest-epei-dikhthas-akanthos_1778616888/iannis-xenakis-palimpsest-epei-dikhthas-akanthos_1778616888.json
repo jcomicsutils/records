@@ -1,0 +1,33 @@
+{
+  "id": "iannis-xenakis-palimpsest-epei-dikhthas-akanthos_1778616888",
+  "fingerprint": "394b6573aed418a77245b0e2a3c616ec12591d1d248839be26c9cca8f4000cc9",
+  "archived_at": "2026-05-12T20:21:19Z",
+  "metadata": {
+    "title": "Iannis Xenakis: Palimpsest / Épéi / Dikhthas / Akanthos",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "1990",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2637,
+    "duration_human": "00:43:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Spectrum, Guy Protheroe - Palimpsest",
+      "02 Spectrum, Guy Protheroe - Épéi",
+      "03 Spectrum, Guy Protheroe - Dikhthas",
+      "04 Spectrum, Guy Protheroe - Akanthos"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/iannis-xenakis-palimpsest-epei-dikhthas-akanthos_1778616888"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/yo4464.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/d70f154b755fe482fdb9/Iannis_Xenakis_Palimpsest_-_%C3%89p%C3%A9i_-_Dikhthas_-_Akanthos.tar"
+    }
+  }
+}
