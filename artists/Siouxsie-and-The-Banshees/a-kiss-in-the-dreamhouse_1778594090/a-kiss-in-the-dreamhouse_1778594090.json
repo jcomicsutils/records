@@ -1,0 +1,36 @@
+{
+  "id": "a-kiss-in-the-dreamhouse_1778594090",
+  "fingerprint": "e9f90093501941c6adf7fef463e4d82b36aa0d6fbb8d5bc9c2e3917e4c58c0ad",
+  "archived_at": "2026-05-12T13:58:03Z",
+  "metadata": {
+    "title": "A Kiss in the Dreamhouse",
+    "artist": "Siouxsie and The Banshees",
+    "year": "1982",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 3374,
+    "duration_human": "00:56:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Siouxsie and The Banshees - Cascade",
+      "02 Siouxsie and The Banshees - Green Fingers",
+      "03 Siouxsie and The Banshees - Obsession",
+      "04 Siouxsie and The Banshees - She's a Carnival",
+      "05 Siouxsie and The Banshees - Circle",
+      "06 Siouxsie and The Banshees - Melt",
+      "07 Siouxsie and The Banshees - Painted Bird",
+      "08 Siouxsie and The Banshees - Cocoon",
+      "09 Siouxsie and The Banshees - Slowdive",
+      "10 Siouxsie and The Banshees - Fireworks (12\" Version)",
+      "11 Siouxsie and The Banshees - Slowdive (12\" Version)",
+      "12 Siouxsie and The Banshees - Painted Bird (Workhouse Demo)",
+      "13 Siouxsie and The Banshees - Cascade (Workhouse Demo)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-kiss-in-the-dreamhouse_1778594090"
+    }
+  }
+}

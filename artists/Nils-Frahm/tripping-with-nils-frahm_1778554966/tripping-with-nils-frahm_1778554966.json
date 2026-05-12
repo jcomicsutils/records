@@ -1,0 +1,60 @@
+{
+  "id": "tripping-with-nils-frahm_1778554966",
+  "fingerprint": "d0095e3c19da43b2654c3bb06031233d84f9179b62a5afc8ce9356cbbc7472fb",
+  "archived_at": "2026-05-12T03:45:27Z",
+  "metadata": {
+    "title": "Tripping With Nils Frahm",
+    "artist": "Nils Frahm",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 4557,
+    "duration_human": "01:15:57",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - Enters",
+      "02 Nils Frahm - Sunson",
+      "03 Nils Frahm - Fundamental Values",
+      "04 Nils Frahm - My Friend the Forest",
+      "05 Nils Frahm - The Dane",
+      "06 Nils Frahm - All Melody",
+      "07 Nils Frahm - #2",
+      "08 Nils Frahm - Ode – Our Own Roof"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tripping-with-nils-frahm_1778554966"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/28mfhv.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/mmqk7s.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/94fzll.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/7ridtu.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/yfm0xy.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/cuus8i.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ituue1.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/abc0295805284adefeeb/Tripping_With_Nils_Frahm.tar"
+    }
+  }
+}

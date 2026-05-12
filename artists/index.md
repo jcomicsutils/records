@@ -42,6 +42,7 @@
 - [Psycodrama](Psycodrama/Psycodrama.md)
 - [Roel Meelkop](Roel-Meelkop/Roel-Meelkop.md)
 - [Sarin](Sarin/Sarin.md)
+- [Siouxsie and The Banshees](Siouxsie-and-The-Banshees/Siouxsie-and-The-Banshees.md)
 - [St. Francis Duo](St.-Francis-Duo/St.-Francis-Duo.md)
 - [Steinbrüchel](Steinbrüchel/Steinbrüchel.md)
 - [Stephen O'Malley](Stephen-O'Malley/Stephen-O'Malley.md)
