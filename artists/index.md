@@ -56,5 +56,6 @@
 - [Violent Magic Orchestra](violent-magic-orchestra/violent-magic-orchestra.md)
 - [ÄÄNIPÄÄ](ÄÄNIPÄÄ/ÄÄNIPÄÄ.md)
 - [Æthenor](Æthenor/Æthenor.md)
+- [Ιάννης Ξενάκης](Ιάννης-Ξενάκης/Ιάννης-Ξενάκης.md)
 - [Το Ψυγείο Ψυγείο](Το-Ψυγείο-Ψυγείο/Το-Ψυγείο-Ψυγείο.md)
 - [一柳慧](一柳慧/一柳慧.md)

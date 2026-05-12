@@ -1,0 +1,30 @@
+{
+  "id": "antikhton_1778547330",
+  "fingerprint": "4f1d5d488c48154a61822ec81e836f8c641568abfff1825cd24b61a495399a9d",
+  "archived_at": "2026-05-12T00:55:56Z",
+  "metadata": {
+    "title": "Antikhton",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 29,
+    "duration_human": "00:00:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Brussels Philharmonic - Antikhton"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/antikhton_1778547330"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/urcdth.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/44a10dded304fef5fcb2/Antikhton.tar"
+    }
+  }
+}
