@@ -1,0 +1,35 @@
+{
+  "id": "persepolis_1778628810",
+  "fingerprint": "f72c516e5371818c20f584d4b3516a339a4bc59c0dc8586f438b3629d24e1a44",
+  "archived_at": "2026-05-12T23:35:36Z",
+  "metadata": {
+    "title": "Persepolis",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3312,
+    "duration_human": "00:55:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Iannis Xenakis - Persepolis #1",
+      "02 Iannis Xenakis - Persepolis #2",
+      "03 Iannis Xenakis - Persepolis #3",
+      "04 Iannis Xenakis - Persepolis #4",
+      "05 Iannis Xenakis - Persepolis #5",
+      "06 Iannis Xenakis - Persepolis #6",
+      "07 Iannis Xenakis - Persepolis #7",
+      "08 Iannis Xenakis - Persepolis #8",
+      "09 Iannis Xenakis - Persepolis #9"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/persepolis_1778628810"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/16cf6d4de9788f9feb36/Persepolis.tar"
+    }
+  }
+}
