@@ -1,0 +1,54 @@
+{
+  "id": "superstition-expanded-edition_1778612075",
+  "fingerprint": "c2da9c6ba62c852e5a7a0fa80fd5bd252092f2adc9edeb124b787a371c7184db",
+  "archived_at": "2026-05-12T18:57:17Z",
+  "metadata": {
+    "title": "Superstition (Expanded Edition)",
+    "artist": "Siouxsie and The Banshees",
+    "year": "1991",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 4095,
+    "duration_human": "01:08:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Siouxsie and The Banshees - Kiss Them for Me",
+      "02 Siouxsie and The Banshees - Fear (Of the Unknown)",
+      "03 Siouxsie and The Banshees - Cry",
+      "04 Siouxsie and The Banshees - Drifter",
+      "05 Siouxsie and The Banshees - Little Sister",
+      "06 Siouxsie and The Banshees - Shadowtime",
+      "07 Siouxsie and The Banshees - Silly Thing",
+      "08 Siouxsie and The Banshees - Got to Get Up",
+      "09 Siouxsie and The Banshees - Silver Waterfalls",
+      "10 Siouxsie and The Banshees - Softly",
+      "11 Siouxsie and The Banshees - The Ghost in You",
+      "12 Siouxsie and The Banshees - Face to Face",
+      "13 Siouxsie and The Banshees - Kiss Them for Me (Snapper Mix)",
+      "14 Siouxsie and The Banshees - Kiss Them for Me (Kathak #1 Mix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/superstition-expanded-edition_1778612075"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/egyj7c.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/wu3o8m.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/nym20l.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/8ec19445d8f493ecaf35/Superstition_%28Expanded_Edition.tar"
+    }
+  }
+}
