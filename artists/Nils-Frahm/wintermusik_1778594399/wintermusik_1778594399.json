@@ -1,0 +1,40 @@
+{
+  "id": "wintermusik_1778594399",
+  "fingerprint": "faea15e0f67356c6b3bde2df3f10b3c5d0b555e5ee21cc88bd2b8b6a3d36572e",
+  "archived_at": "2026-05-12T14:03:18Z",
+  "metadata": {
+    "title": "Wintermusik",
+    "artist": "Nils Frahm",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1796,
+    "duration_human": "00:29:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - Ambre",
+      "02 Nils Frahm - Nue",
+      "03 Nils Frahm - Tristana"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wintermusik_1778594399"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/at767f.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/c5570x.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/7ff399336c36415c58cd/Wintermusik.tar"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "all-souls_1778594425",
+  "fingerprint": "876404b2d544d1ca24f53bc73c654b508de2d3f61be7b35ef95e544577994460",
+  "archived_at": "2026-05-12T14:03:25Z",
+  "metadata": {
+    "title": "All Souls",
+    "artist": "Siouxsie and The Banshees",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2240,
+    "duration_human": "00:37:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Siouxsie and The Banshees - Fireworks (12\" Version)",
+      "02 Siouxsie and The Banshees - Halloween",
+      "03 Siouxsie and The Banshees - Supernatural Thing",
+      "04 Siouxsie and The Banshees - El Dia De Los Muertos",
+      "05 Siouxsie and The Banshees - Sweetest Chill",
+      "06 Siouxsie and The Banshees - Spellbound",
+      "07 Siouxsie and The Banshees - Something Wicked (This Way Comes)",
+      "08 Siouxsie and The Banshees - Rawhead and Bloody Bones",
+      "09 Siouxsie and The Banshees - We Hunger",
+      "10 Siouxsie and The Banshees - Peek-a-Boo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/all-souls_1778594425"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/i0ny1m.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/5id1xy.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/1gg7mc.tar"
+        }
+      ]
+    }
+  }
+}
