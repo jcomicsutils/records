@@ -1,0 +1,38 @@
+{
+  "id": "iannis-xenakis-vol-5-electronic-works-1_1778618362",
+  "fingerprint": "b24d15fba20c17ad0592139ff588ae4e3de67a3153967453e9ebfeb7d494c808",
+  "archived_at": "2026-05-12T20:41:20Z",
+  "metadata": {
+    "title": "Iannis Xenakis, Vol. 5: Electronic Works 1",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2822,
+    "duration_human": "00:47:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Iannis Xenakis - La légende d'Eer"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/iannis-xenakis-vol-5-electronic-works-1_1778618362"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/38itld.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/jit17s.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/e415e1be009cb155176c/Iannis_Xenakis_Vol._5_Electronic_Works_1.tar"
+    }
+  }
+}
