@@ -1,0 +1,52 @@
+{
+  "id": "streichelfisch-remastered-2022_1778550484",
+  "fingerprint": "28df04e93dfe172076662605a976773ab9b624668f78d28ed01e1f48b5c19440",
+  "archived_at": "2026-05-12T02:01:57Z",
+  "metadata": {
+    "title": "Streichelfisch (Remastered 2022)",
+    "artist": "Nils Frahm",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2419,
+    "duration_human": "00:40:19",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nils Frahm - Anfangtastisch (Remastered 2022)",
+      "02 Nils Frahm - Lagrimagua (Remastered 2022)",
+      "03 Nils Frahm - Morning Bliss (Remastered 2022)",
+      "04 Nils Frahm - Streichelfisch (Remastered 2022)",
+      "05 Nils Frahm - Lieb Erlassen (Remastered 2022)",
+      "06 Nils Frahm - Halm (Remastered 2022)",
+      "07 Nils Frahm - 7x1/8 (Remastered 2022)",
+      "08 Nils Frahm - No-w-here (Remastered 2022)",
+      "09 Nils Frahm - Aparaquasynthe (Remastered 2022)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/streichelfisch-remastered-2022_1778550484"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/w7qz3t.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/wsywkp.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/2fv0q8.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ut570f.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/6d25ad08624be9c199ac/Streichelfisch_%28Remastered_2022.tar"
+    }
+  }
+}
