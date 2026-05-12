@@ -31,6 +31,17 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/a-kiss-in-the-dreamhouse_1778594090"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/59q9ib.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/um2n4d.tar"
+        }
+      ]
     }
   }
 }

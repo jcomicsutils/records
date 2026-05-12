@@ -1,0 +1,32 @@
+{
+  "id": "unter-uber_1778594347",
+  "fingerprint": "7b23da36d94ab68707eb6cdacba3297e1f3141920ac39ca53630fb8ac3d463c4",
+  "archived_at": "2026-05-12T13:59:44Z",
+  "metadata": {
+    "title": "Unter / Über",
+    "artist": "Nils Frahm",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 353,
+    "duration_human": "00:05:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nils Frahm - Unter",
+      "02 Nils Frahm - Über",
+      "03 Nils Frahm - Unter (Machinefabriek Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/unter-uber_1778594347"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/na8gna.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/90523a3f704d812f0a36/Unter_-_%C3%9Cber.tar"
+    }
+  }
+}
