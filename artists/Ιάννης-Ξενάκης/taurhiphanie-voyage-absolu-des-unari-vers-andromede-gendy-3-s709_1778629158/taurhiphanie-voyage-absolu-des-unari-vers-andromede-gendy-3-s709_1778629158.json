@@ -1,0 +1,30 @@
+{
+  "id": "taurhiphanie-voyage-absolu-des-unari-vers-andromede-gendy-3-s709_1778629158",
+  "fingerprint": "1596f4cec327671210750ef1d45f25a7668b69edf0e0108ea5185eef7d42f975",
+  "archived_at": "2026-05-12T23:43:33Z",
+  "metadata": {
+    "title": "Taurhiphanie / Voyage Absolu Des Unari Vers Andromède / Gendy 3 / S.709",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3196,
+    "duration_human": "00:53:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Iannis Xenakis - Taurhiphanie",
+      "02 Iannis Xenakis - Voyage Absolu Des Unari Vers Andromède",
+      "03 Iannis Xenakis - Gendy 3",
+      "04 Iannis Xenakis - S.709"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/taurhiphanie-voyage-absolu-des-unari-vers-andromede-gendy-3-s709_1778629158"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/e26a797eb33a744fa5c6/Taurhiphanie_-_Voyage_Absolu_Des_Unari_Vers_Androm%C3%A8de_-_Gendy_3.tar"
+    }
+  }
+}
