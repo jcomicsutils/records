@@ -1,0 +1,52 @@
+{
+  "id": "the-best-of_1778612382",
+  "fingerprint": "49502cc55aee12dbb263a6f96ca5d42f2f02ce5463fff5cf1239025722b5bdb9",
+  "archived_at": "2026-05-12T19:03:25Z",
+  "metadata": {
+    "title": "The Best Of...",
+    "artist": "Siouxsie and The Banshees",
+    "year": "2002",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 3419,
+    "duration_human": "00:56:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Siouxsie and The Banshees - Dear Prudence",
+      "02 Siouxsie and The Banshees - Hong Kong Garden",
+      "03 Siouxsie and The Banshees - Cities in Dust (Single Version)",
+      "04 Siouxsie and The Banshees - Peek-a-Boo",
+      "05 Siouxsie and The Banshees - Happy House",
+      "06 Siouxsie and The Banshees - Kiss Them for Me",
+      "07 Siouxsie and The Banshees - Face to Face",
+      "08 Siouxsie and The Banshees - Dizzy",
+      "09 Siouxsie and The Banshees - Israel",
+      "10 Siouxsie and The Banshees - Christine",
+      "11 Siouxsie and The Banshees - Spellbound",
+      "12 Siouxsie and The Banshees - Stargazer",
+      "13 Siouxsie and The Banshees - Arabian Knights",
+      "14 Siouxsie and The Banshees - The Killing Jar",
+      "15 Siouxsie and The Banshees - This Wheel's on Fire"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-best-of_1778612382"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/9fo7u2.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/j3140x.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/5f245f1e38f16e190996/The_Best_Of.tar"
+    }
+  }
+}
