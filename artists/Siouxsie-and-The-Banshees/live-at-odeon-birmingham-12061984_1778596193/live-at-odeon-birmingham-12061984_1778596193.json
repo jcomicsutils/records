@@ -1,0 +1,78 @@
+{
+  "id": "live-at-odeon-birmingham-12061984_1778596193",
+  "fingerprint": "b0416542ea736bcbe53d8ece6630f9ce7b68e77fe66231cab65207c3de874766",
+  "archived_at": "2026-05-12T14:52:26Z",
+  "metadata": {
+    "title": "Live at Odeon. Birmingham. 12.06.1984",
+    "artist": "Siouxsie and The Banshees",
+    "year": "1984",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_seconds": 4576,
+    "duration_human": "01:16:16",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Siouxsie and The Banshees - Dazzle",
+      "02 Siouxsie and The Banshees - Cascade",
+      "03 Siouxsie and The Banshees - Running Town",
+      "04 Siouxsie and The Banshees - Dear Prudence",
+      "05 Siouxsie and The Banshees - Melt",
+      "06 Siouxsie and The Banshees - Into the Light",
+      "07 Siouxsie and The Banshees - Pointing Bone",
+      "08 Siouxsie and The Banshees - Red Over White",
+      "09 Siouxsie and The Banshees - Switch",
+      "10 Siouxsie and The Banshees - Red Light",
+      "11 Siouxsie and The Banshees - Christine",
+      "12 Siouxsie and The Banshees - Bring Me the Head of the Preacher Man",
+      "13 Siouxsie and The Banshees - Painted Bird",
+      "14 Siouxsie and The Banshees - Arabian Knights",
+      "15 Siouxsie and The Banshees - Spellbound",
+      "16 Siouxsie and The Banshees - Monitor",
+      "17 Siouxsie and The Banshees - Israel"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-at-odeon-birmingham-12061984_1778596193"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/grpdw4.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ukgehn.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/xdambf.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/rm9vaw.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/e4srar.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ssbcas.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/s7uawt.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/vn7b67.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/jt8mzr.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/bdwawv.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/dc0a12ee82c87a547da1/Live_at_Odeon._Birmingham._12.06.1984.tar"
+    }
+  }
+}
