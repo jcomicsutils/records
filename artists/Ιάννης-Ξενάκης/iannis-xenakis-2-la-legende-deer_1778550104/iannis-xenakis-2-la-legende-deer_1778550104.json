@@ -1,0 +1,38 @@
+{
+  "id": "iannis-xenakis-2-la-legende-deer_1778550104",
+  "fingerprint": "7b7b7cd581255dba8c3e617433c23707f04d2cef5de429813c2563f15df96f2b",
+  "archived_at": "2026-05-12T01:52:06Z",
+  "metadata": {
+    "title": "Iannis Xenakis 2: La légende d'Eer",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "1995",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2726,
+    "duration_human": "00:45:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Iannis Xenakis - La légende d'Eer"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/iannis-xenakis-2-la-legende-deer_1778550104"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/lki6sq.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/mcnark.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/feb833d708c821ffb2d0/Iannis_Xenakis_2_La_l%C3%A9gende_d%27Eer.tar"
+    }
+  }
+}
