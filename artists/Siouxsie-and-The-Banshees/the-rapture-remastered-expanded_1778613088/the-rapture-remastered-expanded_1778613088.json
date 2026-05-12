@@ -1,0 +1,50 @@
+{
+  "id": "the-rapture-remastered-expanded_1778613088",
+  "fingerprint": "3b64b3d8ba8d4e49581bd9e1ef4452dd290cc937152ef0c1d7bf47d20a211a7f",
+  "archived_at": "2026-05-12T19:15:16Z",
+  "metadata": {
+    "title": "The Rapture (Remastered / Expanded)",
+    "artist": "Siouxsie and The Banshees",
+    "year": "1995",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 3477,
+    "duration_human": "00:57:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Siouxsie and The Banshees - O Baby",
+      "02 Siouxsie and The Banshees - Tearing Apart",
+      "03 Siouxsie and The Banshees - Stargazer",
+      "04 Siouxsie and The Banshees - Fall From Grace",
+      "05 Siouxsie and The Banshees - Not Forgotten",
+      "06 Siouxsie and The Banshees - Sick Child",
+      "07 Siouxsie and The Banshees - The Lonely One",
+      "08 Siouxsie and The Banshees - Falling Down",
+      "09 Siouxsie and The Banshees - Forever",
+      "10 Siouxsie and The Banshees - The Rapture",
+      "11 Siouxsie and The Banshees - The Double Life",
+      "12 Siouxsie and The Banshees - Love Out Me",
+      "13 Siouxsie and The Banshees - O Baby (Manhattan Mix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-rapture-remastered-expanded_1778613088"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/v2lswk.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/gq2i73.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/7f3ea1ff2606e7502a0f/The_Rapture_%28Remastered_-_Expanded.tar"
+    }
+  }
+}
