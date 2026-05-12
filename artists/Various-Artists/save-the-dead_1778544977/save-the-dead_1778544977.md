@@ -1,0 +1,57 @@
+# Various Artists — Save the Dead (1986)
+
+![Cover](https://archive.org/download/save-the-dead_1778544977/__ia_thumb.jpg)
+
+| Field | Value |
+|-------|-------|
+| Codec | MP3 |
+| Sampling Rate | 44.1kHz |
+| Bit Depth | N/A |
+| Tracks | 32 |
+| Duration | 00:58:03 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/save-the-dead_1778544977)
+- [Catbox](https://files.catbox.moe/uvqikx.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/c1a25a364b397929bd7b/Save_the_Dead.tar)
+
+## Tracklist
+
+```
+1-01 Stevie Stiletto - Point of View
+1-02 Stevie Stiletto - Food for Flies
+1-03 Maggot Sandwich - Suckcesspool
+1-04 Maggot Sandwich - Get Off the Stage
+1-05 Workin Muthas - New Right
+1-06 Workin Muthas - Running Scared
+1-07 Born Without a Face - Feed Your Head
+1-08 Born Without a Face - Next Big Thing
+1-09 State of Confusion - Horrible Human History
+1-10 State of Confusion - Discipline
+1-11 Poison - Leviathon
+1-12 Bong - The Living Dead
+1-13 Bong - Same Day
+1-14 Bloody Mess & Hate - Everything Aint Right
+1-15 Bloody Mess & Hate - Fetus Suffocation
+2-01 Bleeding Nuns - Fuck Fashion
+2-02 Bleeding Nuns - Labels Are for Weenies
+2-03 Bleeding Nuns - Neo Nazi
+2-04 U.S. Distress - Religious Leeches
+2-05 U.S. Distress - One Nation Under God
+2-06 Headless Marines - Teenage Trap
+2-07 Headless Marines - Ebony Coffin
+2-08 Dispersion - Agression
+2-09 Dispersion - Kill Em All
+2-10 Blemish on Society - Your So Stupid
+2-11 Blemish on Society - Bos
+2-12 S.N.O.T. - Safe Grey Lights
+2-13 S.N.O.T. - Harrass County
+2-14 S.N.O.T. - Slaughterhouse
+2-15 Group of Individuals - Sarhalin Island
+2-16 Psycodrama - No Homo Zone
+2-17 Psycodrama - Some Guy Dropped a Wrench at Work Today
+```
+
+---
+*Archived: 2026-05-12*
