@@ -30,6 +30,32 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/solo-remains_1778546398"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/9kzt91.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/6m9yrj.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/uqr7z6.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/s9s7hv.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ra0xpg.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/s38u3g.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/5b417d8826be9c9d89c8/Solo_Remains.tar"
     }
   }
 }

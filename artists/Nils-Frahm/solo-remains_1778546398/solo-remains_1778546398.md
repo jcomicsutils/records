@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/solo-remains_1778546398)
+- Catbox: [Part 1](https://files.catbox.moe/9kzt91.tar) [Part 2](https://files.catbox.moe/6m9yrj.tar) [Part 3](https://files.catbox.moe/uqr7z6.tar) [Part 4](https://files.catbox.moe/s9s7hv.tar) [Part 5](https://files.catbox.moe/ra0xpg.tar) [Part 6](https://files.catbox.moe/s38u3g.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/5b417d8826be9c9d89c8/Solo_Remains.tar)
 
 ## Tracklist
 
