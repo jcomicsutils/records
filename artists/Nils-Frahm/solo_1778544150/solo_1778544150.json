@@ -26,6 +26,26 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/solo_1778544150"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/zujjwp.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/y7ziml.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/1us6mx.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/mgllrj.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/3d475f4681eb2c2849e8/Solo.tar"
     }
   }
 }
