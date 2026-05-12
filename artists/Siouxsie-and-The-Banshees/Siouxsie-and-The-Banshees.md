@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [The Scream](the-scream_1778613887/the-scream_1778613887.md) | 1978 | FLAC | 00:45:19 | [IA](https://archive.org/details/the-scream_1778613887) [Catbox ×2](the-scream_1778613887/the-scream_1778613887.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/c40e8da723a7f76431db/The_Scream.tar) |
 | [Join Hands](join-hands_1778595180/join-hands_1778595180.md) | 1979 | FLAC | 00:48:10 | [IA](https://archive.org/details/join-hands_1778595180) [Catbox ×2](join-hands_1778595180/join-hands_1778595180.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/68fdf6d1e06cb93cdf2b/Join_Hands.tar) |
 | [Kaleidoscope \(Remastered & Expanded\)](kaleidoscope-remastered-expanded_1778595871/kaleidoscope-remastered-expanded_1778595871.md) | 1980 | FLAC | 01:11:21 | [IA](https://archive.org/details/kaleidoscope-remastered-expanded_1778595871) [Catbox ×3](kaleidoscope-remastered-expanded_1778595871/kaleidoscope-remastered-expanded_1778595871.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/2608839425d4b32d1229/Kaleidoscope_%28Remastered_Expanded.tar) |
 | [Juju](juju_1778595607/juju_1778595607.md) | 1981 | FLAC | 00:53:07 | [IA](https://archive.org/details/juju_1778595607) [Catbox ×2](juju_1778595607/juju_1778595607.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/3c878fb70bacf679dae0/Juju.tar) |

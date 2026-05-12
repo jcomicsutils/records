@@ -1,0 +1,49 @@
+{
+  "id": "the-scream_1778613887",
+  "fingerprint": "00afe7335e175f107af88de39eedc6289f482fffc7ca70e6958b94dba89f3dfe",
+  "archived_at": "2026-05-12T19:26:42Z",
+  "metadata": {
+    "title": "The Scream",
+    "artist": "Siouxsie and The Banshees",
+    "year": "1978",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2719,
+    "duration_human": "00:45:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Siouxsie and The Banshees - Pure",
+      "02 Siouxsie and The Banshees - Jigsaw Feeling",
+      "03 Siouxsie and The Banshees - Overground",
+      "04 Siouxsie and The Banshees - Carcass",
+      "05 Siouxsie and The Banshees - Helter Skelter",
+      "06 Siouxsie and The Banshees - Mirage",
+      "07 Siouxsie and The Banshees - Metal Postcard (Mittageisen)",
+      "08 Siouxsie and The Banshees - Nicotine Stain",
+      "09 Siouxsie and The Banshees - Suburban Relapse",
+      "10 Siouxsie and The Banshees - Switch",
+      "11 Siouxsie and The Banshees - Hong Kong Garden",
+      "12 Siouxsie and The Banshees - The Staircase (Mystery)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-scream_1778613887"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/vz39f2.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/bup1jt.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/c40e8da723a7f76431db/The_Scream.tar"
+    }
+  }
+}
