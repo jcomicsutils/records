@@ -1,0 +1,35 @@
+{
+  "id": "xenakis-atrees-st10-1-080262-polla-ta-dhina-akrata-achorripsis_1778629512",
+  "fingerprint": "7a3c75ef8931e9bd1243ee16a9752447355927e781021c3326f1e213647a4a6e",
+  "archived_at": "2026-05-12T23:47:04Z",
+  "metadata": {
+    "title": "Xenakis: Atrées, ST/10, 1-080262, Polla Ta Dhina, Akrata & Achorripsis",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3448,
+    "duration_human": "00:57:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Konstantin Simonovitch - Polla Ta Dhina",
+      "02 Konstantin Simonovitch - ST/10, 1-080262",
+      "03 Konstantin Simonovitch - Akrata",
+      "04 Konstantin Simonovitch - Achorripsis",
+      "05 Konstantin Simonovitch - Atrées: Pt. 1",
+      "06 Konstantin Simonovitch - Atrées: Pt. 2",
+      "07 Konstantin Simonovitch - Atrées: Pt. 3",
+      "08 Konstantin Simonovitch - Atrées: Pt. 4",
+      "09 Konstantin Simonovitch - Atrées: Pt. 5"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-atrees-st10-1-080262-polla-ta-dhina-akrata-achorripsis_1778629512"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/132d1a5c4b3c434fde87/Xenakis_Atr%C3%A9es_ST_-_10_1-080262_Polla_Ta_Dhina_Akrata_Acho.tar"
+    }
+  }
+}
