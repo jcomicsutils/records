@@ -1,0 +1,31 @@
+{
+  "id": "concret-ph-bohor-remastered_1778548618",
+  "fingerprint": "26721cb9d3f651954c980c102d35952746150f7b4f6475317618c46cf01869f0",
+  "archived_at": "2026-05-12T01:18:15Z",
+  "metadata": {
+    "title": "Concret Ph / Bohor (Remastered)",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "1958",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1450,
+    "duration_human": "00:24:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Iannis Xenakis - Concret Ph (Remastered)",
+      "02 Iannis Xenakis - Bohor (Remastered)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/concret-ph-bohor-remastered_1778548618"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/d8ext4.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/a9fdca819654f1ca0456/Concret_Ph_-_Bohor_%28Remastered.tar"
+    }
+  }
+}
