@@ -1,0 +1,47 @@
+{
+  "id": "join-hands_1778595180",
+  "fingerprint": "a68ca054234e1f9f502fcd32612fcd4ec37f7a6f216420a1c30a265a398a36ad",
+  "archived_at": "2026-05-12T14:18:22Z",
+  "metadata": {
+    "title": "Join Hands",
+    "artist": "Siouxsie and The Banshees",
+    "year": "1979",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2890,
+    "duration_human": "00:48:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Siouxsie and The Banshees - Poppy Day",
+      "02 Siouxsie and The Banshees - Regal Zone",
+      "03 Siouxsie and The Banshees - Placebo Effect",
+      "04 Siouxsie and The Banshees - Icon",
+      "05 Siouxsie and The Banshees - Premature Burial",
+      "06 Siouxsie and The Banshees - Playground Twist",
+      "07 Siouxsie and The Banshees - Mother / Oh Mein Papa",
+      "08 Siouxsie and The Banshees - The Lords Prayer",
+      "09 Siouxsie and The Banshees - Love in a Void (7\" Single Version)",
+      "10 Siouxsie and The Banshees - Infantry (Previously Unreleased)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/join-hands_1778595180"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/gm2yin.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/xpd8ml.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/68fdf6d1e06cb93cdf2b/Join_Hands.tar"
+    }
+  }
+}
