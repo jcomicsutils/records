@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/a-kiss-in-the-dreamhouse_1778594090)
 - Catbox: [Part 1](https://files.catbox.moe/59q9ib.tar) [Part 2](https://files.catbox.moe/um2n4d.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/620f44195723519ee26d/A_Kiss_in_the_Dreamhouse.tar)
 
 ## Tracklist
 
