@@ -1,0 +1,60 @@
+{
+  "id": "kaleidoscope-remastered-expanded_1778595871",
+  "fingerprint": "f37694431094e1e6294a2964fef673bbe603e2db20048b6981e62b3d1f94446d",
+  "archived_at": "2026-05-12T14:27:11Z",
+  "metadata": {
+    "title": "Kaleidoscope (Remastered & Expanded)",
+    "artist": "Siouxsie and The Banshees",
+    "year": "1980",
+    "codec": "FLAC",
+    "num_tracks": 20,
+    "duration_seconds": 4281,
+    "duration_human": "01:11:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Siouxsie and The Banshees - Happy House",
+      "02 Siouxsie and The Banshees - Tenant",
+      "03 Siouxsie and The Banshees - Trophy",
+      "04 Siouxsie and The Banshees - Hybrid",
+      "05 Siouxsie and The Banshees - Clockface",
+      "06 Siouxsie and The Banshees - Lunar Camel",
+      "07 Siouxsie and The Banshees - Christine",
+      "08 Siouxsie and The Banshees - Desert Kisses",
+      "09 Siouxsie and The Banshees - Red Light",
+      "10 Siouxsie and The Banshees - Paradise Place",
+      "11 Siouxsie and The Banshees - Skin",
+      "12 Siouxsie and The Banshees - Christine (Demo Version)",
+      "13 Siouxsie and The Banshees - Eve White Eve Black",
+      "14 Siouxsie and The Banshees - Arabia - Lunar Camel",
+      "15 Siouxsie and The Banshees - Sitting Room",
+      "16 Siouxsie and The Banshees - Paradise Place (Demo Version)",
+      "17 Siouxsie and The Banshees - Desert Kisses (Demo Version)",
+      "18 Siouxsie and The Banshees - Hybrid (Demo Version)",
+      "19 Siouxsie and The Banshees - Happy House (Demo Version)",
+      "20 Siouxsie and The Banshees - Israel (7\" Single Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kaleidoscope-remastered-expanded_1778595871"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/yumivj.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/y6ol9h.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/8ilc09.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/2608839425d4b32d1229/Kaleidoscope_%28Remastered_Expanded.tar"
+    }
+  }
+}
