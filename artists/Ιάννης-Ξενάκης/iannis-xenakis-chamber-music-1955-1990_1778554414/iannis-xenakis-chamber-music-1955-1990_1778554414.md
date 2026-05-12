@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/iannis-xenakis-chamber-music-1955-1990_1778554414)
 - Catbox: [Part 1](https://files.catbox.moe/gxq9j3.tar) [Part 2](https://files.catbox.moe/vv5b5v.tar) [Part 3](https://files.catbox.moe/ojjo6x.tar) [Part 4](https://files.catbox.moe/38p12g.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/2b5e47230f584d0384f7/Iannis_Xenakis_Chamber_Music_1955_-_1990.tar)
 
 ## Tracklist
 
