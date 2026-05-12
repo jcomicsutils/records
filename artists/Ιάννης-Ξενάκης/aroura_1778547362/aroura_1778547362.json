@@ -1,0 +1,30 @@
+{
+  "id": "aroura_1778547362",
+  "fingerprint": "f1324b0afd6f76b8daa2ecd4e84adce61fa4a898365af47feeb1c607c3b2ac04",
+  "archived_at": "2026-05-12T01:06:10Z",
+  "metadata": {
+    "title": "Aroura",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 704,
+    "duration_human": "00:11:44",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Thomas Zehetmair, Orchestre national Auvergne-Rhône-Alpes, Iannis Xenakis - Aroura"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/aroura_1778547362"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/k05ae9.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/45ca1be0a7c52222949e/Aroura.tar"
+    }
+  }
+}
