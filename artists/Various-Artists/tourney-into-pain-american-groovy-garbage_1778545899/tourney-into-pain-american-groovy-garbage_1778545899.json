@@ -1,0 +1,43 @@
+{
+  "id": "tourney-into-pain-american-groovy-garbage_1778545899",
+  "fingerprint": "8624bda83603355b0a7d45bb0568f7c1cb40ecc59d74795b52ceab5e7c5bb158",
+  "archived_at": "2026-05-12T00:34:12Z",
+  "metadata": {
+    "title": "Tourney Into Pain: American Groovy Garbage",
+    "artist": "Various Artists",
+    "year": "1989",
+    "codec": "MP3",
+    "num_tracks": 14,
+    "duration_seconds": 3300,
+    "duration_human": "00:55:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Band of Susans - Band Free",
+      "02 Sloth - Fetch the Wedge",
+      "03 When People Were Shorter - Puppet on a String",
+      "04 When People Were Shorter - Wives and Lovers",
+      "05 John Trubee - Calls to Idiots",
+      "06 Workdogs - Live at the Filmore East",
+      "07 Coo Coo Rocking Time - Live at the Filmore East",
+      "08 Sloth - Thumscrew",
+      "09 John Trubee & Ugly Janitors of America - When My Ship Rolls In",
+      "10 John Trubee & Ugly Janitors of America - Copulating Geckos",
+      "11 John Trubee & Ugly Janitors of America - Now I Step Over Your World",
+      "12 John Trubee & Ugly Janitors of America - Babylon Throw Your Children to the Fire",
+      "13 Half Japanese - T for Texas",
+      "14 Eugene Chadbourne - Another Day Gone Lawman Wrong"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tourney-into-pain-american-groovy-garbage_1778545899"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/77h7cz.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/186ef72ea9746f54897a/Tourney_Into_Pain_American_Groovy_Garbage.tar"
+    }
+  }
+}
