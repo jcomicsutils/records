@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/hibiki-hana-ma-mycenae-alpha-polytope-de-cluny_1778549348)
+- Catbox: [Part 1](https://files.catbox.moe/fv441j.tar) [Part 2](https://files.catbox.moe/fuj1uq.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/1b8b039682de783ed436/Hibiki_Hana-Ma_-_Mycenae_Alpha_-_Polytope_de_Cluny.tar)
 
 ## Tracklist
 
