@@ -1,0 +1,53 @@
+{
+  "id": "hyaena-remastered-and-expanded_1778594786",
+  "fingerprint": "b868fe7a1e865079dc74f79b494bd2e4c4c50108de5134b1217138a4d52cd598",
+  "archived_at": "2026-05-12T14:10:50Z",
+  "metadata": {
+    "title": "Hyaena (Remastered and Expanded)",
+    "artist": "Siouxsie and The Banshees",
+    "year": "1984",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 3512,
+    "duration_human": "00:58:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Siouxsie and The Banshees - Dazzle",
+      "02 Siouxsie and The Banshees - We Hunger",
+      "03 Siouxsie and The Banshees - Take Me Back",
+      "04 Siouxsie and The Banshees - Belladonna",
+      "05 Siouxsie and The Banshees - Swimming Horses",
+      "06 Siouxsie and The Banshees - Bring Me the Head of the Preacher Man",
+      "07 Siouxsie and The Banshees - Running Town",
+      "08 Siouxsie and The Banshees - Pointing Bone",
+      "09 Siouxsie and The Banshees - Blow the House Down",
+      "10 Siouxsie and The Banshees - Dear Prudence",
+      "11 Siouxsie and The Banshees - Dazzle (Glamour Mix)",
+      "12 Siouxsie and The Banshees - Baby Piano (Pt. 1)",
+      "13 Siouxsie and The Banshees - Baby Piano (Pt. 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hyaena-remastered-and-expanded_1778594786"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/2jv4ca.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/pm6vjc.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/jqfixx.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/def57cd47038f4a71741/Hyaena_%28Remastered_and_Expanded.tar"
+    }
+  }
+}
