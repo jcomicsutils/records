@@ -1,0 +1,30 @@
+{
+  "id": "pleiades_1778628967",
+  "fingerprint": "55aaa64d1e08aa1ae47ccce0e4432fd8b3880ba2429235477bbae5ec76dce5ed",
+  "archived_at": "2026-05-12T23:37:21Z",
+  "metadata": {
+    "title": "Pléiades",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "1987",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2645,
+    "duration_human": "00:44:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Percussions de Strasbourg - Pléiades: I. Mélanges",
+      "02 Percussions de Strasbourg - Pléiades: II. Métaux",
+      "03 Percussions de Strasbourg - Pléiades: III. Claviers",
+      "04 Percussions de Strasbourg - Pléiades: IV. Peaux"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pleiades_1778628967"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/3bae461a00455f91c55c/Pl%C3%A9iades.tar"
+    }
+  }
+}
