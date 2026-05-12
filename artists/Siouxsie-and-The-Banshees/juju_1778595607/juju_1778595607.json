@@ -1,0 +1,49 @@
+{
+  "id": "juju_1778595607",
+  "fingerprint": "bf9084073ffe7976bcc87e3a866558b50325faecbdd30329e196172c7db6188d",
+  "archived_at": "2026-05-12T14:22:08Z",
+  "metadata": {
+    "title": "Juju",
+    "artist": "Siouxsie and The Banshees",
+    "year": "1981",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3187,
+    "duration_human": "00:53:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Siouxsie and The Banshees - Spellbound",
+      "02 Siouxsie and The Banshees - Into the Light",
+      "03 Siouxsie and The Banshees - Arabian Knights",
+      "04 Siouxsie and The Banshees - Halloween",
+      "05 Siouxsie and The Banshees - Monitor",
+      "06 Siouxsie and The Banshees - Night Shift",
+      "07 Siouxsie and The Banshees - Sin in My Heart",
+      "08 Siouxsie and The Banshees - Head Cut",
+      "09 Siouxsie and The Banshees - Voodoo Dolly",
+      "10 Siouxsie and The Banshees - Spellbound (12\" Mix)",
+      "11 Siouxsie and The Banshees - Arabian Knights (12\" Vocoder Mix)",
+      "12 Siouxsie and The Banshees - Fireworks (12\" Nigel Gray Mix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/juju_1778595607"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/6vo8o7.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/7j9xsx.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/3c878fb70bacf679dae0/Juju.tar"
+    }
+  }
+}
