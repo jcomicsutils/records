@@ -1,0 +1,43 @@
+{
+  "id": "beton-arme_1778548350",
+  "fingerprint": "a53e1dbff961e2886426f9e6e1242a2716c1a4c7f755d138b8d501137479538a",
+  "archived_at": "2026-05-12T01:15:58Z",
+  "metadata": {
+    "title": "Béton Armé",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3093,
+    "duration_human": "00:51:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Duo 7090 - Evryali",
+      "02 Duo 7090 - Mikka",
+      "03 Duo 7090 - Mikka S",
+      "04 Duo 7090 - Keren",
+      "05 Duo 7090 - Ikhoor",
+      "06 Duo 7090 - Dikhthas"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/beton-arme_1778548350"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/t23wl5.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/a4ht4t.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/d0d8a78828aae93303db/B%C3%A9ton_Arm.tar"
+    }
+  }
+}
