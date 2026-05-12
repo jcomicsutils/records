@@ -1,5 +1,7 @@
 # Ιάννης Ξενάκης — La Légende D'Eer (2016)
 
+![Cover](https://archive.org/download/la-legende-deer_1778625675/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/5242744672a780b58d0e/La_L%C3%A9gende_D%27Eer.tar)
+- [Archive.org](https://archive.org/details/la-legende-deer_1778626790)
 
 ## Tracklist
 

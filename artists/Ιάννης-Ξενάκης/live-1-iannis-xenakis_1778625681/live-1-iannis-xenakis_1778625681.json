@@ -1,0 +1,27 @@
+{
+  "id": "live-1-iannis-xenakis_1778625681",
+  "fingerprint": "ca9a109179022a9f8f1d7a843f45dfe74bf13aa6493d4f44e82beebb0c41dc55",
+  "archived_at": "2026-05-12T22:46:07Z",
+  "metadata": {
+    "title": "Live 1: Iannis Xenakis",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3451,
+    "duration_human": "00:57:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Asko Ensemble, David Porcelijn, Harry Sparnaay, Aki Takahashi - Echange",
+      "02 Asko Ensemble, David Porcelijn, Harry Sparnaay, Aki Takahashi - Palimpsest",
+      "03 Asko Ensemble, David Porcelijn, Harry Sparnaay, Aki Takahashi - Waarg",
+      "04 Asko Ensemble, David Porcelijn, Harry Sparnaay, Aki Takahashi - Eonta"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-1-iannis-xenakis_1778625681"
+    }
+  }
+}

@@ -26,6 +26,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/file.php?f=/beta1/5242744672a780b58d0e/La_L%C3%A9gende_D%27Eer.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/la-legende-deer_1778626790"
     }
   }
 }
