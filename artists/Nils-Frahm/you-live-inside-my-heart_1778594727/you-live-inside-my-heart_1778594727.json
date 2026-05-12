@@ -1,0 +1,30 @@
+{
+  "id": "you-live-inside-my-heart_1778594727",
+  "fingerprint": "f7d842fc9b1c25407f844e337f10ebfc6b8bcd788103e9465680cefc99dd3001",
+  "archived_at": "2026-05-12T14:05:57Z",
+  "metadata": {
+    "title": "You Live Inside My Heart",
+    "artist": "Nils Frahm",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 283,
+    "duration_human": "00:04:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Chantal Acda, Nils Frahm - You Live Inside My Heart"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/you-live-inside-my-heart_1778594727"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/k8buoa.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/91965f9ee29ed8bc17d9/You_Live_Inside_My_Heart.tar"
+    }
+  }
+}
