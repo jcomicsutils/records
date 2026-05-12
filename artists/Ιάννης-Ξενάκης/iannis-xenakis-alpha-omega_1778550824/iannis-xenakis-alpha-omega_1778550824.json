@@ -1,0 +1,59 @@
+{
+  "id": "iannis-xenakis-alpha-omega_1778550824",
+  "fingerprint": "13a8395174436b914b46ea4ac2c704924e12a08f31dfd0e7716aa896a4e4a7d3",
+  "archived_at": "2026-05-12T02:28:00Z",
+  "metadata": {
+    "title": "Iannis Xenakis : Alpha & Omega",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 12288,
+    "duration_human": "03:24:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "1-01 Jacqueline Méfano - Xenakis: Morsima-Amorsima",
+      "1-02 Siegfried Palm - Xenakis: Nomos alpha (1965)",
+      "1-03 Octuor de Paris - Xenakis: Anaktoria",
+      "2-01 Les Percussions de Strasbourg - Xenakis: Persephassa",
+      "2-02 Geoffrey Douglas Madge - Xenakis: Synaphai - Connexities for Piano & Orchestra",
+      "2-03 New Philharmonia Orchestra - Xenakis: Aroura",
+      "3-01 New Philharmonia Orchestra - Xenakis: Antikhthon",
+      "3-02 Iannis Xenakis - Xenakis: Persepolis",
+      "4-01 Alain Damiens - Xenakis: Charisma",
+      "4-02 Maryvonne Le Dizès - Xenakis: Mikka / Mikka \"S\"",
+      "4-03 Claude Helffer - Xenakis: Mists",
+      "4-04 Benny Sluchin - Xenakis: Keren",
+      "4-05 Gustav Mahler Jugendorchester - Xenakis: Keqrops for Piano and Orchestra (1986)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/iannis-xenakis-alpha-omega_1778550824"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/7dzkog.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/sp9ra6.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/4q2cdd.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/txsacd.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/idbzud.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/0ab7218df0724767fc12/Iannis_Xenakis_Alpha_Omega.tar"
+    }
+  }
+}
