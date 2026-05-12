@@ -1,0 +1,40 @@
+{
+  "id": "tourney-into-pain-scummy-trash-noise_1778546306",
+  "fingerprint": "f93c8da06198c4439411ca665c450d86b259c85c959c9d8a634f9be471e8c79b",
+  "archived_at": "2026-05-12T00:45:27Z",
+  "metadata": {
+    "title": "Tourney Into Pain: Scummy Trash Noise",
+    "artist": "Various Artists",
+    "year": "1989",
+    "codec": "MP3",
+    "num_tracks": 11,
+    "duration_seconds": 3252,
+    "duration_human": "00:54:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The Gerogerigegege - Super Mind Age",
+      "02 The Gerogerigegege - Live at Good Man",
+      "03 The Gerogerigegege - Noise",
+      "04 Masonna - Deaqij Bo Riotrk",
+      "05 Masonna - Jkidk",
+      "06 Masonna - Sprwkrm Altid",
+      "07 Masonna - Oppipt Bqom",
+      "08 Masonna - Holiday in the Sun",
+      "09 Incapacitants - No Bank",
+      "10 Odal - Asoma",
+      "11 Das Synthetische Mischgewebe - Viskoser Tod - La Mort Viscueuse"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tourney-into-pain-scummy-trash-noise_1778546306"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/52ymx4.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/426cf927d248686042a5/Tourney_Into_Pain_Scummy_Trash_Noise.tar"
+    }
+  }
+}
