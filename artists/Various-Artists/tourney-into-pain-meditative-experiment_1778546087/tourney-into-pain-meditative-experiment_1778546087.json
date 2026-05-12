@@ -1,0 +1,37 @@
+{
+  "id": "tourney-into-pain-meditative-experiment_1778546087",
+  "fingerprint": "180c8a588842d15a7b9de75c091e484ac7b449bf59151c79d0eaa7ad401d4963",
+  "archived_at": "2026-05-12T00:37:50Z",
+  "metadata": {
+    "title": "Tourney Into Pain: Meditative Experiment",
+    "artist": "Various Artists",
+    "year": "1989",
+    "codec": "MP3",
+    "num_tracks": 8,
+    "duration_seconds": 3059,
+    "duration_human": "00:50:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Kallabris - Baldur",
+      "02 Muslimgauze - Iran",
+      "03 Function Disorder - My Time",
+      "04 Autopsia - Does the Knife Cry When It Enter the Sky",
+      "05 Cranioclast - Play It Again Erich",
+      "06 Frank Dommert - Das Leben in Sülz",
+      "07 Asmus Tietchens - Unter Der Vier",
+      "08 Core - LavirrADeparture"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tourney-into-pain-meditative-experiment_1778546087"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/4gxzly.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/83b1cce391abf833050d/Tourney_Into_Pain_Meditative_Experiment.tar"
+    }
+  }
+}

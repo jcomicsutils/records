@@ -1,0 +1,31 @@
+{
+  "id": "solo_1778544150",
+  "fingerprint": "e289be773e7b492f37b8f89b31bd64dcc0c8604f0be78c9747d7cf705c34b7b1",
+  "archived_at": "2026-05-12T00:35:59Z",
+  "metadata": {
+    "title": "Solo",
+    "artist": "Nils Frahm",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2565,
+    "duration_human": "00:42:45",
+    "sampling_rate": "96kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Nils Frahm - Ode",
+      "02 Nils Frahm - Some",
+      "03 Nils Frahm - Circling",
+      "04 Nils Frahm - Merry",
+      "05 Nils Frahm - Chant",
+      "06 Nils Frahm - Wall",
+      "07 Nils Frahm - Immerse!",
+      "08 Nils Frahm - Four Hands"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/solo_1778544150"
+    }
+  }
+}
