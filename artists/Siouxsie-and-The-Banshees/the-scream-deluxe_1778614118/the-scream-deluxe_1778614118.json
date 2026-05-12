@@ -1,0 +1,66 @@
+{
+  "id": "the-scream-deluxe_1778614118",
+  "fingerprint": "2d431e1cae0191f26ed54a52fc300fa989d25666e0a723ef858c418c46cf81fc",
+  "archived_at": "2026-05-12T19:36:22Z",
+  "metadata": {
+    "title": "The Scream (Deluxe)",
+    "artist": "Siouxsie and The Banshees",
+    "year": "1978",
+    "codec": "FLAC",
+    "num_tracks": 26,
+    "duration_seconds": 5504,
+    "duration_human": "01:31:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "1-01 Siouxsie and The Banshees - Pure",
+      "1-02 Siouxsie and The Banshees - Jigsaw Feeling",
+      "1-03 Siouxsie and The Banshees - Overground",
+      "1-04 Siouxsie and The Banshees - Carcass",
+      "1-05 Siouxsie and The Banshees - Helter Skelter",
+      "1-06 Siouxsie and The Banshees - Mirage",
+      "1-07 Siouxsie and The Banshees - Metal Postcard (Mittageisen)",
+      "1-08 Siouxsie and The Banshees - Nicotine Stain",
+      "1-09 Siouxsie and The Banshees - Suburban Relapse",
+      "1-10 Siouxsie and The Banshees - Switch",
+      "2-01 Siouxsie and The Banshees - Make Up to Break Up (Riverside Session)",
+      "2-02 Siouxsie and The Banshees - Love in a Void (John Peel Session)",
+      "2-03 Siouxsie and The Banshees - Mirage (John Peel Session)",
+      "2-04 Siouxsie and The Banshees - Metal Postcard (John Peel Session)",
+      "2-05 Siouxsie and The Banshees - Suburban Relapse (John Peel Session)",
+      "2-06 Siouxsie and The Banshees - Hong Kong Garden (John Peel Session)",
+      "2-07 Siouxsie and The Banshees - Overground (John Peel Session)",
+      "2-08 Siouxsie and The Banshees - Carcass (John Peel Session)",
+      "2-09 Siouxsie and The Banshees - Helter Skelter (John Peel Session)",
+      "2-10 Siouxsie and The Banshees - Metal Postcard (Mittageisen) (Pathway Session)",
+      "2-11 Siouxsie and The Banshees - Suburban Relapse (Pathway Session)",
+      "2-12 Siouxsie and The Banshees - The Staircase (Mystery) (Pathway Session)",
+      "2-13 Siouxsie and The Banshees - Mirage (Pathway Session)",
+      "2-14 Siouxsie and The Banshees - Nicotine Stain (Pathway Session)",
+      "2-15 Siouxsie and The Banshees - Hong Kong Garden",
+      "2-16 Siouxsie and The Banshees - The Staircase (Mystery)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-scream-deluxe_1778614118"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/cqq6no.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/zx3yqa.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/b6a9yq.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/c48c3063856707afe04a/The_Scream_%28Deluxe.tar"
+    }
+  }
+}
