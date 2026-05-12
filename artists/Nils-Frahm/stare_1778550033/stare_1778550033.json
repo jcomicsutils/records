@@ -1,0 +1,40 @@
+{
+  "id": "stare_1778550033",
+  "fingerprint": "fbeda110daff3273b1b918041c23b73b98d7790df4d06d04453ae00b296310fa",
+  "archived_at": "2026-05-12T01:46:50Z",
+  "metadata": {
+    "title": "Stare",
+    "artist": "Nils Frahm",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1534,
+    "duration_human": "00:25:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Ólafur Arnalds, Nils Frahm - A1",
+      "02 Ólafur Arnalds, Nils Frahm - A2",
+      "03 Ólafur Arnalds, Nils Frahm - B1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stare_1778550033"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/zuyct3.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/79fn4l.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/971d57f242e65fc1d280/Stare.tar"
+    }
+  }
+}
