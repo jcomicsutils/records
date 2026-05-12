@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/trance-frendz_1778552831)
+- Catbox: [Part 1](https://files.catbox.moe/8wjky8.tar) [Part 2](https://files.catbox.moe/oj7q2t.tar) [Part 3](https://files.catbox.moe/6kudy7.tar) [Part 4](https://files.catbox.moe/54jc8a.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/629179e174f0ef0edd25/Trance_Frendz.tar)
 
 ## Tracklist
 

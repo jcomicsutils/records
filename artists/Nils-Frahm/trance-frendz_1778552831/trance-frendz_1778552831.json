@@ -25,6 +25,26 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/trance-frendz_1778552831"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/8wjky8.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/oj7q2t.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/6kudy7.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/54jc8a.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/629179e174f0ef0edd25/Trance_Frendz.tar"
     }
   }
 }
