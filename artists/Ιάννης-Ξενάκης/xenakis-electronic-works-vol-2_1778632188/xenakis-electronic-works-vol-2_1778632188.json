@@ -1,0 +1,28 @@
+{
+  "id": "xenakis-electronic-works-vol-2_1778632188",
+  "fingerprint": "4fbf0a72764d1fd8ac3a129de5237595e62c120028eb0962ff1183db06a367ad",
+  "archived_at": "2026-05-13T00:31:08Z",
+  "metadata": {
+    "title": "Xenakis: Electronic Works, Vol. 2",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2531,
+    "duration_human": "00:42:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Iannis Xenakis - Hibiki hana ma",
+      "02 Iannis Xenakis - Polytope de Cluny"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-electronic-works-vol-2_1778632188"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/d314ae3b6a2cfc2e5da6/Xenakis_Electronic_Works_Vol._2.tar"
+    }
+  }
+}
