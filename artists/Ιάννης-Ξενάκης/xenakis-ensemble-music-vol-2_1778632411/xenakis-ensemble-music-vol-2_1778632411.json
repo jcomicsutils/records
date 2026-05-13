@@ -1,0 +1,31 @@
+{
+  "id": "xenakis-ensemble-music-vol-2_1778632411",
+  "fingerprint": "4354170c29af0ac7749ca676b1bbf7693a5c02cf2fc720df63af04bb5a1f8c7b",
+  "archived_at": "2026-05-13T00:35:22Z",
+  "metadata": {
+    "title": "Xenakis: Ensemble Music, Vol. 2",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "1996",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3316,
+    "duration_human": "00:55:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 St-x Ensemble, Charles Zachary Bornstein - Echange",
+      "02 St-x Ensemble, Charles Zachary Bornstein - Okho",
+      "03 St-x Ensemble, Charles Zachary Bornstein - XAS",
+      "04 St-x Ensemble, Charles Zachary Bornstein - Akrata",
+      "05 St-x Ensemble, Charles Zachary Bornstein - Mnamas Xapin Witoldowi Lutosławskiemu"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-ensemble-music-vol-2_1778632411"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/5968ba96ec23afee7376/Xenakis_Ensemble_Music_Vol._2.tar"
+    }
+  }
+}
