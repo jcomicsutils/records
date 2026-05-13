@@ -1,0 +1,32 @@
+{
+  "id": "xenakis-ensemble-music-vol-1_1778632291",
+  "fingerprint": "8036eeff9367ac91b3468bb6de558c07d4aa90d296cc802ac376c801165a5237",
+  "archived_at": "2026-05-13T00:33:05Z",
+  "metadata": {
+    "title": "Xenakis: Ensemble Music, Vol. 1",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "1996",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 4016,
+    "duration_human": "01:06:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 St-x Ensemble, Charles Zachary Bornstein, Rob McEwan - Plektó",
+      "02 St-x Ensemble, Charles Zachary Bornstein, Rob McEwan - Eonta",
+      "03 St-x Ensemble, Charles Zachary Bornstein, Rob McEwan - Akanthos",
+      "04 St-x Ensemble, Charles Zachary Bornstein, Rob McEwan - Rebonds B",
+      "05 St-x Ensemble, Charles Zachary Bornstein, Rob McEwan - Rebonds A",
+      "06 St-x Ensemble, Charles Zachary Bornstein, Rob McEwan - N'shima"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-ensemble-music-vol-1_1778632291"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/4a68ee561e858371bd77/Xenakis_Ensemble_Music_Vol._1.tar"
+    }
+  }
+}
