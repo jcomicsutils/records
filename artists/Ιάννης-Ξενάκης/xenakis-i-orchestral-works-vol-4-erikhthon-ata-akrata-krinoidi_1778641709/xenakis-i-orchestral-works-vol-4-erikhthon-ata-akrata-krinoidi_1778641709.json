@@ -1,0 +1,30 @@
+{
+  "id": "xenakis-i-orchestral-works-vol-4-erikhthon-ata-akrata-krinoidi_1778641709",
+  "fingerprint": "0a1da2af606cbd1b3c483077b6038838c52741aed73d3cde3834fd0cee8c875a",
+  "archived_at": "2026-05-13T03:10:18Z",
+  "metadata": {
+    "title": "Xenakis, I.: Orchestral Works, Vol. 4 - Erikhthon / Ata / Akrata / Krinoidi",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3186,
+    "duration_human": "00:53:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Arturo Tamayo - Erikhthon",
+      "02 Arturo Tamayo - Ata",
+      "03 Arturo Tamayo - Akrata",
+      "04 Arturo Tamayo - Krinoidi"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-i-orchestral-works-vol-4-erikhthon-ata-akrata-krinoidi_1778641709"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/71428c137b7bfca4fa90/Xenakis_I._Orchestral_Works_Vol._4_-_Erikhthon_-_Ata_-_Akrata.tar"
+    }
+  }
+}
