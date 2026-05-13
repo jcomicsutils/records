@@ -1,0 +1,29 @@
+{
+  "id": "xenakis-psappha-okho-persephassa_1778636760",
+  "fingerprint": "b9506407c230725691d534cde5349d803d980dbf585b1caf5b12990766896fa0",
+  "archived_at": "2026-05-13T01:53:13Z",
+  "metadata": {
+    "title": "Xenakis: Psappha, Okho & Perséphassa",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "1997",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3401,
+    "duration_human": "00:56:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Demoé Percussion Ensemble, Daniele Vineis - Psappha",
+      "02 Demoé Percussion Ensemble, Daniele Vineis - Okho",
+      "03 Demoé Percussion Ensemble, Daniele Vineis - Persephassa"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-psappha-okho-persephassa_1778636760"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/a615d50e973c26b4d4a8/Xenakis_Psappha_Okho_Pers%C3%A9phassa.tar"
+    }
+  }
+}
