@@ -1,0 +1,30 @@
+{
+  "id": "xenakis-i-orchestral-works-vol-2-jonchaies-shaar-lichens-antikhthon_1778641451",
+  "fingerprint": "5bede6677eb54d1acc681204d085ce1da7674bce461b01f034f065bb2e19577e",
+  "archived_at": "2026-05-13T03:05:48Z",
+  "metadata": {
+    "title": "Xenakis, I.: Orchestral Works, Vol. 2 - Jonchaies / Shaar / Lichens / Antikhthon",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2000",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3796,
+    "duration_human": "01:03:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Arturo Tamayo - Jonchaies",
+      "02 Arturo Tamayo - Shaar",
+      "03 Arturo Tamayo - Lichens",
+      "04 Arturo Tamayo - Antikhthon"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-i-orchestral-works-vol-2-jonchaies-shaar-lichens-antikhthon_1778641451"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/8e5cdff65194e0c587c2/Xenakis_I._Orchestral_Works_Vol._2_-_Jonchaies_-_Shaar_-_Liche.tar"
+    }
+  }
+}
