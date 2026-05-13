@@ -1,0 +1,31 @@
+{
+  "id": "xenakis-pleiades-persephassa_1778636630",
+  "fingerprint": "c20d97afda6c3410e29ce8dae3bf5c336a710be997f347c9b1c1ad102df460b8",
+  "archived_at": "2026-05-13T01:45:28Z",
+  "metadata": {
+    "title": "Xenakis: Pléiades & Persephassa",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 4299,
+    "duration_human": "01:11:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Les Percussions de Strasbourg - Pléiades: No. 1, Mélanges",
+      "02 Les Percussions de Strasbourg - Pléiades: No. 2, Claviers",
+      "03 Les Percussions de Strasbourg - Pléiades: No. 3, Métaux",
+      "04 Les Percussions de Strasbourg - Pléiades: No. 4, Peaux",
+      "05 Les Percussions de Strasbourg - Persephassa"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-pleiades-persephassa_1778636630"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/ead92b093e98ec1d5846/Xenakis_Pl%C3%A9iades_Persephassa.tar"
+    }
+  }
+}
