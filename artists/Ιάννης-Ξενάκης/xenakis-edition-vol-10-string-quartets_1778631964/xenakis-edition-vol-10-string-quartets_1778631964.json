@@ -1,0 +1,30 @@
+{
+  "id": "xenakis-edition-vol-10-string-quartets_1778631964",
+  "fingerprint": "3e338087bb187297a91b099d9e37e9260edb4b065bcc85ea2ef84b7c784a26d0",
+  "archived_at": "2026-05-13T00:29:22Z",
+  "metadata": {
+    "title": "Xenakis Edition, Vol. 10: String Quartets",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3139,
+    "duration_human": "00:52:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 JACK Quartet - Tetras",
+      "02 JACK Quartet - Tetora",
+      "03 JACK Quartet - ST/4",
+      "04 JACK Quartet - Ergma"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-edition-vol-10-string-quartets_1778631964"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/3802168dc0f7ea1102d9/Xenakis_Edition_Vol._10_String_Quartets.tar"
+    }
+  }
+}
