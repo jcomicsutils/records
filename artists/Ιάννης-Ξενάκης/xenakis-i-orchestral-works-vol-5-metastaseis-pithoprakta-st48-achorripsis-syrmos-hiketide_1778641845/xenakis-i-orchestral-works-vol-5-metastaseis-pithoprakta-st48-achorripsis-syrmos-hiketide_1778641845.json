@@ -1,0 +1,32 @@
+{
+  "id": "xenakis-i-orchestral-works-vol-5-metastaseis-pithoprakta-st48-achorripsis-syrmos-hiketide_1778641845",
+  "fingerprint": "c25ecb9dc8eca2af6f6587e0216cc4ea88b525a9c8671e5944af9ae3a6df6c80",
+  "archived_at": "2026-05-13T03:12:20Z",
+  "metadata": {
+    "title": "Xenakis, I.: Orchestral Works, Vol. 5 - Metastaseis / Pithoprakta / St/48 / Achorripsis / Syrmos / Hiketides Suite",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3615,
+    "duration_human": "01:00:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Arturo Tamayo - Metastaseis",
+      "02 Arturo Tamayo - Pithoprakta",
+      "03 Arturo Tamayo - ST/48",
+      "04 Arturo Tamayo - Achorripsis",
+      "05 Arturo Tamayo - Syrmos",
+      "06 Arturo Tamayo - Hiketides Suite"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-i-orchestral-works-vol-5-metastaseis-pithoprakta-st48-achorripsis-syrmos-hiketide_1778641845"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/fe7657fd53c01588082a/Xenakis_I._Orchestral_Works_Vol._5_-_Metastaseis_-_Pithoprakta.tar"
+    }
+  }
+}
