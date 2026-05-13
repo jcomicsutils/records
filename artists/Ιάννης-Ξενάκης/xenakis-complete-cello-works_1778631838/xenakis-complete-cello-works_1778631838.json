@@ -1,0 +1,34 @@
+{
+  "id": "xenakis-complete-cello-works_1778631838",
+  "fingerprint": "6565c404762373b7f55482f32f8c150c7fb0684ba7071f6ba4f2699b92aac130",
+  "archived_at": "2026-05-13T00:25:34Z",
+  "metadata": {
+    "title": "Xenakis: Complete Cello Works",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 4074,
+    "duration_human": "01:07:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Arne Deforce, Ensemble musikFabrik - Nomos Alpha",
+      "02 Arne Deforce, Ensemble musikFabrik - Charisma",
+      "03 Arne Deforce, Ensemble musikFabrik - Kottos",
+      "04 Arne Deforce, Ensemble musikFabrik - Epicycles",
+      "05 Arne Deforce, Ensemble musikFabrik - Paille In the Wind",
+      "06 Arne Deforce, Ensemble musikFabrik - Hunem-Iduhey",
+      "07 Arne Deforce, Ensemble musikFabrik - Roscobeck",
+      "08 Arne Deforce, Ensemble musikFabrik - Dhipli Zyia"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-complete-cello-works_1778631838"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/722549638bc521e22f8c/Xenakis_Complete_Cello_Works.tar"
+    }
+  }
+}
