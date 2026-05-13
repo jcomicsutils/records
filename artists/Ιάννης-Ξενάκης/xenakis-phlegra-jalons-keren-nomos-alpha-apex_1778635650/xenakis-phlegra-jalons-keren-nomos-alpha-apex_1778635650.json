@@ -1,0 +1,35 @@
+{
+  "id": "xenakis-phlegra-jalons-keren-nomos-alpha-apex_1778635650",
+  "fingerprint": "c63140b79131783407a0f2a2b7847f7d752e8426d9cdb31f4cdf8a3730486b56",
+  "archived_at": "2026-05-13T01:31:18Z",
+  "metadata": {
+    "title": "Xenakis: Phlegra, Jalons, Keren, Nomos Alpha... (-  APEX)",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 7856,
+    "duration_human": "02:10:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Iannis Xenakis - Phlegra",
+      "02 Iannis Xenakis - Jalons",
+      "03 Iannis Xenakis - Keren",
+      "04 Iannis Xenakis - Nomos Alpha",
+      "05 Iannis Xenakis - Thalleïn",
+      "06 Iannis Xenakis - Naama",
+      "07 Iannis Xenakis - A l'île de Gorée",
+      "08 Iannis Xenakis - Khoaï",
+      "09 Iannis Xenakis - Komboï"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-phlegra-jalons-keren-nomos-alpha-apex_1778635650"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/2137eae13b3f94cb7086/Xenakis_Phlegra_Jalons_Keren_Nomos_Alpha..._%28-_APEX.tar"
+    }
+  }
+}
