@@ -1,0 +1,33 @@
+{
+  "id": "xenakis-syrmos-polytope-de-montreal-medea-kraanerg-oresteia_1778637539",
+  "fingerprint": "db3449d0e63ab82d1916974c899a9ef437fa431bb846640b97772554f0c52f6f",
+  "archived_at": "2026-05-13T02:45:35Z",
+  "metadata": {
+    "title": "Xenakis: Syrmos, Polytope de Montréal, Medea, Kraanerg & Oresteia",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 9465,
+    "duration_human": "02:37:45",
+    "sampling_rate": "192kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Marius Constant - Syrmos",
+      "02 Marius Constant - Polytope de Montréal",
+      "03 Marius Constant - Medea",
+      "04 Marius Constant - Kraanerg: Pt. 1",
+      "05 Marius Constant - Kraanerg: Pt. 2",
+      "06 Marius Constant - Kraanerg: Pt. 3",
+      "07 Marius Constant - Kraanerg: Pt. 4",
+      "08 Marius Constant - Oresteia: I. Agamemnon",
+      "09 Marius Constant - Oresteia: II. Choéphores",
+      "10 Marius Constant - Oresteia: III. Euménides"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-syrmos-polytope-de-montreal-medea-kraanerg-oresteia_1778637539"
+    }
+  }
+}
