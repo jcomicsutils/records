@@ -1,0 +1,29 @@
+{
+  "id": "xenakis-synaphai-aroura-antikhthon_1778637438",
+  "fingerprint": "6cb64feb2ad476196f960997d8a2e379875bf4c3da06cf844205639dc32e2160",
+  "archived_at": "2026-05-13T01:58:31Z",
+  "metadata": {
+    "title": "Xenakis: Synaphai; Aroura; Antikhthon",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "1976",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2597,
+    "duration_human": "00:43:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Elgar Howarth, New Philharmonia Orchestra - Synaphai - Connexities for Piano & Orchestra",
+      "02 Elgar Howarth, New Philharmonia Orchestra - Aroura",
+      "03 Elgar Howarth, New Philharmonia Orchestra - Antikhthon"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-synaphai-aroura-antikhthon_1778637438"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/562c976de666dec49cb9/Xenakis_Synaphai_Aroura_Antikhthon.tar"
+    }
+  }
+}
