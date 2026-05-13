@@ -1,0 +1,30 @@
+{
+  "id": "xenakis-les-percussions-chez-xenakis_1778634482",
+  "fingerprint": "6cee3418ad72353967f7174eb2acf7f8289d61abac9e83b957d965f3fe01e1e8",
+  "archived_at": "2026-05-13T01:09:33Z",
+  "metadata": {
+    "title": "Xenakis: Les Percussions chez Xenakis",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2231,
+    "duration_human": "00:37:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Pedro Carneiro, Mathew Rich, Stephen John Gibson - Okho pour trois Djembés",
+      "02 Pedro Carneiro, Mathew Rich, Stephen John Gibson - Rebonds B pour \"set\" de percussions",
+      "03 Pedro Carneiro, Mathew Rich, Stephen John Gibson - Rebonds A pour \"set\" de percussions",
+      "04 Pedro Carneiro, Mathew Rich, Stephen John Gibson - Psappha pour \"set\" de percussions"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-les-percussions-chez-xenakis_1778634482"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/7c3e96b89329462807d7/Xenakis_Les_Percussions_chez_Xenakis.tar"
+    }
+  }
+}
