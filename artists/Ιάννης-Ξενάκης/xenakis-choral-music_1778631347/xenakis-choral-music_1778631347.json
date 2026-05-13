@@ -1,0 +1,31 @@
+{
+  "id": "xenakis-choral-music_1778631347",
+  "fingerprint": "295ee7f376797a3ed66e2146be918e2c867aaa0b88f6695f8a0994c1ca583770",
+  "archived_at": "2026-05-13T00:23:29Z",
+  "metadata": {
+    "title": "Xenakis: Choral Music",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "1998",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3482,
+    "duration_human": "00:58:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 New London Chamber Choir, James Wood - A Colone",
+      "02 New London Chamber Choir, James Wood - Nuits",
+      "03 New London Chamber Choir, James Wood - Serment",
+      "04 New London Chamber Choir, James Wood - Knephas",
+      "05 New London Chamber Choir, James Wood - Medea"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-choral-music_1778631347"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/4a3dd471d0a5664e448a/Xenakis_Choral_Music.tar"
+    }
+  }
+}
