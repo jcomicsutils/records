@@ -1,0 +1,30 @@
+{
+  "id": "xenakis-synaphai_1778637212",
+  "fingerprint": "d66cf686dfcdee65e485024b4774965831179a8b0f69a3424a02ebbda4f28301",
+  "archived_at": "2026-05-13T01:56:54Z",
+  "metadata": {
+    "title": "Xenakis: Synaphaï",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3591,
+    "duration_human": "00:59:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Geoffrey Douglas Madge - Synaphai - Connexities for Piano & Orchestra",
+      "02 New Philharmonia Orchestra - Aroura",
+      "03 New Philharmonia Orchestra - Antikhthon",
+      "04 Roger Woodward - Keqrops for Piano and Orchestra (1986)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-synaphai_1778637212"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/0458f5d72801d3119ddb/Xenakis_Synapha.tar"
+    }
+  }
+}
