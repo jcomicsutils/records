@@ -1,0 +1,29 @@
+{
+  "id": "xenakis-in-het-orgelpark_1778632949",
+  "fingerprint": "70bfa3bf51d43f0fe7a1eeb563d7d70c424bd3fc14800d87d84300fcd6fe6660",
+  "archived_at": "2026-05-13T00:43:45Z",
+  "metadata": {
+    "title": "Xenakis in Het Orgelpark",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3075,
+    "duration_human": "00:51:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 7090, Jan Hage - Linaia-Agon",
+      "02 7090, Jan Hage - Eonta",
+      "03 7090, Jan Hage - Gmeeoorh"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-in-het-orgelpark_1778632949"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/ef0bd38b351af39758bb/Xenakis_in_Het_Orgelpark.tar"
+    }
+  }
+}
