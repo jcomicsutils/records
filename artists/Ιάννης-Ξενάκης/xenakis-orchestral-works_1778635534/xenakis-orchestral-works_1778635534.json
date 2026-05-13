@@ -1,0 +1,29 @@
+{
+  "id": "xenakis-orchestral-works_1778635534",
+  "fingerprint": "1a591a2cd5e0e885f8a8cfab17322bffe09327acc5e37dfcbc024debdfe68e25",
+  "archived_at": "2026-05-13T01:27:06Z",
+  "metadata": {
+    "title": "Xenakis: Orchestral Works",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2469,
+    "duration_human": "00:41:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Orchestra Sinfonica Nazionale della RAI di Torino, Residentie Orchestra The Hague, Arturo Tamayo - Metastaseis",
+      "02 Orchestra Sinfonica Nazionale della RAI di Torino, Residentie Orchestra The Hague, Arturo Tamayo - Terretektorh",
+      "03 Orchestra Sinfonica Nazionale della RAI di Torino, Residentie Orchestra The Hague, Arturo Tamayo - Nomos gamma"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-orchestral-works_1778635534"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/1d1d97b364947d0c9dab/Xenakis_Orchestral_Works.tar"
+    }
+  }
+}
