@@ -1,0 +1,47 @@
+{
+  "id": "xenakis-kraanerg_1778634208",
+  "fingerprint": "29dec0e7e837c9aeab886bb37f29d9aeeedf39f3a8c508285f265319042d38ec",
+  "archived_at": "2026-05-13T01:07:36Z",
+  "metadata": {
+    "title": "Xenakis: Kraanerg",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 21,
+    "duration_seconds": 4641,
+    "duration_human": "01:17:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Callithumpian Consort, Stephen Drury - Opening",
+      "02 Callithumpian Consort, Stephen Drury - Tape Entrance 1",
+      "03 Callithumpian Consort, Stephen Drury - Tape Entrance 2",
+      "04 Callithumpian Consort, Stephen Drury - Tape Entrance 3",
+      "05 Callithumpian Consort, Stephen Drury - Tape Entrance 4",
+      "06 Callithumpian Consort, Stephen Drury - Tape Entrance 5",
+      "07 Callithumpian Consort, Stephen Drury - Tape Entrance 6",
+      "08 Callithumpian Consort, Stephen Drury - Tape Entrance 7",
+      "09 Callithumpian Consort, Stephen Drury - Tape Entrance 8",
+      "10 Callithumpian Consort, Stephen Drury - Tape Entrance 9",
+      "11 Callithumpian Consort, Stephen Drury - Tape Entrance 10",
+      "12 Callithumpian Consort, Stephen Drury - Tape Entrance 11",
+      "13 Callithumpian Consort, Stephen Drury - Tape Entrance 12",
+      "14 Callithumpian Consort, Stephen Drury - Tape Entrance 13",
+      "15 Callithumpian Consort, Stephen Drury - Tape Entrance 14",
+      "16 Callithumpian Consort, Stephen Drury - Tape Entrance 15",
+      "17 Callithumpian Consort, Stephen Drury - Tape Entrance 16",
+      "18 Callithumpian Consort, Stephen Drury - Tape Entrance 17",
+      "19 Callithumpian Consort, Stephen Drury - Tape Entrance 18",
+      "20 Callithumpian Consort, Stephen Drury - Tape Entrance 19",
+      "21 Callithumpian Consort, Stephen Drury - Tape Entrance 20"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-kraanerg_1778634208"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/5965c3d03a1fa4a00fec/Xenakis_Kraanerg.tar"
+    }
+  }
+}
