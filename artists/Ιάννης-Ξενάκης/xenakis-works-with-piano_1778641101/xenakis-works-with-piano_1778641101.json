@@ -1,0 +1,30 @@
+{
+  "id": "xenakis-works-with-piano_1778641101",
+  "fingerprint": "868f74bb6ad91351c15d9c5145274235cf1e0521bf5687bc10414b43bc93f2e1",
+  "archived_at": "2026-05-13T02:59:30Z",
+  "metadata": {
+    "title": "Xenakis: Works with Piano",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3169,
+    "duration_human": "00:52:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aki Takahashi - Eonta",
+      "02 Aki Takahashi - Morsima-Amorsima",
+      "03 Aki Takahashi - Akea",
+      "04 Aki Takahashi - Paille in the Wind"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-works-with-piano_1778641101"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/89f3390341e70b1235e0/Xenakis_Works_with_Piano.tar"
+    }
+  }
+}
