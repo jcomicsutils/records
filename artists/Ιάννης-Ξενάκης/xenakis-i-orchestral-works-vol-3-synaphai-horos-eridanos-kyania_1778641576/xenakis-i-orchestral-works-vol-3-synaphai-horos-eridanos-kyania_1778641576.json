@@ -1,0 +1,30 @@
+{
+  "id": "xenakis-i-orchestral-works-vol-3-synaphai-horos-eridanos-kyania_1778641576",
+  "fingerprint": "de2aa4122e92313aba0396b2d5bdaf9c74e6b83b142307cc18a31691ff3c0803",
+  "archived_at": "2026-05-13T03:07:59Z",
+  "metadata": {
+    "title": "Xenakis, I.: Orchestral Works, Vol. 3 - Synaphai / Horos / Eridanos / Kyania",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2002",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3858,
+    "duration_human": "01:04:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Arturo Tamayo - Synaphai",
+      "02 Arturo Tamayo - Horos",
+      "03 Arturo Tamayo - Eridanos",
+      "04 Arturo Tamayo - Kyania"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-i-orchestral-works-vol-3-synaphai-horos-eridanos-kyania_1778641576"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/3807f4f7ecc48796a893/Xenakis_I._Orchestral_Works_Vol._3_-_Synaphai_-_Horos_-_Eridan.tar"
+    }
+  }
+}
