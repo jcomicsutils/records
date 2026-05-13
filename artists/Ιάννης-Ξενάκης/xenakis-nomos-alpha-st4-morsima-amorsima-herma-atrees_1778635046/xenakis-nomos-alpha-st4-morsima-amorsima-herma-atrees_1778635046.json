@@ -1,0 +1,35 @@
+{
+  "id": "xenakis-nomos-alpha-st4-morsima-amorsima-herma-atrees_1778635046",
+  "fingerprint": "7ccfa7a5b364258d914893a976a8d63cdb65ddefc4610909ee375756e1628f6c",
+  "archived_at": "2026-05-13T01:25:05Z",
+  "metadata": {
+    "title": "Xenakis: Nomos Alpha, ST/4, Morsima-Amorsima, Herma & Atrées",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 4176,
+    "duration_human": "01:09:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Konstantin Simonovitch, Pierre Pénassou, Georges Pludermacher, Quatuor Bernede - Atrées: Pt. 1",
+      "02 Konstantin Simonovitch, Pierre Pénassou, Georges Pludermacher, Quatuor Bernede - Atrées: Pt. 2",
+      "03 Konstantin Simonovitch, Pierre Pénassou, Georges Pludermacher, Quatuor Bernede - Atrées: Pt. 3",
+      "04 Konstantin Simonovitch, Pierre Pénassou, Georges Pludermacher, Quatuor Bernede - Atrées: Pt. 4",
+      "05 Konstantin Simonovitch, Pierre Pénassou, Georges Pludermacher, Quatuor Bernede - Atrées: Pt. 5",
+      "06 Konstantin Simonovitch, Pierre Pénassou, Georges Pludermacher, Quatuor Bernede - Morsima-Amorsima",
+      "07 Konstantin Simonovitch, Pierre Pénassou, Georges Pludermacher, Quatuor Bernede - Nomos Alpha",
+      "08 Konstantin Simonovitch, Pierre Pénassou, Georges Pludermacher, Quatuor Bernede - Herma",
+      "09 Konstantin Simonovitch, Pierre Pénassou, Georges Pludermacher, Quatuor Bernede - ST/4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-nomos-alpha-st4-morsima-amorsima-herma-atrees_1778635046"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/b5068c7c50f86d667a6e/Xenakis_Nomos_Alpha_ST_-_4_Morsima-Amorsima_Herma_Atr%C3%A9es.tar"
+    }
+  }
+}
