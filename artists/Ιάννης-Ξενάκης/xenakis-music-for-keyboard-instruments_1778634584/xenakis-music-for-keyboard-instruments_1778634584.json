@@ -1,0 +1,31 @@
+{
+  "id": "xenakis-music-for-keyboard-instruments_1778634584",
+  "fingerprint": "7612cfb9a7f0267cb4f187e99e9164209f63e22748883361cb961192df4dcdcf",
+  "archived_at": "2026-05-13T01:16:58Z",
+  "metadata": {
+    "title": "Xenakis: Music for Keyboard Instruments",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3369,
+    "duration_human": "00:56:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Daniel Grossmann - Herma",
+      "02 Daniel Grossmann - Mists",
+      "03 Daniel Grossmann - Khoai",
+      "04 Daniel Grossmann - Evryali",
+      "05 Daniel Grossmann - Naama"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-music-for-keyboard-instruments_1778634584"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/a7bda16906c8de33f697/Xenakis_Music_for_Keyboard_Instruments.tar"
+    }
+  }
+}
