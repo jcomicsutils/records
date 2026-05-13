@@ -1,0 +1,32 @@
+{
+  "id": "xenakis-ix_1778633050",
+  "fingerprint": "3a039c9eb9ac2152fa8a7d5df9c4b78feb3ae6a967d1a95a55de1ebb382beb1e",
+  "archived_at": "2026-05-13T01:00:39Z",
+  "metadata": {
+    "title": "Xenakis: IX",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3559,
+    "duration_human": "00:59:19",
+    "sampling_rate": "192kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Kuniko - Pléïades: I. Mélanges",
+      "02 Kuniko - Pléïades: II. Métaux",
+      "03 Kuniko - Pléïades: III. Claviers",
+      "04 Kuniko - Pléïades: IV. Peaux",
+      "05 Kuniko - Rebonds A",
+      "06 Kuniko - Rebonds B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-ix_1778633050"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/d922c145473c19d55e73/Xenakis_IX.tar"
+    }
+  }
+}
