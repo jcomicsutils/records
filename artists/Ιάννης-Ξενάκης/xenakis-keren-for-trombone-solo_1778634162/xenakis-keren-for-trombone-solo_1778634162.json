@@ -1,0 +1,27 @@
+{
+  "id": "xenakis-keren-for-trombone-solo_1778634162",
+  "fingerprint": "10654d296c35a0bde012d4b766fe37c1b0e257fd19f16868aebd467fee595803",
+  "archived_at": "2026-05-13T01:03:15Z",
+  "metadata": {
+    "title": "Xenakis: Keren for Trombone Solo",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 403,
+    "duration_human": "00:06:43",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Bruce Collings, Ensemble musikFabrik - Keren for Trombone Solo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-keren-for-trombone-solo_1778634162"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/755d1aeccc3874343ee9/Xenakis_Keren_for_Trombone_Solo.tar"
+    }
+  }
+}
