@@ -1,0 +1,40 @@
+{
+  "id": "xenakis-piano-works_1778636069",
+  "fingerprint": "136f1ede26b0acf79ee7643454f66adbbd826380049a6cf79facef3316efad0d",
+  "archived_at": "2026-05-13T01:36:20Z",
+  "metadata": {
+    "title": "Xenakis: Piano Works",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 3814,
+    "duration_human": "01:03:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Stephanos Thomopoulos - Herma",
+      "02 Stephanos Thomopoulos - Evryali",
+      "03 Stephanos Thomopoulos - Mists",
+      "04 Stephanos Thomopoulos - À r. \"Hommage á Ravel\"",
+      "05 Stephanos Thomopoulos - No. 1, Ça sent le musc...",
+      "06 Stephanos Thomopoulos - No. 2, J'avais un amour autrefois...",
+      "07 Stephanos Thomopoulos - No. 3, Une perdrix descendait de la montagne...",
+      "08 Stephanos Thomopoulos - No. 4, Trois moines crétois...",
+      "09 Stephanos Thomopoulos - No. 5, Aujourd'hui le ciel est noir...",
+      "10 Stephanos Thomopoulos - No. 6, Sousta, danse",
+      "11 Stephanos Thomopoulos - Zyia (Version for Soprano, Flute & Piano)",
+      "12 Stephanos Thomopoulos - L. 1",
+      "13 Stephanos Thomopoulos - Air populaire",
+      "14 Stephanos Thomopoulos - Allegro molto"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-piano-works_1778636069"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/c12cba78c2624a2827cf/Xenakis_Piano_Works_%282015.tar"
+    }
+  }
+}
