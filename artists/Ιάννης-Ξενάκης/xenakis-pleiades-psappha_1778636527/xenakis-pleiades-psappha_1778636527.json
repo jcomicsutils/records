@@ -1,0 +1,31 @@
+{
+  "id": "xenakis-pleiades-psappha_1778636527",
+  "fingerprint": "1adcb343a0d36b0515d78201b455cbef1ddae913867c224f0c34d3e347fd7d91",
+  "archived_at": "2026-05-13T01:43:20Z",
+  "metadata": {
+    "title": "Xenakis: Pleiades / Psappha",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "1981",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3147,
+    "duration_human": "00:52:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Gert Mortensen, Kroumata Percussion Ensemble, Anders Loguin - I. Metaux",
+      "02 Gert Mortensen, Kroumata Percussion Ensemble, Anders Loguin - II. Claviers",
+      "03 Gert Mortensen, Kroumata Percussion Ensemble, Anders Loguin - III. Melanges",
+      "04 Gert Mortensen, Kroumata Percussion Ensemble, Anders Loguin - IV. Peaux",
+      "05 Gert Mortensen, Kroumata Percussion Ensemble, Anders Loguin - Psappha"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-pleiades-psappha_1778636527"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/ba04e3f8177be9e1dcac/Xenakis_Pleiades_-_Psappha.tar"
+    }
+  }
+}
