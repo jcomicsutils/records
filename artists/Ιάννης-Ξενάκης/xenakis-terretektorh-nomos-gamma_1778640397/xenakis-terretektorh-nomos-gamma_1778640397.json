@@ -1,0 +1,28 @@
+{
+  "id": "xenakis-terretektorh-nomos-gamma_1778640397",
+  "fingerprint": "093794e803c80d8d5a520755e8b44fac6aac1e7f71415ab9c48b505a04bd6461",
+  "archived_at": "2026-05-13T02:55:15Z",
+  "metadata": {
+    "title": "Xenakis: Terretektorh & Nomos Gamma",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1805,
+    "duration_human": "00:30:05",
+    "sampling_rate": "192kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Charles Bruck - Terretektorh",
+      "02 Charles Bruck - Nomos Gamma"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-terretektorh-nomos-gamma_1778640397"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/1ffc7aff9be3fd9dd27d/Xenakis_Terretektorh_Nomos_Gamma.tar"
+    }
+  }
+}
