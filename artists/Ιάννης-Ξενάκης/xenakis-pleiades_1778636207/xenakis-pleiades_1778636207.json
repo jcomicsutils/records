@@ -1,0 +1,30 @@
+{
+  "id": "xenakis-pleiades_1778636207",
+  "fingerprint": "b9e136a06ce7c6c6da53c2856026bbc9f2c69d99f195448b1876866b08015747",
+  "archived_at": "2026-05-13T01:41:04Z",
+  "metadata": {
+    "title": "Xenakis: Pléïades",
+    "artist": "Ιάννης Ξενάκης",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2900,
+    "duration_human": "00:48:20",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 DeciBells, Domenico Melchiorre - I. Claviers",
+      "02 DeciBells, Domenico Melchiorre - II. Peaux",
+      "03 DeciBells, Domenico Melchiorre - III. Métaux",
+      "04 DeciBells, Domenico Melchiorre - IV. Mélanges"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xenakis-pleiades_1778636207"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/038bcb127dc64a6c85c0/Xenakis_Pl%C3%A9%C3%AFades.tar"
+    }
+  }
+}
