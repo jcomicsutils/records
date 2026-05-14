@@ -1,0 +1,34 @@
+{
+  "id": "the-weeping-worm_1778791411",
+  "fingerprint": "b73e53914db14d5589525fc1da75be67734154eca62fa12f46c7a1c61d236814",
+  "archived_at": "2026-05-14T20:44:36Z",
+  "metadata": {
+    "title": "The Weeping Worm",
+    "artist": "Lil Ugly Mane",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1369,
+    "duration_human": "00:22:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lil Ugly Mane - Lights Down Low Featuring Dj Dogdick",
+      "02 Lil Ugly Mane - Passion Sceptre/Dert Mystery",
+      "03 Lil Ugly Mane - Hideous Disfigurements",
+      "04 Lil Ugly Mane - Nickelus F-Days Like This",
+      "05 Lil Ugly Mane - Hello"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-weeping-worm_1778791411"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/o5sq7j.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/560e6d3af63030d08a50/The_Weeping_Worm.tar"
+    }
+  }
+}
