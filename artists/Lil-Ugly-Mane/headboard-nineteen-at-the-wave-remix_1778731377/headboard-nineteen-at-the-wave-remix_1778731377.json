@@ -1,0 +1,30 @@
+{
+  "id": "headboard-nineteen-at-the-wave-remix_1778731377",
+  "fingerprint": "8e930c45541305470b5d25d6db9ea982187956ad28a45693c2d8f5935ca218f7",
+  "archived_at": "2026-05-14T04:04:34Z",
+  "metadata": {
+    "title": "Headboard (Nineteen at the Wave) (Remix)",
+    "artist": "Lil Ugly Mane",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 231,
+    "duration_human": "00:03:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lil Ugly Mane - Headboard (Nineteen at the Wave)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/headboard-nineteen-at-the-wave-remix_1778731377"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/u49zin.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/5943366e0bf18f69db1f/Headboard_%28Nineteen_at_the_Wave%29_%28Remix.tar"
+    }
+  }
+}
