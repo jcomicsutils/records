@@ -1,0 +1,27 @@
+{
+  "id": "xii_1778794643",
+  "fingerprint": "88404a83467ab083d1724790e05d804530aedb957e378045c9bbead69b0b82c0",
+  "archived_at": "2026-05-14T21:45:55Z",
+  "metadata": {
+    "title": "XII",
+    "artist": "День Космонавтики",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2056,
+    "duration_human": "00:34:16",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 День Космонавтики - ОВЕН",
+      "02 День Космонавтики - ТОН",
+      "03 День Космонавтики - ВОЙ",
+      "04 День Космонавтики - ВЕНЕТ"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xii_1778794643"
+    }
+  }
+}
