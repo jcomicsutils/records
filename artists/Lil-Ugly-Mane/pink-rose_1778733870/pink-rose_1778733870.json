@@ -1,0 +1,30 @@
+{
+  "id": "pink-rose_1778733870",
+  "fingerprint": "2a21c646834ebeacd53f078df7f211e6f549025aedfb573fe66a62855ba780bf",
+  "archived_at": "2026-05-14T04:45:36Z",
+  "metadata": {
+    "title": "Pink & Rose",
+    "artist": "Lil Ugly Mane",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 202,
+    "duration_human": "00:03:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lil Ugly Mane - Pink & Rose"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pink-rose_1778733870"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0xarwa.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/cfeb14d9c02b58f1ea23/Pink_Rose.tar"
+    }
+  }
+}
