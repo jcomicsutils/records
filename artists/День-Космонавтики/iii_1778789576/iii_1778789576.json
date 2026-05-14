@@ -1,0 +1,32 @@
+{
+  "id": "iii_1778789576",
+  "fingerprint": "07c3650abec600f6faeb5034f257965adbb16719f2510560955acb307ad09bc9",
+  "archived_at": "2026-05-14T20:13:55Z",
+  "metadata": {
+    "title": "III",
+    "artist": "День Космонавтики",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 887,
+    "duration_human": "00:14:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 День Космонавтики - Новое море",
+      "02 День Космонавтики - 12 парсеков до дома",
+      "03 День Космонавтики - Она вертится"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/iii_1778789576"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/btf881.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/f64c5af45737893a5cf3/III.tar"
+    }
+  }
+}
