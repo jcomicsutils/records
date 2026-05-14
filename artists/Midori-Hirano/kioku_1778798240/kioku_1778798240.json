@@ -1,0 +1,30 @@
+{
+  "id": "kioku_1778798240",
+  "fingerprint": "eee9aa0e464758b7fcdff3d7f671d8fe63549d04b4a20844127e3570e7e95244",
+  "archived_at": "2026-05-14T22:38:07Z",
+  "metadata": {
+    "title": "Kioku",
+    "artist": "Midori Hirano",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 253,
+    "duration_human": "00:04:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Midori Hirano - Kioku"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kioku_1778798240"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/qucaat.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/12da1dfa2207622f59e8/Kioku.tar"
+    }
+  }
+}
