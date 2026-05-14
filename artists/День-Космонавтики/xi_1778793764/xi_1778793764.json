@@ -24,6 +24,20 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/xi_1778793764"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/zo07yn.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/uum5pf.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/05be8e94a761e751460c/XI.tar"
     }
   }
 }
