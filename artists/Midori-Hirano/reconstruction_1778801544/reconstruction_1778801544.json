@@ -1,0 +1,33 @@
+{
+  "id": "reconstruction_1778801544",
+  "fingerprint": "657079364ec0dfa89e3dbc567ae2d3000c3f75608a1360d141a5b0f5726bcea4",
+  "archived_at": "2026-05-14T23:41:40Z",
+  "metadata": {
+    "title": "Re:construction",
+    "artist": "Midori Hirano",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1531,
+    "duration_human": "00:25:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 MimiCof - Microscopic Reconstruction",
+      "02 MimiCof - Tunnel Bass Reconstruction",
+      "03 MimiCof - ReckTon Live Mix",
+      "04 MimiCof - Tunnel Dub Reconstruction"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/reconstruction_1778801544"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/yz936f.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/d4c26b2e0f74623fd384/Reconstruction.tar"
+    }
+  }
+}
