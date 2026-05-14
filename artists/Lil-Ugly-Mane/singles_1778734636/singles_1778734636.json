@@ -1,0 +1,40 @@
+{
+  "id": "singles_1778734636",
+  "fingerprint": "bb639d3adcffa2e30a9f7e80a6e9f665a019f2ca1d6d8d88a0a383ada08eb544",
+  "archived_at": "2026-05-14T04:58:57Z",
+  "metadata": {
+    "title": "Singles",
+    "artist": "Lil Ugly Mane",
+    "year": "2015",
+    "codec": "MP3",
+    "num_tracks": 11,
+    "duration_seconds": 2511,
+    "duration_human": "00:41:51",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Lil Ugly Mane - Uneven Compromise",
+      "02 Lil Ugly Mane - U Ain't From My Hood",
+      "03 Lil Ugly Mane - U Ain't From My Hood",
+      "04 Lil Ugly Mane - Higher Than Fuck",
+      "05 Lil Ugly Mane - Bust a Sag",
+      "06 Lil Ugly Mane - Cakey Cakey",
+      "07 Lil Ugly Mane - Magic Potty Baby Bitch",
+      "08 Lil Ugly Mane - Polo Right",
+      "09 Lil Ugly Mane - Spanish Yayo",
+      "10 Lil Ugly Mane - Me and You",
+      "11 Lil Ugly Mane - End Ya Whole Shit"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/singles_1778734636"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/rvemil.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/621a5fd5471bc853ac23/Singles.tar"
+    }
+  }
+}
