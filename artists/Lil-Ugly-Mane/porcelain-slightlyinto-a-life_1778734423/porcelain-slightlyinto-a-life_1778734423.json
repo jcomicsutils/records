@@ -1,0 +1,31 @@
+{
+  "id": "porcelain-slightlyinto-a-life_1778734423",
+  "fingerprint": "2502852a9aa921a16c072ec0f1c9ac452e5dec16c56bd274a24e81c4f5a9c6b7",
+  "archived_at": "2026-05-14T04:54:18Z",
+  "metadata": {
+    "title": "Porcelain Slightly/Into a Life",
+    "artist": "Lil Ugly Mane",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 388,
+    "duration_human": "00:06:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lil Ugly Mane - Porcelain Slightly",
+      "02 Lil Ugly Mane - Into a Life"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/porcelain-slightlyinto-a-life_1778734423"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2fln30.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/f218f9e9f680b71cebd6/Porcelain_Slightly_-_Into_a_Life.tar"
+    }
+  }
+}
