@@ -1,0 +1,35 @@
+{
+  "id": "xiv_1778795470",
+  "fingerprint": "8de8ea8945b75217a437a62aa4104ecfe80331008ccc3007ec04ac0e3235ef1c",
+  "archived_at": "2026-05-14T21:59:46Z",
+  "metadata": {
+    "title": "XIV",
+    "artist": "День Космонавтики",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2545,
+    "duration_human": "00:42:25",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 День Космонавтики - Napkin #5",
+      "02 День Космонавтики - Napkin #18",
+      "03 День Космонавтики - Napkin #22",
+      "04 День Космонавтики - Napkin #28",
+      "05 День Космонавтики - Napkin #36",
+      "06 День Космонавтики - Napkin #43",
+      "07 День Космонавтики - Napkin #44",
+      "08 День Космонавтики - Napkin #60",
+      "09 День Космонавтики - Napkin #73",
+      "10 День Космонавтики - Napkin #87",
+      "11 День Космонавтики - Napkin #89",
+      "12 День Космонавтики - Napkin #100"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xiv_1778795470"
+    }
+  }
+}

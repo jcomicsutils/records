@@ -1,0 +1,31 @@
+{
+  "id": "being-midori-hirano-rework_1778795952",
+  "fingerprint": "de5d0249fc552007f1657375a2254356a50851e1f2d317803165b0d7bc85c4e0",
+  "archived_at": "2026-05-14T22:00:27Z",
+  "metadata": {
+    "title": "Being (Midori Hirano Rework)",
+    "artist": "Midori Hirano",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 443,
+    "duration_human": "00:07:23",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Balladeste, Midori Hirano - Being (Midori Hirano Rework)",
+      "02 Balladeste, Midori Hirano - Beyond Breath (Alexandra Hamilton-Ayres Rework)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/being-midori-hirano-rework_1778795952"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/f10k2m.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/8e71be666a7a5b394cc0/Being_%28Midori_Hirano_Rework.tar"
+    }
+  }
+}
