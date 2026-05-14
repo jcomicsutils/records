@@ -1,0 +1,30 @@
+{
+  "id": "drifting-echoes_1778796208",
+  "fingerprint": "f5e8f3b9d72329a0e1191bc8c06d59586a2cd9bc88727ec91a62c23196231000",
+  "archived_at": "2026-05-14T22:04:06Z",
+  "metadata": {
+    "title": "Drifting Echoes",
+    "artist": "Midori Hirano",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 284,
+    "duration_human": "00:04:44",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Midori Hirano - Drifting Echoes"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/drifting-echoes_1778796208"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/6denm4.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/7b77caf62be971e9e25f/Drifting_Echoes.tar"
+    }
+  }
+}
