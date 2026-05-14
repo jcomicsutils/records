@@ -6,6 +6,7 @@
 - [Accident Prone Records](Accident-Prone-Records/Accident-Prone-Records.md)
 - [Ak'chamel](Ak'chamel/Ak'chamel.md)
 - [Algebra Suicide](Algebra-Suicide/Algebra-Suicide.md)
+- [Armand Hammer](Armand-Hammer/Armand-Hammer.md)
 - [BLARF](BLARF/BLARF.md)
 - [Bardo Todol](Bardo-Todol/Bardo-Todol.md)
 - [Bark Psychosis](Bark-Psychosis/Bark-Psychosis.md)
