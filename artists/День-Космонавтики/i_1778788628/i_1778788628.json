@@ -19,6 +19,20 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/i_1778788628"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/kpmvjl.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/vzy2af.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/b7c235fbcec9299ced4a/I.tar"
     }
   }
 }
