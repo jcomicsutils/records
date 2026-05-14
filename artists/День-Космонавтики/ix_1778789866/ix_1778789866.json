@@ -1,0 +1,30 @@
+{
+  "id": "ix_1778789866",
+  "fingerprint": "ce7e2a058320f9875cbe12c5dafe46f77419a25752ff51d83a16257ba7670207",
+  "archived_at": "2026-05-14T20:18:41Z",
+  "metadata": {
+    "title": "IX",
+    "artist": "День Космонавтики",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 815,
+    "duration_human": "00:13:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 День Космонавтики - Аля-Улю"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ix_1778789866"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/4elt0e.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/ae403773127f39fae7cc/IX.tar"
+    }
+  }
+}
