@@ -20,6 +20,12 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/redacted-fog_1778734475"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/nn196z.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/5ac64aaf9a763f1d47d1/Redacted_Fog.tar"
     }
   }
 }

@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/redacted-fog_1778734475)
+- [Catbox](https://files.catbox.moe/nn196z.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/5ac64aaf9a763f1d47d1/Redacted_Fog.tar)
 
 ## Tracklist
 
