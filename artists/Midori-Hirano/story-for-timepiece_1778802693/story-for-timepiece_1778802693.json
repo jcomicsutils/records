@@ -1,0 +1,33 @@
+{
+  "id": "story-for-timepiece_1778802693",
+  "fingerprint": "006438c77888fb9b478ab3e793e3e716d554a4532e5a7ae5e2129b762a7a2388",
+  "archived_at": "2026-05-14T23:54:56Z",
+  "metadata": {
+    "title": "Story for Timepiece",
+    "artist": "Midori Hirano",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1098,
+    "duration_human": "00:18:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Midori Hirano & Ytamo - Intervisit",
+      "02 Midori Hirano & Ytamo - Monsoon Piano",
+      "03 Midori Hirano & Ytamo - Curio",
+      "04 Midori Hirano & Ytamo - Capricorn"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/story-for-timepiece_1778802693"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2pbas3.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/680bf58e3098c602c96b/Story_for_Timepiece.tar"
+    }
+  }
+}
