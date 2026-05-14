@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/mista-thug-isolation_1778731740)
+- Catbox: [Part 1](https://files.catbox.moe/n655i9.tar) [Part 2](https://files.catbox.moe/o57a35.tar) [Part 3](https://files.catbox.moe/1sq07z.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/f2204cfb0a30c34834da/Mista_Thug_Isolation.tar)
 
 ## Tracklist
 

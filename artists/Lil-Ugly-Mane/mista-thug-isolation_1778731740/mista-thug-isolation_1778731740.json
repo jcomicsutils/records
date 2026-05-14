@@ -36,6 +36,23 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/mista-thug-isolation_1778731740"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/n655i9.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/o57a35.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/1sq07z.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/f2204cfb0a30c34834da/Mista_Thug_Isolation.tar"
     }
   }
 }
