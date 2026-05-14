@@ -1,0 +1,30 @@
+{
+  "id": "easy-prey_1778730945",
+  "fingerprint": "dabc5e2395a3e566396add92005f1b2ba2c2d4730c0536863e7eeb2697c7d4dd",
+  "archived_at": "2026-05-14T03:57:05Z",
+  "metadata": {
+    "title": "Easy Prey",
+    "artist": "Lil Ugly Mane",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 207,
+    "duration_human": "00:03:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lil Ugly Mane - Easy Prey"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/easy-prey_1778730945"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/v0jlzs.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/f77917d4d6b8d2ae4655/Easy_Prey.tar"
+    }
+  }
+}
