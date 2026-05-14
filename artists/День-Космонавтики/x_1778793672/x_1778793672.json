@@ -1,0 +1,31 @@
+{
+  "id": "x_1778793672",
+  "fingerprint": "5960cbe265bdea174a6b34e357d86ff319eafe831468bdeb92a0d60d3c15b103",
+  "archived_at": "2026-05-14T21:21:59Z",
+  "metadata": {
+    "title": "X",
+    "artist": "День Космонавтики",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 824,
+    "duration_human": "00:13:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 День Космонавтики - Секунда до танца",
+      "02 День Космонавтики - Танец интервал"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/x_1778793672"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/t79zj9.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/28ba94bf6af22b366d64/X.tar"
+    }
+  }
+}

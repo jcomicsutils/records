@@ -1,0 +1,24 @@
+{
+  "id": "uneven-compromise_1778793513",
+  "fingerprint": "f2f86a6939ccd77617dd1d1ceb9af1d530e01b585da9b6c422b7bb2d2889592c",
+  "archived_at": "2026-05-14T21:22:03Z",
+  "metadata": {
+    "title": "Uneven Compromise",
+    "artist": "Lil Ugly Mane",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 658,
+    "duration_human": "00:10:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lil Ugly Mane - Uneven Compromise"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/uneven-compromise_1778793513"
+    }
+  }
+}
