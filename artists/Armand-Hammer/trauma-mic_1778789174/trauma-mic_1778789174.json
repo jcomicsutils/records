@@ -1,0 +1,30 @@
+{
+  "id": "trauma-mic_1778789174",
+  "fingerprint": "7d2b69d2a200156cb3195f3d8a1dc0fa66478abbfd817e5a73424abc41739fe9",
+  "archived_at": "2026-05-14T20:06:45Z",
+  "metadata": {
+    "title": "Trauma Mic",
+    "artist": "Armand Hammer",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 154,
+    "duration_human": "00:02:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Armand Hammer, Billy Woods, Pink Siifu, E L U C I D - Trauma Mic"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/trauma-mic_1778789174"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/9bee55.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/6997758bfa37e6008e67/Trauma_Mic.tar"
+    }
+  }
+}

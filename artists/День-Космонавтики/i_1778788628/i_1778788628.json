@@ -1,0 +1,24 @@
+{
+  "id": "i_1778788628",
+  "fingerprint": "fc5f9f76c0bccb685f53d5b6e6090459064aa153dbba8109451d42432cbbd964",
+  "archived_at": "2026-05-14T20:06:24Z",
+  "metadata": {
+    "title": "I",
+    "artist": "День Космонавтики",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1929,
+    "duration_human": "00:32:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 День Космонавтики - Атон"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i_1778788628"
+    }
+  }
+}
