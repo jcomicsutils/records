@@ -1,0 +1,30 @@
+{
+  "id": "tabula-rasa_1778789060",
+  "fingerprint": "30c4f779924c993304140231483c484e42efe1f67cebc099d02fee46b6cae4ca",
+  "archived_at": "2026-05-14T20:05:04Z",
+  "metadata": {
+    "title": "Tabula Rasa",
+    "artist": "Armand Hammer",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 251,
+    "duration_human": "00:04:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Earl Sweatshirt, Armand Hammer - Tabula Rasa"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tabula-rasa_1778789060"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7mirjq.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/66b6a90aa0e0b3b4b839/Tabula_Rasa.tar"
+    }
+  }
+}
