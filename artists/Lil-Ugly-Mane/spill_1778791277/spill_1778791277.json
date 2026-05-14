@@ -1,0 +1,31 @@
+{
+  "id": "spill_1778791277",
+  "fingerprint": "3c102db551b73418862486c99dc41d25780e3ae370180aa2102fc515b9dc4435",
+  "archived_at": "2026-05-14T20:42:10Z",
+  "metadata": {
+    "title": "Spill",
+    "artist": "Lil Ugly Mane",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 464,
+    "duration_human": "00:07:44",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Lil Ugly Mane - Orange Over",
+      "02 Lil Ugly Mane - Spill"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/spill_1778791277"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/bazg4u.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/412c18132997a66c87a3/Spill.tar"
+    }
+  }
+}
