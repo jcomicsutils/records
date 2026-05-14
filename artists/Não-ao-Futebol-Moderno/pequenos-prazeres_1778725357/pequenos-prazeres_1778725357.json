@@ -1,0 +1,46 @@
+{
+  "id": "pequenos-prazeres_1778725357",
+  "fingerprint": "63fd48b3705b19a6ef87c1191afdde47606a431468b75b4d1cbaa8c523d32122",
+  "archived_at": "2026-05-14T02:24:11Z",
+  "metadata": {
+    "title": "Pequenos Prazeres",
+    "artist": "Não ao Futebol Moderno",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1960,
+    "duration_human": "00:32:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Não ao Futebol Moderno - Pegada 36",
+      "02 Não ao Futebol Moderno - Fernet",
+      "03 Não ao Futebol Moderno - Hater de Tudo",
+      "04 Não ao Futebol Moderno - Lady",
+      "05 Não ao Futebol Moderno - Pequenos Prazeres",
+      "06 Não ao Futebol Moderno - Lua Cheia",
+      "07 Não ao Futebol Moderno - Hábito",
+      "08 Não ao Futebol Moderno - 80 da Manhã",
+      "09 Não ao Futebol Moderno - Paraíso Particular"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pequenos-prazeres_1778725357"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/vqevrx.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/o8hn4c.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/e33e4af36805a3d8d9ef/Pequenos_Prazeres.tar"
+    }
+  }
+}
