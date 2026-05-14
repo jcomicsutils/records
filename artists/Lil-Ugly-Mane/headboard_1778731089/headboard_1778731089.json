@@ -1,0 +1,26 @@
+{
+  "id": "headboard_1778731089",
+  "fingerprint": "a57475ac46e7e7858719d767812dd4c0ada98747677f4b19e5ee591e327551ee",
+  "archived_at": "2026-05-14T03:59:46Z",
+  "metadata": {
+    "title": "Headboard",
+    "artist": "Lil Ugly Mane",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 622,
+    "duration_human": "00:10:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Lil Ugly Mane - Headboard",
+      "02 Lil Ugly Mane - Here I Am",
+      "03 Lil Ugly Mane - Dump Terminal"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/headboard_1778731089"
+    }
+  }
+}

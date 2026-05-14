@@ -32,6 +32,29 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/mercy_1778729470"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/3e6560.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/se3kce.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/gx8mob.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/nan8rg.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/vtkztq.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/b9a1d7d2499ee35dc8cf/Mercy.tar"
     }
   }
 }
