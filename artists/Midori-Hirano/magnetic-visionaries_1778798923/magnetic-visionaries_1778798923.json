@@ -1,0 +1,32 @@
+{
+  "id": "magnetic-visionaries_1778798923",
+  "archived_at": "2026-05-14T22:49:29Z",
+  "metadata": {
+    "title": "Magnetic Visionaries",
+    "artist": "Midori Hirano",
+    "year": "2011",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1403,
+    "duration_human": "00:23:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Midori Hirano - Saiboh",
+      "02 Midori Hirano - FFFound",
+      "03 Midori Hirano - Flux",
+      "04 Midori Hirano - Aros"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/magnetic-visionaries_1778798923"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0vbzb7.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/83cf5aceeb3c18f96705/Magnetic_Visionaries.tar"
+    }
+  }
+}
