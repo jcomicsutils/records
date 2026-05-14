@@ -1,0 +1,36 @@
+{
+  "id": "mirrors-in-mirrors_1778799583",
+  "fingerprint": "6e0965c91ee5449d9f5e1fc0ca9693095599f2c43d8d436565522f7bb2aff15e",
+  "archived_at": "2026-05-14T23:01:56Z",
+  "metadata": {
+    "title": "Mirrors in Mirrors",
+    "artist": "Midori Hirano",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1416,
+    "duration_human": "00:23:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Midori Hirano - Close to Life",
+      "02 Midori Hirano - Forgotten",
+      "03 Midori Hirano - Mountains",
+      "04 Midori Hirano - Beginning",
+      "05 Midori Hirano - Sleeping Under the Raintrees",
+      "06 Midori Hirano - Afterglow",
+      "07 Midori Hirano - Mirrors in Mirrors"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mirrors-in-mirrors_1778799583"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/nq14pc.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/e52f4cfcd632208c30f1/Mirrors_in_Mirrors.tar"
+    }
+  }
+}
