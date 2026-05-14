@@ -1,0 +1,40 @@
+{
+  "id": "xvi_1778797576",
+  "fingerprint": "a1ee52f4ff23f4bb46bed98e43ac52392065d1ef6789992228f8cee238a82be5",
+  "archived_at": "2026-05-14T22:27:44Z",
+  "metadata": {
+    "title": "XVI",
+    "artist": "День Космонавтики",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2722,
+    "duration_human": "00:45:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 День Космонавтики - empty simplicity",
+      "02 День Космонавтики - amber memory",
+      "03 День Космонавтики - harmonic window",
+      "04 День Космонавтики - my grandmother was a space worker, too",
+      "05 День Космонавтики - all these stars will one day go out",
+      "06 День Космонавтики - laugh and launch"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xvi_1778797576"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/x4is35.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/sw05vh.tar"
+        }
+      ]
+    }
+  }
+}

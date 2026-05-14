@@ -1,0 +1,30 @@
+{
+  "id": "improvisation-for-piano-in-summer-2018_1778797566",
+  "fingerprint": "af5671f393b2701afbc0f3a1fba4cc2cef87a990aed4eb0ae7dd82fc47e3de65",
+  "archived_at": "2026-05-14T22:28:26Z",
+  "metadata": {
+    "title": "Improvisation for Piano in Summer 2018",
+    "artist": "Midori Hirano",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1808,
+    "duration_human": "00:30:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Midori Hirano - Improvisation for Piano in Summer 2018"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/improvisation-for-piano-in-summer-2018_1778797566"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/lkd6r4.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/4c2fa2086e0d7cdc458e/Improvisation_for_Piano_in_Summer_2018.tar"
+    }
+  }
+}
