@@ -1,0 +1,30 @@
+{
+  "id": "viii_1778792469",
+  "fingerprint": "d8ebd911af27d9eb94f24a0d088271db6f0eef51c54163cddb793346a8bd88e2",
+  "archived_at": "2026-05-14T21:14:10Z",
+  "metadata": {
+    "title": "VIII",
+    "artist": "День Космонавтики",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2079,
+    "duration_human": "00:34:39",
+    "sampling_rate": "88.2kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 День Космонавтики - 00.WAV",
+      "02 День Космонавтики - 01.WAV",
+      "03 День Космонавтики - 02.wav",
+      "04 День Космонавтики - 03",
+      "05 День Космонавтики - 04",
+      "06 День Космонавтики - OFIVE>WAV",
+      "07 День Космонавтики - 000.WAVE"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/viii_1778792469"
+    }
+  }
+}
