@@ -1,0 +1,44 @@
+{
+  "id": "minor-planet_1778798990",
+  "fingerprint": "1aa8ebef407a4ad2f4b68b6fb68c4c0053eea9e24ca8548bad1120c510bb794e",
+  "archived_at": "2026-05-14T22:58:10Z",
+  "metadata": {
+    "title": "Minor Planet",
+    "artist": "Midori Hirano",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2046,
+    "duration_human": "00:34:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Midori Hirano - By the Window",
+      "02 Midori Hirano - Night Traveling",
+      "03 Midori Hirano - Rabbits in the Path",
+      "04 Midori Hirano - Two Kites",
+      "05 Midori Hirano - She Was There",
+      "06 Midori Hirano - Haiyuki",
+      "07 Midori Hirano - Rolling Moon"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/minor-planet_1778798990"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/7xl3rz.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/j93bmr.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/f5240a69a7da042359cf/Minor_Planet.tar"
+    }
+  }
+}
