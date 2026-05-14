@@ -1,0 +1,33 @@
+{
+  "id": "thing-s-thatare-stuff_1778791531",
+  "fingerprint": "3c233143ed8c0020d9bd80727ae57a0401e495735fa3d80e91627b14c6974591",
+  "archived_at": "2026-05-14T20:47:54Z",
+  "metadata": {
+    "title": "Thing s Thatare Stuff",
+    "artist": "Lil Ugly Mane",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 879,
+    "duration_human": "00:14:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lil Ugly Mane - YUNG GUS - Losin My Mind (2006)",
+      "02 Lil Ugly Mane - Down Motherfuckers (2011 Unreleased)",
+      "03 Lil Ugly Mane - Radiation Lung Pollution (Actual First Version 2011)",
+      "04 Lil Ugly Mane - Underwater Tank (Random Remix From a Couple Years Ago)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/thing-s-thatare-stuff_1778791531"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/qei8wz.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/2f9bb9b244c10c7d259b/Thing_s_Thatare_Stuff.tar"
+    }
+  }
+}
