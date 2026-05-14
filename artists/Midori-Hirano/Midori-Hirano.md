@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [klo:yuri](kloyuri_1778798306/kloyuri_1778798306.md) | 2008 | FLAC | 00:40:08 | [IA](https://archive.org/details/kloyuri_1778798306) [Catbox ×2](kloyuri_1778798306/kloyuri_1778798306.md) |
 | [And I Am Here](and-i-am-here_1778795725/and-i-am-here_1778795725.md) | 2015 | FLAC | 00:30:03 | [IA](https://archive.org/details/and-i-am-here_1778795725) [Catbox](https://files.catbox.moe/1ws23z.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/a822cca02e693e47d553/And_I_Am_Here.tar) |
 | [Improvisation for Piano in Summer 2018](improvisation-for-piano-in-summer-2018_1778797566/improvisation-for-piano-in-summer-2018_1778797566.md) | 2018 | FLAC | 00:30:08 | [IA](https://archive.org/details/improvisation-for-piano-in-summer-2018_1778797566) [Catbox](https://files.catbox.moe/lkd6r4.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/4c2fa2086e0d7cdc458e/Improvisation_for_Piano_in_Summer_2018.tar) |
 | [Invisible Island](invisible-island_1778797746/invisible-island_1778797746.md) | 2020 | FLAC | 00:41:04 | [IA](https://archive.org/details/invisible-island_1778797746) [Catbox ×2](invisible-island_1778797746/invisible-island_1778797746.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/c80ef6af77a6464eb4ee/Invisible_Island.tar) |

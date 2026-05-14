@@ -1,0 +1,44 @@
+{
+  "id": "kloyuri_1778798306",
+  "fingerprint": "516b7163b25f3b1c64de0a42384ae7e4dc480097e2ce7c3f636267d8c561a4f9",
+  "archived_at": "2026-05-14T22:41:13Z",
+  "metadata": {
+    "title": "klo:yuri",
+    "artist": "Midori Hirano",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2408,
+    "duration_human": "00:40:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Midori Hirano - Terra",
+      "02 Midori Hirano - Faceless Angel",
+      "03 Midori Hirano - Feathers",
+      "04 Midori Hirano - Null",
+      "05 Midori Hirano - Out",
+      "06 Midori Hirano - Transition",
+      "07 Midori Hirano - Sora",
+      "08 Midori Hirano - Caracole",
+      "09 Midori Hirano - Cells That Smell Sounds",
+      "10 Midori Hirano - Solar Eclipse"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kloyuri_1778798306"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/vvgrfv.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ie7nd7.tar"
+        }
+      ]
+    }
+  }
+}

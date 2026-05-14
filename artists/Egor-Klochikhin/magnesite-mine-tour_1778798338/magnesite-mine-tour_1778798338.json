@@ -1,0 +1,30 @@
+{
+  "id": "magnesite-mine-tour_1778798338",
+  "fingerprint": "af13e1bb7b3a9a764a9d4416ab874532179c9cda4a73554470a8ec28dc48df12",
+  "archived_at": "2026-05-14T22:42:20Z",
+  "metadata": {
+    "title": "Magnesite Mine Tour",
+    "artist": "Egor Klochikhin",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1811,
+    "duration_human": "00:30:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Egor Klochikhin - Magnesite Mine Tour"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/magnesite-mine-tour_1778798338"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vn6d8s.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/24c29936a1889e7abb88/Magnesite_Mine_Tour.tar"
+    }
+  }
+}
