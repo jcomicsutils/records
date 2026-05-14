@@ -1,0 +1,41 @@
+{
+  "id": "a-four-part-cure_1778795614",
+  "fingerprint": "a6df1ffae836f3ebf6729e5dfe3d6a27846bf1c5c65ff1de099c44b71cbbef27",
+  "archived_at": "2026-05-14T21:55:41Z",
+  "metadata": {
+    "title": "A Four Part Cure",
+    "artist": "Foresteppe",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2259,
+    "duration_human": "00:37:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Jason Calhoun + Foresteppe - I",
+      "02 Jason Calhoun + Foresteppe - II",
+      "03 Jason Calhoun + Foresteppe - III",
+      "04 Jason Calhoun + Foresteppe - IV"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-four-part-cure_1778795614"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/boekaz.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/y15xv0.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/063a421ebd1df0408f9b/A_Four_Part_Cure.tar"
+    }
+  }
+}
