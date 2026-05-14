@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/all-or-nothing-die-nationalmannschaft-in-katar-amazon-original-series-soundtrack_1778794507)
 - Catbox: [Part 1](https://files.catbox.moe/d70iew.tar) [Part 2](https://files.catbox.moe/skbx4c.tar) [Part 3](https://files.catbox.moe/7p0x9u.tar) [Part 4](https://files.catbox.moe/dnwev4.tar) [Part 5](https://files.catbox.moe/078skz.tar) [Part 6](https://files.catbox.moe/5l81ki.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/51517e701f29c5204a11/All_or_Nothing_Die_Nationalmannschaft_in_Katar_%28Amazon_Original_Series_Soundtrack.tar)
 
 ## Tracklist
 
