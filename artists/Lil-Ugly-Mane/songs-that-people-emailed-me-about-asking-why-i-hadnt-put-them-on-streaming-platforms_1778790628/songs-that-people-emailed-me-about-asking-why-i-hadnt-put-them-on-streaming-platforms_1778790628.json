@@ -1,0 +1,45 @@
+{
+  "id": "songs-that-people-emailed-me-about-asking-why-i-hadnt-put-them-on-streaming-platforms_1778790628",
+  "fingerprint": "81d840712a36d778475513c53d6acef5d8260192428c5b905ad5127705b3ce39",
+  "archived_at": "2026-05-14T20:36:10Z",
+  "metadata": {
+    "title": "Songs That People Emailed Me About Asking Why I Hadn't Put Them on Streaming Platforms",
+    "artist": "Lil Ugly Mane",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2158,
+    "duration_human": "00:35:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lil Ugly Mane - Polo Right (Suicide Alps Forever Re-Edit)",
+      "02 Lil Ugly Mane - Magic Potty Baby Bitch",
+      "03 Lil Ugly Mane - Bust a Sag",
+      "04 Lil Ugly Mane - Cakey Cakey",
+      "05 Lil Ugly Mane - U Ain't From My Hood",
+      "06 Lil Ugly Mane - U Ain't From My Hood (Ahnnu Version)",
+      "07 Lil Ugly Mane - Passion Sceptre/Dert Mystery",
+      "08 Lil Ugly Mane - Hideous Disfigurements"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/songs-that-people-emailed-me-about-asking-why-i-hadnt-put-them-on-streaming-platforms_1778790628"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/evn00q.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/mp4aja.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/9f639896eb8224e132f4/Songs_That_People_Emailed_Me_About_Asking_Why_I_Hadn%27t_Put_Them_on_Streaming_Platforms.tar"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "vi_1778790359",
+  "fingerprint": "1b394c6a1b9623b2bfdb009d98b3834f1e8e4fcbd1e284ede16a6c04c1175d81",
+  "archived_at": "2026-05-14T20:39:53Z",
+  "metadata": {
+    "title": "VI",
+    "artist": "День Космонавтики",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1897,
+    "duration_human": "00:31:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 День Космонавтики - Прибывающая",
+      "02 День Космонавтики - Ядро",
+      "03 День Космонавтики - Историческая",
+      "04 День Космонавтики - Два Хвоста",
+      "05 День Космонавтики - Кома"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vi_1778790359"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/ka21wu.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/hvg90e.tar"
+        }
+      ]
+    }
+  }
+}
