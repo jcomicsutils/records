@@ -1,0 +1,30 @@
+{
+  "id": "woke-up-and-asked-siri-how-im-gonna-die_1778790487",
+  "fingerprint": "fdbd671bc228c65a029eba3508ab420321bb5959ff2b31ba9b6a15017a07ad3f",
+  "archived_at": "2026-05-14T20:28:48Z",
+  "metadata": {
+    "title": "Woke Up and Asked Siri How I'm Gonna Die",
+    "artist": "Armand Hammer",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 161,
+    "duration_human": "00:02:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Armand Hammer, Billy Woods, JPEGMAFIA, E L U C I D - Woke Up and Asked Siri How I'm Gonna Die"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/woke-up-and-asked-siri-how-im-gonna-die_1778790487"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/lvennk.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/2f0f212f64a2a0c521ab/Woke_Up_and_Asked_Siri_How_I%27m_Gonna_Die.tar"
+    }
+  }
+}
