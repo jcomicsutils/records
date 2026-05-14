@@ -1,0 +1,32 @@
+{
+  "id": "ii_1778789280",
+  "fingerprint": "cbfe47529b64384f76fb79cbd59e654ea812de60170bb912754e5be25d03da1b",
+  "archived_at": "2026-05-14T20:11:52Z",
+  "metadata": {
+    "title": "II",
+    "artist": "День Космонавтики",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1476,
+    "duration_human": "00:24:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 День Космонавтики - Социофобия",
+      "02 День Космонавтики - Гиперпрыжок",
+      "03 День Космонавтики - Обратно в чёрную дыру"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ii_1778789280"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wz1zun.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/f42d7a790540731aa003/II.tar"
+    }
+  }
+}
