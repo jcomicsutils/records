@@ -1,0 +1,42 @@
+{
+  "id": "imaginal-soundtracking-2-gui-the-demon_1778796744",
+  "fingerprint": "41e5ee1fc5782765d98499ed156407911d982a94d0f867ba663062c0c9afed44",
+  "archived_at": "2026-05-14T22:23:17Z",
+  "metadata": {
+    "title": "Imaginal Soundtracking 2: 鬼 / The Demon",
+    "artist": "Midori Hirano",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2284,
+    "duration_human": "00:38:04",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Ami Dang - 鬼 / The Demon",
+      "02 Midori Hirano - 鬼 / The Demon",
+      "03 食品まつり - 鬼 / The Demon",
+      "04 Sabiwa - 鬼 / The Demon",
+      "05 Tori Kudo - 鬼 / The Demon"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/imaginal-soundtracking-2-gui-the-demon_1778796744"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/hx5ltl.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/u9oba4.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/ce098893799aea6954ba/Imaginal_Soundtracking_2_%E9%AC%BC_-_The_Demon.tar"
+    }
+  }
+}

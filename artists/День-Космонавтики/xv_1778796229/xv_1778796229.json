@@ -1,0 +1,38 @@
+{
+  "id": "xv_1778796229",
+  "fingerprint": "dd75b34c6ac5bf1a5b59eba10d622868559f9fb27f299a2d406b123954f3336d",
+  "archived_at": "2026-05-14T22:23:45Z",
+  "metadata": {
+    "title": "XV",
+    "artist": "День Космонавтики",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2158,
+    "duration_human": "00:35:58",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 День Космонавтики - XV"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xv_1778796229"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/69am5r.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/zsfnbb.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/wd7r8u.tar"
+        }
+      ]
+    }
+  }
+}
