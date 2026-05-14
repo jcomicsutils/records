@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Half Measures](half-measures_1778727682/half-measures_1778727682.md) | 2013 | FLAC | 00:58:15 | [IA](https://archive.org/details/half-measures_1778727682) [Catbox ×3](half-measures_1778727682/half-measures_1778727682.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/af9af5f823cca33ec2ed/Half_Measures.tar) |
 | [Furtive Movements](furtive-movements_1778727485/furtive-movements_1778727485.md) | 2014 | FLAC | 00:30:15 | [IA](https://archive.org/details/furtive-movements_1778727485) [Catbox](https://files.catbox.moe/bewgld.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/a81bafa92a97875e3d4e/Furtive_Movements.tar) |
 | [Favors Are Bad News](favors-are-bad-news_1778727279/favors-are-bad-news_1778727279.md) | 2018 | FLAC | 00:04:12 | [IA](https://archive.org/details/favors-are-bad-news_1778727279) [Catbox](https://files.catbox.moe/jw6s2r.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/643fc9086db7af4b278c/Favors_Are_Bad_News.tar) |
 | [Family](family_1778727006/family_1778727006.md) | 2023 | FLAC | 00:03:03 | [IA](https://archive.org/details/family_1778727006) [Catbox](https://files.catbox.moe/o5b69j.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/64a73c05295034d589bf/Family.tar) |
