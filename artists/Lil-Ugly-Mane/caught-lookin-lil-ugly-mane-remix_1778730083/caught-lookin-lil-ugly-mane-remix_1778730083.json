@@ -1,0 +1,31 @@
+{
+  "id": "caught-lookin-lil-ugly-mane-remix_1778730083",
+  "fingerprint": "c86159129e54cedb8cf05fc94401af4d61e53541b575651a6562f03d36354266",
+  "archived_at": "2026-05-14T03:45:04Z",
+  "metadata": {
+    "title": "Caught Lookin' (Lil Ugly Mane Remix)",
+    "artist": "Lil Ugly Mane",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 488,
+    "duration_human": "00:08:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Guv, Lil Ugly Mane - Caught Lookin' (Lil Ugly Mane Remix)",
+      "02 Guv, Lil Ugly Mane - Caught Lookin’"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/caught-lookin-lil-ugly-mane-remix_1778730083"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/3jgu9x.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/913f90a394bef90bd3f7/Caught_Lookin%27_%28Lil_Ugly_Mane_Remix.tar"
+    }
+  }
+}

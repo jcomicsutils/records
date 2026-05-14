@@ -3,4 +3,5 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Absence of Shitperson](absence-of-shitperson_1778728638/absence-of-shitperson_1778728638.md) | 2014 | FLAC | 01:31:57 | [IA](https://archive.org/details/absence-of-shitperson_1778728638) [Catbox ×3](absence-of-shitperson_1778728638/absence-of-shitperson_1778728638.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/64a3aaf785891a2dd80c/Absence_of_Shitperson.tar) |
+| [Caught Lookin' \(Lil Ugly Mane Remix\)](caught-lookin-lil-ugly-mane-remix_1778730083/caught-lookin-lil-ugly-mane-remix_1778730083.md) | 2020 | FLAC | 00:08:08 | [IA](https://archive.org/details/caught-lookin-lil-ugly-mane-remix_1778730083) [Catbox](https://files.catbox.moe/3jgu9x.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/913f90a394bef90bd3f7/Caught_Lookin%27_%28Lil_Ugly_Mane_Remix.tar) |
 | [Blue Sand](blue-sand_1778730028/blue-sand_1778730028.md) | 2022 | FLAC | 00:02:53 | [IA](https://archive.org/details/blue-sand_1778730028) [Catbox](https://files.catbox.moe/w3l9en.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/66c48822662d09af2570/Blue_Sand.tar) |
