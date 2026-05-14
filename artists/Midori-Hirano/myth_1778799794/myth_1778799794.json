@@ -1,0 +1,30 @@
+{
+  "id": "myth_1778799794",
+  "fingerprint": "227d042bcf18e2b6eb19b82943603792815c2fd4bec7cf355d5b9f1176e3cb56",
+  "archived_at": "2026-05-14T23:03:45Z",
+  "metadata": {
+    "title": "Myth",
+    "artist": "Midori Hirano",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 164,
+    "duration_human": "00:02:44",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Midori Hirano, Mami Sakurai - Myth"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/myth_1778799794"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/a88y3o.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/dfbce460ee73626fea15/Myth.tar"
+    }
+  }
+}
