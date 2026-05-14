@@ -1,0 +1,46 @@
+{
+  "id": "criminal-hypnosis-unreleased-shit_1778730393",
+  "fingerprint": "b3f2ecac294d8b479682da0a978ee2ce82614206cbb9952fbec40566ef4740fc",
+  "archived_at": "2026-05-14T03:53:56Z",
+  "metadata": {
+    "title": "Criminal Hypnosis: Unreleased Shit",
+    "artist": "Lil Ugly Mane",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1964,
+    "duration_human": "00:32:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Lil Ugly Mane - Criminal Hypnosis",
+      "02 Lil Ugly Mane - Lookin 4 Tha Suckin",
+      "03 Lil Ugly Mane - Radiation (Lung Pollution)",
+      "04 Lil Ugly Mane - Radiation (Lung Pollution) Instrumental",
+      "05 Lil Ugly Mane - Spanish Yayo",
+      "06 Lil Ugly Mane - Twistin",
+      "07 Lil Ugly Mane - Polo Right (Suicide Alps Forever Re-Edit)",
+      "08 Lil Ugly Mane - Magic Potty Baby Bitch",
+      "09 Lil Ugly Mane - End Ya Whole Shit"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/criminal-hypnosis-unreleased-shit_1778730393"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/lbm9ij.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/hr9yxd.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/ba9b1a7fe26b3c01e95c/Criminal_Hypnosis_Unreleased_Shit.tar"
+    }
+  }
+}
