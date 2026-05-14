@@ -1,0 +1,30 @@
+{
+  "id": "keep-shining_1778798196",
+  "fingerprint": "54503bcbd7a3ec6430fb6b285a89da6a69471cc442ea92ad99eaa1ac5b4feec2",
+  "archived_at": "2026-05-14T22:37:10Z",
+  "metadata": {
+    "title": "Keep Shining",
+    "artist": "Midori Hirano",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 256,
+    "duration_human": "00:04:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Midori Hirano - Keep Shining"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/keep-shining_1778798196"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8q47iq.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/53d8adcc83927cff3db7/Keep_Shining.tar"
+    }
+  }
+}
