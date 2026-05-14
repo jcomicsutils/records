@@ -1,0 +1,50 @@
+{
+  "id": "oblivion-access_1778732397",
+  "fingerprint": "5a787529221d9c0fbdedb98364221d699e1578b0d3625541fd19ea3e3b1b8d19",
+  "archived_at": "2026-05-14T04:24:25Z",
+  "metadata": {
+    "title": "Oblivion Access",
+    "artist": "Lil Ugly Mane",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 2643,
+    "duration_human": "00:44:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lil Ugly Mane - Ejaculated Poisoned Wrench",
+      "02 Lil Ugly Mane - Columns",
+      "03 Lil Ugly Mane - Grave Within a Grave",
+      "04 Lil Ugly Mane - Opposite Lanes",
+      "05 Lil Ugly Mane - Achilles Foot",
+      "06 Lil Ugly Mane - Collapse and Appear",
+      "07 Lil Ugly Mane - Leonard's Lake",
+      "08 Lil Ugly Mane - Warmest Flag",
+      "09 Lil Ugly Mane - Persistence",
+      "10 Lil Ugly Mane - Drain Counter",
+      "11 Lil Ugly Mane - Slugs",
+      "12 Lil Ugly Mane - Compliance",
+      "13 Lil Ugly Mane - Intent and Purulent Discharge"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/oblivion-access_1778732397"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/p9f5w4.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/4577js.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/2d0a87de5a05e490d584/Oblivion_Access.tar"
+    }
+  }
+}
