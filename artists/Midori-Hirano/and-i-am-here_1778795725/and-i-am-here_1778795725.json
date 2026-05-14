@@ -1,0 +1,50 @@
+{
+  "id": "and-i-am-here_1778795725",
+  "fingerprint": "b08cd8f22d9f038e8ef6c14c366e5fdbdb7423b178b62b276c06d3b3a016b281",
+  "archived_at": "2026-05-14T21:57:52Z",
+  "metadata": {
+    "title": "And I Am Here",
+    "artist": "Midori Hirano",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 24,
+    "duration_seconds": 1803,
+    "duration_human": "00:30:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Midori Hirano - Before Going to Bed",
+      "02 Midori Hirano - Story Begins",
+      "03 Midori Hirano - Wandering",
+      "04 Midori Hirano - In the Train",
+      "05 Midori Hirano - Forgot the Name",
+      "06 Midori Hirano - Girls in the Park",
+      "07 Midori Hirano - Garbage Collection",
+      "08 Midori Hirano - Dreams",
+      "09 Midori Hirano - Get Off the Train",
+      "10 Midori Hirano - Still Untuned",
+      "11 Midori Hirano - Good Night",
+      "12 Midori Hirano - I Got New Seeds",
+      "13 Midori Hirano - Asa",
+      "14 Midori Hirano - Summer Goes On",
+      "15 Midori Hirano - Pause",
+      "16 Midori Hirano - He Was There",
+      "17 Midori Hirano - Windrum",
+      "18 Midori Hirano - Stop",
+      "19 Midori Hirano - Video Tape in the Water",
+      "20 Midori Hirano - Night Trip",
+      "21 Midori Hirano - To Autumn",
+      "22 Midori Hirano - Traveler",
+      "23 Midori Hirano - Looking Up",
+      "24 Midori Hirano - Secret Aria on the Piano"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/and-i-am-here_1778795725"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/1ws23z.tar"
+    }
+  }
+}

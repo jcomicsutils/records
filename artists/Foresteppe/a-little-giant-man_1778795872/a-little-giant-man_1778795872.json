@@ -1,0 +1,30 @@
+{
+  "id": "a-little-giant-man_1778795872",
+  "fingerprint": "4647c056437cf28105944615210dc3ccfede7d4c06d4c045ab57438887d84968",
+  "archived_at": "2026-05-14T21:58:21Z",
+  "metadata": {
+    "title": "A Little Giant Man",
+    "artist": "Foresteppe",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 180,
+    "duration_human": "00:03:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Foresteppe - A Little Giant Man"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-little-giant-man_1778795872"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/23nj5g.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/75948fa9db3d9d2182fb/A_Little_Giant_Man.tar"
+    }
+  }
+}
