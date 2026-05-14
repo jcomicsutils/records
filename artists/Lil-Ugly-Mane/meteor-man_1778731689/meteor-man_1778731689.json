@@ -1,0 +1,30 @@
+{
+  "id": "meteor-man_1778731689",
+  "fingerprint": "b965883b9071567440f2168f5f6f6e6c4a6b126ebe0accee65b9ecad79306ac5",
+  "archived_at": "2026-05-14T04:08:44Z",
+  "metadata": {
+    "title": "Meteor Man",
+    "artist": "Lil Ugly Mane",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 283,
+    "duration_human": "00:04:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Your Old Droog, Billy Woods, Lil Ugly Mane - Meteor Man"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/meteor-man_1778731689"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/9bf0ur.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/ebf03bd49e3bfbf792eb/Meteor_Man.tar"
+    }
+  }
+}
