@@ -1,0 +1,38 @@
+{
+  "id": "furtive-movements_1778727485",
+  "fingerprint": "b34b88d1aa54f500976ad55e638b635d09254601569f83782bbf508b492c6730",
+  "archived_at": "2026-05-14T03:00:23Z",
+  "metadata": {
+    "title": "Furtive Movements",
+    "artist": "Armand Hammer",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1815,
+    "duration_human": "00:30:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Armand Hammer, billy woods, E L U C I D - CRWNS",
+      "02 Armand Hammer, billy woods, E L U C I D - Dust Jackets",
+      "03 Armand Hammer, billy woods, E L U C I D - Affection",
+      "04 Armand Hammer, billy woods, E L U C I D - FUBU",
+      "05 Armand Hammer, billy woods, E L U C I D - Willie Bosket",
+      "06 Armand Hammer, billy woods, E L U C I D - Duppy (Reprise)",
+      "07 Armand Hammer, billy woods, E L U C I D - B.E.T.",
+      "08 Armand Hammer, billy woods, E L U C I D - Touch & Agree",
+      "09 Armand Hammer, billy woods, E L U C I D - Soft Places"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/furtive-movements_1778727485"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/bewgld.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/a81bafa92a97875e3d4e/Furtive_Movements.tar"
+    }
+  }
+}
