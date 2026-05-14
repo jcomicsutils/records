@@ -1,0 +1,30 @@
+{
+  "id": "i-believe-the-world-would-be-a-better-place-without-you_1778731488",
+  "fingerprint": "b9cd13737561a6668ef2dc93d12fb40add940c597c9b98de617a9b9b35b8f59a",
+  "archived_at": "2026-05-14T04:06:51Z",
+  "metadata": {
+    "title": "I Believe the World Would Be a Better Place Without You",
+    "artist": "Lil Ugly Mane",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 933,
+    "duration_human": "00:15:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lil Ugly Mane - I Believe the World Would Be a Better Place Without You"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-believe-the-world-would-be-a-better-place-without-you_1778731488"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/1s6y7e.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/721492f8b798b503755b/I_Believe_the_World_Would_Be_a_Better_Place_Without_You.tar"
+    }
+  }
+}
