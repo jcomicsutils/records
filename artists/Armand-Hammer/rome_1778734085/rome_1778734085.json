@@ -32,6 +32,23 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/rome_1778734085"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/bzugz8.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/d7rhf0.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/p6koj1.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/e0e496c9020729a228b4/Rome.tar"
     }
   }
 }

@@ -1,0 +1,25 @@
+{
+  "id": "redacted-fog_1778734475",
+  "fingerprint": "4daf5bc18f9c92be6fbcd55b37024e5d8f10b6619ddfc7651abd28bb02c7d65c",
+  "archived_at": "2026-05-14T04:56:02Z",
+  "metadata": {
+    "title": "Redacted Fog",
+    "artist": "Lil Ugly Mane",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 482,
+    "duration_human": "00:08:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lil Ugly Mane - Redacted Fog",
+      "02 Lil Ugly Mane - Unassisted"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/redacted-fog_1778734475"
+    }
+  }
+}
