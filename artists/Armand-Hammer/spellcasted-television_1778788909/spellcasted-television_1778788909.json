@@ -1,0 +1,30 @@
+{
+  "id": "spellcasted-television_1778788909",
+  "fingerprint": "57471b597e94d0ef914373153327afce38275f3bdfc979f9da8667bac69096cd",
+  "archived_at": "2026-05-14T20:02:53Z",
+  "metadata": {
+    "title": "Spellcasted Television",
+    "artist": "Armand Hammer",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 202,
+    "duration_human": "00:03:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Kenny Segal, K-THE-I???, Armand Hammer - Spellcasted Television"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/spellcasted-television_1778788909"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jyv41v.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/db3b981ee9fe117feefa/Spellcasted_Television.tar"
+    }
+  }
+}
