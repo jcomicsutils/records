@@ -47,6 +47,29 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/all-or-nothing-die-nationalmannschaft-in-katar-amazon-original-series-soundtrack_1778794507"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/d70iew.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/skbx4c.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/7p0x9u.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/dnwev4.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/078skz.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/5l81ki.tar"
+        }
+      ]
     }
   }
 }

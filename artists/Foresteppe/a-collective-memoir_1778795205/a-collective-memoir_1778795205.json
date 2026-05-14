@@ -1,0 +1,45 @@
+{
+  "id": "a-collective-memoir_1778795205",
+  "fingerprint": "6c56d4cafb6009ad16bee6f840b75bfb0901996078bde8bb1255442dbfd8e735",
+  "archived_at": "2026-05-14T21:51:23Z",
+  "metadata": {
+    "title": "A Collective Memoir",
+    "artist": "Foresteppe",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2170,
+    "duration_human": "00:36:10",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Foresteppe, Ana Jikia, Chillera, DJ Graffity, I s, L, Nikolaienko, n y s t a g m u s and Perila - Splint",
+      "02 Foresteppe, Ana Jikia, Chillera, DJ Graffity, I s, L, Nikolaienko, n y s t a g m u s and Perila - Porto Franco",
+      "03 Foresteppe, Ana Jikia, Chillera, DJ Graffity, I s, L, Nikolaienko, n y s t a g m u s and Perila - Zola (TDPINV Cover)",
+      "04 Foresteppe, Ana Jikia, Chillera, DJ Graffity, I s, L, Nikolaienko, n y s t a g m u s and Perila - Այն ժամանակ ինչպես հիմա",
+      "05 Foresteppe, Ana Jikia, Chillera, DJ Graffity, I s, L, Nikolaienko, n y s t a g m u s and Perila - Double Echo",
+      "06 Foresteppe, Ana Jikia, Chillera, DJ Graffity, I s, L, Nikolaienko, n y s t a g m u s and Perila - Antenaa",
+      "07 Foresteppe, Ana Jikia, Chillera, DJ Graffity, I s, L, Nikolaienko, n y s t a g m u s and Perila - Stretched Logo",
+      "08 Foresteppe, Ana Jikia, Chillera, DJ Graffity, I s, L, Nikolaienko, n y s t a g m u s and Perila - False Awakening"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-collective-memoir_1778795205"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/zxt3st.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/unevg2.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/429dcdcf83b05cc60c93/A_Collective_Memoir.tar"
+    }
+  }
+}
