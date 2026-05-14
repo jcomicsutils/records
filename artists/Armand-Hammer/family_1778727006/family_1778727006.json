@@ -1,0 +1,30 @@
+{
+  "id": "family_1778727006",
+  "fingerprint": "6101946d36c9860f4d2cf4327343897e1bbf4a5025c864422cad4b31bca7bb31",
+  "archived_at": "2026-05-14T02:54:16Z",
+  "metadata": {
+    "title": "Family",
+    "artist": "Armand Hammer",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 183,
+    "duration_human": "00:03:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Shapednoise, Armand Hammer - Family"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/family_1778727006"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/o5b69j.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/64a73c05295034d589bf/Family.tar"
+    }
+  }
+}
