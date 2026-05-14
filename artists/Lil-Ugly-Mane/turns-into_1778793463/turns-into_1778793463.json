@@ -1,0 +1,34 @@
+{
+  "id": "turns-into_1778793463",
+  "fingerprint": "7a022ced6f7dab607336045a1aaf5bee17dcaf9aca247189d7570491dadd7de7",
+  "archived_at": "2026-05-14T21:18:27Z",
+  "metadata": {
+    "title": "Turns Into",
+    "artist": "Lil Ugly Mane",
+    "year": "2012",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 75,
+    "duration_human": "00:01:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Lil Ugly Mane - Foreshadow",
+      "02 Lil Ugly Mane - Foreshadow",
+      "03 Lil Ugly Mane - Foreshadow",
+      "04 Lil Ugly Mane - Foreshadow",
+      "05 Lil Ugly Mane - Foreshadow"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/turns-into_1778793463"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/q0i6um.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/f6e2c33a8ab8699646db/Turns_Into.tar"
+    }
+  }
+}
