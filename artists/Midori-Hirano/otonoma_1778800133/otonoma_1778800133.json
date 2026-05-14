@@ -28,6 +28,20 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/otonoma_1778800133"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/9is34m.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/c2iipw.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/x6bcq6.tar"
+        }
+      ]
     }
   }
 }
