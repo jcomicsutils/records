@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Poet at the Piano](poet-at-the-piano_1778801251/poet-at-the-piano_1778801251.md) | 2004 | FLAC | 00:24:53 | [IA](https://archive.org/details/poet-at-the-piano_1778801251) [Catbox](https://files.catbox.moe/9ot0vc.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/74c51f62fa626fdd3d7e/Poet_at_the_Piano.tar) |
 | [LushRush](lushrush_1778798594/lushrush_1778798594.md) | 2006 | FLAC | 00:38:10 | [IA](https://archive.org/details/lushrush_1778798594) [Catbox](https://files.catbox.moe/zxcogt.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/6866b1020bc04e86ef99/LushRush.tar) |
 | [klo:yuri](kloyuri_1778798306/kloyuri_1778798306.md) | 2008 | FLAC | 00:40:08 | [IA](https://archive.org/details/kloyuri_1778798306) [Catbox ×2](kloyuri_1778798306/kloyuri_1778798306.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/5ea7d6b31973e0a7adb9/kloyuri.tar) |
 | [Magnetic Visionaries](magnetic-visionaries_1778798923/magnetic-visionaries_1778798923.md) | 2011 | MP3 | 00:23:23 | [IA](https://archive.org/details/magnetic-visionaries_1778798923) [Catbox](https://files.catbox.moe/0vbzb7.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/83cf5aceeb3c18f96705/Magnetic_Visionaries.tar) |

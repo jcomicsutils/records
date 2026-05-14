@@ -1,0 +1,35 @@
+{
+  "id": "poet-at-the-piano_1778801251",
+  "fingerprint": "af70fc5c20d372137b5868277ef6b71ff02377735a7dd5644fb6ec4a9fcdb26f",
+  "archived_at": "2026-05-14T23:30:30Z",
+  "metadata": {
+    "title": "Poet at the Piano",
+    "artist": "Midori Hirano",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1493,
+    "duration_human": "00:24:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Midori Hirano - Perception",
+      "02 Midori Hirano - I Was",
+      "03 Midori Hirano - White Tale",
+      "04 Midori Hirano - Poet at the Piano",
+      "05 Midori Hirano - HK",
+      "06 Midori Hirano - Remembrance"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/poet-at-the-piano_1778801251"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/9ot0vc.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/74c51f62fa626fdd3d7e/Poet_at_the_Piano.tar"
+    }
+  }
+}
