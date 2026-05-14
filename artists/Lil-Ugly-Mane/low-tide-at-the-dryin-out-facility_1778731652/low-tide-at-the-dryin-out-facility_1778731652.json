@@ -1,0 +1,30 @@
+{
+  "id": "low-tide-at-the-dryin-out-facility_1778731652",
+  "fingerprint": "0832f85d67d09f0760769735747859ceca16c060a3aeab123aa1c1097465d441",
+  "archived_at": "2026-05-14T04:07:57Z",
+  "metadata": {
+    "title": "Low Tide at the Dryin' Out Facility",
+    "artist": "Lil Ugly Mane",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 141,
+    "duration_human": "00:02:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lil Ugly Mane - Low Tide at the Dryin' Out Facility"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/low-tide-at-the-dryin-out-facility_1778731652"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/48yanz.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/25e3ba82d20fed943b2a/Low_Tide_at_the_Dryin%27_Out_Facility.tar"
+    }
+  }
+}
