@@ -1,0 +1,30 @@
+{
+  "id": "repeater_1778733860",
+  "fingerprint": "917775d7484824d8722e746822ca7a9b8a5e1a80185c2cb1ca82ab11bdc47fee",
+  "archived_at": "2026-05-14T04:47:44Z",
+  "metadata": {
+    "title": "Repeater",
+    "artist": "Armand Hammer",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 206,
+    "duration_human": "00:03:26",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Shapednoise, Armand Hammer - Repeater"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/repeater_1778733860"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/zieubp.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/f5b9a048977b97b5c3be/Repeater.tar"
+    }
+  }
+}

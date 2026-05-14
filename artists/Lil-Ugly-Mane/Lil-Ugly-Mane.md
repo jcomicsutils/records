@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Playaz Circle](playaz-circle_1778733950/playaz-circle_1778733950.md) | 2011 | FLAC | 00:30:31 | [IA](https://archive.org/details/playaz-circle_1778733950) |
 | [Criminal Hypnosis: Unreleased Shit](criminal-hypnosis-unreleased-shit_1778730393/criminal-hypnosis-unreleased-shit_1778730393.md) | 2012 | FLAC | 00:32:44 | [IA](https://archive.org/details/criminal-hypnosis-unreleased-shit_1778730393) [Catbox ×2](criminal-hypnosis-unreleased-shit_1778730393/criminal-hypnosis-unreleased-shit_1778730393.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/ba9b1a7fe26b3c01e95c/Criminal_Hypnosis_Unreleased_Shit.tar) |
 | [Mista Thug Isolation](mista-thug-isolation_1778731740/mista-thug-isolation_1778731740.md) | 2012 | FLAC | 01:04:34 | [IA](https://archive.org/details/mista-thug-isolation_1778731740) [Catbox ×3](mista-thug-isolation_1778731740/mista-thug-isolation_1778731740.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/f2204cfb0a30c34834da/Mista_Thug_Isolation.tar) |
 | [On Doing an Evil Deed Blues](on-doing-an-evil-deed-blues_1778733808/on-doing-an-evil-deed-blues_1778733808.md) | 2013 | FLAC | 00:07:55 | [IA](https://archive.org/details/on-doing-an-evil-deed-blues_1778733808) [Catbox](https://files.catbox.moe/trugj8.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/2161dbaff32c0f8b6d50/On_Doing_an_Evil_Deed_Blues.tar) |
