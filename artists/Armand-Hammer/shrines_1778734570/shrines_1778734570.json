@@ -1,0 +1,54 @@
+{
+  "id": "shrines_1778734570",
+  "fingerprint": "79eca17d91da746656b3c03ce758f9ca99487c003662440851a3d71cc5a9c2e4",
+  "archived_at": "2026-05-14T05:02:51Z",
+  "metadata": {
+    "title": "Shrines",
+    "artist": "Armand Hammer",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 2600,
+    "duration_human": "00:43:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Armand Hammer - Bitter Cassava",
+      "02 Armand Hammer - Solarium",
+      "03 Armand Hammer - Charms",
+      "04 Armand Hammer - Pommelhorse",
+      "05 Armand Hammer - Leopards",
+      "06 Armand Hammer - King Tubby",
+      "07 Armand Hammer - Frida",
+      "08 Armand Hammer - Slew Foot",
+      "09 Armand Hammer - War Stories",
+      "10 Armand Hammer - Flavor Flav",
+      "11 Armand Hammer - Dead Cars",
+      "12 Armand Hammer - Parables",
+      "13 Armand Hammer - Ramesses II",
+      "14 Armand Hammer - The Eucharist"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/shrines_1778734570"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/ijnsip.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/0v2qun.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/pwzg7q.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/207445291aac40108fbd/Shrines.tar"
+    }
+  }
+}

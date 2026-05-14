@@ -1,0 +1,32 @@
+{
+  "id": "singles-collection-2022_1778734768",
+  "fingerprint": "84becadd8669621b38b0599f735ee6e6ce0aeda43795c4c7b691126005847f8a",
+  "archived_at": "2026-05-14T05:00:50Z",
+  "metadata": {
+    "title": "Singles Collection 2022",
+    "artist": "Lil Ugly Mane",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1794,
+    "duration_human": "00:29:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lil Ugly Mane - Replica Fireplace",
+      "02 Lil Ugly Mane - Low Tide at the Drying Out Facility",
+      "03 Lil Ugly Mane - Blue Sand",
+      "04 Lil Ugly Mane - Pink & Rose",
+      "05 Lil Ugly Mane - Easy Prey",
+      "06 Lil Ugly Mane - Split Ends",
+      "07 Lil Ugly Mane - Redacted Fog",
+      "08 Lil Ugly Mane - Unassisted",
+      "09 Lil Ugly Mane - Ricochet"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/singles-collection-2022_1778734768"
+    }
+  }
+}
