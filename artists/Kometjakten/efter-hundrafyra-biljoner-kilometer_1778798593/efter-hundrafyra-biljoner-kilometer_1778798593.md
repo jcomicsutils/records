@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/efter-hundrafyra-biljoner-kilometer_1778798593)
 - Catbox: [Part 1](https://files.catbox.moe/lv7tfn.tar) [Part 2](https://files.catbox.moe/o04iqk.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/fd0e0a5208aedd9926f8/Efter_hundrafyra_biljoner_kilometer.tar)
 
 ## Tracklist
 
