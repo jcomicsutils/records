@@ -1,0 +1,42 @@
+{
+  "id": "v_1778789958",
+  "fingerprint": "cffd9567cfaef5d8730095c2d7a089d84acbb7101b178a5a0a610641c4f461e3",
+  "archived_at": "2026-05-14T20:24:26Z",
+  "metadata": {
+    "title": "V",
+    "artist": "День Космонавтики",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2027,
+    "duration_human": "00:33:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 День Космонавтики - Прибой-1",
+      "02 День Космонавтики - Прибой-2",
+      "03 День Космонавтики - Прибой-3",
+      "04 День Космонавтики - Прибой-4",
+      "05 День Космонавтики - Прибой-5"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/v_1778789958"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/tnqfrc.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/2gt5xc.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/2ff4707337b7d1f91588/V.tar"
+    }
+  }
+}
