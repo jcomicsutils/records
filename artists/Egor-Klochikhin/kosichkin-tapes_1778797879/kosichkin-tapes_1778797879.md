@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/kosichkin-tapes_1778797879)
+- [Catbox](https://files.catbox.moe/m4i67r.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/94c7e619de019ff8e81a/Kosichkin_Tapes.tar)
 
 ## Tracklist
 

@@ -20,6 +20,12 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/kosichkin-tapes_1778797879"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/m4i67r.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/94c7e619de019ff8e81a/Kosichkin_Tapes.tar"
     }
   }
 }
