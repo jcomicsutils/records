@@ -1,0 +1,30 @@
+{
+  "id": "floorboards_1778731038",
+  "fingerprint": "02a57bfbdbb7a0629547e7ad0fcb1bd8cd06124bba35ed6020190489408631b3",
+  "archived_at": "2026-05-14T03:57:50Z",
+  "metadata": {
+    "title": "Floorboards",
+    "artist": "Lil Ugly Mane",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 201,
+    "duration_human": "00:03:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cold Mega, Lil Ugly Mane - Floorboards"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/floorboards_1778731038"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/nlvywk.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/09917a3fdae198202ea6/Floorboards.tar"
+    }
+  }
+}
