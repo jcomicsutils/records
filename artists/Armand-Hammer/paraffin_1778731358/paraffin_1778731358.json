@@ -1,0 +1,55 @@
+{
+  "id": "paraffin_1778731358",
+  "fingerprint": "7e89277b6a97fb49ef96baa56405f897105b3f515d4cf44edc25e93970a2114b",
+  "archived_at": "2026-05-14T04:11:39Z",
+  "metadata": {
+    "title": "Paraffin",
+    "artist": "Armand Hammer",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 2824,
+    "duration_human": "00:47:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Armand Hammer - Sweet Mickey",
+      "02 Armand Hammer - Rehearse with Ornette",
+      "03 Armand Hammer - Dettol",
+      "04 Armand Hammer - No Days Off",
+      "05 Armand Hammer - Fuhrman Tapes",
+      "06 Armand Hammer - Hunter",
+      "07 Armand Hammer - Alternate Side Parking",
+      "08 Armand Hammer - If He Holla",
+      "09 Armand Hammer - Black Garlic",
+      "10 Armand Hammer - VX",
+      "11 Armand Hammer - Vindaloo",
+      "12 Armand Hammer - Ecomog",
+      "13 Armand Hammer - Bob Barker",
+      "14 Armand Hammer - Sudden Death",
+      "15 Armand Hammer - Root Farm"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/paraffin_1778731358"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/yfwmm6.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/e4udwt.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/nlinaz.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/a9ff7e7cdadbf0ec7eac/Paraffin.tar"
+    }
+  }
+}
