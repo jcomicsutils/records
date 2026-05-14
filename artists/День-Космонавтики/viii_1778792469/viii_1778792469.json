@@ -25,6 +25,23 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/viii_1778792469"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/lc0upj.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/cuhsk4.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/52ey1x.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/ec0f3526a8e51912ef48/VIII.tar"
     }
   }
 }
