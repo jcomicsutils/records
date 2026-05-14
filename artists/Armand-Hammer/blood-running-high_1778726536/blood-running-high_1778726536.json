@@ -1,0 +1,30 @@
+{
+  "id": "blood-running-high_1778726536",
+  "fingerprint": "a49238c3117309bad47896f20ad26e1bd54d378d8012f7332ee12fedb78449f5",
+  "archived_at": "2026-05-14T02:46:48Z",
+  "metadata": {
+    "title": "Blood Running High",
+    "artist": "Armand Hammer",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 236,
+    "duration_human": "00:03:56",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Red Hot Org, RP Boo, Armand Hammer, Kronos Quartet - Blood Running High"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/blood-running-high_1778726536"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/dy8868.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/5dd9efd9c08be1b9557e/Blood_Running_High.tar"
+    }
+  }
+}
