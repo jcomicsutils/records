@@ -1,0 +1,30 @@
+{
+  "id": "war-time-dub-culture-city_1778794415",
+  "fingerprint": "fd621c3ed4e46e18961902ee5b410365ecdb914f4c55f3a496916e68df7be516",
+  "archived_at": "2026-05-14T21:34:23Z",
+  "metadata": {
+    "title": "War Time Dub, Culture City",
+    "artist": "Lil Ugly Mane",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 486,
+    "duration_human": "00:08:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Culture Abuse, Lil Ugly Mane - War Time Dub, Culture City"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/war-time-dub-culture-city_1778794415"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/sqquio.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/f4f21f1f4931355c7e4f/War_Time_Dub_Culture_City.tar"
+    }
+  }
+}
