@@ -1,0 +1,30 @@
+{
+  "id": "super-nintendo_1778788989",
+  "fingerprint": "5826f272e46d327db110788be38a4c7d7af9bc42774ab7956e8dd126e14a7e9a",
+  "archived_at": "2026-05-14T20:03:58Z",
+  "metadata": {
+    "title": "Super Nintendo",
+    "artist": "Armand Hammer",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 161,
+    "duration_human": "00:02:41",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Armand Hammer, The Alchemist, Billy Woods, E L U C I D - Super Nintendo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/super-nintendo_1778788989"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/j0sdo4.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/08d59be44e4af37e5e61/Super_Nintendo.tar"
+    }
+  }
+}
