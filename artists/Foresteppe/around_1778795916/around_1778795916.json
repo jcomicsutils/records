@@ -29,6 +29,23 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/around_1778795916"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/t3ck02.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/6mxbuj.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/w2tzts.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/5b9ff199c436e7de41f5/Around.tar"
     }
   }
 }
