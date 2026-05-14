@@ -1,0 +1,30 @@
+{
+  "id": "favors-are-bad-news_1778727279",
+  "fingerprint": "f91240d64b137f3a4cf6d14a3f9700fad3407a3938beaccd06b9aec27b1aa408",
+  "archived_at": "2026-05-14T02:57:50Z",
+  "metadata": {
+    "title": "Favors Are Bad News",
+    "artist": "Armand Hammer",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 252,
+    "duration_human": "00:04:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zilla Rocca, Armand Hammer - Favors Are Bad News"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/favors-are-bad-news_1778727279"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/jw6s2r.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/643fc9086db7af4b278c/Favors_Are_Bad_News.tar"
+    }
+  }
+}
