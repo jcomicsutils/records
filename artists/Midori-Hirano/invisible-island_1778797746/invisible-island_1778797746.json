@@ -1,0 +1,48 @@
+{
+  "id": "invisible-island_1778797746",
+  "fingerprint": "510347f6f9232f9113c234686f192a09084f2ad53bb4ac26a2b502a8382c95ba",
+  "archived_at": "2026-05-14T22:34:39Z",
+  "metadata": {
+    "title": "Invisible Island",
+    "artist": "Midori Hirano",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2464,
+    "duration_human": "00:41:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Midori Hirano - Ocean's Disconnect",
+      "02 Midori Hirano - Strain",
+      "03 Midori Hirano - Vanished Garden",
+      "04 Midori Hirano - Coil",
+      "05 Midori Hirano - November",
+      "06 Midori Hirano - Remembrance",
+      "07 Midori Hirano - Corridor",
+      "08 Midori Hirano - Glass",
+      "09 Midori Hirano - Belong",
+      "10 Midori Hirano - End of the Night",
+      "11 Midori Hirano - Invisible Island"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/invisible-island_1778797746"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/haosez.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/rmd2il.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/c80ef6af77a6464eb4ee/Invisible_Island.tar"
+    }
+  }
+}

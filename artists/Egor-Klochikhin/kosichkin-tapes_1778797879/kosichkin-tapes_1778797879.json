@@ -1,0 +1,25 @@
+{
+  "id": "kosichkin-tapes_1778797879",
+  "fingerprint": "825642860e26fc777ff0ee90f7025e42c2ec7178d993b12782e82205112463a4",
+  "archived_at": "2026-05-14T22:32:26Z",
+  "metadata": {
+    "title": "Kosichkin Tapes",
+    "artist": "Egor Klochikhin",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2245,
+    "duration_human": "00:37:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Egor Klochikhin - Side A",
+      "02 Egor Klochikhin - Side B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kosichkin-tapes_1778797879"
+    }
+  }
+}

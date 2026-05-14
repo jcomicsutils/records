@@ -18,6 +18,7 @@
 - [Death Ambient](Death-Ambient/Death-Ambient.md)
 - [Deerhunter](Deerhunter/Deerhunter.md)
 - [Dirty Three](Dirty-Three/Dirty-Three.md)
+- [Egor Klochikhin](Egor-Klochikhin/Egor-Klochikhin.md)
 - [Ensemble Pearl](Ensemble-Pearl/Ensemble-Pearl.md)
 - [Ever Present Orchestra](Ever-Present-Orchestra/Ever-Present-Orchestra.md)
 - [Exploring Jezebel](Exploring-Jezebel/Exploring-Jezebel.md)
