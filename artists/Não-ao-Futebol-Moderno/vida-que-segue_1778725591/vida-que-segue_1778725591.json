@@ -1,0 +1,39 @@
+{
+  "id": "vida-que-segue_1778725591",
+  "fingerprint": "e2ce66dc2fee3294c71f3f6618a985601ba9c6309a1a4ff6a738f646ba0c50cd",
+  "archived_at": "2026-05-14T02:29:00Z",
+  "metadata": {
+    "title": "Vida Que Segue",
+    "artist": "Não ao Futebol Moderno",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 1854,
+    "duration_human": "00:30:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Não ao Futebol Moderno - Quase Jr.",
+      "02 Não ao Futebol Moderno - Cansado de Trampar",
+      "03 Não ao Futebol Moderno - Carlinhos",
+      "04 Não ao Futebol Moderno - Laços de Família",
+      "05 Não ao Futebol Moderno - Saia",
+      "06 Não ao Futebol Moderno - Peso Pesar",
+      "07 Não ao Futebol Moderno - Janeiro",
+      "08 Não ao Futebol Moderno - Intruso",
+      "09 Não ao Futebol Moderno - Quintal",
+      "10 Não ao Futebol Moderno - Carro Chefe"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vida-que-segue_1778725591"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/j7lx5l.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/4f575e795b8ef70cb566/Vida_Que_Segue.tar"
+    }
+  }
+}
