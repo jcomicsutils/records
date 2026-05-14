@@ -1,0 +1,33 @@
+{
+  "id": "otonoma_1778800133",
+  "fingerprint": "dfe3b9d4d30f1d8f80cc3ce1ae139fb503a98c6e04a6c84757d210d4668e03b4",
+  "archived_at": "2026-05-14T23:19:22Z",
+  "metadata": {
+    "title": "Otonoma",
+    "artist": "Midori Hirano",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2511,
+    "duration_human": "00:41:51",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Midori Hirano - Illuminance",
+      "02 Midori Hirano - Ame, Hikari",
+      "03 Midori Hirano - In Colours",
+      "04 Midori Hirano - Warped in Red",
+      "05 Midori Hirano - Rainwalk",
+      "06 Midori Hirano - Blue Horizon",
+      "07 Midori Hirano - Aurora",
+      "08 Midori Hirano - Before the Silence",
+      "09 Midori Hirano - Oto, Kioku",
+      "10 Midori Hirano - Was It a Dream"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/otonoma_1778800133"
+    }
+  }
+}
