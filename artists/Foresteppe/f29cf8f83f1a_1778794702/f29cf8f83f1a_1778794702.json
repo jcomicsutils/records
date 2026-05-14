@@ -1,0 +1,55 @@
+{
+  "id": "f29cf8f83f1a_1778794702",
+  "fingerprint": "4d326e0c8079570e4cacaed9789671211ca87331a03b7346e537555a0bd9ec33",
+  "archived_at": "2026-05-14T21:42:15Z",
+  "metadata": {
+    "title": "\\|/|/",
+    "artist": "Foresteppe",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 18,
+    "duration_seconds": 2329,
+    "duration_human": "00:38:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 231 + Foresteppe - Utro",
+      "02 231 + Foresteppe - /",
+      "03 231 + Foresteppe - Strany",
+      "04 231 + Foresteppe - /|",
+      "05 231 + Foresteppe - Dal'nie Kraya",
+      "06 231 + Foresteppe - /|\\",
+      "07 231 + Foresteppe - Karandash",
+      "08 231 + Foresteppe - /|\\|",
+      "09 231 + Foresteppe - Devochka",
+      "10 231 + Foresteppe - Luna",
+      "11 231 + Foresteppe - /|\\|/",
+      "12 231 + Foresteppe - Taina",
+      "13 231 + Foresteppe - /|\\|/|",
+      "14 231 + Foresteppe - Leto",
+      "15 231 + Foresteppe - /|\\|/|\\",
+      "16 231 + Foresteppe - Poezd",
+      "17 231 + Foresteppe - /|\\|/|\\|",
+      "18 231 + Foresteppe - Zemlya"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/f29cf8f83f1a_1778794702"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/vdhpr0.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/5gzxdb.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/8ed507f6ad6d397a6ae1/-_-_-.tar"
+    }
+  }
+}
