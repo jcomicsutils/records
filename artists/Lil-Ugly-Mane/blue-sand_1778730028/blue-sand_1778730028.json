@@ -1,0 +1,30 @@
+{
+  "id": "blue-sand_1778730028",
+  "fingerprint": "240a1873cbefb18102f8689f1f75e87bbb4161159b47cbbdc66a64d18b736735",
+  "archived_at": "2026-05-14T03:41:03Z",
+  "metadata": {
+    "title": "Blue Sand",
+    "artist": "Lil Ugly Mane",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 173,
+    "duration_human": "00:02:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lil Ugly Mane - Blue Sand"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/blue-sand_1778730028"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/w3l9en.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/66c48822662d09af2570/Blue_Sand.tar"
+    }
+  }
+}
