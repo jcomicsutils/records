@@ -1,0 +1,34 @@
+{
+  "id": "around_1778795916",
+  "fingerprint": "e083ec63dacc9af7fd9f5d7e4f73276f04804bfef5ab07ec9d80b18bf2051b92",
+  "archived_at": "2026-05-14T22:05:49Z",
+  "metadata": {
+    "title": "Around",
+    "artist": "Foresteppe",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2505,
+    "duration_human": "00:41:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Bisamråtta + Foresteppe - Snow",
+      "02 Bisamråtta + Foresteppe - Space",
+      "03 Bisamråtta + Foresteppe - Sand",
+      "04 Bisamråtta + Foresteppe - Wind",
+      "05 Bisamråtta + Foresteppe - Soil",
+      "06 Bisamråtta + Foresteppe - Time",
+      "07 Bisamråtta + Foresteppe - More",
+      "08 Bisamråtta + Foresteppe - Grass",
+      "09 Bisamråtta + Foresteppe - Mirage",
+      "10 Bisamråtta + Foresteppe - Flower",
+      "11 Bisamråtta + Foresteppe - Rain"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/around_1778795916"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "hua-lamphong_1778796262",
+  "fingerprint": "73ad7e0edf1a959e69ed44820bf39ef3adcd53d8239e9f01754ab7f870382424",
+  "archived_at": "2026-05-14T22:08:59Z",
+  "metadata": {
+    "title": "Hua Lamphong",
+    "artist": "Midori Hirano",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 332,
+    "duration_human": "00:05:32",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Midori Hirano - Hua Lamphong"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hua-lamphong_1778796262"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/sciw3t.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/fbc3e9dc753af1154d49/Hua_Lamphong.tar"
+    }
+  }
+}
