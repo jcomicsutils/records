@@ -1,0 +1,30 @@
+{
+  "id": "calypso-gene_1778726923",
+  "fingerprint": "31ecfdeda7408c5888b9f52e6c66f530d904c010166b4619e82bae18aba593ed",
+  "archived_at": "2026-05-14T02:49:38Z",
+  "metadata": {
+    "title": "Calypso Gene",
+    "artist": "Armand Hammer",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 177,
+    "duration_human": "00:02:57",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Armand Hammer, The Alchemist, Billy Woods, E L U C I D - Calypso Gene"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/calypso-gene_1778726923"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2flkro.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/2558fe74f92102ed7328/Calypso_Gene.tar"
+    }
+  }
+}
