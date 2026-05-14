@@ -1,0 +1,36 @@
+{
+  "id": "xiii_1778795278",
+  "fingerprint": "5a84167ebbb913c76d1fce4c6e77f25c79b0a3be41647edd3d5f6daa100dbcf1",
+  "archived_at": "2026-05-14T21:49:24Z",
+  "metadata": {
+    "title": "XIII",
+    "artist": "День Космонавтики",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1567,
+    "duration_human": "00:26:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 День Космонавтики - Эмидст зе шэдоус",
+      "02 День Космонавтики - Скричин синапсес",
+      "03 День Космонавтики - Брокен пейвмент",
+      "04 День Космонавтики - Синт-дривен трома",
+      "05 День Космонавтики - Э драмбит ту мэтч",
+      "06 День Космонавтики - Перкассив тексчерс",
+      "07 День Космонавтики - Ви вил нэвер фогет аусэлвс"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xiii_1778795278"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/i9nc3z.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/668f6d503594dfc96747/XIII.tar"
+    }
+  }
+}
