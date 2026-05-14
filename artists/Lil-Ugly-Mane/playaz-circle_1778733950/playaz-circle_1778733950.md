@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/playaz-circle_1778733950)
+- [Catbox](https://files.catbox.moe/qysqv6.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/3510698d2c3e11f97b98/Playaz_Circle.tar)
 
 ## Tracklist
 
