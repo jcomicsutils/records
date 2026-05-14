@@ -1,0 +1,30 @@
+{
+  "id": "ricochet_1778734587",
+  "fingerprint": "2739cc59c35d5464a9434e6b0b992a3837fc42baa541396bfa05a342b1a4f499",
+  "archived_at": "2026-05-14T04:57:01Z",
+  "metadata": {
+    "title": "Ricochet",
+    "artist": "Lil Ugly Mane",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 130,
+    "duration_human": "00:02:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lil Ugly Mane - Ricochet"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ricochet_1778734587"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/sa841z.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/8c3c741d3a52c3e96dfb/Ricochet.tar"
+    }
+  }
+}
