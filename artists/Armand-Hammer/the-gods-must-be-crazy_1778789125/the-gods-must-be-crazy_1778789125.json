@@ -1,0 +1,30 @@
+{
+  "id": "the-gods-must-be-crazy_1778789125",
+  "fingerprint": "91def4c24bb6becd48b0e58ed0640add7373a6e2c7a3b1a7b2aaa897900cea77",
+  "archived_at": "2026-05-14T20:05:59Z",
+  "metadata": {
+    "title": "The God's Must Be Crazy",
+    "artist": "Armand Hammer",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 180,
+    "duration_human": "00:03:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Armand Hammer, EL-P, Billy Woods, E L U C I D - The Gods Must Be Crazy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-gods-must-be-crazy_1778789125"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vlfgo8.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/4a062bffabf7b548a9ac/The_God%27s_Must_Be_Crazy.tar"
+    }
+  }
+}
