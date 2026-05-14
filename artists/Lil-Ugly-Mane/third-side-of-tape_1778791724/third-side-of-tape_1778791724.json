@@ -68,6 +68,26 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/third-side-of-tape_1778791724"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/61cshg.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/y5tmn4.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/vust2c.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/mr6oh2.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/1f0229a1d14ff6776a76/Third_Side_of_Tape.tar"
     }
   }
 }

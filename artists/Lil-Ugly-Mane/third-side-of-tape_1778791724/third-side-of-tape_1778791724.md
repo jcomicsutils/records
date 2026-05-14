@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/third-side-of-tape_1778791724)
+- Catbox: [Part 1](https://files.catbox.moe/61cshg.tar) [Part 2](https://files.catbox.moe/y5tmn4.tar) [Part 3](https://files.catbox.moe/vust2c.tar) [Part 4](https://files.catbox.moe/mr6oh2.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/1f0229a1d14ff6776a76/Third_Side_of_Tape.tar)
 
 ## Tracklist
 
