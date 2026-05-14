@@ -1,0 +1,40 @@
+{
+  "id": "efter-hundrafyra-biljoner-kilometer_1778798593",
+  "fingerprint": "62fba520c5cd6f350219c4f4452253c6632ade6ddbfca28c55ed8d3f096edd54",
+  "archived_at": "2026-05-14T22:47:27Z",
+  "metadata": {
+    "title": "Efter hundrafyra biljoner kilometer...",
+    "artist": "Kometjakten",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2130,
+    "duration_human": "00:35:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kometjakten - Den första",
+      "02 Kometjakten - Den andra",
+      "03 Kometjakten - Den tredje",
+      "04 Kometjakten - Den fjärde",
+      "05 Kometjakten - Den femte",
+      "06 Kometjakten - Den sjätte"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/efter-hundrafyra-biljoner-kilometer_1778798593"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/lv7tfn.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/o04iqk.tar"
+        }
+      ]
+    }
+  }
+}

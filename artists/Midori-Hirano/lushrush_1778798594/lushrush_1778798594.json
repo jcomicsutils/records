@@ -1,0 +1,38 @@
+{
+  "id": "lushrush_1778798594",
+  "fingerprint": "a89799c897438c59d9b967f6ea3dafd8f57b9c8f5e9565b70fef1c7ef34a1f61",
+  "archived_at": "2026-05-14T22:47:20Z",
+  "metadata": {
+    "title": "LushRush",
+    "artist": "Midori Hirano",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2290,
+    "duration_human": "00:38:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Midori Hirano - Lush Rush",
+      "02 Midori Hirano - Ancient Story in the Room",
+      "03 Midori Hirano - Calling",
+      "04 Midori Hirano - Secret Aria",
+      "05 Midori Hirano - Night Wish",
+      "06 Midori Hirano - Inori",
+      "07 Midori Hirano - Another Root",
+      "08 Midori Hirano - Dim",
+      "09 Midori Hirano - Leaving"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lushrush_1778798594"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/zxcogt.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/6866b1020bc04e86ef99/LushRush.tar"
+    }
+  }
+}

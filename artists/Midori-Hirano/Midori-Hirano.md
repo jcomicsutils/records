@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [LushRush](lushrush_1778798594/lushrush_1778798594.md) | 2006 | FLAC | 00:38:10 | [IA](https://archive.org/details/lushrush_1778798594) [Catbox](https://files.catbox.moe/zxcogt.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/6866b1020bc04e86ef99/LushRush.tar) |
 | [klo:yuri](kloyuri_1778798306/kloyuri_1778798306.md) | 2008 | FLAC | 00:40:08 | [IA](https://archive.org/details/kloyuri_1778798306) [Catbox ×2](kloyuri_1778798306/kloyuri_1778798306.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/5ea7d6b31973e0a7adb9/kloyuri.tar) |
 | [And I Am Here](and-i-am-here_1778795725/and-i-am-here_1778795725.md) | 2015 | FLAC | 00:30:03 | [IA](https://archive.org/details/and-i-am-here_1778795725) [Catbox](https://files.catbox.moe/1ws23z.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/a822cca02e693e47d553/And_I_Am_Here.tar) |
 | [Improvisation for Piano in Summer 2018](improvisation-for-piano-in-summer-2018_1778797566/improvisation-for-piano-in-summer-2018_1778797566.md) | 2018 | FLAC | 00:30:08 | [IA](https://archive.org/details/improvisation-for-piano-in-summer-2018_1778797566) [Catbox](https://files.catbox.moe/lkd6r4.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/4c2fa2086e0d7cdc458e/Improvisation_for_Piano_in_Summer_2018.tar) |
