@@ -29,6 +29,7 @@
 - [Khanate](Khanate/Khanate.md)
 - [Killing Joke](Killing-Joke/Killing-Joke.md)
 - [Kiss the Anus of a Black Cat](Kiss-the-Anus-of-a-Black-Cat/Kiss-the-Anus-of-a-Black-Cat.md)
+- [Lil Ugly Mane](Lil-Ugly-Mane/Lil-Ugly-Mane.md)
 - [Lotus Eaters](Lotus-Eaters/Lotus-Eaters.md)
 - [Love's Holiday Orchestra](Love's-Holiday-Orchestra/Love's-Holiday-Orchestra.md)
 - [Lupercais](Lupercais/Lupercais.md)
