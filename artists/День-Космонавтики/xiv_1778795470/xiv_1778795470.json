@@ -30,6 +30,20 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/xiv_1778795470"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/eyxceg.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/xoh28l.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/zrgfmt.tar"
+        }
+      ]
     }
   }
 }
