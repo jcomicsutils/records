@@ -1,0 +1,30 @@
+{
+  "id": "split-ends_1778791357",
+  "fingerprint": "7c21875aea602fdf36d8606187d614176846cf6fd328d8deac1ba5929ff8f570",
+  "archived_at": "2026-05-14T20:43:12Z",
+  "metadata": {
+    "title": "Split Ends",
+    "artist": "Lil Ugly Mane",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 204,
+    "duration_human": "00:03:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lil Ugly Mane - Split Ends"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/split-ends_1778791357"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/3m28a7.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/7b29f9f6e7a01ed6f0e1/Split_Ends.tar"
+    }
+  }
+}
