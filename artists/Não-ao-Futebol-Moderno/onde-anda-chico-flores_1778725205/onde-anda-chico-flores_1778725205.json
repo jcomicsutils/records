@@ -1,0 +1,34 @@
+{
+  "id": "onde-anda-chico-flores_1778725205",
+  "fingerprint": "4a600965bdecbdf16ecf46c965ebe80a5d25e887705de29d09c2bfd0da3abcc2",
+  "archived_at": "2026-05-14T02:22:04Z",
+  "metadata": {
+    "title": "Onde Anda Chico Flores?",
+    "artist": "Não ao Futebol Moderno",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 687,
+    "duration_human": "00:11:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Não ao Futebol Moderno - 2014",
+      "02 Não ao Futebol Moderno - San Martin",
+      "03 Não ao Futebol Moderno - Laje",
+      "04 Não ao Futebol Moderno - Convergência",
+      "05 Não ao Futebol Moderno - Lição para Vícios Inúteis"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/onde-anda-chico-flores_1778725205"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/tvcsgd.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/eefd21363ae78f937fc3/Onde_Anda_Chico_Flores.tar"
+    }
+  }
+}
