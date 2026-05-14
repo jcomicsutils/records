@@ -31,6 +31,23 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/wht-lbl_1778790072"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/wjxo4n.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/arqyrg.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/vhycy1.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/c993b0b105333bb35976/WHT_LBL.tar"
     }
   }
 }
