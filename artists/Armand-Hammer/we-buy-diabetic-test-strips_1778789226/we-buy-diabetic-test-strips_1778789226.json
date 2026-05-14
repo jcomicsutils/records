@@ -34,6 +34,26 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/we-buy-diabetic-test-strips_1778789226"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/ek0lxr.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/wjr57w.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/p4vl8h.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/vnrsk0.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/8d56fcfc79b7f5d0b4b2/We_Buy_Diabetic_Test_Strips.tar"
     }
   }
 }

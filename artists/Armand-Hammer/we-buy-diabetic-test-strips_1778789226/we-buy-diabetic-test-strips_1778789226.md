@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/we-buy-diabetic-test-strips_1778789226)
+- Catbox: [Part 1](https://files.catbox.moe/ek0lxr.tar) [Part 2](https://files.catbox.moe/wjr57w.tar) [Part 3](https://files.catbox.moe/p4vl8h.tar) [Part 4](https://files.catbox.moe/vnrsk0.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/8d56fcfc79b7f5d0b4b2/We_Buy_Diabetic_Test_Strips.tar)
 
 ## Tracklist
 
