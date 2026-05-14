@@ -1,0 +1,30 @@
+{
+  "id": "california-games_1778726837",
+  "fingerprint": "cf6bd21e618294ed47dd1772c72f1ef97727600034184297d7f82af0445d7abc",
+  "archived_at": "2026-05-14T02:48:16Z",
+  "metadata": {
+    "title": "California Games",
+    "artist": "Armand Hammer",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 193,
+    "duration_human": "00:03:13",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Armand Hammer, The Alchemist, Earl Sweatshirt - California Games (feat. Earl Sweatshirt)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/california-games_1778726837"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/3ad6fj.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/75e99e702a4e6603a968/California_Games.tar"
+    }
+  }
+}
