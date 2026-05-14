@@ -1,0 +1,40 @@
+{
+  "id": "soniscope_1778802433",
+  "fingerprint": "32d51d70a90eb8cc2dadc4d7d13c23d8965eb89a6063a227c7422003b83261f8",
+  "archived_at": "2026-05-14T23:50:39Z",
+  "metadata": {
+    "title": "Soniscope",
+    "artist": "Midori Hirano",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2602,
+    "duration_human": "00:43:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Midori Hirano - Missing Night",
+      "02 Midori Hirano - Collapsing Planet",
+      "03 Midori Hirano - Mizuko Jizo",
+      "04 Midori Hirano - Strings of Memories",
+      "05 Midori Hirano - Patterns",
+      "06 Midori Hirano - Void",
+      "07 Midori Hirano - Binary Star",
+      "08 Midori Hirano - Inside",
+      "09 Midori Hirano - Phantom Train",
+      "10 Midori Hirano - White Sands",
+      "11 Midori Hirano - Patterns (Foam and Sand Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/soniscope_1778802433"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/zk1efy.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/8cf7a87428f5c7e6ab4e/Soniscope.tar"
+    }
+  }
+}
