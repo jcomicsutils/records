@@ -1,0 +1,40 @@
+{
+  "id": "oblivion-access-demo-and-improvised-source-material_1778732736",
+  "fingerprint": "cdd7deffa06ad99adfb585c8a7f1819314b881ed9adb0fbcab66428f840bb800",
+  "archived_at": "2026-05-14T04:40:34Z",
+  "metadata": {
+    "title": "Oblivion Access Demo and Improvised Source Material",
+    "artist": "Lil Ugly Mane",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4063,
+    "duration_human": "01:07:43",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Lil Ugly Mane - Improvised Source Material",
+      "02 Lil Ugly Mane - Demo",
+      "03 Bedwetter - Bedwetter Demos"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/oblivion-access-demo-and-improvised-source-material_1778732736"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/5xg07f.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/8bqfiw.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/f7ca7322637986d7358e/Oblivion_Access_Demo_and_Improvised_Source_Material.tar"
+    }
+  }
+}

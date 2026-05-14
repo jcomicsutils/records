@@ -1,0 +1,40 @@
+{
+  "id": "race-music_1778732914",
+  "fingerprint": "6b588da14087c27d43a4e3e37e8f64776f5269e7cd7ddb8adc1d0e934f2d8833",
+  "archived_at": "2026-05-14T04:41:28Z",
+  "metadata": {
+    "title": "Race Music",
+    "artist": "Armand Hammer",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_seconds": 4137,
+    "duration_human": "01:08:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Armand Hammer - Hatchet Job",
+      "02 Armand Hammer - Black Ark",
+      "03 Armand Hammer - Shark Fin Soup",
+      "04 Armand Hammer - Sunni's Blues",
+      "05 Armand Hammer - Frog and Toad Are Friends",
+      "06 Armand Hammer - Willie Bosket",
+      "07 Armand Hammer - No Roses",
+      "08 Armand Hammer - Duppy",
+      "09 Armand Hammer - Hand over Fist",
+      "10 Armand Hammer - Where the Wild Things Are",
+      "11 Armand Hammer - Renaissance Garments",
+      "12 Armand Hammer - Cloisters",
+      "13 Armand Hammer - New Museum",
+      "14 Armand Hammer - The Rent Is Too Damn High",
+      "15 Armand Hammer - Kanun",
+      "16 Armand Hammer - Nosferatu",
+      "17 Armand Hammer - White Lies"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/race-music_1778732914"
+    }
+  }
+}
