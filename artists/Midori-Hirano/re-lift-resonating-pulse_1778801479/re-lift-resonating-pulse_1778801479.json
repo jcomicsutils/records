@@ -1,0 +1,30 @@
+{
+  "id": "re-lift-resonating-pulse_1778801479",
+  "fingerprint": "81fd1767d913045e3d33a176007646981cc899655aafd9599854e6e176cbbe28",
+  "archived_at": "2026-05-14T23:32:00Z",
+  "metadata": {
+    "title": "Re: Lift - Resonating Pulse",
+    "artist": "Midori Hirano",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 309,
+    "duration_human": "00:05:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Pascal Schumacher, Midori Hirano - Re: Lift - Resonating Pulse (Midori Hirano Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/re-lift-resonating-pulse_1778801479"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/4o6xnh.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/de2c59310b4bbf230463/Re_Lift_-_Resonating_Pulse.tar"
+    }
+  }
+}
