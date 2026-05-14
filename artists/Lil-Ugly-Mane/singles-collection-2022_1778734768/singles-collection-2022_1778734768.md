@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/singles-collection-2022_1778734768)
+- [Catbox](https://files.catbox.moe/hgfhe6.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/a086595bcc27b6e0584d/Singles_Collection_2022.tar)
 
 ## Tracklist
 
