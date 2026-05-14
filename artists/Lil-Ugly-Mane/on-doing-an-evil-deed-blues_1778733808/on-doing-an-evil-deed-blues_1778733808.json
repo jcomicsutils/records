@@ -19,6 +19,12 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/on-doing-an-evil-deed-blues_1778733808"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/trugj8.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/2161dbaff32c0f8b6d50/On_Doing_an_Evil_Deed_Blues.tar"
     }
   }
 }

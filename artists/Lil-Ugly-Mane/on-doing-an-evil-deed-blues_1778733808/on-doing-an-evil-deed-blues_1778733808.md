@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/on-doing-an-evil-deed-blues_1778733808)
+- [Catbox](https://files.catbox.moe/trugj8.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/2161dbaff32c0f8b6d50/On_Doing_an_Evil_Deed_Blues.tar)
 
 ## Tracklist
 
