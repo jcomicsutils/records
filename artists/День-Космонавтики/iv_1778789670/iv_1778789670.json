@@ -1,0 +1,32 @@
+{
+  "id": "iv_1778789670",
+  "fingerprint": "3b78b9cea1c919011eacfc20e67ddb5db9b21573d9d7fa4aa2ded9426606894e",
+  "archived_at": "2026-05-14T20:15:33Z",
+  "metadata": {
+    "title": "IV",
+    "artist": "День Космонавтики",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 910,
+    "duration_human": "00:15:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 День Космонавтики - Третья от Солнца",
+      "02 День Космонавтики - Один за другим",
+      "03 День Космонавтики - Восток"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/iv_1778789670"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/z978eg.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/9dfb17bcac5a8d0bb948/IV.tar"
+    }
+  }
+}
