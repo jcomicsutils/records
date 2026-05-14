@@ -35,6 +35,23 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/race-music_1778732914"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/3kvark.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/nomcz2.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/2jq1is.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/c221bf9307928ecb6bb2/Race_Music.tar"
     }
   }
 }
