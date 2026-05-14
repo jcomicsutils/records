@@ -1,0 +1,29 @@
+{
+  "id": "xi_1778793764",
+  "fingerprint": "555f53e4676c1607ae28af39f4b5af42ccaff184a989a885a23f02450b5e9d46",
+  "archived_at": "2026-05-14T21:30:24Z",
+  "metadata": {
+    "title": "XI",
+    "artist": "День Космонавтики",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1671,
+    "duration_human": "00:27:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 День Космонавтики - Аминоокись",
+      "02 День Космонавтики - Давит",
+      "03 День Космонавтики - Носить",
+      "04 День Космонавтики - Сатоимо",
+      "05 День Космонавтики - Скидать",
+      "06 День Космонавтики - Веди"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xi_1778793764"
+    }
+  }
+}
