@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/uneven-compromise_1778793513)
+- [Catbox](https://files.catbox.moe/d9igi0.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/26b62cc1ce9151175fd7/Uneven_Compromise.tar)
 
 ## Tracklist
 

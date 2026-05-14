@@ -19,6 +19,12 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/uneven-compromise_1778793513"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/d9igi0.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/26b62cc1ce9151175fd7/Uneven_Compromise.tar"
     }
   }
 }
