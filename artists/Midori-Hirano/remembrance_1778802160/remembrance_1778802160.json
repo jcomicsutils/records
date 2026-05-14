@@ -1,0 +1,30 @@
+{
+  "id": "remembrance_1778802160",
+  "fingerprint": "8e4d6616f0b2888960f90bab105940353e657b1230a97b4e00334da605fb2e62",
+  "archived_at": "2026-05-14T23:46:54Z",
+  "metadata": {
+    "title": "Remembrance",
+    "artist": "Midori Hirano",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 294,
+    "duration_human": "00:04:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Midori Hirano - Remembrance"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/remembrance_1778802160"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/aa6ntg.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/4f69719b4e6214be97e2/Remembrance.tar"
+    }
+  }
+}
