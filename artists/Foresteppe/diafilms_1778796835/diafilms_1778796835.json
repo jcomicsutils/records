@@ -1,0 +1,45 @@
+{
+  "id": "diafilms_1778796835",
+  "fingerprint": "7a6c86d59c60d7c894931de8dd4d05527d4f2629fcbb5ad72d92ec310fbbfd10",
+  "archived_at": "2026-05-14T22:20:04Z",
+  "metadata": {
+    "title": "Diafilms",
+    "artist": "Foresteppe",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2836,
+    "duration_human": "00:47:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Foresteppe - Playschool",
+      "02 Foresteppe - The Snow House",
+      "03 Foresteppe - Sweet Bear Dream",
+      "04 Foresteppe - Talephone",
+      "05 Foresteppe - A Boy & an Elk",
+      "06 Foresteppe - Golden Hair",
+      "07 Foresteppe - You Should Know Where You're Going To",
+      "08 Foresteppe - Masha i Podushka"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/diafilms_1778796835"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/mspu02.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/4grbv9.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/b9d634709f8712281885/Diafilms.tar"
+    }
+  }
+}
