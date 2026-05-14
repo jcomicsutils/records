@@ -21,6 +21,12 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/headboard_1778731089"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/omm50x.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/d3265d1685c2b4b41390/Headboard.tar"
     }
   }
 }
