@@ -1,0 +1,30 @@
+{
+  "id": "katyusha-is-a-gun_1778810858",
+  "fingerprint": "119361111ec549b998e462c41aab48709087a794620dce4d36ee76bb4b7b3572",
+  "archived_at": "2026-05-15T02:11:29Z",
+  "metadata": {
+    "title": "Katyusha is a Gun",
+    "artist": "Foresteppe",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 418,
+    "duration_human": "00:06:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Foresteppe - Katyusha is a Gun"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/katyusha-is-a-gun_1778810858"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/s6xvu7.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/3d748871458a9ff9b405/Katyusha_is_a_Gun.tar"
+    }
+  }
+}
