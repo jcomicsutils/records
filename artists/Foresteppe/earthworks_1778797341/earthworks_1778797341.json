@@ -42,6 +42,83 @@
     },
     "fileditch": {
       "url": "https://fileditchfiles.me/file.php?f=/beta1/8988a1e55fe051810b19/Earthworks.tar"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/ic0atl.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/mmlc99.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/x76sfu.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/6iek9n.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/if8rgt.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/5pai6g.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/zzq0gl.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/jq90uq.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/y0fyyq.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/kx0og8.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/x8pvmw.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/jo24on.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/1cj5py.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/9fnkli.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/2clxji.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/wx3d0w.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/osjb7g.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/p0fjuu.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/0d5bx4.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/xabsh0.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/kgf6qe.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/b8h2t6.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/bg6vd7.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/2mz4ac.tar"
+        }
+      ]
     }
   }
 }
