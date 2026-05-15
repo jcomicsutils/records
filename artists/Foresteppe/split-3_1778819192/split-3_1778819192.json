@@ -1,0 +1,25 @@
+{
+  "id": "split-3_1778819192",
+  "fingerprint": "826dd3ae077f17cae88b3f6da355b8f9435ca9a7416fd03624ea64b95c2a3ca3",
+  "archived_at": "2026-05-15T04:36:05Z",
+  "metadata": {
+    "title": "Split #3",
+    "artist": "Foresteppe",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 918,
+    "duration_human": "00:15:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Nikita Bondarev - Di",
+      "02 Foresteppe - Kalitka"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/split-3_1778819192"
+    }
+  }
+}
