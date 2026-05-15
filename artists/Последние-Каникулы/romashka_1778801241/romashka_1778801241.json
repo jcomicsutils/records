@@ -21,6 +21,20 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/romashka_1778801241"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/tydmeb.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/xyo60x.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/a1ace7c1231e4d277903/%D0%A0%D0%BE%D0%BC%D0%B0%D1%88%D0%BA%D0%B0.tar"
     }
   }
 }
