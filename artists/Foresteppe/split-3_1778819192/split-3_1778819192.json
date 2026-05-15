@@ -20,6 +20,12 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/split-3_1778819192"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/x98wjh.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/4608efd91e08bba54f99/Split_3.tar"
     }
   }
 }
