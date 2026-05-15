@@ -1,0 +1,30 @@
+{
+  "id": "everything-starts-here_1778806938",
+  "fingerprint": "37337ce02165bd9e750c93be46d2eb4f7d44f0118f78ce09c59e1439eef2e4bc",
+  "archived_at": "2026-05-15T01:02:59Z",
+  "metadata": {
+    "title": "Everything Starts Here",
+    "artist": "Foresteppe",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 309,
+    "duration_human": "00:05:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Foresteppe, Hmot - Everything Starts Here"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/everything-starts-here_1778806938"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/f4poit.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/30363a1447735bf9fe50/Everything_Starts_Here.tar"
+    }
+  }
+}
