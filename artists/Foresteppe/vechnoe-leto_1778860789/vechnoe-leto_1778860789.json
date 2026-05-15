@@ -1,0 +1,30 @@
+{
+  "id": "vechnoe-leto_1778860789",
+  "fingerprint": "4019ed1ae2bbc873dd2b2fae950ca3db827a748ebc59bdc964851c5fd4348c32",
+  "archived_at": "2026-05-15T16:05:24Z",
+  "metadata": {
+    "title": "Vechnoe Leto",
+    "artist": "Foresteppe",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 319,
+    "duration_human": "00:05:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Foresteppe - Vechnoe Leto"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vechnoe-leto_1778860789"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5517mk.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/34ff51baa24811a4820b/Vechnoe_Leto.tar"
+    }
+  }
+}
