@@ -1,0 +1,30 @@
+{
+  "id": "music-makes-no-prophecy_1778813342",
+  "fingerprint": "3bfef8a22cb65c356fff167eb8e1423d01893c8e889e114d7fec99544644a02b",
+  "archived_at": "2026-05-15T02:51:08Z",
+  "metadata": {
+    "title": "Music Makes No Prophecy",
+    "artist": "Foresteppe",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2226,
+    "duration_human": "00:37:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Foresteppe - Music Makes No Prophecy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/music-makes-no-prophecy_1778813342"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/bt9mff.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/c54373b28d7773f9258f/Music_Makes_No_Prophecy.tar"
+    }
+  }
+}
