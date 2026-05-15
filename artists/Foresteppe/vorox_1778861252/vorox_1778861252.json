@@ -1,0 +1,88 @@
+{
+  "id": "vorox_1778861252",
+  "fingerprint": "5383cda817e1be4f2b57a6624b618d313f9fd6a2cba30ac689a9f6a1931e30ea",
+  "archived_at": "2026-05-15T16:57:35Z",
+  "metadata": {
+    "title": "Vorox",
+    "artist": "Foresteppe",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 33,
+    "duration_seconds": 11478,
+    "duration_human": "03:11:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Foresteppe - Sweet Bear Dream (Live in Jonathan, 2016)",
+      "02 Foresteppe - Veselka City Lights",
+      "03 Foresteppe - Katyusha is a Gun",
+      "04 Foresteppe - Bylo",
+      "05 Foresteppe - Memory for the One",
+      "06 Foresteppe - Fineland",
+      "07 Foresteppe - Just Another Day of War",
+      "08 Foresteppe - Po Tropinkam",
+      "09 егор клочихин - помять память",
+      "10 Foresteppe - Makaluch Unpublished Remix",
+      "11 Foresteppe - Darkest",
+      "12 Foresteppe - Oath",
+      "13 увула & foresteppe - днём с огнём",
+      "14 Egor Klochikhin - Na Samom Dele",
+      "15 Foresteppe - A Second of Joy",
+      "16 Foresteppe - I Will Not Fake My Way Through Life",
+      "17 Foresteppe - The Winter Asks Everything",
+      "18 Kirill Mazhai with you c, Bisamråtta and Foresteppe - III (Live)",
+      "19 Bisamråtta + Foresteppe - Ferris Wheel",
+      "20 Foresteppe - Valezhnick",
+      "21 Foresteppe - A Little Giant Man",
+      "22 you c + foresteppe - Seven Sleepers",
+      "23 Foresteppe - Tooman",
+      "24 Foresteppe - Rozhdestvo Obitateley Lesa",
+      "25 Foresteppe - Kalitka",
+      "26 Foresteppe - Never Trust Yourself",
+      "27 Foresteppe - Pobeg",
+      "28 Foresteppe - Everything Starts Here",
+      "29 Kitten Captain + Foresteppe - Volny",
+      "30 Kitten Captain + Foresteppe - Marrysea",
+      "31 Foresteppe - From the Storm",
+      "32 Foresteppe - Sedniv",
+      "33 Bisamråtta + Foresteppe - Öron Ignorera"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vorox_1778861252"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/gl3fw2.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/q7lxti.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/9rp340.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ka48gp.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/xuqcht.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/8adyy3.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/8qsuam.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/g544cq.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/5dd0e7d1f08cfe6da2f5/Vorox.tar"
+    }
+  }
+}
