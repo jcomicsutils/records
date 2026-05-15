@@ -1,0 +1,40 @@
+{
+  "id": "sem-vetrov_1778803272",
+  "fingerprint": "2cf24557dd19708b66b35affb51985b0470632f4274c250fefb9fe2014cf13d1",
+  "archived_at": "2026-05-15T00:08:14Z",
+  "metadata": {
+    "title": "Семь ветров",
+    "artist": "Последние Каникулы",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2727,
+    "duration_human": "00:45:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Последние Каникулы - Семь ветров",
+      "02 Последние Каникулы - Восьмой",
+      "03 Последние Каникулы - Не перематывай"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sem-vetrov_1778803272"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/snz6sb.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/u54sva.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/e60214f754fc66353c48/%D0%A1%D0%B5%D0%BC%D1%8C_%D0%B2%D0%B5%D1%82%D1%80%D0%BE%D0%B2.tar"
+    }
+  }
+}
