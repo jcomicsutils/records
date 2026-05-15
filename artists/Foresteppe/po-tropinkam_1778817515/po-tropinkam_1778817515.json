@@ -1,0 +1,30 @@
+{
+  "id": "po-tropinkam_1778817515",
+  "fingerprint": "0b4fa21e77dd1ea6a2642125bda9fa99eb816d4d4b363515406b5e1b59f39eb5",
+  "archived_at": "2026-05-15T04:07:18Z",
+  "metadata": {
+    "title": "Po tropinkam",
+    "artist": "Foresteppe",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 632,
+    "duration_human": "00:10:32",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Foresteppe - Po Tropinkam"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/po-tropinkam_1778817515"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/h9f947.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/f924fd6d02123adb5498/Po_tropinkam.tar"
+    }
+  }
+}
