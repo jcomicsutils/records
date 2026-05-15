@@ -1,0 +1,31 @@
+{
+  "id": "split-2_1778819084",
+  "fingerprint": "0d664dbff49f8da0116c52b1785c1917d499881b43c24518703ead5714c3d807",
+  "archived_at": "2026-05-15T04:25:59Z",
+  "metadata": {
+    "title": "Split #2",
+    "artist": "Foresteppe",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 969,
+    "duration_human": "00:16:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nikita Bondarev - You Are in Every Dream",
+      "02 Foresteppe - Pobeg"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/split-2_1778819084"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wfrx8f.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/e3b0050c66568873c27e/Split_2.tar"
+    }
+  }
+}
