@@ -1,0 +1,30 @@
+{
+  "id": "dnem-s-ognem_1778867435",
+  "fingerprint": "2d1783a6d334646231f44d1cda1fa458f77d12af98ece3432ab7c1189fbae480",
+  "archived_at": "2026-05-15T17:51:06Z",
+  "metadata": {
+    "title": "Днём с огнём",
+    "artist": "Foresteppe",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 173,
+    "duration_human": "00:02:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Увула, Foresteppe - Днём с огнём"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dnem-s-ognem_1778867435"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/upla3t.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/1d84a397841a237e6735/%D0%94%D0%BD%D1%91%D0%BC_%D1%81_%D0%BE%D0%B3%D0%BD%D1%91%D0%BC.tar"
+    }
+  }
+}
