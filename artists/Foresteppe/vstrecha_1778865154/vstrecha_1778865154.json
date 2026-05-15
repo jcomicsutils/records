@@ -1,0 +1,30 @@
+{
+  "id": "vstrecha_1778865154",
+  "fingerprint": "71632abc0527847ed7d50e64fdb1f4de54a83572256a637d62584134488ce574",
+  "archived_at": "2026-05-15T17:23:39Z",
+  "metadata": {
+    "title": "Vstrecha",
+    "artist": "Foresteppe",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1778,
+    "duration_human": "00:29:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Foresteppe - Vstrecha"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vstrecha_1778865154"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/75glj1.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/f8bb2469fe3d8172450f/Vstrecha.tar"
+    }
+  }
+}
