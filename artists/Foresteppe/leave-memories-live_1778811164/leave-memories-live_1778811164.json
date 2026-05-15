@@ -1,0 +1,38 @@
+{
+  "id": "leave-memories-live_1778811164",
+  "fingerprint": "10467b6048db357c18f35d713b98d57dfb31001fc88fe0b697fee8462479ad91",
+  "archived_at": "2026-05-15T02:16:28Z",
+  "metadata": {
+    "title": "Leave Memories Live",
+    "artist": "Foresteppe",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3900,
+    "duration_human": "01:05:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Foresteppe - Leave Memories Live"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leave-memories-live_1778811164"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/noq39x.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/rpbu33.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/5cedd26c54d71414aa06/Leave_Memories_Live.tar"
+    }
+  }
+}
