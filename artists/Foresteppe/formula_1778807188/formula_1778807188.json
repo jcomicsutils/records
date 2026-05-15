@@ -1,0 +1,44 @@
+{
+  "id": "formula_1778807188",
+  "fingerprint": "d7606c2997a5eb45b82c35a91d21623661f238abebcd0a577eb9b8e4b3421fc8",
+  "archived_at": "2026-05-15T01:15:02Z",
+  "metadata": {
+    "title": "Formula",
+    "artist": "Foresteppe",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2316,
+    "duration_human": "00:38:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Foresteppe - Gustota",
+      "02 Foresteppe - Pestrota",
+      "03 Foresteppe - Pustota",
+      "04 Foresteppe - Prostota"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/formula_1778807188"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/izhlzh.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/fnohfb.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/i53ojq.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/0ce633509be4cba421d3/Formula.tar"
+    }
+  }
+}
