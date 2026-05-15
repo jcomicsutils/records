@@ -1,0 +1,33 @@
+{
+  "id": "live-in-birdsburg_1778811950",
+  "fingerprint": "915680042d521bae326e074e45810f27b0769ff4221aa043f12c89059bf43bdd",
+  "archived_at": "2026-05-15T02:26:58Z",
+  "metadata": {
+    "title": "Live in Birdsburg",
+    "artist": "Foresteppe",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1300,
+    "duration_human": "00:21:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Foresteppe - Karaul",
+      "02 Foresteppe - Radonitsa",
+      "03 Foresteppe - Sweet Bear Dream",
+      "04 Foresteppe - Devochka"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-in-birdsburg_1778811950"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/h44zrq.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/8bcfafda08b267a96b9d/Live_in_Birdsburg.tar"
+    }
+  }
+}
