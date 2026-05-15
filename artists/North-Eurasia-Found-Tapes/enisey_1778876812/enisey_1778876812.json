@@ -1,0 +1,38 @@
+{
+  "id": "enisey_1778876812",
+  "fingerprint": "675b10f2e4211a80863ff671b1f60426814e85240940f042a309ea228b7c085d",
+  "archived_at": "2026-05-15T21:00:40Z",
+  "metadata": {
+    "title": "→ енисей →",
+    "artist": "North Eurasia Found Tapes",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3130,
+    "duration_human": "00:52:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 А → Б - → енисей →"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/enisey_1778876812"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/nyi82h.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ho3xd3.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/5481eb8f99c7c31867b2/%E2%86%92_%D0%B5%D0%BD%D0%B8%D1%81%D0%B5%D0%B9_%E2%86%92.tar"
+    }
+  }
+}
