@@ -1,0 +1,43 @@
+{
+  "id": "joy-of-all-who-sorrow_1778807920",
+  "fingerprint": "228ffa9814b08b1122e253e879b0d04801098af8d12a88e02fb17648c2adfe79",
+  "archived_at": "2026-05-15T01:23:52Z",
+  "metadata": {
+    "title": "Joy of All Who Sorrow",
+    "artist": "Foresteppe",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1495,
+    "duration_human": "00:24:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Foresteppe - Quiet Refuge of the Overwhelmed",
+      "02 Foresteppe - Softening of Wicked Hearts",
+      "03 Foresteppe - Comfort of All Griefs",
+      "04 Foresteppe - Sole Hope of the Desperate",
+      "05 Foresteppe - Promise of Eternal Blessings",
+      "06 Foresteppe - Life-Giving Spring, Blossom That Never Fades"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/joy-of-all-who-sorrow_1778807920"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/hn70e0.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/04tb1o.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/13a374a917729742375f/Joy_of_All_Who_Sorrow.tar"
+    }
+  }
+}
