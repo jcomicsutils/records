@@ -1,0 +1,49 @@
+{
+  "id": "maeta_1778812972",
+  "fingerprint": "62b35529ee84834cbe82033f7103c55d09e9bb3bf0a64ff0a8d4b2f4c915df83",
+  "archived_at": "2026-05-15T02:47:05Z",
+  "metadata": {
+    "title": "M​æ​ta",
+    "artist": "Foresteppe",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3527,
+    "duration_human": "00:58:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Foresteppe - s04e06",
+      "02 Foresteppe - s02e17",
+      "03 Foresteppe - s02e09",
+      "04 Foresteppe - s03e02",
+      "05 Foresteppe - s01e04",
+      "06 Foresteppe - s08e21",
+      "07 Foresteppe - s02e12",
+      "08 Foresteppe - s05e14",
+      "09 Foresteppe - s03e12",
+      "10 Foresteppe - s04e08",
+      "11 Foresteppe - s02e02",
+      "12 Foresteppe - s02e19"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/maeta_1778812972"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/rqymky.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/cuhhu3.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/a4f4c636b4c975f0daf1/M%E2%80%8B%C3%A6%E2%80%8Bta.tar"
+    }
+  }
+}
