@@ -1,0 +1,30 @@
+{
+  "id": "oh-you-crazy-moon_1778815315",
+  "fingerprint": "11cd718a4d3c0cc024f1b5bbaecc11f5275f567ac7c932770e109c5ebdb3cbdf",
+  "archived_at": "2026-05-15T03:26:23Z",
+  "metadata": {
+    "title": "Oh! You Crazy Moon",
+    "artist": "Foresteppe",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 398,
+    "duration_human": "00:06:38",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Foresteppe - Oh! You Crazy Moon"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/oh-you-crazy-moon_1778815315"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/u1uoi6.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/955ce95615c35fc915db/Oh_You_Crazy_Moon.tar"
+    }
+  }
+}
