@@ -1,0 +1,42 @@
+{
+  "id": "odeyalo_1778813730",
+  "fingerprint": "932d479eddabdae03ca44aa8c3cd9204a8c88f9f19288ccde26f6ef8255f225c",
+  "archived_at": "2026-05-15T03:19:39Z",
+  "metadata": {
+    "title": "Odeyalo",
+    "artist": "Foresteppe",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2215,
+    "duration_human": "00:36:55",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Foresteppe - I - VIII",
+      "02 Foresteppe - IX - XII"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/odeyalo_1778813730"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/tl1rvz.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/r5044h.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/2nbwrd.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/471907d86466fbec6d68/Odeyalo.tar"
+    }
+  }
+}
