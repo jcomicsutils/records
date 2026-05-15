@@ -1,0 +1,48 @@
+{
+  "id": "vyosny_1778866360",
+  "fingerprint": "b750a1b64c4eed5cea705da6a08f92c8130f28c0b87050c931247003b3766e20",
+  "archived_at": "2026-05-15T17:42:31Z",
+  "metadata": {
+    "title": "Vyosny",
+    "artist": "Foresteppe",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2372,
+    "duration_human": "00:39:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Foresteppe - Awakening",
+      "02 Foresteppe - Pervoe Slovo Dorozhe Vtorogo",
+      "03 Foresteppe - Shooga",
+      "04 Foresteppe - Questions for Your Answers",
+      "05 Foresteppe - K zhivomu teplu",
+      "06 Foresteppe - Para Site",
+      "07 Foresteppe - Went Home",
+      "08 Foresteppe - Ouspara"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vyosny_1778866360"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/nrd6oo.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ka30oh.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/afqirg.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/a084d5bdfe3b3ad91fe0/Vyosny.tar"
+    }
+  }
+}
