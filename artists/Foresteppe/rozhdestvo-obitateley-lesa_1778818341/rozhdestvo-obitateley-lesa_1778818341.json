@@ -1,0 +1,30 @@
+{
+  "id": "rozhdestvo-obitateley-lesa_1778818341",
+  "fingerprint": "cab7d43a0f114d712589e0c42c801f7b8181b72824e8b45cbde5883e640c833c",
+  "archived_at": "2026-05-15T04:14:27Z",
+  "metadata": {
+    "title": "Rozhdestvo Obitateley Lesa",
+    "artist": "Foresteppe",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 317,
+    "duration_human": "00:05:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Foresteppe - Rozhdestvo Obitateley Lesa"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rozhdestvo-obitateley-lesa_1778818341"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5bw439.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/f2e031859c061254290c/Rozhdestvo_Obitateley_Lesa.tar"
+    }
+  }
+}
