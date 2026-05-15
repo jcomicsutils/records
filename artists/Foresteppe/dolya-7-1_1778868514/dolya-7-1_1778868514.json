@@ -1,0 +1,30 @@
+{
+  "id": "dolya-7-1_1778868514",
+  "fingerprint": "d19613cf79ceffc914c045583001d1c2eb0e67735eca7fcc0fbd846928c85769",
+  "archived_at": "2026-05-15T18:09:55Z",
+  "metadata": {
+    "title": "доля 7-1",
+    "artist": "Foresteppe",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1215,
+    "duration_human": "00:20:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Foresteppe - доля 7-1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dolya-7-1_1778868514"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/zbiu0d.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/e698b0abb711ed77f554/%D0%B4%D0%BE%D0%BB%D1%8F_7-1.tar"
+    }
+  }
+}
