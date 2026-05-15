@@ -1,0 +1,30 @@
+{
+  "id": "pobeg_1778818077",
+  "fingerprint": "d3b4f23e35fe35f12d549c3a62fd1e446a3d0192a0b471a84b96002e3e46b723",
+  "archived_at": "2026-05-15T04:11:59Z",
+  "metadata": {
+    "title": "Pobeg",
+    "artist": "Foresteppe",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 559,
+    "duration_human": "00:09:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Foresteppe - Pobeg"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pobeg_1778818077"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/nnhwjp.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/e689f08c6f7cd4a3c8ac/Pobeg.tar"
+    }
+  }
+}
