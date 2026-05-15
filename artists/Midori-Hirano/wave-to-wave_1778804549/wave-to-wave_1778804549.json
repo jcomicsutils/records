@@ -1,0 +1,30 @@
+{
+  "id": "wave-to-wave_1778804549",
+  "fingerprint": "693cb237fad4102273c92ac01bb16894f760c711cabfea81b81e23d445af7873",
+  "archived_at": "2026-05-15T00:23:03Z",
+  "metadata": {
+    "title": "Wave to Wave",
+    "artist": "Midori Hirano",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 225,
+    "duration_human": "00:03:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 CoH, Midori Hirano - Wave to Wave"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wave-to-wave_1778804549"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/cfdw5l.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/01a6f2b3506dc99709f8/Wave_to_Wave.tar"
+    }
+  }
+}
