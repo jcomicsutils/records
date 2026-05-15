@@ -1,0 +1,39 @@
+{
+  "id": "2-lives_1778816489",
+  "fingerprint": "9d6b273c260821b231e5ba187fe9a13d2a8e343d79750d010116dd896d176ccc",
+  "archived_at": "2026-05-15T04:04:05Z",
+  "metadata": {
+    "title": "(2) Lives",
+    "artist": "Roel Meelkop",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4430,
+    "duration_human": "01:13:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roel Meelkop - Oude Kerk Charlois",
+      "02 Roel Meelkop - Noodlebar Rotterdam"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/2-lives_1778816489"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/m00edq.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/d3urpb.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/45444e906d2dedaca037/%282%29_Lives.tar"
+    }
+  }
+}
