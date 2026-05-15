@@ -1,0 +1,31 @@
+{
+  "id": "split_1778818687",
+  "fingerprint": "2b6e74d13fa67bdd6d08607d2600e0e9f0216e92580c127ac2c4ddba674748ae",
+  "archived_at": "2026-05-15T04:24:01Z",
+  "metadata": {
+    "title": "Split",
+    "artist": "Foresteppe",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1241,
+    "duration_human": "00:20:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Speck - Forever Starts Now",
+      "02 Foresteppe - From the Storm"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/split_1778818687"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/llul3q.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/ff72f56eed3f2510f4bd/Split.tar"
+    }
+  }
+}
