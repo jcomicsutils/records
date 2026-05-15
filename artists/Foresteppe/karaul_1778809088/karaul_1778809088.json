@@ -1,0 +1,44 @@
+{
+  "id": "karaul_1778809088",
+  "fingerprint": "4b3b183599b6cd3910fc895ce028adee1ae65acf800c239c6fe56015bd4c2a16",
+  "archived_at": "2026-05-15T01:48:40Z",
+  "metadata": {
+    "title": "Karaul",
+    "artist": "Foresteppe",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3790,
+    "duration_human": "01:03:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Foresteppe - Boundary",
+      "02 Foresteppe - Almaz // Radian",
+      "03 Foresteppe - Postern",
+      "04 Foresteppe - 3Z",
+      "05 Foresteppe - Karaul",
+      "06 Foresteppe - Lil One",
+      "07 Foresteppe - Smena Smen"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/karaul_1778809088"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/wkexgf.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/pusga2.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/2b659203bd15fd5b3a89/Karaul.tar"
+    }
+  }
+}
