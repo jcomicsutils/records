@@ -1,0 +1,30 @@
+{
+  "id": "seven-sleepers_1778818529",
+  "fingerprint": "7a9d3fa0e95937862b5d94b4847dcc7ad41865564e62f1a8c8b3dbdd9e41b175",
+  "archived_at": "2026-05-15T04:17:13Z",
+  "metadata": {
+    "title": "Seven Sleepers",
+    "artist": "Foresteppe",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1422,
+    "duration_human": "00:23:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 you c + foresteppe - Seven Sleepers"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/seven-sleepers_1778818529"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/d2b8ts.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/2338a9594fb8ede8dbec/Seven_Sleepers.tar"
+    }
+  }
+}
