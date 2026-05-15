@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [From the Storm](from-the-storm_1778807827/from-the-storm_1778807827.md) | 2013 | FLAC | 00:10:17 | [IA](https://archive.org/details/from-the-storm_1778807827) [Catbox](https://files.catbox.moe/izp86x.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/8fdd15e75ad010970b97/From_the_Storm.tar) |
 | [Earthworks](earthworks_1778797341/earthworks_1778797341.md) | 2013 | FLAC | 15:02:47 | [IA](https://archive.org/details/earthworks_1778797341) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/8988a1e55fe051810b19/Earthworks.tar) |
 | [\\|/|/](f29cf8f83f1a_1778794702/f29cf8f83f1a_1778794702.md) | 2015 | FLAC | 00:38:49 | [IA](https://archive.org/details/f29cf8f83f1a_1778794702) [Catbox ×2](f29cf8f83f1a_1778794702/f29cf8f83f1a_1778794702.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/8ed507f6ad6d397a6ae1/-_-_-.tar) |
 | [Diafilms](diafilms_1778796835/diafilms_1778796835.md) | 2015 | FLAC | 00:47:16 | [IA](https://archive.org/details/diafilms_1778796835) [Catbox ×2](diafilms_1778796835/diafilms_1778796835.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/b9d634709f8712281885/Diafilms.tar) |

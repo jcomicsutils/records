@@ -1,0 +1,30 @@
+{
+  "id": "from-the-storm_1778807827",
+  "fingerprint": "f80d98d3bb7e2f898e0613419fec110817a45621bfdeec749fd2b28acf67b00b",
+  "archived_at": "2026-05-15T01:18:13Z",
+  "metadata": {
+    "title": "From the Storm",
+    "artist": "Foresteppe",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 617,
+    "duration_human": "00:10:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Foresteppe - From the Storm"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/from-the-storm_1778807827"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/izp86x.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/8fdd15e75ad010970b97/From_the_Storm.tar"
+    }
+  }
+}
