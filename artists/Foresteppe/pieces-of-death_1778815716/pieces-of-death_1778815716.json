@@ -1,0 +1,44 @@
+{
+  "id": "pieces-of-death_1778815716",
+  "fingerprint": "3c3ef178b9a29c0d4ceb1531f86a0f369fddc3d602dbe4b598eff72a2cbc642e",
+  "archived_at": "2026-05-15T03:55:53Z",
+  "metadata": {
+    "title": "Pieces of Death",
+    "artist": "Foresteppe",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 6052,
+    "duration_human": "01:40:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jason Calhoun + Foresteppe - Death I",
+      "02 Jason Calhoun + Foresteppe - Death II",
+      "03 Jason Calhoun + Foresteppe - Death III",
+      "04 Jason Calhoun + Foresteppe - Epilogue"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pieces-of-death_1778815716"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/3ga0l8.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/mlkibg.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/63bzob.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/c7434f203c958619a6e1/Pieces_of_Death.tar"
+    }
+  }
+}
