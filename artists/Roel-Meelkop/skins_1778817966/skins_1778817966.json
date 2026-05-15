@@ -1,0 +1,30 @@
+{
+  "id": "skins_1778817966",
+  "fingerprint": "3007686404a8ef8a908b847924a4bd0b2798bb4511159b903093f1217a3afd2c",
+  "archived_at": "2026-05-15T04:06:34Z",
+  "metadata": {
+    "title": "Skins",
+    "artist": "Roel Meelkop",
+    "year": "2002",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 177,
+    "duration_human": "00:02:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Roel Meelkop - Skins"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/skins_1778817966"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/we5j0i.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/07159db201d595a86933/Skins.tar"
+    }
+  }
+}
