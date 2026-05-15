@@ -1,0 +1,38 @@
+{
+  "id": "sudden-fruit_1778802925",
+  "fingerprint": "f29a06888830ecf580e0c9f5e283fded9ec0b28929122d7f1c9d76db5562b74a",
+  "archived_at": "2026-05-14T23:58:58Z",
+  "metadata": {
+    "title": "Sudden Fruit",
+    "artist": "Midori Hirano",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2422,
+    "duration_human": "00:40:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Midori Hirano, CoH - Wave to Wave",
+      "02 Midori Hirano, CoH - Shedding Shadows",
+      "03 Midori Hirano, CoH - Mirages, Memories",
+      "04 Midori Hirano, CoH - Ahead of the Dawn",
+      "05 Midori Hirano, CoH - Sudden Fruit",
+      "06 Midori Hirano, CoH - Flowers of Gravity",
+      "07 Midori Hirano, CoH - Play Echoes",
+      "08 Midori Hirano, CoH - Waltz for Returnal",
+      "09 Midori Hirano, CoH - Disperse"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sudden-fruit_1778802925"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/epn1u7.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/6fdb042afc91d8267e0e/Sudden_Fruit.tar"
+    }
+  }
+}

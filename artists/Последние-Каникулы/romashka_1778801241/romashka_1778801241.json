@@ -1,0 +1,26 @@
+{
+  "id": "romashka_1778801241",
+  "fingerprint": "1beb758f88d82e9d8418753595f6fdbb6e089e25223d157f1a680765f3eee642",
+  "archived_at": "2026-05-14T23:58:47Z",
+  "metadata": {
+    "title": "Ромашка",
+    "artist": "Последние Каникулы",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3342,
+    "duration_human": "00:55:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Последние Каникулы - Чёрная",
+      "02 Последние Каникулы - Ромашка",
+      "03 Последние Каникулы - Ох, ты безумная луна"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/romashka_1778801241"
+    }
+  }
+}
