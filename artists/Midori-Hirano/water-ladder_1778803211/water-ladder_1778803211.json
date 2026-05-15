@@ -1,0 +1,46 @@
+{
+  "id": "water-ladder_1778803211",
+  "fingerprint": "1df42adf12c98395838e29cb0575de6189f400dcacf345f87feef5f3fae07022",
+  "archived_at": "2026-05-15T00:15:33Z",
+  "metadata": {
+    "title": "Water Ladder",
+    "artist": "Midori Hirano",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2491,
+    "duration_human": "00:41:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Atsuko Hatano, Midori Hirano - Summer Noise",
+      "02 Atsuko Hatano, Midori Hirano - Nocturnal Awakening",
+      "03 Atsuko Hatano, Midori Hirano - Cotton Spheres",
+      "04 Atsuko Hatano, Midori Hirano - Water Ladder",
+      "05 Atsuko Hatano, Midori Hirano - Sleeping Trees",
+      "06 Atsuko Hatano, Midori Hirano - Cascade"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/water-ladder_1778803211"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/7jeene.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/wmt32f.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/zy30c7.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/e24c4a81fc92be1413c0/Water_Ladder.tar"
+    }
+  }
+}
