@@ -1,0 +1,30 @@
+{
+  "id": "the-winter-asks-everything_1778860745",
+  "fingerprint": "5ac9a94a893e7dc62ff0ffe5877616165e98c087fb9641160d63cc47d5cc1636",
+  "archived_at": "2026-05-15T15:59:32Z",
+  "metadata": {
+    "title": "The Winter Asks Everything",
+    "artist": "Foresteppe",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 300,
+    "duration_human": "00:05:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Foresteppe - The Winter Asks Everything"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-winter-asks-everything_1778860745"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/6ck73v.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/e859990d6f8451eac3d9/The_Winter_Asks_Everything.tar"
+    }
+  }
+}
