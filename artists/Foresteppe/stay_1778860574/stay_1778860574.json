@@ -1,0 +1,41 @@
+{
+  "id": "stay_1778860574",
+  "fingerprint": "ca0d2cb7e0021854a07012683ff1634818cfabeb39460b4a4cc0f1ee8ad3710a",
+  "archived_at": "2026-05-15T15:57:38Z",
+  "metadata": {
+    "title": "Stay",
+    "artist": "Foresteppe",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1571,
+    "duration_human": "00:26:11",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Foresteppe - Time of Small Organs",
+      "02 Foresteppe - Olive Tree",
+      "03 егор клочихин - помять память",
+      "04 Foresteppe - Po Tropinkam"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stay_1778860574"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/xrrd5e.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/now7u9.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/a794798718fa3217f888/Stay.tar"
+    }
+  }
+}
