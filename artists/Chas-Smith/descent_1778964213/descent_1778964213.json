@@ -1,0 +1,37 @@
+{
+  "id": "descent_1778964213",
+  "fingerprint": "ecb6f48f8b8b5c34f669d3e17b00f01dce7ddd347192d6f87f6fd8ed7d81baab",
+  "archived_at": "2026-05-16T20:52:33Z",
+  "metadata": {
+    "title": "Descent",
+    "artist": "Chas Smith",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2917,
+    "duration_human": "00:48:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Chas Smith - Descent",
+      "02 Chas Smith - Endless Mardi Gras",
+      "03 Chas Smith - False Clarity"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/descent_1778964213"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/a2x0p8.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/4ci6zg.tar"
+        }
+      ]
+    }
+  }
+}
