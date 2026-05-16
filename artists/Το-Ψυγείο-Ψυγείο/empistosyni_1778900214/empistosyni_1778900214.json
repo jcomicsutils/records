@@ -1,0 +1,37 @@
+{
+  "id": "empistosyni_1778900214",
+  "fingerprint": "95d9cac0ae5e15448066bf176ef9c2b2902440c5758ef206afd3f80c5de07234",
+  "archived_at": "2026-05-16T02:59:23Z",
+  "metadata": {
+    "title": "Εμπιστοσύνη",
+    "artist": "Το Ψυγείο Ψυγείο",
+    "year": "1993",
+    "codec": "Opus",
+    "num_tracks": 8,
+    "duration_seconds": 2197,
+    "duration_human": "00:36:37",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Το Ψυγείο Ψυγείο - Υγρή Υποταγή Του Μεσσία",
+      "02 Το Ψυγείο Ψυγείο - Λευκά Κρίνα Στο Στόμα Ενός Σκύλου",
+      "03 Το Ψυγείο Ψυγείο - Με Αυταπάρνηση",
+      "04 Το Ψυγείο Ψυγείο - Τα Μέσα Υπονοεί...",
+      "05 Το Ψυγείο Ψυγείο - In the Ghetto",
+      "06 Το Ψυγείο Ψυγείο - Με Τη Γλώσσα Της Σαλώμης",
+      "07 Το Ψυγείο Ψυγείο - Σκότωσέ Με Με Τα Κέρατά Σου",
+      "08 Το Ψυγείο Ψυγείο - Ο Ιούδας Έπιασε Με Εμπιστοσύνη Το Μικρό Ζεστό Της Χέρι"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/empistosyni_1778900214"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/os6orw.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/11ba35174c6707488bed/%CE%95%CE%BC%CF%80%CE%B9%CF%83%CF%84%CE%BF%CF%83%CF%8D%CE%BD%CE%B7.tar"
+    }
+  }
+}
