@@ -1,0 +1,24 @@
+{
+  "id": "dolya-29-2_1778905758",
+  "fingerprint": "023b3632c0387ff449c5b7226670fcf9ab02f9ee2241ad3175820f43b5362819",
+  "archived_at": "2026-05-16T04:39:38Z",
+  "metadata": {
+    "title": "доля 29-2",
+    "artist": "Foresteppe",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1382,
+    "duration_human": "00:23:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Foresteppe - доля 29-2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dolya-29-2_1778905758"
+    }
+  }
+}
