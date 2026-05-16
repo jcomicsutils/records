@@ -97,6 +97,155 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/dolya_1778872855"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/lih5kk.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/kgv936.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/jod3mr.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/2wewgn.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ggcer1.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/wlqzzv.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/yigc48.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/i252t7.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/4cvs0q.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/9jgju7.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ffk1tv.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/d82hjn.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/y3aohg.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/zpv42z.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/wj84lu.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/97wwob.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/1vbkgo.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/m5pvjm.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/x6o8jc.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/zy800i.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/7resca.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/yrl6k8.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/gq2i44.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/qem0gh.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/7r0u1c.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/38lb06.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/zyevh8.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/q3y53b.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/4ugvsl.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/z13qrk.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/gfb9gl.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/bm3ukk.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/1ogo0x.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/mnde0t.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/01no6y.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/oa7p1i.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/uq75yb.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/loc7te.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/jj8cq2.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/0uwk0y.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/qkhi3m.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/78a7tx.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/cp00xs.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ovr5h1.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/nim30o.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/8og68a.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/t1tn4i.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/7dj4jn.tar"
+        }
+      ]
     }
   }
 }
