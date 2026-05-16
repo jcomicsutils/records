@@ -1,0 +1,36 @@
+{
+  "id": "catopia_1778944105",
+  "fingerprint": "b22ca6e04de1a60c813742716617df6f50d3a0c1833e451488054847592ac6ba",
+  "archived_at": "2026-05-16T15:10:06Z",
+  "metadata": {
+    "title": "Catopia",
+    "artist": "Xiu Xiu",
+    "year": "2022",
+    "codec": "MP3",
+    "num_tracks": 10,
+    "duration_seconds": 1332,
+    "duration_human": "00:22:12",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - They’re Coming",
+      "02 Xiu Xiu - Kontrol Impasse",
+      "03 Xiu Xiu - Crime Chime",
+      "04 Xiu Xiu - Clean Sadness",
+      "05 Xiu Xiu - Staghorn Handle",
+      "06 Xiu Xiu - Or Hope",
+      "07 Xiu Xiu - Maltese",
+      "08 Xiu Xiu - No Tomorrow",
+      "09 Xiu Xiu - Dream Dream",
+      "10 Xiu Xiu - Which Door"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/catopia_1778944105"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/4j4nho.tar"
+    }
+  }
+}
