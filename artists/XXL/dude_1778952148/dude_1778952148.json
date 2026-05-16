@@ -1,0 +1,34 @@
+{
+  "id": "dude_1778952148",
+  "fingerprint": "a541c9e0cab7a8e452bea4e7f65e736f80578dbe49d0d5544aeba593bbd10666",
+  "archived_at": "2026-05-16T17:24:17Z",
+  "metadata": {
+    "title": "Düde",
+    "artist": "XXL",
+    "year": "2012",
+    "codec": "MP3",
+    "num_tracks": 8,
+    "duration_seconds": 3088,
+    "duration_human": "00:51:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 XXL - Film Me in the Laundry #1",
+      "02 XXL - Disco Chrome",
+      "03 XXL - Absorbtion",
+      "04 XXL - Film Me in the Laundry #2",
+      "05 XXL - Krampus",
+      "06 XXL - Oi! Düde!",
+      "07 XXL - Film Me in the Laundry #3",
+      "08 XXL - Vaire"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dude_1778952148"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2x4j00.tar"
+    }
+  }
+}
