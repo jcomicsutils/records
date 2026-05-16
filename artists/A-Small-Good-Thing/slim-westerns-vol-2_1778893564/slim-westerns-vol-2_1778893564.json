@@ -1,0 +1,50 @@
+{
+  "id": "slim-westerns-vol-2_1778893564",
+  "fingerprint": "6b1189459e741164fc76956df1fc959520f41817e147946cbd490b78441ddace",
+  "archived_at": "2026-05-16T01:16:18Z",
+  "metadata": {
+    "title": "Slim Westerns, Vol. 2",
+    "artist": "A Small Good Thing",
+    "year": "2002",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 3168,
+    "duration_human": "00:52:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 A Small Good Thing - Cropduster",
+      "02 A Small Good Thing - A Mighty Stillness",
+      "03 A Small Good Thing - Border Incidental",
+      "04 A Small Good Thing - Hey, Mister!",
+      "05 A Small Good Thing - Saloon Dreams",
+      "06 A Small Good Thing - Let's Get Ripped",
+      "07 A Small Good Thing - 3 Word Prayer",
+      "08 A Small Good Thing - Slow Rotating Machine",
+      "09 A Small Good Thing - Wide of Nashville",
+      "10 A Small Good Thing - El Mariachi Loco",
+      "11 A Small Good Thing - Richard Brautigan",
+      "12 A Small Good Thing - Sleep of the Just",
+      "13 A Small Good Thing - Night"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/slim-westerns-vol-2_1778893564"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/fhk530.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/49u7fa.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/799fc149ecbdf3ae362d/Slim_Westerns_Vol._2.tar"
+    }
+  }
+}
