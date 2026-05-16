@@ -1,0 +1,30 @@
+{
+  "id": "dolya-23-1_1778904914",
+  "fingerprint": "e083b2767f0988becf99bda0e86b0662f90122bcb7c0633516120f610dcb5c6e",
+  "archived_at": "2026-05-16T04:16:46Z",
+  "metadata": {
+    "title": "доля 23-1",
+    "artist": "Foresteppe",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1228,
+    "duration_human": "00:20:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Foresteppe - доля 23-1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dolya-23-1_1778904914"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vwkl3r.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/71bc002fa37457eebf34/%D0%B4%D0%BE%D0%BB%D1%8F_23-1.tar"
+    }
+  }
+}
