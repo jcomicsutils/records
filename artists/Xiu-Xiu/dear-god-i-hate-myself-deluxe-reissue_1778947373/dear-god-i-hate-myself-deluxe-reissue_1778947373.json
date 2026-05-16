@@ -1,0 +1,57 @@
+{
+  "id": "dear-god-i-hate-myself-deluxe-reissue_1778947373",
+  "fingerprint": "2dfd3b9a92a3c0e6c3b69c553968ca21fb61ecb38ac8be2a90784b4739fce707",
+  "archived_at": "2026-05-16T16:32:29Z",
+  "metadata": {
+    "title": "Dear God I Hate Myself (Deluxe Reissue)",
+    "artist": "Xiu Xiu",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 2630,
+    "duration_human": "00:43:50",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Gray Death",
+      "02 Xiu Xiu - Chocolate Makes You Happy",
+      "03 Xiu Xiu - Apple for a Brain",
+      "04 Xiu Xiu - House Sparrow",
+      "05 Xiu Xiu - Hyunhye's Theme",
+      "06 Xiu Xiu - Dear God, I Hate Myself",
+      "07 Xiu Xiu - Secret Motel",
+      "08 Xiu Xiu - Falkland Rd.",
+      "09 Xiu Xiu - The Fabrizio Palumbo Retaliation",
+      "10 Xiu Xiu - Cumberland Gap",
+      "11 Xiu Xiu - This Too Shall Pass Away (For Freddy)",
+      "12 Xiu Xiu - Impossible Feeling",
+      "13 Xiu Xiu - The Ropes Have Pulled Tight (Bonus Track)",
+      "14 Xiu Xiu - Cute Pee Pee (Bonus Track)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dear-god-i-hate-myself-deluxe-reissue_1778947373"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/r4kghe.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/7r9z8a.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/beug75.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/cgjbq1.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/domc91.tar"
+        }
+      ]
+    }
+  }
+}
