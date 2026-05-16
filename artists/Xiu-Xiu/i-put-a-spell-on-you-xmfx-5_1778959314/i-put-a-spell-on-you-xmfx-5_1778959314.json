@@ -1,0 +1,30 @@
+{
+  "id": "i-put-a-spell-on-you-xmfx-5_1778959314",
+  "fingerprint": "3ff817173f166aabb04bee433d2135f5a0be4d63e51d485b315cd122f0a3e97a",
+  "archived_at": "2026-05-16T19:23:20Z",
+  "metadata": {
+    "title": "I Put a Spell on You XMFX 5",
+    "artist": "Xiu Xiu",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1427,
+    "duration_human": "00:23:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - I Put a Spell on You",
+      "02 Xiu Xiu - Isn't It a Pity",
+      "03 Xiu Xiu - Wig Master XMFX",
+      "04 Xiu Xiu - Hostile Downs Funnelweb"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-put-a-spell-on-you-xmfx-5_1778959314"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/khblze.tar"
+    }
+  }
+}
