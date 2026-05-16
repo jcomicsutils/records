@@ -1,0 +1,37 @@
+{
+  "id": "deforms-the-unborn_1778950213",
+  "fingerprint": "c60fc48fdbb3eb6fca3ab8859942dff9706c5b9aa179d68164d2b23d265c7cdd",
+  "archived_at": "2026-05-16T17:08:49Z",
+  "metadata": {
+    "title": "Deforms the Unborn",
+    "artist": "Xiu Xiu",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3663,
+    "duration_human": "01:01:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Deforms the Unborn Part 1",
+      "02 Xiu Xiu - Deforms the Unborn Part 2",
+      "03 Xiu Xiu - Deforms the Unborn Part 3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/deforms-the-unborn_1778950213"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/kf525z.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/jyr6nl.tar"
+        }
+      ]
+    }
+  }
+}
