@@ -1,0 +1,49 @@
+{
+  "id": "tokyo-77_1778896092",
+  "fingerprint": "513dd1dc78bf01ff557fa2ab21458dd9179eafcbd01dfb66e57fc8580a006436",
+  "archived_at": "2026-05-16T02:02:31Z",
+  "metadata": {
+    "title": "Tokyo 77",
+    "artist": "Tokyo 77",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3580,
+    "duration_human": "00:59:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tokyo 77 - Table 31",
+      "02 Tokyo 77 - Sings Do Not Use",
+      "03 Tokyo 77 - Plastic Serrated Knife",
+      "04 Tokyo 77 - Freaks Of Slumber",
+      "05 Tokyo 77 - Farrago - 1",
+      "06 Tokyo 77 - Farrago - 2",
+      "07 Tokyo 77 - Farrago - 3",
+      "08 Tokyo 77 - The Strength and Beauty of Steel Bridges",
+      "09 Tokyo 77 - 3 Doors Two Windows",
+      "10 Tokyo 77 - Surface Noise",
+      "11 Tokyo 77 - Fourth Blade Down",
+      "12 Tokyo 77 - The Back Nine"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tokyo-77_1778896092"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/voq1jz.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/nxcsfy.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/535f5abe5aa8d7d53aff/Tokyo_77.tar"
+    }
+  }
+}
