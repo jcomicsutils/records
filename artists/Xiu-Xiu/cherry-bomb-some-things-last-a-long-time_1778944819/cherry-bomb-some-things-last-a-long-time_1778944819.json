@@ -1,0 +1,28 @@
+{
+  "id": "cherry-bomb-some-things-last-a-long-time_1778944819",
+  "fingerprint": "baacc8f5bde0eb6f7ac0413c8f15dc757b9278a4c318c46fae9174a8ba374e35",
+  "archived_at": "2026-05-16T15:25:10Z",
+  "metadata": {
+    "title": "Cherry Bomb / Some Things Last a Long Time",
+    "artist": "Xiu Xiu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 404,
+    "duration_human": "00:06:44",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Cherry Bomb",
+      "02 Xiu Xiu - Some Things Last a Long Time"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cherry-bomb-some-things-last-a-long-time_1778944819"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/igv0gl.tar"
+    }
+  }
+}
