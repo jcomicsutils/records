@@ -1,0 +1,37 @@
+{
+  "id": "dancing-on-my-own_1778946423",
+  "fingerprint": "b0f675c50cc4f08f84a6250cbbb4a54e5b76b12c661fb35d5cf827e060a16b0f",
+  "archived_at": "2026-05-16T15:52:04Z",
+  "metadata": {
+    "title": "Dancing on My Own",
+    "artist": "Xiu Xiu",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 732,
+    "duration_human": "00:12:12",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Dancing on My Own",
+      "02 Xiu Xiu - Cherry Bomb",
+      "03 Xiu Xiu - Some Things Last a Long Time"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dancing-on-my-own_1778946423"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/unkee0.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/eemsz1.tar"
+        }
+      ]
+    }
+  }
+}
