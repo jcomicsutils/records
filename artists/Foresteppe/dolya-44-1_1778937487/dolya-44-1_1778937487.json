@@ -1,0 +1,27 @@
+{
+  "id": "dolya-44-1_1778937487",
+  "fingerprint": "44eb416a5619b73c3fd6a4ca73abb4e6944e13e6e5b497fb5e0cba2bd3a7a593",
+  "archived_at": "2026-05-16T13:26:31Z",
+  "metadata": {
+    "title": "доля 44-1",
+    "artist": "Foresteppe",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1364,
+    "duration_human": "00:22:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Foresteppe - доля 44-1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dolya-44-1_1778937487"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5e6ebo.tar"
+    }
+  }
+}

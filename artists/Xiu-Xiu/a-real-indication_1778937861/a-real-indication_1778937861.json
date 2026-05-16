@@ -1,0 +1,27 @@
+{
+  "id": "a-real-indication_1778937861",
+  "fingerprint": "c39785ce1e3bf598b1a5b1eae33735c9075f67573b9c5d2b0e20b3eb0e2f6b12",
+  "archived_at": "2026-05-16T13:26:46Z",
+  "metadata": {
+    "title": "A Real Indication",
+    "artist": "Xiu Xiu",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 490,
+    "duration_human": "00:08:10",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Xiu Xiu - A Real Indication"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-real-indication_1778937861"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/to52u2.tar"
+    }
+  }
+}
