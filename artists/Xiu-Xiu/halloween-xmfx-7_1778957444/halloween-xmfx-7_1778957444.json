@@ -1,0 +1,29 @@
+{
+  "id": "halloween-xmfx-7_1778957444",
+  "fingerprint": "07d842cc0bf3d967e5fcb6443231209bee484d19c02f9435480a937e8588fc88",
+  "archived_at": "2026-05-16T18:51:44Z",
+  "metadata": {
+    "title": "Halloween XMFX 7",
+    "artist": "Xiu Xiu",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 920,
+    "duration_human": "00:15:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Halloween",
+      "02 Xiu Xiu - Cynthia's Unisex",
+      "03 Xiu Xiu - Spider Lamentation 7: Wasp Spider"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/halloween-xmfx-7_1778957444"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/kw3zdn.tar"
+    }
+  }
+}
