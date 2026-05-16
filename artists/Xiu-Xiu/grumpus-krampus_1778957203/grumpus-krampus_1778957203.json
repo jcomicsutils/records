@@ -1,0 +1,30 @@
+{
+  "id": "grumpus-krampus_1778957203",
+  "fingerprint": "7af0e128198142bc413f66971780763afaab1c95e9a95d9ea99dabc0be0e8fe1",
+  "archived_at": "2026-05-16T18:47:33Z",
+  "metadata": {
+    "title": "Grumpus Krampus",
+    "artist": "Xiu Xiu",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 606,
+    "duration_human": "00:10:06",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Oh Christmas Tree",
+      "02 Xiu Xiu - White Christmas",
+      "03 Xiu Xiu - We Three Kings",
+      "04 Xiu Xiu - Frosty the Snowman"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/grumpus-krampus_1778957203"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/bxy98h.tar"
+    }
+  }
+}
