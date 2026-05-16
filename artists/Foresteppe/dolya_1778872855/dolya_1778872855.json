@@ -246,6 +246,17 @@
           "url": "https://files.catbox.moe/7dj4jn.tar"
         }
       ]
+    },
+    "fileditch": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://fileditchfiles.me/file.php?f=/beta1/516df509153fd86a0239/%D0%B4%D0%BE%D0%BB%D1%8F.part001.tar"
+        },
+        {
+          "url": "https://fileditchfiles.me/file.php?f=/beta1/34fd2e258a85916c79e4/%D0%B4%D0%BE%D0%BB%D1%8F.part002.tar"
+        }
+      ]
     }
   }
 }
