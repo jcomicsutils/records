@@ -10,6 +10,7 @@
 | [Always](always_1778938692/always_1778938692.md) | 2012 | FLAC | 00:37:52 | [IA](https://archive.org/details/always_1778938692) [Catbox ×2](always_1778938692/always_1778938692.md) |
 | [Angel Guts: Red Classroom](angel-guts-red-classroom_1778939488/angel-guts-red-classroom_1778939488.md) | 2014 | FLAC | 00:40:54 | [IA](https://archive.org/details/angel-guts-red-classroom_1778939488) [Catbox ×2](angel-guts-red-classroom_1778939488/angel-guts-red-classroom_1778939488.md) |
 | [Blacks STEMS](blacks-stems_1778943229/blacks-stems_1778943229.md) | 2021 | FLAC | 01:17:59 | [IA](https://archive.org/details/blacks-stems_1778943229) [Catbox](https://files.catbox.moe/c4ahwr.tar) |
+| [Crank Heart FULL STEMS](crank-heart-full-stems_1778945746/crank-heart-full-stems_1778945746.md) | 2021 | FLAC | 01:05:53 | [IA](https://archive.org/details/crank-heart-full-stems_1778945746) [Catbox](https://files.catbox.moe/k9cr29.tar) |
 | [A Real Indication](a-real-indication_1778937861/a-real-indication_1778937861.md) | 2021 | FLAC | 00:08:10 | [IA](https://archive.org/details/a-real-indication_1778937861) [Catbox](https://files.catbox.moe/to52u2.tar) |
 | [Catopia](catopia_1778944105/catopia_1778944105.md) | 2022 | MP3 | 00:22:12 | [IA](https://archive.org/details/catopia_1778944105) [Catbox](https://files.catbox.moe/4j4nho.tar) |
 | [Brooklyn Dodgers STEMS](brooklyn-dodgers-stems_1778943719/brooklyn-dodgers-stems_1778943719.md) | 2024 | FLAC | 01:29:09 | [IA](https://archive.org/details/brooklyn-dodgers-stems_1778943719) [Catbox](https://files.catbox.moe/z4tpy2.tar) |
