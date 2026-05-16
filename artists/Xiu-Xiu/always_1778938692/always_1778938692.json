@@ -1,0 +1,46 @@
+{
+  "id": "always_1778938692",
+  "fingerprint": "3265191b535d367a0ac677e479ac3af9067b196e3ce9c107f2d653e3714fb833",
+  "archived_at": "2026-05-16T13:46:05Z",
+  "metadata": {
+    "title": "Always",
+    "artist": "Xiu Xiu",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2272,
+    "duration_human": "00:37:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Hi",
+      "02 Xiu Xiu - Joey's Song",
+      "03 Xiu Xiu - Beauty Towne",
+      "04 Xiu Xiu - Honey-Suckle",
+      "05 Xiu Xiu - I Luv Abortion",
+      "06 Xiu Xiu - The Oldness",
+      "07 Xiu Xiu - Chimney's Afire (Mickensian Suicide)",
+      "08 Xiu Xiu - Gul Mudin",
+      "09 Xiu Xiu - Born to Suffer",
+      "10 Xiu Xiu - Factory Girl",
+      "11 Xiu Xiu - Smear the Queen",
+      "12 Xiu Xiu - Black Drum Machine"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/always_1778938692"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/85z1mq.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/tlvnbb.tar"
+        }
+      ]
+    }
+  }
+}
