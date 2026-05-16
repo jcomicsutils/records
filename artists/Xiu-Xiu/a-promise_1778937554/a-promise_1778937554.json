@@ -1,0 +1,47 @@
+{
+  "id": "a-promise_1778937554",
+  "fingerprint": "96c5fa6ec7abdb7ae7112fcde087c52c72f37abe0c7b551c50b41aeba2ee5fe8",
+  "archived_at": "2026-05-16T13:23:27Z",
+  "metadata": {
+    "title": "A Promise",
+    "artist": "Xiu Xiu",
+    "year": "2003",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2336,
+    "duration_human": "00:38:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Sad Pony Guerrilla Girl",
+      "02 Xiu Xiu - Apistat Commander",
+      "03 Xiu Xiu - Walnut House",
+      "04 Xiu Xiu - 20,000 Deaths for Eidelyn Gonzales, 20,000 Deaths for Jamie Peterson",
+      "05 Xiu Xiu - Pink City",
+      "06 Xiu Xiu - Sad Redux-O-Grapher",
+      "07 Xiu Xiu - Blacks",
+      "08 Xiu Xiu - Brooklyn Dodgers",
+      "09 Xiu Xiu - Fast Car",
+      "10 Xiu Xiu - Ian Curtis Wishlist"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-promise_1778937554"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/0pzyf7.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/9n742h.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/3393b7c7668b4ba4dbaf/A_Promise.tar"
+    }
+  }
+}

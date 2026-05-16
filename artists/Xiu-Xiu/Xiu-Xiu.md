@@ -2,5 +2,6 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [A Promise](a-promise_1778937554/a-promise_1778937554.md) | 2003 | FLAC | 00:38:56 | [IA](https://archive.org/details/a-promise_1778937554) [Catbox ×2](a-promise_1778937554/a-promise_1778937554.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/3393b7c7668b4ba4dbaf/A_Promise.tar) |
 | [¡Ciaütistico!](ciautistico_1778934921/ciautistico_1778934921.md) | 2005 | FLAC | 00:40:32 | [IA](https://archive.org/details/ciautistico_1778934921) [Catbox ×2](ciautistico_1778934921/ciautistico_1778934921.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/28147f4c73a539bb4f2f/%C2%A1Cia%C3%BCtistico.tar) |
 | [13" Frank Beltrame Italian Stiletto With Bison Horn Grips](13-frank-beltrame-italian-stiletto-with-bison-horn-grips_1778936173/13-frank-beltrame-italian-stiletto-with-bison-horn-grips_1778936173.md) | 2024 | FLAC | 00:36:13 | [IA](https://archive.org/details/13-frank-beltrame-italian-stiletto-with-bison-horn-grips_1778936173) [Catbox ×4](13-frank-beltrame-italian-stiletto-with-bison-horn-grips_1778936173/13-frank-beltrame-italian-stiletto-with-bison-horn-grips_1778936173.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/cd6d54edc5f927a9ea61/13_Frank_Beltrame_Italian_Stiletto_With_Bison_Horn_Grips.tar) |
