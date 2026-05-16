@@ -1,0 +1,35 @@
+{
+  "id": "fag-patrol_1778954699",
+  "fingerprint": "eabd86e0e71e75024aab5087b3ec6e454eaf5775e1c21bd829829415aa212262",
+  "archived_at": "2026-05-16T18:07:01Z",
+  "metadata": {
+    "title": "Fag Patrol",
+    "artist": "Xiu Xiu",
+    "year": "2003",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2050,
+    "duration_human": "00:34:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Helsabot",
+      "02 Xiu Xiu - King Earth, King Earth",
+      "03 Xiu Xiu - 20,000 Deaths for Eidelyn Gonzalez, 20,000 Deaths for Jamie Peterson",
+      "04 Xiu Xiu - Dr. Troll",
+      "05 Xiu Xiu - Jennifer Lopez",
+      "06 Xiu Xiu - Brooklyn Dodgers",
+      "07 Xiu Xiu - Asleep",
+      "08 Xiu Xiu - I Broke Up",
+      "09 Xiu Xiu - Nieces Pieces"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fag-patrol_1778954699"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wap3o4.tar"
+    }
+  }
+}

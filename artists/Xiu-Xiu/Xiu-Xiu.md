@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Chapel of the Chimes](chapel-of-the-chimes_1778944391/chapel-of-the-chimes_1778944391.md) | 2002 | FLAC | 00:18:45 | [IA](https://archive.org/details/chapel-of-the-chimes_1778944391) [Catbox](https://files.catbox.moe/0ffml6.tar) |
+| [Fag Patrol](fag-patrol_1778954699/fag-patrol_1778954699.md) | 2003 | FLAC | 00:34:10 | [IA](https://archive.org/details/fag-patrol_1778954699) [Catbox](https://files.catbox.moe/wap3o4.tar) |
 | [A Promise](a-promise_1778937554/a-promise_1778937554.md) | 2003 | FLAC | 00:38:56 | [IA](https://archive.org/details/a-promise_1778937554) [Catbox ×2](a-promise_1778937554/a-promise_1778937554.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/3393b7c7668b4ba4dbaf/A_Promise.tar) |
 | [Fabulous Muscles](fabulous-muscles_1778954149/fabulous-muscles_1778954149.md) | 2004 | FLAC | 00:37:38 | [IA](https://archive.org/details/fabulous-muscles_1778954149) [Catbox ×2](fabulous-muscles_1778954149/fabulous-muscles_1778954149.md) |
 | [¡Ciaütistico!](ciautistico_1778934921/ciautistico_1778934921.md) | 2005 | FLAC | 00:40:32 | [IA](https://archive.org/details/ciautistico_1778934921) [Catbox ×2](ciautistico_1778934921/ciautistico_1778934921.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/28147f4c73a539bb4f2f/%C2%A1Cia%C3%BCtistico.tar) |
