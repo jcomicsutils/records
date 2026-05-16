@@ -1,0 +1,35 @@
+{
+  "id": "girl-with-basket-of-fruit_1778956261",
+  "fingerprint": "594dce71fa8b8453ab26e95b8a412f1c35404307fc46a46851f60c8fdb401c07",
+  "archived_at": "2026-05-16T18:32:50Z",
+  "metadata": {
+    "title": "Girl With Basket of Fruit",
+    "artist": "Xiu Xiu",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2195,
+    "duration_human": "00:36:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Girl With Basket of Fruit",
+      "02 Xiu Xiu - It Comes Out as a Joke",
+      "03 Xiu Xiu - Amargi ve Moo",
+      "04 Xiu Xiu - Ice Cream Truck",
+      "05 Xiu Xiu - Pumpkin Attack on Mommy and Daddy",
+      "06 Xiu Xiu - The Wrong Thing",
+      "07 Xiu Xiu - Mary Turner Mary Turner",
+      "08 Xiu Xiu - Scisssssssors",
+      "09 Xiu Xiu - Normal Love"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/girl-with-basket-of-fruit_1778956261"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/stfiap.tar"
+    }
+  }
+}
