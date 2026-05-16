@@ -1,0 +1,27 @@
+{
+  "id": "dolya-47-2_1778939485",
+  "fingerprint": "f35d66def8e4acf6248c12c86ee458c224cd828a50a4e20d04015fa0d49a670a",
+  "archived_at": "2026-05-16T13:54:22Z",
+  "metadata": {
+    "title": "доля 47-2",
+    "artist": "Foresteppe",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1024,
+    "duration_human": "00:17:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Foresteppe - доля 47-2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dolya-47-2_1778939485"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/pea9oe.tar"
+    }
+  }
+}
