@@ -1,0 +1,30 @@
+{
+  "id": "dolya-39-2_1778936680",
+  "fingerprint": "2e8d280af842d6158c6f9b187249bcc947e03b067576b9d66502f8fa6e857260",
+  "archived_at": "2026-05-16T13:11:12Z",
+  "metadata": {
+    "title": "доля 39-2",
+    "artist": "Foresteppe",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1368,
+    "duration_human": "00:22:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Foresteppe - доля 39-2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dolya-39-2_1778936680"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/k0ofp6.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/3b483778d37b5c9766c0/%D0%B4%D0%BE%D0%BB%D1%8F_39-2.tar"
+    }
+  }
+}
