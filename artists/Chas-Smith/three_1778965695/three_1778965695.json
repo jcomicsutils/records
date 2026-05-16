@@ -1,0 +1,26 @@
+{
+  "id": "three_1778965695",
+  "fingerprint": "d67c2b4ca1809fd1e9bd79ae837de046faba70077ff76158af19f97fc4df5f7e",
+  "archived_at": "2026-05-16T21:28:20Z",
+  "metadata": {
+    "title": "Three",
+    "artist": "Chas Smith",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2931,
+    "duration_human": "00:48:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Chas Smith - Distance",
+      "02 Chas Smith - The Replicant",
+      "03 Chas Smith - The End of Cognizance"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/three_1778965695"
+    }
+  }
+}
