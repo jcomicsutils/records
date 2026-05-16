@@ -1,0 +1,35 @@
+{
+  "id": "im-keeping-my-baby-ost_1778959984",
+  "fingerprint": "08d9b80ea9760ac102d6aa55859d94625958c1abb5ab4838427931226b93c89d",
+  "archived_at": "2026-05-16T19:34:01Z",
+  "metadata": {
+    "title": "I'm Keeping My Baby! OST",
+    "artist": "Xiu Xiu",
+    "year": "2014",
+    "codec": "MP3",
+    "num_tracks": 9,
+    "duration_seconds": 1877,
+    "duration_human": "00:31:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Cluster",
+      "02 Xiu Xiu - PPurplee HHeartt",
+      "03 Xiu Xiu - Fix It Now!",
+      "04 Xiu Xiu - Westlake",
+      "05 Xiu Xiu - Deviant Carousal",
+      "06 Xiu Xiu - Terror Hooker",
+      "07 Xiu Xiu - You Can Never Go Home Again",
+      "08 Xiu Xiu - Peanut Harmony",
+      "09 Xiu Xiu - Blood of the Lamb (Original IKMB! Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/im-keeping-my-baby-ost_1778959984"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/3i9qr4.tar"
+    }
+  }
+}
