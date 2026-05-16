@@ -1,0 +1,35 @@
+{
+  "id": "die-die-you-80s-obsessed-pinocchio_1778951643",
+  "fingerprint": "6348df0cf42694fd3f21c90bc0e09d95d8243299b6b633515a500ac6fb49193b",
+  "archived_at": "2026-05-16T17:18:14Z",
+  "metadata": {
+    "title": "Die Die! You 80's Obsessed Pinocchio!",
+    "artist": "Xiu Xiu",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2252,
+    "duration_human": "00:37:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Ceremony",
+      "02 Xiu Xiu - Fast Car",
+      "03 Xiu Xiu - Asleep",
+      "04 Xiu Xiu - Jack the Ripper",
+      "05 Xiu Xiu - Prince Charming",
+      "06 Xiu Xiu - Kangaroo",
+      "07 Xiu Xiu - All We Ever Wanted",
+      "08 Xiu Xiu - Under Pressure",
+      "09 Xiu Xiu - Hated for Loving"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/die-die-you-80s-obsessed-pinocchio_1778951643"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/yq0b06.tar"
+    }
+  }
+}
