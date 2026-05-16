@@ -1,0 +1,44 @@
+{
+  "id": "forget_1778955456",
+  "fingerprint": "9209f4083721337271edc682658d9ae696538d9b48cd41c80aa63a424d4148f4",
+  "archived_at": "2026-05-16T18:22:16Z",
+  "metadata": {
+    "title": "Forget",
+    "artist": "Xiu Xiu",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2633,
+    "duration_human": "00:43:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - The Call",
+      "02 Xiu Xiu - Queen of the Losers",
+      "03 Xiu Xiu - Wondering",
+      "04 Xiu Xiu - Get Up",
+      "05 Xiu Xiu - Hay Choco Bananas",
+      "06 Xiu Xiu - Jenny GoGo",
+      "07 Xiu Xiu - At Last, at Last",
+      "08 Xiu Xiu - Forget",
+      "09 Xiu Xiu - Petite",
+      "10 Xiu Xiu - Faith, Torn Apart"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/forget_1778955456"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/9a3t7m.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/md1h6y.tar"
+        }
+      ]
+    }
+  }
+}
