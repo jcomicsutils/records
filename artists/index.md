@@ -56,6 +56,7 @@
 - [St. Francis Duo](St.-Francis-Duo/St.-Francis-Duo.md)
 - [Steinbrüchel](Steinbrüchel/Steinbrüchel.md)
 - [Stephen O'Malley](Stephen-O'Malley/Stephen-O'Malley.md)
+- [Stillife](Stillife/Stillife.md)
 - [Sunn O\)\)\)](Sunn-O%29%29%29/Sunn-O%29%29%29.md)
 - [Teeth Of Lions Rule The Divine](Teeth-Of-Lions-Rule-The-Divine/Teeth-Of-Lions-Rule-The-Divine.md)
 - [The Runners From 1984](The-Runners-From-1984/The-Runners-From-1984.md)

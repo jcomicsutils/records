@@ -1,0 +1,32 @@
+{
+  "id": "live-at-als-bar-19831984_1778897234",
+  "fingerprint": "735eceeb02f1cae21d1626f7a99035c797ef884f165bb41cd5090cc4b2855d16",
+  "archived_at": "2026-05-16T02:12:28Z",
+  "metadata": {
+    "title": "Live At Al's Bar 1983/1984",
+    "artist": "Stillife",
+    "year": "1983",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1237,
+    "duration_human": "00:20:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Stillife - Celadon (green-pale sea)",
+      "02 Stillife - Into the Light",
+      "03 Stillife - An African Slugfest"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-at-als-bar-19831984_1778897234"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/meh680.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/2be68d6fa721870c72e2/Live_At_Al%27s_Bar_1983_-_1984.tar"
+    }
+  }
+}
