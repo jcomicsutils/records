@@ -20,6 +20,23 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/neft-015_1778952978"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/35j2x5.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/uouaoa.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/fm7dqg.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/e02qgi.tar"
+        }
+      ]
     }
   }
 }

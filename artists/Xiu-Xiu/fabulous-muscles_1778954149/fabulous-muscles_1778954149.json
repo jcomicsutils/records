@@ -1,0 +1,44 @@
+{
+  "id": "fabulous-muscles_1778954149",
+  "fingerprint": "6ee6f49693d185e9cd7f908a67e2c7262fc13abc04843997d565f7c5a5cd24fe",
+  "archived_at": "2026-05-16T17:59:54Z",
+  "metadata": {
+    "title": "Fabulous Muscles",
+    "artist": "Xiu Xiu",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2258,
+    "duration_human": "00:37:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Crank Heart",
+      "02 Xiu Xiu - I Luv the Valley OH!",
+      "03 Xiu Xiu - Bunny Gamer",
+      "04 Xiu Xiu - Little Panda McElroy",
+      "05 Xiu Xiu - Support Our Troops OH!",
+      "06 Xiu Xiu - Fabulous Muscles",
+      "07 Xiu Xiu - Brian the Vampire",
+      "08 Xiu Xiu - Nieces Pieces",
+      "09 Xiu Xiu - Clowne Towne",
+      "10 Xiu Xiu - Mike"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fabulous-muscles_1778954149"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/na5wjm.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ybjrjz.tar"
+        }
+      ]
+    }
+  }
+}
