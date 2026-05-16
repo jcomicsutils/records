@@ -1,0 +1,28 @@
+{
+  "id": "hated-for-loving-handsome-devil_1778957912",
+  "fingerprint": "8139b62b2bbf85c0c10c23cf27226368d1f73355b0c69faca7624c0648abb825",
+  "archived_at": "2026-05-16T18:59:10Z",
+  "metadata": {
+    "title": "Hated for Loving / Handsome Devil",
+    "artist": "Xiu Xiu",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 461,
+    "duration_human": "00:07:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu, Parenthetical Girls - Hated for Loving",
+      "02 Xiu Xiu, Parenthetical Girls - Handsome Devil"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hated-for-loving-handsome-devil_1778957912"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/koh1dx.tar"
+    }
+  }
+}
