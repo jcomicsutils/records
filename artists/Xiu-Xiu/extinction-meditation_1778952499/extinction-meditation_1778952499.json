@@ -1,0 +1,38 @@
+{
+  "id": "extinction-meditation_1778952499",
+  "fingerprint": "ded762eda62bc19ffbe904077984e83573c6a94e7e7aa18fd7369d7dbea6a2aa",
+  "archived_at": "2026-05-16T17:39:48Z",
+  "metadata": {
+    "title": "Extinction Meditation",
+    "artist": "Xiu Xiu",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4351,
+    "duration_human": "01:12:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - 2050",
+      "02 Xiu Xiu - 2071",
+      "03 Xiu Xiu - 2092",
+      "04 Xiu Xiu - 2113"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/extinction-meditation_1778952499"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/g3m1vw.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/m6ynhv.tar"
+        }
+      ]
+    }
+  }
+}
