@@ -1,0 +1,38 @@
+{
+  "id": "an-hour-out-of-desert-center_1778963167",
+  "fingerprint": "d14c5c964c04745cbe42c498d15f39775c6757d488b6d0a1955e09536bcbb87d",
+  "archived_at": "2026-05-16T20:39:06Z",
+  "metadata": {
+    "title": "An Hour Out of Desert Center",
+    "artist": "Chas Smith",
+    "year": "2003",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3277,
+    "duration_human": "00:54:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Chas Smith - An Hour Out of Desert Center",
+      "02 Chas Smith - Absence of Redemption",
+      "03 Chas Smith - A Curse of Beauty",
+      "04 Chas Smith - A '75 Scircura"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/an-hour-out-of-desert-center_1778963167"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/n36xeh.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/oaziih.tar"
+        }
+      ]
+    }
+  }
+}
