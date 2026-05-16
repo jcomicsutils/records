@@ -1,0 +1,50 @@
+{
+  "id": "blacks-stems_1778943229",
+  "fingerprint": "e085ed4d73c26c8183792f135762e3d2a8359fa3e1191b87eb59b3d20b0769c4",
+  "archived_at": "2026-05-16T14:57:52Z",
+  "metadata": {
+    "title": "Blacks STEMS",
+    "artist": "Xiu Xiu",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 24,
+    "duration_seconds": 4679,
+    "duration_human": "01:17:59",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Blacks STEMS bass hole",
+      "02 Xiu Xiu - Blacks STEMS bellz 1",
+      "03 Xiu Xiu - Blacks STEMS bellz 2",
+      "04 Xiu Xiu - Blacks STEMS chords 1",
+      "05 Xiu Xiu - Blacks STEMS chords 2",
+      "06 Xiu Xiu - Blacks STEMS chug tar",
+      "07 Xiu Xiu - Blacks STEMS extra chunk",
+      "08 Xiu Xiu - Blacks STEMS guitar AC",
+      "09 Xiu Xiu - Blacks STEMS guitar and keys",
+      "10 Xiu Xiu - Blacks STEMS guitar plinks",
+      "11 Xiu Xiu - Blacks STEMS guitar",
+      "12 Xiu Xiu - Blacks STEMS keys 5th",
+      "13 Xiu Xiu - Blacks STEMS kiq",
+      "14 Xiu Xiu - Blacks STEMS mando 1",
+      "15 Xiu Xiu - Blacks STEMS mando 2",
+      "16 Xiu Xiu - Blacks STEMS pig hats",
+      "17 Xiu Xiu - Blacks STEMS pizza",
+      "18 Xiu Xiu - Blacks STEMS random boogie",
+      "19 Xiu Xiu - Blacks STEMS rev solo",
+      "20 Xiu Xiu - Blacks STEMS ritmo lo",
+      "21 Xiu Xiu - Blacks STEMS vibration hole",
+      "22 Xiu Xiu - Blacks STEMS vox 1",
+      "23 Xiu Xiu - Blacks STEMS vox 2",
+      "24 Xiu Xiu - Blacks STEMS vox 3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/blacks-stems_1778943229"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/c4ahwr.tar"
+    }
+  }
+}

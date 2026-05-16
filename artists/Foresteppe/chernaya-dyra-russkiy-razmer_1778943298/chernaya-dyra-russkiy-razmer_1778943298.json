@@ -1,0 +1,27 @@
+{
+  "id": "chernaya-dyra-russkiy-razmer_1778943298",
+  "fingerprint": "6daa1fbd908132f05918bff3769aa18c9b507b5d0f9cca55fc53048d6135f0fb",
+  "archived_at": "2026-05-16T14:55:44Z",
+  "metadata": {
+    "title": "чёрная дыра (русский размер)",
+    "artist": "Foresteppe",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 352,
+    "duration_human": "00:05:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "00 Foresteppe - чёрная дыра (русский размер)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chernaya-dyra-russkiy-razmer_1778943298"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/bk6ql8.tar"
+    }
+  }
+}
