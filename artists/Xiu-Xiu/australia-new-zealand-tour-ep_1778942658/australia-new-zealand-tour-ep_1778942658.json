@@ -1,0 +1,34 @@
+{
+  "id": "australia-new-zealand-tour-ep_1778942658",
+  "fingerprint": "fac459c2778cc2bc4cd80670727df2afc84ad0ca1d03093508e4046e2f1e3672",
+  "archived_at": "2026-05-16T14:49:42Z",
+  "metadata": {
+    "title": "Australia / New Zealand Tour EP",
+    "artist": "Xiu Xiu",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1475,
+    "duration_human": "00:24:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Bog People",
+      "02 Xiu Xiu - Red Croissant",
+      "03 Xiu Xiu - Clowne Towne (Remix by Cherry Point)",
+      "04 Xiu Xiu - Juarez",
+      "05 Xiu Xiu - Blueberry Mineshaft",
+      "06 Xiu Xiu - Ale (Remix by Cherry Point)",
+      "07 Xiu Xiu - Bird Sounds",
+      "08 Xiu Xiu - Jack the Ripper"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/australia-new-zealand-tour-ep_1778942658"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/iixqc4.tar"
+    }
+  }
+}
