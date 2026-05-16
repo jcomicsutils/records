@@ -1,0 +1,40 @@
+{
+  "id": "nakadai_1778964813",
+  "fingerprint": "c748c3f80430613222a554e10d330c8e022f9844e3f82059f0e17886aa4cc87d",
+  "archived_at": "2026-05-16T20:58:44Z",
+  "metadata": {
+    "title": "Nakadai",
+    "artist": "Chas Smith",
+    "year": "1987",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3913,
+    "duration_human": "01:05:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Chas Smith - Nakadai",
+      "02 Chas Smith - Hollister",
+      "03 Chas Smith - No. 1, Seduction",
+      "04 Chas Smith - No. 2, Betrayal",
+      "05 Chas Smith - Ghosts on the Windows",
+      "06 Chas Smith - Joaquin Murphey"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nakadai_1778964813"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/ku40gu.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/fzilnm.tar"
+        }
+      ]
+    }
+  }
+}
