@@ -1,0 +1,35 @@
+{
+  "id": "cool-cool-water_1778892397",
+  "fingerprint": "9096aa60399d602979b22cc3a8c1ab6210aa047bde7b92dada951e1fcac95d20",
+  "archived_at": "2026-05-16T00:57:33Z",
+  "metadata": {
+    "title": "Cool Cool Water",
+    "artist": "A Small Good Thing",
+    "year": "1996",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1987,
+    "duration_human": "00:33:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 A Small Good Thing - Redeemer",
+      "02 A Small Good Thing - Steigerville - North",
+      "03 A Small Good Thing - Steigerville - South",
+      "04 A Small Good Thing - Temperance",
+      "05 A Small Good Thing - Burned Clean",
+      "06 A Small Good Thing - The Art of Deception"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cool-cool-water_1778892397"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7e4p0b.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/2991aa546c697f14c8d7/Cool_Cool_Water.tar"
+    }
+  }
+}
