@@ -1,0 +1,29 @@
+{
+  "id": "hamburger-lady_1778957688",
+  "fingerprint": "6eb33df9716fc7fa3f73af3017bfa62ac573bafc6239cb1d03041e3042e72aa1",
+  "archived_at": "2026-05-16T18:55:35Z",
+  "metadata": {
+    "title": "Hamburger Lady",
+    "artist": "Xiu Xiu",
+    "year": "2021",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 619,
+    "duration_human": "00:10:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Hamburger Lady",
+      "02 Xiu Xiu - Clover XMFX SOLO",
+      "03 Xiu Xiu - Choco Woodpecker Lamentation 7/19"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hamburger-lady_1778957688"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/9tlqkk.tar"
+    }
+  }
+}

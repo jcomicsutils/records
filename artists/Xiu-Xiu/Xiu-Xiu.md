@@ -24,6 +24,7 @@
 | [Halloween XMFX 7](halloween-xmfx-7_1778957444/halloween-xmfx-7_1778957444.md) | 2020 | MP3 | 00:15:20 | [IA](https://archive.org/details/halloween-xmfx-7_1778957444) [Catbox](https://files.catbox.moe/kw3zdn.tar) |
 | [Deforms the Unborn](deforms-the-unborn_1778950213/deforms-the-unborn_1778950213.md) | 2020 | FLAC | 01:01:03 | [IA](https://archive.org/details/deforms-the-unborn_1778950213) [Catbox ×2](deforms-the-unborn_1778950213/deforms-the-unborn_1778950213.md) |
 | [Blacks STEMS](blacks-stems_1778943229/blacks-stems_1778943229.md) | 2021 | FLAC | 01:17:59 | [IA](https://archive.org/details/blacks-stems_1778943229) [Catbox](https://files.catbox.moe/c4ahwr.tar) |
+| [Hamburger Lady](hamburger-lady_1778957688/hamburger-lady_1778957688.md) | 2021 | MP3 | 00:10:19 | [IA](https://archive.org/details/hamburger-lady_1778957688) [Catbox](https://files.catbox.moe/9tlqkk.tar) |
 | [Crank Heart FULL STEMS](crank-heart-full-stems_1778945746/crank-heart-full-stems_1778945746.md) | 2021 | FLAC | 01:05:53 | [IA](https://archive.org/details/crank-heart-full-stems_1778945746) [Catbox](https://files.catbox.moe/k9cr29.tar) |
 | [A Real Indication](a-real-indication_1778937861/a-real-indication_1778937861.md) | 2021 | FLAC | 00:08:10 | [IA](https://archive.org/details/a-real-indication_1778937861) [Catbox](https://files.catbox.moe/to52u2.tar) |
 | [Catopia](catopia_1778944105/catopia_1778944105.md) | 2022 | MP3 | 00:22:12 | [IA](https://archive.org/details/catopia_1778944105) [Catbox](https://files.catbox.moe/4j4nho.tar) |
