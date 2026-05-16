@@ -1,0 +1,29 @@
+{
+  "id": "i-think-im-a-mother_1778959590",
+  "fingerprint": "4eb8a48ec11c36b2983ef476dc9b15b2c6a371e44ccf1401977389073751b27f",
+  "archived_at": "2026-05-16T19:27:05Z",
+  "metadata": {
+    "title": "I Think I'm a Mother",
+    "artist": "Xiu Xiu",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 758,
+    "duration_human": "00:12:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - I Think I’M a Mother",
+      "02 Xiu Xiu - Spider Lamentation 8: Marbled Orb Weaver",
+      "03 Xiu Xiu - Sad Redux-O-Grapher XMFX"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-think-im-a-mother_1778959590"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ut3ir0.tar"
+    }
+  }
+}
