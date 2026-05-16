@@ -1,0 +1,47 @@
+{
+  "id": "block_1778891584",
+  "fingerprint": "e1595e88519fc4af31c711c85fa5c025f94e01adfaddf28c5c55029f45791004",
+  "archived_at": "2026-05-16T00:45:02Z",
+  "metadata": {
+    "title": "Block",
+    "artist": "A Small Good Thing",
+    "year": "1997",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3605,
+    "duration_human": "01:00:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 A Small Good Thing - Cooling System",
+      "02 A Small Good Thing - Babywalker",
+      "03 A Small Good Thing - Moving Heat Source",
+      "04 A Small Good Thing - A Short History of Underlinen",
+      "05 A Small Good Thing - The Horn",
+      "06 A Small Good Thing - Essay on a Flat Stomach",
+      "07 A Small Good Thing - Girl From ICI Plant",
+      "08 A Small Good Thing - 40 Watt Ovals",
+      "09 A Small Good Thing - Air Traffic Controller (With Cougar)",
+      "10 A Small Good Thing - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/block_1778891584"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/03m24r.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/2q8xo2.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/07ccef47d7aa7caf4001/Block.tar"
+    }
+  }
+}
