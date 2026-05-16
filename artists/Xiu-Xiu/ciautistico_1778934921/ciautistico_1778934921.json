@@ -1,0 +1,46 @@
+{
+  "id": "ciautistico_1778934921",
+  "fingerprint": "569940494d95815e1b6dc213bb2bc454e07ef38fbbedfb8dd85cda1f062b5c4a",
+  "archived_at": "2026-05-16T12:40:10Z",
+  "metadata": {
+    "title": "¡Ciaütistico!",
+    "artist": "Xiu Xiu",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2432,
+    "duration_human": "00:40:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 XXL - Sunday / Pow Pow Pow Pow Pow Pow Pow",
+      "02 XXL - Minne Mouseistic",
+      "03 XXL - Ciao Ciautistico",
+      "04 XXL - (Pokey in Your) Gnocchi",
+      "05 XXL - Distorted Duck",
+      "06 XXL - Lipstick Fair",
+      "07 XXL - Adam & the Ants / Prince Charming",
+      "08 XXL - Birthday Song",
+      "09 XXL - Sunday"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ciautistico_1778934921"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/kynrom.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/qmy8hc.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/28147f4c73a539bb4f2f/%C2%A1Cia%C3%BCtistico.tar"
+    }
+  }
+}
