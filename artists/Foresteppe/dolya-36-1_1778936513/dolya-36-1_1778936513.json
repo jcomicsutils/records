@@ -1,0 +1,30 @@
+{
+  "id": "dolya-36-1_1778936513",
+  "fingerprint": "453339861ed0b1692fe6a49310be58efc6f0841804c5fc57f7f30bab4dbfe479",
+  "archived_at": "2026-05-16T13:04:11Z",
+  "metadata": {
+    "title": "доля 36-1",
+    "artist": "Foresteppe",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1259,
+    "duration_human": "00:20:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Foresteppe - доля 36-1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dolya-36-1_1778936513"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/a3hozz.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/641a9b9ab1747fea096a/%D0%B4%D0%BE%D0%BB%D1%8F_36-1.tar"
+    }
+  }
+}
