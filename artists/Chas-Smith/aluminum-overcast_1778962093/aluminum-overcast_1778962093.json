@@ -1,0 +1,40 @@
+{
+  "id": "aluminum-overcast_1778962093",
+  "fingerprint": "c0c9470d14f9963d3d14a2c02341fda30c4cbcf9f4d66dd470db3eb581aad39c",
+  "archived_at": "2026-05-16T20:21:30Z",
+  "metadata": {
+    "title": "Aluminum Overcast",
+    "artist": "Chas Smith",
+    "year": "2001",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3038,
+    "duration_human": "00:50:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Chas Smith - Uncovered the Nest",
+      "02 Chas Smith - Gate 5",
+      "03 Chas Smith - A Wasp on Her Abdomen",
+      "04 Chas Smith - Rubric of Green",
+      "05 Chas Smith - Aluminum Overcast",
+      "06 Chas Smith - Nachthexen"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/aluminum-overcast_1778962093"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/bhsy83.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/fo1ziy.tar"
+        }
+      ]
+    }
+  }
+}
