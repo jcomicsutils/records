@@ -1,0 +1,31 @@
+{
+  "id": "chapel-of-the-chimes_1778944391",
+  "fingerprint": "be81235b8ed2d3ff0dc34aba9ffb1e550b041140435cbddc774ef35a5ccc3bdb",
+  "archived_at": "2026-05-16T15:16:54Z",
+  "metadata": {
+    "title": "Chapel of the Chimes",
+    "artist": "Xiu Xiu",
+    "year": "2002",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1125,
+    "duration_human": "00:18:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - I Am the Center of Your World",
+      "02 Xiu Xiu - Jennifer Lopez (The Sweet Science Version)",
+      "03 Xiu Xiu - Ten‐Thousand‐Times‐a‐Minute",
+      "04 Xiu Xiu - King Earth, King Earth",
+      "05 Xiu Xiu - Ceremony"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chapel-of-the-chimes_1778944391"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0ffml6.tar"
+    }
+  }
+}
