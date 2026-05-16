@@ -1,0 +1,110 @@
+{
+  "id": "kek_1778879167",
+  "fingerprint": "49f90319ffccea71974a6eebc1186b887615be6db71301eb6b9421138ca601de",
+  "archived_at": "2026-05-15T23:39:02Z",
+  "metadata": {
+    "title": "KEK",
+    "artist": "North Eurasia Found Tapes",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_seconds": 37524,
+    "duration_human": "10:25:24",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 North Eurasia Found Tapes - КЕК_BEST OF ROCK_A",
+      "02 North Eurasia Found Tapes - КЕК_BEST OF ROCK_B",
+      "03 North Eurasia Found Tapes - КЕК_RAMMSTEIN ROCK PARTY_A",
+      "04 North Eurasia Found Tapes - КЕК_RAMMSTEIN ROCK PARTY_B",
+      "05 North Eurasia Found Tapes - КЕК_ОДНИ ИЗ ЛУЧШИХ_A",
+      "06 North Eurasia Found Tapes - КЕК_ОДНИ ИЗ ЛУЧШИХ_B",
+      "07 North Eurasia Found Tapes - КЕК_РОК-ТАНЦЕВАЛЬНАЯ КОЛЛЕКЦИЯ_A",
+      "08 North Eurasia Found Tapes - КЕК_РОК-ТАНЦЕВАЛЬНАЯ КОЛЛЕКЦИЯ_B",
+      "09 North Eurasia Found Tapes - КЕК_С КАЖДОЙ ПЛАСТИНКИ №3_A",
+      "10 North Eurasia Found Tapes - КЕК_С КАЖДОЙ ПЛАСТИНКИ №3_B",
+      "11 North Eurasia Found Tapes - КЕК_С КАЖДОЙ ПЛАСТИНКИ №4_A",
+      "12 North Eurasia Found Tapes - КЕК_С КАЖДОЙ ПЛАСТИНКИ №4_B",
+      "13 North Eurasia Found Tapes - КЕК_СУПЕРХИТЫ РОКА_A",
+      "14 North Eurasia Found Tapes - КЕК_СУПЕРХИТЫ РОКА_B",
+      "15 North Eurasia Found Tapes - КЕК_ЭСТАФЕТА РУССКОГО РОКА + СОВЕТСКОЕ ЗВУЧАНИЕ №1_A",
+      "16 North Eurasia Found Tapes - КЕК_ЭСТАФЕТА РУССКОГО РОКА + СОВЕТСКОЕ ЗВУЧАНИЕ №1_B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kek_1778879167"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/zzvo0c.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ps3b0t.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/240ien.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/w81v8w.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/plppnr.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/a26cl9.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/q7stcc.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/o8qi9x.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/023o7j.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/v2q1t7.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/3hk2dy.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/cadcuu.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/tu1brf.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/kr7l4v.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/khihzj.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/p0e471.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/05vd9s.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/b5ji7g.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/i9dwhm.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/06879t.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/xej2yp.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/ccf94452babb6216536f/KEK.tar"
+    }
+  }
+}
