@@ -1,0 +1,27 @@
+{
+  "id": "frosty-the-snowman_1778956039",
+  "fingerprint": "370fb9dc6fa6cceb5a07b52726291d7c2c136bdb31fa6d041fac66062c0aad4e",
+  "archived_at": "2026-05-16T18:28:09Z",
+  "metadata": {
+    "title": "Frosty the Snowman",
+    "artist": "Xiu Xiu",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 228,
+    "duration_human": "00:03:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Frosty the Snowman"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/frosty-the-snowman_1778956039"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5x0i52.tar"
+    }
+  }
+}
