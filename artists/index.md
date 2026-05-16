@@ -66,6 +66,7 @@
 - [Vesuvio](Vesuvio/Vesuvio.md)
 - [XXL](XXL/XXL.md)
 - [Xiu Xiu](Xiu-Xiu/Xiu-Xiu.md)
+- [Xiu Xiu/Miniature Garden](Xiu-XiuMiniature-Garden/Xiu-XiuMiniature-Garden.md)
 - [Black Magick SS](black-magick-ss/black-magick-ss.md)
 - [Opera for Infantry](opera-for-infantry/opera-for-infantry.md)
 - [Violent Magic Orchestra](violent-magic-orchestra/violent-magic-orchestra.md)
