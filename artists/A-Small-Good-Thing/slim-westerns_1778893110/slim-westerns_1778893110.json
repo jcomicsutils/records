@@ -1,0 +1,42 @@
+{
+  "id": "slim-westerns_1778893110",
+  "fingerprint": "bc3fc3dec67ef6fe13f3e13592ce90bb26b790aa55a3a986be543d54df818b0a",
+  "archived_at": "2026-05-16T01:04:51Z",
+  "metadata": {
+    "title": "Slim Westerns",
+    "artist": "A Small Good Thing",
+    "year": "1994",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 3151,
+    "duration_human": "00:52:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 A Small Good Thing - Godforsaken",
+      "02 A Small Good Thing - Drowning Light",
+      "03 A Small Good Thing - Twice as Evil as You",
+      "04 A Small Good Thing - Hole in the Heart",
+      "05 A Small Good Thing - Gulch",
+      "06 A Small Good Thing - Flamenco 1",
+      "07 A Small Good Thing - Scorched Earth",
+      "08 A Small Good Thing - Heathaze",
+      "09 A Small Good Thing - Someplace South of Here",
+      "10 A Small Good Thing - Gunsmoke",
+      "11 A Small Good Thing - Flamenco 2",
+      "12 A Small Good Thing - Saguaro",
+      "13 A Small Good Thing - Jane Russell"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/slim-westerns_1778893110"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/x7iewg.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/294d93e9be7270ee7ffa/Slim_Westerns.tar"
+    }
+  }
+}
