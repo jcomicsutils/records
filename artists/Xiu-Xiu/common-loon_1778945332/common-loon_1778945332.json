@@ -1,0 +1,27 @@
+{
+  "id": "common-loon_1778945332",
+  "fingerprint": "f0de498cce3c2179f92f78f11b9223daa1f1b5758faf4158f5fce6a342c022fd",
+  "archived_at": "2026-05-16T15:31:32Z",
+  "metadata": {
+    "title": "Common Loon",
+    "artist": "Xiu Xiu",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 211,
+    "duration_human": "00:03:31",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Common Loon"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/common-loon_1778945332"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ecadyw.tar"
+    }
+  }
+}
