@@ -31,6 +31,17 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/angel-guts-red-classroom_1778939488"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/ej2dsm.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/3gvraa.tar"
+        }
+      ]
     }
   }
 }

@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/angel-guts-red-classroom_1778939488)
+- Catbox: [Part 1](https://files.catbox.moe/ej2dsm.tar) [Part 2](https://files.catbox.moe/3gvraa.tar)
 
 ## Tracklist
 
