@@ -1,0 +1,30 @@
+{
+  "id": "santa-fe_1778965426",
+  "fingerprint": "b411cf94877af5dfbb07a570f84b35cf83d682bdae2543f17913295b06858039",
+  "archived_at": "2026-05-16T21:08:00Z",
+  "metadata": {
+    "title": "Santa Fe",
+    "artist": "Chas Smith",
+    "year": "2003",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1380,
+    "duration_human": "00:23:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Chas Smith - After",
+      "02 Chas Smith - Santa Fe",
+      "03 Chas Smith - October '68",
+      "04 Chas Smith - Scircura"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/santa-fe_1778965426"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/oh2n3v.tar"
+    }
+  }
+}
