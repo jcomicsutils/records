@@ -1,0 +1,35 @@
+{
+  "id": "house-plant-music_1778958580",
+  "fingerprint": "0abfbf736488ca545f7e80f04d85a8a3a3982f7f7293a0bdcf7f7a0f4d5b4e14",
+  "archived_at": "2026-05-16T19:11:15Z",
+  "metadata": {
+    "title": "House Plant Music",
+    "artist": "Xiu Xiu",
+    "year": "2016",
+    "codec": "MP3",
+    "num_tracks": 9,
+    "duration_seconds": 3048,
+    "duration_human": "00:50:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - PLANTS #1 A",
+      "02 Xiu Xiu - PLANTS #2 A",
+      "03 Xiu Xiu - PLANTS #3 A",
+      "04 Xiu Xiu - PLANTS #4 A",
+      "05 Xiu Xiu - PLANTS #1 B",
+      "06 Xiu Xiu - PLANTS #2 B",
+      "07 Xiu Xiu - PLANTS #3 B",
+      "08 Xiu Xiu - PLANTS #4 B",
+      "09 Xiu Xiu - Plants Bonus"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/house-plant-music_1778958580"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/iboss6.tar"
+    }
+  }
+}
