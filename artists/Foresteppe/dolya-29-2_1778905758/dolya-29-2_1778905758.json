@@ -19,6 +19,12 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/dolya-29-2_1778905758"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/c8rnqs.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/48d49d7874f174479f33/%D0%B4%D0%BE%D0%BB%D1%8F_29-2.tar"
     }
   }
 }
