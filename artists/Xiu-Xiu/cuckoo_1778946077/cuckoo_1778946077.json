@@ -1,0 +1,28 @@
+{
+  "id": "cuckoo_1778946077",
+  "fingerprint": "0e4aade43f08b2be2933782d2ab50bfe4e1cb424d27945f392144c4b028240e7",
+  "archived_at": "2026-05-16T15:43:37Z",
+  "metadata": {
+    "title": "CucKoo",
+    "artist": "Xiu Xiu",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1000,
+    "duration_human": "00:16:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Side A",
+      "02 Xiu Xiu - Side B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cuckoo_1778946077"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/dh4803.tar"
+    }
+  }
+}
