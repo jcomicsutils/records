@@ -1,0 +1,29 @@
+{
+  "id": "he-hit-me-it-felt-like-a-kiss_1778958135",
+  "fingerprint": "3603ea5bdf941980c7f730f47c1614fdc4af22a0ac1639c4db8f16b721d8fcfe",
+  "archived_at": "2026-05-16T19:03:09Z",
+  "metadata": {
+    "title": "He Hit Me It Felt Like a Kiss",
+    "artist": "Xiu Xiu",
+    "year": "2021",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 690,
+    "duration_human": "00:11:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - He Hit Me It Felt Like a Kiss",
+      "02 Xiu Xiu - Bog People (Solo)",
+      "03 Xiu Xiu - Javan Flameback Woodpecker Lamentation 6/18"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/he-hit-me-it-felt-like-a-kiss_1778958135"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5arhzg.tar"
+    }
+  }
+}
