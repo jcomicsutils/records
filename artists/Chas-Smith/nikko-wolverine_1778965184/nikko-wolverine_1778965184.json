@@ -1,0 +1,40 @@
+{
+  "id": "nikko-wolverine_1778965184",
+  "fingerprint": "717b2bcb89268bfd094f6ff9695fa23a1fb18028f76e55d0f7605a02fd48eb33",
+  "archived_at": "2026-05-16T21:03:11Z",
+  "metadata": {
+    "title": "Nikko Wolverine",
+    "artist": "Chas Smith",
+    "year": "2000",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3206,
+    "duration_human": "00:53:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Chas Smith - No. 1, The Presence of One",
+      "02 Chas Smith - No. 2, Of One Forbids",
+      "03 Chas Smith - No. 3, The Presence of Another",
+      "04 Chas Smith - Tons Tons Macoutes",
+      "05 Chas Smith - Genus, Sho-Bud",
+      "06 Chas Smith - Near the Divide"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nikko-wolverine_1778965184"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/be1047.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/x8aig6.tar"
+        }
+      ]
+    }
+  }
+}
