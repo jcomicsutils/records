@@ -1,0 +1,27 @@
+{
+  "id": "gray-death-single_1778957000",
+  "fingerprint": "fe1f1ba8f95a6ba2c67f6432d70286fa2f06677b7b88a4eba1f6c7b12441897e",
+  "archived_at": "2026-05-16T18:43:53Z",
+  "metadata": {
+    "title": "Gray Death - Single",
+    "artist": "Xiu Xiu",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 176,
+    "duration_human": "00:02:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Gray Death"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/gray-death-single_1778957000"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8pfohp.tar"
+    }
+  }
+}
