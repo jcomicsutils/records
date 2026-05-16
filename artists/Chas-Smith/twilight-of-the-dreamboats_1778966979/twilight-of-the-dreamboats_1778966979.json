@@ -1,0 +1,24 @@
+{
+  "id": "twilight-of-the-dreamboats_1778966979",
+  "fingerprint": "2c88e1a77e6ad9c70be54efb858a322d083be692606e2907b1f1fa7a588e87fe",
+  "archived_at": "2026-05-16T21:30:44Z",
+  "metadata": {
+    "title": "Twilight of the Dreamboats",
+    "artist": "Chas Smith",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1498,
+    "duration_human": "00:24:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Chas Smith - Twilight of the Dreamboats"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/twilight-of-the-dreamboats_1778966979"
+    }
+  }
+}
