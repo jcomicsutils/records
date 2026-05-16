@@ -1,0 +1,42 @@
+{
+  "id": "neft-001_1778890067",
+  "fingerprint": "10b757125a729a3adc04f2d440ca6ac107ed4c3a2c5d45587d957eb92d68c426",
+  "archived_at": "2026-05-16T00:23:03Z",
+  "metadata": {
+    "title": "NEFT_001",
+    "artist": "North Eurasia Found Tapes",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3989,
+    "duration_human": "01:06:29",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 North Eurasia Found Tapes - NEFT_001_A",
+      "02 North Eurasia Found Tapes - NEFT_001_B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/neft-001_1778890067"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/j7f7cb.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/5j6a3s.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/soqex3.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/8c197399145f83a13ceb/NEFT_001.tar"
+    }
+  }
+}
