@@ -1,0 +1,49 @@
+{
+  "id": "13-frank-beltrame-italian-stiletto-with-bison-horn-grips_1778936173",
+  "fingerprint": "1dfc86791c4e7b3186249ca5c38f57a16b937b5c4e34c6bfedb9587bf4592f7a",
+  "archived_at": "2026-05-16T13:15:39Z",
+  "metadata": {
+    "title": "13\" Frank Beltrame Italian Stiletto With Bison Horn Grips",
+    "artist": "Xiu Xiu",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2173,
+    "duration_human": "00:36:13",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Arp Omni",
+      "02 Xiu Xiu - Maestro One Chord",
+      "03 Xiu Xiu - Common Loon",
+      "04 Xiu Xiu - Pale Flower",
+      "05 Xiu Xiu - Veneficium",
+      "06 Xiu Xiu - Sleep Blvd.",
+      "07 Xiu Xiu - T.D.F.T.W.",
+      "08 Xiu Xiu - Bobby Bland",
+      "09 Xiu Xiu - Piña, Coconut & Cherry"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/13-frank-beltrame-italian-stiletto-with-bison-horn-grips_1778936173"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/lmk8j5.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/4whgyd.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/8g5cy8.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/92a9ga.tar"
+        }
+      ]
+    }
+  }
+}
