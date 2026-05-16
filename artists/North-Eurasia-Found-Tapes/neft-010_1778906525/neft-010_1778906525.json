@@ -20,6 +20,20 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/neft-010_1778906525"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/8fy3vh.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/xdopb0.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/e8vqpy.tar"
+        }
+      ]
     }
   }
 }
