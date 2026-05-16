@@ -1,0 +1,27 @@
+{
+  "id": "dolya-45-1_1778938630",
+  "fingerprint": "e1cfd010dfa78175547dbcbf28a1fd5232ca2881de7713993878b5749cf609b5",
+  "archived_at": "2026-05-16T13:39:15Z",
+  "metadata": {
+    "title": "доля 45-1",
+    "artist": "Foresteppe",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1375,
+    "duration_human": "00:22:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Foresteppe - доля 45-1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dolya-45-1_1778938630"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/rewnox.tar"
+    }
+  }
+}
