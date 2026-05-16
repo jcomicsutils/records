@@ -20,6 +20,23 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/neft-011_1778943983"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/9u5j8b.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ebx5fi.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/aihurk.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/avj77j.tar"
+        }
+      ]
     }
   }
 }
