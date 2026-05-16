@@ -1,0 +1,40 @@
+{
+  "id": "musica-veneris-nocturnus_1778897573",
+  "fingerprint": "f7b1553ff6a66882f5022b4aa24109644bff76f7faf825839255925e39659055",
+  "archived_at": "2026-05-16T02:24:12Z",
+  "metadata": {
+    "title": "Musica Veneris Nocturnus",
+    "artist": "Stillife",
+    "year": "1978",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4478,
+    "duration_human": "01:14:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Stillife - mvn: Venus and Tannhäuser, Act-1",
+      "02 Stillife - mvn: Venus and Tannhäuser, Act-2",
+      "03 Stillife - mvn: Venus and Tannhäuser, Act-3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/musica-veneris-nocturnus_1778897573"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/59ng42.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/7joof7.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/449e8a0666de1c4c9e10/Musica_Veneris_Nocturnus.tar"
+    }
+  }
+}
