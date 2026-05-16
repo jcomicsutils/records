@@ -1,0 +1,27 @@
+{
+  "id": "dolya-48-1_1778939866",
+  "fingerprint": "725748bd62417615dc9cd3309b0ffe652291442f18437fa03438970f7a15f465",
+  "archived_at": "2026-05-16T14:00:56Z",
+  "metadata": {
+    "title": "доля 48-1",
+    "artist": "Foresteppe",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1416,
+    "duration_human": "00:23:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Foresteppe - доля 48-1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dolya-48-1_1778939866"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/fcfpk5.tar"
+    }
+  }
+}
