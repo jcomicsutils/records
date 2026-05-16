@@ -1,0 +1,28 @@
+{
+  "id": "daphny_1778947039",
+  "fingerprint": "7dd9fe1768fb3cc12d49fca4cb10a0a4006e6a112fe60cff19254388ef6bd00a",
+  "archived_at": "2026-05-16T15:59:41Z",
+  "metadata": {
+    "title": "Daphny",
+    "artist": "Xiu Xiu",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 412,
+    "duration_human": "00:06:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Daphny",
+      "02 Xiu Xiu - Only Girl (In the World)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/daphny_1778947039"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/iy2nw9.tar"
+    }
+  }
+}
