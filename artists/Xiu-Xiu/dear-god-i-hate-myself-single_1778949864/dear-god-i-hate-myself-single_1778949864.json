@@ -1,0 +1,27 @@
+{
+  "id": "dear-god-i-hate-myself-single_1778949864",
+  "fingerprint": "38bbc8ea526f7c0d2bbb26e4637e7210e277e565f70e2133af7d232f0a49f0e3",
+  "archived_at": "2026-05-16T16:46:53Z",
+  "metadata": {
+    "title": "Dear God, I Hate Myself - Single",
+    "artist": "Xiu Xiu",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 186,
+    "duration_human": "00:03:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Dear God, I Hate Myself"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dear-god-i-hate-myself-single_1778949864"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/pm5atr.tar"
+    }
+  }
+}

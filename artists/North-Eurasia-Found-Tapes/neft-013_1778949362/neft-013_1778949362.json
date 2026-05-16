@@ -20,6 +20,17 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/neft-013_1778949362"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/3wn3uy.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/go1om6.tar"
+        }
+      ]
     }
   }
 }
