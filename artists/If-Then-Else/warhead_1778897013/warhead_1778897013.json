@@ -1,0 +1,37 @@
+{
+  "id": "warhead_1778897013",
+  "fingerprint": "c02778f70b4506ca1b37aa7ba34771721194c83590fb76470dcafaee974dfd6a",
+  "archived_at": "2026-05-16T02:06:53Z",
+  "metadata": {
+    "title": "Warhead",
+    "artist": "If-Then-Else",
+    "year": "1981",
+    "codec": "MP3",
+    "num_tracks": 8,
+    "duration_seconds": 1637,
+    "duration_human": "00:27:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 If-Then-Else - Hey Big Oil",
+      "02 If-Then-Else - Sidewalker",
+      "03 If-Then-Else - The Wedge",
+      "04 If-Then-Else - Warhead",
+      "05 If-Then-Else - Crows Over A Parking Lot",
+      "06 If-Then-Else - The Central Figure",
+      "07 If-Then-Else - Vesta",
+      "08 If-Then-Else - Vernichtung"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/warhead_1778897013"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/v39d5f.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/19299c72cc336b53edee/Warhead.tar"
+    }
+  }
+}
