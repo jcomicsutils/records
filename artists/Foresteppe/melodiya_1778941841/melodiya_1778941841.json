@@ -1,0 +1,36 @@
+{
+  "id": "melodiya_1778941841",
+  "fingerprint": "ad0139925d730e2dc508f4b3b0b726d6e6c060eb83e3e1a5f12d8c9e772536d2",
+  "archived_at": "2026-05-16T14:33:23Z",
+  "metadata": {
+    "title": "мелодия",
+    "artist": "Foresteppe",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2055,
+    "duration_human": "00:34:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 клочихин и мажай - яимелод",
+      "02 клочихин и мажай - лодияме"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/melodiya_1778941841"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/auilti.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/r9qu35.tar"
+        }
+      ]
+    }
+  }
+}
