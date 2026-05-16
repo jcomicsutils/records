@@ -1,0 +1,37 @@
+{
+  "id": "arp-omni-veneficium_1778941195",
+  "fingerprint": "818fa4c997e8e678ee38fd0e457a10ad91a429ffc4b7ac1689682bbaa2693181",
+  "archived_at": "2026-05-16T14:39:23Z",
+  "metadata": {
+    "title": "Arp Omni / Veneficium",
+    "artist": "Xiu Xiu",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 722,
+    "duration_human": "00:12:02",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Arp Omni",
+      "02 Xiu Xiu - Veneficium",
+      "03 Xiu Xiu - Common Loon"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/arp-omni-veneficium_1778941195"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/kaq3cr.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/br36no.tar"
+        }
+      ]
+    }
+  }
+}
