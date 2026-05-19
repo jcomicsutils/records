@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/twilight-of-the-dreamboats_1778966979)
+- [Catbox](https://files.catbox.moe/oz8im8.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/35bfa577819791dc8220/Twilight_of_the_Dreamboats.tar)
 
 ## Tracklist
 
