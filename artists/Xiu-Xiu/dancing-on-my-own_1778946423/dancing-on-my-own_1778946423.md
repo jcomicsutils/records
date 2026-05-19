@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/dancing-on-my-own_1778946423)
 - Catbox: [Part 1](https://files.catbox.moe/unkee0.tar) [Part 2](https://files.catbox.moe/eemsz1.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/14fadd89ee0677575707/Dancing_on_My_Own.tar)
 
 ## Tracklist
 
