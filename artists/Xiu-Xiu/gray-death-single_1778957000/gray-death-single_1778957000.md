@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/gray-death-single_1778957000)
 - [Catbox](https://files.catbox.moe/8pfohp.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/6abdeaff5705106752d8/Gray_Death_-_Single.tar)
 
 ## Tracklist
 
