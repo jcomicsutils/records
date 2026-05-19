@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/i-luv-the-valley-oh-full-stems_1778958865)
 - [Catbox](https://files.catbox.moe/3fsody.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/c8195ec5eb0a59a5f5a8/I_Luv_the_Valley_OH_Full_Stems.tar)
 
 ## Tracklist
 
