@@ -20,6 +20,17 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/neft-018_1778959953"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/jlsnl5.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/c7so86.tar"
+        }
+      ]
     }
   }
 }
