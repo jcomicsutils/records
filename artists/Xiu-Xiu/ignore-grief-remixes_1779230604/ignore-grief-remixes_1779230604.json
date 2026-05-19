@@ -1,0 +1,31 @@
+{
+  "id": "ignore-grief-remixes_1779230604",
+  "fingerprint": "2012e9a946ad0507c6c63da16ed6d9970a97760ac82a26ccde85d8f34d40ffed",
+  "archived_at": "2026-05-19T22:56:24Z",
+  "metadata": {
+    "title": "Ignore Grief (Remixes)",
+    "artist": "Xiu Xiu",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1039,
+    "duration_human": "00:17:19",
+    "sampling_rate": "88.2kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Xiu Xiu - Brothel Creeper (A Place to Bury Strangers Remix)",
+      "02 Xiu Xiu - Pahrump (Rawzilk Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ignore-grief-remixes_1779230604"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vjdr2e.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/303db1087bd5b7ee312b/Ignore_Grief_Remixes.tar"
+    }
+  }
+}
