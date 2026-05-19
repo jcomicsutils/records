@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/grumpus-krampus_1778957203)
 - [Catbox](https://files.catbox.moe/bxy98h.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/c4065c06a010a5c30a42/Grumpus_Krampus.tar)
 
 ## Tracklist
 
