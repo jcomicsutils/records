@@ -66,6 +66,7 @@
 - [Tokyo 77](Tokyo-77/Tokyo-77.md)
 - [Various Artists](Various-Artists/Various-Artists.md)
 - [Vesuvio](Vesuvio/Vesuvio.md)
+- [XIU XIU](XIU-XIU/XIU-XIU.md)
 - [XXL](XXL/XXL.md)
 - [Xiu Xiu](Xiu-Xiu/Xiu-Xiu.md)
 - [Xiu Xiu/Miniature Garden](Xiu-XiuMiniature-Garden/Xiu-XiuMiniature-Garden.md)
