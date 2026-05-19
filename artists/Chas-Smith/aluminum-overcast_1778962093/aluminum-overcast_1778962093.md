@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/aluminum-overcast_1778962093)
 - Catbox: [Part 1](https://files.catbox.moe/bhsy83.tar) [Part 2](https://files.catbox.moe/fo1ziy.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/f46054cf0109b00ff4f8/Aluminum_Overcast.tar)
 
 ## Tracklist
 
