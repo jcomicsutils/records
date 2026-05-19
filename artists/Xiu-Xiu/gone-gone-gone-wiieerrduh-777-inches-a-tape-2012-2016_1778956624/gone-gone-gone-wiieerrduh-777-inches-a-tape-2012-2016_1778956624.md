@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/gone-gone-gone-wiieerrduh-777-inches-a-tape-2012-2016_1778956624)
 - [Catbox](https://files.catbox.moe/x8022n.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/499e5a3b58e0abf6dabc/GONE_Gone_GONE_Wiieerrd_uh_7.77_Inches_a_Tape_2012-2016.tar)
 
 ## Tracklist
 
