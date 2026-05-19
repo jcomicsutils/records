@@ -1,0 +1,32 @@
+{
+  "id": "in-dreams-xmfx-14_1779231441",
+  "fingerprint": "07c4e48f613c3d2e15baddc3ddc8f9172af83022d77bc3bcabfc83d45896b919",
+  "archived_at": "2026-05-19T22:58:23Z",
+  "metadata": {
+    "title": "In Dreams XMFX 14",
+    "artist": "Xiu Xiu",
+    "year": "2021",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 718,
+    "duration_human": "00:11:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - In Dreams",
+      "02 Xiu Xiu - Dr. Troll Solo",
+      "03 Xiu Xiu - Woodpecker Lamentation 2/14 Hispaniolan Woodpecker"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/in-dreams-xmfx-14_1779231441"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/653jem.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/509db83fcaa8a6ecde52/In_Dreams_XMFX_14.tar"
+    }
+  }
+}
