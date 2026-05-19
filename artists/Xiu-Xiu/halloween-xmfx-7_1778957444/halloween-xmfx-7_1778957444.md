@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/halloween-xmfx-7_1778957444)
 - [Catbox](https://files.catbox.moe/kw3zdn.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/bbf7d0f54ca9d4726813/Halloween_XMFX_7.tar)
 
 ## Tracklist
 
