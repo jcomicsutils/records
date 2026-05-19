@@ -1,0 +1,48 @@
+{
+  "id": "la-foret_1779233432",
+  "fingerprint": "4a1b01aa92652eff79d921b5f95c0165d20fb186e151319fd7d50a046ff096c0",
+  "archived_at": "2026-05-19T23:49:47Z",
+  "metadata": {
+    "title": "La For​ê​t",
+    "artist": "Xiu Xiu",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2649,
+    "duration_human": "00:44:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Clover",
+      "02 Xiu Xiu - Muppet Face",
+      "03 Xiu Xiu - Mousey Toy",
+      "04 Xiu Xiu - Pox",
+      "05 Xiu Xiu - Baby Captain",
+      "06 Xiu Xiu - Saturn",
+      "07 Xiu Xiu - Rose of Sharon",
+      "08 Xiu Xiu - Ale",
+      "09 Xiu Xiu - Bog People",
+      "10 Xiu Xiu - Dangerous You Shouldn't Be Here",
+      "11 Xiu Xiu - Yellow Raspberry"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/la-foret_1779233432"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/shc04j.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/6hzcxk.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/06f01003802893831106/La_For_t.tar"
+    }
+  }
+}
