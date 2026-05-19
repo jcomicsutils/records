@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/dear-god-i-hate-myself-single_1778949864)
 - [Catbox](https://files.catbox.moe/pm5atr.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/120323c412b3cf7aa963/Dear_God_I_Hate_Myself_-_Single.tar)
 
 ## Tracklist
 
