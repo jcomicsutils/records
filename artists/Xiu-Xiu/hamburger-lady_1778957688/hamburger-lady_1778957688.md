@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/hamburger-lady_1778957688)
 - [Catbox](https://files.catbox.moe/9tlqkk.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/3e8b9445ed239c25e314/Hamburger_Lady.tar)
 
 ## Tracklist
 
