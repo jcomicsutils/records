@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/an-hour-out-of-desert-center_1778963167)
 - Catbox: [Part 1](https://files.catbox.moe/n36xeh.tar) [Part 2](https://files.catbox.moe/oaziih.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/ca5513a9e75044bebfbe/An_Hour_Out_of_Desert_Center.tar)
 
 ## Tracklist
 
