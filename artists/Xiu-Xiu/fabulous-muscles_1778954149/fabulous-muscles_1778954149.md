@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/fabulous-muscles_1778954149)
 - Catbox: [Part 1](https://files.catbox.moe/na5wjm.tar) [Part 2](https://files.catbox.moe/ybjrjz.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/8728718bbea6610327bf/Fabulous_Muscles.tar)
 
 ## Tracklist
 
