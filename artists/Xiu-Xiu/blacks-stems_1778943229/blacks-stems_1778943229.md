@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/blacks-stems_1778943229)
 - [Catbox](https://files.catbox.moe/c4ahwr.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/85f93b0ca91fe0ee12cb/Blacks_STEMS.tar)
 
 ## Tracklist
 
