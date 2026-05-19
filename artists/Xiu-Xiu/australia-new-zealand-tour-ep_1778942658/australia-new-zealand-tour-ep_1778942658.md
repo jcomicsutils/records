@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/australia-new-zealand-tour-ep_1778942658)
 - [Catbox](https://files.catbox.moe/iixqc4.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/65555d1c63afb8c64c46/Australia_-_New_Zealand_Tour_EP.tar)
 
 ## Tracklist
 
