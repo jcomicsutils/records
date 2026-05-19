@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/dear-god-i-hate-myself-deluxe-reissue_1778947373)
 - Catbox: [Part 1](https://files.catbox.moe/r4kghe.tar) [Part 2](https://files.catbox.moe/7r9z8a.tar) [Part 3](https://files.catbox.moe/beug75.tar) [Part 4](https://files.catbox.moe/cgjbq1.tar) [Part 5](https://files.catbox.moe/domc91.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/df807beaa1c103cbec46/Dear_God_I_Hate_Myself_Deluxe_Reissue.tar)
 
 ## Tracklist
 
