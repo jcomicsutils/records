@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/frosty-the-snowman_1778956039)
 - [Catbox](https://files.catbox.moe/5x0i52.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/ef64136fae66532e246f/Frosty_the_Snowman.tar)
 
 ## Tracklist
 
