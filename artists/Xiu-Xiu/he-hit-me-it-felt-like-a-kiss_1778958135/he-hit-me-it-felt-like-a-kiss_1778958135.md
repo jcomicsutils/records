@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/he-hit-me-it-felt-like-a-kiss_1778958135)
 - [Catbox](https://files.catbox.moe/5arhzg.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/463562a6ab32e71b35fc/He_Hit_Me_It_Felt_Like_a_Kiss.tar)
 
 ## Tracklist
 
