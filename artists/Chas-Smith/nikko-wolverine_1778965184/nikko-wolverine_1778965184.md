@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/nikko-wolverine_1778965184)
 - Catbox: [Part 1](https://files.catbox.moe/be1047.tar) [Part 2](https://files.catbox.moe/x8aig6.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/7527b6960febebe62c1f/Nikko_Wolverine.tar)
 
 ## Tracklist
 
