@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/crank-heart-full-stems_1778945746)
 - [Catbox](https://files.catbox.moe/k9cr29.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/cd5f195257ecf70eefa0/Crank_Heart_FULL_STEMS.tar)
 
 ## Tracklist
 
