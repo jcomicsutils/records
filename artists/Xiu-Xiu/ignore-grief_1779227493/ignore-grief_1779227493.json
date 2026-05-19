@@ -1,0 +1,56 @@
+{
+  "id": "ignore-grief_1779227493",
+  "fingerprint": "cc73d439ed3d9f88fee5a3d95a8797ee9efda9a8b8beda6916d2ead07443a47f",
+  "archived_at": "2026-05-19T22:38:22Z",
+  "metadata": {
+    "title": "Ignore Grief",
+    "artist": "Xiu Xiu",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2532,
+    "duration_human": "00:42:12",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Xiu Xiu - The Real Chaos Cha Cha Cha",
+      "02 Xiu Xiu - 666 Photos of Nothing",
+      "03 Xiu Xiu - Esquerita, Little Richard",
+      "04 Xiu Xiu - Maybae Baeby",
+      "05 Xiu Xiu - Tarsier, Tarsier, Tarsier, Tarsier",
+      "06 Xiu Xiu - Pahrump",
+      "07 Xiu Xiu - Border Factory",
+      "08 Xiu Xiu - Dracula Parrot, Moon Moth",
+      "09 Xiu Xiu - Brothel Creeper",
+      "10 Xiu Xiu - For M."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ignore-grief_1779227493"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/zo8ml6.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/mn6fsh.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/84ulht.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/0bn4v3.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/tk0ty2.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/3314defc6857c4a8ef55/Ignore_Grief.tar"
+    }
+  }
+}
