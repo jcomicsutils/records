@@ -1,0 +1,37 @@
+{
+  "id": "insound-tour-support-series-volume-26_1779231716",
+  "fingerprint": "40fccbcef4316d4e76683e3abdb1f65eade29a20953a830a9237bbf8ce7cc1f2",
+  "archived_at": "2026-05-19T23:03:42Z",
+  "metadata": {
+    "title": "Insound Tour Support Series, Volume 26",
+    "artist": "The Jim Yoshii Pile-Up / Xiu Xiu",
+    "year": "2003",
+    "codec": "MP3",
+    "num_tracks": 8,
+    "duration_seconds": 1774,
+    "duration_human": "00:29:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The Jim Yoshii Pile-Up - Seattle",
+      "02 Xiu Xiu - Bunny Gamer",
+      "03 The Jim Yoshii Pile-Up - Conversation Stalls",
+      "04 Xiu Xiu - Fabulous Muscles",
+      "05 The Jim Yoshii Pile-Up - Birthday Cake",
+      "06 Xiu Xiu - Little Panda McElroy",
+      "07 The Jim Yoshii Pile-Up - X-Mas Card",
+      "08 Xiu Xiu - Nieces Pieces"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/insound-tour-support-series-volume-26_1779231716"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/kegnbz.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/71a6e82416d677d5ca25/Insound_Tour_Support_Series_Volume_26.tar"
+    }
+  }
+}
