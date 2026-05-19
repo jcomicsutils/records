@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/arp-omni-veneficium_1778941195)
 - Catbox: [Part 1](https://files.catbox.moe/kaq3cr.tar) [Part 2](https://files.catbox.moe/br36no.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/eff1fd33cc8a5743b604/Arp_Omni_-_Veneficium.tar)
 
 ## Tracklist
 
