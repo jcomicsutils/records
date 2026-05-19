@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/hated-for-loving-handsome-devil_1778957912)
 - [Catbox](https://files.catbox.moe/koh1dx.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/2ceff9221645bec8f247/Hated_for_Loving_-_Handsome_Devil.tar)
 
 ## Tracklist
 
