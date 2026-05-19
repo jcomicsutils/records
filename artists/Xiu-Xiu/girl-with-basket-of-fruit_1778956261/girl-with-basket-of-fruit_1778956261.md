@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/girl-with-basket-of-fruit_1778956261)
 - [Catbox](https://files.catbox.moe/stfiap.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/1b8eaf43f30bcb0ae12c/Girl_With_Basket_of_Fruit.tar)
 
 ## Tracklist
 
