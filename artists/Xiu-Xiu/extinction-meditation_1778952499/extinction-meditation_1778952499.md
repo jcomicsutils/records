@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/extinction-meditation_1778952499)
 - Catbox: [Part 1](https://files.catbox.moe/g3m1vw.tar) [Part 2](https://files.catbox.moe/m6ynhv.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/495b42af9ac3b6aa3e4c/Extinction_Meditation.tar)
 
 ## Tracklist
 
