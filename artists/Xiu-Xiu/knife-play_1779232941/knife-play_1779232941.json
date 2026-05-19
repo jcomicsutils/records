@@ -1,0 +1,48 @@
+{
+  "id": "knife-play_1779232941",
+  "fingerprint": "79a0af19cb3472236a279dc1234abc8c5b98a428b188ccb3ad021ce771c95b69",
+  "archived_at": "2026-05-19T23:29:05Z",
+  "metadata": {
+    "title": "Knife Play",
+    "artist": "Xiu Xiu",
+    "year": "2002",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2592,
+    "duration_human": "00:43:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Don Diasco",
+      "02 Xiu Xiu - I Broke Up",
+      "03 Xiu Xiu - Luber",
+      "04 Xiu Xiu - Hives Hives",
+      "05 Xiu Xiu - Dr. Troll",
+      "06 Xiu Xiu - Over Over",
+      "07 Xiu Xiu - Anne Dong",
+      "08 Xiu Xiu - Suha",
+      "09 Xiu Xiu - Poe Poe",
+      "10 Xiu Xiu - Homonculus",
+      "11 Xiu Xiu - Tonite and Today (What Chu' Talkin' 'Bout)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/knife-play_1779232941"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/d8k8gs.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/54cm66.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/a5ac41261f598f24bbfe/Knife_Play.tar"
+    }
+  }
+}
