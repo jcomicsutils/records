@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/chapel-of-the-chimes_1778944391)
 - [Catbox](https://files.catbox.moe/0ffml6.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/6f6d89d1bbb434c54065/Chapel_of_the_Chimes.tar)
 
 ## Tracklist
 
