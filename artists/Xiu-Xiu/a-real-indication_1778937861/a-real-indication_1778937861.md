@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/a-real-indication_1778937861)
 - [Catbox](https://files.catbox.moe/to52u2.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/1749261ffc5e5e69453f/A_Real_Indication.tar)
 
 ## Tracklist
 
