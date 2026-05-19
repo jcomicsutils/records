@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/ian-curtis-wish-list-full-stems_1778960220)
 - [Catbox](https://files.catbox.moe/1c6b2i.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/67090c0a7346421b7a8c/Ian_Curtis_Wish_List_Full_Stems.tar)
 
 ## Tracklist
 
