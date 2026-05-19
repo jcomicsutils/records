@@ -1,0 +1,30 @@
+{
+  "id": "killing-distance_1779231856",
+  "fingerprint": "ab2b7b7113acad896305e7a14e73de32e6b94bc9debff54dfbd0facd52873b47",
+  "archived_at": "2026-05-19T23:15:23Z",
+  "metadata": {
+    "title": "Killing Distance",
+    "artist": "Xiu Xiu",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 239,
+    "duration_human": "00:03:59",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Killing Distance"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/killing-distance_1779231856"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/b1doqh.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/222a025a915c43dbfc3f/Killing_Distance.tar"
+    }
+  }
+}
