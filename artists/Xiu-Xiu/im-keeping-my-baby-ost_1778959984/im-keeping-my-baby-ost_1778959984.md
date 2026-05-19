@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/im-keeping-my-baby-ost_1778959984)
 - [Catbox](https://files.catbox.moe/3i9qr4.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/e682de5f02cc1f48da39/I_m_Keeping_My_Baby_OST.tar)
 
 ## Tracklist
 
