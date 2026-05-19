@@ -21,6 +21,23 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/three_1778965695"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/ap5uzz.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/77zig0.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/2rrps1.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/eee804e774451fdb3213/Three.tar"
     }
   }
 }
