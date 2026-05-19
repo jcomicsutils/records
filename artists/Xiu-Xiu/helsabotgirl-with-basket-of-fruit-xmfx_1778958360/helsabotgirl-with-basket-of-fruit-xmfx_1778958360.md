@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/helsabotgirl-with-basket-of-fruit-xmfx_1778958360)
 - [Catbox](https://files.catbox.moe/wlhwnm.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/0ea2a6c9b29539df2167/Helsabot_-_Girl_With_Basket_of_Fruit_XMFX.tar)
 
 ## Tracklist
 
