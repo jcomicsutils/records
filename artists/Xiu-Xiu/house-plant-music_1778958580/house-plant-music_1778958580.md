@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/house-plant-music_1778958580)
 - [Catbox](https://files.catbox.moe/iboss6.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/0a7be8c990735e48c89c/House_Plant_Music.tar)
 
 ## Tracklist
 
