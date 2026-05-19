@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/almost-xiu-xiu-almost-deerhoof_1778938251)
 - [Catbox](https://files.catbox.moe/d4pv4i.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/e8f9689febfc2da63ba9/Almost_Xiu_Xiu_Almost_Deerhoof.tar)
 
 ## Tracklist
 
