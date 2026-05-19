@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/cherry-bomb-some-things-last-a-long-time_1778944819)
 - [Catbox](https://files.catbox.moe/igv0gl.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/18efd6979fc424a498a1/Cherry_Bomb_-_Some_Things_Last_a_Long_Time.tar)
 
 ## Tracklist
 
