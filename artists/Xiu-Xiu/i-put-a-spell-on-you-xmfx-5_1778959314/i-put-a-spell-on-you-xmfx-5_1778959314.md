@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/i-put-a-spell-on-you-xmfx-5_1778959314)
 - [Catbox](https://files.catbox.moe/khblze.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/39e542be0fd512b88c62/I_Put_a_Spell_on_You_XMFX_5.tar)
 
 ## Tracklist
 
