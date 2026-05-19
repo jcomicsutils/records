@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/brooklyn-dodgers-stems_1778943719)
 - [Catbox](https://files.catbox.moe/z4tpy2.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/9cda260036146ebf135c/Brooklyn_Dodgers_STEMS.tar)
 
 ## Tracklist
 
