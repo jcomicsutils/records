@@ -1,0 +1,42 @@
+{
+  "id": "nascido-sob-o-signo-incivilizatorio_1779318507",
+  "fingerprint": "c2ac3fc1ee2ec8190868255c8b1c1c453c5b3f8b1c75618088c410834255569d",
+  "archived_at": "2026-05-20T23:11:31Z",
+  "metadata": {
+    "title": "Nascido Sob o Signo Incivilizatório",
+    "artist": "Kaatayra",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3264,
+    "duration_human": "00:54:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kaatayra - Horizonte, Abismo",
+      "02 Kaatayra - Fogo! Na Babilônia",
+      "03 Kaatayra - Unhas de Bode Ecoam versus o Macaco Nu e sua Agricultura",
+      "04 Kaatayra - Chama, Pólvora e Esperança",
+      "05 Kaatayra - Preciso me Encontrar (Tributo ao Candeia)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nascido-sob-o-signo-incivilizatorio_1779318507"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/5q497h.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/j1vokn.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/0784a4634c2ea0c8c09c/Nascido_Sob_o_Signo_Incivilizat_rio.tar"
+    }
+  }
+}
