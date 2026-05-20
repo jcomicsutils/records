@@ -1,0 +1,40 @@
+{
+  "id": "the-air-force_1779321327",
+  "fingerprint": "3c8e42b9de1ea99a35179202177e0c78620ed0c0ef3b1bfd935c4b80fb644a96",
+  "archived_at": "2026-05-20T23:57:16Z",
+  "metadata": {
+    "title": "The Air Force",
+    "artist": "Xiu Xiu",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2082,
+    "duration_human": "00:34:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Buzz Saw",
+      "02 Xiu Xiu - Boy Soprano",
+      "03 Xiu Xiu - Hello From Eau Claire",
+      "04 Xiu Xiu - Vulture Piano",
+      "05 Xiu Xiu - PJ in the Streets...",
+      "06 Xiu Xiu - Bishop, CA",
+      "07 Xiu Xiu - Saint Pedro Glue Stick",
+      "08 Xiu Xiu - The Pineapple vs the Watermelon",
+      "09 Xiu Xiu - Save Me Save Me",
+      "10 Xiu Xiu - The Fox and the Rabbit",
+      "11 Xiu Xiu - Wig Master"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-air-force_1779321327"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ixxfv9.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/862cb3f0164da0216b80/The_Air_Force.tar"
+    }
+  }
+}

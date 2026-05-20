@@ -21,6 +21,23 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/toda-historia-pela-frente_1779321019"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/bhs3w7.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/nfinxe.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/vr9gbk.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/a5rc6t.tar"
+        }
+      ]
     }
   }
 }

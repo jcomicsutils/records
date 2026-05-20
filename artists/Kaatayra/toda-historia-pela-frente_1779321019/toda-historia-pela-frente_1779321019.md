@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/toda-historia-pela-frente_1779321019)
+- Catbox: [Part 1](https://files.catbox.moe/bhs3w7.tar) [Part 2](https://files.catbox.moe/nfinxe.tar) [Part 3](https://files.catbox.moe/vr9gbk.tar) [Part 4](https://files.catbox.moe/a5rc6t.tar)
 
 ## Tracklist
 
