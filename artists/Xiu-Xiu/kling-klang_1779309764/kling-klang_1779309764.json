@@ -1,0 +1,47 @@
+{
+  "id": "kling-klang_1779309764",
+  "fingerprint": "afdfdd935809fe4a407eff764cdd12c8ef7a3807b633919bab47e4aa2df94163",
+  "archived_at": "2026-05-20T20:42:44Z",
+  "metadata": {
+    "title": "Kling Klang",
+    "artist": "Xiu Xiu",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 18,
+    "duration_seconds": 1177,
+    "duration_human": "00:19:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Kling Klang 1",
+      "02 Xiu Xiu - Kling Klang 2",
+      "03 Xiu Xiu - Kling Klang 3",
+      "04 Xiu Xiu - Kling Klang 4",
+      "05 Xiu Xiu - Kling Klang 5",
+      "06 Xiu Xiu - Kling Klang 6",
+      "07 Xiu Xiu - Kling Klang 7",
+      "08 Xiu Xiu - Kling Klang 8",
+      "09 Xiu Xiu - Kling Klang 9",
+      "10 Xiu Xiu - Kling Klang 10",
+      "11 Xiu Xiu - Kling Klang 11",
+      "12 Xiu Xiu - Kling Klang 12",
+      "13 Xiu Xiu - Kling Klang 13",
+      "14 Xiu Xiu - Kling Klang 14",
+      "15 Xiu Xiu - Kling Klang 15",
+      "16 Xiu Xiu - Kling Klang 16",
+      "17 Xiu Xiu - Kling Klang 17",
+      "18 Xiu Xiu - Kling Klang 18"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kling-klang_1779232551"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/hfodrr.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/c5d65156d438581961bc/Kling_Klang.tar"
+    }
+  }
+}
