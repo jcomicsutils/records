@@ -1,0 +1,46 @@
+{
+  "id": "suha-stems_1779320667",
+  "fingerprint": "82d27843aa7f1a9d2ad9cf3511654d484bfc004c9898fd3b630763d69027fef7",
+  "archived_at": "2026-05-20T23:47:23Z",
+  "metadata": {
+    "title": "Suha STEMS",
+    "artist": "Xiu Xiu",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_seconds": 4969,
+    "duration_human": "01:22:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - XMFX 20 Suha Full Stems Winky",
+      "02 Xiu Xiu - XMFX 20 Suha Full Stems Vox 1",
+      "03 Xiu Xiu - XMFX 20 Suha Full Stems Vox 2",
+      "04 Xiu Xiu - XMFX 20 Suha Full Stems Sax 2",
+      "05 Xiu Xiu - XMFX 20 Suha Full Stems Sax 2",
+      "06 Xiu Xiu - XMFX 20 Suha Full Stems Melodica",
+      "07 Xiu Xiu - XMFX 20 Suha Full Stems Kick",
+      "08 Xiu Xiu - XMFX 20 Suha Full Stems High Kick",
+      "09 Xiu Xiu - XMFX 20 Suha Full Stems High Drone",
+      "10 Xiu Xiu - XMFX 20 Suha Full Stems Hatt",
+      "11 Xiu Xiu - XMFX 20 Suha Full Stems Echo Outro",
+      "12 Xiu Xiu - XMFX 20 Suha Full Stems Stems",
+      "13 Xiu Xiu - XMFX 20 Suha Full Stems Bassu",
+      "14 Xiu Xiu - XMFX 20 Suha Full Stems Bass",
+      "15 Xiu Xiu - XMFX 20 Suha Full Stems Acoustik",
+      "16 Xiu Xiu - XMFX 20 Suha Full Stems Accordion",
+      "17 Xiu Xiu - XMFX 20 Suha Full Stems Guitar"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/suha-stems_1779320667"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/u50c6w.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/515c6c36bd2acdfcc617/Suha_STEMS.tar"
+    }
+  }
+}
