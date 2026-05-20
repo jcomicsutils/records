@@ -1,0 +1,31 @@
+{
+  "id": "remixes_1779319283",
+  "fingerprint": "7d53427d27f97c99cd3be75d658d4731d8e9fde844c097202e6ccb0c59803888",
+  "archived_at": "2026-05-20T23:22:29Z",
+  "metadata": {
+    "title": "Remixes",
+    "artist": "Xiu Xiu",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 490,
+    "duration_human": "00:08:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - I Luv Abortion (Deerhoof Remix)",
+      "02 Xiu Xiu - Joey's Song (Kid 606 Club Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/remixes_1779319283"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/iforec.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/f57a77c8249bc41f35d5/Remixes.tar"
+    }
+  }
+}

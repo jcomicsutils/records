@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/no-ruidar-da-mata-que-mirra_1779318847)
+- Catbox: [Part 1](https://files.catbox.moe/a5q5sa.tar) [Part 2](https://files.catbox.moe/n508hk.tar) [Part 3](https://files.catbox.moe/ywka31.tar)
 
 ## Tracklist
 
