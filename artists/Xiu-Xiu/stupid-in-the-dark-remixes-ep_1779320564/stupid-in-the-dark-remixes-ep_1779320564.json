@@ -1,0 +1,32 @@
+{
+  "id": "stupid-in-the-dark-remixes-ep_1779320564",
+  "fingerprint": "5ebb4665520da76572b5e1fa4600c32a3cb0c39e4ca27b3d2643873369f107e0",
+  "archived_at": "2026-05-20T23:44:06Z",
+  "metadata": {
+    "title": "Stupid in the Dark Remixes - EP",
+    "artist": "Xiu Xiu",
+    "year": "2014",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 1232,
+    "duration_human": "00:20:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Stupid in the Dark (Kid606 Radio Remix)",
+      "02 Xiu Xiu - Stupid in the Dark (Kid606 'Get Down in Macarthur Park All Night Long' Remix)",
+      "03 Xiu Xiu - Stupid in the Dark (Kid606 Extended Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stupid-in-the-dark-remixes-ep_1779320564"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7zvwr8.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/06e53f8cba685e986de5/Stupid_in_the_Dark_Remixes_-_EP.tar"
+    }
+  }
+}
