@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/plays-the-music-of-twin-peaks_1779316963)
+- Catbox: [Part 1](https://files.catbox.moe/k56pyl.tar) [Part 2](https://files.catbox.moe/w1a7qo.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/350dcf36b488e0884a05/Plays_the_Music_of_Twin_Peaks.tar)
 
 ## Tracklist
 
