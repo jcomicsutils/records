@@ -1,0 +1,30 @@
+{
+  "id": "pandroginia-xiu-xiu-remix_1779316571",
+  "fingerprint": "51d9559b962f98372e12f44464c5892045209687df436bf369bd67ecd4d9bfed",
+  "archived_at": "2026-05-20T22:36:52Z",
+  "metadata": {
+    "title": "Pandroginia (Xiu Xiu Remix)",
+    "artist": "Xiu Xiu",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 338,
+    "duration_human": "00:05:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Pumuky, Xiu Xiu - Pandroginia (Xiu Xiu Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pandroginia-xiu-xiu-remix_1779316571"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/aw1fd0.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/9645a1c84a3b31a7f45f/Pandroginia_Xiu_Xiu_Remix.tar"
+    }
+  }
+}
