@@ -1,0 +1,30 @@
+{
+  "id": "marathon-man-xiu-xiu-remix_1779237808",
+  "fingerprint": "ffafc3d105cf2faf57a0e0b07f4474667320c52b7242791ae6ed73b569309781",
+  "archived_at": "2026-05-20T00:48:20Z",
+  "metadata": {
+    "title": "Marathon Man (Xiu Xiu Remix)",
+    "artist": "Xiu Xiu",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 250,
+    "duration_human": "00:04:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Robert Calvert, Xiu Xiu - Marathon Man (Xiu Xiu Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/marathon-man-xiu-xiu-remix_1779237808"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2scpjj.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/f0dc8a4469c982903e16/Marathon_Man_Xiu_Xiu_Remix.tar"
+    }
+  }
+}
