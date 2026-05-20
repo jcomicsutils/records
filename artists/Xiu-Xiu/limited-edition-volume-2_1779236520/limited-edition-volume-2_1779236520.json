@@ -1,0 +1,31 @@
+{
+  "id": "limited-edition-volume-2_1779236520",
+  "fingerprint": "aab7bf76609b5af0e25eb3c33baebebd2d2eac178c7cda96d249c3a071df35ce",
+  "archived_at": "2026-05-20T00:25:18Z",
+  "metadata": {
+    "title": "Limited Edition, Volume 2",
+    "artist": "Xiu Xiu",
+    "year": "2017",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 632,
+    "duration_human": "00:10:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Fear of the Horizon",
+      "02 Xiu Xiu - Turkish March"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/limited-edition-volume-2_1779236520"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/fcikrf.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/1eb294dc36c21b1307e7/Limited_Edition_Volume_2.tar"
+    }
+  }
+}
