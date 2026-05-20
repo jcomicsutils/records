@@ -1,0 +1,30 @@
+{
+  "id": "pink-tape_1779316862",
+  "fingerprint": "de05a8018f6653979a502492e2831372ef0cea3bb753a21b318d0b7f5ca5ad49",
+  "archived_at": "2026-05-20T22:42:21Z",
+  "metadata": {
+    "title": "Pink Tape",
+    "artist": "Xiu Xiu",
+    "year": "2018",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1152,
+    "duration_human": "00:19:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Pink Tape"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pink-tape_1779316862"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/121dak.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/1de0404f610bb0042aad/Pink_Tape.tar"
+    }
+  }
+}
