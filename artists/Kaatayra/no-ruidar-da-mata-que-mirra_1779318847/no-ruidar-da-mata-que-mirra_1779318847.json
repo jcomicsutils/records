@@ -1,0 +1,29 @@
+{
+  "id": "no-ruidar-da-mata-que-mirra_1779318847",
+  "fingerprint": "da31b3d7d4e95090cc881b0bf085d7c667708797c55926192d520d7ecc04387d",
+  "archived_at": "2026-05-20T23:21:13Z",
+  "metadata": {
+    "title": "No Ruidar da Mata Que Mirra",
+    "artist": "Kaatayra",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 4267,
+    "duration_human": "01:11:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Kaatayra - Há Mais do Que Refúgio em Mar Profundo",
+      "02 Kaatayra - Serras, Sapiência e Sumidade",
+      "03 Kaatayra - Clarividência em Xara",
+      "04 Kaatayra - Saudades Florescem",
+      "05 Kaatayra - Valhacouto de Lírios",
+      "06 Kaatayra - Contra o Delírio Urbano, um Manipanso"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/no-ruidar-da-mata-que-mirra_1779318847"
+    }
+  }
+}
