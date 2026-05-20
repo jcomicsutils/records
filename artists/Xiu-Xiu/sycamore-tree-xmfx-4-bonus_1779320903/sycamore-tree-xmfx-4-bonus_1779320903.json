@@ -1,0 +1,30 @@
+{
+  "id": "sycamore-tree-xmfx-4-bonus_1779320903",
+  "fingerprint": "c01c337fff163c3f6e7dd7575441011bbeaeffc1a014391a6c9df6f308c2527c",
+  "archived_at": "2026-05-20T23:49:05Z",
+  "metadata": {
+    "title": "Sycamore Tree XMFX 4 Bonus",
+    "artist": "Xiu Xiu",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 384,
+    "duration_human": "00:06:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Sycamore Tree XMFX"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sycamore-tree-xmfx-4-bonus_1779320903"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2cw1wb.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/a17b8689b179e2ce4c3f/Sycamore_Tree_XMFX_4_Bonus.tar"
+    }
+  }
+}
