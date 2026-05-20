@@ -1,0 +1,31 @@
+{
+  "id": "respectful-clean_1779319397",
+  "fingerprint": "42470a7c3f3ae50d1871f3a6face8743dd1fc57feb12ad05374f603bb262ad10",
+  "archived_at": "2026-05-20T23:26:03Z",
+  "metadata": {
+    "title": "Respectful & Clean",
+    "artist": "Xiu Xiu",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1853,
+    "duration_human": "00:30:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Desistance",
+      "02 Xiu Xiu - Mine"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/respectful-clean_1779319397"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0ydcph.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/80aaf8346e3c5b98a62c/Respectful_Clean.tar"
+    }
+  }
+}
