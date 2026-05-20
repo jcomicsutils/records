@@ -29,6 +29,29 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/mata-mato_1779317373"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/h5rcgb.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/6v6ubw.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/4g5ffu.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/wzal1u.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/drtrnb.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/9711d49745fdc012793f/Mata_Mato.tar"
     }
   }
 }
