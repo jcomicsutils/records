@@ -1,0 +1,32 @@
+{
+  "id": "stripped_1779320505",
+  "fingerprint": "ace412670ee4f18351f76e2d19368911d96d7e6ba9f750539c1759a7b44725a4",
+  "archived_at": "2026-05-20T23:42:29Z",
+  "metadata": {
+    "title": "Stripped",
+    "artist": "Xiu Xiu",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 845,
+    "duration_human": "00:14:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Stripped",
+      "02 Xiu Xiu - Suha XMFX",
+      "03 Xiu Xiu - Patu Digua Spider Lamentation 9"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stripped_1779320505"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/92aqu6.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/f0504df5d2908a071473/Stripped.tar"
+    }
+  }
+}
