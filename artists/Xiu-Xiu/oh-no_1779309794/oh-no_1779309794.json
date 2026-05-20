@@ -33,6 +33,32 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/oh-no_1779309794"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/sy33r2.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/lumq53.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/d7h41f.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ubl4ri.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/kzl7gv.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/goqso1.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/43e26094693b74557f80/OH_NO.tar"
     }
   }
 }
