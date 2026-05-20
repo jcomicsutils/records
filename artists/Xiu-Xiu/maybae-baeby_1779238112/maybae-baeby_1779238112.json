@@ -1,0 +1,30 @@
+{
+  "id": "maybae-baeby_1779238112",
+  "fingerprint": "f7d8803ee1d321db712b3bf196ce1811162eaf4ddbb536949446c9d79441aee7",
+  "archived_at": "2026-05-20T01:03:28Z",
+  "metadata": {
+    "title": "Maybae Baeby",
+    "artist": "Xiu Xiu",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 200,
+    "duration_human": "00:03:20",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Maybae Baeby"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/maybae-baeby_1779238112"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ffl4ku.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/3efcbda23a04c6a42b28/Maybae_Baeby.tar"
+    }
+  }
+}
