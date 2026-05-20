@@ -1,0 +1,31 @@
+{
+  "id": "moira_1779241628",
+  "fingerprint": "d3f9578a6250a65732932d6a5774e0190d237d09ce6428601011c25b1b788ae1",
+  "archived_at": "2026-05-20T02:00:56Z",
+  "metadata": {
+    "title": "Moira",
+    "artist": "Xiu Xiu",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1223,
+    "duration_human": "00:20:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Black Leather Jesus & Xiu Xiu - 120325028472",
+      "02 Black Leather Jesus & Xiu Xiu - 8888434564"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/moira_1779241628"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gi8z9q.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/9e3a01f7bb880b84d1f4/Moira.tar"
+    }
+  }
+}
