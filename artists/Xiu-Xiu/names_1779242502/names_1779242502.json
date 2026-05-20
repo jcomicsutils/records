@@ -1,0 +1,32 @@
+{
+  "id": "names_1779242502",
+  "fingerprint": "0433f840ba0b0f2ba4e2f5927b983f78dd36544a5670370e5c8385696dcac0b7",
+  "archived_at": "2026-05-20T02:02:17Z",
+  "metadata": {
+    "title": "Names",
+    "artist": "Xiu Xiu",
+    "year": "2021",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 841,
+    "duration_human": "00:14:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Names",
+      "02 Xiu Xiu - Yellow Candle (XMFX)",
+      "03 Xiu Xiu - Spider Lamentation 10 Lichenmarked Orb Weaver"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/names_1779242502"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/s92fqv.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/276fc2ad8f753f276822/Names.tar"
+    }
+  }
+}
