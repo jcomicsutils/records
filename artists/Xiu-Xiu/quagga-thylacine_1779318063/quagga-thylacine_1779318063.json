@@ -1,0 +1,31 @@
+{
+  "id": "quagga-thylacine_1779318063",
+  "fingerprint": "467d91a07203e7bb58f3ddb5974d23be20a28f9993f13929257c15975655d12e",
+  "archived_at": "2026-05-20T23:01:41Z",
+  "metadata": {
+    "title": "Quagga / Thylacine",
+    "artist": "Xiu Xiu",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 471,
+    "duration_human": "00:07:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Quagga",
+      "02 Xiu Xiu - Thylacine"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/quagga-thylacine_1779318063"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7drcpw.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/eee295608112e196ff6a/Quagga_-_Thylacine.tar"
+    }
+  }
+}
