@@ -1,0 +1,44 @@
+{
+  "id": "caminhos-de-agua_1779310518",
+  "fingerprint": "5bf8e1c0cff3e510ed60b35fe316f4b03dcd4a74deefe3e4979a1c4cef0dd874",
+  "archived_at": "2026-05-20T21:41:42Z",
+  "metadata": {
+    "title": "Caminhos de Água",
+    "artist": "Kaatayra",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2921,
+    "duration_human": "00:48:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kaatayra - Rio Preto",
+      "02 Kaatayra - Rio sem Nome",
+      "03 Kaatayra - Águas Passadas",
+      "04 Kaatayra - Rio Jovem",
+      "05 Kaatayra - Ritmo Corredeiro",
+      "06 Kaatayra - Caminhos de Água",
+      "07 Kaatayra - Remanso de Maria"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/caminhos-de-agua_1779310518"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/hpfvlr.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/71u3a9.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/31c58fcbd5f1803f2326/Caminhos_de_gua.tar"
+    }
+  }
+}
