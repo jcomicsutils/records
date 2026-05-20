@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/so-quem-viu-o-relampago-a-sua-direita-sabe_1779319425)
+- Catbox: [Part 1](https://files.catbox.moe/5oyavd.tar) [Part 2](https://files.catbox.moe/08ql8h.tar) [Part 3](https://files.catbox.moe/6sn14x.tar) [Part 4](https://files.catbox.moe/3wnk3i.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/062d7679d7cef26cbafc/S_Quem_Viu_o_Rel_mpago_Sua_Direita_Sabe.tar)
 
 ## Tracklist
 

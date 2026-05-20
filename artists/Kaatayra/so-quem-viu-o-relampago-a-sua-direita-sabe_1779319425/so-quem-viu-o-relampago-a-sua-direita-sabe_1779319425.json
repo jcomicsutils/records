@@ -22,6 +22,26 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/so-quem-viu-o-relampago-a-sua-direita-sabe_1779319425"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/5oyavd.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/08ql8h.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/6sn14x.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/3wnk3i.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/062d7679d7cef26cbafc/S_Quem_Viu_o_Rel_mpago_Sua_Direita_Sabe.tar"
     }
   }
 }
