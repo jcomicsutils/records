@@ -1,0 +1,31 @@
+{
+  "id": "for-hilma_1779309733",
+  "fingerprint": "a92606d3b8a2aa2e29178fb211e70ffe8849a671ae81f158943585c7a4885e85",
+  "archived_at": "2026-05-20T20:42:13Z",
+  "metadata": {
+    "title": "For Hilma",
+    "artist": "Xiu Xiu",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3240,
+    "duration_human": "00:54:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu / Miniature Garden - For Hilma 1",
+      "02 Xiu Xiu / Miniature Garden - For Hilma 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/for-hilma_1778955055"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/fqqp65.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/5249c695e3d65ba22ac4/For_Hilma.tar"
+    }
+  }
+}
