@@ -1,0 +1,50 @@
+{
+  "id": "rare_1779318122",
+  "fingerprint": "e29596f5e6f3cd1350c9b6522e9f72d5438f7672292431c48c099fef12b74db6",
+  "archived_at": "2026-05-20T23:05:53Z",
+  "metadata": {
+    "title": "RARE",
+    "artist": "Xiu Xiu",
+    "year": "2012",
+    "codec": "MP3",
+    "num_tracks": 21,
+    "duration_seconds": 4645,
+    "duration_human": "01:17:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Sad Cory-O-Grapher",
+      "02 Xiu Xiu - Don Diasco (Acoustic)",
+      "03 Xiu Xiu - Rose of Sharon (7\" Version)",
+      "04 Xiu Xiu - Clowne Towne (Acoustic Live)",
+      "05 Xiu Xiu - Red Croissant",
+      "06 Xiu Xiu - Juno",
+      "07 Xiu Xiu - Jack the Ripper",
+      "08 Xiu Xiu - Fleshettes",
+      "09 Xiu Xiu - Helsabot of Caraleebot",
+      "10 Xiu Xiu - Juarez",
+      "11 Xiu Xiu - Yoyo Bye Bye",
+      "12 Xiu Xiu - Kitten Revolution",
+      "13 Xiu Xiu - Farther On",
+      "14 Xiu Xiu - Cute Pee Pee",
+      "15 Xiu Xiu - Hated for Loving",
+      "16 Xiu Xiu - Sammy",
+      "17 Xiu Xiu - He Needs Me",
+      "18 Xiu Xiu - Don't Cha",
+      "19 Xiu Xiu - Kangaroo",
+      "20 Xiu Xiu - Blueberry Mine Shaft",
+      "21 Xiu Xiu - All We Ever Wanted"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rare_1779318122"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/740im9.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/3089287421d395c1559d/RARE.tar"
+    }
+  }
+}
