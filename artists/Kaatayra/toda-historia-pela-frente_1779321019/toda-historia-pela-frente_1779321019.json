@@ -1,0 +1,26 @@
+{
+  "id": "toda-historia-pela-frente_1779321019",
+  "fingerprint": "6df36918ef8df941bdf2fbfa490e89107574853b57ca9e904d12f65a2c8c9052",
+  "archived_at": "2026-05-20T23:55:06Z",
+  "metadata": {
+    "title": "Toda História pela Frente",
+    "artist": "Kaatayra",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3286,
+    "duration_human": "00:54:46",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Kaatayra - O Castigo Vem a Cavalo",
+      "02 Kaatayra - Toda Mágoa do Mundo",
+      "03 Kaatayra - Miséria da Sabedoria"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/toda-historia-pela-frente_1779321019"
+    }
+  }
+}

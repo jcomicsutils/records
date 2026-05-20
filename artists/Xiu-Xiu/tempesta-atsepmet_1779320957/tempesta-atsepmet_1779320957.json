@@ -1,0 +1,41 @@
+{
+  "id": "tempesta-atsepmet_1779320957",
+  "fingerprint": "74297deaf8d5f2354f41a794f53900f1943bba886a064741da0b860d82693a54",
+  "archived_at": "2026-05-20T23:53:49Z",
+  "metadata": {
+    "title": "Tempesta Atsepmet",
+    "artist": "Xiu Xiu",
+    "year": "2016",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 7461,
+    "duration_human": "02:04:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Tempesta 1A",
+      "02 Xiu Xiu - Tempesta 2B",
+      "03 Xiu Xiu - Atsepmet 3C",
+      "04 Xiu Xiu - Atsepmet 4D"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tempesta-atsepmet_1779320957"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/sgg0o1.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/idrnht.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/bd1663988811a4f8fa60/Tempesta_Atsepmet.tar"
+    }
+  }
+}
