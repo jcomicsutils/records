@@ -20,6 +20,20 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/neft-024_1779242690"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/9zrvms.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/0pwlds.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/74fdc852868bbe6a566d/NEFT_024.tar"
     }
   }
 }
