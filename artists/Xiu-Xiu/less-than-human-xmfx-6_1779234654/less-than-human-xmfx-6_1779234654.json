@@ -1,0 +1,33 @@
+{
+  "id": "less-than-human-xmfx-6_1779234654",
+  "fingerprint": "5ff7815f6a52db2e3b7074bca35e9757105ba71c8581ab58a1d8695edcedacf3",
+  "archived_at": "2026-05-20T00:00:16Z",
+  "metadata": {
+    "title": "Less Than Human XMFX 6",
+    "artist": "Xiu Xiu",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1282,
+    "duration_human": "00:21:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Less Than Human",
+      "02 Xiu Xiu - Dear God, I Hate Myself XMFX",
+      "03 Xiu Xiu - Spider Lamentation 6: Orchard Spider XXX",
+      "04 Xiu Xiu - Spider Lamentation 6: Orchard Spider oOo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/less-than-human-xmfx-6_1779234654"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/mexbfi.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/a32a08fb326341c818a3/Less_Than_Human_XMFX_6.tar"
+    }
+  }
+}
