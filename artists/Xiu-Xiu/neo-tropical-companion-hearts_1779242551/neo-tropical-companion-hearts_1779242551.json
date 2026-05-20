@@ -1,0 +1,30 @@
+{
+  "id": "neo-tropical-companion-hearts_1779242551",
+  "fingerprint": "1d53a8a8097f5ed2e2ce84234c2fba7034908d3848a69ef1f48e104971afee9c",
+  "archived_at": "2026-05-20T02:09:53Z",
+  "metadata": {
+    "title": "Neo Tropical Companion Hearts",
+    "artist": "Xiu Xiu",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2587,
+    "duration_human": "00:43:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Neo Tropical Companion Hearts"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/neo-tropical-companion-hearts_1779242551"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/wsah2w.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/2b250b3c2f7087a58a04/Neo_Tropical_Companion_Hearts.tar"
+    }
+  }
+}
