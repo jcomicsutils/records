@@ -1,0 +1,39 @@
+{
+  "id": "kaatayra-pessimista_1779315623",
+  "fingerprint": "934fa77e9d8cb6efa14011892dee474e08a6d63554de253039104c0985b7bff4",
+  "archived_at": "2026-05-20T22:47:14Z",
+  "metadata": {
+    "title": "Kaatayra / Pessimista",
+    "artist": "Kaatayra",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1855,
+    "duration_human": "00:30:55",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Kaatayra - Boca que se Engole",
+      "02 Pessimista - Uirá sai à procura de Maíra"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kaatayra-pessimista_1779315623"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/fxy07e.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/6elw08.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/ba4a542d654f48c38630/Kaatayra_-_Pessimista.tar"
+    }
+  }
+}

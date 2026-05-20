@@ -1,0 +1,35 @@
+{
+  "id": "plays-the-music-of-twin-peaks_1779316963",
+  "fingerprint": "38f511d170886bce77b230558e14c067d0b3cf72be987a2dcd695e3fac09388e",
+  "archived_at": "2026-05-20T22:48:35Z",
+  "metadata": {
+    "title": "Plays the Music of Twin Peaks",
+    "artist": "Xiu Xiu",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 4116,
+    "duration_human": "01:08:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Laura Palmer's Theme",
+      "02 Xiu Xiu - Into the Night",
+      "03 Xiu Xiu - Audrey's Dance",
+      "04 Xiu Xiu - Packard's Vibration",
+      "05 Xiu Xiu - Nightsea Wind",
+      "06 Xiu Xiu - Blue Frank/Pink Room",
+      "07 Xiu Xiu - Sycamore Tree",
+      "08 Xiu Xiu - Harold's Theme",
+      "09 Xiu Xiu - Dance of the Dream Man",
+      "10 Xiu Xiu - Falling",
+      "11 Xiu Xiu - Love Theme Farewell",
+      "12 Xiu Xiu - Josie's Past"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/plays-the-music-of-twin-peaks_1779316963"
+    }
+  }
+}
