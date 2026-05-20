@@ -1,0 +1,48 @@
+{
+  "id": "nina_1779243511",
+  "fingerprint": "cbc169487b8a3d117930757d963cf8d3db1aeeec88e541eb3daad89b16588c83",
+  "archived_at": "2026-05-20T02:22:30Z",
+  "metadata": {
+    "title": "Nina",
+    "artist": "Xiu Xiu",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2954,
+    "duration_human": "00:49:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Don't Smoke in Bed",
+      "02 Xiu Xiu - Don't Explain",
+      "03 Xiu Xiu - Wild is the Wind",
+      "04 Xiu Xiu - Where Can I Go Without You",
+      "05 Xiu Xiu - See Line Woman",
+      "06 Xiu Xiu - Just Say I Love Him",
+      "07 Xiu Xiu - Four Women",
+      "08 Xiu Xiu - Pirate Jenny",
+      "09 Xiu Xiu - You'd Be So Nice",
+      "10 Xiu Xiu - The Other Woman",
+      "11 Xiu Xiu - Flo Me La"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nina_1779243511"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/8cm6kp.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/3cg74t.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/1c0342e9cdca5da834b5/Nina.tar"
+    }
+  }
+}
