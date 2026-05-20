@@ -1,0 +1,45 @@
+{
+  "id": "inpariquipe_1779313386",
+  "fingerprint": "96f6026cebe1f0b7316fbaeda37cdc03f711ba920699f5e0b9b2356813f65879",
+  "archived_at": "2026-05-20T22:17:38Z",
+  "metadata": {
+    "title": "Inpariquipê",
+    "artist": "Kaatayra",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2892,
+    "duration_human": "00:48:12",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Kaatayra - Tiquindê",
+      "02 Kaatayra - Inpariquipê",
+      "03 Kaatayra - Ãráiãsaiê",
+      "04 Kaatayra - Dundararaiê",
+      "05 Kaatayra - Iasá"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/inpariquipe_1779313386"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/7msgf9.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/2jcsd6.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/88r2am.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/eff0348676f27c531cca/Inpariquip.tar"
+    }
+  }
+}
