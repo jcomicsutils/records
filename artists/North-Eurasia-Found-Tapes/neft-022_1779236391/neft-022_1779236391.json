@@ -20,6 +20,23 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/neft-022_1779236391"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/qvcln2.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/mqlb3f.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/tgrfep.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/b6880ad890f2ad770c37/NEFT_022.tar"
     }
   }
 }
