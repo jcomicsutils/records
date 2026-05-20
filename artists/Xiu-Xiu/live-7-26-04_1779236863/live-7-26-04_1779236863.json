@@ -1,0 +1,39 @@
+{
+  "id": "live-7-26-04_1779236863",
+  "fingerprint": "292b1d769873ea32802114b63ad2bc945193b31eca6b8d31a88926bbcf96def8",
+  "archived_at": "2026-05-20T00:42:59Z",
+  "metadata": {
+    "title": "Live 7-26-04",
+    "artist": "Xiu Xiu",
+    "year": "2005",
+    "codec": "MP3",
+    "num_tracks": 10,
+    "duration_seconds": 2497,
+    "duration_human": "00:41:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Crank Heart",
+      "02 Xiu Xiu - Fabulous Muscles",
+      "03 Xiu Xiu - Bog People",
+      "04 Xiu Xiu - Bunny Gamer",
+      "05 Xiu Xiu - Over Over",
+      "06 Xiu Xiu - Ale",
+      "07 Xiu Xiu - Jennifer Lopez",
+      "08 Xiu Xiu - Apistat Commander",
+      "09 Xiu Xiu - I Luv the Valley",
+      "10 Xiu Xiu - Sad Pony Guerilla Girl"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-7-26-04_1779236863"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/l67xxe.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/fd393d90ac635f479f7b/Live_7-26-04.tar"
+    }
+  }
+}
