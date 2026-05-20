@@ -1,0 +1,31 @@
+{
+  "id": "rich-and-beautiful-xiu-xiu-remix_1779319641",
+  "fingerprint": "27c1b0d37dacd5dcc9f4a6ad070393cbd12bf5c4d7637ed56b5a5b5b02de621a",
+  "archived_at": "2026-05-20T23:31:39Z",
+  "metadata": {
+    "title": "Rich and Beautiful (Xiu Xiu Remix)",
+    "artist": "Xiu Xiu",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 500,
+    "duration_human": "00:08:20",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Logan Lynn, Xiu Xiu - Rich and Beautiful (Xiu Xiu Remix)",
+      "02 Logan Lynn, Xiu Xiu - Rich and Beautiful"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rich-and-beautiful-xiu-xiu-remix_1779319641"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/y49jhe.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/1e895eb8db63de959d3b/Rich_and_Beautiful_Xiu_Xiu_Remix.tar"
+    }
+  }
+}
