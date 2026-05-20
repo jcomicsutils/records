@@ -1,0 +1,31 @@
+{
+  "id": "pahrump_1779316344",
+  "fingerprint": "01ec959117c97848d5173b8e104ef2729a246c47471559e69d370b2ff3f2d594",
+  "archived_at": "2026-05-20T22:35:32Z",
+  "metadata": {
+    "title": "Pahrump",
+    "artist": "Xiu Xiu",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 461,
+    "duration_human": "00:07:41",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Pahrump",
+      "02 Xiu Xiu - Maybae Baeby"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pahrump_1779316344"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/f0p9wg.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/048da2fd97268fc62b8e/Pahrump.tar"
+    }
+  }
+}
