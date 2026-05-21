@@ -1,0 +1,30 @@
+{
+  "id": "xmfx-58-brand-new-bitch_1779333518",
+  "fingerprint": "38ee0f3315fb28d65a275f95548d975dfa75f61a1e1edb2646581a9cbd441ff7",
+  "archived_at": "2026-05-21T03:19:01Z",
+  "metadata": {
+    "title": "XMFX 58: Brand New Bitch",
+    "artist": "Xiu Xiu",
+    "year": "2025",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 197,
+    "duration_human": "00:03:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Brand New Bitch [COBRAH]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-58-brand-new-bitch_1779333518"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/b66wi8.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/ec99a31831518f6bff87/XMFX_58_Brand_New_Bitch.tar"
+    }
+  }
+}
