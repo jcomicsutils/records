@@ -1,0 +1,58 @@
+{
+  "id": "xiu-mutha-fuckin-xiu-vol-1_1779326041",
+  "fingerprint": "88ce3e38725d83e07bd0093cf32f8676e2e3f7ce7a98d2af093e264b398af4d3",
+  "archived_at": "2026-05-21T01:35:53Z",
+  "metadata": {
+    "title": "Xiu Mutha Fuckin' Xiu: Vol. 1",
+    "artist": "Xiu Xiu",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2721,
+    "duration_human": "00:45:21",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Psycho Killer",
+      "02 Xiu Xiu - Warm Leatherette",
+      "03 Xiu Xiu - I Put a Spell on You",
+      "04 Xiu Xiu - Hamburger Lady",
+      "05 Xiu Xiu - In Dreams",
+      "06 Xiu Xiu - Sex Dwarf",
+      "07 Xiu Xiu - Dancing on My Own",
+      "08 Xiu Xiu - SPQR",
+      "09 Xiu Xiu - Lick or Sum",
+      "10 Xiu Xiu - Some Things Last a Long Time",
+      "11 Xiu Xiu - Triple Sun",
+      "12 Xiu Xiu - Cherry Bomb"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xiu-mutha-fuckin-xiu-vol-1_1779326041"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/q32fdt.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/nbo61w.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/02d9w1.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/dr07j7.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/m3ql29.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/7e5c722e78cd4c1761fb/Xiu_Mutha_Fuckin_Xiu_Vol._1.tar"
+    }
+  }
+}
