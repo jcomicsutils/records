@@ -37,6 +37,26 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/iowa-dream_1779339876"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/flvi5n.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/guhli9.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/1rhjt4.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/hhmfdr.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/6d4004537bab25cd513b/Iowa_Dream.tar"
     }
   }
 }
