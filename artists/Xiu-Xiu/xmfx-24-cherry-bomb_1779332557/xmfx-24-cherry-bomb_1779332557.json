@@ -1,0 +1,30 @@
+{
+  "id": "xmfx-24-cherry-bomb_1779332557",
+  "fingerprint": "7fa489a516ce0162e2941999ce099f230cf9a3b217b9113e8eaa27dbabff43a6",
+  "archived_at": "2026-05-21T03:03:22Z",
+  "metadata": {
+    "title": "XMFX 24: Cherry Bomb",
+    "artist": "Xiu Xiu",
+    "year": "2022",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 147,
+    "duration_human": "00:02:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Cherry Bomb [The Runaways]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-24-cherry-bomb_1779332557"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/6dzchy.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/b71a23d51dab38ac7226/XMFX_24_Cherry_Bomb.tar"
+    }
+  }
+}
