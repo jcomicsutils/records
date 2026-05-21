@@ -1,0 +1,35 @@
+{
+  "id": "deerhoof_1779386272",
+  "fingerprint": "f5b88a913d2b80e27755e157ec82565885d0f6a5208a03d5d2542ab03952b37b",
+  "archived_at": "2026-05-21T17:59:00Z",
+  "metadata": {
+    "title": "Deerhoof",
+    "artist": "Deerhoof",
+    "year": "1996",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 918,
+    "duration_human": "00:15:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Deerhoof - [untitled]",
+      "02 Deerhoof - [untitled]",
+      "03 Deerhoof - [untitled]",
+      "04 Deerhoof - [untitled]",
+      "05 Deerhoof - [untitled]",
+      "06 Deerhoof - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/deerhoof_1779386272"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/60y2t8.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/1cf2f3eabcb53d56aba6/Deerhoof.tar"
+    }
+  }
+}

@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Deerhoof](deerhoof_1779386272/deerhoof_1779386272.md) | 1996 | MP3 | 00:15:18 | [IA](https://archive.org/details/deerhoof_1779386272) [Catbox](https://files.catbox.moe/60y2t8.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/1cf2f3eabcb53d56aba6/Deerhoof.tar) |
 | [Apple O’](apple-o_1779384554/apple-o_1779384554.md) | 2003 | FLAC | 00:31:28 | [IA](https://archive.org/details/apple-o_1779384554) [Catbox ×2](apple-o_1779384554/apple-o_1779384554.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/5ed56db8254564450a58/Apple_O.tar) |
 | [+81](81_1779383569/81_1779383569.md) | 2006 | FLAC | 00:14:50 | [IA](https://archive.org/details/81_1779383569) [Catbox](https://files.catbox.moe/0mn0xx.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/b8ed7080fe24f09650c2/81.tar) |
 | [Daytrotter Studio 8/10/2009](daytrotter-studio-8102009_1779386146/daytrotter-studio-8102009_1779386146.md) | 2009 | MP3 | 00:09:03 | [IA](https://archive.org/details/daytrotter-studio-8102009_1779386146) [Catbox](https://files.catbox.moe/bs7o0c.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/d978253aa5617ce4ab27/Daytrotter_Studio_8_-_10_-_2009.tar) |
