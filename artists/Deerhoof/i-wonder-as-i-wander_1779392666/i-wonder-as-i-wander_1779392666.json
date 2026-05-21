@@ -1,0 +1,27 @@
+{
+  "id": "i-wonder-as-i-wander_1779392666",
+  "fingerprint": "2702697f700ec500e46c220a4ff880a829ca9276ba30b54c29e4371b5d1031cf",
+  "archived_at": "2026-05-21T19:45:04Z",
+  "metadata": {
+    "title": "I Wonder as I Wander",
+    "artist": "Deerhoof",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 136,
+    "duration_human": "00:02:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhoof - I Wonder as I Wander"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-wonder-as-i-wander_1779392666"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/0171d3247e815058f994/I_Wonder_as_I_Wander.tar"
+    }
+  }
+}
