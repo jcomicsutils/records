@@ -1,0 +1,29 @@
+{
+  "id": "my-pal-foot-foot_1779394019",
+  "fingerprint": "cd344b5cd0aafb1761b51b233f009d89404d412382a69c9693ae88b077b860b6",
+  "archived_at": "2026-05-21T20:07:35Z",
+  "metadata": {
+    "title": "My Pal Foot Foot",
+    "artist": "Deerhoof",
+    "year": "2002",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 382,
+    "duration_human": "00:06:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Deerhoof - My Pal Foot Foot",
+      "02 Deerhoof - Sunny Forty Fours",
+      "03 Deerhoof - Aho-Bomb"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/my-pal-foot-foot_1779394019"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/1dcb607a4d30ac4379fa/My_Pal_Foot_Foot.tar"
+    }
+  }
+}
