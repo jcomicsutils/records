@@ -1,0 +1,40 @@
+{
+  "id": "99-upset-feeling_1779383689",
+  "fingerprint": "6723b4383e12b277973f32b9f4337d32b5b373d21605e1a1de918248689ec413",
+  "archived_at": "2026-05-21T17:16:18Z",
+  "metadata": {
+    "title": "99% Upset Feeling",
+    "artist": "Deerhoof",
+    "year": "2011",
+    "codec": "MP3",
+    "num_tracks": 11,
+    "duration_seconds": 2036,
+    "duration_human": "00:33:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Deerhoof - Offend Maggie",
+      "02 Deerhoof - The Perfect Me",
+      "03 Deerhoof - Pinhead",
+      "04 Deerhoof - Flower",
+      "05 Deerhoof - The Tears and Music of Love",
+      "06 Deerhoof - Behold a Marvel in the Darkness",
+      "07 Deerhoof - You Can't Sit Down",
+      "08 Deerhoof - The Merry Barracks",
+      "09 Deerhoof - Desaparecere",
+      "10 Deerhoof - Goin' Up the Country",
+      "11 Deerhoof - Fresh Born"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/99-upset-feeling_1779383689"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/rgji6i.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/6af034e053cc060b02b8/99_Upset_Feeling.tar"
+    }
+  }
+}
