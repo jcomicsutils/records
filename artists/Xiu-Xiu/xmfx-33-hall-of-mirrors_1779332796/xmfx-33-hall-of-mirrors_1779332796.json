@@ -1,0 +1,32 @@
+{
+  "id": "xmfx-33-hall-of-mirrors_1779332796",
+  "fingerprint": "a80f4a581b35f396d59220b00e7b8aa9bb4234f0d403357cc5042d6060b198d7",
+  "archived_at": "2026-05-21T03:07:38Z",
+  "metadata": {
+    "title": "XMFX 33 Hall of Mirrors",
+    "artist": "Xiu Xiu",
+    "year": "2022",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 783,
+    "duration_human": "00:13:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Hall of Mirrors",
+      "02 Xiu Xiu - Stupid in the Dark SOLO",
+      "03 Xiu Xiu - Carnivorous Plant Lamentation Portuguese Sundew 9/33"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-33-hall-of-mirrors_1779332796"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/2whtx0.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/9fdda9df7a04371d7eb2/XMFX_33_Hall_of_Mirrors.tar"
+    }
+  }
+}
