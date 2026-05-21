@@ -1,0 +1,27 @@
+{
+  "id": "immigrant-songs_1779392709",
+  "fingerprint": "9bb2f36a8fd886c84dacd8e25f1d9b561d541279cb1cb0831a8a15719c7cad7e",
+  "archived_at": "2026-05-21T19:45:50Z",
+  "metadata": {
+    "title": "Immigrant Songs",
+    "artist": "Deerhoof",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 420,
+    "duration_human": "00:07:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deerhoof - Immigrant Songs"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/immigrant-songs_1779392709"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/e9f438953d3821654ca9/Immigrant_Songs.tar"
+    }
+  }
+}
