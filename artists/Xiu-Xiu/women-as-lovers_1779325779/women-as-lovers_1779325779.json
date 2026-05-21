@@ -1,0 +1,51 @@
+{
+  "id": "women-as-lovers_1779325779",
+  "fingerprint": "936c20f7578ff7c5e63ecc999b4c8ec0ce0324ee43d3e8f050b385c09ab1ed49",
+  "archived_at": "2026-05-21T01:12:38Z",
+  "metadata": {
+    "title": "Women as Lovers",
+    "artist": "Xiu Xiu",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 2623,
+    "duration_human": "00:43:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - I Do What I Want, When I Want",
+      "02 Xiu Xiu - In Lust You Can Hear the Axe Fall",
+      "03 Xiu Xiu - F.T.W.",
+      "04 Xiu Xiu - No Friend Oh!",
+      "05 Xiu Xiu - Guantanamo Canto",
+      "06 Xiu Xiu - Under Pressure",
+      "07 Xiu Xiu - Black Keyboard",
+      "08 Xiu Xiu - Master of the Bump (Kurt Stumbaugh, I Can Feel the Soil Falling Over My Head)",
+      "09 Xiu Xiu - You Are Pregnant You, You Are Dead",
+      "10 Xiu Xiu - The Leash",
+      "11 Xiu Xiu - Child at Arms",
+      "12 Xiu Xiu - Puff and Bunny",
+      "13 Xiu Xiu - White Nerd",
+      "14 Xiu Xiu - Gayle Lynn"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/women-as-lovers_1779325779"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/haw646.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/71ur5u.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/f8b06c1210ab4b3bbad8/Women_as_Lovers.tar"
+    }
+  }
+}
