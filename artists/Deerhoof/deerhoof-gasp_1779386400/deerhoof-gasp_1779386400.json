@@ -1,0 +1,32 @@
+{
+  "id": "deerhoof-gasp_1779386400",
+  "fingerprint": "86ebba4df5253ec62894ab3b996b6aa5bc5b944045bf87454cfd7a184ff1151c",
+  "archived_at": "2026-05-21T18:00:36Z",
+  "metadata": {
+    "title": "Deerhoof & Gasp",
+    "artist": "Deerhoof",
+    "year": "2003",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 504,
+    "duration_human": "00:08:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Deerhoof - 3 Pick Up Bears",
+      "02 Gasp - Marm",
+      "03 Gasp - Cecilseasail"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/deerhoof-gasp_1779386400"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/4836md.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/649875a01623f18373e5/Deerhoof_Gasp.tar"
+    }
+  }
+}
