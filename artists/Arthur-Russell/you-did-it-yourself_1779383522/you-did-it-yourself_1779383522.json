@@ -1,0 +1,30 @@
+{
+  "id": "you-did-it-yourself_1779383522",
+  "fingerprint": "66ecc926d869fa0faf53815f2d9ce0faf48b0b244bbb2184e404c96e063b1927",
+  "archived_at": "2026-05-21T17:12:36Z",
+  "metadata": {
+    "title": "You Did It Yourself",
+    "artist": "Arthur Russell",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 186,
+    "duration_human": "00:03:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Arthur Russell - You Did It Yourself"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/you-did-it-yourself_1779383522"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/pzyo9x.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/d2dcc5500f85d66c3e69/You_Did_It_Yourself.tar"
+    }
+  }
+}
