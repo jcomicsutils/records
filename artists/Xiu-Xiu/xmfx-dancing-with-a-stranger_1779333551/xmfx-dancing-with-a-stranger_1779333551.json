@@ -1,0 +1,26 @@
+{
+  "id": "xmfx-dancing-with-a-stranger_1779333551",
+  "fingerprint": "4478b2ea702eae54e979ed8a7259f6022c355d5361a6f035e99e734ff6439851",
+  "archived_at": "2026-05-21T03:20:03Z",
+  "metadata": {
+    "title": "XMFX Dancing With a Stranger",
+    "artist": "Xiu Xiu",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 868,
+    "duration_human": "00:14:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Dancing With a Stranger",
+      "02 Xiu Xiu - Sad Pony Guerilla Girl XMFX",
+      "03 Xiu Xiu - Spectacular Crab Spider"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-dancing-with-a-stranger_1779333551"
+    }
+  }
+}
