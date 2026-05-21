@@ -1,0 +1,32 @@
+{
+  "id": "xmfx-sex-dwarf_1779333709",
+  "fingerprint": "0f4eb9004b9e0e2ea8e3efd23efda9c870b3aa12d5cbbf609accb85ca75fa611",
+  "archived_at": "2026-05-21T03:22:32Z",
+  "metadata": {
+    "title": "XMFX Sex Dwarf",
+    "artist": "Xiu Xiu",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 1156,
+    "duration_human": "00:19:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Sex Dwarf",
+      "02 Xiu Xiu - Normal Love XMFX",
+      "03 Xiu Xiu - Silver Spotted Thwaitesia"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-sex-dwarf_1779333709"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vbf88f.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/2899f9f7ac35a4575ebd/XMFX_Sex_Dwarf.tar"
+    }
+  }
+}
