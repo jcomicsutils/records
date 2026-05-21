@@ -1,0 +1,32 @@
+{
+  "id": "actually-you-can_1779383906",
+  "fingerprint": "1663a43f276bb5096ff5f00c297c7287dd39ec205b012c51513f4831da45c921",
+  "archived_at": "2026-05-21T17:23:11Z",
+  "metadata": {
+    "title": "Actually, You Can",
+    "artist": "Deerhoof",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1936,
+    "duration_human": "00:32:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deerhoof - Be Unbarred, O Ye Gates of Hell",
+      "02 Deerhoof - Department of Corrections",
+      "03 Deerhoof - We Grew, and We Are Astonished",
+      "04 Deerhoof - Scarcity is Manufactured",
+      "05 Deerhoof - Ancient Mysteries, Described",
+      "06 Deerhoof - Plant Thief",
+      "07 Deerhoof - Our Philosophy is Fiction",
+      "08 Deerhoof - Epic Love Poem",
+      "09 Deerhoof - Divine Comedy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/actually-you-can_1779383906"
+    }
+  }
+}

@@ -20,6 +20,26 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/neft-061_1779383510"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/r7k00r.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/93tgv2.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/yaetom.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/gf3b4g.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/d4797e98b4f65130edb0/NEFT_061.tar"
     }
   }
 }
