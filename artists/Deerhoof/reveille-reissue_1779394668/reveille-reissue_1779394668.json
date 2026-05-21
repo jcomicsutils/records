@@ -1,0 +1,50 @@
+{
+  "id": "reveille-reissue_1779394668",
+  "fingerprint": "77dcfd85f559dc865e8e85160818375e2e788d489cd6f7561d5645d651ef98fe",
+  "archived_at": "2026-05-21T20:20:32Z",
+  "metadata": {
+    "title": "Reveille (Reissue)",
+    "artist": "Deerhoof",
+    "year": "2002",
+    "codec": "FLAC",
+    "num_tracks": 24,
+    "duration_seconds": 3078,
+    "duration_human": "00:51:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "1-01 Deerhoof - Sound the Alarm",
+      "1-02 Deerhoof - This Magnificent Bird Will Rise",
+      "1-03 Deerhoof - The Eyebright Bugler",
+      "1-04 Deerhoof - Punch Buggy Valves",
+      "1-05 Deerhoof - No One Fed Me So I Stayed",
+      "1-06 Deerhoof - Frenzied Handsome, Hello!",
+      "1-07 Deerhoof - Days & Nights in the Forest",
+      "1-08 Deerhoof - Top Tim Rubies",
+      "1-09 Deerhoof - Hark the Umpire",
+      "1-10 Deerhoof - Our Angel's Ululu",
+      "1-11 Deerhoof - The Last Trumpeter Swan",
+      "1-12 Deerhoof - Tuning a Stray",
+      "1-13 Deerhoof - Holy Night Fever",
+      "1-14 Deerhoof - All Rise",
+      "1-15 Deerhoof - Cooper",
+      "1-16 Deerhoof - Hallelujah Chorus",
+      "2-01 Deerhoof - Surprise Symphony",
+      "2-02 Deerhoof - United He-Ho Brothers",
+      "2-03 Deerhoof - Aho Bomb",
+      "2-04 Deerhoof - My Pal Foot Foot",
+      "2-05 Deerhoof - Tub Tim McGrob",
+      "2-06 Deerhoof - Insist",
+      "2-07 Deerhoof - Uh-Un",
+      "2-08 Deerhoof - Almuatin"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/reveille-reissue_1779394668"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/45a34565ddf04163d571/Reveille_Reissue.tar"
+    }
+  }
+}
