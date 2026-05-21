@@ -1,0 +1,27 @@
+{
+  "id": "under-rats_1779396326",
+  "fingerprint": "86095372f2accf0422a86ddae79d097aa37c215ec5785b95e8af6db22eb166f1",
+  "archived_at": "2026-05-21T20:46:02Z",
+  "metadata": {
+    "title": "Under Rats",
+    "artist": "Deerhoof",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 228,
+    "duration_human": "00:03:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deerhoof, Saul Williams - Under Rats"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/under-rats_1779396326"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/329da570028704d79abb/Under_Rats.tar"
+    }
+  }
+}
