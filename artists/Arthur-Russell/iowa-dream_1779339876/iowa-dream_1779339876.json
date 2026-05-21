@@ -1,0 +1,42 @@
+{
+  "id": "iowa-dream_1779339876",
+  "fingerprint": "da4440fd75cb6b0017ff18f8a75385656d95fa0f4532e61bff9f293a67d5ace4",
+  "archived_at": "2026-05-21T05:16:17Z",
+  "metadata": {
+    "title": "Iowa Dream",
+    "artist": "Arthur Russell",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 19,
+    "duration_seconds": 3736,
+    "duration_human": "01:02:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Arthur Russell - Wonder Boy",
+      "02 Arthur Russell - I Never Get Lonesome",
+      "03 Arthur Russell - Everybody Everybody",
+      "04 Arthur Russell - You Did It Yourself",
+      "05 Arthur Russell - Come to Life",
+      "06 Arthur Russell - Iowa Dream",
+      "07 Arthur Russell - Words of Love",
+      "08 Arthur Russell - I Still Love You",
+      "09 Arthur Russell - You Are My Love",
+      "10 Arthur Russell - Barefoot in New York",
+      "11 Arthur Russell - Just Regular People",
+      "12 Arthur Russell - I Wish I Had a Brother",
+      "13 Arthur Russell - I Felt",
+      "14 Arthur Russell - The Dogs Outside Are Barking",
+      "15 Arthur Russell - Sharper Eyes",
+      "16 Arthur Russell - Follow You",
+      "17 Arthur Russell - List of Boys",
+      "18 Arthur Russell - I Kissed the Girl From Outer Space",
+      "19 Arthur Russell - In Love With You for the Last Time"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/iowa-dream_1779339876"
+    }
+  }
+}
