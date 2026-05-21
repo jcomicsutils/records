@@ -1,0 +1,28 @@
+{
+  "id": "hoofdriver_1779392623",
+  "fingerprint": "ad9cb2d62e20b84c9fbe8ae0416835f84aa1c5a5f05a171e2956f1b5fb0c2132",
+  "archived_at": "2026-05-21T19:44:17Z",
+  "metadata": {
+    "title": "Hoofdriver",
+    "artist": "Deerhoof",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 401,
+    "duration_human": "00:06:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhoof, Physical Forms, Busdriver - I Did Crimes Behind Your Eyelids",
+      "02 Deerhoof, Physical Forms, Busdriver - On the Brink"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hoofdriver_1779392623"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/4df4432af793ea4183fc/Hoofdriver.tar"
+    }
+  }
+}
