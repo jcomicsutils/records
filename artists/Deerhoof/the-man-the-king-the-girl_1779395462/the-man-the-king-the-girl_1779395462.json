@@ -1,0 +1,39 @@
+{
+  "id": "the-man-the-king-the-girl_1779395462",
+  "fingerprint": "e5bef5c656055cf38debb1648305d511fe780bac73fb7d9f6fa8f41af4cdbe64",
+  "archived_at": "2026-05-21T20:33:23Z",
+  "metadata": {
+    "title": "The Man, the King, the Girl",
+    "artist": "Deerhoof",
+    "year": "1997",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 1722,
+    "duration_human": "00:28:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deerhoof - Gore in Rut",
+      "02 Deerhoof - A-Town Test Site",
+      "03 Deerhoof - The Pickup Bear",
+      "04 Deerhoof - Tiger Chain",
+      "05 Deerhoof - Queen of the Mole People",
+      "06 Deerhoof - Sophie",
+      "07 Deerhoof - Polly Bee",
+      "08 Deerhoof - Itchy P-Pads",
+      "09 Deerhoof - Bendinin",
+      "10 Deerhoof - Gold on Black",
+      "11 Deerhoof - The Comedian Flavorists",
+      "12 Deerhoof - For Those of Us on Foot",
+      "13 Deerhoof - Wheely Freed Speaks to the People"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-man-the-king-the-girl_1779395462"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/94d78cfcd1a60ee6a79b/The_Man_the_King_the_Girl.tar"
+    }
+  }
+}
