@@ -20,6 +20,23 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/neft-027_1779324478"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/mwc5hz.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/rn1luh.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/lkxlfg.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/50242d65745beb31ea79/NEFT_027.tar"
     }
   }
 }
