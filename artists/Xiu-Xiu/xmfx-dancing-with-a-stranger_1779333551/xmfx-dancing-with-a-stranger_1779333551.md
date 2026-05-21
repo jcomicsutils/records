@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/xmfx-dancing-with-a-stranger_1779333551)
+- [Catbox](https://files.catbox.moe/zhk7p4.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/87e256393dc358135e91/XMFX_Dancing_With_a_Stranger.tar)
 
 ## Tracklist
 
