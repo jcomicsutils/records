@@ -1,0 +1,39 @@
+{
+  "id": "the-green-corridor-ii_1779321507",
+  "fingerprint": "7df63d8c48cbd8cd0eb66ffbcb06973471b8365bac72b57b388d67eba5f94e57",
+  "archived_at": "2026-05-21T00:00:18Z",
+  "metadata": {
+    "title": "The Green Corridor II",
+    "artist": "Xiu Xiu",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2640,
+    "duration_human": "00:44:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Chad VanGaalen - Your Own Minds End",
+      "02 Chad VanGaalen - Evening Sun",
+      "03 Chad VanGaalen - I Want You Back",
+      "04 Chad VanGaalen - Ripped Islands",
+      "05 Chad VanGaalen - Cross Trainer",
+      "06 Chad VanGaalen - Nothing is Impoossible",
+      "07 Chad VanGaalen - Weighed Sin",
+      "08 Chad VanGaalen - Kiss, Kiss, Kiss",
+      "09 Chad VanGaalen - Portal Stretching",
+      "10 Xiu Xiu - Fortune Teller"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-green-corridor-ii_1779321507"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/vaxfyr.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/2e48a5181d237ada5f98/The_Green_Corridor_II.tar"
+    }
+  }
+}
