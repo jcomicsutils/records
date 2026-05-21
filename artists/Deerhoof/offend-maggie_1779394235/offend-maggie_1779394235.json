@@ -32,6 +32,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/offend-maggie_1779394235"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/0bbbb783705060e4fa91/Offend_Maggie.tar"
     }
   }
 }

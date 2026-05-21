@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/offend-maggie_1779394235)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/0bbbb783705060e4fa91/Offend_Maggie.tar)
 
 ## Tracklist
 
