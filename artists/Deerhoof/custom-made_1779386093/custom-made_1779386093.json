@@ -1,0 +1,33 @@
+{
+  "id": "custom-made_1779386093",
+  "fingerprint": "a39e9fc4deff8004b366024330d64e80638acf5fd4fb6ddfcd15c508eb21f008",
+  "archived_at": "2026-05-21T17:55:29Z",
+  "metadata": {
+    "title": "Custom Made",
+    "artist": "Deerhoof",
+    "year": "2009",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 648,
+    "duration_human": "00:10:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Deerhoof - The Tears and Music of Love (Alternate Take)",
+      "02 Deerhoof - Makko Shobu (Piano and Vocal Version)",
+      "03 Deerhoof - Rrrrrrright (Remix by Germlin)",
+      "04 Deerhoof - Blue Cash (Full Band Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/custom-made_1779386093"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/3qd5ft.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/14024bd6a1890448a7af/Custom_Made.tar"
+    }
+  }
+}
