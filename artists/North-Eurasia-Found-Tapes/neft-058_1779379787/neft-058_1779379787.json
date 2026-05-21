@@ -20,6 +20,23 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/neft-058_1779379787"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/izpt4q.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/9cualn.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/oz1pbk.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/add8639f25284b17481f/NEFT_058.tar"
     }
   }
 }

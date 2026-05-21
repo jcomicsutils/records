@@ -1,0 +1,30 @@
+{
+  "id": "springfield_1779381179",
+  "fingerprint": "b9627320ac8b6e9a5fe2f41c1ae976fb1e3652b7d4761edf919ccf1e55d98933",
+  "archived_at": "2026-05-21T16:34:48Z",
+  "metadata": {
+    "title": "Springfield",
+    "artist": "Arthur Russell",
+    "year": "2002",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2387,
+    "duration_human": "00:39:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Arthur Russell - Springfield",
+      "02 Arthur Russell - Springfield (DFA Remix)",
+      "03 Arthur Russell - Springfield (Detail)",
+      "04 Arthur Russell - See My Brother, He's Jumpin Out (Let's Go Swimming #1)",
+      "05 Arthur Russell - Corn #3",
+      "06 Arthur Russell - Hiding Your Present From You",
+      "07 Arthur Russell - You Have Did the Right Thing When You Put That Skylight In"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/springfield_1779381179"
+    }
+  }
+}
