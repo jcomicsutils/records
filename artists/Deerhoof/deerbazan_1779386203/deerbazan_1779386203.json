@@ -1,0 +1,31 @@
+{
+  "id": "deerbazan_1779386203",
+  "fingerprint": "b50d92b98a147a71758399b13f5e0a49741f779136e946da4533f9bc9e171ab2",
+  "archived_at": "2026-05-21T17:57:32Z",
+  "metadata": {
+    "title": "DeerBazan",
+    "artist": "Deerhoof",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 348,
+    "duration_human": "00:05:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhoof, David Bazan - No One Asked Bazan to Dance",
+      "02 Deerhoof, David Bazan - Gas and Matches"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/deerbazan_1779386203"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/9gmpcj.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/a0d6e61a481a42f68564/DeerBazan.tar"
+    }
+  }
+}
