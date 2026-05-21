@@ -1,0 +1,30 @@
+{
+  "id": "xmfx-30-warm-leatherette_1779332704",
+  "fingerprint": "7eaf3addc216cf044ad55deca3f337b21b6e7e8e957504e083b40e62f63caace",
+  "archived_at": "2026-05-21T03:05:32Z",
+  "metadata": {
+    "title": "XMFX 30: Warm Leatherette",
+    "artist": "Xiu Xiu",
+    "year": "2022",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 247,
+    "duration_human": "00:04:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Warm Leatherette [The Normal]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-30-warm-leatherette_1779332704"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/w2hu5w.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/cf33c0bd5d634ce7f41f/XMFX_30_Warm_Leatherette.tar"
+    }
+  }
+}
