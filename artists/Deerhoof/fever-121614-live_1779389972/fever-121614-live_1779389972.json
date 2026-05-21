@@ -1,0 +1,35 @@
+{
+  "id": "fever-121614-live_1779389972",
+  "fingerprint": "0e7589d3b0c09b9593ed3a4010471e40142cfbd5e22d4f8b0a78e79c30fed6a3",
+  "archived_at": "2026-05-21T19:01:26Z",
+  "metadata": {
+    "title": "Fever 121614 (Live)",
+    "artist": "Deerhoof",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2255,
+    "duration_human": "00:37:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhoof - Exit Only (Live)",
+      "02 Deerhoof - Paradise Girls (Live)",
+      "03 Deerhoof - Let's Dance the Jet (Live)",
+      "04 Deerhoof - Doom (Live)",
+      "05 Deerhoof - Fresh Born (Live)",
+      "06 Deerhoof - We Do Parties (Live)",
+      "07 Deerhoof - Buck and Judy (Live)",
+      "08 Deerhoof - Dummy Discards a Heart (Live)",
+      "09 Deerhoof - Twin Killers (Live)",
+      "10 Deerhoof - I Did Crimes for You (Live)",
+      "11 Deerhoof - There's That Grin (Live)",
+      "12 Deerhoof - Come See the Duck (Live)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fever-121614-live_1779389972"
+    }
+  }
+}
