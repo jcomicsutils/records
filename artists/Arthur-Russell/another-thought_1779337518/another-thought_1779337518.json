@@ -1,0 +1,38 @@
+{
+  "id": "another-thought_1779337518",
+  "fingerprint": "839817c067181b7d770c9deee3477db531d7bf8850cfdeb7317abe017ccc62fb",
+  "archived_at": "2026-05-21T04:31:05Z",
+  "metadata": {
+    "title": "Another Thought",
+    "artist": "Arthur Russell",
+    "year": "1994",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 3725,
+    "duration_human": "01:02:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Arthur Russell - Another Thought",
+      "02 Arthur Russell - A Little Lost",
+      "03 Arthur Russell - Home Away From Home",
+      "04 Arthur Russell - Lucky Cloud",
+      "05 Arthur Russell - This is How We Walk on the Moon",
+      "06 Arthur Russell - Hollow Tree",
+      "07 Arthur Russell - See Through Love",
+      "08 Arthur Russell - Keeping Up",
+      "09 Arthur Russell - In the Light of the Miracle",
+      "10 Arthur Russell - Lucky Cloud (Return)",
+      "11 Arthur Russell - Just a Blip",
+      "12 Arthur Russell - Me for Real",
+      "13 Arthur Russell - Losing My Taste for the Night Life",
+      "14 Arthur Russell - My Tiger, My Timing",
+      "15 Arthur Russell - A Sudden Chill"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/another-thought_1779337518"
+    }
+  }
+}
