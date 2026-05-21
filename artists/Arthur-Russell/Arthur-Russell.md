@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Instrumentals Vol. 2](instrumentals-vol-2_1779339798/instrumentals-vol-2_1779339798.md) | 1977 | AAC | 00:31:12 | [IA](https://archive.org/details/instrumentals-vol-2_1779339798) [Catbox](https://files.catbox.moe/5aux58.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/5e2ca962adfe8c1b6dbe/Instrumentals_Vol._2.tar) |
 | [Another Thought](another-thought_1779337518/another-thought_1779337518.md) | 1994 | FLAC | 01:02:05 | [IA](https://archive.org/details/another-thought_1779337518) [Catbox ×2](another-thought_1779337518/another-thought_1779337518.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/78acef1fd00eb30b8cb7/Another_Thought.tar) |
 | [Calling Out of Context](calling-out-of-context_1779338227/calling-out-of-context_1779338227.md) | 2000 | FLAC | 01:00:19 | [IA](https://archive.org/details/calling-out-of-context_1779338227) [Catbox ×2](calling-out-of-context_1779338227/calling-out-of-context_1779338227.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/ac01ef9fc4ae9d3e5e31/Calling_Out_of_Context.tar) |
 | [First Thought Best Thought](first-thought-best-thought_1779338958/first-thought-best-thought_1779338958.md) | 2002 | FLAC | 02:07:06 | [IA](https://archive.org/details/first-thought-best-thought_1779338958) [Catbox ×4](first-thought-best-thought_1779338958/first-thought-best-thought_1779338958.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/501cc58f2c0ccc8473c3/First_Thought_Best_Thought.tar) |

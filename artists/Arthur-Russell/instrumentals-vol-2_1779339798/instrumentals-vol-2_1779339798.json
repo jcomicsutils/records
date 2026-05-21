@@ -1,0 +1,34 @@
+{
+  "id": "instrumentals-vol-2_1779339798",
+  "fingerprint": "27b1c46fd0f98028ae2137be5ebdba5f6eeda8d05468d6c582a3ddab3a85f9dd",
+  "archived_at": "2026-05-21T05:04:06Z",
+  "metadata": {
+    "title": "Instrumentals Vol. 2",
+    "artist": "Arthur Russell",
+    "year": "1977",
+    "codec": "AAC",
+    "num_tracks": 5,
+    "duration_seconds": 1872,
+    "duration_human": "00:31:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Arthur Russell - Instrumentals Vol. 2 (Pt. 1: June 23, 1977)",
+      "02 Arthur Russell - Instrumentals Vol. 2 (Pt. 2: May 10, 1978)",
+      "03 Arthur Russell - Instrumentals Vol. 2 (Pt. 3a: May 10, 1978)",
+      "04 Arthur Russell - Instrumentals Vol. 2 (Pt. 3b: May 10, 1978)",
+      "05 Arthur Russell - Instrumentals Vol. 2 (Pt. 3c: May 10, 1978)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/instrumentals-vol-2_1779339798"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5aux58.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/5e2ca962adfe8c1b6dbe/Instrumentals_Vol._2.tar"
+    }
+  }
+}
