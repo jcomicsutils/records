@@ -1,0 +1,30 @@
+{
+  "id": "xmfx-53-lick-or-sum_1779333468",
+  "fingerprint": "c13536fafd230a79b5abba7cb52fbb096674d9c83e25bf006070e397d47a1fde",
+  "archived_at": "2026-05-21T03:18:19Z",
+  "metadata": {
+    "title": "XMFX 53: Lick or Sum",
+    "artist": "Xiu Xiu",
+    "year": "2024",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 187,
+    "duration_human": "00:03:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Lick or Sum [GloRilla]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-53-lick-or-sum_1779333468"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/8o4brl.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/7600290b89ba0fb0c9ee/XMFX_53_Lick_or_Sum.tar"
+    }
+  }
+}
