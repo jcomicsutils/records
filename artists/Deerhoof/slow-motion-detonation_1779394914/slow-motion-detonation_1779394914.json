@@ -1,0 +1,27 @@
+{
+  "id": "slow-motion-detonation_1779394914",
+  "fingerprint": "736eaca97ecdc187d165de3eef799465f6f09a78aaa357901f4a66b333a92582",
+  "archived_at": "2026-05-21T20:22:31Z",
+  "metadata": {
+    "title": "Slow Motion Detonation",
+    "artist": "Deerhoof",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 221,
+    "duration_human": "00:03:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deerhoof - Slow Motion Detonation"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/slow-motion-detonation_1779394914"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/03228622c4ab52cd13ca/Slow_Motion_Detonation.tar"
+    }
+  }
+}
