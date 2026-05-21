@@ -20,6 +20,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/neft-066_1779388084"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/41cb52dc7a0f01c6b6c0/NEFT_066.tar"
     }
   }
 }
