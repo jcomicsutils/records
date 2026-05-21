@@ -1,0 +1,67 @@
+{
+  "id": "first-thought-best-thought_1779338958",
+  "fingerprint": "23686b78a6d2ab3a798ad3c87fd185d60819c7bdb136a7d26810a4b56beb2fa2",
+  "archived_at": "2026-05-21T04:59:01Z",
+  "metadata": {
+    "title": "First Thought Best Thought",
+    "artist": "Arthur Russell",
+    "year": "2002",
+    "codec": "FLAC",
+    "num_tracks": 24,
+    "duration_seconds": 7626,
+    "duration_human": "02:07:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "1-01 Arthur Russell - \"Instrumentals\" Volume 1 (Part 1)",
+      "1-02 Arthur Russell - \"Instrumentals\" Volume 1 (Part 2)",
+      "1-03 Arthur Russell - \"Instrumentals\" Volume 1 (Part 3)",
+      "1-04 Arthur Russell - \"Instrumentals\" Volume 1 (Part 4)",
+      "1-05 Arthur Russell - \"Instrumentals\" Volume 1 (Part 5)",
+      "1-06 Arthur Russell - \"Instrumentals\" Volume 1 (Part 6)",
+      "1-07 Arthur Russell - \"Instrumentals\" Volume 1 (Part 7)",
+      "1-08 Arthur Russell - \"Instrumentals\" Volume 1 (Part 8)",
+      "1-09 Arthur Russell - \"Instrumentals\" Volume 1 (Part 9)",
+      "1-10 Arthur Russell - \"Instrumentals\" Volume 1 (Part 10)",
+      "1-11 Arthur Russell - \"Instrumentals\" Volume 2 (Part 1)",
+      "1-12 Arthur Russell - \"Instrumentals\" Volume 2 (Part 2)",
+      "1-13 Arthur Russell - \"Instrumentals\" Volume 2 (Part 3)",
+      "1-14 Arthur Russell - \"Instrumentals\" Volume 2 (Part 4)",
+      "1-15 Arthur Russell - \"Instrumentals\" Volume 2 (Part 5)",
+      "1-16 Arthur Russell - Reach One",
+      "2-01 Arthur Russell - Tower of Meaning (Part 1)",
+      "2-02 Arthur Russell - Tower of Meaning (Part 2)",
+      "2-03 Arthur Russell - Tower of Meaning (Part 3)",
+      "2-04 Arthur Russell - Tower of Meaning (Part 4)",
+      "2-05 Arthur Russell - Tower of Meaning (Part 5)",
+      "2-06 Arthur Russell - Tower of Meaning (Part 6)",
+      "2-07 Arthur Russell - Tower of Meaning (Part 7)",
+      "2-08 Arthur Russell - Sketch for the Face of Helen"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/first-thought-best-thought_1779338958"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/c2sqyz.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/gjelqf.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/df6ukq.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/fpv30m.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/501cc58f2c0ccc8473c3/First_Thought_Best_Thought.tar"
+    }
+  }
+}
