@@ -1,0 +1,31 @@
+{
+  "id": "love-lore_1779393261",
+  "fingerprint": "961bc1a24700100d2bac630f53c7fe37d176a8973a960346a6db11ccbf37e769",
+  "archived_at": "2026-05-21T19:56:06Z",
+  "metadata": {
+    "title": "Love-Lore",
+    "artist": "Deerhoof",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2068,
+    "duration_human": "00:34:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deerhoof - Love-Lore 1",
+      "02 Deerhoof - Love-Lore 2",
+      "03 Deerhoof - Love-Lore 3",
+      "04 Deerhoof - Love-Lore 4",
+      "05 Deerhoof - Love-Lore 5"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/love-lore_1779393261"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/546414206bd56251c903/Love-Lore.tar"
+    }
+  }
+}
