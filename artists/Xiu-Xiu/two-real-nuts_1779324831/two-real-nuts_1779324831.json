@@ -1,0 +1,39 @@
+{
+  "id": "two-real-nuts_1779324831",
+  "fingerprint": "6c363b999fd6931922e123fab1d9921f7a12cc5e2196309bc72347053c5b4ac5",
+  "archived_at": "2026-05-21T01:00:42Z",
+  "metadata": {
+    "title": "Two Real Nuts",
+    "artist": "Xiu Xiu",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3871,
+    "duration_human": "01:04:31",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Take 1",
+      "02 Xiu Xiu - Take 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/two-real-nuts_1779324831"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/w2ad9f.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/2la0te.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/28826c93633b328fbdd8/Two_Real_Nuts.tar"
+    }
+  }
+}
