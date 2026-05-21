@@ -1,0 +1,30 @@
+{
+  "id": "xmfx-27-spqr_1779332661",
+  "fingerprint": "f2b09a98c9ce551e21f8d45f78b5cb4413ebd67ea5036b7424e28378eba926b4",
+  "archived_at": "2026-05-21T03:04:52Z",
+  "metadata": {
+    "title": "XMFX 27: SPQR",
+    "artist": "Xiu Xiu",
+    "year": "2022",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 223,
+    "duration_human": "00:03:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - SPQR [This Heat]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-27-spqr_1779332661"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/qlzq2u.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/8e632c68cc7a11e7804e/XMFX_27_SPQR.tar"
+    }
+  }
+}
