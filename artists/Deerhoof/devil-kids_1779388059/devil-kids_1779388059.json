@@ -1,0 +1,44 @@
+{
+  "id": "devil-kids_1779388059",
+  "fingerprint": "96b7c942825bb4bd1e48828133a03f36cf99c581321ab0a0342e2cef10b2b12a",
+  "archived_at": "2026-05-21T18:33:00Z",
+  "metadata": {
+    "title": "Devil Kids",
+    "artist": "Deerhoof",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 18,
+    "duration_seconds": 3550,
+    "duration_human": "00:59:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deerhoof - Scarcity is Manufactured",
+      "02 Deerhoof - Wrong Time Capsule",
+      "03 Deerhoof - The Perfect Me",
+      "04 Deerhoof - L'Amour Stories",
+      "05 Deerhoof - Plant Thief",
+      "06 Deerhoof - Black Pitch",
+      "07 Deerhoof - My Purple Past",
+      "08 Deerhoof - Giga Dance",
+      "09 Deerhoof - Damaged Eyes Squinting Into the Beautiful Overhot Sun",
+      "10 Deerhoof - No One Asked to Dance",
+      "11 Deerhoof - Debut",
+      "12 Deerhoof - This Magnificent Bird Will Rise",
+      "13 Deerhoof - Be Unbarred, O Ye Gates of Hell",
+      "14 Deerhoof - We Do Parties",
+      "15 Deerhoof - Love-Lore 2",
+      "16 Deerhoof - Mountain Moves",
+      "17 Deerhoof - Polly Bee",
+      "18 Deerhoof - Come See the Duck"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/devil-kids_1779388059"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/21fb4897133289b732b5/Devil_Kids.tar"
+    }
+  }
+}
