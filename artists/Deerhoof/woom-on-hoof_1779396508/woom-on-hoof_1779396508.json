@@ -1,0 +1,28 @@
+{
+  "id": "woom-on-hoof_1779396508",
+  "fingerprint": "de6fc281ae495e21cf9543690f0c3ae647a773f7d0b0fe45db50400b893d1bd4",
+  "archived_at": "2026-05-21T20:49:47Z",
+  "metadata": {
+    "title": "WOOM on Hoof",
+    "artist": "Deerhoof",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 277,
+    "duration_human": "00:04:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhoof, Woom - Wichikapache Fights Current",
+      "02 Deerhoof, Woom - Quetzalcoatl's Ship (Deerhoof Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/woom-on-hoof_1779396508"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/164bfacb1112b2df3ba9/WOOM_on_Hoof.tar"
+    }
+  }
+}
