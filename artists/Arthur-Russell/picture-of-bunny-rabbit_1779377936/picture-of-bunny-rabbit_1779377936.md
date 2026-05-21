@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/picture-of-bunny-rabbit_1779377936)
+- Catbox: [Part 1](https://files.catbox.moe/npvvbm.tar) [Part 2](https://files.catbox.moe/brh2mt.tar) [Part 3](https://files.catbox.moe/thv8rx.tar) [Part 4](https://files.catbox.moe/nwvfsz.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/3bf7b616733aeee8477e/Picture_of_Bunny_Rabbit.tar)
 
 ## Tracklist
 

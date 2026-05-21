@@ -27,6 +27,26 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/picture-of-bunny-rabbit_1779377936"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/npvvbm.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/brh2mt.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/thv8rx.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/nwvfsz.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/3bf7b616733aeee8477e/Picture_of_Bunny_Rabbit.tar"
     }
   }
 }
