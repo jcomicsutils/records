@@ -33,6 +33,20 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/another-thought_1779337518"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/ztfnsk.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/hzykbt.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/78acef1fd00eb30b8cb7/Another_Thought.tar"
     }
   }
 }

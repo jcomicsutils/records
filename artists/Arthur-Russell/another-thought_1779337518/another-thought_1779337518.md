@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/another-thought_1779337518)
+- Catbox: [Part 1](https://files.catbox.moe/ztfnsk.tar) [Part 2](https://files.catbox.moe/hzykbt.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/78acef1fd00eb30b8cb7/Another_Thought.tar)
 
 ## Tracklist
 

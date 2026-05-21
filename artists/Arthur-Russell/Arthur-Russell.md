@@ -2,5 +2,5 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
-| [Another Thought](another-thought_1779337518/another-thought_1779337518.md) | 1994 | FLAC | 01:02:05 | [IA](https://archive.org/details/another-thought_1779337518) |
+| [Another Thought](another-thought_1779337518/another-thought_1779337518.md) | 1994 | FLAC | 01:02:05 | [IA](https://archive.org/details/another-thought_1779337518) [Catbox ×2](another-thought_1779337518/another-thought_1779337518.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/78acef1fd00eb30b8cb7/Another_Thought.tar) |
 | [24 to 24 Music Live at the Kitchen \(Live\)](24-to-24-music-live-at-the-kitchen-live_1779336508/24-to-24-music-live-at-the-kitchen-live_1779336508.md) | 2021 | FLAC | 01:06:53 | [IA](https://archive.org/details/24-to-24-music-live-at-the-kitchen-live_1779336508) [Catbox ×3](24-to-24-music-live-at-the-kitchen-live_1779336508/24-to-24-music-live-at-the-kitchen-live_1779336508.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/fb416262faa98d683933/24_to_24_Music_Live_at_the_Kitchen_Live.tar) |
