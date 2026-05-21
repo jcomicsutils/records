@@ -1,0 +1,28 @@
+{
+  "id": "tiny-dirt-i-hear-an-echo_1779396109",
+  "fingerprint": "62da236d563d308662b57e92907ced35e2c102ea22e20e4b3ce50d0a46717a54",
+  "archived_at": "2026-05-21T20:43:04Z",
+  "metadata": {
+    "title": "Tiny Dirt / I Hear an Echo",
+    "artist": "Deerhoof",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 395,
+    "duration_human": "00:06:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Dale Crover, Deerhoof - Tiny Dirt",
+      "02 Dale Crover, Deerhoof - I Hear an Echo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tiny-dirt-i-hear-an-echo_1779396109"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/f690c071273947f96ff1/Tiny_Dirt_-_I_Hear_an_Echo.tar"
+    }
+  }
+}
