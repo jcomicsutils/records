@@ -1,0 +1,46 @@
+{
+  "id": "balter-saunier_1779384794",
+  "fingerprint": "0b8d3af1639765f35c78a59dcdf4ce764cdbf84e1a3700f0e26947dd8bb59f85",
+  "archived_at": "2026-05-21T17:36:07Z",
+  "metadata": {
+    "title": "Balter / Saunier",
+    "artist": "Deerhoof",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2944,
+    "duration_human": "00:49:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Ensemble Dal Niente, Deerhoof - No. 1, Credo",
+      "02 Ensemble Dal Niente, Deerhoof - No. 2, Parallel Spaces",
+      "03 Ensemble Dal Niente, Deerhoof - No. 3, Ready",
+      "04 Ensemble Dal Niente, Deerhoof - No. 4, True/False",
+      "05 Ensemble Dal Niente, Deerhoof - No. 5, Home",
+      "06 Ensemble Dal Niente, Deerhoof - No. 6, Cherubim",
+      "07 Ensemble Dal Niente, Deerhoof - No. 7, Rapture",
+      "08 Ensemble Dal Niente, Deerhoof - Pois Que Nada Que Dure, Ou Que Durando",
+      "09 Ensemble Dal Niente, Deerhoof - Deerhoof Chamber Variations"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/balter-saunier_1779384794"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/b6nz50.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/h81dmj.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/3a4721ff45bd815c5b36/Balter_-_Saunier.tar"
+    }
+  }
+}
