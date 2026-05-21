@@ -1,0 +1,41 @@
+{
+  "id": "the-magic_1779395225",
+  "fingerprint": "0b0abc0cb8a1e69baa7b4c3966d207ce6bb110464c732d40b1d2ab1cedca8ecf",
+  "archived_at": "2026-05-21T20:30:16Z",
+  "metadata": {
+    "title": "The Magic",
+    "artist": "Deerhoof",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 2427,
+    "duration_human": "00:40:27",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deerhoof - The Devil and His Anarchic Surrealist Retinue",
+      "02 Deerhoof - Kafe Mania!",
+      "03 Deerhoof - That Ain’t No Life to Me",
+      "04 Deerhoof - Life is Suffering",
+      "05 Deerhoof - Criminals of the Dream",
+      "06 Deerhoof - Model Behavior",
+      "07 Deerhoof - Learning to Apologize Effectively",
+      "08 Deerhoof - Dispossessor",
+      "09 Deerhoof - I Don’t Want to Set the World on Fire",
+      "10 Deerhoof - Acceptance Speech",
+      "11 Deerhoof - Patrasche Come Back",
+      "12 Deerhoof - Debut",
+      "13 Deerhoof - Plastic Thrills",
+      "14 Deerhoof - Little Hollywood",
+      "15 Deerhoof - Nurse Me"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-magic_1779395225"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/4bf291f9b3a9aec39563/The_Magic.tar"
+    }
+  }
+}
