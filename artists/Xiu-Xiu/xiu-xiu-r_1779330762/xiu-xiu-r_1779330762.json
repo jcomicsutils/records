@@ -1,0 +1,31 @@
+{
+  "id": "xiu-xiu-r_1779330762",
+  "fingerprint": "64d4add16b920adb55317c7a9f9f2687f2a2e4b446fd70ea81009d0b6d989957",
+  "archived_at": "2026-05-21T02:33:24Z",
+  "metadata": {
+    "title": "Xiu Xiu / (r)",
+    "artist": "Xiu Xiu",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 418,
+    "duration_human": "00:06:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu, (r) - Sharp Dressed Man",
+      "02 Xiu Xiu, (r) - Gimme All Your Lovin'"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xiu-xiu-r_1779330762"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/k75d3b.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/e1fee19b4462be74eb39/Xiu_Xiu_-_r.tar"
+    }
+  }
+}
