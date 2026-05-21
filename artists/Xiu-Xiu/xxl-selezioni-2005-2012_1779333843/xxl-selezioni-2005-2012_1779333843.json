@@ -31,6 +31,20 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/xxl-selezioni-2005-2012_1779333843"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/67df23.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/v1bvxg.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/bsd3kj.tar"
+        }
+      ]
     }
   }
 }
