@@ -1,0 +1,42 @@
+{
+  "id": "cover-band_1779385822",
+  "fingerprint": "c065f044dc7223a3de573c400eabc9aedffd3ac5d1123f528d2094b7fee8f932",
+  "archived_at": "2026-05-21T17:52:46Z",
+  "metadata": {
+    "title": "Cover Band",
+    "artist": "Deerhoof",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2061,
+    "duration_human": "00:34:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Cover Band, Deerhoof, Steph Richards - Part One",
+      "02 Cover Band, Deerhoof, Steph Richards - Part Two"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cover-band_1779385822"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/ixoegg.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/qq6m8z.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/6ki8ok.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/3ce3f1c394bba3b8412b/Cover_Band.tar"
+    }
+  }
+}
