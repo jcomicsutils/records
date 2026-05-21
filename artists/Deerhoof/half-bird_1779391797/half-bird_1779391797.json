@@ -1,0 +1,40 @@
+{
+  "id": "half-bird_1779391797",
+  "fingerprint": "1870925c380ea82859bc4f3fa3f62b98486991b90d2f394f2059962d52e4818b",
+  "archived_at": "2026-05-21T19:36:55Z",
+  "metadata": {
+    "title": "Half Bird",
+    "artist": "Deerhoof",
+    "year": "2001",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 2106,
+    "duration_human": "00:35:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhoof - Halfrabbit Halfdog",
+      "02 Deerhoof - Six Holes on a Stick",
+      "03 Deerhoof - Red Dragon",
+      "04 Deerhoof - Trickybird",
+      "05 Deerhoof - The Man the King the Girl and the Spider",
+      "06 Deerhoof - Witchery Glamour Spell",
+      "07 Deerhoof - Queen Orca Wicca Wind",
+      "08 Deerhoof - Sunnyside",
+      "09 Deerhoof - Carriage",
+      "10 Deerhoof - Littleness",
+      "11 Deerhoof - Xmas Tree",
+      "12 Deerhoof - Rat Attack",
+      "13 Deerhoof - The Forty Fours",
+      "14 Deerhoof - Halfmole Halfbird"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/half-bird_1779391797"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/6dd74e3f229f93b8ee9b/Half_Bird.tar"
+    }
+  }
+}
