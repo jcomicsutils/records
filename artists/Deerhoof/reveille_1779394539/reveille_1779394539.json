@@ -1,0 +1,42 @@
+{
+  "id": "reveille_1779394539",
+  "fingerprint": "c65f26eca614562ed9a400e5b1ddcd760573658f8e3fc2ec49e4d5518f867658",
+  "archived_at": "2026-05-21T20:17:26Z",
+  "metadata": {
+    "title": "Reveille",
+    "artist": "Deerhoof",
+    "year": "2002",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_seconds": 2029,
+    "duration_human": "00:33:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhoof - Sound the Alarm",
+      "02 Deerhoof - This Magnificent Bird Will Rise",
+      "03 Deerhoof - The Eyebright Bugler",
+      "04 Deerhoof - Punch Buggy Valves",
+      "05 Deerhoof - No One Fed Me So I Stayed",
+      "06 Deerhoof - Frenzied Handsome, Hello!",
+      "07 Deerhoof - Days & Nights in the Forest",
+      "08 Deerhoof - Top Tim Rubies",
+      "09 Deerhoof - Hark the Umpire",
+      "10 Deerhoof - Our Angel's Ululu",
+      "11 Deerhoof - The Last Trumpeter Swan",
+      "12 Deerhoof - Tuning a Stray",
+      "13 Deerhoof - Holy Night Fever",
+      "14 Deerhoof - All Rise",
+      "15 Deerhoof - Cooper",
+      "16 Deerhoof - Hallelujah Chorus"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/reveille_1779394539"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/20f16efe45c921d1847f/Reveille.tar"
+    }
+  }
+}

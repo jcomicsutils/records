@@ -76,6 +76,7 @@
 | [NEFT_075](neft-075_1779393703/neft-075_1779393703.md) | 2024 | FLAC | 00:34:42 | [IA](https://archive.org/details/neft-075_1779393703) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/1b5acf1a0a20685b92de/NEFT_075.tar) |
 | [NEFT_074](neft-074_1779393482/neft-074_1779393482.md) | 2024 | FLAC | 01:34:43 | [IA](https://archive.org/details/neft-074_1779393482) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/8ac803d0a4ba2964bcd7/NEFT_074.tar) |
 | [NEFT_071](neft-071_1779391623/neft-071_1779391623.md) | 2024 | FLAC | 00:25:01 | [IA](https://archive.org/details/neft-071_1779391623) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/c5b1a6e675cda47bd4c1/NEFT_071.tar) |
+| [NEFT_077](neft-077_1779394439/neft-077_1779394439.md) | 2024 | FLAC | 01:30:27 | [IA](https://archive.org/details/neft-077_1779394439) |
 | [NEFT_073](neft-073_1779393141/neft-073_1779393141.md) | 2024 | FLAC | 01:00:11 | [IA](https://archive.org/details/neft-073_1779393141) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/e808078bbef412e8b8e8/NEFT_073.tar) |
 | [NEFT_072](neft-072_1779392002/neft-072_1779392002.md) | 2024 | FLAC | 00:47:48 | [IA](https://archive.org/details/neft-072_1779392002) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/6b787f49fc87385e612f/NEFT_072.tar) |
 | [NEFT_076](neft-076_1779394029/neft-076_1779394029.md) | 2024 | FLAC | 00:40:02 | [IA](https://archive.org/details/neft-076_1779394029) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/94b83a02d50f116508b6/NEFT_076.tar) |
