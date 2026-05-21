@@ -1,0 +1,32 @@
+{
+  "id": "dirt-pirate-creed_1779388829",
+  "fingerprint": "bc5d5e7a95f4f7baccc04be4d0c924844749885b5b8de9065baefeadcb7f6255",
+  "archived_at": "2026-05-21T18:51:25Z",
+  "metadata": {
+    "title": "Dirt Pirate Creed",
+    "artist": "Deerhoof",
+    "year": "1996",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2767,
+    "duration_human": "00:46:07",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deerhoof - Mathematics",
+      "02 Deerhoof - Sophie's Belly",
+      "03 Deerhoof - Catatoc",
+      "04 Deerhoof - Awakening of the Dirt Pirates",
+      "05 Deerhoof - The Man Sabo-a and the Girl Polly-B Going on Foot and the King Coming by Carriage",
+      "06 Deerhoof - Mirror Tree"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dirt-pirate-creed_1779388829"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/a5aa3059cb23cde892a4/Dirt_Pirate_Creed.tar"
+    }
+  }
+}
