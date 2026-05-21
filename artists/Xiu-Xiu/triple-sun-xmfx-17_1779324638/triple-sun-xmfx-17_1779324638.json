@@ -1,0 +1,32 @@
+{
+  "id": "triple-sun-xmfx-17_1779324638",
+  "fingerprint": "42ed7be3e431382361c63ff544c6d4c4a0e0954869f6c9caac650982f39c566d",
+  "archived_at": "2026-05-21T00:51:58Z",
+  "metadata": {
+    "title": "Triple Sun XMFX 17",
+    "artist": "Xiu Xiu",
+    "year": "2021",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 727,
+    "duration_human": "00:12:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Triple Sun",
+      "02 Xiu Xiu - I Dream of Someone Else Entriely SOLO",
+      "03 Xiu Xiu - Little Woodpecker Lamentation 5/17"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/triple-sun-xmfx-17_1779324638"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/docani.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/ddc99aa75f539db0fd6b/Triple_Sun_XMFX_17.tar"
+    }
+  }
+}
