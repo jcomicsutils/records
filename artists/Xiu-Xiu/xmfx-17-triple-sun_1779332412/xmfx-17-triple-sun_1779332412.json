@@ -1,0 +1,30 @@
+{
+  "id": "xmfx-17-triple-sun_1779332412",
+  "fingerprint": "2bee17560b4489ec4e73ff53f64a050ba69b0f92d98af2901652e549ac7f202f",
+  "archived_at": "2026-05-21T03:00:46Z",
+  "metadata": {
+    "title": "XMFX 17: Triple Sun",
+    "artist": "Xiu Xiu",
+    "year": "2021",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 372,
+    "duration_human": "00:06:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Triple Sun [COIL]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-17-triple-sun_1779332412"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/4jlhe3.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/e9e3601c332821095ef7/XMFX_17_Triple_Sun.tar"
+    }
+  }
+}
