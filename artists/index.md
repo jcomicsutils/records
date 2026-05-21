@@ -8,6 +8,7 @@
 - [Ak'chamel](Ak'chamel/Ak'chamel.md)
 - [Algebra Suicide](Algebra-Suicide/Algebra-Suicide.md)
 - [Armand Hammer](Armand-Hammer/Armand-Hammer.md)
+- [Arthur Russell](Arthur-Russell/Arthur-Russell.md)
 - [BLARF](BLARF/BLARF.md)
 - [Bardo Todol](Bardo-Todol/Bardo-Todol.md)
 - [Bark Psychosis](Bark-Psychosis/Bark-Psychosis.md)
