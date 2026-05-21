@@ -1,0 +1,42 @@
+{
+  "id": "surprise-symphonies_1779395058",
+  "fingerprint": "2aa4fb3e7158cdd7db6718cc7feca29c3531a11f645afced3dccb52feb7ca029",
+  "archived_at": "2026-05-21T20:26:25Z",
+  "metadata": {
+    "title": "Surprise Symphonies",
+    "artist": "Deerhoof",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_seconds": 3547,
+    "duration_human": "00:59:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhoof - Symphony #1",
+      "02 Deerhoof - Overfishing Song",
+      "03 Deerhoof - Strawberry Bananas",
+      "04 Deerhoof - Weak in the Knees",
+      "05 Deerhoof - Awakening of the Dirt Pirates",
+      "06 Deerhoof - Symphony #2",
+      "07 Deerhoof - The Way You Laugh When Something Goes Wrong",
+      "08 Deerhoof - You Won't Need Invitation",
+      "09 Deerhoof - You Will Regret",
+      "10 Deerhoof - Jorge B.S. Friend",
+      "11 Deerhoof - Aho Bomb",
+      "12 Deerhoof - Uniited He-Ho Brothers",
+      "13 Deerhoof - Sunny 44s",
+      "14 Deerhoof - Surprise Symphony",
+      "15 Deerhoof - Dolls vs Dictators Soundtrack",
+      "16 Deerhoof - 12 on Black"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/surprise-symphonies_1779395058"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/6a4cda912888dd7ed1f5/Surprise_Symphonies.tar"
+    }
+  }
+}
