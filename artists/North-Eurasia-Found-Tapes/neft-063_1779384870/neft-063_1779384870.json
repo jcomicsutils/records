@@ -20,6 +20,20 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/neft-063_1779384870"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/8abe71.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/6ogpr7.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/77e040918984c6b4be9b/NEFT_063.tar"
     }
   }
 }
