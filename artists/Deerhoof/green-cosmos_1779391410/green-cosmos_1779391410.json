@@ -1,0 +1,30 @@
+{
+  "id": "green-cosmos_1779391410",
+  "fingerprint": "93ee10b6926856aa2bc6ee053f5e7aeb2c528c24915291d8ef1dcb83bdc7f60a",
+  "archived_at": "2026-05-21T19:24:36Z",
+  "metadata": {
+    "title": "Green Cosmos",
+    "artist": "Deerhoof",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 927,
+    "duration_human": "00:15:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhoof - Come See the Duck",
+      "02 Deerhoof - Green Cosmos",
+      "03 Deerhoof - Malauma",
+      "04 Deerhoof - Spiral Golden Town",
+      "05 Deerhoof - Hot Mint Air Balloon",
+      "06 Deerhoof - Koneko Kitten",
+      "07 Deerhoof - Byun"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/green-cosmos_1779391410"
+    }
+  }
+}
