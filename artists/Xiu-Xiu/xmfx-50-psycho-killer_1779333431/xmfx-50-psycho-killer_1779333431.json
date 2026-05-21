@@ -1,0 +1,30 @@
+{
+  "id": "xmfx-50-psycho-killer_1779333431",
+  "fingerprint": "9c9efc8c4a909f0994f0e678d3b45906663808bd01cb2a3f4c38c81cff1db2de",
+  "archived_at": "2026-05-21T03:17:40Z",
+  "metadata": {
+    "title": "XMFX 50: Psycho Killer",
+    "artist": "Xiu Xiu",
+    "year": "2024",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 244,
+    "duration_human": "00:04:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Psycho Killer [Talking Heads]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-50-psycho-killer_1779333431"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/nuw38p.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/73bf86fb53f88aa6651a/XMFX_50_Psycho_Killer.tar"
+    }
+  }
+}
