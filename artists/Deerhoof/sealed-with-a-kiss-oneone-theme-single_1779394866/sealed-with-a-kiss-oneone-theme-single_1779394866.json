@@ -1,0 +1,28 @@
+{
+  "id": "sealed-with-a-kiss-oneone-theme-single_1779394866",
+  "fingerprint": "f9a3f0072ac524d4b816dc8cc84db5fb64f8cd370b7debd108aca6a0ec28d334",
+  "archived_at": "2026-05-21T20:21:47Z",
+  "metadata": {
+    "title": "Sealed With a Kiss / Oneone Theme - Single",
+    "artist": "Deerhoof",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 465,
+    "duration_human": "00:07:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhoof, oneone - Sealed With a Kiss (Version)",
+      "02 Deerhoof, oneone - Oneone Theme (Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sealed-with-a-kiss-oneone-theme-single_1779394866"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/eed151e60ae8a84a2347/Sealed_With_a_Kiss_-_Oneone_Theme_-_Single.tar"
+    }
+  }
+}
