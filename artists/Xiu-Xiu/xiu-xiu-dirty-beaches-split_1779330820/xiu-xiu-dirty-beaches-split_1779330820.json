@@ -1,0 +1,31 @@
+{
+  "id": "xiu-xiu-dirty-beaches-split_1779330820",
+  "fingerprint": "797f1076c8b5102f70a6a5a8e86397410cb3a6e6b4771b2307fee0e8a0c4a854",
+  "archived_at": "2026-05-21T02:35:12Z",
+  "metadata": {
+    "title": "Xiu Xiu / Dirty Beaches Split",
+    "artist": "Xiu Xiu",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 501,
+    "duration_human": "00:08:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu, Dirty Beaches - Always",
+      "02 Xiu Xiu, Dirty Beaches - Tu Ne Dis Rien"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xiu-xiu-dirty-beaches-split_1779330820"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/5jgfgw.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/4c27c365034b62f5893d/Xiu_Xiu_-_Dirty_Beaches_Split.tar"
+    }
+  }
+}
