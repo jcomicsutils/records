@@ -1,0 +1,33 @@
+{
+  "id": "daytrotter-studio-8102009_1779386146",
+  "fingerprint": "ec264b583c6910d1f78b1fef180a95d54b8c81d688eaf717bdc39bb252065bad",
+  "archived_at": "2026-05-21T17:56:32Z",
+  "metadata": {
+    "title": "Daytrotter Studio 8/10/2009",
+    "artist": "Deerhoof",
+    "year": "2009",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 543,
+    "duration_human": "00:09:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Deerhoof - Welcome to Daytrotter",
+      "02 Deerhoof - Buck and Judy",
+      "03 Deerhoof - Chatterboxes",
+      "04 Deerhoof - Fresh Born"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/daytrotter-studio-8102009_1779386146"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/bs7o0c.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/d978253aa5617ce4ab27/Daytrotter_Studio_8_-_10_-_2009.tar"
+    }
+  }
+}
