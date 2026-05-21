@@ -1,0 +1,32 @@
+{
+  "id": "live-sessions-live_1779393068",
+  "fingerprint": "4cb40132b3619aa2c1ac9a4cab12384cee2b10ea7b13ad93dc8ceab439d73bc0",
+  "archived_at": "2026-05-21T19:54:08Z",
+  "metadata": {
+    "title": "Live Sessions (Live)",
+    "artist": "Deerhoof",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1172,
+    "duration_human": "00:19:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhoof - The Tears and Music of Love (Live)",
+      "02 Deerhoof - Blue Cash (Live)",
+      "03 Deerhoof - Buck and Judy (Live)",
+      "04 Deerhoof - Makko Shobu (Live)",
+      "05 Deerhoof - Basket Ball Get Your Groove Back (Live)",
+      "06 Deerhoof - Milk Man (Live)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-sessions-live_1779393068"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/3e442df8c527983a55d8/Live_Sessions_Live.tar"
+    }
+  }
+}
