@@ -1,0 +1,44 @@
+{
+  "id": "tower-of-meaning_1779382709",
+  "fingerprint": "bd47ecf0f9691f849b14a611c09f796b50c2c895cd113d2c300805d753ea447e",
+  "archived_at": "2026-05-21T17:00:37Z",
+  "metadata": {
+    "title": "Tower of Meaning",
+    "artist": "Arthur Russell",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2679,
+    "duration_human": "00:44:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Arthur Russell - Tower of Meaning",
+      "02 Arthur Russell - Tower of Meaning",
+      "03 Arthur Russell - Tower of Meaning",
+      "04 Arthur Russell - Tower of Meaning",
+      "05 Arthur Russell - Tower of Meaning",
+      "06 Arthur Russell - Tower of Meaning",
+      "07 Arthur Russell - Fragments From Tower of Meaning"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tower-of-meaning_1779382709"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/238zq7.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ar2gal.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/9b7a0b087c3ce7d89333/Tower_of_Meaning.tar"
+    }
+  }
+}
