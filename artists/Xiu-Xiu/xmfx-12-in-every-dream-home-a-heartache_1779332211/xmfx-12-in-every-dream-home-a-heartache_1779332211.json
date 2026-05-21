@@ -1,0 +1,33 @@
+{
+  "id": "xmfx-12-in-every-dream-home-a-heartache_1779332211",
+  "fingerprint": "173fde6460b297304c3e954f4eb23260567fec06e4d9e0ae36386e801cb19537",
+  "archived_at": "2026-05-21T02:58:00Z",
+  "metadata": {
+    "title": "XMFX 12 in Every Dream Home a Heartache",
+    "artist": "Xiu Xiu",
+    "year": "2021",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1795,
+    "duration_human": "00:29:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - In Every Dream Home a Heartache",
+      "02 Xiu Xiu - Fabulous Muscles SOLO XMFX 12",
+      "03 Xiu Xiu - Jorō Spider Lamentation 12A",
+      "04 Xiu Xiu - Jorō Spider Lamentation 12B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-12-in-every-dream-home-a-heartache_1779332211"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/7jix5q.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/dc00fce7b72d48a735b8/XMFX_12_in_Every_Dream_Home_a_Heartache.tar"
+    }
+  }
+}
