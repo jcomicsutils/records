@@ -1,0 +1,31 @@
+{
+  "id": "marios-flaming-whiskers-iii-theres-that-grin_1779393394",
+  "fingerprint": "3bcd4ef9b2538b2316becea7c503d3f5f0aca3bf80b6e80ba3f27662c5d67c45",
+  "archived_at": "2026-05-21T19:57:28Z",
+  "metadata": {
+    "title": "Mario’s Flaming Whiskers III / There’s That Grin",
+    "artist": "Deerhoof",
+    "year": "2012",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 1026,
+    "duration_human": "00:17:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Deerhoof - Mario’s Flaming Whiskers III",
+      "02 Deerhoof - Mario's Flaming Dessert (Remix by Simeon Silver Apples)",
+      "03 Deerhoof - There’s That Grin",
+      "04 Deerhoof - Just for That",
+      "05 Deerhoof - All Tomorrow's Parties (Live)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/marios-flaming-whiskers-iii-theres-that-grin_1779393394"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/f702213842705454a777/Mario_s_Flaming_Whiskers_III_-_There_s_That_Grin.tar"
+    }
+  }
+}
