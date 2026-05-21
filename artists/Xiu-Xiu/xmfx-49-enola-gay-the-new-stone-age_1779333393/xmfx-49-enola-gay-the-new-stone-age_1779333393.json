@@ -1,0 +1,30 @@
+{
+  "id": "xmfx-49-enola-gay-the-new-stone-age_1779333393",
+  "fingerprint": "4a0dcdb61ff1fc3354d3b70f1905b9dc89e0eecfbafa6537cc2f0f8d3df3377b",
+  "archived_at": "2026-05-21T03:17:04Z",
+  "metadata": {
+    "title": "XMFX 49: Enola Gay / The New Stone Age",
+    "artist": "Xiu Xiu",
+    "year": "2024",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 196,
+    "duration_human": "00:03:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Enola Gay [Orchestral Manoeuvres in the Dark]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-49-enola-gay-the-new-stone-age_1779333393"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/kawci5.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/8311d3630bcbb7d4b9e3/XMFX_49_Enola_Gay_-_The_New_Stone_Age.tar"
+    }
+  }
+}
