@@ -1,0 +1,30 @@
+{
+  "id": "xmfx-20-dancing-on-my-own_1779332490",
+  "fingerprint": "92b5d66e1bf8dff180dea6ada222f49a2fcbd01fa2cdcfa7e521d8c0e1e01cd4",
+  "archived_at": "2026-05-21T03:02:27Z",
+  "metadata": {
+    "title": "XMFX 20: Dancing on My Own",
+    "artist": "Xiu Xiu",
+    "year": "2021",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 334,
+    "duration_human": "00:05:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Dancing on My Own [Robyn]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-20-dancing-on-my-own_1779332490"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/inu0oe.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/d5374e12b5b1a3b5a138/XMFX_20_Dancing_on_My_Own.tar"
+    }
+  }
+}
