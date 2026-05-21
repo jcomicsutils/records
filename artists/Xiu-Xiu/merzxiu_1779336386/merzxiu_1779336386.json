@@ -1,0 +1,39 @@
+{
+  "id": "merzxiu_1779336386",
+  "fingerprint": "a7cc153c91f56950bc4c9e61ccf3cd36c763aeb018478b57d0c6c5c82a87034d",
+  "archived_at": "2026-05-21T04:06:26Z",
+  "metadata": {
+    "title": "Merzxiu",
+    "artist": "Xiu Xiu",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2245,
+    "duration_human": "00:37:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Merzbow + Xiu Xiu - Side A",
+      "02 Merzbow + Xiu Xiu - Side B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/merzxiu_1779239036"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/eb5pei.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/ara0t4.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/0086ef1fc953595174f5/Merzxiu.tar"
+    }
+  }
+}
