@@ -1,0 +1,47 @@
+{
+  "id": "sketches-for-world-of-echo-june-25-1984-live-at-ei-live_1779380732",
+  "fingerprint": "74898c9e5d802f069f6d517d32e1131d4f961e9dfd0a2efb88710a6cef9f050b",
+  "archived_at": "2026-05-21T16:28:49Z",
+  "metadata": {
+    "title": "Sketches for World of Echo: June 25 1984 Live at Ei (Live)",
+    "artist": "Arthur Russell",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3151,
+    "duration_human": "00:52:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Arthur Russell - Changing Forest (Live 6/24/84)",
+      "02 Arthur Russell - Let's Go Swimming (Live 6/24/84)",
+      "03 Arthur Russell - They and Their Friends (Live 6/24/84)",
+      "04 Arthur Russell - Keeping Up (Live 6/24/84)",
+      "05 Arthur Russell - Make 1, 2 (Live 6/24/84)",
+      "06 Arthur Russell - I Take This Time (Live 6/24/84)",
+      "07 Arthur Russell - Losing My Taste for the Nightlife (Live 6/24/84)",
+      "08 Arthur Russell - I Can't Hide (Live 6/24/84)",
+      "09 Arthur Russell - The Boy With a Smile on His Face (Live 6/24/84)",
+      "10 Arthur Russell - Sunlit Water (Live 6/24/84)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sketches-for-world-of-echo-june-25-1984-live-at-ei-live_1779380732"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/2wsny7.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/5345k9.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/fe92e5e5399d201d4533/Sketches_for_World_of_Echo_June_25_1984_Live_at_Ei_Live.tar"
+    }
+  }
+}
