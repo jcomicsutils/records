@@ -1,0 +1,30 @@
+{
+  "id": "we-do-parties_1779396449",
+  "fingerprint": "e6180af4ba756ba28061be7c103dee0ce6bdb44a86fd512a680b2b668309293c",
+  "archived_at": "2026-05-21T20:48:16Z",
+  "metadata": {
+    "title": "We Do Parties",
+    "artist": "Deerhoof",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 856,
+    "duration_human": "00:14:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhoof - We Do Parties",
+      "02 Deerhoof - Mario's Flaming Dessert (Remix by Simeon Silver Apples)",
+      "03 Deerhoof - Just for That",
+      "04 Deerhoof - All Tomorrow's Parties (Live)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/we-do-parties_1779396449"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/2a30ae403c3004859fe3/We_Do_Parties.tar"
+    }
+  }
+}
