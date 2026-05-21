@@ -1,0 +1,50 @@
+{
+  "id": "apple-o_1779384554",
+  "fingerprint": "3e7894934ea915d393cd5d3b874e00c79156e1ffbae29524b5ea9016b90b2439",
+  "archived_at": "2026-05-21T17:31:56Z",
+  "metadata": {
+    "title": "Apple O’",
+    "artist": "Deerhoof",
+    "year": "2003",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 1888,
+    "duration_human": "00:31:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhoof - Dummy Discards a Heart",
+      "02 Deerhoof - My Diamond Star Car",
+      "03 Deerhoof - Heart Failure",
+      "04 Deerhoof - Panda Panda Panda",
+      "05 Deerhoof - Apple Bomb",
+      "06 Deerhoof - Flower",
+      "07 Deerhoof - Sealed With a Kiss",
+      "08 Deerhoof - L’Amour Stories",
+      "09 Deerhoof - Hayley and Homer",
+      "10 Deerhoof - Dinner for Two",
+      "11 Deerhoof - The Forbidden Fruits",
+      "12 Deerhoof - Adam+Eve Connection",
+      "13 Deerhoof - Blue Cash"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/apple-o_1779384554"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/pzgy9c.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/pl5lzj.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/5ed56db8254564450a58/Apple_O.tar"
+    }
+  }
+}
