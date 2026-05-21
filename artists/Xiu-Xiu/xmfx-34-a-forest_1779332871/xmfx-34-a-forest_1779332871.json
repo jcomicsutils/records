@@ -1,0 +1,32 @@
+{
+  "id": "xmfx-34-a-forest_1779332871",
+  "fingerprint": "8e29bb823a9a35d5586b4494b0a8fdb0cf330b993bf72fda563f6ca95731fb02",
+  "archived_at": "2026-05-21T03:10:56Z",
+  "metadata": {
+    "title": "XMFX 34 a Forest",
+    "artist": "Xiu Xiu",
+    "year": "2023",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 849,
+    "duration_human": "00:14:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - A Forest",
+      "02 Xiu Xiu - Poe Poe SOLO",
+      "03 Xiu Xiu - Carnivorous Plant Lamentation Floating Bladderwort 10/34"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-34-a-forest_1779332871"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gq0c7r.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/9978eb18b5b9615a0e01/XMFX_34_a_Forest.tar"
+    }
+  }
+}
