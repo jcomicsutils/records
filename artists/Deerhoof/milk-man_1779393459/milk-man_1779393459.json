@@ -1,0 +1,37 @@
+{
+  "id": "milk-man_1779393459",
+  "fingerprint": "6f6d1aaf228f5b4c394e2c87634806bec40ae626b44cf31b83c0692f62ef2933",
+  "archived_at": "2026-05-21T19:59:01Z",
+  "metadata": {
+    "title": "Milk Man",
+    "artist": "Deerhoof",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2040,
+    "duration_human": "00:34:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhoof - Milk Man",
+      "02 Deerhoof - Giga Dance",
+      "03 Deerhoof - Desapareceré",
+      "04 Deerhoof - Rainbow Silhouette of the Milky Rain",
+      "05 Deerhoof - Dream Wanderer's Tune",
+      "06 Deerhoof - Milking",
+      "07 Deerhoof - C",
+      "08 Deerhoof - Dog on the Sidewalk",
+      "09 Deerhoof - That Big Orange Sun Run Over Speed Light",
+      "10 Deerhoof - Song of Sorn",
+      "11 Deerhoof - New Sneakers"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/milk-man_1779393459"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/51487b3c456297d73011/Milk_Man.tar"
+    }
+  }
+}
