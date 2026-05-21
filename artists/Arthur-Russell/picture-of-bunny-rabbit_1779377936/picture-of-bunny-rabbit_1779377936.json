@@ -1,0 +1,32 @@
+{
+  "id": "picture-of-bunny-rabbit_1779377936",
+  "fingerprint": "4da6d26c27944c47053e94631af95b865d3aa729c58db621d88e2b6993355365",
+  "archived_at": "2026-05-21T16:08:21Z",
+  "metadata": {
+    "title": "Picture of Bunny Rabbit",
+    "artist": "Arthur Russell",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2280,
+    "duration_human": "00:38:00",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Arthur Russell - Fuzzbuster #10",
+      "02 Arthur Russell - Not Checking Up",
+      "03 Arthur Russell - Telling No One",
+      "04 Arthur Russell - Fuzzbuster #06",
+      "05 Arthur Russell - The Boy With a Smile",
+      "06 Arthur Russell - Fuzzbuster #09",
+      "07 Arthur Russell - Very Reason",
+      "08 Arthur Russell - Picture of Bunny Rabbit",
+      "09 Arthur Russell - In the Light of a Miracle"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/picture-of-bunny-rabbit_1779377936"
+    }
+  }
+}
