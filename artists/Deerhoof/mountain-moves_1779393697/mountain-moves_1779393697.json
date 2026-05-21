@@ -1,0 +1,41 @@
+{
+  "id": "mountain-moves_1779393697",
+  "fingerprint": "df465f426b001750806f7c0ffaa4084867f8a27996fea085fbf0a1d20f533da9",
+  "archived_at": "2026-05-21T20:06:14Z",
+  "metadata": {
+    "title": "Mountain Moves",
+    "artist": "Deerhoof",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 2382,
+    "duration_human": "00:39:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deerhoof - Slow Motion Detonation",
+      "02 Deerhoof - Con Sordino",
+      "03 Deerhoof - I Will Spite Survive",
+      "04 Deerhoof - Come Down Here & Say That",
+      "05 Deerhoof - Gracias a La Vida (Violeta Parra)",
+      "06 Deerhoof - Begin Countdown",
+      "07 Deerhoof - Your Dystopic Creation Doesn't Fear You",
+      "08 Deerhoof - Ay That's Me",
+      "09 Deerhoof - Palace of the Governors",
+      "10 Deerhoof - Singalong Junk",
+      "11 Deerhoof - Mountain Moves",
+      "12 Deerhoof - Freedom Highway (The Staple Singers)",
+      "13 Deerhoof - Sea Moves",
+      "14 Deerhoof - Kokoye",
+      "15 Deerhoof - Small Axe (Bob Marley)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mountain-moves_1779393697"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/03af18c54804c374bf25/Mountain_Moves.tar"
+    }
+  }
+}
