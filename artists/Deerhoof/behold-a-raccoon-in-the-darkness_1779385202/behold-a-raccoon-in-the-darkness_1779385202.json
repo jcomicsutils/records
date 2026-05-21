@@ -1,0 +1,31 @@
+{
+  "id": "behold-a-raccoon-in-the-darkness_1779385202",
+  "fingerprint": "b7f6ae461ccb47489790fe3b35a7b69f0c163b799ab09330be8b8d540bdb5d4c",
+  "archived_at": "2026-05-21T17:40:35Z",
+  "metadata": {
+    "title": "Behold a Raccoon in the Darkness",
+    "artist": "Deerhoof",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 343,
+    "duration_human": "00:05:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhoof, The Raccoonists, Jeff Tweedy - Behold Jeff Tweedy in the Darkness",
+      "02 Deerhoof, The Raccoonists, Jeff Tweedy - Own It"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/behold-a-raccoon-in-the-darkness_1779385202"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/0vcnin.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/83f426a360ca3e512798/Behold_a_Raccoon_in_the_Darkness.tar"
+    }
+  }
+}
