@@ -1,0 +1,30 @@
+{
+  "id": "xmfx-5-i-put-a-spell-on-you_1779331813",
+  "fingerprint": "aed3deb77cb085c773ea23aa59b983445bd451c57c1bb216da13452ea0cfa5df",
+  "archived_at": "2026-05-21T02:50:42Z",
+  "metadata": {
+    "title": "XMFX 5: I Put a Spell on You",
+    "artist": "Xiu Xiu",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 132,
+    "duration_human": "00:02:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - I Put a Spell on You [Screamin' Jay Hawkins]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-5-i-put-a-spell-on-you_1779331813"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/fihog0.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/4010f71e730014a4d007/XMFX_5_I_Put_a_Spell_on_You.tar"
+    }
+  }
+}
