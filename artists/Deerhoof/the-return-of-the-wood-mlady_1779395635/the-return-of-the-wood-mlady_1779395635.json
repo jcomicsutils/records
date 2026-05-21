@@ -1,0 +1,30 @@
+{
+  "id": "the-return-of-the-wood-mlady_1779395635",
+  "fingerprint": "f7c87fc8c5e5ac20eea6b19559ac4d1440130547ec9e17bbb081dcbe6fb9376e",
+  "archived_at": "2026-05-21T20:34:39Z",
+  "metadata": {
+    "title": "The Return of the Wood M'Lady",
+    "artist": "Deerhoof",
+    "year": "1995",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1819,
+    "duration_human": "00:30:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Deerhoof - Ishi-Sister",
+      "02 Deerhoof - Knew Knees",
+      "03 Deerhoof - Sunbug",
+      "04 Deerhoof - Deergod"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-return-of-the-wood-mlady_1779395635"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/4c51925b9b792c224545/The_Return_of_the_Wood_M_Lady.tar"
+    }
+  }
+}
