@@ -25,6 +25,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/green-cosmos_1779391410"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/24aa61f661716018ef2f/Green_Cosmos.tar"
     }
   }
 }

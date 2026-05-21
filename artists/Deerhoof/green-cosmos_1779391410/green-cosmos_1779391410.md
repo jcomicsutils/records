@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/green-cosmos_1779391410)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/24aa61f661716018ef2f/Green_Cosmos.tar)
 
 ## Tracklist
 
