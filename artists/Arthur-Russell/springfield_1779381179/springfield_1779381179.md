@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/springfield_1779381179)
+- Catbox: [Part 1](https://files.catbox.moe/2082pr.tar) [Part 2](https://files.catbox.moe/mt2mxv.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/4ab2a75a2696f69f651f/Springfield.tar)
 
 ## Tracklist
 
