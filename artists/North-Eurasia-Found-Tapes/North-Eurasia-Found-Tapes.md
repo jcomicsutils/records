@@ -2,7 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
-| [NEFT_036](neft-036_1779330528/neft-036_1779330528.md) | 2022 | FLAC | 01:20:07 | [IA](https://archive.org/details/neft-036_1779330528) [Catbox ×2](neft-036_1779330528/neft-036_1779330528.md) |
+| [NEFT_036](neft-036_1779330528/neft-036_1779330528.md) | 2022 | FLAC | 01:20:07 | [IA](https://archive.org/details/neft-036_1779330528) [Catbox ×2](neft-036_1779330528/neft-036_1779330528.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/9a2b5b438714e043b191/NEFT_036.tar) |
 | [NEFT_032](neft-032_1779327038/neft-032_1779327038.md) | 2022 | FLAC | 01:30:18 | [IA](https://archive.org/details/neft-032_1779327038) [Catbox ×3](neft-032_1779327038/neft-032_1779327038.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/e61c528d9b54065602a9/NEFT_032.tar) |
 | [NEFT_034](neft-034_1779328881/neft-034_1779328881.md) | 2022 | FLAC | 01:05:41 | [IA](https://archive.org/details/neft-034_1779328881) [Catbox ×2](neft-034_1779328881/neft-034_1779328881.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/1b25ff6f66b804252357/NEFT_034.tar) |
 | [NEFT_017](neft-017_1778957844/neft-017_1778957844.md) | 2022 | FLAC | 01:33:51 | [IA](https://archive.org/details/neft-017_1778957844) [Catbox ×3](neft-017_1778957844/neft-017_1778957844.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/5388699c7da993a43c58/NEFT_017.tar) |
