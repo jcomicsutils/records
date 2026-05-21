@@ -1,0 +1,38 @@
+{
+  "id": "torn-asunder_1779323564",
+  "fingerprint": "2f1cbda5e97a418a743f4fea98d5bbccc8bcbae475986b2c2baca22933c81b65",
+  "archived_at": "2026-05-21T00:47:34Z",
+  "metadata": {
+    "title": "Torn Asunder",
+    "artist": "Xiu Xiu",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2580,
+    "duration_human": "00:43:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Torn Asunder"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/torn-asunder_1779323564"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/rws7dc.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/rkk2x3.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/73ee1732d30916c4cd45/Torn_Asunder.tar"
+    }
+  }
+}
