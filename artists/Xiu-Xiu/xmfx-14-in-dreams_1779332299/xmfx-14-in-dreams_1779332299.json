@@ -1,0 +1,30 @@
+{
+  "id": "xmfx-14-in-dreams_1779332299",
+  "fingerprint": "95fa602791e68e1e265f0836ab887e7a1a2d78d28d6bea5382662e2ef0dd241c",
+  "archived_at": "2026-05-21T02:58:46Z",
+  "metadata": {
+    "title": "XMFX 14: In Dreams",
+    "artist": "Xiu Xiu",
+    "year": "2021",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 197,
+    "duration_human": "00:03:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - In Dreams [Roy Orbison]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-14-in-dreams_1779332299"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/28kekx.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/e836b725594b933e3025/XMFX_14_In_Dreams.tar"
+    }
+  }
+}
