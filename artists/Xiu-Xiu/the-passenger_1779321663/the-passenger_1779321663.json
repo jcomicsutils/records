@@ -1,0 +1,30 @@
+{
+  "id": "the-passenger_1779321663",
+  "fingerprint": "22aa37a571285cab659710cfdd3281bee44650ef59dd43fb1e4140ae8b48c312",
+  "archived_at": "2026-05-21T00:01:32Z",
+  "metadata": {
+    "title": "The Passenger",
+    "artist": "Xiu Xiu",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 299,
+    "duration_human": "00:04:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - The Passenger"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-passenger_1779321663"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/lusqer.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/060796c0368976903791/The_Passenger.tar"
+    }
+  }
+}
