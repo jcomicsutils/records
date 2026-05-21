@@ -1,0 +1,36 @@
+{
+  "id": "la-isla-bonita_1779392885",
+  "fingerprint": "45011be4955cf4db09332c10558a1fd1f76b3f38e53ab467e0c2323006ee051f",
+  "archived_at": "2026-05-21T19:50:50Z",
+  "metadata": {
+    "title": "La Isla Bonita",
+    "artist": "Deerhoof",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 1913,
+    "duration_human": "00:31:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhoof - Paradise Girls",
+      "02 Deerhoof - Mirror Monster",
+      "03 Deerhoof - Doom",
+      "04 Deerhoof - Last Fad",
+      "05 Deerhoof - Tiny Bubbles",
+      "06 Deerhoof - Exit Only",
+      "07 Deerhoof - Big House Waltz",
+      "08 Deerhoof - God 2",
+      "09 Deerhoof - Black Pitch",
+      "10 Deerhoof - Oh Bummer"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/la-isla-bonita_1779392885"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/7045bc55341c34323503/La_Isla_Bonita.tar"
+    }
+  }
+}
