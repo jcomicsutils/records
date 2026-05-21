@@ -19,6 +19,7 @@
 - [Chas Smith](Chas-Smith/Chas-Smith.md)
 - [Club Rialto](Club-Rialto/Club-Rialto.md)
 - [Death Ambient](Death-Ambient/Death-Ambient.md)
+- [Deerhoof](Deerhoof/Deerhoof.md)
 - [Deerhunter](Deerhunter/Deerhunter.md)
 - [Dirty Three](Dirty-Three/Dirty-Three.md)
 - [Egor Klochikhin](Egor-Klochikhin/Egor-Klochikhin.md)
