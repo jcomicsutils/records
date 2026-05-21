@@ -20,6 +20,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/neft-075_1779393703"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/1b5acf1a0a20685b92de/NEFT_075.tar"
     }
   }
 }
