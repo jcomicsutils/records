@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/friend-opportunity_1779390404)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/f0ad209cd50469509ee8/Friend_Opportunity.tar)
 
 ## Tracklist
 
