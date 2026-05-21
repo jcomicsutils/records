@@ -1,0 +1,28 @@
+{
+  "id": "stygian-x-bisection_1779395010",
+  "fingerprint": "a7ca47a8b0342cedc8dbb7136cec139ee46ad919289b3282c4e963c2ccffb8ed",
+  "archived_at": "2026-05-21T20:24:05Z",
+  "metadata": {
+    "title": "Stygian x} Bisection",
+    "artist": "Deerhoof",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 414,
+    "duration_human": "00:06:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Of Montreal, Deerhoof - A Filthy Fifth (Secret Mobilization)",
+      "02 Of Montreal, Deerhoof - Feminine Effects"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stygian-x-bisection_1779395010"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/7bb55a68b86f4b3934ae/Stygian_x_Bisection.tar"
+    }
+  }
+}
