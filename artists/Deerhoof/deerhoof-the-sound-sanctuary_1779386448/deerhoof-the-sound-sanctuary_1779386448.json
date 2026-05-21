@@ -1,0 +1,28 @@
+{
+  "id": "deerhoof-the-sound-sanctuary_1779386448",
+  "fingerprint": "83510654114c3477a731f6163724d674ebd5eb9aa3bae1a6cb7bc439889ba793",
+  "archived_at": "2026-05-21T18:02:56Z",
+  "metadata": {
+    "title": "Deerhoof & The Sound Sanctuary",
+    "artist": "Deerhoof",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1342,
+    "duration_human": "00:22:22",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deerhoof, The Sound Sanctuary - Plants Prosper!",
+      "02 Deerhoof, The Sound Sanctuary - Plants! Make Noise! Here We Are"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/deerhoof-the-sound-sanctuary_1779386448"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/9fb95769706ba4eb5936/Deerhoof_The_Sound_Sanctuary.tar"
+    }
+  }
+}
