@@ -1,0 +1,46 @@
+{
+  "id": "keep-the-lights-on_1779372493",
+  "fingerprint": "1ff94dfa2c19d7d72e1218b4aee28612da9df2dfadeec56b4d13dd217abe7319",
+  "archived_at": "2026-05-21T14:17:00Z",
+  "metadata": {
+    "title": "Keep the Lights On",
+    "artist": "Arthur Russell",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2627,
+    "duration_human": "00:43:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Arthur Russell - Close My Eyes",
+      "02 Arthur Russell - Soon-to-Be Innocent Fun/Let's See",
+      "03 Arthur Russell - Come to Life",
+      "04 Arthur Russell - Your Motion Says",
+      "05 Arthur Russell - \"Instrumentals\" Volume 2",
+      "06 Arthur Russell - Being It",
+      "07 Arthur Russell - Goodbye Old Paint",
+      "08 Arthur Russell - I Like You!",
+      "09 Arthur Russell - Our Last Night Together"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/keep-the-lights-on_1779372493"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/148hln.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/q6y4kv.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/2ac9aef56599232e74b8/Keep_the_Lights_On.tar"
+    }
+  }
+}
