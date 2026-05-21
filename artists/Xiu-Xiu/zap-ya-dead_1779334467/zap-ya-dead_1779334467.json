@@ -1,0 +1,28 @@
+{
+  "id": "zap-ya-dead_1779334467",
+  "fingerprint": "26601ccbebe26d3d6f012741809d4b4c4a19ecba5e8e0dec088b32188ff9abc7",
+  "archived_at": "2026-05-21T03:37:00Z",
+  "metadata": {
+    "title": "ZAP Ya DEAD",
+    "artist": "Xiu Xiu",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 802,
+    "duration_human": "00:13:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Electrical Betty and Vilgot, Those Fuckers",
+      "02 Xiu Xiu - Cecil Hotel"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zap-ya-dead_1779334467"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/30yypj.tar"
+    }
+  }
+}
