@@ -1,0 +1,28 @@
+{
+  "id": "polyvinyl-4-track-singles-series-vol-2_1779394491",
+  "fingerprint": "338bb6d4d74bbd453b427ae753dfd4953fdac239c4447ae88be4efd8ba8edfd9",
+  "archived_at": "2026-05-21T20:15:28Z",
+  "metadata": {
+    "title": "Polyvinyl 4-Track Singles Series, Vol. 2",
+    "artist": "Deerhoof",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 336,
+    "duration_human": "00:05:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhoof - One More Crime",
+      "02 Deerhoof - My Husband's Got No Courage in Him"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/polyvinyl-4-track-singles-series-vol-2_1779394491"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/c990e6ece2db1992f82c/Polyvinyl_4-Track_Singles_Series_Vol._2.tar"
+    }
+  }
+}
