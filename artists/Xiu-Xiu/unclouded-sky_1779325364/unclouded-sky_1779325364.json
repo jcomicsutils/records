@@ -1,0 +1,55 @@
+{
+  "id": "unclouded-sky_1779325364",
+  "fingerprint": "7321d9867ed08b23e584767854230dcd5e6059e16c0d66b416b5641d12e3b970",
+  "archived_at": "2026-05-21T01:06:46Z",
+  "metadata": {
+    "title": "Unclouded Sky",
+    "artist": "Xiu Xiu",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 18,
+    "duration_seconds": 2737,
+    "duration_human": "00:45:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - (Demerara)",
+      "02 Xiu Xiu - Blood of the Lamb",
+      "03 Xiu Xiu - (Berbice)",
+      "04 Xiu Xiu - I'll Fly Away",
+      "05 Xiu Xiu - (Kaieteur)",
+      "06 Xiu Xiu - Lonesome Valley",
+      "07 Xiu Xiu - (Essequibo)",
+      "08 Xiu Xiu - Wreck on the Highway",
+      "09 Xiu Xiu - (Rupununi)",
+      "10 Xiu Xiu - Church in the Wildwood",
+      "11 Xiu Xiu - (Cuyuni)",
+      "12 Xiu Xiu - Unclouded Sky",
+      "13 Xiu Xiu - (Kanuku)",
+      "14 Xiu Xiu - All Fo' You",
+      "15 Xiu Xiu - (Guiana)",
+      "16 Xiu Xiu - Let the Lower Lights Be Burning",
+      "17 Xiu Xiu - (Pomeroon)",
+      "18 Xiu Xiu - Just as I Am"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/unclouded-sky_1779325364"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/w5zfjf.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/2jxksn.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/ec377a96e96b8aacb641/Unclouded_Sky.tar"
+    }
+  }
+}
