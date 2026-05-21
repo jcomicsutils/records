@@ -1,0 +1,30 @@
+{
+  "id": "this-too-shall-pass-away-for-freddy-single_1779323025",
+  "fingerprint": "e7c77beddeb19422100b7550c9a8c245ecef9997a2aee8d94ae31f772348a261",
+  "archived_at": "2026-05-21T00:24:20Z",
+  "metadata": {
+    "title": "This Too Shall Pass Away (For Freddy) - Single",
+    "artist": "Xiu Xiu",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 214,
+    "duration_human": "00:03:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - This Too Shall Pass Away (For Freddy)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/this-too-shall-pass-away-for-freddy-single_1779323025"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/n41tu1.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/77902e32f2501ce5510f/This_Too_Shall_Pass_Away_For_Freddy_-_Single.tar"
+    }
+  }
+}
