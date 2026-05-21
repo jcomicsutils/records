@@ -1,0 +1,39 @@
+{
+  "id": "xmfx-11-kansas_1779331854",
+  "fingerprint": "48e00e8807fce8fe1c8536dfce987549cb00d13438be88705e1d79981aa75dd9",
+  "archived_at": "2026-05-21T02:53:02Z",
+  "metadata": {
+    "title": "XMFX 11 Kansas",
+    "artist": "Xiu Xiu",
+    "year": "2021",
+    "codec": "MP3",
+    "num_tracks": 10,
+    "duration_seconds": 3669,
+    "duration_human": "01:01:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Kansas",
+      "02 Xiu Xiu - A Bottle of Rum Live Radio!",
+      "03 Xiu Xiu - A Bottle of Rum SOLO",
+      "04 Xiu Xiu - Spider Lamentation 11 Two Striped Jumper",
+      "05 Xiu Xiu - Spider Lamentation 11 Two Striped Jumper A",
+      "06 Xiu Xiu - Spider Lamentation 11 Two Striped Jumper B",
+      "07 Xiu Xiu - Spider Lamentation 11 Two Striped Jumper 1",
+      "08 Xiu Xiu - Spider Lamentation 11 Two Striped Jumper 2",
+      "09 Xiu Xiu - Spider Lamentation 11 Two Striped Jumper 3",
+      "10 Xiu Xiu - Spider Lamentation 11 Two Striped Jumper 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-11-kansas_1779331854"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/mzcdqg.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/8a222f283420674a3ba0/XMFX_11_Kansas.tar"
+    }
+  }
+}
