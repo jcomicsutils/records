@@ -1,0 +1,31 @@
+{
+  "id": "koalamagic_1779392763",
+  "fingerprint": "2390625aac9fa2dbcea3ca52f7661e40e5049b430bfeceac1afe19c1a07f2394",
+  "archived_at": "2026-05-21T19:47:53Z",
+  "metadata": {
+    "title": "Koalamagic",
+    "artist": "Deerhoof",
+    "year": "2000",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 1917,
+    "duration_human": "00:31:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Deerhoof - Gore in Rut / The Pickup Bear / Holy Night Fever / Who Nu / Queen of the Lake / God Save the Queen Bee / Queen Orca Wicca Wind",
+      "02 Deerhoof - Insist",
+      "03 Deerhoof - A-Town Test Site",
+      "04 Deerhoof - Come See the Duck",
+      "05 Deerhoof - Sophie / Bendinin / T.C. - Tender Care / The Pickup Bear"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/koalamagic_1779392763"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/f8409b605fbaf8d9b13c/Koalamagic.tar"
+    }
+  }
+}
