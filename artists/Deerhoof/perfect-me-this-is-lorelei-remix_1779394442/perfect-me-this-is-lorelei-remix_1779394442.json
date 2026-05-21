@@ -1,0 +1,27 @@
+{
+  "id": "perfect-me-this-is-lorelei-remix_1779394442",
+  "fingerprint": "ba66eddc7be67f46bbc277d93079c0e61c78f61f13ba936bc4e3062d01317d11",
+  "archived_at": "2026-05-21T20:14:43Z",
+  "metadata": {
+    "title": "Perfect Me (This is Lorelei Remix)",
+    "artist": "Deerhoof",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 213,
+    "duration_human": "00:03:33",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deerhoof - Perfect Me (This is Lorelei Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/perfect-me-this-is-lorelei-remix_1779394442"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/c046668ebc254a476030/Perfect_Me_This_is_Lorelei_Remix.tar"
+    }
+  }
+}
