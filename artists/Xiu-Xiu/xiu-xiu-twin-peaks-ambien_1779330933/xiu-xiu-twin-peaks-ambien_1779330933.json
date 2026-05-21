@@ -1,0 +1,45 @@
+{
+  "id": "xiu-xiu-twin-peaks-ambien_1779330933",
+  "fingerprint": "1bb51f615969ba2b8455d615e51bdd2158363f7dd46622e2c1a79e1602658ed1",
+  "archived_at": "2026-05-21T02:38:44Z",
+  "metadata": {
+    "title": "Xiu Xiu Twin Peaks Ambien",
+    "artist": "Xiu Xiu",
+    "year": "2015",
+    "codec": "ALAC",
+    "num_tracks": 8,
+    "duration_seconds": 4850,
+    "duration_human": "01:20:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - Xiu Xiu Twin Peaks Ambien",
+      "02 Xiu Xiu - Xiu Xiu Twin Peaks Ambien Aa",
+      "03 Xiu Xiu - Xiu Xiu Twin Peaks Ambien AaA",
+      "04 Xiu Xiu - Xiu Xiu Twin Peaks Ambien aAaA",
+      "05 Xiu Xiu - Xiu Xiu Twin Peaks Ambien AaAaA",
+      "06 Xiu Xiu - Xiu Xiu Twin Peaks Ambien AaAaaA",
+      "07 Xiu Xiu - Xiu Xiu Twin Peaks Ambien AAAaAAA",
+      "08 Xiu Xiu - Xiu Xiu Twin Peaks Ambien AAAAaaaa"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xiu-xiu-twin-peaks-ambien_1779330933"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/f38xb3.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/hn82ll.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/9ed7357c224e868a6495/Xiu_Xiu_Twin_Peaks_Ambien.tar"
+    }
+  }
+}
