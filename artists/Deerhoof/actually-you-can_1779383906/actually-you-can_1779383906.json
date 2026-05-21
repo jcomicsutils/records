@@ -27,6 +27,20 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/actually-you-can_1779383906"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/oy9xzn.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/j6attl.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/81ecf0c74a61362ae973/Actually_You_Can.tar"
     }
   }
 }

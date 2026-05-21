@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/actually-you-can_1779383906)
+- Catbox: [Part 1](https://files.catbox.moe/oy9xzn.tar) [Part 2](https://files.catbox.moe/j6attl.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/81ecf0c74a61362ae973/Actually_You_Can.tar)
 
 ## Tracklist
 
