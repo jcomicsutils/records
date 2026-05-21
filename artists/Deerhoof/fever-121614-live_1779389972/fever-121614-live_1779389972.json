@@ -30,6 +30,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/fever-121614-live_1779389972"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/b29370f3376276c15e40/Fever_121614_Live.tar"
     }
   }
 }
