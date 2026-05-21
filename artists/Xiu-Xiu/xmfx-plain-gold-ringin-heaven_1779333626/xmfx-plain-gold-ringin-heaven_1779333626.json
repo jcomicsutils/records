@@ -1,0 +1,35 @@
+{
+  "id": "xmfx-plain-gold-ringin-heaven_1779333626",
+  "fingerprint": "108861f33ea7b5ffe1028e5ad62762b566af8c904c8a32dc2640061cf89c3cb4",
+  "archived_at": "2026-05-21T03:21:29Z",
+  "metadata": {
+    "title": "XMFX Plain Gold Ring/In Heaven",
+    "artist": "Xiu Xiu",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 1774,
+    "duration_human": "00:29:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Plain Gold Ring/In Heaven",
+      "02 Xiu Xiu - Plain Gold Ring Demo",
+      "03 Xiu Xiu - Botanica de Los Angeles XMFX",
+      "04 Xiu Xiu - Arrowshaped Mircathena Prelude",
+      "05 Xiu Xiu - Arrowshaped Mircathena",
+      "06 Xiu Xiu - Arrowshaped Mircathena Recapitulation"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-plain-gold-ringin-heaven_1779333626"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/n4w88y.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/ac5fef25b3a3e87cc63c/XMFX_Plain_Gold_Ring_-_In_Heaven.tar"
+    }
+  }
+}
