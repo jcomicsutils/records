@@ -13,6 +13,8 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/xiu-mutha-fuckin-xiu-vol-1-deluxe-edition_1779327690)
+- Catbox: [Part 1](https://files.catbox.moe/byx4gw.tar) [Part 2](https://files.catbox.moe/v9mptd.tar) [Part 3](https://files.catbox.moe/75d0rj.tar) [Part 4](https://files.catbox.moe/8q7app.tar) [Part 5](https://files.catbox.moe/x4rjjn.tar) [Part 6](https://files.catbox.moe/fp6ej8.tar) [Part 7](https://files.catbox.moe/0r34gy.tar) [Part 8](https://files.catbox.moe/ug3102.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/784de014ebfc2d9bcebf/Xiu_Mutha_Fuckin_Xiu_Vol._1_Deluxe_Edition.tar)
 
 ## Tracklist
 
