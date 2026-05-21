@@ -1,0 +1,32 @@
+{
+  "id": "xmfx-48-double-dare_1779333343",
+  "fingerprint": "6ce92c56cb560fe8542f3c71acbab391a6832c4aed95e29a12371b92b04ff76d",
+  "archived_at": "2026-05-21T03:16:19Z",
+  "metadata": {
+    "title": "XMFX 48 Double Dare",
+    "artist": "Xiu Xiu",
+    "year": "2024",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 881,
+    "duration_human": "00:14:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Double Dare",
+      "02 Xiu Xiu - Save Me Save Me SOLO",
+      "03 Xiu Xiu - Cetacea Lamentation Arnoux's Beaked Whale 12/48"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-48-double-dare_1779333343"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/6yh7xu.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/018485b8a13fc2172531/XMFX_48_Double_Dare.tar"
+    }
+  }
+}
