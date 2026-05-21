@@ -1,0 +1,30 @@
+{
+  "id": "xmfx-3-sex-dwarf_1779331776",
+  "fingerprint": "a2e9a421fe5bd357654084f99f5eb9ce9f32a32db55cae99d0f3926ff00a9a69",
+  "archived_at": "2026-05-21T02:50:06Z",
+  "metadata": {
+    "title": "XMFX 3: Sex Dwarf",
+    "artist": "Xiu Xiu",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 279,
+    "duration_human": "00:04:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Sex Dwarf [Soft Cell]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-3-sex-dwarf_1779331776"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/an58s4.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/7a901046e93ceda5a7d4/XMFX_3_Sex_Dwarf.tar"
+    }
+  }
+}
