@@ -1,0 +1,48 @@
+{
+  "id": "the-world-of-arthur-russell_1779382672",
+  "fingerprint": "042e633b515e2272ca0625ecd967a116fe587e097757c1a54ff145d8f8d7e5a0",
+  "archived_at": "2026-05-21T16:57:52Z",
+  "metadata": {
+    "title": "The World of Arthur Russell",
+    "artist": "Arthur Russell",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 4393,
+    "duration_human": "01:13:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "00 Dinosaur L\u0000 - Go Bang (Francois Kevorkian Mix)\u0000",
+      "00 Lola\u0000 - Wax The Van\u0000",
+      "00 Loose Joints\u0000 - Is it All Over My Face (Larry Levan Mix)\u0000",
+      "00 Arthur Russell\u0000 - Keeping Up\u0000",
+      "00 Arthur Russell\u0000 - In The Light Of The Miracle\u0000",
+      "00 Arthur Russell\u0000 - A Little Lost\u0000",
+      "00 Loose Joints\u0000 - Pop Your Funk\u0000",
+      "00 Arthur Russell\u0000 - Let's Go Swimming (Walter Gibbons Mix)\u0000",
+      "00 Dinosaur L\u0000 - In the Сornbelt (Larry Levan mix)\u0000",
+      "00 Arthur Russell\u0000 - Treehouse\u0000",
+      "00 Indian Ocean\u0000 - Schoolbell/Treehouse (Walter Gibbons mix)\u0000"
+    ]
+  },
+  "hosts": {
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/911rkn.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/kf8p4h.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/fs3d2s.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/b4dcf983a708fcda354c/The_World_of_Arthur_Russell.tar"
+    }
+  }
+}
