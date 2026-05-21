@@ -1,0 +1,30 @@
+{
+  "id": "xmfx-19-hamburger-lady_1779332457",
+  "fingerprint": "5c7a26864750950238457de5716c35e2c84c8c69a3eef522362954bcdc514375",
+  "archived_at": "2026-05-21T03:01:22Z",
+  "metadata": {
+    "title": "XMFX 19: Hamburger Lady",
+    "artist": "Xiu Xiu",
+    "year": "2021",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 263,
+    "duration_human": "00:04:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Hamburger Lady [Throbbing Gristle]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-19-hamburger-lady_1779332457"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/dcahvo.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/c8dd3e5c255393e3819d/XMFX_19_Hamburger_Lady.tar"
+    }
+  }
+}
