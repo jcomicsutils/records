@@ -1,0 +1,34 @@
+{
+  "id": "friend-opportunity_1779390404",
+  "fingerprint": "e3f2d8cd15975e5c66daeadaee2cc611546097eeeb58843b254152189677beaa",
+  "archived_at": "2026-05-21T19:10:47Z",
+  "metadata": {
+    "title": "Friend Opportunity",
+    "artist": "Deerhoof",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2323,
+    "duration_human": "00:38:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhoof - The Perfect Me",
+      "02 Deerhoof - Choco Fight",
+      "03 Deerhoof - +81",
+      "04 Deerhoof - Believe E.S.P.",
+      "05 Deerhoof - The Galaxist",
+      "06 Deerhoof - Makko Shobu",
+      "07 Deerhoof - Matchbook Seeks Maniac",
+      "08 Deerhoof - Cast Off Crown",
+      "09 Deerhoof - Kidz Are So Small",
+      "10 Deerhoof - Whither the Invisible Birds?",
+      "11 Deerhoof - Look Away"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/friend-opportunity_1779390404"
+    }
+  }
+}
