@@ -1,0 +1,50 @@
+{
+  "id": "the-sleeping-bag-sessions_1779381901",
+  "fingerprint": "481f767477ecd47f9dbcd418a701f3338af5480e78919d5884c0711508a379ef",
+  "archived_at": "2026-05-21T16:48:22Z",
+  "metadata": {
+    "title": "The Sleeping Bag Sessions",
+    "artist": "Arthur Russell",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3902,
+    "duration_human": "01:05:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bonzo Goes To Washington - 5 Minutes (B-B-B Bombing Mix)",
+      "02 Felix - Tiger Stripes (Extended Version)",
+      "03 Felix - You Can't Hold Me Down (Extended Version)",
+      "04 Clandestine feat. Ned Sublette - Radio Rhythm (S-I-G-N-A-L-S-M-A-R-T) (Extra Cheese Mix)",
+      "05 Sounds Of JHS 126 Brooklyn - Chill Pill (Underwater Mix)",
+      "06 Indian Ocean - School Bell/Tree House (Original 12' Version)",
+      "07 Indian Ocean - Treehouse (Extended Bootleg Edit)",
+      "08 Dinosaur L - Go Bang! (Walter Gibbons Mix)",
+      "09 Bonzo Goes To Washington - 5 Minutes (R-R-R Radio Mix)",
+      "10 Clandestine feat. Ned Sublette - Radio Rhythm (S-I-G-N-A-L-S-M-A-R-T) (Dub Mix) (Killer Whale)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-sleeping-bag-sessions_1779381901"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/ocyepj.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/3s797i.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/iagjcs.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/778b9cb7fb98e2cde2c8/The_Sleeping_Bag_Sessions.tar"
+    }
+  }
+}
