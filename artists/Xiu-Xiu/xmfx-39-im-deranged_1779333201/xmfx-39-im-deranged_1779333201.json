@@ -1,0 +1,32 @@
+{
+  "id": "xmfx-39-im-deranged_1779333201",
+  "fingerprint": "a0d735e0814d935e8baa1762f8704c92740728b74d26f3d16559f4a7d15d934a",
+  "archived_at": "2026-05-21T03:13:55Z",
+  "metadata": {
+    "title": "XMFX 39 I'm Deranged",
+    "artist": "Xiu Xiu",
+    "year": "2023",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 931,
+    "duration_human": "00:15:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - I'm Deranged",
+      "02 Xiu Xiu - Fast Car SOLO",
+      "03 Xiu Xiu - Cetacea Lamentation Sato's Beaked Whale 3/39"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-39-im-deranged_1779333201"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/m5u6vo.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/b84377af0c7d94601e36/XMFX_39_I_m_Deranged.tar"
+    }
+  }
+}
