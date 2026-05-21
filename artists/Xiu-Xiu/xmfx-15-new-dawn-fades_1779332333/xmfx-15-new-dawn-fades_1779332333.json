@@ -1,0 +1,32 @@
+{
+  "id": "xmfx-15-new-dawn-fades_1779332333",
+  "fingerprint": "6cd94eb81b1485736130d1f51a4647e35efe35108a6bea245b0ee1044480aabd",
+  "archived_at": "2026-05-21T02:59:59Z",
+  "metadata": {
+    "title": "XMFX 15 New Dawn Fades",
+    "artist": "Xiu Xiu",
+    "year": "2021",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 714,
+    "duration_human": "00:11:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - New Dawn Fades",
+      "02 Xiu Xiu - Girl With Basket of Fruit Solo",
+      "03 Xiu Xiu - Woodpecker Lamentation 3/15 Heart-Spotted Woodpecker"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-15-new-dawn-fades_1779332333"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/gv7xvd.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/0e743d387f8771327a27/XMFX_15_New_Dawn_Fades.tar"
+    }
+  }
+}
