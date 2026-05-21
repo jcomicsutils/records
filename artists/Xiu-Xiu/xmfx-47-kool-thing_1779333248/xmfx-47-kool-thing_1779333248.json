@@ -1,0 +1,32 @@
+{
+  "id": "xmfx-47-kool-thing_1779333248",
+  "fingerprint": "17f4baf5606c72e11a79891f917bf0b5de1023870262f1c1ea1d6287e95f0cb3",
+  "archived_at": "2026-05-21T03:15:27Z",
+  "metadata": {
+    "title": "XMFX 47 Kool Thing",
+    "artist": "Xiu Xiu",
+    "year": "2024",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 731,
+    "duration_human": "00:12:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - Kool Thing",
+      "02 Xiu Xiu - The Oldness SOLO",
+      "03 Xiu Xiu - Cetacea Lamentation Heaviside's Dolphin 9/46"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-47-kool-thing_1779333248"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/4c7tmf.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/7ca7bed1723508cf3cec/XMFX_47_Kool_Thing.tar"
+    }
+  }
+}
