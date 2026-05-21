@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/world-of-echo_1779383080)
 - Catbox: [Part 1](https://files.catbox.moe/24xprc.tar) [Part 2](https://files.catbox.moe/vsx2qj.tar)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/71222ea3a858ae41e4be/World_of_Echo.tar)
 
 ## Tracklist
 
