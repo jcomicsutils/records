@@ -1,0 +1,32 @@
+{
+  "id": "xmfx-31-these-boots-are-made-for-walking_1779332739",
+  "fingerprint": "d58ed95e71f914f05c9d2da239312e475a843abd43ca087d9ab458e23ff9ad7d",
+  "archived_at": "2026-05-21T03:06:23Z",
+  "metadata": {
+    "title": "XMFX 31 These Boots Are Made for Walking",
+    "artist": "Xiu Xiu",
+    "year": "2022",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 905,
+    "duration_human": "00:15:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Xiu Xiu - These Boots Are Made for Walking",
+      "02 Xiu Xiu - Hi SOLO",
+      "03 Xiu Xiu - Carnivorous Plant Lamentation Tropical Liana 7/31"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xmfx-31-these-boots-are-made-for-walking_1779332739"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/98ck89.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/465cf07cacbd72f96606/XMFX_31_These_Boots_Are_Made_for_Walking.tar"
+    }
+  }
+}
