@@ -1,0 +1,52 @@
+{
+  "id": "world-of-echo_1779383080",
+  "fingerprint": "8b4fa230fb4f72dfdc2bf204f037a12d58f4aba6879371a55b0297703bfc9a56",
+  "archived_at": "2026-05-21T17:09:07Z",
+  "metadata": {
+    "title": "World of Echo",
+    "artist": "Arthur Russell",
+    "year": "1986",
+    "codec": "FLAC",
+    "num_tracks": 18,
+    "duration_seconds": 4186,
+    "duration_human": "01:09:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Arthur Russell - Tone Bone Kone",
+      "02 Arthur Russell - Soon-to-Be Innocent Fun/Let's See",
+      "03 Arthur Russell - Answers Me",
+      "04 Arthur Russell - Being It",
+      "05 Arthur Russell - Place I Know/Kid Like You",
+      "06 Arthur Russell - She's the Star/I Take This Time",
+      "07 Arthur Russell - Treehouse",
+      "08 Arthur Russell - See-Through",
+      "09 Arthur Russell - Hiding Your Present From You",
+      "10 Arthur Russell - Wax the Van",
+      "11 Arthur Russell - All-Boy All-Girl",
+      "12 Arthur Russell - Lucky Cloud",
+      "13 Arthur Russell - Tower of Meaning/Rabbit's Ear/Home Away From Home",
+      "14 Arthur Russell - Let's Go Swimming",
+      "15 Arthur Russell - The Name of the Next Song",
+      "16 Arthur Russell - Happy Ending",
+      "17 Arthur Russell - Canvas Home",
+      "18 Arthur Russell - Our Last Night Together"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/world-of-echo_1779383080"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/24xprc.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/vsx2qj.tar"
+        }
+      ]
+    }
+  }
+}
