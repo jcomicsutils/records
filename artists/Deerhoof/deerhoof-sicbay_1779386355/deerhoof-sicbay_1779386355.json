@@ -1,0 +1,32 @@
+{
+  "id": "deerhoof-sicbay_1779386355",
+  "fingerprint": "0657991f548f7976797d63bdddbdec406ea16496124e209be1da61684f4990fe",
+  "archived_at": "2026-05-21T17:59:50Z",
+  "metadata": {
+    "title": "Deerhoof / Sicbay",
+    "artist": "Deerhoof",
+    "year": "2004",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 427,
+    "duration_human": "00:07:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Deerhoof - Insist",
+      "02 Deerhoof - United He-Ho Brothers",
+      "03 Sicbay - The Rise of Phantom White"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/deerhoof-sicbay_1779386355"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/ok2l4w.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/ab4dbd84b20518230f7d/Deerhoof_-_Sicbay.tar"
+    }
+  }
+}
