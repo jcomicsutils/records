@@ -1,0 +1,35 @@
+{
+  "id": "untitled-ep_1779396373",
+  "fingerprint": "26048640b10c2304ee622f122be303c268b4d61fb250a1f8eaed03a4366f7b89",
+  "archived_at": "2026-05-21T20:47:21Z",
+  "metadata": {
+    "title": "Untitled EP",
+    "artist": "Deerhoof",
+    "year": "2006",
+    "codec": "MP3",
+    "num_tracks": 9,
+    "duration_seconds": 1362,
+    "duration_human": "00:22:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Deerhoof - The Continuing Story of Bungalow Bill",
+      "02 Deerhoof - Desapareceré",
+      "03 Deerhoof - Wrong Time Capsule",
+      "04 Deerhoof - Goin' Up the Country (Canned Heat)",
+      "05 Deerhoof - Spirit Ditties of No Tone",
+      "06 Deerhoof - Lose My Breath (My Bloody Valentine)",
+      "07 Deerhoof - Dinner for Two",
+      "08 Deerhoof - Lightning Rod, Run",
+      "09 Deerhoof - There's a Kind of Hush"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/untitled-ep_1779396373"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/80fdbf904bea9eb8c145/Untitled_EP.tar"
+    }
+  }
+}
