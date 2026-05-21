@@ -1,0 +1,61 @@
+{
+  "id": "open-vocal-phrases-where-songs-come-in-and-out-live-122085_1779373615",
+  "fingerprint": "50dade5d0c141d382ca2dfc3ca846b90ab2a31079334579cdfd2a9fe465f7503",
+  "archived_at": "2026-05-21T15:31:24Z",
+  "metadata": {
+    "title": "Open Vocal Phrases Where Songs Come In and Out (Live 12/20/85)",
+    "artist": "Arthur Russell",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 4757,
+    "duration_human": "01:19:17",
+    "sampling_rate": "96kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Arthur Russell - That's the Very Reason (Live 12/20/85)",
+      "02 Arthur Russell - Tower of Meaning/Rabbit's Ear/Home Away From Home (Live 12/20/85)",
+      "03 Arthur Russell - Happy Ending (Live 12/20/85)",
+      "04 Arthur Russell - All-Boy All-Girl/Tiger Stripes/You Can't Hold Me Down (Live 12/20/85)",
+      "05 Arthur Russell - Introductions (Live 12/20/85)",
+      "06 Arthur Russell - Hiding Your Present From You/School Bell (Live 12/20/85)",
+      "07 Arthur Russell - Too Early to Tell (Live 12/20/85)",
+      "08 Arthur Russell - Changing Forest (Live 6/24/84)",
+      "09 Arthur Russell - Sunlit Water (Live 6/24/84)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/open-vocal-phrases-where-songs-come-in-and-out-live-122085_1779373615"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/r33ac1.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/3dhbrn.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/z4e9mz.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/c0v0l3.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/liad81.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/gx424s.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/9b3xed.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/e4c6b36aa5a0234aaf14/Open_Vocal_Phrases_Where_Songs_Come_In_and_Out_Live_12_-_20_-_85.tar"
+    }
+  }
+}
