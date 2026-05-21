@@ -1,0 +1,36 @@
+{
+  "id": "holdypaws_1779392432",
+  "fingerprint": "f83e300b2c730d98652e50cc5d8145ba62844c531f8575c8273d69b461e8df8d",
+  "archived_at": "2026-05-21T19:43:00Z",
+  "metadata": {
+    "title": "Holdypaws",
+    "artist": "Deerhoof",
+    "year": "1999",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2443,
+    "duration_human": "00:40:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deerhoof - Magic Star",
+      "02 Deerhoof - Crow",
+      "03 Deerhoof - Flower",
+      "04 Deerhoof - Lady People",
+      "05 Deerhoof - The Moose’s Daughter",
+      "06 Deerhoof - Queen of the Lake",
+      "07 Deerhoof - Satan",
+      "08 Deerhoof - Dead Beast Queen",
+      "09 Deerhoof - The Great Car Tomb",
+      "10 Deerhoof - Data"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/holdypaws_1779392432"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/29e9aebc822066d4eaa1/Holdypaws.tar"
+    }
+  }
+}
