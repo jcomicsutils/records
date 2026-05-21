@@ -1,0 +1,34 @@
+{
+  "id": "tu-mi-piaci_1779324731",
+  "fingerprint": "02342aaf3520cd9a11bbb5d5e16ae777d3b0d9efc54a8b947e9bb076259dea64",
+  "archived_at": "2026-05-21T00:53:26Z",
+  "metadata": {
+    "title": "Tu mi piaci",
+    "artist": "Xiu Xiu",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1080,
+    "duration_human": "00:18:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Xiu Xiu - He Needs Me",
+      "02 Xiu Xiu - Don’t Cha",
+      "03 Xiu Xiu - Kangaroo",
+      "04 Xiu Xiu - Blueberry Mine Shaft",
+      "05 Xiu Xiu - All We Ever Wanted Was Everything"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tu-mi-piaci_1779324731"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/hm39vu.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/534be1bb04b8c8cf3896/Tu_mi_piaci.tar"
+    }
+  }
+}
