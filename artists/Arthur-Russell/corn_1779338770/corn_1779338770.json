@@ -1,0 +1,46 @@
+{
+  "id": "corn_1779338770",
+  "fingerprint": "4a8719360af7558f6bf9e4bdeb5ba5ed88a99242faa32bf2c71d0d54921fd908",
+  "archived_at": "2026-05-21T04:48:02Z",
+  "metadata": {
+    "title": "Corn",
+    "artist": "Arthur Russell",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2660,
+    "duration_human": "00:44:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Arthur Russell - Lucky Cloud",
+      "02 Arthur Russell - Corn",
+      "03 Arthur Russell - Keeping Up",
+      "04 Arthur Russell - See My Brother, He's Jumping Out (Let's Go Swimming #2)",
+      "05 Arthur Russell - This is How We Walk on the Moon",
+      "06 Arthur Russell - Corn (Continued)",
+      "07 Arthur Russell - Hiding Your Present From You",
+      "08 Arthur Russell - They and Their Friends",
+      "09 Arthur Russell - Ocean Movie"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/corn_1779338770"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/wwxsh3.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/2ckc6g.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/b01128eb946104660067/Corn.tar"
+    }
+  }
+}
