@@ -1,0 +1,36 @@
+{
+  "id": "innature_1779466743",
+  "fingerprint": "3ec932fd0cb10365fe198ad01b7a5f0a289b07eed914c6eb1cb317ca64b0651c",
+  "archived_at": "2026-05-22T16:29:32Z",
+  "metadata": {
+    "title": "Innature",
+    "artist": "Various Artists",
+    "year": "2006",
+    "codec": "MP3",
+    "num_tracks": 10,
+    "duration_seconds": 3679,
+    "duration_human": "01:01:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The Fun Years - Electricity is a Scarce Commodity",
+      "02 The Kallikak Family - Purity Music / Purity Sound",
+      "03 Bird Show - Stay High",
+      "04 Polmo Polpo - Farewell to the Flyer",
+      "05 Tim Hecker - Dungeoneering",
+      "06 Loren Connors - Outside My Window",
+      "07 Animal Hospital - Late Summertime",
+      "08 Circle - No Battle, No Fire",
+      "09 Geoff Mullen - Gold Eyes",
+      "10 MGR - Neither Here Nor There"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/innature_1779466743"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/b821c183f4a103ee07fd/Innature.tar"
+    }
+  }
+}
