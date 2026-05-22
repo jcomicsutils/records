@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/for-those-of-us-on-foot_1779482143)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/dbbaed0327da98530b14/For_Those_of_Us_on_Foot.tar)
 
 ## Tracklist
 
