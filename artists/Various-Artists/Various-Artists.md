@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Substantia Sub Rosa](substantia-sub-rosa_1779467593/substantia-sub-rosa_1779467593.md) |  | FLAC | 00:50:09 | [IA](https://archive.org/details/substantia-sub-rosa_1779467593) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/9195829933795d25838a/Substantia_Sub_Rosa.tar) |
 | [The "You'll Hate This Record" Record](the-youll-hate-this-record-record_1778545584/the-youll-hate-this-record-record_1778545584.md) | 1983 | FLAC | 00:35:36 | [IA](https://archive.org/details/the-youll-hate-this-record-record_1778545584) [Catbox](https://files.catbox.moe/y7x579.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/dbf10cf2f62ac4b4302e/The_You%27ll_Hate_This_Record_Record.tar) |
 | [Beyond Step One](beyond-step-one_1778541549/beyond-step-one_1778541549.md) | 1984 | MP3 | 00:56:10 | [IA](https://archive.org/details/beyond-step-one_1778541549) [Catbox](https://files.catbox.moe/m6j0gb.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/bd734d85b50a98dda2de/Beyond_Step_One.tar) |
 | [Winnie's Secret](winnies-secret_1778547037/winnies-secret_1778547037.md) | 1984 | MP3 | 01:02:50 | [IA](https://archive.org/details/winnies-secret_1778547037) [Catbox](https://files.catbox.moe/xpt0eb.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/af39a123387248f0cf67/Winnie%27s_Secret.tar) |
