@@ -1,0 +1,28 @@
+{
+  "id": "neft-095_1779411605",
+  "fingerprint": "d9da0dc43c9bab6819cd1f63536065eb250a2cdd97ef171d9767808a9d054e69",
+  "archived_at": "2026-05-22T01:06:06Z",
+  "metadata": {
+    "title": "NEFT_095",
+    "artist": "North Eurasia Found Tapes",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5451,
+    "duration_human": "01:30:51",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 North Eurasia Found Tapes - NEFT_095_A",
+      "02 North Eurasia Found Tapes - NEFT_095_B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/neft-095_1779411605"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/a6a5de436a40055aed15/NEFT_095.tar"
+    }
+  }
+}
