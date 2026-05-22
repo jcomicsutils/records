@@ -1,0 +1,29 @@
+{
+  "id": "alenushka-kolyushka-i-slava_1779483626",
+  "fingerprint": "baa883b79a142b7dcfd95f72850d100fa4f4f2e2edff08a09d77b92877b9b9e9",
+  "archived_at": "2026-05-22T21:03:36Z",
+  "metadata": {
+    "title": "алёнушка, колюшка и слава",
+    "artist": "North Eurasia Found Tapes",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2995,
+    "duration_human": "00:49:55",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 голоса северной евразии - 1",
+      "02 голоса северной евразии - 2",
+      "03 голоса северной евразии - 3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/alenushka-kolyushka-i-slava_1779483626"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/1bb6a380d9395f495b35/%D0%B0%D0%BB%D1%91%D0%BD%D1%83%D1%88%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BB%D1%8E%D1%88%D0%BA%D0%B0_%D0%B8_%D1%81%D0%BB%D0%B0%D0%B2%D0%B0.tar"
+    }
+  }
+}
