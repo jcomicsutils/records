@@ -1,0 +1,25 @@
+{
+  "id": "for-those-of-us-on-foot_1779482143",
+  "fingerprint": "f7dd87ba4876e56bffe67e3fc663499d918239f7a8682f1303a26cf2f70e6082",
+  "archived_at": "2026-05-22T20:37:07Z",
+  "metadata": {
+    "title": "For Those of Us on Foot",
+    "artist": "Deerhoof",
+    "year": "1995",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 810,
+    "duration_human": "00:13:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Deerhoof - Dead Water / Pick-Up Bear / Horse Delivery / Everyone",
+      "02 Deerhoof - Down Thru the Cave / For Those of You on Foot"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/for-those-of-us-on-foot_1779482143"
+    }
+  }
+}

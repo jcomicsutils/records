@@ -1,0 +1,30 @@
+{
+  "id": "neft-129_1779479400",
+  "fingerprint": "8ab32954d87812fc40f69146224c9ce6b15b1ec2e794b5de9a8b2b413a972a8b",
+  "archived_at": "2026-05-22T20:36:47Z",
+  "metadata": {
+    "title": "NEFT_129",
+    "artist": "North Eurasia Found Tapes",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 9296,
+    "duration_human": "02:34:56",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 North Eurasia Found Tapes - NEFT_129_A",
+      "02 North Eurasia Found Tapes - NEFT_129_B1",
+      "03 North Eurasia Found Tapes - NEFT_129_B2",
+      "04 North Eurasia Found Tapes - NEFT_129_B3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/neft-129_1779479400"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/ae2d7126bf1c2d4ca156/NEFT_129.tar"
+    }
+  }
+}

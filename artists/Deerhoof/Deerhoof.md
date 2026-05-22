@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [The Return of the Wood M'Lady](the-return-of-the-wood-mlady_1779395635/the-return-of-the-wood-mlady_1779395635.md) | 1995 | MP3 | 00:30:19 | [IA](https://archive.org/details/the-return-of-the-wood-mlady_1779395635) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/4c51925b9b792c224545/The_Return_of_the_Wood_M_Lady.tar) |
+| [For Those of Us on Foot](for-those-of-us-on-foot_1779482143/for-those-of-us-on-foot_1779482143.md) | 1995 | MP3 | 00:13:30 | [IA](https://archive.org/details/for-those-of-us-on-foot_1779482143) |
 | [Deerhoof](deerhoof_1779386272/deerhoof_1779386272.md) | 1996 | MP3 | 00:15:18 | [IA](https://archive.org/details/deerhoof_1779386272) [Catbox](https://files.catbox.moe/60y2t8.tar) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/1cf2f3eabcb53d56aba6/Deerhoof.tar) |
 | [Dirt Pirate Creed](dirt-pirate-creed_1779388829/dirt-pirate-creed_1779388829.md) | 1996 | FLAC | 00:46:07 | [IA](https://archive.org/details/dirt-pirate-creed_1779388829) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/a5aa3059cb23cde892a4/Dirt_Pirate_Creed.tar) |
 | [The Man, the King, the Girl](the-man-the-king-the-girl_1779395462/the-man-the-king-the-girl_1779395462.md) | 1997 | FLAC | 00:28:42 | [IA](https://archive.org/details/the-man-the-king-the-girl_1779395462) [FileDitch](https://fileditchfiles.me/file.php?f=/beta2/94d78cfcd1a60ee6a79b/The_Man_the_King_the_Girl.tar) |
