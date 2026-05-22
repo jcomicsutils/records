@@ -1,0 +1,28 @@
+{
+  "id": "komnatka-kladbishche_1779486997",
+  "fingerprint": "e111bbb7230edff6c5747e7db75cf7522c6bc761b5f2dc0612dc91bb3b49298f",
+  "archived_at": "2026-05-22T22:14:29Z",
+  "metadata": {
+    "title": "комнатка → кладбище",
+    "artist": "North Eurasia Found Tapes",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3198,
+    "duration_human": "00:53:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 А → Б - комнатка →",
+      "02 А → Б - → кладбище"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/komnatka-kladbishche_1779486997"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/7714678a0b9d702c4aef/%D0%BA%D0%BE%D0%BC%D0%BD%D0%B0%D1%82%D0%BA%D0%B0_%E2%86%92_%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5.tar"
+    }
+  }
+}
