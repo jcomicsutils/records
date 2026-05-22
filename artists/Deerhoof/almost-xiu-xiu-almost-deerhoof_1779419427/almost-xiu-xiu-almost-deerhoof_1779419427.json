@@ -1,0 +1,31 @@
+{
+  "id": "almost-xiu-xiu-almost-deerhoof_1779419427",
+  "fingerprint": "8af3a6acbc658f8a4b5b8ded6efcf52e895672420ec1c960257e98fd8fe1af80",
+  "archived_at": "2026-05-22T03:10:27Z",
+  "metadata": {
+    "title": "Almost Xiu Xiu, Almost Deerhoof",
+    "artist": "Deerhoof",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 339,
+    "duration_human": "00:05:39",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deerhoof, Xiu Xiu - Almost Xiu Xiu, Almost Deerhoof",
+      "02 Deerhoof, Xiu Xiu - The Greg Saunier Retaliation"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/almost-xiu-xiu-almost-deerhoof_1778938251"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/d4pv4i.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta2/e8f9689febfc2da63ba9/Almost_Xiu_Xiu_Almost_Deerhoof.tar"
+    }
+  }
+}
