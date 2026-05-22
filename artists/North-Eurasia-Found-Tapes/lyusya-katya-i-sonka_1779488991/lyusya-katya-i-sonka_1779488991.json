@@ -1,0 +1,30 @@
+{
+  "id": "lyusya-katya-i-sonka_1779488991",
+  "fingerprint": "2e571438245955dd8688770e27cd5922af5ff0ea6f39333a3d62119583c73c92",
+  "archived_at": "2026-05-22T22:44:14Z",
+  "metadata": {
+    "title": "люся, катя и сонька",
+    "artist": "North Eurasia Found Tapes",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3329,
+    "duration_human": "00:55:29",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 голоса северной евразии - фотографии",
+      "02 голоса северной евразии - песни раз",
+      "03 голоса северной евразии - чай",
+      "04 голоса северной евразии - песни два"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lyusya-katya-i-sonka_1779488991"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/12d67744f30d50d5cbf1/%D0%BB%D1%8E%D1%81%D1%8F_%D0%BA%D0%B0%D1%82%D1%8F_%D0%B8_%D1%81%D0%BE%D0%BD%D1%8C%D0%BA%D0%B0.tar"
+    }
+  }
+}
