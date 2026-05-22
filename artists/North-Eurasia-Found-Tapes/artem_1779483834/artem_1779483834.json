@@ -1,0 +1,28 @@
+{
+  "id": "artem_1779483834",
+  "fingerprint": "91c32eb7582fd09f6f16cf904e94711bb9428b728113cdb2e40e222f24258296",
+  "archived_at": "2026-05-22T21:25:59Z",
+  "metadata": {
+    "title": "артём",
+    "artist": "North Eurasia Found Tapes",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3736,
+    "duration_human": "01:02:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 голоса северной евразии - АРСВА_A",
+      "02 голоса северной евразии - АРСВА_B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/artem_1779483834"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/ca5046c422b0619c327e/%D0%B0%D1%80%D1%82%D1%91%D0%BC.tar"
+    }
+  }
+}
