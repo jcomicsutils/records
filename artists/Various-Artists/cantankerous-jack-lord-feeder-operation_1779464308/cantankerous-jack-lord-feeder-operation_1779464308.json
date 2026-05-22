@@ -1,0 +1,40 @@
+{
+  "id": "cantankerous-jack-lord-feeder-operation_1779464308",
+  "fingerprint": "d1e6de18d7d6e820adadf6ca27b3ffabf204690ea19a00e2a03188873d743b8c",
+  "archived_at": "2026-05-22T15:46:15Z",
+  "metadata": {
+    "title": "Cantankerous Jack Lord Feeder Operation",
+    "artist": "Various Artists",
+    "year": "1993",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 1997,
+    "duration_human": "00:33:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Road Cone - Road Cone Intro A",
+      "02 Good Horsey - Provider",
+      "03 Refrigerator - Running Along",
+      "04 Speed Bumps - Impending",
+      "05 New Bad Things - Forecast",
+      "06 Loren Mazzacane - Out Alone",
+      "07 Blah Blah Blah - American Tourist 1 & 2",
+      "08 Road Cone - Road Cone Intro B",
+      "09 Shoeface - The Longest Day",
+      "10 Plastic Horn Devil - Aging Slab",
+      "11 Jupiteria - Talk Like Kids",
+      "12 Bügsküll - It's Gonna Be Pretty Angular",
+      "13 Paste - Shell Oil",
+      "14 Junket - Four Minutes Too Long"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cantankerous-jack-lord-feeder-operation_1779464308"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/13bb926b13be3b9720ef/Cantankerous_Jack_Lord_Feeder_Operation.tar"
+    }
+  }
+}
