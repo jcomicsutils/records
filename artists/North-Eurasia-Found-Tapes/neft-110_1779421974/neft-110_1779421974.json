@@ -1,0 +1,30 @@
+{
+  "id": "neft-110_1779421974",
+  "fingerprint": "257d6dc3f224d580976563ddf5c15ee06b348a018cc16b7dd2e80467a860c4ae",
+  "archived_at": "2026-05-22T04:46:54Z",
+  "metadata": {
+    "title": "NEFT_110",
+    "artist": "North Eurasia Found Tapes",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 8921,
+    "duration_human": "02:28:41",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 North Eurasia Found Tapes - NEFT_110_A1",
+      "02 North Eurasia Found Tapes - NEFT_110_A2",
+      "03 North Eurasia Found Tapes - NEFT_110_B1",
+      "04 North Eurasia Found Tapes - NEFT_110_B2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/neft-110_1779421974"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/eb39fdc5c212b1bf9c0b/NEFT_110.tar"
+    }
+  }
+}
