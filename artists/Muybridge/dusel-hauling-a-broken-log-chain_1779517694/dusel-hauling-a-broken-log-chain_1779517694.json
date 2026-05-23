@@ -1,0 +1,27 @@
+{
+  "id": "dusel-hauling-a-broken-log-chain_1779517694",
+  "fingerprint": "4da02a37ef112f1fa160f0dfd200f9ef2ddd4da11f329710e753bf76c3744afd",
+  "archived_at": "2026-05-23T06:54:52Z",
+  "metadata": {
+    "title": "Dusel Hauling a Broken Log Chain",
+    "artist": "Muybridge",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Dusel Hauling a Broken Log Chain"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dusel-hauling-a-broken-log-chain_1779517694"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/588c6295c68a2f99d848/Dusel_Hauling_a_Broken_Log_Chain.tar"
+    }
+  }
+}
