@@ -1,0 +1,33 @@
+{
+  "id": "leftover-salad_1779576925",
+  "fingerprint": "ec855ad6f04f62003109b84b0b57f89b453cadec3e96226328ac3fc604146eb9",
+  "archived_at": "2026-05-23T23:36:28Z",
+  "metadata": {
+    "title": "Leftover Salad",
+    "artist": "Trouble Salad",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3369,
+    "duration_human": "00:56:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - Jesus Eater",
+      "02 Trouble Salad - Laboratory Mambo",
+      "03 Trouble Salad - Towering in the Distance",
+      "04 Trouble Salad - Last Resfuck (Papa Roach)",
+      "05 Trouble Salad - Chamber Salad",
+      "06 Trouble Salad - Untitled",
+      "07 Trouble Salad - Sink Full of Dead Ants"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leftover-salad_1779576925"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/d79b2824e5d071deff10/Leftover_Salad.tar"
+    }
+  }
+}
