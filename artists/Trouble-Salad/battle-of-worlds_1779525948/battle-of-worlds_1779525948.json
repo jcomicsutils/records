@@ -1,0 +1,34 @@
+{
+  "id": "battle-of-worlds_1779525948",
+  "fingerprint": "9812271dba6085612788718af111f36efb44a785c95dade2696f224b55072551",
+  "archived_at": "2026-05-23T09:32:07Z",
+  "metadata": {
+    "title": "Battle Of Worlds",
+    "artist": "Trouble Salad",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 3500,
+    "duration_human": "00:58:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - The Courtyard",
+      "02 Trouble Salad - Amanda Salad",
+      "03 Trouble Salad - Moat",
+      "04 Trouble Salad - Blood Stained Fields",
+      "05 Trouble Salad - Battle Of Worlds",
+      "06 Trouble Salad - The Search For Life",
+      "07 Trouble Salad - Giant's Call",
+      "08 Trouble Salad - Waiting For the Sun (Delay For Days)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/battle-of-worlds_1779525948"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/7f5fcb9f2782310f54c2/Battle_Of_Worlds.tar"
+    }
+  }
+}

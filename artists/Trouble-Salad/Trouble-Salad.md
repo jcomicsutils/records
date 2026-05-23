@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Battle Of Worlds](battle-of-worlds_1779525948/battle-of-worlds_1779525948.md) | 2015 | FLAC | 00:58:20 | [IA](https://archive.org/details/battle-of-worlds_1779525948) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/7f5fcb9f2782310f54c2/Battle_Of_Worlds.tar) |
 | [Amongst The Pines, Beside The Stream](amongst-the-pines-beside-the-stream_1779521751/amongst-the-pines-beside-the-stream_1779521751.md) | 2015 | FLAC | 00:52:40 | [IA](https://archive.org/details/amongst-the-pines-beside-the-stream_1779521751) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/37c3a32777bac51d9446/Amongst_The_Pines_Beside_The_Stream.tar) |
 | [Audacious](audacious_1779524564/audacious_1779524564.md) | 2016 | FLAC | 00:37:06 | [IA](https://archive.org/details/audacious_1779524564) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/cfe5dd4321fd4c5b5f54/Audacious.tar) |
 | [Abstractions II: The Antagonist](abstractions-ii-the-antagonist_1779518982/abstractions-ii-the-antagonist_1779518982.md) | 2017 | FLAC | 00:51:22 | [IA](https://archive.org/details/abstractions-ii-the-antagonist_1779518982) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/f733b71786d257c15309/Abstractions_II_The_Antagonist.tar) |
