@@ -1,0 +1,27 @@
+{
+  "id": "bactrian-camel-galloping_1779509768",
+  "fingerprint": "5da94328450eb41317242e40ac07ad48900fb85cbfc8691b37f72c17840fe7fa",
+  "archived_at": "2026-05-23T04:33:30Z",
+  "metadata": {
+    "title": "Bactrian Camel Galloping",
+    "artist": "Muybridge",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Bactrian Camel Galloping"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bactrian-camel-galloping_1779509768"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/2549027d2f6c64c882d3/Bactrian_Camel_Galloping.tar"
+    }
+  }
+}
