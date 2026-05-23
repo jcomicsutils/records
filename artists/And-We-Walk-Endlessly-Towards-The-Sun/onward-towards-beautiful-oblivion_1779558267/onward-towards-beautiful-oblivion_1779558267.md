@@ -1,0 +1,28 @@
+# And We Walk Endlessly Towards The Sun — Onward Towards Beautiful Oblivion (2020)
+
+![Cover](https://archive.org/download/onward-towards-beautiful-oblivion_1779558267/__ia_thumb.jpg)
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | 44.1kHz |
+| Bit Depth | 16-bit |
+| Tracks | 4 |
+| Duration | 00:49:17 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/onward-towards-beautiful-oblivion_1779558267)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/d258dd8ec8055e6d3fed/Onward_Towards_Beautiful_Oblivion.tar)
+
+## Tracklist
+
+```
+01 And We Walk Endlessly Towards The Sun - Onward Towards Beautiful Oblivion
+02 And We Walk Endlessly Towards The Sun - Pull Back Our Ruined Hopes
+03 And We Walk Endlessly Towards The Sun - Guilty As We; Together We Perish
+04 And We Walk Endlessly Towards The Sun - Harbingers Of Decay; We Beg Forgiveness
+```
+
+---
+*Archived: 2026-05-23*
