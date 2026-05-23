@@ -1,0 +1,32 @@
+{
+  "id": "descend-passed-nothing_1779548391",
+  "fingerprint": "4c8bbfc097e3d986dce472439e15dbc43ea796d510d1c6b48c483fa4dc3bf83e",
+  "archived_at": "2026-05-23T15:07:38Z",
+  "metadata": {
+    "title": "Descend Passed Nothing",
+    "artist": "And We Walk Endlessly Towards The Sun",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3608,
+    "duration_human": "01:00:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 And We Walk Endlessly Towards The Sun - Grievously; Painfully; We Move",
+      "02 And We Walk Endlessly Towards The Sun - ...To Be Released From Shame",
+      "03 And We Walk Endlessly Towards The Sun - See The Fruits Of Your Discontent",
+      "04 And We Walk Endlessly Towards The Sun - We Exist As A Curse Unto Ourselves",
+      "05 And We Walk Endlessly Towards The Sun - We Have Descended Passed Nothing",
+      "06 And We Walk Endlessly Towards The Sun - We Follow; All That We Know"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/descend-passed-nothing_1779548391"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/ba64b890f67cef01fb69/Descend_Passed_Nothing.tar"
+    }
+  }
+}
