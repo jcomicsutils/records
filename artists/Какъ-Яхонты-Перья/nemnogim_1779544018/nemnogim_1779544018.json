@@ -1,0 +1,32 @@
+{
+  "id": "nemnogim_1779544018",
+  "fingerprint": "4923b24d3d3e10a42136fc499fa4817c864c26cecad50fb90cba71fec0564dd0",
+  "archived_at": "2026-05-23T14:05:38Z",
+  "metadata": {
+    "title": "Немногимъ",
+    "artist": "Какъ Яхонты Перья",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1201,
+    "duration_human": "00:20:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Какъ Яхонты Перья - Немногимъ",
+      "02 Какъ Яхонты Перья - Канонады и залпы",
+      "03 Какъ Яхонты Перья - Жатва цвѣтовъ",
+      "04 Какъ Яхонты Перья - Символъ горя",
+      "05 Какъ Яхонты Перья - Иртышъ Волгѣ",
+      "06 Какъ Яхонты Перья - Знамя"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nemnogim_1779544018"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/24acb40d2d6c78a305ca/%D0%9D%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%B8%D0%BC%D1%8A.tar"
+    }
+  }
+}
