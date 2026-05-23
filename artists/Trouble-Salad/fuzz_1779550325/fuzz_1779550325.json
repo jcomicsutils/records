@@ -1,0 +1,29 @@
+{
+  "id": "fuzz_1779550325",
+  "fingerprint": "c4ac98eee11b27374b06ba0ab10b7284355809dbc3f755fac38c70de8d493634",
+  "archived_at": "2026-05-23T15:49:27Z",
+  "metadata": {
+    "title": "Fuzz",
+    "artist": "Trouble Salad",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4192,
+    "duration_human": "01:09:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - Overboard",
+      "02 Trouble Salad - Begin the Ritual",
+      "03 Trouble Salad - Trouble Salad Rests Your Head At Night"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fuzz_1779550325"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/aa0bd9326a061335d166/Fuzz.tar"
+    }
+  }
+}
