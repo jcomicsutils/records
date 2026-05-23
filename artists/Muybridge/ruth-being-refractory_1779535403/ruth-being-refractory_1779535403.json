@@ -1,0 +1,27 @@
+{
+  "id": "ruth-being-refractory_1779535403",
+  "fingerprint": "76751f1cd8f1ec111343b4585a0b3a8b3487715e35d29081e57f6c2253aac9b7",
+  "archived_at": "2026-05-23T11:48:16Z",
+  "metadata": {
+    "title": "Ruth Being Refractory",
+    "artist": "Muybridge",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Ruth Being Refractory"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ruth-being-refractory_1779535403"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/40b796e25d3b0a6c03e6/Ruth_Being_Refractory.tar"
+    }
+  }
+}
