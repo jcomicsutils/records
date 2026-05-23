@@ -1,0 +1,27 @@
+{
+  "id": "sloth-walking-suspended-on-a-horizontal-pole_1779536912",
+  "fingerprint": "2be8652507c186482f3150c6291fe707a06ef6dbef5be474c6f2fb2913ebdcd7",
+  "archived_at": "2026-05-23T12:07:08Z",
+  "metadata": {
+    "title": "Sloth Walking Suspended on a Horizontal Pole",
+    "artist": "Muybridge",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Sloth Walking Suspended on a Horizontal Pole"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sloth-walking-suspended-on-a-horizontal-pole_1779536912"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/411201e09f206d1ca0f2/Sloth_Walking_Suspended_on_a_Horizontal_Pole.tar"
+    }
+  }
+}
