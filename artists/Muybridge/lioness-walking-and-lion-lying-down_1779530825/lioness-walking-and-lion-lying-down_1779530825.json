@@ -1,0 +1,27 @@
+{
+  "id": "lioness-walking-and-lion-lying-down_1779530825",
+  "fingerprint": "782d507b6ea62cf9df60bc75d78a1fdc367e6a743b4904495f4e9172d9fa9469",
+  "archived_at": "2026-05-23T10:30:25Z",
+  "metadata": {
+    "title": "Lioness Walking and Lion Lying Down",
+    "artist": "Muybridge",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Lioness Walking and Lion Lying Down"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lioness-walking-and-lion-lying-down_1779530825"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/f163538fb895b6deac35/Lioness_Walking_and_Lion_Lying_Down.tar"
+    }
+  }
+}
