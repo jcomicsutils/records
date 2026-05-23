@@ -1,0 +1,29 @@
+{
+  "id": "continual-darkness-a-natural-emergence_1779502920",
+  "fingerprint": "74442feff809ac66749b9009d11377ee4024bd10a071d310e766001da855583c",
+  "archived_at": "2026-05-23T02:23:13Z",
+  "metadata": {
+    "title": "Continual Darkness [a natural emergence]",
+    "artist": "Bird Violence",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 767,
+    "duration_human": "00:12:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Bird Violence - first bloom",
+      "02 Bird Violence - human grime",
+      "03 Bird Violence - clouds sprinkled || in search of ants"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/continual-darkness-a-natural-emergence_1779502920"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/8b8136e7188d5bdea51f/Continual_Darkness_a_natural_emergence.tar"
+    }
+  }
+}
