@@ -1,0 +1,35 @@
+{
+  "id": "2016_1779500475",
+  "fingerprint": "d32853aa4abb2fad441429b0968296558676e8f6881e9ecb0c16fde302f354c9",
+  "archived_at": "2026-05-23T02:17:50Z",
+  "metadata": {
+    "title": "2016",
+    "artist": "Bird Violence",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 4060,
+    "duration_human": "01:07:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Bird Violence - Your Song (practice session)",
+      "02 Bird Violence - Your light will shine on",
+      "03 Bird Violence - ∅ K",
+      "04 Bird Violence - idk (i decay)",
+      "05 Bird Violence - 160530TJUL45",
+      "06 Bird Violence - Smoke",
+      "07 Bird Violence - Salt",
+      "08 Bird Violence - Smoke Gets in Your Eyes (practice session)",
+      "09 Bird Violence - Salt the Earth (live at The Flycatcher)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/2016_1779500475"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/6010b5a14211cdae8639/2016.tar"
+    }
+  }
+}
