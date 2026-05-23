@@ -1,0 +1,27 @@
+{
+  "id": "american-eagle-flying-near-the-ground_1779507210",
+  "fingerprint": "c3e12a2e90139d5a4d6784cb77f8f05b3d2d060fa0aa12e397553ef4a111446e",
+  "archived_at": "2026-05-23T03:58:59Z",
+  "metadata": {
+    "title": "American Eagle Flying Near the Ground",
+    "artist": "Muybridge",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - American Eagle Flying Near the Ground"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/american-eagle-flying-near-the-ground_1779507210"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/b0f0e81efd5670f0e26a/American_Eagle_Flying_Near_the_Ground.tar"
+    }
+  }
+}
