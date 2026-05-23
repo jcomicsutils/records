@@ -1,0 +1,27 @@
+{
+  "id": "cockatoo-flying_1779516552",
+  "fingerprint": "7ccbcf8cc76b4aff12ceead457e109cfdeb18dde488576f7b842b361b85b6473",
+  "archived_at": "2026-05-23T06:27:50Z",
+  "metadata": {
+    "title": "Cockatoo Flying",
+    "artist": "Muybridge",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Cockatoo Flying"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cockatoo-flying_1779516552"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/13de8ef8117f72be0035/Cockatoo_Flying.tar"
+    }
+  }
+}

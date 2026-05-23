@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Cockatoo Flying](cockatoo-flying_1779516552/cockatoo-flying_1779516552.md) | 2024 | FLAC | 00:30:00 | [IA](https://archive.org/details/cockatoo-flying_1779516552) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/13de8ef8117f72be0035/Cockatoo_Flying.tar) |
 | [Capybara Walking](capybara-walking_1779514546/capybara-walking_1779514546.md) | 2024 | FLAC | 00:30:00 | [IA](https://archive.org/details/capybara-walking_1779514546) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/3283705e6038d500f95c/Capybara_Walking.tar) |
 | [A Group of Fallow Deer Running](a-group-of-fallow-deer-running_1779504719/a-group-of-fallow-deer-running_1779504719.md) | 2024 | FLAC | 00:30:00 | [IA](https://archive.org/details/a-group-of-fallow-deer-running_1779504719) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/9308b16a9de9c5ef4169/A_Group_of_Fallow_Deer_Running.tar) |
 | [Baboon Walking on All Fours](baboon-walking-on-all-fours_1779508758/baboon-walking-on-all-fours_1779508758.md) | 2024 | FLAC | 00:30:00 | [IA](https://archive.org/details/baboon-walking-on-all-fours_1779508758) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/d8f046de26486dec008a/Baboon_Walking_on_All_Fours.tar) |
