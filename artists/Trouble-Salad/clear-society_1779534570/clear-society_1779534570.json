@@ -1,0 +1,31 @@
+{
+  "id": "clear-society_1779534570",
+  "fingerprint": "e65640f1128ea3adcbfcb8e9bccbc52d88db4fa8132b5aca7272e1eb23be0062",
+  "archived_at": "2026-05-23T11:51:47Z",
+  "metadata": {
+    "title": "Clear Society",
+    "artist": "Trouble Salad",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3451,
+    "duration_human": "00:57:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Salad Trouble - Standardized World",
+      "02 Salad Trouble - Sweetener",
+      "03 Salad Trouble - City as Landscape",
+      "04 Salad Trouble - Freshener",
+      "05 Salad Trouble - Die Austreibung"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/clear-society_1779534570"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/762a88eb563f82d8e656/Clear_Society.tar"
+    }
+  }
+}
