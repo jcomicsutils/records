@@ -1,0 +1,31 @@
+{
+  "id": "audacious_1779524564",
+  "fingerprint": "6371794c4b8d59f2cb6c7f1eebf9a4312d68cd9f9a0aff72948dec9dcf25504b",
+  "archived_at": "2026-05-23T08:45:31Z",
+  "metadata": {
+    "title": "Audacious",
+    "artist": "Trouble Salad",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2226,
+    "duration_human": "00:37:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - Business Scrub",
+      "02 Trouble Salad - Parachute Doctor",
+      "03 Trouble Salad - A Sexless Fly fisher",
+      "04 Trouble Salad - Busking Fiddler Crab",
+      "05 Trouble Salad - Bomb Bag"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/audacious_1779524564"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/cfe5dd4321fd4c5b5f54/Audacious.tar"
+    }
+  }
+}
