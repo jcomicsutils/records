@@ -1,0 +1,30 @@
+{
+  "id": "delirium_1779549278",
+  "fingerprint": "6b3c9f443075894ab6d2708a39b957c9966c204151c57c035fc1e52909fcc0c6",
+  "archived_at": "2026-05-23T15:19:27Z",
+  "metadata": {
+    "title": "Delirium",
+    "artist": "Trouble Salad",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4222,
+    "duration_human": "01:10:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - Delirium",
+      "02 Trouble Salad - Strange Happenings",
+      "03 Trouble Salad - One Fell Swoop",
+      "04 Trouble Salad - Take the Long Way Home (Supertramp)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/delirium_1779549278"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/8a34b9ba799a8ae53efe/Delirium.tar"
+    }
+  }
+}
