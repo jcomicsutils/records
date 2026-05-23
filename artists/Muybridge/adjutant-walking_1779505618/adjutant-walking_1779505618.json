@@ -1,0 +1,27 @@
+{
+  "id": "adjutant-walking_1779505618",
+  "fingerprint": "7ec614bbc38c4fc221ebc955a1ce4aa2b508b10f33c36056e729c615886a1d13",
+  "archived_at": "2026-05-23T03:33:14Z",
+  "metadata": {
+    "title": "Adjutant Walking",
+    "artist": "Muybridge",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Adjutant Walking"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/adjutant-walking_1779505618"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/90f13c2ac1d96c82eaae/Adjutant_Walking.tar"
+    }
+  }
+}
