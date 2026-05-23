@@ -1,0 +1,27 @@
+{
+  "id": "horses-ringing-bells_1779528007",
+  "fingerprint": "3700cbca633db31ebb0b1ea69bc9bc2a05b8bbeaf1abf3efe7c8b20753aac104",
+  "archived_at": "2026-05-23T09:50:56Z",
+  "metadata": {
+    "title": "Horses Ringing Bells",
+    "artist": "Muybridge",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Horses Ringing Bells"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/horses-ringing-bells_1779528007"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/18c183fe60f2aa89436e/Horses_Ringing_Bells.tar"
+    }
+  }
+}
