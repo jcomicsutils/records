@@ -1,0 +1,31 @@
+{
+  "id": "ignite-the-sky_1779550207",
+  "fingerprint": "c023eabcc1cdea46bc5d48ae9dd79051d9edc6ea73172a097fc257f791603e73",
+  "archived_at": "2026-05-23T15:36:04Z",
+  "metadata": {
+    "title": "Ignite The Sky",
+    "artist": "And We Walk Endlessly Towards The Sun",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3416,
+    "duration_human": "00:56:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 And We Walk Endlessly Towards The Sun - We Begin At The End",
+      "02 And We Walk Endlessly Towards The Sun - Forgetting Is The Greatest Of All Mercies",
+      "03 And We Walk Endlessly Towards The Sun - Ignite The Sky And Erase All Evidence Of Us Ever Being Here",
+      "04 And We Walk Endlessly Towards The Sun - There Is No Life Here; We Simply Exist",
+      "05 And We Walk Endlessly Towards The Sun - We Carry Our Punishment Out In Silence"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ignite-the-sky_1779550207"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/84abbaf8e3835405b69d/Ignite_The_Sky.tar"
+    }
+  }
+}
