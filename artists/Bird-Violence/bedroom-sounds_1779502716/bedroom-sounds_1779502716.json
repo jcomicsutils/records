@@ -1,0 +1,32 @@
+{
+  "id": "bedroom-sounds_1779502716",
+  "fingerprint": "1d0925612f9dc96aed84ac6833667e3c57ca404bc101cd4ac07429ab660995ee",
+  "archived_at": "2026-05-23T02:19:53Z",
+  "metadata": {
+    "title": "Bedroom Sounds",
+    "artist": "Bird Violence",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1227,
+    "duration_human": "00:20:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bird Violence - Something About a Snowy Mountain",
+      "02 Bird Violence - Soundscape 1",
+      "03 Bird Violence - ok thqt works",
+      "04 Bird Violence - Soundscape 2",
+      "05 Bird Violence - I'm not a Pop Punk band",
+      "06 Bird Violence - the best & most beautiful things in this world"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bedroom-sounds_1779502716"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/30433f0625c2b74ed9fe/Bedroom_Sounds.tar"
+    }
+  }
+}
