@@ -1,0 +1,27 @@
+{
+  "id": "baboon-walking-on-all-fours_1779508758",
+  "fingerprint": "f2873c200018405953bf3c3e7af80ddb3cb7a0227d15f870e8fd66e496b34778",
+  "archived_at": "2026-05-23T04:15:54Z",
+  "metadata": {
+    "title": "Baboon Walking on All Fours",
+    "artist": "Muybridge",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Baboon Walking on All Fours"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/baboon-walking-on-all-fours_1779508758"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/d8f046de26486dec008a/Baboon_Walking_on_All_Fours.tar"
+    }
+  }
+}
