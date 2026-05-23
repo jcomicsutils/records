@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Tigress Walking and Turning Around](tigress-walking-and-turning-around_1779541804/tigress-walking-and-turning-around_1779541804.md) | 2024 | FLAC | 00:30:00 | [IA](https://archive.org/details/tigress-walking-and-turning-around_1779541804) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/672ef8f6cb9bcab74607/Tigress_Walking_and_Turning_Around.tar) |
 | [Hornet Jumping Over Three Horses](hornet-jumping-over-three-horses_1779526423/hornet-jumping-over-three-horses_1779526423.md) | 2024 | FLAC | 00:30:00 | [IA](https://archive.org/details/hornet-jumping-over-three-horses_1779526423) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/44004138618d0159a646/Hornet_Jumping_Over_Three_Horses.tar) |
 | [Cockatoo Flying](cockatoo-flying_1779516552/cockatoo-flying_1779516552.md) | 2024 | FLAC | 00:30:00 | [IA](https://archive.org/details/cockatoo-flying_1779516552) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/13de8ef8117f72be0035/Cockatoo_Flying.tar) |
 | [Three Horses on Teeter Board](three-horses-on-teeter-board_1779540336/three-horses-on-teeter-board_1779540336.md) | 2024 | FLAC | 00:30:00 | [IA](https://archive.org/details/three-horses-on-teeter-board_1779540336) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/6bac49ffee47cfdb3955/Three_Horses_on_Teeter_Board.tar) |

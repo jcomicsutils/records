@@ -1,0 +1,27 @@
+{
+  "id": "tigress-walking-and-turning-around_1779541804",
+  "fingerprint": "78015993ce34526b94ca3d2bcbc399e8fc090d2e422422d925e40f94bc4a51e3",
+  "archived_at": "2026-05-23T13:31:33Z",
+  "metadata": {
+    "title": "Tigress Walking and Turning Around",
+    "artist": "Muybridge",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Tigress Walking and Turning Around"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tigress-walking-and-turning-around_1779541804"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/672ef8f6cb9bcab74607/Tigress_Walking_and_Turning_Around.tar"
+    }
+  }
+}
