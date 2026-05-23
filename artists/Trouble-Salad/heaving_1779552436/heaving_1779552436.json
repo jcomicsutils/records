@@ -1,0 +1,34 @@
+{
+  "id": "heaving_1779552436",
+  "fingerprint": "da664c422f110bae6242a100182dc36806fd299a94fa52c0b9b8b92ac7e4d853",
+  "archived_at": "2026-05-23T17:05:08Z",
+  "metadata": {
+    "title": "Heaving",
+    "artist": "Trouble Salad",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 3540,
+    "duration_human": "00:59:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - Chaperone",
+      "02 Trouble Salad - Green Heaving",
+      "03 Trouble Salad - Speaks in Drizzles",
+      "04 Trouble Salad - The Obligatory Silence of Elevators",
+      "05 Trouble Salad - Drastic Heave",
+      "06 Trouble Salad - Lock Down Groove",
+      "07 Trouble Salad - Teeth Mishap",
+      "08 Trouble Salad - Fling Ready: Leave the Heave"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/heaving_1779552436"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/780e61074552012b7010/Heaving.tar"
+    }
+  }
+}
