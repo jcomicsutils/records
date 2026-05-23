@@ -1,0 +1,29 @@
+{
+  "id": "and-we-continue-to-walk_1779547944",
+  "fingerprint": "01f8347ba65107b31bab298ccc4239f0d93410a8b7aa4cf2ab53b1754a67dd5c",
+  "archived_at": "2026-05-23T14:54:35Z",
+  "metadata": {
+    "title": "And We Continue To Walk",
+    "artist": "And We Walk Endlessly Towards The Sun",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2361,
+    "duration_human": "00:39:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 And We Walk Endlessly Towards The Sun - Unsound And Afraid, All We Know Is This Path",
+      "02 And We Walk Endlessly Towards The Sun - Open The Skies And Bring Us Home",
+      "03 And We Walk Endlessly Towards The Sun - We Were Born Of Unbroken Silence"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/and-we-continue-to-walk_1779547944"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/5550778ad5c355bd1b79/And_We_Continue_To_Walk.tar"
+    }
+  }
+}
