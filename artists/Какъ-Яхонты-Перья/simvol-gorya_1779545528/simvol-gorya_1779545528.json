@@ -1,0 +1,27 @@
+{
+  "id": "simvol-gorya_1779545528",
+  "fingerprint": "2ce80ea80da03d563ae95f106cbba23f2f51cc9036b49f16da45fe6fdec66abc",
+  "archived_at": "2026-05-23T14:12:45Z",
+  "metadata": {
+    "title": "Символъ Горя",
+    "artist": "Какъ Яхонты Перья",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 230,
+    "duration_human": "00:03:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Какъ Яхонты Перья - Символъ Горя"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/simvol-gorya_1779545528"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/4d112ca855f2252369ed/%D0%A1%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D1%8A_%D0%93%D0%BE%D1%80%D1%8F.tar"
+    }
+  }
+}
