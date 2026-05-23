@@ -1,0 +1,29 @@
+{
+  "id": "birds-in-the-ball-room_1779502804",
+  "fingerprint": "6820edaf9ca37e067ca0bee316a6081055d5bc0601d89e9b48511c44db3c9827",
+  "archived_at": "2026-05-23T02:21:50Z",
+  "metadata": {
+    "title": "Birds in The Ball-Room",
+    "artist": "Bird Violence",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1017,
+    "duration_human": "00:16:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bird Violence - 100% Contaminated",
+      "02 Bird Violence - Galaxy sss",
+      "03 Bird Violence - the best & most beautiful remix"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/birds-in-the-ball-room_1779502804"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/020361bc58ce4437761c/Birds_in_The_Ball-Room.tar"
+    }
+  }
+}
