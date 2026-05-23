@@ -1,0 +1,27 @@
+{
+  "id": "goat-walking-pulling-sulky_1779523537",
+  "fingerprint": "de40c6bd3e8d9cbb9ecf2016accf70e422e5d59e0577f65e6973672263bc236f",
+  "archived_at": "2026-05-23T08:31:14Z",
+  "metadata": {
+    "title": "Goat Walking, Pulling Sulky",
+    "artist": "Muybridge",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Goat Walking, Pulling Sulky"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/goat-walking-pulling-sulky_1779523537"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/3b24b5f169bafe6d0177/Goat_Walking_Pulling_Sulky.tar"
+    }
+  }
+}
