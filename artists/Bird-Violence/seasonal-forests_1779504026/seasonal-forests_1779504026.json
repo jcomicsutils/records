@@ -1,0 +1,30 @@
+{
+  "id": "seasonal-forests_1779504026",
+  "fingerprint": "cc9f245a595f09468a00da68598b4b71c1820eb65afdb22ca52910d37344e051",
+  "archived_at": "2026-05-23T03:24:43Z",
+  "metadata": {
+    "title": "Seasonal Forests",
+    "artist": "Bird Violence",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2750,
+    "duration_human": "00:45:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bird Violence - Karoshi",
+      "02 Bird Violence - Smoke Gets In Your Eyes",
+      "03 Bird Violence - Croon",
+      "04 Bird Violence - Salt the Earth"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/seasonal-forests_1779504026"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/fdbcec429ec5120067f9/Seasonal_Forests.tar"
+    }
+  }
+}
