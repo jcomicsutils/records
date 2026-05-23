@@ -1,0 +1,31 @@
+{
+  "id": "kolde-kongerige_1779569305",
+  "fingerprint": "2c897b55f9661799428c34ed5eacb0f9c469c0e2ec87083f8968c6e16675cba3",
+  "archived_at": "2026-05-23T21:39:53Z",
+  "metadata": {
+    "title": "Kolde Kongerige",
+    "artist": "Trouble Salad",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2034,
+    "duration_human": "00:33:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - Cold Kingdom",
+      "02 Trouble Salad - No One Leaves",
+      "03 Trouble Salad - My Friends Are Frozen",
+      "04 Trouble Salad - Glacial Era",
+      "05 Trouble Salad - Repetition Is Key"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kolde-kongerige_1779569305"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/dbdc9eccd24fceb9757f/Kolde_Kongerige.tar"
+    }
+  }
+}
