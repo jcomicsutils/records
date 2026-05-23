@@ -1,0 +1,32 @@
+{
+  "id": "it-looms-closer_1779550591",
+  "fingerprint": "328923888f4c9d82243c3310681d0f53e232553039aa6602b4cdd251fbc38d1f",
+  "archived_at": "2026-05-23T16:29:53Z",
+  "metadata": {
+    "title": "It Looms Closer",
+    "artist": "And We Walk Endlessly Towards The Sun",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3528,
+    "duration_human": "00:58:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 And We Walk Endlessly Towards The Sun - Hope Is A Cancer",
+      "02 And We Walk Endlessly Towards The Sun - The Oldest Have Seen Our Damnation; The Youngest Will See Our Conclusion",
+      "03 And We Walk Endlessly Towards The Sun - The Taunting Of The Light Is Eternal",
+      "04 And We Walk Endlessly Towards The Sun - It Looms Closer",
+      "05 And We Walk Endlessly Towards The Sun - Stare With Us, Into The Great Nothing",
+      "06 And We Walk Endlessly Towards The Sun - The Throes Of What We Call Survival"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/it-looms-closer_1779550591"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/5ba1f42c86bd3340a86c/It_Looms_Closer.tar"
+    }
+  }
+}
