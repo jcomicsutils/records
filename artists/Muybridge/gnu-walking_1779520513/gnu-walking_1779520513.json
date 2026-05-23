@@ -1,0 +1,27 @@
+{
+  "id": "gnu-walking_1779520513",
+  "fingerprint": "23733f94712ce6a6eadbd6996cd77553168da974953f232c8f54847de71d1bb9",
+  "archived_at": "2026-05-23T07:40:21Z",
+  "metadata": {
+    "title": "Gnu Walking",
+    "artist": "Muybridge",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Gnu Walking"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/gnu-walking_1779520513"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/6aff7edcfded7b4bca36/Gnu_Walking.tar"
+    }
+  }
+}
