@@ -1,0 +1,29 @@
+{
+  "id": "none-of-us-will-be-forgiven_1779556505",
+  "fingerprint": "63fb5339dc0dd50ecd21542516cca836d49e892d3ccc4e2062915ca9516176e1",
+  "archived_at": "2026-05-23T17:44:05Z",
+  "metadata": {
+    "title": "None Of Us Will Be Forgiven",
+    "artist": "And We Walk Endlessly Towards The Sun",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1692,
+    "duration_human": "00:28:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 And We Walk Endlessly Towards The Sun - Our Torment Continues; It Is All That Is Left",
+      "02 And We Walk Endlessly Towards The Sun - We Can Never Leave This",
+      "03 And We Walk Endlessly Towards The Sun - We Created Hell"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/none-of-us-will-be-forgiven_1779556505"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/50808df8476f8d9b5f72/None_Of_Us_Will_Be_Forgiven.tar"
+    }
+  }
+}
