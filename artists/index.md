@@ -47,6 +47,7 @@
 - [Merzbow + Xiu Xiu](Merzbow-+-Xiu-Xiu/Merzbow-+-Xiu-Xiu.md)
 - [Midori Hirano](Midori-Hirano/Midori-Hirano.md)
 - [Modest Mouse](Modest-Mouse/Modest-Mouse.md)
+- [Muybridge](Muybridge/Muybridge.md)
 - [Mão Morta](Mão-Morta/Mão-Morta.md)
 - [Neutral Milk Hotel](Neutral-Milk-Hotel/Neutral-Milk-Hotel.md)
 - [Nils Frahm](Nils-Frahm/Nils-Frahm.md)
