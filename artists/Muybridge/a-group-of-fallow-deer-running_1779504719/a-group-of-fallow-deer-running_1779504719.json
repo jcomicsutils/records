@@ -1,0 +1,27 @@
+{
+  "id": "a-group-of-fallow-deer-running_1779504719",
+  "fingerprint": "df2e50b8d20918f0c035deec0d7af2b55dfca7d285e5413dd290c3375c28e3b2",
+  "archived_at": "2026-05-23T03:06:45Z",
+  "metadata": {
+    "title": "A Group of Fallow Deer Running",
+    "artist": "Muybridge",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - A Group of Fallow Deer Running"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-group-of-fallow-deer-running_1779504719"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/9308b16a9de9c5ef4169/A_Group_of_Fallow_Deer_Running.tar"
+    }
+  }
+}
