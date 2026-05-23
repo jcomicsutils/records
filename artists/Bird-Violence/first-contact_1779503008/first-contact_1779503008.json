@@ -1,0 +1,32 @@
+{
+  "id": "first-contact_1779503008",
+  "fingerprint": "f04645dbfc1346013e14204bf54961350ab7eee18614d816d91f034788b04a32",
+  "archived_at": "2026-05-23T02:30:05Z",
+  "metadata": {
+    "title": "First Contact",
+    "artist": "Bird Violence",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2501,
+    "duration_human": "00:41:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bird Violence & Zulamorph - First Contact",
+      "02 Bird Violence & Zulamorph - Strange Transmissions",
+      "03 Bird Violence & Zulamorph - Wind Song",
+      "04 Bird Violence & Zulamorph - River Song",
+      "05 Bird Violence & Zulamorph - Invasion",
+      "06 Bird Violence & Zulamorph - Waves Crash Over You"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/first-contact_1779503008"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/a7b23449bb98f29b55d0/First_Contact.tar"
+    }
+  }
+}
