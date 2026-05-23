@@ -1,0 +1,27 @@
+{
+  "id": "sow-walking_1779538041",
+  "fingerprint": "b72a3fd28866b41b78e73c3140e29d46cbc9878f26d932c5bc6a47ee40fe44aa",
+  "archived_at": "2026-05-23T12:27:28Z",
+  "metadata": {
+    "title": "Sow Walking",
+    "artist": "Muybridge",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Sow Walking"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sow-walking_1779538041"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/a2ad9b06353bc8b3968c/Sow_Walking.tar"
+    }
+  }
+}
