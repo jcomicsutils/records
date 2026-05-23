@@ -1,0 +1,27 @@
+{
+  "id": "nysh-2-nogliki_1779493236",
+  "fingerprint": "4f314e0a3cbcf2ff8f2992c8a398ec68bf3f2922cd03fe4f58532b31d5a1e6f5",
+  "archived_at": "2026-05-23T00:08:42Z",
+  "metadata": {
+    "title": "ныш-2 → ноглики",
+    "artist": "North Eurasia Found Tapes",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2796,
+    "duration_human": "00:46:36",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 А → Б - ныш-2 → ноглики"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nysh-2-nogliki_1779493236"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/e11b41220024d5c78a06/-2.tar"
+    }
+  }
+}
