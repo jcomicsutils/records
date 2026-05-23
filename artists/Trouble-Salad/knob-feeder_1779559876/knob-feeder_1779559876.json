@@ -1,0 +1,28 @@
+{
+  "id": "knob-feeder_1779559876",
+  "fingerprint": "188544f7685f19e28e5a5ef511047a86dc6b9f1cbd69abfbae6115459c0dcb00",
+  "archived_at": "2026-05-23T20:46:46Z",
+  "metadata": {
+    "title": "Knob Feeder",
+    "artist": "Trouble Salad",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 7377,
+    "duration_human": "02:02:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - Knob Feeder",
+      "02 Trouble Salad - It Looks Like Snow (Extended Mix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/knob-feeder_1779559876"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/60f29b048b8f229b1286/Knob_Feeder.tar"
+    }
+  }
+}
