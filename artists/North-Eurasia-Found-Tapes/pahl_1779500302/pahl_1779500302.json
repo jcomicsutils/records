@@ -1,0 +1,34 @@
+{
+  "id": "pahl_1779500302",
+  "fingerprint": "7b2e9544e957fc3a3667d8a8d6664831275158c51d564ca98e4cd461101eabb2",
+  "archived_at": "2026-05-23T01:38:22Z",
+  "metadata": {
+    "title": "PAHL",
+    "artist": "North Eurasia Found Tapes",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1059,
+    "duration_human": "00:17:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 FORESTEPPE - 109K",
+      "02 FORESTEPPE - ROSSIYA",
+      "03 FORESTEPPE - ZYOM",
+      "04 FORESTEPPE - PRYATKI",
+      "05 FORESTEPPE - PAHL"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pahl_1778815620"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/kgbq3n.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/94c8a497f5b2b1cb00bf/Pahl.tar"
+    }
+  }
+}
