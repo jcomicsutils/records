@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Early Salad](early-salad_1779550044/early-salad_1779550044.md) | 2015 | FLAC | 00:58:54 | [IA](https://archive.org/details/early-salad_1779550044) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/df9849de5870af69bd25/Early_Salad.tar) |
 | [Conformity Is Sexy, Productivity Rules](conformity-is-sexy-productivity-rules_1779548218/conformity-is-sexy-productivity-rules_1779548218.md) | 2015 | FLAC | 00:53:11 | [IA](https://archive.org/details/conformity-is-sexy-productivity-rules_1779548218) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/bb03ee41565ae31ef1c9/Conformity_Is_Sexy_Productivity_Rules.tar) |
 | [Besvær Salat](besvaer-salat_1779528755/besvaer-salat_1779528755.md) | 2015 | FLAC | 00:26:18 | [IA](https://archive.org/details/besvaer-salat_1779528755) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/b8b1c414c9f3f446e537/Besv_r_Salat.tar) |
 | [Disgust: The Soundtrack](disgust-the-soundtrack_1779549895/disgust-the-soundtrack_1779549895.md) | 2015 | FLAC | 01:03:43 | [IA](https://archive.org/details/disgust-the-soundtrack_1779549895) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/636641824c2fd8f80570/Disgust_The_Soundtrack.tar) |
