@@ -1,0 +1,33 @@
+{
+  "id": "life-at-the-cost-of-all_1779553833",
+  "fingerprint": "904cc68a62a62feafada94a0832ed1781452689c7ea1546b90b6750b1a2e9791",
+  "archived_at": "2026-05-23T17:14:32Z",
+  "metadata": {
+    "title": "Life At The Cost Of All",
+    "artist": "And We Walk Endlessly Towards The Sun",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3559,
+    "duration_human": "00:59:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 And We Walk Endlessly Towards The Sun - ...And We Walk Endlessly Towards The Sun",
+      "02 And We Walk Endlessly Towards The Sun - Be Envious Of The Maggots For They Cannot Comprehend What The World Has Become",
+      "03 And We Walk Endlessly Towards The Sun - Once We Tried And Once We Failed",
+      "04 And We Walk Endlessly Towards The Sun - Our Nothing",
+      "05 And We Walk Endlessly Towards The Sun - They Walk Forever In Search Of",
+      "06 And We Walk Endlessly Towards The Sun - We Pray What's Left Of Our Ocean Will Someday Take Us",
+      "07 And We Walk Endlessly Towards The Sun - We Will Carry This Failure Forever, It Will Never Come To Pass"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/life-at-the-cost-of-all_1779553833"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/5e7003a13a05df77543b/Life_At_The_Cost_Of_All.tar"
+    }
+  }
+}
