@@ -1,0 +1,30 @@
+{
+  "id": "from-the-earth-risen-to-the-sun-fallen_1779548897",
+  "fingerprint": "786c98b0b54c640668f50d06a4fe5ff5b35c78f1aaa616d67f5b9ded1b34f3f5",
+  "archived_at": "2026-05-23T15:28:58Z",
+  "metadata": {
+    "title": "From The Earth Risen; To The Sun Fallen",
+    "artist": "And We Walk Endlessly Towards The Sun",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 6733,
+    "duration_human": "01:52:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 And We Walk Endlessly Towards The Sun - We Walk The Length Of Forever",
+      "02 And We Walk Endlessly Towards The Sun - Until It All Falls Into The Sky",
+      "03 And We Walk Endlessly Towards The Sun - The Pain Is All That Makes Us Move",
+      "04 And We Walk Endlessly Towards The Sun - From The Earth Risen; To The Sun Fallen"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/from-the-earth-risen-to-the-sun-fallen_1779548897"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/77391c7b2740de71cd53/From_The_Earth_Risen_To_The_Sun_Fallen.tar"
+    }
+  }
+}
