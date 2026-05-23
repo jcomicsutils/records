@@ -1,0 +1,27 @@
+{
+  "id": "chickens-scared-by-a-torpedo_1779515638",
+  "fingerprint": "c99d683b80f9b195fc66900ea6ef9e71ccb97194ddda26f9578ebc9aa391ef9d",
+  "archived_at": "2026-05-23T06:08:59Z",
+  "metadata": {
+    "title": "Chickens Scared by a Torpedo",
+    "artist": "Muybridge",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Chickens Scared by a Torpedo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chickens-scared-by-a-torpedo_1779515638"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/fa23910b694c9e0c8612/Chickens_Scared_by_a_Torpedo.tar"
+    }
+  }
+}

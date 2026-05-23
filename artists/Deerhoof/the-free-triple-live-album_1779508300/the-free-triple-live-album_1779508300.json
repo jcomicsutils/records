@@ -1,0 +1,43 @@
+{
+  "id": "the-free-triple-live-album_1779508300",
+  "fingerprint": "66c56a9ce62bee72b9be6d2c790e4157b04767029101863482bbd718359ce4aa",
+  "archived_at": "2026-05-23T06:08:21Z",
+  "metadata": {
+    "title": "The Free Triple Live Album",
+    "artist": "Deerhoof",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 20,
+    "duration_seconds": 4801,
+    "duration_human": "01:20:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deerhoof - Intro",
+      "02 Deerhoof - Paradise Girls",
+      "03 Deerhoof - I Will Spite Survive",
+      "04 Deerhoof - Scarcity is Manufactured",
+      "05 Deerhoof - Fresh Born",
+      "06 Deerhoof - L'Amour Stories",
+      "07 Deerhoof - Love-Lore 2",
+      "08 Deerhoof - No One Asked to Dance",
+      "09 Deerhoof - Twin Killers",
+      "10 Deerhoof - Plant Thief",
+      "11 Deerhoof - My Purple Past",
+      "12 Deerhoof - Jet-Black Double-Shield",
+      "13 Deerhoof - This Magnificent Bird Will Rise",
+      "14 Deerhoof - Sit Down, Let Me Tell You a Story",
+      "15 Deerhoof - My Lovely Cat!",
+      "16 Deerhoof - Momentary Art of Soul!",
+      "17 Deerhoof - Milk Man",
+      "18 Deerhoof - Black Pitch",
+      "19 Deerhoof - Be Unbarred, O Ye Gates of Hell",
+      "20 Deerhoof - Damaged Eyes Squinting Into the Beautiful Overhot Sun"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-free-triple-live-album_1779508300"
+    }
+  }
+}
