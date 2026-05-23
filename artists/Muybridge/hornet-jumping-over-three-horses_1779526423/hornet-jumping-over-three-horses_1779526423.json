@@ -1,0 +1,27 @@
+{
+  "id": "hornet-jumping-over-three-horses_1779526423",
+  "fingerprint": "4db66bbf19d0e82f76d4f39c8928287beabe5cdecbdd07f836fc9ed9ba1d3505",
+  "archived_at": "2026-05-23T09:19:50Z",
+  "metadata": {
+    "title": "Hornet Jumping Over Three Horses",
+    "artist": "Muybridge",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Hornet Jumping Over Three Horses"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hornet-jumping-over-three-horses_1779526423"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/44004138618d0159a646/Hornet_Jumping_Over_Three_Horses.tar"
+    }
+  }
+}
