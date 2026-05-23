@@ -1,0 +1,37 @@
+{
+  "id": "bibidi-babidi-boo_1779506716",
+  "fingerprint": "e84b350dbaff63151b356fd21b708f6cd2b8448ae7abe6711b037a15bc7ce5f5",
+  "archived_at": "2026-05-23T03:51:15Z",
+  "metadata": {
+    "title": "Bibidi Babidi Boo",
+    "artist": "Deerhoof",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 1669,
+    "duration_human": "00:27:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deerhoof - Dummy Discards a Heart (live)",
+      "02 Deerhoof - Giga Dance (live Satomi on drums+Greg on guitar)",
+      "03 Deerhoof - Desparecere (live)",
+      "04 Deerhoof - Rainbow Silhouette of the Milky Rain (live)",
+      "05 Deerhoof - Flower (live)",
+      "06 Deerhoof - Lose My Breath (live My Bloody Valentine cover)",
+      "07 Deerhoof - Panda Panda Panda (live)",
+      "08 Deerhoof - Song of Sorn + The Forbidden Fruits (live)",
+      "09 Deerhoof - Satan (live)",
+      "10 Deerhoof - Milking (live)",
+      "11 Deerhoof - Bendinin (live)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bibidi-babidi-boo_1779506716"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/a675b359f44b9d4d6ba2/Bibidi_Babidi_Boo.tar"
+    }
+  }
+}
