@@ -1,0 +1,32 @@
+{
+  "id": "besvaer-salat_1779528755",
+  "fingerprint": "6d561e683830e357c6b281fe7b1afe648632f126bd30ff1f3f342de5e583de25",
+  "archived_at": "2026-05-23T10:05:41Z",
+  "metadata": {
+    "title": "Besvær Salat",
+    "artist": "Trouble Salad",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1578,
+    "duration_human": "00:26:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - Out Of Sight",
+      "02 Trouble Salad - Seducing Yourself",
+      "03 Trouble Salad - No Longer Silent",
+      "04 Trouble Salad - Alone With You",
+      "05 Trouble Salad - My Blues Are Black",
+      "06 Trouble Salad - Sonic Spectres"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/besvaer-salat_1779528755"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/b8b1c414c9f3f446e537/Besv_r_Salat.tar"
+    }
+  }
+}
