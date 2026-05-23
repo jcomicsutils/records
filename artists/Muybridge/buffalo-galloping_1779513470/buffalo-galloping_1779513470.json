@@ -1,0 +1,27 @@
+{
+  "id": "buffalo-galloping_1779513470",
+  "fingerprint": "6efe3fdd8330e72b5d4a99e9a602e769c39e997de358b7c8e2a492574cfbae12",
+  "archived_at": "2026-05-23T05:35:25Z",
+  "metadata": {
+    "title": "Buffalo Galloping",
+    "artist": "Muybridge",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Buffalo Galloping"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/buffalo-galloping_1779513470"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/c4876784f164e4701bfe/Buffalo_Galloping.tar"
+    }
+  }
+}
