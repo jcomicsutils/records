@@ -1,0 +1,30 @@
+{
+  "id": "it-looks-like-snow_1779555945",
+  "fingerprint": "0cb92cc90294cb1f799088418ad902c56af253399e34147e3bdbfff11c2c3a80",
+  "archived_at": "2026-05-23T18:10:35Z",
+  "metadata": {
+    "title": "It Looks Like Snow",
+    "artist": "Trouble Salad",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3337,
+    "duration_human": "00:55:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - It Looks Like Snow",
+      "02 Trouble Salad - Committed To Dreaming",
+      "03 Trouble Salad - Too Bad We're Not High",
+      "04 Trouble Salad - Versus the Hydra"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/it-looks-like-snow_1779555945"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/9a5bbe04579a2efa73a2/It_Looks_Like_Snow.tar"
+    }
+  }
+}
