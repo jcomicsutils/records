@@ -1,0 +1,31 @@
+{
+  "id": "left-on-the-ground_1779572422",
+  "fingerprint": "0f0901e68ed59e743558ceadccc5d75fd5331c0c072bbee75f6492b90afd7dab",
+  "archived_at": "2026-05-23T22:54:42Z",
+  "metadata": {
+    "title": "Left On the Ground",
+    "artist": "Trouble Salad",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3767,
+    "duration_human": "01:02:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - Left On the Ground (Parts 1-7)",
+      "02 Trouble Salad - Left On the Ground (Parts 8-26)",
+      "03 Trouble Salad - The Rising Horror",
+      "04 Trouble Salad - Gathering Water From the Frozen Creek",
+      "05 Trouble Salad - Carve My Farewell Song Onto My Grave"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/left-on-the-ground_1779572422"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/d37ca1e832e9397140ec/Left_On_the_Ground.tar"
+    }
+  }
+}
