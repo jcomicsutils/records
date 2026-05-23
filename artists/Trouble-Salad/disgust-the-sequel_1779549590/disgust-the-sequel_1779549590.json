@@ -1,0 +1,31 @@
+{
+  "id": "disgust-the-sequel_1779549590",
+  "fingerprint": "7574ac6f9bcb22aa7e9983855d37b206b26807599115ef6906996d560e54b057",
+  "archived_at": "2026-05-23T15:24:33Z",
+  "metadata": {
+    "title": "Disgust: The Sequel",
+    "artist": "Trouble Salad",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 4355,
+    "duration_human": "01:12:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - Death Mountain",
+      "02 Trouble Salad - Subterraneans At A Jam Session",
+      "03 Trouble Salad - We Are Dealing With Otherworldly Forces",
+      "04 Trouble Salad - Sedative",
+      "05 Trouble Salad - I'm Sorry For What He Did To You"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/disgust-the-sequel_1779549590"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/05bd9c5e219b3bbe2e60/Disgust_The_Sequel.tar"
+    }
+  }
+}
