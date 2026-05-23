@@ -1,0 +1,30 @@
+{
+  "id": "hasaeti_1779551414",
+  "fingerprint": "2c194f14a24f972de6e881cb9d8bb0ff2ec56fe81d8173d6054604b53e2e5285",
+  "archived_at": "2026-05-23T16:07:01Z",
+  "metadata": {
+    "title": "Hásæti",
+    "artist": "Trouble Salad",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1718,
+    "duration_human": "00:28:38",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - Gimsteinn",
+      "02 Trouble Salad - Engi",
+      "03 Trouble Salad - Sölum",
+      "04 Trouble Salad - Kastalinn"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hasaeti_1779551414"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/1437f352cb500aa46145/H_s_ti.tar"
+    }
+  }
+}
