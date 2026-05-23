@@ -1,0 +1,31 @@
+{
+  "id": "abstractions-ii-the-antagonist_1779518982",
+  "fingerprint": "a281cf2ec4b3e073ebef9e6c97ece22971aa7ddfc3650bdb366a87d5795b8533",
+  "archived_at": "2026-05-23T07:35:18Z",
+  "metadata": {
+    "title": "Abstractions II: The Antagonist",
+    "artist": "Trouble Salad",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3082,
+    "duration_human": "00:51:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Salad Trouble - Speedboat Road",
+      "02 Salad Trouble - Blood on the Factory Floor",
+      "03 Salad Trouble - The Mind Room",
+      "04 Salad Trouble - Snowed In/Shovel Innovation",
+      "05 Salad Trouble - Mahound"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/abstractions-ii-the-antagonist_1779518982"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/f733b71786d257c15309/Abstractions_II_The_Antagonist.tar"
+    }
+  }
+}
