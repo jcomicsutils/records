@@ -41,6 +41,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/conception-of-the-deities_1779537136"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/316b114fc30608c11633/Conception_of_the_Deities.tar"
     }
   }
 }

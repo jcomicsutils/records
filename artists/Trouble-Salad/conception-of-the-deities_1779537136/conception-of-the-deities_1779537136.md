@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/conception-of-the-deities_1779537136)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/316b114fc30608c11633/Conception_of_the_Deities.tar)
 
 ## Tracklist
 
