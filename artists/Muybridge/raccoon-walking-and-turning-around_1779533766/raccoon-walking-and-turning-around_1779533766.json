@@ -1,0 +1,27 @@
+{
+  "id": "raccoon-walking-and-turning-around_1779533766",
+  "fingerprint": "4f476995c9513c7065c0d4233cc7e6fa8c542a9059d5e7e0502aa2954ab2a34a",
+  "archived_at": "2026-05-23T11:23:06Z",
+  "metadata": {
+    "title": "Raccoon Walking and Turning Around",
+    "artist": "Muybridge",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Raccoon Walking and Turning Around"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/raccoon-walking-and-turning-around_1779533766"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/469908b0ba9ca34638cf/Raccoon_Walking_and_Turning_Around.tar"
+    }
+  }
+}
