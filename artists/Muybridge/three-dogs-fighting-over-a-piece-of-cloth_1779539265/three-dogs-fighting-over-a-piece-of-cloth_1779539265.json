@@ -1,0 +1,27 @@
+{
+  "id": "three-dogs-fighting-over-a-piece-of-cloth_1779539265",
+  "fingerprint": "d3cf270415ab3bfb9c94e01f6add216f99d98c9ec2134a20666483e82e3c01f3",
+  "archived_at": "2026-05-23T12:45:20Z",
+  "metadata": {
+    "title": "Three Dogs Fighting Over a Piece of Cloth",
+    "artist": "Muybridge",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Three Dogs Fighting Over a Piece of Cloth"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/three-dogs-fighting-over-a-piece-of-cloth_1779539265"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/360e801586b5c1f07005/Three_Dogs_Fighting_Over_a_Piece_of_Cloth.tar"
+    }
+  }
+}
