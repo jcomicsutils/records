@@ -1,0 +1,29 @@
+{
+  "id": "lullaby_1779503432",
+  "fingerprint": "63324e2d853be7d339dc1ad7e120731f8cf07e9e133d911dd185dc2b4419ee3e",
+  "archived_at": "2026-05-23T02:40:14Z",
+  "metadata": {
+    "title": "Lullaby",
+    "artist": "Bird Violence",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 950,
+    "duration_human": "00:15:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bird Violence - I could sing if I wanted to",
+      "02 Bird Violence - Snowdrift",
+      "03 Bird Violence - Lull"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lullaby_1779503432"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/aca3792fdbf205b40106/Lullaby.tar"
+    }
+  }
+}
