@@ -1,0 +1,27 @@
+{
+  "id": "buck-and-doe-trotting_1779512151",
+  "fingerprint": "fbc46f289a5176872f3e9b7e9b8ffcbfff375ec8650e548ac611e1cfdfcd8f65",
+  "archived_at": "2026-05-23T05:17:31Z",
+  "metadata": {
+    "title": "Buck and Doe Trotting",
+    "artist": "Muybridge",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Buck and Doe Trotting"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/buck-and-doe-trotting_1779512151"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/6220ac8f7a990a0b5c0f/Buck_and_Doe_Trotting.tar"
+    }
+  }
+}
