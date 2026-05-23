@@ -1,0 +1,27 @@
+{
+  "id": "capybara-walking_1779514546",
+  "fingerprint": "2f7e8ee8ef22c8adfda24c718059d24866be91ffca998626916e18e4ced54ad4",
+  "archived_at": "2026-05-23T05:53:38Z",
+  "metadata": {
+    "title": "Capybara Walking",
+    "artist": "Muybridge",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Capybara Walking"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/capybara-walking_1779514546"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/3283705e6038d500f95c/Capybara_Walking.tar"
+    }
+  }
+}
