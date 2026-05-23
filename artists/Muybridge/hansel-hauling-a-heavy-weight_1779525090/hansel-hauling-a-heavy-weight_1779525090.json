@@ -1,0 +1,27 @@
+{
+  "id": "hansel-hauling-a-heavy-weight_1779525090",
+  "fingerprint": "12ec5b75d10a4d365fd75256e956859c9ae5559fd653facaae3ca2e789047a44",
+  "archived_at": "2026-05-23T08:53:26Z",
+  "metadata": {
+    "title": "Hansel Hauling a Heavy Weight",
+    "artist": "Muybridge",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Hansel Hauling a Heavy Weight"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hansel-hauling-a-heavy-weight_1779525090"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/c60756ffaf99665aec08/Hansel_Hauling_a_Heavy_Weight.tar"
+    }
+  }
+}
