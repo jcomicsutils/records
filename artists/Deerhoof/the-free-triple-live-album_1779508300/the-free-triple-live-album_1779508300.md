@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/the-free-triple-live-album_1779508300)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/0a3eb89f4401fc490b1a/The_Free_Triple_Live_Album.tar)
 
 ## Tracklist
 
