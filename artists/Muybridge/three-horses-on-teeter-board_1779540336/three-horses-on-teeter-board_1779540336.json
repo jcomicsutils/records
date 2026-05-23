@@ -1,0 +1,27 @@
+{
+  "id": "three-horses-on-teeter-board_1779540336",
+  "fingerprint": "7c3324815a712861cf33e4a8307294003428e2ed7eea66066156df4f5efad136",
+  "archived_at": "2026-05-23T13:09:50Z",
+  "metadata": {
+    "title": "Three Horses on Teeter Board",
+    "artist": "Muybridge",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Three Horses on Teeter Board"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/three-horses-on-teeter-board_1779540336"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/6bac49ffee47cfdb3955/Three_Horses_on_Teeter_Board.tar"
+    }
+  }
+}
