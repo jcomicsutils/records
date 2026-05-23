@@ -70,6 +70,7 @@
 - [The Runners From 1984](The-Runners-From-1984/The-Runners-From-1984.md)
 - [Thorr's Hammer](Thorr's-Hammer/Thorr's-Hammer.md)
 - [Tokyo 77](Tokyo-77/Tokyo-77.md)
+- [Trouble Salad](Trouble-Salad/Trouble-Salad.md)
 - [Various Artists](Various-Artists/Various-Artists.md)
 - [Vesuvio](Vesuvio/Vesuvio.md)
 - [XIU XIU](XIU-XIU/XIU-XIU.md)
