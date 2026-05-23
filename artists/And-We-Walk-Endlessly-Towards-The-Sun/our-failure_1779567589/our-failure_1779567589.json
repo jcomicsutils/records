@@ -1,0 +1,30 @@
+{
+  "id": "our-failure_1779567589",
+  "fingerprint": "4f68f8267544e710c965ec9908a52a5c5eaae663d383d08bbef2f6bedff8f525",
+  "archived_at": "2026-05-23T21:16:40Z",
+  "metadata": {
+    "title": "Our Failure",
+    "artist": "And We Walk Endlessly Towards The Sun",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2640,
+    "duration_human": "00:44:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 And We Walk Endlessly Towards The Sun - Scream Into The Great Infinitum",
+      "02 And We Walk Endlessly Towards The Sun - The Abyss Will Answer Your Call",
+      "03 And We Walk Endlessly Towards The Sun - May The Sun Forever Illuminate",
+      "04 And We Walk Endlessly Towards The Sun - Our Failure"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/our-failure_1779567589"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/c03c38f55fda45275f4e/Our_Failure.tar"
+    }
+  }
+}
