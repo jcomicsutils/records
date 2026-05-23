@@ -1,0 +1,27 @@
+{
+  "id": "goat-walking_1779522038",
+  "fingerprint": "2988a70301973db7f2227d15f0be77e46eaf38acc101e6afb802ceb4ac8d56da",
+  "archived_at": "2026-05-23T08:05:21Z",
+  "metadata": {
+    "title": "Goat Walking",
+    "artist": "Muybridge",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Goat Walking"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/goat-walking_1779522038"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/f77a85b2d4eab7b87f41/Goat_Walking.tar"
+    }
+  }
+}
