@@ -1,0 +1,31 @@
+{
+  "id": "our-eyes-slowly-burn-but-there-is-nothing-left-to-see_1779562029",
+  "fingerprint": "e9b68fa5f9ce15af97d91f105d4eb1522f2792c518ecdd5055acc36b81f6c52e",
+  "archived_at": "2026-05-23T20:18:35Z",
+  "metadata": {
+    "title": "Our Eyes Slowly Burn, But There Is Nothing Left To See",
+    "artist": "And We Walk Endlessly Towards The Sun",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 6125,
+    "duration_human": "01:42:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 And We Walk Endlessly Towards The Sun - All We Have Are The Fragments Of Our Memory",
+      "02 And We Walk Endlessly Towards The Sun - There Is No Forfeit; No Absolution",
+      "03 And We Walk Endlessly Towards The Sun - We Cannot Be Buried",
+      "04 And We Walk Endlessly Towards The Sun - We Have Yet To Reach The Peak Of Declination",
+      "05 And We Walk Endlessly Towards The Sun - What Can Be Remembered"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/our-eyes-slowly-burn-but-there-is-nothing-left-to-see_1779562029"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/d9b9b9ac106a02786b61/Our_Eyes_Slowly_Burn_But_There_Is_Nothing_Left_To_See.tar"
+    }
+  }
+}
