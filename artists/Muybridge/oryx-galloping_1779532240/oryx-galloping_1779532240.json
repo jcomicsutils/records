@@ -1,0 +1,27 @@
+{
+  "id": "oryx-galloping_1779532240",
+  "fingerprint": "c53edf4f369922c4b6b6d90ca4baa9ac0dce18aa4fcc4363b5e937c0687b5ffd",
+  "archived_at": "2026-05-23T10:55:50Z",
+  "metadata": {
+    "title": "Oryx Galloping",
+    "artist": "Muybridge",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Oryx Galloping"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/oryx-galloping_1779532240"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/852d8b5b04e3c1df2154/Oryx_Galloping.tar"
+    }
+  }
+}
