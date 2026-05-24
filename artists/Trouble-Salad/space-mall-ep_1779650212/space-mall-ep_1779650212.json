@@ -1,0 +1,30 @@
+{
+  "id": "space-mall-ep_1779650212",
+  "fingerprint": "4d948ab076e6b2eb1676d2f834c547fb8ec8548ea95868a2000f6a15a4e96646",
+  "archived_at": "2026-05-24T19:28:41Z",
+  "metadata": {
+    "title": "Space Mall EP",
+    "artist": "Trouble Salad",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1455,
+    "duration_human": "00:24:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - Engine Drone",
+      "02 Trouble Salad - Stellar Waltz",
+      "03 Trouble Salad - Space Mall",
+      "04 Trouble Salad - Industrial Salad/The Terror of Knowledge"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/space-mall-ep_1779650212"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/436fcb196375236fd4fe/Space_Mall_EP.tar"
+    }
+  }
+}
