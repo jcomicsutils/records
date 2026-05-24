@@ -1,7 +1,7 @@
 {
   "id": "a-possible-dawn_1779659722",
   "fingerprint": "8f4a7ab13e650c5f1d1e2b6bbd1aef3518d7d47b71ad3aa5624e5467db866bf4",
-  "archived_at": "2026-05-24T21:55:22Z",
+  "archived_at": "2026-05-24T22:18:22Z",
   "metadata": {
     "title": "A Possible Dawn",
     "artist": "Loren Connors",
@@ -26,5 +26,12 @@
       "11 Loren MazzaCane Connors - MCC / M / M Trio"
     ]
   },
-  "hosts": {}
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-possible-dawn_1779659722"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/0b54b0ea43f18b29613b/A_Possible_Dawn.tar"
+    }
+  }
 }
