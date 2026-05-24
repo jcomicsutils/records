@@ -1,0 +1,28 @@
+# And We Walk Endlessly Towards The Sun — There Was Something Here Once (2020)
+
+![Cover](https://archive.org/download/there-was-something-here-once_1779589805/__ia_thumb.jpg)
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | 44.1kHz |
+| Bit Depth | 16-bit |
+| Tracks | 4 |
+| Duration | 00:57:41 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/there-was-something-here-once_1779589805)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/a822a8f151b95ca8ebe7/There_Was_Something_Here_Once.tar)
+
+## Tracklist
+
+```
+01 And We Walk Endlessly Towards The Sun - We Can No Longer Scream But The Agony Persists
+02 And We Walk Endlessly Towards The Sun - There Was Something Here Once
+03 And We Walk Endlessly Towards The Sun - We Embrace The Lie Of Progress
+04 And We Walk Endlessly Towards The Sun - You Built Our Pain, We Perfected It
+```
+
+---
+*Archived: 2026-05-24*

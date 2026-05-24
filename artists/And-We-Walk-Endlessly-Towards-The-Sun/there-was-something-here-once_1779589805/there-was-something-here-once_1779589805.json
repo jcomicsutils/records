@@ -1,0 +1,30 @@
+{
+  "id": "there-was-something-here-once_1779589805",
+  "fingerprint": "6e6e73fff7620af89c6debdc09fe0d1ce6096522ede53a37d9b877b157600be2",
+  "archived_at": "2026-05-24T03:31:13Z",
+  "metadata": {
+    "title": "There Was Something Here Once",
+    "artist": "And We Walk Endlessly Towards The Sun",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3461,
+    "duration_human": "00:57:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 And We Walk Endlessly Towards The Sun - We Can No Longer Scream But The Agony Persists",
+      "02 And We Walk Endlessly Towards The Sun - There Was Something Here Once",
+      "03 And We Walk Endlessly Towards The Sun - We Embrace The Lie Of Progress",
+      "04 And We Walk Endlessly Towards The Sun - You Built Our Pain, We Perfected It"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/there-was-something-here-once_1779589805"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/a822a8f151b95ca8ebe7/There_Was_Something_Here_Once.tar"
+    }
+  }
+}
