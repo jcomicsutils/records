@@ -1,7 +1,7 @@
 {
   "id": "arborvitae_1779663232",
   "fingerprint": "8eef4f8fc96d7543d29b69c935861c047e16799c696f16fbdc6a5a20f100d620",
-  "archived_at": "2026-05-24T22:53:52Z",
+  "archived_at": "2026-05-24T23:11:12Z",
   "metadata": {
     "title": "Arborvitae",
     "artist": "Loren Connors",
@@ -20,5 +20,12 @@
       "05 Loren Connors & David Grubbs - The Highest Point in Brooklyn"
     ]
   },
-  "hosts": {}
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/arborvitae_1779663232"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/a7b326763c9f57190e69/Arborvitae.tar"
+    }
+  }
 }
