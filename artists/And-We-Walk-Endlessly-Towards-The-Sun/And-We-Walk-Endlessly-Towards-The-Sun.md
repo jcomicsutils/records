@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [The Emptiness Is Of No Comfort](the-emptiness-is-of-no-comfort_1779581344/the-emptiness-is-of-no-comfort_1779581344.md) | 2019 | FLAC | 02:31:30 | [IA](https://archive.org/details/the-emptiness-is-of-no-comfort_1779581344) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/f6ca6182e43aa0ff45e6/The_Emptiness_Is_Of_No_Comfort.tar) |
 | [Ignite The Sky](ignite-the-sky_1779550207/ignite-the-sky_1779550207.md) | 2019 | FLAC | 00:56:56 | [IA](https://archive.org/details/ignite-the-sky_1779550207) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/84abbaf8e3835405b69d/Ignite_The_Sky.tar) |
 | [Life At The Cost Of All](life-at-the-cost-of-all_1779553833/life-at-the-cost-of-all_1779553833.md) | 2019 | FLAC | 00:59:19 | [IA](https://archive.org/details/life-at-the-cost-of-all_1779553833) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/5e7003a13a05df77543b/Life_At_The_Cost_Of_All.tar) |
 | [Our Eyes Slowly Burn, But There Is Nothing Left To See](our-eyes-slowly-burn-but-there-is-nothing-left-to-see_1779562029/our-eyes-slowly-burn-but-there-is-nothing-left-to-see_1779562029.md) | 2020 | FLAC | 01:42:05 | [IA](https://archive.org/details/our-eyes-slowly-burn-but-there-is-nothing-left-to-see_1779562029) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/d9b9b9ac106a02786b61/Our_Eyes_Slowly_Burn_But_There_Is_Nothing_Left_To_See.tar) |

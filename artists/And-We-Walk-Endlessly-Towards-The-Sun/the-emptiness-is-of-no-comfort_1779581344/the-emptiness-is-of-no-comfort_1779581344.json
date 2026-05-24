@@ -1,0 +1,29 @@
+{
+  "id": "the-emptiness-is-of-no-comfort_1779581344",
+  "fingerprint": "90b686499fc5a61418bd0e2f48452743ccb5878c432eb85e5ab306c8ad6609f9",
+  "archived_at": "2026-05-24T02:28:34Z",
+  "metadata": {
+    "title": "The Emptiness Is Of No Comfort",
+    "artist": "And We Walk Endlessly Towards The Sun",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 9090,
+    "duration_human": "02:31:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 And We Walk Endlessly Towards The Sun - The Emptiness Is Of No Comfort I",
+      "02 And We Walk Endlessly Towards The Sun - The Emptiness Is Of No Comfort II",
+      "03 And We Walk Endlessly Towards The Sun - The Emptiness Is Of No Comfort III"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-emptiness-is-of-no-comfort_1779581344"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/f6ca6182e43aa0ff45e6/The_Emptiness_Is_Of_No_Comfort.tar"
+    }
+  }
+}
