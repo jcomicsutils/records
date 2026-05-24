@@ -1,0 +1,33 @@
+{
+  "id": "rejsekammerat_1779599719",
+  "fingerprint": "083636d82f45c2c5e5b7c3e8abf030a116b084f0d0e1f41108506bdde49791db",
+  "archived_at": "2026-05-24T06:12:56Z",
+  "metadata": {
+    "title": "Rejsekammerat",
+    "artist": "Trouble Salad",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 4107,
+    "duration_human": "01:08:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - Cryoseism",
+      "02 Trouble Salad - Der Kristall Ist Eis (Paysage d'hiver)",
+      "03 Trouble Salad - Mountain Village",
+      "04 Trouble Salad - Should You Need A Traveling Companion",
+      "05 Trouble Salad - Snowhead Temple",
+      "06 Trouble Salad - Watcher of the Summit",
+      "07 Trouble Salad - Shed A Tear For Winter's End"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rejsekammerat_1779599719"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/7a97045852cb3405e86a/Rejsekammerat.tar"
+    }
+  }
+}
