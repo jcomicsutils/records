@@ -1,0 +1,29 @@
+{
+  "id": "conduit_1779647023",
+  "fingerprint": "f29fd4e24469b90b122b8fadf0536d74838db894614402106b33a7e12b97c987",
+  "archived_at": "2026-05-24T18:31:53Z",
+  "metadata": {
+    "title": "Conduit",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1145,
+    "duration_human": "00:19:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - AO, Part 6",
+      "02 Zeffon - Coward",
+      "03 Zeffon - Conduit"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/conduit_1779647023"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/b9b14fcac12a1243b539/Conduit.tar"
+    }
+  }
+}
