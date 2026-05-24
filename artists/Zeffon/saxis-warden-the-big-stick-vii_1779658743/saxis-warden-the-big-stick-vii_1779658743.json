@@ -1,0 +1,31 @@
+{
+  "id": "saxis-warden-the-big-stick-vii_1779658743",
+  "fingerprint": "f13eb2455bdfff34176743dfc885d4b107ab64c63a17e11e93966d881f79b446",
+  "archived_at": "2026-05-24T22:03:16Z",
+  "metadata": {
+    "title": "Saxis... Warden (The Big Stick VII)",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 6382,
+    "duration_human": "01:46:22",
+    "sampling_rate": "11.0kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Movie Day (America Against the World)",
+      "02 Zeffon - Seen Him Coemin' From Miel Away",
+      "03 Zeffon - Purgatory fur Trempling Elofants",
+      "04 Zeffon - Cherry Borry Tranzportationn",
+      "05 Zeffon - To Gather Them All Together (Rrr-RRR)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/saxis-warden-the-big-stick-vii_1779658743"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/9198ec6656ce6f6c6542/Saxis..._Warden_The_Big_Stick_VII.tar"
+    }
+  }
+}
