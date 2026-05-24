@@ -1,0 +1,27 @@
+{
+  "id": "new-world-order_1779654689",
+  "fingerprint": "94a3636992a7a00b6e4ee5a01b0390712417704872ad152bd0f56fe9012a14fc",
+  "archived_at": "2026-05-24T21:37:54Z",
+  "metadata": {
+    "title": "New World Order",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 43218,
+    "duration_human": "12:00:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Creighton Jenkins / Zeffon - New World Order"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/new-world-order_1779654689"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/593a122903907f47816e/New_World_Order.tar"
+    }
+  }
+}
