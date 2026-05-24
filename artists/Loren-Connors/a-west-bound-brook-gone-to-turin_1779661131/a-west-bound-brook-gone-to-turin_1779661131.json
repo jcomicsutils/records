@@ -1,0 +1,28 @@
+{
+  "id": "a-west-bound-brook-gone-to-turin_1779661131",
+  "fingerprint": "e41718847f91f862700ee5780bfb3a33fcb3bc5766c0a450efae93e72c920cd5",
+  "archived_at": "2026-05-24T22:19:33Z",
+  "metadata": {
+    "title": "A West Bound Brook / Gone to Turin",
+    "artist": "Loren Connors",
+    "year": "2023",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 158,
+    "duration_human": "00:02:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Scott Tuma - Gone to Turin",
+      "02 Loren Mazzacane Connors - A West Bound Brook"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-west-bound-brook-gone-to-turin_1779661131"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/6c37f8e186cd4b13a155/A_West_Bound_Brook_-_Gone_to_Turin.tar"
+    }
+  }
+}
