@@ -1,0 +1,30 @@
+{
+  "id": "mescal-descendant_1779583014",
+  "fingerprint": "c6cb9f374cfd81323b8714abc52fbc507b88a354841df84cfe135c38984d7b80",
+  "archived_at": "2026-05-24T02:10:58Z",
+  "metadata": {
+    "title": "Mescal Descendant",
+    "artist": "Trouble Salad",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3586,
+    "duration_human": "00:59:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - Bottled Ghost Souls",
+      "02 Trouble Salad - Gazing At My Shoes",
+      "03 Trouble Salad - Giant's Song",
+      "04 Trouble Salad - Mescal Descendant"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mescal-descendant_1779583014"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/83fa6660d487c1b3d47b/Mescal_Descendant.tar"
+    }
+  }
+}
