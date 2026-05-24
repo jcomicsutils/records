@@ -1,0 +1,27 @@
+{
+  "id": "angels-that-fall_1779662142",
+  "fingerprint": "8c7c62eb05888f65f0922eaa1ea6386b87b014cf5c3e2d0530438e2de6611633",
+  "archived_at": "2026-05-24T22:53:31Z",
+  "metadata": {
+    "title": "Angels That Fall",
+    "artist": "Loren Connors",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1036,
+    "duration_human": "00:17:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Loren Connors - Angels That Fall"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/angels-that-fall_1779662142"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/919f0c51991222229707/Angels_That_Fall.tar"
+    }
+  }
+}
