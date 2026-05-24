@@ -41,6 +41,7 @@
 - [Kiss the Anus of a Black Cat](Kiss-the-Anus-of-a-Black-Cat/Kiss-the-Anus-of-a-Black-Cat.md)
 - [Kometjakten](Kometjakten/Kometjakten.md)
 - [Lil Ugly Mane](Lil-Ugly-Mane/Lil-Ugly-Mane.md)
+- [Loren Connors](Loren-Connors/Loren-Connors.md)
 - [Lotus Eaters](Lotus-Eaters/Lotus-Eaters.md)
 - [Love's Holiday Orchestra](Love's-Holiday-Orchestra/Love's-Holiday-Orchestra.md)
 - [Lupercais](Lupercais/Lupercais.md)

@@ -1,0 +1,27 @@
+{
+  "id": "m00shogenrzzaxbr_1779654225",
+  "fingerprint": "a877f973b0d867a94e985c42ab0b50b81ab4d1f77a63fbdb1fe9ddb602778954",
+  "archived_at": "2026-05-24T20:31:10Z",
+  "metadata": {
+    "title": "M00shogenrzzaxbr",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 6611,
+    "duration_human": "01:50:11",
+    "sampling_rate": "8kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - M00shogenrzzaxbr"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/m00shogenrzzaxbr_1779654225"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/671cf94eb9e492191bfe/M00shogenrzzaxbr.tar"
+    }
+  }
+}
