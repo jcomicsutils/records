@@ -1,0 +1,34 @@
+{
+  "id": "new-age-satellites_1779589472",
+  "fingerprint": "eed25f685878ed6c990464a97a310411a7901a46e09bd86f6cc7171fa785459c",
+  "archived_at": "2026-05-24T02:25:59Z",
+  "metadata": {
+    "title": "New Age Satellites",
+    "artist": "Trouble Salad",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2979,
+    "duration_human": "00:49:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - En Route to Collide",
+      "02 Trouble Salad - Unscathed Museum",
+      "03 Trouble Salad - Being an Apparatus",
+      "04 Trouble Salad - Please, Remember",
+      "05 Trouble Salad - Thought Manifestation",
+      "06 Trouble Salad - Hired Sanity",
+      "07 Trouble Salad - Strange Beacon",
+      "08 Trouble Salad - On Earth it is Hell"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/new-age-satellites_1779589472"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/d2dcb3169eb9b97aed28/New_Age_Satellites.tar"
+    }
+  }
+}
