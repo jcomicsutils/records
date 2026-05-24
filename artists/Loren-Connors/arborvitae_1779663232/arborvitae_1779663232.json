@@ -1,0 +1,24 @@
+{
+  "id": "arborvitae_1779663232",
+  "fingerprint": "8eef4f8fc96d7543d29b69c935861c047e16799c696f16fbdc6a5a20f100d620",
+  "archived_at": "2026-05-24T22:53:52Z",
+  "metadata": {
+    "title": "Arborvitae",
+    "artist": "Loren Connors",
+    "year": "2003",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2038,
+    "duration_human": "00:33:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Connors & David Grubbs - Blossom Time",
+      "02 Loren Connors & David Grubbs - Arbovitae",
+      "03 Loren Connors & David Grubbs - Ghost of Exquisite",
+      "04 Loren Connors & David Grubbs - Hemlock Path",
+      "05 Loren Connors & David Grubbs - The Highest Point in Brooklyn"
+    ]
+  },
+  "hosts": {}
+}
