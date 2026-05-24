@@ -1,0 +1,34 @@
+{
+  "id": "rigged-election_1779646988",
+  "fingerprint": "32912f4463c83f0d9bfef7c9ea318e2c0428c067e14938e1c52f45ecd6e4467d",
+  "archived_at": "2026-05-24T19:09:10Z",
+  "metadata": {
+    "title": "Rigged Election",
+    "artist": "Trouble Salad",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 3280,
+    "duration_human": "00:54:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Salad Trouble - Man We Fear",
+      "02 Salad Trouble - Rabid",
+      "03 Salad Trouble - Internal Buffet",
+      "04 Salad Trouble - Oswald Rides the Train",
+      "05 Salad Trouble - Freedom Sand",
+      "06 Salad Trouble - Wall Made of Lizards",
+      "07 Salad Trouble - Émigré",
+      "08 Salad Trouble - Build the Machine"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rigged-election_1779646988"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/2f9dd7ca631bcc74f65d/Rigged_Election.tar"
+    }
+  }
+}
