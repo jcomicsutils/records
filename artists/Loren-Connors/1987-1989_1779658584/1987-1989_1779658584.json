@@ -1,7 +1,7 @@
 {
   "id": "1987-1989_1779658584",
   "fingerprint": "bfab05ddc70cff202796e0ac0d09d015a6fe95f2d4fe1f52cf886340cde6be53",
-  "archived_at": "2026-05-24T21:36:24Z",
+  "archived_at": "2026-05-24T21:54:57Z",
   "metadata": {
     "title": "1987-1989",
     "artist": "Loren Connors",
@@ -22,5 +22,12 @@
       "07 Suzanne Langille & Loren Mazzacane Connors - Amazing Grace"
     ]
   },
-  "hosts": {}
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1987-1989_1779658584"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/818b0d64255c02e5767c/1987-1989.tar"
+    }
+  }
 }
