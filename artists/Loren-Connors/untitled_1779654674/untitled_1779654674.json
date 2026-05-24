@@ -17,5 +17,12 @@
       "02 Tom Carter & Loren Connors - [untitled]"
     ]
   },
-  "hosts": {}
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/untitled_1779654674"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/facb6c52ecfc51bc3b1d/untitled.tar"
+    }
+  }
 }
