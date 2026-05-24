@@ -1,0 +1,28 @@
+{
+  "id": "the-bones-of-the-holy-reptile_1779656433",
+  "fingerprint": "3f2d2526283ff0a9504498be5c2878a9061de42fce87c0145a438c5f27f55fc2",
+  "archived_at": "2026-05-24T21:08:57Z",
+  "metadata": {
+    "title": "The Bones of the Holy Reptile",
+    "artist": "Trouble Salad",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 845,
+    "duration_human": "00:14:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - The Bones of the Holy Reptile",
+      "02 Trouble Salad - The Bones of the Holy Reptile"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-bones-of-the-holy-reptile_1779656433"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/2700fd1bee496e00e9ed/The_Bones_of_the_Holy_Reptile.tar"
+    }
+  }
+}
