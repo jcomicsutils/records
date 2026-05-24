@@ -1,0 +1,32 @@
+{
+  "id": "whatever-was-better-forgotten_1779650261",
+  "fingerprint": "4d5356ac4271887b843bae95efdc6e93a0f1d3a1126a71e7eaa616ac406bd8ed",
+  "archived_at": "2026-05-24T19:50:00Z",
+  "metadata": {
+    "title": "Whatever Was; Better Forgotten",
+    "artist": "And We Walk Endlessly Towards The Sun",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3584,
+    "duration_human": "00:59:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 And We Walk Endlessly Towards The Sun - To The Sky, To The Sun, To The Nothing",
+      "02 And We Walk Endlessly Towards The Sun - ...Ruin",
+      "03 And We Walk Endlessly Towards The Sun - Everything Hurts",
+      "04 And We Walk Endlessly Towards The Sun - Pain Is Infinite",
+      "05 And We Walk Endlessly Towards The Sun - Whatever Was; Better Forgotten",
+      "06 And We Walk Endlessly Towards The Sun - Through Stillness And Silence"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/whatever-was-better-forgotten_1779650261"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/7772248db8667ce10edb/Whatever_Was_Better_Forgotten.tar"
+    }
+  }
+}
