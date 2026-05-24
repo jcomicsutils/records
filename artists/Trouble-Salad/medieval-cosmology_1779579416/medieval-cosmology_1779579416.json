@@ -1,0 +1,34 @@
+{
+  "id": "medieval-cosmology_1779579416",
+  "fingerprint": "356240ff139b8b1c1f0189089d2d9a11a5297cb2d172c9b0f0552817a250889e",
+  "archived_at": "2026-05-24T00:36:19Z",
+  "metadata": {
+    "title": "Medieval Cosmology",
+    "artist": "Trouble Salad",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 3111,
+    "duration_human": "00:51:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - Arab Water Clock",
+      "02 Trouble Salad - Plutonian Bridges",
+      "03 Trouble Salad - Cancer the Crab",
+      "04 Trouble Salad - The Observation of Saturn",
+      "05 Trouble Salad - Tycho Brahe and His Celestial Globe",
+      "06 Trouble Salad - The Magnetosphere of Jupiter",
+      "07 Trouble Salad - The Slower Rhythms of Man",
+      "08 Trouble Salad - Chariot of the Moon"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/medieval-cosmology_1779579416"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/9fe7e9f4ebf1ba248169/Medieval_Cosmology.tar"
+    }
+  }
+}
