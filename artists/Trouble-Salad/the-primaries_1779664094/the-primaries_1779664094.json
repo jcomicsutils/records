@@ -1,0 +1,27 @@
+{
+  "id": "the-primaries_1779664094",
+  "fingerprint": "7c3e136bfa39fe9a1c65b03d2c817725af06036084ccc0e6107d4fd085e7e796",
+  "archived_at": "2026-05-24T23:22:04Z",
+  "metadata": {
+    "title": "The Primaries",
+    "artist": "Trouble Salad",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1186,
+    "duration_human": "00:19:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Salad Trouble - Fuck the Right/Fuck the Left"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-primaries_1779664094"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/1236c804cd3a6eeb9f0a/The_Primaries.tar"
+    }
+  }
+}
