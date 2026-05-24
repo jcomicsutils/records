@@ -1,0 +1,35 @@
+{
+  "id": "artemisia_1779665821",
+  "fingerprint": "55eb1939993a827a719dbc00cd761c23b38d1b89c413df448042e6c2b06060b4",
+  "archived_at": "2026-05-24T23:43:10Z",
+  "metadata": {
+    "title": "Artemisia",
+    "artist": "Loren Connors",
+    "year": "2024",
+    "codec": "MP3",
+    "num_tracks": 9,
+    "duration_seconds": 3770,
+    "duration_human": "01:02:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Loren Connors & Chris Cochrane - Toxicodendron Vernix",
+      "02 Loren Connors & Chris Cochrane - Polygonum Cuspidatum",
+      "03 Loren Connors & Chris Cochrane - Digitaria",
+      "04 Loren Connors & Chris Cochrane - Leontodon Taraxacum",
+      "05 Loren Connors & Chris Cochrane - Plantago Major",
+      "06 Loren Connors & Chris Cochrane - Ambrosia Artemisiifolia",
+      "07 Loren Connors & Chris Cochrane - Convolvulus Arvensis",
+      "08 Loren Connors & Chris Cochrane - Glechoma Hederacea",
+      "09 Loren Connors & Chris Cochrane - Amaranthus Fetroflexus"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/artemisia_1779665821"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/0489ee2b193d9b030bc4/Artemisia.tar"
+    }
+  }
+}
