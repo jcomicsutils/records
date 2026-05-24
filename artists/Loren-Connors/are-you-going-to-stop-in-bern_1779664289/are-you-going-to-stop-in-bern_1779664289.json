@@ -1,7 +1,7 @@
 {
   "id": "are-you-going-to-stop-in-bern_1779664289",
   "fingerprint": "d35f2295d4423ea24304f3e6c2128016261ba2339d74f61b64764e783b0ab9ee",
-  "archived_at": "2026-05-24T23:11:29Z",
+  "archived_at": "2026-05-24T23:36:37Z",
   "metadata": {
     "title": "Are You Going to Stop... In Bern?",
     "artist": "Loren Connors",
@@ -19,5 +19,12 @@
       "04 Loren Connors & Jim O'Rourke - You Can Stay if You Want, but I'm Going Home"
     ]
   },
-  "hosts": {}
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/are-you-going-to-stop-in-bern_1779664289"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/5620e637d72bb45dfa6d/Are_You_Going_to_Stop..._In_Bern.tar"
+    }
+  }
 }
