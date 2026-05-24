@@ -1,0 +1,37 @@
+{
+  "id": "9th-avenue_1779655541",
+  "fingerprint": "014423b5184e546a72e06cbfa8a9a606df6acd521165d6fe97ca4aee6006b144",
+  "archived_at": "2026-05-24T20:58:12Z",
+  "metadata": {
+    "title": "9th Avenue",
+    "artist": "Loren Connors",
+    "year": "1995",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 1756,
+    "duration_human": "00:29:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Connors - Thunderbird",
+      "02 Loren Connors - 9th Ave",
+      "03 Loren Connors - Stilled Wind",
+      "04 Loren Connors - Dawn on 47th",
+      "05 Loren Connors - Shadows",
+      "06 Loren Connors - In Cushman's Row",
+      "07 Loren Connors - Cardboard Pillow",
+      "08 Loren Connors - O'Connor's Last Air",
+      "09 Loren Connors - Prayer",
+      "10 Loren Connors - Little Wind",
+      "11 Loren Connors - Siren"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/9th-avenue_1779655541"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/014c452979d7c4e38e40/9th_Avenue.tar"
+    }
+  }
+}
