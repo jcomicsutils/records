@@ -1,0 +1,33 @@
+{
+  "id": "pyramid_1779589987",
+  "fingerprint": "f292ec847b13a1568ec85c132f89e0d1d7aa93e2dc36063329760e3e405a52e1",
+  "archived_at": "2026-05-24T05:13:57Z",
+  "metadata": {
+    "title": "Pyramid",
+    "artist": "Trouble Salad",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 10465,
+    "duration_human": "02:54:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - The Tetrahedron",
+      "02 Trouble Salad - Pyramid: Construction",
+      "03 Trouble Salad - Pyramid: Deconstruction",
+      "04 Trouble Salad - Sphere: Construction",
+      "05 Trouble Salad - Sphere: Deconstruction",
+      "06 Trouble Salad - Prism: Construction",
+      "07 Trouble Salad - Prism: Deconstruction"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pyramid_1779589987"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/422075a467c2a5b9eb65/Pyramid.tar"
+    }
+  }
+}
