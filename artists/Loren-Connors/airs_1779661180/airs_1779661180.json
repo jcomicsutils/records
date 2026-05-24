@@ -1,0 +1,43 @@
+{
+  "id": "airs_1779661180",
+  "fingerprint": "12e75794b004de6e86ef9dcdd6172cae9458ab2a0642afadaa45b24d6c064073",
+  "archived_at": "2026-05-24T22:35:21Z",
+  "metadata": {
+    "title": "Airs",
+    "artist": "Loren Connors",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_seconds": 2115,
+    "duration_human": "00:35:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Connors - Airs 1",
+      "02 Loren Connors - Airs 2",
+      "03 Loren Connors - Airs 3",
+      "04 Loren Connors - Airs 4",
+      "05 Loren Connors - Airs 5",
+      "06 Loren Connors - Airs 6",
+      "07 Loren Connors - Airs 7",
+      "08 Loren Connors - Airs 8",
+      "09 Loren Connors - Airs (The Lost Track)",
+      "10 Loren Connors - Airs 9",
+      "11 Loren Connors - Airs 10",
+      "12 Loren Connors - Airs 11",
+      "13 Loren Connors - Airs 12",
+      "14 Loren Connors - Airs 13",
+      "15 Loren Connors - Airs 17",
+      "16 Loren Connors - Airs 18",
+      "17 Loren Connors - The Death of Shelley"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/airs_1779661180"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/7beea3d0c34e8f280438/Airs.tar"
+    }
+  }
+}
