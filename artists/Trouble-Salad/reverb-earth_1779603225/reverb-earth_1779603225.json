@@ -1,0 +1,33 @@
+{
+  "id": "reverb-earth_1779603225",
+  "fingerprint": "732a4f5edd6de3c20d8f6ef75bd0f61b2b8f2dc4560e15235129b40bf8ab85f9",
+  "archived_at": "2026-05-24T07:38:19Z",
+  "metadata": {
+    "title": "Reverb Earth",
+    "artist": "Trouble Salad",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3595,
+    "duration_human": "00:59:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - Melt the Eyes",
+      "02 Trouble Salad - Watch Out, Form Constants",
+      "03 Trouble Salad - Bodily Fault Lines",
+      "04 Trouble Salad - Desert Man In Black Armor",
+      "05 Trouble Salad - Emperor Sea Striders",
+      "06 Trouble Salad - The Oracle Within the Temple of Great Blades",
+      "07 Trouble Salad - Reverb Earth"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/reverb-earth_1779603225"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/5ac23d4649b74fa13584/Reverb_Earth.tar"
+    }
+  }
+}
