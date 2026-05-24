@@ -1,0 +1,28 @@
+{
+  "id": "minimalconstruction_1779588703",
+  "fingerprint": "662d27fc55bf5fe72eddb8e6b868d2cae9ebaff06f4555845995bbe4ba4865dc",
+  "archived_at": "2026-05-24T02:24:13Z",
+  "metadata": {
+    "title": "minimalconstruction",
+    "artist": "Trouble Salad",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2184,
+    "duration_human": "00:36:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - minimalconstruction 1",
+      "02 Trouble Salad - minimalconstruction 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/minimalconstruction_1779588703"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/8997086c32bda2238683/minimalconstruction.tar"
+    }
+  }
+}
