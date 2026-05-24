@@ -1,0 +1,32 @@
+{
+  "id": "superluminal-motion_1779650934",
+  "fingerprint": "91d850b86ad23345c45a4d27145264790054e235ff67370a4f95127ce9504162",
+  "archived_at": "2026-05-24T19:58:09Z",
+  "metadata": {
+    "title": "Superluminal Motion",
+    "artist": "Trouble Salad",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3104,
+    "duration_human": "00:51:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - There! Off In the Distance!",
+      "02 Trouble Salad - Void Man",
+      "03 Trouble Salad - Representative of the Lantern People",
+      "04 Trouble Salad - The Search For Life Continues",
+      "05 Trouble Salad - The Slow Olds",
+      "06 Trouble Salad - Radio Galaxy (My Word... It's Inhabitable...)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/superluminal-motion_1779650934"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/a51630ab5174e9f948cb/Superluminal_Motion.tar"
+    }
+  }
+}
