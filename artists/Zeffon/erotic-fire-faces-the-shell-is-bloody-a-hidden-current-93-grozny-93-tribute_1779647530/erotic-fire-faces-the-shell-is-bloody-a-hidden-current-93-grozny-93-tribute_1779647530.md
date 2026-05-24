@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/erotic-fire-faces-the-shell-is-bloody-a-hidden-current-93-grozny-93-tribute_1779647530)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/bbd9d6d1ab18334986a4/Erotic_Fire_Faces_the_Shell_Is_Bloody_A_Hidden_Current_93_Gr.tar)
 
 ## Tracklist
 
