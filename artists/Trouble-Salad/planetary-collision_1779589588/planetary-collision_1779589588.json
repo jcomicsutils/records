@@ -1,0 +1,31 @@
+{
+  "id": "planetary-collision_1779589588",
+  "fingerprint": "15d9397fcb4e75b9e6241280e86c2cd4eb6e2422cb840973ef220300ed14dfe7",
+  "archived_at": "2026-05-24T02:32:27Z",
+  "metadata": {
+    "title": "Planetary Collision",
+    "artist": "Trouble Salad",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3195,
+    "duration_human": "00:53:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - Flojigliashku",
+      "02 Trouble Salad - ...And So He Swallowed the Mountains",
+      "03 Trouble Salad - Why Live?",
+      "04 Trouble Salad - Planetary Collision",
+      "05 Trouble Salad - Sunday/Monday"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/planetary-collision_1779589588"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/854fcb3f5390c7619fe5/Planetary_Collision.tar"
+    }
+  }
+}
