@@ -1,0 +1,27 @@
+{
+  "id": "light_1779745196",
+  "fingerprint": "7cf6c339bf7c0f35a2c0453aaedc7186916866242dada915e018d5467c4bacc0",
+  "archived_at": "2026-05-25T21:42:48Z",
+  "metadata": {
+    "title": "Light",
+    "artist": "Loren Connors",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 896,
+    "duration_human": "00:14:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Connors - Light"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/light_1779745196"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/0a64847dd921a966e09a/Light.tar"
+    }
+  }
+}
