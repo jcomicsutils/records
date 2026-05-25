@@ -1,0 +1,28 @@
+{
+  "id": "christmas-day_1779676442",
+  "fingerprint": "7b3db8d1a7f9cd267c7c3505c4686a2b939eb3bd6182cf9793c0b136150ed289",
+  "archived_at": "2026-05-25T02:34:48Z",
+  "metadata": {
+    "title": "Christmas Day",
+    "artist": "Loren Connors",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 196,
+    "duration_human": "00:03:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Connors - Christmas Day (7\" Version)",
+      "02 Loren Connors - Christmas Day (Original VHS Transfer)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/christmas-day_1779676442"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/1c8282788508bd463f8f/Christmas_Day.tar"
+    }
+  }
+}
