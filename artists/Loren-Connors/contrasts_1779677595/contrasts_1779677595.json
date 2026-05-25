@@ -1,0 +1,28 @@
+{
+  "id": "contrasts_1779677595",
+  "fingerprint": "56ae4bcb86434b003114e27004c71e9a0d6d8bdbb9efd14df637440c36224160",
+  "archived_at": "2026-05-25T03:02:11Z",
+  "metadata": {
+    "title": "Contrasts",
+    "artist": "Loren Connors",
+    "year": "2013",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 3342,
+    "duration_human": "00:55:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Loren Connors - [untitled]",
+      "02 Chris Forsyth - Downs and Ups"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/contrasts_1779677595"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/e2f9e7e954b00eb2df02/Contrasts.tar"
+    }
+  }
+}
