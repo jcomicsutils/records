@@ -1,7 +1,7 @@
 {
   "id": "live-at-issue-project-room_1779745380",
   "fingerprint": "ac14d995e277fde9741b7f7673da65c0458a1b869a1f39f6d5f27919e03d2bf5",
-  "archived_at": "2026-05-25T21:43:00Z",
+  "archived_at": "2026-05-25T22:19:32Z",
   "metadata": {
     "title": "Live at Issue Project Room",
     "artist": "Loren Connors",
@@ -16,5 +16,12 @@
       "01 Loren Connors & Alessandra Novaga - Live at Issue Project Room"
     ]
   },
-  "hosts": {}
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-at-issue-project-room_1779745380"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/1ff3ce8e399d12108d4a/Live_at_Issue_Project_Room.tar"
+    }
+  }
 }
