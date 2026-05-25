@@ -1,7 +1,7 @@
 {
   "id": "crucible_1779678150",
   "fingerprint": "98fa5c88214b9ce9b1dfcb21d718c28e2a3756f7e4bfb02d1274f9ee6e428e58",
-  "archived_at": "2026-05-25T03:02:30Z",
+  "archived_at": "2026-05-25T03:09:56Z",
   "metadata": {
     "title": "Crucible",
     "artist": "Loren Connors",
@@ -29,5 +29,12 @@
       "14 Loren Mazzacane Connors & Suzanne Langille - Here in the Night"
     ]
   },
-  "hosts": {}
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/crucible_1779678150"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/9ee0b74d8dd183041d1f/Crucible.tar"
+    }
+  }
 }
