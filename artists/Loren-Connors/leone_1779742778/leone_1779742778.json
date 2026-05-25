@@ -1,7 +1,7 @@
 {
   "id": "leone_1779742778",
   "fingerprint": "996653bcb15eb4c0990af16be32494e87ad5b7ae1598b251758cf942a10abe51",
-  "archived_at": "2026-05-25T20:59:38Z",
+  "archived_at": "2026-05-25T21:31:06Z",
   "metadata": {
     "title": "Leone",
     "artist": "Loren Connors",
@@ -18,5 +18,12 @@
       "03 Loren Connors & Oren Ambarchi - Nor"
     ]
   },
-  "hosts": {}
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leone_1779742778"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/5aa4626c61499385993b/Leone.tar"
+    }
+  }
 }
