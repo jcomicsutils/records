@@ -1,0 +1,27 @@
+{
+  "id": "fields_1779682018",
+  "fingerprint": "b10cd60106de51faa29527f6cb24058e07cd53492f7ce57a1196005f1ee3a50c",
+  "archived_at": "2026-05-25T04:16:16Z",
+  "metadata": {
+    "title": "Fields",
+    "artist": "Loren Connors",
+    "year": "1978",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 2384,
+    "duration_human": "00:39:44",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Kath Bloom & Loren MazzaCane Connors - Fields"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fields_1779682018"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/6aa2db0ae8b1e5704595/Fields.tar"
+    }
+  }
+}

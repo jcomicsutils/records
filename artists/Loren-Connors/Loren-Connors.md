@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Fields](fields_1779682018/fields_1779682018.md) | 1978 | MP3 | 00:39:44 | [IA](https://archive.org/details/fields_1779682018) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/6aa2db0ae8b1e5704595/Fields.tar) |
 | [Bluesmaster 2](bluesmaster-2_1779675066/bluesmaster-2_1779675066.md) | 1988 | MP3 | 00:29:59 | [IA](https://archive.org/details/bluesmaster-2_1779675066) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/4a9a516aebb8aa2633dd/Bluesmaster_2.tar) |
 | [Come Night](come-night_1779676498/come-night_1779676498.md) | 1991 | FLAC | 00:46:37 | [IA](https://archive.org/details/come-night_1779676498) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/79adcb857516d831661b/Come_Night.tar) |
 | [9th Avenue](9th-avenue_1779655541/9th-avenue_1779655541.md) | 1995 | FLAC | 00:29:16 | [IA](https://archive.org/details/9th-avenue_1779655541) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/014c452979d7c4e38e40/9th_Avenue.tar) |
