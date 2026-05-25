@@ -24,5 +24,12 @@
       "09 Trouble Salad - Trouble Salad"
     ]
   },
-  "hosts": {}
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/trouble-salad_1779739710"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/9964d799d7cf6303191e/Trouble_Salad.tar"
+    }
+  }
 }

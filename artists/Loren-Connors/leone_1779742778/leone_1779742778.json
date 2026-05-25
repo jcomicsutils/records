@@ -1,0 +1,22 @@
+{
+  "id": "leone_1779742778",
+  "fingerprint": "996653bcb15eb4c0990af16be32494e87ad5b7ae1598b251758cf942a10abe51",
+  "archived_at": "2026-05-25T20:59:38Z",
+  "metadata": {
+    "title": "Leone",
+    "artist": "Loren Connors",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2817,
+    "duration_human": "00:46:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Loren Connors & Oren Ambarchi - Lorn",
+      "02 Loren Connors & Oren Ambarchi - Ronnel",
+      "03 Loren Connors & Oren Ambarchi - Nor"
+    ]
+  },
+  "hosts": {}
+}
