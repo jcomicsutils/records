@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/saxis-informibus-helicem-continentis-superbiam-pertinet-mantis-the-big-stick-vi_1779660237)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/0b4ea8528902b1a1633e/Saxis_Informibus_Helicem_Continentis_Superbiam_Pertinet_Mantis.tar)
 
 ## Tracklist
 
