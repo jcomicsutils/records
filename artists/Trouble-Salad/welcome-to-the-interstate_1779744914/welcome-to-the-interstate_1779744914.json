@@ -1,0 +1,21 @@
+{
+  "id": "welcome-to-the-interstate_1779744914",
+  "fingerprint": "8779e7b438a3af23ffedd4e7c1c3140571e10a7f9efc0457dba45bc87b18e108",
+  "archived_at": "2026-05-25T21:35:14Z",
+  "metadata": {
+    "title": "Welcome to the Interstate",
+    "artist": "Trouble Salad",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4605,
+    "duration_human": "01:16:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - And As the sun Draws Ever Near, I Am On My Knees Asking for A Savior",
+      "02 Trouble Salad - Welcome To the Interstate"
+    ]
+  },
+  "hosts": {}
+}

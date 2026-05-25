@@ -1,7 +1,7 @@
 {
   "id": "let-the-darkness-fall_1779744705",
   "fingerprint": "74b9edb841c88cfe89bf9a1a102ec58ba4cf44a4691137a4056112eac9c8ee34",
-  "archived_at": "2026-05-25T21:31:45Z",
+  "archived_at": "2026-05-25T21:39:35Z",
   "metadata": {
     "title": "Let the Darkness Fall",
     "artist": "Loren Connors",
@@ -22,5 +22,12 @@
       "07 Suzanne Langille, Loren Connors & David Daniell - Let the Darkness Fall"
     ]
   },
-  "hosts": {}
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/let-the-darkness-fall_1779744705"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/952f89d475210d71f928/Let_the_Darkness_Fall.tar"
+    }
+  }
 }
