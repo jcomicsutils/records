@@ -1,0 +1,28 @@
+{
+  "id": "domain-of-the-wind_1779678610",
+  "fingerprint": "f423800eda6fd980a95f09eb31c01471176a54edef5a22d7d60a5dd49a4e299e",
+  "archived_at": "2026-05-25T03:12:56Z",
+  "metadata": {
+    "title": "Domain of the Wind",
+    "artist": "Loren Connors",
+    "year": "2021",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1312,
+    "duration_human": "00:21:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Loren Connors - Domain of the Wind, Part 1",
+      "02 Loren Connors - Domain of the Wind, Part 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/domain-of-the-wind_1779678610"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/3dd0db5db364e006a327/Domain_of_the_Wind.tar"
+    }
+  }
+}
