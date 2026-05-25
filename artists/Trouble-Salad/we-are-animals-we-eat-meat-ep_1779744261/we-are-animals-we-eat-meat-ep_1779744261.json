@@ -1,7 +1,7 @@
 {
   "id": "we-are-animals-we-eat-meat-ep_1779744261",
   "fingerprint": "fb4baf5ce8a94865b5841859af2c35585d2877d7a528667782636e1b3414dbf1",
-  "archived_at": "2026-05-25T21:24:21Z",
+  "archived_at": "2026-05-25T21:34:48Z",
   "metadata": {
     "title": "We Are Animals, We Eat Meat EP",
     "artist": "Trouble Salad",
@@ -27,5 +27,12 @@
       "12 Trouble Salad - Trouble Salad Immolates the Masses"
     ]
   },
-  "hosts": {}
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/we-are-animals-we-eat-meat-ep_1779744261"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/2ef83bdb72822670e04a/We_Are_Animals_We_Eat_Meat_EP.tar"
+    }
+  }
 }
