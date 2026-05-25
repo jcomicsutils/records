@@ -1,7 +1,7 @@
 {
   "id": "at-the-top-of-the-stairs_1779670954",
   "fingerprint": "d61c027acf8669729a54c58135bed4b61b9707eb5d759e839c2568fbb9f97dbb",
-  "archived_at": "2026-05-25T01:02:34Z",
+  "archived_at": "2026-05-25T01:46:16Z",
   "metadata": {
     "title": "At the Top of the Stairs",
     "artist": "Loren Connors",
@@ -17,5 +17,12 @@
       "02 Loren Connors & Alan Licht - Part Two"
     ]
   },
-  "hosts": {}
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/at-the-top-of-the-stairs_1779670954"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/619844c4f3f156e72256/At_the_Top_of_the_Stairs.tar"
+    }
+  }
 }
