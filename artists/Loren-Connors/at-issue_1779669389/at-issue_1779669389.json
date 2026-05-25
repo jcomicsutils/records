@@ -1,7 +1,7 @@
 {
   "id": "at-issue_1779669389",
   "fingerprint": "8618edaf3ff4105301f960382934376523465af887bab484347fbc3a82c85fa8",
-  "archived_at": "2026-05-25T00:36:29Z",
+  "archived_at": "2026-05-25T01:01:27Z",
   "metadata": {
     "title": "At Issue",
     "artist": "Loren Connors",
@@ -23,5 +23,12 @@
       "08 Kim Gordon & Loren Connors - Movement 8"
     ]
   },
-  "hosts": {}
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/at-issue_1779669389"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/ea3b1b63479784e72d5b/At_Issue.tar"
+    }
+  }
 }
