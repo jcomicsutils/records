@@ -1,0 +1,31 @@
+{
+  "id": "long-nights_1779750016",
+  "fingerprint": "b8a38c5630999a250f811c061e4a47e57f01d8fbad8511fc268026e9b79fe008",
+  "archived_at": "2026-05-25T23:34:59Z",
+  "metadata": {
+    "title": "Long Nights",
+    "artist": "Loren Connors",
+    "year": "1995",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2562,
+    "duration_human": "00:42:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Mazzacane Connors - Long Nights I",
+      "02 Loren Mazzacane Connors - Long Nights II",
+      "03 Loren Mazzacane Connors - Long Nights III / Long Nights IV",
+      "04 Loren Mazzacane Connors - Long Nights V",
+      "05 Loren Mazzacane Connors - Long Nights VI"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/long-nights_1779750016"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/174d908f36a0376daccb/Long_Nights.tar"
+    }
+  }
+}
