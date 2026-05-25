@@ -1,0 +1,28 @@
+{
+  "id": "into-the-night-sky_1779742297",
+  "fingerprint": "5d66ed8358f1d7da61cbcdee0d840508b06e0a73b6f6e202b45d7408dd580202",
+  "archived_at": "2026-05-25T20:59:23Z",
+  "metadata": {
+    "title": "Into the Night Sky",
+    "artist": "Loren Connors",
+    "year": "2010",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 2906,
+    "duration_human": "00:48:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Alan Licht & Loren Connors - Map of Dusk",
+      "02 Alan Licht & Loren Connors - Into the Night Sky"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/into-the-night-sky_1779742297"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/0e37cfe24c5956304837/Into_the_Night_Sky.tar"
+    }
+  }
+}
