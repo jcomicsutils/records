@@ -1,0 +1,32 @@
+{
+  "id": "to-the-shimmering-grove_1779679869",
+  "fingerprint": "8b063a1ab9fca03aed4f0826ed9096148d9752ff9b6c491f99de2cddd766684b",
+  "archived_at": "2026-05-25T03:52:23Z",
+  "metadata": {
+    "title": "To the Shimmering Grove",
+    "artist": "Trouble Salad",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2182,
+    "duration_human": "00:36:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - Dread Hatchery",
+      "02 Idle Grounds - Shiverland",
+      "03 Idle Grounds - Colliding Ellipticals",
+      "04 Idle Grounds - Wading Through Oblivion",
+      "05 Idle Grounds - Emblazoner",
+      "06 Trouble Salad - Subaqueous"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/to-the-shimmering-grove_1779679869"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/007d863d7bdf9633ed4d/To_the_Shimmering_Grove.tar"
+    }
+  }
+}
