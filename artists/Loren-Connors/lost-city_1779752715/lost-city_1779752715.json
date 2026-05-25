@@ -1,0 +1,28 @@
+{
+  "id": "lost-city_1779752715",
+  "fingerprint": "ef2b041804a36107707ce673b307bc0f8d410455ad48295f5416a7b9ec44fa6b",
+  "archived_at": "2026-05-25T23:53:42Z",
+  "metadata": {
+    "title": "Lost City",
+    "artist": "Loren Connors",
+    "year": "2015",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 2506,
+    "duration_human": "00:41:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Aki Onda With Loren Mazzacane Connors & Alan Licht - Lost City #1",
+      "02 Aki Onda With Loren Mazzacane Connors & Alan Licht - Lost City #2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lost-city_1779752715"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/df5e2eb77847ec130bd4/Lost_City.tar"
+    }
+  }
+}
