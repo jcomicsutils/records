@@ -1,7 +1,7 @@
 {
   "id": "come-night_1779676498",
   "fingerprint": "0119752e067cc6252f92cfce99b7e514202da0e733a3b686e979f71619cb5301",
-  "archived_at": "2026-05-25T02:34:58Z",
+  "archived_at": "2026-05-25T02:52:51Z",
   "metadata": {
     "title": "Come Night",
     "artist": "Loren Connors",
@@ -31,5 +31,12 @@
       "16 Loren MazzaCane & Suzanne Langille - Too Late"
     ]
   },
-  "hosts": {}
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/come-night_1779676498"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/79adcb857516d831661b/Come_Night.tar"
+    }
+  }
 }

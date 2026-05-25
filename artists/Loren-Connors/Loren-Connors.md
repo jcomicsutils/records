@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Bluesmaster 2](bluesmaster-2_1779675066/bluesmaster-2_1779675066.md) | 1988 | MP3 | 00:29:59 | [IA](https://archive.org/details/bluesmaster-2_1779675066) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/4a9a516aebb8aa2633dd/Bluesmaster_2.tar) |
+| [Come Night](come-night_1779676498/come-night_1779676498.md) | 1991 | FLAC | 00:46:37 | [IA](https://archive.org/details/come-night_1779676498) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/79adcb857516d831661b/Come_Night.tar) |
 | [9th Avenue](9th-avenue_1779655541/9th-avenue_1779655541.md) | 1995 | FLAC | 00:29:16 | [IA](https://archive.org/details/9th-avenue_1779655541) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/014c452979d7c4e38e40/9th_Avenue.tar) |
 | [Calloden Harvest](calloden-harvest_1779675282/calloden-harvest_1779675282.md) | 1997 | FLAC | 00:53:40 | [IA](https://archive.org/details/calloden-harvest_1779675282) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/d78ff22b6c0a803085bc/Calloden_Harvest.tar) |
 | [A Possible Dawn](a-possible-dawn_1779659722/a-possible-dawn_1779659722.md) | 1998 | FLAC | 01:01:31 | [IA](https://archive.org/details/a-possible-dawn_1779659722) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/0b54b0ea43f18b29613b/A_Possible_Dawn.tar) |
