@@ -1,0 +1,31 @@
+{
+  "id": "the-sleep-machine_1779667848",
+  "fingerprint": "e8dfb88cb31c1fdab4d713f1d4f4da888b20920ff78e82615721a64063919eae",
+  "archived_at": "2026-05-25T00:55:41Z",
+  "metadata": {
+    "title": "The Sleep Machine",
+    "artist": "Trouble Salad",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 5830,
+    "duration_human": "01:37:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - Rapid Eye Movement",
+      "02 Trouble Salad - Hypnagogia Part I: Welcome Home",
+      "03 Trouble Salad - Hypnagogia Part II: A Storm Behind Your Eyelids",
+      "04 Trouble Salad - Your Dream",
+      "05 Trouble Salad - Hypnopomp: Come Back Soon"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-sleep-machine_1779667848"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/517dd46973abf2a2d026/The_Sleep_Machine.tar"
+    }
+  }
+}
