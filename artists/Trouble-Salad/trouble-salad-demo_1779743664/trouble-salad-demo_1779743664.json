@@ -1,0 +1,27 @@
+{
+  "id": "trouble-salad-demo_1779743664",
+  "fingerprint": "ba0cce6b34d5cf09c8353948d2441df8bb36ed72ae1173a6eb27f112f930fcb2",
+  "archived_at": "2026-05-25T21:24:04Z",
+  "metadata": {
+    "title": "Trouble Salad Demo",
+    "artist": "Trouble Salad",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1281,
+    "duration_human": "00:21:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - The Rise of Salad"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/trouble-salad-demo_1779743664"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/6668142f3c47698ac706/Trouble_Salad_Demo.tar"
+    }
+  }
+}

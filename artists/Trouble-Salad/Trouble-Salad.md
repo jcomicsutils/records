@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Trouble Salad Demo](trouble-salad-demo_1779743664/trouble-salad-demo_1779743664.md) | 2014 | FLAC | 00:21:21 | [IA](https://archive.org/details/trouble-salad-demo_1779743664) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/6668142f3c47698ac706/Trouble_Salad_Demo.tar) |
 | [Rough Stuff](rough-stuff_1779649789/rough-stuff_1779649789.md) | 2014 | FLAC | 00:23:38 | [IA](https://archive.org/details/rough-stuff_1779649789) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/e62781867a1828e53f73/Rough_Stuff.tar) |
 | [Superluminal Motion](superluminal-motion_1779650934/superluminal-motion_1779650934.md) | 2015 | FLAC | 00:51:44 | [IA](https://archive.org/details/superluminal-motion_1779650934) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/a51630ab5174e9f948cb/Superluminal_Motion.tar) |
 | [Early Salad](early-salad_1779550044/early-salad_1779550044.md) | 2015 | FLAC | 00:58:54 | [IA](https://archive.org/details/early-salad_1779550044) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/df9849de5870af69bd25/Early_Salad.tar) |
