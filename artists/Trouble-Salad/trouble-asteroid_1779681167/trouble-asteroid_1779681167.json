@@ -1,0 +1,32 @@
+{
+  "id": "trouble-asteroid_1779681167",
+  "fingerprint": "79089563708e47200d66f1f87b6cfd8c1d8ea8043bb82499dc1bf1edafb93aca",
+  "archived_at": "2026-05-25T04:22:50Z",
+  "metadata": {
+    "title": "Trouble Asteroid",
+    "artist": "Trouble Salad",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2797,
+    "duration_human": "00:46:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - Half",
+      "02 Trouble Salad - Down",
+      "03 Trouble Salad - Black",
+      "04 Trouble Salad - Ounce",
+      "05 Trouble Salad - A Steroid",
+      "06 Trouble Salad - K-Mix"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/trouble-asteroid_1779681167"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/fe53fc9b2bcee4dd9588/Trouble_Asteroid.tar"
+    }
+  }
+}
