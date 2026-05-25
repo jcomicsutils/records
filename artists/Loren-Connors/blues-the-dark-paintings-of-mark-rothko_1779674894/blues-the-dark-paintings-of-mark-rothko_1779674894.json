@@ -1,0 +1,33 @@
+{
+  "id": "blues-the-dark-paintings-of-mark-rothko_1779674894",
+  "fingerprint": "4bcaea13e3360eab7f90ed98d4752c8bfa24adea5b00bdf72a41336950f27b1b",
+  "archived_at": "2026-05-25T02:10:56Z",
+  "metadata": {
+    "title": "Blues: The 'Dark Paintings' of Mark Rothko",
+    "artist": "Loren Connors",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1693,
+    "duration_human": "00:28:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Connors - Blues No. 1",
+      "02 Loren Connors - Blues No. 2",
+      "03 Loren Connors - Blues No. 3",
+      "04 Loren Connors - Blues No. 4",
+      "05 Loren Connors - Blues No. 5",
+      "06 Loren Connors - Blues No. 6",
+      "07 Loren Connors - Blues No. 7"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/blues-the-dark-paintings-of-mark-rothko_1779674894"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/807928a07d447402e131/Blues_The_Dark_Paintings_of_Mark_Rothko.tar"
+    }
+  }
+}
