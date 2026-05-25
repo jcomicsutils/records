@@ -1,0 +1,28 @@
+{
+  "id": "live-in-nyc_1779749616",
+  "fingerprint": "8bfce40947817d817b5ffbbc532e578c11473a97f7f869d69b09cf9b2ecf600d",
+  "archived_at": "2026-05-25T23:00:02Z",
+  "metadata": {
+    "title": "Live in NYC",
+    "artist": "Loren Connors",
+    "year": "1996",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 2135,
+    "duration_human": "00:35:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Loren MazzaCane Connors & Alan Licht - [untitled]",
+      "02 Loren MazzaCane Connors & Alan Licht - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-in-nyc_1779749616"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/6dabf1bf1e8cffb48146/Live_in_NYC.tar"
+    }
+  }
+}
