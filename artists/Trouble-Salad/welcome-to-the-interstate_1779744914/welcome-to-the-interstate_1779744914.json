@@ -1,7 +1,7 @@
 {
   "id": "welcome-to-the-interstate_1779744914",
   "fingerprint": "8779e7b438a3af23ffedd4e7c1c3140571e10a7f9efc0457dba45bc87b18e108",
-  "archived_at": "2026-05-25T21:35:14Z",
+  "archived_at": "2026-05-25T21:43:23Z",
   "metadata": {
     "title": "Welcome to the Interstate",
     "artist": "Trouble Salad",
@@ -17,5 +17,12 @@
       "02 Trouble Salad - Welcome To the Interstate"
     ]
   },
-  "hosts": {}
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/welcome-to-the-interstate_1779744914"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/e98b7187b32ff25e4616/Welcome_to_the_Interstate.tar"
+    }
+  }
 }
