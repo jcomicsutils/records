@@ -1,0 +1,28 @@
+{
+  "id": "beautiful-dreamer_1779673608",
+  "fingerprint": "35b49618c35ffad0b4d8d91e7910e79d2e33a8822463e5a55e048ec2fed8e68f",
+  "archived_at": "2026-05-25T02:07:48Z",
+  "metadata": {
+    "title": "Beautiful Dreamer",
+    "artist": "Loren Connors",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1428,
+    "duration_human": "00:23:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Loren Connors - Beautiful Dreamer, Part 1",
+      "02 Loren Connors - Beautiful Dreamer, Part 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/beautiful-dreamer_1779673608"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/84d32d47674d7e5ac2f6/Beautiful_Dreamer.tar"
+    }
+  }
+}
