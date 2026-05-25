@@ -1,0 +1,28 @@
+{
+  "id": "in-twilight_1779742056",
+  "fingerprint": "baae0b7a3a49766f0d804a399c7a8e0217fde364fdc28cc7218342b1f9d28c89",
+  "archived_at": "2026-05-25T20:51:27Z",
+  "metadata": {
+    "title": "In Twilight",
+    "artist": "Loren Connors",
+    "year": "1998",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 2933,
+    "duration_human": "00:48:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Loren MazzaCane Connors - In Twilight Part One",
+      "02 Loren MazzaCane Connors - In Twilight Part Two"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/in-twilight_1779742056"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/07b59965f7848ed535db/In_Twilight.tar"
+    }
+  }
+}
