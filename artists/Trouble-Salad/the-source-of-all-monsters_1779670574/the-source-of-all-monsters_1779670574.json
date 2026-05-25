@@ -1,0 +1,32 @@
+{
+  "id": "the-source-of-all-monsters_1779670574",
+  "fingerprint": "6435b1d442bee511e7c2c19044b6706b69e67eace49c206066228221a9fe998b",
+  "archived_at": "2026-05-25T01:40:55Z",
+  "metadata": {
+    "title": "The Source Of All Monsters",
+    "artist": "Trouble Salad",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3796,
+    "duration_human": "01:03:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - The Source Of All Monsters",
+      "02 Trouble Salad - King Of the Demons Of the Wind",
+      "03 Trouble Salad - More Salad",
+      "04 Trouble Salad - Entombed",
+      "05 Trouble Salad - Burst Therapy",
+      "06 Trouble Salad - Isolated"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-source-of-all-monsters_1779670574"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/1a17b07190844b7165a5/The_Source_Of_All_Monsters.tar"
+    }
+  }
+}
