@@ -1,7 +1,7 @@
 {
   "id": "hoffman-estates_1779740060",
   "fingerprint": "5b5e31428f6b96747821186c9e548d32211ab49ed9e6685e071c5bdd67e53568",
-  "archived_at": "2026-05-25T20:14:20Z",
+  "archived_at": "2026-05-25T20:30:40Z",
   "metadata": {
     "title": "Hoffman Estates",
     "artist": "Loren Connors",
@@ -22,5 +22,12 @@
       "07 Loren Mazzacane Connors & Alan Licht - And Everyone 'Neath Their Vine and Fig Tree Shall Live in Peace and Unafraid"
     ]
   },
-  "hosts": {}
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hoffman-estates_1779740060"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/5a26101ab9fd38ae11b0/Hoffman_Estates.tar"
+    }
+  }
 }
