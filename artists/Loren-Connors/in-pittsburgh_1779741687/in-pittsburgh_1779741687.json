@@ -1,0 +1,34 @@
+{
+  "id": "in-pittsburgh_1779741687",
+  "fingerprint": "22458548f6fad50a9e8488fbc7039b47c3a0ab8783d6fbff7aceecfadb01ef4f",
+  "archived_at": "2026-05-25T20:47:19Z",
+  "metadata": {
+    "title": "In Pittsburgh",
+    "artist": "Loren Connors",
+    "year": "1996",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1667,
+    "duration_human": "00:27:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Mazzacane Connors - Trouble in Mind",
+      "02 Loren Mazzacane Connors - Prelude 1",
+      "03 Loren Mazzacane Connors - Trouble in Mind 2",
+      "04 Loren Mazzacane Connors - Prelude 2",
+      "05 Loren Mazzacane Connors - Night Train",
+      "06 Loren Mazzacane Connors - Child's Blues",
+      "07 Loren Mazzacane Connors - Fallen Son",
+      "08 Loren Mazzacane Connors - Blue Ghost Blues"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/in-pittsburgh_1779741687"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/d39a92ef525653623d41/In_Pittsburgh.tar"
+    }
+  }
+}
