@@ -1,0 +1,35 @@
+{
+  "id": "calloden-harvest_1779675282",
+  "fingerprint": "43187ba16d2cf4141ef74556b1db889285912f347cc48c4da01a41736691436d",
+  "archived_at": "2026-05-25T02:32:22Z",
+  "metadata": {
+    "title": "Calloden Harvest",
+    "artist": "Loren Connors",
+    "year": "1997",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3220,
+    "duration_human": "00:53:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Mazzacane Connors - Premonition",
+      "02 Loren Mazzacane Connors - Enemy",
+      "03 Loren Mazzacane Connors - Wild Night",
+      "04 Loren Mazzacane Connors - Come Death, Lord Cromwell",
+      "05 Loren Mazzacane Connors - First Light",
+      "06 Loren Mazzacane Connors - A Calling",
+      "07 Loren Mazzacane Connors - The Road to Drumassy",
+      "08 Loren Mazzacane Connors - No Way Home",
+      "09 Loren Mazzacane Connors - Calloden Harvest"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/calloden-harvest_1779675282"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/d78ff22b6c0a803085bc/Calloden_Harvest.tar"
+    }
+  }
+}
