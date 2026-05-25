@@ -1,0 +1,32 @@
+{
+  "id": "in-france_1779741175",
+  "fingerprint": "22d84cb34ed631270c65d94046bd96780fcb9b7b5ad652348e5b66f4b2fbdd3f",
+  "archived_at": "2026-05-25T20:41:02Z",
+  "metadata": {
+    "title": "In France",
+    "artist": "Loren Connors",
+    "year": "2003",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1879,
+    "duration_human": "00:31:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Mazzacane Connors & Alan Licht - Silent Wounds 1",
+      "02 Loren Mazzacane Connors & Alan Licht - Silent Wounds 2",
+      "03 Loren Mazzacane Connors & Alan Licht - Silent Wounds 3",
+      "04 Loren Mazzacane Connors & Alan Licht - Silent Wounds 4",
+      "05 Loren Mazzacane Connors & Alan Licht - Silent Wounds 5",
+      "06 Loren Mazzacane Connors & Alan Licht - Silent Wounds 6"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/in-france_1779741175"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/22ba0844a1ada10f7c80/In_France.tar"
+    }
+  }
+}
