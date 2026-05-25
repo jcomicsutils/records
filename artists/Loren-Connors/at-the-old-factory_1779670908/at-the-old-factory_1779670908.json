@@ -1,0 +1,27 @@
+{
+  "id": "at-the-old-factory_1779670908",
+  "fingerprint": "4016947e66d007f7ba35015aa478e4a24a14f8592553c4aa59dad05205086f5a",
+  "archived_at": "2026-05-25T01:02:29Z",
+  "metadata": {
+    "title": "At the Old Factory",
+    "artist": "Loren Connors",
+    "year": "2010",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 332,
+    "duration_human": "00:05:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Darin Gray & Loren Connors - At the Old Factory, Part One"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/at-the-old-factory_1779670908"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/c457ed54c8a76e8b9ca1/At_the_Old_Factory.tar"
+    }
+  }
+}
