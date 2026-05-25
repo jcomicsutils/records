@@ -1,0 +1,38 @@
+{
+  "id": "hells-kitchen-park_1779739723",
+  "fingerprint": "1c85d9af6b45802fff9f7a5556a0214c0ccb10a7266cb6ff1776bd790ec8c00c",
+  "archived_at": "2026-05-25T20:13:59Z",
+  "metadata": {
+    "title": "Hell's Kitchen Park",
+    "artist": "Loren Connors",
+    "year": "1993",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 1783,
+    "duration_human": "00:29:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Connors - Mother & Son",
+      "02 Loren Connors - New Morning",
+      "03 Loren Connors - Father's Dream",
+      "04 Loren Connors - 10th Ave",
+      "05 Loren Connors - An Air",
+      "06 Loren Connors - The McCaffrey Playground",
+      "07 Loren Connors - Out Alone",
+      "08 Loren Connors - Hell's Kitchen Park",
+      "09 Loren Connors - Child",
+      "10 Loren Connors - Death Avenue",
+      "11 Loren Connors - Sorrow in the House",
+      "12 Loren Connors - Brigid's Song"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hells-kitchen-park_1779739723"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/a254425b64d75e484a86/Hell_s_Kitchen_Park.tar"
+    }
+  }
+}
