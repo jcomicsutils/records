@@ -1,7 +1,7 @@
 {
   "id": "as-roses-bow-collected-airs-1992-2002_1779666207",
   "fingerprint": "cc09565b1dfd8e6723e6d5e738acd445d3b20fb506f21bde76b5062243804dd9",
-  "archived_at": "2026-05-24T23:43:27Z",
+  "archived_at": "2026-05-25T00:35:33Z",
   "metadata": {
     "title": "As Roses Bow: Collected Airs 1992-2002",
     "artist": "Loren Connors",
@@ -58,5 +58,12 @@
       "43 Loren Connors - As Roses Bow"
     ]
   },
-  "hosts": {}
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/as-roses-bow-collected-airs-1992-2002_1779666207"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/67642fae0e7a87253046/As_Roses_Bow_Collected_Airs_1992-2002.tar"
+    }
+  }
 }
