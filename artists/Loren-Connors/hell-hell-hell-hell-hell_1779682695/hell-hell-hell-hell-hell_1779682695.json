@@ -30,6 +30,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/file.php?f=/alpha5/0d094788627b7c7f3084/Hell_Hell_Hell_Hell_Hell.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/hell-hell-hell-hell-hell_1779682695"
     }
   }
 }

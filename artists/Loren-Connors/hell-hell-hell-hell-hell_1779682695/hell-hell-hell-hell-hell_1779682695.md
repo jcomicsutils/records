@@ -1,5 +1,7 @@
 # Loren Connors — Hell! Hell! Hell! Hell! Hell! (1997)
 
+![Cover](https://archive.org/download/hell-hell-hell-hell-hell_1779682695/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/0d094788627b7c7f3084/Hell_Hell_Hell_Hell_Hell.tar)
+- [Archive.org](https://archive.org/details/hell-hell-hell-hell-hell_1779682695)
 
 ## Tracklist
 
