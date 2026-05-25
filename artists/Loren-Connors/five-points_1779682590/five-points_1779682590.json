@@ -1,0 +1,31 @@
+{
+  "id": "five-points_1779682590",
+  "fingerprint": "3d9f155b69d6749b49c596c562dda6698f6ced6f024a5ca611a0f466a045fb70",
+  "archived_at": "2026-05-25T04:18:05Z",
+  "metadata": {
+    "title": "Five Points",
+    "artist": "Loren Connors",
+    "year": "1994",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 827,
+    "duration_human": "00:13:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Loren Mazzacane Connors - Departure",
+      "02 Loren Mazzacane Connors - The Five Points",
+      "03 Loren Mazzacane Connors - Moonyean",
+      "04 Loren Mazzacane Connors - Saoirse (“Freedom”)",
+      "05 Loren Mazzacane Connors - Little Shoes"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/five-points_1779682590"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/9b90f7593e18fd9cf898/Five_Points.tar"
+    }
+  }
+}
