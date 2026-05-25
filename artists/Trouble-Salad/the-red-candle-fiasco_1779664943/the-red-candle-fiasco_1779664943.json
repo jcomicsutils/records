@@ -1,0 +1,36 @@
+{
+  "id": "the-red-candle-fiasco_1779664943",
+  "fingerprint": "3f2b0f4121356e56ce8037764ece7b9135e3e343bace96285ed36053e8aff968",
+  "archived_at": "2026-05-25T00:10:10Z",
+  "metadata": {
+    "title": "The Red Candle Fiasco",
+    "artist": "Trouble Salad",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3770,
+    "duration_human": "01:02:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - The Red Candle Fiasco",
+      "02 Trouble Salad - Backwards in the Fourth Ward",
+      "03 Trouble Salad - Love For the Father",
+      "04 Trouble Salad - Deranged Letters",
+      "05 Trouble Salad - Tornadic",
+      "06 Trouble Salad - Man of the Mind Mill",
+      "07 Trouble Salad - Dark Interlopers",
+      "08 Trouble Salad - Like Little Wheels",
+      "09 Trouble Salad - The Italic Period",
+      "10 Trouble Salad - Ten Tails"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-red-candle-fiasco_1779664943"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/5ccfe34df9020c648a8e/The_Red_Candle_Fiasco.tar"
+    }
+  }
+}
