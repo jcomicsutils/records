@@ -1,0 +1,30 @@
+{
+  "id": "thype_1779678408",
+  "fingerprint": "f140ccc45e0c1aade9d4141d0a3816306a9a42689dbdc4a1de2e31afaabad5aa",
+  "archived_at": "2026-05-25T03:30:43Z",
+  "metadata": {
+    "title": "Thype",
+    "artist": "Trouble Salad",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2381,
+    "duration_human": "00:39:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trouble Salad - Done With the Battles He Once Waged Across Time",
+      "02 Trouble Salad - Villar",
+      "03 Trouble Salad - Rostral in Flight",
+      "04 Trouble Salad - Indicating Dark Water"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/thype_1779678408"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/211e7b9b9ce3f74022d5/Thype.tar"
+    }
+  }
+}

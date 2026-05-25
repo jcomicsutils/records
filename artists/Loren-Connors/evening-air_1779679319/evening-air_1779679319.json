@@ -1,0 +1,25 @@
+{
+  "id": "evening-air_1779679319",
+  "fingerprint": "a991682169d044b8da7655be8c4770deda101bc039d9ad45aece7c3a238b760c",
+  "archived_at": "2026-05-25T03:21:59Z",
+  "metadata": {
+    "title": "Evening Air",
+    "artist": "Loren Connors",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1997,
+    "duration_human": "00:33:17",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 David Grubbs, Loren Connors - Evening Air",
+      "02 David Grubbs, Loren Connors - Choir Waits in the Wings",
+      "03 David Grubbs, Loren Connors - The Pacific School",
+      "04 David Grubbs, Loren Connors - Enjoyment of Ruins",
+      "05 David Grubbs, Loren Connors - It’s Snowing Onstage",
+      "06 David Grubbs, Loren Connors - Child"
+    ]
+  },
+  "hosts": {}
+}
