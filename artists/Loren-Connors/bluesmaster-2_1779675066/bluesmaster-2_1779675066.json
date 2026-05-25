@@ -1,0 +1,33 @@
+{
+  "id": "bluesmaster-2_1779675066",
+  "fingerprint": "18087f989856902343a5db6c36927be49ce41de2214d80d7b907fc434c996827",
+  "archived_at": "2026-05-25T02:14:28Z",
+  "metadata": {
+    "title": "Bluesmaster 2",
+    "artist": "Loren Connors",
+    "year": "1988",
+    "codec": "MP3",
+    "num_tracks": 7,
+    "duration_seconds": 1799,
+    "duration_human": "00:29:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Guitar Roberts - Bluesmaster",
+      "02 Guitar Roberts - Slim's Blues",
+      "03 Guitar Roberts - TB Blues",
+      "04 Guitar Roberts - Burden Blues",
+      "05 Guitar Roberts - Wee Wee Hours",
+      "06 Guitar Roberts - The Thrill is Gone",
+      "07 Guitar Roberts - Horses Blues"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bluesmaster-2_1779675066"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/4a9a516aebb8aa2633dd/Bluesmaster_2.tar"
+    }
+  }
+}

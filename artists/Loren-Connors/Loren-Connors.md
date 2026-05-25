@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Bluesmaster 2](bluesmaster-2_1779675066/bluesmaster-2_1779675066.md) | 1988 | MP3 | 00:29:59 | [IA](https://archive.org/details/bluesmaster-2_1779675066) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/4a9a516aebb8aa2633dd/Bluesmaster_2.tar) |
 | [9th Avenue](9th-avenue_1779655541/9th-avenue_1779655541.md) | 1995 | FLAC | 00:29:16 | [IA](https://archive.org/details/9th-avenue_1779655541) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/014c452979d7c4e38e40/9th_Avenue.tar) |
 | [A Possible Dawn](a-possible-dawn_1779659722/a-possible-dawn_1779659722.md) | 1998 | FLAC | 01:01:31 | [IA](https://archive.org/details/a-possible-dawn_1779659722) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/0b54b0ea43f18b29613b/A_Possible_Dawn.tar) |
 | [1987-1989](1987-1989_1779658584/1987-1989_1779658584.md) | 2000 | FLAC | 00:42:56 | [IA](https://archive.org/details/1987-1989_1779658584) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/818b0d64255c02e5767c/1987-1989.tar) |
