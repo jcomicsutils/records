@@ -1,0 +1,43 @@
+{
+  "id": "the-daggett-years_1779769453",
+  "fingerprint": "2a12db6c318cd92494d5c0c352c288a71bac331c3809bc124ef67c77feb037df",
+  "archived_at": "2026-05-26T04:28:34Z",
+  "metadata": {
+    "title": "The Daggett Years",
+    "artist": "Loren Connors",
+    "year": "2000",
+    "codec": "MP3",
+    "num_tracks": 17,
+    "duration_seconds": 3068,
+    "duration_human": "00:51:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Loren Mazzacane Connors - Track 1",
+      "02 Loren Mazzacane Connors - Track 2",
+      "03 Loren Mazzacane Connors - Track 3",
+      "04 Loren Mazzacane Connors - Track 4",
+      "05 Loren Mazzacane Connors - Track 5",
+      "06 Loren Mazzacane Connors - Track 6",
+      "07 Loren Mazzacane Connors - Track 7",
+      "08 Loren Mazzacane Connors - Track 8",
+      "09 Loren Mazzacane Connors - Track 9",
+      "10 Loren Mazzacane Connors - Track 10",
+      "11 Loren Mazzacane Connors - Track 11",
+      "12 Loren Mazzacane Connors - Track 12",
+      "13 Loren Mazzacane Connors - Track 13",
+      "14 Loren Mazzacane Connors - Track 14",
+      "15 Loren Mazzacane Connors - Track 15",
+      "16 Loren Mazzacane Connors - Track 16",
+      "17 Loren Mazzacane Connors - Track 17"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-daggett-years_1779769453"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/aed207382e8752016904/The_Daggett_Years.tar"
+    }
+  }
+}
