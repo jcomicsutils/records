@@ -1,0 +1,28 @@
+{
+  "id": "violets_b779a30c673a",
+  "fingerprint": "b779a30c673ab72a935fe00b4e019d663237e82415a73e4f0c1375a2f4f71fdc",
+  "archived_at": "2026-05-26T18:09:10Z",
+  "metadata": {
+    "title": "Violets",
+    "artist": "Loren Connors",
+    "year": "1984",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1738,
+    "duration_human": "00:28:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Loren MazzaCane Connors - Acoustic Guitar",
+      "02 Loren MazzaCane Connors - Violets"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/violets_b779a30c673a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/31226d1164b791dac64e/Violets.tar"
+    }
+  }
+}
