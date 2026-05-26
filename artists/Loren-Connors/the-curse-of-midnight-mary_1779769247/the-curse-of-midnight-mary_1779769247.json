@@ -1,0 +1,35 @@
+{
+  "id": "the-curse-of-midnight-mary_1779769247",
+  "fingerprint": "06703701018e356b070c20d170178a01cbb3bf7877cc5c577c375a06983b04d4",
+  "archived_at": "2026-05-26T04:23:42Z",
+  "metadata": {
+    "title": "The Curse of Midnight Mary",
+    "artist": "Loren Connors",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1898,
+    "duration_human": "00:31:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Connors - Chant 1",
+      "02 Loren Connors - Chant 2",
+      "03 Loren Connors - Chant 3",
+      "04 Loren Connors - Chant 4",
+      "05 Loren Connors - Chant 5",
+      "06 Loren Connors - Chant 6",
+      "07 Loren Connors - Chant 7",
+      "08 Loren Connors - Chant 8",
+      "09 Loren Connors - Chant 9"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-curse-of-midnight-mary_1779769247"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/3980d3fa2a96660d750b/The_Curse_of_Midnight_Mary.tar"
+    }
+  }
+}
