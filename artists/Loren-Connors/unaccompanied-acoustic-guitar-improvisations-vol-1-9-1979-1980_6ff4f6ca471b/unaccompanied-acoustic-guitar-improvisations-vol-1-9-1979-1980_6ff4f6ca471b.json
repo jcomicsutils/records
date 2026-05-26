@@ -1,0 +1,35 @@
+{
+  "id": "unaccompanied-acoustic-guitar-improvisations-vol-1-9-1979-1980_6ff4f6ca471b",
+  "fingerprint": "6ff4f6ca471bed4b548d0503e2a1b7eb8e04de2567715b09c072c72b6803c3a4",
+  "archived_at": "2026-05-26T18:02:05Z",
+  "metadata": {
+    "title": "Unaccompanied Acoustic Guitar Improvisations Vol. 1-9 1979-1980",
+    "artist": "Loren Connors",
+    "year": "1999",
+    "codec": "MP3",
+    "num_tracks": 9,
+    "duration_seconds": 16751,
+    "duration_human": "04:39:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "1-01 Loren MazzaCane Connors - Vol. 1",
+      "1-02 Loren MazzaCane Connors - Vol. 2",
+      "2-01 Loren MazzaCane Connors - Vol. 3 (Edited)",
+      "2-02 Loren MazzaCane Connors - Vol. 4",
+      "3-01 Loren MazzaCane Connors - Vol. 5",
+      "3-02 Loren MazzaCane Connors - Vol. 6",
+      "4-01 Loren MazzaCane Connors - Vol. 7 (Edited)",
+      "4-02 Loren MazzaCane Connors - Vol. 8",
+      "4-03 Loren MazzaCane Connors - Vol. 9 (Unissued)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/unaccompanied-acoustic-guitar-improvisations-vol-1-9-1979-1980_6ff4f6ca471b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/0dcf3bedc7aabb7abf8f/Unaccompanied_Acoustic_Guitar_Improvisations_Vol._1-9_1979-1980.tar"
+    }
+  }
+}
