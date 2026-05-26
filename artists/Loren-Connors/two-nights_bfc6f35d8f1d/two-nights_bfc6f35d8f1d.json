@@ -1,0 +1,28 @@
+{
+  "id": "two-nights_bfc6f35d8f1d",
+  "fingerprint": "bfc6f35d8f1da2b9161d49b884800786213600fa15f9b80fe1a2ea756c2a1e86",
+  "archived_at": "2026-05-26T17:17:43Z",
+  "metadata": {
+    "title": "Two Nights",
+    "artist": "Loren Connors",
+    "year": "1996",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 3995,
+    "duration_human": "01:06:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Alan Licht & Loren MazzaCane Connors - Live at the AlterKnit",
+      "02 Alan Licht & Loren MazzaCane Connors - Live at Other Music"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/two-nights_bfc6f35d8f1d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/d72760b800031bc55655/Two_Nights.tar"
+    }
+  }
+}
