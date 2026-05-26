@@ -1,0 +1,33 @@
+{
+  "id": "the-lost-mariner_1779772287",
+  "fingerprint": "76350455f0def52d4295b74666457935fb079c80f91a0fdf67a7724e1bbc9f56",
+  "archived_at": "2026-05-26T05:12:20Z",
+  "metadata": {
+    "title": "The Lost Mariner",
+    "artist": "Loren Connors",
+    "year": "1999",
+    "codec": "MP3",
+    "num_tracks": 7,
+    "duration_seconds": 1705,
+    "duration_human": "00:28:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Darin Gray and Loren Mazzacane Connors - [untitled]",
+      "02 Darin Gray and Loren Mazzacane Connors - [untitled]",
+      "03 Darin Gray and Loren Mazzacane Connors - [untitled]",
+      "04 Darin Gray and Loren Mazzacane Connors - [untitled]",
+      "05 Darin Gray and Loren Mazzacane Connors - [untitled]",
+      "06 Darin Gray and Loren Mazzacane Connors - [untitled]",
+      "07 Darin Gray and Loren Mazzacane Connors - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-lost-mariner_1779772287"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/f2d56ea5375355b77c28/The_Lost_Mariner.tar"
+    }
+  }
+}
