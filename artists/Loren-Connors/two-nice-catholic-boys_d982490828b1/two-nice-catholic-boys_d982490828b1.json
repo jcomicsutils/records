@@ -1,0 +1,29 @@
+{
+  "id": "two-nice-catholic-boys_d982490828b1",
+  "fingerprint": "d982490828b198bb5b22b254b5766be16ac8454ce23a1fb744a4e22b485222ab",
+  "archived_at": "2026-05-26T17:05:25Z",
+  "metadata": {
+    "title": "Two Nice Catholic Boys",
+    "artist": "Loren Connors",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2822,
+    "duration_human": "00:47:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Connors & Jim O’Rourke - Maybe Paris",
+      "02 Loren Connors & Jim O’Rourke - Or Possibly Köln",
+      "03 Loren Connors & Jim O’Rourke - Most Definitely Not Köln"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/two-nice-catholic-boys_d982490828b1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/07ae2e8dbac16e05a8b7/Two_Nice_Catholic_Boys.tar"
+    }
+  }
+}
