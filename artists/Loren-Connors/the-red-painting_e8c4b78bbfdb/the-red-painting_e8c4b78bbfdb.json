@@ -1,0 +1,27 @@
+{
+  "id": "the-red-painting_e8c4b78bbfdb",
+  "fingerprint": "e8c4b78bbfdba529415e8487056658904aaf23d8062cfd7a4740d3b514c76dfb",
+  "archived_at": "2026-05-26T16:53:00Z",
+  "metadata": {
+    "title": "The Red Painting",
+    "artist": "Loren Connors",
+    "year": "2016",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 295,
+    "duration_human": "00:04:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Loren Connors - The Red Painting"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-red-painting_e8c4b78bbfdb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/c61df2edbb2be548fe8f/The_Red_Painting.tar"
+    }
+  }
+}
