@@ -1,0 +1,31 @@
+{
+  "id": "the-departing-of-a-dream-vol-iii-juliet_1779770247",
+  "fingerprint": "a8d15494d72d5c0c99ab01969bcd7eb131f42dd1d37654a4ab946570db95343a",
+  "archived_at": "2026-05-26T04:50:40Z",
+  "metadata": {
+    "title": "The Departing of a Dream Vol. III: Juliet",
+    "artist": "Loren Connors",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1832,
+    "duration_human": "00:30:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Connors - Her Love",
+      "02 Loren Connors - Her Fate",
+      "03 Loren Connors - Her Death",
+      "04 Loren Connors - Juliet ...",
+      "05 Loren Connors - In Lover's Eye"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-departing-of-a-dream-vol-iii-juliet_1779770247"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/6400be119f161140ad66/The_Departing_of_a_Dream_Vol._III_Juliet.tar"
+    }
+  }
+}
