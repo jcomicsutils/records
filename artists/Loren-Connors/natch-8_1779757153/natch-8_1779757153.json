@@ -1,0 +1,30 @@
+{
+  "id": "natch-8_1779757153",
+  "fingerprint": "a65ef25fc4e8bfb5a6ec8c79c2318cec24819012fc2bc64e524e6be602e14cbc",
+  "archived_at": "2026-05-26T01:02:21Z",
+  "metadata": {
+    "title": "Natch 8",
+    "artist": "Loren Connors",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1677,
+    "duration_human": "00:27:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Connors & Bill Orcutt - Untitled 1",
+      "02 Loren Connors & Bill Orcutt - Untitled 2",
+      "03 Loren Connors & Bill Orcutt - Untitled 3",
+      "04 Loren Connors & Bill Orcutt - Untitled 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/natch-8_1779757153"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/0e6e52b99b5ef8600fdf/Natch_8.tar"
+    }
+  }
+}
