@@ -1,0 +1,37 @@
+{
+  "id": "the-departing-of-a-dream_1779769734",
+  "fingerprint": "e5d6a066bf0ae323b7e58e8f4fd4f32b12d885daf42ed5adbdfc37cb639a4ab2",
+  "archived_at": "2026-05-26T04:34:39Z",
+  "metadata": {
+    "title": "The Departing of a Dream",
+    "artist": "Loren Connors",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2142,
+    "duration_human": "00:35:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Connors - Part 1",
+      "02 Loren Connors - Part 2",
+      "03 Loren Connors - Part 3",
+      "04 Loren Connors - Part 4",
+      "05 Loren Connors - Part 5",
+      "06 Loren Connors - Part 6",
+      "07 Loren Connors - Part 7",
+      "08 Loren Connors - Part 8",
+      "09 Loren Connors - For NY 9/11/01: The Silence",
+      "10 Loren Connors - For NY 9/11/01: And Sorrow",
+      "11 Loren Connors - Pretty as Ever"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-departing-of-a-dream_1779769734"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/52dea8e889fdcfc17206/The_Departing_of_a_Dream.tar"
+    }
+  }
+}
