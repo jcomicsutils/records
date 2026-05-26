@@ -1,0 +1,40 @@
+{
+  "id": "lullaby_1779753240",
+  "fingerprint": "ec1aa69075b9ab16a9c98b18014eccd01ebbd5c4de2caf32493b6162a62818eb",
+  "archived_at": "2026-05-26T00:05:41Z",
+  "metadata": {
+    "title": "Lullaby",
+    "artist": "Loren Connors",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 1786,
+    "duration_human": "00:29:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Connors - Lullaby (The 1st)",
+      "02 Loren Connors - Whispers",
+      "03 Loren Connors - Lullaby (The 2nd)",
+      "04 Loren Connors - Lullaby (The 3rd)",
+      "05 Loren Connors - Want Me to Tell You (Why I Cried?)",
+      "06 Loren Connors - Lullaby (The 4th)",
+      "07 Loren Connors - \"Dont Leave\"",
+      "08 Loren Connors - \"I Am Scared of the Dark",
+      "09 Loren Connors - And the Shadows on the Wall",
+      "10 Loren Connors - Lullaby (The Last)",
+      "11 Loren Connors - Sleep",
+      "12 Loren Connors - The Kiss - A Moment at the Door",
+      "13 Loren Connors - Woven Dreams",
+      "14 Loren Connors - Through the Stars"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lullaby_1779753240"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/c46740faae2f2499b1e6/Lullaby.tar"
+    }
+  }
+}
