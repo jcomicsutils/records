@@ -1,0 +1,28 @@
+{
+  "id": "my-brooklyn_1779756938",
+  "fingerprint": "b7fdd08220a7cda1a4594ee0128ff0152039e046138c0c50faf935e618c1c137",
+  "archived_at": "2026-05-26T00:58:49Z",
+  "metadata": {
+    "title": "My Brooklyn",
+    "artist": "Loren Connors",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2884,
+    "duration_human": "00:48:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Connors - My Brooklyn (Loren Connors at Stone, Jan. 07 2012)",
+      "02 Loren Connors - My Brooklyn (Loren Connors at Zebulon Feb. 26 2012)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/my-brooklyn_1779756938"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/8370eb1f5356a9c2cae8/My_Brooklyn.tar"
+    }
+  }
+}
