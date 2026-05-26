@@ -1,0 +1,31 @@
+{
+  "id": "mercury_1779754313",
+  "fingerprint": "ad2a6096e6adc98bb59f5914186a83e562d67c298024b3c370b9e40f6b243027",
+  "archived_at": "2026-05-26T00:23:16Z",
+  "metadata": {
+    "title": "Mercury",
+    "artist": "Loren Connors",
+    "year": "2010",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 2830,
+    "duration_human": "00:47:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Alan Licht & Loren Connors - Alterknit",
+      "02 Alan Licht & Loren Connors - Pittsburgh",
+      "03 Alan Licht & Loren Connors - Chicago",
+      "04 Alan Licht & Loren Connors - Toronto",
+      "05 Alan Licht & Loren Connors - Toronto"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mercury_1779754313"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/4d010c9b089de068a23c/Mercury.tar"
+    }
+  }
+}
