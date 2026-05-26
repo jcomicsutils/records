@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Fields](fields_1779682018/fields_1779682018.md) | 1978 | MP3 | 00:39:44 | [IA](https://archive.org/details/fields_1779682018) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/6aa2db0ae8b1e5704595/Fields.tar) |
+| [Pushin' Up Daisies](pushin-up-daisies_1779761428/pushin-up-daisies_1779761428.md) | 1982 | MP3 | 00:13:42 | [IA](https://archive.org/details/pushin-up-daisies_1779761428) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/8164df413679c9910dd3/Pushin_Up_Daisies.tar) |
 | [Moonlight](moonlight_1779755745/moonlight_1779755745.md) | 1984 | FLAC | 00:40:24 | [IA](https://archive.org/details/moonlight_1779755745) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/a19b75e70c5678ce5209/Moonlight.tar) |
 | [Bluesmaster 2](bluesmaster-2_1779675066/bluesmaster-2_1779675066.md) | 1988 | MP3 | 00:29:59 | [IA](https://archive.org/details/bluesmaster-2_1779675066) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/4a9a516aebb8aa2633dd/Bluesmaster_2.tar) |
 | [Come Night](come-night_1779676498/come-night_1779676498.md) | 1991 | FLAC | 00:46:37 | [IA](https://archive.org/details/come-night_1779676498) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/79adcb857516d831661b/Come_Night.tar) |

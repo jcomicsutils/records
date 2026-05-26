@@ -1,0 +1,31 @@
+{
+  "id": "pushin-up-daisies_1779761428",
+  "fingerprint": "19f54708699f04510c48b1d723954d0d0757642a6f44032b335fc4b3aa2fc4fe",
+  "archived_at": "2026-05-26T02:14:21Z",
+  "metadata": {
+    "title": "Pushin' Up Daisies",
+    "artist": "Loren Connors",
+    "year": "1982",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 822,
+    "duration_human": "00:13:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Loren Mazzacane Connors & Kath Bloom - Little Tree",
+      "02 Loren Mazzacane Connors & Kath Bloom - Swing Low Sweet Chariot",
+      "03 Loren Mazzacane Connors & Kath Bloom - Loren's Blues",
+      "04 Loren Mazzacane Connors & Kath Bloom - Lay My Burden Down",
+      "05 Loren Mazzacane Connors & Kath Bloom - Kath's Blues"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pushin-up-daisies_1779761428"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/8164df413679c9910dd3/Pushin_Up_Daisies.tar"
+    }
+  }
+}
