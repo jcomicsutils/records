@@ -1,0 +1,43 @@
+{
+  "id": "sails_1779765283",
+  "fingerprint": "d3a19fbd74e824e8b0a7a8febc9658cfee68f77a727d589c3116f7bc47af3c49",
+  "archived_at": "2026-05-26T03:31:24Z",
+  "metadata": {
+    "title": "Sails",
+    "artist": "Loren Connors",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_seconds": 4870,
+    "duration_human": "01:21:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Mazzacane - Pretty as Ever (Part 1)",
+      "02 Loren Mazzacane - Pretty as Ever (Part 2)",
+      "03 Loren Mazzacane - Pretty as Ever (Part 3)",
+      "04 Loren Mazzacane - Pretty as Ever (Part 4)",
+      "05 Loren Mazzacane - Pretty as Ever (Part 5)",
+      "06 Loren Mazzacane - Pretty as Ever (Part 6)",
+      "07 Loren Mazzacane - Pretty as Ever (Part 7)",
+      "08 Loren Mazzacane - Pretty as Ever (Part 8)",
+      "09 Loren Mazzacane - Here, I'll Whisper It to You",
+      "10 Loren Mazzacane - Trinity (Part 1)",
+      "11 Loren Mazzacane - Trinity (Part 2)",
+      "12 Loren Mazzacane - Trinity (Part 3)",
+      "13 Loren Mazzacane - Portrait of a Fool (Part 1)",
+      "14 Loren Mazzacane - Portrait of a Fool (Part 2)",
+      "15 Loren Mazzacane - In the Night",
+      "16 Loren Mazzacane - Dark is the Night, Cold is the Ground",
+      "17 Loren Mazzacane - Sails"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sails_1779765283"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/4b24246cb54bd9be259d/Sails.tar"
+    }
+  }
+}
