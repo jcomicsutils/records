@@ -1,0 +1,36 @@
+{
+  "id": "subsonic-5-standing-upright-on-a-curve_1779768260",
+  "fingerprint": "f67ad5c5afa2fcd9bbe520c29c8e43598b8b9551a8c05dc79ef7e627c4aa1535",
+  "archived_at": "2026-05-26T04:06:13Z",
+  "metadata": {
+    "title": "Subsonic 5: Standing Upright on a Curve",
+    "artist": "Loren Connors",
+    "year": "1998",
+    "codec": "MP3",
+    "num_tracks": 10,
+    "duration_seconds": 2310,
+    "duration_human": "00:38:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Sasha Frere-Jones - Steep",
+      "02 Sasha Frere-Jones - Stutter",
+      "03 Sasha Frere-Jones - Stitch",
+      "04 Loren Mazzacane Connors - Free Moon",
+      "05 Loren Mazzacane Connors - Into the Rath",
+      "06 Loren Mazzacane Connors - The Dream",
+      "07 Loren Mazzacane Connors - Dance! Dance! Dance!",
+      "08 Loren Mazzacane Connors - Down the Wild Night",
+      "09 Loren Mazzacane Connors - A Way Home",
+      "10 Loren Mazzacane Connors - Brigid's Air"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/subsonic-5-standing-upright-on-a-curve_1779768260"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/c121f503f4210973e96f/Subsonic_5_Standing_Upright_on_a_Curve.tar"
+    }
+  }
+}
