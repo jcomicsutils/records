@@ -1,0 +1,39 @@
+{
+  "id": "moonlight_1779755745",
+  "fingerprint": "8c961c307baddfb36c817bd8db77cfc6aff5aa8cdc23ac7aed1e63a459d79a31",
+  "archived_at": "2026-05-26T00:50:39Z",
+  "metadata": {
+    "title": "Moonlight",
+    "artist": "Loren Connors",
+    "year": "1984",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 2424,
+    "duration_human": "00:40:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kath Bloom & Loren MazzaCane Connors - To Love a Man",
+      "02 Kath Bloom & Loren MazzaCane Connors - Come Here",
+      "03 Kath Bloom & Loren MazzaCane Connors - Can You Find Me?",
+      "04 Kath Bloom & Loren MazzaCane Connors - Puccini",
+      "05 Kath Bloom & Loren MazzaCane Connors - Turn on Your Head Lights",
+      "06 Kath Bloom & Loren MazzaCane Connors - End of the Night",
+      "07 Kath Bloom & Loren MazzaCane Connors - What if I Found Out (Instrumental)",
+      "08 Kath Bloom & Loren MazzaCane Connors - You Cleared Up the Sky",
+      "09 Kath Bloom & Loren MazzaCane Connors - Breath in My Ear",
+      "10 Kath Bloom & Loren MazzaCane Connors - Bicycle",
+      "11 Kath Bloom & Loren MazzaCane Connors - Blues Song",
+      "12 Kath Bloom & Loren MazzaCane Connors - What if I Found Out",
+      "13 Kath Bloom & Loren MazzaCane Connors - Love Makes It All Worthwhile"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/moonlight_1779755745"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/a19b75e70c5678ce5209/Moonlight.tar"
+    }
+  }
+}
