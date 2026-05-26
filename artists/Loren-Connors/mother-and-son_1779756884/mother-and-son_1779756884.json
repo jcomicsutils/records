@@ -1,0 +1,32 @@
+{
+  "id": "mother-and-son_1779756884",
+  "fingerprint": "cca5dccd2c52b4e1b39b67e960fe49a213048e532e81503e010e5738fdaf05f5",
+  "archived_at": "2026-05-26T00:55:32Z",
+  "metadata": {
+    "title": "Mother and Son",
+    "artist": "Loren Connors",
+    "year": "1993",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 830,
+    "duration_human": "00:13:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Loren Mazzacane - Mother and Son",
+      "02 Loren Mazzacane - Many Miles More",
+      "03 Loren Mazzacane - When You Sleep",
+      "04 Loren Mazzacane - Along the Way",
+      "05 Loren Mazzacane - Home Again",
+      "06 Loren Mazzacane - No Goodbyes"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mother-and-son_1779756884"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/678d721e547c8e034181/Mother_and_Son.tar"
+    }
+  }
+}
