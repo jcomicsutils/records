@@ -1,0 +1,39 @@
+{
+  "id": "moonyean_1779756667",
+  "fingerprint": "108eaca90c6d4a1dccdae2cdd789bc4135b3437445efe3288329629fd455b68e",
+  "archived_at": "2026-05-26T00:54:26Z",
+  "metadata": {
+    "title": "Moonyean",
+    "artist": "Loren Connors",
+    "year": "1994",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 1734,
+    "duration_human": "00:28:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Connors - Moonyean No. 1",
+      "02 Loren Connors - Moonyean No. 2",
+      "03 Loren Connors - Moonyean No. 3",
+      "04 Loren Connors - Moonyean No. 4",
+      "05 Loren Connors - Moonyean No. 5",
+      "06 Loren Connors - Moonyean No. 6",
+      "07 Loren Connors - Moonyean No. 7",
+      "08 Loren Connors - Moonyean No. 8",
+      "09 Loren Connors - Moonyean No. 9",
+      "10 Loren Connors - Moonyean No. 10",
+      "11 Loren Connors - Moonyean No. 11",
+      "12 Loren Connors - Moonyean No. 12",
+      "13 Loren Connors - Moonyean No. 13"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/moonyean_1779756667"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/8f009625b02832a7f7da/Moonyean.tar"
+    }
+  }
+}
