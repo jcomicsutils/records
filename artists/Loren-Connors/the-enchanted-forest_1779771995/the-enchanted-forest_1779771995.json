@@ -1,0 +1,41 @@
+{
+  "id": "the-enchanted-forest_1779771995",
+  "fingerprint": "ffbb98c332a148eff67776e2dc57ca43bcb6ecacf30d77220ee32d3043033263",
+  "archived_at": "2026-05-26T05:09:39Z",
+  "metadata": {
+    "title": "The Enchanted Forest",
+    "artist": "Loren Connors",
+    "year": "1998",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 1875,
+    "duration_human": "00:31:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Suzanne Langille & Loren MazzaCane Connors - Invocation",
+      "02 Suzanne Langille & Loren MazzaCane Connors - Old John",
+      "03 Suzanne Langille & Loren MazzaCane Connors - The River",
+      "04 Suzanne Langille & Loren MazzaCane Connors - Jackie's Dream",
+      "05 Suzanne Langille & Loren MazzaCane Connors - The Waterfall",
+      "06 Suzanne Langille & Loren MazzaCane Connors - Promise Me",
+      "07 Suzanne Langille & Loren MazzaCane Connors - Return to the Waterfall",
+      "08 Suzanne Langille & Loren MazzaCane Connors - Jackie's Dance",
+      "09 Suzanne Langille & Loren MazzaCane Connors - The Raven's Song",
+      "10 Suzanne Langille & Loren MazzaCane Connors - Anne's Song",
+      "11 Suzanne Langille & Loren MazzaCane Connors - In the Woods",
+      "12 Suzanne Langille & Loren MazzaCane Connors - Old John's Song",
+      "13 Suzanne Langille & Loren MazzaCane Connors - To the Mountain",
+      "14 Suzanne Langille & Loren MazzaCane Connors - The Escape",
+      "15 Suzanne Langille & Loren MazzaCane Connors - Closing"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-enchanted-forest_1779771995"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/006834203be88e10ec39/The_Enchanted_Forest.tar"
+    }
+  }
+}
