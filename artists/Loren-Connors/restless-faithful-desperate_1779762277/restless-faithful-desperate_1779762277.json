@@ -1,0 +1,40 @@
+{
+  "id": "restless-faithful-desperate_1779762277",
+  "fingerprint": "a1efe5743cd84d6058aa3a6d2dd6e69259d755415984e58be908dfe75dcab694",
+  "archived_at": "2026-05-26T02:35:23Z",
+  "metadata": {
+    "title": "Restless Faithful Desperate",
+    "artist": "Loren Connors",
+    "year": "1983",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 2130,
+    "duration_human": "00:35:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kath Bloom - Tall Grass",
+      "02 Kath Bloom - Hold On",
+      "03 Kath Bloom - When I See You",
+      "04 Kath Bloom - You Give Me Something",
+      "05 Kath Bloom - How We Live",
+      "06 Kath Bloom - When Your Dreams Come True",
+      "07 Kath Bloom - How It Rains",
+      "08 Kath Bloom - Look at Me",
+      "09 Kath Bloom - Just Don't Tell Me That It's Gone",
+      "10 Kath Bloom - How It Rains",
+      "11 Kath Bloom - Wait for My Love",
+      "12 Kath Bloom - The Key",
+      "13 Kath Bloom - Out in the Woods",
+      "14 Kath Bloom - When I Come Home"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/restless-faithful-desperate_1779762277"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/63a85efe59a2d97b0f7f/Restless_Faithful_Desperate.tar"
+    }
+  }
+}
