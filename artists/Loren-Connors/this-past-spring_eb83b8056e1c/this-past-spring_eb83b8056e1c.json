@@ -1,0 +1,33 @@
+{
+  "id": "this-past-spring_eb83b8056e1c",
+  "fingerprint": "eb83b8056e1cff7e0e0c6f311eaf2ee45c5629a09b48c017310092811993a61b",
+  "archived_at": "2026-05-26T16:55:31Z",
+  "metadata": {
+    "title": "This Past Spring",
+    "artist": "Loren Connors",
+    "year": "2001",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2168,
+    "duration_human": "00:36:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Darin Gray & Loren Connors - Part One",
+      "02 Darin Gray & Loren Connors - Part Two",
+      "03 Darin Gray & Loren Connors - Part Three",
+      "04 Darin Gray & Loren Connors - Part Four",
+      "05 Darin Gray & Loren Connors - Part Five",
+      "06 Darin Gray & Loren Connors - Part Six",
+      "07 Darin Gray & Loren Connors - Part Seven"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/this-past-spring_eb83b8056e1c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/5cf7a4211dad478fbe6f/This_Past_Spring.tar"
+    }
+  }
+}
