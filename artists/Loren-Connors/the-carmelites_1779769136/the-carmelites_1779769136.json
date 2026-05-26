@@ -1,0 +1,39 @@
+{
+  "id": "the-carmelites_1779769136",
+  "fingerprint": "af81ef498672d70c0826a187d780ea8e601987042382823a94bfd83ccae90a25",
+  "archived_at": "2026-05-26T04:20:28Z",
+  "metadata": {
+    "title": "The Carmelites",
+    "artist": "Loren Connors",
+    "year": "1997",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 1705,
+    "duration_human": "00:28:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Mazzacane Connors - The Carmelites",
+      "02 Loren Mazzacane Connors - Those of Us",
+      "03 Loren Mazzacane Connors - The Bell",
+      "04 Loren Mazzacane Connors - Forever Gone",
+      "05 Loren Mazzacane Connors - These Walls",
+      "06 Loren Mazzacane Connors - Hidden Hands",
+      "07 Loren Mazzacane Connors - A Breath, a Touch, a Stone",
+      "08 Loren Mazzacane Connors - Succesion of Sins",
+      "09 Loren Mazzacane Connors - Night Prayer",
+      "10 Loren Mazzacane Connors - Body and Soul",
+      "11 Loren Mazzacane Connors - Angel of the Wall",
+      "12 Loren Mazzacane Connors - Temptation",
+      "13 Loren Mazzacane Connors - Tomorrow"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-carmelites_1779769136"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/243d1ee98bdf0daca9eb/The_Carmelites.tar"
+    }
+  }
+}
