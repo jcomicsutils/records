@@ -1,0 +1,28 @@
+{
+  "id": "the-only-way-to-go-is-straight-through_1779772495",
+  "fingerprint": "f15f3ecd8b4e3d8f19596df6b6250f76fb49ea91d1f4863d001c323fe6dbbb05",
+  "archived_at": "2026-05-26T05:14:55Z",
+  "metadata": {
+    "title": "The Only Way to Go is Straight Through",
+    "artist": "Loren Connors",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2654,
+    "duration_human": "00:44:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Thurston Moore & Loren Connors - NYC - The Stone - July 14th, 2012",
+      "02 Thurston Moore & Loren Connors - Brooklyn, NY - Public Assembly - October 17th, 2012"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-only-way-to-go-is-straight-through_1779772495"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/b6e6edb7790b6f51050b/The_Only_Way_to_Go_is_Straight_Through.tar"
+    }
+  }
+}
