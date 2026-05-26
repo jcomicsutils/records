@@ -1,0 +1,41 @@
+{
+  "id": "st-vincents-newsboy-home_1779767680",
+  "fingerprint": "c0f6cd2da444f73603554c7b8501408a728393f08be2886654bad23a9adc63a2",
+  "archived_at": "2026-05-26T04:03:50Z",
+  "metadata": {
+    "title": "St. Vincent's Newsboy Home",
+    "artist": "Loren Connors",
+    "year": "1999",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 1926,
+    "duration_human": "00:32:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Connors - Extra, Extra, Read All About It",
+      "02 Loren Connors - Inside the Cruelty of Day",
+      "03 Loren Connors - Angels of the Rooftops",
+      "04 Loren Connors - O'Carolan's Air",
+      "05 Loren Connors - Father Drumgoolle",
+      "06 Loren Connors - Doorsteps",
+      "07 Loren Connors - Frozen Star",
+      "08 Loren Connors - Onona's Kid",
+      "09 Loren Connors - Forgotten Shoe",
+      "10 Loren Connors - Silent in the Soul",
+      "11 Loren Connors - Oh, How It'd Be! (Without the Deaths of the Innocents)",
+      "12 Loren Connors - Empty Lights",
+      "13 Loren Connors - Rumours (Of Something Grand)",
+      "14 Loren Connors - More Than Faith (Throughout the Night)",
+      "15 Loren Connors - Opening Day"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/st-vincents-newsboy-home_1779767680"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/6ffdaa21be0e6ee9025f/St._Vincent_s_Newsboy_Home.tar"
+    }
+  }
+}
