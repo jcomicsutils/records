@@ -1,0 +1,43 @@
+{
+  "id": "rooms_1779764869",
+  "fingerprint": "7def9a196590cd5daa91ca8c0246db1241c527a5a43e1a22dbf4b168fe71da50",
+  "archived_at": "2026-05-26T03:10:06Z",
+  "metadata": {
+    "title": "Rooms",
+    "artist": "Loren Connors",
+    "year": "1990",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_seconds": 2955,
+    "duration_human": "00:49:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren MazzaCane Connors - Grip My Hand",
+      "02 Loren MazzaCane Connors - Blues No. 25",
+      "03 Loren MazzaCane Connors - Blues No. 10 (Fallen Son)",
+      "04 Loren MazzaCane Connors - Blues No. 12",
+      "05 Loren MazzaCane Connors - Blues No. 13",
+      "06 Loren MazzaCane Connors - Blues No. 15",
+      "07 Loren MazzaCane Connors - Blues No. 16",
+      "08 Loren MazzaCane Connors - Blues No. 19",
+      "09 Loren MazzaCane Connors - Blues No. 23",
+      "10 Loren MazzaCane Connors - Blues No. 24 (Midnight)",
+      "11 Loren MazzaCane Connors - Blues No. 26 (The Cup)",
+      "12 Loren MazzaCane Connors - Blues No. 27",
+      "13 Loren MazzaCane Connors - Blues No. 28",
+      "14 Loren MazzaCane Connors - Blues No. 29",
+      "15 Loren MazzaCane Connors - Blues No. 30 (Palms)",
+      "16 Loren MazzaCane Connors - Can't Forget",
+      "17 Loren MazzaCane Connors - Blues No. 31"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rooms_1779764869"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/b10926e63bd627a94cb3/Rooms.tar"
+    }
+  }
+}
