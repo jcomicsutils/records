@@ -1,0 +1,28 @@
+{
+  "id": "shadow_1779766541",
+  "fingerprint": "ec561a9357cbb1b030711e8e45c558429474239fbad384a0f984875e033c1323",
+  "archived_at": "2026-05-26T03:41:16Z",
+  "metadata": {
+    "title": "Shadow",
+    "artist": "Loren Connors",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1748,
+    "duration_human": "00:29:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Connors & Sergio Sorrentino - Shadow, Pt. 1",
+      "02 Loren Connors & Sergio Sorrentino - Shadow, Pt. 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/shadow_1779766541"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/17665e3171e25052887a/Shadow.tar"
+    }
+  }
+}
