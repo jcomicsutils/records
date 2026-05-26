@@ -1,0 +1,33 @@
+{
+  "id": "the-hymn-of-the-north-star_1779772202",
+  "fingerprint": "997a270479100d6a5aededc8148c2045284dbcb1fe86fb55675830bcf0ffdbdb",
+  "archived_at": "2026-05-26T05:11:09Z",
+  "metadata": {
+    "title": "The Hymn of the North Star",
+    "artist": "Loren Connors",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1740,
+    "duration_human": "00:29:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Connors - Part One - A",
+      "02 Loren Connors - Part One - B",
+      "03 Loren Connors - Part Two",
+      "04 Loren Connors - Part Three",
+      "05 Loren Connors - Part Four",
+      "06 Loren Connors - Part Five",
+      "07 Loren Connors - Part Six"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-hymn-of-the-north-star_1779772202"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/216760e7c9d076f4880e/The_Hymn_of_the_North_Star.tar"
+    }
+  }
+}
