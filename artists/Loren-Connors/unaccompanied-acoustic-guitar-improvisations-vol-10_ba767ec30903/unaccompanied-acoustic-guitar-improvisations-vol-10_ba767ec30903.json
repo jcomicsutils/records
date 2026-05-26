@@ -1,0 +1,28 @@
+{
+  "id": "unaccompanied-acoustic-guitar-improvisations-vol-10_ba767ec30903",
+  "fingerprint": "ba767ec3090338fee036a49059ed3045220688697ef9a9037afa569bff28eee5",
+  "archived_at": "2026-05-26T18:06:49Z",
+  "metadata": {
+    "title": "Unaccompanied Acoustic Guitar Improvisations Vol. 10",
+    "artist": "Loren Connors",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1724,
+    "duration_human": "00:28:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Connors - Side A",
+      "02 Loren Connors - Side B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/unaccompanied-acoustic-guitar-improvisations-vol-10_ba767ec30903"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/1d827733b910a67fe93e/Unaccompanied_Acoustic_Guitar_Improvisations_Vol._10.tar"
+    }
+  }
+}
