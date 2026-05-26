@@ -1,0 +1,27 @@
+{
+  "id": "the-murder-of-joan-of-arc_1779772461",
+  "fingerprint": "ef20f3bd4267a3731c8fce4db21a92a581543b28d276de322e41aad2a53fb457",
+  "archived_at": "2026-05-26T05:14:47Z",
+  "metadata": {
+    "title": "The Murder of Joan of Arc",
+    "artist": "Loren Connors",
+    "year": "2003",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1099,
+    "duration_human": "00:18:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Loren Connors - The Murder of Joan of Arc"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-murder-of-joan-of-arc_1779772461"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/649f66351033659561d2/The_Murder_of_Joan_of_Arc.tar"
+    }
+  }
+}
