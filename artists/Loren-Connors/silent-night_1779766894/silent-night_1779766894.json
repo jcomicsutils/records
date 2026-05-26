@@ -1,0 +1,27 @@
+{
+  "id": "silent-night_1779766894",
+  "fingerprint": "ba09a0647550908ccb20ed5cf74c6a83ca3341c8b9944cb570a05034e3f35151",
+  "archived_at": "2026-05-26T03:41:59Z",
+  "metadata": {
+    "title": "Silent Night",
+    "artist": "Loren Connors",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 161,
+    "duration_human": "00:02:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Loren Connors & Jamie Connors - Silent Night"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/silent-night_1779766894"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/f563fd1453d7d21dd362/Silent_Night.tar"
+    }
+  }
+}
