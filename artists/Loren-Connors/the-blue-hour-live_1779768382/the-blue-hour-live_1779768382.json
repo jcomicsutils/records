@@ -1,0 +1,28 @@
+{
+  "id": "the-blue-hour-live_1779768382",
+  "fingerprint": "d61c0ebe5935fecd46c73b505fae59747bbea06cce35ff52fb9cd06b79087ef3",
+  "archived_at": "2026-05-26T04:18:18Z",
+  "metadata": {
+    "title": "The Blue Hour (Live)",
+    "artist": "Loren Connors",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1863,
+    "duration_human": "00:31:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Loren Connors & Alan Licht - Part I",
+      "02 Loren Connors & Alan Licht - Part II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-blue-hour-live_1779768382"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/40bcc9fc34313c053180/The_Blue_Hour_Live.tar"
+    }
+  }
+}
