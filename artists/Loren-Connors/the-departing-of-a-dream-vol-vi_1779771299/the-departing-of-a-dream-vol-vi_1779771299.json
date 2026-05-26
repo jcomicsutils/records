@@ -1,0 +1,28 @@
+{
+  "id": "the-departing-of-a-dream-vol-vi_1779771299",
+  "fingerprint": "ae50ee5b4db93b3ddb682ed01413d3083a73a0e78cd07cc1d51df7fe517c0f2b",
+  "archived_at": "2026-05-26T05:03:48Z",
+  "metadata": {
+    "title": "The Departing of a Dream Vol. VI",
+    "artist": "Loren Connors",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1191,
+    "duration_human": "00:19:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Loren Connors - Part One",
+      "02 Loren Connors - Part Two"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-departing-of-a-dream-vol-vi_1779771299"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/f6a09ab9c930ef3c5ec5/The_Departing_of_a_Dream_Vol._VI.tar"
+    }
+  }
+}
