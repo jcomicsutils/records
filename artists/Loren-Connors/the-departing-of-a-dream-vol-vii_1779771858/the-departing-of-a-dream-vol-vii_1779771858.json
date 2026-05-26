@@ -1,0 +1,28 @@
+{
+  "id": "the-departing-of-a-dream-vol-vii_1779771858",
+  "fingerprint": "ee1dca1cbf8a355ed0ae3cb0936c0569557861e71675051964b345696b718713",
+  "archived_at": "2026-05-26T05:06:15Z",
+  "metadata": {
+    "title": "The Departing of a Dream Vol. VII",
+    "artist": "Loren Connors",
+    "year": "2019",
+    "codec": "ALAC",
+    "num_tracks": 2,
+    "duration_seconds": 1827,
+    "duration_human": "00:30:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Connors & Daniel Carter - Part One",
+      "02 Loren Connors & Daniel Carter - Part Two"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-departing-of-a-dream-vol-vii_1779771858"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/daaf3c918daf715b3ea3/The_Departing_of_a_Dream_Vol._VII.tar"
+    }
+  }
+}
