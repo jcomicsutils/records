@@ -1,0 +1,28 @@
+{
+  "id": "the-moon-last-night_1779772350",
+  "fingerprint": "c3ab759e3a4fa727fa156d95bc30328c7cc73c0f80752d12d4642333879c87eb",
+  "archived_at": "2026-05-26T05:14:06Z",
+  "metadata": {
+    "title": "The Moon Last Night",
+    "artist": "Loren Connors",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 826,
+    "duration_human": "00:13:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Mazzacane Connors - The Moon Last Night, Part 1",
+      "02 Loren Mazzacane Connors - The Moon Last Night, Part 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-moon-last-night_1779772350"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/f1fc13313d443e87ec72/The_Moon_Last_Night.tar"
+    }
+  }
+}
