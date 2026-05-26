@@ -1,0 +1,29 @@
+{
+  "id": "mmmr_1779755018",
+  "fingerprint": "e06734bbe6aed934f3fc3ad90b83a966ca324fd43e0abc00f81ae251de9f1b28",
+  "archived_at": "2026-05-26T00:35:23Z",
+  "metadata": {
+    "title": "MMMR",
+    "artist": "Loren Connors",
+    "year": "1997",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 2514,
+    "duration_human": "00:41:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Loren Mazzacane Connors - Mazzacane Connors / Montera",
+      "02 Loren Mazzacane Connors - Mazzacane Connors / Montera / Moore",
+      "03 Loren Mazzacane Connors - Mazzacane Connors / Montera / Moore / Ranaldo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mmmr_1779755018"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/bf207a4c4b4d79b1df26/MMMR.tar"
+    }
+  }
+}
