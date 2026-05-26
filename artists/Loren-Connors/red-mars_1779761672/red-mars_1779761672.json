@@ -1,0 +1,31 @@
+{
+  "id": "red-mars_1779761672",
+  "fingerprint": "ccbeff1cbadcea22fab519d3846fe8d42b4db391fe874aa391a857749bbcb3a9",
+  "archived_at": "2026-05-26T02:24:18Z",
+  "metadata": {
+    "title": "Red Mars",
+    "artist": "Loren Connors",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2071,
+    "duration_human": "00:34:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Connors - On Our Way",
+      "02 Loren Connors - Red Mars I",
+      "03 Loren Connors - Red Mars II",
+      "04 Loren Connors - Showers of Meteors",
+      "05 Loren Connors - Little Earth"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/red-mars_1779761672"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha5/bc38ac3066b35766065a/Red_Mars.tar"
+    }
+  }
+}
