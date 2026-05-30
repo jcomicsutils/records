@@ -1,0 +1,28 @@
+{
+  "id": "the-light-of-the-crescent-moon_55c47646d4d1",
+  "fingerprint": "55c47646d4d12d4de6e59f37983651d037873b6fc6ec1ff8ec761ffc9b1b9114",
+  "archived_at": "2026-05-30T06:26:04Z",
+  "metadata": {
+    "title": "The Light of the Crescent Moon",
+    "artist": "Loren Connors",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1779,
+    "duration_human": "00:29:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Loren Connors - The Light of the Crescent Moon",
+      "02 Loren Connors - Live At The Issue Project In Brooklyn New York, March 28 2007"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-light-of-the-crescent-moon_55c47646d4d1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta3/73591f5312444ff51740/The_Light_of_the_Crescent_Moon.tar"
+    }
+  }
+}
