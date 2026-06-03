@@ -1,0 +1,30 @@
+{
+  "id": "residuals_00c3c044a4aa",
+  "fingerprint": "00c3c044a4aafc1e15685017e32913703ac7f3f75695cc61e4beedc01fd806ae",
+  "archived_at": "2026-06-03T21:16:58Z",
+  "metadata": {
+    "title": "Residuals",
+    "artist": "Doron Sadja",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2054,
+    "duration_human": "00:34:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Doron Sadja - I",
+      "02 Doron Sadja - II",
+      "03 Doron Sadja - III",
+      "04 Doron Sadja - IV"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/residuals_00c3c044a4aa"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta3/7c5d21f151758999ec91/Residuals.tar"
+    }
+  }
+}
