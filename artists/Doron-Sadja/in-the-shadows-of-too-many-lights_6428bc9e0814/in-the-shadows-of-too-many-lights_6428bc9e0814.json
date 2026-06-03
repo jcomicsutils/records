@@ -1,0 +1,30 @@
+{
+  "id": "in-the-shadows-of-too-many-lights_6428bc9e0814",
+  "fingerprint": "6428bc9e0814078d87b9742c9e50fa53049fcfdffab844279054a8e91147a760",
+  "archived_at": "2026-06-03T21:08:49Z",
+  "metadata": {
+    "title": "In the Shadows of Too Many Lights",
+    "artist": "Doron Sadja",
+    "year": "2021",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 2012,
+    "duration_human": "00:33:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Doron Sadja - In the Shadows",
+      "02 Doron Sadja - The Shadows Of",
+      "03 Doron Sadja - Of Too Many",
+      "04 Doron Sadja - Many Lights"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/in-the-shadows-of-too-many-lights_6428bc9e0814"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta3/dcb8bead58ae3e333685/In_the_Shadows_of_Too_Many_Lights.tar"
+    }
+  }
+}
