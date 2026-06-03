@@ -1,0 +1,27 @@
+{
+  "id": "blurred-lines_35843d2e9adc",
+  "fingerprint": "35843d2e9adcbc6fb4cac9b34cddca3948097fb7462a778ebf542b53f21c212a",
+  "archived_at": "2026-06-03T21:05:02Z",
+  "metadata": {
+    "title": "Blurred Lines",
+    "artist": "Doron Sadja",
+    "year": "2021",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1863,
+    "duration_human": "00:31:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Doron Sadja - Blurred Lines"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/blurred-lines_35843d2e9adc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta3/dda207ee34531723b01e/Blurred_Lines.tar"
+    }
+  }
+}
