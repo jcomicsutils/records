@@ -1,0 +1,31 @@
+{
+  "id": "sotto-voce_5a26728a7428",
+  "fingerprint": "5a26728a7428368822326025fc1488e274a035056f6b9a25299d30d778b9321b",
+  "archived_at": "2026-06-03T21:19:02Z",
+  "metadata": {
+    "title": "Sotto voce",
+    "artist": "Doron Sadja",
+    "year": "2011",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 2050,
+    "duration_human": "00:34:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Doron Sadja - Sotto Voce I",
+      "02 Doron Sadja - Sotto Voce II",
+      "03 Doron Sadja - Sotto Voce III",
+      "04 Doron Sadja - Sotto Voce IV",
+      "05 Doron Sadja - Sotto Voce V"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sotto-voce_5a26728a7428"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta3/0a73e4b7ff2eb3ecc0af/Sotto_voce.tar"
+    }
+  }
+}
