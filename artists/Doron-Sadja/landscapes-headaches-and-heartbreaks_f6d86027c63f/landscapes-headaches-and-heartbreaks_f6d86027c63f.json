@@ -1,0 +1,28 @@
+{
+  "id": "landscapes-headaches-and-heartbreaks_f6d86027c63f",
+  "fingerprint": "f6d86027c63f62f43e992387b2033b444aeedb9fc76e00817e5b8181f55cdaae",
+  "archived_at": "2026-06-03T21:09:50Z",
+  "metadata": {
+    "title": "Landscapes, Headaches, and Heartbreaks",
+    "artist": "Doron Sadja",
+    "year": "2003",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 685,
+    "duration_human": "00:11:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Doron Sadja - Landscapes and Headaches",
+      "02 Doron Sadja - First Takes and Heartbreaks"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/landscapes-headaches-and-heartbreaks_f6d86027c63f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta3/06ffafbe434b7c6d3e05/Landscapes_Headaches_and_Heartbreaks.tar"
+    }
+  }
+}
