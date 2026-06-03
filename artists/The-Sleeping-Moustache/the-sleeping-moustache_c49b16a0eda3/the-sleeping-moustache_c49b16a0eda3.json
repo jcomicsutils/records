@@ -1,0 +1,36 @@
+{
+  "id": "the-sleeping-moustache_c49b16a0eda3",
+  "fingerprint": "c49b16a0eda38c36eae2182dad573fe56f508944debf674fe83b9d667934d760",
+  "archived_at": "2026-06-03T21:53:27Z",
+  "metadata": {
+    "title": "The Sleeping Moustache",
+    "artist": "The Sleeping Moustache",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3903,
+    "duration_human": "01:05:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Sleeping Moustache - Sprawled Naked Across a Piano",
+      "02 The Sleeping Moustache - The Over-Night Sister",
+      "03 The Sleeping Moustache - A Few Items Known as Children",
+      "04 The Sleeping Moustache - Look Out! That One's Dangerous.",
+      "05 The Sleeping Moustache - A Bottomless Black Eye",
+      "06 The Sleeping Moustache - Woolen Pubic Hair",
+      "07 The Sleeping Moustache - A Little Act of Familiar Daily Routine",
+      "08 The Sleeping Moustache - Annoyance, Ignorance, and Forgetfulness",
+      "09 The Sleeping Moustache - Oh Sir, I'm Scared",
+      "10 The Sleeping Moustache - Candlelight Ceremonies for Killing Time"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-sleeping-moustache_c49b16a0eda3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta3/117c24eb07f751223bc5/The_Sleeping_Moustache.tar"
+    }
+  }
+}

@@ -71,6 +71,7 @@
 - [Teeth Of Lions Rule The Divine](Teeth-Of-Lions-Rule-The-Divine/Teeth-Of-Lions-Rule-The-Divine.md)
 - [The Jim Yoshii Pile-Up / Xiu Xiu](The-Jim-Yoshii-Pile-Up-Xiu-Xiu/The-Jim-Yoshii-Pile-Up-Xiu-Xiu.md)
 - [The Runners From 1984](The-Runners-From-1984/The-Runners-From-1984.md)
+- [The Sleeping Moustache](The-Sleeping-Moustache/The-Sleeping-Moustache.md)
 - [Thorr's Hammer](Thorr's-Hammer/Thorr's-Hammer.md)
 - [Tokyo 77](Tokyo-77/Tokyo-77.md)
 - [Trouble Salad](Trouble-Salad/Trouble-Salad.md)
