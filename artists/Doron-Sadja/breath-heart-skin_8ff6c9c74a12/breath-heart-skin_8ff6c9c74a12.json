@@ -1,0 +1,31 @@
+{
+  "id": "breath-heart-skin_8ff6c9c74a12",
+  "fingerprint": "8ff6c9c74a120fb4af9225d365f5cdfa5f964e12657ee7bcfdde012ebde243e7",
+  "archived_at": "2026-06-03T21:06:02Z",
+  "metadata": {
+    "title": "Breath Heart Skin",
+    "artist": "Doron Sadja",
+    "year": "2014",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 2654,
+    "duration_human": "00:44:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Doron Sadja - Breath Heart",
+      "02 Doron Sadja - Heart Skin",
+      "03 Doron Sadja - Skin Breath",
+      "04 Doron Sadja - Heart Breath",
+      "05 Doron Sadja - Breath Skin"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/breath-heart-skin_8ff6c9c74a12"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta3/c09093eb6c639177921c/Breath_Heart_Skin.tar"
+    }
+  }
+}
