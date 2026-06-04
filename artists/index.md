@@ -49,6 +49,7 @@
 - [Mailcop](Mailcop/Mailcop.md)
 - [Merzbow + Xiu Xiu](Merzbow-+-Xiu-Xiu/Merzbow-+-Xiu-Xiu.md)
 - [Midori Hirano](Midori-Hirano/Midori-Hirano.md)
+- [Minimalistic Sweden](Minimalistic-Sweden/Minimalistic-Sweden.md)
 - [Modest Mouse](Modest-Mouse/Modest-Mouse.md)
 - [Muybridge](Muybridge/Muybridge.md)
 - [Mão Morta](Mão-Morta/Mão-Morta.md)

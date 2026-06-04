@@ -1,0 +1,36 @@
+{
+  "id": "standard-klickmusik_19ab1a12a65d",
+  "fingerprint": "19ab1a12a65d509a73feb49cf91a99c6fcd024422542ae9718c3dbd1e4e2c813",
+  "archived_at": "2026-06-04T21:15:14Z",
+  "metadata": {
+    "title": "Standard Klickmusik",
+    "artist": "Minimalistic Sweden",
+    "year": "2004",
+    "codec": "MP3",
+    "num_tracks": 10,
+    "duration_seconds": 3355,
+    "duration_human": "00:55:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Minimalistic Sweden - [untitled]",
+      "02 Minimalistic Sweden - [untitled]",
+      "03 Minimalistic Sweden - [untitled]",
+      "04 Minimalistic Sweden - [untitled]",
+      "05 Minimalistic Sweden - [untitled]",
+      "06 Minimalistic Sweden - [untitled]",
+      "07 Minimalistic Sweden - [untitled]",
+      "08 Minimalistic Sweden - [untitled]",
+      "09 Minimalistic Sweden - [untitled]",
+      "10 Minimalistic Sweden - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/standard-klickmusik_19ab1a12a65d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/e140748bb96c3b08f7d2/Standard_Klickmusik.tar"
+    }
+  }
+}
