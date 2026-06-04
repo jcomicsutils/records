@@ -1,0 +1,29 @@
+{
+  "id": "10707-eyes_4104cf7f758a",
+  "fingerprint": "4104cf7f758a31236e7d5ab8c2d7a84939495535367212fcbb07b792be844113",
+  "archived_at": "2026-06-04T23:24:35Z",
+  "metadata": {
+    "title": "10,707 Eyes",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1588,
+    "duration_human": "00:26:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Staring Eyes",
+      "02 Zeffon - Spiteful Sol",
+      "03 Zeffon - Asylum From the Sun"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/10707-eyes_4104cf7f758a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/72ccc3958846de9ad856/10_707_Eyes.tar"
+    }
+  }
+}
