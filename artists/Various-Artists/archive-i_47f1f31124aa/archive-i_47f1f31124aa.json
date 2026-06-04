@@ -1,0 +1,49 @@
+{
+  "id": "archive-i_47f1f31124aa",
+  "fingerprint": "47f1f31124aa1188702564c3e65f94c4ff34128d07e369f08360e52c522f4f64",
+  "archived_at": "2026-06-04T21:34:53Z",
+  "metadata": {
+    "title": "Archive I",
+    "artist": "Various Artists",
+    "year": "2005",
+    "codec": "MP3",
+    "num_tracks": 23,
+    "duration_seconds": 4418,
+    "duration_human": "01:13:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 John Cassavetes - Archive (Faces)",
+      "02 MOWE, Raionbashi, Column One, Sibirische Zelle - Archive",
+      "03 Stilluppsteypa - [untitled]",
+      "04 Ditterich von Euler-Donnersperg - Die Mietfussmatte Des Kleinen Fritz",
+      "05 Jürgen Eckloff - Manimal (Darby Germs)",
+      "06 Benito Mussolini - Archive",
+      "07 Hermann Bohlen / Column One - Babab Baabab",
+      "08 Column One / Mimetic / Phil Von - The Dwarf",
+      "09 Étant Donnés - Dog's Attack",
+      "10 The Airforce Team - Archive",
+      "11 Brion Gysin, W.S.Burroughs, Stilluppsteypa, Aalfang mit Pferdekopf - Archive",
+      "12 Raionbashi, MOWE, Aalfang mit Pferdekopf - Archive",
+      "13 Stea Andreasson - Miniatur III (Extract)",
+      "14 Stea Andreasson - Miniatur X (Extract)",
+      "15 Dave Phillips - Dogs (Schimpfluch Commune Int.)",
+      "16 Jürgen Ploog / Column One - Tote Zone I",
+      "17 Jürgen Ploog / Column One - Tote Zone II",
+      "18 Stea Andreasson - Miniatur X (Extract)",
+      "19 Sibirische Zelle - Knechte Des Tourismus",
+      "20 Frieder Butzmann - Sassa",
+      "21 Father Noark - No TV",
+      "22 VD - Archive",
+      "23 Za Siódmą Górą - Odejscie Golema = Golems Departure"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/archive-i_47f1f31124aa"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/7cbd4496d7f49ca1c6e6/Archive_I.tar"
+    }
+  }
+}
