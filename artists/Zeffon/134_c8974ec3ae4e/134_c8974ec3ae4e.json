@@ -1,0 +1,28 @@
+{
+  "id": "134_c8974ec3ae4e",
+  "fingerprint": "c8974ec3ae4e0ae3952a89444c08b725490f56e9be53d91747f3aaf3f53f74cb",
+  "archived_at": "2026-06-04T23:25:35Z",
+  "metadata": {
+    "title": "13.4",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 384,
+    "duration_human": "00:06:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Halloween",
+      "02 Zeffon - Rainforest Shoes (Extract)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/134_c8974ec3ae4e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/68e8e542c8e52cc1e024/13.4.tar"
+    }
+  }
+}
