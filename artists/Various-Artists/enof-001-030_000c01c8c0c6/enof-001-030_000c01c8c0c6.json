@@ -1,0 +1,56 @@
+{
+  "id": "enof-001-030_000c01c8c0c6",
+  "fingerprint": "000c01c8c0c6254e23eb39a61c07c2a4171352c003624fabd4febd45f28e43a9",
+  "archived_at": "2026-06-04T21:59:24Z",
+  "metadata": {
+    "title": "En/Of 001-030",
+    "artist": "Various Artists",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 30,
+    "duration_seconds": 10043,
+    "duration_human": "02:47:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "1-01 Ekkehard Ehlers / Joseph Suchy - 14",
+      "1-02 Heimir Björgúlfsson - Stream Conversation at the Bottom of a River",
+      "1-03 Stephan Mathieu - Densette",
+      "1-04 Jan Jelinek - Ice 695",
+      "1-05 Alejandra & Aeron - Fear Liath More",
+      "1-06 Tv Pow - Snow Covered Bush",
+      "1-07 The Rip-Off Artist - TV Test Tone",
+      "1-08 Wander - Wander (Edit)",
+      "1-09 Oren Ambarchi - Stacte.4a (Excerpt)",
+      "1-10 Stilluppsteypa - Horror Larsen",
+      "2-01 Stephan Mathieu - „Once“ (Guitar) Edit",
+      "2-02 Pan•American - Calle Tipica",
+      "2-03 Terre Thaemlitz - Marcel Duchamp Air De Paris Pt.2",
+      "2-04 Tarentel - Latency 6",
+      "2-05 Mirror/Dash - Sweetface (Edit)",
+      "2-06 David Grubbs - Comic Structure (Act One, Scene One)",
+      "2-07 Nobukazu Takemura - Etude for Contrabass",
+      "2-08 Rob Mazurek - Thought (Edit)",
+      "2-09 Efzeg - Pay (Remix)",
+      "2-10 Steve Roden - Out of the Sun",
+      "3-01 Text Of Light - 052202 Tonic (Edit)",
+      "3-02 Tim Hecker - Radio Marti (Edit)",
+      "3-03 Jazzkammer - All Men Are Brothers (Edit)",
+      "3-04 Andrew Zealley - Nocturne I",
+      "3-05 Merzbow - 1633a (Edit)",
+      "3-06 Ultra-Red - (Jack) Tactic (Tracks 1973-1983) Ten Minutes of Condensation",
+      "3-07 Maja Ratkje - Erwartung (Edit)",
+      "3-08 Kammerflimmer Kollektief - Eiderdaunen, Gezupft",
+      "3-09 Alva Noto - Counter",
+      "3-10 The Aluminum Group - Subtitle #2 (John-John’s Plane)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/enof-001-030_000c01c8c0c6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/83671cf9f8cc66c6104b/En_-_Of_001-030.tar"
+    }
+  }
+}
