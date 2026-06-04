@@ -1,0 +1,29 @@
+{
+  "id": "101523_c5f835f2e0c0",
+  "fingerprint": "c5f835f2e0c07160d01bd03bb40db1f41cf559eb1a27d9b4142cf40e3692e1e8",
+  "archived_at": "2026-06-04T23:18:23Z",
+  "metadata": {
+    "title": "10/15/23",
+    "artist": "Zeffon",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 825,
+    "duration_human": "00:13:45",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - October, Part 1",
+      "02 Zeffon - Full Intensity",
+      "03 Zeffon - October, Part 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/101523_c5f835f2e0c0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/0662157ee260ab806ecf/10_-_15_-_23.tar"
+    }
+  }
+}
