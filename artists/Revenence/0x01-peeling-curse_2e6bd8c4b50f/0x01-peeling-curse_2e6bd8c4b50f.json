@@ -1,0 +1,29 @@
+{
+  "id": "0x01-peeling-curse_2e6bd8c4b50f",
+  "fingerprint": "2e6bd8c4b50fd77596325e40fb13cb38c5dcce85ecbd70e54963fa2fa0e103e9",
+  "archived_at": "2026-06-04T22:47:22Z",
+  "metadata": {
+    "title": "0x01_PEELING Curse",
+    "artist": "Revenence",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 8798,
+    "duration_human": "02:26:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Revenence - 0x2F_INDIGO/Violet Thumb, Part 1 (Reve Terra Lyeon's Comprehension)",
+      "02 Revenence - 0x30_GONDII Maledicta Eeraa - Psychic Parasite",
+      "03 Revenence - 0x01_PEELING Curse"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/0x01-peeling-curse_2e6bd8c4b50f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/292425526c67e32315f1/0x01_PEELING_Curse.tar"
+    }
+  }
+}

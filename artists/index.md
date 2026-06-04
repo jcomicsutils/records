@@ -61,6 +61,7 @@
 - [Peace & Freedom](Peace-&-Freedom/Peace-&-Freedom.md)
 - [Pentemple](Pentemple/Pentemple.md)
 - [Psycodrama](Psycodrama/Psycodrama.md)
+- [Revenence](Revenence/Revenence.md)
 - [Roel Meelkop](Roel-Meelkop/Roel-Meelkop.md)
 - [Sarin](Sarin/Sarin.md)
 - [Siouxsie and The Banshees](Siouxsie-and-The-Banshees/Siouxsie-and-The-Banshees.md)
