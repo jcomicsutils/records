@@ -1,0 +1,32 @@
+{
+  "id": "b9b3b118b6dc_00f26ec4ba3e",
+  "fingerprint": "00f26ec4ba3ed1a1a4c2c96ed194cd2927986aa3beecae7e98d8f1ce7c0a659b",
+  "archived_at": "2026-06-04T22:33:43Z",
+  "metadata": {
+    "title": "???????????",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 6585,
+    "duration_human": "01:49:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Straight to the Point",
+      "02 Zeffon - Hidden in the Dub Trees",
+      "03 Zeffon - Imagine the State of His Pants After the Bomb Went Off",
+      "04 Zeffon - Honey Darling, Stop Constantly Posting about Left Wëëm Censorship and Take out the Trash, Please",
+      "05 Zeffon - Bitter Ends Meet",
+      "06 Zeffon - Thrill of Kandy (Extended Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/b9b3b118b6dc_00f26ec4ba3e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/fbfc068324faa2ce409d/1.tar"
+    }
+  }
+}
