@@ -1,0 +1,35 @@
+{
+  "id": "5bab61eb5317_ac0b1ef7707f",
+  "fingerprint": "ac0b1ef7707fb1ff90683904f1be0a616df840a274132d7ffc599f0597ffda5b",
+  "archived_at": "2026-06-04T22:42:45Z",
+  "metadata": {
+    "title": "?",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 15610,
+    "duration_human": "04:20:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Somehow (Vinyl Mix)",
+      "02 Zeffon - Citadel Icrifeani (Vinyl Mix)",
+      "03 Zeffon - Murky Gloom Widow (Vinyl Mix)",
+      "04 Zeffon - Dark Comet? (Vinyl Mix)",
+      "05 Zeffon - The Spinning Wheel (Demo)",
+      "06 Zeffon - Water Shrine (Demo)",
+      "07 Zeffon - Music Chimes for the Experimental",
+      "08 Zeffon - Fossil Stables",
+      "09 Zeffon - I Ran Far Away"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/5bab61eb5317_ac0b1ef7707f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/a0459f5eaf918d5519c4/2.tar"
+    }
+  }
+}

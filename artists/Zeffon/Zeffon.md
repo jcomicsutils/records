@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [?](5bab61eb5317_ac0b1ef7707f/5bab61eb5317_ac0b1ef7707f.md) | 2014 | FLAC | 04:20:10 | [IA](https://archive.org/details/5bab61eb5317_ac0b1ef7707f) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/a0459f5eaf918d5519c4/2.tar) |
 | [Erotic Fire Faces \(the Shell Is Bloody, A Hidden Current 93 & Grozny 93 Tribute\)](erotic-fire-faces-the-shell-is-bloody-a-hidden-current-93-grozny-93-tribute_1779647530/erotic-fire-faces-the-shell-is-bloody-a-hidden-current-93-grozny-93-tribute_1779647530.md) | 2015 | FLAC | 04:04:45 | [IA](https://archive.org/details/erotic-fire-faces-the-shell-is-bloody-a-hidden-current-93-grozny-93-tribute_1779647530) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/bbd9d6d1ab18334986a4/Erotic_Fire_Faces_the_Shell_Is_Bloody_A_Hidden_Current_93_Gr.tar) |
 | [New World Order](new-world-order_1779654689/new-world-order_1779654689.md) | 2016 | MP3 | 12:00:18 | [IA](https://archive.org/details/new-world-order_1779654689) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/593a122903907f47816e/New_World_Order.tar) |
 | [II](ii_1779653326/ii_1779653326.md) | 2017 | MP3 | 06:44:52 | [IA](https://archive.org/details/ii_1779653326) [FileDitch](https://fileditchfiles.me/file.php?f=/alpha5/c6b8d05312bd6dda43b4/II.tar) |
