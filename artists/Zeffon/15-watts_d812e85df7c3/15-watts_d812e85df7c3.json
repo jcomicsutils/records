@@ -1,0 +1,34 @@
+{
+  "id": "15-watts_d812e85df7c3",
+  "fingerprint": "d812e85df7c32d5d390f9093464073c3331eba952c965c151c4f51fa5cee1881",
+  "archived_at": "2026-06-04T23:56:10Z",
+  "metadata": {
+    "title": "15 Watts",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1337,
+    "duration_human": "00:22:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Salty Jam",
+      "02 Zeffon - 15 Watts",
+      "03 Zeffon - Shifty Eyes",
+      "04 Zeffon - Ping Pong Steak",
+      "05 Zeffon - The Spiral",
+      "06 Zeffon - The Rain",
+      "07 Zeffon - Tea For Me",
+      "08 Zeffon - Library"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/15-watts_d812e85df7c3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/fb109e54a8e4d066eec4/15_Watts.tar"
+    }
+  }
+}
