@@ -1,0 +1,28 @@
+{
+  "id": "0x00-thomsons-gazelle_e1bd8add7a46",
+  "fingerprint": "e1bd8add7a4633b84e8320b550b5b8f29ab789827a181afa2c9ec0d360b1b4b9",
+  "archived_at": "2026-06-04T22:44:29Z",
+  "metadata": {
+    "title": "0x00_THOMSON'S Gazelle",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 293,
+    "duration_human": "00:04:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - 0x00_THOMSON'S Gazelle",
+      "02 Zeffon - 0x2E_ZAYEHWE Dub Ver. 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/0x00-thomsons-gazelle_e1bd8add7a46"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/44be39a3af7d3bf6411c/0x00_THOMSON_S_Gazelle.tar"
+    }
+  }
+}
