@@ -1,0 +1,39 @@
+{
+  "id": "triptyk_2e04ae539542",
+  "fingerprint": "2e04ae539542abb49c149dead91b765d00a9b9c6cf9705e934a39e29149e92b8",
+  "archived_at": "2026-06-04T21:16:51Z",
+  "metadata": {
+    "title": "Triptyk",
+    "artist": "Minimalistic Sweden",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 13,
+    "duration_seconds": 3944,
+    "duration_human": "01:05:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Minimalistic Sweden - 01",
+      "02 Minimalistic Sweden - 02",
+      "03 Minimalistic Sweden - 03",
+      "04 Minimalistic Sweden - 04",
+      "05 Minimalistic Sweden - 05",
+      "06 Minimalistic Sweden - 06",
+      "07 Minimalistic Sweden - 07",
+      "08 Minimalistic Sweden - 08",
+      "09 Minimalistic Sweden - 09",
+      "10 Minimalistic Sweden - 10",
+      "11 Minimalistic Sweden - 11",
+      "12 Minimalistic Sweden - 12",
+      "13 Minimalistic Sweden - 13"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/triptyk_2e04ae539542"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/16daeea17f46d4956372/Triptyk.tar"
+    }
+  }
+}
