@@ -1,0 +1,31 @@
+{
+  "id": "above-all_b90967b2cc60",
+  "fingerprint": "b90967b2cc607c40a29a3615a7bcefebba593fcf67e38beb864ab8e20ffd7ddc",
+  "archived_at": "2026-06-05T05:03:48Z",
+  "metadata": {
+    "title": "Above All",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3647,
+    "duration_human": "01:00:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Creator's Rage",
+      "02 Zeffon - Ibiksiani's Ghost",
+      "03 Zeffon - Wretch",
+      "04 Zeffon - Mystery of the Great Marsh",
+      "05 Zeffon - Samuelus Mansion"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/above-all_b90967b2cc60"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/4142e38feb4b5c9447fb/Above_All.tar"
+    }
+  }
+}
