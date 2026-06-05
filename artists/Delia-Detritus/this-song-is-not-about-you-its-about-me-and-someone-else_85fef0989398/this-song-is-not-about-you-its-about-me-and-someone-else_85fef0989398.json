@@ -1,0 +1,27 @@
+{
+  "id": "this-song-is-not-about-you-its-about-me-and-someone-else_85fef0989398",
+  "fingerprint": "85fef0989398a5425dc127bdd365e39e058744b32b6a9be060c2a5b068892274",
+  "archived_at": "2026-06-05T08:18:03Z",
+  "metadata": {
+    "title": "THIS SONG IS NOT ABOUT YOU - IT'S ABOUT ME AND SOMEONE ELSE",
+    "artist": "Delia Detritus",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 832,
+    "duration_human": "00:13:52",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Delia Detritus - THIS SONG IS NOT ABOUT YOU - IT'S ABOUT ME AND SOMEONE ELSE"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/this-song-is-not-about-you-its-about-me-and-someone-else_85fef0989398"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/e3d4d54e278bd5f593a2/THIS_SONG_IS_NOT_ABOUT_YOU_-_IT_S_ABOUT_ME_AND_SOMEONE_ELSE.tar"
+    }
+  }
+}
