@@ -1,0 +1,38 @@
+{
+  "id": "beach-jolanda_7e69e8705fbf",
+  "fingerprint": "7e69e8705fbfcff0863cb7ce9b31b722eb6a0fec887d5719047f7f2570a04bd4",
+  "archived_at": "2026-06-05T06:57:59Z",
+  "metadata": {
+    "title": "Beach Jolanda",
+    "artist": "Stilluppsteypa",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2836,
+    "duration_human": "00:47:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Stilluppsteypa - Denise",
+      "02 Stilluppsteypa - Wonderful to Communicate",
+      "03 Stilluppsteypa - Coco Butter Locomotione",
+      "04 Stilluppsteypa - Large Private Area",
+      "05 Stilluppsteypa - CD Soundsystem",
+      "06 Stilluppsteypa - Dusty Hofmann LSD",
+      "07 Stilluppsteypa - Boney Nilson",
+      "08 Stilluppsteypa - Fried Omiley Marbles",
+      "09 Stilluppsteypa - Make It Snappy Pool Boy",
+      "10 Stilluppsteypa - Man-Made Waste",
+      "11 Stilluppsteypa - San Dali",
+      "12 Stilluppsteypa - Pink Small Bag"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/beach-jolanda_7e69e8705fbf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/04cbaf98f386063423a0/Beach_Jolanda.tar"
+    }
+  }
+}
