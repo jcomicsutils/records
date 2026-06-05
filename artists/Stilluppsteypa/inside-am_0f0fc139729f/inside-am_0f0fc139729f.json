@@ -1,0 +1,28 @@
+{
+  "id": "inside-am_0f0fc139729f",
+  "fingerprint": "0f0fc139729f4365c15f8a1c1fd3b606d1e8b1eb7dee847489f2d594d6990364",
+  "archived_at": "2026-06-05T07:14:50Z",
+  "metadata": {
+    "title": "Inside AM",
+    "artist": "Stilluppsteypa",
+    "year": "1994",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 504,
+    "duration_human": "00:08:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Stilluppsteypa + Curver - Inside AM",
+      "02 Stilluppsteypa + Curver - Make Star Shine"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/inside-am_0f0fc139729f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/26117c410370e5580fc4/Inside_AM.tar"
+    }
+  }
+}

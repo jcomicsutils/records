@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Inside AM](inside-am_0f0fc139729f/inside-am_0f0fc139729f.md) | 1994 | MP3 | 00:08:24 | [IA](https://archive.org/details/inside-am_0f0fc139729f) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/26117c410370e5580fc4/Inside_AM.tar) |
 | [Car Dirty With Jam on a Busy Street](car-dirty-with-jam-on-a-busy-street_d7a15040f750/car-dirty-with-jam-on-a-busy-street_d7a15040f750.md) | 1995 | MP3 | 00:38:53 | [IA](https://archive.org/details/car-dirty-with-jam-on-a-busy-street_d7a15040f750) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/edd04f201f4e5be2148f/Car_Dirty_With_Jam_on_a_Busy_Street.tar) |
 | [I Was There / That Would Be](i-was-there-that-would-be_30de975db2c6/i-was-there-that-would-be_30de975db2c6.md) | 1996 | MP3 | 00:11:19 | [IA](https://archive.org/details/i-was-there-that-would-be_30de975db2c6) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/71d54d8e6fecdab95b27/I_Was_There_-_That_Would_Be.tar) |
 | [Has \(Or Has Not\) Happened](has-or-has-not-happened_a77b4f32d936/has-or-has-not-happened_a77b4f32d936.md) | 1998 | MP3 | 00:55:10 | [IA](https://archive.org/details/has-or-has-not-happened_a77b4f32d936) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/14bab27334f61b92d20a/Has_Or_Has_Not_Happened.tar) |
