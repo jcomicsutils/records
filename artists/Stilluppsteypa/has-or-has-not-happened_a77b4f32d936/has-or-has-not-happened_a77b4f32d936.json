@@ -1,0 +1,27 @@
+{
+  "id": "has-or-has-not-happened_a77b4f32d936",
+  "fingerprint": "a77b4f32d93696a1f98281e0ec10d7127a07aeb3b09f0a094fa67d60e29297bb",
+  "archived_at": "2026-06-05T07:12:33Z",
+  "metadata": {
+    "title": "Has (Or Has Not) Happened",
+    "artist": "Stilluppsteypa",
+    "year": "1998",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 3310,
+    "duration_human": "00:55:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Stilluppsteypa - Has (Or Has Not) Happened"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/has-or-has-not-happened_a77b4f32d936"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/14bab27334f61b92d20a/Has_Or_Has_Not_Happened.tar"
+    }
+  }
+}
