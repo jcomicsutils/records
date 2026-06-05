@@ -1,0 +1,31 @@
+{
+  "id": "reduce-by-reducing_ac25015e5311",
+  "fingerprint": "ac25015e5311ca5e4887d6864d5c0a8d808637de7381c35eab5979c231ff7df7",
+  "archived_at": "2026-06-05T07:56:40Z",
+  "metadata": {
+    "title": "Reduce by Reducing",
+    "artist": "Stilluppsteypa",
+    "year": "1998",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2516,
+    "duration_human": "00:41:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Stilluppsteypa - Please Explain!",
+      "02 Stilluppsteypa - The Unhappy Inventor",
+      "03 Stilluppsteypa - Reduce by Reducing",
+      "04 Stilluppsteypa - Moeder in de wolken (Remix by Ryoji Ikeda)",
+      "05 Stilluppsteypa - Dust Farm"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/reduce-by-reducing_ac25015e5311"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/ee1a2be75355ab547d52/Reduce_by_Reducing.tar"
+    }
+  }
+}
