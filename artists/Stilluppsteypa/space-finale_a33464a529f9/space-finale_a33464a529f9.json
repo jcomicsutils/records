@@ -1,0 +1,30 @@
+{
+  "id": "space-finale_a33464a529f9",
+  "fingerprint": "a33464a529f93ff63155486863e6e414958c8d929a4f28e2d2620803cb44bca2",
+  "archived_at": "2026-06-05T08:46:41Z",
+  "metadata": {
+    "title": "Space Finale",
+    "artist": "Stilluppsteypa",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 5591,
+    "duration_human": "01:33:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 BJ Nilsen & Stilluppsteypa - Space Finale 1.1",
+      "02 BJ Nilsen & Stilluppsteypa - Space Finale 1.2",
+      "03 BJ Nilsen & Stilluppsteypa - Space Finale 2.1",
+      "04 BJ Nilsen & Stilluppsteypa - Space Finale 2.2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/space-finale_a33464a529f9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/5b8f1e4e395d4841daa7/Space_Finale.tar"
+    }
+  }
+}
