@@ -1,0 +1,40 @@
+{
+  "id": "arctic_2ecb4d27c82b",
+  "fingerprint": "2ecb4d27c82b7774fd868caa17bbf922892014cd2f14459d519c515d2bb2904a",
+  "archived_at": "2026-06-05T21:35:05Z",
+  "metadata": {
+    "title": "Arctic",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 13904,
+    "duration_human": "03:51:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Glaciate",
+      "02 Zeffon - Death Wall",
+      "03 Zeffon - Sahelanthropus, or the Lava Key Ritual",
+      "04 Zeffon - Decay0 // Summer Sostice (Careáspice)",
+      "05 Zeffon - Bled the Idol of Ice",
+      "06 Zeffon - Sacred Tundra",
+      "07 Zeffon - Summit of Man",
+      "08 Zeffon - Visitation of Strangers",
+      "09 Zeffon - Origin of the Falls",
+      "10 Zeffon - Mutterings",
+      "11 Zeffon - Mountain of Snow",
+      "12 Zeffon - Permafrost",
+      "13 Zeffon - Climbing the Decaying Ladder of the Frost Ikon",
+      "14 Zeffon - Sound of Rain Pig"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/arctic_2ecb4d27c82b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/adbea1762c0bdb361042/Arctic.tar"
+    }
+  }
+}
