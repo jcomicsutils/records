@@ -1,0 +1,38 @@
+{
+  "id": "amnesia-memortria_ebd673922137",
+  "fingerprint": "ebd673922137e877b3591196e563be69124aafa8200349dab87483ed75d432df",
+  "archived_at": "2026-06-05T09:10:01Z",
+  "metadata": {
+    "title": "Amnesia Memortria",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2806,
+    "duration_human": "00:46:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Another Psychic Chord",
+      "02 Zeffon - Twilight",
+      "03 Zeffon - Lunar Crystals on the Lesser Moon",
+      "04 Zeffon - The Lunar Plane is Not to Be Messed With (Rotten Wind)",
+      "05 Zeffon - Reve's Take on the Second Moon",
+      "06 Zeffon - Amnesia",
+      "07 Zeffon - Into Cold Light",
+      "08 Zeffon - In... The Spirit",
+      "09 Zeffon - Lament of a Man",
+      "10 Zeffon - During the Watchtower",
+      "11 Zeffon - Memortria",
+      "12 Zeffon - City in the Stars"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/amnesia-memortria_ebd673922137"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/a03ff078f4f10b78e0b8/Amnesia_Memortria.tar"
+    }
+  }
+}
