@@ -1,0 +1,30 @@
+{
+  "id": "not-a-laughing-matter-but-rather-a-matter-of-laughs_23d0a496cb33",
+  "fingerprint": "23d0a496cb33a0140f692b0f9b6197fe8074e1dad530eb22771f362c2da5afd8",
+  "archived_at": "2026-06-05T07:33:24Z",
+  "metadata": {
+    "title": "Not a Laughing Matter, but Rather a Matter of Laughs",
+    "artist": "Stilluppsteypa",
+    "year": "1999",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1418,
+    "duration_human": "00:23:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Stilluppsteypa - [untitled]",
+      "02 Stilluppsteypa - [untitled]",
+      "03 Stilluppsteypa - [untitled]",
+      "04 Stilluppsteypa - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/not-a-laughing-matter-but-rather-a-matter-of-laughs_23d0a496cb33"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/35eb047dd3e4828eb2f1/Not_a_Laughing_Matter_but_Rather_a_Matter_of_Laughs.tar"
+    }
+  }
+}
