@@ -1,0 +1,30 @@
+{
+  "id": "abstract-frxxu-eumtzhd-tguoch-zrpamrichats-v_30f5005d5a59",
+  "fingerprint": "30f5005d5a59a72ccafad69dcf80ba7e429269b02b9be15e565f105f1e37efa8",
+  "archived_at": "2026-06-05T05:11:25Z",
+  "metadata": {
+    "title": "Abstract Frxxü (Ёумтжд - Тгуоч Зрпамричац V)",
+    "artist": "Zeffon",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4709,
+    "duration_human": "01:18:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Libraria Melody",
+      "02 Zeffon - Red Phenomenon (TI)",
+      "03 Zeffon - Abstract Forest Timing",
+      "04 Zeffon - Hrexxutrasxbvsm 5.50"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/abstract-frxxu-eumtzhd-tguoch-zrpamrichats-v_30f5005d5a59"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/13b3d04f8b930e056ba3/Abstract_Frxx_-_V.tar"
+    }
+  }
+}
