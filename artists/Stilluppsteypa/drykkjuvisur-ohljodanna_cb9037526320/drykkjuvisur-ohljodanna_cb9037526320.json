@@ -1,0 +1,32 @@
+{
+  "id": "drykkjuvisur-ohljodanna_cb9037526320",
+  "fingerprint": "cb9037526320cb1e9ca0e09df68d5e272ff718db3b9c564c1d788291a98936a0",
+  "archived_at": "2026-06-05T07:07:06Z",
+  "metadata": {
+    "title": "Drykkjuvisur Óhljódanna",
+    "artist": "Stilluppsteypa",
+    "year": "2006",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 3835,
+    "duration_human": "01:03:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 BJ Nilsen & Stilluppsteypa - Svefnlaus / Sömnlös",
+      "02 BJ Nilsen & Stilluppsteypa - Elstöt / Rafstud",
+      "03 BJ Nilsen & Stilluppsteypa - Undir Ahrifum / Sundurlaus",
+      "04 BJ Nilsen & Stilluppsteypa - Supbröder / Drykkjufélagar",
+      "05 BJ Nilsen & Stilluppsteypa - Undermaskin / Töfra Maskína",
+      "06 BJ Nilsen & Stilluppsteypa - Skuggbild / Skuggamynd"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/drykkjuvisur-ohljodanna_cb9037526320"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/12e7096b725e28feaaa8/Drykkjuvisur_hlj_danna.tar"
+    }
+  }
+}
