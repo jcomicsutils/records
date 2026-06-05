@@ -30,6 +30,7 @@
 - [Ensemble Pearl](Ensemble-Pearl/Ensemble-Pearl.md)
 - [Ever Present Orchestra](Ever-Present-Orchestra/Ever-Present-Orchestra.md)
 - [Exploring Jezebel](Exploring-Jezebel/Exploring-Jezebel.md)
+- [Father Noark](Father-Noark/Father-Noark.md)
 - [Flexy Gang](Flexy-Gang/Flexy-Gang.md)
 - [Foresteppe](Foresteppe/Foresteppe.md)
 - [Fungal Hex](Fungal-Hex/Fungal-Hex.md)
