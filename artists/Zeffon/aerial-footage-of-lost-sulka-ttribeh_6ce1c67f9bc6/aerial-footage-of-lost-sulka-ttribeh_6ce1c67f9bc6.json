@@ -1,0 +1,28 @@
+{
+  "id": "aerial-footage-of-lost-sulka-ttribeh_6ce1c67f9bc6",
+  "fingerprint": "6ce1c67f9bc62336f52e81df1ec8d02dc7cf18e03fe66f2a4efc774fcc67b4fb",
+  "archived_at": "2026-06-05T05:31:26Z",
+  "metadata": {
+    "title": "Aerial Footage of Lost Sulka Ttribeh",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 186,
+    "duration_human": "00:03:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - How to Dance...",
+      "02 Zeffon - Some Voice Ver. 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/aerial-footage-of-lost-sulka-ttribeh_6ce1c67f9bc6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/b2b3facdcc4b0d31bc29/Aerial_Footage_of_Lost_Sulka_Ttribeh.tar"
+    }
+  }
+}
