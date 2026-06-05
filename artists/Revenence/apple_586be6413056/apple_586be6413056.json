@@ -1,0 +1,33 @@
+{
+  "id": "apple_586be6413056",
+  "fingerprint": "586be64130561b85f8a7f927badf9370c4aeade44a77afdeb2d8d049f63a3bbc",
+  "archived_at": "2026-06-05T20:43:00Z",
+  "metadata": {
+    "title": "Apple",
+    "artist": "Revenence",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 4100,
+    "duration_human": "01:08:20",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Revenence - Yu A N T (Ver. 1)",
+      "02 Revenence - Behind the Front (Ver. 2)",
+      "03 Revenence - Apple",
+      "04 Revenence - Hefty Fines of Scale (Prev)",
+      "05 Revenence - Dh V drOr 55/50 (Ver. 1)",
+      "06 Revenence - Spring XIII",
+      "07 Revenence - Catalyst"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/apple_586be6413056"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/1c76b07e67f6a5cdc7db/Apple.tar"
+    }
+  }
+}
