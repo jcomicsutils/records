@@ -1,0 +1,42 @@
+{
+  "id": "atak003_ea55eba1881b",
+  "fingerprint": "ea55eba1881ba02024964d7760daa8e4a23393caf9efea639e3c145fc56586f9",
+  "archived_at": "2026-06-05T06:42:31Z",
+  "metadata": {
+    "title": "ATAK003",
+    "artist": "Stilluppsteypa",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_seconds": 3507,
+    "duration_human": "00:58:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Stilluppsteypa - [untitled]",
+      "02 Stilluppsteypa - [untitled]",
+      "03 Stilluppsteypa - [untitled]",
+      "04 Stilluppsteypa - [untitled]",
+      "05 Stilluppsteypa - [untitled]",
+      "06 Stilluppsteypa - [untitled]",
+      "07 Stilluppsteypa - [untitled]",
+      "08 Stilluppsteypa - [untitled]",
+      "09 Stilluppsteypa - [untitled]",
+      "10 Stilluppsteypa - [untitled]",
+      "11 Stilluppsteypa - [untitled]",
+      "12 Stilluppsteypa - [untitled]",
+      "13 Stilluppsteypa - [untitled]",
+      "14 Stilluppsteypa - [untitled]",
+      "15 Stilluppsteypa - [untitled]",
+      "16 Stilluppsteypa - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/atak003_ea55eba1881b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/e0b745ffce729c08d8a6/ATAK003.tar"
+    }
+  }
+}
