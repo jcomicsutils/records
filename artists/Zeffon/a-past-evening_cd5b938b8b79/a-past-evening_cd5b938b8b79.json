@@ -1,0 +1,32 @@
+{
+  "id": "a-past-evening_cd5b938b8b79",
+  "fingerprint": "cd5b938b8b7921658927102ee38a6af5e83d4be1492d94b8dc27bb39a289e65c",
+  "archived_at": "2026-06-05T04:51:48Z",
+  "metadata": {
+    "title": "A Past Evening",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1433,
+    "duration_human": "00:23:53",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Anzé",
+      "02 Zeffon - Murky Deep",
+      "03 Zeffon - Vine",
+      "04 Zeffon - A Past Evening",
+      "05 Zeffon - Strange Beckoning",
+      "06 Zeffon - Death of One Alone"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-past-evening_cd5b938b8b79"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/817e72ce8c1c095fea99/A_Past_Evening.tar"
+    }
+  }
+}
