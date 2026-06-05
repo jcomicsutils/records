@@ -1,0 +1,32 @@
+{
+  "id": "9999900-modulation-iv_a2b8a75a0993",
+  "fingerprint": "a2b8a75a09933f1beb1d10ec627950d4b7374a38948d3ace2e1541679000ad02",
+  "archived_at": "2026-06-05T03:11:23Z",
+  "metadata": {
+    "title": "9999900 (Modulation IV)",
+    "artist": "Zeffon",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 7089,
+    "duration_human": "01:58:09",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Covenant Lady Gives Birth to Terrarve dhIsg ne Emerlaine, Her Majesty (Tacky Actions)",
+      "02 Zeffon - Augment (Voc Exp)",
+      "03 Zeffon - 99999",
+      "04 Zeffon - Modulation",
+      "05 Zeffon - Folk Mnrreffe Don Montages",
+      "06 Zeffon - Busy Street Thoroughfare"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/9999900-modulation-iv_a2b8a75a0993"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/e249a503092bd55fb0e9/9999900_Modulation_IV.tar"
+    }
+  }
+}
