@@ -1,0 +1,35 @@
+{
+  "id": "antarctic_c0826aaf1344",
+  "fingerprint": "c0826aaf134483aa147cab6a0ebf417e27574e42b093e2ee9ce0ac49ec9d8f07",
+  "archived_at": "2026-06-05T18:31:33Z",
+  "metadata": {
+    "title": "Antarctic",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3041,
+    "duration_human": "00:50:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Yearning",
+      "02 Zeffon - Dead Language",
+      "03 Zeffon - Voice 67",
+      "04 Zeffon - Wave Thoughts",
+      "05 Zeffon - Birdstream",
+      "06 Zeffon - Abandoned Apprentice (By the Lake)",
+      "07 Zeffon - Death Fields",
+      "08 Zeffon - Antarctic",
+      "09 Zeffon - Hands Are Tied"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/antarctic_c0826aaf1344"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/1e1e96b5812945fa03fe/Antarctic.tar"
+    }
+  }
+}
