@@ -1,0 +1,35 @@
+{
+  "id": "the-best-pet-possible_7fffcddbecf9",
+  "fingerprint": "7fffcddbecf91fc557c3ba7235e62970bef8146ad490a7317bee06cf042a8a1d",
+  "archived_at": "2026-06-05T09:00:48Z",
+  "metadata": {
+    "title": "The Best Pet Possible",
+    "artist": "Stilluppsteypa",
+    "year": "1997",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2499,
+    "duration_human": "00:41:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Stilluppsteypa - A Cause for Alarm & Confusion I",
+      "02 Stilluppsteypa - A Cause for Alarm & Confusion II",
+      "03 Stilluppsteypa - A Cause for Alarm & Confusion III",
+      "04 Stilluppsteypa - A Cause for Alarm & Confusion IV",
+      "05 Stilluppsteypa - A Cause for Alarm & Confusion V",
+      "06 Stilluppsteypa - It Should Be(?)",
+      "07 Stilluppsteypa - The Too Close Hand",
+      "08 Stilluppsteypa - Tension Than Laugh",
+      "09 Stilluppsteypa - People With Loud Language Whisper Having Conversation While Speaking"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-best-pet-possible_7fffcddbecf9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/fc34899acd78d33c4483/The_Best_Pet_Possible.tar"
+    }
+  }
+}
