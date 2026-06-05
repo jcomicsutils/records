@@ -1,0 +1,28 @@
+{
+  "id": "alien-tombstone_8a87eb2883e3",
+  "fingerprint": "8a87eb2883e358902d7d163ad8904cc10e171422a1e09172c92dbe269eefdf70",
+  "archived_at": "2026-06-05T08:51:32Z",
+  "metadata": {
+    "title": "Alien Tombstone",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1977,
+    "duration_human": "00:32:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Alien Frog",
+      "02 Zeffon - Tomb of the Unknown"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/alien-tombstone_8a87eb2883e3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/f5065776408bb45d3e19/Alien_Tombstone.tar"
+    }
+  }
+}
