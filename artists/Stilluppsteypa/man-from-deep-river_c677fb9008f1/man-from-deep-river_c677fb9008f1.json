@@ -1,0 +1,29 @@
+{
+  "id": "man-from-deep-river_c677fb9008f1",
+  "fingerprint": "c677fb9008f18c4858466db7a9f739756de40ec2fe37dfd5088ce547e36abea2",
+  "archived_at": "2026-06-05T07:19:03Z",
+  "metadata": {
+    "title": "Man From Deep River",
+    "artist": "Stilluppsteypa",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4203,
+    "duration_human": "01:10:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 BJ Nilsen & Stilluppsteypa - Man From Deep River Part One",
+      "02 BJ Nilsen & Stilluppsteypa - Man From Deep River Part Two",
+      "03 BJ Nilsen & Stilluppsteypa - Man From Deep River Part Three"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/man-from-deep-river_c677fb9008f1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/9adc211cc1c087ad747c/Man_From_Deep_River.tar"
+    }
+  }
+}
