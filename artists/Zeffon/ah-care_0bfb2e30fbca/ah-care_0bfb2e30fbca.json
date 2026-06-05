@@ -1,0 +1,30 @@
+{
+  "id": "ah-care_0bfb2e30fbca",
+  "fingerprint": "0bfb2e30fbcad4fbce0722b56c9cbbe90d676da013bcb6ae9a1b8ef434bb16a5",
+  "archived_at": "2026-06-05T08:49:36Z",
+  "metadata": {
+    "title": "Ah Care",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2143,
+    "duration_human": "00:35:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Agitated Loop De Loop",
+      "02 Zeffon - Summer Love is the Health of the Blaha",
+      "03 Zeffon - Ah Care For U (E0-56)",
+      "04 Zeffon - Tale End"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ah-care_0bfb2e30fbca"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/be86708a15791479f42b/Ah_Care.tar"
+    }
+  }
+}
