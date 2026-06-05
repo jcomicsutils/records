@@ -1,0 +1,28 @@
+{
+  "id": "4569hwptrace_06b3de94adc1",
+  "fingerprint": "06b3de94adc1b1342400896a4e1ee42c0d6c0ff062443926a32b0b9505a21901",
+  "archived_at": "2026-06-05T03:07:36Z",
+  "metadata": {
+    "title": "4569h/w/ptrace",
+    "artist": "Zeffon",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 545,
+    "duration_human": "00:09:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Gh",
+      "02 Zeffon - OR-Trohrudge (Nachos For Lunch) (Remix 4-13-20)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/4569hwptrace_06b3de94adc1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/98ddf2b4517b46582cfd/4569h_-_w_-_ptrace.tar"
+    }
+  }
+}
