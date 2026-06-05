@@ -1,0 +1,32 @@
+{
+  "id": "apathy_4103b532eeab",
+  "fingerprint": "4103b532eeabd609ed0b80a4aa5885de72c61f013002952f529c0fbaeec4d857",
+  "archived_at": "2026-06-05T19:47:17Z",
+  "metadata": {
+    "title": "Apathy",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2008,
+    "duration_human": "00:33:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Apathy",
+      "02 Zeffon - Ashes",
+      "03 Zeffon - Spin?",
+      "04 Zeffon - After The Storm",
+      "05 Zeffon - Astronomy",
+      "06 Zeffon - Anomalies"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/apathy_4103b532eeab"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/199db3b78d108ce03077/Apathy.tar"
+    }
+  }
+}

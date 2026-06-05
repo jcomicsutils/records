@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [7429FD](7429fd_364ea85445f8/7429fd_364ea85445f8.md) | 2009 | FLAC | 00:01:27 | [IA](https://archive.org/details/7429fd_364ea85445f8) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/df5dcabca74af5aa134c/7429FD.tar) |
+| [Apathy](apathy_4103b532eeab/apathy_4103b532eeab.md) | 2012 | FLAC | 00:33:28 | [IA](https://archive.org/details/apathy_4103b532eeab) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/199db3b78d108ce03077/Apathy.tar) |
 | [Addendum](addendum_27a79c8d8d31/addendum_27a79c8d8d31.md) | 2012 | FLAC | 00:04:57 | [IA](https://archive.org/details/addendum_27a79c8d8d31) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/3a2f8b646526cc63e3cd/Addendum.tar) |
 | [A Past Evening](a-past-evening_cd5b938b8b79/a-past-evening_cd5b938b8b79.md) | 2012 | FLAC | 00:23:53 | [IA](https://archive.org/details/a-past-evening_cd5b938b8b79) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/817e72ce8c1c095fea99/A_Past_Evening.tar) |
 | [Above All](above-all_b90967b2cc60/above-all_b90967b2cc60.md) | 2013 | FLAC | 01:00:47 | [IA](https://archive.org/details/above-all_b90967b2cc60) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/4142e38feb4b5c9447fb/Above_All.tar) |
