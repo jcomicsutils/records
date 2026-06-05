@@ -1,0 +1,34 @@
+{
+  "id": "agor-2-illusion_afd76b372e30",
+  "fingerprint": "afd76b372e30bc682c6e54b38d1be0fa6172fb196198b26e03b041dc6ddd8918",
+  "archived_at": "2026-06-05T07:09:58Z",
+  "metadata": {
+    "title": "Agor 2 - Illusion",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 5557,
+    "duration_human": "01:32:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - AK74",
+      "02 Zeffon - Music for Forestry Propaganda 2",
+      "03 Zeffon - Love Books",
+      "04 Zeffon - Music for Forestry Propaganda 1",
+      "05 Zeffon - Illusion II",
+      "06 Zeffon - Music for Forestry Propaganda 3",
+      "07 Zeffon - Red Paint",
+      "08 Zeffon - Sinking"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/agor-2-illusion_afd76b372e30"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/a57c8c64044f7a564180/Agor_2_-_Illusion.tar"
+    }
+  }
+}
