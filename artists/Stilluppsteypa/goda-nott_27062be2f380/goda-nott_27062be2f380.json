@@ -1,0 +1,28 @@
+{
+  "id": "goda-nott_27062be2f380",
+  "fingerprint": "27062be2f3804d999d21b8dbf599038f05bd2ac68b5f05a234d0d3122a4efa19",
+  "archived_at": "2026-06-05T07:08:24Z",
+  "metadata": {
+    "title": "Góða Nótt",
+    "artist": "Stilluppsteypa",
+    "year": "2012",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 2687,
+    "duration_human": "00:44:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 BJ Nilsen & Stilluppsteypa - Góða Nótt 1",
+      "02 BJ Nilsen & Stilluppsteypa - Góða Nótt 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/goda-nott_27062be2f380"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/c84d5fb123bd61dc3f60/G_a_N_tt.tar"
+    }
+  }
+}
