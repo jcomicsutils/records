@@ -23,6 +23,7 @@
 - [Death Ambient](Death-Ambient/Death-Ambient.md)
 - [Deerhoof](Deerhoof/Deerhoof.md)
 - [Deerhunter](Deerhunter/Deerhunter.md)
+- [Delia Detritus](Delia-Detritus/Delia-Detritus.md)
 - [Dirty Three](Dirty-Three/Dirty-Three.md)
 - [Doron Sadja](Doron-Sadja/Doron-Sadja.md)
 - [Egor Klochikhin](Egor-Klochikhin/Egor-Klochikhin.md)

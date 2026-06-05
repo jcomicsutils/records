@@ -1,0 +1,34 @@
+{
+  "id": "the-breeze-chamber_8eb683aaaf52",
+  "fingerprint": "8eb683aaaf52199c126cbb37c422c64e9c4ea285013255f18014b032f2bb9806",
+  "archived_at": "2026-06-05T07:55:40Z",
+  "metadata": {
+    "title": "The Breeze Chamber",
+    "artist": "Delia Detritus",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2527,
+    "duration_human": "00:42:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Max K Weaver - Previous Phase",
+      "02 Delia Detritus - Paris (For Umberto)",
+      "03 Max K Weaver - Big Sun",
+      "04 Delia Detritus - Monumental Sulk",
+      "05 Max K Weaver - Please Wait Here",
+      "06 Delia Detritus - Wet Swarm",
+      "07 Max K Weaver - Whistle From The Inside",
+      "08 Delia Detritus - A Quiet Hum"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-breeze-chamber_8eb683aaaf52"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/f16c79f883c2b5f39492/The_Breeze_Chamber.tar"
+    }
+  }
+}
