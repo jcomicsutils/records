@@ -1,0 +1,30 @@
+{
+  "id": "aerosol-of-states_39072fee643d",
+  "fingerprint": "39072fee643d88a2b50b7bbc8cc96aea8091322e748bb1656a0aa9c95b4aedd4",
+  "archived_at": "2026-06-05T05:32:31Z",
+  "metadata": {
+    "title": "Aerosol of States",
+    "artist": "Zeffon",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3113,
+    "duration_human": "00:51:53",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Br Tr Oprna LXE",
+      "02 Zeffon - Aerosol of States",
+      "03 Zeffon - Veracity of Assumptions (Error)",
+      "04 Zeffon - Triif"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/aerosol-of-states_39072fee643d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/f3494a6269c8bcce296e/Aerosol_of_States.tar"
+    }
+  }
+}
