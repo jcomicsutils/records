@@ -1,0 +1,32 @@
+{
+  "id": "93912ga_cb1e75b47d51",
+  "fingerprint": "cb1e75b47d51782fd3db9fdbb8beebbbd23056eef5548f7ff7bc3039a946cfe5",
+  "archived_at": "2026-06-05T02:44:10Z",
+  "metadata": {
+    "title": "93/912GA",
+    "artist": "Zeffon",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 5141,
+    "duration_human": "01:25:41",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Prosperity 1",
+      "02 Zeffon - Prosperity 2",
+      "03 Zeffon - Prosperity 3",
+      "04 Zeffon - Underlying Tones of Pink",
+      "05 Zeffon - 93/912GA",
+      "06 Zeffon - Trick Hoop"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/93912ga_cb1e75b47d51"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/1aad7d5fd12725df5fe4/93_-_912GA.tar"
+    }
+  }
+}
