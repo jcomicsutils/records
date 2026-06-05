@@ -1,0 +1,31 @@
+{
+  "id": "542124-mzweet-quantity_0abba87b7313",
+  "fingerprint": "0abba87b7313015371a0efd004ad1bba48ca4d85ccb1bcfcd18811d74334e079",
+  "archived_at": "2026-06-05T00:06:31Z",
+  "metadata": {
+    "title": "54/21/24 (Mzweet Quantity)",
+    "artist": "Zeffon",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 4453,
+    "duration_human": "01:14:13",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Effigy Crystals",
+      "02 Zeffon - Re-examine Your Duties",
+      "03 Zeffon - The Water From the Spring",
+      "04 Zeffon - Aftermath (Murder Mzweet Return)",
+      "05 Zeffon - Aftermath (Murder)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/542124-mzweet-quantity_0abba87b7313"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/bca6d41269b2e6d449bc/54_-_21_-_24_Mzweet_Quantity.tar"
+    }
+  }
+}
