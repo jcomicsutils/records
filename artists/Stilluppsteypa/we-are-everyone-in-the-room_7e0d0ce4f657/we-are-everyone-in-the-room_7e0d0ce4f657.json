@@ -1,0 +1,31 @@
+{
+  "id": "we-are-everyone-in-the-room_7e0d0ce4f657",
+  "fingerprint": "7e0d0ce4f657d8fd91308b079bca95a756d9ecb6eea8cad7dcf8fef36f88aa77",
+  "archived_at": "2026-06-05T09:26:26Z",
+  "metadata": {
+    "title": "We Are Everyone in the Room",
+    "artist": "Stilluppsteypa",
+    "year": "2001",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2930,
+    "duration_human": "00:48:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Stilluppsteypa & TV Pow - Michigan Impossible",
+      "02 Stilluppsteypa & TV Pow - For Starters We Have Nothing Conclusive",
+      "03 Stilluppsteypa & TV Pow - Where's Your Asian Girlfriend",
+      "04 Stilluppsteypa & TV Pow - International Starving Artists",
+      "05 Stilluppsteypa & TV Pow - This Place Looks Like Flint or Double Ass Shot (You Guys Can Pick, We Like Double Ass Shot)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/we-are-everyone-in-the-room_7e0d0ce4f657"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/ba38069afd2e38dadb43/We_Are_Everyone_in_the_Room.tar"
+    }
+  }
+}
