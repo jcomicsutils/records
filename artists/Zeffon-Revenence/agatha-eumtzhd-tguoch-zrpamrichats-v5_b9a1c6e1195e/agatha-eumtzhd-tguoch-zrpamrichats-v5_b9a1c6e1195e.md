@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/agatha-eumtzhd-tguoch-zrpamrichats-v5_b9a1c6e1195e)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/38dc752016719edb5590/Agatha_-_V.5.tar)
 
 ## Tracklist
 
