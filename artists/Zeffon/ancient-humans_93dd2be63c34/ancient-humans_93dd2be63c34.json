@@ -1,0 +1,34 @@
+{
+  "id": "ancient-humans_93dd2be63c34",
+  "fingerprint": "93dd2be63c3468a377d1bf0295a195550d3943b4c4cddfe707f5852adcffa870",
+  "archived_at": "2026-06-05T10:23:44Z",
+  "metadata": {
+    "title": "Ancient Humans",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 6251,
+    "duration_human": "01:44:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Ancient Human",
+      "02 Zeffon - Bones (My Elegy of Emptiness)",
+      "03 Zeffon - Breath",
+      "04 Zeffon - Whirlpool",
+      "05 Zeffon - Waterfall of Old, Part 1",
+      "06 Zeffon - Legendary Flying Creature",
+      "07 Zeffon - Book of the Dead",
+      "08 Zeffon - Drink of Kings"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ancient-humans_93dd2be63c34"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/8827c4b607452284ea9b/Ancient_Humans.tar"
+    }
+  }
+}
