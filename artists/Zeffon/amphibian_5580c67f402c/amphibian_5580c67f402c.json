@@ -1,0 +1,31 @@
+{
+  "id": "amphibian_5580c67f402c",
+  "fingerprint": "5580c67f402cde808d40d7094d7fab973a95cabec5ce33c05f871aca861ac418",
+  "archived_at": "2026-06-05T09:43:59Z",
+  "metadata": {
+    "title": "Amphibian",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 10518,
+    "duration_human": "02:55:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Parachute",
+      "02 Zeffon - Frog-Man",
+      "03 Zeffon - The Misty Mire Has Naught But Withering Orchids",
+      "04 Zeffon - Marsh Enhancement",
+      "05 Zeffon - Amphibian Dusk"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/amphibian_5580c67f402c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/b30d8191d2c8572623ba/Amphibian.tar"
+    }
+  }
+}
