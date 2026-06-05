@@ -1,0 +1,30 @@
+{
+  "id": "a-brand-of-violence_f3d777dd7fd9",
+  "fingerprint": "f3d777dd7fd9da6f7cfe8e0f2cb23b9224e2234fd246bccfc8f59cb3034f51dd",
+  "archived_at": "2026-06-05T03:15:26Z",
+  "metadata": {
+    "title": "A Brand of Violence",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 858,
+    "duration_human": "00:14:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Love is a Curious Thing",
+      "02 Zeffon - Hug, Hug",
+      "03 Zeffon - Chaos Shrine",
+      "04 Zeffon - Hidden Record of Families"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-brand-of-violence_f3d777dd7fd9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/be2776f81907e7a092d5/A_Brand_of_Violence.tar"
+    }
+  }
+}
