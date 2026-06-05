@@ -1,0 +1,27 @@
+{
+  "id": "a-lot-of-pain_1547147f0cf6",
+  "fingerprint": "1547147f0cf637601e5cdc27d3cfa8fb2a384bfbafeda8a139f507da55070890",
+  "archived_at": "2026-06-05T03:31:52Z",
+  "metadata": {
+    "title": "A Lot of Pain",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 127,
+    "duration_human": "00:02:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Birthday (Single)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-lot-of-pain_1547147f0cf6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/9b2f39b08db993e19d57/A_Lot_of_Pain.tar"
+    }
+  }
+}
