@@ -1,0 +1,29 @@
+{
+  "id": "94-grs-11_dd7211bd7be7",
+  "fingerprint": "dd7211bd7be7afde25818b02774c6e6db5ef247a77d34b7628141befd10e24ac",
+  "archived_at": "2026-06-05T03:02:29Z",
+  "metadata": {
+    "title": "94 GRS 11",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2449,
+    "duration_human": "00:40:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Ansede, My Father",
+      "02 Zeffon - To Trample Mutilation and To Always Tell the Truth (Whip, The Abandoned Town)",
+      "03 Zeffon - The Turning of the Shadow"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/94-grs-11_dd7211bd7be7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/ea65781bad739d7b9521/94_GRS_11.tar"
+    }
+  }
+}
