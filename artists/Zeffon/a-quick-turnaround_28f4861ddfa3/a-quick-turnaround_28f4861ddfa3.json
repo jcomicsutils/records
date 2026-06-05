@@ -1,0 +1,28 @@
+{
+  "id": "a-quick-turnaround_28f4861ddfa3",
+  "fingerprint": "28f4861ddfa342a4fcd7dab91f32144df8239d2e76805c4390b0b9c0cde4723f",
+  "archived_at": "2026-06-05T04:53:00Z",
+  "metadata": {
+    "title": "A Quick Turnaround",
+    "artist": "Zeffon",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2326,
+    "duration_human": "00:38:46",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Bleat and Scoff 1",
+      "02 Zeffon - Airy Insignificance / A Quick Turnaround"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-quick-turnaround_28f4861ddfa3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/cce7cbed466418067ad1/A_Quick_Turnaround.tar"
+    }
+  }
+}
