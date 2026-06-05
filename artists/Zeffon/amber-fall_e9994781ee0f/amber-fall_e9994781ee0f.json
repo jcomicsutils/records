@@ -1,0 +1,55 @@
+{
+  "id": "amber-fall_e9994781ee0f",
+  "fingerprint": "e9994781ee0f7478a3360631762cd1f7ade2f67333c02f14463ee3864fc3d605",
+  "archived_at": "2026-06-05T09:04:40Z",
+  "metadata": {
+    "title": "Amber Fall",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 29,
+    "duration_seconds": 12462,
+    "duration_human": "03:27:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Forest",
+      "02 Zeffon - Terror in the Eyes of Many",
+      "03 Zeffon - Deep Forest",
+      "04 Zeffon - Statue of Mossy Stone",
+      "05 Zeffon - A Strange Summoning",
+      "06 Zeffon - Eye Watching",
+      "07 Zeffon - The Lone Tribal Man",
+      "08 Zeffon - The Lane",
+      "09 Zeffon - Depths of the Rainforest",
+      "10 Zeffon - Exercise",
+      "11 Zeffon - Amber Fall",
+      "12 Zeffon - Amazon",
+      "13 Zeffon - Aier",
+      "14 Zeffon - Death Book",
+      "15 Zeffon - Chemical",
+      "16 Zeffon - M-Spiral",
+      "17 Zeffon - Don't Care",
+      "18 Zeffon - Sometimes I Get Lonely",
+      "19 Zeffon - Voice of Dead Dictator",
+      "20 Zeffon - The Sweet Scent",
+      "21 Zeffon - Rotten Teeth",
+      "22 Zeffon - Remembrance",
+      "23 Zeffon - Give Me Your Soul",
+      "24 Zeffon - Smoke",
+      "25 Zeffon - To Stand",
+      "26 Zeffon - Veil of Memory",
+      "27 Zeffon - Even Though Help is on its Way",
+      "28 Zeffon - Smashing of Bones",
+      "29 Zeffon - Admission"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/amber-fall_e9994781ee0f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/b50f7afb30b6a6ae935f/Amber_Fall.tar"
+    }
+  }
+}
