@@ -1,0 +1,27 @@
+{
+  "id": "passing-out_db8a43fabb40",
+  "fingerprint": "db8a43fabb401444d9d405900310ae1d6e064ea94a299c7d6fbd43c774d051df",
+  "archived_at": "2026-06-05T07:53:30Z",
+  "metadata": {
+    "title": "Passing Out",
+    "artist": "Stilluppsteypa",
+    "year": "2008",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 4070,
+    "duration_human": "01:07:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 BJ Nilsen & Stilluppsteypa - Scandinavian Tourist"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/passing-out_db8a43fabb40"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/5262dd40fc40a7fcccd7/Passing_Out.tar"
+    }
+  }
+}
