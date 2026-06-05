@@ -1,0 +1,37 @@
+{
+  "id": "schokolino-choco-loco_1baf9a6a607e",
+  "fingerprint": "1baf9a6a607e643fd8d90f66a6b9afe02c00857619aab3c7d296020b2ee7922c",
+  "archived_at": "2026-06-05T08:13:04Z",
+  "metadata": {
+    "title": "Schokolino Choco Loco",
+    "artist": "Stilluppsteypa",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2858,
+    "duration_human": "00:47:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Stilluppsteypa - Downtown Club Owner",
+      "02 Stilluppsteypa - Hot and Steamy Sweatpants",
+      "03 Stilluppsteypa - No Need to Thank Meme",
+      "04 Stilluppsteypa - Second-Rate Quality Good Stuff",
+      "05 Stilluppsteypa - Look What the Dog Bought In",
+      "06 Stilluppsteypa - Shakin Cat Stevens",
+      "07 Stilluppsteypa - Farmer Had a Farm Song (Crazy Dog Lady)",
+      "08 Stilluppsteypa - Ukulele House of Worship Aka Casino Place",
+      "09 Stilluppsteypa - This Town is Big Enough for You Two",
+      "10 Stilluppsteypa - Less is More for My Baby",
+      "11 Stilluppsteypa - Unexpected Money Transfer"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/schokolino-choco-loco_1baf9a6a607e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/0e8238f56c5d6e83c42d/Schokolino_Choco_Loco.tar"
+    }
+  }
+}
