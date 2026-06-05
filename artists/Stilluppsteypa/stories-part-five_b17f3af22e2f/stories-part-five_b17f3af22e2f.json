@@ -1,0 +1,38 @@
+{
+  "id": "stories-part-five_b17f3af22e2f",
+  "fingerprint": "b17f3af22e2f2404678df7a5bf6ddcd4ff10dea66b9acd7225d6063ae3fc5e5c",
+  "archived_at": "2026-06-05T08:55:25Z",
+  "metadata": {
+    "title": "Stories Part Five",
+    "artist": "Stilluppsteypa",
+    "year": "2001",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2870,
+    "duration_human": "00:47:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Stilluppsteypa - Nice Things to File Away Forever!",
+      "02 Stilluppsteypa - Which Serve the Purpose Not Only",
+      "03 Stilluppsteypa - Most of the Holiday Spent in the Bathroom",
+      "04 Stilluppsteypa - When I Was Eight Years Old",
+      "05 Stilluppsteypa - (Guest One & Six Make Me Want to Sleep)",
+      "06 Stilluppsteypa - Love Brother (Of the Parent's House)",
+      "07 Stilluppsteypa - Memories of Brown Bucket",
+      "08 Stilluppsteypa - Malemachine = Slightly Drunk (Tipsy)",
+      "09 Stilluppsteypa - Yes Sir Can I Improvise?",
+      "10 Stilluppsteypa - Objects With Shiny Surfaces",
+      "11 Stilluppsteypa - All Drummers Shiver",
+      "12 Stilluppsteypa - We Sure Could Do With Some Help"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stories-part-five_b17f3af22e2f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/1890c064fbef06c57d07/Stories_Part_Five.tar"
+    }
+  }
+}
