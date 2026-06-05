@@ -1,0 +1,34 @@
+{
+  "id": "the-scab-on-my-mothers-leg_4aab8a96de19",
+  "fingerprint": "4aab8a96de197a10d30c432da53e408dffb6e2e8806069f4432204fbd8e1d442",
+  "archived_at": "2026-06-05T07:59:08Z",
+  "metadata": {
+    "title": "The Scab On My Mothers Leg",
+    "artist": "Delia Detritus",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2801,
+    "duration_human": "00:46:41",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Delia Detritus - A Promise",
+      "02 Delia Detritus - Cider Kiss",
+      "03 Delia Detritus - The Brontosaurus Lady (thanks Gen)",
+      "04 Delia Detritus - Affection - Affliction",
+      "05 Delia Detritus - Anthropomorphism",
+      "06 Delia Detritus - Big Buildings",
+      "07 Delia Detritus - Propofol",
+      "08 Delia Detritus - Willow (The Sound That Kills Men)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-scab-on-my-mothers-leg_4aab8a96de19"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/ddf0b6e659fd1ce000fd/The_Scab_On_My_Mothers_Leg.tar"
+    }
+  }
+}
