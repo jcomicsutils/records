@@ -1,0 +1,28 @@
+{
+  "id": "i-was-there-that-would-be_30de975db2c6",
+  "fingerprint": "30de975db2c600e1510d8031cd77e64c2ded30059fd053552cf119c5f1051422",
+  "archived_at": "2026-06-05T07:14:09Z",
+  "metadata": {
+    "title": "I Was There / That Would Be",
+    "artist": "Stilluppsteypa",
+    "year": "1996",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 679,
+    "duration_human": "00:11:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The Hafler Trio - I Was There",
+      "02 Stilluppsteypa - That Would Be"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-was-there-that-would-be_30de975db2c6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/71d54d8e6fecdab95b27/I_Was_There_-_That_Would_Be.tar"
+    }
+  }
+}
