@@ -1,0 +1,28 @@
+{
+  "id": "big-shadow-montana_ef0ec8cc0804",
+  "fingerprint": "ef0ec8cc08043a2c3ceb56ba81f452eda1a92731655c49d603bd430358646b7d",
+  "archived_at": "2026-06-05T06:59:20Z",
+  "metadata": {
+    "title": "Big Shadow Montana",
+    "artist": "Stilluppsteypa",
+    "year": "2011",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 2740,
+    "duration_human": "00:45:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 BJ Nilsen & Stilluppsteypa - [untitled]",
+      "02 BJ Nilsen & Stilluppsteypa - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/big-shadow-montana_ef0ec8cc0804"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/91e1c078f2a5b6399372/Big_Shadow_Montana.tar"
+    }
+  }
+}
