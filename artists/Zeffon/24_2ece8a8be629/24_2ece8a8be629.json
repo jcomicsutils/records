@@ -1,0 +1,27 @@
+{
+  "id": "24_2ece8a8be629",
+  "fingerprint": "2ece8a8be629a58e880e4c7793ecd2958e7de490fe48f1fcaeaeb96b6180b2b8",
+  "archived_at": "2026-06-05T00:03:13Z",
+  "metadata": {
+    "title": "24",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1170,
+    "duration_human": "00:19:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - ½"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/24_2ece8a8be629"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/7db54c3a7b9af6a61dc7/24.tar"
+    }
+  }
+}
