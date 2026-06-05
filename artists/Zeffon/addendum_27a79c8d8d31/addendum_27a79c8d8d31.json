@@ -1,0 +1,27 @@
+{
+  "id": "addendum_27a79c8d8d31",
+  "fingerprint": "27a79c8d8d310c623c38fb14f20e4e9196348346003a8b116df741322baf798c",
+  "archived_at": "2026-06-05T05:30:36Z",
+  "metadata": {
+    "title": "Addendum",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 297,
+    "duration_human": "00:04:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Addendum"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/addendum_27a79c8d8d31"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/3a2f8b646526cc63e3cd/Addendum.tar"
+    }
+  }
+}

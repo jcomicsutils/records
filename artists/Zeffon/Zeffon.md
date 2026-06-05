@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [7429FD](7429fd_364ea85445f8/7429fd_364ea85445f8.md) | 2009 | FLAC | 00:01:27 | [IA](https://archive.org/details/7429fd_364ea85445f8) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/df5dcabca74af5aa134c/7429FD.tar) |
+| [Addendum](addendum_27a79c8d8d31/addendum_27a79c8d8d31.md) | 2012 | FLAC | 00:04:57 | [IA](https://archive.org/details/addendum_27a79c8d8d31) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/3a2f8b646526cc63e3cd/Addendum.tar) |
 | [A Past Evening](a-past-evening_cd5b938b8b79/a-past-evening_cd5b938b8b79.md) | 2012 | FLAC | 00:23:53 | [IA](https://archive.org/details/a-past-evening_cd5b938b8b79) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/817e72ce8c1c095fea99/A_Past_Evening.tar) |
 | [Above All](above-all_b90967b2cc60/above-all_b90967b2cc60.md) | 2013 | FLAC | 01:00:47 | [IA](https://archive.org/details/above-all_b90967b2cc60) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/4142e38feb4b5c9447fb/Above_All.tar) |
 | [A Lot of Pain](a-lot-of-pain_1547147f0cf6/a-lot-of-pain_1547147f0cf6.md) | 2013 | FLAC | 00:02:07 | [IA](https://archive.org/details/a-lot-of-pain_1547147f0cf6) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/9b2f39b08db993e19d57/A_Lot_of_Pain.tar) |
