@@ -1,0 +1,28 @@
+{
+  "id": "7429fd_364ea85445f8",
+  "fingerprint": "364ea85445f84b9edf62726013aab4b88a40f6d371960d03e423a68897313909",
+  "archived_at": "2026-06-05T03:08:28Z",
+  "metadata": {
+    "title": "7429FD",
+    "artist": "Zeffon",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 87,
+    "duration_human": "00:01:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Active Origin",
+      "02 Zeffon - PlSo / Untitled"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/7429fd_364ea85445f8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/df5dcabca74af5aa134c/7429FD.tar"
+    }
+  }
+}
