@@ -1,0 +1,31 @@
+{
+  "id": "agor-1-prophecies-of-gehl-remixes_9de96f289243",
+  "fingerprint": "9de96f289243b6ebb7fd26da840cd5858d0b528edcd9720552ef30c08e30ea5f",
+  "archived_at": "2026-06-05T07:03:22Z",
+  "metadata": {
+    "title": "Agor 1 - Prophecies of Gehl (Remixes)",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 5498,
+    "duration_human": "01:31:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Azure Approval",
+      "02 Zeffon - Osmosis",
+      "03 Zeffon - Evoke",
+      "04 Zeffon - A Circle Within",
+      "05 Zeffon - True"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/agor-1-prophecies-of-gehl-remixes_9de96f289243"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/332727fc554ffb579abb/Agor_1_-_Prophecies_of_Gehl_Remixes.tar"
+    }
+  }
+}
