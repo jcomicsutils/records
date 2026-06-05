@@ -1,0 +1,29 @@
+{
+  "id": "mort-aux-vaches_27aa714af6bc",
+  "fingerprint": "27aa714af6bc0e1bd9c63a2a79a941c558c1771998eff2667555fb2f315b19e0",
+  "archived_at": "2026-06-05T07:26:58Z",
+  "metadata": {
+    "title": "Mort Aux Vaches",
+    "artist": "Stilluppsteypa",
+    "year": "1997",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1933,
+    "duration_human": "00:32:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Stilluppsteypa - One by Two",
+      "02 Stilluppsteypa - Do Not Know Well",
+      "03 Stilluppsteypa - On the Right There"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mort-aux-vaches_27aa714af6bc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/dbb4384680f0d0b399c7/Mort_Aux_Vaches.tar"
+    }
+  }
+}
