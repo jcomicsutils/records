@@ -1,0 +1,36 @@
+{
+  "id": "768613a_d6826eb2bf86",
+  "fingerprint": "d6826eb2bf868388457ec3be0dd6552b926344e8de83db4a8e814d7aa7b402a7",
+  "archived_at": "2026-06-05T02:22:54Z",
+  "metadata": {
+    "title": "76/86/13A",
+    "artist": "Serpentmouth",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 42654,
+    "duration_human": "11:50:54",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Serpentmouth - 76/86/13A",
+      "02 Serpentmouth - I Didn't Commit a Murder I Blamed On Someone Else",
+      "03 Serpentmouth - Evil Crosses Water",
+      "04 Serpentmouth - Dark Minerals",
+      "05 Serpentmouth - Murder (IT1) [Minerals Ver. 2]",
+      "06 Serpentmouth - Red (Restricted Zone)",
+      "07 Serpentmouth - Oroisres (Signal Radar) [Uh-tuh Ver. 1]",
+      "08 Serpentmouth - P WS 110A (Uh-tuh Ver. 2)",
+      "09 Serpentmouth - Offsrêêse Utuh (Uh-tuh Ver. 3)",
+      "10 Serpentmouth - Serpent Space Lunar Non-Solar"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/768613a_d6826eb2bf86"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/00d543e0bb5c69d16352/76_-_86_-_13A.tar"
+    }
+  }
+}

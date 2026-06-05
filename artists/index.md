@@ -64,6 +64,7 @@
 - [Revenence](Revenence/Revenence.md)
 - [Roel Meelkop](Roel-Meelkop/Roel-Meelkop.md)
 - [Sarin](Sarin/Sarin.md)
+- [Serpentmouth](Serpentmouth/Serpentmouth.md)
 - [Siouxsie and The Banshees](Siouxsie-and-The-Banshees/Siouxsie-and-The-Banshees.md)
 - [St. Francis Duo](St.-Francis-Duo/St.-Francis-Duo.md)
 - [Steinbrüchel](Steinbrüchel/Steinbrüchel.md)
