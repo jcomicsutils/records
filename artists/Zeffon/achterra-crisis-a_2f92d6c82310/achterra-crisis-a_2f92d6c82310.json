@@ -1,0 +1,28 @@
+{
+  "id": "achterra-crisis-a_2f92d6c82310",
+  "fingerprint": "2f92d6c82310ac9033f7a3f7a46f709a9c50818a8b66f78ce797f0739c9dc97f",
+  "archived_at": "2026-06-05T05:18:58Z",
+  "metadata": {
+    "title": "Achterra - Crisis A",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 567,
+    "duration_human": "00:09:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Pretty You",
+      "02 Zeffon - Pnouyramra"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/achterra-crisis-a_2f92d6c82310"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/edbb2fdd96f75f3aa289/Achterra_-_Crisis_A.tar"
+    }
+  }
+}
