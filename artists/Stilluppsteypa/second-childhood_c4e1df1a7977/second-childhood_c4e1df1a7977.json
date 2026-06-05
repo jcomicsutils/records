@@ -1,0 +1,32 @@
+{
+  "id": "second-childhood_c4e1df1a7977",
+  "fingerprint": "c4e1df1a7977eb370cb6a2f1a1650c6dc2b35a8de0847061c83943da19a9c0cb",
+  "archived_at": "2026-06-05T08:18:34Z",
+  "metadata": {
+    "title": "Second Childhood",
+    "artist": "Stilluppsteypa",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3405,
+    "duration_human": "00:56:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Hildur Guðnadóttir, BJ Nilsen & Stilluppsteypa - It's About the Size of a House / Temple of the Holy Tooth",
+      "02 Hildur Guðnadóttir, BJ Nilsen & Stilluppsteypa - How to Catch the Right Thought",
+      "03 Hildur Guðnadóttir, BJ Nilsen & Stilluppsteypa - The Direction Was Foggy or Cloudy",
+      "04 Hildur Guðnadóttir, BJ Nilsen & Stilluppsteypa - I Have Seen Similar Stones",
+      "05 Hildur Guðnadóttir, BJ Nilsen & Stilluppsteypa - Arrival",
+      "06 Hildur Guðnadóttir, BJ Nilsen & Stilluppsteypa - Writing on a Dead Animal"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/second-childhood_c4e1df1a7977"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/d7763fc940f1476ba0df/Second_Childhood.tar"
+    }
+  }
+}
