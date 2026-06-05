@@ -1,0 +1,28 @@
+{
+  "id": "achterra-crisis-b_28cb5e7eb753",
+  "fingerprint": "28cb5e7eb75311affc414ef328b8358b02958a4fa41b855795a167d89126a2c2",
+  "archived_at": "2026-06-05T05:24:14Z",
+  "metadata": {
+    "title": "Achterra - Crisis B",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1044,
+    "duration_human": "00:17:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - LAO Dub",
+      "02 Zeffon - Scorpion (Fragment 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/achterra-crisis-b_28cb5e7eb753"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/302a976408343e0c649e/Achterra_-_Crisis_B.tar"
+    }
+  }
+}
