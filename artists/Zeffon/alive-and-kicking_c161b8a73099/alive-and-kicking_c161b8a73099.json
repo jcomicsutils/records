@@ -1,0 +1,33 @@
+{
+  "id": "alive-and-kicking_c161b8a73099",
+  "fingerprint": "c161b8a730997c4f8e687af0ad1ffbf83be64b3a5a058d52a37ae9c2b6ef2a7a",
+  "archived_at": "2026-06-05T08:54:10Z",
+  "metadata": {
+    "title": "Alive and Kicking",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3599,
+    "duration_human": "00:59:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Perfect Carbon Bushing",
+      "02 Zeffon - Tread Lightly",
+      "03 Zeffon - Devastating Lost Earth",
+      "04 Zeffon - Sticks and Stones May Break My Bones",
+      "05 Zeffon - Pitohui Vibrâânce 1",
+      "06 Zeffon - Status Quo",
+      "07 Zeffon - Do, Ye Believeth"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/alive-and-kicking_c161b8a73099"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/660864d01077c085f299/Alive_and_Kicking.tar"
+    }
+  }
+}
