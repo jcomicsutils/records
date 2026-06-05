@@ -1,0 +1,28 @@
+{
+  "id": "aeura_58ffbb4dfbdd",
+  "fingerprint": "58ffbb4dfbddc4ebd495644eb7a8d5cfe93d5ff1d41fc99e61df51f35ced7771",
+  "archived_at": "2026-06-05T05:56:26Z",
+  "metadata": {
+    "title": "Aeura",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2869,
+    "duration_human": "00:47:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Misty Axis",
+      "02 Zeffon - Springtime"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/aeura_58ffbb4dfbdd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/1a1d76682ee4236de3f2/Aeura.tar"
+    }
+  }
+}
