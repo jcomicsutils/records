@@ -1,0 +1,37 @@
+{
+  "id": "the-immediate-past-is-of-no-interest-to-us_6301ae1a1287",
+  "fingerprint": "6301ae1a1287ac70c85f89211610c3b2d5f63d63c2cc952e779428c44df92d41",
+  "archived_at": "2026-06-05T09:03:05Z",
+  "metadata": {
+    "title": "The Immediate Past is of No Interest to Us",
+    "artist": "Stilluppsteypa",
+    "year": "2002",
+    "codec": "MP3",
+    "num_tracks": 11,
+    "duration_seconds": 2887,
+    "duration_human": "00:48:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Stilluppsteypa - This Stuff Makes Me Hot!",
+      "02 Stilluppsteypa - Hello, Mr. Robot Man",
+      "03 Stilluppsteypa - I Saw Wood You Say So",
+      "04 Stilluppsteypa - It's Not Pointless!",
+      "05 Stilluppsteypa - We Crawled Out of the MostlyWood Works (Ten Years Ago)",
+      "06 Stilluppsteypa - A Brother is Family",
+      "07 Stilluppsteypa - Taking Things a Bit More Serious From Now On (Ten Years After)",
+      "08 Stilluppsteypa - The Robot Acted as It Did Because of What It is",
+      "09 Stilluppsteypa - Something Very Bad (Most Likely A Pool Of Urine)",
+      "10 Stilluppsteypa - Robots Do Queer Things Under Tension",
+      "11 Stilluppsteypa - We Sure Could Do With Some Extra Help"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-immediate-past-is-of-no-interest-to-us_6301ae1a1287"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/8f11814b005be6df53e5/The_Immediate_Past_is_of_No_Interest_to_Us.tar"
+    }
+  }
+}
