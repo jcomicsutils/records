@@ -1,0 +1,29 @@
+{
+  "id": "aesthetics_bdf400abc975",
+  "fingerprint": "bdf400abc975c546756f285d9e02570f82ae735723f7c63880e7700661a0122c",
+  "archived_at": "2026-06-05T05:48:10Z",
+  "metadata": {
+    "title": "Aesthetics",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4323,
+    "duration_human": "01:12:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Severed Hands in Aesthetically Pleasing Rows",
+      "02 Zeffon - Themed Southeast Interlude",
+      "03 Zeffon - A Water Chamber of Prayer"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/aesthetics_bdf400abc975"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/4b3408d32313dc3e54b6/Aesthetics.tar"
+    }
+  }
+}
