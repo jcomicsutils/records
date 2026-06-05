@@ -1,0 +1,31 @@
+{
+  "id": "vikinga-brennivin_6fdf146ebe9d",
+  "fingerprint": "6fdf146ebe9dd6e44d56cb92afd9dadc2620ca539e95daaa6c7ad800afe477bb",
+  "archived_at": "2026-06-05T09:09:06Z",
+  "metadata": {
+    "title": "Víkinga Brennivín",
+    "artist": "Stilluppsteypa",
+    "year": "2005",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 3367,
+    "duration_human": "00:56:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 BJ Nilsen & Stilluppsteypa - En dåre kan fråga mer än tre visa kan svara (Einn fáviti getur spurt meira en thrír adrir geta svarad)",
+      "02 BJ Nilsen & Stilluppsteypa - Heilir, thorn eirs hlyddu (Lycklige de, som lyssnat)",
+      "03 BJ Nilsen & Stilluppsteypa - [untitled]",
+      "04 BJ Nilsen & Stilluppsteypa - Vidender",
+      "05 BJ Nilsen & Stilluppsteypa - Det är bäst att jag börjar, annars kommer jag aldrig hem (Nú er kominn tími til ad byrja, annars kemst eg ekkert heim aftur)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vikinga-brennivin_6fdf146ebe9d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/9893ec4a6b6c2625fe51/V_kinga_Brenniv_n.tar"
+    }
+  }
+}
