@@ -1,0 +1,36 @@
+{
+  "id": "agor-3-apofesorapais_3a94c1d90a16",
+  "fingerprint": "3a94c1d90a16f2381f40f7fb79c66212bedeeda5e7fa26395726c4b18d9b6dc6",
+  "archived_at": "2026-06-05T08:41:33Z",
+  "metadata": {
+    "title": "Agor 3 - aPofESoraPAiS",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 18546,
+    "duration_human": "05:09:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Osmosis (Version 3)",
+      "02 Zeffon - White Birds",
+      "03 Zeffon - Frozen Tears",
+      "04 Zeffon - Dead Drums Represent the Turning to the Face of God",
+      "05 Zeffon - FN8FN9FN10",
+      "06 Zeffon - Sand and Blood",
+      "07 Zeffon - Variable Color",
+      "08 Zeffon - Death in Brotherhood (Governor No. 13)",
+      "09 Zeffon - Apais (Poison Victim)",
+      "10 Zeffon - Apocalypse.Reset"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/agor-3-apofesorapais_3a94c1d90a16"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/7ef5626631e13cc5c5e1/Agor_3_-_aPofESoraPAiS.tar"
+    }
+  }
+}
