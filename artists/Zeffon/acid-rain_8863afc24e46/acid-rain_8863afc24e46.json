@@ -1,0 +1,30 @@
+{
+  "id": "acid-rain_8863afc24e46",
+  "fingerprint": "8863afc24e465613db36d1190a5c9356a6714fbd977bcfba4a854bebac8bcdf4",
+  "archived_at": "2026-06-05T05:29:24Z",
+  "metadata": {
+    "title": "Acid Rain",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1173,
+    "duration_human": "00:19:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Oonagah",
+      "02 Zeffon - Murder of Crows",
+      "03 Zeffon - Gold and the Strange New Place",
+      "04 Zeffon - Acid Rain"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/acid-rain_8863afc24e46"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/c8f40bcb4b24a4f72459/Acid_Rain.tar"
+    }
+  }
+}
