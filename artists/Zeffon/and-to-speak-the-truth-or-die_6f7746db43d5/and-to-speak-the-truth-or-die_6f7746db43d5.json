@@ -1,0 +1,30 @@
+{
+  "id": "and-to-speak-the-truth-or-die_6f7746db43d5",
+  "fingerprint": "6f7746db43d5ff02fbe9db817259fc378a790ac8111ac118b9df334354e818bd",
+  "archived_at": "2026-06-05T18:28:04Z",
+  "metadata": {
+    "title": "...And to Speak the Truth or Die",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 20740,
+    "duration_human": "05:45:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - 22: Third Eye, Earth Book I",
+      "02 Zeffon - 90: Death Smiles Upon Thee, Earth Book II",
+      "03 Zeffon - ?: And to Speak the Truth or Die, Fire Book",
+      "04 Zeffon - Sharhodeon Forest ))--RE(a)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/and-to-speak-the-truth-or-die_6f7746db43d5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/b877ad1292625864cfc2/And_to_Speak_the_Truth_or_Die.tar"
+    }
+  }
+}
