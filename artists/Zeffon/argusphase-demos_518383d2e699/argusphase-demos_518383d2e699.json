@@ -1,0 +1,29 @@
+{
+  "id": "argusphase-demos_518383d2e699",
+  "fingerprint": "518383d2e69969756db60995eb976d10f5d52c302fb7f644e8cc9a26793ec4dc",
+  "archived_at": "2026-06-05T21:42:03Z",
+  "metadata": {
+    "title": "Argusphase Demos",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1013,
+    "duration_human": "00:16:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Wooden Mask of Hate",
+      "02 Zeffon - Fade Away",
+      "03 Zeffon - Castle Emeroch and the Unexpected Reunion"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/argusphase-demos_518383d2e699"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/70df53fe697d45a5ee6d/Argusphase_Demos.tar"
+    }
+  }
+}
