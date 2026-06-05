@@ -1,0 +1,38 @@
+{
+  "id": "abashsacradejermenttut_efb8a4afd604",
+  "fingerprint": "efb8a4afd604d5a0d32267bc2987613dc27d4235127180fe9a77f5f266286c38",
+  "archived_at": "2026-06-05T04:57:31Z",
+  "metadata": {
+    "title": "Abashsacradejermenttut",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3793,
+    "duration_human": "01:03:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Origin (Urban Movement)",
+      "02 Zeffon - Castle's Unanswered Questions",
+      "03 Zeffon - Tribal Movement (A Fragment)",
+      "04 Zeffon - Joy That Was Never Made",
+      "05 Zeffon - Radicals in the East",
+      "06 Zeffon - Hypothesis (Before the Ancient War)",
+      "07 Zeffon - No Soul, No Work",
+      "08 Zeffon - Picasso Head",
+      "09 Zeffon - Abashsacradejermenttut",
+      "10 Zeffon - Out of the Hole",
+      "11 Zeffon - Moon Trap (The Call)",
+      "12 Zeffon - Live, Die, Forever at Peace"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/abashsacradejermenttut_efb8a4afd604"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/00a5fbbdc2b7b5221e48/Abashsacradejermenttut.tar"
+    }
+  }
+}
