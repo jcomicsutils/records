@@ -1,0 +1,30 @@
+{
+  "id": "one-side-mona-lisa_4cc9a8def8eb",
+  "fingerprint": "4cc9a8def8eb74ec1aaeb41a83382001064585a2f81a109c8753d320a860fac8",
+  "archived_at": "2026-06-05T07:34:22Z",
+  "metadata": {
+    "title": "One Side Mona Lisa",
+    "artist": "Stilluppsteypa",
+    "year": "2005",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1409,
+    "duration_human": "00:23:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Stilluppsteypa - Divine Tautology",
+      "02 Stilluppsteypa - See Here Through",
+      "03 Stilluppsteypa - Darling, I Know",
+      "04 Stilluppsteypa - Our Very Own Impossible Number"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/one-side-mona-lisa_4cc9a8def8eb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/8dc679de2a616d6b3766/One_Side_Mona_Lisa.tar"
+    }
+  }
+}
