@@ -1,0 +1,35 @@
+{
+  "id": "3312_2f5062d82995",
+  "fingerprint": "2f5062d82995b105313b4ec7755bc5c878b987e1f3b5ed1a68d10df958d616c3",
+  "archived_at": "2026-06-05T00:04:38Z",
+  "metadata": {
+    "title": "33/12",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1427,
+    "duration_human": "00:23:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Color of Fear",
+      "02 Zeffon - One Chance for Redemption",
+      "03 Zeffon - Nightworks and Daylight Spring",
+      "04 Zeffon - Awful Consequences",
+      "05 Zeffon - Graveyard",
+      "06 Zeffon - Anatomy of Body",
+      "07 Zeffon - The Fair Tower",
+      "08 Zeffon - Black Taxi",
+      "09 Zeffon - Mountains Quake Under Foot of Pig"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/3312_2f5062d82995"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/f7970818dd6bfc54c012/33_-_12.tar"
+    }
+  }
+}
