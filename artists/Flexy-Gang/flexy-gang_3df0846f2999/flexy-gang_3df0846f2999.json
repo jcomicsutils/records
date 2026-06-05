@@ -1,0 +1,38 @@
+{
+  "id": "flexy-gang_3df0846f2999",
+  "fingerprint": "3df0846f29998efd38c7229765754a3930ecd37214e5093ab4f7461334f55c20",
+  "archived_at": "2026-06-05T07:00:49Z",
+  "metadata": {
+    "title": "Flexy Gang",
+    "artist": "Flexy Gang",
+    "year": "1984",
+    "codec": "MP3",
+    "num_tracks": 12,
+    "duration_seconds": 2343,
+    "duration_human": "00:39:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Flexy Gang - Che ne so",
+      "02 Flexy Gang - Senza Piedi",
+      "03 Flexy Gang - Sea Shore",
+      "04 Flexy Gang - Shake Over",
+      "05 Flexy Gang - Io so vo",
+      "06 Flexy Gang - Senza Potermi Fermare",
+      "07 Flexy Gang - Non far mi male",
+      "08 Flexy Gang - Spiagge di sapone",
+      "09 Flexy Gang - Posso Credere",
+      "10 Flexy Gang - Noi",
+      "11 Flexy Gang - E vero",
+      "12 Flexy Gang - Ma come"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/flexy-gang_3df0846f2999"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/6a9d8d687436c90df572/Flexy_Gang.tar"
+    }
+  }
+}

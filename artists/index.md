@@ -29,6 +29,7 @@
 - [Ensemble Pearl](Ensemble-Pearl/Ensemble-Pearl.md)
 - [Ever Present Orchestra](Ever-Present-Orchestra/Ever-Present-Orchestra.md)
 - [Exploring Jezebel](Exploring-Jezebel/Exploring-Jezebel.md)
+- [Flexy Gang](Flexy-Gang/Flexy-Gang.md)
 - [Foresteppe](Foresteppe/Foresteppe.md)
 - [Fungal Hex](Fungal-Hex/Fungal-Hex.md)
 - [Gravetemple](Gravetemple/Gravetemple.md)
