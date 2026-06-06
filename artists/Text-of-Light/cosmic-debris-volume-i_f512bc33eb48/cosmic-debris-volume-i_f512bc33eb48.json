@@ -1,0 +1,28 @@
+{
+  "id": "cosmic-debris-volume-i_f512bc33eb48",
+  "fingerprint": "f512bc33eb48e58083833bdebb83716e0ddc8e556af01119d98244330dae5f35",
+  "archived_at": "2026-06-06T06:52:31Z",
+  "metadata": {
+    "title": "Cosmic Debris Volume I",
+    "artist": "Text of Light",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2226,
+    "duration_human": "00:37:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Text of Light - 033103 Paris",
+      "02 My Cat Is an Alien - Everything Falls Like Cosmic Debris"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cosmic-debris-volume-i_f512bc33eb48"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/6c8199b26363e490119b/Cosmic_Debris_Volume_I.tar"
+    }
+  }
+}
