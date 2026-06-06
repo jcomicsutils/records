@@ -1,0 +1,28 @@
+{
+  "id": "when-we-almost-killed-ourselves_46e5f0970352",
+  "fingerprint": "46e5f09703521e79b9ea0615382575c945542c8e064b062ac9c9b8aa9aa3a98c",
+  "archived_at": "2026-06-06T23:28:37Z",
+  "metadata": {
+    "title": "When We Almost Killed Ourselves",
+    "artist": "Tarentel",
+    "year": "1999",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 661,
+    "duration_human": "00:11:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Tarentel - When We Almost Killed Ourselves (Version)",
+      "02 Tarentel - Piano #1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/when-we-almost-killed-ourselves_46e5f0970352"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/143043122989e835dfbe/When_We_Almost_Killed_Ourselves.tar"
+    }
+  }
+}
