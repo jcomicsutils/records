@@ -1,0 +1,34 @@
+{
+  "id": "we-move-through-weather_6417526b5ed0",
+  "fingerprint": "6417526b5ed07ac4af2bb97bbd7bf3adfaf6c3dac5eb3fe025217512d30d2cfd",
+  "archived_at": "2026-06-06T23:27:28Z",
+  "metadata": {
+    "title": "We Move Through Weather",
+    "artist": "Tarentel",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 3488,
+    "duration_human": "00:58:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tarentel - Hello! We Move Through Weather!",
+      "02 Tarentel - Elephant Shoes",
+      "03 Tarentel - Get Away From Me You Clouds of Doom",
+      "04 Tarentel - Klankity-Klank",
+      "05 Tarentel - Bump Past, Cut Up Through Windows",
+      "06 Tarentel - Everywhere the Damn Echo",
+      "07 Tarentel - A Cloud No Bigger Than a Man's Hand",
+      "08 Tarentel - We're the Only Ghosts Here"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/we-move-through-weather_6417526b5ed0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/c182569661410de864f8/We_Move_Through_Weather.tar"
+    }
+  }
+}
