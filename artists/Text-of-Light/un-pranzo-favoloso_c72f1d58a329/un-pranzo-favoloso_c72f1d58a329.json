@@ -1,0 +1,27 @@
+{
+  "id": "un-pranzo-favoloso_c72f1d58a329",
+  "fingerprint": "c72f1d58a32931913750df11ac325a7cccdad4a88a00f912347ab13199b81d75",
+  "archived_at": "2026-06-06T08:10:33Z",
+  "metadata": {
+    "title": "Un pranzo favoloso",
+    "artist": "Text of Light",
+    "year": "2006",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 3779,
+    "duration_human": "01:02:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Text of Light - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/un-pranzo-favoloso_c72f1d58a329"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/06a8bfd09f3b7974fb3a/Un_pranzo_favoloso.tar"
+    }
+  }
+}
