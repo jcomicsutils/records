@@ -1,0 +1,35 @@
+{
+  "id": "ascii-beef-the-big-stick-xiv_97dd6ae304b0",
+  "fingerprint": "97dd6ae304b0ecb731e3b1b92c77cd67782b08d5cd94ffcfd72bc6d5f84d5894",
+  "archived_at": "2026-06-06T04:02:07Z",
+  "metadata": {
+    "title": "ASCII Beef (The Big Stick XIV)",
+    "artist": "Zeffon",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 13305,
+    "duration_human": "03:41:45",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - 69F '23 (Incompatible Channel Routing)",
+      "02 Zeffon - Safe and Sound",
+      "03 Zeffon - ASCII Beef",
+      "04 Zeffon - My True Form (Dhü Ohprêêm dHuro Unkarâdi)",
+      "05 Zeffon - Old Gtuyur",
+      "06 Zeffon - Figments",
+      "07 Zeffon - Mourning Birds",
+      "08 Zeffon - Shout Out for Celebration",
+      "09 Zeffon - Out of the Way"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ascii-beef-the-big-stick-xiv_97dd6ae304b0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/5cf7e43a348698ec044c/ASCII_Beef_The_Big_Stick_XIV.tar"
+    }
+  }
+}
