@@ -1,0 +1,33 @@
+{
+  "id": "the-order-of-things_195a4ac15808",
+  "fingerprint": "195a4ac15808051a92f0c63086601df4318da239f88f794ec0fe625b550d3778",
+  "archived_at": "2026-06-06T23:08:22Z",
+  "metadata": {
+    "title": "The Order of Things",
+    "artist": "Tarentel",
+    "year": "2001",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3384,
+    "duration_human": "00:56:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tarentel - Adonai",
+      "02 Tarentel - Popol Vuh",
+      "03 Tarentel - [untitled]",
+      "04 Tarentel - Ghosty Head",
+      "05 Tarentel - Death in the Mind of the Living",
+      "06 Tarentel - Pneuma",
+      "07 Tarentel - Blessed|Cursed"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-order-of-things_195a4ac15808"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/bf2d0878b0af8fd62124/The_Order_of_Things.tar"
+    }
+  }
+}
