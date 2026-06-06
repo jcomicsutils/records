@@ -1,0 +1,25 @@
+{
+  "id": "artpiece-1_052693a0e99a",
+  "fingerprint": "052693a0e99a7e39b94bf90ba17254f327414e40c2964eb50aac731231217c3b",
+  "archived_at": "2026-06-06T02:29:50Z",
+  "metadata": {
+    "title": "Artpiece 1",
+    "artist": "Zeffon / Generated Missiân ZFN",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4072,
+    "duration_human": "01:07:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - SYS000 / Ruptured Glass",
+      "02 Generated Missiân ZFN - Hidden in the Guinean Grass"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/5537b5e4683dcc02b446/Artpiece_1.tar"
+    }
+  }
+}
