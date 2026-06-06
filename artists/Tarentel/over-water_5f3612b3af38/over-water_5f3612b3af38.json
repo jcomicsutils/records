@@ -1,0 +1,29 @@
+{
+  "id": "over-water_5f3612b3af38",
+  "fingerprint": "5f3612b3af3860287d468c1277e41e04fdcadbaa7b1464bf76d0705c03aef712",
+  "archived_at": "2026-06-06T22:34:04Z",
+  "metadata": {
+    "title": "Over Water",
+    "artist": "Tarentel",
+    "year": "2009",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 2028,
+    "duration_human": "00:33:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Tarentel & Paul Clipson - Watercolor Night Montage No. 7",
+      "02 Tarentel & Paul Clipson - Over Water",
+      "03 Tarentel & Paul Clipson - Tuolumne (2007)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/over-water_5f3612b3af38"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/792bbb94bcca0fd71f6c/Over_Water.tar"
+    }
+  }
+}
