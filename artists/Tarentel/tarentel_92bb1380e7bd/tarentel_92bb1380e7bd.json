@@ -1,0 +1,28 @@
+{
+  "id": "tarentel_92bb1380e7bd",
+  "fingerprint": "92bb1380e7bddf00d049ad26aa3914193eaa1d33b48a0a115e0db51f98027ad2",
+  "archived_at": "2026-06-06T22:52:27Z",
+  "metadata": {
+    "title": "Tarentel",
+    "artist": "Tarentel",
+    "year": "1998",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1717,
+    "duration_human": "00:28:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tarentel - [untitled]",
+      "02 Tarentel - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tarentel_92bb1380e7bd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/77d2d6b2890acbbde848/Tarentel.tar"
+    }
+  }
+}
