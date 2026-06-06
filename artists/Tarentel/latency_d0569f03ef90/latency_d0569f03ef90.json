@@ -1,0 +1,28 @@
+{
+  "id": "latency_d0569f03ef90",
+  "fingerprint": "d0569f03ef90e6b6185b0614177710513350cdcdf01f728025c3dbf566f80196",
+  "archived_at": "2026-06-06T20:14:10Z",
+  "metadata": {
+    "title": "Latency",
+    "artist": "Tarentel",
+    "year": "2003",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1582,
+    "duration_human": "00:26:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Tarentel - Latency A",
+      "02 Tarentel - Latency B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/latency_d0569f03ef90"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/ed040b192f418b297a4a/Latency.tar"
+    }
+  }
+}
