@@ -1,0 +1,32 @@
+{
+  "id": "live-edits-natoma_ecbef55f2da8",
+  "fingerprint": "ecbef55f2da81d6817abec74d616ae2ffbfe0a4d4a88adc112e244c5e755497d",
+  "archived_at": "2026-06-06T21:41:31Z",
+  "metadata": {
+    "title": "Live Edits: Natoma",
+    "artist": "Tarentel",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2559,
+    "duration_human": "00:42:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tarentel - [untitled]",
+      "02 Tarentel - [untitled]",
+      "03 Tarentel - [untitled]",
+      "04 Tarentel - [untitled]",
+      "05 Tarentel - [untitled]",
+      "06 Tarentel - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-edits-natoma_ecbef55f2da8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/3dbc3d28f5df882dad38/Live_Edits_Natoma.tar"
+    }
+  }
+}
