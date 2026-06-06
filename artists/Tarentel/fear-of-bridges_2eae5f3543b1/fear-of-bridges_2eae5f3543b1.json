@@ -1,0 +1,32 @@
+{
+  "id": "fear-of-bridges_2eae5f3543b1",
+  "fingerprint": "2eae5f3543b1886a2cb76dc114631a4391dc24f78ea7b4545da6a94899620e28",
+  "archived_at": "2026-06-06T07:45:52Z",
+  "metadata": {
+    "title": "Fear of Bridges",
+    "artist": "Tarentel",
+    "year": "2002",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1326,
+    "duration_human": "00:22:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tarentel - [untitled]",
+      "02 Tarentel - [untitled]",
+      "03 Tarentel - [untitled]",
+      "04 Tarentel - [untitled]",
+      "05 Tarentel - [untitled]",
+      "06 Tarentel - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fear-of-bridges_2eae5f3543b1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/6937ab384229ef54cdee/Fear_of_Bridges.tar"
+    }
+  }
+}

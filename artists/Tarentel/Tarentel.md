@@ -3,5 +3,6 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Carol Whiskey 9](carol-whiskey-9_8e14c1a2d7f2/carol-whiskey-9_8e14c1a2d7f2.md) | 2000 | MP3 | 00:09:38 | [IA](https://archive.org/details/carol-whiskey-9_8e14c1a2d7f2) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/604d30137d8f34779f3d/Carol_Whiskey_9.tar) |
+| [Fear of Bridges](fear-of-bridges_2eae5f3543b1/fear-of-bridges_2eae5f3543b1.md) | 2002 | FLAC | 00:22:06 | [IA](https://archive.org/details/fear-of-bridges_2eae5f3543b1) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/6937ab384229ef54cdee/Fear_of_Bridges.tar) |
 | [Ephemera: Singles 1999-2000](ephemera-singles-1999-2000_8cebe2cc73c4/ephemera-singles-1999-2000_8cebe2cc73c4.md) | 2002 | FLAC | 01:07:27 | [IA](https://archive.org/details/ephemera-singles-1999-2000_8cebe2cc73c4) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/e6ce38971c4966480b45/Ephemera_Singles_1999-2000.tar) |
 | [Big Black Square](big-black-square_b178724e95a4/big-black-square_b178724e95a4.md) | 2005 | FLAC | 00:43:42 | [IA](https://archive.org/details/big-black-square_b178724e95a4) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/e37914bff583ab34dd10/Big_Black_Square.tar) |
