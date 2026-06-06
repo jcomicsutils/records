@@ -1,5 +1,7 @@
 # Zeffon / Generated Missiân ZFN — Artpiece 1 (2019)
 
+![Cover](https://archive.org/download/artpiece-1_052693a0e99a/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/5537b5e4683dcc02b446/Artpiece_1.tar)
+- [Archive.org](https://archive.org/details/artpiece-1_052693a0e99a)
 
 ## Tracklist
 

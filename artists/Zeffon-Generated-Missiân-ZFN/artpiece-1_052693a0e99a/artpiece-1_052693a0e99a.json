@@ -20,6 +20,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/file.php?f=/beta4/5537b5e4683dcc02b446/Artpiece_1.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/artpiece-1_052693a0e99a"
     }
   }
 }
