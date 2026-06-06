@@ -1,0 +1,34 @@
+{
+  "id": "ghetto-beats-on-the-surface-of-the-sun-3_b1bc9695c597",
+  "fingerprint": "b1bc9695c5977afabf561510a7ae7ce8c73c5ceaf3f7e53461c8476935e3b1ed",
+  "archived_at": "2026-06-06T19:17:05Z",
+  "metadata": {
+    "title": "Ghetto Beats on the Surface of the Sun #3",
+    "artist": "Tarentel",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2484,
+    "duration_human": "00:41:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tarentel - Stellar Envelope",
+      "02 Tarentel - A Crystal the Size of Our Moon in the Heart of a Pulsating White Dwarf",
+      "03 Tarentel - Mirrors, Gardens",
+      "04 Tarentel - As Quiet as Silentifically Possible",
+      "05 Tarentel - Warm Glass",
+      "06 Tarentel - Fever Sleep",
+      "07 Tarentel - Sleep Map",
+      "08 Tarentel - Whistle in the Wires"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ghetto-beats-on-the-surface-of-the-sun-3_b1bc9695c597"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/ed464b6bc82e8330da30/Ghetto_Beats_on_the_Surface_of_the_Sun_3.tar"
+    }
+  }
+}
