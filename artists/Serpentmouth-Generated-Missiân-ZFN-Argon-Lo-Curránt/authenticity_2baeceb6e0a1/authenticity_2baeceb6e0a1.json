@@ -1,0 +1,29 @@
+{
+  "id": "authenticity_2baeceb6e0a1",
+  "fingerprint": "2baeceb6e0a15e1c37adea404111a43dfd3be5161b849e6d33b6111678bc95b4",
+  "archived_at": "2026-06-06T04:31:20Z",
+  "metadata": {
+    "title": "Authenticity",
+    "artist": "Serpentmouth / Generated Missiân ZFN / Argon Lo Curránt",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 402,
+    "duration_human": "00:06:42",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Serpentmouth - Great Travesty",
+      "02 Generated Missiân ZFN - Thoughtfare",
+      "03 Argon Lo Curránt - Ten I (Test)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/authenticity_2baeceb6e0a1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/8332807d76f520cd68c9/Authenticity.tar"
+    }
+  }
+}
