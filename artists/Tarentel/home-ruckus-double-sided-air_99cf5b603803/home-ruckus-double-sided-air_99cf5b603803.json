@@ -1,0 +1,28 @@
+{
+  "id": "home-ruckus-double-sided-air_99cf5b603803",
+  "fingerprint": "99cf5b6038034431ea555d5366f177f8d7fec02f6cf04469629fce2cc9539fe7",
+  "archived_at": "2026-06-06T20:12:29Z",
+  "metadata": {
+    "title": "Home Ruckus: Double Sided Air",
+    "artist": "Tarentel",
+    "year": "2007",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 532,
+    "duration_human": "00:08:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Tarentel - [untitled]",
+      "02 Tarentel - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/home-ruckus-double-sided-air_99cf5b603803"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/c1ba6ab387546cc33946/Home_Ruckus_Double_Sided_Air.tar"
+    }
+  }
+}
