@@ -1,0 +1,35 @@
+{
+  "id": "home-ruckus_b5d404d33ad0",
+  "fingerprint": "b5d404d33ad0b70eed983314f72b21366bd2d6cbe1ebf4f404dbed924a34256f",
+  "archived_at": "2026-06-06T20:08:58Z",
+  "metadata": {
+    "title": "Home Ruckus",
+    "artist": "Tarentel",
+    "year": "2005",
+    "codec": "MP3",
+    "num_tracks": 9,
+    "duration_seconds": 1714,
+    "duration_human": "00:28:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Tarentel - [untitled]",
+      "02 Tarentel - [untitled]",
+      "03 Tarentel - [untitled]",
+      "04 Tarentel - [untitled]",
+      "05 Tarentel - [untitled]",
+      "06 Tarentel - [untitled]",
+      "07 Tarentel - [untitled]",
+      "08 Tarentel - [untitled]",
+      "09 Tarentel - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/home-ruckus_b5d404d33ad0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/a7ed357ea61ccc6b5972/Home_Ruckus.tar"
+    }
+  }
+}
