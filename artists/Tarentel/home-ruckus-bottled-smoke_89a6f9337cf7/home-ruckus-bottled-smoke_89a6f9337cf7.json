@@ -1,0 +1,32 @@
+{
+  "id": "home-ruckus-bottled-smoke_89a6f9337cf7",
+  "fingerprint": "89a6f9337cf73c2a29f83eb06a7b9cbd02c2b2cbbf4f448e2430671e31760eba",
+  "archived_at": "2026-06-06T20:11:27Z",
+  "metadata": {
+    "title": "Home Ruckus: Bottled Smoke",
+    "artist": "Tarentel",
+    "year": "2007",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 1494,
+    "duration_human": "00:24:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Tarentel - [untitled]",
+      "02 Tarentel - [untitled]",
+      "03 Tarentel - [untitled]",
+      "04 Tarentel - [untitled]",
+      "05 Tarentel - [untitled]",
+      "06 Tarentel - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/home-ruckus-bottled-smoke_89a6f9337cf7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/cc4103aa9500fc35aa0a/Home_Ruckus_Bottled_Smoke.tar"
+    }
+  }
+}
