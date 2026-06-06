@@ -1,0 +1,28 @@
+{
+  "id": "golden-circle-afternoon_ea8e4bed0f93",
+  "fingerprint": "ea8e4bed0f9344b4eb8a069792b1c62c40d33cbe685d2de7273f908fb21089cd",
+  "archived_at": "2026-06-06T04:36:12Z",
+  "metadata": {
+    "title": "Golden Circle Afternoon",
+    "artist": "Stilluppsteypa",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2737,
+    "duration_human": "00:45:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 BJ Nilsen & Stilluppsteypa / Anla Courtis - Aurora Australis",
+      "02 BJ Nilsen & Stilluppsteypa / Anla Courtis - Fish is God"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/golden-circle-afternoon_ea8e4bed0f93"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/0765f03ee6322a6a166c/Golden_Circle_Afternoon.tar"
+    }
+  }
+}
