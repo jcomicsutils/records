@@ -1,0 +1,29 @@
+{
+  "id": "text-of-light_c8d8a004872d",
+  "fingerprint": "c8d8a004872d21b32ba7a913c8cfa10559ebf75f92dbdc9ad21931ccda7ec95d",
+  "archived_at": "2026-06-06T07:56:50Z",
+  "metadata": {
+    "title": "Text of Light",
+    "artist": "Text of Light",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4231,
+    "duration_human": "01:10:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Text of Light - 052202 Tonic",
+      "02 Text of Light - 091502 Anthology Film Archives",
+      "03 Text of Light - 082301 Knitting Factory"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/text-of-light_c8d8a004872d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/d00403b717d151c0fe60/Text_of_Light.tar"
+    }
+  }
+}
