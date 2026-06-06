@@ -1,0 +1,28 @@
+{
+  "id": "you-cant-hide-your-love-forever-3_36fdddbff6e0",
+  "fingerprint": "36fdddbff6e088b20926c0dc88d657106473b1d952c178b657b10bdd3e8fd9c7",
+  "archived_at": "2026-06-06T23:29:17Z",
+  "metadata": {
+    "title": "You Can't Hide Your Love Forever 3",
+    "artist": "Tarentel",
+    "year": "2009",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 625,
+    "duration_human": "00:10:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Tarentel - Space Junk A",
+      "02 Tarentel - Space Junk B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/you-cant-hide-your-love-forever-3_36fdddbff6e0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/401036035930770b776e/You_Can_t_Hide_Your_Love_Forever_3.tar"
+    }
+  }
+}
