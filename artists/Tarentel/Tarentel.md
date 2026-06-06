@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Sets and Rises / Rises and Sets](sets-and-rises-rises-and-sets_1c30a24e225a/sets-and-rises-rises-and-sets_1c30a24e225a.md) | 2000 | MP3 | 00:12:44 | [IA](https://archive.org/details/sets-and-rises-rises-and-sets_1c30a24e225a) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/afceb750a8fe2648ffe2/Sets_and_Rises_-_Rises_and_Sets.tar) |
 | [Looking For Things / Searching For Things](looking-for-things-searching-for-things_176a068d4de0/looking-for-things-searching-for-things_176a068d4de0.md) | 2000 | FLAC | 00:39:31 | [IA](https://archive.org/details/looking-for-things-searching-for-things_176a068d4de0) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/2bd7092c5c988a90c68c/Looking_For_Things_-_Searching_For_Things.tar) |
 | [Carol Whiskey 9](carol-whiskey-9_8e14c1a2d7f2/carol-whiskey-9_8e14c1a2d7f2.md) | 2000 | MP3 | 00:09:38 | [IA](https://archive.org/details/carol-whiskey-9_8e14c1a2d7f2) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/604d30137d8f34779f3d/Carol_Whiskey_9.tar) |
 | [Mort Aux Vaches](mort-aux-vaches_d8eda8f75697/mort-aux-vaches_d8eda8f75697.md) | 2002 | FLAC | 00:51:22 | [IA](https://archive.org/details/mort-aux-vaches_d8eda8f75697) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/6bf0a0e78b4baf91c168/Mort_Aux_Vaches.tar) |

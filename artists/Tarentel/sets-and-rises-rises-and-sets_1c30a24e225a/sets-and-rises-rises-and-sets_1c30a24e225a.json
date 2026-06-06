@@ -1,0 +1,28 @@
+{
+  "id": "sets-and-rises-rises-and-sets_1c30a24e225a",
+  "fingerprint": "1c30a24e225a803bbb19f029951555338850f1bed3ef798f3d9694d8bbc6b372",
+  "archived_at": "2026-06-06T22:42:58Z",
+  "metadata": {
+    "title": "Sets and Rises / Rises and Sets",
+    "artist": "Tarentel",
+    "year": "2000",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 764,
+    "duration_human": "00:12:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Tarentel - Sets and Rises",
+      "02 Lilienthal - Rises and Sets"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sets-and-rises-rises-and-sets_1c30a24e225a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/afceb750a8fe2648ffe2/Sets_and_Rises_-_Rises_and_Sets.tar"
+    }
+  }
+}
