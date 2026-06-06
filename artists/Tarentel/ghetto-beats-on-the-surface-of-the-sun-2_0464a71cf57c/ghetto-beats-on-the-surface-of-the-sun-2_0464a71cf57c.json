@@ -1,0 +1,30 @@
+{
+  "id": "ghetto-beats-on-the-surface-of-the-sun-2_0464a71cf57c",
+  "fingerprint": "0464a71cf57cedc20bb4f31a184e157895e9416c312e2b17b8d23452f961450a",
+  "archived_at": "2026-06-06T18:40:50Z",
+  "metadata": {
+    "title": "Ghetto Beats on the Surface of the Sun #2",
+    "artist": "Tarentel",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2399,
+    "duration_human": "00:39:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tarentel - Sun Place",
+      "02 Tarentel - Donkey-Bunny",
+      "03 Tarentel - Tied to a Tree in a Jungle of Mystery",
+      "04 Tarentel - Cosmic Dust"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ghetto-beats-on-the-surface-of-the-sun-2_0464a71cf57c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/1f2bab398ebdd22614bf/Ghetto_Beats_on_the_Surface_of_the_Sun_2.tar"
+    }
+  }
+}
