@@ -1,0 +1,28 @@
+{
+  "id": "carol-whiskey-9_8e14c1a2d7f2",
+  "fingerprint": "8e14c1a2d7f24862ae2974eff8f47bf54664be27f684ba82f0de1d3e4b854bc3",
+  "archived_at": "2026-06-06T06:51:55Z",
+  "metadata": {
+    "title": "Carol Whiskey 9",
+    "artist": "Tarentel",
+    "year": "2000",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 578,
+    "duration_human": "00:09:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Tarentel - It's in You Right Now, Just Get Still, Think About It, I am Light Filled",
+      "02 Rothko - Exits Into Open Spaces About Mountains, Endless Horizons, Clear Sharp Skies, Words That Open Us Up, About Never Being Held in, About Not Being What We Are, About Us"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/carol-whiskey-9_8e14c1a2d7f2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/604d30137d8f34779f3d/Carol_Whiskey_9.tar"
+    }
+  }
+}
