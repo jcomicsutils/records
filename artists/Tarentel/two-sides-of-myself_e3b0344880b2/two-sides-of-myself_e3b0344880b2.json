@@ -1,0 +1,28 @@
+{
+  "id": "two-sides-of-myself_e3b0344880b2",
+  "fingerprint": "e3b0344880b293627e13dd3d0c2f1c246144b7203155b479590b2e4c92fbbac5",
+  "archived_at": "2026-06-06T23:18:19Z",
+  "metadata": {
+    "title": "Two Sides of Myself",
+    "artist": "Tarentel",
+    "year": "2000",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 782,
+    "duration_human": "00:13:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Tarentel - [untitled]",
+      "02 Tarentel - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/two-sides-of-myself_e3b0344880b2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/61df8710edbb1f613ef0/Two_Sides_of_Myself.tar"
+    }
+  }
+}
