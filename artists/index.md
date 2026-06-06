@@ -78,6 +78,7 @@
 - [Stillife](Stillife/Stillife.md)
 - [Stilluppsteypa](Stilluppsteypa/Stilluppsteypa.md)
 - [Sunn O\)\)\)](Sunn-O%29%29%29/Sunn-O%29%29%29.md)
+- [Tarentel](Tarentel/Tarentel.md)
 - [Teeth Of Lions Rule The Divine](Teeth-Of-Lions-Rule-The-Divine/Teeth-Of-Lions-Rule-The-Divine.md)
 - [Text of Light](Text-of-Light/Text-of-Light.md)
 - [The Jim Yoshii Pile-Up / Xiu Xiu](The-Jim-Yoshii-Pile-Up-Xiu-Xiu/The-Jim-Yoshii-Pile-Up-Xiu-Xiu.md)

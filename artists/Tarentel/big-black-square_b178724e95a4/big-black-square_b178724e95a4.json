@@ -1,0 +1,27 @@
+{
+  "id": "big-black-square_b178724e95a4",
+  "fingerprint": "b178724e95a4476b2875215cfb885ec5d270bacf8dc1242ac7ccb46b05755163",
+  "archived_at": "2026-06-06T06:50:58Z",
+  "metadata": {
+    "title": "Big Black Square",
+    "artist": "Tarentel",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2622,
+    "duration_human": "00:43:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tarentel - Big Black Square"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/big-black-square_b178724e95a4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/e37914bff583ab34dd10/Big_Black_Square.tar"
+    }
+  }
+}
