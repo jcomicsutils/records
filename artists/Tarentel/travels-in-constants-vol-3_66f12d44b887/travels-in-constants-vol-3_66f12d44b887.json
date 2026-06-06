@@ -1,0 +1,28 @@
+{
+  "id": "travels-in-constants-vol-3_66f12d44b887",
+  "fingerprint": "66f12d44b8873e6fe29332c48140da0443c2ce78b266d08d42694257d97093ba",
+  "archived_at": "2026-06-06T23:17:15Z",
+  "metadata": {
+    "title": "Travels in Constants, Vol. 3",
+    "artist": "Tarentel",
+    "year": "1999",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2587,
+    "duration_human": "00:43:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tarentel - The Waltz",
+      "02 Tarentel - Welcome"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/travels-in-constants-vol-3_66f12d44b887"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/56873bccc9fb33bbef9f/Travels_in_Constants_Vol._3.tar"
+    }
+  }
+}
