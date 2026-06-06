@@ -1,0 +1,27 @@
+{
+  "id": "nels-cline-alan-licht-william-hooker-live_618140b1df86",
+  "fingerprint": "618140b1df8698c4626353f8fd415d7f5e2372df13ef9ddc7c35b365461c94b1",
+  "archived_at": "2026-06-06T07:13:45Z",
+  "metadata": {
+    "title": "Nels Cline, Alan Licht & William Hooker Live",
+    "artist": "Text of Light",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 2134,
+    "duration_human": "00:35:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Text of Light - Issue Project Room 2011"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nels-cline-alan-licht-william-hooker-live_618140b1df86"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/e97035297bbc7a80c401/Nels_Cline_Alan_Licht_William_Hooker_Live.tar"
+    }
+  }
+}
