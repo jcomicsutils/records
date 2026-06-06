@@ -1,0 +1,30 @@
+{
+  "id": "mort-aux-vaches_d8eda8f75697",
+  "fingerprint": "d8eda8f7569748d51d95f1e1a02da3dfc26df5fcf8bc48eb4339877d23a44418",
+  "archived_at": "2026-06-06T22:30:47Z",
+  "metadata": {
+    "title": "Mort Aux Vaches",
+    "artist": "Tarentel",
+    "year": "2002",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3082,
+    "duration_human": "00:51:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tarentel - Adonai",
+      "02 Tarentel - Steede Bonnet",
+      "03 Tarentel - When No One’s Listening",
+      "04 Tarentel - For Carl Sagan"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mort-aux-vaches_d8eda8f75697"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/6bf0a0e78b4baf91c168/Mort_Aux_Vaches.tar"
+    }
+  }
+}
