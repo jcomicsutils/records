@@ -1,0 +1,34 @@
+{
+  "id": "live-edits-italy-switzerland_32332c92663f",
+  "fingerprint": "32332c92663f38c211480cbfe51fa83286f94a762392e7ac0ed4bfb4ab53f904",
+  "archived_at": "2026-06-06T20:54:12Z",
+  "metadata": {
+    "title": "Live Edits: Italy / Switzerland",
+    "artist": "Tarentel",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2800,
+    "duration_human": "00:46:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tarentel - Lugano, Switzerland",
+      "02 Tarentel - Geneva, Switzerland",
+      "03 Tarentel - Genova, Italy",
+      "04 Tarentel - Bern, Switzerland",
+      "05 Tarentel - Massa Carrara, Italy",
+      "06 Tarentel - Geneva, Switzerland",
+      "07 Tarentel - Perugia, Italy",
+      "08 Tarentel - Massa Carrara, Italy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-edits-italy-switzerland_32332c92663f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/fdddaebe75538bca171b/Live_Edits_Italy_-_Switzerland.tar"
+    }
+  }
+}
