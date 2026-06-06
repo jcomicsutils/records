@@ -1,0 +1,37 @@
+{
+  "id": "metal-box_9c04795ff2b9",
+  "fingerprint": "9c04795ff2b9848f579fc5048b7b07fba1e009a2c5849ccbeb873e270b5e97ec",
+  "archived_at": "2026-06-06T07:08:26Z",
+  "metadata": {
+    "title": "Metal Box",
+    "artist": "Text of Light",
+    "year": "2006",
+    "codec": "AAC",
+    "num_tracks": 11,
+    "duration_seconds": 6234,
+    "duration_human": "01:43:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Text of Light - 052901 Tonic 5/4/6",
+      "02 Text of Light - 052901 Tonic 1",
+      "03 Text of Light - 052901 Tonic 7",
+      "04 Text of Light - 052901 Tonic 2",
+      "05 Text of Light - 052901 Tonic 8",
+      "06 Text of Light - 052901 Tonic 3",
+      "07 Text of Light - 052405 Bruxelles 1",
+      "08 Text of Light - 052402 Echo 1",
+      "09 Text of Light - James Joyce:Chamber Music (Stanza XII)",
+      "10 Text of Light - 052402 Echo 3+2",
+      "11 Text of Light - 040103 Berlin 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/metal-box_9c04795ff2b9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/5db9d4503959beb81d33/Metal_Box.tar"
+    }
+  }
+}
