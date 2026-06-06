@@ -1,0 +1,30 @@
+{
+  "id": "paper-white_4dd7138822aa",
+  "fingerprint": "4dd7138822aaf81ac3e162c6c22c5d72b99de3f49df58cd7845e79eba739e68d",
+  "archived_at": "2026-06-06T22:41:11Z",
+  "metadata": {
+    "title": "Paper White",
+    "artist": "Tarentel",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1466,
+    "duration_human": "00:24:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tarentel - Isalais Straight",
+      "02 Tarentel - Open Letter to Hummingbirds",
+      "03 Tarentel - Golden State Overnight",
+      "04 Tarentel - Paper White"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/paper-white_4dd7138822aa"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/4688b2089c9b0fe697a5/Paper_White.tar"
+    }
+  }
+}
