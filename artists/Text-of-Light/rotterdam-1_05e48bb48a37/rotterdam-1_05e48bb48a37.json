@@ -1,0 +1,27 @@
+{
+  "id": "rotterdam-1_05e48bb48a37",
+  "fingerprint": "05e48bb48a374b5063bfdf1a20da8c9d0d44778dfa0c092705666e14351a0a5c",
+  "archived_at": "2026-06-06T07:17:47Z",
+  "metadata": {
+    "title": "Rotterdam 1",
+    "artist": "Text of Light",
+    "year": "2006",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1164,
+    "duration_human": "00:19:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Text of Light - Rotterdam 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rotterdam-1_05e48bb48a37"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/08eb2a490b039b007c4f/Rotterdam_1.tar"
+    }
+  }
+}
