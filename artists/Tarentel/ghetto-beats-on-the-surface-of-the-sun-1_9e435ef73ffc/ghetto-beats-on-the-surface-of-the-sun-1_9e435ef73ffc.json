@@ -1,0 +1,32 @@
+{
+  "id": "ghetto-beats-on-the-surface-of-the-sun-1_9e435ef73ffc",
+  "fingerprint": "9e435ef73ffc4192f28fb5f277bf4f5836261c9b90c1d6a353fab0a1c65cdea6",
+  "archived_at": "2026-06-06T09:15:02Z",
+  "metadata": {
+    "title": "Ghetto Beats on the Surface of the Sun #1",
+    "artist": "Tarentel",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2093,
+    "duration_human": "00:34:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tarentel - Everybody Fucks With Somebody",
+      "02 Tarentel - All Things Vibrations",
+      "03 Tarentel - Dream Tigers",
+      "04 Tarentel - Ghost Trees",
+      "05 Tarentel - Le Trash Can",
+      "06 Tarentel - Ghetto Ghosts"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ghetto-beats-on-the-surface-of-the-sun-1_9e435ef73ffc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/f1fbb4582c3efabb6e86/Ghetto_Beats_on_the_Surface_of_the_Sun_1.tar"
+    }
+  }
+}
