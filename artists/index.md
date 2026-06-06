@@ -79,6 +79,7 @@
 - [Stilluppsteypa](Stilluppsteypa/Stilluppsteypa.md)
 - [Sunn O\)\)\)](Sunn-O%29%29%29/Sunn-O%29%29%29.md)
 - [Teeth Of Lions Rule The Divine](Teeth-Of-Lions-Rule-The-Divine/Teeth-Of-Lions-Rule-The-Divine.md)
+- [Text of Light](Text-of-Light/Text-of-Light.md)
 - [The Jim Yoshii Pile-Up / Xiu Xiu](The-Jim-Yoshii-Pile-Up-Xiu-Xiu/The-Jim-Yoshii-Pile-Up-Xiu-Xiu.md)
 - [The Runners From 1984](The-Runners-From-1984/The-Runners-From-1984.md)
 - [The Sleeping Moustache](The-Sleeping-Moustache/The-Sleeping-Moustache.md)

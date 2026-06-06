@@ -1,0 +1,27 @@
+{
+  "id": "052402-echo-4_e4fa722dad44",
+  "fingerprint": "e4fa722dad44788b25cc4de8202dc9d4ed2dad27278b1a6c54693ccc1a399056",
+  "archived_at": "2026-06-06T06:42:09Z",
+  "metadata": {
+    "title": "052402 Echo 4",
+    "artist": "Text of Light",
+    "year": "2004",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1141,
+    "duration_human": "00:19:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Text of Light - 052402 Echo 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/052402-echo-4_e4fa722dad44"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/96c0cc6f92ce645781da/052402_Echo_4.tar"
+    }
+  }
+}
