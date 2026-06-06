@@ -1,0 +1,28 @@
+{
+  "id": "sov-gott-oskar-kastanies-sterne-am-tag_0d89dc078876",
+  "fingerprint": "0d89dc07887698c62385ac9be27da53bfad57f33e26829bae990358f95ac4d23",
+  "archived_at": "2026-06-06T05:05:06Z",
+  "metadata": {
+    "title": "Sov Gott / Oskar Kastanies Sterne am Tag",
+    "artist": "Stilluppsteypa",
+    "year": "2006",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 2895,
+    "duration_human": "00:48:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 BJ Nilsen & Stilluppsteypa - Sov Gott",
+      "02 Milan Sandbleistift - Oskar Kastanies Sterne am Tag"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sov-gott-oskar-kastanies-sterne-am-tag_0d89dc078876"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/5ef61ed81faae01c99a9/Sov_Gott_-_Oskar_Kastanies_Sterne_am_Tag.tar"
+    }
+  }
+}
