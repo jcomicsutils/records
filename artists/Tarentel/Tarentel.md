@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Looking For Things / Searching For Things](looking-for-things-searching-for-things_176a068d4de0/looking-for-things-searching-for-things_176a068d4de0.md) | 2000 | FLAC | 00:39:31 | [IA](https://archive.org/details/looking-for-things-searching-for-things_176a068d4de0) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/2bd7092c5c988a90c68c/Looking_For_Things_-_Searching_For_Things.tar) |
 | [Carol Whiskey 9](carol-whiskey-9_8e14c1a2d7f2/carol-whiskey-9_8e14c1a2d7f2.md) | 2000 | MP3 | 00:09:38 | [IA](https://archive.org/details/carol-whiskey-9_8e14c1a2d7f2) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/604d30137d8f34779f3d/Carol_Whiskey_9.tar) |
 | [Fear of Bridges](fear-of-bridges_2eae5f3543b1/fear-of-bridges_2eae5f3543b1.md) | 2002 | FLAC | 00:22:06 | [IA](https://archive.org/details/fear-of-bridges_2eae5f3543b1) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/6937ab384229ef54cdee/Fear_of_Bridges.tar) |
 | [Ephemera: Singles 1999-2000](ephemera-singles-1999-2000_8cebe2cc73c4/ephemera-singles-1999-2000_8cebe2cc73c4.md) | 2002 | FLAC | 01:07:27 | [IA](https://archive.org/details/ephemera-singles-1999-2000_8cebe2cc73c4) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/e6ce38971c4966480b45/Ephemera_Singles_1999-2000.tar) |

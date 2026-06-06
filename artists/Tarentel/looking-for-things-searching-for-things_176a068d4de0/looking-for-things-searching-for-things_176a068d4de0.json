@@ -1,0 +1,28 @@
+{
+  "id": "looking-for-things-searching-for-things_176a068d4de0",
+  "fingerprint": "176a068d4de000073a831e85d6cb902298f03f07f2b8a157bc5c791c3374be78",
+  "archived_at": "2026-06-06T22:07:29Z",
+  "metadata": {
+    "title": "Looking For Things / Searching For Things",
+    "artist": "Tarentel",
+    "year": "2000",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2371,
+    "duration_human": "00:39:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tarentel - Looking For Things",
+      "02 Tarentel - Searching For Things"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/looking-for-things-searching-for-things_176a068d4de0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/2bd7092c5c988a90c68c/Looking_For_Things_-_Searching_For_Things.tar"
+    }
+  }
+}
