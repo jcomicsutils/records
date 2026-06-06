@@ -1,0 +1,27 @@
+{
+  "id": "artpiece-2_75a62d31f49b",
+  "fingerprint": "75a62d31f49ba46a86427c8030864d7edc6c3c8904100f795924e0f4c70a7ea8",
+  "archived_at": "2026-06-06T02:31:58Z",
+  "metadata": {
+    "title": "Artpiece 2",
+    "artist": "Generated Missiân ZFN",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 102,
+    "duration_human": "00:01:42",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Generated Missiân ZFN - Lithium (03 Ver. 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/artpiece-2_75a62d31f49b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/d507c16ae89de9ee466a/Artpiece_2.tar"
+    }
+  }
+}
