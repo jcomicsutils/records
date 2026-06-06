@@ -1,0 +1,29 @@
+{
+  "id": "auragenerative-ep_c04dac927976",
+  "fingerprint": "c04dac927976b13f8434a84fa7f931c538fdf68e689470d4f197a0b97ee0a1e3",
+  "archived_at": "2026-06-06T04:29:01Z",
+  "metadata": {
+    "title": "Auragenerative EP",
+    "artist": "Zeffon",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2616,
+    "duration_human": "00:43:36",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - CHSFYS01 (Prev)",
+      "02 Zeffon - CIADIA (Auragenerative)",
+      "03 Zeffon - Forested Lodging"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/auragenerative-ep_c04dac927976"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/52e557dce24aafbea905/Auragenerative_EP.tar"
+    }
+  }
+}
