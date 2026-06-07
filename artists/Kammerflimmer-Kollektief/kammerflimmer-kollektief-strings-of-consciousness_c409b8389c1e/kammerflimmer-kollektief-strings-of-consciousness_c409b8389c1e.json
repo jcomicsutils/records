@@ -1,0 +1,31 @@
+{
+  "id": "kammerflimmer-kollektief-strings-of-consciousness_c409b8389c1e",
+  "fingerprint": "c409b8389c1e440d969be34f55527f36b82e1f9fd65f32720b72c6fe391833d0",
+  "archived_at": "2026-06-07T01:17:15Z",
+  "metadata": {
+    "title": "Kammerflimmer Kollektief / Strings of Consciousness",
+    "artist": "Kammerflimmer Kollektief",
+    "year": "2007",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 1563,
+    "duration_human": "00:26:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Kammerflimmer Kollektief - KAMMERFLIMMER KOLLEKTIEF - Jinx (Excursion)",
+      "02 Kammerflimmer Kollektief - KAMMERFLIMMER KOLLEKTIEF - Both Eyes Tight Shut (Instr.)",
+      "03 Strings of Consciousness - STRINGS OF CONSCIOUSNESS - Forest of Spades",
+      "04 Strings of Consciousness - STRINGS OF CONSCIOUSNESS - Fantomastique Alaska",
+      "05 Strings of Consciousness - STRINGS OF CONSCIOUSNESS - Crests & Watersheds"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kammerflimmer-kollektief-strings-of-consciousness_c409b8389c1e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/ceaeea7dd559b046af3a/Kammerflimmer_Kollektief_-_Strings_of_Consciousness.tar"
+    }
+  }
+}
