@@ -1,0 +1,39 @@
+{
+  "id": "maander_e65ce5990b3c",
+  "fingerprint": "e65ce5990b3c295e2c88fb54ffdde2d8c9945253e5eaafcebdd9f18a15a5642a",
+  "archived_at": "2026-06-07T01:26:24Z",
+  "metadata": {
+    "title": "Mäander",
+    "artist": "Kammerflimmer Kollektief",
+    "year": "1999",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 3395,
+    "duration_human": "00:56:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kammerflimmer Kollektief - Mond?",
+      "02 Kammerflimmer Kollektief - Implodiert",
+      "03 Kammerflimmer Kollektief - Tuch",
+      "04 Kammerflimmer Kollektief - Faller",
+      "05 Kammerflimmer Kollektief - Rand",
+      "06 Kammerflimmer Kollektief - Gras",
+      "07 Kammerflimmer Kollektief - Simultan",
+      "08 Kammerflimmer Kollektief - Konstant",
+      "09 Kammerflimmer Kollektief - Lunger",
+      "10 Kammerflimmer Kollektief - Seen",
+      "11 Kammerflimmer Kollektief - Nachtwach",
+      "12 Kammerflimmer Kollektief - Horn",
+      "13 Kammerflimmer Kollektief - Brack"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/maander_e65ce5990b3c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/adbeaffcaa483773100c/M_ander.tar"
+    }
+  }
+}
