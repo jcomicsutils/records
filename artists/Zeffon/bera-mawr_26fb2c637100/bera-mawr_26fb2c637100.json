@@ -1,0 +1,31 @@
+{
+  "id": "bera-mawr_26fb2c637100",
+  "fingerprint": "26fb2c637100eb8cf2b942241b89517fd4a88a65bc66b42b5d1ecb177bcd579e",
+  "archived_at": "2026-06-07T22:00:02Z",
+  "metadata": {
+    "title": "Bera Mawr",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 23343,
+    "duration_human": "06:29:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Black Moon",
+      "02 Zeffon - Daughters",
+      "03 Zeffon - For Supportive Friends??",
+      "04 Zeffon - For Supportive Friends?? (Continued)",
+      "05 Zeffon - Owain (Bera Mawr, Part 1)",
+      "06 Zeffon - How He Loved Garhadbjradtratia, 5th Rock from the Star",
+      "07 Zeffon - How He Loved Garhadbjradtratia, 5th Rock from the Star (Continued)",
+      "08 Zeffon - Owain (Bera Mawr, Part 2)"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/bef9b0bc9ada2b76299d/Bera_Mawr.tar"
+    }
+  }
+}
