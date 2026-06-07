@@ -1,0 +1,34 @@
+{
+  "id": "hysteria_7861768df7a7",
+  "fingerprint": "7861768df7a77c936f98526a56beac74300b0502ba9806ec2253c60f49a047aa",
+  "archived_at": "2026-06-07T00:58:30Z",
+  "metadata": {
+    "title": "Hysteria",
+    "artist": "Kammerflimmer Kollektief",
+    "year": "2001",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 3074,
+    "duration_human": "00:51:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kammerflimmer Kollektief - Hysteria",
+      "02 Kammerflimmer Kollektief - Seen (Not Seen)",
+      "03 Kammerflimmer Kollektief - Engel Wacht)",
+      "04 Kammerflimmer Kollektief - Auguri, Auguri",
+      "05 Kammerflimmer Kollektief - Du Siehst Hoch; Du Siehst \"Wolken\"",
+      "06 Kammerflimmer Kollektief - Zikaden, Vielleicht",
+      "07 Kammerflimmer Kollektief - Mohn",
+      "08 Kammerflimmer Kollektief - Du Siehst Hoch; Du Siehst \"Wolken\" (Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hysteria_7861768df7a7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/37dee9c657501a3e32d3/Hysteria.tar"
+    }
+  }
+}
