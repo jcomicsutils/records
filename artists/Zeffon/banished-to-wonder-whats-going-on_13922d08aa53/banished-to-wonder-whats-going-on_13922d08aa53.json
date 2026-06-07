@@ -1,0 +1,32 @@
+{
+  "id": "banished-to-wonder-whats-going-on_13922d08aa53",
+  "fingerprint": "13922d08aa53e55d3a6be8763074f16d70f9684f40ef7d8ac6d1fbc0111ada4e",
+  "archived_at": "2026-06-07T19:43:33Z",
+  "metadata": {
+    "title": "Banished to Wonder What's Going On",
+    "artist": "Zeffon",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1455,
+    "duration_human": "00:24:15",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Effort Yet Through Trouble (Opp.2)",
+      "02 Zeffon - Hello Snow Train",
+      "03 Zeffon - Opaazt TR Urkäikiztr",
+      "04 Zeffon - Effort Yet Through Trouble (Opp.1)",
+      "05 Zeffon - Travel Pool",
+      "06 Zeffon - Fire Suppression Demonstration"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/banished-to-wonder-whats-going-on_13922d08aa53"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/c5adc8d0e08f6af123d4/Banished_to_Wonder_What_s_Going_On.tar"
+    }
+  }
+}
