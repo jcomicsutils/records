@@ -1,0 +1,36 @@
+{
+  "id": "remixed_fd4862fa2203",
+  "fingerprint": "fd4862fa220316567a18a601e39df4c9287409c17934e1658416cb0e7e19d136",
+  "archived_at": "2026-06-07T01:32:38Z",
+  "metadata": {
+    "title": "Remixed",
+    "artist": "Kammerflimmer Kollektief",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3200,
+    "duration_human": "00:53:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kammerflimmer Kollektiv - David Last-Matt (David Last`s Doki Doki Rock Mix)",
+      "02 Kammerflimmer Kollektiv - Aoki Takamasa-After the Rain-Remix",
+      "03 Kammerflimmer Kollektiv - Nôze-Lichterloh-Remix",
+      "04 Kammerflimmer Kollektiv - Jan Jelinek-Unstet-Remix",
+      "05 Kammerflimmer Kollektiv - Sutekh-Absencen-Remix",
+      "06 Kammerflimmer Kollektiv - Lump200-Nachtwache Remixed",
+      "07 Kammerflimmer Kollektiv - Secondo-Unstet (Secondo Reshuffle)",
+      "08 Kammerflimmer Kollektiv - Radian-Radian on Equilibrium",
+      "09 Kammerflimmer Kollektiv - Hans Appelqvist-Shibboleth-Remix",
+      "10 Kammerflimmer Kollektiv - David Last/Pocket Pet-Matt (Pocket Pet Mix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/remixed_fd4862fa2203"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/7a52af9f656a3547c3b0/Remixed.tar"
+    }
+  }
+}
