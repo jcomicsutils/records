@@ -1,0 +1,36 @@
+{
+  "id": "teufelskamin_94c53f875db2",
+  "fingerprint": "94c53f875db2c6b8b8ef8ce08b78ba01ee84b9d5487f4f32ed4bba8fe6922e5b",
+  "archived_at": "2026-06-07T01:49:55Z",
+  "metadata": {
+    "title": "Teufelskamin",
+    "artist": "Kammerflimmer Kollektief",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2747,
+    "duration_human": "00:45:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kammerflimmer Kollektief - Coricidin Boogie",
+      "02 Kammerflimmer Kollektief - Never Collapse, Always Dazzle!",
+      "03 Kammerflimmer Kollektief - Teufelskamin Jam #1",
+      "04 Kammerflimmer Kollektief - Shangrila",
+      "05 Kammerflimmer Kollektief - Soft Machine",
+      "06 Kammerflimmer Kollektief - A Different Carmic Thermal",
+      "07 Kammerflimmer Kollektief - Teufelskamin Jam #2",
+      "08 Kammerflimmer Kollektief - Nearly Able to Fly",
+      "09 Kammerflimmer Kollektief - New Ghosts",
+      "10 Kammerflimmer Kollektief - The People United Will Never Be Defeated"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/teufelskamin_94c53f875db2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/eb4ede4c4491cf24189b/Teufelskamin.tar"
+    }
+  }
+}
