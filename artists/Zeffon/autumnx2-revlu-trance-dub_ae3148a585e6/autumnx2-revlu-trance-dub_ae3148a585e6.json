@@ -1,0 +1,30 @@
+{
+  "id": "autumnx2-revlu-trance-dub_ae3148a585e6",
+  "fingerprint": "ae3148a585e6c272ef77e9f04e48578454065d5bc0c2460f90233449f126a828",
+  "archived_at": "2026-06-07T18:26:37Z",
+  "metadata": {
+    "title": "Autumnx2 Revlu Trânce Dub",
+    "artist": "Zeffon",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2534,
+    "duration_human": "00:42:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Shatter Beliefs",
+      "02 Zeffon - Encounter With the Turkey Leg Man",
+      "03 Zeffon - Beat Cross (Metomash)",
+      "04 Zeffon - Time Away From the City (Dub 3)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/autumnx2-revlu-trance-dub_ae3148a585e6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/48db4f9ee1aa3c27ac17/Autumnx2_Revlu_Tr_nce_Dub.tar"
+    }
+  }
+}
