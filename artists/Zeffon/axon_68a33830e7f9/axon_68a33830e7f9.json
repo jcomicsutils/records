@@ -1,0 +1,32 @@
+{
+  "id": "axon_68a33830e7f9",
+  "fingerprint": "68a33830e7f94fd20b5e37035a29583ae2cf1f68a0cba055fda093a1b50048ff",
+  "archived_at": "2026-06-07T18:32:21Z",
+  "metadata": {
+    "title": "Axon",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1388,
+    "duration_human": "00:23:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Untitled",
+      "02 Zeffon - Untitled",
+      "03 Zeffon - Untitled",
+      "04 Zeffon - Untitled",
+      "05 Zeffon - Untitled",
+      "06 Zeffon - Untitled"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/axon_68a33830e7f9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/8aa240da289cfad961c3/Axon.tar"
+    }
+  }
+}
