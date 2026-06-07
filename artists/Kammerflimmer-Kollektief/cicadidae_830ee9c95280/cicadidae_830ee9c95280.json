@@ -1,0 +1,36 @@
+{
+  "id": "cicadidae_830ee9c95280",
+  "fingerprint": "830ee9c952807ba56f922bed85a456b674da489f910d301ba84c2348dcfd59dc",
+  "archived_at": "2026-06-07T00:35:54Z",
+  "metadata": {
+    "title": "Cicadidae",
+    "artist": "Kammerflimmer Kollektief",
+    "year": "2003",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2560,
+    "duration_human": "00:42:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kammerflimmer Kollektief - Neumond Inselhin",
+      "02 Kammerflimmer Kollektief - Sie Tranken Regen",
+      "03 Kammerflimmer Kollektief - Über Die Wasserscheide",
+      "04 Kammerflimmer Kollektief - Blood",
+      "05 Kammerflimmer Kollektief - ...Denn Nacht Ist Jetzt Schon Bald!",
+      "06 Kammerflimmer Kollektief - Sie Tranken Regen (Version)",
+      "07 Kammerflimmer Kollektief - Mantra",
+      "08 Kammerflimmer Kollektief - Eiderdaunen (Gerupft)",
+      "09 Kammerflimmer Kollektief - Irgendwann: Frühling",
+      "10 Kammerflimmer Kollektief - 'There's a Weight on You, but You Can't Feel It.'"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cicadidae_830ee9c95280"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/f8da88501a4fcd078abf/Cicadidae.tar"
+    }
+  }
+}
