@@ -1,0 +1,32 @@
+{
+  "id": "b-ever-changing_f45b03210111",
+  "fingerprint": "f45b03210111d7bffddfc987bef4f6f3e469f5bc239fa8b35d243fd12a99bfb9",
+  "archived_at": "2026-06-07T19:27:57Z",
+  "metadata": {
+    "title": "B (Ever-changing)",
+    "artist": "Serpentmouth",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 21399,
+    "duration_human": "05:56:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Serpentmouth - Osstayrmu (From 'A')",
+      "02 Serpentmouth - Liquid Mist (From 'Religion')",
+      "03 Serpentmouth - Collage 2 (From 'Heeheej Advance Promo')",
+      "04 Serpentmouth - Zeenzr (From 'Heeheej Advance Promo')",
+      "05 Serpentmouth - Metallic Boom, Part 1 (From 'Heeheej Advance Promo')",
+      "06 Serpentmouth - B (The Paath) F"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/b-ever-changing_f45b03210111"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/0a46c6b56d7139359d6b/B_Ever-changing.tar"
+    }
+  }
+}
