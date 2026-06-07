@@ -1,0 +1,40 @@
+{
+  "id": "destroy-independent-music_c1f33bd42ac4",
+  "fingerprint": "c1f33bd42ac490f98029a0bf1421e40b3c78b2e91951ae4d49f78058c37d3cae",
+  "archived_at": "2026-06-07T02:15:05Z",
+  "metadata": {
+    "title": "Destroy Independent Music!",
+    "artist": "Various Artists",
+    "year": "2007",
+    "codec": "MP3",
+    "num_tracks": 14,
+    "duration_seconds": 4080,
+    "duration_human": "01:08:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Prints - Easy Magic",
+      "02 Rob Crow - I Hate You, Rob Crow (Single Version)",
+      "03 Sybarite - Cut Out Shape",
+      "04 Grails - Dead Vine Blues",
+      "05 Mono - Are You There?",
+      "06 The Ladies - Empathy on a Stick",
+      "07 Miss Violetta Beauregarde - The Unbearable Lightness of a Farm Tractor",
+      "08 Fridge - Eyelids",
+      "09 Eluvium - Prelude to Time Feelers",
+      "10 Envy - A Warm Room",
+      "11 Explosions In The Sky - Welcome, Ghosts",
+      "12 Caroline - Winter",
+      "13 Tarentel - You Do This, I'll Do That.",
+      "14 Maserati - The World Outside"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/destroy-independent-music_c1f33bd42ac4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/919f66284df64a4efd4e/Destroy_Independent_Music.tar"
+    }
+  }
+}
