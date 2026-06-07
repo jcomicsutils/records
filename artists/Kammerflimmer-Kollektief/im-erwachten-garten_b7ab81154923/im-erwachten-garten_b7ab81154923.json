@@ -1,0 +1,30 @@
+{
+  "id": "im-erwachten-garten_b7ab81154923",
+  "fingerprint": "b7ab81154923cdac561458aaf8f81459dac875c37b7bf55aeeb808f0a559b7dc",
+  "archived_at": "2026-06-07T01:08:57Z",
+  "metadata": {
+    "title": "Im Erwachten Garten",
+    "artist": "Kammerflimmer Kollektief",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3414,
+    "duration_human": "00:56:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Dietmar Dath & Kammerflimmer Kollektief - I",
+      "02 Dietmar Dath & Kammerflimmer Kollektief - II",
+      "03 Dietmar Dath & Kammerflimmer Kollektief - III",
+      "04 Dietmar Dath & Kammerflimmer Kollektief - IV"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/im-erwachten-garten_b7ab81154923"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/2a447718e5311b1f56d6/Im_Erwachten_Garten.tar"
+    }
+  }
+}
