@@ -1,0 +1,33 @@
+{
+  "id": "beluga-whale-stomach_8405994c29d3",
+  "fingerprint": "8405994c29d3ed79b163dd4c0518f9b2b3d0ac213c2255daf7aeffce0150b1cd",
+  "archived_at": "2026-06-07T20:48:50Z",
+  "metadata": {
+    "title": "Beluga Whale Stomach",
+    "artist": "Revenence",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2364,
+    "duration_human": "00:39:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Revenence - Ancient Space",
+      "02 Revenence - Armed with an M79 and Others",
+      "03 Revenence - Dark Tribe",
+      "04 Revenence - The Don Drowns in the Trivial Garden Pond...",
+      "05 Revenence - Lilypad",
+      "06 Revenence - Watch-toe (Purchai Mix)",
+      "07 Revenence - Lost Payphone"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/beluga-whale-stomach_8405994c29d3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/14d4c8ee242b077508bf/Beluga_Whale_Stomach.tar"
+    }
+  }
+}
