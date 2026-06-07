@@ -1,0 +1,33 @@
+{
+  "id": "b-malaisemalice-chaosfoundry-v-seasons-iv_7a4e08326fa4",
+  "fingerprint": "7a4e08326fa4fea5fc20af4314f0dd9c1d725fbb0784233c927a7bfb1da76d00",
+  "archived_at": "2026-06-07T19:41:39Z",
+  "metadata": {
+    "title": "B Malaise/Malice (Chaosfoundry V = Seasons IV)",
+    "artist": "Revenence",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 8100,
+    "duration_human": "02:15:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Revenence - Under The Realm of Orphaydian",
+      "02 Revenence - Venom",
+      "03 Revenence - Oje Necmesias (Lobby Area / The Nightmare is Over)",
+      "04 Revenence - Recollection",
+      "05 Revenence - Oje Necmesias",
+      "06 Revenence - Good (Fire Traverse Meteor Site 2)",
+      "07 Revenence - Traverse Meteor Site 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/b-malaisemalice-chaosfoundry-v-seasons-iv_7a4e08326fa4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/d09a953ac027648f1c33/B_Malaise_-_Malice_Chaosfoundry_V_Seasons_IV.tar"
+    }
+  }
+}
