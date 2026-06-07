@@ -1,0 +1,32 @@
+{
+  "id": "azure-style-doll_8a8aee2442eb",
+  "fingerprint": "8a8aee2442ebfeac0e4937334a3b1b20395d817e83641130df07e629edcae5a8",
+  "archived_at": "2026-06-07T18:35:12Z",
+  "metadata": {
+    "title": "Azure-Style Doll",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1580,
+    "duration_human": "00:26:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Find the Kidnappers",
+      "02 Zeffon - Creation of People",
+      "03 Zeffon - Earthquake",
+      "04 Zeffon - Power",
+      "05 Zeffon - U(V(O(F",
+      "06 Zeffon - Azure-Style Doll"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/azure-style-doll_8a8aee2442eb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/9604d999fca13d477e3a/Azure-Style_Doll.tar"
+    }
+  }
+}
