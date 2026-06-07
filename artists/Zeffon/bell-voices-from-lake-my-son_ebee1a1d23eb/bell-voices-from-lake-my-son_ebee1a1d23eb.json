@@ -1,0 +1,28 @@
+{
+  "id": "bell-voices-from-lake-my-son_ebee1a1d23eb",
+  "fingerprint": "ebee1a1d23ebecb09f738fa8efddc5e4210cef1fa22762959caebc3d7ec923f8",
+  "archived_at": "2026-06-07T20:43:17Z",
+  "metadata": {
+    "title": "Bell Voices from Lake (my Son)",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 14685,
+    "duration_human": "04:04:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Erotic Fire Faces (A hidden Current 93 Tribute)",
+      "02 Zeffon - the Shell is bloody (A Grozny 93 Tribute)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bell-voices-from-lake-my-son_ebee1a1d23eb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/cc37b03e4d71c325994a/Bell_Voices_from_Lake_my_Son.tar"
+    }
+  }
+}
