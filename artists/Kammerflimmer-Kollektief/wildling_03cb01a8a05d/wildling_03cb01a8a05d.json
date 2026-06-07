@@ -1,0 +1,38 @@
+{
+  "id": "wildling_03cb01a8a05d",
+  "fingerprint": "03cb01a8a05d95fa99065fdae58eacae63b818c6170a83de1baa646bc137af73",
+  "archived_at": "2026-06-07T01:58:20Z",
+  "metadata": {
+    "title": "Wildling",
+    "artist": "Kammerflimmer Kollektief",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3228,
+    "duration_human": "00:53:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kammerflimmer Kollektief - Move Right In",
+      "02 Kammerflimmer Kollektief - Silver Chords",
+      "03 Kammerflimmer Kollektief - Aum a Go-Go",
+      "04 Kammerflimmer Kollektief - In Transition (Version)",
+      "05 Kammerflimmer Kollektief - Spookin' the Horse",
+      "06 Kammerflimmer Kollektief - Blind",
+      "07 Kammerflimmer Kollektief - Rotwelsch",
+      "08 Kammerflimmer Kollektief - Time is the Fire in Which We Burn",
+      "09 Kammerflimmer Kollektief - Cry Tuff",
+      "10 Kammerflimmer Kollektief - We Paint the Town Beige",
+      "11 Kammerflimmer Kollektief - There's a Crack in Everything",
+      "12 Kammerflimmer Kollektief - Milte Hi Ankhen (Aka Bird in Hand)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wildling_03cb01a8a05d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/d7e1e9fb91aba92594ff/Wildling.tar"
+    }
+  }
+}
