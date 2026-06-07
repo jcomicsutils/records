@@ -1,0 +1,29 @@
+{
+  "id": "behind-the-hands-that-feel-and-move_fee0c3aa8f7d",
+  "fingerprint": "fee0c3aa8f7df3b517603975c801c19094c3d46cc5b5161acf6fa18011f0bf24",
+  "archived_at": "2026-06-07T19:58:20Z",
+  "metadata": {
+    "title": "Behind the Hands that Feel and Move",
+    "artist": "Zeffon",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3916,
+    "duration_human": "01:05:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Leave or Stay",
+      "02 Zeffon - Tryvaliant Strattca",
+      "03 Zeffon - Pearl No. 622"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/behind-the-hands-that-feel-and-move_fee0c3aa8f7d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/c0879b4eddf32c6b1459/Behind_the_Hands_that_Feel_and_Move.tar"
+    }
+  }
+}
