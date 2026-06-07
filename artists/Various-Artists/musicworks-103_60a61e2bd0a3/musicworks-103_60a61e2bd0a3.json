@@ -1,0 +1,45 @@
+{
+  "id": "musicworks-103_60a61e2bd0a3",
+  "fingerprint": "60a61e2bd0a36c85233e657ca4cd9740d8ba2fd103c37c34e2e28902a1a413e6",
+  "archived_at": "2026-06-07T02:18:11Z",
+  "metadata": {
+    "title": "MusicWorks 103",
+    "artist": "Various Artists",
+    "year": "2009",
+    "codec": "MP3",
+    "num_tracks": 19,
+    "duration_seconds": 4339,
+    "duration_human": "01:12:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Ana Sokolović - Six Voices for Sirens: Six Voix",
+      "02 Ana Sokolović - Six Voices for Sirens: Voix, Nos Voix and Vertige",
+      "03 Ana Sokolović - Pesma: I",
+      "04 Ana Sokolović - Pesma: III",
+      "05 Ana Sokolović - Love Songs: Doves I",
+      "06 Ana Sokolović - Love Songs: Catulle",
+      "07 Fond of Tigers - Pemberdunn Maple Wolfs",
+      "08 Frances-Marie Uitti - Britsum Chorale",
+      "09 Frances-Marie Uitti - 13AL",
+      "10 Frances-Marie Uitti - Two Bow Chorale",
+      "11 Text of Light - 020103 RAW 1",
+      "12 Text of Light - 020103 RAW 2",
+      "13 Text of Light - 020103 RAW 3",
+      "14 Misha Glouberman - Terrible Noises for Beautiful People (Excerpts)",
+      "15 Rainer Wiens - Kalimba Duo (With Thom Gossage)",
+      "16 Rainer Wiens - Duo From a Performance at Usine C (With Malcolm Goldstein)",
+      "17 Rainer Wiens - Excerpt From a Complicated Sadneess",
+      "18 Michael Duffey - Junkgar",
+      "19 Michael Duffey - Lov5"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/musicworks-103_60a61e2bd0a3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/b799bc56fdfb5ae5d508/MusicWorks_103.tar"
+    }
+  }
+}
