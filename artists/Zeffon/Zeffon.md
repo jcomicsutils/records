@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [7429FD](7429fd_364ea85445f8/7429fd_364ea85445f8.md) | 2009 | FLAC | 00:01:27 | [IA](https://archive.org/details/7429fd_364ea85445f8) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/df5dcabca74af5aa134c/7429FD.tar) |
+| [Beyond the Realms of Sharmiah](beyond-the-realms-of-sharmiah_312397e04a37/beyond-the-realms-of-sharmiah_312397e04a37.md) | 2012 | FLAC | 01:35:30 | [IA](https://archive.org/details/beyond-the-realms-of-sharmiah_312397e04a37) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/13ca8c21f5fa6a7420ef/Beyond_the_Realms_of_Sharmiah.tar) |
 | [Apathy](apathy_4103b532eeab/apathy_4103b532eeab.md) | 2012 | FLAC | 00:33:28 | [IA](https://archive.org/details/apathy_4103b532eeab) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/199db3b78d108ce03077/Apathy.tar) |
 | [Addendum](addendum_27a79c8d8d31/addendum_27a79c8d8d31.md) | 2012 | FLAC | 00:04:57 | [IA](https://archive.org/details/addendum_27a79c8d8d31) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/3a2f8b646526cc63e3cd/Addendum.tar) |
 | [A Past Evening](a-past-evening_cd5b938b8b79/a-past-evening_cd5b938b8b79.md) | 2012 | FLAC | 00:23:53 | [IA](https://archive.org/details/a-past-evening_cd5b938b8b79) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/817e72ce8c1c095fea99/A_Past_Evening.tar) |

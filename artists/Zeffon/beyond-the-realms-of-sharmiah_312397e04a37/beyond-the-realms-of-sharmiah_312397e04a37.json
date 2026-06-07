@@ -1,0 +1,28 @@
+{
+  "id": "beyond-the-realms-of-sharmiah_312397e04a37",
+  "fingerprint": "312397e04a374a7a36a076cb451111936d871901d7d0291496b607d392c59225",
+  "archived_at": "2026-06-07T22:20:13Z",
+  "metadata": {
+    "title": "Beyond the Realms of Sharmiah",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5730,
+    "duration_human": "01:35:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Matheus",
+      "02 Zeffon - The Ritual Illness"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/beyond-the-realms-of-sharmiah_312397e04a37"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/13ca8c21f5fa6a7420ef/Beyond_the_Realms_of_Sharmiah.tar"
+    }
+  }
+}
