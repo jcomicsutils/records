@@ -1,0 +1,34 @@
+{
+  "id": "jinx_250f2cbf134d",
+  "fingerprint": "250f2cbf134d545ad788a8d18caf8c63e0413201a975102890d514f5ef46fd71",
+  "archived_at": "2026-06-07T01:14:59Z",
+  "metadata": {
+    "title": "Jinx",
+    "artist": "Kammerflimmer Kollektief",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2746,
+    "duration_human": "00:45:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kammerflimmer Kollektief - Palimpsest",
+      "02 Kammerflimmer Kollektief - Jinx",
+      "03 Kammerflimmer Kollektief - Live at the Cactus Tree Motel",
+      "04 Kammerflimmer Kollektief - Gammler, Zen & Hohe Berge",
+      "05 Kammerflimmer Kollektief - Both Eyes Tight Shut",
+      "06 Kammerflimmer Kollektief - Jinx (Version)",
+      "07 Kammerflimmer Kollektief - Nest",
+      "08 Kammerflimmer Kollektief - Subnarkotisch"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/jinx_250f2cbf134d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/aae09ca90da13bbbb9f8/Jinx.tar"
+    }
+  }
+}
