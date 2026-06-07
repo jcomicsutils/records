@@ -1,0 +1,28 @@
+{
+  "id": "ein-strumpf-wachst-durch-den-tisch_c8b87defe7df",
+  "fingerprint": "c8b87defe7df63dcaa550f11380403bde6afc9e1611b5e17e8b1723e800b4a26",
+  "archived_at": "2026-06-07T00:51:39Z",
+  "metadata": {
+    "title": "Ein Strumpf wächst durch den Tisch",
+    "artist": "Kammerflimmer Kollektief",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2764,
+    "duration_human": "00:46:04",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Ulf Stolterfoht / Iris Drögekamp / Thomas Weber & Kammerflimmer Kollektief - Ein Strumpf wächst durch den Tisch, Teil 1",
+      "02 Ulf Stolterfoht / Iris Drögekamp / Thomas Weber & Kammerflimmer Kollektief - Ein Strumpf wächst durch den Tisch, Teil 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ein-strumpf-wachst-durch-den-tisch_c8b87defe7df"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/5c4623910b01049970c3/Ein_Strumpf_w_chst_durch_den_Tisch.tar"
+    }
+  }
+}
