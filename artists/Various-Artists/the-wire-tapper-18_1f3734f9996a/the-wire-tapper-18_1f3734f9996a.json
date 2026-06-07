@@ -1,0 +1,45 @@
+{
+  "id": "the-wire-tapper-18_1f3734f9996a",
+  "fingerprint": "1f3734f9996a9d1544ec5675a2a278dec293ac9dc47f4ada1343436296d7f566",
+  "archived_at": "2026-06-07T02:24:33Z",
+  "metadata": {
+    "title": "The Wire Tapper 18",
+    "artist": "Various Artists",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 19,
+    "duration_seconds": 4197,
+    "duration_human": "01:09:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Automated Acoustics - The Universal Proposition",
+      "02 Strings of Consciousness - Asphodel (Edit)",
+      "03 John Luther Adams - Among Red Mtns (excerpt)",
+      "04 hamaYoko - Furies",
+      "05 The Focus Group - Soho St Ives Tangier",
+      "06 Cath & Phil Tyler - Farewell My Friends",
+      "07 The Ex & Getatchew Mekuria & Guests - Ethiopia Hagere (Edit)",
+      "08 Modified Toy Orchestra - Black Star (Edit)",
+      "09 Heribert Friedl - Back (Excerpt)",
+      "10 the fun years - Electricity is a Scarce Commodity (Radio Edit)",
+      "11 Damon & Naomi - The Turnaround",
+      "12 Goodiepal - 2004 Igen med Ralf Christensen ved Roret",
+      "13 Icarus - Selfautoparent",
+      "14 Tarentel - A Crystal the Size of Our Moon in the Heart of a Pulsating White Dwarf",
+      "15 Babils - Dent de Sagesse (Extraction)",
+      "16 Luciano Cilio - Della Conoscenza (Originale Versione Inedita)",
+      "17 Hulk - The Moon Versus the Sea",
+      "18 Dimension X - The Martian Chronicles",
+      "19 Mordant Music - Den on VelluMM (Wire Tapper Exclusive)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-wire-tapper-18_1f3734f9996a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/7c0388c9cf37a80b9caa/The_Wire_Tapper_18.tar"
+    }
+  }
+}
