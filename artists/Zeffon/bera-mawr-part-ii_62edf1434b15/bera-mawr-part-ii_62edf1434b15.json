@@ -1,0 +1,30 @@
+{
+  "id": "bera-mawr-part-ii_62edf1434b15",
+  "fingerprint": "62edf1434b153235c1373713edf7bde33f5c0d6588dd052870943724b513ebd3",
+  "archived_at": "2026-06-07T22:03:07Z",
+  "metadata": {
+    "title": "Bera Mawr (Part II)",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1419,
+    "duration_human": "00:23:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Pmv lPe m vwn wi re vtHzoLl uaxt cem",
+      "02 Zeffon - The Great Deciever is Below Me, Saith Cruithnechán",
+      "03 Zeffon - The Misty Mire is Something That One Can Easily Get Lost In",
+      "04 Zeffon - Tune of the Old Hermit"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bera-mawr-part-ii_62edf1434b15"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/79d2697e696c49b7b0db/Bera_Mawr_Part_II.tar"
+    }
+  }
+}
