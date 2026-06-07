@@ -1,0 +1,42 @@
+{
+  "id": "bichimaera-isabelline_40ec685d923c",
+  "fingerprint": "40ec685d923c3a5765b802dab0818c3124d82a0a84e9dce7c030a2e6db520a45",
+  "archived_at": "2026-06-07T23:24:22Z",
+  "metadata": {
+    "title": "Bichimaera Isabelline",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_seconds": 15250,
+    "duration_human": "04:14:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - 1: Untitled",
+      "02 Zeffon - 1: Burial Far From the Sea",
+      "03 Zeffon - 2: Untitled",
+      "04 Zeffon - 3: Untitled",
+      "05 Zeffon - 5: Untitled",
+      "06 Zeffon - 8: Untitled",
+      "07 Zeffon - 13: Untitled",
+      "08 Zeffon - 21: Untitled",
+      "09 Zeffon - 34: Untitled",
+      "10 Zeffon - 55: Sleep Twice",
+      "11 Zeffon - 89: Untitled",
+      "12 Zeffon - Distant Observer",
+      "13 Zeffon - 0: Untitled",
+      "14 Zeffon - 0: Significant Dawn",
+      "15 Zeffon - 0: Sleep Thrice",
+      "16 Zeffon - 0: Untitled"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bichimaera-isabelline_40ec685d923c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/f42fdeffddecbe8c3352/Bichimaera_Isabelline.tar"
+    }
+  }
+}
