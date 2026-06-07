@@ -1,0 +1,34 @@
+{
+  "id": "schemen_cfd8141738fa",
+  "fingerprint": "cfd8141738faf4185b191586351348c5106264d69f2a8e695878067ba4262f18",
+  "archived_at": "2026-06-07T01:46:54Z",
+  "metadata": {
+    "title": "Schemen",
+    "artist": "Kammerflimmer Kollektief",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2167,
+    "duration_human": "00:36:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kammerflimmer Kollektief - Erstes Kapitel [Verschliffen]",
+      "02 Kammerflimmer Kollektief - Zweites Kapitel [Ruckartig]",
+      "03 Kammerflimmer Kollektief - Drittes Kapitel [Ungesagt, Dann Vergessen]",
+      "04 Kammerflimmer Kollektief - Viertes Kapitel [Bewusstseinsfrei]",
+      "05 Kammerflimmer Kollektief - Fünftes Kapitel [Kreuzweis]",
+      "06 Kammerflimmer Kollektief - Sechstes Kapitel [Herausgewunden]",
+      "07 Kammerflimmer Kollektief - Siebentes Kapitel [Verflochten]",
+      "08 Kammerflimmer Kollektief - Letztes Kapitel [Halb Vermutet, Halb Gesehen]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/schemen_cfd8141738fa"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/2ad5294e4a6a9a97bded/Schemen.tar"
+    }
+  }
+}
