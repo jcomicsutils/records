@@ -1,0 +1,31 @@
+{
+  "id": "reworks_327a2e5bb6c6",
+  "fingerprint": "327a2e5bb6c61f7d49334c8a3da66e944290b8a6ceed9d3253626d80b27753af",
+  "archived_at": "2026-06-07T01:43:15Z",
+  "metadata": {
+    "title": "Reworks",
+    "artist": "Kammerflimmer Kollektief",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2457,
+    "duration_human": "00:40:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Frank Bretschneider - Re-Mitteltoene",
+      "02 Bérangère Maximin - Innocence (For and After Ernstalbrecht Stiebler)",
+      "03 Jasmine Guffond - Remix Algorithm",
+      "04 Phonosphere - Mit Der Zeit Im Atem Schwebend",
+      "05 Kammerflimmer Kollektief - Morendo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/reworks_327a2e5bb6c6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/0dfe3d117ea1fe11b1d6/Reworks.tar"
+    }
+  }
+}
