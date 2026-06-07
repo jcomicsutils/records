@@ -1,0 +1,39 @@
+{
+  "id": "neurot-recordings-i_b12ed941709e",
+  "fingerprint": "b12ed941709eb0d85d391d47ca407c31e32869f63f118dfd3545ea672991ec1b",
+  "archived_at": "2026-06-07T02:20:24Z",
+  "metadata": {
+    "title": "Neurot Recordings I",
+    "artist": "Various Artists",
+    "year": "2004",
+    "codec": "MP3",
+    "num_tracks": 13,
+    "duration_seconds": 4484,
+    "duration_human": "01:14:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Neurosis - Burn",
+      "02 Oxbow - Time's Up, Sailor Man",
+      "03 Grails - Reprieve",
+      "04 The Enablers - Pauly's Days in Cinema",
+      "05 Sabers - Lion Pose",
+      "06 Lotus Eaters - Untitled II",
+      "07 Steve Von Till - Breathe",
+      "08 Isis - Celestial Remix",
+      "09 Zeni Geva - Tyrranicide",
+      "10 Culper Ring - TRK3_4:38",
+      "11 Tarantula Hawk - [untitled]",
+      "12 Blood & Time - A Silver Ocean Storm",
+      "13 Neurosis & Jarboe - His Last Words"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/neurot-recordings-i_b12ed941709e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/e1463f3c8ddc8ecc2be1/Neurot_Recordings_I.tar"
+    }
+  }
+}
