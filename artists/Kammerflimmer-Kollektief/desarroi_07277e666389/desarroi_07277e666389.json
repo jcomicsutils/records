@@ -1,0 +1,35 @@
+{
+  "id": "desarroi_07277e666389",
+  "fingerprint": "07277e6663890bbc7ee75d4518d274cd080cf641d88a32c57d6ed2e5b462c54a",
+  "archived_at": "2026-06-07T00:41:11Z",
+  "metadata": {
+    "title": "Desarroi",
+    "artist": "Kammerflimmer Kollektief",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2496,
+    "duration_human": "00:41:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kammerflimmer Kollektief - Desarroi, Pt. 1: Mayhem!",
+      "02 Kammerflimmer Kollektief - Desarroi, Pt. 2: Grundsturzend",
+      "03 Kammerflimmer Kollektief - Free Form Freak-Out",
+      "04 Kammerflimmer Kollektief - Evol Jam (Edit)",
+      "05 Kammerflimmer Kollektief - Desarroi, Pt. 3: Burned",
+      "06 Kammerflimmer Kollektief - Desarroi, Pt. 4: Unlosbar",
+      "07 Kammerflimmer Kollektief - Desarroi, Pt. 5: Saumselig",
+      "08 Kammerflimmer Kollektief - Zuruck Zum Beton",
+      "09 Kammerflimmer Kollektief - Desarroi, Pt. 6: Mayhem! (Reprise)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/desarroi_07277e666389"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/7e57ff33db0fa1b3d6f0/Desarroi.tar"
+    }
+  }
+}
