@@ -1,0 +1,32 @@
+{
+  "id": "incommunicado_16fb451dc70c",
+  "fingerprint": "16fb451dc70c16d1214919a325848a66b36ee1d425e940aaf81b432a795580a9",
+  "archived_at": "2026-06-07T01:11:10Z",
+  "metadata": {
+    "title": "Incommunicado",
+    "artist": "Kammerflimmer Kollektief",
+    "year": "1999",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1837,
+    "duration_human": "00:30:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kammerflimmer Kollektief - Nachtwach",
+      "02 Kammerflimmer Kollektief - Gras",
+      "03 Kammerflimmer Kollektief - Rand",
+      "04 Kammerflimmer Kollektief - Venti Latir",
+      "05 Kammerflimmer Kollektief - Kissen",
+      "06 Kammerflimmer Kollektief - Holler"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/incommunicado_16fb451dc70c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/1e65ea0589da5f31d2fc/Incommunicado.tar"
+    }
+  }
+}
