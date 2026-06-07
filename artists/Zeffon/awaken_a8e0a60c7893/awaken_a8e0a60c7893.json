@@ -1,0 +1,27 @@
+{
+  "id": "awaken_a8e0a60c7893",
+  "fingerprint": "a8e0a60c78936f4d2a38435b632c28002b796e37e21c825742ea1c1f633af853",
+  "archived_at": "2026-06-07T18:31:11Z",
+  "metadata": {
+    "title": "Awaken!",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1392,
+    "duration_human": "00:23:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Underwater Cave, Squid, the True Median, Mossy Branches"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/awaken_a8e0a60c7893"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/9e5eb4b2d34bc438f451/Awaken.tar"
+    }
+  }
+}
