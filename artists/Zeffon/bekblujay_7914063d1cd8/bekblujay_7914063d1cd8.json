@@ -1,0 +1,30 @@
+{
+  "id": "bekblujay_7914063d1cd8",
+  "fingerprint": "7914063d1cd884bb4e1603863a7bdc8aad874f82ebf2bbe9a60f2cad3cf3dfeb",
+  "archived_at": "2026-06-07T20:14:59Z",
+  "metadata": {
+    "title": "Bekblujay",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2928,
+    "duration_human": "00:48:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Bowling Green Massacre",
+      "02 Zeffon - Smashed Metal",
+      "03 Zeffon - Fero",
+      "04 Zeffon - Space Patrol, Part 14"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bekblujay_7914063d1cd8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/446275e63d4ce39a9fb5/Bekblujay.tar"
+    }
+  }
+}
