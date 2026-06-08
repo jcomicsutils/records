@@ -1,0 +1,27 @@
+{
+  "id": "box-iii_607e1395e537",
+  "fingerprint": "607e1395e537bfdf3887f0869e36e41b1a52467c1257cb986813845abf152fb3",
+  "archived_at": "2026-06-08T03:48:40Z",
+  "metadata": {
+    "title": "Box III",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 7360,
+    "duration_human": "02:02:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Static Box"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/box-iii_607e1395e537"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta5/bd55747c3468cf596051/Box_III.tar"
+    }
+  }
+}
