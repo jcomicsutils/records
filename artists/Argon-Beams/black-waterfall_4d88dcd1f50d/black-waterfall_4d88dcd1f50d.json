@@ -1,0 +1,28 @@
+{
+  "id": "black-waterfall_4d88dcd1f50d",
+  "fingerprint": "4d88dcd1f50dacf57610249cf8b0d0128337ccd8de9562e5375ece0b15eba571",
+  "archived_at": "2026-06-08T01:42:13Z",
+  "metadata": {
+    "title": "Black Waterfall",
+    "artist": "Argon Beams",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 845,
+    "duration_human": "00:14:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Argon Beams - Waterfall",
+      "02 Argon Beams - Black Waterfall"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/black-waterfall_4d88dcd1f50d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/853a70f690a725a546be/Black_Waterfall.tar"
+    }
+  }
+}
