@@ -1,0 +1,36 @@
+{
+  "id": "bizarre-vuvuvu-box_eb33ec252e54",
+  "fingerprint": "eb33ec252e54326ac1ba6e90b9201b07b6a15a62a5f0bc40d6c0466d96d174ba",
+  "archived_at": "2026-06-08T01:24:10Z",
+  "metadata": {
+    "title": "Bizarre Vu.Vu.Vu. Box",
+    "artist": "Argon Beams",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 28677,
+    "duration_human": "07:57:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Argon Beams - Argon Beams (Papa Neu) 1",
+      "02 Argon Beams - Argon Beams (Papa Neu) 2",
+      "03 Argon Beams - Christian Mission Papua Seattle 1",
+      "04 Argon Beams - Christian Mission Papua Seattle 2",
+      "05 Argon Beams - Kina 1",
+      "06 Argon Beams - Kina 2",
+      "07 Argon Beams - C120 #4 1",
+      "08 Argon Beams - C120 #4 2",
+      "09 Argon Beams - Clergy Edition 1",
+      "10 Argon Beams - Clergy Edition 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bizarre-vuvuvu-box_eb33ec252e54"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/75a209142ffdb4b07b55/Bizarre_Vu.Vu.Vu._Box.tar"
+    }
+  }
+}

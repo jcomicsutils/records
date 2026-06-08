@@ -8,6 +8,7 @@
 - [Ak'chamel](Ak'chamel/Ak'chamel.md)
 - [Algebra Suicide](Algebra-Suicide/Algebra-Suicide.md)
 - [And We Walk Endlessly Towards The Sun](And-We-Walk-Endlessly-Towards-The-Sun/And-We-Walk-Endlessly-Towards-The-Sun.md)
+- [Argon Beams](Argon-Beams/Argon-Beams.md)
 - [Armand Hammer](Armand-Hammer/Armand-Hammer.md)
 - [Arthur Russell](Arthur-Russell/Arthur-Russell.md)
 - [BLARF](BLARF/BLARF.md)
