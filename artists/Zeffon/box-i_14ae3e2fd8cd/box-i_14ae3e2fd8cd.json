@@ -1,0 +1,28 @@
+{
+  "id": "box-i_14ae3e2fd8cd",
+  "fingerprint": "14ae3e2fd8cdd90a65cb2f3bab8e242c78b181649ffa6d09ae1b8fc09f77b2d3",
+  "archived_at": "2026-06-08T03:15:00Z",
+  "metadata": {
+    "title": "Box I",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4972,
+    "duration_human": "01:22:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Fortomyaglane",
+      "02 Zeffon - Ancestor of Xuþy, Pt. 12"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/box-i_14ae3e2fd8cd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha7/0b9da4d5bba0f3ae81c4/Box_I.tar"
+    }
+  }
+}
