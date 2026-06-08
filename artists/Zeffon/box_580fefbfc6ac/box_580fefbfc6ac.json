@@ -1,0 +1,27 @@
+{
+  "id": "box_580fefbfc6ac",
+  "fingerprint": "580fefbfc6ac974df951cab48b02a467e20e86607d510765dde08c92758f45b1",
+  "archived_at": "2026-06-08T02:47:57Z",
+  "metadata": {
+    "title": "Box",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3058,
+    "duration_human": "00:50:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Primitive Glacier"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/box_580fefbfc6ac"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/be86bff32897d7ce5eda/Box.tar"
+    }
+  }
+}
