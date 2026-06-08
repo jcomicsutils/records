@@ -1,0 +1,28 @@
+{
+  "id": "bogman_0456c6c0bae4",
+  "fingerprint": "0456c6c0bae45aec70eddcc3af8a48355497421e77e748b39bcca13a620c191c",
+  "archived_at": "2026-06-08T02:35:34Z",
+  "metadata": {
+    "title": "Bogman",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 331,
+    "duration_human": "00:05:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Bogman",
+      "02 Zeffon - Mossstone"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bogman_0456c6c0bae4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/8922cb89c861a437e568/Bogman.tar"
+    }
+  }
+}
