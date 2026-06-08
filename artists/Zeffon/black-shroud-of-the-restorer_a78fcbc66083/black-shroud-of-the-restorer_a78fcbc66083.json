@@ -1,0 +1,27 @@
+{
+  "id": "black-shroud-of-the-restorer_a78fcbc66083",
+  "fingerprint": "a78fcbc660833b76ad1bb8ac350cbd1efd38188686daaf33b12cbfa5b0bb4d4a",
+  "archived_at": "2026-06-08T01:35:05Z",
+  "metadata": {
+    "title": "Black Shroud of the Restorer",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4671,
+    "duration_human": "01:17:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Flax Seed"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/black-shroud-of-the-restorer_a78fcbc66083"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/74ad622018960d6b4f00/Black_Shroud_of_the_Restorer.tar"
+    }
+  }
+}
