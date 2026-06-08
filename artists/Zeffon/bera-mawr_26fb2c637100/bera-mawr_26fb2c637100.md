@@ -1,5 +1,7 @@
 # Zeffon — Bera Mawr (2017)
 
+![Cover](https://archive.org/download/bera-mawr_26fb2c637100/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/bef9b0bc9ada2b76299d/Bera_Mawr.tar)
+- [Archive.org](https://archive.org/details/bera-mawr_26fb2c637100)
 
 ## Tracklist
 

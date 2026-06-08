@@ -26,6 +26,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/file.php?f=/beta4/bef9b0bc9ada2b76299d/Bera_Mawr.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/bera-mawr_26fb2c637100"
     }
   }
 }
