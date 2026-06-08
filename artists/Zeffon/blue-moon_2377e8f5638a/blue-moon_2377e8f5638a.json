@@ -1,0 +1,27 @@
+{
+  "id": "blue-moon_2377e8f5638a",
+  "fingerprint": "2377e8f5638a7589ea1de0993f9b82e49fe01de4d4de296bc799fc96e4374957",
+  "archived_at": "2026-06-08T02:29:39Z",
+  "metadata": {
+    "title": "Blue Moon",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 426,
+    "duration_human": "00:07:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Blue Moon"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/blue-moon_2377e8f5638a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/9ecfcc7e8495ba1f3cad/Blue_Moon.tar"
+    }
+  }
+}
