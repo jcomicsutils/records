@@ -1,0 +1,31 @@
+{
+  "id": "box-ii_75a93f8e6b84",
+  "fingerprint": "75a93f8e6b84e6b0fbad2239196c76040516c449d5140bbb1002c9972f0867f7",
+  "archived_at": "2026-06-08T03:34:49Z",
+  "metadata": {
+    "title": "Box II",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 4528,
+    "duration_human": "01:15:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Man in the Thorns",
+      "02 Zeffon - Rapture",
+      "03 Zeffon - Colour",
+      "04 Zeffon - Covet",
+      "05 Zeffon - Nor Will There Be Colour"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/box-ii_75a93f8e6b84"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/alpha7/9c9a897b8d0e919ca50a/Box_II.tar"
+    }
+  }
+}
