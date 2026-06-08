@@ -1,0 +1,30 @@
+{
+  "id": "born-anew_7fa00851642a",
+  "fingerprint": "7fa00851642a32a1ca08e5b9a877e3910c22b8a9443aaff4ba9c8fed0298ed49",
+  "archived_at": "2026-06-08T02:41:06Z",
+  "metadata": {
+    "title": "Born Anew",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 607,
+    "duration_human": "00:10:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Joining Hands",
+      "02 Zeffon - Open Arms",
+      "03 Zeffon - Piece For Organs and Strings in a Chapel",
+      "04 Zeffon - Living in a Town Accustomed to Humans"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/born-anew_7fa00851642a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta4/c3d911c880b6da39f3eb/Born_Anew.tar"
+    }
+  }
+}
