@@ -1,0 +1,32 @@
+{
+  "id": "brainpan_1789ba0b9c46",
+  "fingerprint": "1789ba0b9c461b271ef53e833b52c118d09cbb2ddc718348b05391aa0fa81439",
+  "archived_at": "2026-06-09T02:40:58Z",
+  "metadata": {
+    "title": "Brainpan",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3052,
+    "duration_human": "00:50:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - 555 Industry",
+      "02 Zeffon - Weru",
+      "03 Zeffon - Oxygen",
+      "04 Zeffon - Trisea",
+      "05 Zeffon - Horrid",
+      "06 Zeffon - Tantru"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/brainpan_1789ba0b9c46"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta5/b181790e2b87b70f1cba/Brainpan.tar"
+    }
+  }
+}
