@@ -1,0 +1,31 @@
+{
+  "id": "broadcast-in-east-direction_cfee5fdceb0a",
+  "fingerprint": "cfee5fdceb0a3c938dcbbcbe37c46e37c2d829aa21534518eed13deff27614e6",
+  "archived_at": "2026-06-09T21:40:04Z",
+  "metadata": {
+    "title": "Bröadcast in East Direction",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 12982,
+    "duration_human": "03:36:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Cliijbroadcaaste",
+      "02 Zeffon - Strange-Weird",
+      "03 Zeffon - Kreooaniuuuah",
+      "04 Zeffon - C120 #10 1",
+      "05 Zeffon - C120 #10 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/broadcast-in-east-direction_cfee5fdceb0a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/6bd3d40852a68cc8a7fa/Br_adcast_in_East_Direction.tar"
+    }
+  }
+}
