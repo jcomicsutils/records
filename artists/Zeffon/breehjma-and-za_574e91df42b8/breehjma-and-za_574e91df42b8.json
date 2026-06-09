@@ -1,0 +1,34 @@
+{
+  "id": "breehjma-and-za_574e91df42b8",
+  "fingerprint": "574e91df42b8498ed5997151eff6e68873e29d44bea6aa2235feb18fc881d111",
+  "archived_at": "2026-06-09T03:37:50Z",
+  "metadata": {
+    "title": "Breëhjma and Za",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 4050,
+    "duration_human": "01:07:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Southeast",
+      "02 Zeffon - Dragon Battle",
+      "03 Zeffon - Battle with the Vah Craftsman",
+      "04 Zeffon - Your Strange Development",
+      "05 Zeffon - Yaa and the Poet of Time",
+      "06 Zeffon - Re-encounter",
+      "07 Zeffon - Rain-concrete-mered (Absent Mix)",
+      "08 Zeffon - Sandstorm"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/breehjma-and-za_574e91df42b8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta5/96d391c1309ce46bb3a5/Bre_hjma_and_Za.tar"
+    }
+  }
+}
