@@ -1,0 +1,33 @@
+{
+  "id": "breathe-ahga-for-the-mire-mist-is-dense_36f70f2802e9",
+  "fingerprint": "36f70f2802e97aa842605c99823bef2d2e9bb3c7fdb7c119b279818c78eecc80",
+  "archived_at": "2026-06-09T03:21:49Z",
+  "metadata": {
+    "title": "Breathe, Ahga, for the Mire Mist is Dense",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 4077,
+    "duration_human": "01:07:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Strange Darkness",
+      "02 Zeffon - Keep Still, Ahga",
+      "03 Zeffon - Daryl",
+      "04 Zeffon - Theme of Sorrow for the Forest of the Drery",
+      "05 Zeffon - Orchid",
+      "06 Zeffon - Mist",
+      "07 Zeffon - Trolproject"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/breathe-ahga-for-the-mire-mist-is-dense_36f70f2802e9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta5/3cb5e0fa67fa09ba49ab/Breathe_Ahga_for_the_Mire_Mist_is_Dense.tar"
+    }
+  }
+}
