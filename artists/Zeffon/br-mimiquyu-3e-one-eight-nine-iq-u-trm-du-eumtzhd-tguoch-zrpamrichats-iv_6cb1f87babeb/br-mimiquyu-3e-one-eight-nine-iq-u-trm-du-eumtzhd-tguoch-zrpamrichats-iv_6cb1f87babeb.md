@@ -1,0 +1,58 @@
+# Zeffon — BR-秘密區域-3Ë ONE EIGHT NINE IQ U__trm Du (Ёумтжд - Тгуоч Зрпамричац IV) (2020)
+
+![Cover](https://archive.org/download/br-mimiquyu-3e-one-eight-nine-iq-u-trm-du-eumtzhd-tguoch-zrpamrichats-iv_6cb1f87babeb/__ia_thumb.jpg)
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | 44.1kHz |
+| Bit Depth | 16-bit |
+| Tracks | 34 |
+| Duration | 18:22:07 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/br-mimiquyu-3e-one-eight-nine-iq-u-trm-du-eumtzhd-tguoch-zrpamrichats-iv_6cb1f87babeb)
+- [FileDitch](https://fileditchfiles.me/file.php?f=/beta5/070a18397ddc85547ce5/BR-_-3_ONE_EIGHT_NINE_IQ_U_trm_Du.tar)
+
+## Tracklist
+
+```
+01 Zeffon - [no delete] U__trm Collage Cassette (untold, 玻璃体)
+02 Zeffon - Trese Optimu
+03 Zeffon - 0000_0003$3 (The Internet Is Nonexistent (Signing On))
+04 Zeffon - Mayb' Door
+05 Zeffon & Greathumour - 0000_0003$5 (Acting in Good Faith)
+06 Zeffon - Cockatrice Flaps, Part 1 of 3
+07 Zeffon - Puncture Dub
+08 Zeffon - Have a Chance
+09 Zeffon - 0000_0003$4 (Y/B33/w (Multi-Op))
+10 Zeffon - Dub Collage 2 (sense, strange stench)
+11 Zeffon - Manipura Dub Extension 2
+12 Zeffon - Muuuüüuuuuugegaaaege (BLEKHH Version)
+13 Zeffon - Imperial (Du Garma Canyon Tritue)
+14 Zeffon - Climate Change Lollygagin'
+15 Zeffon - Ursala
+16 Zeffon - Poisonous Miasma Left Over (The Frog Croak Enters the Choir)
+17 Zeffon - The Love, Baby
+18 Zeffon - Micky Lovey's Guitar Ensemble Plays Reyanold 'Tubby' Myrngauge
+19 Zeffon - Dub Collage 3 (revinat)
+20 Zeffon - (At My Unbroken Hand, Where the Earthen Soil Becomes Rotten, Stench-Filled Bile, It Tells Untruth)
+21 Zeffon - HHRL (Extended Mix)
+22 Zeffon - Muuuüüuuuuugegaaaege (NO... Case of Smallpox Vials From the 1930s - Mytrammûûejje Version)
+23 Zeffon - Cockatrice Flaps, Part 3 of 3 (Keh's Translation - It Stares at You, One of 10,699)
+24 Zeffon - The City of Plight (fled in the night, hoping for survival in the long sunrise)
+25 Zeffon - Castle Dränsilane, Part 2 (I Have Dances For You, for I drown in the endless misty mire of silver)
+26 Zeffon - Terminal Earthquake
+27 Zeffon - Coral Reef
+28 Zeffon - Diehard Lost
+29 Zeffon - Terminal Xunknown (drowning in the crawling skins)
+30 Zeffon - Emergency Exit
+31 Zeffon - This Is The Sound of Our Dying Earth...!!! (Faulty Noise Unit)
+32 Zeffon - Diplomacy
+33 Zeffon - Littering to Protest Climate Change
+34 Zeffon - Dub Collage 1 (renovation)
+```
+
+---
+*Archived: 2026-06-09*
