@@ -1,0 +1,28 @@
+{
+  "id": "burning-blaze-autumn-x_2844bf86b7e9",
+  "fingerprint": "2844bf86b7e90cde9b53ba4bd1d0c4d6a2a7df65352fe3cf19c1f225d249433f",
+  "archived_at": "2026-06-10T18:00:56Z",
+  "metadata": {
+    "title": "Burning Blaze (Autumn X)",
+    "artist": "Zeffon",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 649,
+    "duration_human": "00:10:49",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Extra Dizzy Around These Sounds",
+      "02 Zeffon - Odd Human Rain"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/burning-blaze-autumn-x_2844bf86b7e9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/ca765831bc6cd5fa0b08/Burning_Blaze_Autumn_X.tar"
+    }
+  }
+}
