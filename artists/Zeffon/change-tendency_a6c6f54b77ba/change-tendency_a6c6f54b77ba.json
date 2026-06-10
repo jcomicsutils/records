@@ -1,0 +1,28 @@
+{
+  "id": "change-tendency_a6c6f54b77ba",
+  "fingerprint": "a6c6f54b77ba7a424d8e2c53d3eb449bf771ad0d763d490d72876dffe41e8221",
+  "archived_at": "2026-06-10T19:23:34Z",
+  "metadata": {
+    "title": "Change Tendency",
+    "artist": "Zeffon",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1104,
+    "duration_human": "00:18:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Trial #2",
+      "02 Zeffon - The Northern Black Kingdom (Ancient) (Remix 4-14-20)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/change-tendency_a6c6f54b77ba"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/ba9cd42f9f5c1fb9e8c0/Change_Tendency.tar"
+    }
+  }
+}
