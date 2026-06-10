@@ -1,0 +1,38 @@
+{
+  "id": "parakustiks-1_63ba914c1882",
+  "fingerprint": "63ba914c1882a641a3babcfa7d9aab9cb2f6c7ff4f761fe84db998e1865b8b2c",
+  "archived_at": "2026-06-10T15:57:49Z",
+  "metadata": {
+    "title": "Parakustiks #1",
+    "artist": "Various Artists",
+    "year": "2014",
+    "codec": "MP3",
+    "num_tracks": 12,
+    "duration_seconds": 4687,
+    "duration_human": "01:18:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Phaerentz - Rieckhallen",
+      "02 Kammerflimmer Kollektief - Jinx (Excursion)",
+      "03 Ulna - Pgava",
+      "04 Afarone - Gordon",
+      "05 Prince charming - Zebrine Polymorphous Blues",
+      "06 Bill laswell vs. Submerged - Not Tomorrow or Never",
+      "07 Philippe petit - Off to Titan (Extrait)",
+      "08 Hans castrup - Weather Pattern",
+      "09 Ulna - Fterhr Mldy",
+      "10 Fanu & Bill laswell - Hollow Grounds",
+      "11 Laurent de schepper trio - Stormgebrus",
+      "12 Cezary gapik - Uncertainty #0522"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/parakustiks-1_63ba914c1882"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/0c2cf3d943750c7b719a/Parakustiks_1.tar"
+    }
+  }
+}
