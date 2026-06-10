@@ -1,0 +1,37 @@
+{
+  "id": "muting-the-noise_4f5d08b97d20",
+  "fingerprint": "4f5d08b97d20d63032f6342d4ac1f0f1879b4370a2ddc1c12203c62f490cb76e",
+  "archived_at": "2026-06-10T15:49:22Z",
+  "metadata": {
+    "title": "Muting the Noise",
+    "artist": "Various Artists",
+    "year": "2008",
+    "codec": "MP3",
+    "num_tracks": 11,
+    "duration_seconds": 5219,
+    "duration_human": "01:26:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Mark Pritchard & David Brinkworth - Sentience",
+      "02 Karma - Kon Tiki",
+      "03 Âme - Doldrums",
+      "04 Henrik Schwarz - Arthur",
+      "05 I:Cube - Nuées Ardentes",
+      "06 Tokyo Black Star - Kagura",
+      "07 Stefan Goldmann - Life After Death",
+      "08 Terre Thaemlitz - Get in and Drive",
+      "09 Kammerflimmer Kollektief - Thats How the Light Gets In",
+      "10 Koss - Negai",
+      "11 Klaus Schulze - Invisible Musik"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/muting-the-noise_4f5d08b97d20"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/d1116a3f8ba05bbe2837/Muting_the_Noise.tar"
+    }
+  }
+}
