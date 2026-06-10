@@ -1,0 +1,27 @@
+{
+  "id": "chalmechrst-abuelm-59_1f63c6cbe676",
+  "fingerprint": "1f63c6cbe676580f3fccf190fd15a7ed6f6bb741dba8aa5d0fab5be4346ef0af",
+  "archived_at": "2026-06-10T19:22:13Z",
+  "metadata": {
+    "title": "Chalmêchrst Abuêlm 5/9",
+    "artist": "Generated Missiân ZFN",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 7124,
+    "duration_human": "01:58:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Generated Missiân ZFN - Bird Kusk Than Heustru Numer"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chalmechrst-abuelm-59_1f63c6cbe676"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/c7e57c163e7cdbabb1aa/Chalm_chrst_Abu_lm_5_-_9.tar"
+    }
+  }
+}
