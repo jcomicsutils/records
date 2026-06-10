@@ -1,0 +1,27 @@
+{
+  "id": "burning_4b30142cdbd4",
+  "fingerprint": "4b30142cdbd475e41340ea417454eaadcfe9007bf3ee59ce66b94c26b5dbca67",
+  "archived_at": "2026-06-10T18:00:00Z",
+  "metadata": {
+    "title": "Burning",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2130,
+    "duration_human": "00:35:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Unknown Phantom Drumming"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/burning_4b30142cdbd4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/540e395244bf5e56e189/Burning.tar"
+    }
+  }
+}
