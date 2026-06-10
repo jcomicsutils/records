@@ -1,0 +1,30 @@
+{
+  "id": "chaosfoundry-iii_df44742241e5",
+  "fingerprint": "df44742241e5d15b575336eb98ed27d8e7869ca4ca1474b63d2d4d639f7e1883",
+  "archived_at": "2026-06-10T19:39:12Z",
+  "metadata": {
+    "title": "Chaosfoundry III",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3312,
+    "duration_human": "00:55:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Split",
+      "02 Zeffon - Movement Through Cloaks",
+      "03 Zeffon - Outpost",
+      "04 Zeffon - Arrow"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chaosfoundry-iii_df44742241e5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/a6134d3118356f32ea8d/Chaosfoundry_III.tar"
+    }
+  }
+}
