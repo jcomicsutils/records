@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [7429FD](7429fd_364ea85445f8/7429fd_364ea85445f8.md) | 2009 | FLAC | 00:01:27 | [IA](https://archive.org/details/7429fd_364ea85445f8) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/df5dcabca74af5aa134c/7429FD.tar) |
+| [Castle Dränsilane](castle-dransilane_d27b7523ab40/castle-dransilane_d27b7523ab40.md) | 2011 | FLAC | 00:38:40 | [IA](https://archive.org/details/castle-dransilane_d27b7523ab40) [FileDitch](https://fileditchfiles.me/beta5/2dcff691b5f9e4cb009a/Castle_Dr_nsilane.tar) |
 | [Beyond the Realms of Sharmiah](beyond-the-realms-of-sharmiah_312397e04a37/beyond-the-realms-of-sharmiah_312397e04a37.md) | 2012 | FLAC | 01:35:30 | [IA](https://archive.org/details/beyond-the-realms-of-sharmiah_312397e04a37) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/13ca8c21f5fa6a7420ef/Beyond_the_Realms_of_Sharmiah.tar) |
 | [Apathy](apathy_4103b532eeab/apathy_4103b532eeab.md) | 2012 | FLAC | 00:33:28 | [IA](https://archive.org/details/apathy_4103b532eeab) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/199db3b78d108ce03077/Apathy.tar) |
 | [Addendum](addendum_27a79c8d8d31/addendum_27a79c8d8d31.md) | 2012 | FLAC | 00:04:57 | [IA](https://archive.org/details/addendum_27a79c8d8d31) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/3a2f8b646526cc63e3cd/Addendum.tar) |

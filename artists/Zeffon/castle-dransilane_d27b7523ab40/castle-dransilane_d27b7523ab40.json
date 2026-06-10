@@ -1,0 +1,38 @@
+{
+  "id": "castle-dransilane_d27b7523ab40",
+  "fingerprint": "d27b7523ab40b71f0702976a6aa48d9be62f7322c64bc27bf13e8efbf294b7c4",
+  "archived_at": "2026-06-10T18:50:51Z",
+  "metadata": {
+    "title": "Castle Dränsilane",
+    "artist": "Zeffon",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2320,
+    "duration_human": "00:38:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Dead Souls",
+      "02 Zeffon - Crystal Forest",
+      "03 Zeffon - Ocsania",
+      "04 Zeffon - Glory",
+      "05 Zeffon - Across The Plains",
+      "06 Zeffon - Rasoe Bell Tower",
+      "07 Zeffon - On The Roof",
+      "08 Zeffon - Decaying Angel",
+      "09 Zeffon - Do Without It",
+      "10 Zeffon - I Can't Shake Him",
+      "11 Zeffon - Castle Dränsilane",
+      "12 Zeffon - Moss"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/castle-dransilane_d27b7523ab40"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/2dcff691b5f9e4cb009a/Castle_Dr_nsilane.tar"
+    }
+  }
+}
