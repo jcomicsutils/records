@@ -1,0 +1,27 @@
+{
+  "id": "c-shift_46a28a91b537",
+  "fingerprint": "46a28a91b5374b94f9ce346227e0540accffc77e3e53f2609871d7ae14221f12",
+  "archived_at": "2026-06-10T18:47:28Z",
+  "metadata": {
+    "title": "C Shift",
+    "artist": "Zeffon",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 670,
+    "duration_human": "00:11:10",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Trio of Flags"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/c-shift_46a28a91b537"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/dfe298e22937aaea3e35/C_Shift.tar"
+    }
+  }
+}
