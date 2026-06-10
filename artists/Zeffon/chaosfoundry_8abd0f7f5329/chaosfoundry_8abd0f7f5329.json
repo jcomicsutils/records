@@ -1,0 +1,33 @@
+{
+  "id": "chaosfoundry_8abd0f7f5329",
+  "fingerprint": "8abd0f7f53296aae38977b01d002009f8404caf344e4f242a46f1664ab5fa7e4",
+  "archived_at": "2026-06-10T19:28:37Z",
+  "metadata": {
+    "title": "Chaosfoundry",
+    "artist": "Zeffon",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 4787,
+    "duration_human": "01:19:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Ghost Ship",
+      "02 Zeffon - Take No Prisoners",
+      "03 Zeffon - Ambush and Tragic Serenades",
+      "04 Zeffon - Remnants of Seasons",
+      "05 Zeffon - Elements of a Curious Demeanor",
+      "06 Zeffon - Chaosfoundry",
+      "07 Zeffon - Dark Comet"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chaosfoundry_8abd0f7f5329"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/cf1b61d35bb8c50cf189/Chaosfoundry.tar"
+    }
+  }
+}
