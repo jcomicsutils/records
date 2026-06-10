@@ -1,0 +1,29 @@
+{
+  "id": "changes-buses-via-public-transit-and-catching-the-4045-6015_f397e866c9f2",
+  "fingerprint": "f397e866c9f2516f88672bda18055da1848b30fcd1937450bf8088ac1cfcea13",
+  "archived_at": "2026-06-10T19:25:42Z",
+  "metadata": {
+    "title": "Changes Buses Via Public Transit and Catching the 4045 - 6015",
+    "artist": "Zeffon",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2608,
+    "duration_human": "00:43:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - As the Boy Waits for His Father in the Rain 01-012",
+      "02 Zeffon - This Song is Trash and Disposable, Part 1",
+      "03 Zeffon - This Song is Trash and Disposable, Part 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/changes-buses-via-public-transit-and-catching-the-4045-6015_f397e866c9f2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/389554f5bf6936f2adf2/Changes_Buses_Via_Public_Transit_and_Catching_the_4045_-_6015.tar"
+    }
+  }
+}
