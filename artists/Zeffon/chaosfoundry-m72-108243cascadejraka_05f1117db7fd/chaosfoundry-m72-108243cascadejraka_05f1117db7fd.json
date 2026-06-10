@@ -1,0 +1,32 @@
+{
+  "id": "chaosfoundry-m72-108243cascadejraka_05f1117db7fd",
+  "fingerprint": "05f1117db7fd49484effc6291dadff50d34c229437fc8de998f51f982a758fa7",
+  "archived_at": "2026-06-10T22:42:48Z",
+  "metadata": {
+    "title": "Chaosfoundry M72 (10/82/43=Cascadejraka)",
+    "artist": "Zeffon",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 8179,
+    "duration_human": "02:16:19",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Order 41",
+      "02 Zeffon - Lines Drawn in the Sand",
+      "03 Zeffon - Cascadejraka (Chained Depths)",
+      "04 Zeffon - Admitting Defeat",
+      "05 Zeffon - Locked Into Place",
+      "06 Zeffon - Medias Orumtres"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chaosfoundry-m72-108243cascadejraka_05f1117db7fd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/701351b61eeac88c4341/Chaosfoundry_M72_10_-_82_-_43_Cascadejraka.tar"
+    }
+  }
+}
