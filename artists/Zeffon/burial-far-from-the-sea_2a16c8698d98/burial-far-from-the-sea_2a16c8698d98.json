@@ -1,0 +1,41 @@
+{
+  "id": "burial-far-from-the-sea_2a16c8698d98",
+  "fingerprint": "2a16c8698d98cbe4e265434b169f6c7cb303dc7c006f035a50d2311fe80ae9e8",
+  "archived_at": "2026-06-10T17:50:25Z",
+  "metadata": {
+    "title": "Burial Far From the Sea",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 5835,
+    "duration_human": "01:37:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Instance: Eres",
+      "02 Zeffon - Instance: Healing",
+      "03 Zeffon - Instance: Omitages",
+      "04 Zeffon - Colony / Mirror",
+      "05 Zeffon - Dark Comet?",
+      "06 Zeffon - Citadel Icrifeani",
+      "07 Zeffon - Giants Live in the Faraway Lands",
+      "08 Zeffon - House of the Rats, Pt. 2",
+      "09 Zeffon - Somehow",
+      "10 Zeffon - The Mystery of the Barren Planet",
+      "11 Zeffon - A Cry For Help",
+      "12 Zeffon - 29: Burn in the Sssssun",
+      "13 Zeffon - Mirror Throne",
+      "14 Zeffon - 25: Burial at Sea",
+      "15 Zeffon - The Dragon Not So Distant"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/burial-far-from-the-sea_2a16c8698d98"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/383706d70d7bdf3b5d4d/Burial_Far_From_the_Sea.tar"
+    }
+  }
+}
