@@ -1,0 +1,46 @@
+{
+  "id": "burning-blaze-autumn-xi_30169eb1b727",
+  "fingerprint": "30169eb1b727f643c69b2cdc7b86dace9f832892de1ad5d8129b33ae7a20fc44",
+  "archived_at": "2026-06-10T18:35:58Z",
+  "metadata": {
+    "title": "Burning Blaze (Autumn XI)",
+    "artist": "Zeffon",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 20,
+    "duration_seconds": 21620,
+    "duration_human": "06:00:20",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - (track 01)",
+      "02 Zeffon - Black Smoke (Pertinacious Ver. 4)",
+      "03 Zeffon - Vibrant Shock",
+      "04 Zeffon - Session 2",
+      "05 Zeffon - Angry Rain",
+      "06 Zeffon - Btwo",
+      "07 Zeffon - Burning Blaze (Pertinacious Ver. 3)",
+      "08 Zeffon - Mental State of Affairs",
+      "09 Zeffon - Session Dub Mix II",
+      "10 Zeffon - We Reach An Understanding",
+      "11 Zeffon - Gree Stat",
+      "12 Zeffon - Radio Step",
+      "13 Zeffon - Ovmösh Grid",
+      "14 Zeffon - AUI500",
+      "15 Zeffon - Under the Right Way",
+      "16 Zeffon - Choking Autumn (Pertinacious Ver. 1)",
+      "17 Zeffon - KH Ovst",
+      "18 Zeffon - 8000 .11.S1",
+      "19 Zeffon - 8000 .11.S1 (Arref)",
+      "20 Zeffon - A Certain Memory (Pertinacious Ver. 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/burning-blaze-autumn-xi_30169eb1b727"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/d30055bca4ff4a5bd5b7/Burning_Blaze_Autumn_XI.tar"
+    }
+  }
+}
