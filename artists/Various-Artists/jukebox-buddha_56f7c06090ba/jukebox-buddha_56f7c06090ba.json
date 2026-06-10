@@ -1,0 +1,41 @@
+{
+  "id": "jukebox-buddha_56f7c06090ba",
+  "fingerprint": "56f7c06090ba0d6c828b3e893b913ac81c6bb631059074adaaaa56d9269701c9",
+  "archived_at": "2026-06-10T15:43:01Z",
+  "metadata": {
+    "title": "Jukebox Buddha",
+    "artist": "Various Artists",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 4233,
+    "duration_human": "01:10:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Wang Fan - Xuanzhuan De Tuolounidi",
+      "02 Kammerflimmer Kollektief - Gammler, Zen + Hohe Berge",
+      "03 Aki Onda - The Buddha in New York",
+      "04 Adrian Sherwood + Doug Wimbish - Karma-Cola",
+      "05 Thomas Fehlmann - Liquid Buddha",
+      "06 Robert Henke - Layer 02",
+      "07 Blixa Bargeld - Little Yellow",
+      "08 Es - 3 Tietä Valojen Taa",
+      "09 Gudrun Gut - Rendering Buddha",
+      "10 Mapstation - Watching Paik's Video Buddha",
+      "11 Center of Excellence - BuddhaMaschineCommercial",
+      "12 SunnO))) - BP//Simple",
+      "13 Alog - A Dragon Lies Listening",
+      "14 Minit - Winged Life",
+      "15 Sun City Girls - Dry Valley"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/jukebox-buddha_56f7c06090ba"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/e2c45c86a1677d69ebc0/Jukebox_Buddha.tar"
+    }
+  }
+}
