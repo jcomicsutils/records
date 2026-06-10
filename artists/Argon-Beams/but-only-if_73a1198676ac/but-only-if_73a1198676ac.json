@@ -1,0 +1,29 @@
+{
+  "id": "but-only-if_73a1198676ac",
+  "fingerprint": "73a1198676aca13c336d4aef192800d588c6e504c311867af4635d576a5ff575",
+  "archived_at": "2026-06-10T18:46:44Z",
+  "metadata": {
+    "title": "But Only If",
+    "artist": "Argon Beams",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2271,
+    "duration_human": "00:37:51",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Argon Beams - L Ubektriio (The Long Winter Outside Slaving Away Has Been Brutal, My Sweet)",
+      "02 Argon Beams - Montages 3 (Extract)",
+      "03 Argon Beams - Don Montages"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/but-only-if_73a1198676ac"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/c639a04e7fc68d1bb118/But_Only_If.tar"
+    }
+  }
+}
