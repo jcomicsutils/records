@@ -1,0 +1,28 @@
+{
+  "id": "bring-about-end-of-chemical-attack_5ce16fe6c6f6",
+  "fingerprint": "5ce16fe6c6f61d510436c82a0401b1e243bd861b639626f7ea50329d653b858f",
+  "archived_at": "2026-06-10T17:23:22Z",
+  "metadata": {
+    "title": "Bring About End of Chemical Attack",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3610,
+    "duration_human": "01:00:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Hero of the Union",
+      "02 Zeffon - The Dismembered Left Arm of Brezhe"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bring-about-end-of-chemical-attack_5ce16fe6c6f6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/b43a02e0635b222a306c/Bring_About_End_of_Chemical_Attack.tar"
+    }
+  }
+}
