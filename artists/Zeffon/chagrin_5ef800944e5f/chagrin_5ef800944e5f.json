@@ -1,0 +1,32 @@
+{
+  "id": "chagrin_5ef800944e5f",
+  "fingerprint": "5ef800944e5f35ed9599319b217407f18fe61dc71f57f3b99602813fa3fd3a48",
+  "archived_at": "2026-06-10T19:20:49Z",
+  "metadata": {
+    "title": "Chagrin",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1388,
+    "duration_human": "00:23:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Legend and Legacy",
+      "02 Zeffon - Great Beyond",
+      "03 Zeffon - Anthem For The Lost",
+      "04 Zeffon - Reunion",
+      "05 Zeffon - Exodus of the Seraph",
+      "06 Zeffon - Chagrin"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chagrin_5ef800944e5f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/25f217d414af6d127f28/Chagrin.tar"
+    }
+  }
+}
