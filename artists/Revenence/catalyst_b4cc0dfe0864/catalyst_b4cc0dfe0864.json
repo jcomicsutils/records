@@ -1,0 +1,27 @@
+{
+  "id": "catalyst_b4cc0dfe0864",
+  "fingerprint": "b4cc0dfe08645cda9ab78981e93b9414d6ea12c1a5c25e1b1cca27e9930dfadf",
+  "archived_at": "2026-06-10T19:11:15Z",
+  "metadata": {
+    "title": "Catalyst",
+    "artist": "Revenence",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 236,
+    "duration_human": "00:03:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Revenence - Catalyst"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/catalyst_b4cc0dfe0864"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/c02a68e3e33f62a64cbf/Catalyst.tar"
+    }
+  }
+}
