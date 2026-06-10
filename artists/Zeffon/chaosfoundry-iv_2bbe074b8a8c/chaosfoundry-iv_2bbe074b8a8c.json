@@ -1,0 +1,33 @@
+{
+  "id": "chaosfoundry-iv_2bbe074b8a8c",
+  "fingerprint": "2bbe074b8a8c2c5c4578e4060727611b46bb05245e2416c682e92ff97cbf9852",
+  "archived_at": "2026-06-10T19:40:38Z",
+  "metadata": {
+    "title": "Chaosfoundry IV",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1658,
+    "duration_human": "00:27:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Kin",
+      "02 Zeffon - The Scream",
+      "03 Zeffon - (when the moths were violent)",
+      "04 Zeffon - Black Square",
+      "05 Zeffon - Interlude (Chaosfoundry IV)",
+      "06 Zeffon - T6",
+      "07 Zeffon - Woods Where Skulls Hang"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chaosfoundry-iv_2bbe074b8a8c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/93ee088ec0e32dbe07c7/Chaosfoundry_IV.tar"
+    }
+  }
+}
