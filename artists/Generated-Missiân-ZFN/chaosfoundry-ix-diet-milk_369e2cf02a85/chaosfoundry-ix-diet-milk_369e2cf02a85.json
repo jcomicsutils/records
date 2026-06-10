@@ -1,0 +1,32 @@
+{
+  "id": "chaosfoundry-ix-diet-milk_369e2cf02a85",
+  "fingerprint": "369e2cf02a85c30b6340821a7413079162b56dcda14f2ddd3aead94141e47e4e",
+  "archived_at": "2026-06-10T19:54:50Z",
+  "metadata": {
+    "title": "Chaosfoundry IX (Diet Milk)",
+    "artist": "Generated Missiân ZFN",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 7293,
+    "duration_human": "02:01:33",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Generated Missiân ZFN - Mao Mix 2 (Mao Influence, Part 5 of 2)",
+      "02 Generated Missiân ZFN - Mao Influence, Part 2 of 2 (IX Ver.)",
+      "03 Generated Missiân ZFN - Mao Influence, Part 1 of 2 (IX Ver.)",
+      "04 Generated Missiân ZFN - Long-Term",
+      "05 Generated Missiân ZFN - Irrigation",
+      "06 Generated Missiân ZFN - I've Got Something to Say"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chaosfoundry-ix-diet-milk_369e2cf02a85"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/e661004915853d7c7fd8/Chaosfoundry_IX_Diet_Milk.tar"
+    }
+  }
+}
