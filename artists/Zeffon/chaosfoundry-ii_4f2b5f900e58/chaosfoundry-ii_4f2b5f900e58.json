@@ -1,0 +1,29 @@
+{
+  "id": "chaosfoundry-ii_4f2b5f900e58",
+  "fingerprint": "4f2b5f900e582a6e3ac40a14e31dd79de4f48a64b030901b249c6fb034385ffc",
+  "archived_at": "2026-06-10T19:31:04Z",
+  "metadata": {
+    "title": "Chaosfoundry II",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4736,
+    "duration_human": "01:18:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Ghost Memories",
+      "02 Zeffon - Wandering as Apparitions",
+      "03 Zeffon - Yearly Daybreak"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chaosfoundry-ii_4f2b5f900e58"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/b388c438e509cc751247/Chaosfoundry_II.tar"
+    }
+  }
+}
