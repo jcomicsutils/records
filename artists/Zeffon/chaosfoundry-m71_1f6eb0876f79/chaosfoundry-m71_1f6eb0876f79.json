@@ -1,0 +1,39 @@
+{
+  "id": "chaosfoundry-m71_1f6eb0876f79",
+  "fingerprint": "1f6eb0876f79fb3783c84c9fd94bd3b67465692637f246b7b1bb84ba40345bc2",
+  "archived_at": "2026-06-10T22:26:19Z",
+  "metadata": {
+    "title": "Chaosfoundry M71",
+    "artist": "Zeffon",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 39512,
+    "duration_human": "10:58:32",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Gifting Sun Spheres",
+      "02 Zeffon - Zyto Mu Gxrenofden",
+      "03 Zeffon - Permanent Offset, Part 1",
+      "04 Zeffon - The Face of Drän', Part 1",
+      "05 Zeffon - B Fr Go Pm (The Yuek Peninsula)",
+      "06 Zeffon - Order",
+      "07 Zeffon - XH",
+      "08 Zeffon - The Face of Drän', Part 2",
+      "09 Zeffon - Permanent Offset, Part 2",
+      "10 Zeffon - Ananas / Koba",
+      "11 Zeffon - Lack of Trust",
+      "12 Zeffon - Cold Sunlight",
+      "13 Zeffon - Mutlrut"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chaosfoundry-m71_1f6eb0876f79"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/c8ad5c16780bd54ff47e/Chaosfoundry_M71.tar"
+    }
+  }
+}
