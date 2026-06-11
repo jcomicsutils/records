@@ -1,0 +1,32 @@
+{
+  "id": "chaosfoundry-viii-exfi_f4b13cd78b61",
+  "fingerprint": "f4b13cd78b61e0d2bf9aecd76faa49be4ae39f72f5b80ed14716e50a4f0dcf67",
+  "archived_at": "2026-06-11T21:18:29Z",
+  "metadata": {
+    "title": "Chaosfoundry VIII (Exfi)",
+    "artist": "Zeffon",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1893,
+    "duration_human": "00:31:33",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Walla-1 (Overworld Map)",
+      "02 Zeffon - Forest Inside!",
+      "03 Zeffon - People Are There, Pt. 1",
+      "04 Zeffon - People Are There, Pt. 2",
+      "05 Zeffon - Reel Rumble",
+      "06 Zeffon - Mao Mix 1 (Mao Influence, Part 4 of 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chaosfoundry-viii-exfi_f4b13cd78b61"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/2b383d680a2a97082ede/Chaosfoundry_VIII_Exfi.tar"
+    }
+  }
+}
