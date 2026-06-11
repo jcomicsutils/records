@@ -1,0 +1,32 @@
+{
+  "id": "cowbell-mechanics_e0ad872769db",
+  "fingerprint": "e0ad872769db599a3ae74277c5378a38628fec06540544a5210c114134685202",
+  "archived_at": "2026-06-11T23:49:52Z",
+  "metadata": {
+    "title": "Cowbell Mechanics",
+    "artist": "Zeffon",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1392,
+    "duration_human": "00:23:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Cowbell Mechanics (War Factory)",
+      "02 Zeffon - Archer Revenge, Pt. 2",
+      "03 Zeffon - Burning Earth",
+      "04 Zeffon - Prelude (11-6-09)",
+      "05 Zeffon - Bombing Campaign",
+      "06 Zeffon - Dragös"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cowbell-mechanics_e0ad872769db"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/c49f0b9288775f8476ee/Cowbell_Mechanics.tar"
+    }
+  }
+}
