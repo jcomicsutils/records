@@ -1,0 +1,32 @@
+{
+  "id": "chaosfoundry-oi-h72-vbe_3be827bd7a9f",
+  "fingerprint": "3be827bd7a9f5fa33fc3c1681ea4624c3d21a86bd22b3fbc8dfa3561c65ea1b0",
+  "archived_at": "2026-06-11T02:20:42Z",
+  "metadata": {
+    "title": "Chaosfoundry O.I (H72 vBe)",
+    "artist": "Revenence",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 4264,
+    "duration_human": "01:11:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Revenence - Recent Tirade",
+      "02 Revenence - Post-Republic",
+      "03 Revenence - Violence",
+      "04 Revenence - Blue",
+      "05 Revenence - Arctic Airstrip",
+      "06 Revenence - Reorenab"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chaosfoundry-oi-h72-vbe_3be827bd7a9f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/1955ac8815e438ae5a80/Chaosfoundry_O.I_H72_vBe.tar"
+    }
+  }
+}
