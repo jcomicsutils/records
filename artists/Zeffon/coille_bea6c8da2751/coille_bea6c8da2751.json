@@ -1,0 +1,27 @@
+{
+  "id": "coille_bea6c8da2751",
+  "fingerprint": "bea6c8da275108e06f98010a7336ca15cf8680801c54098ba7f797b0edb2f5ca",
+  "archived_at": "2026-06-11T22:38:57Z",
+  "metadata": {
+    "title": "Coille",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1738,
+    "duration_human": "00:28:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Coille"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/coille_bea6c8da2751"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/17da25cbedd85e788303/Coille.tar"
+    }
+  }
+}
