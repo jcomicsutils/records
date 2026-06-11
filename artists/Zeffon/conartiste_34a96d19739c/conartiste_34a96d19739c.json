@@ -1,0 +1,29 @@
+{
+  "id": "conartiste_34a96d19739c",
+  "fingerprint": "34a96d19739c385b27e2eb264f67309403bd6b28abba10eba396bb1957b1643e",
+  "archived_at": "2026-06-11T23:23:04Z",
+  "metadata": {
+    "title": "Conartiste",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 5520,
+    "duration_human": "01:32:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Side A",
+      "02 Zeffon - Side B1",
+      "03 Zeffon - Side B2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/conartiste_34a96d19739c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/0c8ac29d940e40221656/Conartiste.tar"
+    }
+  }
+}
