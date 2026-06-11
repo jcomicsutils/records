@@ -1,0 +1,27 @@
+{
+  "id": "chaosfoundry-m79-eiske-crackling-yell_c7a702076313",
+  "fingerprint": "c7a70207631309ebb1a5e29d4b5c39148245389398194adac466c90a90192acb",
+  "archived_at": "2026-06-11T01:47:22Z",
+  "metadata": {
+    "title": "Chaosfoundry M79 (Eiske Crackling Yell)",
+    "artist": "Argon Lo Curránt",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1194,
+    "duration_human": "00:19:54",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Argon Lo Curránt - Lonesome PLA Soldiôôôr, Witch Queen (Rise Dried Lakebed, I Play A Song for You, O Strange Maned O Great Object, One of My Glancing Desires, So Saith I, Only These Ten and Four Seasons Apart, We Are Lividly Elsewhere More)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chaosfoundry-m79-eiske-crackling-yell_c7a702076313"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/0b6299a746eee8f9f4c7/Chaosfoundry_M79_Eiske_Crackling_Yell.tar"
+    }
+  }
+}
