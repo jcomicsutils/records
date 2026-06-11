@@ -1,0 +1,36 @@
+{
+  "id": "circle_8e209fba8a31",
+  "fingerprint": "8e209fba8a315f16d3d7a9156b40dfde42c1be2ebd6fdb6f0f38bd8c131fd673",
+  "archived_at": "2026-06-11T21:47:11Z",
+  "metadata": {
+    "title": "Circle",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 4513,
+    "duration_human": "01:15:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Circle Seating Six",
+      "02 Zeffon - One is Missing",
+      "03 Zeffon - Joy",
+      "04 Zeffon - Horrible Cries",
+      "05 Zeffon - Deep Event Horizon",
+      "06 Zeffon - Reconstruction of Me II",
+      "07 Zeffon - Kilearua (A Tribes of Neurot Tribute)",
+      "08 Zeffon - Reconstruction of Me",
+      "09 Zeffon - Green Water",
+      "10 Zeffon - Blue Jewel"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/circle_8e209fba8a31"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/bfec60f7b0b48e16aa6a/Circle.tar"
+    }
+  }
+}
