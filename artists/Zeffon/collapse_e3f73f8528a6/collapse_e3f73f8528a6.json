@@ -1,0 +1,38 @@
+{
+  "id": "collapse_e3f73f8528a6",
+  "fingerprint": "e3f73f8528a621b34a35ad94c2ccd4833f3edd21f4b1a7e57651529067193a1a",
+  "archived_at": "2026-06-11T22:53:13Z",
+  "metadata": {
+    "title": "Collapse",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 11788,
+    "duration_human": "03:16:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - North From Here, the Old Judge of Chaos",
+      "02 Zeffon - Nargraven Forest",
+      "03 Zeffon - The Inejwood",
+      "04 Zeffon - Gallows in the Sky",
+      "05 Zeffon - Exeräise",
+      "06 Zeffon - Tascan",
+      "07 Zeffon - The Awakened Pathier",
+      "08 Zeffon - Gallows on the Hill (Piano Reprise)",
+      "09 Zeffon - Collapse (Demo 12-2011)",
+      "10 Zeffon - Proton?",
+      "11 Zeffon - My Love",
+      "12 Zeffon - Human Bradyzoites, Pt. 3 (Vuzoulüth)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/collapse_e3f73f8528a6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/3b7f87bbbb5b99b1f47c/Collapse.tar"
+    }
+  }
+}
