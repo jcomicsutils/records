@@ -1,0 +1,32 @@
+{
+  "id": "chaosfoundry-m81-creak_8c8b86cca312",
+  "fingerprint": "8c8b86cca31218a17d3c095ae2c46d525ebcce4c5f0be8834ac8bedc529b0d97",
+  "archived_at": "2026-06-11T02:16:24Z",
+  "metadata": {
+    "title": "Chaosfoundry M81 (Creak)",
+    "artist": "Zeffon",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3323,
+    "duration_human": "00:55:23",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Manipura 18 (Soil Samples)",
+      "02 Zeffon - Manipura 19 (Sideways Logic)",
+      "03 Zeffon - Yu A N T (Ver. 2)",
+      "04 Zeffon - Chaosfoundry S01",
+      "05 Zeffon - Deep Impact",
+      "06 Zeffon - Half-Cycle"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chaosfoundry-m81-creak_8c8b86cca312"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/8961d22acc2caa1f6425/Chaosfoundry_M81_Creak.tar"
+    }
+  }
+}
