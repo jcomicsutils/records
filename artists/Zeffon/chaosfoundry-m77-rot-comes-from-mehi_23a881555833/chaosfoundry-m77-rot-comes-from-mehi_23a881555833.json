@@ -1,0 +1,27 @@
+{
+  "id": "chaosfoundry-m77-rot-comes-from-mehi_23a881555833",
+  "fingerprint": "23a881555833b28fa5f89cb5154fa7fe8b28b552f10e680051212932dd6b749b",
+  "archived_at": "2026-06-11T01:46:12Z",
+  "metadata": {
+    "title": "Chaosfoundry M77 (Rot Comes From Mehi)",
+    "artist": "Zeffon",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 568,
+    "duration_human": "00:09:28",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Desert and Serve the Eastern City"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chaosfoundry-m77-rot-comes-from-mehi_23a881555833"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/1162837f4bb93a8c85da/Chaosfoundry_M77_Rot_Comes_From_Mehi.tar"
+    }
+  }
+}
