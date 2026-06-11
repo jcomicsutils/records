@@ -1,0 +1,28 @@
+{
+  "id": "chinese-purple_a31109d36011",
+  "fingerprint": "a31109d36011cee9178a6fcc05cab96e8f63d69b5f69677c5b3dd74401e599aa",
+  "archived_at": "2026-06-11T21:25:21Z",
+  "metadata": {
+    "title": "Chinese Purple",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1238,
+    "duration_human": "00:20:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Secondary Proteins...!! 3 (EP Version)",
+      "02 Zeffon - Nerves Adjustment! (EP Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chinese-purple_a31109d36011"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/49d1036ff286597bfcfd/Chinese_Purple.tar"
+    }
+  }
+}
