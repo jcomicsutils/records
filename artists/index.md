@@ -9,6 +9,7 @@
 - [Algebra Suicide](Algebra-Suicide/Algebra-Suicide.md)
 - [And We Walk Endlessly Towards The Sun](And-We-Walk-Endlessly-Towards-The-Sun/And-We-Walk-Endlessly-Towards-The-Sun.md)
 - [Argon Beams](Argon-Beams/Argon-Beams.md)
+- [Argon Beams / Argon Lo Curránt](Argon-Beams-Argon-Lo-Curránt/Argon-Beams-Argon-Lo-Curránt.md)
 - [Argon Lo Curránt](Argon-Lo-Curránt/Argon-Lo-Curránt.md)
 - [Armand Hammer](Armand-Hammer/Armand-Hammer.md)
 - [Arthur Russell](Arthur-Russell/Arthur-Russell.md)
