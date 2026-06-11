@@ -1,0 +1,36 @@
+{
+  "id": "chaosfoundry-m75-the-queendom-of-ryce-ilhid_e87cc9c4c7bc",
+  "fingerprint": "e87cc9c4c7bcb1bca74c274cfc1f798cd987ceb4d85a3939bb954f7a1add5c40",
+  "archived_at": "2026-06-11T01:34:10Z",
+  "metadata": {
+    "title": "Chaosfoundry M75 (The Queendom of Ryce Ilhid)",
+    "artist": "Zeffon",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 8532,
+    "duration_human": "02:22:12",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Omnipresence",
+      "02 Zeffon - Treaty",
+      "03 Zeffon - Temple of Meriomare (Even Tides)",
+      "04 Zeffon - Our Mist",
+      "05 Zeffon - Ideas of Greenery",
+      "06 Zeffon - Aero (Catastrophe, Part 1)",
+      "07 Zeffon - The Queendom of Ryce Ilhid (Catastrophe, Part 2)",
+      "08 Zeffon - The True Experience (Catastrophe, Part 3)",
+      "09 Zeffon - Orange Path",
+      "10 Zeffon - Sour Grapes, Part 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chaosfoundry-m75-the-queendom-of-ryce-ilhid_e87cc9c4c7bc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/dca28e3b3ce699911741/Chaosfoundry_M75_The_Queendom_of_Ryce_Ilhid.tar"
+    }
+  }
+}
