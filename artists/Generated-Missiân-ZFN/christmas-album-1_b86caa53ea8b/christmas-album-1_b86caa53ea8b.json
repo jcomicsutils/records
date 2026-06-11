@@ -1,0 +1,30 @@
+{
+  "id": "christmas-album-1_b86caa53ea8b",
+  "fingerprint": "b86caa53ea8b4df76123c002c67ead6bb7f91b3065f62515adf000127307f8ac",
+  "archived_at": "2026-06-11T21:41:46Z",
+  "metadata": {
+    "title": "Christmas Album 1",
+    "artist": "Generated Missiân ZFN",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 5441,
+    "duration_human": "01:30:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Generated Missiân ZFN - Saturation (Стерео)",
+      "02 Generated Missiân ZFN - Evening Tropic",
+      "03 Generated Missiân ZFN - 就目前而言 С Угзегаинерн",
+      "04 Generated Missiân ZFN - Day Despite Night"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/christmas-album-1_b86caa53ea8b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/8467681657f8653ee12a/Christmas_Album_1.tar"
+    }
+  }
+}
