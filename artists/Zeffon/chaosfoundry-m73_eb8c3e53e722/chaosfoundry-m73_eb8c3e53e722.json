@@ -1,0 +1,33 @@
+{
+  "id": "chaosfoundry-m73_eb8c3e53e722",
+  "fingerprint": "eb8c3e53e722d0ea6c706552a163c17b27fb661b5c92807e8f0e0e8eb9c626f2",
+  "archived_at": "2026-06-11T00:47:35Z",
+  "metadata": {
+    "title": "Chaosfoundry M73",
+    "artist": "Zeffon",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 30072,
+    "duration_human": "08:21:12",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - S1",
+      "02 Zeffon - Tantalizing Elements of Lament and Grief",
+      "03 Zeffon - Abscond With Thy Health and Do Not Walk",
+      "04 Zeffon - Effectiveness",
+      "05 Zeffon - Deaf Summer Green",
+      "06 Zeffon - International",
+      "07 Zeffon - John Man"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chaosfoundry-m73_eb8c3e53e722"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/691fe04b7395c754c089/Chaosfoundry_M73.tar"
+    }
+  }
+}
