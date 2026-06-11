@@ -1,0 +1,35 @@
+{
+  "id": "conan_61df29fedb3f",
+  "fingerprint": "61df29fedb3f0aa93cae19cd1f31819001da428ce77abbc27226b8309f5a0526",
+  "archived_at": "2026-06-11T23:08:10Z",
+  "metadata": {
+    "title": "Conan",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 7103,
+    "duration_human": "01:58:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Lava",
+      "02 Zeffon - Eye of Storm",
+      "03 Zeffon - Long Voyage to Dead",
+      "04 Zeffon - Radiance Version 2",
+      "05 Zeffon - Relicaw",
+      "06 Zeffon - Dead Dragon Shrine",
+      "07 Zeffon - Death Machine",
+      "08 Zeffon - Adelais",
+      "09 Zeffon - Radiance Version 3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/conan_61df29fedb3f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/5bd20b27c324161ad866/Conan.tar"
+    }
+  }
+}
