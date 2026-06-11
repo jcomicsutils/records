@@ -1,0 +1,33 @@
+{
+  "id": "chaosfoundry-m669-peaches_3ba3ad8ce798",
+  "fingerprint": "3ba3ad8ce798dcab2d4214bac00a75134966a83154656c6b3228235c4275ec06",
+  "archived_at": "2026-06-11T02:18:25Z",
+  "metadata": {
+    "title": "Chaosfoundry M669 (Peaches)",
+    "artist": "Zeffon",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 5332,
+    "duration_human": "01:28:52",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Csípős",
+      "02 Zeffon - Continental Reimbursement, Pt. 1",
+      "03 Zeffon - Continental Reimbursement, Pt. 2",
+      "04 Zeffon - Kint",
+      "05 Zeffon - Csípős (Yzuer)",
+      "06 Zeffon - You Have Air in the Sky",
+      "07 Zeffon - 669 (Modified Ver. 3)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chaosfoundry-m669-peaches_3ba3ad8ce798"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/0bb6a578a94ef57a3352/Chaosfoundry_M669_Peaches.tar"
+    }
+  }
+}
