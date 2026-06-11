@@ -1,0 +1,34 @@
+{
+  "id": "come-here-red-eyes_170f59a3a78c",
+  "fingerprint": "170f59a3a78c15a1d9e495af80c422fe788ecc545f7c2a0821db22f8c31035e5",
+  "archived_at": "2026-06-11T22:59:57Z",
+  "metadata": {
+    "title": "Come Here, Red Eyes...!",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 5647,
+    "duration_human": "01:34:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Love Death",
+      "02 Zeffon - Frahnjuhäsea, Part 3",
+      "03 Zeffon - Meredithia Value Poison Gas",
+      "04 Zeffon - The Crash of a Dead Person",
+      "05 Zeffon - Frahnjuhäsea, Part 1",
+      "06 Zeffon - Primitive Urbanize 1",
+      "07 Zeffon - Solar Expectation",
+      "08 Zeffon - Film From tWar"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/come-here-red-eyes_170f59a3a78c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/75551cd699fc255217e5/Come_Here_Red_Eyes.tar"
+    }
+  }
+}
