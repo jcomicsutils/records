@@ -1,0 +1,27 @@
+{
+  "id": "conflict-some-feelings_724e40662aa2",
+  "fingerprint": "724e40662aa24be4700e7a6485edc3418d7e24884698475237548b2c1124c00a",
+  "archived_at": "2026-06-11T23:29:17Z",
+  "metadata": {
+    "title": "Conflict (Some Feelings)",
+    "artist": "Generated Missiân ZFN",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 784,
+    "duration_human": "00:13:04",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Generated Missiân ZFN - Marsh Crown in the Wilds (Ouverture Ver. 3)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/conflict-some-feelings_724e40662aa2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/30dd4523b61abe383551/Conflict_Some_Feelings.tar"
+    }
+  }
+}
