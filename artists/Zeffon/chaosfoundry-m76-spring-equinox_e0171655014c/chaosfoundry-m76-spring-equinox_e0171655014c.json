@@ -1,0 +1,27 @@
+{
+  "id": "chaosfoundry-m76-spring-equinox_e0171655014c",
+  "fingerprint": "e0171655014c8ddd927bdeb348a66ae99588ac7fa090c011573d2ce0981a2e34",
+  "archived_at": "2026-06-11T01:41:43Z",
+  "metadata": {
+    "title": "Chaosfoundry M76 (Spring Equinox)",
+    "artist": "Zeffon",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1282,
+    "duration_human": "00:21:22",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Underneath the Seal"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chaosfoundry-m76-spring-equinox_e0171655014c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/c02ca6918df75ba1a46b/Chaosfoundry_M76_Spring_Equinox.tar"
+    }
+  }
+}
