@@ -1,0 +1,43 @@
+{
+  "id": "chaosfoundry-oiii-chefyienuy_1c5c0bdd8f3d",
+  "fingerprint": "1c5c0bdd8f3dbd27315d2a4404f9ff6aac83d72f079c32837c0a4f150be17f24",
+  "archived_at": "2026-06-11T02:42:49Z",
+  "metadata": {
+    "title": "Chaosfoundry O.III (Chefyienûy)",
+    "artist": "Generated Missiân ZFN / Serpentmouth / Zeffon",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_seconds": 14812,
+    "duration_human": "04:06:52",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Generated Missiân ZFN - Antique Vitamin A",
+      "02 Generated Missiân ZFN - We Had A Good Time in Past Tense",
+      "03 Serpentmouth - Obscured and Swapped",
+      "04 Generated Missiân ZFN - Area Under Stress (Face Has Second Thoughts)",
+      "05 Generated Missiân ZFN - Highly-Contested Passenger Airspace (Welcome Aboard Flötairways)",
+      "06 Generated Missiân ZFN - Chefyienûyoste-Sound",
+      "07 Serpentmouth - Modernicätta",
+      "08 Zeffon - 05",
+      "09 Zeffon - 06",
+      "10 Zeffon - 07",
+      "11 Zeffon - 08",
+      "12 Zeffon - Harsh Ivory",
+      "13 Zeffon - You Know Isolation",
+      "14 Zeffon - Under Cracks and Crevices (Regular)",
+      "15 Zeffon - 12: The Center of the Tribe Outside of Waste",
+      "16 Zeffon - Empty",
+      "17 Zeffon - Under Cracks and Crevices (Single Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chaosfoundry-oiii-chefyienuy_1c5c0bdd8f3d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/7d7880947d098b6e9bf6/Chaosfoundry_O.III_Chefyien_y.tar"
+    }
+  }
+}
