@@ -1,0 +1,33 @@
+{
+  "id": "chaosfoundry-m80-a-trip-to-omhngres_bd87ea4a0a2b",
+  "fingerprint": "bd87ea4a0a2b2a9735c879504e66a63cf4f39f245c17ab4ef96cb9d08ba22f3c",
+  "archived_at": "2026-06-11T02:06:00Z",
+  "metadata": {
+    "title": "Chaosfoundry M80 (A Trip to Omhngres)",
+    "artist": "Zeffon",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3894,
+    "duration_human": "01:04:54",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Grrrr (Part of Me)",
+      "02 Zeffon - A Trip to Omhngres",
+      "03 Zeffon - Slow Movements in the Woods",
+      "04 Zeffon - The Morning Has No Bearing on My Sanity",
+      "05 Zeffon - AUI640 (The Yard, The Prison Yard)",
+      "06 Zeffon - Grrrr (Part of You)",
+      "07 Zeffon - Behind the Front"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chaosfoundry-m80-a-trip-to-omhngres_bd87ea4a0a2b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/5ab6a4283737090f97d0/Chaosfoundry_M80_A_Trip_to_Omhngres.tar"
+    }
+  }
+}
