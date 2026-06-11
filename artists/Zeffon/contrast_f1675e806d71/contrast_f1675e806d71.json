@@ -1,0 +1,32 @@
+{
+  "id": "contrast_f1675e806d71",
+  "fingerprint": "f1675e806d71ea42d25aeefd42cd8d88fe974b5a9bdcd497567ab0b17f1504c2",
+  "archived_at": "2026-06-11T23:30:38Z",
+  "metadata": {
+    "title": "Contrast",
+    "artist": "Zeffon",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1195,
+    "duration_human": "00:19:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Voice of Thine",
+      "02 Zeffon - Malevolence",
+      "03 Zeffon - Escape",
+      "04 Zeffon - Legacy",
+      "05 Zeffon - Contrast",
+      "06 Zeffon - Outro"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/contrast_f1675e806d71"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/ff62927fe0950ee45187/Contrast.tar"
+    }
+  }
+}
