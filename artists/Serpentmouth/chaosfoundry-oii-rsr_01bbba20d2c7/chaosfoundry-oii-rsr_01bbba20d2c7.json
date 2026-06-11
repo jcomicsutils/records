@@ -1,0 +1,30 @@
+{
+  "id": "chaosfoundry-oii-rsr_01bbba20d2c7",
+  "fingerprint": "01bbba20d2c7e3972119cdfb3a00a566fc628bff4dd9df0ac8b74eb19ddcb53e",
+  "archived_at": "2026-06-11T02:24:26Z",
+  "metadata": {
+    "title": "Chaosfoundry O.II (RSR)",
+    "artist": "Serpentmouth",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 6803,
+    "duration_human": "01:53:23",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Serpentmouth - RE",
+      "02 Serpentmouth - DV",
+      "03 Serpentmouth - UO",
+      "04 Serpentmouth - SR"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chaosfoundry-oii-rsr_01bbba20d2c7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/7080b021e60a17542adf/Chaosfoundry_O.II_RSR.tar"
+    }
+  }
+}
