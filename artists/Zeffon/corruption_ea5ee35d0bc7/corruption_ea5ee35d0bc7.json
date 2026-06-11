@@ -1,0 +1,28 @@
+{
+  "id": "corruption_ea5ee35d0bc7",
+  "fingerprint": "ea5ee35d0bc7990eabcf9eb89746a118c5a8b62a3c8a304758e6967abd0d7088",
+  "archived_at": "2026-06-11T23:36:02Z",
+  "metadata": {
+    "title": "Corruption",
+    "artist": "Zeffon",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 772,
+    "duration_human": "00:12:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Systematic",
+      "02 Zeffon - Version, Mr. A"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/corruption_ea5ee35d0bc7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/6ec751fecc60a93744fc/Corruption.tar"
+    }
+  }
+}
