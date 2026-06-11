@@ -1,0 +1,32 @@
+{
+  "id": "chaosfoundry-vi-absorption_52c5013834f4",
+  "fingerprint": "52c5013834f45fbfd9349fcb5936b8292e190cf9d3bf0dc33a43cae7adab3de4",
+  "archived_at": "2026-06-11T21:03:30Z",
+  "metadata": {
+    "title": "Chaosfoundry VI (Absorption)",
+    "artist": "Zeffon",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 5870,
+    "duration_human": "01:37:50",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Outer Existence Beyond the Sphere",
+      "02 Zeffon - In Another Universe, In Another Time",
+      "03 Zeffon - Walla-3 (Completion)",
+      "04 Zeffon - 11/21/24 (Walla-3)",
+      "05 Zeffon - You Did It (Release)",
+      "06 Zeffon - Your Actions Are \"Unprofessional\""
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chaosfoundry-vi-absorption_52c5013834f4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/3445dea2c8acd6473b04/Chaosfoundry_VI_Absorption.tar"
+    }
+  }
+}
