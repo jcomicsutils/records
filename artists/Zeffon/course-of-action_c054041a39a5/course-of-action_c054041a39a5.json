@@ -1,0 +1,29 @@
+{
+  "id": "course-of-action_c054041a39a5",
+  "fingerprint": "c054041a39a5d96fa8b1352e0d44d157e8ade7f8030f13fec2577777b9d939f4",
+  "archived_at": "2026-06-11T23:47:45Z",
+  "metadata": {
+    "title": "Course of Action",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 13205,
+    "duration_human": "03:40:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Dream in the Duel (Ver. 2)",
+      "02 Zeffon - I Wear the Mask to Confuse the Mountain River",
+      "03 Zeffon - Dragänsword Extent_h"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/course-of-action_c054041a39a5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/0b6655882a9ec5bd1b94/Course_of_Action.tar"
+    }
+  }
+}
