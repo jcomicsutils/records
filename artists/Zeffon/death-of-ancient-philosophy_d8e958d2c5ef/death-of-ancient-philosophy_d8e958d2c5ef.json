@@ -1,0 +1,32 @@
+{
+  "id": "death-of-ancient-philosophy_d8e958d2c5ef",
+  "fingerprint": "d8e958d2c5ef4a06574e4d9dc80a499fd14068cf6c5e9cd4fc3a4ce38b67a6b2",
+  "archived_at": "2026-06-12T16:59:17Z",
+  "metadata": {
+    "title": "Death of Ancient Philosophy",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 10077,
+    "duration_human": "02:47:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Crud I",
+      "02 Zeffon - Crud II",
+      "03 Zeffon - River Io",
+      "04 Zeffon - Death of Ancient Letters",
+      "05 Zeffon - Rex Mundi",
+      "06 Zeffon - Ājīvika"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/death-of-ancient-philosophy_d8e958d2c5ef"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/c605d4257bf6dc5932e3/Death_of_Ancient_Philosophy.tar"
+    }
+  }
+}
