@@ -1,0 +1,27 @@
+{
+  "id": "dead-frequencies_b669135349af",
+  "fingerprint": "b669135349afff5e3b2c8afe709a1c3cc938b4ffa5d5c9c91a47c447bfc864c9",
+  "archived_at": "2026-06-12T02:40:06Z",
+  "metadata": {
+    "title": "Dead Frequencies",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 288,
+    "duration_human": "00:04:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Dead Frequencies (Single)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dead-frequencies_b669135349af"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/7c984a3c790f7c6eff97/Dead_Frequencies.tar"
+    }
+  }
+}
