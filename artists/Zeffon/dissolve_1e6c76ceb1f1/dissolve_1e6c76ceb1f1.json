@@ -1,0 +1,34 @@
+{
+  "id": "dissolve_1e6c76ceb1f1",
+  "fingerprint": "1e6c76ceb1f1afe02ad3fcf281a1e7d59c1db194bc2255e430887b11267d8043",
+  "archived_at": "2026-06-12T22:34:38Z",
+  "metadata": {
+    "title": "Dissolve",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 15827,
+    "duration_human": "04:23:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Cymbal Crash",
+      "02 Zeffon - Chaotic Music for Dissolution...!",
+      "03 Zeffon - I'm Still Grey-Blue-ish",
+      "04 Zeffon - Dissolve... and Eat Well! (Rust=Gold Remake)",
+      "05 Zeffon - Psychotic Optics in for a Tasty Treat",
+      "06 Zeffon - Terror in Pain",
+      "07 Zeffon - Triggered",
+      "08 Zeffon - Callisto Tibetian Prayer"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dissolve_1e6c76ceb1f1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/7fbfd638c8380560cc00/Dissolve.tar"
+    }
+  }
+}
