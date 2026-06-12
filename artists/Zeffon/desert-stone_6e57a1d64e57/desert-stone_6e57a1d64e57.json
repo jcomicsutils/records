@@ -1,0 +1,29 @@
+{
+  "id": "desert-stone_6e57a1d64e57",
+  "fingerprint": "6e57a1d64e57a3883fc3bd8c1b25585db2ed9587b4c14d0f6eaa5bd38e693428",
+  "archived_at": "2026-06-12T18:24:34Z",
+  "metadata": {
+    "title": "Desert Stone",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4271,
+    "duration_human": "01:11:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Desert Stone",
+      "02 Zeffon - Arctic Vision",
+      "03 Zeffon - Paradise Lost"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/desert-stone_6e57a1d64e57"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/26aa76c70503a0d85f75/Desert_Stone.tar"
+    }
+  }
+}
