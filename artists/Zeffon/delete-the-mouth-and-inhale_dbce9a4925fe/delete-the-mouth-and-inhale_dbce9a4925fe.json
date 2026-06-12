@@ -1,0 +1,32 @@
+{
+  "id": "delete-the-mouth-and-inhale_dbce9a4925fe",
+  "fingerprint": "dbce9a4925fe1f2177046903c03e357fd29c32206ac5d519e6182d58f4d88afe",
+  "archived_at": "2026-06-12T18:13:09Z",
+  "metadata": {
+    "title": "Delete the Mouth and Inhale",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 22915,
+    "duration_human": "06:21:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Sacred Covenant Spyral A.A. (Precious Ouroboros)",
+      "02 Zeffon - We Will Redeem",
+      "03 Zeffon - Full Well with a Sword in Hand",
+      "04 Zeffon - Obliterate, Part 1",
+      "05 Zeffon - Delete the Mouth and Inhale (I.U.H.I.J.N.H.)",
+      "06 Zeffon - Obliterate, Part 2 (O.L.I.C.I.)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/delete-the-mouth-and-inhale_dbce9a4925fe"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/18058d83bfd4e20a4959/Delete_the_Mouth_and_Inhale.tar"
+    }
+  }
+}
