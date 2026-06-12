@@ -1,0 +1,28 @@
+{
+  "id": "dynamix16_91062f723773",
+  "fingerprint": "91062f72377312b4745eb24ea3d8ff88ef2857d0a8d03d343754581e6949f87b",
+  "archived_at": "2026-06-12T23:19:08Z",
+  "metadata": {
+    "title": "Dynamix16",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1658,
+    "duration_human": "00:27:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Rose of Many Thorns",
+      "02 Zeffon - Sadist Snowfall"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dynamix16_91062f723773"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/665d99566900fdf5817a/Dynamix16.tar"
+    }
+  }
+}
