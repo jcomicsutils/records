@@ -1,0 +1,32 @@
+{
+  "id": "desreverrorrim_f1190860030d",
+  "fingerprint": "f1190860030d321019117068a778d979bfb8964b3cfd5388e50b52757561b6a7",
+  "archived_at": "2026-06-12T18:50:06Z",
+  "metadata": {
+    "title": "Desreverrorrim",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 7099,
+    "duration_human": "01:58:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - 4",
+      "02 Zeffon - Bothel-opra-gantrahsstr",
+      "03 Zeffon - Deel 3 (Tong Bird Flight)",
+      "04 Zeffon - Mirror-Drïnk",
+      "05 Zeffon - Goatlord",
+      "06 Zeffon - The Old Tree"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/desreverrorrim_f1190860030d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/1516df7445fd67e8e8d6/Desreverrorrim.tar"
+    }
+  }
+}
