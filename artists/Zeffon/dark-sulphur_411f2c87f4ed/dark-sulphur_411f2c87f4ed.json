@@ -1,0 +1,27 @@
+{
+  "id": "dark-sulphur_411f2c87f4ed",
+  "fingerprint": "411f2c87f4ed893dd3b38901e0e06e87c147916d716df951b75bd997970d365e",
+  "archived_at": "2026-06-12T02:16:29Z",
+  "metadata": {
+    "title": "Dark Sulphur",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1524,
+    "duration_human": "00:25:24",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Dark Sulphur"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dark-sulphur_411f2c87f4ed"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/abadf2d9f5a2acce9abc/Dark_Sulphur.tar"
+    }
+  }
+}
