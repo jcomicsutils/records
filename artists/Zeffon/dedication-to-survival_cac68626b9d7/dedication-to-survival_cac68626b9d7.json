@@ -1,0 +1,29 @@
+{
+  "id": "dedication-to-survival_cac68626b9d7",
+  "fingerprint": "cac68626b9d7e45187cb5c22a2b42333f30f0b5d0c81954854f1a5f1cfa1fee3",
+  "archived_at": "2026-06-12T17:02:19Z",
+  "metadata": {
+    "title": "Dedication to Survival",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 498,
+    "duration_human": "00:08:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Stitches in Weird Blood Sack",
+      "02 Zeffon - Space Patrol, Part 9",
+      "03 Zeffon - Mao Ate Pineapple"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dedication-to-survival_cac68626b9d7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/0492a23992e86033ed5a/Dedication_to_Survival.tar"
+    }
+  }
+}
