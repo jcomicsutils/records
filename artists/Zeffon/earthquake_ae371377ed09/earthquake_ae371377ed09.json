@@ -1,0 +1,27 @@
+{
+  "id": "earthquake_ae371377ed09",
+  "fingerprint": "ae371377ed09e15d88a9e6047160451734ae0fea56f48c408191b74c02ba2b87",
+  "archived_at": "2026-06-12T23:21:58Z",
+  "metadata": {
+    "title": "Earthquake",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 476,
+    "duration_human": "00:07:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Piece 921 - Earthquake"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/earthquake_ae371377ed09"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/5c91efbe078674800ce2/Earthquake.tar"
+    }
+  }
+}
