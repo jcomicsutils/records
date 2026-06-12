@@ -1,0 +1,36 @@
+{
+  "id": "dransilaneswill_3c9550459623",
+  "fingerprint": "3c95504596234d57962872cc04fc671d271093d65919ff9e0cd970246b6e76b0",
+  "archived_at": "2026-06-12T23:15:22Z",
+  "metadata": {
+    "title": "Dränsilaneswill!",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 9718,
+    "duration_human": "02:41:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Gera-Gare",
+      "02 Zeffon - Locust Death",
+      "03 Zeffon - The World Lied",
+      "04 Zeffon - Forest Tower",
+      "05 Zeffon - Supposed Palace Below Dichyi",
+      "06 Zeffon - Corn Means Nothing to Me",
+      "07 Zeffon - The Animals Upstream",
+      "08 Zeffon - Explosion in the Depths of the Lunar Plane",
+      "09 Zeffon - Dränsilanesfallsäkammhgnsagarä (REC Agent Preview, Pt. 2)",
+      "10 Zeffon - Origin (IIII)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dransilaneswill_3c9550459623"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/9d29a40dad051aea2209/Dr_nsilaneswill.tar"
+    }
+  }
+}
