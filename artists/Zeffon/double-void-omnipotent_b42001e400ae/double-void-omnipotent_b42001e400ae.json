@@ -1,0 +1,30 @@
+{
+  "id": "double-void-omnipotent_b42001e400ae",
+  "fingerprint": "b42001e400aed4a8a3d971345288156a5192e3777a9d3308d756d09b58004b0d",
+  "archived_at": "2026-06-12T22:39:41Z",
+  "metadata": {
+    "title": "Double Void (Omnipotent)",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3715,
+    "duration_human": "01:01:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Double Void",
+      "02 Zeffon - Untitled",
+      "03 Zeffon - Tionalgor (Isolated Mix)",
+      "04 Zeffon - Execution"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/double-void-omnipotent_b42001e400ae"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/391d3c3d5f3e2f1490b4/Double_Void_Omnipotent.tar"
+    }
+  }
+}
