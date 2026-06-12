@@ -1,0 +1,27 @@
+{
+  "id": "dustgaze_26e410e5c7ec",
+  "fingerprint": "26e410e5c7eca25f9428d1e4aa261f62eb75b18a9f78cf5b8d26d9b3f3ba7c44",
+  "archived_at": "2026-06-12T23:18:16Z",
+  "metadata": {
+    "title": "Dustgaze",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 637,
+    "duration_human": "00:10:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - REC: Agent Preview"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dustgaze_26e410e5c7ec"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/d965c3c5a50f313bf1be/Dustgaze.tar"
+    }
+  }
+}
