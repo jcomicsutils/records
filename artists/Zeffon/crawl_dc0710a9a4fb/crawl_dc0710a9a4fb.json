@@ -1,0 +1,42 @@
+{
+  "id": "crawl_dc0710a9a4fb",
+  "fingerprint": "dc0710a9a4fbea20e1101b8fa79e092252cdd78328cf8311278a6b2c0882db21",
+  "archived_at": "2026-06-12T01:07:57Z",
+  "metadata": {
+    "title": "Crawl",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_seconds": 3832,
+    "duration_human": "01:03:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Horrendous Error",
+      "02 Zeffon - C6A483",
+      "03 Zeffon - 36.9",
+      "04 Zeffon - Moonseed",
+      "05 Zeffon - Digging Holes",
+      "06 Zeffon - 6 Transition",
+      "07 Zeffon - Lights of Hell",
+      "08 Zeffon - Down into Rid",
+      "09 Zeffon - X3",
+      "10 Zeffon - Laughter Sings Asylum Song",
+      "11 Zeffon - Cha Lynxii",
+      "12 Zeffon - Crawl Along the Riverside",
+      "13 Zeffon - Eim (A Neurosis Tribute)",
+      "14 Zeffon - Cäst a Gloömy Shadöw (untitled Bonus)",
+      "15 Zeffon - Cryptic Rays, Pt. 2 (Tape Re-release)",
+      "16 Zeffon - Smell of the Ancient Gods"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/crawl_dc0710a9a4fb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/8ce3d5ca30e9ee473b57/Crawl.tar"
+    }
+  }
+}
