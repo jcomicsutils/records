@@ -1,0 +1,30 @@
+{
+  "id": "dleifesor_32c9e68ea1be",
+  "fingerprint": "32c9e68ea1beae2e240abc2145c6c5e30929bf27fef97c0312b353dbb1bee18b",
+  "archived_at": "2026-06-12T22:37:26Z",
+  "metadata": {
+    "title": "Dleifesor!",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 813,
+    "duration_human": "00:13:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - River of Wine",
+      "02 Zeffon - Underwater Skull",
+      "03 Zeffon - Woods Atrocity",
+      "04 Zeffon - Unexpected Vengence"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dleifesor_32c9e68ea1be"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/5b04fc933ea36c73feb0/Dleifesor.tar"
+    }
+  }
+}
