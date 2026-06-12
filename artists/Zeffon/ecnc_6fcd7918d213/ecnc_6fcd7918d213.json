@@ -1,0 +1,27 @@
+{
+  "id": "ecnc_6fcd7918d213",
+  "fingerprint": "6fcd7918d2135f5b03b9d3876dc699db309894375b6209dec55ae8ad7731b734",
+  "archived_at": "2026-06-12T23:27:08Z",
+  "metadata": {
+    "title": "ECNC",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 771,
+    "duration_human": "00:12:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Year of Smile"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ecnc_6fcd7918d213"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/c3a3f9499ddb807a0c80/ECNC.tar"
+    }
+  }
+}
