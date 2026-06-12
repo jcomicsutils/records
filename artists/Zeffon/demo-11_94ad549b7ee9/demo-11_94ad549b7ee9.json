@@ -1,0 +1,28 @@
+{
+  "id": "demo-11_94ad549b7ee9",
+  "fingerprint": "94ad549b7ee9e100e52f528adad8285e17dd143890fa68bf0e7cf07a4c65bcf3",
+  "archived_at": "2026-06-12T18:22:08Z",
+  "metadata": {
+    "title": "Demo 11",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1055,
+    "duration_human": "00:17:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Psychodemons",
+      "02 Zeffon - Psychodemons, Pt. 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/demo-11_94ad549b7ee9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/5b081894d88b876b2bba/Demo_11.tar"
+    }
+  }
+}
