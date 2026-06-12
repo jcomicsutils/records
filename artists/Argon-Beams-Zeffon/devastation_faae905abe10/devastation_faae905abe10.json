@@ -1,0 +1,30 @@
+{
+  "id": "devastation_faae905abe10",
+  "fingerprint": "faae905abe10e90c32cfc0478f1a0c79969d09b2d8c47bd5fa7bfd5c279ce1fc",
+  "archived_at": "2026-06-12T19:11:47Z",
+  "metadata": {
+    "title": "Devastation",
+    "artist": "Argon Beams / Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 9190,
+    "duration_human": "02:33:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Argon Beams - Guinea 3 (Extract)",
+      "02 Argon Beams - Devastation",
+      "03 Zeffon - Guinea 4",
+      "04 Zeffon - Guinea 5"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/devastation_faae905abe10"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/c528affc6848c9343541/Devastation.tar"
+    }
+  }
+}
