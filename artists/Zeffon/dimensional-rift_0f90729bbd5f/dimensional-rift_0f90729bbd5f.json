@@ -1,0 +1,33 @@
+{
+  "id": "dimensional-rift_0f90729bbd5f",
+  "fingerprint": "0f90729bbd5ffbc0071ede5314708dbc3e7205924adcb13a9fabd5daae4736ab",
+  "archived_at": "2026-06-12T19:25:45Z",
+  "metadata": {
+    "title": "Dimensional Rift",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2196,
+    "duration_human": "00:36:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Zeffon - Omega",
+      "02 Zeffon - Reversal",
+      "03 Zeffon - Enflesh",
+      "04 Zeffon - Forest, I",
+      "05 Zeffon - Urn",
+      "06 Zeffon - Stone Isle Mines",
+      "07 Zeffon - Sogidne"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dimensional-rift_0f90729bbd5f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/53a9477e6a26adb9658b/Dimensional_Rift.tar"
+    }
+  }
+}
