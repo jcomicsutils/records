@@ -1,0 +1,30 @@
+{
+  "id": "demo-9-aqua-regia_ce8ae95f2eff",
+  "fingerprint": "ce8ae95f2eff1d3b708fa3e587d2e5f7f79d5de53575ae546d49d92c88beaaa6",
+  "archived_at": "2026-06-12T18:18:30Z",
+  "metadata": {
+    "title": "Demo 9 (Aqua Regia)",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1512,
+    "duration_human": "00:25:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - A Decision Made For The Lunar Plane (An Alternative Account of the Past)",
+      "02 Zeffon - Arrogant Piece No. 2",
+      "03 Zeffon - The Love Never Seems to Die",
+      "04 Zeffon - Rowland's Return (Disynxiym)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/demo-9-aqua-regia_ce8ae95f2eff"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/9be75a9c1edd3bf0ac1b/Demo_9_Aqua_Regia.tar"
+    }
+  }
+}
