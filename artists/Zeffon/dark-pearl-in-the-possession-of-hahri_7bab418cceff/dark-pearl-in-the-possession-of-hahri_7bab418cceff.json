@@ -1,0 +1,28 @@
+{
+  "id": "dark-pearl-in-the-possession-of-hahri_7bab418cceff",
+  "fingerprint": "7bab418cceffb315c5cfbc9f19ea2fd83ab46ac5453af1c24b86a83a15d7a659",
+  "archived_at": "2026-06-12T02:08:09Z",
+  "metadata": {
+    "title": "Dark Pearl in the Possession of Hahri",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 14927,
+    "duration_human": "04:08:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Disbaranraf - Song of Tela Valley",
+      "02 Zeffon - Dissonant Fire (Ter's Theme)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dark-pearl-in-the-possession-of-hahri_7bab418cceff"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/4ab2a875f2931ac4a961/Dark_Pearl_in_the_Possession_of_Hahri.tar"
+    }
+  }
+}
