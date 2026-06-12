@@ -1,0 +1,34 @@
+{
+  "id": "disaster-befell-the-strange_820e23d8e5cc",
+  "fingerprint": "820e23d8e5cc3abc4c380817acb47c2b23fae39b99a0d72feba52dd5eca9a295",
+  "archived_at": "2026-06-12T20:31:17Z",
+  "metadata": {
+    "title": "Disaster Befell the Strange",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 10997,
+    "duration_human": "03:03:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - 3",
+      "02 Zeffon - Odd Hand Broken",
+      "03 Zeffon - Operating the Dusk Sphere",
+      "04 Zeffon - Apocalypse 6",
+      "05 Zeffon - Traxuoap",
+      "06 Zeffon - Stunned to Silence",
+      "07 Zeffon - Heayter-Radyn Goatlord",
+      "08 Zeffon - Love Everything"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/disaster-befell-the-strange_820e23d8e5cc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/30e326033b625fbdf5a3/Disaster_Befell_the_Strange.tar"
+    }
+  }
+}
