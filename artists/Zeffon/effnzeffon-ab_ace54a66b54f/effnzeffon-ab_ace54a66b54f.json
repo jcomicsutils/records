@@ -1,0 +1,30 @@
+{
+  "id": "effnzeffon-ab_ace54a66b54f",
+  "fingerprint": "ace54a66b54fb3156b554e74768ad0c7741554907decf4389931b12ec06eb735",
+  "archived_at": "2026-06-12T23:32:46Z",
+  "metadata": {
+    "title": "Effnzeffon AB",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 6369,
+    "duration_human": "01:46:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Side A1",
+      "02 Zeffon - Side A2",
+      "03 Zeffon - Side B1",
+      "04 Zeffon - Side B2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/effnzeffon-ab_ace54a66b54f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/f46577f62fd28dda992c/Effnzeffon_AB.tar"
+    }
+  }
+}
