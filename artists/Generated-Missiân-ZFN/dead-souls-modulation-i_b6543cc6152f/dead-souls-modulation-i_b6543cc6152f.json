@@ -1,0 +1,38 @@
+{
+  "id": "dead-souls-modulation-i_b6543cc6152f",
+  "fingerprint": "b6543cc6152f6db141d8004d049218f18b4c9be20672e6701efe2086248aa26c",
+  "archived_at": "2026-06-12T04:11:50Z",
+  "metadata": {
+    "title": "Dead Souls (Modulation I)",
+    "artist": "Generated Missiân ZFN",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 17031,
+    "duration_human": "04:43:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Generated Missiân ZFN - Dead Souls (Zeffon Re-hash)",
+      "02 Generated Missiân ZFN - PXX0",
+      "03 Generated Missiân ZFN - c0 Mêtal ...I ...IO...",
+      "04 Generated Missiân ZFN - BPU0",
+      "05 Generated Missiân ZFN - Un-Sources Trauces",
+      "06 Generated Missiân ZFN - BPEL2 (Sugar Rush 1)",
+      "07 Generated Missiân ZFN - bh0 (Sugar Rush 2)",
+      "08 Generated Missiân ZFN - Obn Umhruun the Field 1 (Generated Missiân ZFN)",
+      "09 Generated Missiân ZFN - MH Sleep During Autumn Time",
+      "10 Generated Missiân ZFN - G. NOFFEZ Sr.",
+      "11 Generated Missiân ZFN - Modulation I",
+      "12 Generated Missiân ZFN - Modulate"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dead-souls-modulation-i_b6543cc6152f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/1e2c1ce4a14df206db4a/Dead_Souls_Modulation_I.tar"
+    }
+  }
+}
