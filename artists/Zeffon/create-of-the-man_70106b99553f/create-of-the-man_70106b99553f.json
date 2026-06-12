@@ -1,0 +1,29 @@
+{
+  "id": "create-of-the-man_70106b99553f",
+  "fingerprint": "70106b99553fcddeef8720d6875a279d1b74495312a72651aecef47e64911f1f",
+  "archived_at": "2026-06-12T01:16:11Z",
+  "metadata": {
+    "title": "Create of the Man",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2027,
+    "duration_human": "00:33:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - A Trës",
+      "02 Zeffon - Strauo-aoua",
+      "03 Zeffon - The Brije"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/create-of-the-man_70106b99553f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/3d1ff69db52e95cc1dad/Create_of_the_Man.tar"
+    }
+  }
+}
