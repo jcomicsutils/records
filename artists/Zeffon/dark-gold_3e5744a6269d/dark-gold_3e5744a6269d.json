@@ -1,0 +1,28 @@
+{
+  "id": "dark-gold_3e5744a6269d",
+  "fingerprint": "3e5744a6269d80c17f340788f8f567d1b7b085be524d23fe8da4f7712a856c54",
+  "archived_at": "2026-06-12T01:41:39Z",
+  "metadata": {
+    "title": "Dark Gold",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5314,
+    "duration_human": "01:28:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Deep Gold",
+      "02 Zeffon - Dark Gold"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dark-gold_3e5744a6269d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/b3ee770dc43c7477be3d/Dark_Gold.tar"
+    }
+  }
+}
