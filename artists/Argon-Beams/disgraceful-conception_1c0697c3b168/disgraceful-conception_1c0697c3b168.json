@@ -1,0 +1,29 @@
+{
+  "id": "disgraceful-conception_1c0697c3b168",
+  "fingerprint": "1c0697c3b1682e3bae1abbd29ceae9ccfbdc470e90e839870cf6e12a016f6226",
+  "archived_at": "2026-06-12T20:54:20Z",
+  "metadata": {
+    "title": "Disgraceful Conception",
+    "artist": "Argon Beams",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 14307,
+    "duration_human": "03:58:27",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Argon Beams - Lament of the Two Sisters",
+      "02 Argon Beams - 2p5p Forés Gét Oneprvase",
+      "03 Argon Beams - Folk Mnrreffe Don Montages"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/disgraceful-conception_1c0697c3b168"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/9b3718f09963fbe2063d/Disgraceful_Conception.tar"
+    }
+  }
+}
