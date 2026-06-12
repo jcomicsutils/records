@@ -1,0 +1,28 @@
+{
+  "id": "dire-dub_d2de52c19dc5",
+  "fingerprint": "d2de52c19dc5a79b538b92b3bba9ce0bea3f0cf388b4297173ce0906cb7be14e",
+  "archived_at": "2026-06-12T19:27:03Z",
+  "metadata": {
+    "title": "Dire / Dub",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 371,
+    "duration_human": "00:06:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Ulkrkk-döoh-ia",
+      "02 Zeffon - 滲入45 (White Sheet)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dire-dub_d2de52c19dc5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/a8981664a28f5eace13f/Dire_-_Dub.tar"
+    }
+  }
+}
