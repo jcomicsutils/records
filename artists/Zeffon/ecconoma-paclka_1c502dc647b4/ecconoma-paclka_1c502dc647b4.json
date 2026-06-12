@@ -1,0 +1,33 @@
+{
+  "id": "ecconoma-paclka_1c502dc647b4",
+  "fingerprint": "1c502dc647b4d84bc595f56509c1707044cc424864b8b4cb46698b96f0d02a82",
+  "archived_at": "2026-06-12T23:26:03Z",
+  "metadata": {
+    "title": "Ecconoma Paclka",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 5203,
+    "duration_human": "01:26:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Tragedy of the Marble Cliffside",
+      "02 Zeffon - 1",
+      "03 Zeffon - Magick",
+      "04 Zeffon - Terms of the Speaker of Turkish",
+      "05 Zeffon - Decides to Go to Latin America",
+      "06 Zeffon - Darjtree",
+      "07 Zeffon - Tehe Churchh Immkâjâôôhhoûberrz"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ecconoma-paclka_1c502dc647b4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/2a37c14e01623970eb1c/Ecconoma_Paclka.tar"
+    }
+  }
+}
