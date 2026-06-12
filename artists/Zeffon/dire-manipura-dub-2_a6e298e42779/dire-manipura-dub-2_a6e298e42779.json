@@ -1,0 +1,28 @@
+{
+  "id": "dire-manipura-dub-2_a6e298e42779",
+  "fingerprint": "a6e298e427794b77de9160bb1951d8f32ac6c68d622239ffcef261694a53d19f",
+  "archived_at": "2026-06-12T19:27:52Z",
+  "metadata": {
+    "title": "Dire / Manipura Dub 2",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 450,
+    "duration_human": "00:07:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Vision and the Voice",
+      "02 Zeffon - Slim Dub"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dire-manipura-dub-2_a6e298e42779"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/5faff13413f39d66edd0/Dire_-_Manipura_Dub_2.tar"
+    }
+  }
+}
