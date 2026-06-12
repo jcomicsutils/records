@@ -1,0 +1,33 @@
+{
+  "id": "dead-white-hand_48e8aacb25c1",
+  "fingerprint": "48e8aacb25c118bb13346665fe510d0e4610b540099990462ed041254ba9ebc9",
+  "archived_at": "2026-06-12T04:20:20Z",
+  "metadata": {
+    "title": "Dead White Hand",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 6940,
+    "duration_human": "01:55:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Dead White Hand",
+      "02 Zeffon - Axon",
+      "03 Zeffon - Journey Far and Wide",
+      "04 Zeffon - Untitled",
+      "05 Zeffon - D.",
+      "06 Zeffon - BassSeraph",
+      "07 Zeffon - Toú Empire"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dead-white-hand_48e8aacb25c1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/59f2928bc4fc3a9e10b7/Dead_White_Hand.tar"
+    }
+  }
+}
