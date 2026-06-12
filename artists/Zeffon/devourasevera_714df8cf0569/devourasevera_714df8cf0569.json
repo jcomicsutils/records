@@ -1,0 +1,28 @@
+{
+  "id": "devourasevera_714df8cf0569",
+  "fingerprint": "714df8cf056976a2e0fd8f0989df5847ea3a597e3d18f4ddc3323a4fa8d34002",
+  "archived_at": "2026-06-12T19:16:54Z",
+  "metadata": {
+    "title": "Devourasevera",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 6958,
+    "duration_human": "01:55:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Devourasevera (Z, Pt. 1)",
+      "02 Zeffon - Purity (Z, Pt. 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/devourasevera_714df8cf0569"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/827260c6e0c32b3c6a4c/Devourasevera.tar"
+    }
+  }
+}
