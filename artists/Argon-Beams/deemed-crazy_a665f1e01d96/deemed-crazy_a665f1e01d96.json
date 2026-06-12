@@ -1,0 +1,31 @@
+{
+  "id": "deemed-crazy_a665f1e01d96",
+  "fingerprint": "a665f1e01d9684acde1f9e003ff4728103d810c967954e15b15d8a172ee2eb01",
+  "archived_at": "2026-06-12T17:03:22Z",
+  "metadata": {
+    "title": "Deemed Crazy",
+    "artist": "Argon Beams",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 259,
+    "duration_human": "00:04:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Argon Beams - VOR V",
+      "02 Argon Beams - VOR III",
+      "03 Argon Beams - VOR II",
+      "04 Argon Beams - VOR IV",
+      "05 Argon Beams - Naked Perception"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/deemed-crazy_a665f1e01d96"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/86a77a243b2302093c18/Deemed_Crazy.tar"
+    }
+  }
+}
