@@ -1,0 +1,34 @@
+{
+  "id": "dead-drums-popular-propaganda-plus-tribal-politics_bbeadbf91de2",
+  "fingerprint": "bbeadbf91de21d28d8f9bcd7c1becb8fa30b4104c83c80f4431a647344aa0cb0",
+  "archived_at": "2026-06-12T02:37:23Z",
+  "metadata": {
+    "title": "Dead Drums & Popular Propaganda Plus Tribal Politics",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 4589,
+    "duration_human": "01:16:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Spines",
+      "02 Zeffon - Moonworts",
+      "03 Zeffon - Pottery of Mud",
+      "04 Zeffon - Bamiyan",
+      "05 Zeffon - The Walls Outside the Dead City of Gree",
+      "06 Zeffon - Glory For Order",
+      "07 Zeffon - Adder's-Tongues",
+      "08 Zeffon - Morninglories"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dead-drums-popular-propaganda-plus-tribal-politics_bbeadbf91de2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta5/9c665d50606161ee328a/Dead_Drums_Popular_Propaganda_Plus_Tribal_Politics.tar"
+    }
+  }
+}
