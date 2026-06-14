@@ -1,0 +1,33 @@
+{
+  "id": "efonipolaiumi-ver-kroaktce_5fb8ac1a9cd1",
+  "fingerprint": "5fb8ac1a9cd193018d0fdc60182ab42960178e1f458ca0ecd7c9c36b99988e1f",
+  "archived_at": "2026-06-14T22:44:33Z",
+  "metadata": {
+    "title": "Efonipölaiumi Ver Kroaktce",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3253,
+    "duration_human": "00:54:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Efoni Öbartöun Na",
+      "02 Zeffon - A Time of Love, A Time of Jacob",
+      "03 Zeffon - Beautiful Thermokarst (Rose Rose Tribute, Part III of III)",
+      "04 Zeffon - Great Gerete",
+      "05 Zeffon - Tanz",
+      "06 Zeffon - Owing My Time",
+      "07 Zeffon - Business as Usual (Blood Red Mix), Eclipse 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/efonipolaiumi-ver-kroaktce_5fb8ac1a9cd1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/3d83493531f4cb728925/Efonip_laiumi_Ver_Kroaktce.tar"
+    }
+  }
+}
