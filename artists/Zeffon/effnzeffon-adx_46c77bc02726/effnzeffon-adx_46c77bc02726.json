@@ -1,0 +1,25 @@
+{
+  "id": "effnzeffon-adx_46c77bc02726",
+  "fingerprint": "46c77bc0272695de2088093a28f21ad0b33a07da570d7bb82fc367f6539e0fe5",
+  "archived_at": "2026-06-14T21:27:55Z",
+  "metadata": {
+    "title": "Effnzeffon ADX",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5426,
+    "duration_human": "01:30:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Side A",
+      "02 Zeffon - Side B"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/fd9f4241037470572534/Effnzeffon_ADX.tar"
+    }
+  }
+}
