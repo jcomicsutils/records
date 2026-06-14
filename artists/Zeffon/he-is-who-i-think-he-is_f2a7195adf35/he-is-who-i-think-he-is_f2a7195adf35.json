@@ -1,0 +1,29 @@
+{
+  "id": "he-is-who-i-think-he-is_f2a7195adf35",
+  "fingerprint": "f2a7195adf3549530d58c2c2610d2c12afd014acd200ccee9bd33837bc38a304",
+  "archived_at": "2026-06-14T18:01:38Z",
+  "metadata": {
+    "title": "(he is who I think he is)",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3416,
+    "duration_human": "00:56:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Moldy Apartment",
+      "02 Zeffon - Psilocin",
+      "03 Zeffon - The Patrolman and His Lonely Duties"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/he-is-who-i-think-he-is_f2a7195adf35"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/alpha8/b5fb3af6b8d67b819317/he_is_who_I_think_he_is.tar"
+    }
+  }
+}
