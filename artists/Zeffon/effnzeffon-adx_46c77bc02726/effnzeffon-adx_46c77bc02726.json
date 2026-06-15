@@ -20,6 +20,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta6/fd9f4241037470572534/Effnzeffon_ADX.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/effnzeffon-adx_46c77bc02726"
     }
   }
 }
