@@ -1,0 +1,28 @@
+{
+  "id": "efonk-zeffunk-a_441bd3b03c1b",
+  "fingerprint": "441bd3b03c1bb22fa115a9c5cfc6367b9920f44295a78810ceec93b3ab5a8a7e",
+  "archived_at": "2026-06-15T00:31:30Z",
+  "metadata": {
+    "title": "Efonk-Zeffunk A",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4199,
+    "duration_human": "01:09:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Taboo",
+      "02 Zeffon - The Broken Bag, Fireworks, Rib Thief"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/efonk-zeffunk-a_441bd3b03c1b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/391f73e930a98778cc6f/Efonk-Zeffunk_A.tar"
+    }
+  }
+}
