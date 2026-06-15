@@ -1,0 +1,28 @@
+{
+  "id": "efonk-zeffunk-b_e5b83b949fe7",
+  "fingerprint": "e5b83b949fe775c80da478927e88906fe37d111b0bc3b3a2e352d751617a3ee5",
+  "archived_at": "2026-06-15T21:46:03Z",
+  "metadata": {
+    "title": "Efonk-Zeffunk B",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 7158,
+    "duration_human": "01:59:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - 88-Decay-1",
+      "02 Zeffon - Evil and Rotting Leg"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/efonk-zeffunk-b_e5b83b949fe7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/138fb61bd99ee85f0d68/Efonk-Zeffunk_B.tar"
+    }
+  }
+}
