@@ -1,0 +1,27 @@
+{
+  "id": "el-voz_8c3d2bd5d7c7",
+  "fingerprint": "8c3d2bd5d7c7e36012a547431f1c8ec79d9260c739496f1d14d5f8b7e8c9b2b2",
+  "archived_at": "2026-06-15T23:50:59Z",
+  "metadata": {
+    "title": "El Voz",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2792,
+    "duration_human": "00:46:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Untitled"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/el-voz_8c3d2bd5d7c7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/20bb8af7984b2fdea797/El_Voz.tar"
+    }
+  }
+}
