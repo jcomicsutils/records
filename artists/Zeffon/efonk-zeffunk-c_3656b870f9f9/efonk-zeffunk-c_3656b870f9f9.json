@@ -1,0 +1,30 @@
+{
+  "id": "efonk-zeffunk-c_3656b870f9f9",
+  "fingerprint": "3656b870f9f9d6515f2388596a082387f68501cb8b02adf7c0b7bb0af753019b",
+  "archived_at": "2026-06-15T22:34:44Z",
+  "metadata": {
+    "title": "Efonk-Zeffunk C",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 6827,
+    "duration_human": "01:53:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Side A",
+      "02 Zeffon - Side B1",
+      "03 Zeffon - Side B2",
+      "04 Zeffon - Side B3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/efonk-zeffunk-c_3656b870f9f9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/dcd38e42452bb1d04fc7/Efonk-Zeffunk_C.tar"
+    }
+  }
+}
