@@ -1,0 +1,28 @@
+{
+  "id": "efonk-zeffunk-d_0edcaa73ca4d",
+  "fingerprint": "0edcaa73ca4df5a4f0a5ec40c065aaa823b73a18e0d43666fb1f23a6cc992d78",
+  "archived_at": "2026-06-15T23:32:35Z",
+  "metadata": {
+    "title": "Efonk-Zeffunk D",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 6508,
+    "duration_human": "01:48:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Effonk-Zeffunk",
+      "02 Zeffon - Sad"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/efonk-zeffunk-d_0edcaa73ca4d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/5120398c4e99a4dc5092/Efonk-Zeffunk_D.tar"
+    }
+  }
+}
