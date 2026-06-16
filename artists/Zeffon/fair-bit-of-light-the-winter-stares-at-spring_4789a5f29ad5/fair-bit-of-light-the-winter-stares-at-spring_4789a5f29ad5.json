@@ -1,0 +1,31 @@
+{
+  "id": "fair-bit-of-light-the-winter-stares-at-spring_4789a5f29ad5",
+  "fingerprint": "4789a5f29ad540d8b149d2aee31f61d7d4b0bd611e599677eb27bb23e6d02406",
+  "archived_at": "2026-06-16T23:18:04Z",
+  "metadata": {
+    "title": "Fair Bit of Light (The Winter Stares at Spring)",
+    "artist": "Zeffon",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3427,
+    "duration_human": "00:57:07",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Aftermath 3",
+      "02 Zeffon - Thomson",
+      "03 Zeffon - Zeyhee",
+      "04 Zeffon - Error Meant Seen (NBK Part 2 Prev)",
+      "05 Zeffon - Feeling Different (A Fair Bit of Light)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fair-bit-of-light-the-winter-stares-at-spring_4789a5f29ad5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/38883147c0ed283a0991/Fair_Bit_of_Light_The_Winter_Stares_at_Spring.tar"
+    }
+  }
+}
