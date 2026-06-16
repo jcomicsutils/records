@@ -1,0 +1,42 @@
+{
+  "id": "exechia-nugatoria_d56d6fdb59db",
+  "fingerprint": "d56d6fdb59dbe953fa90a9793f7cbc02a6bb4d13021ea47713a890d4c12009c2",
+  "archived_at": "2026-06-16T21:30:40Z",
+  "metadata": {
+    "title": "Exechia nugatoria",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_seconds": 9161,
+    "duration_human": "02:32:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Nuclear Radiation",
+      "02 Zeffon - Program",
+      "03 Zeffon - Molecular Structures",
+      "04 Zeffon - Eradication",
+      "05 Zeffon - Za III",
+      "06 Zeffon - Troubled Regions",
+      "07 Zeffon - Old Trade Roads",
+      "08 Zeffon - AK47",
+      "09 Zeffon - Haustorium",
+      "10 Zeffon - Tacticians",
+      "11 Zeffon - RASW6",
+      "12 Zeffon - Phellinus ellipsoideus",
+      "13 Zeffon - PMVIM",
+      "14 Zeffon - Za II",
+      "15 Zeffon - Mycelium",
+      "16 Zeffon - Banned at Dawn"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/exechia-nugatoria_d56d6fdb59db"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/591b5af03df40ffb624b/Exechia_nugatoria.tar"
+    }
+  }
+}
