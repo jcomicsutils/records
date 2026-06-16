@@ -1,0 +1,27 @@
+{
+  "id": "epipogium-aphyllum_fdbb628026df",
+  "fingerprint": "fdbb628026dfa1cdf5e8c09909c4750102aa4f8b430da26bb09912a04dd5842d",
+  "archived_at": "2026-06-16T01:44:08Z",
+  "metadata": {
+    "title": "Epipogium aphyllum",
+    "artist": "Revenence",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 212,
+    "duration_human": "00:03:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Revenence - Epipogium aphyllum"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/epipogium-aphyllum_fdbb628026df"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/7d7634783852e62cb29a/Epipogium_aphyllum.tar"
+    }
+  }
+}
