@@ -1,0 +1,29 @@
+{
+  "id": "el-voz-shadow_58d07dc06181",
+  "fingerprint": "58d07dc06181b66716d29ba53bd4a4ddb6f7a6f182121b1ada7309f1d295a499",
+  "archived_at": "2026-06-16T00:18:20Z",
+  "metadata": {
+    "title": "El Voz (Shadow)",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 12357,
+    "duration_human": "03:25:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Gum Teeth",
+      "02 Zeffon - Strawberry Mudman Dub Ver. 2 (Shadow)",
+      "03 Zeffon - Huge Ego"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/el-voz-shadow_58d07dc06181"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/0e2d4854f766ed6798bc/El_Voz_Shadow.tar"
+    }
+  }
+}
