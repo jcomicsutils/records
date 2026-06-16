@@ -1,0 +1,27 @@
+{
+  "id": "experiment_c703e0955d56",
+  "fingerprint": "c703e0955d5688e9f2b28de0a26e00082d338db131a90e2a939ada6c987fa413",
+  "archived_at": "2026-06-16T22:19:15Z",
+  "metadata": {
+    "title": "Experiment",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 435,
+    "duration_human": "00:07:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Research Project (Single)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/experiment_c703e0955d56"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/7ac3dbd7a5c8000d7042/Experiment.tar"
+    }
+  }
+}
