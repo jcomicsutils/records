@@ -1,0 +1,28 @@
+{
+  "id": "exercise-08o_0927bb993c17",
+  "fingerprint": "0927bb993c1700431dfaf260b645d142703bb8678867c3e5cce536e03a37d0e2",
+  "archived_at": "2026-06-16T22:06:08Z",
+  "metadata": {
+    "title": "Exercise 08.O",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4340,
+    "duration_human": "01:12:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Extermination Extermination Extermination",
+      "02 Zeffon - Exercise 08.O"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/exercise-08o_0927bb993c17"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/43388db27582720a6981/Exercise_08.O.tar"
+    }
+  }
+}
