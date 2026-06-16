@@ -1,0 +1,29 @@
+{
+  "id": "endigos-promo_de32c99e8c3c",
+  "fingerprint": "de32c99e8c3c8ab7c7741db003c8144b2a011637bb83d14de6b7aec6d23b8d43",
+  "archived_at": "2026-06-16T01:02:14Z",
+  "metadata": {
+    "title": "Endigös Promo",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2579,
+    "duration_human": "00:42:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - House of Skulls (November 12, 1422)",
+      "02 Zeffon - Jackanapes",
+      "03 Zeffon - Amma and Noor"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/endigos-promo_de32c99e8c3c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/ec8af6b46d591e4db70c/Endig_s_Promo.tar"
+    }
+  }
+}
