@@ -1,0 +1,30 @@
+{
+  "id": "flight-of-the-ivramoth_8bc3de13dcb8",
+  "fingerprint": "8bc3de13dcb808f946a0ecbff40b61372dac8ab7b2cb4250b49fdd2b6e9caaa1",
+  "archived_at": "2026-06-16T23:46:27Z",
+  "metadata": {
+    "title": "Flight of the Ivramoth",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2262,
+    "duration_human": "00:37:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Poison",
+      "02 Zeffon - Helminthophobia Radio",
+      "03 Zeffon - Dirt",
+      "04 Zeffon - Untitled"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/flight-of-the-ivramoth_8bc3de13dcb8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/dc727fedff0ce1733890/Flight_of_the_Ivramoth.tar"
+    }
+  }
+}
