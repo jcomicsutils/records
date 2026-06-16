@@ -1,0 +1,33 @@
+{
+  "id": "exercise-caution_da6ed68adef8",
+  "fingerprint": "da6ed68adef82185cd062a679155cc9bd6ceef5d019271a0e8abdf557affc3f4",
+  "archived_at": "2026-06-16T22:10:30Z",
+  "metadata": {
+    "title": "Exercise Caution",
+    "artist": "Serpentmouth",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3281,
+    "duration_human": "00:54:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Serpentmouth - Er = Anep",
+      "02 Serpentmouth - On Tragic Colored Bandages",
+      "03 Serpentmouth - Misty Locust",
+      "04 Serpentmouth - FLTU +1",
+      "05 Serpentmouth - Industry 22 (Play At ¼ Vol., Pink Ear)",
+      "06 Serpentmouth - Untitled",
+      "07 Serpentmouth - Credd den Housing demf Unknooes"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/exercise-caution_da6ed68adef8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/5aefddc73f49034b83b3/Exercise_Caution.tar"
+    }
+  }
+}
