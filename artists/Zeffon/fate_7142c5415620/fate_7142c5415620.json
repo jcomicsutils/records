@@ -1,0 +1,33 @@
+{
+  "id": "fate_7142c5415620",
+  "fingerprint": "7142c541562077de737c5a6e846cae1e40882f3e4a3046368fb76b9a109aa3f6",
+  "archived_at": "2026-06-16T23:39:43Z",
+  "metadata": {
+    "title": "Fate",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3745,
+    "duration_human": "01:02:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Requiem",
+      "02 Zeffon - Opal Resistor",
+      "03 Zeffon - End of Square Unit",
+      "04 Zeffon - Oracle",
+      "05 Zeffon - Magic Cube",
+      "06 Zeffon - Research Project",
+      "07 Zeffon - Fate"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fate_7142c5415620"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/5d78c27f9945619b2868/Fate.tar"
+    }
+  }
+}
