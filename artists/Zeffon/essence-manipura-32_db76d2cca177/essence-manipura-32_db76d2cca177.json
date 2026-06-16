@@ -1,0 +1,32 @@
+{
+  "id": "essence-manipura-32_db76d2cca177",
+  "fingerprint": "db76d2cca1770d20a601b559046acd2f69d539ea2acdc4914d5851a51520ae82",
+  "archived_at": "2026-06-16T04:24:12Z",
+  "metadata": {
+    "title": "Essence (Manipura) 32",
+    "artist": "Zeffon",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 21075,
+    "duration_human": "05:51:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Zeffon - Corruption Shield 2",
+      "02 Zeffon - Shards of Kinsmen, Littered",
+      "03 Zeffon - Secret out-of-bounds Ship 2",
+      "04 Zeffon - Know the Complexities of Secrets",
+      "05 Zeffon - May I See Us Through this Jungle? (10shoRTev2)",
+      "06 Zeffon - Secret ôut-of-bôunds Ship 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/essence-manipura-32_db76d2cca177"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/aaabeeec1fb00a6f51bf/Essence_Manipura_32.tar"
+    }
+  }
+}
