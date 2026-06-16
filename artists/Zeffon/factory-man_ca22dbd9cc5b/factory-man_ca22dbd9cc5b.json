@@ -1,0 +1,30 @@
+{
+  "id": "factory-man_ca22dbd9cc5b",
+  "fingerprint": "ca22dbd9cc5b4b98f4d20e99d4717b18ccb7f28edec42d22a2d62ae6b38c6b83",
+  "archived_at": "2026-06-16T22:33:02Z",
+  "metadata": {
+    "title": "Factory Man",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2238,
+    "duration_human": "00:37:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Extreme Hot Metal (A Chilly Sun Mix)",
+      "02 Zeffon - The Stone in Desert RA",
+      "03 Zeffon - Factory Man, 1A",
+      "04 Zeffon - House 63"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/factory-man_ca22dbd9cc5b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/4d2724edb729d3577639/Factory_Man.tar"
+    }
+  }
+}
