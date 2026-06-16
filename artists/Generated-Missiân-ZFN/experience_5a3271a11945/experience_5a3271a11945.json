@@ -1,0 +1,36 @@
+{
+  "id": "experience_5a3271a11945",
+  "fingerprint": "5a3271a11945602a2709ed324a4e0cd1ed84a1cb29e23cb8e13194e146345939",
+  "archived_at": "2026-06-16T22:14:58Z",
+  "metadata": {
+    "title": "Experience",
+    "artist": "Generated Missiân ZFN",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 1550,
+    "duration_human": "00:25:50",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Generated Missiân ZFN - Bad MOP Analysis From '10 (Chorus / Padding)",
+      "02 Generated Missiân ZFN - Building a Natiân (Caller)",
+      "03 Generated Missiân ZFN - Building a Natiân (Receiver)",
+      "04 Generated Missiân ZFN - Zeffon",
+      "05 Generated Missiân ZFN - Sodium / Potassium (Sheet)",
+      "06 Generated Missiân ZFN - Lithium 2 (Jhremix)",
+      "07 Generated Missiân ZFN - Sodium / Potassium (Sheet)",
+      "08 Generated Missiân ZFN - Lithium 2 (Beautiful Foundation Autumn Full Scene)",
+      "09 Generated Missiân ZFN - Mombomb",
+      "10 Generated Missiân ZFN - Omnipresent Resolve 月影 Moon Landing (S.O.B. Tribute)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/experience_5a3271a11945"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/b42e4ac7ee23c8e37452/Experience.tar"
+    }
+  }
+}
