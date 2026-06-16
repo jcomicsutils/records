@@ -1,0 +1,29 @@
+{
+  "id": "eyes-and-lips-roaming-in-the-foothills-autumn-i_87efeb9e1ba6",
+  "fingerprint": "87efeb9e1ba6432dbd9cadc7a3ec47aacdf96fa07f83099fb407202615d574a3",
+  "archived_at": "2026-06-16T22:24:26Z",
+  "metadata": {
+    "title": "Eyes and Lips Roaming in the Foothills (Autumn I)",
+    "artist": "Zeffon",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1015,
+    "duration_human": "00:16:55",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Recalling Old Times",
+      "02 Zeffon - Dêanchrlen",
+      "03 Zeffon - General Observations"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/eyes-and-lips-roaming-in-the-foothills-autumn-i_87efeb9e1ba6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/4fe24a074215ee9b790f/Eyes_and_Lips_Roaming_in_the_Foothills_Autumn_I.tar"
+    }
+  }
+}
