@@ -1,0 +1,27 @@
+{
+  "id": "eyes_dd34ed2dcce2",
+  "fingerprint": "dd34ed2dcce21b060f209ea2c3a77fcadc39f4e97159a2ffdd5cd80bc4a610e2",
+  "archived_at": "2026-06-16T22:20:47Z",
+  "metadata": {
+    "title": "Eyes",
+    "artist": "Revenence",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1447,
+    "duration_human": "00:24:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Revenence - Intrusion"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/eyes_dd34ed2dcce2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/048d589e1b8a43dc8d97/Eyes.tar"
+    }
+  }
+}
