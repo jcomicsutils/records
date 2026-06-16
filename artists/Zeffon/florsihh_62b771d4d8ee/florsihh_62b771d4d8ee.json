@@ -1,0 +1,28 @@
+{
+  "id": "florsihh_62b771d4d8ee",
+  "fingerprint": "62b771d4d8ee3bdc5f31564aaaebcfddb8f62d0ed07b51d885b3411e90c647cf",
+  "archived_at": "2026-06-16T23:52:06Z",
+  "metadata": {
+    "title": "Florsihh",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1652,
+    "duration_human": "00:27:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Aurae",
+      "02 Zeffon - Religion"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/florsihh_62b771d4d8ee"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/340783ab7cafc247150d/Florsihh.tar"
+    }
+  }
+}
