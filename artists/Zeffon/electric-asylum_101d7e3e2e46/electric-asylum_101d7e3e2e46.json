@@ -1,0 +1,36 @@
+{
+  "id": "electric-asylum_101d7e3e2e46",
+  "fingerprint": "101d7e3e2e462067d9f44cfdcb4ddda046baf4c648ebfe1a90786a6b155ff74a",
+  "archived_at": "2026-06-16T00:29:04Z",
+  "metadata": {
+    "title": "Electric Asylum",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2647,
+    "duration_human": "00:44:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Forest Fortress Without a Name",
+      "02 Zeffon - Black swallower",
+      "03 Zeffon - Love is the Way",
+      "04 Zeffon - Dynamix16",
+      "05 Zeffon - X1",
+      "06 Zeffon - Deep Well",
+      "07 Zeffon - Calling For You",
+      "08 Zeffon - Silence, New Inflicted",
+      "09 Zeffon - X2",
+      "10 Zeffon - Marshcrown"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/electric-asylum_101d7e3e2e46"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/34832688334ce1c7f2ff/Electric_Asylum.tar"
+    }
+  }
+}
