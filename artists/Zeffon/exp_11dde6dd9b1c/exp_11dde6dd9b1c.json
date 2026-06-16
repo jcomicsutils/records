@@ -1,0 +1,28 @@
+{
+  "id": "exp_11dde6dd9b1c",
+  "fingerprint": "11dde6dd9b1ce1e6612fcd5b7414eeb75ea5b75a5d6a74913211c693694e9d3f",
+  "archived_at": "2026-06-16T22:11:34Z",
+  "metadata": {
+    "title": "Exp",
+    "artist": "Zeffon",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 281,
+    "duration_human": "00:04:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - ..reel",
+      "02 Zeffon - Block 8"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/exp_11dde6dd9b1c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/0f334ada184fd9a8841c/Exp.tar"
+    }
+  }
+}

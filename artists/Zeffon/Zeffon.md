@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Exp](exp_11dde6dd9b1c/exp_11dde6dd9b1c.md) | 2009 | FLAC | 00:04:41 | [IA](https://archive.org/details/exp_11dde6dd9b1c) [FileDitch](https://fileditchfiles.me/beta6/0f334ada184fd9a8841c/Exp.tar) |
 | [7429FD](7429fd_364ea85445f8/7429fd_364ea85445f8.md) | 2009 | FLAC | 00:01:27 | [IA](https://archive.org/details/7429fd_364ea85445f8) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/df5dcabca74af5aa134c/7429FD.tar) |
 | [Chaosfoundry](chaosfoundry_8abd0f7f5329/chaosfoundry_8abd0f7f5329.md) | 2011 | FLAC | 01:19:47 | [IA](https://archive.org/details/chaosfoundry_8abd0f7f5329) [FileDitch](https://fileditchfiles.me/beta5/cf1b61d35bb8c50cf189/Chaosfoundry.tar) |
 | [Cowbell Mechanics](cowbell-mechanics_e0ad872769db/cowbell-mechanics_e0ad872769db.md) | 2011 | FLAC | 00:23:12 | [IA](https://archive.org/details/cowbell-mechanics_e0ad872769db) [FileDitch](https://fileditchfiles.me/beta5/c49f0b9288775f8476ee/Cowbell_Mechanics.tar) |
