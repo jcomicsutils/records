@@ -1,0 +1,30 @@
+{
+  "id": "exeraise_4e21a12ca637",
+  "fingerprint": "4e21a12ca6370ca09ce0378cfb0e4c82c27b450c8aebdb36b9e861395f388681",
+  "archived_at": "2026-06-16T21:36:30Z",
+  "metadata": {
+    "title": "Exeräise",
+    "artist": "Zeffon",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 959,
+    "duration_human": "00:15:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Mesmerize (Intro)",
+      "02 Zeffon - The Cloaked Stranger",
+      "03 Zeffon - Shrouded Woods",
+      "04 Zeffon - Reve"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/exeraise_4e21a12ca637"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/5cc54d2f4cd4e0c3f13e/Exer_ise.tar"
+    }
+  }
+}
