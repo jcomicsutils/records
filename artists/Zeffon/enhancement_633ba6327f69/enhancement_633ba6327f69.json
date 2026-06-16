@@ -1,0 +1,32 @@
+{
+  "id": "enhancement_633ba6327f69",
+  "fingerprint": "633ba6327f69d43c33ea9c6e063236d33ba0bb489eb92c0d0583e6679b48a388",
+  "archived_at": "2026-06-16T01:42:15Z",
+  "metadata": {
+    "title": "Enhancement",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3620,
+    "duration_human": "01:00:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Sirius, Part 3",
+      "02 Zeffon - Mertaja",
+      "03 Zeffon - Sil Capitria, Part 3",
+      "04 Zeffon - Lijanallo",
+      "05 Zeffon - Nmbasa",
+      "06 Zeffon - Enhancement"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/enhancement_633ba6327f69"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/26be009e64b11937684f/Enhancement.tar"
+    }
+  }
+}
