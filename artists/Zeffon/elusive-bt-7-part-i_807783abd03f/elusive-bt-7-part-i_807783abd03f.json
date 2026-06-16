@@ -1,0 +1,33 @@
+{
+  "id": "elusive-bt-7-part-i_807783abd03f",
+  "fingerprint": "807783abd03f1c6fc810a37422165b777a325bf9ecf204d9450033a21cb09fcd",
+  "archived_at": "2026-06-16T00:31:08Z",
+  "metadata": {
+    "title": "Elusive BT-7 (Part I)",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1758,
+    "duration_human": "00:29:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - He Was... (Part I of II)",
+      "02 Zeffon - Understanding",
+      "03 Zeffon - His Heart Was Out For Her",
+      "04 Zeffon - Ritualistic Suicide (12'' Chopped Mix)",
+      "05 Zeffon - Grandeur (Part I of II)",
+      "06 Zeffon - A White Glassy Liquid (Shellshock Tribute, Part II of II)",
+      "07 Zeffon - Displaced Electricity"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/elusive-bt-7-part-i_807783abd03f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/5f16d043be0dc5f17ff9/Elusive_BT-7_Part_I.tar"
+    }
+  }
+}
