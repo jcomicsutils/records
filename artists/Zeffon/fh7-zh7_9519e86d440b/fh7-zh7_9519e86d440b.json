@@ -1,0 +1,27 @@
+{
+  "id": "fh7-zh7_9519e86d440b",
+  "fingerprint": "9519e86d440b8fb4b2c70df76b91f83800afd7543d5685cff5fd0f0a8566a634",
+  "archived_at": "2026-06-16T23:41:34Z",
+  "metadata": {
+    "title": "FH7 ZH7",
+    "artist": "Zeffon",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 393,
+    "duration_human": "00:06:33",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - FH7 ZH7"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fh7-zh7_9519e86d440b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/fcf884bd2b7df555dcfa/FH7_ZH7.tar"
+    }
+  }
+}
