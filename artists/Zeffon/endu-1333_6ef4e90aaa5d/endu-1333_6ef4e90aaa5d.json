@@ -1,0 +1,29 @@
+{
+  "id": "endu-1333_6ef4e90aaa5d",
+  "fingerprint": "6ef4e90aaa5d3de81d5b94ce24da1f0346b8155508428c3f4bf5a16043768271",
+  "archived_at": "2026-06-16T01:15:35Z",
+  "metadata": {
+    "title": "Endu_ 1333",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 7804,
+    "duration_human": "02:10:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Report: Page 3",
+      "02 Zeffon - Report: Page 4",
+      "03 Zeffon - Report: Page 28"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/endu-1333_6ef4e90aaa5d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/695d0445b4aadeffe1aa/Endu_1333.tar"
+    }
+  }
+}
