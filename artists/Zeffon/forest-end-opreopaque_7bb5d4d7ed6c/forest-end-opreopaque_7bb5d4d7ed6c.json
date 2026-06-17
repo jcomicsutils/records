@@ -1,0 +1,29 @@
+{
+  "id": "forest-end-opreopaque_7bb5d4d7ed6c",
+  "fingerprint": "7bb5d4d7ed6c3ab20e45889e1fa0a0f8a879f59c932d27d26f0f37a06a68fa4e",
+  "archived_at": "2026-06-17T01:51:57Z",
+  "metadata": {
+    "title": "Forest End Opreopaque",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 10847,
+    "duration_human": "03:00:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Betwik-Vebjdifferaétrancté Goon",
+      "02 Zeffon - Bualoprxewabn",
+      "03 Zeffon - Her Graphite, My Döghedprze"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/forest-end-opreopaque_7bb5d4d7ed6c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/976208f2f509658b13f7/Forest_End_Opreopaque.tar"
+    }
+  }
+}
