@@ -1,0 +1,28 @@
+{
+  "id": "from-a-place-of-love_3ec3ea22ff7c",
+  "fingerprint": "3ec3ea22ff7c2404352678ae8d7ff6d6f19b2367888c3d17bb3be3795f7b79e2",
+  "archived_at": "2026-06-17T02:56:28Z",
+  "metadata": {
+    "title": "From a Place of Love",
+    "artist": "Zeffon",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4789,
+    "duration_human": "01:19:49",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Audit Floor #44102",
+      "02 Zeffon - 4% Longitude"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/from-a-place-of-love_3ec3ea22ff7c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/94ffa047dcb763593aa4/From_a_Place_of_Love.tar"
+    }
+  }
+}
