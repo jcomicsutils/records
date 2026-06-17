@@ -1,0 +1,33 @@
+{
+  "id": "fruitless-harvest-moon_2f7c980f6017",
+  "fingerprint": "2f7c980f6017651f39a21137742299970b30c83f05d8d214b7b6312ecb29209f",
+  "archived_at": "2026-06-17T04:25:55Z",
+  "metadata": {
+    "title": "Fruitless Harvest Moon",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2499,
+    "duration_human": "00:41:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Fruitless Harvest Moon",
+      "02 Zeffon - Dark Columns",
+      "03 Zeffon - Valley",
+      "04 Zeffon - Submarine",
+      "05 Zeffon - Blue Moon",
+      "06 Zeffon - Attic (Sound the Alarm)",
+      "07 Zeffon - Circle of Fear"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fruitless-harvest-moon_2f7c980f6017"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/346247fba9ace6eb4ac8/Fruitless_Harvest_Moon.tar"
+    }
+  }
+}
