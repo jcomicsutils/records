@@ -1,0 +1,28 @@
+{
+  "id": "forward_b84aeb320612",
+  "fingerprint": "b84aeb32061252e3068f8d3a663e4b2978cf1cada755f9bb65f89c2f19b4e958",
+  "archived_at": "2026-06-17T02:17:42Z",
+  "metadata": {
+    "title": "Forward!",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 8370,
+    "duration_human": "02:19:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Exorcism",
+      "02 Zeffon - The Road to Heaven"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/forward_b84aeb320612"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/0c04eedbadb116d20d3b/Forward.tar"
+    }
+  }
+}
