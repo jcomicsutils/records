@@ -1,0 +1,37 @@
+{
+  "id": "greenery_aeb52d582354",
+  "fingerprint": "aeb52d5823547a9bb897798918f0114bf81ccd70db705d5e324d34dd3f5ecf9f",
+  "archived_at": "2026-06-17T23:47:02Z",
+  "metadata": {
+    "title": "Greenery",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 10730,
+    "duration_human": "02:58:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Moving Ahead",
+      "02 Zeffon - Mixture Gas Blooms",
+      "03 Zeffon - Beautiful Thermokarst",
+      "04 Zeffon - Straw and Dried Grass",
+      "05 Zeffon - Song of Terrible Religion",
+      "06 Zeffon - Drugs Approved By the State",
+      "07 Zeffon - Dead Drums II",
+      "08 Zeffon - Ceramic Jars",
+      "09 Zeffon - Exeräise (Jay Watchers, Greenery)",
+      "10 Zeffon - Heaven",
+      "11 Zeffon - The 15th Hour"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/greenery_aeb52d582354"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/a81bae07b672d87bcc67/Greenery.tar"
+    }
+  }
+}
