@@ -1,0 +1,32 @@
+{
+  "id": "grey-fascination_9a6258b3398b",
+  "fingerprint": "9a6258b3398b2b759b54d7deab62e57ec8fc95cce299678bff2d4c9d798e455d",
+  "archived_at": "2026-06-17T23:51:05Z",
+  "metadata": {
+    "title": "Grey Fascination",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3119,
+    "duration_human": "00:51:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Dragänsword",
+      "02 Zeffon - Tribal Decay Dance",
+      "03 Zeffon - Creative Lunacy",
+      "04 Zeffon - Opëillajja (Creative Lunacy Remix, 2014)",
+      "05 Zeffon - Killing Fields (Asma pain_ for deep thought)",
+      "06 Zeffon - Lotus"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/grey-fascination_9a6258b3398b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/733c69fdb70560bf3265/Grey_Fascination.tar"
+    }
+  }
+}
