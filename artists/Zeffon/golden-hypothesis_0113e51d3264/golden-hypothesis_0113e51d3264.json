@@ -1,0 +1,44 @@
+{
+  "id": "golden-hypothesis_0113e51d3264",
+  "fingerprint": "0113e51d3264ee42015fa93da3001881aa12df9134bce5d339fbff4229659ec6",
+  "archived_at": "2026-06-17T23:29:25Z",
+  "metadata": {
+    "title": "Golden Hypothesis",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 18,
+    "duration_seconds": 40621,
+    "duration_human": "11:17:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Safer Than Anything Else",
+      "02 Zeffon - Tar Black Waters",
+      "03 Zeffon - Before It",
+      "04 Zeffon - Sil Capitria (219)",
+      "05 Zeffon - Untitled (1)",
+      "06 Zeffon - Untitled (2)",
+      "07 Zeffon - Untitled (3)",
+      "08 Zeffon - Untitled (4)",
+      "09 Zeffon - Untitled (5)",
+      "10 Zeffon - Untitled (6)",
+      "11 Zeffon - Untitled (7)",
+      "12 Zeffon - Untitled (8)",
+      "13 Zeffon - Untitled (9)",
+      "14 Zeffon - Untitled (10)",
+      "15 Zeffon - Untitled (11)",
+      "16 Zeffon - Untitled (12)",
+      "17 Zeffon - Untitled (13)",
+      "18 Zeffon - Untitled (14)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/golden-hypothesis_0113e51d3264"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/9236f6908501f8c915ed/Golden_Hypothesis.tar"
+    }
+  }
+}
