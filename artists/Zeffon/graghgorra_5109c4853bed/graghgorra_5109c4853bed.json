@@ -1,0 +1,29 @@
+{
+  "id": "graghgorra_5109c4853bed",
+  "fingerprint": "5109c4853bedae815eea39a6ba16cf6a43ed79c180a42784315b3f3a47749bfc",
+  "archived_at": "2026-06-17T23:35:36Z",
+  "metadata": {
+    "title": "Graghgorra",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 5457,
+    "duration_human": "01:30:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Unkardiad (Lord of the Flies)",
+      "02 Zeffon - Human Bradyzoites, Pt. 1",
+      "03 Zeffon - Graghgorra"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/graghgorra_5109c4853bed"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/e2aeac7439a1779b7a16/Graghgorra.tar"
+    }
+  }
+}
