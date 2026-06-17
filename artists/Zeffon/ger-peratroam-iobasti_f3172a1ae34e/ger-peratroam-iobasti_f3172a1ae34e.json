@@ -1,0 +1,33 @@
+{
+  "id": "ger-peratroam-iobasti_f3172a1ae34e",
+  "fingerprint": "f3172a1ae34e76441cd3de6b264847f48ff201b8d082bdbd8149aa3263981e5e",
+  "archived_at": "2026-06-17T21:02:05Z",
+  "metadata": {
+    "title": "Ger Peratröam Iobasti",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3891,
+    "duration_human": "01:04:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Blchhu",
+      "02 Zeffon - Omgrae00H",
+      "03 Zeffon - S28",
+      "04 Zeffon - Love the Right Things",
+      "05 Zeffon - Tribal-Urban (Part II of X)",
+      "06 Zeffon - S27",
+      "07 Zeffon - Sound of Pig (Control 12'' Mix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ger-peratroam-iobasti_f3172a1ae34e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/e41962445dc4016fe620/Ger_Peratr_am_Iobasti.tar"
+    }
+  }
+}
