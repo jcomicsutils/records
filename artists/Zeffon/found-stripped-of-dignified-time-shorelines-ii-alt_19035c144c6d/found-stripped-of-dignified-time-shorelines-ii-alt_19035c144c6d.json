@@ -1,0 +1,28 @@
+{
+  "id": "found-stripped-of-dignified-time-shorelines-ii-alt_19035c144c6d",
+  "fingerprint": "19035c144c6dea871a5d93d8baa47561d2eba9bd77e898dac31d22ced23c1b2d",
+  "archived_at": "2026-06-17T02:19:00Z",
+  "metadata": {
+    "title": "Found Stripped of Dignified Time (Shorelines II Alt.)",
+    "artist": "Zeffon",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 640,
+    "duration_human": "00:10:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Great Limb Forest (Stunted Version)",
+      "02 Zeffon - I'm Afraid of the Dark"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/found-stripped-of-dignified-time-shorelines-ii-alt_19035c144c6d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/29b83842edde10732f7c/Found_Stripped_of_Dignified_Time_Shorelines_II_Alt.tar"
+    }
+  }
+}
