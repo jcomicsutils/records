@@ -1,0 +1,38 @@
+{
+  "id": "fluid-compression_5c3d3a2387fe",
+  "fingerprint": "5c3d3a2387fee6a88ac408e374655dee04037b2f928b5aac263f30f8310ec6ff",
+  "archived_at": "2026-06-17T00:05:47Z",
+  "metadata": {
+    "title": "Fluid Compression",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 9295,
+    "duration_human": "02:34:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Space Patrol",
+      "02 Zeffon - Scared Coyotes",
+      "03 Zeffon - Lumina",
+      "04 Zeffon - Zeraad Nothias",
+      "05 Zeffon - Zeraad Olicaratid",
+      "06 Zeffon - Claire",
+      "07 Zeffon - Zeraad Bochaulade",
+      "08 Zeffon - Garitamao",
+      "09 Zeffon - Zeraad Proteizen",
+      "10 Zeffon - Zerrad Youa",
+      "11 Zeffon - Lineao",
+      "12 Zeffon - Zeraad Unilaad"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fluid-compression_5c3d3a2387fe"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/7af2c440f4e1ca27b60c/Fluid_Compression.tar"
+    }
+  }
+}
