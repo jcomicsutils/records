@@ -1,0 +1,33 @@
+{
+  "id": "grey-fire_144e8fb9c06d",
+  "fingerprint": "144e8fb9c06d3cc0bd4bdda14bbc5d428c767109cad905811e4f7c17e38530c6",
+  "archived_at": "2026-06-17T23:56:06Z",
+  "metadata": {
+    "title": "Grey Fire",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 4769,
+    "duration_human": "01:19:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Chemists (Ruins With Waters)",
+      "02 Zeffon - Cejare Born",
+      "03 Zeffon - Ethnicities River",
+      "04 Zeffon - Drive",
+      "05 Zeffon - Concept",
+      "06 Zeffon - Source of the Flow",
+      "07 Zeffon - Low Land"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/grey-fire_144e8fb9c06d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/cb6f9f6b0db546950c4a/Grey_Fire.tar"
+    }
+  }
+}
