@@ -1,0 +1,35 @@
+{
+  "id": "for-the-dead-a-song-of-permafrost_e269657625c4",
+  "fingerprint": "e269657625c48901b666378fd733c852528a2f528c940dddf4870f9f07494cbb",
+  "archived_at": "2026-06-17T00:21:02Z",
+  "metadata": {
+    "title": "For the Dead, A Song of Permafrost",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 4399,
+    "duration_human": "01:13:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Zeffon - ...and a Strange Prince",
+      "02 Zeffon - The Mighty King",
+      "03 Zeffon - Stay the Advances",
+      "04 Zeffon - Noises in the Night",
+      "05 Zeffon - Ritualistic White Magic",
+      "06 Zeffon - Dark Rainwater",
+      "07 Zeffon - For the Dead, A Song of Permafrost",
+      "08 Zeffon - Ratikonat",
+      "09 Zeffon - Endsong"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/for-the-dead-a-song-of-permafrost_e269657625c4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/c9198dcde51cbe55feac/For_the_Dead_A_Song_of_Permafrost.tar"
+    }
+  }
+}
