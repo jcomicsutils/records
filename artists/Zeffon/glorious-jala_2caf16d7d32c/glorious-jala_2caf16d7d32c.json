@@ -1,0 +1,28 @@
+{
+  "id": "glorious-jala_2caf16d7d32c",
+  "fingerprint": "2caf16d7d32c1de26aedfce5e4781c06cde9918d90565e8bb73ec1e09ddc38e3",
+  "archived_at": "2026-06-17T21:42:59Z",
+  "metadata": {
+    "title": "Glorious Jala",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 680,
+    "duration_human": "00:11:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Glorious Jala",
+      "02 Zeffon - Frontier Town of Barra"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/glorious-jala_2caf16d7d32c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/f849362b666ffd4b65cd/Glorious_Jala.tar"
+    }
+  }
+}
