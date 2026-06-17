@@ -1,0 +1,28 @@
+{
+  "id": "gratitude_29e6da0f461d",
+  "fingerprint": "29e6da0f461d7357631b3f78b887640227e61477a7555132ddcde82fe97a8065",
+  "archived_at": "2026-06-17T23:40:20Z",
+  "metadata": {
+    "title": "Gratitude",
+    "artist": "Argon Lo Curránt",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 531,
+    "duration_human": "00:08:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Argon Lo Curránt - How Btro Doû Th Livey",
+      "02 Argon Lo Curránt - The Ration that Refuses to Be Eaten (Scarred)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/gratitude_29e6da0f461d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/bc6a1baafeaf9f983be2/Gratitude.tar"
+    }
+  }
+}
