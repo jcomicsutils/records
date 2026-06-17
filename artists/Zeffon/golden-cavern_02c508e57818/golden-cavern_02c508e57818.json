@@ -1,0 +1,28 @@
+{
+  "id": "golden-cavern_02c508e57818",
+  "fingerprint": "02c508e57818fc1631ce4df9f8748d5621d197dbc65d9e9471c6ee4553d0eac4",
+  "archived_at": "2026-06-17T22:05:05Z",
+  "metadata": {
+    "title": "Golden Cavern",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4452,
+    "duration_human": "01:14:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Golden Cavern",
+      "02 Zeffon - Skunk Law"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/golden-cavern_02c508e57818"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/4a892a876ad6403f3780/Golden_Cavern.tar"
+    }
+  }
+}
