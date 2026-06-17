@@ -1,0 +1,28 @@
+{
+  "id": "for-the-health-of-the-state-please-whistle_75634f9e5a85",
+  "fingerprint": "75634f9e5a85d1027335f51bf1c16a4f3f388b40cb9502151ffaed957e522272",
+  "archived_at": "2026-06-17T00:51:59Z",
+  "metadata": {
+    "title": "For the health of the state, please whistle",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5465,
+    "duration_human": "01:31:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Health of the State",
+      "02 Zeffon - Bwaga"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/for-the-health-of-the-state-please-whistle_75634f9e5a85"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/5260320c4f345ec767cc/For_the_health_of_the_state_please_whistle.tar"
+    }
+  }
+}
