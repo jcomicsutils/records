@@ -1,0 +1,27 @@
+{
+  "id": "fomitiporia-ellipsoidea_d43777390412",
+  "fingerprint": "d437773904126df77081b8d862192c144107fe0d7a99978e6b7199613b5929e8",
+  "archived_at": "2026-06-17T00:11:18Z",
+  "metadata": {
+    "title": "Fomitiporia ellipsoidea",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1095,
+    "duration_human": "00:18:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Fomitiporia ellipsoidea (Single)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fomitiporia-ellipsoidea_d43777390412"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/623a059c2c784a435652/Fomitiporia_ellipsoidea.tar"
+    }
+  }
+}
