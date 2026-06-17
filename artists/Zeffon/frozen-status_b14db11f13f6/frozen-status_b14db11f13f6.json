@@ -1,0 +1,37 @@
+{
+  "id": "frozen-status_b14db11f13f6",
+  "fingerprint": "b14db11f13f607d9db3f83851d52b5030c8c6b310742702c85faca95054b2a7e",
+  "archived_at": "2026-06-17T04:23:25Z",
+  "metadata": {
+    "title": "Frozen Status",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 9625,
+    "duration_human": "02:40:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Dem Chemtrail",
+      "02 Zeffon - Give Me Some Lovin'",
+      "03 Zeffon - Apply Adhesive Here, Part 15",
+      "04 Zeffon - Integer of Clauiookmäsc (80)",
+      "05 Zeffon - Noisy (1928, December)",
+      "06 Zeffon - Dangerous Primitive",
+      "07 Zeffon - Frozen Optimum",
+      "08 Zeffon - Apply Adhesive Here, Part 14/3",
+      "09 Zeffon - Bôûkblujôûi (1928, April)",
+      "10 Zeffon - Bekblujay (3/4)",
+      "11 Zeffon - Frozen Optimum, Part 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/frozen-status_b14db11f13f6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/6927cfe5adaddc6024c8/Frozen_Status.tar"
+    }
+  }
+}
