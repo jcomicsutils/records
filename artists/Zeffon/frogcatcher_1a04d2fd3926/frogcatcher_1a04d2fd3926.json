@@ -1,0 +1,43 @@
+{
+  "id": "frogcatcher_1a04d2fd3926",
+  "fingerprint": "1a04d2fd392607bbf0bb00519c131d15080916a28a68b10a591251266ba954ed",
+  "archived_at": "2026-06-17T02:48:55Z",
+  "metadata": {
+    "title": "Frogcatcher",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_seconds": 8291,
+    "duration_human": "02:18:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Visual Decay",
+      "02 Zeffon - Ymousdeluge",
+      "03 Zeffon - Decaying Angel (Reprise)",
+      "04 Zeffon - XIII: Xezbr",
+      "05 Zeffon - Mind?",
+      "06 Zeffon - Hidden Era",
+      "07 Zeffon - Ghost of Someone Else, Long Since Dead",
+      "08 Zeffon - Conrad Small",
+      "09 Zeffon - Magnamout",
+      "10 Zeffon - Repominae",
+      "11 Zeffon - Poisoned Glass",
+      "12 Zeffon - XI: Opehla Goesiadu Garma",
+      "13 Zeffon - Lakeside Cabin",
+      "14 Zeffon - Frogcatcher",
+      "15 Zeffon - Vapuora",
+      "16 Zeffon - The Emperor's Facility",
+      "17 Zeffon - Bogman"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/frogcatcher_1a04d2fd3926"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/b4d6d559d8cf807b577b/Frogcatcher.tar"
+    }
+  }
+}
