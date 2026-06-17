@@ -1,0 +1,30 @@
+{
+  "id": "freaks-and-their-attitude_ae404c0a8d8c",
+  "fingerprint": "ae404c0a8d8c9745b4d2361ab5bdebee08ce313b1ca7a2dbaa061ae285c8196b",
+  "archived_at": "2026-06-17T02:32:21Z",
+  "metadata": {
+    "title": "Freaks and Their Attitude",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 6511,
+    "duration_human": "01:48:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Looping O",
+      "02 Zeffon - Attitude Bjhaj",
+      "03 Zeffon - Love",
+      "04 Zeffon - Homaghjra"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/freaks-and-their-attitude_ae404c0a8d8c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/a1e40ef83143a512d49a/Freaks_and_Their_Attitude.tar"
+    }
+  }
+}
