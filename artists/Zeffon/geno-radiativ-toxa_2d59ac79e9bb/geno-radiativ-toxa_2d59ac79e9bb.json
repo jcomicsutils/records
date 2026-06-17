@@ -1,0 +1,35 @@
+{
+  "id": "geno-radiativ-toxa_2d59ac79e9bb",
+  "fingerprint": "2d59ac79e9bb3dfb095b9ecbfe99bdf4994f425db1a6298eebfd6f15ba73b735",
+  "archived_at": "2026-06-17T20:54:03Z",
+  "metadata": {
+    "title": "Geno Radiativ Toxa",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 5371,
+    "duration_human": "01:29:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Exit Time",
+      "02 Zeffon - Tadpole",
+      "03 Zeffon - One Thousand",
+      "04 Zeffon - Dr. Havas",
+      "05 Zeffon - Alien Music",
+      "06 Zeffon - Stuka-food",
+      "07 Zeffon - Microwave Radiation",
+      "08 Zeffon - Straump Trousse",
+      "09 Zeffon - The Plant of Life"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/geno-radiativ-toxa_2d59ac79e9bb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/c04680302642b60ee135/Geno_Radiativ_Toxa.tar"
+    }
+  }
+}
