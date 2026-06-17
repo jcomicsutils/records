@@ -1,0 +1,28 @@
+{
+  "id": "grass-in-the-early-earthquake-dub_8c056828f765",
+  "fingerprint": "8c056828f765761a95b65da5ff10afcf5f8a4400ce1ee183cba294f01aeefa13",
+  "archived_at": "2026-06-17T23:37:46Z",
+  "metadata": {
+    "title": "Grass in the Early Earthquake Dub",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 604,
+    "duration_human": "00:10:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Shrade",
+      "02 Zeffon - Traade Stuffs"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/grass-in-the-early-earthquake-dub_8c056828f765"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/72d98e963058d4db9390/Grass_in_the_Early_Earthquake_Dub.tar"
+    }
+  }
+}
