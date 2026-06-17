@@ -1,0 +1,29 @@
+{
+  "id": "freezing-temperatures_986ba4f6a107",
+  "fingerprint": "986ba4f6a107266c9aebff052c95a9bcf3d1412df31d73dd91837c2bd932fd68",
+  "archived_at": "2026-06-17T02:43:10Z",
+  "metadata": {
+    "title": "Freezing Temperatures",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4418,
+    "duration_human": "01:13:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Ancient Way",
+      "02 Zeffon - Departure Voice",
+      "03 Zeffon - Never You - No"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/freezing-temperatures_986ba4f6a107"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/4b6cf1b8166828ffaa36/Freezing_Temperatures.tar"
+    }
+  }
+}
