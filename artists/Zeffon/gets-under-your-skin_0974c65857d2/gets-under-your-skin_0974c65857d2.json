@@ -1,0 +1,28 @@
+{
+  "id": "gets-under-your-skin_0974c65857d2",
+  "fingerprint": "0974c65857d22d5c2beff2956f78399e7369eece8c39d26b33fcf0f12d2f8225",
+  "archived_at": "2026-06-17T21:38:20Z",
+  "metadata": {
+    "title": "Gets Under Your Skin",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 6133,
+    "duration_human": "01:42:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Side A",
+      "02 Zeffon - Side B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/gets-under-your-skin_0974c65857d2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/b7100141fd2f3307d4bd/Gets_Under_Your_Skin.tar"
+    }
+  }
+}
