@@ -1,0 +1,27 @@
+{
+  "id": "forest-of-joy_b8f76c9aa1e3",
+  "fingerprint": "b8f76c9aa1e30f1f988950f0612a07f82f1a3f53e3c4ae6b927499421ddec710",
+  "archived_at": "2026-06-17T01:54:30Z",
+  "metadata": {
+    "title": "Forest of Joy",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1870,
+    "duration_human": "00:31:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Factory Machines"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/forest-of-joy_b8f76c9aa1e3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/29563c76f245b5704fa0/Forest_of_Joy.tar"
+    }
+  }
+}
