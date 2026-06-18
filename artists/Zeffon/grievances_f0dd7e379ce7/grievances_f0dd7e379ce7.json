@@ -1,0 +1,34 @@
+{
+  "id": "grievances_f0dd7e379ce7",
+  "fingerprint": "f0dd7e379ce7d713b7c3d2467eef557385388568c843b10088cc983f45887d37",
+  "archived_at": "2026-06-18T00:20:30Z",
+  "metadata": {
+    "title": "Grievances",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2936,
+    "duration_human": "00:48:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Discovery",
+      "02 Zeffon - An Ominous Daybreak",
+      "03 Zeffon - Carpet Bombing",
+      "04 Zeffon - radioFUTURE",
+      "05 Zeffon - Wooden Teeth",
+      "06 Zeffon - Locust",
+      "07 Zeffon - Shadows of the Past",
+      "08 Zeffon - March of the Silverpseudosquares",
+      "09 Zeffon - O23",
+      "10 Zeffon - Grievances",
+      "11 Zeffon - Block 6"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/cacce0f2912a7626b548/Grievances.tar"
+    }
+  }
+}
