@@ -1,0 +1,25 @@
+{
+  "id": "greyhoolad_e19f831522d1",
+  "fingerprint": "e19f831522d1e7b0b27d2d7bd81b179a4afa9639c5551241c5eda186ef0660c4",
+  "archived_at": "2026-06-18T00:19:11Z",
+  "metadata": {
+    "title": "Greyhoólad",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5683,
+    "duration_human": "01:34:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Collapse Martyr",
+      "02 Zeffon - Greyhoólad-Monsoon 4 (The Green Veil)"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta6/46eed30632f311279828/Greyho_lad.tar"
+    }
+  }
+}
