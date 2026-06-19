@@ -1,0 +1,38 @@
+{
+  "id": "heesarotruna_fbd6d943ab9e",
+  "fingerprint": "fbd6d943ab9e856d031d747f28cfdba94c740b264be024f349bf605bdd9bdd6f",
+  "archived_at": "2026-06-19T23:56:53Z",
+  "metadata": {
+    "title": "Heesarotruna",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 11698,
+    "duration_human": "03:14:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Mero",
+      "02 Zeffon - Everfrost",
+      "03 Zeffon - Gnata-Musca",
+      "04 Zeffon - Hostage",
+      "05 Zeffon - Inside Heresh Mel - A Noll",
+      "06 Zeffon - Feeling Far Away",
+      "07 Zeffon - Anthim of Glouries R.Stevce K.",
+      "08 Zeffon - Heesarotruna",
+      "09 Zeffon - Katella",
+      "10 Zeffon - Rast Mronfastioa",
+      "11 Zeffon - Cethrinyk Lave",
+      "12 Zeffon - Rast Urt"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/heesarotruna_fbd6d943ab9e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/5be329201645ee794f15/Heesarotruna.tar"
+    }
+  }
+}
