@@ -1,0 +1,32 @@
+{
+  "id": "hands-in-the-water_936ca097f5da",
+  "fingerprint": "936ca097f5daa4cb7d3078349a48ca3f7a7a650b6fdc4bd54aab2e803abc025b",
+  "archived_at": "2026-06-19T21:48:03Z",
+  "metadata": {
+    "title": "Hands in the Water",
+    "artist": "Zeffon",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2784,
+    "duration_human": "00:46:24",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Years / Cromagazine UFO Swing",
+      "02 Zeffon - Lücid Memories",
+      "03 Zeffon - Afterj / M",
+      "04 Zeffon - M",
+      "05 Zeffon - Argon Gallery of Rotten Souls (Distinction)",
+      "06 Zeffon - Hands in the Water"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hands-in-the-water_936ca097f5da"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/f8d43f4a2b4a97a77f75/Hands_in_the_Water.tar"
+    }
+  }
+}
