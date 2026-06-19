@@ -1,0 +1,30 @@
+{
+  "id": "happening-tomorrow_24f90c625ec0",
+  "fingerprint": "24f90c625ec01206aab6e39b30bf7bb44d517c7988fd046eda9259ff42c15bb0",
+  "archived_at": "2026-06-19T21:50:03Z",
+  "metadata": {
+    "title": "Happening Tomorrow",
+    "artist": "Zeffon",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1309,
+    "duration_human": "00:21:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Land-render (#50)",
+      "02 Zeffon - A Pink Fan",
+      "03 Zeffon - Dark Art Penmanship",
+      "04 Zeffon - Unwelcome Spirits"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/happening-tomorrow_24f90c625ec0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/13ba622d05f58c1f5060/Happening_Tomorrow.tar"
+    }
+  }
+}
