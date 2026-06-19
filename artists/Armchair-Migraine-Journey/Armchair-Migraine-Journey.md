@@ -1,0 +1,5 @@
+# Armchair Migraine Journey
+
+| Album | Year | Codec | Duration | Hosts |
+|-------|------|-------|----------|-------|
+| [Songs for Katla :Hallucination Station:](songs-for-katla-hallucination-station_9ac0c9c7dc8a/songs-for-katla-hallucination-station_9ac0c9c7dc8a.md) | 2026 | FLAC | 00:59:43 | [IA](https://archive.org/details/songs-for-katla-hallucination-station_9ac0c9c7dc8a) [FileDitch](https://fileditchfiles.me/beta7/405116366a788600639d/Songs_for_Katla_Hallucination_Station.tar) |

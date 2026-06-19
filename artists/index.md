@@ -13,6 +13,7 @@
 - [Argon Beams / Zeffon](Argon-Beams-Zeffon/Argon-Beams-Zeffon.md)
 - [Argon Lo Curránt](Argon-Lo-Curránt/Argon-Lo-Curránt.md)
 - [Armand Hammer](Armand-Hammer/Armand-Hammer.md)
+- [Armchair Migraine Journey](Armchair-Migraine-Journey/Armchair-Migraine-Journey.md)
 - [Arthur Russell](Arthur-Russell/Arthur-Russell.md)
 - [BLARF](BLARF/BLARF.md)
 - [Bardo Todol](Bardo-Todol/Bardo-Todol.md)

@@ -1,0 +1,30 @@
+{
+  "id": "songs-for-katla-hallucination-station_9ac0c9c7dc8a",
+  "fingerprint": "9ac0c9c7dc8a83ed7db1684a9070eb0cac69e5f659f55a7f3f61d9770d63f402",
+  "archived_at": "2026-06-19T21:00:08Z",
+  "metadata": {
+    "title": "Songs for Katla :Hallucination Station:",
+    "artist": "Armchair Migraine Journey",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3583,
+    "duration_human": "00:59:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Armchair Migraine Journey - (Part One)",
+      "02 Armchair Migraine Journey - (Part Two)",
+      "03 Armchair Migraine Journey - (Part Three)",
+      "04 Armchair Migraine Journey - (Part Four)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/songs-for-katla-hallucination-station_9ac0c9c7dc8a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/405116366a788600639d/Songs_for_Katla_Hallucination_Station.tar"
+    }
+  }
+}
