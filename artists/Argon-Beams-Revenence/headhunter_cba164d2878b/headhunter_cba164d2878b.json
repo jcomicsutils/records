@@ -1,0 +1,37 @@
+{
+  "id": "headhunter_cba164d2878b",
+  "fingerprint": "cba164d2878b204cf8508f41183d9bd595e495f8e0bea0d9b0f2daf3aadf4f89",
+  "archived_at": "2026-06-19T22:09:24Z",
+  "metadata": {
+    "title": "Headhunter",
+    "artist": "Argon Beams / Revenence",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 4522,
+    "duration_human": "01:15:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Argon Beams - Edge of the Unknown, A Bouquet of Roses For Mother",
+      "02 Argon Beams - Headhunter",
+      "03 Argon Beams - Mountain of Snow",
+      "04 Argon Beams - Cabbage",
+      "05 Argon Beams - Kili",
+      "06 Revenence - Epipogium aphyllum",
+      "07 Argon Beams - Aesthetic Monotony",
+      "08 Argon Beams - Deathbooks",
+      "09 Revenence - Aesthetic Rage",
+      "10 Argon Beams - Book of the Dead",
+      "11 Argon Beams - The Burning of Plentiful Fields"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/headhunter_cba164d2878b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/b38c4aa8079003f87468/Headhunter.tar"
+    }
+  }
+}
