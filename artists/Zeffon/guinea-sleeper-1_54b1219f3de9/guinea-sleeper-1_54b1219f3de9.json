@@ -1,0 +1,30 @@
+{
+  "id": "guinea-sleeper-1_54b1219f3de9",
+  "fingerprint": "54b1219f3de904c0e907cd8191afb3792d67641dd41275a21cf925e4fe6d5fdd",
+  "archived_at": "2026-06-19T21:02:48Z",
+  "metadata": {
+    "title": "Guinea Sleeper 1",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 287,
+    "duration_human": "00:04:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Rubbôr Fordlandia Tree",
+      "02 Zeffon - Be Still and Don't Move",
+      "03 Zeffon - Water Worries",
+      "04 Zeffon - Be An Insect"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/guinea-sleeper-1_54b1219f3de9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/605c14a8bb30676b2b15/Guinea_Sleeper_1.tar"
+    }
+  }
+}
