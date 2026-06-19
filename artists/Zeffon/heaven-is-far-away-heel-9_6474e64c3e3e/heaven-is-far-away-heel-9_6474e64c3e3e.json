@@ -1,0 +1,35 @@
+{
+  "id": "heaven-is-far-away-heel-9_6474e64c3e3e",
+  "fingerprint": "6474e64c3e3e9c9aa62adb84b230b5cb61c3539667d8c2a3e9746a144d906671",
+  "archived_at": "2026-06-19T22:38:40Z",
+  "metadata": {
+    "title": "Heaven is Far Away (Heel 9)",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 8566,
+    "duration_human": "02:22:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Guinea 2",
+      "02 Zeffon - Die",
+      "03 Zeffon - Heaven is Far Away",
+      "04 Zeffon - Kluster (Extract 2)",
+      "05 Zeffon - Rakhaiio",
+      "06 Zeffon - Nearer to Energy",
+      "07 Zeffon - Sickness",
+      "08 Zeffon - The Time Is Now",
+      "09 Zeffon - Heel 9 (Small)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/heaven-is-far-away-heel-9_6474e64c3e3e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/d734f63002e85848b645/Heaven_is_Far_Away_Heel_9.tar"
+    }
+  }
+}
