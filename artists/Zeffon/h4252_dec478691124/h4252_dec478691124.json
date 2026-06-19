@@ -1,0 +1,38 @@
+{
+  "id": "h4252_dec478691124",
+  "fingerprint": "dec4786911249aae7c5f37116ca72cff81317ced4eb6642ef52d30fe877fc3cc",
+  "archived_at": "2026-06-19T21:14:17Z",
+  "metadata": {
+    "title": "H/42/52",
+    "artist": "Zeffon",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 4952,
+    "duration_human": "01:22:32",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Snow 3",
+      "02 Zeffon - Snow 2",
+      "03 Zeffon - Corn (DL1)",
+      "04 Zeffon - Never Again",
+      "05 Zeffon - Chocolate (61B)",
+      "06 Zeffon - H (Stick the Landing)",
+      "07 Zeffon - Investments in Knowledge",
+      "08 Zeffon - 42 (Get Out of It)",
+      "09 Zeffon - 52 (Goldfish)",
+      "10 Zeffon - Snow 1",
+      "11 Zeffon - Blueberry",
+      "12 Zeffon - U82/30"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/h4252_dec478691124"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/9ef3c81c01ad10982185/H_-_42_-_52.tar"
+    }
+  }
+}
