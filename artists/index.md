@@ -105,6 +105,7 @@
 - [Zeffon](Zeffon/Zeffon.md)
 - [Zeffon / Generated Missiân ZFN](Zeffon-Generated-Missiân-ZFN/Zeffon-Generated-Missiân-ZFN.md)
 - [Zeffon / Revenence](Zeffon-Revenence/Zeffon-Revenence.md)
+- [Zeffon / Revenence / Argon Beams / Serpentmouth](Zeffon-Revenence-Argon-Beams-Serpentmouth/Zeffon-Revenence-Argon-Beams-Serpentmouth.md)
 - [Black Magick SS](black-magick-ss/black-magick-ss.md)
 - [Opera for Infantry](opera-for-infantry/opera-for-infantry.md)
 - [Violent Magic Orchestra](violent-magic-orchestra/violent-magic-orchestra.md)
