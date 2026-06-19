@@ -1,0 +1,35 @@
+{
+  "id": "group-therapy_0a54a199ff8c",
+  "fingerprint": "0a54a199ff8ca5459b85a668097c51cde6d537df3fc38b55371ea54446fd15b7",
+  "archived_at": "2026-06-19T21:00:48Z",
+  "metadata": {
+    "title": "Group Therapy",
+    "artist": "Zeffon",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 5333,
+    "duration_human": "01:28:53",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Pinch",
+      "02 Zeffon - Drive, Danny",
+      "03 Zeffon - Space and History",
+      "04 Zeffon - Salt Flats",
+      "05 Zeffon - Liché",
+      "06 Zeffon - Grefo Dh 84",
+      "07 Zeffon - Amberland",
+      "08 Zeffon - Dragonfruit",
+      "09 Zeffon - Rather ½"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/group-therapy_0a54a199ff8c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/dbd9c57b364d46c3754f/Group_Therapy.tar"
+    }
+  }
+}
