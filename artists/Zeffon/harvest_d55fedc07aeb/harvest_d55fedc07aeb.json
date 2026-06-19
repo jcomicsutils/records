@@ -1,0 +1,27 @@
+{
+  "id": "harvest_d55fedc07aeb",
+  "fingerprint": "d55fedc07aeb6cdd6fb47e245af43bf71eaa3b6b3eca9f550347fb6ccdd8bc7b",
+  "archived_at": "2026-06-19T21:50:46Z",
+  "metadata": {
+    "title": "Harvest",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 142,
+    "duration_human": "00:02:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Harvest (Single Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/harvest_d55fedc07aeb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/cd2e3019a304e4aa700f/Harvest.tar"
+    }
+  }
+}
