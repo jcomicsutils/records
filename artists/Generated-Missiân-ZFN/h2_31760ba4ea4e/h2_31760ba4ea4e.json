@@ -1,0 +1,29 @@
+{
+  "id": "h2_31760ba4ea4e",
+  "fingerprint": "31760ba4ea4ef633ee8fa0b0ad45c2f6bdda7c48af017b22690a398b2da428a1",
+  "archived_at": "2026-06-19T21:15:53Z",
+  "metadata": {
+    "title": "H2",
+    "artist": "Generated Missiân ZFN",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 127,
+    "duration_human": "00:02:07",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Generated Missiân ZFN - Nh",
+      "02 Generated Missiân ZFN - Gh",
+      "03 Generated Missiân ZFN - Ruin (Ouverture Ver. 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/h2_31760ba4ea4e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/1f8258bcde07e6e4b0a7/H2.tar"
+    }
+  }
+}
