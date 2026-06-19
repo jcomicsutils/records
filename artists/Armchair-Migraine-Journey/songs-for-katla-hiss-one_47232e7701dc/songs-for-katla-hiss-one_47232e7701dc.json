@@ -1,0 +1,28 @@
+{
+  "id": "songs-for-katla-hiss-one_47232e7701dc",
+  "fingerprint": "47232e7701dc0e2c57e7fe6ef49147481e0284032c9385142475224de7583dc4",
+  "archived_at": "2026-06-19T21:30:30Z",
+  "metadata": {
+    "title": "Songs for Katla :Hiss One:",
+    "artist": "Armchair Migraine Journey",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3355,
+    "duration_human": "00:55:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Armchair Migraine Journey - :Hiss One: Side B",
+      "02 Armchair Migraine Journey - :Hiss One: Side A"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/songs-for-katla-hiss-one_47232e7701dc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/296f2a2e1c73631a0448/Songs_for_Katla_Hiss_One.tar"
+    }
+  }
+}
