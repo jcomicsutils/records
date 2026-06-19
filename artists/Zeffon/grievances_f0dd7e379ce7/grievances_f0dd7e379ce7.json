@@ -29,6 +29,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta6/cacce0f2912a7626b548/Grievances.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/grievances_f0dd7e379ce7"
     }
   }
 }

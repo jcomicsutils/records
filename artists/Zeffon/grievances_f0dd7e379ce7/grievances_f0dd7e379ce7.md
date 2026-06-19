@@ -1,5 +1,7 @@
 # Zeffon — Grievances (2012)
 
+![Cover](https://archive.org/download/grievances_f0dd7e379ce7/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta6/cacce0f2912a7626b548/Grievances.tar)
+- [Archive.org](https://archive.org/details/grievances_f0dd7e379ce7)
 
 ## Tracklist
 
