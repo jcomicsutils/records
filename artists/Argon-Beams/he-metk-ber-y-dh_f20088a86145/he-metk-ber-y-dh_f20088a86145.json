@@ -1,0 +1,28 @@
+{
+  "id": "he-metk-ber-y-dh_f20088a86145",
+  "fingerprint": "f20088a8614592f58a18dea7275938bd732c33615199c4917293101dd84aa284",
+  "archived_at": "2026-06-19T21:52:06Z",
+  "metadata": {
+    "title": "He Metk Ber Y Dh",
+    "artist": "Argon Beams",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1971,
+    "duration_human": "00:32:51",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Argon Beams - Yeaers Croazzscine",
+      "02 Argon Beams - He Mask Ther (Causation)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/he-metk-ber-y-dh_f20088a86145"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/84950ec3cec7fa45f454/He_Metk_Ber_Y_Dh.tar"
+    }
+  }
+}
