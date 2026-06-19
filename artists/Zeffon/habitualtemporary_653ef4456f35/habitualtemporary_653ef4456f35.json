@@ -1,0 +1,35 @@
+{
+  "id": "habitualtemporary_653ef4456f35",
+  "fingerprint": "653ef4456f3568002778db164e3936747645663480bfa63b5cb88738b2c20638",
+  "archived_at": "2026-06-19T21:38:36Z",
+  "metadata": {
+    "title": "Habitual=Temporary",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 10445,
+    "duration_human": "02:54:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Get Out of My Face!!!",
+      "02 Zeffon - Cluster Bomb",
+      "03 Zeffon - Large-Sun-Music",
+      "04 Zeffon - Corpses with Hydrogen Burns",
+      "05 Zeffon - Water Treatment Plant",
+      "06 Zeffon - Popular Azure Songs",
+      "07 Zeffon - State-Approved Politics",
+      "08 Zeffon - Dyes",
+      "09 Zeffon - White"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/habitualtemporary_653ef4456f35"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/cfb8b7fccb0f565fb583/Habitual_Temporary.tar"
+    }
+  }
+}
