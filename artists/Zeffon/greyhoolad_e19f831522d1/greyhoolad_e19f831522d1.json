@@ -20,6 +20,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta6/46eed30632f311279828/Greyho_lad.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/greyhoolad_e19f831522d1"
     }
   }
 }

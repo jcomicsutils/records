@@ -1,5 +1,7 @@
 # Zeffon — Greyhoólad (2017)
 
+![Cover](https://archive.org/download/greyhoolad_e19f831522d1/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta6/46eed30632f311279828/Greyho_lad.tar)
+- [Archive.org](https://archive.org/details/greyhoolad_e19f831522d1)
 
 ## Tracklist
 
