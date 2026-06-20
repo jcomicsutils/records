@@ -1,0 +1,29 @@
+{
+  "id": "haoma-030725_d9db7f61718c",
+  "fingerprint": "d9db7f61718c03731f2826f2c2f15019541e3f8c5ccca4141bf5c4b97960952a",
+  "archived_at": "2026-06-20T21:11:46Z",
+  "metadata": {
+    "title": "Haoma 030725",
+    "artist": "urutau",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3302,
+    "duration_human": "00:55:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Urutau - 1",
+      "02 Urutau - 2",
+      "03 Urutau - 3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/haoma-030725_d9db7f61718c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/672dbadcf91e36c8fa35/Haoma_030725.tar"
+    }
+  }
+}
