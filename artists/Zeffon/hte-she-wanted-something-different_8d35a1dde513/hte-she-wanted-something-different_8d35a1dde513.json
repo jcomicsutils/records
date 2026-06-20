@@ -1,0 +1,29 @@
+{
+  "id": "hte-she-wanted-something-different_8d35a1dde513",
+  "fingerprint": "8d35a1dde513a9462b5d00faaf2df52b4a055a4b9b2db156510964a8a908c22d",
+  "archived_at": "2026-06-20T19:24:46Z",
+  "metadata": {
+    "title": "HTE (She Wanted Something Different...)",
+    "artist": "Zeffon",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 10689,
+    "duration_human": "02:58:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Copper 6",
+      "02 Zeffon - Copper",
+      "03 Zeffon - Contrary Opinion"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hte-she-wanted-something-different_8d35a1dde513"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/b4c6f0840556a28f69f9/HTE_She_Wanted_Something_Different.tar"
+    }
+  }
+}
