@@ -1,0 +1,30 @@
+{
+  "id": "hr-tyu-modrg-veracity-the-big-stick-xi_3d1a9bb020f0",
+  "fingerprint": "3d1a9bb020f0817deba7daac272ab2e59585990b5173b3ebbd2b8bab6659b16c",
+  "archived_at": "2026-06-20T18:10:15Z",
+  "metadata": {
+    "title": "hr Tyu Modrg Veracity (The Big Stick XI)",
+    "artist": "Zeffon",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 20247,
+    "duration_human": "05:37:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Yu (Fraa u Omn the Akai Berry)",
+      "02 Zeffon - UA (Treja-ua On the Ignorance)",
+      "03 Zeffon - Plastic Sounds From Far Away",
+      "04 Zeffon - Shee Ryaasüwgr... Shee (!!) Shee Shee Ryaasüwgr..."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hr-tyu-modrg-veracity-the-big-stick-xi_3d1a9bb020f0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/cfc281874cdd57b9fe0c/hr_Tyu_Modrg_Veracity_The_Big_Stick_XI.tar"
+    }
+  }
+}
