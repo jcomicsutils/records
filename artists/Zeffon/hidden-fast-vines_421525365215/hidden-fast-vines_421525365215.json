@@ -1,0 +1,29 @@
+{
+  "id": "hidden-fast-vines_421525365215",
+  "fingerprint": "4215253652155380f2187a62d3733c22a1bcc13fe98ad5b1deffcad5ef39bf77",
+  "archived_at": "2026-06-20T00:59:29Z",
+  "metadata": {
+    "title": "Hidden Fast Vines",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2470,
+    "duration_human": "00:41:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - You Avoid Silver Because That Kills Werewolves",
+      "02 Zeffon - Lead Acid (Copper Contacts)",
+      "03 Zeffon - New Battery (Golden Contacts)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hidden-fast-vines_421525365215"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/da146c3b01dd8d2f3e09/Hidden_Fast_Vines.tar"
+    }
+  }
+}
