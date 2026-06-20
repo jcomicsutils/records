@@ -1,0 +1,30 @@
+{
+  "id": "hip-my-gif-len-de-lessin-a-reunion-modulation-iii_1ee24d892e0d",
+  "fingerprint": "1ee24d892e0d85feb1a6028dcd69fd7f8a62cf8395fdea8dc62c9c4c69977890",
+  "archived_at": "2026-06-20T01:33:11Z",
+  "metadata": {
+    "title": "HIP my GIF LEN DE LESSIN A REUNION (Modulation III)",
+    "artist": "Generated Missiân ZFN",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 14656,
+    "duration_human": "04:04:16",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Generated Missiân ZFN - Untitled",
+      "02 Generated Missiân ZFN - Beh (Instead if Ocnelîîht)",
+      "03 Generated Missiân ZFN - Agility / Uey uy-oy Valley",
+      "04 Generated Missiân ZFN - Student Called 'Svarti' (Strange World Ver.)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hip-my-gif-len-de-lessin-a-reunion-modulation-iii_1ee24d892e0d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/82a8ba717f396e5519d7/HIP_my_GIF_LEN_DE_LESSIN_A_REUNION_Modulation_III.tar"
+    }
+  }
+}
