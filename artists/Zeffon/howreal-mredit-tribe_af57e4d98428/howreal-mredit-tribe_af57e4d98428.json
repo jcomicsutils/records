@@ -1,0 +1,31 @@
+{
+  "id": "howreal-mredit-tribe_af57e4d98428",
+  "fingerprint": "af57e4d98428706315e62e4f91a5d86c3c7ac36768c0779a1a95525e28f7cabf",
+  "archived_at": "2026-06-20T04:14:38Z",
+  "metadata": {
+    "title": "Howreal-Mredit Tribe",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1768,
+    "duration_human": "00:29:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Expectation of Existence",
+      "02 Zeffon - Odd Diara",
+      "03 Zeffon - The Great Deciever Loses",
+      "04 Zeffon - (silence)",
+      "05 Zeffon - The Hunt for Alice Callira, Part 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/howreal-mredit-tribe_af57e4d98428"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/1b564719db9bc7381d92/Howreal-Mredit_Tribe.tar"
+    }
+  }
+}
