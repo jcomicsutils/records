@@ -1,0 +1,29 @@
+{
+  "id": "hgns_1ee79c69df3a",
+  "fingerprint": "1ee79c69df3a778eb2f7992cbea0badc5daf1fc6e63fb8aba121822deb77ff57",
+  "archived_at": "2026-06-20T00:56:08Z",
+  "metadata": {
+    "title": "HGNS",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4735,
+    "duration_human": "01:18:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Origin of the Falls",
+      "02 Zeffon - 9",
+      "03 Zeffon - 12"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hgns_1ee79c69df3a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/af1306603a235b2b2cf9/HGNS.tar"
+    }
+  }
+}
