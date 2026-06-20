@@ -1,0 +1,29 @@
+{
+  "id": "historical-document_05e1963e37b8",
+  "fingerprint": "05e1963e37b8b9fff35d8df71a0439a7087fbdec886611b647f540d19801fec1",
+  "archived_at": "2026-06-20T01:42:20Z",
+  "metadata": {
+    "title": "Historical Document",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 709,
+    "duration_human": "00:11:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Endless Journey",
+      "02 Zeffon - Forest Sanctuary",
+      "03 Zeffon - Working Man #3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/historical-document_05e1963e37b8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/390ae7ad9336381b2f09/Historical_Document.tar"
+    }
+  }
+}
