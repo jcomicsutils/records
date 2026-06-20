@@ -1,0 +1,32 @@
+{
+  "id": "um_4db3d2e2d121",
+  "fingerprint": "4db3d2e2d1212ee36e1cf8bfaacded0ca564b0670ac781a3501ff0c090225a34",
+  "archived_at": "2026-06-20T21:21:41Z",
+  "metadata": {
+    "title": "Um",
+    "artist": "urutau",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 5921,
+    "duration_human": "01:38:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Urutau - 030425-2",
+      "02 Urutau - 030425-3",
+      "03 Urutau - 090425-2",
+      "04 Urutau - 230425-1",
+      "05 Urutau - 230425-2",
+      "06 Urutau - 300425-1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/um_4db3d2e2d121"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/bcbff036b870c8b40430/Um.tar"
+    }
+  }
+}
