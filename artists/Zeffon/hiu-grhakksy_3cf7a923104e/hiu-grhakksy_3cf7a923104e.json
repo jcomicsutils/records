@@ -1,0 +1,27 @@
+{
+  "id": "hiu-grhakksy_3cf7a923104e",
+  "fingerprint": "3cf7a923104e3ce1c020a7e294b68509a65b7b26f8afac2722d2659495f77092",
+  "archived_at": "2026-06-20T01:43:30Z",
+  "metadata": {
+    "title": "Hiu Grhakksy",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 213,
+    "duration_human": "00:03:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Red Soil Jars With Faces on Them Ver. 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hiu-grhakksy_3cf7a923104e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/bcf4d038158b542e819f/Hiu_Grhakksy.tar"
+    }
+  }
+}
