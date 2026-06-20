@@ -1,0 +1,28 @@
+{
+  "id": "history-of-the-new-world_04240d5d7745",
+  "fingerprint": "04240d5d7745a549845532eea49be7121e1b81509ea806f51116e447f21c28e7",
+  "archived_at": "2026-06-20T01:43:00Z",
+  "metadata": {
+    "title": "History of the New World",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 323,
+    "duration_human": "00:05:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - History of the New World 1",
+      "02 Zeffon - History of the New World 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/history-of-the-new-world_04240d5d7745"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/ecb54af58e243c5d4830/History_of_the_New_World.tar"
+    }
+  }
+}
