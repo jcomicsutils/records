@@ -1,0 +1,33 @@
+{
+  "id": "howtriver-g00daristatrbasm_935aad52aeee",
+  "fingerprint": "935aad52aeee43eaae739d1f550ba724bee0bc7679b616b1c85c5a04f1df4a85",
+  "archived_at": "2026-06-20T17:39:52Z",
+  "metadata": {
+    "title": "Howtriver G00daristatrbasm",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 9667,
+    "duration_human": "02:41:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Howtriver G00daristatrbasm",
+      "02 Zeffon - Grey Sphinx",
+      "03 Zeffon - Odd Sin",
+      "04 Zeffon - Sunsackpile",
+      "05 Zeffon - The Silent Man",
+      "06 Zeffon - Baraqoparti",
+      "07 Zeffon - The Creature Within the Walls, Scratching Like a Moth"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/howtriver-g00daristatrbasm_935aad52aeee"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/606b7f44b64110d1b48a/Howtriver_G00daristatrbasm.tar"
+    }
+  }
+}
