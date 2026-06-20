@@ -1,0 +1,30 @@
+{
+  "id": "hishveru_b625101a5017",
+  "fingerprint": "b625101a5017fc86d640b7475ab6025298c07f3a403a1cfe5474ffed7930fc30",
+  "archived_at": "2026-06-20T01:40:50Z",
+  "metadata": {
+    "title": "Hishveru",
+    "artist": "Zeffon",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2621,
+    "duration_human": "00:43:41",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Presez Vee (Prev / track 1)",
+      "02 Zeffon - Radioplay of Gue Island South",
+      "03 Zeffon - Untitled",
+      "04 Zeffon - Organ Element for Victims of the UUOL and Others"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hishveru_b625101a5017"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/daa91692c62b5cbcc02b/Hishveru.tar"
+    }
+  }
+}
