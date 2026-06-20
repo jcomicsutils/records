@@ -1,0 +1,32 @@
+{
+  "id": "horizontal-grave_21246a40342b",
+  "fingerprint": "21246a40342bb1847257c11aacee36568042a6dde702b41f4a87c8a126a7a58c",
+  "archived_at": "2026-06-20T01:50:32Z",
+  "metadata": {
+    "title": "Horizontal Grave",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2675,
+    "duration_human": "00:44:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - All Open",
+      "02 Zeffon - Arrrguo",
+      "03 Zeffon - Broken Ultraviolet Gas-Discharge Lamp",
+      "04 Zeffon - Demon Hunter",
+      "05 Zeffon - Eargg-toouaah (Ancient Text)",
+      "06 Zeffon - Gone Away"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/horizontal-grave_21246a40342b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/0c6a793e3345eeec7b97/Horizontal_Grave.tar"
+    }
+  }
+}
