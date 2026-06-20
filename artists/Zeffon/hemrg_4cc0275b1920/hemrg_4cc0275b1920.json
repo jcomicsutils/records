@@ -1,0 +1,31 @@
+{
+  "id": "hemrg_4cc0275b1920",
+  "fingerprint": "4cc0275b1920756bfa5eae3ceb9adbcdb8bed8a1fc3d1bd3af50b957697f1197",
+  "archived_at": "2026-06-20T00:27:12Z",
+  "metadata": {
+    "title": "Hemrg",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3352,
+    "duration_human": "00:55:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Attention!!",
+      "02 Zeffon - Beautiful Stone",
+      "03 Zeffon - Fern",
+      "04 Zeffon - Mohtetrg",
+      "05 Zeffon - Blacberis Earthquake"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hemrg_4cc0275b1920"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/580ebe83618aaa993090/Hemrg.tar"
+    }
+  }
+}
