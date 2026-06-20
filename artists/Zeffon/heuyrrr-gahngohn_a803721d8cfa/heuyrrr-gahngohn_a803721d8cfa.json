@@ -1,0 +1,28 @@
+{
+  "id": "heuyrrr-gahngohn_a803721d8cfa",
+  "fingerprint": "a803721d8cfa8bf38440c84673f146cb22b84277a1f1d09313cded6ac12ba033",
+  "archived_at": "2026-06-20T00:44:12Z",
+  "metadata": {
+    "title": "Heuyrrr Gahngohn",
+    "artist": "Zeffon",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 8640,
+    "duration_human": "02:24:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Ёумтжд - Тгуоч Зрпамричац Чтоус еч тфо Счттцефен",
+      "02 Zeffon - Ambisession (96K)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/heuyrrr-gahngohn_a803721d8cfa"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/6d09b7d276a038e5e824/Heuyrrr_Gahngohn.tar"
+    }
+  }
+}
