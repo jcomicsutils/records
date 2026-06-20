@@ -1,0 +1,31 @@
+{
+  "id": "hru-3-the-irritatingly-similar-version-of-dental-work_bf5703d1209b",
+  "fingerprint": "bf5703d1209b1fd2afad4057d3ae0139b7f57ffc337f9cc6545cf9b6068a0ef3",
+  "archived_at": "2026-06-20T18:16:55Z",
+  "metadata": {
+    "title": "HRU 3, the Irritatingly Similar Version of Dental Wôrk",
+    "artist": "Zeffon",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2753,
+    "duration_human": "00:45:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Ret.T34 Missiân, Part 2",
+      "02 Zeffon - Ret.T34 Missiân, Part 4",
+      "03 Zeffon - Leftover Proteins + Doing Service For People",
+      "04 Zeffon - Shark Cavity Belongs to the Masses of Chlorine (Soldier Version)",
+      "05 Zeffon - SCEV Firetrial"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hru-3-the-irritatingly-similar-version-of-dental-work_bf5703d1209b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/e9a0a78b059d46de7724/HRU_3_the_Irritatingly_Similar_Version_of_Dental_W_rk.tar"
+    }
+  }
+}
