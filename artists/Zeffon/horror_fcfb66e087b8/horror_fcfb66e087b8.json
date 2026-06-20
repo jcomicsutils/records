@@ -1,0 +1,31 @@
+{
+  "id": "horror_fcfb66e087b8",
+  "fingerprint": "fcfb66e087b876b8ed1e49d1a08fb4ca4874689e69d39d44ad79617ecac14e49",
+  "archived_at": "2026-06-20T01:59:15Z",
+  "metadata": {
+    "title": "Horror",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3072,
+    "duration_human": "00:51:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Oármagaon",
+      "02 Zeffon - Legend of Desmemon",
+      "03 Zeffon - Still The Orchestra Plays",
+      "04 Zeffon - VII: Catatomentia",
+      "05 Zeffon - VIII: Cedij"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/horror_fcfb66e087b8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/ceead6abdcc622b1ca90/Horror.tar"
+    }
+  }
+}
