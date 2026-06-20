@@ -1,0 +1,37 @@
+{
+  "id": "hellotogohehe_48576db49485",
+  "fingerprint": "48576db4948592dfeb3b916f0b35cdc7a580dc4275833de6d9f914b37549442c",
+  "archived_at": "2026-06-20T00:18:44Z",
+  "metadata": {
+    "title": "Hellötogohehe",
+    "artist": "Zeffon / Revenence",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 4545,
+    "duration_human": "01:15:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - We Live in Fear of the Greater Moon",
+      "02 Zeffon - Hellötogohehe: Twitchy Nervous System of a Third-Eyed Freak",
+      "03 Zeffon - Hellötogohehe: 55",
+      "04 Zeffon - Hellötogohehe: Problems of Movement",
+      "05 Zeffon - Hellötogohehe: Rainforest Dance",
+      "06 Zeffon - Hellötogohehe: 10",
+      "07 Zeffon - Hellötogohehe: 8",
+      "08 Zeffon - Hellötogohehe: Eye of Visions",
+      "09 Zeffon - Hellötogohehe: My Third Eye is All But Stabbed Out",
+      "10 Zeffon - Riding Away...",
+      "11 Revenence - Speech"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hellotogohehe_48576db49485"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/9da5ea43f86949b6da72/Hell_togohehe.tar"
+    }
+  }
+}
