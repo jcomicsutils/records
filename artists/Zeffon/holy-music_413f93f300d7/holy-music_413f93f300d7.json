@@ -1,0 +1,27 @@
+{
+  "id": "holy-music_413f93f300d7",
+  "fingerprint": "413f93f300d7df93a60455580575236e0883a3ed7ebed9d9b520f37fee69fb27",
+  "archived_at": "2026-06-20T01:45:29Z",
+  "metadata": {
+    "title": "Holy Music",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2394,
+    "duration_human": "00:39:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Piece 920 - Holy Music"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/holy-music_413f93f300d7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/d7a2c643f1ab52be2d13/Holy_Music.tar"
+    }
+  }
+}
