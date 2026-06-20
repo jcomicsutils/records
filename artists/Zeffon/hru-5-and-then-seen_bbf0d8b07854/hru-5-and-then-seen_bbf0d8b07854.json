@@ -1,0 +1,39 @@
+{
+  "id": "hru-5-and-then-seen_bbf0d8b07854",
+  "fingerprint": "bbf0d8b07854d914a5f244f3ca123336790f5654629f29d03f9907b0f8fba711",
+  "archived_at": "2026-06-20T18:52:07Z",
+  "metadata": {
+    "title": "HRU 5 (and then seen...)",
+    "artist": "Zeffon",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 19371,
+    "duration_human": "05:22:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Ret.T34 Missiân, Part 3 (Potential Demolition)",
+      "02 Zeffon - Head Sterile (Ver. 3)",
+      "03 Zeffon - Regrets, I Have Some",
+      "04 Zeffon - SPL wZ 405 Yernugelruembu",
+      "05 Zeffon - Utility Found Near the Dirty River",
+      "06 Zeffon - Ret.T34 Missiân, Part 1",
+      "07 Zeffon - Head Sterile (Ver. 1)",
+      "08 Zeffon - deGenerated (censored) ZFN, Part 2 mod",
+      "09 Zeffon - ...Gen demf Unknooes via the Unknown Voice",
+      "10 Zeffon - Talent Has Mountains of Support",
+      "11 Zeffon - Long Recording of Money Laundering + Agricultural Remains",
+      "12 Zeffon - SPL wZ 405 Shiny",
+      "13 Zeffon - Equa tohChir shëmduo BV Yata"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hru-5-and-then-seen_bbf0d8b07854"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/74ea935a8fb0e5f99859/HRU_5_and_then_seen.tar"
+    }
+  }
+}
