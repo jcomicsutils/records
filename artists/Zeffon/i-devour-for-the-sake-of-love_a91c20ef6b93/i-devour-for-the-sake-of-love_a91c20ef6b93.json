@@ -1,0 +1,33 @@
+{
+  "id": "i-devour-for-the-sake-of-love_a91c20ef6b93",
+  "fingerprint": "a91c20ef6b93286d5af3f35467fdc0de102bfdd95f409b89a340034b690eb362",
+  "archived_at": "2026-06-22T03:38:17Z",
+  "metadata": {
+    "title": "I Devour For The Sake of Löve",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 4191,
+    "duration_human": "01:09:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Solarpunk Du Orl Sulka (12'' Version)",
+      "02 Zeffon - I Devour For The Sake of Löve",
+      "03 Zeffon - Papa Loop",
+      "04 Zeffon - I Love You",
+      "05 Zeffon - Evening Sunset",
+      "06 Zeffon - Halwah",
+      "07 Zeffon - Hple Amg"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-devour-for-the-sake-of-love_a91c20ef6b93"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/f1f74214efe789fbae50/I_Devour_For_The_Sake_of_L_ve.tar"
+    }
+  }
+}
