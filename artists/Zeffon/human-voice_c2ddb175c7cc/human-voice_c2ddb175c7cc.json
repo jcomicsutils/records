@@ -1,0 +1,29 @@
+{
+  "id": "human-voice_c2ddb175c7cc",
+  "fingerprint": "c2ddb175c7cc3a2cb7412cc2bdec5e22ebfd8eb7d42fb663de524c9b9112b951",
+  "archived_at": "2026-06-22T00:19:06Z",
+  "metadata": {
+    "title": "Human Voice",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3679,
+    "duration_human": "01:01:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Frostdreams",
+      "02 Zeffon - Õñakru the Town",
+      "03 Zeffon - Human Voice 3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/human-voice_c2ddb175c7cc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/3ed08498bf7d61938e54/Human_Voice.tar"
+    }
+  }
+}
