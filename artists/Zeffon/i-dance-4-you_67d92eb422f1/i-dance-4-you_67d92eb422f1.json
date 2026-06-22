@@ -1,0 +1,27 @@
+{
+  "id": "i-dance-4-you_67d92eb422f1",
+  "fingerprint": "67d92eb422f1c0a0f55112746b798f1cf33c2954ca85cbb882a62894cb4bc78e",
+  "archived_at": "2026-06-22T03:25:37Z",
+  "metadata": {
+    "title": "I Dance 4 You",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1839,
+    "duration_human": "00:30:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - I Dance 4 You (Single)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-dance-4-you_67d92eb422f1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/4bc3f0aaa5a55c692845/I_Dance_4_You.tar"
+    }
+  }
+}
