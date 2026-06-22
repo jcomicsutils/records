@@ -1,0 +1,39 @@
+{
+  "id": "i-will-be_0a4170346b49",
+  "fingerprint": "0a4170346b4935d84f01cf12064ac3ab81c24dc54a4fa7506a6d61ce0fbd84fd",
+  "archived_at": "2026-06-22T02:00:13Z",
+  "metadata": {
+    "title": "I (Will Be)",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 10012,
+    "duration_human": "02:46:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Acajutantsodiffure",
+      "02 Zeffon - Oadaceu Tonfajutisr",
+      "03 Zeffon - Iancedafajut",
+      "04 Zeffon - Ocajutefutut",
+      "05 Zeffon - Lovejut",
+      "06 Zeffon - Tribale Juafacatut Sedni",
+      "07 Zeffon - Caafiafnedojustrut",
+      "08 Zeffon - Urban",
+      "09 Zeffon - White Paint",
+      "10 Zeffon - Program 55",
+      "11 Zeffon - Tect-ion-anilam",
+      "12 Zeffon - Acroaduffsitanu Jet",
+      "13 Zeffon - Earthquake II (Exit)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-will-be_0a4170346b49"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/887cae2eacab0b90c981/I_Will_Be.tar"
+    }
+  }
+}
