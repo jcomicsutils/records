@@ -1,0 +1,27 @@
+{
+  "id": "hu-pthrajamirjo_0fba12179512",
+  "fingerprint": "0fba121795128fb649ad7264b7918794d7a8ff2bbcb61c944118c7d18bbf6dde",
+  "archived_at": "2026-06-22T00:03:55Z",
+  "metadata": {
+    "title": "Hu Pthrajamirjo",
+    "artist": "Argon Beams",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2880,
+    "duration_human": "00:48:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Argon Beams - Ethereal Dragging"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hu-pthrajamirjo_0fba12179512"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/eea8778eaa29654c1674/Hu_Pthrajamirjo.tar"
+    }
+  }
+}
