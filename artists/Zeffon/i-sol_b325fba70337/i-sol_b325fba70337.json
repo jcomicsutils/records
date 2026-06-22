@@ -1,0 +1,38 @@
+{
+  "id": "i-sol_b325fba70337",
+  "fingerprint": "b325fba70337884ec0be79df4d33a79392c05aa579d87ae72a9daf9b2bfe71e8",
+  "archived_at": "2026-06-22T04:21:56Z",
+  "metadata": {
+    "title": "I: Sol",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 1592,
+    "duration_human": "00:26:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Marudescent",
+      "02 Zeffon - Ky",
+      "03 Zeffon - Rowta",
+      "04 Zeffon - Meralansa",
+      "05 Zeffon - Baracuthal",
+      "06 Zeffon - Temia-gerra",
+      "07 Zeffon - Creek Funeral",
+      "08 Zeffon - Revamera",
+      "09 Zeffon - Maeridetha",
+      "10 Zeffon - Shore",
+      "11 Zeffon - Yetamacanth",
+      "12 Zeffon - An Anthem For the Red Staircase"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-sol_b325fba70337"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/86a353c929dfe17db5b3/I_Sol.tar"
+    }
+  }
+}
