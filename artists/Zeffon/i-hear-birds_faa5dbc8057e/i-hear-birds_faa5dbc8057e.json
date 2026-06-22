@@ -1,0 +1,35 @@
+{
+  "id": "i-hear-birds_faa5dbc8057e",
+  "fingerprint": "faa5dbc8057e39b976fb77bb17b7f5af7180dd9777cc40873e92bf514762a078",
+  "archived_at": "2026-06-22T03:58:33Z",
+  "metadata": {
+    "title": "I Hear Birds",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 8521,
+    "duration_human": "02:22:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Corridôêr Methodol",
+      "02 Zeffon - To Undo What Has Been Done",
+      "03 Zeffon - Perilous Journey in Havana",
+      "04 Zeffon - Understatement",
+      "05 Zeffon - 2",
+      "06 Zeffon - Apocalypse 3",
+      "07 Zeffon - The Quote",
+      "08 Zeffon - Doing Fine",
+      "09 Zeffon - Drink the God Via Stone Jar"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-hear-birds_faa5dbc8057e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/c001e289bdb0e9645e2e/I_Hear_Birds.tar"
+    }
+  }
+}
