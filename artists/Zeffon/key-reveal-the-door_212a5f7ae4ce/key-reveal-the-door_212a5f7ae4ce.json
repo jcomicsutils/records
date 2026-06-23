@@ -1,0 +1,39 @@
+{
+  "id": "key-reveal-the-door_212a5f7ae4ce",
+  "fingerprint": "212a5f7ae4ce1100266096ed3801c049b00fe11dbe25e93d1fb876bb4deae9cc",
+  "archived_at": "2026-06-23T19:20:39Z",
+  "metadata": {
+    "title": "Key, Reveal the Door",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_seconds": 4100,
+    "duration_human": "01:08:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Untitled",
+      "02 Zeffon - Untitled",
+      "03 Zeffon - Untitled",
+      "04 Zeffon - Untitled",
+      "05 Zeffon - Untitled",
+      "06 Zeffon - Untitled",
+      "07 Zeffon - Untitled",
+      "08 Zeffon - Untitled",
+      "09 Zeffon - Untitled",
+      "10 Zeffon - Untitled",
+      "11 Zeffon - Untitled",
+      "12 Zeffon - Untitled",
+      "13 Zeffon - Untitled",
+      "14 Zeffon - Untitled",
+      "15 Zeffon - Untitled",
+      "16 Zeffon - Untitled"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/e652e69a79670d7819e2/Key_Reveal_the_Door.tar"
+    }
+  }
+}
