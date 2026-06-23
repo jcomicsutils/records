@@ -1,0 +1,28 @@
+{
+  "id": "ii-beware-anticipation_897c168906ee",
+  "fingerprint": "897c168906ee40d6104a65d2c6e968036548e968c896b69092794b1f2719edb0",
+  "archived_at": "2026-06-23T18:56:29Z",
+  "metadata": {
+    "title": "II: Beware Anticipation",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 749,
+    "duration_human": "00:12:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Oakdash",
+      "02 Zeffon - The Choice",
+      "03 Zeffon - Marksmen",
+      "04 Zeffon - Kelmantha",
+      "05 Zeffon - 76: Island of Sanity, Wind Book"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/9b6aceac9e712c108e62/II_Beware_Anticipation.tar"
+    }
+  }
+}
