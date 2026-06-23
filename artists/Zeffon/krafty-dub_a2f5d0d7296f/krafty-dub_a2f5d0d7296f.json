@@ -1,0 +1,28 @@
+{
+  "id": "krafty-dub_a2f5d0d7296f",
+  "fingerprint": "a2f5d0d7296f7180b5a24f447caba83e58bc33ff05f3f755d7987ec1ff9b1411",
+  "archived_at": "2026-06-23T19:34:03Z",
+  "metadata": {
+    "title": "Krafty Dub",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 20176,
+    "duration_human": "05:36:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Krafty Soup Ver. 3 (Single)",
+      "02 Zeffon - Krafty Dub Ver. 1 (Two Amps in Papua New Guinea)",
+      "03 Zeffon - Mweze Leh Chocolate",
+      "04 Zeffon - Pestilence Dub",
+      "05 Zeffon - Dark Bakhagamnonrei Dub (1928 Earthquake)"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/5498e7caff54307063a2/Krafty_Dub.tar"
+    }
+  }
+}
