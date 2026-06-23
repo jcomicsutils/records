@@ -1,0 +1,41 @@
+{
+  "id": "spex-cd-89_2e5c0f9517f6",
+  "fingerprint": "2e5c0f9517f6377e2bb66b61358d589fd27677ab281ab1502d77cf0eb770d7f4",
+  "archived_at": "2026-06-23T21:40:05Z",
+  "metadata": {
+    "title": "Spex CD # 89",
+    "artist": "Various Artists",
+    "year": "2010",
+    "codec": "MP3",
+    "num_tracks": 15,
+    "duration_seconds": 4388,
+    "duration_human": "01:13:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Gonjasufi - She Gone",
+      "02 Japanische Kampfhörspiele - Effizienz",
+      "03 Fehlfarben - Stadt Der 1000 Tränen",
+      "04 Die Sterne - Nach Fest Kommt Lose",
+      "05 Lightspeed Champion - Marlene",
+      "06 Spoon - Written in Reverse",
+      "07 Festland - Unsere Stadt",
+      "08 The Knife In Collaboration With Planningtorock & MT Sims - Colouring of Pigeons",
+      "09 Kammerflimmer Kollektief - Spookin' the Horse",
+      "10 Beach House - Norway",
+      "11 Danton Eeprom - Give Me Pain",
+      "12 Field Music - Let's Write a Book",
+      "13 Lindstrøm & Christabelle - Looking for What",
+      "14 Lawrence - Treacle Mine",
+      "15 Pawel - Kramnik"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/spex-cd-89_2e5c0f9517f6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/ce96235d6ed626c0fbce/Spex_CD_89.tar"
+    }
+  }
+}
