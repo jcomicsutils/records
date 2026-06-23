@@ -1,0 +1,26 @@
+{
+  "id": "klimqaxis_623a3ada8366",
+  "fingerprint": "623a3ada8366a6b49aca051b31fd4cef26ff800853e3d1608cac3d8b2f9e4408",
+  "archived_at": "2026-06-23T19:27:58Z",
+  "metadata": {
+    "title": "Klimqaxis",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 6631,
+    "duration_human": "01:50:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Rumble (Partoe-Despenseri O3 '-------++')",
+      "02 Zeffon - H___ (Version 2)",
+      "03 Zeffon - Strawberry Mudman Dub Ver. 5 (1/2)"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/56db6f34626d957a8998/Klimqaxis.tar"
+    }
+  }
+}
