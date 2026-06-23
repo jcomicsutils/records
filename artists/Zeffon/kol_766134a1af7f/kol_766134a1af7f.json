@@ -1,0 +1,34 @@
+{
+  "id": "kol_766134a1af7f",
+  "fingerprint": "766134a1af7f721de34b5429d3f425b00b47bff5eb1bcb3c467e8a9c9033ee67",
+  "archived_at": "2026-06-23T19:31:19Z",
+  "metadata": {
+    "title": "KOL",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 15072,
+    "duration_human": "04:11:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Drowning in the Vines",
+      "02 Zeffon - KOL",
+      "03 Zeffon - Brilliant Fading Sunshadow",
+      "04 Zeffon - Atrocities Commited By Them",
+      "05 Zeffon - They Still Exist",
+      "06 Zeffon - The Great Apostasy and Undoing",
+      "07 Zeffon - Gaseous Tile",
+      "08 Zeffon - Ones That Can Message Our Clergy",
+      "09 Zeffon - Please Allow Me To Rest, Thank You",
+      "10 Zeffon - Hollow Cavities, Used For Storing Ash and Souls",
+      "11 Zeffon - The Brilliant Red Sunset"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/538970562e8c108035ae/KOL.tar"
+    }
+  }
+}
