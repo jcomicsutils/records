@@ -1,0 +1,33 @@
+{
+  "id": "karl-tube_3499a9197d81",
+  "fingerprint": "3499a9197d81219d29f4e7fa6621b552e613b900adba458c5e9cc31d2c0c5614",
+  "archived_at": "2026-06-23T19:15:34Z",
+  "metadata": {
+    "title": "Karl Tube",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 30974,
+    "duration_human": "08:36:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Tibell Jòòheemaghtri pan Bellò 5-Haroaundik",
+      "02 Zeffon - Various People on the Forum (Btwo Dub Ver. 2)",
+      "03 Zeffon - BRINGS Life to the Owl",
+      "04 Zeffon - DE (SS Zealot Cat Mõõõõõnarch)",
+      "05 Zeffon - Flour and Cherry Cake (Distortion Mix)",
+      "06 Zeffon - Bopnotgoc Dub Mix",
+      "07 Zeffon - D. Tribâistant",
+      "08 Zeffon - 0x12_SHREW, Scalded the Devil's Luunch",
+      "09 Zeffon - 0x18_DUB 1 (Strawberry Mudman Dub Ver. 7)",
+      "10 Zeffon - 0x23 (CLASSICAL Mudman Hââz Pxysical Strength to Putrââfe 滲 46-Bestow Aümület 46貳)"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/59bfe0f60ddc017e94f1/Karl_Tube.tar"
+    }
+  }
+}
