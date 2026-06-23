@@ -1,0 +1,25 @@
+{
+  "id": "knee-hard_2182120770ab",
+  "fingerprint": "2182120770ab09499571ffad756b59d7fe73570c5429bb610640d5156f5a0548",
+  "archived_at": "2026-06-23T19:29:08Z",
+  "metadata": {
+    "title": "Knee Hard",
+    "artist": "Argon Lo Curránt",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1377,
+    "duration_human": "00:22:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Argon Lo Curránt - Cohe Trad-it",
+      "02 Argon Lo Curránt - Coh-akkâ-Uro (Version of Shiny Gold)"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/87aa7d1cf506b0c9172e/Knee_Hard.tar"
+    }
+  }
+}
