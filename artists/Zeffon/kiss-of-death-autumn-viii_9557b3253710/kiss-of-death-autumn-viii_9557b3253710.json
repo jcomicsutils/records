@@ -1,0 +1,27 @@
+{
+  "id": "kiss-of-death-autumn-viii_9557b3253710",
+  "fingerprint": "9557b325371046fbd616dc0314ca6c015c396d853e384ed870bc6f4d1dd5983d",
+  "archived_at": "2026-06-23T19:26:36Z",
+  "metadata": {
+    "title": "Kiss of Death (Autumn VIII)",
+    "artist": "Zeffon",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 395,
+    "duration_human": "00:06:35",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Grass",
+      "02 Zeffon - Set To Blue",
+      "03 Zeffon - Driven to Go East and So On",
+      "04 Zeffon - Session"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/e4f1b44e1ad88ac9d2f4/Kiss_of_Death_Autumn_VIII.tar"
+    }
+  }
+}
