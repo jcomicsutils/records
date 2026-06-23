@@ -1,0 +1,27 @@
+{
+  "id": "ignore_94f8bbe47c02",
+  "fingerprint": "94f8bbe47c02d85926d4228db298901fcb0bf5fb03d6b8cdca4bb258e3046fa1",
+  "archived_at": "2026-06-23T18:53:02Z",
+  "metadata": {
+    "title": "Ignore",
+    "artist": "Zeffon",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 745,
+    "duration_human": "00:12:25",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - MNT IOD",
+      "02 Zeffon - Octagon",
+      "03 Zeffon - Ride Through Mist",
+      "04 Zeffon - Overall Call to Action / d"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/7973b613c732d0e8c508/Ignore.tar"
+    }
+  }
+}
