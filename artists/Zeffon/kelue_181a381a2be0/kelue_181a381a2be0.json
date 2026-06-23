@@ -1,0 +1,28 @@
+{
+  "id": "kelue_181a381a2be0",
+  "fingerprint": "181a381a2be0492c411c8092254bbe82ee5348074dc3da88e52d969869a2f3f6",
+  "archived_at": "2026-06-23T19:17:46Z",
+  "metadata": {
+    "title": "Kelué",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 796,
+    "duration_human": "00:13:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Time of the Summoning, Pt. 2",
+      "02 Zeffon - Ixis Ansede",
+      "03 Zeffon - Median",
+      "04 Zeffon - Evolution",
+      "05 Zeffon - A Sudden Crash"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/ca3e59d54d38a5f6141f/Kelu.tar"
+    }
+  }
+}
