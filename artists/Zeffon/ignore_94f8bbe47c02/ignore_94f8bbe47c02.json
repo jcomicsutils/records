@@ -22,6 +22,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/7973b613c732d0e8c508/Ignore.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/ignore_94f8bbe47c02"
     }
   }
 }
