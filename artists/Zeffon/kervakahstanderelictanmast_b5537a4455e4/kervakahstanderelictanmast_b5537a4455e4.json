@@ -1,0 +1,41 @@
+{
+  "id": "kervakahstanderelictanmast_b5537a4455e4",
+  "fingerprint": "b5537a4455e4c618c66da438f7049665e73d6e91dedd3cb915637933c603e66f",
+  "archived_at": "2026-06-23T19:19:14Z",
+  "metadata": {
+    "title": "kerväkähstanderelictanmast",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 18,
+    "duration_seconds": 4685,
+    "duration_human": "01:18:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - ..reel",
+      "02 Zeffon - Block 8",
+      "03 Zeffon - Drumsgong",
+      "04 Zeffon - Over And Around",
+      "05 Zeffon - Grinder",
+      "06 Zeffon - Conflict",
+      "07 Zeffon - Windy Summit",
+      "08 Zeffon - Foreboding",
+      "09 Zeffon - Filter Snap",
+      "10 Zeffon - Resolve",
+      "11 Zeffon - Zeffon",
+      "12 Zeffon - (unintelligible)+kerväkähstanderelictanmast+bath",
+      "13 Zeffon - Waves",
+      "14 Zeffon - Condense to Nothing",
+      "15 Zeffon - Particle Ocean",
+      "16 Zeffon - Untitled Forest Song",
+      "17 Zeffon - Chyi",
+      "18 Zeffon - Moldy Bathroom"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/37204757f628518e4485/kerv_k_hstanderelictanmast.tar"
+    }
+  }
+}
