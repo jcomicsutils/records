@@ -1,0 +1,33 @@
+{
+  "id": "iii_f28dbb12539f",
+  "fingerprint": "f28dbb12539f040c30f7d3e48e7abcd4f8534a3359917282cfd6ffc315561aac",
+  "archived_at": "2026-06-23T18:57:32Z",
+  "metadata": {
+    "title": "III",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 1999,
+    "duration_human": "00:33:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Birthday",
+      "02 Zeffon - Moontower",
+      "03 Zeffon - Befraelanthe",
+      "04 Zeffon - Plains of Doubt",
+      "05 Zeffon - Median",
+      "06 Zeffon - Soul Eater",
+      "07 Zeffon - Kelué, Pt. 1",
+      "08 Zeffon - Kelué, Pt. 2",
+      "09 Zeffon - Chaosfoundry II",
+      "10 Zeffon - The Morrow (Listening to the Grass Grow)"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/efd0796d0e1747062abb/III.tar"
+    }
+  }
+}
