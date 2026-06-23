@@ -21,6 +21,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/c82d12edacee552d991c/II.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/ii_d0364aa71115"
     }
   }
 }
