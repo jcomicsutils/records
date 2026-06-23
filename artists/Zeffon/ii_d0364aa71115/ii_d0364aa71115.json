@@ -1,0 +1,26 @@
+{
+  "id": "ii_d0364aa71115",
+  "fingerprint": "d0364aa711155994d8dda6efcf650801e29e71cbac7ee357999dc9fa153417fe",
+  "archived_at": "2026-06-23T18:55:26Z",
+  "metadata": {
+    "title": "II",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 24292,
+    "duration_human": "06:44:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - 'Dissoukta Ksh', Part 1",
+      "02 Zeffon - 'Dissoukta Ksh', Part 2",
+      "03 Zeffon - 'Dissoukta Ksh', Part 3"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/c82d12edacee552d991c/II.tar"
+    }
+  }
+}
