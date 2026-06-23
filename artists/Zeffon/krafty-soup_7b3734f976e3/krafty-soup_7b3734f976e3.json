@@ -1,0 +1,39 @@
+{
+  "id": "krafty-soup_7b3734f976e3",
+  "fingerprint": "7b3734f976e39fe6cb7a0899ba30efc0d1cfe99a584bc84dca7ef00b5a111d7f",
+  "archived_at": "2026-06-23T19:37:43Z",
+  "metadata": {
+    "title": "Krafty Soup",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_seconds": 30131,
+    "duration_human": "08:22:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Blind Eååyes 771 F_nek",
+      "02 Zeffon - Craggloop",
+      "03 Zeffon - Carpet Bombing",
+      "04 Zeffon - Generated Mission ZFN 4",
+      "05 Zeffon - Gabon",
+      "06 Zeffon - Meudetraad",
+      "07 Zeffon - Krafty Soup Ver. 1",
+      "08 Zeffon - Holy Fire",
+      "09 Zeffon - Flour and Cherry Cake",
+      "10 Zeffon - Misty Lowland Windy Dôyhhcalla",
+      "11 Zeffon - Bonk Dub",
+      "12 Zeffon - Power Plug Gangster",
+      "13 Zeffon - Hraathonta Island",
+      "14 Zeffon - 塋滲 (Tong, PNG 4.55)",
+      "15 Zeffon - I End Up Where?",
+      "16 Zeffon - Bonk Tree Ceremony"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/59f5ef4915e048115fca/Krafty_Soup.tar"
+    }
+  }
+}
