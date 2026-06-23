@@ -1,0 +1,39 @@
+{
+  "id": "twenty-centuries-of-stony-sleep_75e8037ee245",
+  "fingerprint": "75e8037ee245545b36120908b0623873ea0e9d76b9bd9465a630525197e1c3df",
+  "archived_at": "2026-06-23T21:55:47Z",
+  "metadata": {
+    "title": "Twenty Centuries of Stony Sleep",
+    "artist": "Various Artists",
+    "year": "2010",
+    "codec": "MP3",
+    "num_tracks": 13,
+    "duration_seconds": 4530,
+    "duration_human": "01:15:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Alog - My Card is 7",
+      "02 The Low Frequency in Stereo - Aux Club",
+      "03 Ultralyd - Salinity and Brine",
+      "04 Espen Eriksen Trio - Ambitions",
+      "05 In the Country - Slow Down",
+      "06 Bushman’s Revenge - Barbara",
+      "07 Hilde Marie Kjersem - That Day in the Shower",
+      "08 Stian Westerhus - Discipline of Undiscipline",
+      "09 Maja S. K. Ratkje - Breathe",
+      "10 Jenny Hval - Golden Locks",
+      "11 Puma - 3 AM Moth",
+      "12 Deathprod - Mysterium Magnum",
+      "13 Supersilent - C-7.1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/twenty-centuries-of-stony-sleep_75e8037ee245"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/15bf151081678feec462/Twenty_Centuries_of_Stony_Sleep.tar"
+    }
+  }
+}
