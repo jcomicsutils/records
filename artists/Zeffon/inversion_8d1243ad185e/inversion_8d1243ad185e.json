@@ -1,0 +1,25 @@
+{
+  "id": "inversion_8d1243ad185e",
+  "fingerprint": "8d1243ad185ebbdd9e178fcce894177a9b0cab2cbc0595d2efca50c2d516bf3e",
+  "archived_at": "2026-06-23T19:04:52Z",
+  "metadata": {
+    "title": "Inversion",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2675,
+    "duration_human": "00:44:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Untitled",
+      "02 Zeffon - Untitled"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/ca0f7da2c8ab79b7235b/Inversion.tar"
+    }
+  }
+}
