@@ -1,0 +1,34 @@
+{
+  "id": "jumadag-di-rii_4e33d394c433",
+  "fingerprint": "4e33d394c433a865bdab780ff8867ec9b7aac57b096dd03cb0e1e5daa3af89f2",
+  "archived_at": "2026-06-23T19:10:41Z",
+  "metadata": {
+    "title": "Jumadag-Di-Rii",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 7464,
+    "duration_human": "02:04:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - A Small Sliver",
+      "02 Zeffon - Mistbrand Marsh",
+      "03 Zeffon - A New Age",
+      "04 Zeffon - Canyon of Various Tragedies",
+      "05 Zeffon - Octopus",
+      "06 Zeffon - Cicada",
+      "07 Zeffon - Jumadag-Di-Rii",
+      "08 Zeffon - Isolated",
+      "09 Zeffon - Approach",
+      "10 Zeffon - Pain Receptors",
+      "11 Zeffon - Sword's Edge"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/012cf2076118d94c77ff/Jumadag-Di-Rii.tar"
+    }
+  }
+}
