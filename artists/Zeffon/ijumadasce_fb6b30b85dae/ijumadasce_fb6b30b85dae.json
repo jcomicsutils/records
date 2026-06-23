@@ -1,0 +1,31 @@
+{
+  "id": "ijumadasce_fb6b30b85dae",
+  "fingerprint": "fb6b30b85dae7beb589e1c900ccc0a1d7eca88dbd0ec86db6fa4f34693f92158",
+  "archived_at": "2026-06-23T18:58:51Z",
+  "metadata": {
+    "title": "Ijumadasce",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 6517,
+    "duration_human": "01:48:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Burning",
+      "02 Zeffon - Nerve Gas",
+      "03 Zeffon - The Time of the Summoning, Pt. 1",
+      "04 Zeffon - Manuscript 13",
+      "05 Zeffon - Ritual 0",
+      "06 Zeffon - House of Skulls",
+      "07 Zeffon - Ijumadasce",
+      "08 Zeffon - Comprehnsn.66"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/04c7c9b6b4c0cfe1db0c/Ijumadasce.tar"
+    }
+  }
+}
