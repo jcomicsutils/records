@@ -1,5 +1,7 @@
 # Zeffon — I'll Be Joining the Military Police (Manipura=Ёумтжд - Тгуоч Зрпамричац XIV) (2020)
 
+![Cover](https://archive.org/download/ill-be-joining-the-military-police-manipuraeumtzhd-tguoch-zrpamrichats-xiv_9108e0fd3561/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta7/a248707274880f1eab71/I_ll_Be_Joining_the_Military_Police_Manipura.tar)
+- [Archive.org](https://archive.org/details/ill-be-joining-the-military-police-manipuraeumtzhd-tguoch-zrpamrichats-xiv_9108e0fd3561)
 
 ## Tracklist
 
