@@ -1,0 +1,27 @@
+{
+  "id": "killing-words_dc8d14b8b8fd",
+  "fingerprint": "dc8d14b8b8fde0e6e2e7b0bd502bfe0cb780d0b5270f00fc19e3a9056976406f",
+  "archived_at": "2026-06-23T19:23:22Z",
+  "metadata": {
+    "title": "Killing Words",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4149,
+    "duration_human": "01:09:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Blaze Woods",
+      "02 Zeffon - Altar",
+      "03 Zeffon - Divios Flaus",
+      "04 Zeffon - Odd Timing"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/354412034a2843a80243/Killing_Words.tar"
+    }
+  }
+}
