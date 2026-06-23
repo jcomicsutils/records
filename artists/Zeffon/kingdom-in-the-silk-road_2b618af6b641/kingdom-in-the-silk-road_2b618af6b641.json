@@ -1,0 +1,27 @@
+{
+  "id": "kingdom-in-the-silk-road_2b618af6b641",
+  "fingerprint": "2b618af6b641510350ac4a09ac6e5e9c66ab9d9ae1a763d3b7196c66284ab2d6",
+  "archived_at": "2026-06-23T19:25:33Z",
+  "metadata": {
+    "title": "Kingdom in the Silk Road",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 11668,
+    "duration_human": "03:14:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Sirius, Part 2",
+      "02 Zeffon - Butterbread",
+      "03 Zeffon - Sil Capitria, Part 2",
+      "04 Zeffon - Sirius Tower (Ritual for the Moon)"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/3e6ed129ba1808756739/Kingdom_in_the_Silk_Road.tar"
+    }
+  }
+}
