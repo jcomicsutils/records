@@ -1,0 +1,50 @@
+{
+  "id": "an-anthology-of-noise-electronic-music-fourth-a-chronology-1937-2005_047eb8d7b958",
+  "fingerprint": "047eb8d7b958af02ca9f9aba7baa85103e52b7553706f81b591339ad15e4db96",
+  "archived_at": "2026-06-23T21:09:25Z",
+  "metadata": {
+    "title": "An Anthology of Noise & Electronic Music / Fourth A-Chronology 1937-2005",
+    "artist": "Various Artists",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 24,
+    "duration_seconds": 9353,
+    "duration_human": "02:35:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "1-01 Halim El-Dabh - Wire Recorder Piece",
+      "1-02 György Ligeti - Pièce Électronique 3",
+      "1-03 Jean-Claude Risset - Mutations",
+      "1-04 Beatriz Ferreyra - Demeures Aquatiques",
+      "1-05 Maja Ratkje - Vox",
+      "1-06 Laurie Spiegel - Sediment",
+      "1-07 Steve Reich / Ulrich Krieger - Pendulum Music",
+      "1-08 Stephen Vitiello - Marfa Mix",
+      "1-09 eRikm - Ressac",
+      "1-10 Wang Changcun - Sea-Food",
+      "1-11 Chlorgeschlecht - Unyoga",
+      "1-12 Gottfried Michael Koenig - Funktion Grau",
+      "2-01 Milan Knizak - Broken Music Composition",
+      "2-02 Les Rallizes Denudes - Fucked Up and Naked",
+      "2-03 Vibracathedral Orchestra - Weaving the Magic",
+      "2-04 Andy Hawkins - River Blindness",
+      "2-05 Alvin Lucier - Still and Moving Lines of Silence in Families of Hyperbolas: Voice",
+      "2-06 Loop Orchestra - Circa 1901",
+      "2-07 John Watermann - Still Warm",
+      "2-08 François Bayle / Robert Wyatt / Kevin Ayers - It",
+      "2-09 William S. Burroughs - Present Time Exercises",
+      "2-10 James Whitehead - Air Attack Over Kabul Airfield",
+      "2-11 Jean-Marc Vivenza - Simultanéité Aérienne",
+      "2-12 Olivier Messiaen/Ensemble d'Ondes Martenot de Montréal - Oraison"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/an-anthology-of-noise-electronic-music-fourth-a-chronology-1937-2005_047eb8d7b958"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/9d9519a7379c4358af72/An_Anthology_of_Noise_Electronic_Music_-_Fourth_A-Chronology_1.tar"
+    }
+  }
+}
