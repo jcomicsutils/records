@@ -1,0 +1,25 @@
+{
+  "id": "jumpio-n-medexxu_1342dde095fa",
+  "fingerprint": "1342dde095fa50519c855346618cea9a62e2742a7aa5acd3bfab0715caa26c1e",
+  "archived_at": "2026-06-23T19:11:49Z",
+  "metadata": {
+    "title": "Jumpiô-n-medexxû",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2975,
+    "duration_human": "00:49:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Ak-Ka-Kah-Tok",
+      "02 Zeffon - The Man Who Sneers"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/35ae37906fa6e1ec8f22/Jumpi_-n-medexx.tar"
+    }
+  }
+}
