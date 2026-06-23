@@ -1,0 +1,25 @@
+{
+  "id": "industrial-sector_9971b0acf42f",
+  "fingerprint": "9971b0acf42fbc08805f100003f323267e9e0d72dc7e609c0cfb93bb1f1dced3",
+  "archived_at": "2026-06-23T19:00:17Z",
+  "metadata": {
+    "title": "Industrial Sector",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3163,
+    "duration_human": "00:52:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Untitled",
+      "02 Zeffon - Untitled"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta7/979563cc21c65082c300/Industrial_Sector.tar"
+    }
+  }
+}
