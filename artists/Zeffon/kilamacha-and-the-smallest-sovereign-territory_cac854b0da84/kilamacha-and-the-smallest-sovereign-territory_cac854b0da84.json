@@ -19,6 +19,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/f13b4fc96341d71a442f/Kilamacha_and_the_Smallest_Sovereign_Territory.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/kilamacha-and-the-smallest-sovereign-territory_cac854b0da84"
     }
   }
 }
