@@ -1,5 +1,7 @@
 # Zeffon — Industrial Sector (2016)
 
+![Cover](https://archive.org/download/industrial-sector_9971b0acf42f/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta7/979563cc21c65082c300/Industrial_Sector.tar)
+- [Archive.org](https://archive.org/details/industrial-sector_9971b0acf42f)
 
 ## Tracklist
 

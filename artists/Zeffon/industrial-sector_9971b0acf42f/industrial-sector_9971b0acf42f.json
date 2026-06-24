@@ -20,6 +20,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/979563cc21c65082c300/Industrial_Sector.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/industrial-sector_9971b0acf42f"
     }
   }
 }
