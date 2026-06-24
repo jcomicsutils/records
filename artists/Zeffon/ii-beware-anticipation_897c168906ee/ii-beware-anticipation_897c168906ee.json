@@ -23,6 +23,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/9b6aceac9e712c108e62/II_Beware_Anticipation.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/ii-beware-anticipation_897c168906ee"
     }
   }
 }

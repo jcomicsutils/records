@@ -1,5 +1,7 @@
 # Zeffon — II: Beware Anticipation (2014)
 
+![Cover](https://archive.org/download/ii-beware-anticipation_897c168906ee/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta7/9b6aceac9e712c108e62/II_Beware_Anticipation.tar)
+- [Archive.org](https://archive.org/details/ii-beware-anticipation_897c168906ee)
 
 ## Tracklist
 
