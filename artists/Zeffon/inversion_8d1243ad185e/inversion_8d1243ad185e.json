@@ -20,6 +20,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/ca0f7da2c8ab79b7235b/Inversion.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/inversion_8d1243ad185e"
     }
   }
 }
