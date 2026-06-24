@@ -26,6 +26,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/04c7c9b6b4c0cfe1db0c/Ijumadasce.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/ijumadasce_fb6b30b85dae"
     }
   }
 }

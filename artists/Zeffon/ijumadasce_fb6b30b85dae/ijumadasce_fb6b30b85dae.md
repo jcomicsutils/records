@@ -1,5 +1,7 @@
 # Zeffon — Ijumadasce (2013)
 
+![Cover](https://archive.org/download/ijumadasce_fb6b30b85dae/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta7/04c7c9b6b4c0cfe1db0c/Ijumadasce.tar)
+- [Archive.org](https://archive.org/details/ijumadasce_fb6b30b85dae)
 
 ## Tracklist
 
