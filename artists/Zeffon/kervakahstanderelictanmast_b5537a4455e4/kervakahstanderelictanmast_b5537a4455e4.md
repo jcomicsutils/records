@@ -1,5 +1,7 @@
 # Zeffon — kerväkähstanderelictanmast (2014)
 
+![Cover](https://archive.org/download/kervakahstanderelictanmast_b5537a4455e4/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta7/37204757f628518e4485/kerv_k_hstanderelictanmast.tar)
+- [Archive.org](https://archive.org/details/kervakahstanderelictanmast_b5537a4455e4)
 
 ## Tracklist
 

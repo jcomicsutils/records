@@ -36,6 +36,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/37204757f628518e4485/kerv_k_hstanderelictanmast.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/kervakahstanderelictanmast_b5537a4455e4"
     }
   }
 }
