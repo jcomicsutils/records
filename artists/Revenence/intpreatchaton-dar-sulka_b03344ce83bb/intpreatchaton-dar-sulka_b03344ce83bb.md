@@ -1,5 +1,7 @@
 # Revenence — Intpreatchaton dar Sulka (2018)
 
+![Cover](https://archive.org/download/intpreatchaton-dar-sulka_b03344ce83bb/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta7/681242932ea98752946c/Intpreatchaton_dar_Sulka.tar)
+- [Archive.org](https://archive.org/details/intpreatchaton-dar-sulka_b03344ce83bb)
 
 ## Tracklist
 

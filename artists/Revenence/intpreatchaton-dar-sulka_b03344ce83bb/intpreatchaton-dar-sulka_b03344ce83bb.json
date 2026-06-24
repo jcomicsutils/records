@@ -34,6 +34,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/681242932ea98752946c/Intpreatchaton_dar_Sulka.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/intpreatchaton-dar-sulka_b03344ce83bb"
     }
   }
 }
