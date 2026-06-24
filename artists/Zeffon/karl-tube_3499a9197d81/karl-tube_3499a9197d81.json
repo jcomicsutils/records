@@ -28,6 +28,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/59bfe0f60ddc017e94f1/Karl_Tube.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/karl-tube_3499a9197d81"
     }
   }
 }
