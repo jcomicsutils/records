@@ -28,6 +28,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/efd0796d0e1747062abb/III.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/iii_f28dbb12539f"
     }
   }
 }

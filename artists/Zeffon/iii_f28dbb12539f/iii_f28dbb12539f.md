@@ -1,5 +1,7 @@
 # Zeffon — III (2013)
 
+![Cover](https://archive.org/download/iii_f28dbb12539f/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta7/efd0796d0e1747062abb/III.tar)
+- [Archive.org](https://archive.org/details/iii_f28dbb12539f)
 
 ## Tracklist
 
