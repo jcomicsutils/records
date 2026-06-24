@@ -1,5 +1,7 @@
 # Zeffon — Jumadag-Di-Rii (2013)
 
+![Cover](https://archive.org/download/jumadag-di-rii_4e33d394c433/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta7/012cf2076118d94c77ff/Jumadag-Di-Rii.tar)
+- [Archive.org](https://archive.org/details/jumadag-di-rii_4e33d394c433)
 
 ## Tracklist
 

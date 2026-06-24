@@ -29,6 +29,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/012cf2076118d94c77ff/Jumadag-Di-Rii.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/jumadag-di-rii_4e33d394c433"
     }
   }
 }
