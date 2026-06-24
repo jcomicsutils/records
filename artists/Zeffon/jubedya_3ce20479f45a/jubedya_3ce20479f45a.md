@@ -1,5 +1,7 @@
 # Zeffon — Jubedya (2015)
 
+![Cover](https://archive.org/download/jubedya_3ce20479f45a/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta7/3184f6ecf14deaa61e35/Jubedya.tar)
+- [Archive.org](https://archive.org/details/jubedya_3ce20479f45a)
 
 ## Tracklist
 

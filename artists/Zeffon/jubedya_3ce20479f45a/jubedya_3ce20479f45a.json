@@ -19,6 +19,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/3184f6ecf14deaa61e35/Jubedya.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/jubedya_3ce20479f45a"
     }
   }
 }
