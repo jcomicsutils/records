@@ -20,6 +20,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/d91cf0013dc5801c7eb1/Jennifer.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/jennifer_aa55e9e97c0f"
     }
   }
 }

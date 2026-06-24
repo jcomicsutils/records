@@ -1,5 +1,7 @@
 # Zeffon — Jennifer (2017)
 
+![Cover](https://archive.org/download/jennifer_aa55e9e97c0f/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta7/d91cf0013dc5801c7eb1/Jennifer.tar)
+- [Archive.org](https://archive.org/details/jennifer_aa55e9e97c0f)
 
 ## Tracklist
 
