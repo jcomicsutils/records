@@ -23,6 +23,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/ca3e59d54d38a5f6141f/Kelu.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/kelue_181a381a2be0"
     }
   }
 }

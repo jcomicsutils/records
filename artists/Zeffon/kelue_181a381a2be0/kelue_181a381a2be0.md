@@ -1,5 +1,7 @@
 # Zeffon — Kelué (2013)
 
+![Cover](https://archive.org/download/kelue_181a381a2be0/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta7/ca3e59d54d38a5f6141f/Kelu.tar)
+- [Archive.org](https://archive.org/details/kelue_181a381a2be0)
 
 ## Tracklist
 
