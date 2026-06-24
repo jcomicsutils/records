@@ -1,5 +1,7 @@
 # Zeffon — Killing Words (2016)
 
+![Cover](https://archive.org/download/killing-words_dc8d14b8b8fd/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta7/354412034a2843a80243/Killing_Words.tar)
+- [Archive.org](https://archive.org/details/killing-words_dc8d14b8b8fd)
 
 ## Tracklist
 
