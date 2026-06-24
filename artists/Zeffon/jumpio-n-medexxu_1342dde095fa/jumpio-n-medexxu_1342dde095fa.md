@@ -1,5 +1,7 @@
 # Zeffon — Jumpiô-n-medexxû (2019)
 
+![Cover](https://archive.org/download/jumpio-n-medexxu_1342dde095fa/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta7/35ae37906fa6e1ec8f22/Jumpi_-n-medexx.tar)
+- [Archive.org](https://archive.org/details/jumpio-n-medexxu_1342dde095fa)
 
 ## Tracklist
 

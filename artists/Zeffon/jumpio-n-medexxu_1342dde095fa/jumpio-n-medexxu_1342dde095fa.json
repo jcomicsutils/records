@@ -20,6 +20,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/35ae37906fa6e1ec8f22/Jumpi_-n-medexx.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/jumpio-n-medexxu_1342dde095fa"
     }
   }
 }
