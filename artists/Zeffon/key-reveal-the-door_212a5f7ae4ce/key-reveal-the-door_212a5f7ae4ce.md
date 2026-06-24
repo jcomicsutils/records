@@ -1,5 +1,7 @@
 # Zeffon — Key, Reveal the Door (2017)
 
+![Cover](https://archive.org/download/key-reveal-the-door_212a5f7ae4ce/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta7/e652e69a79670d7819e2/Key_Reveal_the_Door.tar)
+- [Archive.org](https://archive.org/details/key-reveal-the-door_212a5f7ae4ce)
 
 ## Tracklist
 
