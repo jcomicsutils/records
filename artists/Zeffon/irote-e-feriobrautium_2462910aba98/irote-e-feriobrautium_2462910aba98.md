@@ -1,5 +1,7 @@
 # Zeffon — Irote E Feriöbrautium (2017)
 
+![Cover](https://archive.org/download/irote-e-feriobrautium_2462910aba98/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta7/782d33f90ee86706e263/Irote_E_Feri_brautium.tar)
+- [Archive.org](https://archive.org/details/irote-e-feriobrautium_2462910aba98)
 
 ## Tracklist
 

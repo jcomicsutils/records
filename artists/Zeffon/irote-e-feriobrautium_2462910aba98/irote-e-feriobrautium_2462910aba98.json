@@ -25,6 +25,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/782d33f90ee86706e263/Irote_E_Feri_brautium.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/irote-e-feriobrautium_2462910aba98"
     }
   }
 }
