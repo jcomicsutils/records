@@ -1,0 +1,27 @@
+{
+  "id": "silky-doll_a210e43ba454",
+  "fingerprint": "a210e43ba454d981e3ef898a710a361b98b35500b4a0df9e6015ecce0c449925",
+  "archived_at": "2026-06-25T19:46:18Z",
+  "metadata": {
+    "title": "Silky Doll",
+    "artist": "Luke Chaos",
+    "year": "2016",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 223,
+    "duration_human": "00:03:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "00 Luke Chaos - Silky Doll"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/silky-doll_a210e43ba454"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/e8de7917f4e09cb18ab0/Silky_Doll.tar"
+    }
+  }
+}
