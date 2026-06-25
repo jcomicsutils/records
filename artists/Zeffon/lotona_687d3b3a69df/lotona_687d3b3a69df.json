@@ -1,0 +1,36 @@
+{
+  "id": "lotona_687d3b3a69df",
+  "fingerprint": "687d3b3a69df0df59df92790e270556d016a3b628454d5d7ef0b7318c9e6b0ba",
+  "archived_at": "2026-06-25T22:46:17Z",
+  "metadata": {
+    "title": "Lotona",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 11887,
+    "duration_human": "03:18:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Kluster (Extract)",
+      "02 Zeffon - White Hot Flame Waltz",
+      "03 Zeffon - 'Urbain Ijlenephviohijl' Groove (Part II of II)",
+      "04 Zeffon - I've Gone Ahead & M72HH'd You",
+      "05 Zeffon - Darkfeer in Rainforest",
+      "06 Zeffon - Cöfféé Béäns ín Kínd Öfférs Régärdíng thé Dög",
+      "07 Zeffon - Jade",
+      "08 Zeffon - The Broken Wheel",
+      "09 Zeffon - The Study",
+      "10 Zeffon - Vonere é Termon"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lotona_687d3b3a69df"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/8fe86bebc332e5a91fde/Lotona.tar"
+    }
+  }
+}
