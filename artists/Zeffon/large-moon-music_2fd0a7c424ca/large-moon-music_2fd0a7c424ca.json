@@ -1,0 +1,30 @@
+{
+  "id": "large-moon-music_2fd0a7c424ca",
+  "fingerprint": "2fd0a7c424caf7fd07caefabf3f5d57e79c49eec368e06e31847a9f4d9378675",
+  "archived_at": "2026-06-25T16:42:56Z",
+  "metadata": {
+    "title": "Large-Moon-Music",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 6044,
+    "duration_human": "01:40:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Breëhjma (The Burning of the Village)",
+      "02 Zeffon - Excitement (Up to the Death Towers)",
+      "03 Zeffon - Goddess Inside",
+      "04 Zeffon - Here In The Puzzles, You Shall Find Secrets"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/large-moon-music_2fd0a7c424ca"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/5f9dea648dac0d4f6a23/Large-Moon-Music.tar"
+    }
+  }
+}
