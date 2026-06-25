@@ -1,0 +1,30 @@
+{
+  "id": "studio-25_0dc866c362f7",
+  "fingerprint": "0dc866c362f7bcd1a702f85f9d3c2c1c485029e4b892001edf849ddca4f09afb",
+  "archived_at": "2026-06-25T19:55:51Z",
+  "metadata": {
+    "title": "Studio 25",
+    "artist": "Noise/Girl",
+    "year": "2023",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 853,
+    "duration_human": "00:14:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Noise/Girl - Did You Really Miss Me",
+      "02 Noise/Girl - Disco Invincible",
+      "03 Noise/Girl - Mononononoke",
+      "04 Noise/Girl - Shinjuku Death Cat"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/studio-25_0dc866c362f7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/ef54cf06be44b9b3aac3/Studio_25.tar"
+    }
+  }
+}
