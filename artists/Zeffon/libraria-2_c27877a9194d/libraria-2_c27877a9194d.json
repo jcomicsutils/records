@@ -1,0 +1,30 @@
+{
+  "id": "libraria-2_c27877a9194d",
+  "fingerprint": "c27877a9194d72c2df11db2f698984f166ec9f0ad392c2ed011574b67afadade",
+  "archived_at": "2026-06-25T19:58:01Z",
+  "metadata": {
+    "title": "Libraria 2",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 929,
+    "duration_human": "00:15:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Trees Dance...",
+      "02 Zeffon - Btro Dancer",
+      "03 Zeffon - Witi",
+      "04 Zeffon - Gabon (Dance Dub Ver. 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/libraria-2_c27877a9194d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/7cc259b18908b794bf09/Libraria_2.tar"
+    }
+  }
+}
