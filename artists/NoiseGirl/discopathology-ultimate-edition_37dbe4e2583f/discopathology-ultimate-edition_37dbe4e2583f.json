@@ -1,0 +1,35 @@
+{
+  "id": "discopathology-ultimate-edition_37dbe4e2583f",
+  "fingerprint": "37dbe4e2583fa41898814fd1830d7f0c0325667f15cb99a5e4d14e6bf0c5f1e1",
+  "archived_at": "2026-06-25T19:53:32Z",
+  "metadata": {
+    "title": "Discopathology (Ultimate Edition)",
+    "artist": "Noise/Girl",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2710,
+    "duration_human": "00:45:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Noise/Girl - Before the Carnival",
+      "02 Noise/Girl - Discopathology",
+      "03 Noise/Girl - Honeyfunk",
+      "04 Noise/Girl - Alive",
+      "05 Noise/Girl - King of Pop",
+      "06 Noise/Girl - Alice in Boogie Wonderland",
+      "07 Noise/Girl - Smoke'N'Mirrorz",
+      "08 Noise/Girl - Thru the Boogieglass",
+      "09 Noise/Girl - Do You Feel Love?"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/discopathology-ultimate-edition_37dbe4e2583f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/e45bd6f98a0f44b638ad/Discopathology_Ultimate_Edition.tar"
+    }
+  }
+}
