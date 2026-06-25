@@ -1,0 +1,32 @@
+{
+  "id": "guiridao_2e89c3fb116d",
+  "fingerprint": "2e89c3fb116d998710fb10c042313a5f29f02e60b491e55158d12e35d5556f55",
+  "archived_at": "2026-06-25T20:01:39Z",
+  "metadata": {
+    "title": "帰り道",
+    "artist": "降神",
+    "year": "2004",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 1382,
+    "duration_human": "00:23:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 降神 - Kaeri Michi",
+      "02 降神 - Mugen",
+      "03 降神 - Mugen Instrumental",
+      "04 降神 - Rock Star No Higeki",
+      "05 降神 - Rolling God",
+      "06 降神 - Rolling God Instrumental"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/guiridao_2e89c3fb116d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/4484360a34d83b88b73f/%E5%B8%B0%E3%82%8A%E9%81%93.tar"
+    }
+  }
+}
