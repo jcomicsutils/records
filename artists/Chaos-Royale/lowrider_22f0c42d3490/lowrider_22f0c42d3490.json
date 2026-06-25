@@ -1,0 +1,31 @@
+{
+  "id": "lowrider_22f0c42d3490",
+  "fingerprint": "22f0c42d34905ef9f325cd3b62be3826f5b392c3f1d9887567ffde3c28c58b48",
+  "archived_at": "2026-06-25T19:30:04Z",
+  "metadata": {
+    "title": "Lowrider",
+    "artist": "Chaos Royale",
+    "year": "2009",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 1302,
+    "duration_human": "00:21:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Chaos Royale - Bring It",
+      "02 Chaos Royale - Oh (Crunk Remix)",
+      "03 Chaos Royale - 187",
+      "04 Chaos Royale - Lowrider",
+      "05 Chaos Royale - 187 -Death Metal Mix-"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lowrider_22f0c42d3490"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/264014ab4967976fe64e/Lowrider.tar"
+    }
+  }
+}
