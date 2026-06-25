@@ -1,0 +1,30 @@
+{
+  "id": "libraria_5a3727988998",
+  "fingerprint": "5a37279889985f58bd0a853c92899a6c722098278a04713501f441edda034687",
+  "archived_at": "2026-06-25T19:52:06Z",
+  "metadata": {
+    "title": "Libraria",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1150,
+    "duration_human": "00:19:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - A Machine of Pentagons",
+      "02 Zeffon - Libraria",
+      "03 Zeffon - Cida Covenant",
+      "04 Zeffon - Dog"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/libraria_5a3727988998"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/14df7e0a284f5ccda587/Libraria.tar"
+    }
+  }
+}
