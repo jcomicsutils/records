@@ -1,0 +1,40 @@
+{
+  "id": "lap-sample-version-jade_48ba7b26e36c",
+  "fingerprint": "48ba7b26e36cdfb2389903d914903a277281d828913189358cb297f7649f9756",
+  "archived_at": "2026-06-25T04:32:47Z",
+  "metadata": {
+    "title": "Läp Sämplé Vérsíön - Jädé",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 6556,
+    "duration_human": "01:49:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - 1520",
+      "02 Zeffon - Chemtrail Project (Suit Malfunction)",
+      "03 Zeffon - Dedication",
+      "04 Zeffon - Earthquake III",
+      "05 Zeffon - Gröünd Téä Léäves",
+      "06 Zeffon - The Great Limb Forest (Alternative Version)",
+      "07 Zeffon - Küma",
+      "08 Zeffon - Lotona",
+      "09 Zeffon - He Can't Keep His Hands Away",
+      "10 Zeffon - Strange Times Indeed",
+      "11 Zeffon - Thé Läp, Part 1",
+      "12 Zeffon - Unwilling to Follow",
+      "13 Zeffon - Urbanize Glaciate 4",
+      "14 Zeffon - New Ages of Time"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lap-sample-version-jade_48ba7b26e36c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/4071ecadb522e0af927f/L_p_S_mpl_V_rs_n_-_J_d.tar"
+    }
+  }
+}
