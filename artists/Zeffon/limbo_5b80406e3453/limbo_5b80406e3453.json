@@ -1,0 +1,28 @@
+{
+  "id": "limbo_5b80406e3453",
+  "fingerprint": "5b80406e3453140533fcabbbbd0cd577458baf834d68c4b0d02ad142d84c1124",
+  "archived_at": "2026-06-25T21:05:45Z",
+  "metadata": {
+    "title": "Limbo",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5653,
+    "duration_human": "01:34:13",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Vagarditam",
+      "02 Zeffon - Heretmedel"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/limbo_5b80406e3453"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/cdc5998417b9d193e9d8/Limbo.tar"
+    }
+  }
+}
