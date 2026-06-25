@@ -1,0 +1,33 @@
+{
+  "id": "a-dream-we-had_39c069b14412",
+  "fingerprint": "39c069b144122f46d259d0701295b625b4ba5fe9578ceb5bdb2de86ca85eba2a",
+  "archived_at": "2026-06-25T19:50:12Z",
+  "metadata": {
+    "title": "A Dream We Had",
+    "artist": "Noise/Girl",
+    "year": "2024",
+    "codec": "MP3",
+    "num_tracks": 7,
+    "duration_seconds": 2892,
+    "duration_human": "00:48:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Noise/Girl - A Dream We Had",
+      "02 Noise/Girl - Mononononoke (Long Version)",
+      "03 Noise/Girl - Zychedelia",
+      "04 Noise/Girl - Vampire Mermaid",
+      "05 Noise/Girl - Butterflies and Kisses and Rainbows",
+      "06 Noise/Girl - Cute Bunny World",
+      "07 Noise/Girl - A Reflection of a Dream"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-dream-we-had_39c069b14412"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/b3870a319cbda088a8af/A_Dream_We_Had.tar"
+    }
+  }
+}
