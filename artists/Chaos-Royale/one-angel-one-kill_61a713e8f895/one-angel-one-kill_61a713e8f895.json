@@ -1,0 +1,30 @@
+{
+  "id": "one-angel-one-kill_61a713e8f895",
+  "fingerprint": "61a713e8f895d2250ae6f3ff6f426846064ad2068543ed3d4755c75e6628d038",
+  "archived_at": "2026-06-25T19:30:53Z",
+  "metadata": {
+    "title": "One Angel, One Kill",
+    "artist": "Chaos Royale",
+    "year": "2014",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1228,
+    "duration_human": "00:20:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Chaos Royale - This Means War (First Love Mix)",
+      "02 Chaos Royale - Kalashnikov Attitude (Full Auto Mix)",
+      "03 Chaos Royale - Spartan Ogre (Final Battle Mix)",
+      "04 Chaos Royale - Spartan Ogre (No Subs Edit)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/one-angel-one-kill_61a713e8f895"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/40bd0b095ccfb1a616fb/One_Angel_One_Kill.tar"
+    }
+  }
+}
