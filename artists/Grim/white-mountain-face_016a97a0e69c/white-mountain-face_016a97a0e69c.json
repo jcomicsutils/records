@@ -1,0 +1,31 @@
+{
+  "id": "white-mountain-face_016a97a0e69c",
+  "fingerprint": "016a97a0e69ce7a03e8e5e6610d8f46c960d750ee02f75503a8ec0ef3c792006",
+  "archived_at": "2026-06-25T19:25:16Z",
+  "metadata": {
+    "title": "White Mountain Face",
+    "artist": "Grim",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2826,
+    "duration_human": "00:47:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Grim - White Mountain Face",
+      "02 Grim - Double Headed Snake",
+      "03 Grim - Out-of-Body",
+      "04 Grim - Roy",
+      "05 Grim - Departure Garment"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/white-mountain-face_016a97a0e69c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/e8f67b4a4495154e31cc/White_Mountain_Face.tar"
+    }
+  }
+}
