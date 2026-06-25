@@ -20,6 +20,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/87aa7d1cf506b0c9172e/Knee_Hard.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/knee-hard_2182120770ab"
     }
   }
 }
