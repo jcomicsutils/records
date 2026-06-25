@@ -59,6 +59,7 @@
 - [Loren Connors](Loren-Connors/Loren-Connors.md)
 - [Lotus Eaters](Lotus-Eaters/Lotus-Eaters.md)
 - [Love's Holiday Orchestra](Love's-Holiday-Orchestra/Love's-Holiday-Orchestra.md)
+- [Luke Chaos](Luke-Chaos/Luke-Chaos.md)
 - [Lupercais](Lupercais/Lupercais.md)
 - [Mailcop](Mailcop/Mailcop.md)
 - [Merzbow + Xiu Xiu](Merzbow-+-Xiu-Xiu/Merzbow-+-Xiu-Xiu.md)

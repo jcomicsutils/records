@@ -1,0 +1,29 @@
+{
+  "id": "alice-underwater_36c1f6302a7d",
+  "fingerprint": "36c1f6302a7d9dced7e085e6ff5f1907ddb093b706771431841f62bd58283624",
+  "archived_at": "2026-06-25T19:44:12Z",
+  "metadata": {
+    "title": "Alice Underwater",
+    "artist": "Luke Chaos",
+    "year": "2023",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 1218,
+    "duration_human": "00:20:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Luke Chaos - Alice Underwater",
+      "02 Luke Chaos - Abyss of Tears",
+      "03 Luke Chaos - Mercury and Sulphur"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/alice-underwater_36c1f6302a7d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/2c113f00a375d5745d9f/Alice_Underwater.tar"
+    }
+  }
+}
