@@ -22,6 +22,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/e4f1b44e1ad88ac9d2f4/Kiss_of_Death_Autumn_VIII.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/kiss-of-death-autumn-viii_9557b3253710"
     }
   }
 }

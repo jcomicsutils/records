@@ -1,5 +1,7 @@
 # Zeffon — Kiss of Death (Autumn VIII) (2026)
 
+![Cover](https://archive.org/download/kiss-of-death-autumn-viii_9557b3253710/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta7/e4f1b44e1ad88ac9d2f4/Kiss_of_Death_Autumn_VIII.tar)
+- [Archive.org](https://archive.org/details/kiss-of-death-autumn-viii_9557b3253710)
 
 ## Tracklist
 
