@@ -1,0 +1,31 @@
+{
+  "id": "forever-and-today_681690eb7e06",
+  "fingerprint": "681690eb7e0652d4c525f72eeeba9a68f83399ebcc948c80e9d2f0ff0fd0c777",
+  "archived_at": "2026-06-25T19:55:02Z",
+  "metadata": {
+    "title": "Forever and Today",
+    "artist": "Noise/Girl",
+    "year": "2024",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 2565,
+    "duration_human": "00:42:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Noise/Girl - Forever and Today",
+      "02 Noise/Girl - I Still Remember Love",
+      "03 Noise/Girl - To Tell You",
+      "04 Noise/Girl - The Cold Outside",
+      "05 Noise/Girl - Thrice Upon a Time"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/forever-and-today_681690eb7e06"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/73a630d3a80ccbef527f/Forever_and_Today.tar"
+    }
+  }
+}
