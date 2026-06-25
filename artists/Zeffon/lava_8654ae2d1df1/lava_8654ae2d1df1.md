@@ -1,5 +1,7 @@
 # Zeffon — Lava (2013)
 
+![Cover](https://archive.org/download/lava_8654ae2d1df1/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta8/c7075fa6db78985b2990/Lava.tar)
+- [Archive.org](https://archive.org/details/lava_8654ae2d1df1)
 
 ## Tracklist
 

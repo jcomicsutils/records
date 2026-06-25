@@ -19,6 +19,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta8/c7075fa6db78985b2990/Lava.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/lava_8654ae2d1df1"
     }
   }
 }
