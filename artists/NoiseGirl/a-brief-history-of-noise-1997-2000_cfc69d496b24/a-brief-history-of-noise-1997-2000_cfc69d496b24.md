@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/a-brief-history-of-noise-1997-2000_cfc69d496b24)
+- [FileDitch](https://fileditchfiles.me/beta8/4c087f37e4fd07446a7e/A_Brief_History_of_Noise_1997_-_2000.tar)
 
 ## Tracklist
 
