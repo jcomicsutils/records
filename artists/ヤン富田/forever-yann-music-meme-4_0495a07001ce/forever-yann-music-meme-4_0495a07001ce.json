@@ -1,0 +1,37 @@
+{
+  "id": "forever-yann-music-meme-4_0495a07001ce",
+  "fingerprint": "0495a07001ced4ab4f26d884695ecf2a7b7ff3447a97175ea2099cb73edef388",
+  "archived_at": "2026-06-25T20:39:09Z",
+  "metadata": {
+    "title": "Forever Yann Music Meme 4",
+    "artist": "ヤン富田",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 4745,
+    "duration_human": "01:19:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 ヤン富田 - Prelude for Variations - From Audio Science Laboratory Archives",
+      "02 小泉今日子 - Moon Light",
+      "03 山本リンダ - Smoke Gets in Your Eyes",
+      "04 ヤン富田 - C-Ya!",
+      "05 カヒミ・カリィ - I'm in the Rain",
+      "06 Cymbals - Glide (Yann Tomita Mix)",
+      "07 Naives - Forever Young",
+      "08 Doopees - C-Ya! C-Ya!",
+      "09 ヤン富田 - C-Ya! ~Memories of Tape Recorder",
+      "10 ヤン富田 - See Ya! #1",
+      "11 ヤン富田 - Forever Yann"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/forever-yann-music-meme-4_0495a07001ce"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/cc7b5eb5ef78349f83ab/Forever_Yann_Music_Meme_4.tar"
+    }
+  }
+}
