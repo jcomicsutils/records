@@ -1,0 +1,5 @@
+# Noise/Girl
+
+| Album | Year | Codec | Duration | Hosts |
+|-------|------|-------|----------|-------|
+| [A Brief History of Noise \(1997 - 2000\)](a-brief-history-of-noise-1997-2000_cfc69d496b24/a-brief-history-of-noise-1997-2000_cfc69d496b24.md) | 2008 | MP3 | 00:29:55 | [IA](https://archive.org/details/a-brief-history-of-noise-1997-2000_cfc69d496b24) |

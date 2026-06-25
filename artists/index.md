@@ -71,6 +71,7 @@
 - [Neutral Milk Hotel](Neutral-Milk-Hotel/Neutral-Milk-Hotel.md)
 - [Nils Frahm](Nils-Frahm/Nils-Frahm.md)
 - [Noise](Noise/Noise.md)
+- [Noise/Girl](NoiseGirl/NoiseGirl.md)
 - [North Eurasia Found Tapes](North-Eurasia-Found-Tapes/North-Eurasia-Found-Tapes.md)
 - [Não ao Futebol Moderno](Não-ao-Futebol-Moderno/Não-ao-Futebol-Moderno.md)
 - [Peace & Freedom](Peace-&-Freedom/Peace-&-Freedom.md)

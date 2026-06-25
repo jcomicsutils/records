@@ -1,0 +1,27 @@
+{
+  "id": "liberty-flag_468d0a65e674",
+  "fingerprint": "468d0a65e6747769a65a2c374517ce2f0df70b12df568fb8387c8fc1774745a5",
+  "archived_at": "2026-06-25T19:48:31Z",
+  "metadata": {
+    "title": "Liberty Flag",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1798,
+    "duration_human": "00:29:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Usurperlibertymaschine"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/liberty-flag_468d0a65e674"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/3e49d5aeedc4360f43c1/Liberty_Flag.tar"
+    }
+  }
+}

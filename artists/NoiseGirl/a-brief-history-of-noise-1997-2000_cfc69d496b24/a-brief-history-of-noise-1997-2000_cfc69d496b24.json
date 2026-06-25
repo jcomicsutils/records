@@ -1,0 +1,29 @@
+{
+  "id": "a-brief-history-of-noise-1997-2000_cfc69d496b24",
+  "fingerprint": "cfc69d496b24ce74bdffd498359f2d80c219411fef53b42baa8787d4a64e5369",
+  "archived_at": "2026-06-25T19:48:29Z",
+  "metadata": {
+    "title": "A Brief History of Noise (1997 - 2000)",
+    "artist": "Noise/Girl",
+    "year": "2008",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 1795,
+    "duration_human": "00:29:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Noise/Girl - Silky Doll",
+      "02 Noise/Girl - Wall of Cute (Super Disco Mix)",
+      "03 Noise/Girl - Wall of Cute (Un-Cute Mix)",
+      "04 Noise/Girl - Sun Eater 1",
+      "05 Noise/Girl - Sun Eater 2",
+      "06 Noise/Girl - Sun Eater 3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-brief-history-of-noise-1997-2000_cfc69d496b24"
+    }
+  }
+}
