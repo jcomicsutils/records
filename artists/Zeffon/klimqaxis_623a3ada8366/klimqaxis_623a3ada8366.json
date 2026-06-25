@@ -21,6 +21,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/56db6f34626d957a8998/Klimqaxis.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/klimqaxis_623a3ada8366"
     }
   }
 }

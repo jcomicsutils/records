@@ -1,5 +1,7 @@
 # Zeffon — Klimqaxis (2019)
 
+![Cover](https://archive.org/download/klimqaxis_623a3ada8366/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta7/56db6f34626d957a8998/Klimqaxis.tar)
+- [Archive.org](https://archive.org/details/klimqaxis_623a3ada8366)
 
 ## Tracklist
 
