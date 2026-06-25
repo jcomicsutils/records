@@ -1,0 +1,27 @@
+{
+  "id": "lithium-metal_9355e48bde86",
+  "fingerprint": "9355e48bde866d069ba9a95b4f311818997f686a978a4cafe3f7e58d4f6a796c",
+  "archived_at": "2026-06-25T21:19:02Z",
+  "metadata": {
+    "title": "Lithium (Metal)",
+    "artist": "Zeffon",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 84,
+    "duration_human": "00:01:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - 03"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lithium-metal_9355e48bde86"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/307213b872f6c0e4ded3/Lithium_Metal.tar"
+    }
+  }
+}
