@@ -1,0 +1,36 @@
+{
+  "id": "dr-yanns-beat-classics-1-for-dj_34176358df39",
+  "fingerprint": "34176358df398984328d18028401a5b0925ed17e7b0c897170a381d469498bb6",
+  "archived_at": "2026-06-25T20:31:19Z",
+  "metadata": {
+    "title": "Dr. Yann's Beat Classics #1 for D.J.",
+    "artist": "ヤン富田",
+    "year": "1989",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2296,
+    "duration_human": "00:38:16",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Yann Tomita - Beat of Pharaoh",
+      "02 Yann Tomita - Psycho Beat",
+      "03 Yann Tomita - Savage Beat",
+      "04 Yann Tomita - Pharaoh's Den",
+      "05 Yann Tomita - Blue Soul (Theme of Hip Hop Hippies)",
+      "06 Yann Tomita - Beat of Pharaoh",
+      "07 Yann Tomita - Psycho Beat",
+      "08 Yann Tomita - Savage Beat",
+      "09 Yann Tomita - Pharaoh's Den",
+      "10 Yann Tomita - Blue Soul (Theme of Hip Hop Hippies)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dr-yanns-beat-classics-1-for-dj_34176358df39"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/f882a970a03dd9bf2b1e/Dr._Yann_s_Beat_Classics_1_for_D.J.tar"
+    }
+  }
+}
