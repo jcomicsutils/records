@@ -22,6 +22,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta8/866966f5ff853654c486/187.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/187_b9480e0e6459"
     }
   }
 }
