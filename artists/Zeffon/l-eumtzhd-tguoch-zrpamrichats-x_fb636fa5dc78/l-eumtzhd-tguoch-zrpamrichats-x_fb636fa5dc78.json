@@ -1,0 +1,30 @@
+{
+  "id": "l-eumtzhd-tguoch-zrpamrichats-x_fb636fa5dc78",
+  "fingerprint": "fb636fa5dc787e955d5f2619ef8e68076edaeac80246d1ed419e7abc718b003b",
+  "archived_at": "2026-06-25T04:11:15Z",
+  "metadata": {
+    "title": "L (Ёумтжд - Тгуоч Зрпамричац X)",
+    "artist": "Zeffon",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 22006,
+    "duration_human": "06:06:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Meat River du HSF (MI) 48",
+      "02 Zeffon - Ocsania (Translation - Master Do-Over)",
+      "03 Zeffon - Toei Animation Sniffing Banana Gas (ARp4 µ8-Mix)",
+      "04 Zeffon - Castle Dränsilane, Part 3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/l-eumtzhd-tguoch-zrpamrichats-x_fb636fa5dc78"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/7ffb62d14dafce1c8889/L_-_X.tar"
+    }
+  }
+}
