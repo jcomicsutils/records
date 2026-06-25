@@ -1,0 +1,38 @@
+{
+  "id": "lousipaapa-purchase_ffc7b3a40386",
+  "fingerprint": "ffc7b3a40386c12c63f4aed89f532d7f7e6165caaeddf4183461e97dfbcda506",
+  "archived_at": "2026-06-25T23:26:29Z",
+  "metadata": {
+    "title": "Lousipââpa Purchase",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 10604,
+    "duration_human": "02:56:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - STÔÔÂMACH - Torrent of Stale Water",
+      "02 Zeffon - F3NR1RS8A, Part 13",
+      "03 Zeffon - Purchase 1 Was A Mistake",
+      "04 Zeffon - Papua New Guinea Clipping 1",
+      "05 Zeffon - The Kiûn-Belch",
+      "06 Zeffon - F3NR1RS8A, Part 14",
+      "07 Zeffon - Watch-toe (Ecstatic Mix)",
+      "08 Zeffon - Papua New Guinea Clipping 2",
+      "09 Zeffon - Toe",
+      "10 Zeffon - Papua New Guinea Clipping 3",
+      "11 Zeffon - F3NR1RS8a, Part 20 (Lousipââpa Purchase)",
+      "12 Zeffon - Papua New Guinea Clipping 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lousipaapa-purchase_ffc7b3a40386"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/dc39dd77bab0fda6c407/Lousip_pa_Purchase.tar"
+    }
+  }
+}
