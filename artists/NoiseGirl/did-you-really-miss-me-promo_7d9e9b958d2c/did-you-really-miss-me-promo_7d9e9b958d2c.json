@@ -1,0 +1,27 @@
+{
+  "id": "did-you-really-miss-me-promo_7d9e9b958d2c",
+  "fingerprint": "7d9e9b958d2cc8d04fc7337ee6f48a8bf487dcb8303395c8065f88c2f045ef77",
+  "archived_at": "2026-06-25T19:51:01Z",
+  "metadata": {
+    "title": "Did You Really Miss Me? PROMO",
+    "artist": "Noise/Girl",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 188,
+    "duration_human": "00:03:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Noise/Girl - Did You Really Miss Me (Impossibly Loud Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/did-you-really-miss-me-promo_7d9e9b958d2c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/f4ce511a7af58abeed33/Did_You_Really_Miss_Me_PROMO.tar"
+    }
+  }
+}
