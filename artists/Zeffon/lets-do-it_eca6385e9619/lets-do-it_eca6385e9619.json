@@ -19,6 +19,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta8/084fd75d55b287610c9c/Let_s_Do_It.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/lets-do-it_eca6385e9619"
     }
   }
 }

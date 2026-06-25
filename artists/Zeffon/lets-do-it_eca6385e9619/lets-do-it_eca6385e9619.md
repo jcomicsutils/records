@@ -1,5 +1,7 @@
 # Zeffon — Let's Do It (2018)
 
+![Cover](https://archive.org/download/lets-do-it_eca6385e9619/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta8/084fd75d55b287610c9c/Let_s_Do_It.tar)
+- [Archive.org](https://archive.org/details/lets-do-it_eca6385e9619)
 
 ## Tracklist
 
