@@ -1,0 +1,29 @@
+{
+  "id": "mach-iuna_a119061a29ba",
+  "fingerprint": "a119061a29bab7753c62c6b6ca3b1437db017da13254e22a5cc2b3ff741b1a49",
+  "archived_at": "2026-06-25T23:55:32Z",
+  "metadata": {
+    "title": "Mach-Iuna",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3669,
+    "duration_human": "01:01:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Sea of Machine Cranes",
+      "02 Zeffon - Mach",
+      "03 Zeffon - Iuna"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mach-iuna_a119061a29ba"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/20d85d8aac8faeb0693e/Mach-Iuna.tar"
+    }
+  }
+}
