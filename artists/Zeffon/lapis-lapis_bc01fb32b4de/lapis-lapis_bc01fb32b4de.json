@@ -1,0 +1,33 @@
+{
+  "id": "lapis-lapis_bc01fb32b4de",
+  "fingerprint": "bc01fb32b4def8f95e67f354cf06830e5fe644d2420a10068623a10dbbedd04b",
+  "archived_at": "2026-06-25T04:39:37Z",
+  "metadata": {
+    "title": "Lapis Lapis",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1879,
+    "duration_human": "00:31:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Ancient",
+      "02 Zeffon - Blood Bones",
+      "03 Zeffon - Shade Cast by the Tree",
+      "04 Zeffon - Pioneer (Blood Bones Reprise)",
+      "05 Zeffon - Voices",
+      "06 Zeffon - Just Latitude",
+      "07 Zeffon - Sleeper (For A While)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lapis-lapis_bc01fb32b4de"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/6492213e880f8fd0cdf3/Lapis_Lapis.tar"
+    }
+  }
+}
