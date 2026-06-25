@@ -1,5 +1,7 @@
 # Zeffon — Kingdom in the Silk Road (2018)
 
+![Cover](https://archive.org/download/kingdom-in-the-silk-road_2b618af6b641/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta7/3e6ed129ba1808756739/Kingdom_in_the_Silk_Road.tar)
+- [Archive.org](https://archive.org/details/kingdom-in-the-silk-road_2b618af6b641)
 
 ## Tracklist
 

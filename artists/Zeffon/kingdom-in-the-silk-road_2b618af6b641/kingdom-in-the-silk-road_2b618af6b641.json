@@ -22,6 +22,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/3e6ed129ba1808756739/Kingdom_in_the_Silk_Road.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/kingdom-in-the-silk-road_2b618af6b641"
     }
   }
 }
