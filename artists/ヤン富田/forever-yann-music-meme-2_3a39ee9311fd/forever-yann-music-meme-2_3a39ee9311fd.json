@@ -1,0 +1,30 @@
+{
+  "id": "forever-yann-music-meme-2_3a39ee9311fd",
+  "fingerprint": "3a39ee9311fdf1e52bb90ecb165d6d7546bb27199ea6abab79826c268ad8ffe4",
+  "archived_at": "2026-06-25T20:32:36Z",
+  "metadata": {
+    "title": "Forever Yann Music Meme 2",
+    "artist": "ヤン富田",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 812,
+    "duration_human": "00:13:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Doopees - Daijyo-Bu",
+      "02 Naives - Forever Young",
+      "03 Forever Yann - Forever Yann",
+      "04 De Yanns - So De Yanns"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/forever-yann-music-meme-2_3a39ee9311fd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/f689f40b998f439c058d/Forever_Yann_Music_Meme_2.tar"
+    }
+  }
+}
