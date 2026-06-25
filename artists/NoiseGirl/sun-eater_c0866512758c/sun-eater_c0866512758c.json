@@ -1,0 +1,29 @@
+{
+  "id": "sun-eater_c0866512758c",
+  "fingerprint": "c0866512758c5f113b6cf61152964f1ab7226d10173140fae93e437a05618ae2",
+  "archived_at": "2026-06-25T19:56:27Z",
+  "metadata": {
+    "title": "Sun Eater",
+    "artist": "Noise/Girl",
+    "year": "2023",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 933,
+    "duration_human": "00:15:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Noise/Girl - Sun Eater 1",
+      "02 Noise/Girl - Sun Eater 2",
+      "03 Noise/Girl - Sun Eater 3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sun-eater_c0866512758c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/1faa00fe072b4c059188/Sun_Eater.tar"
+    }
+  }
+}
