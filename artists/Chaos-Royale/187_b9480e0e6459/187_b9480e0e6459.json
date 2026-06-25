@@ -1,0 +1,27 @@
+{
+  "id": "187_b9480e0e6459",
+  "fingerprint": "b9480e0e64596ff4d54b187c763278d4eb3f5d7a67e2824cb8aae698eedbc30d",
+  "archived_at": "2026-06-25T18:23:18Z",
+  "metadata": {
+    "title": "187",
+    "artist": "Chaos Royale",
+    "year": "2019",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1091,
+    "duration_human": "00:18:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Chaos Royale - 187 Brutal Drum & Bass Mix",
+      "02 Chaos Royale - 187 Industrial Hip Hop VIP Mix",
+      "03 Chaos Royale - 187 Witchgrind Mix",
+      "04 Chaos Royale - 187 Noise/Girl Mix"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/866966f5ff853654c486/187.tar"
+    }
+  }
+}
