@@ -1,0 +1,36 @@
+{
+  "id": "an-adventure-of-inevitable-chance_ce8b77de21ea",
+  "fingerprint": "ce8b77de21ea67109cafa421222540d051724456eb28f027734097fce2947256",
+  "archived_at": "2026-06-25T20:24:39Z",
+  "metadata": {
+    "title": "An Adventure of Inevitable Chance",
+    "artist": "ヤン富田",
+    "year": "1993",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 4488,
+    "duration_human": "01:14:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Yann Tomita - Information From Audio Science Laboratory",
+      "02 Yann Tomita - Luna for Electronics & Live Concrete Sounds",
+      "03 Yann Tomita - Synthesis for Arp 2600 & Ems Synthi A",
+      "04 Yann Tomita - Music for Marcell Duchamp- Violin for Live Electronics",
+      "05 Yann Tomita - Speech",
+      "06 Yann Tomita - Live Cut Up - Radio Music for Inevitable Chance 12-04-93 Version",
+      "07 Yann Tomita - Live Cut Up - Radio Music for Inevitable Chance 11-04-93 Version",
+      "08 Yann Tomita - C-Ya! - Memories of Tape Recorder",
+      "09 Yann Tomita - 4'33'",
+      "10 Yann Tomita - When Cherry Blossoms Are Blown in the Wind"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/an-adventure-of-inevitable-chance_ce8b77de21ea"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/86e6d77bf3c40584fef5/An_Adventure_of_Inevitable_Chance.tar"
+    }
+  }
+}
