@@ -1,0 +1,40 @@
+{
+  "id": "night-flight_4b5ca13bedd5",
+  "fingerprint": "4b5ca13bedd5b693d27e5e3325fadd9abba44aade78f5f8d210699a308a448a7",
+  "archived_at": "2026-06-25T20:11:49Z",
+  "metadata": {
+    "title": "Night Flight",
+    "artist": "Ruf-Neck Piano",
+    "year": "1999",
+    "codec": "MP3",
+    "num_tracks": 14,
+    "duration_seconds": 2215,
+    "duration_human": "00:36:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Ruf-Neck Piano - [untitled]",
+      "02 Ruf-Neck Piano - [untitled]",
+      "03 Ruf-Neck Piano - [untitled]",
+      "04 Ruf-Neck Piano - [untitled]",
+      "05 Ruf-Neck Piano - [untitled]",
+      "06 Ruf-Neck Piano - [untitled]",
+      "07 Ruf-Neck Piano - [untitled]",
+      "08 Ruf-Neck Piano - [untitled]",
+      "09 Ruf-Neck Piano - [untitled]",
+      "10 Ruf-Neck Piano - [untitled]",
+      "11 Ruf-Neck Piano - [untitled]",
+      "12 Ruf-Neck Piano - [untitled]",
+      "13 Ruf-Neck Piano - [untitled]",
+      "14 Ruf-Neck Piano - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/night-flight_4b5ca13bedd5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/76905bd281673a76d9ae/Night_Flight.tar"
+    }
+  }
+}

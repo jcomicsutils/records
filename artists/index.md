@@ -80,6 +80,7 @@
 - [Revenence](Revenence/Revenence.md)
 - [Revenence / Argon Beams / Serpentmouth](Revenence-Argon-Beams-Serpentmouth/Revenence-Argon-Beams-Serpentmouth.md)
 - [Roel Meelkop](Roel-Meelkop/Roel-Meelkop.md)
+- [Ruf-Neck Piano](Ruf-Neck-Piano/Ruf-Neck-Piano.md)
 - [Sarin](Sarin/Sarin.md)
 - [Serpentmouth](Serpentmouth/Serpentmouth.md)
 - [Serpentmouth / Generated Missiân ZFN](Serpentmouth-Generated-Missiân-ZFN/Serpentmouth-Generated-Missiân-ZFN.md)
