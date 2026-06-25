@@ -1,0 +1,34 @@
+{
+  "id": "you-realize-this-means-war_aabb8c956088",
+  "fingerprint": "aabb8c9560884d0b80b131d62556ae87bec0038cf1e716c045b920eb5ce6ca0d",
+  "archived_at": "2026-06-25T19:33:53Z",
+  "metadata": {
+    "title": "You Realize, This Means War",
+    "artist": "Chaos Royale",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2696,
+    "duration_human": "00:44:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Chaos Royale - Canaria / A Blessing",
+      "02 Chaos Royale - Kalashnikov Attitude",
+      "03 Chaos Royale - Anna Supernova",
+      "04 Chaos Royale - N___ Just Admit It",
+      "05 Chaos Royale - Spartan Ogre",
+      "06 Chaos Royale - This Means War",
+      "07 Chaos Royale - Honeyfunk (Part 2)",
+      "08 Chaos Royale - Nympho Assassin"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/you-realize-this-means-war_aabb8c956088"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/ea053c927284bd9598fc/You_Realize_This_Means_War.tar"
+    }
+  }
+}
