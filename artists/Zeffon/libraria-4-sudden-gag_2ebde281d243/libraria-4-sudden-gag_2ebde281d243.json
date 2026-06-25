@@ -1,0 +1,27 @@
+{
+  "id": "libraria-4-sudden-gag_2ebde281d243",
+  "fingerprint": "2ebde281d2432e8c5eb8d15ccc27f6d7fcea8674edf3a3ab4196e962719c8893",
+  "archived_at": "2026-06-25T20:28:37Z",
+  "metadata": {
+    "title": "Libraria 4 (Sudden Gag)",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 506,
+    "duration_human": "00:08:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Sâânta Claûs Cometa t'Ne Guin"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/libraria-4-sudden-gag_2ebde281d243"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/9f9c91430edc2c59c899/Libraria_4_Sudden_Gag.tar"
+    }
+  }
+}
