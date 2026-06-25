@@ -29,6 +29,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/538970562e8c108035ae/KOL.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/kol_766134a1af7f"
     }
   }
 }
