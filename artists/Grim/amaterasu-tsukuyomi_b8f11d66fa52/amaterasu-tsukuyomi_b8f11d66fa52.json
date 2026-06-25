@@ -1,0 +1,32 @@
+{
+  "id": "amaterasu-tsukuyomi_b8f11d66fa52",
+  "fingerprint": "b8f11d66fa520e889dc3ff7768c8b4d473a55ed6d92cb043f1894c4496357136",
+  "archived_at": "2026-06-25T19:16:38Z",
+  "metadata": {
+    "title": "Amaterasu + Tsukuyomi",
+    "artist": "Grim",
+    "year": "2023",
+    "codec": "ALAC",
+    "num_tracks": 6,
+    "duration_seconds": 1686,
+    "duration_human": "00:28:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Grim - Noble Folk",
+      "02 Grim - Amaterasu",
+      "03 Grim - YonPakuGan",
+      "04 Grim - Umaviko",
+      "05 Grim - Zakuro",
+      "06 Grim - Tsukuyomi"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/amaterasu-tsukuyomi_b8f11d66fa52"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/d882bb8f5da7b701377e/Amaterasu_Tsukuyomi.tar"
+    }
+  }
+}
