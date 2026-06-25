@@ -1,0 +1,39 @@
+{
+  "id": "kremkruta-traumije_a48994a135c1",
+  "fingerprint": "a48994a135c1532010f1fd59d12aa1496dd6f37443740ac0d474dd7f84be8259",
+  "archived_at": "2026-06-25T03:10:24Z",
+  "metadata": {
+    "title": "Kremkruta Träumije",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 3943,
+    "duration_human": "01:05:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Sroäit Dero Latruäm",
+      "02 Zeffon - Quell Ontöm A Harproam",
+      "03 Zeffon - Yumhre Uguhra",
+      "04 Zeffon - Norch Each Dlöf Aloof (Anthem-Led)",
+      "05 Zeffon - Urgühr Á Valeriseolemni",
+      "06 Zeffon - Wreati Wretrapealo",
+      "07 Zeffon - Kremkruta Träumije",
+      "08 Zeffon - Pyridin Cell Change",
+      "09 Zeffon - Hope Song",
+      "10 Zeffon - Here For Ya (Part II of III)",
+      "11 Zeffon - Bactria Invasion (Part V of VII)",
+      "12 Zeffon - S10 (Rose Rose Tribute, Part II of III)",
+      "13 Zeffon - Ether (Part III of III)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kremkruta-traumije_a48994a135c1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/66049ab58c3275c26e14/Kremkruta_Tr_umije.tar"
+    }
+  }
+}
