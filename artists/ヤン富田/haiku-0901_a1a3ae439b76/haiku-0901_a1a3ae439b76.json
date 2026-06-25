@@ -1,0 +1,27 @@
+{
+  "id": "haiku-0901_a1a3ae439b76",
+  "fingerprint": "a1a3ae439b761370f83b928dfbc8ea4309800caf7faa3a85ca563f0ec4fe5dbe",
+  "archived_at": "2026-06-25T20:40:26Z",
+  "metadata": {
+    "title": "Haiku-09/01",
+    "artist": "ヤン富田",
+    "year": "2001",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 310,
+    "duration_human": "00:05:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Yann Tomita Presents Doopees - Haiku 09/01"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/haiku-0901_a1a3ae439b76"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/50431287c29822841478/Haiku-09_-_01.tar"
+    }
+  }
+}
