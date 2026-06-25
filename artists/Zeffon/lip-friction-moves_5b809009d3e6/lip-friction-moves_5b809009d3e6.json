@@ -1,0 +1,36 @@
+{
+  "id": "lip-friction-moves_5b809009d3e6",
+  "fingerprint": "5b809009d3e6784d29aebde89785b6e24722d692f9a1e30660b5f866f2dd4ce0",
+  "archived_at": "2026-06-25T21:17:52Z",
+  "metadata": {
+    "title": "Lip Friction Moves",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 6973,
+    "duration_human": "01:56:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Dark South",
+      "02 Zeffon - Friction Ne 1",
+      "03 Zeffon - Surveillance by Mass",
+      "04 Zeffon - Track 01",
+      "05 Zeffon - Vampire",
+      "06 Zeffon - Friction Ne 2",
+      "07 Zeffon - Fricktia",
+      "08 Zeffon - Chiwŏn",
+      "09 Zeffon - Dr. Emma G.",
+      "10 Zeffon - Red Drama"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lip-friction-moves_5b809009d3e6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/99ed9700dd5d4635f955/Lip_Friction_Moves.tar"
+    }
+  }
+}
