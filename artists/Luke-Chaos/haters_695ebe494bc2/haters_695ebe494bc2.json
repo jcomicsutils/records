@@ -1,0 +1,27 @@
+{
+  "id": "haters_695ebe494bc2",
+  "fingerprint": "695ebe494bc27bd3ed97bf2c1f824196baebc50633801dfac496b2e05bd7bacb",
+  "archived_at": "2026-06-25T19:44:49Z",
+  "metadata": {
+    "title": "Haters",
+    "artist": "Luke Chaos",
+    "year": "2016",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 212,
+    "duration_human": "00:03:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Luke Chaos - Haters"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/haters_695ebe494bc2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/f4fab8f8694b7d17f7e8/Haters.tar"
+    }
+  }
+}
