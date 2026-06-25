@@ -1,0 +1,30 @@
+{
+  "id": "knife-tricks_3b932ceb3019",
+  "fingerprint": "3b932ceb301930539e69f75581768cc9701ebcb87a06fa048acec7f01121a531",
+  "archived_at": "2026-06-25T19:45:37Z",
+  "metadata": {
+    "title": "Knife Tricks",
+    "artist": "Luke Chaos",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1269,
+    "duration_human": "00:21:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Luke Chaos - I Never Met a DJ Who Didn't Deserve to Die",
+      "02 Luke Chaos - Knife Tricks",
+      "03 Luke Chaos - Call of the Void",
+      "04 Luke Chaos - Immemorial"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/knife-tricks_3b932ceb3019"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/2684024c602c428af550/Knife_Tricks.tar"
+    }
+  }
+}
