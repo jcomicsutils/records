@@ -34,6 +34,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/59f5ef4915e048115fca/Krafty_Soup.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/krafty-soup_7b3734f976e3"
     }
   }
 }

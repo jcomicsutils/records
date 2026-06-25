@@ -1,5 +1,7 @@
 # Zeffon — Krafty Soup (2019)
 
+![Cover](https://archive.org/download/krafty-soup_7b3734f976e3/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta7/59f5ef4915e048115fca/Krafty_Soup.tar)
+- [Archive.org](https://archive.org/details/krafty-soup_7b3734f976e3)
 
 ## Tracklist
 
