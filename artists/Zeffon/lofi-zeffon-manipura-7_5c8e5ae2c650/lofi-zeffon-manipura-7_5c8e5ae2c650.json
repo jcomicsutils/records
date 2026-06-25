@@ -1,0 +1,28 @@
+{
+  "id": "lofi-zeffon-manipura-7_5c8e5ae2c650",
+  "fingerprint": "5c8e5ae2c650da246f21695a7dbe3016250a159df1d7f17f8bb90d3b83f1598c",
+  "archived_at": "2026-06-25T22:15:12Z",
+  "metadata": {
+    "title": "LoFi Zeffon - Manipura 7",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5448,
+    "duration_human": "01:30:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - This is Manipura 7",
+      "02 Zeffon - Some Granite-Gold Counters (Chainsaw Dan Jus' Won't Stop)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lofi-zeffon-manipura-7_5c8e5ae2c650"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/cfe629b48ef8302f6966/LoFi_Zeffon_-_Manipura_7.tar"
+    }
+  }
+}
