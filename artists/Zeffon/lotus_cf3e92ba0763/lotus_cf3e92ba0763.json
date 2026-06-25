@@ -1,0 +1,27 @@
+{
+  "id": "lotus_cf3e92ba0763",
+  "fingerprint": "cf3e92ba07630489e47b41286fe82d579d6d52eebf2be1d9a1e707a923d5e9ff",
+  "archived_at": "2026-06-25T22:48:05Z",
+  "metadata": {
+    "title": "Lotus",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 346,
+    "duration_human": "00:05:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Lotus"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lotus_cf3e92ba0763"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/da118b9d088b9193bd29/Lotus.tar"
+    }
+  }
+}
