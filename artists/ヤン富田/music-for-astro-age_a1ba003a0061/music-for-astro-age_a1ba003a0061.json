@@ -1,0 +1,47 @@
+{
+  "id": "music-for-astro-age_a1ba003a0061",
+  "fingerprint": "a1ba003a00612d2c915fead87c2e042b8fc1a6e48300333272309ef479164d8f",
+  "archived_at": "2026-06-25T20:53:41Z",
+  "metadata": {
+    "title": "Music for Astro Age",
+    "artist": "ヤン富田",
+    "year": "1992",
+    "codec": "FLAC",
+    "num_tracks": 21,
+    "duration_seconds": 7144,
+    "duration_human": "01:59:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "1-01 Yann Tomita - Sounds of Steel (From This to That)",
+      "1-02 Yann Tomita - Beyond the Blue Star Zone Part 1",
+      "1-03 Yann Tomita - We Travel the Spaceways #1",
+      "1-04 Yann Tomita - Time Machine",
+      "1-05 Yann Tomita - Memories of Tape Recorder",
+      "1-06 Yann Tomita - Radio Music",
+      "1-07 Yann Tomita - Beyond the Blue Star Zone Part 2",
+      "1-08 Yann Tomita - Memory Band",
+      "1-09 Yann Tomita - 4'33'",
+      "1-10 Yann Tomita - 4'33' Dub",
+      "1-11 Yann Tomita - They'll Come Back",
+      "1-12 Yann Tomita - Theme of Astro 2050 Systems",
+      "2-01 Yann Tomita - We Travel the Spaceways #2",
+      "2-02 Yann Tomita - Astro 2050 Systems",
+      "2-03 Yann Tomita - Dub Invader",
+      "2-04 Yann Tomita - Beyond the Blue Star Zone Part 3",
+      "2-05 Yann Tomita - The Voice of Republic of Trinidad & Tobago",
+      "2-06 Yann Tomita - Mighty Wiper's Calypso",
+      "2-07 Yann Tomita - Music for Astro Age",
+      "2-08 Yann Tomita - C-Ya!",
+      "2-09 Yann Tomita - Astro Freaks"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/music-for-astro-age_a1ba003a0061"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/f58067bc962b1e2b3d88/Music_for_Astro_Age.tar"
+    }
+  }
+}
