@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Wall of Cute](wall-of-cute_33c03221975a/wall-of-cute_33c03221975a.md) | 1998 | FLAC | 00:15:42 | [IA](https://archive.org/details/wall-of-cute_33c03221975a) [FileDitch](https://fileditchfiles.me/beta8/3aa3606275b0031f648a/Wall_of_Cute.tar) |
 | [A Brief History of Noise \(1997 - 2000\)](a-brief-history-of-noise-1997-2000_cfc69d496b24/a-brief-history-of-noise-1997-2000_cfc69d496b24.md) | 2008 | MP3 | 00:29:55 | [IA](https://archive.org/details/a-brief-history-of-noise-1997-2000_cfc69d496b24) [FileDitch](https://fileditchfiles.me/beta8/4c087f37e4fd07446a7e/A_Brief_History_of_Noise_1997_-_2000.tar) |
 | [Discopathology \(Ultimate Edition\)](discopathology-ultimate-edition_37dbe4e2583f/discopathology-ultimate-edition_37dbe4e2583f.md) | 2012 | FLAC | 00:45:10 | [IA](https://archive.org/details/discopathology-ultimate-edition_37dbe4e2583f) [FileDitch](https://fileditchfiles.me/beta8/e45bd6f98a0f44b638ad/Discopathology_Ultimate_Edition.tar) |
 | [Did You Really Miss Me? PROMO](did-you-really-miss-me-promo_7d9e9b958d2c/did-you-really-miss-me-promo_7d9e9b958d2c.md) | 2023 | FLAC | 00:03:08 | [IA](https://archive.org/details/did-you-really-miss-me-promo_7d9e9b958d2c) [FileDitch](https://fileditchfiles.me/beta8/f4ce511a7af58abeed33/Did_You_Really_Miss_Me_PROMO.tar) |
