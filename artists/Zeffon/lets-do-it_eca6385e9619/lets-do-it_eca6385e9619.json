@@ -1,0 +1,24 @@
+{
+  "id": "lets-do-it_eca6385e9619",
+  "fingerprint": "eca6385e9619aecf404b39db04d425beca6751b4e8ffdb2dd24e4a0601d679b7",
+  "archived_at": "2026-06-25T17:43:12Z",
+  "metadata": {
+    "title": "Let's Do It",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 20,
+    "duration_human": "00:00:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Dragänsword 1"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/084fd75d55b287610c9c/Let_s_Do_It.tar"
+    }
+  }
+}
