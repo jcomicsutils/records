@@ -23,6 +23,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta7/5498e7caff54307063a2/Krafty_Dub.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/krafty-dub_a2f5d0d7296f"
     }
   }
 }

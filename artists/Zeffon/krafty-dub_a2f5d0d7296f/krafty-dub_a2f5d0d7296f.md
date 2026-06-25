@@ -1,5 +1,7 @@
 # Zeffon — Krafty Dub (2019)
 
+![Cover](https://archive.org/download/krafty-dub_a2f5d0d7296f/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta7/5498e7caff54307063a2/Krafty_Dub.tar)
+- [Archive.org](https://archive.org/details/krafty-dub_a2f5d0d7296f)
 
 ## Tracklist
 
