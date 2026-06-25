@@ -1,0 +1,30 @@
+{
+  "id": "libraria-3_4d0c847fbf64",
+  "fingerprint": "4d0c847fbf641c52a1fb29e2a1eeee0fc60cefdd095b8e7911199c3f58bc5f2e",
+  "archived_at": "2026-06-25T20:26:16Z",
+  "metadata": {
+    "title": "Libraria 3",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 15817,
+    "duration_human": "04:23:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Blind Eååyes 771 F_nek (Celebration)",
+      "02 Zeffon - Gabon (Dance Dub Ver. 1)",
+      "03 Zeffon - Microfarad (Bizzare Vu.Vu.Vu.)",
+      "04 Zeffon - Spirit Guide Jaguar Comes to Bite You"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/libraria-3_4d0c847fbf64"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/68f5b1a9ea2d73c035b1/Libraria_3.tar"
+    }
+  }
+}
