@@ -1,0 +1,24 @@
+{
+  "id": "lava_8654ae2d1df1",
+  "fingerprint": "8654ae2d1df1d216a0d20d509c77d9e3311e3dc3c00aef6fac65c2bc84e1404f",
+  "archived_at": "2026-06-25T17:42:14Z",
+  "metadata": {
+    "title": "Lava",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2112,
+    "duration_human": "00:35:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Lava (Single)"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/c7075fa6db78985b2990/Lava.tar"
+    }
+  }
+}
