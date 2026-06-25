@@ -1,0 +1,27 @@
+{
+  "id": "light-footed-knee-dub_06c79fcce88f",
+  "fingerprint": "06c79fcce88ff531bded6a95bea51949d464a9b9357f607fef02747f1bccf1be",
+  "archived_at": "2026-06-25T20:42:17Z",
+  "metadata": {
+    "title": "Light-Footed Knee Dub",
+    "artist": "Zeffon & Greathumour",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1857,
+    "duration_human": "00:30:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon & Greathumour - Light-Footed Knee Dub"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/light-footed-knee-dub_06c79fcce88f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/03e2a38f4c58da4c0fb2/Light-Footed_Knee_Dub.tar"
+    }
+  }
+}
