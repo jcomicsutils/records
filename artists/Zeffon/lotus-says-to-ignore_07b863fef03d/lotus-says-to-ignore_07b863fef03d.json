@@ -1,0 +1,29 @@
+{
+  "id": "lotus-says-to-ignore_07b863fef03d",
+  "fingerprint": "07b863fef03d811845410ecf5daca68ea9e663bf58634d12b9fd97c8081f253f",
+  "archived_at": "2026-06-25T22:53:21Z",
+  "metadata": {
+    "title": "Lotus Says to Ignore",
+    "artist": "Zeffon",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 9606,
+    "duration_human": "02:40:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Corruption Distance",
+      "02 Zeffon - Transcedent-styled Mood",
+      "03 Zeffon - Soldier Dental Equipment"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lotus-says-to-ignore_07b863fef03d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/072342a4cdafd934e948/Lotus_Says_to_Ignore.tar"
+    }
+  }
+}
