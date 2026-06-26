@@ -1,0 +1,30 @@
+{
+  "id": "mini-shadows_d2fcb6f3aa99",
+  "fingerprint": "d2fcb6f3aa99100a43ac39a33dece96d4e4f6888f4e5ccbe7e02a195a34e4a3f",
+  "archived_at": "2026-06-26T23:43:19Z",
+  "metadata": {
+    "title": "Mini-shadows",
+    "artist": "Zeffon",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 684,
+    "duration_human": "00:11:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Medicine-Shaker",
+      "02 Zeffon - Aura of MDH and IM Country (Prev)",
+      "03 Zeffon - Great Desert Falsehood",
+      "04 Zeffon - Yôn Tin Berry Valley (Prev)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mini-shadows_d2fcb6f3aa99"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/6107c1545898f4c44be2/Mini-shadows.tar"
+    }
+  }
+}
