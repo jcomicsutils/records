@@ -1,0 +1,29 @@
+{
+  "id": "maiduex-demo_144d54a9ce79",
+  "fingerprint": "144d54a9ce796daef6d843a8baf82958a825ca8e47fe8eaad08d96e77287e551",
+  "archived_at": "2026-06-26T00:04:24Z",
+  "metadata": {
+    "title": "Maiduex Demo",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 180,
+    "duration_human": "00:03:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Kerragan's Telescope",
+      "02 Zeffon - Terra",
+      "03 Zeffon - I, Magot Tower"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/maiduex-demo_144d54a9ce79"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/7f13a6daac7d96faafb1/Maiduex_Demo.tar"
+    }
+  }
+}
