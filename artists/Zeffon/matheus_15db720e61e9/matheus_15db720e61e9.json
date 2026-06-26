@@ -1,0 +1,41 @@
+{
+  "id": "matheus_15db720e61e9",
+  "fingerprint": "15db720e61e9c4b7217e356766ae0dadf5e8a8717213eb99df569cabe91ab05c",
+  "archived_at": "2026-06-26T22:38:04Z",
+  "metadata": {
+    "title": "Matheus",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 6941,
+    "duration_human": "01:55:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Escg Eglico",
+      "02 Zeffon - Recording Tropical Storms",
+      "03 Zeffon - Traveler",
+      "04 Zeffon - Source of Recording Tide",
+      "05 Zeffon - Origin",
+      "06 Zeffon - Starvation",
+      "07 Zeffon - Pehuén",
+      "08 Zeffon - Slash-And-Burn",
+      "09 Zeffon - Place Where ? Died",
+      "10 Zeffon - Ocokblnkihpei",
+      "11 Zeffon - Drought",
+      "12 Zeffon - Mettera",
+      "13 Zeffon - Maíz",
+      "14 Zeffon - Poeunhb",
+      "15 Zeffon - Fomitiporia ellipsoidea"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/matheus_15db720e61e9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/e32922ce1870afaa61b7/Matheus.tar"
+    }
+  }
+}
