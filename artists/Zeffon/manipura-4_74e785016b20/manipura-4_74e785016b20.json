@@ -1,0 +1,28 @@
+{
+  "id": "manipura-4_74e785016b20",
+  "fingerprint": "74e785016b20b72c746bdc56fb8fe4037797e8f985b693c130bedc01344042f1",
+  "archived_at": "2026-06-26T01:23:27Z",
+  "metadata": {
+    "title": "Manipura 4",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3016,
+    "duration_human": "00:50:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Head Line Harmony",
+      "02 Zeffon - Cash in the Bag"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/manipura-4_74e785016b20"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/2d88e96adf83122ece71/Manipura_4.tar"
+    }
+  }
+}
