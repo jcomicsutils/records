@@ -1,0 +1,30 @@
+{
+  "id": "manipura-5_4ce9c191472c",
+  "fingerprint": "4ce9c191472c2e4c0e539b2ef1862c5f9e84e94d0bcfc145ae2614394e4fc665",
+  "archived_at": "2026-06-26T01:29:56Z",
+  "metadata": {
+    "title": "Manipura 5",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2111,
+    "duration_human": "00:35:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Tried and True Method, Part 2",
+      "02 Zeffon - The Tried and True Method, Part 3",
+      "03 Zeffon - Dolphins - Malke Mereditt, Toucan",
+      "04 Zeffon - Drums 2 (Eye Sockets Are Empty)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/manipura-5_4ce9c191472c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/5940e5f5b77973bdac48/Manipura_5.tar"
+    }
+  }
+}
