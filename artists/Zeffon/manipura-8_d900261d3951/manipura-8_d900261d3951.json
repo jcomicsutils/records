@@ -1,0 +1,27 @@
+{
+  "id": "manipura-8_d900261d3951",
+  "fingerprint": "d900261d3951e5a21bfa73551a9a50629a77c0cab5daf3d3fa2203f4ecc6c781",
+  "archived_at": "2026-06-26T02:09:35Z",
+  "metadata": {
+    "title": "Manipura 8",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 7723,
+    "duration_human": "02:08:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Respect the Washing Sound"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/manipura-8_d900261d3951"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/4459b7089b756c7b429f/Manipura_8.tar"
+    }
+  }
+}
