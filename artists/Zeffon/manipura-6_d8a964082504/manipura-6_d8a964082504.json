@@ -1,0 +1,27 @@
+{
+  "id": "manipura-6_d8a964082504",
+  "fingerprint": "d8a9640825040c41e4a474bc1e879acb0de3bf2719cd5fb44c2cfe3a95d6f9a4",
+  "archived_at": "2026-06-26T01:32:28Z",
+  "metadata": {
+    "title": "Manipura 6",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4739,
+    "duration_human": "01:18:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - You Dare Surpase Me (Lime Hunters Come Bearing Slivers of Wood)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/manipura-6_d8a964082504"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/d240f4a7d44e134b683b/Manipura_6.tar"
+    }
+  }
+}
