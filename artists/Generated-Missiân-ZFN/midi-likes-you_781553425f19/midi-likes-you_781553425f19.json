@@ -1,0 +1,29 @@
+{
+  "id": "midi-likes-you_781553425f19",
+  "fingerprint": "781553425f190b86e87f4102950012441f403cc08b284b518f698141cb90548a",
+  "archived_at": "2026-06-26T23:32:39Z",
+  "metadata": {
+    "title": "MIDI Likes You",
+    "artist": "Generated Missiân ZFN",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 515,
+    "duration_human": "00:08:35",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Generated Missiân ZFN - MIDI Likes You",
+      "02 Generated Missiân ZFN - Questions for Diplomats",
+      "03 Generated Missiân ZFN - Before You Start Talking"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/midi-likes-you_781553425f19"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/ef8a93d8bd4e83bb3531/MIDI_Likes_You.tar"
+    }
+  }
+}
