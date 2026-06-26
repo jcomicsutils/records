@@ -1,0 +1,38 @@
+{
+  "id": "manipura-2_0caecb103155",
+  "fingerprint": "0caecb103155eb9221ee33943786f9f9f59aac7b7c2eb2ffbc988cae78c4bac5",
+  "archived_at": "2026-06-26T01:19:17Z",
+  "metadata": {
+    "title": "Manipura 2",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 1846,
+    "duration_human": "00:30:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - 1",
+      "02 Zeffon - 2",
+      "03 Zeffon - 3",
+      "04 Zeffon - 4",
+      "05 Zeffon - 5",
+      "06 Zeffon - 6",
+      "07 Zeffon - 7",
+      "08 Zeffon - 8",
+      "09 Zeffon - 9",
+      "10 Zeffon - Harmless Trees and Golden Leaves (Early Version)",
+      "11 Zeffon - Creation of the Adutrang",
+      "12 Zeffon - Shrink with Manipura"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/manipura-2_0caecb103155"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/1e64d5d2ff7dfcf200e3/Manipura_2.tar"
+    }
+  }
+}
