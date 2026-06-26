@@ -1,0 +1,27 @@
+{
+  "id": "massive-mudman-dub_b80c1ef70535",
+  "fingerprint": "b80c1ef70535b26a6b4d6658bcf385d722f92fb3e8f242dbebb9857f74c2b290",
+  "archived_at": "2026-06-26T22:24:55Z",
+  "metadata": {
+    "title": "Massive Mudman Dub",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4131,
+    "duration_human": "01:08:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Gabon Rotation (Forever Ver. 1)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/massive-mudman-dub_b80c1ef70535"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/2fec7fe46a5afbc405d6/Massive_Mudman_Dub.tar"
+    }
+  }
+}
