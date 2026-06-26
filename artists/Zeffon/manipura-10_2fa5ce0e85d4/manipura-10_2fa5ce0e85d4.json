@@ -1,0 +1,29 @@
+{
+  "id": "manipura-10_2fa5ce0e85d4",
+  "fingerprint": "2fa5ce0e85d4978e324903e39992be8ea98868e0cd012db3ee1f3ec49f6a13c4",
+  "archived_at": "2026-06-26T02:24:34Z",
+  "metadata": {
+    "title": "Manipura 10",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 229,
+    "duration_human": "00:03:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Kingdom Frost",
+      "02 Zeffon - Vicious Dogs and Trees (Assassin)",
+      "03 Zeffon - Tracks From Inside a Bunker Ver. 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/manipura-10_2fa5ce0e85d4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/b0ef66273a8fa8318412/Manipura_10.tar"
+    }
+  }
+}
