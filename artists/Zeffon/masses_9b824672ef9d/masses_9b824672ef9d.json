@@ -1,0 +1,28 @@
+{
+  "id": "masses_9b824672ef9d",
+  "fingerprint": "9b824672ef9dc80b3d3c4c1c44e0aa76a88d43a9c2cd641b7d16f979d9c77dc5",
+  "archived_at": "2026-06-26T22:21:18Z",
+  "metadata": {
+    "title": "Masses",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3533,
+    "duration_human": "00:58:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Community",
+      "02 Zeffon - Red Force 0"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/masses_9b824672ef9d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/a6b46d06f983a36e4021/Masses.tar"
+    }
+  }
+}
