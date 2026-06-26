@@ -1,0 +1,28 @@
+{
+  "id": "manipura-dub_1773a3c77c9c",
+  "fingerprint": "1773a3c77c9cfa602becff43fc54eeff11d106202986bdeda3d02f1bfbe2b51a",
+  "archived_at": "2026-06-26T21:45:27Z",
+  "metadata": {
+    "title": "Manipura Dub",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 322,
+    "duration_human": "00:05:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Time Away From the City (Dub 1)",
+      "02 Zeffon - Time Away From the City (Dub 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/manipura-dub_1773a3c77c9c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/6cc7f97284d357b1bd6b/Manipura_Dub.tar"
+    }
+  }
+}
