@@ -1,0 +1,30 @@
+{
+  "id": "merit-tyu_1b3fe9a2b22d",
+  "fingerprint": "1b3fe9a2b22d9c4f34b94e8ea6ab206c0a19d240476f3b89326dfe3bfc780997",
+  "archived_at": "2026-06-26T23:01:56Z",
+  "metadata": {
+    "title": "Merit Tyu",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4651,
+    "duration_human": "01:17:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Valley of Dead Spirits",
+      "02 Zeffon - Warm Embrace House",
+      "03 Zeffon - Victoria",
+      "04 Zeffon - Mystic Cosmonaut"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/merit-tyu_1b3fe9a2b22d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/bfe2eb8584c69dd9fbb1/Merit_Tyu.tar"
+    }
+  }
+}
