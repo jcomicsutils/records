@@ -1,0 +1,27 @@
+{
+  "id": "manipura-11_7c27e94506df",
+  "fingerprint": "7c27e94506df60683e0afb7d2274f7edbe5a5537261b5fe1fada805d120f47c3",
+  "archived_at": "2026-06-26T02:25:30Z",
+  "metadata": {
+    "title": "Manipura 11",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 341,
+    "duration_human": "00:05:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Tracks From Inside a Bunker Ver. 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/manipura-11_7c27e94506df"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/cc97204934ffef3b6c9c/Manipura_11.tar"
+    }
+  }
+}
