@@ -1,0 +1,37 @@
+{
+  "id": "maledicta_6647aeda1d5b",
+  "fingerprint": "6647aeda1d5bd3277e33e36400d58dc79e1146843f985c07d5d26177c135b85e",
+  "archived_at": "2026-06-26T00:15:48Z",
+  "metadata": {
+    "title": "Maledicta",
+    "artist": "Zeffon",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 3310,
+    "duration_human": "00:55:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Ocean",
+      "02 Zeffon - Waters of Fortune",
+      "03 Zeffon - Anticipation",
+      "04 Zeffon - Gondii Maledicta",
+      "05 Zeffon - Overtaken",
+      "06 Zeffon - Gondii Maledicta, Pt. 2",
+      "07 Zeffon - Hemlock of Society",
+      "08 Zeffon - The Ocean, Pt. 2",
+      "09 Zeffon - Ancestors of the Mist",
+      "10 Zeffon - Echoes...",
+      "11 Zeffon - Gondii Maledicta (Piano Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/maledicta_6647aeda1d5b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/8910630ff624e4eb7825/Maledicta.tar"
+    }
+  }
+}
