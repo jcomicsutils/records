@@ -1,0 +1,27 @@
+{
+  "id": "manipura-13_f114df8911e6",
+  "fingerprint": "f114df8911e6ccc9edeca7e913291aa95b4b698765513edbca9bbeb4a200cd9c",
+  "archived_at": "2026-06-26T03:15:34Z",
+  "metadata": {
+    "title": "Manipura 13",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 328,
+    "duration_human": "00:05:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Ice the Gangster"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/manipura-13_f114df8911e6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/b1bcc7436a3c979f5f4a/Manipura_13.tar"
+    }
+  }
+}
