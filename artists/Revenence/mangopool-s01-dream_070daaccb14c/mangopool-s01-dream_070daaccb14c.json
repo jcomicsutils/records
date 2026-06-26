@@ -1,0 +1,40 @@
+{
+  "id": "mangopool-s01-dream_070daaccb14c",
+  "fingerprint": "070daaccb14c2b3c1d5d58f3d08902f489fa853441979b7efd0cc4ca3d28e779",
+  "archived_at": "2026-06-26T01:13:55Z",
+  "metadata": {
+    "title": "Mangopool S01 Dream",
+    "artist": "Revenence",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 49370,
+    "duration_human": "13:42:50",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Revenence - Ace in the Hole (Oasis 64)",
+      "02 Revenence - Jaded River Body (AUI630)",
+      "03 Revenence - Chaosfoundry S01",
+      "04 Revenence - Sugar Rush",
+      "05 Revenence - Karl Tube 2: DESS Zealot",
+      "06 Revenence - Karl Tube 4: De Tribâ",
+      "07 Revenence - Karl Tube 4: Sugar",
+      "08 Revenence - Karl Tube 4: Physical Strength",
+      "09 Revenence - Sugar Rush",
+      "10 Revenence - Pink-Yellow Reef",
+      "11 Revenence - Cyclone (Extract)",
+      "12 Revenence - On Tempest",
+      "13 Revenence - Sugar Rush",
+      "14 Revenence - Confined Ground"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mangopool-s01-dream_070daaccb14c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/36099e2c93579e9a0766/Mangopool_S01_Dream.tar"
+    }
+  }
+}
