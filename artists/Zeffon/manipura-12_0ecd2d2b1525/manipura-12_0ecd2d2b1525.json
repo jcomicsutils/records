@@ -1,0 +1,27 @@
+{
+  "id": "manipura-12_0ecd2d2b1525",
+  "fingerprint": "0ecd2d2b152528d116d1732b092e733158a8bf7a435d79f0c6287620b3fde385",
+  "archived_at": "2026-06-26T03:10:10Z",
+  "metadata": {
+    "title": "Manipura 12",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3585,
+    "duration_human": "00:59:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Tracker of Communism / 3bit Buddha / Transcendant Ashes / Whydouthk-2-goansrfrûmabove (Shrouded Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/manipura-12_0ecd2d2b1525"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/4107120476021d1d4679/Manipura_12.tar"
+    }
+  }
+}
