@@ -1,0 +1,27 @@
+{
+  "id": "manipura-3_1f338e3e57fa",
+  "fingerprint": "1f338e3e57faa01ed76a2ed7c5cadfaaf4d65ca0d78757313b320b5e1c6e9a2a",
+  "archived_at": "2026-06-26T01:20:19Z",
+  "metadata": {
+    "title": "Manipura 3",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2748,
+    "duration_human": "00:45:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Prime Idea"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/manipura-3_1f338e3e57fa"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/20e6093f0da00c9dd459/Manipura_3.tar"
+    }
+  }
+}
