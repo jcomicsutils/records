@@ -1,0 +1,32 @@
+{
+  "id": "midi-without-a-soul-no-3_829a86cea88d",
+  "fingerprint": "829a86cea88d8836c867849186bb6f544c31874134ab879e6bc20fbe75c7dd6b",
+  "archived_at": "2026-06-26T23:38:26Z",
+  "metadata": {
+    "title": "MIDI Without A Soul No. 3",
+    "artist": "Generated Missiân ZFN",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 678,
+    "duration_human": "00:11:18",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Generated Missiân ZFN - Melody 1",
+      "02 Generated Missiân ZFN - Foundation Autumn (Translation Gene)",
+      "03 Generated Missiân ZFN - Ruins / Feelings",
+      "04 Generated Missiân ZFN - Uagu Ren (Ver. 2 of Ages, Pt. 1)",
+      "05 Generated Missiân ZFN - Sing Swan Song",
+      "06 Generated Missiân ZFN - Led (To The Death of Their Nation)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/midi-without-a-soul-no-3_829a86cea88d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/a167918b3e365aba649e/MIDI_Without_A_Soul_No._3.tar"
+    }
+  }
+}
