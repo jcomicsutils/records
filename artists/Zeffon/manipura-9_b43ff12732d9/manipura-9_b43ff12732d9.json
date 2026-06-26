@@ -1,0 +1,27 @@
+{
+  "id": "manipura-9_b43ff12732d9",
+  "fingerprint": "b43ff12732d9c84b3e115c19f0c4b0683b03171cb89f531beef61db3cb97919d",
+  "archived_at": "2026-06-26T02:23:43Z",
+  "metadata": {
+    "title": "Manipura 9",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2573,
+    "duration_human": "00:42:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Shrouded in Fear (Invasion of the Messageboard Users)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/manipura-9_b43ff12732d9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/009b52a5ba0984f00fdc/Manipura_9.tar"
+    }
+  }
+}
