@@ -1,0 +1,29 @@
+{
+  "id": "magick_fdb62213cfc0",
+  "fingerprint": "fdb62213cfc0fe01ea1ddaf7774bf5b10881c31d16caa5622a4a27ede0ffa2dc",
+  "archived_at": "2026-06-26T00:02:39Z",
+  "metadata": {
+    "title": "Magick",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4411,
+    "duration_human": "01:13:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Human Bradyzoites, Pt. 2",
+      "02 Zeffon - X: Catatomentiumas",
+      "03 Zeffon - XII: Stagouros"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/magick_fdb62213cfc0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/d9999e1c6f109a5c1da4/Magick.tar"
+    }
+  }
+}
