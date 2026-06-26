@@ -1,0 +1,30 @@
+{
+  "id": "midi-doesnt-like-you-midi-doesnt-like-your-ledge-for-towel_fe0b072b3f80",
+  "fingerprint": "fe0b072b3f809aded606cf87224f796b0f632b7b3a480268b7558bcad08ded71",
+  "archived_at": "2026-06-26T23:31:24Z",
+  "metadata": {
+    "title": "MIDI Doesn't Like You / MIDI Doesn't Like Your Ledge (for Towel)",
+    "artist": "Generated Missiân ZFN",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4650,
+    "duration_human": "01:17:30",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Generated Missiân ZFN - Underwater 1",
+      "02 Generated Missiân ZFN - GHH Dh",
+      "03 Generated Missiân ZFN - Trust the Government",
+      "04 Generated Missiân ZFN - Blesss"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/midi-doesnt-like-you-midi-doesnt-like-your-ledge-for-towel_fe0b072b3f80"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/64fe30eb93b0912ed9bd/MIDI_Doesn_t_Like_You_-_MIDI_Doesn_t_Like_Your_Ledge_for_Towel.tar"
+    }
+  }
+}
