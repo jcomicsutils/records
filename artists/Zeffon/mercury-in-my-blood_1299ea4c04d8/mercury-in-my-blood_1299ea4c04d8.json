@@ -1,0 +1,32 @@
+{
+  "id": "mercury-in-my-blood_1299ea4c04d8",
+  "fingerprint": "1299ea4c04d8de06438ef56562a27924beace7d4d5a90656db3ad4f16b94605d",
+  "archived_at": "2026-06-26T22:42:02Z",
+  "metadata": {
+    "title": "Mercury in my Blood",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 4203,
+    "duration_human": "01:10:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - World of Light",
+      "02 Zeffon - Valley 65",
+      "03 Zeffon - Lord of the Center",
+      "04 Zeffon - The Princess Seer",
+      "05 Zeffon - Praise",
+      "06 Zeffon - Za"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mercury-in-my-blood_1299ea4c04d8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/47808b516964524e4604/Mercury_in_my_Blood.tar"
+    }
+  }
+}
