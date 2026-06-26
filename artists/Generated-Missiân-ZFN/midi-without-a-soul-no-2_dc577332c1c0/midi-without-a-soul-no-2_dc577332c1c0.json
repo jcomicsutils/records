@@ -1,0 +1,30 @@
+{
+  "id": "midi-without-a-soul-no-2_dc577332c1c0",
+  "fingerprint": "dc577332c1c040cd3a8ad17c5e54b7e70ac49dc71e9beeff7234cfc3b260b847",
+  "archived_at": "2026-06-26T23:36:27Z",
+  "metadata": {
+    "title": "MIDI Without A Soul No. 2",
+    "artist": "Generated Missiân ZFN",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1835,
+    "duration_human": "00:30:35",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Generated Missiân ZFN - Øapacitor (Bröadcast Ver. 1)",
+      "02 Generated Missiân ZFN - Hayr Sprai (Ver. 1)",
+      "03 Generated Missiân ZFN - NOFFEZ",
+      "04 Generated Missiân ZFN - Erasing Castle (Foundation)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/midi-without-a-soul-no-2_dc577332c1c0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/91f30480faf8fce640f0/MIDI_Without_A_Soul_No._2.tar"
+    }
+  }
+}
