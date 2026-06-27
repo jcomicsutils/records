@@ -1,0 +1,33 @@
+{
+  "id": "mirror-drink_a76a63d1ac69",
+  "fingerprint": "a76a63d1ac69beb749d10979af8f647dbf43df34fa1361a6708a2b43b2ac9532",
+  "archived_at": "2026-06-27T03:11:53Z",
+  "metadata": {
+    "title": "Mirror-Drïnk",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 6052,
+    "duration_human": "01:40:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Partner Goes",
+      "02 Zeffon - Mirror-Drïnk",
+      "03 Zeffon - Turn Up Yr. Signal",
+      "04 Zeffon - Global",
+      "05 Zeffon - Voice",
+      "06 Zeffon - Hanite Stays to Sleep",
+      "07 Zeffon - I Cannot See the Callisto"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mirror-drink_a76a63d1ac69"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/5284badd019a3042b9d9/Mirror-Dr_nk.tar"
+    }
+  }
+}
