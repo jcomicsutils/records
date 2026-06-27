@@ -1,0 +1,28 @@
+{
+  "id": "monsoon_3bf754b186d7",
+  "fingerprint": "3bf754b186d764a012c1be181bce0af596f4c1fb3a7d378a2dd4c84f525cb48a",
+  "archived_at": "2026-06-27T22:02:04Z",
+  "metadata": {
+    "title": "Monsoon",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3755,
+    "duration_human": "01:02:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Monsoon 1",
+      "02 Zeffon - Medicine"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/monsoon_3bf754b186d7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/065600f7b9a7a35b600e/Monsoon.tar"
+    }
+  }
+}
