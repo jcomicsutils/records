@@ -1,0 +1,28 @@
+{
+  "id": "mist_12a39a3121cb",
+  "fingerprint": "12a39a3121cb13ef1f630b2269e8cc8bd542254a0b2201a61e5686341dbba0eb",
+  "archived_at": "2026-06-27T03:13:35Z",
+  "metadata": {
+    "title": "Mist",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1029,
+    "duration_human": "00:17:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - ...Into The Misty Mire",
+      "02 Zeffon - A Forgotten Trip Through Time"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mist_12a39a3121cb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/defce868dc6239933d25/Mist.tar"
+    }
+  }
+}
