@@ -1,0 +1,31 @@
+{
+  "id": "mistakes-trouble-sheer-majesty_468a4bf9b50b",
+  "fingerprint": "468a4bf9b50b10abc680e569e4900768766d772ba6ea723446f3cc8d784782e0",
+  "archived_at": "2026-06-27T03:15:47Z",
+  "metadata": {
+    "title": "Mistakes Trouble Sheer Majesty",
+    "artist": "Zeffon",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3685,
+    "duration_human": "01:01:25",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Mistakes",
+      "02 Zeffon - More to Say",
+      "03 Zeffon - Opening",
+      "04 Zeffon - Side Stream Night (Casing)",
+      "05 Zeffon - Tell Dâle It's Time to Chill"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mistakes-trouble-sheer-majesty_468a4bf9b50b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta8/6c577a7830b137a23713/Mistakes_Trouble_Sheer_Majesty.tar"
+    }
+  }
+}
