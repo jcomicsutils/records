@@ -1,0 +1,27 @@
+{
+  "id": "moon-cult_b68adae23aa9",
+  "fingerprint": "b68adae23aa986e7ed2122ed805c5e5db138874fcaa30473c91ad04a81dfc7a7",
+  "archived_at": "2026-06-28T22:13:59Z",
+  "metadata": {
+    "title": "Moon Cult",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1868,
+    "duration_human": "00:31:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Reïkmoanai"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/moon-cult_b68adae23aa9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/faf86b997b227bed4572/Moon_Cult.tar"
+    }
+  }
+}

@@ -83,6 +83,7 @@
 | [Box](box_580fefbfc6ac/box_580fefbfc6ac.md) | 2014 | FLAC | 00:50:58 | [IA](https://archive.org/details/box_580fefbfc6ac) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/be86bff32897d7ce5eda/Box.tar) |
 | [Burning](burning_4b30142cdbd4/burning_4b30142cdbd4.md) | 2015 | FLAC | 00:35:30 | [IA](https://archive.org/details/burning_4b30142cdbd4) [FileDitch](https://fileditchfiles.me/beta5/540e395244bf5e56e189/Burning.tar) |
 | [Greenery](greenery_aeb52d582354/greenery_aeb52d582354.md) | 2015 | FLAC | 02:58:50 | [IA](https://archive.org/details/greenery_aeb52d582354) [FileDitch](https://fileditchfiles.me/beta6/a81bae07b672d87bcc67/Greenery.tar) |
+| [Moon Cult](moon-cult_b68adae23aa9/moon-cult_b68adae23aa9.md) | 2015 | FLAC | 00:31:08 | [IA](https://archive.org/details/moon-cult_b68adae23aa9) [FileDitch](https://fileditchfiles.me/beta9/faf86b997b227bed4572/Moon_Cult.tar) |
 | [Forward!](forward_b84aeb320612/forward_b84aeb320612.md) | 2015 | FLAC | 02:19:30 | [IA](https://archive.org/details/forward_b84aeb320612) [FileDitch](https://fileditchfiles.me/beta6/0c04eedbadb116d20d3b/Forward.tar) |
 | [Jubedya](jubedya_3ce20479f45a/jubedya_3ce20479f45a.md) | 2015 | FLAC | 00:30:59 | [FileDitch](https://fileditchfiles.me/beta7/3184f6ecf14deaa61e35/Jubedya.tar) [IA](https://archive.org/details/jubedya_3ce20479f45a) |
 | [Florsihh](florsihh_62b771d4d8ee/florsihh_62b771d4d8ee.md) | 2015 | FLAC | 00:27:32 | [IA](https://archive.org/details/florsihh_62b771d4d8ee) [FileDitch](https://fileditchfiles.me/beta6/340783ab7cafc247150d/Florsihh.tar) |
