@@ -1,0 +1,36 @@
+{
+  "id": "mrrr-56_883421d17f28",
+  "fingerprint": "883421d17f2899455a02ecc99adfb149dfee9ba2e1184a5cfa93f0f60a8f096f",
+  "archived_at": "2026-06-28T22:57:35Z",
+  "metadata": {
+    "title": "Mrrr 56",
+    "artist": "Zeffon",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 210,
+    "duration_human": "00:03:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Orange (Slow)",
+      "02 Zeffon - Perfect Mayhem",
+      "03 Zeffon - Death Cometh",
+      "04 Zeffon - Mrrr 56",
+      "05 Zeffon - Grinder Tribute",
+      "06 Zeffon - Mrrr 87",
+      "07 Zeffon - Mombomb",
+      "08 Zeffon - Mrrr 33",
+      "09 Zeffon - Number (Sheet)",
+      "10 Zeffon - Rain (Resolve #16)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mrrr-56_883421d17f28"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/fac0d432143fcdb2c8e8/Mrrr_56.tar"
+    }
+  }
+}
