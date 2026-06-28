@@ -1,0 +1,28 @@
+{
+  "id": "moon-cult-ii_901b4c15560d",
+  "fingerprint": "901b4c15560d368d7db8ba7e1f3f6d911a829489eac5f8a951b8c86fd8ae5d92",
+  "archived_at": "2026-06-28T22:15:58Z",
+  "metadata": {
+    "title": "Moon Cult II",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1199,
+    "duration_human": "00:19:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Quaoahhhe",
+      "02 Zeffon - State Efforts (Extract)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/moon-cult-ii_901b4c15560d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/06b6a73e3007ea77186c/Moon_Cult_II.tar"
+    }
+  }
+}
