@@ -1,0 +1,32 @@
+{
+  "id": "morganoter-a-osenbrahi_078e4ce4b464",
+  "fingerprint": "078e4ce4b46419db4d81b3f1dad2b752f206e77030a64d9b594687a5982d4d27",
+  "archived_at": "2026-06-28T22:55:44Z",
+  "metadata": {
+    "title": "Morganöter Á Ösenbrahi",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 4697,
+    "duration_human": "01:18:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Ultra-Religion (Part III of XX)",
+      "02 Zeffon - Ultra-Church",
+      "03 Zeffon - Bactria Invasion (Part II of VII)",
+      "04 Zeffon - Come Undone",
+      "05 Zeffon - Ultra-Religion (Part IV of XX)",
+      "06 Zeffon - Morganöter Á Ösenbrahi"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/morganoter-a-osenbrahi_078e4ce4b464"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/5ca229cb9295d6bf6a5c/Morgan_ter_senbrahi.tar"
+    }
+  }
+}
