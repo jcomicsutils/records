@@ -1,0 +1,28 @@
+{
+  "id": "national-safety-concern_1320fef350ed",
+  "fingerprint": "1320fef350edddd1672b45f2d6f014dc394d1adfa458a939c320dc9e773c623e",
+  "archived_at": "2026-06-29T02:18:01Z",
+  "metadata": {
+    "title": "National Safety Concern",
+    "artist": "Zeffon",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 8533,
+    "duration_human": "02:22:13",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Thjo Wooden Fishing Spear",
+      "02 Zeffon - CPU Clogger"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/national-safety-concern_1320fef350ed"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/d640a7203f56586f2b44/National_Safety_Concern.tar"
+    }
+  }
+}
