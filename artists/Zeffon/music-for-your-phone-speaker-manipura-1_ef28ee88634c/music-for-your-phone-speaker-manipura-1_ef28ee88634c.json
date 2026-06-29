@@ -1,0 +1,30 @@
+{
+  "id": "music-for-your-phone-speaker-manipura-1_ef28ee88634c",
+  "fingerprint": "ef28ee88634c9416ab8b5053a3dff189d35696cc0f260bf33500b758e9e20862",
+  "archived_at": "2026-06-29T01:38:42Z",
+  "metadata": {
+    "title": "Music for Your Phone Speaker - Manipura 1",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 220,
+    "duration_human": "00:03:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Hero Self-Destructs Along the Way",
+      "02 Zeffon - Audacious Tragedy-Giver",
+      "03 Zeffon - Souless at One",
+      "04 Zeffon - Manipura 1 (HQ)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/music-for-your-phone-speaker-manipura-1_ef28ee88634c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/fb63b49979b85cc66a76/Music_for_Your_Phone_Speaker_-_Manipura_1.tar"
+    }
+  }
+}
