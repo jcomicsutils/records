@@ -1,0 +1,28 @@
+{
+  "id": "nacadjaedmat-omwe_32b049201272",
+  "fingerprint": "32b049201272dfec92f32f25d095f9a51115da4436ecea52f0bbd20c91db96b5",
+  "archived_at": "2026-06-29T01:39:35Z",
+  "metadata": {
+    "title": "Nacadjaedmat Omwe",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2431,
+    "duration_human": "00:40:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Dawn March",
+      "02 Zeffon - Nacadjaedibr"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nacadjaedmat-omwe_32b049201272"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/5ba5f773584ec633859c/Nacadjaedmat_Omwe.tar"
+    }
+  }
+}
