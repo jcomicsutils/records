@@ -1,0 +1,29 @@
+{
+  "id": "alexander-i-am-not-a-saltlick_f8b900314c35",
+  "fingerprint": "f8b900314c35c7323b1fece525171a3e0d6266405e7204ebee7770ddf37dca4a",
+  "archived_at": "2026-06-29T21:10:29Z",
+  "metadata": {
+    "title": "Alexander, I Am Not a Saltlick",
+    "artist": "Alexander Gregory Kent",
+    "year": "2024",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 3242,
+    "duration_human": "00:54:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Alexander Gregory Kent - Pricks in the Snow",
+      "02 Alexander Gregory Kent - Saltlick",
+      "03 Alexander Gregory Kent - Excerpt From Rejected Shearling Song + ZZ TOP PRICK"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/alexander-i-am-not-a-saltlick_f8b900314c35"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/cade7f67b8a9cb2c5cb4/Alexander_I_Am_Not_a_Saltlick.tar"
+    }
+  }
+}

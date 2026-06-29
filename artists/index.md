@@ -6,6 +6,7 @@
 - [Absolute Controlled Clinical Maniacs](Absolute-Controlled-Clinical-Maniacs/Absolute-Controlled-Clinical-Maniacs.md)
 - [Accident Prone Records](Accident-Prone-Records/Accident-Prone-Records.md)
 - [Ak'chamel](Ak'chamel/Ak'chamel.md)
+- [Alexander Gregory Kent](Alexander-Gregory-Kent/Alexander-Gregory-Kent.md)
 - [Algebra Suicide](Algebra-Suicide/Algebra-Suicide.md)
 - [And We Walk Endlessly Towards The Sun](And-We-Walk-Endlessly-Towards-The-Sun/And-We-Walk-Endlessly-Towards-The-Sun.md)
 - [Argon Beams](Argon-Beams/Argon-Beams.md)
