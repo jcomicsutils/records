@@ -1,0 +1,35 @@
+{
+  "id": "necessary-foliage_53ac51697e04",
+  "fingerprint": "53ac51697e04124555b27c9e1a1d1da2930c951171b2b01c05df4eaea285aadd",
+  "archived_at": "2026-06-29T02:28:13Z",
+  "metadata": {
+    "title": "Necessary Foliage",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 6534,
+    "duration_human": "01:48:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Va Perila",
+      "02 Zeffon - Proteins 9",
+      "03 Zeffon - Reepa",
+      "04 Zeffon - Plot in Elsewhere",
+      "05 Zeffon - The Crash of the Empire",
+      "06 Zeffon - El Gigante",
+      "07 Zeffon - Necessary Foliage",
+      "08 Zeffon - Proteins 8",
+      "09 Zeffon - Proteins 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/necessary-foliage_53ac51697e04"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/afe60482ebd2151d4818/Necessary_Foliage.tar"
+    }
+  }
+}
