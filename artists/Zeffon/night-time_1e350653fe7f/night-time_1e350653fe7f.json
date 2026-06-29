@@ -1,0 +1,30 @@
+{
+  "id": "night-time_1e350653fe7f",
+  "fingerprint": "1e350653fe7fc0c96015dcdc060a355feead1d4092bcc06120df3d1378a7f49c",
+  "archived_at": "2026-06-29T02:48:02Z",
+  "metadata": {
+    "title": "Night Time!",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4450,
+    "duration_human": "01:14:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Agate (Suntower)",
+      "02 Zeffon - Kelué, Pt. 3",
+      "03 Zeffon - Night Time",
+      "04 Zeffon - Pink Vines of the Divine"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/night-time_1e350653fe7f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/97f88d173f44733855fb/Night_Time.tar"
+    }
+  }
+}
