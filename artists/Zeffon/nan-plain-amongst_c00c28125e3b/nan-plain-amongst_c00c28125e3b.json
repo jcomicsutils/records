@@ -1,0 +1,29 @@
+{
+  "id": "nan-plain-amongst_c00c28125e3b",
+  "fingerprint": "c00c28125e3bb07de272c9a71139a945abbe45ce155ee2b636f9484e98ac92da",
+  "archived_at": "2026-06-29T02:15:06Z",
+  "metadata": {
+    "title": "Nan Plain Amongst",
+    "artist": "Zeffon",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 683,
+    "duration_human": "00:11:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Ren Traks",
+      "02 Zeffon - Frej Diecatsxt-Alum 0.",
+      "03 Zeffon - March to Victory"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nan-plain-amongst_c00c28125e3b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/c66417a823f3aa7340e3/Nan_Plain_Amongst.tar"
+    }
+  }
+}
