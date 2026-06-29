@@ -1,0 +1,27 @@
+{
+  "id": "rains-into-clouds_c71d89e1e82d",
+  "fingerprint": "c71d89e1e82d870e3e00545cdbcf77dcb791d2451a9cbdd6c9c9aeb0a60a5796",
+  "archived_at": "2026-06-29T21:11:25Z",
+  "metadata": {
+    "title": "Rains Into Clouds",
+    "artist": "Alexander Gregory Kent",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1205,
+    "duration_human": "00:20:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Evan Kilmartin and Alex Kent - Rains Into Clouds"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rains-into-clouds_c71d89e1e82d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/dfa4175d6e1e50d8c824/Rains_Into_Clouds.tar"
+    }
+  }
+}
