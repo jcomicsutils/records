@@ -1,0 +1,31 @@
+{
+  "id": "noffez-ep_9fe87b11fe99",
+  "fingerprint": "9fe87b11fe99dde0032d474d25b10beac8d840235e3804c12cd4511b1592c6af",
+  "archived_at": "2026-06-29T23:12:11Z",
+  "metadata": {
+    "title": "NOFFEZ EP",
+    "artist": "Generated Missiân ZFN",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 122,
+    "duration_human": "00:02:02",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Generated Missiân ZFN - Bitter Devil",
+      "02 Generated Missiân ZFN - Drink Dark Soda",
+      "03 Generated Missiân ZFN - Lounge Chair",
+      "04 Generated Missiân ZFN - Battle (rep. 4-6-22)",
+      "05 Generated Missiân ZFN - Chain Swing"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/noffez-ep_9fe87b11fe99"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/95e524579f24471530d4/NOFFEZ_EP.tar"
+    }
+  }
+}
