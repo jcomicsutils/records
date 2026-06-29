@@ -1,0 +1,38 @@
+{
+  "id": "music-for-the-burning-sun_6505106e7b3a",
+  "fingerprint": "6505106e7b3ae1dffd935d03c05239f1d813287517756ecc53451a7bce0f7f22",
+  "archived_at": "2026-06-29T01:37:03Z",
+  "metadata": {
+    "title": "Music for the Burning Sun",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 8972,
+    "duration_human": "02:29:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - [Corona] Protoasma",
+      "02 Zeffon - [Corona] Ix Ba Tyerratul",
+      "03 Zeffon - [Corona] Giant White Sun (Crossverb Mix)",
+      "04 Zeffon - [Corona] Ruined Lapis Vein",
+      "05 Zeffon - [Corona] Large Sun Musick",
+      "06 Zeffon - [Corona] Battle of Mataxul",
+      "07 Zeffon - [Corona] Crescent Man",
+      "08 Zeffon - [Corona] Peri-Completion (Accept Institution)",
+      "09 Zeffon - [Corona] Optical Illusion",
+      "10 Zeffon - [Corona] Robbery of the Wooden Night Mask",
+      "11 Zeffon - [Corona] Turn Me Backwards and Upside-Down as Foretold",
+      "12 Zeffon - [Corona] Slave Miner"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/music-for-the-burning-sun_6505106e7b3a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/172db7fafda75dd436b1/Music_for_the_Burning_Sun.tar"
+    }
+  }
+}
