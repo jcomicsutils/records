@@ -1,0 +1,39 @@
+{
+  "id": "muddy-swamp-cipher-eumtzhd-tguoch-zrpamrichats-iv5_4574fa56e48b",
+  "fingerprint": "4574fa56e48bd456b0137ad818f207dea7d5a2d02bf24449ad8b5657478f7f59",
+  "archived_at": "2026-06-29T01:20:50Z",
+  "metadata": {
+    "title": "Muddy Swamp Cipher (Ёумтжд - Тгуоч Зрпамричац IV.5)",
+    "artist": "Zeffon",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 26535,
+    "duration_human": "07:22:15",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Theme 50 / Ballet",
+      "02 Zeffon - Demonic Regression",
+      "03 Zeffon - Aura (BR-秘密區域-3Ë ONE EIGHT NINE IQ U__trm Du)",
+      "04 Zeffon - U__trm Collage",
+      "05 Zeffon - Adjacent Trudge Through Snow",
+      "06 Zeffon - Lemon Salad (Ver. 1) [Ver. Anti Sanderz]",
+      "07 Zeffon - Picture Project (All Aboard the FLTR Derelictnorthern)",
+      "08 Zeffon - Muddy Swamp Cipher (Long Flight Over the Vagarditam Conifer Frontier)",
+      "09 Zeffon - Friends Matter A Lot",
+      "10 Zeffon - Yôn Tin Berry Valley",
+      "11 Zeffon - Carrying Below Ground",
+      "12 Zeffon - HHRL",
+      "13 Zeffon - Confuscate: Trudge"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/muddy-swamp-cipher-eumtzhd-tguoch-zrpamrichats-iv5_4574fa56e48b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/1995b2d0ecc153adba6c/Muddy_Swamp_Cipher_-_IV.5.tar"
+    }
+  }
+}
