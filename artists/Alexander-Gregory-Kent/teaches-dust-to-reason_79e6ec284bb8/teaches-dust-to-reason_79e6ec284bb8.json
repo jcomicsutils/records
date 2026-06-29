@@ -1,0 +1,28 @@
+{
+  "id": "teaches-dust-to-reason_79e6ec284bb8",
+  "fingerprint": "79e6ec284bb80d25e0bf6513614e0ba60e7b4e9cb73d40649557109edead4dc7",
+  "archived_at": "2026-06-29T21:43:16Z",
+  "metadata": {
+    "title": "Teaches Dust to Reason",
+    "artist": "Alexander Gregory Kent",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3305,
+    "duration_human": "00:55:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Alexander Gregory Kent - Teaches Dust to Reason",
+      "02 Alexander Gregory Kent - Horse Goes to Heaven"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/teaches-dust-to-reason_79e6ec284bb8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/7d3401e036a9c0c52b76/Teaches_Dust_to_Reason.tar"
+    }
+  }
+}
