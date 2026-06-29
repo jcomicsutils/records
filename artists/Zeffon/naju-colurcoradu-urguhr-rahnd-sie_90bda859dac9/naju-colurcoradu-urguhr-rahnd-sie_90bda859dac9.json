@@ -1,0 +1,37 @@
+{
+  "id": "naju-colurcoradu-urguhr-rahnd-sie_90bda859dac9",
+  "fingerprint": "90bda859dac964e774d4034ecbedb134f6fabd71cc7b303cb47afd8bdfaf8524",
+  "archived_at": "2026-06-29T02:13:00Z",
+  "metadata": {
+    "title": "Naju - Colurcoradu Urgühr, rähnd sie",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 13397,
+    "duration_human": "03:43:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Stone Men",
+      "02 Zeffon - Tearing Him Apart",
+      "03 Zeffon - Rotting Paper",
+      "04 Zeffon - Naju, Part 1",
+      "05 Zeffon - Anti-Social Disability Trial",
+      "06 Zeffon - Representation-Disgrace",
+      "07 Zeffon - Split Red",
+      "08 Zeffon - Urgühr, rähnd sie I",
+      "09 Zeffon - Tertiary Proteins 5",
+      "10 Zeffon - Raw Sand",
+      "11 Zeffon - Urgühr, rähnd sie II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/naju-colurcoradu-urguhr-rahnd-sie_90bda859dac9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/4d2fa90ed5b16a2cc3df/Naju_-_Colurcoradu_Urg_hr_r_hnd_sie.tar"
+    }
+  }
+}
