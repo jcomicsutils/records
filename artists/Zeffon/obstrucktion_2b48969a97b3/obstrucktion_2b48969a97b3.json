@@ -1,0 +1,34 @@
+{
+  "id": "obstrucktion_2b48969a97b3",
+  "fingerprint": "2b48969a97b303d18e396eb36b107e4901036287a8f666cc3de17bacacb641f9",
+  "archived_at": "2026-06-30T03:25:56Z",
+  "metadata": {
+    "title": "Obstrucktion",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 4519,
+    "duration_human": "01:15:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Elgible",
+      "02 Zeffon - Empty Relay",
+      "03 Zeffon - Obstrucktion",
+      "04 Zeffon - Master",
+      "05 Zeffon - Chamber of Thine Sun",
+      "06 Zeffon - Meditation VS yr Ability",
+      "07 Zeffon - Time Travel",
+      "08 Zeffon - Hunt for Alice Callira"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/obstrucktion_2b48969a97b3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/7fc8d5fd32e313fb505b/Obstrucktion.tar"
+    }
+  }
+}
