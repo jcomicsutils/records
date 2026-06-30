@@ -1,0 +1,32 @@
+{
+  "id": "open-eye-autumn-xii_b35a583641d2",
+  "fingerprint": "b35a583641d2e67d78eb813f826941e2aab344a78199eb7503723cd2181e486b",
+  "archived_at": "2026-06-30T17:06:23Z",
+  "metadata": {
+    "title": "Open Eye (Autumn XII)",
+    "artist": "Zeffon",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 5055,
+    "duration_human": "01:24:15",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Transparent Pink",
+      "02 Zeffon - 57702 (Blank Void)",
+      "03 Zeffon - Being Left Behind",
+      "04 Zeffon - 34 (Spiritual Haze)",
+      "05 Zeffon - Rhydhy",
+      "06 Zeffon - Red Dress Gown"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/open-eye-autumn-xii_b35a583641d2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/8326a398885d9d517417/Open_Eye_Autumn_XII.tar"
+    }
+  }
+}
