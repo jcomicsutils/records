@@ -1,0 +1,31 @@
+{
+  "id": "normal-autumn_3936450b5648",
+  "fingerprint": "3936450b56484252e8b1a58be44a0e960c3662901bdde97f6fb02764f8c23663",
+  "archived_at": "2026-06-30T02:39:10Z",
+  "metadata": {
+    "title": "Normal Autumn",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 4474,
+    "duration_human": "01:14:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Normal Autumn 1",
+      "02 Zeffon - Normal Autumn 2",
+      "03 Zeffon - Normal Autumn 3",
+      "04 Zeffon - Normal Autumn 4",
+      "05 Zeffon - Normal Autumn 5"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/normal-autumn_3936450b5648"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/3ba0704305b75fdfb07c/Normal_Autumn.tar"
+    }
+  }
+}
