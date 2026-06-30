@@ -1,0 +1,36 @@
+{
+  "id": "ozca_f660526dba4b",
+  "fingerprint": "f660526dba4b23a564434ef6886457d5f3d69c18b13af7070e40b1eee162c45e",
+  "archived_at": "2026-06-30T18:12:10Z",
+  "metadata": {
+    "title": "OZCA",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 4138,
+    "duration_human": "01:08:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Rhode",
+      "02 Zeffon - Ultraviolence",
+      "03 Zeffon - OZCA",
+      "04 Zeffon - Destruction From Above",
+      "05 Zeffon - Apathy (2015 Remix, Cowbell Mechanics Bonus)",
+      "06 Zeffon - Strange Movement",
+      "07 Zeffon - Collision and Broken",
+      "08 Zeffon - Ideals for the Prince",
+      "09 Zeffon - ACZ",
+      "10 Zeffon - Duoxon"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ozca_f660526dba4b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/18feb64ab2e3aa074a41/OZCA.tar"
+    }
+  }
+}
