@@ -1,0 +1,33 @@
+{
+  "id": "over-and-around_06e8d8548df2",
+  "fingerprint": "06e8d8548df26e6b975f206e3753447ec7a13ac523dc75919f399c71e46de3d4",
+  "archived_at": "2026-06-30T18:04:37Z",
+  "metadata": {
+    "title": "Over And Around",
+    "artist": "Zeffon",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1641,
+    "duration_human": "00:27:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Descent",
+      "02 Zeffon - Sneeze",
+      "03 Zeffon - Over And Around",
+      "04 Zeffon - Lovely",
+      "05 Zeffon - Another Psychotic Thing",
+      "06 Zeffon - Oath",
+      "07 Zeffon - Archer Revenge"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/over-and-around_06e8d8548df2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/3bf93f74fc0a686cf654/Over_And_Around.tar"
+    }
+  }
+}
