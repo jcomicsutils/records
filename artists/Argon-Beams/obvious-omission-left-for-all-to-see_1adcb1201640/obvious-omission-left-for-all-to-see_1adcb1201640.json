@@ -1,0 +1,27 @@
+{
+  "id": "obvious-omission-left-for-all-to-see_1adcb1201640",
+  "fingerprint": "1adcb1201640b04be837050f3e3c7e63039a6016d80385b04baa37c3c19c67fa",
+  "archived_at": "2026-06-30T03:27:07Z",
+  "metadata": {
+    "title": "Obvious Omission Left for All to See",
+    "artist": "Argon Beams",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2784,
+    "duration_human": "00:46:24",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Argon Beams - Various Articles of Substantial Growth (UFO Magdub)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/obvious-omission-left-for-all-to-see_1adcb1201640"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/ceeceb00afcc0af48225/Obvious_Omission_Left_for_All_to_See.tar"
+    }
+  }
+}
