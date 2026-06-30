@@ -1,0 +1,27 @@
+{
+  "id": "our-finest-bread-and-flowers_86923ca9e3a0",
+  "fingerprint": "86923ca9e3a057097aa65194eadb2bb163d16cdadfa2c94f740a5a42e8f6cd15",
+  "archived_at": "2026-06-30T18:00:03Z",
+  "metadata": {
+    "title": "Our Finest Bread and Flowers",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4671,
+    "duration_human": "01:17:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Flour and Water"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/our-finest-bread-and-flowers_86923ca9e3a0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/e5c05ecd8041409fc787/Our_Finest_Bread_and_Flowers.tar"
+    }
+  }
+}
