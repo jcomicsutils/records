@@ -1,0 +1,27 @@
+{
+  "id": "nuia-terra_d034e9f00c19",
+  "fingerprint": "d034e9f00c19edca774da9060468a5cd3881d97c3b3534c1221443bd23bcaeeb",
+  "archived_at": "2026-06-30T02:40:22Z",
+  "metadata": {
+    "title": "Nuia Terra",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3618,
+    "duration_human": "01:00:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Rotating Brown Star Eye (Extended Death Mix 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nuia-terra_d034e9f00c19"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/1f0912d9cef6058ce2a9/Nuia_Terra.tar"
+    }
+  }
+}
