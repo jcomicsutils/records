@@ -1,0 +1,34 @@
+{
+  "id": "open-cuts-through-the-gamma-crust_c8702dec4690",
+  "fingerprint": "c8702dec4690987fcf75a54fd13122e5ae6fba457e581d90431824611e2c92fb",
+  "archived_at": "2026-06-30T16:50:20Z",
+  "metadata": {
+    "title": "Open Cuts Through the Gamma Crust",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2157,
+    "duration_human": "00:35:57",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Malice No. 1",
+      "02 Zeffon - Monument",
+      "03 Zeffon - The Dawn Arrives",
+      "04 Zeffon - Investigation at Fairthorne",
+      "05 Zeffon - Malice No. 2",
+      "06 Zeffon - Biocrystal Caverns",
+      "07 Zeffon - Following the Underground River Rapids",
+      "08 Zeffon - Strained"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/open-cuts-through-the-gamma-crust_c8702dec4690"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/cc7fa6b6bd7bebb7e7cd/Open_Cuts_Through_the_Gamma_Crust.tar"
+    }
+  }
+}
