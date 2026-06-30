@@ -1,0 +1,27 @@
+{
+  "id": "onto-more-and-more_051582c5982a",
+  "fingerprint": "051582c5982a36b6e0fcc1c3d816b583e02766a2ee62675e0de3ec3ca524f339",
+  "archived_at": "2026-06-30T16:41:37Z",
+  "metadata": {
+    "title": "Onto More and More",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 165,
+    "duration_human": "00:02:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Onto More and More"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/onto-more-and-more_051582c5982a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/21226d346460970d2dc6/Onto_More_and_More.tar"
+    }
+  }
+}
