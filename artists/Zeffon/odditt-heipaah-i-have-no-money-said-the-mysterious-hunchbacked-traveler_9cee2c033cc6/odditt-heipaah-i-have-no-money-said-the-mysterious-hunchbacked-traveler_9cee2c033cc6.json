@@ -1,0 +1,29 @@
+{
+  "id": "odditt-heipaah-i-have-no-money-said-the-mysterious-hunchbacked-traveler_9cee2c033cc6",
+  "fingerprint": "9cee2c033cc653d7ae3047d5d638e98a2681105d479426e8931bd49718f046ac",
+  "archived_at": "2026-06-30T03:43:21Z",
+  "metadata": {
+    "title": "Odditt Heipaah ('I Have No Money', Said the Mysterious Hunchbacked Traveler)",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 7742,
+    "duration_human": "02:09:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Lord is...",
+      "02 Zeffon - The Lord is...",
+      "03 Zeffon - Ophelia's Dilemma"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/odditt-heipaah-i-have-no-money-said-the-mysterious-hunchbacked-traveler_9cee2c033cc6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/b5bc085ddc62832356fd/Odditt_Heipaah_I_Have_No_Money_Said_the_Mysterious_Hunchback.tar"
+    }
+  }
+}
