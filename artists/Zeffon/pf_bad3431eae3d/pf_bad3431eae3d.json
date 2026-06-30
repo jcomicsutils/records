@@ -35,6 +35,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta9/ab1f16dfdca74857e914/P.F.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/pf_bad3431eae3d"
     }
   }
 }
