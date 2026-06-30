@@ -1,0 +1,27 @@
+{
+  "id": "opehla_31184843c665",
+  "fingerprint": "31184843c66579de5e8aaf466ff558389a0abf9a40e2b79ee9f1007323a72254",
+  "archived_at": "2026-06-30T16:45:52Z",
+  "metadata": {
+    "title": "Opehla",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 546,
+    "duration_human": "00:09:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - XI: Opehla Goesiadu Garma"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/opehla_31184843c665"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/e2f138e52c3fafe43325/Opehla.tar"
+    }
+  }
+}
