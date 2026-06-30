@@ -1,0 +1,27 @@
+{
+  "id": "omnipotent_3d8af849d337",
+  "fingerprint": "3d8af849d3377933f721e8eee61bc1caf196d86a1fc86f06d7d907153febfb18",
+  "archived_at": "2026-06-30T16:40:41Z",
+  "metadata": {
+    "title": "Omnipotent",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2817,
+    "duration_human": "00:46:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Omnipotent (Single Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/omnipotent_3d8af849d337"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/94343406aa49787a135c/Omnipotent.tar"
+    }
+  }
+}
