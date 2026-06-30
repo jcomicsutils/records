@@ -1,0 +1,30 @@
+{
+  "id": "now_d287e7ba4d10",
+  "fingerprint": "d287e7ba4d10f3480025d287cd0a44e81e1eaa36a0c5ab51b21efcb14a54a723",
+  "archived_at": "2026-06-30T00:05:51Z",
+  "metadata": {
+    "title": "Nów",
+    "artist": "Księżyc",
+    "year": "1993",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 703,
+    "duration_human": "00:11:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Księżyc - Chodź",
+      "02 Księżyc - Zakopana",
+      "03 Księżyc - Śmieszki",
+      "04 Księżyc - Gdzieś ty była"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/now_d287e7ba4d10"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/2a49fa048e872378971b/N_w.tar"
+    }
+  }
+}
