@@ -1,0 +1,44 @@
+{
+  "id": "zawieje_3f13b0cbb78a",
+  "fingerprint": "3f13b0cbb78a094c0c3c695b9b5a383b5638da23caf758491daf47fcfac6a4a4",
+  "archived_at": "2026-06-30T00:16:03Z",
+  "metadata": {
+    "title": "Zawieje",
+    "artist": "Księżyc",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 18,
+    "duration_seconds": 6708,
+    "duration_human": "01:51:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "1-01 Księżyc - Flażoletowa",
+      "1-02 Księżyc - Lalka",
+      "1-03 Księżyc - Walczyk III",
+      "1-04 Księżyc - Śmieszki",
+      "1-05 Księżyc - Apollo 11",
+      "1-06 Księżyc - Kapkowa",
+      "1-07 Księżyc - Choinka III",
+      "1-08 Księżyc - Smutna",
+      "1-09 Księżyc - Syreny",
+      "2-01 Księżyc - Flażoletowa",
+      "2-02 Księżyc - Lalka",
+      "2-03 Księżyc - Walczyk III",
+      "2-04 Księżyc - Śmieszki",
+      "2-05 Księżyc - Apollo 11",
+      "2-06 Księżyc - Kapkowa",
+      "2-07 Księżyc - Choinka III",
+      "2-08 Księżyc - Smutna",
+      "2-09 Księżyc - Syreny"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zawieje_3f13b0cbb78a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/5cd40e4ca8ad0965303b/Zawieje.tar"
+    }
+  }
+}
