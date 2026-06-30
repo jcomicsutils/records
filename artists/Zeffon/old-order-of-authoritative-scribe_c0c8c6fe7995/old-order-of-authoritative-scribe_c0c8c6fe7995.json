@@ -1,0 +1,34 @@
+{
+  "id": "old-order-of-authoritative-scribe_c0c8c6fe7995",
+  "fingerprint": "c0c8c6fe7995b71758ef0dd288d1a1d6a8bb9125db4af0a76ee5f05040bcd40f",
+  "archived_at": "2026-06-30T05:28:01Z",
+  "metadata": {
+    "title": "Old Order of Authoritative Scribe",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 43218,
+    "duration_human": "12:00:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Book of the Dead+ (New World Order, Part 1)",
+      "02 Zeffon - Type 92 Ashes+ (M.O.Voyager, New World Order, Part 2)",
+      "03 Zeffon - Mysteriously Absent+ (New World Order, Part 3)",
+      "04 Zeffon - Gravity Constant+ (New World Order, Part 4)",
+      "05 Zeffon - Buried Bodies+ (New World Order, Part 5)",
+      "06 Zeffon - Who Saw Him Die?++ (New World Order, Part 6)",
+      "07 Zeffon - Tones For Bactria+ (New World Order, Part 7)",
+      "08 Zeffon - New World Order, Part 8 (of 288, Possibly...?)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/old-order-of-authoritative-scribe_c0c8c6fe7995"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/376647f2532d6966ab1a/Old_Order_of_Authoritative_Scribe.tar"
+    }
+  }
+}
