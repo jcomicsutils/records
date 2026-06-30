@@ -1,0 +1,34 @@
+{
+  "id": "omega_bf9f37cac3ad",
+  "fingerprint": "bf9f37cac3ad886ad697f1b4f383be73751ec67b995d4f3e6f1c904116ad0330",
+  "archived_at": "2026-06-30T16:34:56Z",
+  "metadata": {
+    "title": "Omega",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 24634,
+    "duration_human": "06:50:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - A Dog's View of the World",
+      "02 Zeffon - Something In",
+      "03 Zeffon - Three Trinity",
+      "04 Zeffon - Nazis Are Obnoxious Carrot-Munchers",
+      "05 Zeffon - Hjtraana (The Anti-Reich of Vegetables)",
+      "06 Zeffon - There's Not A Lot to Do",
+      "07 Zeffon - The Lake Spells 'Ripe'",
+      "08 Zeffon - Fabulous Bath"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/omega_bf9f37cac3ad"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/64c5e24e6621671b3bba/Omega.tar"
+    }
+  }
+}
