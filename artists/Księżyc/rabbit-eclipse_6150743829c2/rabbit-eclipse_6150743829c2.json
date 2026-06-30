@@ -1,0 +1,31 @@
+{
+  "id": "rabbit-eclipse_6150743829c2",
+  "fingerprint": "6150743829c2c5c743029641be3d3d1725f95d9ecc404d6894b5595817fe5250",
+  "archived_at": "2026-06-30T00:08:06Z",
+  "metadata": {
+    "title": "Rabbit Eclipse",
+    "artist": "Księżyc",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2509,
+    "duration_human": "00:41:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Księżyc - Kapkowa",
+      "02 Księżyc - Mglista",
+      "03 Księżyc - Flażoletowa",
+      "04 Księżyc - Walczyk III",
+      "05 Księżyc - Syreny"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rabbit-eclipse_6150743829c2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/6e2830ed5aecb875a764/Rabbit_Eclipse.tar"
+    }
+  }
+}
