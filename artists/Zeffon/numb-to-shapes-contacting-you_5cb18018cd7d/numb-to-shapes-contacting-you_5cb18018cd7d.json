@@ -1,0 +1,27 @@
+{
+  "id": "numb-to-shapes-contacting-you_5cb18018cd7d",
+  "fingerprint": "5cb18018cd7d59d6d0151cd106fd994790f9e2e158c2842cf25d8ab8748e3e69",
+  "archived_at": "2026-06-30T02:41:12Z",
+  "metadata": {
+    "title": "Numb to Shapes Contacting You",
+    "artist": "Zeffon",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 743,
+    "duration_human": "00:12:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Shard Catcher"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/numb-to-shapes-contacting-you_5cb18018cd7d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/6b4623955c59cf931074/Numb_to_Shapes_Contacting_You.tar"
+    }
+  }
+}
