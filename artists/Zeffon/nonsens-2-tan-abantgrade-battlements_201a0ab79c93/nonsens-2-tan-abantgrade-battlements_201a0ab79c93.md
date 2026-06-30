@@ -1,0 +1,51 @@
+# Zeffon — Nonsens-2 攤 Abäntgräde-Battlements (2018)
+
+![Cover](https://archive.org/download/nonsens-2-tan-abantgrade-battlements_201a0ab79c93/__ia_thumb.jpg)
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | 44.1kHz |
+| Bit Depth | 16-bit |
+| Tracks | 27 |
+| Duration | 14:12:41 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/nonsens-2-tan-abantgrade-battlements_201a0ab79c93)
+- [FileDitch](https://fileditchfiles.me/beta9/760402f519024724a521/Nonsens-2_Ab_ntgr_de-Battlements.tar)
+
+## Tracklist
+
+```
+01 Zeffon - Golden Shiva Statue (Spleen)
+02 Zeffon - Avtroaua-Hopelessly in Love
+03 Zeffon - Hjakrry Shrine For Glory
+04 Zeffon - Kgoru-La (Unknown Location, Recorded 10.49, The Red Clanking Buddha Cart, Part 1)
+05 Zeffon - Nonsens-2 攤 Abäntgräde-Battlements
+06 Zeffon - Heresta Gkra
+07 Zeffon - Recent Rhetoric
+08 Zeffon - Give Me Light (The Red Clanking Buddha Cart, Part 2)
+09 Zeffon - The Red Object on the Horizon
+10 Zeffon - Ominous Lakes
+11 Zeffon - The Big Stick Theme
+12 Zeffon - Metal Crack
+13 Zeffon - Baltauyuhr-in-Water Droplet
+14 Zeffon - Baltauyuhr-O Cardboard Box is Fragile, So Handle With Care
+15 Zeffon - Evidänt Cramp-Itch Dear Dearest... (Groan Under the Lowlands)
+16 Zeffon - Sulka Mertu Verrtra (貳)
+17 Zeffon - Evidänt Cramp-Itch Drone
+18 Zeffon - 呻吟 (Mkkrtraan)
+19 Zeffon - 攤 (Zetaeuu)
+20 Zeffon - Very Original
+21 Zeffon - Riu Strangers
+22 Zeffon - Treasure in the Lowlands
+23 Zeffon - The Bubble Gum Man
+24 Zeffon - Ginny Lounge Muzak
+25 Zeffon - Jerrujoubasta, Part 1
+26 Zeffon - You Drown in Teeth From Tongues (The Red Clanking Buddha Cart, Part 3)
+27 Zeffon - Copper Shiva Statue (Enlargement)
+```
+
+---
+*Archived: 2026-06-30*
