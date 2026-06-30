@@ -1,0 +1,28 @@
+{
+  "id": "oropelera_2cbe4840ffc8",
+  "fingerprint": "2cbe4840ffc871c59b8a23d88d3cfe2fea6daddacaccacca358705d6bf8e48a7",
+  "archived_at": "2026-06-30T17:34:57Z",
+  "metadata": {
+    "title": "Oropelera!",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 6958,
+    "duration_human": "01:55:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Ciühlikü (Z, Pt. 3)",
+      "02 Zeffon - Raageg (Z, Pt. 4)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/oropelera_2cbe4840ffc8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/16c1a93dd693ad788ff4/Oropelera.tar"
+    }
+  }
+}
