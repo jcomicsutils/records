@@ -1,0 +1,28 @@
+{
+  "id": "purgatory_91d0f69f20dd",
+  "fingerprint": "91d0f69f20dd01d47b465e027daadf8aff06e024635a552b6a4a446d37643dc1",
+  "archived_at": "2026-07-01T22:39:28Z",
+  "metadata": {
+    "title": "Purgatory",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4743,
+    "duration_human": "01:19:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Knowing the Way",
+      "02 Zeffon - Zeffon Meets Dr. X"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/purgatory_91d0f69f20dd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/63ff426d556e5d1fef66/Purgatory.tar"
+    }
+  }
+}
