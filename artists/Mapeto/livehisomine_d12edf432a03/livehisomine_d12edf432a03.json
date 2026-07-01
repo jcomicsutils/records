@@ -1,0 +1,26 @@
+{
+  "id": "livehisomine_d12edf432a03",
+  "fingerprint": "d12edf432a0366bc9c1ff6ab187d19a1db28339ffe3842c14c3d1d89f72eff0d",
+  "archived_at": "2026-07-01T23:57:22Z",
+  "metadata": {
+    "title": "Live@hisomine",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 5029,
+    "duration_human": "01:23:49",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - 2020 8/3@hisomine",
+      "02 籠島雫 aka Mapeto - 2019 10/24@hisomine",
+      "03 籠島雫 aka Mapeto - 2019 8/28@hisomine"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/livehisomine_d12edf432a03"
+    }
+  }
+}

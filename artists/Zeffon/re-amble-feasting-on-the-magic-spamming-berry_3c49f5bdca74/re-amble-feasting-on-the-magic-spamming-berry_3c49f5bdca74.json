@@ -1,0 +1,27 @@
+{
+  "id": "re-amble-feasting-on-the-magic-spamming-berry_3c49f5bdca74",
+  "fingerprint": "3c49f5bdca74b7f2bbe70612eae1974e1e21ee429c62aefc9dffca168b48da22",
+  "archived_at": "2026-07-01T23:57:52Z",
+  "metadata": {
+    "title": "Re-amble (Feasting on the Magic Spamming Berry)",
+    "artist": "Zeffon",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 468,
+    "duration_human": "00:07:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Shocker Infiltration Strategy (Single)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/re-amble-feasting-on-the-magic-spamming-berry_3c49f5bdca74"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/f915e82bf7b713c6eb91/Re-amble_Feasting_on_the_Magic_Spamming_Berry.tar"
+    }
+  }
+}
