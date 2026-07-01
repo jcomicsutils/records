@@ -1,0 +1,27 @@
+{
+  "id": "gggg_d12d890ca277",
+  "fingerprint": "d12d890ca277cbda3fccfb43bcf41ec397ef11fcd2b9429d0f2319e7a37831b2",
+  "archived_at": "2026-07-01T23:01:53Z",
+  "metadata": {
+    "title": "Gggg",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2939,
+    "duration_human": "00:48:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - Gggg"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/gggg_d12d890ca277"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/12fc4173a441774d4d14/Gggg.tar"
+    }
+  }
+}
