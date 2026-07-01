@@ -1,0 +1,47 @@
+{
+  "id": "pazxama_383d3eb9344b",
+  "fingerprint": "383d3eb9344ba2f27fd2b08e1c1f61062da30adc8833bd1f9be588333a3bf6ae",
+  "archived_at": "2026-07-01T01:39:50Z",
+  "metadata": {
+    "title": "Pazxama",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 21,
+    "duration_seconds": 9114,
+    "duration_human": "02:31:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Oviline",
+      "02 Zeffon - Statica",
+      "03 Zeffon - Retalia Oerstiona",
+      "04 Zeffon - Rer Mastrion",
+      "05 Zeffon - Froga",
+      "06 Zeffon - Another Day",
+      "07 Zeffon - A Noll",
+      "08 Zeffon - Linear Ways",
+      "09 Zeffon - Primary Motivators are Fear and Punishment",
+      "10 Zeffon - Rosey Potion",
+      "11 Zeffon - Unli Ferverio",
+      "12 Zeffon - Extract - 'Urbain Ijlenephviohijl' Groove (Part I of II)",
+      "13 Zeffon - Burning Down the Fence",
+      "14 Zeffon - Moss Mountain",
+      "15 Zeffon - Dropping Altitude",
+      "16 Zeffon - Jaritunomarrua",
+      "17 Zeffon - Derivative Measures",
+      "18 Zeffon - Satire and State Secrets",
+      "19 Zeffon - Teran",
+      "20 Zeffon - The Stream of Silence",
+      "21 Zeffon - According"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pazxama_383d3eb9344b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/882c10932fcaaf3495a0/Pazxama.tar"
+    }
+  }
+}
