@@ -1,0 +1,25 @@
+{
+  "id": "1213_ac2bd6d5256a",
+  "fingerprint": "ac2bd6d5256a8253508b2928d57ebeaa8f9d40100e5789bc264ad62f33ec7cc0",
+  "archived_at": "2026-07-01T22:35:18Z",
+  "metadata": {
+    "title": "12&13",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4994,
+    "duration_human": "01:23:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - 12",
+      "02 籠島雫 aka Mapeto - 13"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1213_ac2bd6d5256a"
+    }
+  }
+}

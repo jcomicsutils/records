@@ -1,0 +1,31 @@
+{
+  "id": "ptot-lonfirm_7d6ae271a981",
+  "fingerprint": "7d6ae271a9814a5516f3d619596d54c23e916e898cccd29c48c06c2ec00e4384",
+  "archived_at": "2026-07-01T22:35:18Z",
+  "metadata": {
+    "title": "PtoT-Lônfirm",
+    "artist": "Zeffon",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3111,
+    "duration_human": "00:51:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - SPL wZ 405 Underneath the Sun's Shadow",
+      "02 Zeffon - SPL wZ 405 UTR-45 Betroth",
+      "03 Zeffon - Head Sterile (Ver. 2)",
+      "04 Zeffon - SPL wZ 405 Hethp (The Country Path of Eight)",
+      "05 Zeffon - SPL wZ 405 Shroud Befell"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ptot-lonfirm_7d6ae271a981"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/f920d65f4f475c506801/PtoT-L_nfirm.tar"
+    }
+  }
+}
