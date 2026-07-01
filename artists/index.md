@@ -63,6 +63,7 @@
 - [Love's Holiday Orchestra](Love's-Holiday-Orchestra/Love's-Holiday-Orchestra.md)
 - [Luke Chaos](Luke-Chaos/Luke-Chaos.md)
 - [Lupercais](Lupercais/Lupercais.md)
+- [Mademoiselle Marchand](Mademoiselle-Marchand/Mademoiselle-Marchand.md)
 - [Mailcop](Mailcop/Mailcop.md)
 - [Merzbow + Xiu Xiu](Merzbow-+-Xiu-Xiu/Merzbow-+-Xiu-Xiu.md)
 - [Midori Hirano](Midori-Hirano/Midori-Hirano.md)

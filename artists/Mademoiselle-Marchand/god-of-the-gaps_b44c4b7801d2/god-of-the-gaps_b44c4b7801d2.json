@@ -1,0 +1,27 @@
+{
+  "id": "god-of-the-gaps_b44c4b7801d2",
+  "fingerprint": "b44c4b7801d25f9ba8a42cb5136a4032fe3469dce6a8ad4114be82ee22e83f5d",
+  "archived_at": "2026-07-01T01:09:35Z",
+  "metadata": {
+    "title": "God of the Gaps",
+    "artist": "Mademoiselle Marchand",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2795,
+    "duration_human": "00:46:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Mademoiselle Marchand - God of the Gaps"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/god-of-the-gaps_b44c4b7801d2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/87604b2a3f977673cdc5/Mademoiselle_Marchand_-_God_of_the_Gaps.tar"
+    }
+  }
+}
