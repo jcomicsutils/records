@@ -1,0 +1,31 @@
+{
+  "id": "purchase_7f2a10130fc5",
+  "fingerprint": "7f2a10130fc55257fbf7d6626bcf357356887bff624637fe145befbb9f12c5c8",
+  "archived_at": "2026-07-01T22:36:45Z",
+  "metadata": {
+    "title": "Purchase",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1840,
+    "duration_human": "00:30:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Torrent of Stale Water",
+      "02 Zeffon - F3NR1RS8A, Part 1",
+      "03 Zeffon - F3NR1RS8A, Part 2",
+      "04 Zeffon - Purchase",
+      "05 Zeffon - F3NR1RS8A, Part 3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/purchase_7f2a10130fc5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/014ed330e023472e07b5/Purchase.tar"
+    }
+  }
+}
