@@ -1,0 +1,29 @@
+{
+  "id": "plants-growing-through-sand_12da455c86dd",
+  "fingerprint": "12da455c86ddd3b570e68dbf91b53b85f94d631db32f4cda1bded3cf93fc3811",
+  "archived_at": "2026-07-01T02:46:50Z",
+  "metadata": {
+    "title": "Plants Growing Through Sand",
+    "artist": "Zeffon",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 6052,
+    "duration_human": "01:40:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Corruption Distilled",
+      "02 Zeffon - Hand Reaches Out and Doesn't Make It",
+      "03 Zeffon - Distance Reaches"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/plants-growing-through-sand_12da455c86dd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/b5cca01358a1f081b957/Plants_Growing_Through_Sand.tar"
+    }
+  }
+}
