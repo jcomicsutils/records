@@ -1,0 +1,35 @@
+{
+  "id": "hitso_ba47f383a4b6",
+  "fingerprint": "ba47f383a4b6a4f0c254d138eecdb4406573c51c40b65c458ddeb62278f5495a",
+  "archived_at": "2026-07-01T00:07:43Z",
+  "metadata": {
+    "title": "\"hits/o\"",
+    "artist": "Ursus Wallis",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 6614,
+    "duration_human": "01:50:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Ursus Wallis - Ashley (Eleonora)",
+      "02 Ursus Wallis - Goldilox",
+      "03 Ursus Wallis - Fascination (In Montana) *",
+      "04 Ursus Wallis - The Plumber",
+      "05 Ursus Wallis - Glide Over Glass",
+      "06 Ursus Wallis - Seabell",
+      "07 Ursus Wallis - Slows part 1 *",
+      "08 Ursus Wallis - Sow/Harvest/Sow *",
+      "09 Ursus Wallis - Fern Garden"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hitso_ba47f383a4b6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/c6b9d8b9427064710660/Ursus_Wallis_-_hits-o.tar"
+    }
+  }
+}
