@@ -1,0 +1,28 @@
+{
+  "id": "proof-of-concept_caadfb185aab",
+  "fingerprint": "caadfb185aabd9b8d1aa1233989ed0025fbfe38fd7911905fe109661df5d8f69",
+  "archived_at": "2026-07-01T21:03:18Z",
+  "metadata": {
+    "title": "Proof of Concept",
+    "artist": "Zeffon",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1599,
+    "duration_human": "00:26:39",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Tram Turns Right On the Morning Route",
+      "02 Zeffon - Proof of Concept"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/proof-of-concept_caadfb185aab"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/e71d4c9b6dc60439fc38/Proof_of_Concept.tar"
+    }
+  }
+}
