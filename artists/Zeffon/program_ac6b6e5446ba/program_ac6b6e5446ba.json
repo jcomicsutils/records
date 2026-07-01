@@ -1,0 +1,30 @@
+{
+  "id": "program_ac6b6e5446ba",
+  "fingerprint": "ac6b6e5446ba106adce8895132d055c1f848425a11dc4d4d54ae0255df75e941",
+  "archived_at": "2026-07-01T03:43:06Z",
+  "metadata": {
+    "title": "Program",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4327,
+    "duration_human": "01:12:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Ambinoise",
+      "02 Zeffon - After Dusk",
+      "03 Zeffon - Their Own Houses Bring Destruction",
+      "04 Zeffon - Dark Ice Shrine"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/program_ac6b6e5446ba"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/494648f99df042a90f11/Program.tar"
+    }
+  }
+}
