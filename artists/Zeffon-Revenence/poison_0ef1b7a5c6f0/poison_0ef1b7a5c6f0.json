@@ -1,0 +1,32 @@
+{
+  "id": "poison_0ef1b7a5c6f0",
+  "fingerprint": "0ef1b7a5c6f0b6da6479c5d7cbac03c10deca173ad56fa6f89865a7f8ba0dfe2",
+  "archived_at": "2026-07-01T02:53:14Z",
+  "metadata": {
+    "title": "Poison",
+    "artist": "Zeffon / Revenence",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 6225,
+    "duration_human": "01:43:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Black Room of Dototajmari",
+      "02 Zeffon - War for Power",
+      "03 Zeffon - Possession of the Wind Element",
+      "04 Revenence - Possession of the Wind Element",
+      "05 Revenence - Poison",
+      "06 Revenence - Last Man"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/poison_0ef1b7a5c6f0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/3c1a37cc7afc143971c2/Poison.tar"
+    }
+  }
+}
