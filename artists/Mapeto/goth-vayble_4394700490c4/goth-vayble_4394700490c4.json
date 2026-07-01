@@ -1,0 +1,27 @@
+{
+  "id": "goth-vayble_4394700490c4",
+  "fingerprint": "4394700490c44b8ea909e6b2cdd1e009510e992cde71157f8a69b12c9e92c070",
+  "archived_at": "2026-07-01T23:02:52Z",
+  "metadata": {
+    "title": "Goth Vayble",
+    "artist": "Mapeto",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 289,
+    "duration_human": "00:04:49",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - Goth Vayble"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/goth-vayble_4394700490c4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/35aade16447957b18ef9/Goth_Vayble.tar"
+    }
+  }
+}

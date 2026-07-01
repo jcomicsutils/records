@@ -12,3 +12,4 @@
 | [Gggg](gggg_d12d890ca277/gggg_d12d890ca277.md) | 2020 | FLAC | 00:48:59 | [IA](https://archive.org/details/gggg_d12d890ca277) [FileDitch](https://fileditchfiles.me/beta9/12fc4173a441774d4d14/Gggg.tar) |
 | [20190706_130024](20190706-130024_7b7a8abdbaf9/20190706-130024_7b7a8abdbaf9.md) | 2020 | FLAC | 00:26:46 | [IA](https://archive.org/details/20190706-130024_7b7a8abdbaf9) [FileDitch](https://fileditchfiles.me/beta9/31be804abeaf48926428/20190706_130024.tar) |
 | [20190709_135222](20190709-135222_f469bf70c06d/20190709-135222_f469bf70c06d.md) | 2020 | FLAC | 00:25:28 | [IA](https://archive.org/details/20190709-135222_f469bf70c06d) [FileDitch](https://fileditchfiles.me/beta9/0bad8576e353bf5a096f/20190709_135222.tar) |
+| [Goth Vayble](goth-vayble_4394700490c4/goth-vayble_4394700490c4.md) | 2021 | FLAC | 00:04:49 | [IA](https://archive.org/details/goth-vayble_4394700490c4) [FileDitch](https://fileditchfiles.me/beta9/35aade16447957b18ef9/Goth_Vayble.tar) |
