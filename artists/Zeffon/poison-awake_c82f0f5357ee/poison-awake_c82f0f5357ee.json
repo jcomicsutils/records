@@ -1,0 +1,30 @@
+{
+  "id": "poison-awake_c82f0f5357ee",
+  "fingerprint": "c82f0f5357eeb26509394c42ff2afc02554bcf79f746f0904f242d5c50678eac",
+  "archived_at": "2026-07-01T02:55:19Z",
+  "metadata": {
+    "title": "Poison Awake",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4678,
+    "duration_human": "01:17:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Poison Awake 1",
+      "02 Zeffon - Poison Awake 2",
+      "03 Zeffon - Chinese Purple",
+      "04 Zeffon - Explosion in the Sun"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/poison-awake_c82f0f5357ee"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/a78a2e5b8ed0697b3632/Poison_Awake.tar"
+    }
+  }
+}
