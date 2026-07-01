@@ -1,0 +1,28 @@
+{
+  "id": "perfect-night_adf1080b914b",
+  "fingerprint": "adf1080b914b74b924e5cd79c53690f9a4b8ecce5d832e265644d8f43461ff47",
+  "archived_at": "2026-07-01T01:44:31Z",
+  "metadata": {
+    "title": "Perfect Night",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1382,
+    "duration_human": "00:23:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Perfect Night",
+      "02 Zeffon - Buried Bodies"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/perfect-night_adf1080b914b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/29caf0c375a67bf35125/Perfect_Night.tar"
+    }
+  }
+}
