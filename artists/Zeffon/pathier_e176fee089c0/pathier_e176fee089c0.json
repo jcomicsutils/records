@@ -1,0 +1,30 @@
+{
+  "id": "pathier_e176fee089c0",
+  "fingerprint": "e176fee089c0aab901c6baa86494346999e57918f4ec696d49fa40ad23b21ce0",
+  "archived_at": "2026-07-01T01:25:47Z",
+  "metadata": {
+    "title": "Pathier",
+    "artist": "Zeffon",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 581,
+    "duration_human": "00:09:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Low",
+      "02 Zeffon - Pathier",
+      "03 Zeffon - Delta",
+      "04 Zeffon - 514"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pathier_e176fee089c0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/f75d5272d3fe2d0792f0/Pathier.tar"
+    }
+  }
+}

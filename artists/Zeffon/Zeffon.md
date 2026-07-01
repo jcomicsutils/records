@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Pathier](pathier_e176fee089c0/pathier_e176fee089c0.md) | 2009 | FLAC | 00:09:41 | [IA](https://archive.org/details/pathier_e176fee089c0) [FileDitch](https://fileditchfiles.me/beta9/f75d5272d3fe2d0792f0/Pathier.tar) |
 | [Exp](exp_11dde6dd9b1c/exp_11dde6dd9b1c.md) | 2009 | FLAC | 00:04:41 | [IA](https://archive.org/details/exp_11dde6dd9b1c) [FileDitch](https://fileditchfiles.me/beta6/0f334ada184fd9a8841c/Exp.tar) |
 | [7429FD](7429fd_364ea85445f8/7429fd_364ea85445f8.md) | 2009 | FLAC | 00:01:27 | [IA](https://archive.org/details/7429fd_364ea85445f8) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/df5dcabca74af5aa134c/7429FD.tar) |
 | [Over And Around](over-and-around_06e8d8548df2/over-and-around_06e8d8548df2.md) | 2010 | FLAC | 00:27:21 | [IA](https://archive.org/details/over-and-around_06e8d8548df2) [FileDitch](https://fileditchfiles.me/beta9/3bf93f74fc0a686cf654/Over_And_Around.tar) |
