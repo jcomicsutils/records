@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/painted-thermokarst_eb02c987a948)
+- [FileDitch](https://fileditchfiles.me/beta9/70b75ea2f4e43a4f02e2/Painted_Thermokarst.tar)
 
 ## Tracklist
 

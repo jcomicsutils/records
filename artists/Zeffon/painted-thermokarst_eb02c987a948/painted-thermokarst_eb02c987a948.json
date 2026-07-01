@@ -36,6 +36,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/painted-thermokarst_eb02c987a948"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/70b75ea2f4e43a4f02e2/Painted_Thermokarst.tar"
     }
   }
 }
