@@ -1,0 +1,29 @@
+{
+  "id": "pink-sky_7ed25fd20dad",
+  "fingerprint": "7ed25fd20dad59252c3a0fd37bc44b8b085da69040d258e5ab844e6fab41da01",
+  "archived_at": "2026-07-01T02:41:33Z",
+  "metadata": {
+    "title": "Pink Sky",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3599,
+    "duration_human": "00:59:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Pink Sky",
+      "02 Zeffon - Récelfalat",
+      "03 Zeffon - Stuka-food, Part 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pink-sky_7ed25fd20dad"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/c781f998bec8657f826a/Pink_Sky.tar"
+    }
+  }
+}
