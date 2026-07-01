@@ -1,0 +1,30 @@
+{
+  "id": "piles-of-bones_04de49f30c11",
+  "fingerprint": "04de49f30c11582910fcd1a2854dcec94279a1ac2f564a1679c583eb0420513e",
+  "archived_at": "2026-07-01T02:26:25Z",
+  "metadata": {
+    "title": "Piles of Bones",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1541,
+    "duration_human": "00:25:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Moor Tragedy",
+      "02 Zeffon - Temple of Rain",
+      "03 Zeffon - NSKR0",
+      "04 Zeffon - NSKR1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/piles-of-bones_04de49f30c11"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/e51ded48ab602bbe45ea/Piles_of_Bones.tar"
+    }
+  }
+}
