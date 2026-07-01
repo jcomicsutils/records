@@ -1,0 +1,27 @@
+{
+  "id": "heyviy-mix_fff2f01b94fc",
+  "fingerprint": "fff2f01b94fced15f12c40572b013dc4114ad9da9939dea74896ed0e5acb013b",
+  "archived_at": "2026-07-01T23:10:41Z",
+  "metadata": {
+    "title": "heyviy Mix",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1501,
+    "duration_human": "00:25:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - heyviy Mix"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/heyviy-mix_fff2f01b94fc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/f85746709814727cf3d6/heyviy_Mix.tar"
+    }
+  }
+}
