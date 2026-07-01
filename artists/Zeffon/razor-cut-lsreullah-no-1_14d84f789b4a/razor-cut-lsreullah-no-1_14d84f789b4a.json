@@ -1,0 +1,28 @@
+{
+  "id": "razor-cut-lsreullah-no-1_14d84f789b4a",
+  "fingerprint": "14d84f789b4a223d307d18acef47cb93be524953c4fe8ca59b3bfb7570a04974",
+  "archived_at": "2026-07-01T23:56:28Z",
+  "metadata": {
+    "title": "Razor Cut LsreuLLah No. 1",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 7008,
+    "duration_human": "01:56:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Battle Against Awe in the Spyral No. 1",
+      "02 Zeffon - Battle Against Awe in the Spyral No. 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/razor-cut-lsreullah-no-1_14d84f789b4a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/183def8de84de1e8f3a5/Razor_Cut_LsreuLLah_No._1.tar"
+    }
+  }
+}
