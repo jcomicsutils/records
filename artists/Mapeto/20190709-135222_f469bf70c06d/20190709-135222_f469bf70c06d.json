@@ -1,0 +1,27 @@
+{
+  "id": "20190709-135222_f469bf70c06d",
+  "fingerprint": "f469bf70c06daa31cb76538d784739c36c5c23447e266d382dea4f36d449d93c",
+  "archived_at": "2026-07-01T22:46:10Z",
+  "metadata": {
+    "title": "20190709_135222",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1528,
+    "duration_human": "00:25:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - 20190709_135222"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/20190709-135222_f469bf70c06d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/0bad8576e353bf5a096f/20190709_135222.tar"
+    }
+  }
+}
