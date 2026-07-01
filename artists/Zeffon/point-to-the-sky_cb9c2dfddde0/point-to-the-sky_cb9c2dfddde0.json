@@ -1,0 +1,27 @@
+{
+  "id": "point-to-the-sky_cb9c2dfddde0",
+  "fingerprint": "cb9c2dfddde09a0bf892bd98697d9c74832524bd4d7aac5e82342fce82549de0",
+  "archived_at": "2026-07-01T02:47:47Z",
+  "metadata": {
+    "title": "Point to the Sky",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1158,
+    "duration_human": "00:19:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Side A / The Trees (Extract)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/point-to-the-sky_cb9c2dfddde0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/3c627d824c434e555b6e/Point_to_the_Sky.tar"
+    }
+  }
+}
