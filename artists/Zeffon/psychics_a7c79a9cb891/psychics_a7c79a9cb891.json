@@ -1,0 +1,28 @@
+{
+  "id": "psychics_a7c79a9cb891",
+  "fingerprint": "a7c79a9cb891bed8f46929603a859683114fa3bbaf9629669c95a4696f257798",
+  "archived_at": "2026-07-01T22:32:39Z",
+  "metadata": {
+    "title": "Psychics",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3631,
+    "duration_human": "01:00:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Psychic Power",
+      "02 Zeffon - Obedience Even in Death"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/psychics_a7c79a9cb891"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/62241a806d8dd652b095/Psychics.tar"
+    }
+  }
+}
