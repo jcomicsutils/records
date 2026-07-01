@@ -1,0 +1,29 @@
+{
+  "id": "yeomanry-reissue_839430626dcf",
+  "fingerprint": "839430626dcf17ab904c99d5e640266c1c725dfd0f7a28ee47d87969914b42cf",
+  "archived_at": "2026-07-01T00:20:29Z",
+  "metadata": {
+    "title": "\"yeomanry\" (reissue)",
+    "artist": "vogsma",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1333,
+    "duration_human": "00:22:13",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 vogsma - slow river, slow hills",
+      "02 vogsma - galbanum",
+      "03 vogsma - yeomanry"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/yeomanry-reissue_839430626dcf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/526299938173e206fb64/vogsma_-_yeomanry-_reissue.tar"
+    }
+  }
+}

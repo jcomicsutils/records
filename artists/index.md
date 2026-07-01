@@ -119,6 +119,7 @@
 - [Opera for Infantry](opera-for-infantry/opera-for-infantry.md)
 - [urutau](urutau/urutau.md)
 - [Violent Magic Orchestra](violent-magic-orchestra/violent-magic-orchestra.md)
+- [vogsma](vogsma/vogsma.md)
 - [ÄÄNIPÄÄ](ÄÄNIPÄÄ/ÄÄNIPÄÄ.md)
 - [Æthenor](Æthenor/Æthenor.md)
 - [Ιάννης Ξενάκης](Ιάννης-Ξενάκης/Ιάννης-Ξενάκης.md)
