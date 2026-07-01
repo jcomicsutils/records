@@ -1,0 +1,27 @@
+{
+  "id": "kagamimagak_267ee271bb92",
+  "fingerprint": "267ee271bb9245b36e74a249cc841a128b3dfc4dc831e68d42471fc8004fbe64",
+  "archived_at": "2026-07-01T23:30:17Z",
+  "metadata": {
+    "title": "KAGAMIMAGAK",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2434,
+    "duration_human": "00:40:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - KAGAMIMAGAK"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kagamimagak_267ee271bb92"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/639d8021c313f4f0bfd9/KAGAMIMAGAK.tar"
+    }
+  }
+}
