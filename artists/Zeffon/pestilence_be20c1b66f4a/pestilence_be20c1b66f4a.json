@@ -1,0 +1,27 @@
+{
+  "id": "pestilence_be20c1b66f4a",
+  "fingerprint": "be20c1b66f4aa80289c7752457923aa6b96ed40e1dbf11f61693d9a0d41e6857",
+  "archived_at": "2026-07-01T02:03:13Z",
+  "metadata": {
+    "title": "Pestilence",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 946,
+    "duration_human": "00:15:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Poison Ivy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pestilence_be20c1b66f4a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/09c0a1231b660b40a767/Pestilence.tar"
+    }
+  }
+}
