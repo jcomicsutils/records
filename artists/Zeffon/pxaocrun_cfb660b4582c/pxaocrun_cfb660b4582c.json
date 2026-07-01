@@ -1,0 +1,29 @@
+{
+  "id": "pxaocrun_cfb660b4582c",
+  "fingerprint": "cfb660b4582ccef26d657d5b660b6b56854e48587f50fd9b96f344d8d7991fbb",
+  "archived_at": "2026-07-01T22:44:08Z",
+  "metadata": {
+    "title": "Pxaoc'run",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4530,
+    "duration_human": "01:15:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Pandemonium",
+      "02 Zeffon - Caverns",
+      "03 Zeffon - Blind Tetra // Death God"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pxaocrun_cfb660b4582c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/45407ec4bfaa6d96fa09/Pxaoc_run.tar"
+    }
+  }
+}
