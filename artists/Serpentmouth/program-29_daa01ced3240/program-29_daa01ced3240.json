@@ -1,0 +1,47 @@
+{
+  "id": "program-29_daa01ced3240",
+  "fingerprint": "daa01ced32406ddd3bc357094d685b540ab8cc88014136e3a93fc96b5ef01bd5",
+  "archived_at": "2026-07-01T04:06:20Z",
+  "metadata": {
+    "title": "Program 29",
+    "artist": "Serpentmouth",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 21,
+    "duration_seconds": 5849,
+    "duration_human": "01:37:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Serpentmouth - Three Wars",
+      "02 Serpentmouth - The Clay of Population",
+      "03 Serpentmouth - CIA Child",
+      "04 Serpentmouth - Program 29",
+      "05 Serpentmouth - Psychicry",
+      "06 Serpentmouth - Third Eye Open But Blind",
+      "07 Serpentmouth - Knowledge is a Double-Edged Sword",
+      "08 Serpentmouth - Alchemy",
+      "09 Serpentmouth - Serpentmouth Oasis",
+      "10 Serpentmouth - The Mossy Men",
+      "11 Serpentmouth - Cave of Origin",
+      "12 Serpentmouth - Terminus of Earth",
+      "13 Serpentmouth - The Fire Fish",
+      "14 Serpentmouth - Death of the Old Ways",
+      "15 Serpentmouth - Spring Foliage",
+      "16 Serpentmouth - Run With the Wind",
+      "17 Serpentmouth - Mimicry",
+      "18 Serpentmouth - Void-ish Principles",
+      "19 Serpentmouth - Permanent Catalposon",
+      "20 Serpentmouth - A Person is not an Object",
+      "21 Serpentmouth - The Last Harvest"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/program-29_daa01ced3240"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/a9bd5382cc453710336c/Program_29.tar"
+    }
+  }
+}
