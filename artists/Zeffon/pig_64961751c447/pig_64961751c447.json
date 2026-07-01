@@ -1,0 +1,27 @@
+{
+  "id": "pig_64961751c447",
+  "fingerprint": "64961751c447f58f490204f2fb805cd09fbe2c8cf098e7bdab881ff1e4925108",
+  "archived_at": "2026-07-01T02:25:21Z",
+  "metadata": {
+    "title": "Pig",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1945,
+    "duration_human": "00:32:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Untitled"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pig_64961751c447"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/d40e09b0dda9543f780d/Pig.tar"
+    }
+  }
+}
