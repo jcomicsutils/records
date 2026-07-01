@@ -1,0 +1,27 @@
+{
+  "id": "prehistoric-65-million-years-ago_d59f791b0b06",
+  "fingerprint": "d59f791b0b06783f267a637ce457b0505a86092ab9bcbee4aaf76b1ea99d071a",
+  "archived_at": "2026-07-01T03:32:26Z",
+  "metadata": {
+    "title": "Prehistoric 65 Million Years Ago",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 49,
+    "duration_human": "00:00:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Soup-Drinking Contest"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/prehistoric-65-million-years-ago_d59f791b0b06"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/5cba86404235fbbe9d72/Prehistoric_65_Million_Years_Ago.tar"
+    }
+  }
+}
