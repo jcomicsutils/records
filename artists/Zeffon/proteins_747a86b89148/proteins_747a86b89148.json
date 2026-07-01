@@ -1,0 +1,34 @@
+{
+  "id": "proteins_747a86b89148",
+  "fingerprint": "747a86b8914817af6bb85b5faaf06ac6ddeb4b2fa4963e9a7ac60b92d07003e4",
+  "archived_at": "2026-07-01T22:17:20Z",
+  "metadata": {
+    "title": "Proteins",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 4718,
+    "duration_human": "01:18:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Proteins 1",
+      "02 Zeffon - Proteins 2",
+      "03 Zeffon - Proteins 3",
+      "04 Zeffon - Proteins 4",
+      "05 Zeffon - Proteins 5",
+      "06 Zeffon - Proteins 6",
+      "07 Zeffon - Proteins 7",
+      "08 Zeffon - Proteins 8"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/proteins_747a86b89148"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/3b2242a68d350c9f3dec/Proteins.tar"
+    }
+  }
+}
