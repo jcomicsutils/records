@@ -1,0 +1,40 @@
+{
+  "id": "quell-ontom-a-harproam_5d19b511e6f7",
+  "fingerprint": "5d19b511e6f76b1a1433a4d7ff59c987e06b4d227147246f96117cc5688deb44",
+  "archived_at": "2026-07-01T23:35:10Z",
+  "metadata": {
+    "title": "Quell Ontöm A Harproam",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 6316,
+    "duration_human": "01:45:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Stalling",
+      "02 Zeffon - Respirator",
+      "03 Zeffon - Phonautograph",
+      "04 Zeffon - The Broken Dream of Kerragan",
+      "05 Zeffon - The Royal Family's Plan",
+      "06 Zeffon - Crashing",
+      "07 Zeffon - Deep Moss Kellshrine",
+      "08 Zeffon - Quell On, Part 1",
+      "09 Zeffon - Harproam",
+      "10 Zeffon - The Castle Machinery",
+      "11 Zeffon - War",
+      "12 Zeffon - The Reeds in the Swamp",
+      "13 Zeffon - Quell On, Part 2",
+      "14 Zeffon - The Ban"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/quell-ontom-a-harproam_5d19b511e6f7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/f348d298b18021632f0b/Quell_Ont_m_A_Harproam.tar"
+    }
+  }
+}
