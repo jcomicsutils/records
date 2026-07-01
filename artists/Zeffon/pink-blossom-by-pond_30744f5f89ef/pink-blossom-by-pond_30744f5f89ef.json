@@ -1,0 +1,30 @@
+{
+  "id": "pink-blossom-by-pond_30744f5f89ef",
+  "fingerprint": "30744f5f89ef73036063fc71b099bd598dccb4895691e1a96d080dbe1decfc98",
+  "archived_at": "2026-07-01T02:33:20Z",
+  "metadata": {
+    "title": "Pink Blossom By Pond",
+    "artist": "Zeffon",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4337,
+    "duration_human": "01:12:17",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Drafty Room in the Inn",
+      "02 Zeffon - Digging for Metamorphic Rocks",
+      "03 Zeffon - Heaven",
+      "04 Zeffon - Dropping Stuff"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pink-blossom-by-pond_30744f5f89ef"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/48c171dc1d653a41dc38/Pink_Blossom_By_Pond.tar"
+    }
+  }
+}
