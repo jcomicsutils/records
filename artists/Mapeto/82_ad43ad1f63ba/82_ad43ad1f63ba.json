@@ -1,0 +1,27 @@
+{
+  "id": "82_ad43ad1f63ba",
+  "fingerprint": "ad43ad1f63ba96f7fd04d41f774bb8570f3a4a07629556b04367d9c3ef0c2825",
+  "archived_at": "2026-07-01T22:22:52Z",
+  "metadata": {
+    "title": "8.2",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3108,
+    "duration_human": "00:51:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - 8.2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/82_ad43ad1f63ba"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/0577e59336b55c0bb4a5/8.2.tar"
+    }
+  }
+}
