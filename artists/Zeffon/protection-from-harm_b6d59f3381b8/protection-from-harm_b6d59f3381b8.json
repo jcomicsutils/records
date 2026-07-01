@@ -1,0 +1,30 @@
+{
+  "id": "protection-from-harm_b6d59f3381b8",
+  "fingerprint": "b6d59f3381b87ce5513f157ad484db494ca4735a1d8e57ffa70d0cff21bd4ea8",
+  "archived_at": "2026-07-01T21:26:34Z",
+  "metadata": {
+    "title": "Protection From Harm",
+    "artist": "Zeffon",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2797,
+    "duration_human": "00:46:37",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Protection From Harm",
+      "02 Zeffon - The Environs Dictate It",
+      "03 Zeffon - Insomniac",
+      "04 Zeffon - Aftermath 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/protection-from-harm_b6d59f3381b8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/471682102e11f5244dc9/Protection_From_Harm.tar"
+    }
+  }
+}
