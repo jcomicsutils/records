@@ -19,6 +19,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta9/ad4004acfb0c35d28e66/Program_32.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/program-32_811471874c5f"
     }
   }
 }
