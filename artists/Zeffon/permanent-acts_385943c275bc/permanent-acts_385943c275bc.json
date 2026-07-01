@@ -1,0 +1,41 @@
+{
+  "id": "permanent-acts_385943c275bc",
+  "fingerprint": "385943c275bc6fdcc1d41d3345c1fe7ba423d148b0b2d8d5168e49cb14b4866e",
+  "archived_at": "2026-07-01T02:01:29Z",
+  "metadata": {
+    "title": "Permanent Acts",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 10248,
+    "duration_human": "02:50:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Book of the Dead'",
+      "02 Zeffon - Permanent Acts",
+      "03 Zeffon - Ritual 9",
+      "04 Zeffon - Ritual 19",
+      "05 Zeffon - ∞",
+      "06 Zeffon - Uaa Dränsilane",
+      "07 Zeffon - No - The Mist is Coming and I Can't See Anything in This Greyness",
+      "08 Zeffon - Acidrain",
+      "09 Zeffon - Book of the Dead' (Reprise)",
+      "10 Zeffon - Raincatching Jars, Mass Ordinance, and Broken Mines",
+      "11 Zeffon - Explosive Device",
+      "12 Zeffon - Stone Age Objects Among Mist",
+      "13 Zeffon - GEIH",
+      "14 Zeffon - VEH",
+      "15 Zeffon - Trial"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/permanent-acts_385943c275bc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/95344ed63a8051e80b73/Permanent_Acts.tar"
+    }
+  }
+}
