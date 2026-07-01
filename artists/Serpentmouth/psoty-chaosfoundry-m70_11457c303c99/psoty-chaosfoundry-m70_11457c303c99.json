@@ -1,0 +1,30 @@
+{
+  "id": "psoty-chaosfoundry-m70_11457c303c99",
+  "fingerprint": "11457c303c996087cc1401991a9a76f6d9cc8f70036e510b5c356a68cd04b691",
+  "archived_at": "2026-07-01T22:22:30Z",
+  "metadata": {
+    "title": "PSotY (Chaosfoundry M70)",
+    "artist": "Serpentmouth",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1697,
+    "duration_human": "00:28:17",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Serpentmouth - Iom (Pop Song of the Year, Part 2)",
+      "02 Serpentmouth - Untitled Feelings",
+      "03 Serpentmouth - Phantom Glass",
+      "04 Serpentmouth - PStoY m65"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/psoty-chaosfoundry-m70_11457c303c99"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/13a9a8c4399711f21fec/PSotY_Chaosfoundry_M70.tar"
+    }
+  }
+}
