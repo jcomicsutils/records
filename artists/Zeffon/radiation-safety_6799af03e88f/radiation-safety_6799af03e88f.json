@@ -1,0 +1,35 @@
+{
+  "id": "radiation-safety_6799af03e88f",
+  "fingerprint": "6799af03e88fc05ecb6223e0348b9f55ec659922e1b56e298508b49f51c39be3",
+  "archived_at": "2026-07-01T23:42:12Z",
+  "metadata": {
+    "title": "Radiation Safety",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1420,
+    "duration_human": "00:23:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Tribal Echo, Pt. 2",
+      "02 Zeffon - Tribal Echo, Pt. 1",
+      "03 Zeffon - Kilamachaian Earthworks",
+      "04 Zeffon - Dream On, Reve",
+      "05 Zeffon - Dimension δ 4",
+      "06 Zeffon - A Harbor for Unknown Falls",
+      "07 Zeffon - She? (Drone)",
+      "08 Zeffon - Ascension?",
+      "09 Zeffon - Toy Box (Four Dimensions)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/radiation-safety_6799af03e88f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/2e0249149e4957127aa8/Radiation_Safety.tar"
+    }
+  }
+}
