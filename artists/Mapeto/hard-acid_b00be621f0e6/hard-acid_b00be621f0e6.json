@@ -1,0 +1,28 @@
+{
+  "id": "hard-acid_b00be621f0e6",
+  "fingerprint": "b00be621f0e652996ffc3bc6db7a02c1c8498bab67fe01cbd4edaa8d4f2e3821",
+  "archived_at": "2026-07-01T23:09:13Z",
+  "metadata": {
+    "title": "HARD ACID",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3765,
+    "duration_human": "01:02:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - Hard Acid",
+      "02 籠島雫 aka Mapeto - Hard Acid 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hard-acid_b00be621f0e6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/d8c556af901d7e9cf6f6/HARD_ACID.tar"
+    }
+  }
+}
