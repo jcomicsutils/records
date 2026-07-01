@@ -20,6 +20,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/1213_ac2bd6d5256a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/22a90cbe15c7c9522308/12_13.tar"
     }
   }
 }
