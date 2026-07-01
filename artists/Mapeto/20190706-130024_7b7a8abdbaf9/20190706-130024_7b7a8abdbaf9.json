@@ -19,6 +19,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/20190706-130024_7b7a8abdbaf9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/31be804abeaf48926428/20190706_130024.tar"
     }
   }
 }
