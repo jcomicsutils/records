@@ -1,0 +1,29 @@
+{
+  "id": "landscapism_901b1ae66999",
+  "fingerprint": "901b1ae669990435d1e878f1b581d5da42510fd1976a77c3175363b550f15da0",
+  "archived_at": "2026-07-01T00:12:08Z",
+  "metadata": {
+    "title": "Landscapism",
+    "artist": "Ursus Wallis",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2232,
+    "duration_human": "00:37:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Ursus Wallis - Landscapism",
+      "02 Ursus Wallis - The Well-Tuned Radio",
+      "03 Ursus Wallis - Silo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/landscapism_901b1ae66999"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/715ee5c2d07ec0134e9c/Ursus_Wallis_-_Landscapism.tar"
+    }
+  }
+}
