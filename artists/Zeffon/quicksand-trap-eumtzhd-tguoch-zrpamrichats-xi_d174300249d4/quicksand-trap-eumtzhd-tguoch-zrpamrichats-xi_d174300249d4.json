@@ -1,0 +1,32 @@
+{
+  "id": "quicksand-trap-eumtzhd-tguoch-zrpamrichats-xi_d174300249d4",
+  "fingerprint": "d174300249d4fc7015688ecb92acd3f971ece8df8d9ddc6d43956d9020109a05",
+  "archived_at": "2026-07-01T23:40:39Z",
+  "metadata": {
+    "title": "Quicksand Trap (Ёумтжд - Тгуоч Зрпамричац XI)",
+    "artist": "Zeffon",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3651,
+    "duration_human": "01:00:51",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - A:\\2",
+      "02 Zeffon - Quicksand Trap (short)",
+      "03 Zeffon - Love and Peace (Ver. 2)",
+      "04 Zeffon - B:\\Archer's Comprehension, Part 3",
+      "05 Zeffon - Untitled",
+      "06 Zeffon - 14"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/quicksand-trap-eumtzhd-tguoch-zrpamrichats-xi_d174300249d4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/d9ae89e70b3ebfd0e635/Quicksand_Trap_-_XI.tar"
+    }
+  }
+}
