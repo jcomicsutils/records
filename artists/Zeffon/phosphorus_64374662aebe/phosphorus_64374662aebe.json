@@ -1,0 +1,33 @@
+{
+  "id": "phosphorus_64374662aebe",
+  "fingerprint": "64374662aebea22bf6ea668b8e18c361dfe0d590bc41aeec0fe0a93d62010c67",
+  "archived_at": "2026-07-01T02:22:37Z",
+  "metadata": {
+    "title": "Phosphorus",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 6486,
+    "duration_human": "01:48:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Sun Cycle",
+      "02 Zeffon - Merifal",
+      "03 Zeffon - The Whip",
+      "04 Zeffon - Pareidolia",
+      "05 Zeffon - Phosphorus",
+      "06 Zeffon - Medipr",
+      "07 Zeffon - Through Eye of Seer"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/phosphorus_64374662aebe"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/922dd447f31faeab27de/Phosphorus.tar"
+    }
+  }
+}
