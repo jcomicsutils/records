@@ -1,0 +1,28 @@
+{
+  "id": "pure_6f4ce5e63a57",
+  "fingerprint": "6f4ce5e63a5783cc02b24139bb717e82fa73d404f3b8e06a9747980fe59114bb",
+  "archived_at": "2026-07-01T22:37:42Z",
+  "metadata": {
+    "title": "Pure",
+    "artist": "Serpentmouth",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1587,
+    "duration_human": "00:26:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Serpentmouth - Psychic Power",
+      "02 Serpentmouth - Pure II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pure_6f4ce5e63a57"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/e1d0e4eb622bca574d8a/Pure.tar"
+    }
+  }
+}

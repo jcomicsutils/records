@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Pure](pure_6f4ce5e63a57/pure_6f4ce5e63a57.md) | 2015 | FLAC | 00:26:27 | [IA](https://archive.org/details/pure_6f4ce5e63a57) [FileDitch](https://fileditchfiles.me/beta9/e1d0e4eb622bca574d8a/Pure.tar) |
 | [Program 29](program-29_daa01ced3240/program-29_daa01ced3240.md) | 2016 | FLAC | 01:37:29 | [IA](https://archive.org/details/program-29_daa01ced3240) [FileDitch](https://fileditchfiles.me/beta9/a9bd5382cc453710336c/Program_29.tar) |
 | [Exercise Caution](exercise-caution_da6ed68adef8/exercise-caution_da6ed68adef8.md) | 2021 | FLAC | 00:54:41 | [IA](https://archive.org/details/exercise-caution_da6ed68adef8) [FileDitch](https://fileditchfiles.me/beta6/5aefddc73f49034b83b3/Exercise_Caution.tar) |
 | [B \(Ever-changing\)](b-ever-changing_f45b03210111/b-ever-changing_f45b03210111.md) | 2021 | FLAC | 05:56:39 | [IA](https://archive.org/details/b-ever-changing_f45b03210111) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/0a46c6b56d7139359d6b/B_Ever-changing.tar) |
