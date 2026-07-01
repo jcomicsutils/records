@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/red-rose-arc_7df6c4f6e422)
+- [FileDitch](https://fileditchfiles.me/beta9/be51e9d4d973af64c068/Red_Rose_Arc.tar)
 
 ## Tracklist
 
