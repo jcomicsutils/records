@@ -1,0 +1,34 @@
+{
+  "id": "pinishian-muzak-eumtzhd-tguoch-zrpamrichats-xvi_47709f3dd1a7",
+  "fingerprint": "47709f3dd1a7ea0cbd77e02113ec996e7e21ddcfab291e48d9adc3935f391ad1",
+  "archived_at": "2026-07-01T02:30:02Z",
+  "metadata": {
+    "title": "Pin'ishian Muzak (Ёумтжд - Тгуоч Зрпамричац XVI)",
+    "artist": "Zeffon",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 7086,
+    "duration_human": "01:58:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Generation of Missona (Dränsilane Took On a New Form)",
+      "02 Zeffon - Alltrain - L-S211",
+      "03 Zeffon - Alltrain - Call Resound (Radar Screen)",
+      "04 Zeffon - P1 (Distance)",
+      "05 Zeffon - MIDI Likes You",
+      "06 Zeffon - Researcher into Ancient Architecture",
+      "07 Zeffon - P41 (Castle Dränsilane=Ёумтжд - Тгуоч Зрпамричац I of the Heptadeciptych)",
+      "08 Zeffon - Pinish Muzak (Generys Miasma=Ёумтжд - Тгуоч Зрпамричац XVII of the Heptadeciptych)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pinishian-muzak-eumtzhd-tguoch-zrpamrichats-xvi_47709f3dd1a7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/336eab6d49ffdfcc5ebb/Pin_ishian_Muzak_-_XVI.tar"
+    }
+  }
+}
