@@ -1,0 +1,27 @@
+{
+  "id": "proteins-9_b0833e796919",
+  "fingerprint": "b0833e7969190b08814f8515ac9ea684fa3b7e5532eacb66e55c305030b119a7",
+  "archived_at": "2026-07-01T22:18:25Z",
+  "metadata": {
+    "title": "Proteins 9",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 528,
+    "duration_human": "00:08:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Proteins 9 (Single)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/proteins-9_b0833e796919"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/e2e24ae28e935d9ffa16/Proteins_9.tar"
+    }
+  }
+}
