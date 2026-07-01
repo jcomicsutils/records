@@ -1,0 +1,24 @@
+{
+  "id": "program-32_811471874c5f",
+  "fingerprint": "811471874c5ff4232f0e44970d34675bd46c54864a5ceeaf47a94c0d4d3aca55",
+  "archived_at": "2026-07-01T21:00:06Z",
+  "metadata": {
+    "title": "Program 32",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3826,
+    "duration_human": "01:03:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Black Rain (Prophet)"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/ad4004acfb0c35d28e66/Program_32.tar"
+    }
+  }
+}
