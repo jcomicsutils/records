@@ -1,0 +1,30 @@
+{
+  "id": "places-to-rest-and-contemplate_acba4f253d82",
+  "fingerprint": "acba4f253d8218c4016ab6885d9857a2406e206007d0cb07e64ebd9c6785cb2f",
+  "archived_at": "2026-07-01T02:42:52Z",
+  "metadata": {
+    "title": "Places to Rest and Contemplate",
+    "artist": "Zeffon",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1392,
+    "duration_human": "00:23:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Kelué, Part 6",
+      "02 Zeffon - Clandestine Trap",
+      "03 Zeffon - Kelué, Part 7",
+      "04 Zeffon - Half-Speed Canopy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/places-to-rest-and-contemplate_acba4f253d82"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/f74df095158afe953ecb/Places_to_Rest_and_Contemplate.tar"
+    }
+  }
+}
