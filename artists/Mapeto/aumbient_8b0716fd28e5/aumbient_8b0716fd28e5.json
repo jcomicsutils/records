@@ -1,0 +1,29 @@
+{
+  "id": "aumbient_8b0716fd28e5",
+  "fingerprint": "8b0716fd28e5746fff560646eb47954462ad914503ffef00c2f55766a8405345",
+  "archived_at": "2026-07-01T22:58:21Z",
+  "metadata": {
+    "title": "aumbient",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2389,
+    "duration_human": "00:39:49",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - aumbient intro",
+      "02 籠島雫 aka Mapeto - aumbient part1",
+      "03 籠島雫 aka Mapeto - aumbient part2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/aumbient_8b0716fd28e5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/97a8acb0709921f1757a/aumbient.tar"
+    }
+  }
+}
