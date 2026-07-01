@@ -1,0 +1,41 @@
+{
+  "id": "ppo-or_7dbfc0e70dd0",
+  "fingerprint": "7dbfc0e70dd01de39d2b97a9dbd938fae2d911a9240bbe44187037176ef651ed",
+  "archived_at": "2026-07-01T03:31:02Z",
+  "metadata": {
+    "title": "Ppo (Or...)",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 12724,
+    "duration_human": "03:32:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Shared Technology",
+      "02 Zeffon - Choir For Emeroch",
+      "03 Zeffon - Rarstonmya",
+      "04 Zeffon - Cursed Image of Va Raonya",
+      "05 Zeffon - Kelué, Pt. 4",
+      "06 Zeffon - Heart Rot (A Coroner Tribute)",
+      "07 Zeffon - Arrogant Piece No. 4",
+      "08 Zeffon - Majority of Rotting Seashores, Salivating Beasts From Beyond",
+      "09 Zeffon - Black Mold Nose",
+      "10 Zeffon - Face to Face",
+      "11 Zeffon - Outro: Com 1",
+      "12 Zeffon - Eukaryote (Human Bradyzoites, Pt. 4, A Brume Tribute)",
+      "13 Zeffon - Prokaryote",
+      "14 Zeffon - Kelué, Pt. 5",
+      "15 Zeffon - Va Rastmion"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ppo-or_7dbfc0e70dd0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/8205026fec7c7b6fd316/Ppo_Or.tar"
+    }
+  }
+}
