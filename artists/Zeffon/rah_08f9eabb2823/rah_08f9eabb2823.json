@@ -1,0 +1,30 @@
+{
+  "id": "rah_08f9eabb2823",
+  "fingerprint": "08f9eabb2823daf7b5a6adf7729aa04b73aa1b2edef259d9a549463d2045c31b",
+  "archived_at": "2026-07-01T23:46:35Z",
+  "metadata": {
+    "title": "Rah",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1900,
+    "duration_human": "00:31:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Anyasana 1",
+      "02 Zeffon - Anyasana 2",
+      "03 Zeffon - Moon Cult (Part 4)",
+      "04 Zeffon - Land"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rah_08f9eabb2823"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/54d22bc836b78bd266d4/Rah.tar"
+    }
+  }
+}
