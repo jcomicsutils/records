@@ -1,0 +1,32 @@
+{
+  "id": "phantoms-wave-in-the-wind_cc08f79529d6",
+  "fingerprint": "cc08f79529d61fefce266b6e01f79f4e06f4eef374b832f83440d52edba0cbd6",
+  "archived_at": "2026-07-01T02:11:12Z",
+  "metadata": {
+    "title": "Phantoms Wave in the Wind",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 345,
+    "duration_human": "00:05:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Floating Visions",
+      "02 Zeffon - I Have a Soul",
+      "03 Zeffon - Fielding the Power House",
+      "04 Zeffon - 7bit Buddha",
+      "05 Zeffon - Jarring Effects",
+      "06 Zeffon - Red Soil Jars With Faces on Them Ver. 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/phantoms-wave-in-the-wind_cc08f79529d6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/69c387955fefb5fedf70/Phantoms_Wave_in_the_Wind.tar"
+    }
+  }
+}
