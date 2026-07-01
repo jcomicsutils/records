@@ -1,0 +1,27 @@
+{
+  "id": "phantom-fire_c0dfdb6473ea",
+  "fingerprint": "c0dfdb6473eadca196bc4edb1457c6a81cbe2e21a803fd20737f3232b8d8d949",
+  "archived_at": "2026-07-01T02:09:50Z",
+  "metadata": {
+    "title": "Phantom Fire",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1937,
+    "duration_human": "00:32:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Murder of Crows"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/phantom-fire_c0dfdb6473ea"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/41016f363c18a2ad3ac2/Phantom_Fire.tar"
+    }
+  }
+}
