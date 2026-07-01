@@ -1,0 +1,27 @@
+{
+  "id": "la-mont-gang_292549c8dfc0",
+  "fingerprint": "292549c8dfc08f2656f3d82d08bcc4a63574b3c657f6a0c4974081f0c02d9d70",
+  "archived_at": "2026-07-01T23:42:45Z",
+  "metadata": {
+    "title": "LA Mont Gang",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2069,
+    "duration_human": "00:34:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - LA Mont Gang"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/la-mont-gang_292549c8dfc0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/efcfbe7e883fc5582021/LA_Mont_Gang.tar"
+    }
+  }
+}
