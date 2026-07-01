@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/livehisomine_d12edf432a03)
+- [FileDitch](https://fileditchfiles.me/beta9/c9af19e25a932cd04d2e/Live_hisomine.tar)
 
 ## Tracklist
 
