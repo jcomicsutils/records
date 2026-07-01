@@ -1,0 +1,31 @@
+{
+  "id": "power-to-the-azure-and-working-classes_fd6373862961",
+  "fingerprint": "fd63738629610534f21d0637f306fa5fdf1cdbbfb4ccaf9b68faab7381a1bfe6",
+  "archived_at": "2026-07-01T03:13:10Z",
+  "metadata": {
+    "title": "Power to the Azure and Working Classes!",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 12177,
+    "duration_human": "03:22:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Him",
+      "02 Zeffon - An Offering to Him",
+      "03 Zeffon - The Face of ...",
+      "04 Zeffon - Salmonberries",
+      "05 Zeffon - Desert Expansion"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/power-to-the-azure-and-working-classes_fd6373862961"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/261bcb5771a18216410e/Power_to_the_Azure_and_Working_Classes.tar"
+    }
+  }
+}
