@@ -1,0 +1,27 @@
+{
+  "id": "resa-realm_bc62a4b929ea",
+  "fingerprint": "bc62a4b929ea13c0c8e22c54b88b6a00dca59beb905ca3add2dc38e2c581d05c",
+  "archived_at": "2026-07-02T00:18:29Z",
+  "metadata": {
+    "title": "Resa Realm",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1535,
+    "duration_human": "00:25:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Blood"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/resa-realm_bc62a4b929ea"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/688f0f2d531de5b93f42/Resa_Realm.tar"
+    }
+  }
+}
