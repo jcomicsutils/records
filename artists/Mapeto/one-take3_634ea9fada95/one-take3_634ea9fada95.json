@@ -1,0 +1,31 @@
+{
+  "id": "one-take3_634ea9fada95",
+  "fingerprint": "634ea9fada9587818d875fd1ea8b5151ed1163fe26d8ad100a7f9f72dc1ea176",
+  "archived_at": "2026-07-02T00:49:22Z",
+  "metadata": {
+    "title": "One Take3",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1863,
+    "duration_human": "00:31:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - 鬼揚げ空手奉行",
+      "02 籠島雫 aka Mapeto - 辞めへんぞ（餓鬼の夜這いを）",
+      "03 籠島雫 aka Mapeto - 真性かぶってちん（Drill 'n' bass）",
+      "04 籠島雫 aka Mapeto - 逝ってみましたぁー",
+      "05 籠島雫 aka Mapeto - 聖なる性船"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/one-take3_634ea9fada95"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/a61efd78930e5188d3ff/One_Take3.tar"
+    }
+  }
+}
