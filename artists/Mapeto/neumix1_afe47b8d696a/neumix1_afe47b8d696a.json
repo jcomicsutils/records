@@ -1,0 +1,27 @@
+{
+  "id": "neumix1_afe47b8d696a",
+  "fingerprint": "afe47b8d696aea0decdc02dfba4f72cc6bfcb4439e6084ca33939c90e8961e3f",
+  "archived_at": "2026-07-02T00:29:37Z",
+  "metadata": {
+    "title": "NEUMIX1",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2094,
+    "duration_human": "00:34:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - NEUMIX1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/neumix1_afe47b8d696a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/c5a0c9f0a2f1327ba98d/NEUMIX1.tar"
+    }
+  }
+}

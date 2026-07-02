@@ -1,0 +1,27 @@
+{
+  "id": "revvel-beluga-haale-moerdt-0111-0010-the-big-stick-ix_0a92bc613fd9",
+  "fingerprint": "0a92bc613fd973bb86f4baddfaf336ee04a35ba1b666c2ebd499333c5f7ec21f",
+  "archived_at": "2026-07-02T00:30:11Z",
+  "metadata": {
+    "title": "Revvêl Bêluga Hååle Môerdt 0111 0010 (The Big Stick IX)",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4345,
+    "duration_human": "01:12:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Urinating Lava",
+      "02 Zeffon - Gabon (Dance Dub Ver. 3)",
+      "03 Zeffon - Jigsaw'bn 703 (Save the Environment)",
+      "04 Zeffon - Keys Got Shot"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/revvel-beluga-haale-moerdt-0111-0010-the-big-stick-ix_0a92bc613fd9"
+    }
+  }
+}
