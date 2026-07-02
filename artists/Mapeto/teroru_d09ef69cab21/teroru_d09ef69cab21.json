@@ -1,0 +1,30 @@
+{
+  "id": "teroru_d09ef69cab21",
+  "fingerprint": "d09ef69cab21fd15201756640b4e95ecf8e7972633810fec5a7fe04d3498eee1",
+  "archived_at": "2026-07-02T02:56:22Z",
+  "metadata": {
+    "title": "てろる",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1273,
+    "duration_human": "00:21:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 てろる - HARD CORE",
+      "02 てろる - 静",
+      "03 てろる - 8",
+      "04 てろる - DESPAIR"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/teroru_d09ef69cab21"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/ff1abfd32a6c9407d9f2/%E3%81%A6%E3%82%8D%E3%82%8B.tar"
+    }
+  }
+}
