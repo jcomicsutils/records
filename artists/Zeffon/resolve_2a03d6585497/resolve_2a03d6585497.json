@@ -1,0 +1,34 @@
+{
+  "id": "resolve_2a03d6585497",
+  "fingerprint": "2a03d658549732e10aaec1d10adae201cce81ebe1bc0dab16fa30e1fd04e6ad4",
+  "archived_at": "2026-07-02T00:20:09Z",
+  "metadata": {
+    "title": "Resolve",
+    "artist": "Zeffon",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 433,
+    "duration_human": "00:07:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Over And Around",
+      "02 Zeffon - Grinder",
+      "03 Zeffon - Conflict",
+      "04 Zeffon - Windy Summit",
+      "05 Zeffon - Foreboding",
+      "06 Zeffon - Filter Snap",
+      "07 Zeffon - Resolve",
+      "08 Zeffon - Zeffon"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/resolve_2a03d6585497"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/d38e7efb7735700379af/Resolve.tar"
+    }
+  }
+}
