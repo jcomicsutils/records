@@ -1,0 +1,29 @@
+{
+  "id": "old-tapes-from-violent_2af1d8c84ab0",
+  "fingerprint": "2af1d8c84ab04401c720886daab2bfd2838266a55bcc9e7256f20153f94f9fbc",
+  "archived_at": "2026-07-02T00:45:58Z",
+  "metadata": {
+    "title": "Old Tapes From Violent",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3861,
+    "duration_human": "01:04:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - From Violent",
+      "02 籠島雫 aka Mapeto - From Violent2",
+      "03 籠島雫 aka Mapeto - From Violent3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/old-tapes-from-violent_2af1d8c84ab0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/902ea0de3e5f8ebb1970/Old_Tapes_From_Violent.tar"
+    }
+  }
+}
