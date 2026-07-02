@@ -1,0 +1,27 @@
+{
+  "id": "orunaitorongu_a4c7c5706171",
+  "fingerprint": "a4c7c570617173892e9d210890a24ef90af13bb76266f8ab9ab2e170be7fd152",
+  "archived_at": "2026-07-02T02:37:22Z",
+  "metadata": {
+    "title": "オールナイトロング",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 140,
+    "duration_human": "00:02:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nemui - オールナイトロング"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/orunaitorongu_a4c7c5706171"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/d168152b4d981e8abb50/%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%88%E3%83%AD%E3%83%B3%E3%82%B0.tar"
+    }
+  }
+}
