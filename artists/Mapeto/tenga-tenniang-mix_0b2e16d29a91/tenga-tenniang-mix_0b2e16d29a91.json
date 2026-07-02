@@ -1,0 +1,27 @@
+{
+  "id": "tenga-tenniang-mix_0b2e16d29a91",
+  "fingerprint": "0b2e16d29a91a9f5b43d7aa773d6091a077ba614eb7185741874872d63d6c747",
+  "archived_at": "2026-07-02T02:36:13Z",
+  "metadata": {
+    "title": "TENGA TEN嬢 MIX",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2778,
+    "duration_human": "00:46:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - TENGA TEN嬢 MIX"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tenga-tenniang-mix_0b2e16d29a91"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/bdffe2adda6b25439735/TENGA_TEN_MIX.tar"
+    }
+  }
+}
