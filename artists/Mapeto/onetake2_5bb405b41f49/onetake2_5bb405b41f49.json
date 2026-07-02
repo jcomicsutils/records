@@ -1,0 +1,30 @@
+{
+  "id": "onetake2_5bb405b41f49",
+  "fingerprint": "5bb405b41f49ba5c958776268e669cf6ebbbb0b0ba9fafb56cb0a181291e0ae4",
+  "archived_at": "2026-07-02T00:51:40Z",
+  "metadata": {
+    "title": "OneTake2",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1580,
+    "duration_human": "00:26:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - GA・BEE",
+      "02 籠島雫 aka Mapeto - RO・BRO",
+      "03 籠島雫 aka Mapeto - ZETT・PEKI",
+      "04 籠島雫 aka Mapeto - ENZI・RU"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/onetake2_5bb405b41f49"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/e79f08927f1496412845/OneTake2.tar"
+    }
+  }
+}

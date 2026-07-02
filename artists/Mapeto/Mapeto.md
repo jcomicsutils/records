@@ -21,6 +21,7 @@
 | [12&13](1213_ac2bd6d5256a/1213_ac2bd6d5256a.md) | 2020 | FLAC | 01:23:14 | [IA](https://archive.org/details/1213_ac2bd6d5256a) [FileDitch](https://fileditchfiles.me/beta9/22a90cbe15c7c9522308/12_13.tar) |
 | [Gggg](gggg_d12d890ca277/gggg_d12d890ca277.md) | 2020 | FLAC | 00:48:59 | [IA](https://archive.org/details/gggg_d12d890ca277) [FileDitch](https://fileditchfiles.me/beta9/12fc4173a441774d4d14/Gggg.tar) |
 | [HARD ACID](hard-acid_b00be621f0e6/hard-acid_b00be621f0e6.md) | 2020 | FLAC | 01:02:45 | [IA](https://archive.org/details/hard-acid_b00be621f0e6) [FileDitch](https://fileditchfiles.me/beta9/d8c556af901d7e9cf6f6/HARD_ACID.tar) |
+| [OneTake2](onetake2_5bb405b41f49/onetake2_5bb405b41f49.md) | 2020 | FLAC | 00:26:20 | [IA](https://archive.org/details/onetake2_5bb405b41f49) [FileDitch](https://fileditchfiles.me/beta9/e79f08927f1496412845/OneTake2.tar) |
 | [NEUMIX1](neumix1_afe47b8d696a/neumix1_afe47b8d696a.md) | 2020 | FLAC | 00:34:54 | [IA](https://archive.org/details/neumix1_afe47b8d696a) [FileDitch](https://fileditchfiles.me/beta9/c5a0c9f0a2f1327ba98d/NEUMIX1.tar) |
 | [OneTake 4](onetake-4_67ea7f6caa74/onetake-4_67ea7f6caa74.md) | 2020 | FLAC | 00:18:24 | [IA](https://archive.org/details/onetake-4_67ea7f6caa74) [FileDitch](https://fileditchfiles.me/beta9/689d7d21cee5653b8f36/OneTake_4.tar) |
 | [Live@hisomine](livehisomine_d12edf432a03/livehisomine_d12edf432a03.md) | 2020 | FLAC | 01:23:49 | [IA](https://archive.org/details/livehisomine_d12edf432a03) [FileDitch](https://fileditchfiles.me/beta9/c9af19e25a932cd04d2e/Live_hisomine.tar) |
