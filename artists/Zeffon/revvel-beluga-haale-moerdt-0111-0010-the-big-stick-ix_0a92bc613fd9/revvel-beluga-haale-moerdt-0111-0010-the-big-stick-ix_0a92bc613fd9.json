@@ -22,6 +22,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/revvel-beluga-haale-moerdt-0111-0010-the-big-stick-ix_0a92bc613fd9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/0ea9c4ca47dcdc623ca1/Revv_l_B_luga_H_le_M_erdt_0111_0010_The_Big_Stick_IX.tar"
     }
   }
 }
