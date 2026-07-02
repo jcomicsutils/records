@@ -1,0 +1,29 @@
+{
+  "id": "refeaelese-labor-theme_f1c6aaa994af",
+  "fingerprint": "f1c6aaa994afc72a45e8e15ca389e5fe6b17d38d650636547a4b4018805bf3c5",
+  "archived_at": "2026-07-02T00:09:11Z",
+  "metadata": {
+    "title": "Refeaëlese Labor Theme",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3387,
+    "duration_human": "00:56:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Grey Shores That Cover the Island",
+      "02 Zeffon - Refeaëlese Labor Theme",
+      "03 Zeffon - Poison and Murder"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/refeaelese-labor-theme_f1c6aaa994af"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/858e16ce59108225e948/Refea_lese_Labor_Theme.tar"
+    }
+  }
+}
