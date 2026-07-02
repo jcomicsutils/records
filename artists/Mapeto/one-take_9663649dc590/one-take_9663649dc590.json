@@ -1,0 +1,33 @@
+{
+  "id": "one-take_9663649dc590",
+  "fingerprint": "9663649dc5903cf770e5dd7a873abea96ff11e0e0e6a33a5a0e85c40dcaf9d03",
+  "archived_at": "2026-07-02T00:47:48Z",
+  "metadata": {
+    "title": "One Take",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1675,
+    "duration_human": "00:27:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - Dope Shit",
+      "02 籠島雫 aka Mapeto - 萌",
+      "03 籠島雫 aka Mapeto - 21世紀奇手男",
+      "04 籠島雫 aka Mapeto - 微違巣帝息子達",
+      "05 籠島雫 aka Mapeto - 死神少女",
+      "06 籠島雫 aka Mapeto - PaRnik",
+      "07 籠島雫 aka Mapeto - Soul ambience"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/one-take_9663649dc590"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/3e3644eab90aab68a548/One_Take.tar"
+    }
+  }
+}
