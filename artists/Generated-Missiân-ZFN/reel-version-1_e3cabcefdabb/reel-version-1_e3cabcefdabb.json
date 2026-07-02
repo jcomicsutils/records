@@ -1,0 +1,39 @@
+{
+  "id": "reel-version-1_e3cabcefdabb",
+  "fingerprint": "e3cabcefdabb44d8546ad2981f9655e2b17b86585484069aa4a1142b825853f3",
+  "archived_at": "2026-07-02T00:00:52Z",
+  "metadata": {
+    "title": "..reel (Version 1)",
+    "artist": "Generated Missiân ZFN",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 588,
+    "duration_human": "00:09:48",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Generated Missiân ZFN - Dungeon..reel",
+      "02 Generated Missiân ZFN - Windy Summit, But Without Wind",
+      "03 Generated Missiân ZFN - Over And Around NB_ 10x40",
+      "04 Generated Missiân ZFN - Luegz Dh Mârcha (102410 Ver. Leverage 2)",
+      "05 Generated Missiân ZFN - Spoken and Broken",
+      "06 Generated Missiân ZFN - Forest 1 (Filled with Gingkos)",
+      "07 Generated Missiân ZFN - Forest 2 (Filled with Berries)",
+      "08 Generated Missiân ZFN - RDe",
+      "09 Generated Missiân ZFN - Perfect Mayhem (Demolition)",
+      "10 Generated Missiân ZFN - Grinder Tribute",
+      "11 Generated Missiân ZFN - 11 Years Traveling (Foundation Autumn) Prunápethi-___???",
+      "12 Generated Missiân ZFN - Mombomb",
+      "13 Generated Missiân ZFN - Ominous Patchbay"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/reel-version-1_e3cabcefdabb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/b29622ad2cb026196886/reel_Version_1.tar"
+    }
+  }
+}

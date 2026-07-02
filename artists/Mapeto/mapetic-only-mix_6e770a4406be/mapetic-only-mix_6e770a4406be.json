@@ -1,0 +1,24 @@
+{
+  "id": "mapetic-only-mix_6e770a4406be",
+  "fingerprint": "6e770a4406bec09433e3f48d5aa93aaf834102dc034fc0e6928141f0216f5a4a",
+  "archived_at": "2026-07-02T00:00:28Z",
+  "metadata": {
+    "title": "Mapetic Only Mix",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1413,
+    "duration_human": "00:23:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - Mapetic Only Mix"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mapetic-only-mix_6e770a4406be"
+    }
+  }
+}
