@@ -1,0 +1,27 @@
+{
+  "id": "relicaw_449e45ded5a8",
+  "fingerprint": "449e45ded5a87f2899c32293166119f6d8c3e4f7e7b76bb3e55bf2de8f0ecae9",
+  "archived_at": "2026-07-02T00:10:07Z",
+  "metadata": {
+    "title": "Relicaw",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 864,
+    "duration_human": "00:14:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Relicaw"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/relicaw_449e45ded5a8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/9437a4703d88b8283a9a/Relicaw.tar"
+    }
+  }
+}
