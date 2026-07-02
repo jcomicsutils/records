@@ -1,0 +1,40 @@
+{
+  "id": "rose-field_ab2e39164e75",
+  "fingerprint": "ab2e39164e75e927dba99dd880d918eb6d59341299678af90824131a0d8bed9a",
+  "archived_at": "2026-07-02T00:32:21Z",
+  "metadata": {
+    "title": "Rose Field",
+    "artist": "Argon Beams / Revenence / Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 2033,
+    "duration_human": "00:33:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Argon Beams - Glaciate",
+      "02 Argon Beams - Death Wall",
+      "03 Argon Beams - The Lava Key Ritual",
+      "04 Argon Beams - Summer Solstice",
+      "05 Argon Beams - Bled the Idol of Ice",
+      "06 Argon Beams - Sacred Tundra",
+      "07 Argon Beams - Crowd of Nine",
+      "08 Argon Beams - Destroyer in Three Parts",
+      "09 Revenence - Vegetable Moon Sage (Rose Field)",
+      "10 Argon Beams - Triumph",
+      "11 Argon Beams - Visitation of Strangers",
+      "12 Argon Beams - Origin of the Falls",
+      "13 Argon Beams - Permafrost",
+      "14 Zeffon - Rose Field, Pt. 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rose-field_ab2e39164e75"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/d3ac80b9e5889011d57f/Rose_Field.tar"
+    }
+  }
+}
