@@ -1,0 +1,29 @@
+{
+  "id": "religion_291208327a8d",
+  "fingerprint": "291208327a8d7135913f688d6652a521b42cc3358585bb409f0b8f862ad476a4",
+  "archived_at": "2026-07-02T00:13:22Z",
+  "metadata": {
+    "title": "Religion",
+    "artist": "Revenence / Argon Beams / Serpentmouth",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1522,
+    "duration_human": "00:25:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Revenence - Starlight",
+      "02 Argon Beams - Seep 21",
+      "03 Serpentmouth - Liquid Mist"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/religion_291208327a8d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/1c4e762219dbb625756f/Religion.tar"
+    }
+  }
+}
