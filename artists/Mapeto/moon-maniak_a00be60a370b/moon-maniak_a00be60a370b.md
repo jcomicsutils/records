@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/moon-maniak_a00be60a370b)
+- [FileDitch](https://fileditchfiles.me/beta9/872af91e33a54ef46f43/MOON_MANIAK.tar)
 
 ## Tracklist
 
