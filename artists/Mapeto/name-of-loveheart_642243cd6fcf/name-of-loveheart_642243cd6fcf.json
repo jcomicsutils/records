@@ -1,0 +1,31 @@
+{
+  "id": "name-of-loveheart_642243cd6fcf",
+  "fingerprint": "642243cd6fcfec3932109c6f897073c1e4add5c9e02dcab81ec39df8494f6c67",
+  "archived_at": "2026-07-02T00:25:44Z",
+  "metadata": {
+    "title": "Name of Love❤️",
+    "artist": "Mapeto",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 6266,
+    "duration_human": "01:44:26",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - Session Boom for TUTU",
+      "02 籠島雫 aka Mapeto - 瘋癲のロボダッチ",
+      "03 籠島雫 aka Mapeto - Free Style",
+      "04 籠島雫 aka Mapeto - 20210315_161358",
+      "05 籠島雫 aka Mapeto - 時代を変える"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/name-of-loveheart_642243cd6fcf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/c6a14d8f66d125152e08/Name_of_Love.tar"
+    }
+  }
+}
