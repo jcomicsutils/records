@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/mapetic-only-mix_6e770a4406be)
+- [FileDitch](https://fileditchfiles.me/beta9/37efae1fe0d450bb3539/Mapetic_Only_Mix.tar)
 
 ## Tracklist
 

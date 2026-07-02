@@ -4,7 +4,7 @@
 |-------|------|-------|----------|-------|
 | [8.2](82_ad43ad1f63ba/82_ad43ad1f63ba.md) | 2020 | FLAC | 00:51:48 | [IA](https://archive.org/details/82_ad43ad1f63ba) [FileDitch](https://fileditchfiles.me/beta9/0577e59336b55c0bb4a5/8.2.tar) |
 | [20190708_101152](20190708-101152_5bb75535a087/20190708-101152_5bb75535a087.md) | 2020 | FLAC | 00:25:51 | [IA](https://archive.org/details/20190708-101152_5bb75535a087) [FileDitch](https://fileditchfiles.me/beta9/4aa8fb850819e47c9c8d/20190708_101152.tar) |
-| [Mapetic Only Mix](mapetic-only-mix_6e770a4406be/mapetic-only-mix_6e770a4406be.md) | 2020 | FLAC | 00:23:33 | [IA](https://archive.org/details/mapetic-only-mix_6e770a4406be) |
+| [Mapetic Only Mix](mapetic-only-mix_6e770a4406be/mapetic-only-mix_6e770a4406be.md) | 2020 | FLAC | 00:23:33 | [IA](https://archive.org/details/mapetic-only-mix_6e770a4406be) [FileDitch](https://fileditchfiles.me/beta9/37efae1fe0d450bb3539/Mapetic_Only_Mix.tar) |
 | [20190807_162908](20190807-162908_3073a3936e3b/20190807-162908_3073a3936e3b.md) | 2020 | FLAC | 00:29:39 | [IA](https://archive.org/details/20190807-162908_3073a3936e3b) [FileDitch](https://fileditchfiles.me/beta9/383eecf9d54d9273b603/20190807_162908.tar) |
 | [JAPs Swingin Hip Hopers Mix](japs-swingin-hip-hopers-mix_70a944f2f7a8/japs-swingin-hip-hopers-mix_70a944f2f7a8.md) | 2020 | FLAC | 00:41:07 | [IA](https://archive.org/details/japs-swingin-hip-hopers-mix_70a944f2f7a8) [FileDitch](https://fileditchfiles.me/beta9/a64d5fffd529be208192/JAPs_Swingin_Hip_Hopers_Mix.tar) |
 | [KAGAMIMAGAK](kagamimagak_267ee271bb92/kagamimagak_267ee271bb92.md) | 2020 | FLAC | 00:40:34 | [IA](https://archive.org/details/kagamimagak_267ee271bb92) [FileDitch](https://fileditchfiles.me/beta9/639d8021c313f4f0bfd9/KAGAMIMAGAK.tar) |
