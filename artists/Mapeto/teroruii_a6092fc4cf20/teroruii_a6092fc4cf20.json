@@ -1,0 +1,30 @@
+{
+  "id": "teroruii_a6092fc4cf20",
+  "fingerprint": "a6092fc4cf20ab90e7dc50fe3abc4db00e3dbb1f35f83d7d1b1efa2d0a35defa",
+  "archived_at": "2026-07-02T03:01:53Z",
+  "metadata": {
+    "title": "てろるⅡ",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1893,
+    "duration_human": "00:31:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 てろる - HARD CORE",
+      "02 てろる - DUB",
+      "03 てろる - Improvisation",
+      "04 てろる - DESPAIR"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/teroruii_a6092fc4cf20"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/4990528b21c4f869d4ca/%E3%81%A6%E3%82%8D%E3%82%8B%E2%85%A1.tar"
+    }
+  }
+}
