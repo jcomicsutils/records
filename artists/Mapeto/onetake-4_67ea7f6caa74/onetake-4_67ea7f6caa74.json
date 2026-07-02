@@ -1,0 +1,27 @@
+{
+  "id": "onetake-4_67ea7f6caa74",
+  "fingerprint": "67ea7f6caa74f3c5ff5a6eb8e6d1b506dcaa92ab12431de7580cab4ab360909c",
+  "archived_at": "2026-07-02T00:50:22Z",
+  "metadata": {
+    "title": "OneTake 4",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1104,
+    "duration_human": "00:18:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - OneTake 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/onetake-4_67ea7f6caa74"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/689d7d21cee5653b8f36/OneTake_4.tar"
+    }
+  }
+}
