@@ -1,0 +1,30 @@
+{
+  "id": "reel-version-2_419144beb23c",
+  "fingerprint": "419144beb23cd95a2fa9e9bec4e5d7fe874774c005c8bfc968409f0fdcb278c1",
+  "archived_at": "2026-07-02T00:01:41Z",
+  "metadata": {
+    "title": "..reel (Version 2)",
+    "artist": "Generated Missiân ZFN",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 422,
+    "duration_human": "00:07:02",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Generated Missiân ZFN - Segment",
+      "02 Generated Missiân ZFN - Dead",
+      "03 Generated Missiân ZFN - ..reel",
+      "04 Generated Missiân ZFN - UU (You Ver. 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/reel-version-2_419144beb23c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta9/1d380c374a501e642e16/reel_Version_2.tar"
+    }
+  }
+}
