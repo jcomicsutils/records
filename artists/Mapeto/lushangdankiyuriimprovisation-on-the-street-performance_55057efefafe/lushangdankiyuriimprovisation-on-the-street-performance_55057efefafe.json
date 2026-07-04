@@ -1,0 +1,32 @@
+{
+  "id": "lushangdankiyuriimprovisation-on-the-street-performance_55057efefafe",
+  "fingerprint": "55057efefafed8dbdc5bfb4ad8f6effa8b87a4f2bb130e7450f5305d94d71bff",
+  "archived_at": "2026-07-04T17:17:48Z",
+  "metadata": {
+    "title": "路上＝弾き語り（Improvisation on the street performance）",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2362,
+    "duration_human": "00:39:22",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - Hapi Drum(海の公園）",
+      "02 籠島雫 aka Mapeto - 津軽三味線とフリースタイル其の1（伊勢佐木モール）",
+      "03 籠島雫 aka Mapeto - Hapi Drum 横笛 フリースタイル（桜木町）",
+      "04 籠島雫 aka Mapeto - 津軽三味線とフリースタイル其の2（海の公園）",
+      "05 籠島雫 aka Mapeto - Hapi Drum 横笛（桜木町）",
+      "06 籠島雫 aka Mapeto - 津軽三味線とフリースタイル其の3（伊勢佐木モール）"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lushangdankiyuriimprovisation-on-the-street-performance_55057efefafe"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta10/02636b562655a99e04e4/Improvisation_on_the_street_performance.tar"
+    }
+  }
+}
