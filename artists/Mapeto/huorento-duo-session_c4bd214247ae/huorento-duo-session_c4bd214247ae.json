@@ -1,0 +1,30 @@
+{
+  "id": "huorento-duo-session_c4bd214247ae",
+  "fingerprint": "c4bd214247aeece489a0395add85f2ec26587afd250ed9dfa0a9417fc407d20b",
+  "archived_at": "2026-07-04T16:47:33Z",
+  "metadata": {
+    "title": "或刃to duo session",
+    "artist": "Mapeto",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1006,
+    "duration_human": "00:16:46",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 或刃to duo - 天の冗談",
+      "02 或刃to duo - 充血と鬱屈の才退廃城",
+      "03 或刃to duo - 天使顕る！",
+      "04 或刃to duo - 純＋暴力"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/huorento-duo-session_c4bd214247ae"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta10/0b563b0d3a59444ce317/to_duo_session.tar"
+    }
+  }
+}
