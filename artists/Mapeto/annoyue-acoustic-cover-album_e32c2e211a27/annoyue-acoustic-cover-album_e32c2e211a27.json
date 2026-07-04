@@ -1,0 +1,37 @@
+{
+  "id": "annoyue-acoustic-cover-album_e32c2e211a27",
+  "fingerprint": "e32c2e211a272c17e93a4bba812051f8b0b9fcdff2bbbbaea27c33520a0b1d44",
+  "archived_at": "2026-07-04T16:00:15Z",
+  "metadata": {
+    "title": "俺の月 〜Acoustic Cover Album〜",
+    "artist": "Mapeto",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 1028,
+    "duration_human": "00:17:08",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - Flute",
+      "02 籠島雫 aka Mapeto - 生きてるっていってみろ〜籠島雫のマイムマイム〜",
+      "03 籠島雫 aka Mapeto - 時はきた",
+      "04 籠島雫 aka Mapeto - ノットサティスファイド",
+      "05 籠島雫 aka Mapeto - パイク",
+      "06 籠島雫 aka Mapeto - 生きてるっていってみろ Take2",
+      "07 籠島雫 aka Mapeto - 匂",
+      "08 籠島雫 aka Mapeto - メシ喰うな！",
+      "09 籠島雫 aka Mapeto - 即興",
+      "10 籠島雫 aka Mapeto - Flute Take2",
+      "11 籠島雫 aka Mapeto - タンゴ ミステイク"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/annoyue-acoustic-cover-album_e32c2e211a27"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta10/03f0d7c467d3b98677ec/Acoustic_Cover_Album.tar"
+    }
+  }
+}
