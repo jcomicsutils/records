@@ -1,0 +1,27 @@
+{
+  "id": "weichengniannozhuzhang_bdd851bf2faf",
+  "fingerprint": "bdd851bf2fafd17dd898ec05d08e4b17d443122198f88b644f322d5e6f3f6e74",
+  "archived_at": "2026-07-04T17:00:04Z",
+  "metadata": {
+    "title": "未成年の主張",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1966,
+    "duration_human": "00:32:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - 未成年の主張"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/weichengniannozhuzhang_bdd851bf2faf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta10/821ac0362fafc1d1de98/%E6%9C%AA%E6%88%90%E5%B9%B4%E3%81%AE%E4%B8%BB%E5%BC%B5.tar"
+    }
+  }
+}
