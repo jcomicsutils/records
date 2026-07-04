@@ -1,0 +1,27 @@
+{
+  "id": "geotanshite-ft-zizhi_5861ad8730aa",
+  "fingerprint": "5861ad8730aa3bba5e369296debeff210f495a755820d99078f4d82832a6850c",
+  "archived_at": "2026-07-04T17:07:03Z",
+  "metadata": {
+    "title": "歌を探して ft 緇織",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 301,
+    "duration_human": "00:05:01",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - 歌を探して ft 緇織"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/geotanshite-ft-zizhi_5861ad8730aa"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta10/45dfbb2177648595c5db/ft.tar"
+    }
+  }
+}
