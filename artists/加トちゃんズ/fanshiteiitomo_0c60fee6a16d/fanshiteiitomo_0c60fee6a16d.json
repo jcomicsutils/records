@@ -1,0 +1,31 @@
+{
+  "id": "fanshiteiitomo_0c60fee6a16d",
+  "fingerprint": "0c60fee6a16d80f999c07ef574cf1402295e8585423579d05e5642b4f59ffaa9",
+  "archived_at": "2026-07-04T20:34:36Z",
+  "metadata": {
+    "title": "犯していいとも",
+    "artist": "加トちゃんズ",
+    "year": "",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 563,
+    "duration_human": "00:09:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 加トちゃんズ - コクなら、もんじゃダメェ",
+      "02 加トちゃんズ - しゃぶってる場合ですよ",
+      "03 加トちゃんズ - 心の灯",
+      "04 加トちゃんズ - ホモいっきりテレビ",
+      "05 加トちゃんズ - 欽ちゃんの火葬大賞"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fanshiteiitomo_0c60fee6a16d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta10/38a67071badf62aae793/%E7%8A%AF%E3%81%97%E3%81%A6%E3%81%84%E3%81%84%E3%81%A8%E3%82%82.tar"
+    }
+  }
+}
