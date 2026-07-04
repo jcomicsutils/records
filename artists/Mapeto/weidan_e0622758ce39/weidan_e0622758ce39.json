@@ -1,0 +1,27 @@
+{
+  "id": "weidan_e0622758ce39",
+  "fingerprint": "e0622758ce3913379dc9b1d0d78c44ca1af7b8dfda8a3fb461294c859bdc40e8",
+  "archived_at": "2026-07-04T17:23:13Z",
+  "metadata": {
+    "title": "違誕",
+    "artist": "Mapeto",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2925,
+    "duration_human": "00:48:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - 違誕"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/weidan_e0622758ce39"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta10/98457bdec6a9e46b025e/%E9%81%95%E8%AA%95.tar"
+    }
+  }
+}
