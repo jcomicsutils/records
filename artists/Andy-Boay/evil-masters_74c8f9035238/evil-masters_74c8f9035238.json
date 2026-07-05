@@ -1,0 +1,32 @@
+{
+  "id": "evil-masters_74c8f9035238",
+  "fingerprint": "74c8f9035238a079d0f24f0e4c1d0632acece1fdaf80d9eba707b817d0df0c09",
+  "archived_at": "2026-07-05T20:15:00Z",
+  "metadata": {
+    "title": "Evil Masters",
+    "artist": "Andy Boay",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2757,
+    "duration_human": "00:45:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Andy Boay - Evil Masters",
+      "02 Andy Boay - Come for Ye",
+      "03 Andy Boay - Jethro Hell",
+      "04 Andy Boay - Tucson",
+      "05 Andy Boay - Don't Desert Me",
+      "06 Andy Boay - Big Chestined Nights",
+      "07 Andy Boay - Done Deal",
+      "08 Andy Boay - Shug Thyrt",
+      "09 Andy Boay - Fad Radio South"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta10/01bbeeafa6456b4a7fa3/Evil_Masters.tar"
+    }
+  }
+}
