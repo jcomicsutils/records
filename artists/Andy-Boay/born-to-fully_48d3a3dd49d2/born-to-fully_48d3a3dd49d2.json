@@ -1,0 +1,28 @@
+{
+  "id": "born-to-fully_48d3a3dd49d2",
+  "fingerprint": "48d3a3dd49d2b807d74e9bf541aa0e3a3f2897833d23cbd5d6f5f96427f2a850",
+  "archived_at": "2026-07-05T19:04:39Z",
+  "metadata": {
+    "title": "Born To Fully",
+    "artist": "Andy Boay",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2530,
+    "duration_human": "00:42:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Andy Boay - Born To Fully",
+      "02 Andy Boay - Bring It On Home",
+      "03 Andy Boay - Own Myn Own",
+      "04 Andy Boay - Sue Sled",
+      "05 Andy Boay - Old At Home"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta10/14b12b1cfb124af6b364/Born_To_Fully.tar"
+    }
+  }
+}
