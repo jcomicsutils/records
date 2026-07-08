@@ -1,0 +1,32 @@
+{
+  "id": "ecailles-de-lune_a0960948999a",
+  "fingerprint": "a0960948999a217fa005cd982683fdacd42b69e1b2e06841a91d224ce43339c0",
+  "archived_at": "2026-07-08T23:26:33Z",
+  "metadata": {
+    "title": "Écailles de lune",
+    "artist": "Alcest",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2503,
+    "duration_human": "00:41:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Alcest - Ecailles de lune, Pt. 1",
+      "02 Alcest - Ecailles de lune, Pt. 2",
+      "03 Alcest - Percées de lumière",
+      "04 Alcest - Abysses",
+      "05 Alcest - Solar Song",
+      "06 Alcest - Sur l'océan couleur de fer"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ecailles-de-lune_a0960948999a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/a94a559aee41d01864d1/cailles_de_lune.tar"
+    }
+  }
+}
