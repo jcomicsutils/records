@@ -1,0 +1,34 @@
+{
+  "id": "in-the-light_db09e3b77a46",
+  "fingerprint": "db09e3b77a46893524d61413dc96af3e46366c0263d1ddb402e14fdc003b7957",
+  "archived_at": "2026-07-08T00:21:27Z",
+  "metadata": {
+    "title": "In the Light",
+    "artist": "Andy Boay",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2389,
+    "duration_human": "00:39:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Andy Boay - In the Light, Pt. 1",
+      "02 Andy Boay - In the Light, Pt. 2",
+      "03 Andy Boay - In the Light, Pt. 3",
+      "04 Andy Boay - In the Light, Pt. 4",
+      "05 Andy Boay - Black Sea",
+      "06 Andy Boay - Swimming",
+      "07 Andy Boay - Winter 2013 Live Rehearsal",
+      "08 Andy Boay - 1995 Beast Kept in the Light"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/in-the-light_db09e3b77a46"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/f59325d6b27c4a46bea0/In_the_Light.tar"
+    }
+  }
+}
