@@ -1,0 +1,29 @@
+{
+  "id": "rvota_2856cd97cf8a",
+  "fingerprint": "2856cd97cf8a2fd53557856cf00a72b05069ecc5688299a8ca5866db9ece55ff",
+  "archived_at": "2026-07-08T22:23:53Z",
+  "metadata": {
+    "title": "Рвота",
+    "artist": "Культура курения",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 765,
+    "duration_human": "00:12:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Культура Курения - Мухи",
+      "02 Культура Курения - Растерянность",
+      "03 Культура Курения - Рвота"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rvota_2856cd97cf8a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/319fb7a82370028d4628/%D0%A0%D0%B2%D0%BE%D1%82%D0%B0.tar"
+    }
+  }
+}
