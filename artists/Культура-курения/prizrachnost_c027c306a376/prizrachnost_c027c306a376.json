@@ -1,0 +1,27 @@
+{
+  "id": "prizrachnost_c027c306a376",
+  "fingerprint": "c027c306a376680c12ff1272e7533b219d09a6cf39e0b2f77932b4ead7eecea5",
+  "archived_at": "2026-07-08T22:11:38Z",
+  "metadata": {
+    "title": "Призрачность",
+    "artist": "Культура курения",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 469,
+    "duration_human": "00:07:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Культура Курения - Призрачность"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/prizrachnost_c027c306a376"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/e1773b52ec57d3d6bc3c/%D0%9F%D1%80%D0%B8%D0%B7%D1%80%D0%B0%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C.tar"
+    }
+  }
+}
