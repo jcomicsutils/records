@@ -1,0 +1,40 @@
+{
+  "id": "collected-works-ii_09302fd1e8a1",
+  "fingerprint": "09302fd1e8a1bdee5fba1036f9f2f657ffdbb5566adc97d11df6db3e63681a79",
+  "archived_at": "2026-07-08T19:43:00Z",
+  "metadata": {
+    "title": "Collected Works II",
+    "artist": "Tai Gostei",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 2440,
+    "duration_human": "00:40:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tai Gostei - Que coisa",
+      "02 Tai Gostei - Visiting Friends",
+      "03 Tai Gostei - Homecoming",
+      "04 Tai Gostei - Chevaux morts",
+      "05 Tai Gostei - Desaquendar",
+      "06 Tai Gostei - Sentado movendo-se ainda olhando p'ra fora",
+      "07 Tai Gostei - (—,)",
+      "08 Tai Gostei - As silenciosas mortes de brasileiros soterrados em armazéns de grãos",
+      "09 Tai Gostei - Pakajaqueño",
+      "10 Tai Gostei - Pajubá",
+      "11 Tai Gostei - Confuso e certo",
+      "12 Tai Gostei - Considerações",
+      "13 Tai Gostei - E o gato virou fumaça",
+      "14 Tai Gostei - Brakhage / Baião"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/collected-works-ii_09302fd1e8a1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/3f508e901c71ffdbc8bc/Collected_Works_II.tar"
+    }
+  }
+}
