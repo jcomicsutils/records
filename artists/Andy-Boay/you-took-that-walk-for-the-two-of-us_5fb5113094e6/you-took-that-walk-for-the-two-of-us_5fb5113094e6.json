@@ -1,0 +1,32 @@
+{
+  "id": "you-took-that-walk-for-the-two-of-us_5fb5113094e6",
+  "fingerprint": "5fb5113094e63fa32e8f9a7f78663c864391de6f04579b81f059c838b5c9de58",
+  "archived_at": "2026-07-08T01:14:29Z",
+  "metadata": {
+    "title": "You Took That Walk For The Two Of Us",
+    "artist": "Andy Boay",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2278,
+    "duration_human": "00:37:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Andy Boay - HBM",
+      "02 Andy Boay - If I Ever Come Off",
+      "03 Andy Boay - You're In The Air Now",
+      "04 Andy Boay - One & One",
+      "05 Andy Boay - Careless",
+      "06 Andy Boay - I Want More"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/you-took-that-walk-for-the-two-of-us_5fb5113094e6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/0b547fb34bd6cc1c8fea/You_Took_That_Walk_For_The_Two_Of_Us.tar"
+    }
+  }
+}
