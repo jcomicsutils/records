@@ -1,0 +1,27 @@
+{
+  "id": "one-one_c3f61cc87790",
+  "fingerprint": "c3f61cc877907771ed13d04d33d0a1abfcbfc480dc570b05e97a3c1d6913a33a",
+  "archived_at": "2026-07-08T00:47:23Z",
+  "metadata": {
+    "title": "One & One",
+    "artist": "Andy Boay",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 335,
+    "duration_human": "00:05:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Andy Boay - One & One"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/one-one_c3f61cc87790"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/88b438117ad1691cfbb3/One_One.tar"
+    }
+  }
+}
