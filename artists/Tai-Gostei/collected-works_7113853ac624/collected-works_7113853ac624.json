@@ -1,0 +1,43 @@
+{
+  "id": "collected-works_7113853ac624",
+  "fingerprint": "7113853ac624fbea46397278b3c29b825268b9e1dbb91fb21a11e4ea8aec4b68",
+  "archived_at": "2026-07-08T19:38:07Z",
+  "metadata": {
+    "title": "Collected Works",
+    "artist": "Tai Gostei",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_seconds": 1126,
+    "duration_human": "00:18:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Tai Gostei - for you",
+      "02 Tai Gostei - the cursed bell",
+      "03 Tai Gostei - na piratininga",
+      "04 Tai Gostei - ocó",
+      "05 Tai Gostei - living room",
+      "06 Tai Gostei - chupa rola e dá o cu",
+      "07 Tai Gostei - sem surpresas",
+      "08 Tai Gostei - lasco de fita",
+      "09 Tai Gostei - tarraxa",
+      "10 Tai Gostei - ainda vai passar, peixinho",
+      "11 Tai Gostei - après la pluie, le beau temps",
+      "12 Tai Gostei - crushing",
+      "13 Tai Gostei - (something)",
+      "14 Tai Gostei - 20251215T195034Z-3-001",
+      "15 Tai Gostei - titi ch’iri siqititi",
+      "16 Tai Gostei - schoenberg",
+      "17 Tai Gostei - chocolate"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/collected-works_7113853ac624"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/2b850ef8b972b178dd52/Collected_Works.tar"
+    }
+  }
+}
