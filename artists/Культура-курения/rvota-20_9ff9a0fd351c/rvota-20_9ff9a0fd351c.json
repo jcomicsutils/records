@@ -1,0 +1,31 @@
+{
+  "id": "rvota-20_9ff9a0fd351c",
+  "fingerprint": "9ff9a0fd351c249230faad9e5e37928d50eb9e624e5a3d2c12d7405c7671165c",
+  "archived_at": "2026-07-08T22:29:15Z",
+  "metadata": {
+    "title": "Рвота 2.0",
+    "artist": "Культура курения",
+    "year": "2012",
+    "codec": "ALAC",
+    "num_tracks": 5,
+    "duration_seconds": 1310,
+    "duration_human": "00:21:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Культура курения [Kultura Kurenija] - Мухи",
+      "02 Культура курения [Kultura Kurenija] - Растерянность",
+      "03 Культура курения [Kultura Kurenija] - Рвота",
+      "04 Культура курения [Kultura Kurenija] - Холодные Провода",
+      "05 Культура курения [Kultura Kurenija] - Цемент"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rvota-20_9ff9a0fd351c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/7192b519753f7b02c0d2/2.0.tar"
+    }
+  }
+}
