@@ -1,0 +1,37 @@
+{
+  "id": "this-is-huayunjapanese-hiphops_b7d418e2ba11",
+  "fingerprint": "b7d418e2ba1113f9977c98a736468ce3da47f9a0999088b03c4c095bcfbc7b24",
+  "archived_at": "2026-07-08T22:22:32Z",
+  "metadata": {
+    "title": "This is 話芸(JAPANESE HIPHOP’s）",
+    "artist": "fushigi na niwa",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 3247,
+    "duration_human": "00:54:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - 核-Core",
+      "02 籠島雫 aka Mapeto - ナイフは月を半分に（再録）",
+      "03 籠島雫 aka Mapeto - Kind Window(再録）",
+      "04 籠島雫 aka Mapeto - L.D.F.A(再録）",
+      "05 籠島雫 aka Mapeto - とんぼDUB",
+      "06 籠島雫 aka Mapeto - SAMURAI",
+      "07 籠島雫 aka Mapeto - 浮気者No1.2",
+      "08 籠島雫 aka Mapeto - 殺せ！〜耳切り坊主",
+      "09 籠島雫 aka Mapeto - 俺節Rap",
+      "10 籠島雫 aka Mapeto - 誠寂",
+      "11 籠島雫 aka Mapeto - 生きて帰ってこい（Beat's下等仏教徒）"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/this-is-huayunjapanese-hiphops_b7d418e2ba11"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/dbb391825a4b1045a68c/This_is_JAPANESE_HIPHOP_s.tar"
+    }
+  }
+}
