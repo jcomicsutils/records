@@ -1,5 +1,7 @@
 # Andy Boay — Evil Masters (2011)
 
+![Cover](https://archive.org/download/evil-masters_74c8f9035238/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta10/01bbeeafa6456b4a7fa3/Evil_Masters.tar)
+- [Archive.org](https://archive.org/details/evil-masters_74c8f9035238)
 
 ## Tracklist
 

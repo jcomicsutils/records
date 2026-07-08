@@ -27,6 +27,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta10/01bbeeafa6456b4a7fa3/Evil_Masters.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/evil-masters_74c8f9035238"
     }
   }
 }
