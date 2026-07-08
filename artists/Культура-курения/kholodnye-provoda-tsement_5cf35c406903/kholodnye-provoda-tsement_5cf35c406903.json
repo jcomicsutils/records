@@ -1,0 +1,28 @@
+{
+  "id": "kholodnye-provoda-tsement_5cf35c406903",
+  "fingerprint": "5cf35c4069030303fa8ace2cc0da433ddef4e5e9ba41704a2e4e31c1c788acc6",
+  "archived_at": "2026-07-08T22:31:25Z",
+  "metadata": {
+    "title": "Холодные Провода - Цемент",
+    "artist": "Культура курения",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 545,
+    "duration_human": "00:09:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Культура Курения - Холодные Провода",
+      "02 Культура Курения - Цемент"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kholodnye-provoda-tsement_5cf35c406903"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/69d70e30f646995618aa/%D0%A5%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D0%9F%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B0_-_%D0%A6%D0%B5%D0%BC%D0%B5%D0%BD%D1%82.tar"
+    }
+  }
+}
