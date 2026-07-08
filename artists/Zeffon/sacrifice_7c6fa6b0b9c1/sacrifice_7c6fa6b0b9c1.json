@@ -1,0 +1,60 @@
+{
+  "id": "sacrifice_7c6fa6b0b9c1",
+  "fingerprint": "7c6fa6b0b9c112bd461a1b2fc7d4a0b833f05fbc699d8561f844a075533dc272",
+  "archived_at": "2026-07-08T22:24:50Z",
+  "metadata": {
+    "title": "Sacrifice",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 34,
+    "duration_seconds": 5851,
+    "duration_human": "01:37:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Man No. 19",
+      "02 Zeffon - Man No. 5",
+      "03 Zeffon - Man No. 44",
+      "04 Zeffon - Man No. 3",
+      "05 Zeffon - Man. No 25",
+      "06 Zeffon - Man No. 24",
+      "07 Zeffon - Man No. 23",
+      "08 Zeffon - Man No. 22",
+      "09 Zeffon - Man No. 13",
+      "10 Zeffon - Man No. 17",
+      "11 Zeffon - Man No. 16",
+      "12 Zeffon - Man No. 14",
+      "13 Zeffon - Man No. 59",
+      "14 Zeffon - Man No. 12",
+      "15 Zeffon - Man No. 11",
+      "16 Zeffon - H.",
+      "17 Zeffon - C.O.",
+      "18 Zeffon - Man No. 62",
+      "19 Zeffon - Man No. 6",
+      "20 Zeffon - The Spectral Dungeon",
+      "21 Zeffon - The Presence of Corruption",
+      "22 Zeffon - Moors and Assassins",
+      "23 Zeffon - Ominous Fog",
+      "24 Zeffon - The Dusty Old Chapel Organ",
+      "25 Zeffon - Stone Ruins and Gilded Stone Faces",
+      "26 Zeffon - Burning Castle Dränsilane Under Royal Decree",
+      "27 Zeffon - Suffering Hour",
+      "28 Zeffon - Sound of Wings",
+      "29 Zeffon - Musty Sewer Escape",
+      "30 Zeffon - Null and Void",
+      "31 Zeffon - Age of Silence",
+      "32 Zeffon - C.E. (Comes Next)",
+      "33 Zeffon - Resistance",
+      "34 Zeffon - Unknown Falls"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sacrifice_7c6fa6b0b9c1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/dbadf2617a7e3b238430/Sacrifice.tar"
+    }
+  }
+}
