@@ -1,0 +1,31 @@
+{
+  "id": "kultura-kureniya-regnmoln_0c855ff20895",
+  "fingerprint": "0c855ff208954edfd22bfa73275cf0a3f60bbeb79e1d92f2e58ae5e5937bcaac",
+  "archived_at": "2026-07-08T20:49:01Z",
+  "metadata": {
+    "title": "Культура курения / Regnmoln",
+    "artist": "Культура курения",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2033,
+    "duration_human": "00:33:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Культура Курения - Конфискатор",
+      "02 Культура Курения - 2015 Холодных Зим",
+      "03 Regnmoln - kött och blod",
+      "04 Regnmoln - infektioner",
+      "05 Regnmoln - tomma ord"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kultura-kureniya-regnmoln_0c855ff20895"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/f9bd4d60241ad6f4f83f/-_Regnmoln.tar"
+    }
+  }
+}
