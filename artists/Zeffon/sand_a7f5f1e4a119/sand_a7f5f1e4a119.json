@@ -1,0 +1,33 @@
+{
+  "id": "sand_a7f5f1e4a119",
+  "fingerprint": "a7f5f1e4a1197aad2cac56ac7a072d64d7a9b6c5bd22e450deed9faf5a9c8c63",
+  "archived_at": "2026-07-08T23:58:50Z",
+  "metadata": {
+    "title": "Sand",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1566,
+    "duration_human": "00:26:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Sand",
+      "02 Zeffon - The Truth",
+      "03 Zeffon - Untitled",
+      "04 Zeffon - In Mourning of Eresymcaion",
+      "05 Zeffon - Lapis Lapis",
+      "06 Zeffon - Kingdom of the Undead",
+      "07 Zeffon - Mortal Art"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sand_a7f5f1e4a119"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/32f4a61d28618bbcebde/Sand.tar"
+    }
+  }
+}
