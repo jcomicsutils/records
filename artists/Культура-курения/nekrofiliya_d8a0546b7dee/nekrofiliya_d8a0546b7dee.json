@@ -1,0 +1,34 @@
+{
+  "id": "nekrofiliya_d8a0546b7dee",
+  "fingerprint": "d8a0546b7dee3a618b09dd1ce7a3a30461305ff6f78789f3cdf09a1c15f03a20",
+  "archived_at": "2026-07-08T21:11:09Z",
+  "metadata": {
+    "title": "Некрофилия",
+    "artist": "Культура курения",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2914,
+    "duration_human": "00:48:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Культура Курения - 1997",
+      "02 Культура Курения - Хозяин слёз",
+      "03 Культура Курения - Цепи",
+      "04 Культура Курения - Танец смерти",
+      "05 Культура Курения - Пустота",
+      "06 Культура Курения - Элла",
+      "07 Культура Курения - Некрофилия",
+      "08 Культура Курения - Нет (Cover)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nekrofiliya_d8a0546b7dee"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/18332b3252d2bfe73f78/%D0%9D%D0%B5%D0%BA%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D0%B8%D1%8F.tar"
+    }
+  }
+}
