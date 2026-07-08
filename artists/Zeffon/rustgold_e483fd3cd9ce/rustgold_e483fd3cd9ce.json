@@ -1,0 +1,32 @@
+{
+  "id": "rustgold_e483fd3cd9ce",
+  "fingerprint": "e483fd3cd9cea590c0690ecd3e63e99bdc51b077b654c2029df12eb3b78aac72",
+  "archived_at": "2026-07-08T03:14:22Z",
+  "metadata": {
+    "title": "Rust=Gold",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 13393,
+    "duration_human": "03:43:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Shoot 'Em Down",
+      "02 Zeffon - Double Charge and Bind",
+      "03 Zeffon - Surgical Strike",
+      "04 Zeffon - Rag-Doll Chaos for Mr. P....",
+      "05 Zeffon - Greyness... of the Barracks",
+      "06 Zeffon - Psycho-Army-Officër"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rustgold_e483fd3cd9ce"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/ff4979004bf8635be310/Rust_Gold.tar"
+    }
+  }
+}
