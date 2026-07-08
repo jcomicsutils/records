@@ -1,0 +1,29 @@
+{
+  "id": "bbc-live-session_a6d4555624bb",
+  "fingerprint": "a6d4555624bb4f520271fbff723a80a1150fc425835b62ceccdd2aeda08d33f4",
+  "archived_at": "2026-07-08T22:55:28Z",
+  "metadata": {
+    "title": "BBC Live Session",
+    "artist": "Alcest",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1223,
+    "duration_human": "00:20:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Alcest - Souvenirs d'un autre monde (BBC Live Session)",
+      "02 Alcest - Écailles de lune, Pt. 1 (BBC Live Session)",
+      "03 Alcest - Autre Temps (BBC Live Session)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bbc-live-session_a6d4555624bb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/807d41f7032267d8b4a2/BBC_Live_Session.tar"
+    }
+  }
+}
