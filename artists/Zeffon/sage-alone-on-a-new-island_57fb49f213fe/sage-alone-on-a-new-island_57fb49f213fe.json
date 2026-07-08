@@ -1,0 +1,28 @@
+{
+  "id": "sage-alone-on-a-new-island_57fb49f213fe",
+  "fingerprint": "57fb49f213fe363e41fb42ef78d76495ae41bf549d2017e99dcb2c8df941cf8a",
+  "archived_at": "2026-07-08T22:59:54Z",
+  "metadata": {
+    "title": "Sage Alone on a New Island!",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1751,
+    "duration_human": "00:29:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - New Lands",
+      "02 Zeffon - The Sage's Wilderness"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sage-alone-on-a-new-island_57fb49f213fe"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/0bf5561fd00376d9e521/Sage_Alone_on_a_New_Island.tar"
+    }
+  }
+}
