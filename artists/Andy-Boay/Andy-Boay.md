@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [So So So We See / Trenches In The Sun](so-so-so-we-see-trenches-in-the-sun_483c0d5d6fb8/so-so-so-we-see-trenches-in-the-sun_483c0d5d6fb8.md) | 2006 | FLAC | 01:15:02 | [IA](https://archive.org/details/so-so-so-we-see-trenches-in-the-sun_483c0d5d6fb8) [FileDitch](https://fileditchfiles.me/beta11/0ee896786cdf41114a28/So_So_So_We_See_-_Trenches_In_The_Sun.tar) |
 | [Evil Masters](evil-masters_74c8f9035238/evil-masters_74c8f9035238.md) | 2011 | FLAC | 00:45:57 | [FileDitch](https://fileditchfiles.me/beta10/01bbeeafa6456b4a7fa3/Evil_Masters.tar) [IA](https://archive.org/details/evil-masters_74c8f9035238) |
 | [Born To Fully](born-to-fully_48d3a3dd49d2/born-to-fully_48d3a3dd49d2.md) | 2011 | FLAC | 00:42:10 | [FileDitch](https://fileditchfiles.me/beta10/14b12b1cfb124af6b364/Born_To_Fully.tar) [IA](https://archive.org/details/born-to-fully_48d3a3dd49d2) |
 | [In the Light](in-the-light_db09e3b77a46/in-the-light_db09e3b77a46.md) | 2013 | FLAC | 00:39:49 | [IA](https://archive.org/details/in-the-light_db09e3b77a46) [FileDitch](https://fileditchfiles.me/beta11/f59325d6b27c4a46bea0/In_the_Light.tar) |
