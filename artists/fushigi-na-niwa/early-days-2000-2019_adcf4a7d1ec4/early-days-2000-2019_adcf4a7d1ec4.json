@@ -1,0 +1,47 @@
+{
+  "id": "early-days-2000-2019_adcf4a7d1ec4",
+  "fingerprint": "adcf4a7d1ec4f2c19c2f58b235139992ab78bab35e5ffafecf55ff752004f7a0",
+  "archived_at": "2026-07-08T03:24:44Z",
+  "metadata": {
+    "title": "EARLY DAYS 2000-2019",
+    "artist": "fushigi na niwa",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 21,
+    "duration_seconds": 4438,
+    "duration_human": "01:13:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Panasonies - amam #3",
+      "02 Panasonies - integral",
+      "03 Panasonies - ococ",
+      "04 Panasonies - LR44",
+      "05 Panasonies - _underbar",
+      "06 Panasonies - nex",
+      "07 Panasonies - null",
+      "08 Panasonies - Ctrl",
+      "09 Panasonies - hatena",
+      "10 Panasonies - Practice A",
+      "11 Panasonies - dummy",
+      "12 Panasonies - Not Responding",
+      "13 Panasonies - Sleeper's Delight",
+      "14 Panasonies - Black Light",
+      "15 Panasonies - KOC",
+      "16 Panasonies - I can not see the Radio wave",
+      "17 Panasonies - Earth Light",
+      "18 Panasonies - U3",
+      "19 Panasonies - 3-33-3",
+      "20 Panasonies - one room disco",
+      "21 Panasonies - moi!"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/early-days-2000-2019_adcf4a7d1ec4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/c8a3cbd85b410db7a987/EARLY_DAYS_2000-2019.tar"
+    }
+  }
+}
