@@ -120,6 +120,7 @@
 - [Zeffon / Revenence](Zeffon-Revenence/Zeffon-Revenence.md)
 - [Zeffon / Revenence / Argon Beams / Serpentmouth](Zeffon-Revenence-Argon-Beams-Serpentmouth/Zeffon-Revenence-Argon-Beams-Serpentmouth.md)
 - [Black Magick SS](black-magick-ss/black-magick-ss.md)
+- [fushigi na niwa](fushigi-na-niwa/fushigi-na-niwa.md)
 - [Opera for Infantry](opera-for-infantry/opera-for-infantry.md)
 - [urutau](urutau/urutau.md)
 - [Violent Magic Orchestra](violent-magic-orchestra/violent-magic-orchestra.md)
