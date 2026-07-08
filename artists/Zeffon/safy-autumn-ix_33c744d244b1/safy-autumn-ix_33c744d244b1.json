@@ -1,0 +1,30 @@
+{
+  "id": "safy-autumn-ix_33c744d244b1",
+  "fingerprint": "33c744d244b1a18dbd306f0ea07561c3e1b2b777845aa8920dd00315c952925e",
+  "archived_at": "2026-07-08T22:35:10Z",
+  "metadata": {
+    "title": "Sáfy (Autumn IX)",
+    "artist": "Zeffon",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1435,
+    "duration_human": "00:23:55",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Eight Entire Years",
+      "02 Zeffon - Quiet and Space",
+      "03 Zeffon - Sáfy",
+      "04 Zeffon - Visuals Reacquired"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/safy-autumn-ix_33c744d244b1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/e52baaf902c35f39c474/S_fy_Autumn_IX.tar"
+    }
+  }
+}
