@@ -1,5 +1,7 @@
 # Andy Boay — Born To Fully (2011)
 
+![Cover](https://archive.org/download/born-to-fully_48d3a3dd49d2/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.me/beta10/14b12b1cfb124af6b364/Born_To_Fully.tar)
+- [Archive.org](https://archive.org/details/born-to-fully_48d3a3dd49d2)
 
 ## Tracklist
 

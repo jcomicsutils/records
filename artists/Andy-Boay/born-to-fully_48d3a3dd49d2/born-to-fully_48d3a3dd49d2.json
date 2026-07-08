@@ -23,6 +23,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.me/beta10/14b12b1cfb124af6b364/Born_To_Fully.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/born-to-fully_48d3a3dd49d2"
     }
   }
 }
