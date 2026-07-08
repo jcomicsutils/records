@@ -1,0 +1,33 @@
+{
+  "id": "salt_7dbb2b0cc993",
+  "fingerprint": "7dbb2b0cc9932cff6f55e2286dbf8768184879bcc3883a9271d80863f6bf8d8e",
+  "archived_at": "2026-07-08T23:37:09Z",
+  "metadata": {
+    "title": "Salt",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 4562,
+    "duration_human": "01:16:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Salt",
+      "02 Zeffon - West Exeräise II",
+      "03 Zeffon - Recordings of Mandra Pupae II",
+      "04 Zeffon - Reprise (Court of Emeroch)",
+      "05 Zeffon - Recordings of Mandra Pupae",
+      "06 Zeffon - East Exeräise",
+      "07 Zeffon - West Exeräise"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/salt_7dbb2b0cc993"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/976fcb62236ae6eaca22/Salt.tar"
+    }
+  }
+}
