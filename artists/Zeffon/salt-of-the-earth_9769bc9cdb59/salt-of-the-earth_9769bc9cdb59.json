@@ -1,0 +1,29 @@
+{
+  "id": "salt-of-the-earth_9769bc9cdb59",
+  "fingerprint": "9769bc9cdb5905fa78ceab1fc2a18a6ff92239ad2ce34dea49b8f3b4bf266699",
+  "archived_at": "2026-07-08T23:41:02Z",
+  "metadata": {
+    "title": "Salt of the Earth",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1101,
+    "duration_human": "00:18:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Lethargy",
+      "02 Zeffon - 113",
+      "03 Zeffon - Salt of the Earth"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/salt-of-the-earth_9769bc9cdb59"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/34c426c4391178b90d67/Salt_of_the_Earth.tar"
+    }
+  }
+}
