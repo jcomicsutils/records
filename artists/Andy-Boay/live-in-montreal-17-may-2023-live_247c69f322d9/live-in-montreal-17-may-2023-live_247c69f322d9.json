@@ -1,0 +1,31 @@
+{
+  "id": "live-in-montreal-17-may-2023-live_247c69f322d9",
+  "fingerprint": "247c69f322d9b37ff5c4061d9e86adcf44f623ab5cfc150146bcc5622a9a59d3",
+  "archived_at": "2026-07-08T00:46:15Z",
+  "metadata": {
+    "title": "LIVE IN MONTREAL 17 MAY 2023 (Live)",
+    "artist": "Andy Boay",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1646,
+    "duration_human": "00:27:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Andy Boay - HBM (Live)",
+      "02 Andy Boay - O&O (Live)",
+      "03 Andy Boay - BG (Live)",
+      "04 Andy Boay - CF (Live)",
+      "05 Andy Boay - RD (Live)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-in-montreal-17-may-2023-live_247c69f322d9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/285af7d30fdbf2476ff2/LIVE_IN_MONTREAL_17_MAY_2023_Live.tar"
+    }
+  }
+}
