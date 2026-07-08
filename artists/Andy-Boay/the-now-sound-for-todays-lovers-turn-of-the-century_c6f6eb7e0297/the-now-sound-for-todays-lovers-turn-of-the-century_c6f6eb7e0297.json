@@ -1,0 +1,33 @@
+{
+  "id": "the-now-sound-for-todays-lovers-turn-of-the-century_c6f6eb7e0297",
+  "fingerprint": "c6f6eb7e02974212634ca74dfff522e1cee158e7825c5bbff7d0d492828a12d8",
+  "archived_at": "2026-07-08T01:07:47Z",
+  "metadata": {
+    "title": "The Now Sound for Today's Lovers / Turn of the Century",
+    "artist": "Andy Boay",
+    "year": "2014",
+    "codec": "MP3",
+    "num_tracks": 7,
+    "duration_seconds": 1810,
+    "duration_human": "00:30:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Jerry Paper - Funny Girl",
+      "02 Jerry Paper - Come Over",
+      "03 Jerry Paper - Romeo (My MO)",
+      "04 Jerry Paper - Melt",
+      "05 Andy Boay - Bullwhip Strides",
+      "06 Andy Boay - Roll On River",
+      "07 Andy Boay - Andy In Carthage (5000 Miles)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-now-sound-for-todays-lovers-turn-of-the-century_c6f6eb7e0297"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/2d7f2b5f3bedb9de9e1d/The_Now_Sound_for_Today_s_Lovers_-_Turn_of_the_Century.tar"
+    }
+  }
+}
