@@ -1,0 +1,32 @@
+{
+  "id": "kodama_09b10cbab58c",
+  "fingerprint": "09b10cbab58cd2b403a182c7d728cb9df437a6432889a7e3b2d7f9d7b9208d23",
+  "archived_at": "2026-07-08T23:43:11Z",
+  "metadata": {
+    "title": "Kodama",
+    "artist": "Alcest",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2535,
+    "duration_human": "00:42:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Alcest - Kodama",
+      "02 Alcest - Eclosion",
+      "03 Alcest - Je suis d'ailleurs",
+      "04 Alcest - Untouched",
+      "05 Alcest - Oiseaux de proie",
+      "06 Alcest - Onyx"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kodama_09b10cbab58c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/12ba8233e22137ae82da/Kodama.tar"
+    }
+  }
+}
