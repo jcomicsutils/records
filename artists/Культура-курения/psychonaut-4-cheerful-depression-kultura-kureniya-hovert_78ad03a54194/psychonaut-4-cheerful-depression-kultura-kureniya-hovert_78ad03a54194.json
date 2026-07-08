@@ -1,0 +1,34 @@
+{
+  "id": "psychonaut-4-cheerful-depression-kultura-kureniya-hovert_78ad03a54194",
+  "fingerprint": "78ad03a5419415556b4f0a573a8c60485dabc93f6355851a4aa05ebc82417da1",
+  "archived_at": "2026-07-08T20:15:16Z",
+  "metadata": {
+    "title": "Psychonaut 4 / Cheerful Depression / Культура Курения / Hovert",
+    "artist": "Культура курения",
+    "year": "2014",
+    "codec": "ALAC",
+    "num_tracks": 8,
+    "duration_seconds": 3448,
+    "duration_human": "00:57:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Psychonaut 4 - თბილისო (The City That Loves You)",
+      "02 Psychonaut 4 - Bad Morning! (Злого утра!)",
+      "03 Cheerful Depression - Lone Wanderer in Desolation Forest",
+      "04 Cheerful Depression - Night of the Dead",
+      "05 Cheerful Depression - Merge into Earth",
+      "06 Культура Курения - Нет (Der Golem cover)",
+      "07 Hovert - Без слов",
+      "08 Hovert - Одиночество"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/psychonaut-4-cheerful-depression-kultura-kureniya-hovert_78ad03a54194"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/5a423e56edd484424d3e/Psychonaut_4_-_Cheerful_Depression_-_-_Hovert.tar"
+    }
+  }
+}
