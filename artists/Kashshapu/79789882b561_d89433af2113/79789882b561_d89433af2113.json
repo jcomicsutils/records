@@ -1,0 +1,34 @@
+{
+  "id": "79789882b561_d89433af2113",
+  "fingerprint": "d89433af211304fcdeba33875964809845f3057ad92e229db1452fd45138e34c",
+  "archived_at": "2026-07-09T20:02:11Z",
+  "metadata": {
+    "title": "𒄭𒆳𒌈",
+    "artist": "Kashshapu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2980,
+    "duration_human": "00:49:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Kashshapu - 𒇷𒆳",
+      "02 Kashshapu - Sumerian Death Sentence",
+      "03 Kashshapu - Sisītum",
+      "04 Kashshapu - 𒆰𒊒𒌈𒊏𒅤",
+      "05 Kashshapu - 𒍢𒌈",
+      "06 Kashshapu - 𒆠",
+      "07 Kashshapu - 𒀀𒄬𒇲𒀭𒉌",
+      "08 Kashshapu - 𒈠𒀝𒋫𒀀𒆪"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/79789882b561_d89433af2113"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha13/7bdd34716ef92672c0ef/%F0%92%84%AD%F0%92%86%B3%F0%92%8C%88.tar"
+    }
+  }
+}
