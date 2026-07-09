@@ -1,0 +1,28 @@
+{
+  "id": "hanging-stars_fe552bc1129f",
+  "fingerprint": "fe552bc1129f99d08fdb9f1a98fe1516bf2ebc13eaec1592d026dd8f6aa49bc9",
+  "archived_at": "2026-07-09T19:02:43Z",
+  "metadata": {
+    "title": "Hanging Stars",
+    "artist": "Hanging Stars",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2253,
+    "duration_human": "00:37:33",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Hanging Stars - [untitled]",
+      "02 Hanging Stars - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hanging-stars_fe552bc1129f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha13/c706314292a6fd304832/Hanging_Stars.tar"
+    }
+  }
+}

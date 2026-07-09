@@ -53,6 +53,7 @@
 - [Generated Missiân ZFN / Serpentmouth / Zeffon](Generated-Missiân-ZFN-Serpentmouth-Zeffon/Generated-Missiân-ZFN-Serpentmouth-Zeffon.md)
 - [Gravetemple](Gravetemple/Gravetemple.md)
 - [Grim](Grim/Grim.md)
+- [Hanging Stars](Hanging-Stars/Hanging-Stars.md)
 - [Happy Halloween](Happy-Halloween/Happy-Halloween.md)
 - [House of Low Culture](House-of-Low-Culture/House-of-Low-Culture.md)
 - [If-Then-Else](If-Then-Else/If-Then-Else.md)
