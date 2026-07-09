@@ -1,0 +1,31 @@
+{
+  "id": "mayusaikuron-longdaonabian-live-at-firebard_07908cca799d",
+  "fingerprint": "07908cca799d5b78268ad444a07210d272915b9845bc523045cd33c2a00e7a9a",
+  "archived_at": "2026-07-09T03:50:55Z",
+  "metadata": {
+    "title": "まゆサイクロン 籠島雫編 Live at Firebard",
+    "artist": "fushigi na niwa",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1408,
+    "duration_human": "00:23:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 大久保真由×籠島雫 - Part1",
+      "02 大久保真由×籠島雫 - Part2",
+      "03 大久保真由×籠島雫 - Part3",
+      "04 大久保真由×籠島雫 - Part4",
+      "05 大久保真由×籠島雫 - Part5"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mayusaikuron-longdaonabian-live-at-firebard_07908cca799d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/9f7d61845dbca25b111f/Live_at_Firebard.tar"
+    }
+  }
+}

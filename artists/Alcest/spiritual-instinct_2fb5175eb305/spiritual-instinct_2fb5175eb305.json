@@ -1,0 +1,29 @@
+{
+  "id": "spiritual-instinct_2fb5175eb305",
+  "fingerprint": "2fb5175eb30547c41e6abfd385e2aaf93ee660ec3d3c7a89d69c27fe7d3f679c",
+  "archived_at": "2026-07-09T03:51:05Z",
+  "metadata": {
+    "title": "Spiritual Instinct",
+    "artist": "Alcest",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2461,
+    "duration_human": "00:41:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Alcest - Les jardins de minuit",
+      "02 Alcest - Protection",
+      "03 Alcest - Sapphire",
+      "04 Alcest - L'île des morts",
+      "05 Alcest - Le miroir",
+      "06 Alcest - Spiritual Instinct"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/spiritual-instinct_2fb5175eb305"
+    }
+  }
+}
