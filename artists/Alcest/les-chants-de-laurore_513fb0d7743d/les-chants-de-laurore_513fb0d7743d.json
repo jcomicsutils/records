@@ -1,0 +1,33 @@
+{
+  "id": "les-chants-de-laurore_513fb0d7743d",
+  "fingerprint": "513fb0d7743d6d1a96f37ef05c12114757c09ef61695d63f04ab0f819407b3aa",
+  "archived_at": "2026-07-09T01:12:09Z",
+  "metadata": {
+    "title": "Les Chants de l'Aurore",
+    "artist": "Alcest",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2621,
+    "duration_human": "00:43:41",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Alcest - Komorebi",
+      "02 Alcest - L'Envol",
+      "03 Alcest - Améthyste",
+      "04 Alcest - Flamme Jumelle",
+      "05 Alcest - Réminiscence",
+      "06 Alcest - L'Enfant de la Lune (月の子)",
+      "07 Alcest - L'Adieu"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/les-chants-de-laurore_513fb0d7743d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/ccd6d4d0f9c59bc84b0c/Les_Chants_de_l_Aurore.tar"
+    }
+  }
+}
