@@ -1,0 +1,30 @@
+{
+  "id": "corrosion-of-hearts_ad33d3ecfd86",
+  "fingerprint": "ad33d3ecfd86e9cc0ef3de47bc71503fb3ae1d6d0db1359aa57ff6b0418c7c0d",
+  "archived_at": "2026-07-09T23:21:37Z",
+  "metadata": {
+    "title": "Corrosion of Hearts",
+    "artist": "Austere",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2800,
+    "duration_human": "00:46:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Austere - Sullen",
+      "02 Austere - A Ravenous Oblivion",
+      "03 Austere - The Poisoned Core",
+      "04 Austere - Pale"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/corrosion-of-hearts_ad33d3ecfd86"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha13/7e0bc393f7bd2607471a/Corrosion_of_Hearts.tar"
+    }
+  }
+}
