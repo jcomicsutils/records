@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/spiritual-instinct_2fb5175eb305)
+- [FileDitch](https://fileditchfiles.me/beta11/63b2ae5991ff36c3e739/Spiritual_Instinct.tar)
 
 ## Tracklist
 

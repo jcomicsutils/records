@@ -24,6 +24,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/spiritual-instinct_2fb5175eb305"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/63b2ae5991ff36c3e739/Spiritual_Instinct.tar"
     }
   }
 }
