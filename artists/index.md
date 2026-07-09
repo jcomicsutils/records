@@ -60,6 +60,7 @@
 - [KTL](KTL/KTL.md)
 - [Kaatayra](Kaatayra/Kaatayra.md)
 - [Kammerflimmer Kollektief](Kammerflimmer-Kollektief/Kammerflimmer-Kollektief.md)
+- [Kashshapu](Kashshapu/Kashshapu.md)
 - [Khanate](Khanate/Khanate.md)
 - [Killing Joke](Killing-Joke/Killing-Joke.md)
 - [Kiss the Anus of a Black Cat](Kiss-the-Anus-of-a-Black-Cat/Kiss-the-Anus-of-a-Black-Cat.md)
