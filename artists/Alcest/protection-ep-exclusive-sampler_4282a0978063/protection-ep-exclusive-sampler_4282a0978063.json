@@ -1,0 +1,31 @@
+{
+  "id": "protection-ep-exclusive-sampler_4282a0978063",
+  "fingerprint": "4282a097806333acce482bbef2066638223432e2fb0c8fea544971fbf91db368",
+  "archived_at": "2026-07-09T02:24:50Z",
+  "metadata": {
+    "title": "Protection EP: Exclusive Sampler",
+    "artist": "Alcest",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2008,
+    "duration_human": "00:33:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Alcest - Protection",
+      "02 Alcest - Sapphire",
+      "03 Alcest - Autre Temps",
+      "04 Alcest - Oiseaux de proie (Live)",
+      "05 Alcest - Là où naissent les couleurs nouvelles (Live)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/protection-ep-exclusive-sampler_4282a0978063"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/35c7b56d01c293801028/Protection_EP_Exclusive_Sampler.tar"
+    }
+  }
+}
