@@ -1,0 +1,34 @@
+{
+  "id": "les-voyages-de-lame_fb9c476ce35d",
+  "fingerprint": "fb9c476ce35da56077c3dfe94b88d7e1e6b9f2d2d614ce1dcc8ded22a76746f7",
+  "archived_at": "2026-07-09T01:42:19Z",
+  "metadata": {
+    "title": "Les voyages de l'âme",
+    "artist": "Alcest",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 3023,
+    "duration_human": "00:50:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Alcest - Autre Temps (Album Version)",
+      "02 Alcest - Là où naissent les couleurs nouvelles",
+      "03 Alcest - Les voyages de l'âme",
+      "04 Alcest - Nous sommes l'emeraude",
+      "05 Alcest - Beings of Light",
+      "06 Alcest - Faiseurs de mondes",
+      "07 Alcest - Havens",
+      "08 Alcest - Summer's Glory"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/les-voyages-de-lame_fb9c476ce35d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/dfeb6aafd14624be13e8/Les_voyages_de_l_me.tar"
+    }
+  }
+}
