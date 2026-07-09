@@ -1,0 +1,32 @@
+{
+  "id": "souvenirs-dun-autre-monde_1cc01aed6fc4",
+  "fingerprint": "1cc01aed6fc4a745c4d751777301e370ec438ec2b354a5cc2ea6c6b9ba688861",
+  "archived_at": "2026-07-09T03:33:50Z",
+  "metadata": {
+    "title": "Souvenirs d'un autre monde",
+    "artist": "Alcest",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2482,
+    "duration_human": "00:41:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Alcest - Printemps émeraude",
+      "02 Alcest - Souvenirs d'un autre monde",
+      "03 Alcest - Les iris",
+      "04 Alcest - Ciel errant",
+      "05 Alcest - Sur l'autre rive je t'attendrai",
+      "06 Alcest - Tir nan og"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/souvenirs-dun-autre-monde_1cc01aed6fc4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/b5c292ef5b0e6eb9c993/Souvenirs_d_un_autre_monde.tar"
+    }
+  }
+}

@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Le secret](le-secret_9c11c95c6849/le-secret_9c11c95c6849.md) | 2005 | FLAC | 00:54:50 | [IA](https://archive.org/details/le-secret_9c11c95c6849) [FileDitch](https://fileditchfiles.me/beta11/89c1c241165244cbf7c1/Le_secret.tar) |
+| [Souvenirs d'un autre monde](souvenirs-dun-autre-monde_1cc01aed6fc4/souvenirs-dun-autre-monde_1cc01aed6fc4.md) | 2007 | FLAC | 00:41:22 | [IA](https://archive.org/details/souvenirs-dun-autre-monde_1cc01aed6fc4) [FileDitch](https://fileditchfiles.me/beta11/b5c292ef5b0e6eb9c993/Souvenirs_d_un_autre_monde.tar) |
 | [Les Discrets / Alcest](les-discrets-alcest_648b55f33177/les-discrets-alcest_648b55f33177.md) | 2009 | FLAC | 00:25:12 | [IA](https://archive.org/details/les-discrets-alcest_648b55f33177) [FileDitch](https://fileditchfiles.me/beta11/3e45744e1bd65651fb51/Les_Discrets_-_Alcest.tar) |
 | [Écailles de lune](ecailles-de-lune_a0960948999a/ecailles-de-lune_a0960948999a.md) | 2010 | FLAC | 00:41:43 | [IA](https://archive.org/details/ecailles-de-lune_a0960948999a) [FileDitch](https://fileditchfiles.me/beta11/a94a559aee41d01864d1/cailles_de_lune.tar) |
 | [Les voyages de l'âme](les-voyages-de-lame_fb9c476ce35d/les-voyages-de-lame_fb9c476ce35d.md) | 2012 | FLAC | 00:50:23 | [IA](https://archive.org/details/les-voyages-de-lame_fb9c476ce35d) [FileDitch](https://fileditchfiles.me/beta11/dfeb6aafd14624be13e8/Les_voyages_de_l_me.tar) |
