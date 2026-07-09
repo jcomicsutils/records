@@ -1,0 +1,27 @@
+{
+  "id": "protection-ben-chisholm-version_09253bdeffb3",
+  "fingerprint": "09253bdeffb35f900ee261119347b4e60b8171fc5bf26f406a0c14abf283a409",
+  "archived_at": "2026-07-09T02:20:02Z",
+  "metadata": {
+    "title": "Protection (Ben Chisholm Version)",
+    "artist": "Alcest",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 251,
+    "duration_human": "00:04:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Alcest, Ben Chisholm - Protection (Ben Chisholm Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/protection-ben-chisholm-version_09253bdeffb3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/3542813e29e215f986c9/Protection_Ben_Chisholm_Version.tar"
+    }
+  }
+}
