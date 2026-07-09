@@ -1,0 +1,28 @@
+{
+  "id": "blue-noise-demo-1_397b67afb842",
+  "fingerprint": "397b67afb842d76f474dff5740aeb1cb74aafc25bb00832ba71357fbd013cc43",
+  "archived_at": "2026-07-09T05:43:04Z",
+  "metadata": {
+    "title": "Blue Noise (Demo #1)",
+    "artist": "BLUE NOISE",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 466,
+    "duration_human": "00:07:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Blue Noise - One",
+      "02 Blue Noise - Two"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/blue-noise-demo-1_397b67afb842"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/b2475ece5a1a38779017/Blue_Noise_Demo_1.tar"
+    }
+  }
+}

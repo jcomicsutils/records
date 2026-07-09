@@ -21,6 +21,7 @@
 - [Armchair Migraine Journey](Armchair-Migraine-Journey/Armchair-Migraine-Journey.md)
 - [Arthur Russell](Arthur-Russell/Arthur-Russell.md)
 - [BLARF](BLARF/BLARF.md)
+- [BLUE NOISE](BLUE-NOISE/BLUE-NOISE.md)
 - [Bardo Todol](Bardo-Todol/Bardo-Todol.md)
 - [Bark Psychosis](Bark-Psychosis/Bark-Psychosis.md)
 - [Bird Violence](Bird-Violence/Bird-Violence.md)
