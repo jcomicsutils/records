@@ -21,6 +21,7 @@
 - [Armand Hammer](Armand-Hammer/Armand-Hammer.md)
 - [Armchair Migraine Journey](Armchair-Migraine-Journey/Armchair-Migraine-Journey.md)
 - [Arthur Russell](Arthur-Russell/Arthur-Russell.md)
+- [Austere](Austere/Austere.md)
 - [BLARF](BLARF/BLARF.md)
 - [BLUE NOISE](BLUE-NOISE/BLUE-NOISE.md)
 - [Bardo Todol](Bardo-Todol/Bardo-Todol.md)

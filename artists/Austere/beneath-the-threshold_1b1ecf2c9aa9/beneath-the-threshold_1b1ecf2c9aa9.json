@@ -1,0 +1,32 @@
+{
+  "id": "beneath-the-threshold_1b1ecf2c9aa9",
+  "fingerprint": "1b1ecf2c9aa999a551a9f85877ee70e3d3940c3b022d248fd44eacc02364cc61",
+  "archived_at": "2026-07-09T22:51:57Z",
+  "metadata": {
+    "title": "Beneath the Threshold",
+    "artist": "Austere",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2520,
+    "duration_human": "00:42:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Austere - Thrall",
+      "02 Austere - The Sunset of Life",
+      "03 Austere - Faded Ghost",
+      "04 Austere - Cold Cerecloth",
+      "05 Austere - Words Unspoken",
+      "06 Austere - Of Severance"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/beneath-the-threshold_1b1ecf2c9aa9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha13/f86ab0dd5c51f5ed9046/Beneath_the_Threshold.tar"
+    }
+  }
+}
