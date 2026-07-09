@@ -25,6 +25,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/daoochitsunarabasonodaoshimauqiaonimingosurasero-livehisomine_d75cdc02ef9e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha13/be0d3bc96be6655a42e1/Live_hisomine.tar"
     }
   }
 }
