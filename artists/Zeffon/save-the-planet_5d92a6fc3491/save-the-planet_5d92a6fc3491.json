@@ -1,0 +1,31 @@
+{
+  "id": "save-the-planet_5d92a6fc3491",
+  "fingerprint": "5d92a6fc34912f22dc98ca465257aa6fb5da82b082426c5a3abc9d9f7c0cbc35",
+  "archived_at": "2026-07-09T03:43:27Z",
+  "metadata": {
+    "title": "Save the Planet",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2768,
+    "duration_human": "00:46:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Mole Purchase",
+      "02 Zeffon - Am I, I Am An Enemy of the Sun, Am I",
+      "03 Zeffon - System is... Dub",
+      "04 Zeffon - Sever Silivera",
+      "05 Zeffon - Save the Planet"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/save-the-planet_5d92a6fc3491"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/39a3585cb2871988c3a9/Save_the_Planet.tar"
+    }
+  }
+}
