@@ -1,0 +1,33 @@
+{
+  "id": "pure-helium_92bcc41fadc6",
+  "fingerprint": "92bcc41fadc6f8c56e60b11e8da107382ac1a71373c85037f95b0f01a4cb56fe",
+  "archived_at": "2026-07-09T04:31:45Z",
+  "metadata": {
+    "title": "Pure Helium",
+    "artist": "tam tam",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1315,
+    "duration_human": "00:21:55",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 tam tam - Rope",
+      "02 tam tam - Painted box",
+      "03 tam tam - Parking the car",
+      "04 tam tam - 2",
+      "05 tam tam - Water in the house",
+      "06 tam tam - 1",
+      "07 tam tam - Gm"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pure-helium_92bcc41fadc6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/a28fde96f380b805bcf7/Pure_Helium.tar"
+    }
+  }
+}
