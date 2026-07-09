@@ -1,0 +1,50 @@
+{
+  "id": "saturnine-autumn-xiii_c55354991373",
+  "fingerprint": "c55354991373fc0489a18bbee84b5279fc3a78505859916879475d46dde343d7",
+  "archived_at": "2026-07-09T03:36:15Z",
+  "metadata": {
+    "title": "Saturnine (Autumn XIII)",
+    "artist": "Zeffon",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 24,
+    "duration_seconds": 26209,
+    "duration_human": "07:16:49",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Bullmoose Link",
+      "02 Zeffon - Underneath the Tears",
+      "03 Zeffon - Hajó",
+      "04 Zeffon - Inner Thoughts / Sleepiness 1 (Mistress Veriser)",
+      "05 Zeffon - Blue Forest (Outrun)",
+      "06 Zeffon - And Here We Stand",
+      "07 Zeffon - The Longer Streak",
+      "08 Zeffon - You Cannot See Anything That's Around My Gathered Sapphires",
+      "09 Zeffon - Shadowdoubt",
+      "10 Zeffon - Sleepiness 2 (Saturnine)",
+      "11 Zeffon - Supreme Mao Muzak / Century Egg 1 (Quaternary Proteins 1)",
+      "12 Zeffon - Bee Hive on the Move",
+      "13 Zeffon - Kick70",
+      "14 Zeffon - Killer Bees Come in Spr",
+      "15 Zeffon - More Power",
+      "16 Zeffon - Reflection on Violet Strata",
+      "17 Zeffon - Auram",
+      "18 Zeffon - Golden Pears",
+      "19 Zeffon - Gilded Phlox Over Coffee (State of Pants II).",
+      "20 Zeffon - Supreme Mao Muzak / Century Egg 2 (Quaternary Proteins 2)",
+      "21 Zeffon - Morning, Sunshine / Breakfast / Work (EMP Oxygen)",
+      "22 Zeffon - Astral/Lunar Plane Implications",
+      "23 Zeffon - Vox II",
+      "24 Zeffon - And Who Are You Meant to Be?"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/saturnine-autumn-xiii_c55354991373"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/ea2a1e472b5c36c41f3b/Saturnine_Autumn_XIII.tar"
+    }
+  }
+}
