@@ -1,0 +1,35 @@
+{
+  "id": "world-of-harm_b340cf11e8b5",
+  "fingerprint": "b340cf11e8b596b408662d4829ffa94ee14cf74e344548195e02422daef71887",
+  "archived_at": "2026-07-09T06:21:19Z",
+  "metadata": {
+    "title": "World of Harm",
+    "artist": "blue noise",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2093,
+    "duration_human": "00:34:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Blue Noise - Artifice",
+      "02 Blue Noise - What a Shame",
+      "03 Blue Noise - Haven't the Time",
+      "04 Blue Noise - Before God",
+      "05 Blue Noise - Thanks for Trying",
+      "06 Blue Noise - World of Harm",
+      "07 Blue Noise - World of Love",
+      "08 Blue Noise - Happens to Everyone",
+      "09 Blue Noise - Liturgy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/world-of-harm_b340cf11e8b5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/b6dc39cf8b86ccd37bc3/World_of_Harm.tar"
+    }
+  }
+}
