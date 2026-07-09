@@ -1,0 +1,41 @@
+{
+  "id": "witold-szalonek-connections_1cb502159083",
+  "fingerprint": "1cb502159083673e4ef79b166a0f3922bf537b028850798c17e49db0382b58a8",
+  "archived_at": "2026-07-09T18:59:15Z",
+  "metadata": {
+    "title": "Witold Szalonek: Connections",
+    "artist": "Ania Karpowicz",
+    "year": "2024",
+    "codec": "Opus",
+    "num_tracks": 15,
+    "duration_seconds": 5543,
+    "duration_human": "01:32:23",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 AUKSO Orkiestra Kameralna Miasta Tychy, Marek Moś - Toccata polyphonica per archi",
+      "02 Tomasz Konieczny, AUKSO Orkiestra Kameralna Miasta Tychy, Marek Moś - Pieśń jesienna. Nokturn",
+      "03 Urszula Kryger, AUKSO Orkiestra Kameralna Miasta Tychy, Marek Moś - Suita kurpiowska: I. Już się rozzidniwa",
+      "04 Urszula Kryger, AUKSO Orkiestra Kameralna Miasta Tychy, Marek Moś - Suita kurpiowska: II. W zielunym gaiku",
+      "05 Urszula Kryger, AUKSO Orkiestra Kameralna Miasta Tychy, Marek Moś - Suita kurpiowska: III. W kalinowym lasku",
+      "06 Urszula Kryger, AUKSO Orkiestra Kameralna Miasta Tychy, Marek Moś - Suita kurpiowska: IV. Wysła dziwcyna",
+      "07 Urszula Kryger, AUKSO Orkiestra Kameralna Miasta Tychy, Marek Moś - Suita kurpiowska: V. Cyrwunem siała",
+      "08 Joanna Freszel, Camerata Silesia, AUKSO Orkiestra Kameralna Miasta Tychy, Marek Moś - Wyznania: I",
+      "09 Joanna Freszel, Camerata Silesia, AUKSO Orkiestra Kameralna Miasta Tychy, Marek Moś - Wyznania: II",
+      "10 Joanna Freszel, Camerata Silesia, AUKSO Orkiestra Kameralna Miasta Tychy, Marek Moś - Wyznania: III",
+      "11 Ania Karpowicz, AUKSO Orkiestra Kameralna Miasta Tychy, Marek Moś - Concertino per flauto ed orchestra da camera: I",
+      "12 Ania Karpowicz, AUKSO Orkiestra Kameralna Miasta Tychy, Marek Moś - Concertino per flauto ed orchestra da camera: II",
+      "13 AUKSO Orkiestra Kameralna Miasta Tychy, Marek Moś - Connections",
+      "14 Maksymilian Lipień, AUKSO Orkiestra Kameralna Miasta Tychy, Marek Moś - L’hautbois mon amour: I",
+      "15 Maksymilian Lipień, AUKSO Orkiestra Kameralna Miasta Tychy, Marek Moś - L’hautbois mon amour: II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/witold-szalonek-connections_1cb502159083"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha13/839a6824981ad1670c72/Witold_Szalonek_Connections.tar"
+    }
+  }
+}
