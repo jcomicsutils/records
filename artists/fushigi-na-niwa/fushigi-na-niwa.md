@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [EARLY DAYS 2000-2019](early-days-2000-2019_adcf4a7d1ec4/early-days-2000-2019_adcf4a7d1ec4.md) | 2020 | FLAC | 01:13:58 | [IA](https://archive.org/details/early-days-2000-2019_adcf4a7d1ec4) [FileDitch](https://fileditchfiles.me/beta11/c8a3cbd85b410db7a987/EARLY_DAYS_2000-2019.tar) |
+| ["ヒソミネノガジュマルオロス"Live At hisomine"](hisominenogajiyumaruorosulive-at-hisomine_5b50b36b4c45/hisominenogajiyumaruorosulive-at-hisomine_5b50b36b4c45.md) | 2020 | FLAC | 03:31:25 | [IA](https://archive.org/details/hisominenogajiyumaruorosulive-at-hisomine_5b50b36b4c45) [FileDitch](https://fileditchfiles.me/beta11/4e5c9b1b149b45c2549a/Live_At_hisomine.tar) |
 | [R＆C](rc_973de9d12c70/rc_973de9d12c70.md) | 2020 | FLAC | 01:24:58 | [IA](https://archive.org/details/rc_973de9d12c70) [FileDitch](https://fileditchfiles.me/beta11/f44b37abd2a3fc5d00c0/R_C.tar) |
 | [Gig Me Please 〜録研炉尾瑠〜](gig-me-please-luyanluweiliu_1d2ecf5d24ef/gig-me-please-luyanluweiliu_1d2ecf5d24ef.md) | 2021 | FLAC | 00:56:46 | [IA](https://archive.org/details/gig-me-please-luyanluweiliu_1d2ecf5d24ef) [FileDitch](https://fileditchfiles.me/beta11/11fc4cf1c09fd08ff8d5/Gig_Me_Please.tar) |
 | [SLICE MAPETO JAMS２Remaster Ver](slice-mapeto-jams2remaster-ver_35a6e7420640/slice-mapeto-jams2remaster-ver_35a6e7420640.md) | 2021 | FLAC | 00:19:29 | [IA](https://archive.org/details/slice-mapeto-jams2remaster-ver_35a6e7420640) [FileDitch](https://fileditchfiles.me/beta11/f50a1884a0c9aa480d46/SLICE_MAPETO_JAMS_Remaster_Ver.tar) |

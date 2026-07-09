@@ -1,0 +1,35 @@
+{
+  "id": "hisominenogajiyumaruorosulive-at-hisomine_5b50b36b4c45",
+  "fingerprint": "5b50b36b4c455b87248bb924a37182f4a470b3e98a5f711bb67a59e559c21bc3",
+  "archived_at": "2026-07-09T03:44:02Z",
+  "metadata": {
+    "title": "\"ヒソミネノガジュマルオロス\"Live At hisomine\"",
+    "artist": "fushigi na niwa",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 12685,
+    "duration_human": "03:31:25",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - \"正々堂々日本刀で卑怯者を切り倒せる時代はやってこないものか\"",
+      "02 籠島雫 aka Mapeto - \"此処からまた闘い始めた\"",
+      "03 籠島雫 aka Mapeto - \"痛みの還る場所\"",
+      "04 籠島雫 aka Mapeto - \"Iいつも Dだって Mまた\"",
+      "05 籠島雫 aka Mapeto - Skit",
+      "06 籠島雫 aka Mapeto - \"唄右ノ歌 ?\"",
+      "07 籠島雫 aka Mapeto - \"天皇家の女と結婚させてください\"",
+      "08 籠島雫 aka Mapeto - \"治安の良い無言\"",
+      "09 籠島雫 aka Mapeto - \"連帯は蓮池の奥から誘うひとかけら\""
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hisominenogajiyumaruorosulive-at-hisomine_5b50b36b4c45"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/4e5c9b1b149b45c2549a/Live_At_hisomine.tar"
+    }
+  }
+}
