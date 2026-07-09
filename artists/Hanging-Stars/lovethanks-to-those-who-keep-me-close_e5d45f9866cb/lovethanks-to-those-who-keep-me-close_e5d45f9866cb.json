@@ -1,0 +1,27 @@
+{
+  "id": "lovethanks-to-those-who-keep-me-close_e5d45f9866cb",
+  "fingerprint": "e5d45f9866cb2b00cb69c559ec5f18c87e1237b03f3609e8e8c5975ab2f0a2cd",
+  "archived_at": "2026-07-09T19:15:09Z",
+  "metadata": {
+    "title": "Love&thanks to Those Who Keep Me Close.",
+    "artist": "Hanging Stars",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 924,
+    "duration_human": "00:15:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Hanging Stars - Love&thanks to Those Who Keep Me Close."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lovethanks-to-those-who-keep-me-close_e5d45f9866cb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha13/c02c69276016ae5dca93/Love_thanks_to_Those_Who_Keep_Me_Close.tar"
+    }
+  }
+}
