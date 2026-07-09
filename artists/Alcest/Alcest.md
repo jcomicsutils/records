@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Tristesse hivernale](tristesse-hivernale_230cf969bf81/tristesse-hivernale_230cf969bf81.md) | 2001 | FLAC | 00:21:27 | [IA](https://archive.org/details/tristesse-hivernale_230cf969bf81) [FileDitch](https://fileditchfiles.me/beta11/588a2ed683dfe17a512f/Tristesse_hivernale.tar) |
 | [Le secret](le-secret_9c11c95c6849/le-secret_9c11c95c6849.md) | 2005 | FLAC | 00:54:50 | [IA](https://archive.org/details/le-secret_9c11c95c6849) [FileDitch](https://fileditchfiles.me/beta11/89c1c241165244cbf7c1/Le_secret.tar) |
 | [Souvenirs d'un autre monde](souvenirs-dun-autre-monde_1cc01aed6fc4/souvenirs-dun-autre-monde_1cc01aed6fc4.md) | 2007 | FLAC | 00:41:22 | [IA](https://archive.org/details/souvenirs-dun-autre-monde_1cc01aed6fc4) [FileDitch](https://fileditchfiles.me/beta11/b5c292ef5b0e6eb9c993/Souvenirs_d_un_autre_monde.tar) |
 | [Les Discrets / Alcest](les-discrets-alcest_648b55f33177/les-discrets-alcest_648b55f33177.md) | 2009 | FLAC | 00:25:12 | [IA](https://archive.org/details/les-discrets-alcest_648b55f33177) [FileDitch](https://fileditchfiles.me/beta11/3e45744e1bd65651fb51/Les_Discrets_-_Alcest.tar) |

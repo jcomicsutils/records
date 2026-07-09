@@ -1,0 +1,30 @@
+{
+  "id": "tristesse-hivernale_230cf969bf81",
+  "fingerprint": "230cf969bf815a7fedcefe6fc755172abb2c05d55f82490f608855885fabf213",
+  "archived_at": "2026-07-09T04:02:40Z",
+  "metadata": {
+    "title": "Tristesse hivernale",
+    "artist": "Alcest",
+    "year": "2001",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1287,
+    "duration_human": "00:21:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Alcest - Tristesse hivernale",
+      "02 Alcest - La Forêt de cristal",
+      "03 Alcest - En mémoire aux valeureux guerriers",
+      "04 Alcest - La Mort plane sur ces contrées glacées"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tristesse-hivernale_230cf969bf81"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/588a2ed683dfe17a512f/Tristesse_hivernale.tar"
+    }
+  }
+}
