@@ -1,0 +1,36 @@
+{
+  "id": "everyone-goes-away-eventually_dc493cd1cd79",
+  "fingerprint": "dc493cd1cd792afe41c3f15cb42c91dfd5534582df3fdb2b6b1a526abab21597",
+  "archived_at": "2026-07-09T06:03:18Z",
+  "metadata": {
+    "title": "Everyone Goes Away Eventually",
+    "artist": "blue noise",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2317,
+    "duration_human": "00:38:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Blue Noise - Hapless",
+      "02 Blue Noise - What a Pity",
+      "03 Blue Noise - Take It Upon Yourself",
+      "04 Blue Noise - Sleight of Hand",
+      "05 Blue Noise - Regression",
+      "06 Blue Noise - Everyone Goes Away Eventually",
+      "07 Blue Noise - It Cannot Be Helped",
+      "08 Blue Noise - Drained",
+      "09 Blue Noise - Memory",
+      "10 Blue Noise - Return to Form"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/everyone-goes-away-eventually_dc493cd1cd79"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/112d80554d82bdf64df6/Everyone_Goes_Away_Eventually.tar"
+    }
+  }
+}
