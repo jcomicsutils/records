@@ -1,0 +1,28 @@
+{
+  "id": "hata-ranko_0e2937c57e58",
+  "fingerprint": "0e2937c57e5893b80e6a12aa90605639aedd316cdb8408c3079011ce37ff2196",
+  "archived_at": "2026-07-09T06:22:35Z",
+  "metadata": {
+    "title": "Hata Ranko",
+    "artist": "✩·͙*̩̩͙˚̩̥̩̥*̩̩̥͙ ✩*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙ ✩",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1190,
+    "duration_human": "00:19:50",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 ✩·͙*̩̩͙˚̩̥̩̥*̩̩̥͙ ✩*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙ ✩ - Hata Ranko",
+      "02 ✩·͙*̩̩͙˚̩̥̩̥*̩̩̥͙ ✩*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙ ✩ - Flood"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hata-ranko_0e2937c57e58"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/dc55751b432f526c7253/Hata_Ranko.tar"
+    }
+  }
+}
