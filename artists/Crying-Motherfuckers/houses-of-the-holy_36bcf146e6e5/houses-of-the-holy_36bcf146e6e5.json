@@ -1,0 +1,28 @@
+{
+  "id": "houses-of-the-holy_36bcf146e6e5",
+  "fingerprint": "36bcf146e6e5e41e980d913e4bc24847fdc7cafa466fa2593a43370e6076274d",
+  "archived_at": "2026-07-09T19:01:19Z",
+  "metadata": {
+    "title": "Houses of the Holy",
+    "artist": "Crying Motherfuckers",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1141,
+    "duration_human": "00:19:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Crying Motherfuckers - Receding Gun",
+      "02 Crying Motherfuckers - Star With No Wish"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/houses-of-the-holy_36bcf146e6e5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha13/ecdf17d6ab515c1ee2b4/Houses_of_the_Holy.tar"
+    }
+  }
+}
