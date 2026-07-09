@@ -1,0 +1,29 @@
+{
+  "id": "protection-acoustic-instrumental-version_29f1de8eed2d",
+  "fingerprint": "29f1de8eed2d96bece0f39b3306823ffd0a0356bf1772fa3b51a56dcf4819282",
+  "archived_at": "2026-07-09T02:07:36Z",
+  "metadata": {
+    "title": "Protection (Acoustic Instrumental Version)",
+    "artist": "Alcest",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1011,
+    "duration_human": "00:16:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Alcest, Ben Chisholm - Protection (Acoustic Instrumental Version)",
+      "02 Alcest, Ben Chisholm - Protection (Ben Chisholm Version)",
+      "03 Alcest, Ben Chisholm - Protection"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/protection-acoustic-instrumental-version_29f1de8eed2d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/6d36e6f8693fc802def9/Protection_Acoustic_Instrumental_Version.tar"
+    }
+  }
+}
