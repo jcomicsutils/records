@@ -1,0 +1,30 @@
+{
+  "id": "today-forever_7a73e27266f0",
+  "fingerprint": "7a73e27266f0b02266167c09308afcaff5a348f3c53f0342921118dd953ef2a7",
+  "archived_at": "2026-07-09T18:41:26Z",
+  "metadata": {
+    "title": "Today, Forever",
+    "artist": "✩·͙*̩̩͙˚̩̥̩̥*̩̩̥͙ ✩*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙ ✩",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3237,
+    "duration_human": "00:53:57",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 ✩·͙*̩̩͙˚̩̥̩̥*̩̩̥͙ ✩*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙ ✩ - I Long for Days Where I Feel Safe. Though It Seems So Far, I Can't Help but Keep Hoping",
+      "02 ✩·͙*̩̩͙˚̩̥̩̥*̩̩̥͙ ✩*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙ ✩ - Despite Everything, You're Still Here, and I Regret Ever Letting You Into My Life",
+      "03 Silk Fingers - Outside, by Your Doorstep. I'll Be Waiting for You to Come Down",
+      "04 Silk Fingers - Snow Pillows"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/today-forever_7a73e27266f0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha13/bae7e99e975c1278ddf8/Today_Forever.tar"
+    }
+  }
+}
