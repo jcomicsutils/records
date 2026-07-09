@@ -1,0 +1,30 @@
+{
+  "id": "kill-me_b371bd339af3",
+  "fingerprint": "b371bd339af34fb32c8daff27920a7f622dd50a943bb5d17955ca1c913e5cf50",
+  "archived_at": "2026-07-09T18:18:01Z",
+  "metadata": {
+    "title": "Kill Me",
+    "artist": "✩·͙*̩̩͙˚̩̥̩̥*̩̩̥͙ ✩*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙ ✩",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 5233,
+    "duration_human": "01:27:13",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 ✩·͙*̩̩͙˚̩̥̩̥*̩̩̥͙ ✩*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙ ✩ - 1",
+      "02 ✩·͙*̩̩͙˚̩̥̩̥*̩̩̥͙ ✩*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙ ✩ - 2",
+      "03 ✩·͙*̩̩͙˚̩̥̩̥*̩̩̥͙ ✩*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙ ✩ - 3",
+      "04 ✩·͙*̩̩͙˚̩̥̩̥*̩̩̥͙ ✩*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙ ✩ - 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kill-me_b371bd339af3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha13/d6713751b048f862aacc/Kill_Me.tar"
+    }
+  }
+}
