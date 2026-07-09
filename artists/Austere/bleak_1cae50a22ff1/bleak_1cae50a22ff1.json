@@ -1,0 +1,29 @@
+{
+  "id": "bleak_1cae50a22ff1",
+  "fingerprint": "1cae50a22ff1e891c13c61074c4ba768cbf3b4abff757990cf1eb3fe78db5944",
+  "archived_at": "2026-07-09T23:19:15Z",
+  "metadata": {
+    "title": "Bleak...",
+    "artist": "Austere",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1762,
+    "duration_human": "00:29:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Austere - When Even Tomorrow Looks Away",
+      "02 Austere - Instrumental",
+      "03 Austere - There's Nothing Left"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bleak_1cae50a22ff1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha13/4632b45099a6a0b834c4/Bleak.tar"
+    }
+  }
+}
