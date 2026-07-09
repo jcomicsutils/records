@@ -1,0 +1,27 @@
+{
+  "id": "sapphire-perturbator-version_c4de5c94445a",
+  "fingerprint": "c4de5c94445a27aa4f930d1b405c8e3365caccd951675a81a040b1c787b8a402",
+  "archived_at": "2026-07-09T02:35:03Z",
+  "metadata": {
+    "title": "Sapphire (Perturbator Version)",
+    "artist": "Alcest",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 300,
+    "duration_human": "00:05:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Alcest, Perturbator - Sapphire (Perturbator Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sapphire-perturbator-version_c4de5c94445a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/12c985fa53579b267882/Sapphire_Perturbator_Version.tar"
+    }
+  }
+}
