@@ -1,0 +1,28 @@
+{
+  "id": "only-the-wind-remembers_15fabd41f43d",
+  "fingerprint": "15fabd41f43d9e8b5f46aca63b5365f0942a1e75524291419c8a17370f1e4594",
+  "archived_at": "2026-07-09T23:32:30Z",
+  "metadata": {
+    "title": "Only the Wind Remembers",
+    "artist": "Austere",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1501,
+    "duration_human": "00:25:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Austere - Towards the Great Unknown",
+      "02 Austere - Only the Wind Remembers"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/only-the-wind-remembers_15fabd41f43d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha13/177209888e420b269467/Only_the_Wind_Remembers.tar"
+    }
+  }
+}
