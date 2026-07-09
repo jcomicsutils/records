@@ -1,0 +1,28 @@
+{
+  "id": "fragmenter-202023_7758b2a6e78e",
+  "fingerprint": "7758b2a6e78e94c24f114f0eade2f29729394eed8a4d40ed77f3cdd881c2cd3e",
+  "archived_at": "2026-07-09T05:41:48Z",
+  "metadata": {
+    "title": "Fragmenter 2020/23",
+    "artist": "Clinical trails",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3592,
+    "duration_human": "00:59:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Clinical Trails - A",
+      "02 Clinical Trails - B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fragmenter-202023_7758b2a6e78e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/839f33b58de57bedf762/Fragmenter_2020_-_23.tar"
+    }
+  }
+}
