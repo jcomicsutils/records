@@ -1,0 +1,31 @@
+{
+  "id": "les-discrets-alcest_648b55f33177",
+  "fingerprint": "648b55f331770a5321f69336dc9c1f78e007e4111dc9da03f7afcb0d632c96ec",
+  "archived_at": "2026-07-09T01:17:01Z",
+  "metadata": {
+    "title": "Les Discrets / Alcest",
+    "artist": "Alcest",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1512,
+    "duration_human": "00:25:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Les Discrets - L'échappée",
+      "02 Les Discrets - Après L'ombre",
+      "03 Les Discrets - Song for Mountains (Demo)",
+      "04 Alcest - Percées de lumière",
+      "05 Alcest - Circe Poisoning the Sea"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/les-discrets-alcest_648b55f33177"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/3e45744e1bd65651fb51/Les_Discrets_-_Alcest.tar"
+    }
+  }
+}
