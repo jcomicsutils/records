@@ -1,0 +1,35 @@
+{
+  "id": "shelter-deluxe-edition_c61ea82dd99d",
+  "fingerprint": "c61ea82dd99dc1873f623f4aaaf004ef0e7e5ca78f4c283d750707f40ab67cf0",
+  "archived_at": "2026-07-09T02:52:12Z",
+  "metadata": {
+    "title": "Shelter (Deluxe Edition)",
+    "artist": "Alcest",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3126,
+    "duration_human": "00:52:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Alcest - Wings",
+      "02 Alcest - Opale",
+      "03 Alcest - La nuit marche avec moi",
+      "04 Alcest - Voix sereines",
+      "05 Alcest - L'eveil des muses",
+      "06 Alcest - Shelter",
+      "07 Alcest - Away",
+      "08 Alcest - Délivrance",
+      "09 Alcest - Into the Waves"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/shelter-deluxe-edition_c61ea82dd99d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/beta11/47c237afb8c196ae1ff8/Shelter_Deluxe_Edition.tar"
+    }
+  }
+}
