@@ -1,0 +1,31 @@
+{
+  "id": "syrenare_f47bd72badf9",
+  "fingerprint": "f47bd72badf988e2077f2cd521c9f044202e8e80539aa9cf217e5c7b745ad1f6",
+  "archived_at": "2026-07-09T18:54:08Z",
+  "metadata": {
+    "title": "Syrena:Re",
+    "artist": "Ania Karpowicz",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3091,
+    "duration_human": "00:51:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Ania Karpowicz & Dominik Strycharski - Ribono",
+      "02 Ania Karpowicz & Dominik Strycharski - Lejl",
+      "03 Ania Karpowicz & Dominik Strycharski - Drejdl",
+      "04 Ania Karpowicz & Dominik Strycharski - Devarim",
+      "05 Ania Karpowicz & Dominik Strycharski - Ohn"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/syrenare_f47bd72badf9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha13/ab074732b6f69060a35c/SyrenaRe.tar"
+    }
+  }
+}
