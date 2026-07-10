@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/shengkiteguittekoi-live-archives-vol2-linghenozaomentanzhilang_3aed9b858ae2)
+- [FileDitch](https://fileditchfiles.st/beta12/e1b71350e64d403247b7/Live_Archives_Vol2.tar)
 
 ## Tracklist
 
