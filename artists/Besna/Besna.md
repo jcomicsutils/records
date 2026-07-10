@@ -7,3 +7,4 @@
 | [Krásno](krasno_671bcd6e3b5e/krasno_671bcd6e3b5e.md) | 2024 | FLAC | 00:04:54 | [IA](https://archive.org/details/krasno_671bcd6e3b5e) [FileDitch](https://fileditchfiles.st/beta12/947de7a782a23f07c405/Kr_sno_2024.tar) |
 | [Hranice](hranice_c67eb268c528/hranice_c67eb268c528.md) | 2024 | FLAC | 00:08:08 | [IA](https://archive.org/details/hranice_c67eb268c528) [FileDitch](https://fileditchfiles.st/beta12/a5dbeb0fe36c58d36705/Hranice.tar) |
 | [Krásno](krasno_35712d18fae9/krasno_35712d18fae9.md) | 2025 | FLAC | 00:30:41 | [IA](https://archive.org/details/krasno_35712d18fae9) [FileDitch](https://fileditchfiles.st/beta12/79cd40273b5a106ecb76/Kr_sno_2025.tar) |
+| [Live at Brutal Assault](live-at-brutal-assault_df365e1ed616/live-at-brutal-assault_df365e1ed616.md) | 2026 | FLAC | 00:30:21 | [IA](https://archive.org/details/live-at-brutal-assault_df365e1ed616) [FileDitch](https://fileditchfiles.st/beta12/323aae2eb2e328b99b91/Live_at_Brutal_Assault.tar) |

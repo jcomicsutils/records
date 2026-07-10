@@ -1,0 +1,31 @@
+{
+  "id": "live-at-brutal-assault_df365e1ed616",
+  "fingerprint": "df365e1ed616d90d543e6cb70687eed8b894d41c5efc62200a9760f4e51ecaa2",
+  "archived_at": "2026-07-10T04:00:46Z",
+  "metadata": {
+    "title": "Live at Brutal Assault",
+    "artist": "Besna",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1821,
+    "duration_human": "00:30:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Besna - Oceán Prachu / Bezhviezdna Obloha (Live at Brutal Assault 2025)",
+      "02 Besna - Revúca (Live at Brutal Assault 2025)",
+      "03 Besna - Hranice (Live at Brutal Assault 2025)",
+      "04 Besna - Krásno (Live at Brutal Assault 2025)",
+      "05 Besna - Zverstvá (Live at Brutal Assault 2025)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-at-brutal-assault_df365e1ed616"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/323aae2eb2e328b99b91/Live_at_Brutal_Assault.tar"
+    }
+  }
+}
