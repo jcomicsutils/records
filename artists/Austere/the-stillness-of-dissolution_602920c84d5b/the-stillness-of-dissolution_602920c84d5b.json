@@ -1,0 +1,32 @@
+{
+  "id": "the-stillness-of-dissolution_602920c84d5b",
+  "fingerprint": "602920c84d5b7f5b655a1c42795fb939dfe463914ba93a7c5c5b97a22c2fd100",
+  "archived_at": "2026-07-10T00:24:17Z",
+  "metadata": {
+    "title": "The Stillness of Dissolution",
+    "artist": "Austere",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2623,
+    "duration_human": "00:43:43",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Austere - Dissolved Exile",
+      "02 Austere - Time Awry",
+      "03 Austere - Redolent Foulness",
+      "04 Austere - The Downfall",
+      "05 Austere - Rusted Veins",
+      "06 Austere - Storm Within My Heart"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-stillness-of-dissolution_602920c84d5b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha13/7b08e9c405e1543194e6/The_Stillness_of_Dissolution.tar"
+    }
+  }
+}
