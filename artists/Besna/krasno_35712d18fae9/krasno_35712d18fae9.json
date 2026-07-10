@@ -1,0 +1,33 @@
+{
+  "id": "krasno_35712d18fae9",
+  "fingerprint": "35712d18fae9b0abbaf5a3eb8e66dd0e3d9baad5804dcb35d043200cd056382b",
+  "archived_at": "2026-07-10T03:40:35Z",
+  "metadata": {
+    "title": "Krásno",
+    "artist": "Besna",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1841,
+    "duration_human": "00:30:41",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Besna - Zmráka Sa",
+      "02 Besna - Krásno",
+      "03 Besna - Hranice",
+      "04 Besna - Oceán Prachu",
+      "05 Besna - Bezhviezdna Obloha",
+      "06 Besna - Paracelsus",
+      "07 Besna - Mesto Spí"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/krasno_35712d18fae9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/79cd40273b5a106ecb76/Kr_sno_2025.tar"
+    }
+  }
+}
