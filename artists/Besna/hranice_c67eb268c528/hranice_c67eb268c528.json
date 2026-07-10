@@ -20,6 +20,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/hranice_c67eb268c528"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/a5dbeb0fe36c58d36705/Hranice.tar"
     }
   }
 }

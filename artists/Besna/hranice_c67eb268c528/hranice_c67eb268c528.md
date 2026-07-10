@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/hranice_c67eb268c528)
+- [FileDitch](https://fileditchfiles.st/beta12/a5dbeb0fe36c58d36705/Hranice.tar)
 
 ## Tracklist
 
