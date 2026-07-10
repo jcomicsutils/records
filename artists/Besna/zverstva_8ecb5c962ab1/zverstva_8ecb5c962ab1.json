@@ -1,0 +1,27 @@
+{
+  "id": "zverstva_8ecb5c962ab1",
+  "fingerprint": "8ecb5c962ab1d93246b70e829159031e7c3b2525300794af1925ce54a1200641",
+  "archived_at": "2026-07-10T04:16:30Z",
+  "metadata": {
+    "title": "Zverstvá",
+    "artist": "Besna",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 322,
+    "duration_human": "00:05:22",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Besna - Zverstvá"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zverstva_8ecb5c962ab1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/eb48eed934c1da212973/Zverstv_2022_1.tar"
+    }
+  }
+}
