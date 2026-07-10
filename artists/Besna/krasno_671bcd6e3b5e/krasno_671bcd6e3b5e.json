@@ -1,0 +1,27 @@
+{
+  "id": "krasno_671bcd6e3b5e",
+  "fingerprint": "671bcd6e3b5e38d0ec956a59f0faf9b9eda54073139bebcfb6cf3b0df2d86d26",
+  "archived_at": "2026-07-10T03:03:41Z",
+  "metadata": {
+    "title": "Krásno",
+    "artist": "Besna",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 294,
+    "duration_human": "00:04:54",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Besna, Jakub Tirčo - Krásno"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/krasno_671bcd6e3b5e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/947de7a782a23f07c405/Kr_sno_2024.tar"
+    }
+  }
+}
