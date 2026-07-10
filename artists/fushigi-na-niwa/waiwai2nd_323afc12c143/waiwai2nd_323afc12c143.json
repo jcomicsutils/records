@@ -1,0 +1,36 @@
+{
+  "id": "waiwai2nd_323afc12c143",
+  "fingerprint": "323afc12c1431b36066838b5f59fb517ce4da54284296cc35036f8a04ecd4c8a",
+  "archived_at": "2026-07-10T00:30:23Z",
+  "metadata": {
+    "title": "歪歪2nd",
+    "artist": "fushigi na niwa",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2230,
+    "duration_human": "00:37:10",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 歪歪 - Intro",
+      "02 歪歪 - 歪歪の生きているって言ってみろ",
+      "03 歪歪 - Like Richard",
+      "04 歪歪 - 見る前に飛ぶぞ！",
+      "05 歪歪 - 見る前に飛ぶぞ！Part2",
+      "06 歪歪 - 空っぽの世界",
+      "07 歪歪 - 18歳 歪歪 Ver",
+      "08 歪歪 - 雫 歪歪 Ver",
+      "09 歪歪 - マリアンヌ",
+      "10 歪歪 - improvisation"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/waiwai2nd_323afc12c143"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha13/ab92554f94824e5ec162/2nd.tar"
+    }
+  }
+}
