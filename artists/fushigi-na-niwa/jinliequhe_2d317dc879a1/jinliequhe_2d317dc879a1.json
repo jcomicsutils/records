@@ -1,0 +1,32 @@
+{
+  "id": "jinliequhe_2d317dc879a1",
+  "fingerprint": "2d317dc879a17ccf86ec8e920bee11094c24fd5ff8edfd9ed9f62f0cfa60ec6b",
+  "archived_at": "2026-07-10T23:46:37Z",
+  "metadata": {
+    "title": "禁猟区へ",
+    "artist": "fushigi na niwa",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 4732,
+    "duration_human": "01:18:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 籠島雫 aka Mapeto - 禁猟区へ",
+      "02 籠島雫 aka Mapeto - 鬼狩Dub",
+      "03 籠島雫 aka Mapeto - 全国なめんなよMEGAMIX",
+      "04 籠島雫 aka Mapeto - 漆國叫平",
+      "05 籠島雫 aka Mapeto - 白虹一鬱",
+      "06 籠島雫 aka Mapeto - 深層意識"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/jinliequhe_2d317dc879a1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/e93aa303a56ec2905242/%E7%A6%81%E7%8C%9F%E5%8C%BA%E3%81%B8.tar"
+    }
+  }
+}
