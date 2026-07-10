@@ -1,0 +1,32 @@
+{
+  "id": "zverstva_6018c9ecc7e5",
+  "fingerprint": "6018c9ecc7e57143e74c851422d56a4ccae7ae3b7f9293df4dd571c05f079ff9",
+  "archived_at": "2026-07-10T05:00:29Z",
+  "metadata": {
+    "title": "Zverstvá",
+    "artist": "Besna",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2514,
+    "duration_human": "00:41:54",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Besna - Ľadovec",
+      "02 Besna - Zverstvá",
+      "03 Besna - Fúga",
+      "04 Besna - Margita",
+      "05 Besna - Revúca",
+      "06 Besna - Spev Drozda"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zverstva_6018c9ecc7e5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/1d31bc59ba61f4c41565/Zverstv_2022_2.tar"
+    }
+  }
+}
