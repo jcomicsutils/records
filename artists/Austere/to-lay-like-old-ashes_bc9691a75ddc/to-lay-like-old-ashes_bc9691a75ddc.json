@@ -1,0 +1,32 @@
+{
+  "id": "to-lay-like-old-ashes_bc9691a75ddc",
+  "fingerprint": "bc9691a75ddc85e43bcaf386d2a2dea54b0524505db85fcf781132802ead60ac",
+  "archived_at": "2026-07-10T01:18:32Z",
+  "metadata": {
+    "title": "To Lay Like Old Ashes",
+    "artist": "Austere",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3274,
+    "duration_human": "00:54:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Austere - Down",
+      "02 Austere - To Fade With the Dusk",
+      "03 Austere - This Dreadful Emptiness",
+      "04 Austere - To Lay Like Old Ashes",
+      "05 Austere - Just for a Moment",
+      "06 Austere - Coma II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/to-lay-like-old-ashes_bc9691a75ddc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha13/e29ac788353fceae3418/To_Lay_Like_Old_Ashes.tar"
+    }
+  }
+}
