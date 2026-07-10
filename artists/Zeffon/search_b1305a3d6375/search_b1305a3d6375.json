@@ -1,0 +1,30 @@
+{
+  "id": "search_b1305a3d6375",
+  "fingerprint": "b1305a3d6375fca3e80d5c0b998bfce986d756828dcdcef9730d28a3b76c2a7a",
+  "archived_at": "2026-07-10T06:43:45Z",
+  "metadata": {
+    "title": "Search",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 879,
+    "duration_human": "00:14:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Introduction",
+      "02 Zeffon - Mysterious Disappearance",
+      "03 Zeffon - Putrid Crater Depths",
+      "04 Zeffon - Dream Path"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/search_b1305a3d6375"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/7c30936e9a7530f4c246/Search.tar"
+    }
+  }
+}
