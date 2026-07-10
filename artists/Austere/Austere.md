@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Withering Illusions and Desolation](withering-illusions-and-desolation_f92cf3283442/withering-illusions-and-desolation_f92cf3283442.md) | 2007 | FLAC | 00:56:23 | [IA](https://archive.org/details/withering-illusions-and-desolation_f92cf3283442) [FileDitch](https://fileditchfiles.st/beta12/034541a0ede625ca9015/Withering_Illusions_and_Desolation.tar) |
 | [Only the Wind Remembers](only-the-wind-remembers_15fabd41f43d/only-the-wind-remembers_15fabd41f43d.md) | 2008 | FLAC | 00:25:01 | [IA](https://archive.org/details/only-the-wind-remembers_15fabd41f43d) [FileDitch](https://fileditchfiles.st/alpha13/177209888e420b269467/Only_the_Wind_Remembers.tar) |
 | [Bleak...](bleak_1cae50a22ff1/bleak_1cae50a22ff1.md) | 2008 | FLAC | 00:29:22 | [IA](https://archive.org/details/bleak_1cae50a22ff1) [FileDitch](https://fileditchfiles.st/alpha13/4632b45099a6a0b834c4/Bleak.tar) |
 | [To Lay Like Old Ashes](to-lay-like-old-ashes_bc9691a75ddc/to-lay-like-old-ashes_bc9691a75ddc.md) | 2009 | FLAC | 00:54:34 | [IA](https://archive.org/details/to-lay-like-old-ashes_bc9691a75ddc) [FileDitch](https://fileditchfiles.st/alpha13/e29ac788353fceae3418/To_Lay_Like_Old_Ashes.tar) |
