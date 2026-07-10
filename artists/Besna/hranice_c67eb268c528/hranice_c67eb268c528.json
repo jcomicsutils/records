@@ -1,0 +1,25 @@
+{
+  "id": "hranice_c67eb268c528",
+  "fingerprint": "c67eb268c528f7bb8adc9c55a99f6c552fdefadea76983ceb91e0ed5a0af5448",
+  "archived_at": "2026-07-10T02:51:12Z",
+  "metadata": {
+    "title": "Hranice",
+    "artist": "Besna",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 488,
+    "duration_human": "00:08:08",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Besna - Hranice",
+      "02 Besna - Krásno"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hranice_c67eb268c528"
+    }
+  }
+}

@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/shengkiteiruzheng_0a95d4feeda5)
+- [FileDitch](https://fileditchfiles.st/beta12/036caa8c4527bec32fd2/%E7%94%9F%E3%81%8D%E3%81%A6%E3%81%84%E3%82%8B%E8%A8%BC.tar)
 
 ## Tracklist
 
