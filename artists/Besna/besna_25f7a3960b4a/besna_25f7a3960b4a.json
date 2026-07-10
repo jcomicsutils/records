@@ -1,0 +1,29 @@
+{
+  "id": "besna_25f7a3960b4a",
+  "fingerprint": "25f7a3960b4a1779b48079fe99a07779a1cbc3f9858bb5ce0bda622faec4b862",
+  "archived_at": "2026-07-10T02:46:03Z",
+  "metadata": {
+    "title": "Besna",
+    "artist": "Besna",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1629,
+    "duration_human": "00:27:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Besna - Prastará",
+      "02 Besna - Morena",
+      "03 Besna - Beštia"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/besna_25f7a3960b4a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/06fd447991cc13255170/Besna.tar"
+    }
+  }
+}
