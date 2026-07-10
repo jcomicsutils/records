@@ -1,0 +1,30 @@
+{
+  "id": "magisterial-romance_676d3245b6b2",
+  "fingerprint": "676d3245b6b2f2a4d172f670bb451cd2d0b9e01dd137441297787f1d1ddff192",
+  "archived_at": "2026-07-10T06:25:23Z",
+  "metadata": {
+    "title": "Magisterial Romance",
+    "artist": "Constellatia",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2329,
+    "duration_human": "00:38:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Constellatia - Palace",
+      "02 Constellatia - In Vituperation",
+      "03 Constellatia - Adorn",
+      "04 Constellatia - Paean Emerging"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/magisterial-romance_676d3245b6b2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/cd3a840b55ecca74d418/Magisterial_Romance.tar"
+    }
+  }
+}
