@@ -1,0 +1,27 @@
+{
+  "id": "revuca_f49ef74793d2",
+  "fingerprint": "f49ef74793d26791fa9985bc2657f4ba0995f091ac0914fdf04ec8e0af091a38",
+  "archived_at": "2026-07-10T04:05:14Z",
+  "metadata": {
+    "title": "Revúca",
+    "artist": "Besna",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 387,
+    "duration_human": "00:06:27",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Besna - Revúca"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/revuca_f49ef74793d2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/2767fdddd85de0e50610/Rev_ca.tar"
+    }
+  }
+}
