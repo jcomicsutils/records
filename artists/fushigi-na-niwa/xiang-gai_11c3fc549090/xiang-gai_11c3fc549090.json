@@ -1,0 +1,34 @@
+{
+  "id": "xiang-gai_11c3fc549090",
+  "fingerprint": "11c3fc549090e2e84dd1b1c7b1a87cc5f2db81582d91ebe7e599dcf8da66fe19",
+  "archived_at": "2026-07-10T23:51:06Z",
+  "metadata": {
+    "title": "箱 改",
+    "artist": "fushigi na niwa",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 622,
+    "duration_human": "00:10:22",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 故やす子 - 烈火",
+      "02 故やす子 - 寝惚け feat. You're Wrong",
+      "03 故やす子 - 未だ明かされざる暦 still unrevealed almanac feat. AmericanBadBoy",
+      "04 故やす子 - 赤い目 feat.キヅミタ",
+      "05 故やす子 - てる",
+      "06 故やす子 - 真っ赤な嘘 feat. You're Wrong.",
+      "07 故やす子 - トーイツ感で勝負 total or pair feat. AmericanBadBoy",
+      "08 故やす子 - 背理"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xiang-gai_11c3fc549090"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/24d8255176a72948f9ed/%E7%AE%B1_%E6%94%B9.tar"
+    }
+  }
+}
