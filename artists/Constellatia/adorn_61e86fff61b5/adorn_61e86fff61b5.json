@@ -1,0 +1,27 @@
+{
+  "id": "adorn_61e86fff61b5",
+  "fingerprint": "61e86fff61b55c19d118d361bca955f01b49705fcbc053d14a089c87f927a11b",
+  "archived_at": "2026-07-10T05:23:57Z",
+  "metadata": {
+    "title": "Adorn",
+    "artist": "Constellatia",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 606,
+    "duration_human": "00:10:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Constellatia - Adorn"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/adorn_61e86fff61b5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/516b00539f2d77d0889c/Adorn.tar"
+    }
+  }
+}
