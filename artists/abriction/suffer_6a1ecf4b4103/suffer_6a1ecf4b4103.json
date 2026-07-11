@@ -1,0 +1,28 @@
+{
+  "id": "suffer_6a1ecf4b4103",
+  "fingerprint": "6a1ecf4b4103e762ee25c3d1758e0a846caf90c36bfbe897820a592b5f773392",
+  "archived_at": "2026-07-11T16:57:42Z",
+  "metadata": {
+    "title": "suffer",
+    "artist": "abriction",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 331,
+    "duration_human": "00:05:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Abriction - suffer",
+      "02 Abriction - in your arms i'm a child"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/suffer_6a1ecf4b4103"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/9c3ab02e2267a8db96de/suffer.tar"
+    }
+  }
+}
