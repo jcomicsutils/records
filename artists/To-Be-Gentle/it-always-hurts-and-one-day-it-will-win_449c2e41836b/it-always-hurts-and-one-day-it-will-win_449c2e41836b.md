@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/it-always-hurts-and-one-day-it-will-win_449c2e41836b)
+- [FileDitch](https://fileditchfiles.st/beta12/03d9825804229810562e/It_Always_Hurts_and_One_Day_It_Will_Win.tar)
 
 ## Tracklist
 
