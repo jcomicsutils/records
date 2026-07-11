@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/banshee_b567ffbe71ce)
+- [FileDitch](https://fileditchfiles.st/beta12/d679db8b94c0d5f73822/Banshee.tar)
 
 ## Tracklist
 
