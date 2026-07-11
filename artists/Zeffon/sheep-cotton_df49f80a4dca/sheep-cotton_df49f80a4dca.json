@@ -1,0 +1,27 @@
+{
+  "id": "sheep-cotton_df49f80a4dca",
+  "fingerprint": "df49f80a4dca3d72a258afed255aed0bcbc7dd6f478e1fcf18502ca0a33aba8e",
+  "archived_at": "2026-07-11T16:11:29Z",
+  "metadata": {
+    "title": "Sheep Cotton?",
+    "artist": "Zeffon",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1783,
+    "duration_human": "00:29:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Yearning for My Friend in Love"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sheep-cotton_df49f80a4dca"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/5605b2f69afc4f87890f/Sheep_Cotton.tar"
+    }
+  }
+}
