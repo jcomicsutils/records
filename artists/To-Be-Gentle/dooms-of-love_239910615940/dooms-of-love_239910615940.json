@@ -1,0 +1,31 @@
+{
+  "id": "dooms-of-love_239910615940",
+  "fingerprint": "239910615940ecc009c331fc4e5576b419327a30c99486fd86b9f317ffb69ba7",
+  "archived_at": "2026-07-11T21:09:11Z",
+  "metadata": {
+    "title": "Dooms of Love",
+    "artist": "To Be Gentle",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1347,
+    "duration_human": "00:22:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - Exhale",
+      "02 To Be Gentle - Splintered",
+      "03 To Be Gentle - Inseperable",
+      "04 To Be Gentle - Absence",
+      "05 To Be Gentle - Inner Child"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dooms-of-love_239910615940"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/6fc0b234b5086ed53315/Dooms_of_Love.tar"
+    }
+  }
+}
