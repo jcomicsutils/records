@@ -1,0 +1,33 @@
+{
+  "id": "aural-trauma-and-anti-sound-remastered_9a8cc9ac8ddd",
+  "fingerprint": "9a8cc9ac8ddd8192d7765c8a0c92131d2414a4a3a58404d0a6373e3e4acfe52a",
+  "archived_at": "2026-07-11T18:40:47Z",
+  "metadata": {
+    "title": "Aural Trauma and Anti-Sound (Remastered)",
+    "artist": "To Be Gentle",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2299,
+    "duration_human": "00:38:19",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - Her Breath on Glass",
+      "02 To Be Gentle - A Gentle, but Agonizing Reminder",
+      "03 To Be Gentle - Vampyr",
+      "04 To Be Gentle - Sometimes",
+      "05 To Be Gentle - I Don't Want to Be Here Anymore",
+      "06 To Be Gentle - He is Never Coming Back",
+      "07 To Be Gentle - Leaving Songs"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/aural-trauma-and-anti-sound-remastered_9a8cc9ac8ddd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/b6d8e64332f1c6dfb4eb/Aural_Trauma_and_Anti-Sound_Remastered.tar"
+    }
+  }
+}
