@@ -1,0 +1,33 @@
+{
+  "id": "mechanical-friends-remastered_33ae6ccf7d0a",
+  "fingerprint": "33ae6ccf7d0abc65b8181dfd898178c2481806f303a0702c15c6a8e9fdbb0f85",
+  "archived_at": "2026-07-11T19:03:22Z",
+  "metadata": {
+    "title": "Mechanical Friends (Remastered)",
+    "artist": "Sugar Wounds",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1640,
+    "duration_human": "00:27:20",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sugar Wounds - Clumsiness Smile (Remastered)",
+      "02 Sugar Wounds - Glitter Rained Down From The Elevated Ceiling (Remastered)",
+      "03 Sugar Wounds - Mechanical Friends (Remastered)",
+      "04 Sugar Wounds - Sparkling Nightlife (Remastered)",
+      "05 Sugar Wounds - City Snow Sleep (Remastered)",
+      "06 Sugar Wounds - Hit It! Drum Machine-san!! (Remastered)",
+      "07 Sugar Wounds - I'm Going to Leave You Now with Images of Bread (Remastered)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mechanical-friends-remastered_33ae6ccf7d0a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/5be67f0ebcc6b7b9504e/Mechanical_Friends_Remastered.tar"
+    }
+  }
+}
