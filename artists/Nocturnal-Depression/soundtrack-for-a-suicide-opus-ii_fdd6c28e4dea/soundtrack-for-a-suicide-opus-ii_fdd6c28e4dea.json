@@ -1,0 +1,31 @@
+{
+  "id": "soundtrack-for-a-suicide-opus-ii_fdd6c28e4dea",
+  "fingerprint": "fdd6c28e4dea9ed6ac139f3361d3d10b12e8ca9ae516fd546596f7c626fd4710",
+  "archived_at": "2026-07-11T23:45:20Z",
+  "metadata": {
+    "title": "Soundtrack for a Suicide: Opus II",
+    "artist": "Nocturnal Depression",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3594,
+    "duration_human": "00:59:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nocturnal Depression - Anthem to Self-Destruction",
+      "02 Nocturnal Depression - The Stars Lightening My Path",
+      "03 Nocturnal Depression - Intermezzo",
+      "04 Nocturnal Depression - Join Me With Suicide",
+      "05 Nocturnal Depression - Hear My Voice... Kill Yourself"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/soundtrack-for-a-suicide-opus-ii_fdd6c28e4dea"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/c7471c891632d322cb53/Soundtrack_for_a_Suicide_Opus_II.tar"
+    }
+  }
+}
