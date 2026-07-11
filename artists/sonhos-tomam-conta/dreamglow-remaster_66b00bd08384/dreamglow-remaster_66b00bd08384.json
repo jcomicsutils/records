@@ -1,0 +1,33 @@
+{
+  "id": "dreamglow-remaster_66b00bd08384",
+  "fingerprint": "66b00bd0838468c4c2ff3ab9c0f3849858aae31b081fd55f268cf55014ca39a2",
+  "archived_at": "2026-07-11T16:08:34Z",
+  "metadata": {
+    "title": "Dreamglow (remaster)",
+    "artist": "sonhos tomam conta",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2293,
+    "duration_human": "00:38:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Asian Glow, sonhos tomam conta - voices in delirium",
+      "02 Asian Glow, sonhos tomam conta - amber mural",
+      "03 Asian Glow, sonhos tomam conta - hangthemall",
+      "04 Asian Glow, sonhos tomam conta - perfect discarnate",
+      "05 Asian Glow, sonhos tomam conta - whispering a desolate grave",
+      "06 Asian Glow, sonhos tomam conta - synesthesic chromatism",
+      "07 Asian Glow, sonhos tomam conta - desencontros"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dreamglow-remaster_66b00bd08384"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/6a07bec16387e0bea5c3/Dreamglow_remaster.tar"
+    }
+  }
+}

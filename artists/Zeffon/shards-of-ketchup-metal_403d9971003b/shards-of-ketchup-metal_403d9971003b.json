@@ -1,0 +1,28 @@
+{
+  "id": "shards-of-ketchup-metal_403d9971003b",
+  "fingerprint": "403d9971003bb217cc80a9445cc2eaef12d7319dc08d5ff16decf7d7555ba50e",
+  "archived_at": "2026-07-11T16:08:50Z",
+  "metadata": {
+    "title": "Shards of Ketchup Metal",
+    "artist": "Zeffon",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 6055,
+    "duration_human": "01:40:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Metal Vacuum",
+      "02 Zeffon - Shards of Ketchup Metal",
+      "03 Zeffon - To Be Stunted",
+      "04 Zeffon - Kiko",
+      "05 Zeffon - Stranglehold"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/shards-of-ketchup-metal_403d9971003b"
+    }
+  }
+}
