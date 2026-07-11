@@ -1,0 +1,27 @@
+{
+  "id": "shorelines-i_979f0ac2adf4",
+  "fingerprint": "979f0ac2adf413162ebf33edce16963df1c300c351e126cd07a5255cfe1c0f60",
+  "archived_at": "2026-07-11T18:13:44Z",
+  "metadata": {
+    "title": "Shorelines I",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1442,
+    "duration_human": "00:24:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Cryptic Rays"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/shorelines-i_979f0ac2adf4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/cc65ff05aa0efc2c5568/Shorelines_I.tar"
+    }
+  }
+}
