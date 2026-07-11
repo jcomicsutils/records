@@ -1,0 +1,29 @@
+{
+  "id": "ii_4ea26d76db5a",
+  "fingerprint": "4ea26d76db5aca66b62c9201bf8ba80bddb363529df0c21240a9c3917c010e96",
+  "archived_at": "2026-07-11T19:16:58Z",
+  "metadata": {
+    "title": "II",
+    "artist": "møl",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 828,
+    "duration_human": "00:13:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 MØL - Kathexis",
+      "02 MØL - Atacama",
+      "03 MØL - Rush"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ii_4ea26d76db5a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/9b623f26b5ca48e1532f/II.tar"
+    }
+  }
+}
