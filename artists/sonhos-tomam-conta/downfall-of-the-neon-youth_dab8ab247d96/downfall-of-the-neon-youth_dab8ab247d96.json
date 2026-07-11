@@ -1,0 +1,36 @@
+{
+  "id": "downfall-of-the-neon-youth_dab8ab247d96",
+  "fingerprint": "dab8ab247d966dfd93b234d9dbe6146cecd2179eb27fb84f93f8313ab4b0ca47",
+  "archived_at": "2026-07-11T16:04:04Z",
+  "metadata": {
+    "title": "Downfall of the Neon Youth",
+    "artist": "sonhos tomam conta",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3309,
+    "duration_human": "00:55:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Parannoul, Asian Glow, sonhos tomam conta - Nails",
+      "02 Parannoul, Asian Glow, sonhos tomam conta - Insomnia",
+      "03 Parannoul, Asian Glow, sonhos tomam conta - todos os sonhos que eu tive",
+      "04 Parannoul, Asian Glow, sonhos tomam conta - Phone Ringing on Corridor",
+      "05 Parannoul, Asian Glow, sonhos tomam conta - Colors",
+      "06 Parannoul, Asian Glow, sonhos tomam conta - tons de azul",
+      "07 Parannoul, Asian Glow, sonhos tomam conta - one May Be Harming",
+      "08 Parannoul, Asian Glow, sonhos tomam conta - vento caminha comigo",
+      "09 Parannoul, Asian Glow, sonhos tomam conta - 70 Seconds Before Sunrise",
+      "10 Parannoul, Asian Glow, sonhos tomam conta - Love Migraine"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/downfall-of-the-neon-youth_dab8ab247d96"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/a8e179ac1868ff8d18d5/Downfall_of_the_Neon_Youth.tar"
+    }
+  }
+}
