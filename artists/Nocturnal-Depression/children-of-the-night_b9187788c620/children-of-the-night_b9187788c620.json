@@ -1,0 +1,32 @@
+{
+  "id": "children-of-the-night_b9187788c620",
+  "fingerprint": "b9187788c620fd1f5c52975c22126204ac04017aade9da92297217409549c0db",
+  "archived_at": "2026-07-11T20:56:27Z",
+  "metadata": {
+    "title": "Children of the Night",
+    "artist": "Nocturnal Depression",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2970,
+    "duration_human": "00:49:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Psychonaut 4 - His Right to Remain Silent",
+      "02 Psychonaut 4 - #Todrinkandtodance",
+      "03 Psychonaut 4 - Her Ghost Haunts These Walls",
+      "04 Nocturnal Depression - Self-Multilation",
+      "05 Nocturnal Depression - Born in a Padded Cell",
+      "06 Nocturnal Depression - Bad T.Rip"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/children-of-the-night_b9187788c620"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/c9737ed1b3139b848773/Children_of_the_Night.tar"
+    }
+  }
+}
