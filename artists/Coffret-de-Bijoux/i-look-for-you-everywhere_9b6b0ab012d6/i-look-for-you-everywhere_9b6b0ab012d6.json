@@ -1,0 +1,30 @@
+{
+  "id": "i-look-for-you-everywhere_9b6b0ab012d6",
+  "fingerprint": "9b6b0ab012d6bac363d6902c65f39fb08ca6e1d6407a649cab09119e0880e4f1",
+  "archived_at": "2026-07-11T21:48:25Z",
+  "metadata": {
+    "title": "i look for you everywhere",
+    "artist": "Coffret de Bijoux",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2302,
+    "duration_human": "00:38:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Coffret de Bijoux - Faint but Ever So Loving",
+      "02 Coffret de Bijoux - Covet",
+      "03 Coffret de Bijoux - Her Haven",
+      "04 Coffret de Bijoux - I Look for You Everywhere"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-look-for-you-everywhere_9b6b0ab012d6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/c8d2b3b1d11ef186f868/i_look_for_you_everywhere.tar"
+    }
+  }
+}
