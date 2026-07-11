@@ -1,0 +1,28 @@
+{
+  "id": "the-glory-of-the-ocean-single-version_a228e46946a8",
+  "fingerprint": "a228e46946a8cc629e04ffbf2e962775da91aab6479c0048a490c18bf986295f",
+  "archived_at": "2026-07-11T19:28:05Z",
+  "metadata": {
+    "title": "The Glory of the Ocean (Single Version)",
+    "artist": "Agriculture",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 413,
+    "duration_human": "00:06:53",
+    "sampling_rate": "88.2kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Agriculture - The Glory of the Ocean (Single Version)",
+      "02 Agriculture - Look, Pt. 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-glory-of-the-ocean-single-version_a228e46946a8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/61f5bb2b455248731fb2/The_Glory_of_the_Ocean_Single_Version.tar"
+    }
+  }
+}
