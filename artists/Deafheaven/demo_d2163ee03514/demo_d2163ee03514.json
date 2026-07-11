@@ -1,0 +1,30 @@
+{
+  "id": "demo_d2163ee03514",
+  "fingerprint": "d2163ee03514173f5a1e3fc196b4f0d6328701539505591e23a1512379868e09",
+  "archived_at": "2026-07-11T16:08:03Z",
+  "metadata": {
+    "title": "Demo",
+    "artist": "Deafheaven",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1485,
+    "duration_human": "00:24:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deafheaven - Libertine Dissolves",
+      "02 Deafheaven - Bedrooms",
+      "03 Deafheaven - Daedalus",
+      "04 Deafheaven - Exit Denied"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/demo_d2163ee03514"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/8c845de2738bd6635317/Demo.tar"
+    }
+  }
+}
