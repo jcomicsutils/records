@@ -1,0 +1,28 @@
+{
+  "id": "the-gnashing_2139e577371c",
+  "fingerprint": "2139e577371ce00922e261b855b0b7a53bad5c8f528f4759d1dbec517b9f8021",
+  "archived_at": "2026-07-11T20:59:08Z",
+  "metadata": {
+    "title": "The Gnashing",
+    "artist": "Deafheaven",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 694,
+    "duration_human": "00:11:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deafheaven - The Gnashing",
+      "02 Deafheaven - Great Mass of Color"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-gnashing_2139e577371c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/004d32379efe56ed0d1a/The_Gnashing.tar"
+    }
+  }
+}
