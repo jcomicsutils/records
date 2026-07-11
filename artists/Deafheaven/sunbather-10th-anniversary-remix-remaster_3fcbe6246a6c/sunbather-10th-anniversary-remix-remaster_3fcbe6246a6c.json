@@ -1,0 +1,33 @@
+{
+  "id": "sunbather-10th-anniversary-remix-remaster_3fcbe6246a6c",
+  "fingerprint": "3fcbe6246a6c2149b7238b1fead5c81e59ede24f71b0e73a92eef9aabf25b4df",
+  "archived_at": "2026-07-11T20:53:16Z",
+  "metadata": {
+    "title": "Sunbather (10th Anniversary Remix / Remaster)",
+    "artist": "Deafheaven",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3597,
+    "duration_human": "00:59:57",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deafheaven - Dream House (10th Anniversary Remix / Remaster)",
+      "02 Deafheaven - Irresistible (10th Anniversary Remix / Remaster)",
+      "03 Deafheaven - Sunbather (10th Anniversary Remix / Remaster)",
+      "04 Deafheaven - Please Remember (10th Anniversary Remix / Remaster)",
+      "05 Deafheaven - Vertigo (10th Anniversary Remix / Remaster)",
+      "06 Deafheaven - Windows (10th Anniversary Remix / Remaster)",
+      "07 Deafheaven - The Pecan Tree (10th Anniversary Remix / Remaster)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sunbather-10th-anniversary-remix-remaster_3fcbe6246a6c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/99b52c3d2d0072c2901b/Sunbather_10th_Anniversary_Remix_-_Remaster.tar"
+    }
+  }
+}

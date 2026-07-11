@@ -1,0 +1,24 @@
+{
+  "id": "verrat_fce54cb53c56",
+  "fingerprint": "fce54cb53c56af86c25c7a0d411a0dcbdde9742b5f6753d050413711baa3dcc7",
+  "archived_at": "2026-07-11T20:53:39Z",
+  "metadata": {
+    "title": "Verrat",
+    "artist": "Tardigrada",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 796,
+    "duration_human": "00:13:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Tardigrada - Verrat"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/verrat_fce54cb53c56"
+    }
+  }
+}
