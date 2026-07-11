@@ -1,0 +1,29 @@
+{
+  "id": "dismal-empyrean-solitude_be3a771bba58",
+  "fingerprint": "be3a771bba5847ae28be836b226567a6079264fd00cadd1592032a02419e8a16",
+  "archived_at": "2026-07-11T21:43:27Z",
+  "metadata": {
+    "title": "Dismal Empyrean Solitude",
+    "artist": "Nocturnal Depression",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2311,
+    "duration_human": "00:38:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Benighted in Sodom - Gray Flowers",
+      "02 Nocturnal Depression - Decheance",
+      "03 Deathrow - Il Vento Del Nord"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dismal-empyrean-solitude_be3a771bba58"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/d82ee77ff55a099f8e2c/Dismal_Empyrean_Solitude.tar"
+    }
+  }
+}
