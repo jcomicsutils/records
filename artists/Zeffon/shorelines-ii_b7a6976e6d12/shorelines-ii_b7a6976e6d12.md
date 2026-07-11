@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/shorelines-ii_b7a6976e6d12)
+- [FileDitch](https://fileditchfiles.st/beta12/6d3b880eb346559e2e88/Shorelines_II.tar)
 
 ## Tracklist
 
