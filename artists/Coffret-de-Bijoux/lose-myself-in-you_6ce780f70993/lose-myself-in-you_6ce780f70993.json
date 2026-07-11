@@ -1,0 +1,28 @@
+{
+  "id": "lose-myself-in-you_6ce780f70993",
+  "fingerprint": "6ce780f709932924fbf2c78ae49ae42d8caff81d97d23e2caecfdbced9bffaf2",
+  "archived_at": "2026-07-11T22:35:04Z",
+  "metadata": {
+    "title": "Lose Myself in You",
+    "artist": "Coffret de Bijoux",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1876,
+    "duration_human": "00:31:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Coffret de Bijoux - Lose Myself in You",
+      "02 Coffret de Bijoux - Under Fog"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lose-myself-in-you_6ce780f70993"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/b11cfb4f9da244804b9e/Lose_Myself_in_You.tar"
+    }
+  }
+}
