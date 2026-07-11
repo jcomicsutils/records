@@ -1,0 +1,27 @@
+{
+  "id": "forgive-us-mohammad_3a00002d56d6",
+  "fingerprint": "3a00002d56d630bdda9b90fd043e36684b1a0ffa9cf05684adb23028563175e3",
+  "archived_at": "2026-07-11T21:47:04Z",
+  "metadata": {
+    "title": "Forgive Us, Mohammad",
+    "artist": "To Be Gentle",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 139,
+    "duration_human": "00:02:19",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - Forgive Us, Mohammad"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/forgive-us-mohammad_3a00002d56d6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/50d73208d6d8f53d3f10/Forgive_Us_Mohammad.tar"
+    }
+  }
+}
