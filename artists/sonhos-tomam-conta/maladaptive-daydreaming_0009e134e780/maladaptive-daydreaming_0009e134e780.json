@@ -1,0 +1,35 @@
+{
+  "id": "maladaptive-daydreaming_0009e134e780",
+  "fingerprint": "0009e134e78082f206eac9d71f73081ebaa4f6a37f4c1d57903ec9b21ab1df3c",
+  "archived_at": "2026-07-11T16:48:20Z",
+  "metadata": {
+    "title": "Maladaptive Daydreaming",
+    "artist": "sonhos tomam conta",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3496,
+    "duration_human": "00:58:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 sonhos tomam conta - Maladaptive Daydreaming",
+      "02 sonhos tomam conta - Atrás das Cortinas",
+      "03 sonhos tomam conta - Corpos Gelados, Manhãs de Sol",
+      "04 sonhos tomam conta - Escamas do Mar",
+      "05 sonhos tomam conta - Onirismo e Estações Desbotadas",
+      "06 sonhos tomam conta - Lights Out",
+      "07 sonhos tomam conta - Nothing’s Gonna Hurt You Anymore",
+      "08 sonhos tomam conta - Full Blossom of the Evening",
+      "09 sonhos tomam conta - 42 Wallaby Way, Sydney"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/maladaptive-daydreaming_0009e134e780"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/349af910088c311dcb51/Maladaptive_Daydreaming.tar"
+    }
+  }
+}
