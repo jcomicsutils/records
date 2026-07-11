@@ -1,0 +1,33 @@
+{
+  "id": "ordinary-corrupt-human-love_c5266668225d",
+  "fingerprint": "c5266668225dcf935da143041f7ae5a8319c3381021ddc2c5678417fe0437635",
+  "archived_at": "2026-07-11T19:31:31Z",
+  "metadata": {
+    "title": "Ordinary Corrupt Human Love",
+    "artist": "Deafheaven",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3699,
+    "duration_human": "01:01:39",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deafheaven - You Without End",
+      "02 Deafheaven - Honeycomb",
+      "03 Deafheaven - Canary Yellow",
+      "04 Deafheaven - Near",
+      "05 Deafheaven - Glint",
+      "06 Deafheaven - Night People",
+      "07 Deafheaven - Worthless Animal"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ordinary-corrupt-human-love_c5266668225d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/4e803fdc2a5bc3c26598/Ordinary_Corrupt_Human_Love.tar"
+    }
+  }
+}
