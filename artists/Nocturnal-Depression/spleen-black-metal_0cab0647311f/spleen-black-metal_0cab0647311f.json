@@ -1,0 +1,33 @@
+{
+  "id": "spleen-black-metal_0cab0647311f",
+  "fingerprint": "0cab0647311fcdabca78a3fddad19e36c80b5f4bcf703c752cb1069827fce8fc",
+  "archived_at": "2026-07-11T23:54:24Z",
+  "metadata": {
+    "title": "Spleen Black Metal",
+    "artist": "Nocturnal Depression",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2815,
+    "duration_human": "00:46:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nocturnal Depression - Elégie",
+      "02 Nocturnal Depression - L'isolement",
+      "03 Nocturnal Depression - Acédie",
+      "04 Nocturnal Depression - Méditation grisâtre",
+      "05 Nocturnal Depression - Un immense désespoir",
+      "06 Nocturnal Depression - Remords posthume",
+      "07 Nocturnal Depression - Spleen Black Metal"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/spleen-black-metal_0cab0647311f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/a5a633a189b26bdb3676/Spleen_Black_Metal.tar"
+    }
+  }
+}
