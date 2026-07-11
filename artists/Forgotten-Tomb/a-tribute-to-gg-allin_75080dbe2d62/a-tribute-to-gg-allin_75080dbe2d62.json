@@ -1,0 +1,36 @@
+{
+  "id": "a-tribute-to-gg-allin_75080dbe2d62",
+  "fingerprint": "75080dbe2d62d8309e65a072fe281929f28220abc11789a0c02260449991d69e",
+  "archived_at": "2026-07-11T21:51:42Z",
+  "metadata": {
+    "title": "A Tribute to GG Allin",
+    "artist": "Forgotten Tomb",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 1766,
+    "duration_human": "00:29:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "1-01 Forgotten Tomb - Expose Yourself to Kids",
+      "1-02 Forgotten Tomb - I Kill Everything I Fuck",
+      "1-03 Whiskey Ritual - Die When You Die",
+      "1-04 Whiskey Ritual - Bite It You Scum",
+      "2-01 Whiskey Ritual - Die When You Die",
+      "2-02 Whiskey Ritual - Bite It You Scum",
+      "2-03 Whiskey Ritual - Drink, Fight and Fuck",
+      "2-04 Forgotten Tomb - Expose Yourself to Kids",
+      "2-05 Forgotten Tomb - Gipsy Motherfucker",
+      "2-06 Forgotten Tomb - I Kill Everything I Fuck"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-tribute-to-gg-allin_75080dbe2d62"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/7e0a229d9967c6450067/A_Tribute_to_GG_Allin.tar"
+    }
+  }
+}
