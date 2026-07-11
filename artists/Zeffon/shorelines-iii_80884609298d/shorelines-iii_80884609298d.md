@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/shorelines-iii_80884609298d)
+- [FileDitch](https://fileditchfiles.st/beta12/be60a0638e7d8add3082/Shorelines_III.tar)
 
 ## Tracklist
 

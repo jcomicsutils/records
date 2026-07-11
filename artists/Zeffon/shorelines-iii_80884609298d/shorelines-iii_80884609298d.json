@@ -19,6 +19,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/shorelines-iii_80884609298d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/be60a0638e7d8add3082/Shorelines_III.tar"
     }
   }
 }

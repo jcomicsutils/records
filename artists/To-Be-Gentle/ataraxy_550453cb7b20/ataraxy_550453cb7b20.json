@@ -1,0 +1,26 @@
+{
+  "id": "ataraxy_550453cb7b20",
+  "fingerprint": "550453cb7b2095f4ffbd58b9808ac7fa4dc92bc42bedc0209d667d0656a700fd",
+  "archived_at": "2026-07-11T18:24:59Z",
+  "metadata": {
+    "title": "Ataraxy",
+    "artist": "To Be Gentle",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2384,
+    "duration_human": "00:39:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Sadness - Be Happy",
+      "02 To Be Gentle - We Will Eventually Let Go",
+      "03 To Be Gentle - Glósóli (Sigur Rós)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ataraxy_550453cb7b20"
+    }
+  }
+}
