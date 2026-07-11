@@ -1,0 +1,32 @@
+{
+  "id": "my-limbs-are-not-mine_488994e827e7",
+  "fingerprint": "488994e827e747f5d20fb1554e3621e06c0cccb024bab2549eebbd1e0f6108cc",
+  "archived_at": "2026-07-11T22:38:12Z",
+  "metadata": {
+    "title": "My Limbs Are Not Mine",
+    "artist": "Coffret de Bijoux",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1721,
+    "duration_human": "00:28:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Coffret de Bijoux - I Need to See",
+      "02 Coffret de Bijoux - Running",
+      "03 Coffret de Bijoux - nuit d'automne",
+      "04 Coffret de Bijoux - To Never Recollect",
+      "05 Coffret de Bijoux - My Limbs Are Not Mine",
+      "06 Coffret de Bijoux - Pillow Poise Remembering"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/my-limbs-are-not-mine_488994e827e7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/f17fb36c748cee639b81/My_Limbs_Are_Not_Mine.tar"
+    }
+  }
+}
