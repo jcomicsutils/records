@@ -1,0 +1,30 @@
+{
+  "id": "dataviscera_ae056b1009db",
+  "fingerprint": "ae056b1009db1564e7c6f75d9a29f5e83ebf74b5361feb6f4d1f68825511e787",
+  "archived_at": "2026-07-11T17:09:32Z",
+  "metadata": {
+    "title": "Data.viscera",
+    "artist": "Strawberry Hospital",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 563,
+    "duration_human": "00:09:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Strawberry Hospital - Endo",
+      "02 Strawberry Hospital - Azure",
+      "03 Strawberry Hospital - Kohaku",
+      "04 Strawberry Hospital - Squall"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dataviscera_ae056b1009db"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/64b790be5a2b4db17c77/Data.viscera.tar"
+    }
+  }
+}

@@ -111,6 +111,7 @@
 - [Stephen O'Malley](Stephen-O'Malley/Stephen-O'Malley.md)
 - [Stillife](Stillife/Stillife.md)
 - [Stilluppsteypa](Stilluppsteypa/Stilluppsteypa.md)
+- [Strawberry Hospital](Strawberry-Hospital/Strawberry-Hospital.md)
 - [Sunn O\)\)\)](Sunn-O%29%29%29/Sunn-O%29%29%29.md)
 - [Tai Gostei](Tai-Gostei/Tai-Gostei.md)
 - [Tarentel](Tarentel/Tarentel.md)
