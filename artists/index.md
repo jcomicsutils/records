@@ -38,6 +38,7 @@
 - [Chas Smith](Chas-Smith/Chas-Smith.md)
 - [Clinical trails](Clinical-trails/Clinical-trails.md)
 - [Club Rialto](Club-Rialto/Club-Rialto.md)
+- [Coffret de Bijoux](Coffret-de-Bijoux/Coffret-de-Bijoux.md)
 - [Constellatia](Constellatia/Constellatia.md)
 - [Crying Motherfuckers](Crying-Motherfuckers/Crying-Motherfuckers.md)
 - [Deafheaven](Deafheaven/Deafheaven.md)
