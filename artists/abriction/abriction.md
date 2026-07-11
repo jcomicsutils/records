@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Typo](typo_2a8b8b8582b5/typo_2a8b8b8582b5.md) | 2021 | FLAC | 00:01:39 | [IA](https://archive.org/details/typo_2a8b8b8582b5) [FileDitch](https://fileditchfiles.st/beta12/9dc1d974a4d5638b1ccd/Typo.tar) |
 | [lost+found](lostfound_648f10dff7df/lostfound_648f10dff7df.md) | 2021 | FLAC | 00:02:47 | [IA](https://archive.org/details/lostfound_648f10dff7df) [FileDitch](https://fileditchfiles.st/beta12/29e955338260d5d29667/lost_found.tar) |
 | [i think we're dying](i-think-were-dying_984dfb7cfeda/i-think-were-dying_984dfb7cfeda.md) | 2021 | FLAC | 00:13:32 | [IA](https://archive.org/details/i-think-were-dying_984dfb7cfeda) [FileDitch](https://fileditchfiles.st/beta12/f19d1dbfa46dd9f33168/i_think_we_re_dying.tar) |
 | [suffer](suffer_6a1ecf4b4103/suffer_6a1ecf4b4103.md) | 2021 | FLAC | 00:05:31 | [IA](https://archive.org/details/suffer_6a1ecf4b4103) [FileDitch](https://fileditchfiles.st/beta12/9c3ab02e2267a8db96de/suffer.tar) |

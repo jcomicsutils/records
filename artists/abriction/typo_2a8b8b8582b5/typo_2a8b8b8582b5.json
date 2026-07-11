@@ -1,0 +1,27 @@
+{
+  "id": "typo_2a8b8b8582b5",
+  "fingerprint": "2a8b8b8582b59e65bda7ca39de0a76dee7c3746895e66464a3fc97df3b27bdd7",
+  "archived_at": "2026-07-11T17:20:07Z",
+  "metadata": {
+    "title": "Typo",
+    "artist": "abriction",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 99,
+    "duration_human": "00:01:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cynnie, KJ, Abriction - Typo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/typo_2a8b8b8582b5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/9dc1d974a4d5638b1ccd/Typo.tar"
+    }
+  }
+}
