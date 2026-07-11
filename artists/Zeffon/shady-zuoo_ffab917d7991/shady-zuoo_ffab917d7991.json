@@ -1,0 +1,29 @@
+{
+  "id": "shady-zuoo_ffab917d7991",
+  "fingerprint": "ffab917d79914411b0c7bf5a874e687419ec94e3740ac98a3a9d6aa5031b4a72",
+  "archived_at": "2026-07-11T15:51:24Z",
+  "metadata": {
+    "title": "Shady Zuoo",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 560,
+    "duration_human": "00:09:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Shady Zuoo (Single)",
+      "02 Zeffon - Shady Zuoo (Full Jam)",
+      "03 Zeffon - Home of the Watchtower (Shady Snippet)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/shady-zuoo_ffab917d7991"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/23c39c137fa83ec259e5/Shady_Zuoo.tar"
+    }
+  }
+}
