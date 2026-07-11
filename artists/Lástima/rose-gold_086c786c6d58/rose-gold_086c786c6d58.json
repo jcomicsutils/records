@@ -1,0 +1,27 @@
+{
+  "id": "rose-gold_086c786c6d58",
+  "fingerprint": "086c786c6d585c922d26509c9407952c0625e56df37acb0a868b335236dc57c9",
+  "archived_at": "2026-07-11T16:01:59Z",
+  "metadata": {
+    "title": "Rose Gold",
+    "artist": "Lástima",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 397,
+    "duration_human": "00:06:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lástima - Rose Gold"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rose-gold_086c786c6d58"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/5599ae02db49911ded3d/Rose_Gold.tar"
+    }
+  }
+}
