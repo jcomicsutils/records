@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Four Seasons to a Depression](four-seasons-to-a-depression_fcbf5e616067/four-seasons-to-a-depression_fcbf5e616067.md) | 2006 | FLAC | 00:36:51 | [IA](https://archive.org/details/four-seasons-to-a-depression_fcbf5e616067) [FileDitch](https://fileditchfiles.st/beta12/55346bdf36efc9394a0e/Four_Seasons_to_a_Depression.tar) |
 | [Beyond the Light](beyond-the-light_5fe93473356b/beyond-the-light_5fe93473356b.md) | 2009 | FLAC | 00:35:38 | [IA](https://archive.org/details/beyond-the-light_5fe93473356b) [FileDitch](https://fileditchfiles.st/beta12/8d8f1b99a8dda91673a4/Beyond_the_Light.tar) |
 | [Dismal Empyrean Solitude](dismal-empyrean-solitude_be3a771bba58/dismal-empyrean-solitude_be3a771bba58.md) | 2009 | FLAC | 00:38:31 | [IA](https://archive.org/details/dismal-empyrean-solitude_be3a771bba58) [FileDitch](https://fileditchfiles.st/beta12/d82ee77ff55a099f8e2c/Dismal_Empyrean_Solitude.tar) |
 | [Deathcade](deathcade_33d5a59fe18c/deathcade_33d5a59fe18c.md) | 2017 | FLAC | 00:57:17 | [IA](https://archive.org/details/deathcade_33d5a59fe18c) [FileDitch](https://fileditchfiles.st/beta12/b7cc5aa3df5e9ab2ecea/Deathcade.tar) |

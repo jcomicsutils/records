@@ -1,0 +1,30 @@
+{
+  "id": "four-seasons-to-a-depression_fcbf5e616067",
+  "fingerprint": "fcbf5e616067cfedfc3a375a4865a2bbfc4734441a7c78e7fe819074c4e8118c",
+  "archived_at": "2026-07-11T21:54:24Z",
+  "metadata": {
+    "title": "Four Seasons to a Depression",
+    "artist": "Nocturnal Depression",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2211,
+    "duration_human": "00:36:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nocturnal Depression - Spring (Remastered)",
+      "02 Nocturnal Depression - Summer (Remastered)",
+      "03 Nocturnal Depression - Autumn (Remastered)",
+      "04 Nocturnal Depression - Winter (Remastered)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/four-seasons-to-a-depression_fcbf5e616067"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/55346bdf36efc9394a0e/Four_Seasons_to_a_Depression.tar"
+    }
+  }
+}
