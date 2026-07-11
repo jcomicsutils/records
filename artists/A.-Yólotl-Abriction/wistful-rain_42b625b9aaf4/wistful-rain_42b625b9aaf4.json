@@ -1,0 +1,27 @@
+{
+  "id": "wistful-rain_42b625b9aaf4",
+  "fingerprint": "42b625b9aaf4937f3425e09c5b4107a30a82f680e2dcd5eb6c1d1d1164b3704d",
+  "archived_at": "2026-07-11T17:42:13Z",
+  "metadata": {
+    "title": "Wistful rain",
+    "artist": "A. Yólotl / Abriction",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1681,
+    "duration_human": "00:28:01",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Abriction - Encrypt",
+      "02 Abriction - This house is not a home",
+      "03 A. Yólotl - Dalia",
+      "04 A. Yólotl - Lantana"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wistful-rain_42b625b9aaf4"
+    }
+  }
+}
