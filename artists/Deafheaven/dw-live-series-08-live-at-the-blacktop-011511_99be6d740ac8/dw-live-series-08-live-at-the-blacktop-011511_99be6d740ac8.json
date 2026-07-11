@@ -1,0 +1,28 @@
+{
+  "id": "dw-live-series-08-live-at-the-blacktop-011511_99be6d740ac8",
+  "fingerprint": "99be6d740ac8bc99dde358547ac869da3a8a764625718b119116fd757dfc8aa6",
+  "archived_at": "2026-07-11T16:12:53Z",
+  "metadata": {
+    "title": "DW Live Series 08: Live at The Blacktop 01.15.11",
+    "artist": "Deafheaven",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2052,
+    "duration_human": "00:34:12",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deafheaven - Violet (intro)",
+      "02 Deafheaven - Libertine Dissolves",
+      "03 Deafheaven - Unrequited",
+      "04 Deafheaven - Language Games",
+      "05 Deafheaven - Exit:Denied"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dw-live-series-08-live-at-the-blacktop-011511_99be6d740ac8"
+    }
+  }
+}

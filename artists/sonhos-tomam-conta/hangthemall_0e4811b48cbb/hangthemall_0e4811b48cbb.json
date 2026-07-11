@@ -1,0 +1,27 @@
+{
+  "id": "hangthemall_0e4811b48cbb",
+  "fingerprint": "0e4811b48cbbad2d8444b3cb57f3aec69adf9efd558e587031aebba5b90c49f3",
+  "archived_at": "2026-07-11T16:12:56Z",
+  "metadata": {
+    "title": "hangthemall",
+    "artist": "sonhos tomam conta",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 302,
+    "duration_human": "00:05:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Asian Glow, sonhos tomam conta - hangthemall"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hangthemall_0e4811b48cbb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/0ffbfbd6baab1d3f48c9/hangthemall.tar"
+    }
+  }
+}
