@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/einsam-und-verloren_7201beb1d3ee)
+- [FileDitch](https://fileditchfiles.st/beta12/724bb29c6243f40bf025/Einsam_und_verloren.tar)
 
 ## Tracklist
 
