@@ -1,0 +1,27 @@
+{
+  "id": "glint-live_c1ff76ef8e25",
+  "fingerprint": "c1ff76ef8e2573e12670da76980c1861ab256c8fbfd7f44b96db3f35529d971c",
+  "archived_at": "2026-07-11T16:14:39Z",
+  "metadata": {
+    "title": "Glint (Live)",
+    "artist": "Deafheaven",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 679,
+    "duration_human": "00:11:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deafheaven - Glint (Live)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/glint-live_c1ff76ef8e25"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/fe6ed4b898dc94968516/Glint_Live.tar"
+    }
+  }
+}

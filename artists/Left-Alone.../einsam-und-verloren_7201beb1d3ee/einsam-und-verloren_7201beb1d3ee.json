@@ -1,0 +1,26 @@
+{
+  "id": "einsam-und-verloren_7201beb1d3ee",
+  "fingerprint": "7201beb1d3eeac939e2389ffe571d541d01f639d8030382f75225d14f1bd2961",
+  "archived_at": "2026-07-11T16:14:34Z",
+  "metadata": {
+    "title": "Einsam und verloren",
+    "artist": "Left Alone...",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1895,
+    "duration_human": "00:31:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Left Alone... - Alleine im schmerz",
+      "02 Left Alone... - Abendfarben",
+      "03 Left Alone... - Trostlosigkeit..."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/einsam-und-verloren_7201beb1d3ee"
+    }
+  }
+}
