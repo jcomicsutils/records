@@ -1,0 +1,30 @@
+{
+  "id": "compilation-i_f6b550156edf",
+  "fingerprint": "f6b550156edfbe56b760e7ce1fd2746c700658f4c644daf18eca2cf2c5d78319",
+  "archived_at": "2026-07-11T19:50:31Z",
+  "metadata": {
+    "title": "Compilation I",
+    "artist": "To Be Gentle",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4898,
+    "duration_human": "01:21:38",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - A Love Song for the Terminally Haunted (I Don't Want to Be Here Anymore)",
+      "02 To Be Gentle - Holy Numbers",
+      "03 To Be Gentle - We Will Eventually Let Go",
+      "04 To Be Gentle - I Hope Whatever Haunted You in This Life is Silenced in the Next"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/compilation-i_f6b550156edf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/063bce75ccb17b07c59c/Compilation_I.tar"
+    }
+  }
+}
