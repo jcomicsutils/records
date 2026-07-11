@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Agriculture](agriculture_ab33787829e8/agriculture_ab33787829e8.md) | 2023 | FLAC | 00:31:14 | [IA](https://archive.org/details/agriculture_ab33787829e8) [FileDitch](https://fileditchfiles.st/beta12/f5d76095ead6fc598bbc/Agriculture.tar) |
+| [Relier](relier_7b30f3b77e55/relier_7b30f3b77e55.md) | 2023 | FLAC | 00:13:44 | [IA](https://archive.org/details/relier_7b30f3b77e55) [FileDitch](https://fileditchfiles.st/beta12/c5e7650b396dbeee530b/Relier.tar) |
 | [Look, Pt. 1](look-pt-1_82eb3be9edfa/look-pt-1_82eb3be9edfa.md) | 2023 | FLAC | 00:02:09 | [IA](https://archive.org/details/look-pt-1_82eb3be9edfa) [FileDitch](https://fileditchfiles.st/beta12/2720db5947b9308b2cc9/Look_Pt._1.tar) |
 | [Living is Easy](living-is-easy_fdc27403b868/living-is-easy_fdc27403b868.md) | 2024 | FLAC | 00:16:02 | [IA](https://archive.org/details/living-is-easy_fdc27403b868) [FileDitch](https://fileditchfiles.st/beta12/4971e9481df9af93d795/Living_is_Easy_2024_1.tar) |
 | [In The House Of Angel Flesh](in-the-house-of-angel-flesh_756da8007a9c/in-the-house-of-angel-flesh_756da8007a9c.md) | 2024 | FLAC | 00:12:30 | [IA](https://archive.org/details/in-the-house-of-angel-flesh_756da8007a9c) [FileDitch](https://fileditchfiles.st/beta12/104c96a02effcc26d41a/In_The_House_Of_Angel_Flesh.tar) |
