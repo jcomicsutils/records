@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/nightfloating_92ac0181d252)
+- [FileDitch](https://fileditchfiles.st/beta12/28db5c4e769b2fd81514/Nightfloating.tar)
 
 ## Tracklist
 
