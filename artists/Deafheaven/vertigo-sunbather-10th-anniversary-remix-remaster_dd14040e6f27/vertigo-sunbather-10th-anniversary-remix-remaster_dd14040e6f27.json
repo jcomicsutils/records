@@ -1,0 +1,27 @@
+{
+  "id": "vertigo-sunbather-10th-anniversary-remix-remaster_dd14040e6f27",
+  "fingerprint": "dd14040e6f273471e7caa25b52debbf60a1099eed6793fb4da3d4e68c122e68b",
+  "archived_at": "2026-07-11T21:34:52Z",
+  "metadata": {
+    "title": "Vertigo (Sunbather: 10th Anniversary Remix / Remaster)",
+    "artist": "Deafheaven",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 877,
+    "duration_human": "00:14:37",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deafheaven - Vertigo (Sunbather: 10th Anniversary Remix / Remaster)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vertigo-sunbather-10th-anniversary-remix-remaster_dd14040e6f27"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/cb2030333c989f809c23/Vertigo_Sunbather_10th_Anniversary_Remix_-_Remaster.tar"
+    }
+  }
+}
