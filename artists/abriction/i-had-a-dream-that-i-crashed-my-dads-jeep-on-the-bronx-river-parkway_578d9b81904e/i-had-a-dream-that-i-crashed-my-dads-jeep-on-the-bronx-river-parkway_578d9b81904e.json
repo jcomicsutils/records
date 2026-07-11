@@ -31,6 +31,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/i-had-a-dream-that-i-crashed-my-dads-jeep-on-the-bronx-river-parkway_578d9b81904e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/9ed674c9ebbcf454b15a/I_Had_A_Dream_That_I_Crashed_My_Dad_s_Jeep_On_The_Bronx_River_Pa.tar"
     }
   }
 }
