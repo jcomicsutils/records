@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Sugar Wounds](sugar-wounds_8db36ce24483/sugar-wounds_8db36ce24483.md) | 2017 | FLAC | 00:10:53 | [IA](https://archive.org/details/sugar-wounds_8db36ce24483) [FileDitch](https://fileditchfiles.st/beta12/8041848b08a2cb41f62f/Sugar_Wounds.tar) |
 | [Clumsiness Smile](clumsiness-smile_8e04ee33393e/clumsiness-smile_8e04ee33393e.md) | 2019 | FLAC | 00:01:57 | [IA](https://archive.org/details/clumsiness-smile_8e04ee33393e) [FileDitch](https://fileditchfiles.st/beta12/2f691e5de6f1f25f1fd8/Clumsiness_Smile.tar) |
 | [I'm Going to Leave You Now with Images of Bread](im-going-to-leave-you-now-with-images-of-bread_255956f8c801/im-going-to-leave-you-now-with-images-of-bread_255956f8c801.md) | 2019 | FLAC | 00:07:24 | [IA](https://archive.org/details/im-going-to-leave-you-now-with-images-of-bread_255956f8c801) [FileDitch](https://fileditchfiles.st/beta12/e0e6b863e43c4e12bf12/I_m_Going_to_Leave_You_Now_with_Images_of_Bread.tar) |
 | [Calico Dreams](calico-dreams_5b8bbff8d630/calico-dreams_5b8bbff8d630.md) | 2021 | FLAC | 00:23:08 | [IA](https://archive.org/details/calico-dreams_5b8bbff8d630) [FileDitch](https://fileditchfiles.st/beta12/8b0dcf461892bc158a69/Calico_Dreams.tar) |

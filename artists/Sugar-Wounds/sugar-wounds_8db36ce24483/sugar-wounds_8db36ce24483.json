@@ -1,0 +1,30 @@
+{
+  "id": "sugar-wounds_8db36ce24483",
+  "fingerprint": "8db36ce24483630bcb064f325f4724393eb786418fa3a58461f0032da3eeff08",
+  "archived_at": "2026-07-11T19:15:39Z",
+  "metadata": {
+    "title": "Sugar Wounds",
+    "artist": "Sugar Wounds",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 653,
+    "duration_human": "00:10:53",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sugar Wounds - Sugar Wounds",
+      "02 Sugar Wounds - The Lights From The City",
+      "03 Sugar Wounds - Small Cat",
+      "04 Sugar Wounds - Sugar Witch"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sugar-wounds_8db36ce24483"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/8041848b08a2cb41f62f/Sugar_Wounds.tar"
+    }
+  }
+}
