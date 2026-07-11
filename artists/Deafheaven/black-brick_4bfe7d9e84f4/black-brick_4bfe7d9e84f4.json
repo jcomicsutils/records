@@ -1,0 +1,24 @@
+{
+  "id": "black-brick_4bfe7d9e84f4",
+  "fingerprint": "4bfe7d9e84f4a2d89c9279087733c1bd008fa17f03ca52ad81857f81f2bac95c",
+  "archived_at": "2026-07-11T16:01:24Z",
+  "metadata": {
+    "title": "Black Brick",
+    "artist": "Deafheaven",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 447,
+    "duration_human": "00:07:27",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deafheaven - Black Brick"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/black-brick_4bfe7d9e84f4"
+    }
+  }
+}

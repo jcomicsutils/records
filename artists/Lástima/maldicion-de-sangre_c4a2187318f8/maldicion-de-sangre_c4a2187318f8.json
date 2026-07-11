@@ -1,0 +1,28 @@
+{
+  "id": "maldicion-de-sangre_c4a2187318f8",
+  "fingerprint": "c4a2187318f8e054f0bf2a06e1f085934b845dae09c85de57eb7b91458d283d1",
+  "archived_at": "2026-07-11T16:01:20Z",
+  "metadata": {
+    "title": "Maldición de sangre",
+    "artist": "Lástima",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 810,
+    "duration_human": "00:13:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lástima - Our Wounds",
+      "02 Lástima - Maldición de sangre"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/maldicion-de-sangre_c4a2187318f8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/c80b032dfe18e5f05373/Maldicio_n_de_sangre.tar"
+    }
+  }
+}
