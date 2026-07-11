@@ -1,0 +1,32 @@
+{
+  "id": "pesadelos_1f4aefb3060a",
+  "fingerprint": "1f4aefb3060ae2b69114a68c30a17558b78560b1c23dfe3a7cb737f7267c4c86",
+  "archived_at": "2026-07-11T16:52:03Z",
+  "metadata": {
+    "title": "pesadelos",
+    "artist": "sonhos tomam conta",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1723,
+    "duration_human": "00:28:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 sonhos tomam conta - flutuando no vazio",
+      "02 sonhos tomam conta - lavender town",
+      "03 sonhos tomam conta - experiência de quase morte",
+      "04 sonhos tomam conta - sobre o sangue que me forjou",
+      "05 sonhos tomam conta - a era do tatami",
+      "06 sonhos tomam conta - morte do ego"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pesadelos_1f4aefb3060a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/935a214b980e8adf5446/pesadelos.tar"
+    }
+  }
+}

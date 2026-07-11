@@ -1,0 +1,26 @@
+{
+  "id": "home-find-me_31c1fb81938d",
+  "fingerprint": "31c1fb81938d8d0113f93b12a83019f58c88641103c1f2e6106833388f1de6eb",
+  "archived_at": "2026-07-11T16:52:15Z",
+  "metadata": {
+    "title": "Home Find Me...",
+    "artist": "Left Alone...",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3643,
+    "duration_human": "01:00:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Left Alone... - Left Alone",
+      "02 Left Alone... - Einsam",
+      "03 Left Alone... - So Cold..."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/home-find-me_31c1fb81938d"
+    }
+  }
+}

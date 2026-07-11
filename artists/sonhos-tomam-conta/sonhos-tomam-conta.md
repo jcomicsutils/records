@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [pesadelos](pesadelos_1f4aefb3060a/pesadelos_1f4aefb3060a.md) | 2020 | FLAC | 00:28:43 | [IA](https://archive.org/details/pesadelos_1f4aefb3060a) [FileDitch](https://fileditchfiles.st/beta12/935a214b980e8adf5446/pesadelos.tar) |
 | [Downfall of the Neon Youth](downfall-of-the-neon-youth_dab8ab247d96/downfall-of-the-neon-youth_dab8ab247d96.md) | 2021 | FLAC | 00:55:09 | [IA](https://archive.org/details/downfall-of-the-neon-youth_dab8ab247d96) [FileDitch](https://fileditchfiles.st/beta12/a8e179ac1868ff8d18d5/Downfall_of_the_Neon_Youth.tar) |
 | [Cyberia](cyberia_c81b25fba42b/cyberia_c81b25fba42b.md) | 2021 | FLAC | 00:13:56 | [IA](https://archive.org/details/cyberia_c81b25fba42b) [FileDitch](https://fileditchfiles.st/beta12/dc43d1c6953f3ddade01/Cyberia.tar) |
 | [hypnagogia](hypnagogia_414c0bc3419f/hypnagogia_414c0bc3419f.md) | 2021 | FLAC | 00:41:05 | [IA](https://archive.org/details/hypnagogia_414c0bc3419f) [FileDitch](https://fileditchfiles.st/beta12/86630b44a23db1046406/hypnagogia.tar) |

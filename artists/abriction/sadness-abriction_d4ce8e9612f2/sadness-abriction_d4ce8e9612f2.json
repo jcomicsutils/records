@@ -1,0 +1,28 @@
+{
+  "id": "sadness-abriction_d4ce8e9612f2",
+  "fingerprint": "d4ce8e9612f2d8edcad426a36a580ac5135a14608448fd1a7f0673397282ecc6",
+  "archived_at": "2026-07-11T16:51:47Z",
+  "metadata": {
+    "title": "sadness // abriction",
+    "artist": "abriction",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 4523,
+    "duration_human": "01:15:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sadness, Abriction - something in the summer rain  (remastered)",
+      "02 Sadness, Abriction - please...   (remastered)",
+      "03 Sadness, Abriction - illuminate the rain",
+      "04 Sadness, Abriction - breaking through the clouds",
+      "05 Sadness, Abriction - her summer morning sky"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sadness-abriction_d4ce8e9612f2"
+    }
+  }
+}
