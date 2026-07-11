@@ -1,0 +1,33 @@
+{
+  "id": "a-haunting-admission_016165610a22",
+  "fingerprint": "016165610a226068118e2ff9978cda174cdc3f0b1e043309391b775e99a33205",
+  "archived_at": "2026-07-11T17:49:59Z",
+  "metadata": {
+    "title": "A Haunting Admission",
+    "artist": "To Be Gentle",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1211,
+    "duration_human": "00:20:11",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - I Will Not Go",
+      "02 To Be Gentle - I Love You and I Will Not Let Them Hurt You Anymore",
+      "03 To Be Gentle - Cinders",
+      "04 To Be Gentle - Void of Joy",
+      "05 To Be Gentle - Paralyzed",
+      "06 To Be Gentle - Confronting Defeatism",
+      "07 To Be Gentle - I Love You and I Will Never Forgive Myself"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-haunting-admission_016165610a22"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/5ea7f1dda4dfb6f24f6f/A_Haunting_Admission.tar"
+    }
+  }
+}
