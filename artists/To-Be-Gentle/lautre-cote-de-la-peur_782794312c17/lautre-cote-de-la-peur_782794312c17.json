@@ -1,0 +1,31 @@
+{
+  "id": "lautre-cote-de-la-peur_782794312c17",
+  "fingerprint": "782794312c17bc80f94a9697b7b54c498e5a7179e8db52a4ca728a56567da6dd",
+  "archived_at": "2026-07-11T23:29:31Z",
+  "metadata": {
+    "title": "L'autre Côté de la Peur",
+    "artist": "To Be Gentle",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1789,
+    "duration_human": "00:29:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - Flesh and Blood, Bone and Dream",
+      "02 To Be Gentle - If You Are Reading This",
+      "03 To Be Gentle - Insurmountable",
+      "04 To Be Gentle - 7/14/19",
+      "05 To Be Gentle - The Thought of Losing You Terrifies Me"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lautre-cote-de-la-peur_782794312c17"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/a9f2299158dd541029ec/L_autre_C_t_de_la_Peur.tar"
+    }
+  }
+}
