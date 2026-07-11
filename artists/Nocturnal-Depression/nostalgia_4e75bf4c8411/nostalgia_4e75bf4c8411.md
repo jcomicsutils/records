@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/nostalgia_4e75bf4c8411)
+- [FileDitch](https://fileditchfiles.st/beta12/daa1999a6aa7e10f1b6d/Nostalgia.tar)
 
 ## Tracklist
 

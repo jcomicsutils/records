@@ -24,6 +24,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/nostalgia_4e75bf4c8411"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/daa1999a6aa7e10f1b6d/Nostalgia.tar"
     }
   }
 }
