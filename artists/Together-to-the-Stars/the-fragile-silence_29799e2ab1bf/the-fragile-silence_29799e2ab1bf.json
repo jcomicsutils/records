@@ -1,0 +1,32 @@
+{
+  "id": "the-fragile-silence_29799e2ab1bf",
+  "fingerprint": "29799e2ab1bfa9947423b30e461fee6e02db953b67c57ad61fb1ba3f941d0536",
+  "archived_at": "2026-07-11T23:48:22Z",
+  "metadata": {
+    "title": "The Fragile Silence",
+    "artist": "Together to the Stars",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2510,
+    "duration_human": "00:41:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Together to the Stars - Mercurius",
+      "02 Together to the Stars - Waiting for a Fire",
+      "03 Together to the Stars - Gravity Eater",
+      "04 Together to the Stars - The Last Glacier",
+      "05 Together to the Stars - Earthbound",
+      "06 Together to the Stars - The Fragile Silence"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-fragile-silence_29799e2ab1bf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/cda68b6d13a58e0e9cd5/The_Fragile_Silence.tar"
+    }
+  }
+}
