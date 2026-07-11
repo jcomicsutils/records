@@ -1,0 +1,30 @@
+{
+  "id": "sense-of-smell_ac052fd805ef",
+  "fingerprint": "ac052fd805ef9a2e3fb404c6e538e7e8bf5f42335eb3119239eacba773200ff1",
+  "archived_at": "2026-07-11T02:47:34Z",
+  "metadata": {
+    "title": "Sense of Smell",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 5707,
+    "duration_human": "01:35:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Meroakajoteerree",
+      "02 Zeffon - Sense of Smell",
+      "03 Zeffon - The Certain Hairstyle",
+      "04 Zeffon - Misty Shroud"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sense-of-smell_ac052fd805ef"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/7eae3c89b3dc9f952cd6/Sense_of_Smell.tar"
+    }
+  }
+}
