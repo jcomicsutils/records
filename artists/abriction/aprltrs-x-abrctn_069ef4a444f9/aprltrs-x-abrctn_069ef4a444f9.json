@@ -1,0 +1,29 @@
+{
+  "id": "aprltrs-x-abrctn_069ef4a444f9",
+  "fingerprint": "069ef4a444f9b0d5c23798d27e50feaaf57f7ba1cbe6135bcd007cefc9e18c8f",
+  "archived_at": "2026-07-11T15:47:57Z",
+  "metadata": {
+    "title": "aprltrs x abrctn",
+    "artist": "abriction",
+    "year": "2025",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 1576,
+    "duration_human": "00:26:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 abriction - shiver",
+      "02 apriltears - magic night with you",
+      "03 apriltears - summer2022truelove"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/aprltrs-x-abrctn_069ef4a444f9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/868f5edd43495a9f28a9/aprltrs_x_abrctn.tar"
+    }
+  }
+}

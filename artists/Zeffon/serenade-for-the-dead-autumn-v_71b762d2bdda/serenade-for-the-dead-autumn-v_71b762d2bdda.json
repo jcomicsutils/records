@@ -1,0 +1,36 @@
+{
+  "id": "serenade-for-the-dead-autumn-v_71b762d2bdda",
+  "fingerprint": "71b762d2bdda73cc779caf604e25781038e08e9021989ddd761811db91d9e584",
+  "archived_at": "2026-07-11T15:47:44Z",
+  "metadata": {
+    "title": "Serenade for the Dead (Autumn V)",
+    "artist": "Zeffon",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 15133,
+    "duration_human": "04:12:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - I: Stormbringer",
+      "02 Zeffon - II: Psychosis (Stormbringer Outro)",
+      "03 Zeffon - Serenade for the Dead",
+      "04 Zeffon - IV: Stone Face",
+      "05 Zeffon - V: Perpetual Autumn",
+      "06 Zeffon - VI: Goetia",
+      "07 Zeffon - VII: Catatomentia",
+      "08 Zeffon - VIII: Cedij",
+      "09 Zeffon - IX: Oasis",
+      "10 Zeffon - X: Catatomentiumas",
+      "11 Zeffon - XI: Opehla Goesiadu Garma",
+      "12 Zeffon - XII: Stagouros",
+      "13 Zeffon - XIII: Xezbr"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/serenade-for-the-dead-autumn-v_71b762d2bdda"
+    }
+  }
+}
