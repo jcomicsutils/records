@@ -1,0 +1,27 @@
+{
+  "id": "bodhidharma_ee12b947aabb",
+  "fingerprint": "ee12b947aabb2127390d67c0a30949a425fe57aa85ee170a6a357b99351ca0c6",
+  "archived_at": "2026-07-11T18:07:01Z",
+  "metadata": {
+    "title": "Bodhidharma",
+    "artist": "Agriculture",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 383,
+    "duration_human": "00:06:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Agriculture - Bodhidharma"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bodhidharma_ee12b947aabb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/8c87a93e11a53008acdf/Bodhidharma.tar"
+    }
+  }
+}
