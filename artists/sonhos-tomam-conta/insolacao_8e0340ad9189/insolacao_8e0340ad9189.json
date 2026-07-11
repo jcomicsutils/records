@@ -1,0 +1,31 @@
+{
+  "id": "insolacao_8e0340ad9189",
+  "fingerprint": "8e0340ad918955b86886f1764489cd2b496c287eea2b37a7cf4d31e3c772db8f",
+  "archived_at": "2026-07-11T16:27:13Z",
+  "metadata": {
+    "title": "insolação",
+    "artist": "sonhos tomam conta",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1592,
+    "duration_human": "00:26:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 sonhos tomam conta - corpos gelados, manhãs de sol",
+      "02 sonhos tomam conta - sleep paralysis",
+      "03 sonhos tomam conta - nothing's gonna hurt you anymore",
+      "04 sonhos tomam conta - medo de morrer",
+      "05 sonhos tomam conta - a última vista"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/insolacao_8e0340ad9189"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/d24ddb8134c9f593b1fc/insola_o.tar"
+    }
+  }
+}
