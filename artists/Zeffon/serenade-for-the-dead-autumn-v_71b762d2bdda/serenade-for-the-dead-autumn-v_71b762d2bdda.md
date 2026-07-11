@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/serenade-for-the-dead-autumn-v_71b762d2bdda)
+- [FileDitch](https://fileditchfiles.st/beta12/ac41895bef436e4dae6e/Serenade_for_the_Dead_Autumn_V.tar)
 
 ## Tracklist
 
