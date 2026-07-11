@@ -1,0 +1,36 @@
+{
+  "id": "the-spiritual-sound_bbc2fc0ac016",
+  "fingerprint": "bbc2fc0ac0165ea76285b4763526039d4a1dc165d0d255a7ff092b8c78a215c7",
+  "archived_at": "2026-07-11T20:07:19Z",
+  "metadata": {
+    "title": "The Spiritual Sound",
+    "artist": "Agriculture",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2642,
+    "duration_human": "00:44:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Agriculture - My Garden",
+      "02 Agriculture - Flea",
+      "03 Agriculture - Micah (5: 15am)",
+      "04 Agriculture - The Weight",
+      "05 Agriculture - Serenity",
+      "06 Agriculture - The Spiritual Sound",
+      "07 Agriculture - Dan's Love Song",
+      "08 Agriculture - Bodhidharma",
+      "09 Agriculture - Hallelujah",
+      "10 Agriculture - The Reply"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-spiritual-sound_bbc2fc0ac016"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/e2294fc6bb3db4b624bb/The_Spiritual_Sound.tar"
+    }
+  }
+}
