@@ -1,0 +1,28 @@
+{
+  "id": "libertine-dissolves_9bce1e2f065d",
+  "fingerprint": "9bce1e2f065d4ddd77f0f208e33f0f83dbc27dfabe83207d5d334224a3036a68",
+  "archived_at": "2026-07-11T16:53:08Z",
+  "metadata": {
+    "title": "Libertine Dissolves",
+    "artist": "Deafheaven",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 647,
+    "duration_human": "00:10:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deafheaven - Libertine Dissolves",
+      "02 Deafheaven - Daedalus"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/libertine-dissolves_9bce1e2f065d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/a8d4ffc9195d286654a2/Libertine_Dissolves.tar"
+    }
+  }
+}
