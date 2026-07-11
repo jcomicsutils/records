@@ -1,0 +1,34 @@
+{
+  "id": "diorama_f6270869c752",
+  "fingerprint": "f6270869c752830f36ec13f1b6fbab9cefa3fd8e0771c5e17d0b28fb3a6ab9a8",
+  "archived_at": "2026-07-11T18:38:37Z",
+  "metadata": {
+    "title": "Diorama",
+    "artist": "møl",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2762,
+    "duration_human": "00:46:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 MØL - Fraktur",
+      "02 MØL - Photophobic",
+      "03 MØL - Serf",
+      "04 MØL - Vestige",
+      "05 MØL - Redacted",
+      "06 MØL - Itinerari",
+      "07 MØL - Tvesind",
+      "08 MØL - Diorama"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/diorama_f6270869c752"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/791ee97b428d26db194d/Diorama.tar"
+    }
+  }
+}
