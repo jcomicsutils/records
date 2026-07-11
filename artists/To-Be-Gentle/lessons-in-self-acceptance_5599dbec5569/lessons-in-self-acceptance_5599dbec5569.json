@@ -1,0 +1,28 @@
+{
+  "id": "lessons-in-self-acceptance_5599dbec5569",
+  "fingerprint": "5599dbec556938b52725841f222e097d65318d6523e04ba308f24a3cd211e6f9",
+  "archived_at": "2026-07-11T23:33:49Z",
+  "metadata": {
+    "title": "Lessons in Self-Acceptance",
+    "artist": "To Be Gentle",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 393,
+    "duration_human": "00:06:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 To Be Gentle - A Thousand Words",
+      "02 To Be Gentle - Anesthetize"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lessons-in-self-acceptance_5599dbec5569"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/e368aa78945bfbc69f36/Lessons_in_Self-Acceptance.tar"
+    }
+  }
+}

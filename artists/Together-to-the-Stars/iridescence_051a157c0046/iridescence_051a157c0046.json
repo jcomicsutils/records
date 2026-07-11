@@ -1,0 +1,29 @@
+{
+  "id": "iridescence_051a157c0046",
+  "fingerprint": "051a157c0046ca2dad73c93f0dd64196f41cdd0b104ebee2cb36fe225af86c9c",
+  "archived_at": "2026-07-11T23:33:35Z",
+  "metadata": {
+    "title": "Iridescence",
+    "artist": "Together to the Stars",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2662,
+    "duration_human": "00:44:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Together to the Stars - Ichor",
+      "02 Together to the Stars - Mourner",
+      "03 Together to the Stars - Malachite",
+      "04 Together to the Stars - Som en Glödande Krona",
+      "05 Together to the Stars - Pale Asters",
+      "06 Together to the Stars - Panopticon"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/iridescence_051a157c0046"
+    }
+  }
+}
