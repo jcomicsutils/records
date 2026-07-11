@@ -1,0 +1,31 @@
+{
+  "id": "a-bird-in-the-fault_91a6a1ef9970",
+  "fingerprint": "91a6a1ef997003b4b8abf9946468d0398de3ef4912399db076308f4b1ba57d6a",
+  "archived_at": "2026-07-11T23:55:39Z",
+  "metadata": {
+    "title": "A Bird in the Fault",
+    "artist": "明日の叙景",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1383,
+    "duration_human": "00:23:03",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 明日の叙景 - Pomegranate",
+      "02 明日の叙景 - Silent Tears",
+      "03 明日の叙景 - Easy",
+      "04 明日の叙景 - The Drowned Body",
+      "05 明日の叙景 - A Bird in the Fault"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-bird-in-the-fault_91a6a1ef9970"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/decb08e7caf699f7d573/A_Bird_in_the_Fault.tar"
+    }
+  }
+}
