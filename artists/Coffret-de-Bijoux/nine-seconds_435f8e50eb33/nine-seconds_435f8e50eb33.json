@@ -1,0 +1,27 @@
+{
+  "id": "nine-seconds_435f8e50eb33",
+  "fingerprint": "435f8e50eb33ada6bb4fecf71b29c5f19e2f1e3361cfcf667d9e391d986654ee",
+  "archived_at": "2026-07-11T22:56:15Z",
+  "metadata": {
+    "title": "Nine Seconds",
+    "artist": "Coffret de Bijoux",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1653,
+    "duration_human": "00:27:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Coffret de Bijoux - Dream Moment Sparkles in My Eyes Pastel Pink Fox Scintillating Fluffy Paws Reach Flowery Moment React Lotus Magic Singing Starry Daytime Arch Perfect Instead Nine Seconds Ever Soft Enough",
+      "02 Coffret de Bijoux - My Heart",
+      "03 Coffret de Bijoux - Nine",
+      "04 Coffret de Bijoux - Glitter Am"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nine-seconds_435f8e50eb33"
+    }
+  }
+}

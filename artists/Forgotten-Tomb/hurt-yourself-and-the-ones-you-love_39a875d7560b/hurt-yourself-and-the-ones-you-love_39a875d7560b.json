@@ -1,0 +1,33 @@
+{
+  "id": "hurt-yourself-and-the-ones-you-love_39a875d7560b",
+  "fingerprint": "39a875d7560ba4b7584cf709445d3c6faa6ae815d0e924bd33ca374ef684bb43",
+  "archived_at": "2026-07-11T22:55:35Z",
+  "metadata": {
+    "title": "Hurt Yourself and the Ones You Love",
+    "artist": "Forgotten Tomb",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3038,
+    "duration_human": "00:50:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Forgotten Tomb - Soulless Upheaval",
+      "02 Forgotten Tomb - King of the Undesirables",
+      "03 Forgotten Tomb - Bad Dreams Come True",
+      "04 Forgotten Tomb - Hurt Yourself and the Ones You Love",
+      "05 Forgotten Tomb - Mislead the Snakes",
+      "06 Forgotten Tomb - Dread the Sundown",
+      "07 Forgotten Tomb - Swallow the Void"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hurt-yourself-and-the-ones-you-love_39a875d7560b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/3add114c5e60ecbf663d/Hurt_Yourself_and_the_Ones_You_Love.tar"
+    }
+  }
+}
