@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/if-you-are-reading-this-we-are-all-connected-and-we-all-love-you_4f346fcd6970)
+- [FileDitch](https://fileditchfiles.st/beta12/2a5823f019d8319ee027/If_You_Are_Reading_This_We_Are_All_Connected_and_We_All_Love_You.tar)
 
 ## Tracklist
 
