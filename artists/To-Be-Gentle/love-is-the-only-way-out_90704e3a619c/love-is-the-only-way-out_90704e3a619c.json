@@ -1,0 +1,34 @@
+{
+  "id": "love-is-the-only-way-out_90704e3a619c",
+  "fingerprint": "90704e3a619c44b24c9b39b6476607f68464339ad9a545229a70d4136e071f21",
+  "archived_at": "2026-07-11T23:51:20Z",
+  "metadata": {
+    "title": "Love is the Only Way Out",
+    "artist": "To Be Gentle",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 684,
+    "duration_human": "00:11:24",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - Sometimes",
+      "02 To Be Gentle - Without",
+      "03 To Be Gentle - Citrus Trees",
+      "04 To Be Gentle - Matylda",
+      "05 To Be Gentle - You Sound Throughout Everything",
+      "06 To Be Gentle - Love is the Only Way Out",
+      "07 To Be Gentle - Aching",
+      "08 To Be Gentle - Ineffable"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/love-is-the-only-way-out_90704e3a619c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/ce14844dc16ecedf7a8d/Love_is_the_Only_Way_Out.tar"
+    }
+  }
+}
