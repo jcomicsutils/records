@@ -1,0 +1,28 @@
+{
+  "id": "promo_e271baca0d60",
+  "fingerprint": "e271baca0d603bbc8641ebd2ed4fba4aa365f32e0d99fec1d47a0a97d86ac293",
+  "archived_at": "2026-07-11T17:52:13Z",
+  "metadata": {
+    "title": "Promo",
+    "artist": "Lifelover",
+    "year": "2005",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 3225,
+    "duration_human": "00:53:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Lifelover - I",
+      "02 Lifelover - II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/promo_e271baca0d60"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/2c4b7d14e1d38fa7f598/Promo.tar"
+    }
+  }
+}
