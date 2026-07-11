@@ -1,0 +1,29 @@
+{
+  "id": "i-think-were-dying_984dfb7cfeda",
+  "fingerprint": "984dfb7cfeda0ea2f3039d64cd9b0c03db2481bb367641f5992ded2e2f6fa14f",
+  "archived_at": "2026-07-11T16:17:50Z",
+  "metadata": {
+    "title": "i think we're dying",
+    "artist": "abriction",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 812,
+    "duration_human": "00:13:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Abriction - i can't let the memories decide for me",
+      "02 Abriction - everything falls apart",
+      "03 Abriction - 15 letters"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-think-were-dying_984dfb7cfeda"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/f19d1dbfa46dd9f33168/i_think_we_re_dying.tar"
+    }
+  }
+}

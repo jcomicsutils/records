@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [i think we're dying](i-think-were-dying_984dfb7cfeda/i-think-were-dying_984dfb7cfeda.md) | 2021 | FLAC | 00:13:32 | [IA](https://archive.org/details/i-think-were-dying_984dfb7cfeda) [FileDitch](https://fileditchfiles.st/beta12/f19d1dbfa46dd9f33168/i_think_we_re_dying.tar) |
 | [143](143_b30766b7f3f0/143_b30766b7f3f0.md) | 2022 | FLAC | 00:07:39 | [IA](https://archive.org/details/143_b30766b7f3f0) [FileDitch](https://fileditchfiles.st/beta12/56e6a981ca70a55eaa16/143.tar) |
 | [Disorder](disorder_79dc71b14ce5/disorder_79dc71b14ce5.md) | 2022 | FLAC | 00:03:50 | [IA](https://archive.org/details/disorder_79dc71b14ce5) [FileDitch](https://fileditchfiles.st/beta12/56ffd003367768141853/Disorder.tar) |
 | [I Had A Dream That I Crashed My Dad's Jeep On The Bronx River Parkway](i-had-a-dream-that-i-crashed-my-dads-jeep-on-the-bronx-river-parkway_578d9b81904e/i-had-a-dream-that-i-crashed-my-dads-jeep-on-the-bronx-river-parkway_578d9b81904e.md) | 2022 | FLAC | 00:56:45 | [IA](https://archive.org/details/i-had-a-dream-that-i-crashed-my-dads-jeep-on-the-bronx-river-parkway_578d9b81904e) [FileDitch](https://fileditchfiles.st/beta12/9ed674c9ebbcf454b15a/I_Had_A_Dream_That_I_Crashed_My_Dad_s_Jeep_On_The_Bronx_River_Pa.tar) |
