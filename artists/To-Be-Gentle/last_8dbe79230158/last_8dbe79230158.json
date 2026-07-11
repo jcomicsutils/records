@@ -1,0 +1,27 @@
+{
+  "id": "last_8dbe79230158",
+  "fingerprint": "8dbe792301586cf2f8ea5a7876aab0282667425f1106e2a9e86dfedb2e6b6d56",
+  "archived_at": "2026-07-11T23:30:59Z",
+  "metadata": {
+    "title": "Last",
+    "artist": "To Be Gentle",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 443,
+    "duration_human": "00:07:23",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - Last"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/last_8dbe79230158"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/285b2de15cc8af598e2a/Last.tar"
+    }
+  }
+}
