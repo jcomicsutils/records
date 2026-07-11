@@ -1,0 +1,30 @@
+{
+  "id": "halfawake_77bb44914345",
+  "fingerprint": "77bb44914345b366ba8cd452becca7d47f92ffd4f536fc6a8638c5cbdda9c6aa",
+  "archived_at": "2026-07-11T17:45:29Z",
+  "metadata": {
+    "title": "Halfawake",
+    "artist": "Strawberry Hospital",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 934,
+    "duration_human": "00:15:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Strawberry Hospital - I'll Miss You, So Long",
+      "02 Strawberry Hospital - Mountain",
+      "03 Strawberry Hospital - Halfawake",
+      "04 Strawberry Hospital - Carlights"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/halfawake_77bb44914345"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/2ae65db9e8615d014d5a/Halfawake.tar"
+    }
+  }
+}
