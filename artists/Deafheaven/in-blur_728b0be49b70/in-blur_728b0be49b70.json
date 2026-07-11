@@ -1,0 +1,29 @@
+{
+  "id": "in-blur_728b0be49b70",
+  "fingerprint": "728b0be49b70fe563c11bab41afd5d3a11633d0e124074c1c9d55d92aa4aaa8e",
+  "archived_at": "2026-07-11T16:36:56Z",
+  "metadata": {
+    "title": "In Blur",
+    "artist": "Deafheaven",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1024,
+    "duration_human": "00:17:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deafheaven - In Blur",
+      "02 Deafheaven - The Gnashing",
+      "03 Deafheaven - Great Mass of Color"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/in-blur_728b0be49b70"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/37bf6d66e402bc3bb372/In_Blur.tar"
+    }
+  }
+}
