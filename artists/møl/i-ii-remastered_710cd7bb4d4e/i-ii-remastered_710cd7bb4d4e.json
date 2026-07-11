@@ -1,0 +1,32 @@
+{
+  "id": "i-ii-remastered_710cd7bb4d4e",
+  "fingerprint": "710cd7bb4d4ecb0eeedddbd221460f56be286aa78329fa539f4ca23576d9e9a0",
+  "archived_at": "2026-07-11T19:13:37Z",
+  "metadata": {
+    "title": "I / II (Remastered)",
+    "artist": "møl",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1656,
+    "duration_human": "00:27:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 MØL - Sundrowned (Remastered)",
+      "02 MØL - Airy (Remastered)",
+      "03 MØL - Makhachkala (Remastered)",
+      "04 MØL - Kathexis (Remastered)",
+      "05 MØL - Atacama (Remastered)",
+      "06 MØL - Rush (Remastered)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-ii-remastered_710cd7bb4d4e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/b82488c427d140f8a09a/I_-_II_Remastered.tar"
+    }
+  }
+}
