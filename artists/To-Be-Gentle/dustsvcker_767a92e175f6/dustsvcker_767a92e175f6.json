@@ -1,0 +1,27 @@
+{
+  "id": "dustsvcker_767a92e175f6",
+  "fingerprint": "767a92e175f6b1d2c628e3126ed172c45652091c49e28364b6df603aeb0576fb",
+  "archived_at": "2026-07-11T21:16:19Z",
+  "metadata": {
+    "title": "Dustsvcker",
+    "artist": "To Be Gentle",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 229,
+    "duration_human": "00:03:49",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - Dustsvcker"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dustsvcker_767a92e175f6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/b969e972512c4d8ec743/Dustsvcker.tar"
+    }
+  }
+}
