@@ -1,0 +1,29 @@
+{
+  "id": "beyond-the-light_5fe93473356b",
+  "fingerprint": "5fe93473356b5fb08226d6c2cc78ed5321dd7480c55a609a79759586026560ff",
+  "archived_at": "2026-07-11T20:15:00Z",
+  "metadata": {
+    "title": "Beyond the Light",
+    "artist": "Nocturnal Depression",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2138,
+    "duration_human": "00:35:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Wedard - Helion",
+      "02 Wedard - Universe in Mirror",
+      "03 Nocturnal Depression - When Darkness Cover My Soul"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/beyond-the-light_5fe93473356b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/8d8f1b99a8dda91673a4/Beyond_the_Light.tar"
+    }
+  }
+}
