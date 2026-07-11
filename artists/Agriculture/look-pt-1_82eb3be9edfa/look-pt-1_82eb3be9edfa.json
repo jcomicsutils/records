@@ -1,0 +1,27 @@
+{
+  "id": "look-pt-1_82eb3be9edfa",
+  "fingerprint": "82eb3be9edfa195c5d90a164af6a0ba1208bff224c3093476c13c793c5ba042f",
+  "archived_at": "2026-07-11T18:42:59Z",
+  "metadata": {
+    "title": "Look, Pt. 1",
+    "artist": "Agriculture",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 129,
+    "duration_human": "00:02:09",
+    "sampling_rate": "88.2kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Agriculture - Look, Pt. 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/look-pt-1_82eb3be9edfa"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/2720db5947b9308b2cc9/Look_Pt._1.tar"
+    }
+  }
+}
