@@ -1,0 +1,27 @@
+{
+  "id": "dollmaker_6196d9918822",
+  "fingerprint": "6196d9918822f91c5fc85ea907d2125800fc1ab31a5c5c2ab6791156f81a183d",
+  "archived_at": "2026-07-11T17:10:18Z",
+  "metadata": {
+    "title": "Dollmaker",
+    "artist": "Strawberry Hospital",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 153,
+    "duration_human": "00:02:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 buffalobang, Strawberry Hospital - Dollmaker"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dollmaker_6196d9918822"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/feffc4e04aed67d6eff3/Dollmaker.tar"
+    }
+  }
+}
