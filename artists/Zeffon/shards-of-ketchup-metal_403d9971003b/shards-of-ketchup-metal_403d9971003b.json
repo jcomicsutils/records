@@ -23,6 +23,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/shards-of-ketchup-metal_403d9971003b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/f1324a76f9eec7d93e01/Shards_of_Ketchup_Metal.tar"
     }
   }
 }

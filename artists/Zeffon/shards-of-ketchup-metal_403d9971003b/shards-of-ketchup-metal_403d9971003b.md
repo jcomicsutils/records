@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/shards-of-ketchup-metal_403d9971003b)
+- [FileDitch](https://fileditchfiles.st/beta12/f1324a76f9eec7d93e01/Shards_of_Ketchup_Metal.tar)
 
 ## Tracklist
 
