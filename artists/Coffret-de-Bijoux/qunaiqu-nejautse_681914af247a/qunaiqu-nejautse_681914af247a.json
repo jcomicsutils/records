@@ -1,0 +1,29 @@
+{
+  "id": "qunaiqu-nejautse_681914af247a",
+  "fingerprint": "681914af247a9037607d078c0fa87eae9b6b31ba6baa9ee1a12494d085b1eb79",
+  "archived_at": "2026-07-11T23:04:06Z",
+  "metadata": {
+    "title": "Qunaiqû Nèjautsè",
+    "artist": "Coffret de Bijoux",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2223,
+    "duration_human": "00:37:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Coffret de Bijoux - ssaytt nanst jait souq ssa jattjays tait qai vûtt qiqjaysjouva qunaiqû, ssètt tais souq viqsès naytt sût viqsat jè vaysjautt",
+      "02 Coffret de Bijoux - vi naittjaissoutvèq touqou",
+      "03 Coffret de Bijoux - sèqvaiquqnûsoutssayq sûnûq qayssi"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/qunaiqu-nejautse_681914af247a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/f895c0f62aebc27fbe58/Qunaiq_N_jauts.tar"
+    }
+  }
+}
