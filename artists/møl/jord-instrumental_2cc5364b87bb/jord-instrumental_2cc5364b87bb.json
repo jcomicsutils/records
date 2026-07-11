@@ -1,0 +1,34 @@
+{
+  "id": "jord-instrumental_2cc5364b87bb",
+  "fingerprint": "2cc5364b87bb1cbda257368213c73339d01d374037c17b747b76b653ab5c2cc0",
+  "archived_at": "2026-07-11T19:46:18Z",
+  "metadata": {
+    "title": "Jord (Instrumental)",
+    "artist": "møl",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2510,
+    "duration_human": "00:41:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 MØL - Storm (Instrumental)",
+      "02 MØL - Penumbra (Instrumental)",
+      "03 MØL - Bruma (Instrumental)",
+      "04 MØL - Vakuum (Instrumental)",
+      "05 MØL - Lambda (Instrumental)",
+      "06 MØL - Ligament (Instrumental)",
+      "07 MØL - Virga (Instrumental)",
+      "08 MØL - Jord (Instrumental)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/jord-instrumental_2cc5364b87bb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/ae0d93c958754c218db8/Jord_Instrumental.tar"
+    }
+  }
+}
