@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [The Circle Chant](the-circle-chant_67b927d88de2/the-circle-chant_67b927d88de2.md) | 2022 | FLAC | 00:10:15 | [IA](https://archive.org/details/the-circle-chant_67b927d88de2) [FileDitch](https://fileditchfiles.st/beta12/03d5d8793f548a511256/The_Circle_Chant.tar) |
 | [Agriculture](agriculture_ab33787829e8/agriculture_ab33787829e8.md) | 2023 | FLAC | 00:31:14 | [IA](https://archive.org/details/agriculture_ab33787829e8) [FileDitch](https://fileditchfiles.st/beta12/f5d76095ead6fc598bbc/Agriculture.tar) |
 | [Relier](relier_7b30f3b77e55/relier_7b30f3b77e55.md) | 2023 | FLAC | 00:13:44 | [IA](https://archive.org/details/relier_7b30f3b77e55) [FileDitch](https://fileditchfiles.st/beta12/c5e7650b396dbeee530b/Relier.tar) |
 | [Look, Pt. 1](look-pt-1_82eb3be9edfa/look-pt-1_82eb3be9edfa.md) | 2023 | FLAC | 00:02:09 | [IA](https://archive.org/details/look-pt-1_82eb3be9edfa) [FileDitch](https://fileditchfiles.st/beta12/2720db5947b9308b2cc9/Look_Pt._1.tar) |

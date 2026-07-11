@@ -1,0 +1,30 @@
+{
+  "id": "the-circle-chant_67b927d88de2",
+  "fingerprint": "67b927d88de2dc569ea1c89c425d4d13bb21a32787a898f3b6b3e60344a36eea",
+  "archived_at": "2026-07-11T19:23:57Z",
+  "metadata": {
+    "title": "The Circle Chant",
+    "artist": "Agriculture",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 615,
+    "duration_human": "00:10:15",
+    "sampling_rate": "88.2kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Agriculture - The Circle Chant",
+      "02 Agriculture - Salt",
+      "03 Agriculture - How to Keep Cool",
+      "04 Agriculture - The Circle Chant, Pt. 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-circle-chant_67b927d88de2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/03d5d8793f548a511256/The_Circle_Chant.tar"
+    }
+  }
+}
