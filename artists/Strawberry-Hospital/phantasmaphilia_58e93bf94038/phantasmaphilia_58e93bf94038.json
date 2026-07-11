@@ -1,0 +1,30 @@
+{
+  "id": "phantasmaphilia_58e93bf94038",
+  "fingerprint": "58e93bf94038f4efa9bb7a71e129866228ea7d4df5bacae36307c0806e929689",
+  "archived_at": "2026-07-11T17:50:28Z",
+  "metadata": {
+    "title": "Phantasmaphilia",
+    "artist": "Strawberry Hospital",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 726,
+    "duration_human": "00:12:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Strawberry Hospital - A Confession, A Cadaver",
+      "02 Strawberry Hospital - Tacit",
+      "03 Strawberry Hospital - Swanskin",
+      "04 Strawberry Hospital - Phantoma"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/phantasmaphilia_58e93bf94038"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/8390874d9e02b11bad19/Phantasmaphilia.tar"
+    }
+  }
+}
