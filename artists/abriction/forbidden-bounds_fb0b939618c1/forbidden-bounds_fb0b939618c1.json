@@ -1,0 +1,34 @@
+{
+  "id": "forbidden-bounds_fb0b939618c1",
+  "fingerprint": "fb0b939618c12b0b4e73e57143390213cb8a05b792cd4a542971d3d7af78cbc4",
+  "archived_at": "2026-07-11T16:09:39Z",
+  "metadata": {
+    "title": "Forbidden Bounds",
+    "artist": "abriction",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 3209,
+    "duration_human": "00:53:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Abriction - Tony Hawk's American Wasteland",
+      "02 Abriction - SHA-512",
+      "03 Abriction - Blood On The Tracks",
+      "04 Abriction - Your Eyes On The Sun",
+      "05 Abriction - Fall Into Yourself",
+      "06 Abriction - Knob Creek",
+      "07 Abriction - December",
+      "08 Abriction - Naranja"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/forbidden-bounds_fb0b939618c1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/1406e5d51717d7ba13eb/Forbidden_Bounds.tar"
+    }
+  }
+}

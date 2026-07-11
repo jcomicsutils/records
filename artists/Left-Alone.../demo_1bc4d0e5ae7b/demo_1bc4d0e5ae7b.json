@@ -1,0 +1,25 @@
+{
+  "id": "demo_1bc4d0e5ae7b",
+  "fingerprint": "1bc4d0e5ae7ba2e7c4e72bab683d852e729db605cba1cb259158f68257677475",
+  "archived_at": "2026-07-11T16:09:40Z",
+  "metadata": {
+    "title": "Demo",
+    "artist": "Left Alone...",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1708,
+    "duration_human": "00:28:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Left Alone... - Zweisamkeit",
+      "02 Left Alone... - Irgendwann"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/demo_1bc4d0e5ae7b"
+    }
+  }
+}
