@@ -1,0 +1,28 @@
+{
+  "id": "borderline-dias-perdidos_8f79bbbf9329",
+  "fingerprint": "8f79bbbf93292065429017cd7e07cd7cd10c0d3119463543680b42d3eca2bf84",
+  "archived_at": "2026-07-11T15:53:28Z",
+  "metadata": {
+    "title": "borderline / dias perdidos",
+    "artist": "sonhos tomam conta",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 489,
+    "duration_human": "00:08:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 sonhos tomam conta - borderline",
+      "02 sonhos tomam conta - dias perdidos"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/borderline-dias-perdidos_8f79bbbf9329"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/484e3c8e0724e94a0c09/borderline_-_dias_perdidos.tar"
+    }
+  }
+}
