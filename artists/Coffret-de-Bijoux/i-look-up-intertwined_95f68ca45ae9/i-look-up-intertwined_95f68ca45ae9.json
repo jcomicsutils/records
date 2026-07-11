@@ -1,0 +1,29 @@
+{
+  "id": "i-look-up-intertwined_95f68ca45ae9",
+  "fingerprint": "95f68ca45ae9ff160fc043c25d97e2ab5f548a198998cfd39eb31bf7c20e0ead",
+  "archived_at": "2026-07-11T21:50:42Z",
+  "metadata": {
+    "title": "i look up, intertwined",
+    "artist": "Coffret de Bijoux",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 669,
+    "duration_human": "00:11:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Coffret de Bijoux - Blue Shimmer",
+      "02 Coffret de Bijoux - The Light I Hold in My Hands",
+      "03 Coffret de Bijoux - Runaway"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-look-up-intertwined_95f68ca45ae9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/67ba74c857fac5a800d2/i_look_up_intertwined.tar"
+    }
+  }
+}
