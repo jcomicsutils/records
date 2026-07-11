@@ -25,6 +25,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/darkness-in-stereo-eine-symphonie-des-todes_d7d9cba83e0f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/4d311a5735c7ed8ca27f/Darkness_in_Stereo_Eine_Symphonie_Des_Todes.tar"
     }
   }
 }
