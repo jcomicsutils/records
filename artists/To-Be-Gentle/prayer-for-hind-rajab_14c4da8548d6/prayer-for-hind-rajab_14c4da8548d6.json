@@ -1,0 +1,27 @@
+{
+  "id": "prayer-for-hind-rajab_14c4da8548d6",
+  "fingerprint": "14c4da8548d68a08414a4f06d5d22802185c199b4d20d33c35af34aabb520af7",
+  "archived_at": "2026-07-11T23:52:10Z",
+  "metadata": {
+    "title": "Prayer for Hind Rajab",
+    "artist": "To Be Gentle",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 166,
+    "duration_human": "00:02:46",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - Prayer for Hind Rajab"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/prayer-for-hind-rajab_14c4da8548d6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/40d32ce8bc57660673ac/Prayer_for_Hind_Rajab.tar"
+    }
+  }
+}
