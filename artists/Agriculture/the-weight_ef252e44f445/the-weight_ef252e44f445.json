@@ -1,0 +1,28 @@
+{
+  "id": "the-weight_ef252e44f445",
+  "fingerprint": "ef252e44f445d9ac93f422a1e83724be7570d6cfc5802b7ea9878ef2e86ae821",
+  "archived_at": "2026-07-11T20:17:46Z",
+  "metadata": {
+    "title": "The Weight",
+    "artist": "Agriculture",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 726,
+    "duration_human": "00:12:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Agriculture - The Weight",
+      "02 Agriculture - Bodhidharma"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-weight_ef252e44f445"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/91a20ef41533a40096b4/The_Weight.tar"
+    }
+  }
+}
