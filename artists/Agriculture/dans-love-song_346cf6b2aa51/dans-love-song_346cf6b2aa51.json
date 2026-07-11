@@ -1,0 +1,29 @@
+{
+  "id": "dans-love-song_346cf6b2aa51",
+  "fingerprint": "346cf6b2aa516fa109d8aa68be1571449719bf34ba3367e701f7b96051c8e3b1",
+  "archived_at": "2026-07-11T18:21:49Z",
+  "metadata": {
+    "title": "Dan's Love Song",
+    "artist": "Agriculture",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1017,
+    "duration_human": "00:16:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Agriculture - Dan's Love Song",
+      "02 Agriculture - The Weight",
+      "03 Agriculture - Bodhidharma"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dans-love-song_346cf6b2aa51"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/9bc496c52b513e18577f/Dan_s_Love_Song.tar"
+    }
+  }
+}
