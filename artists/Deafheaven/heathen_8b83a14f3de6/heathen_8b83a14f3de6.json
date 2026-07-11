@@ -1,0 +1,27 @@
+{
+  "id": "heathen_8b83a14f3de6",
+  "fingerprint": "8b83a14f3de6bd64bac23878bfc8f5ac26b519ea2c1716a8ef7825917eee1108",
+  "archived_at": "2026-07-11T16:29:26Z",
+  "metadata": {
+    "title": "Heathen",
+    "artist": "Deafheaven",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 302,
+    "duration_human": "00:05:02",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deafheaven - Heathen"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/heathen_8b83a14f3de6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/d4d07cc60fc7028ff76d/Heathen.tar"
+    }
+  }
+}
