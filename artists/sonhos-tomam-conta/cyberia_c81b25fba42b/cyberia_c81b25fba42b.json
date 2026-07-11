@@ -1,0 +1,29 @@
+{
+  "id": "cyberia_c81b25fba42b",
+  "fingerprint": "c81b25fba42b589cc5e0e09742af7939f95707fced613b732753bdd5df923dd4",
+  "archived_at": "2026-07-11T16:00:29Z",
+  "metadata": {
+    "title": "Cyberia",
+    "artist": "sonhos tomam conta",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 836,
+    "duration_human": "00:13:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 sonhos tomam conta - Sonhos, Etc.",
+      "02 sonhos tomam conta - To Passando Necessidade",
+      "03 sonhos tomam conta - Eclipse"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cyberia_c81b25fba42b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/dc43d1c6953f3ddade01/Cyberia.tar"
+    }
+  }
+}
