@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/demo_1bc4d0e5ae7b)
+- [FileDitch](https://fileditchfiles.st/beta12/15bb6780427d31e31c1e/Demo.tar)
 
 ## Tracklist
 
