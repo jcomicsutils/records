@@ -1,0 +1,38 @@
+{
+  "id": "erotik_1c57c50ad5ab",
+  "fingerprint": "1c57c50ad5aba0c4c9706554ca682521355dcd8c7a56ae611735a7e1fcad73ea",
+  "archived_at": "2026-07-11T17:17:33Z",
+  "metadata": {
+    "title": "Erotik",
+    "artist": "Lifelover",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3162,
+    "duration_human": "00:52:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lifelover - Förspel & Intrång",
+      "02 Lifelover - Sweet Illness of Mine",
+      "03 Lifelover - I Love (To Hurt) You",
+      "04 Lifelover - En Man I Sina Sämsta År",
+      "05 Lifelover - Dödens Landsväg",
+      "06 Lifelover - Välkommen Till Pulvercity",
+      "07 Lifelover - Saltvatten (Du + Jag VS. Tellus)",
+      "08 Lifelover - Besatt",
+      "09 Lifelover - Höstdepressioner",
+      "10 Lifelover - Humörets Bottenvåning",
+      "11 Lifelover - Museum of Past Affections",
+      "12 Lifelover - Nitlott"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/erotik_1c57c50ad5ab"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/89c20831937f1b3850fc/Erotik.tar"
+    }
+  }
+}
