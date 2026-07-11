@@ -1,0 +1,32 @@
+{
+  "id": "loves-burial-ground_daba7bc57cdc",
+  "fingerprint": "daba7bc57cdcaa5b5d09ae165da4adfc160044a3288073b90b339f1df9927632",
+  "archived_at": "2026-07-11T23:14:56Z",
+  "metadata": {
+    "title": "Love's Burial Ground",
+    "artist": "Forgotten Tomb",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3914,
+    "duration_human": "01:05:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Forgotten Tomb - Malus Vivendi Pt. I (Intro)",
+      "02 Forgotten Tomb - Kill Life",
+      "03 Forgotten Tomb - Alone",
+      "04 Forgotten Tomb - House of Nostalgia",
+      "05 Forgotten Tomb - Malus Vivendi Pt. II (Intermezzo)",
+      "06 Forgotten Tomb - Love's Burial Ground",
+      "07 Forgotten Tomb - Slave to Negativity",
+      "08 Forgotten Tomb - Forgotten Tomb MMIII",
+      "09 Forgotten Tomb - Malus Vivendi Pt. III (Outro)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/loves-burial-ground_daba7bc57cdc"
+    }
+  }
+}

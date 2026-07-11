@@ -1,0 +1,28 @@
+{
+  "id": "shorelines-vii-pranks-of-bloodswords_414ef555993b",
+  "fingerprint": "414ef555993bd0bc3118967f3ab050b690c7dca13f036d3072667be34335bf71",
+  "archived_at": "2026-07-11T23:14:12Z",
+  "metadata": {
+    "title": "Shorelines VII (Pranks of Bloodswords)",
+    "artist": "Zeffon",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 6452,
+    "duration_human": "01:47:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - D$$TA1A (Drop a Fabled Woodland Night)",
+      "02 Zeffon - Area of Effect Around the Isle of the Shadow Forest"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/shorelines-vii-pranks-of-bloodswords_414ef555993b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/0d869e29eade7b1e8892/Shorelines_VII_Pranks_of_Bloodswords.tar"
+    }
+  }
+}
