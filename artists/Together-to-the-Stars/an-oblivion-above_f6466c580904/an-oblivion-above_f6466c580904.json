@@ -1,0 +1,31 @@
+{
+  "id": "an-oblivion-above_f6466c580904",
+  "fingerprint": "f6466c580904362f95d93cb2264fed6aeb3945d16de933a6ddac909ef00fe872",
+  "archived_at": "2026-07-11T22:48:27Z",
+  "metadata": {
+    "title": "An Oblivion Above",
+    "artist": "Together to the Stars",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2554,
+    "duration_human": "00:42:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Together to the Stars - Timeless",
+      "02 Together to the Stars - Oblivion",
+      "03 Together to the Stars - Apathy",
+      "04 Together to the Stars - Shrine",
+      "05 Together to the Stars - Sanctuary"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/an-oblivion-above_f6466c580904"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/efe38f6f5f418d1e7eb3/An_Oblivion_Above.tar"
+    }
+  }
+}
