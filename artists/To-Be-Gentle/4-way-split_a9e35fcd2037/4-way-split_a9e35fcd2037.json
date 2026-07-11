@@ -1,0 +1,34 @@
+{
+  "id": "4-way-split_a9e35fcd2037",
+  "fingerprint": "a9e35fcd2037fee914b70a5987ee10ff73adfb9d2170a248076cd70bec5d3ccf",
+  "archived_at": "2026-07-11T17:37:28Z",
+  "metadata": {
+    "title": "4 Way Split",
+    "artist": "To Be Gentle",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1318,
+    "duration_human": "00:21:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Armywives - Pulling Weeds",
+      "02 Armywives - Relegated",
+      "03 To Be Gentle - Attachment",
+      "04 To Be Gentle - I Am What I Always Was",
+      "05 Alas - Kaikki on Sees",
+      "06 Alas - Violetti",
+      "07 Mirin Bide - Reducidxs",
+      "08 Mirin Bide - Remolear La Vida"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/4-way-split_a9e35fcd2037"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/72967932006d49150641/4_Way_Split.tar"
+    }
+  }
+}
