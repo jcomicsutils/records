@@ -121,6 +121,7 @@
 - [The Runners From 1984](The-Runners-From-1984/The-Runners-From-1984.md)
 - [The Sleeping Moustache](The-Sleeping-Moustache/The-Sleeping-Moustache.md)
 - [Thorr's Hammer](Thorr's-Hammer/Thorr's-Hammer.md)
+- [To Be Gentle](To-Be-Gentle/To-Be-Gentle.md)
 - [Tokyo 77](Tokyo-77/Tokyo-77.md)
 - [Trouble Salad](Trouble-Salad/Trouble-Salad.md)
 - [Ursus Wallis](Ursus-Wallis/Ursus-Wallis.md)

@@ -1,0 +1,29 @@
+{
+  "id": "3-covers_dfe152646247",
+  "fingerprint": "dfe15264624793b839e7b94f5f33db7d7ab502fea10800ef38f3dd785c58e29f",
+  "archived_at": "2026-07-11T17:29:21Z",
+  "metadata": {
+    "title": "3 Covers",
+    "artist": "To Be Gentle",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 772,
+    "duration_human": "00:12:52",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - Symmetry - Title Fight",
+      "02 To Be Gentle - I Want to Be With You - Sadness",
+      "03 To Be Gentle - Miasma - The Black Dahlia Murder"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/3-covers_dfe152646247"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/23d6982f710009a2ab73/3_Covers.tar"
+    }
+  }
+}
