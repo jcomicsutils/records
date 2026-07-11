@@ -1,0 +1,29 @@
+{
+  "id": "amplifier_a4dfcfadbfde",
+  "fingerprint": "a4dfcfadbfde7e9f92966914730bb37753232265e724baf97801a6910d4ffb89",
+  "archived_at": "2026-07-11T18:15:30Z",
+  "metadata": {
+    "title": "Amplifier",
+    "artist": "To Be Gentle",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 794,
+    "duration_human": "00:13:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 To Be Gentle, Opheliac - Deterred Route",
+      "02 To Be Gentle, Opheliac - Trapped in Analogue",
+      "03 To Be Gentle, Opheliac - Gleaming and Gone"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/amplifier_a4dfcfadbfde"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/bf74b5c4967dd4619aa1/Amplifier.tar"
+    }
+  }
+}
