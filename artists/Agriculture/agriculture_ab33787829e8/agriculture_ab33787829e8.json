@@ -1,0 +1,32 @@
+{
+  "id": "agriculture_ab33787829e8",
+  "fingerprint": "ab33787829e8657810e97a02bdbeca3bb41482935305a932f16ed493615219a0",
+  "archived_at": "2026-07-11T18:05:31Z",
+  "metadata": {
+    "title": "Agriculture",
+    "artist": "Agriculture",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1874,
+    "duration_human": "00:31:14",
+    "sampling_rate": "88.2kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Agriculture - The Glory of the Ocean",
+      "02 Agriculture - The Well",
+      "03 Agriculture - Look, Pt. 1",
+      "04 Agriculture - Look, Pt. 2",
+      "05 Agriculture - Look, Pt. 3",
+      "06 Agriculture - Relier"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/agriculture_ab33787829e8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/f5d76095ead6fc598bbc/Agriculture.tar"
+    }
+  }
+}
