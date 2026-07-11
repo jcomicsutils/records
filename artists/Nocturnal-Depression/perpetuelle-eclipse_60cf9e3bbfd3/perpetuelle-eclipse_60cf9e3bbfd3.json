@@ -1,0 +1,32 @@
+{
+  "id": "perpetuelle-eclipse_60cf9e3bbfd3",
+  "fingerprint": "60cf9e3bbfd3cd324351452bf332c410ebfcdd66e01dd235c806521b6cade008",
+  "archived_at": "2026-07-11T23:10:33Z",
+  "metadata": {
+    "title": "Perpétuelle Eclipse",
+    "artist": "Nocturnal Depression",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3138,
+    "duration_human": "00:52:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nocturnal Depression - Waltzing Among Graves",
+      "02 Nocturnal Depression - When My Time Has Come to Die (LP)",
+      "03 Nocturnal Depression - Self Murdered Woods",
+      "04 Nocturnal Depression - Perpétuelle éclipse",
+      "05 Nocturnal Depression - Endless Slumber",
+      "06 Nocturnal Depression - Footprints in the Dust"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/perpetuelle-eclipse_60cf9e3bbfd3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/49734aa5110dfb027fb2/Perp_tuelle_Eclipse.tar"
+    }
+  }
+}
