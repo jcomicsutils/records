@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/let-us-go-then-you-and-i_f570d87b8717)
+- [FileDitch](https://fileditchfiles.st/beta12/1d1a7e33726b7ea3b2da/Let_Us_Go_Then_You_and_I.tar)
 
 ## Tracklist
 
