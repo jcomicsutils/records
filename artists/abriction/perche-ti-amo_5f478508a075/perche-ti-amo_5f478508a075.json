@@ -1,0 +1,27 @@
+{
+  "id": "perche-ti-amo_5f478508a075",
+  "fingerprint": "5f478508a075ee50667a4cf6b3dbcc1e8bc08a37e748305b8871cab1c54f98a9",
+  "archived_at": "2026-07-11T16:36:45Z",
+  "metadata": {
+    "title": "Perché ti amo",
+    "artist": "abriction",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 260,
+    "duration_human": "00:04:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Abriction - Perché ti amo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/perche-ti-amo_5f478508a075"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/c14f9493a1ecdae297a0/Perch_ti_amo.tar"
+    }
+  }
+}
