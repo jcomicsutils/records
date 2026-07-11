@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/verrat_fce54cb53c56)
+- [FileDitch](https://fileditchfiles.st/beta12/ca9c8851203e75d8fbdb/Verrat.tar)
 
 ## Tracklist
 
