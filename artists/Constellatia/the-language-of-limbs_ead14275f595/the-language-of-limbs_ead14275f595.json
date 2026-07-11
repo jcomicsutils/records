@@ -1,0 +1,30 @@
+{
+  "id": "the-language-of-limbs_ead14275f595",
+  "fingerprint": "ead14275f59581d08e034388025bf0ef926abcd62f8b24d13c26f766926f4e12",
+  "archived_at": "2026-07-11T15:49:21Z",
+  "metadata": {
+    "title": "The Language of Limbs",
+    "artist": "Constellatia",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2101,
+    "duration_human": "00:35:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Constellatia - All Nights Belong to You",
+      "02 Constellatia - In Acclamation",
+      "03 Constellatia - Empyrean",
+      "04 Constellatia - The Garden"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-language-of-limbs_ead14275f595"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/357078a2c6d6c3ed79d9/The_Language_of_Limbs.tar"
+    }
+  }
+}
