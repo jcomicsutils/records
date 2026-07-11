@@ -1,0 +1,37 @@
+{
+  "id": "wierd_e8c5d4b0443f",
+  "fingerprint": "e8c5d4b0443f30d346e11a5f4692f2d2bd1221c201deecab3c9d1b4adce391bf",
+  "archived_at": "2026-07-11T17:07:23Z",
+  "metadata": {
+    "title": "wierd",
+    "artist": "sonhos tomam conta",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 3083,
+    "duration_human": "00:51:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 sonhos tomam conta - antes de dormir",
+      "02 sonhos tomam conta - o ar nos meus pulmões",
+      "03 sonhos tomam conta - sonhos, etc.",
+      "04 sonhos tomam conta - seu corpo é gelado, mas você ainda está viva",
+      "05 sonhos tomam conta - apatetico",
+      "06 sonhos tomam conta - the beginning of risperidone",
+      "07 sonhos tomam conta - eclipse",
+      "08 sonhos tomam conta - voidgazer",
+      "09 sonhos tomam conta - sinto falta de todos os vazios que já preenchi",
+      "10 sonhos tomam conta - to passando necessidade",
+      "11 sonhos tomam conta - anime de mecha"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wierd_e8c5d4b0443f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/428b5c1dd23f3b01dbfe/wierd.tar"
+    }
+  }
+}
