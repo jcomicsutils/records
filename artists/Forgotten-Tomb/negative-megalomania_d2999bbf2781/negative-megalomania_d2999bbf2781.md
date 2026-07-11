@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/negative-megalomania_d2999bbf2781)
+- [FileDitch](https://fileditchfiles.st/beta12/c1c708ccae7db892c910/Negative_Megalomania.tar)
 
 ## Tracklist
 
