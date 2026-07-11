@@ -1,0 +1,27 @@
+{
+  "id": "pinkstream_f8b26edabfa9",
+  "fingerprint": "f8b26edabfa9e0eba69f3f6b495a4c7ae7669a925fa48e7a3489dbfe5794a916",
+  "archived_at": "2026-07-11T16:47:10Z",
+  "metadata": {
+    "title": "pinkstream",
+    "artist": "abriction",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 507,
+    "duration_human": "00:08:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Abriction - pinkstream"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pinkstream_f8b26edabfa9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/1119ad09a11dbf6d1a98/pinkstream.tar"
+    }
+  }
+}
