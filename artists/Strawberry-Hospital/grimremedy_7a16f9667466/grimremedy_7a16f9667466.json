@@ -1,0 +1,32 @@
+{
+  "id": "grimremedy_7a16f9667466",
+  "fingerprint": "7a16f9667466e3be1ac3c83d89265b2a248e5df7ee1846d3f90d3d32a656ce61",
+  "archived_at": "2026-07-11T17:39:08Z",
+  "metadata": {
+    "title": "Grimremedy",
+    "artist": "Strawberry Hospital",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1292,
+    "duration_human": "00:21:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Strawberry Hospital - Pygmalion",
+      "02 Strawberry Hospital - Grimremedy",
+      "03 Strawberry Hospital - Songbird",
+      "04 Strawberry Hospital - Bruises",
+      "05 Strawberry Hospital - Source of Ice (hyi Cover)",
+      "06 Strawberry Hospital - Blissflicker"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/grimremedy_7a16f9667466"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/3ff0babe0b12fb6cc90a/Grimremedy.tar"
+    }
+  }
+}
