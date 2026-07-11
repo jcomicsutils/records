@@ -1,0 +1,28 @@
+{
+  "id": "in-the-house-of-angel-flesh_756da8007a9c",
+  "fingerprint": "756da8007a9cafb591fa4e33b71b30e73550b16ba0c49543e42130eb6834aa16",
+  "archived_at": "2026-07-11T18:23:52Z",
+  "metadata": {
+    "title": "In The House Of Angel Flesh",
+    "artist": "Agriculture",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 750,
+    "duration_human": "00:12:30",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Agriculture - In The House Of Angel Flesh",
+      "02 Agriculture - Living Is Easy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/in-the-house-of-angel-flesh_756da8007a9c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/104c96a02effcc26d41a/In_The_House_Of_Angel_Flesh.tar"
+    }
+  }
+}
