@@ -117,6 +117,7 @@
 - [Sugar Wounds](Sugar-Wounds/Sugar-Wounds.md)
 - [Sunn O\)\)\)](Sunn-O%29%29%29/Sunn-O%29%29%29.md)
 - [Tai Gostei](Tai-Gostei/Tai-Gostei.md)
+- [Tardigrada](Tardigrada/Tardigrada.md)
 - [Tarentel](Tarentel/Tarentel.md)
 - [Teeth Of Lions Rule The Divine](Teeth-Of-Lions-Rule-The-Divine/Teeth-Of-Lions-Rule-The-Divine.md)
 - [Text of Light](Text-of-Light/Text-of-Light.md)

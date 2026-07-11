@@ -1,0 +1,36 @@
+{
+  "id": "emotionale-odnis_339d63354acf",
+  "fingerprint": "339d63354acfceb53786f048ceebbc688c98daf600c1579af679a9a6cd00e45c",
+  "archived_at": "2026-07-11T20:11:09Z",
+  "metadata": {
+    "title": "Emotionale Ödnis",
+    "artist": "Tardigrada",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3624,
+    "duration_human": "01:00:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Tardigrada - I",
+      "02 Tardigrada - E Sturm Zieht Uf",
+      "03 Tardigrada - II",
+      "04 Tardigrada - Die Wand",
+      "05 Tardigrada - III",
+      "06 Tardigrada - Erschöpft",
+      "07 Tardigrada - IV",
+      "08 Tardigrada - Emotionale Ödnis",
+      "09 Tardigrada - V",
+      "10 Tardigrada - Verfall"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/emotionale-odnis_339d63354acf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/5d7bd06049c03afccef6/Emotionale_dnis.tar"
+    }
+  }
+}
