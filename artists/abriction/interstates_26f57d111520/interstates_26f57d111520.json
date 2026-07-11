@@ -1,0 +1,35 @@
+{
+  "id": "interstates_26f57d111520",
+  "fingerprint": "26f57d11152013e87b95a6b5e48601ec15fdbb035831d09cff2aad5fa1f43b92",
+  "archived_at": "2026-07-11T16:33:42Z",
+  "metadata": {
+    "title": "Interstates",
+    "artist": "abriction",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 4972,
+    "duration_human": "01:22:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Abriction - Stargazing",
+      "02 Abriction - Rose gold",
+      "03 Abriction - Cloudflare",
+      "04 Abriction - Drifting endless pace",
+      "05 Abriction - Lost in the rain",
+      "06 Abriction - Fly away",
+      "07 Abriction - Purity",
+      "08 Abriction - Her kiss in red light",
+      "09 Abriction - Like every sunshower, you shine through the rain"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/interstates_26f57d111520"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/33f5481f633615feb21d/Interstates.tar"
+    }
+  }
+}
