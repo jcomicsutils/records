@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/i-am-a-spiritual-being-having-a-human-experience_73eb3329b8c7)
+- [FileDitch](https://fileditchfiles.st/beta12/ce54bca07cf325c0add7/I_Am_a_Spiritual_Being_Having_a_Human_Experience.tar)
 
 ## Tracklist
 
