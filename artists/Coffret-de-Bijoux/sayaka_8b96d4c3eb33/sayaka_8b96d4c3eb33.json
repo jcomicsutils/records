@@ -1,0 +1,31 @@
+{
+  "id": "sayaka_8b96d4c3eb33",
+  "fingerprint": "8b96d4c3eb33e81c754bde747bd8e5529b1c670216295a101cfd025aa6b1d2b3",
+  "archived_at": "2026-07-11T23:07:50Z",
+  "metadata": {
+    "title": "Sayaka",
+    "artist": "Coffret de Bijoux",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1547,
+    "duration_human": "00:25:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Coffret de Bijoux - Ada khaeh!",
+      "02 Coffret de Bijoux - Pastel Heart",
+      "03 Coffret de Bijoux - Jua ganvana utun'binayl ula we jjau qupan yvelt",
+      "04 Coffret de Bijoux - Prairie",
+      "05 Coffret de Bijoux - Qhuq'khaeqlhub laeh"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sayaka_8b96d4c3eb33"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/1113435c5583c61c169a/Sayaka.tar"
+    }
+  }
+}
