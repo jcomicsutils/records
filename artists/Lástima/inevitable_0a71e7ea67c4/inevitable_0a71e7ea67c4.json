@@ -1,0 +1,27 @@
+{
+  "id": "inevitable_0a71e7ea67c4",
+  "fingerprint": "0a71e7ea67c470e81abcd0b0aaf549db8cc5cd85330ca8be2bf602f28cbe9b17",
+  "archived_at": "2026-07-11T15:57:25Z",
+  "metadata": {
+    "title": "Inevitable",
+    "artist": "Lástima",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 275,
+    "duration_human": "00:04:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lástima - Inevitable"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/inevitable_0a71e7ea67c4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/58cd887a44b214b4124b/Inevitable.tar"
+    }
+  }
+}
