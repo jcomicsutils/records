@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Møl](mol_2c6d3a0a190b/mol_2c6d3a0a190b.md) | 2014 | FLAC | 00:13:49 | [IA](https://archive.org/details/mol_2c6d3a0a190b) [FileDitch](https://fileditchfiles.st/beta12/b7fa599fa55639a75974/M_l.tar) |
 | [II](ii_4ea26d76db5a/ii_4ea26d76db5a.md) | 2015 | FLAC | 00:13:48 | [IA](https://archive.org/details/ii_4ea26d76db5a) [FileDitch](https://fileditchfiles.st/beta12/9b623f26b5ca48e1532f/II.tar) |
 | [Jord](jord_4d92d1511a9e/jord_4d92d1511a9e.md) | 2018 | FLAC | 00:41:34 | [IA](https://archive.org/details/jord_4d92d1511a9e) [FileDitch](https://fileditchfiles.st/beta12/2f959cbae59f70f54696/Jord.tar) |
 | [Jord \(Instrumental\)](jord-instrumental_2cc5364b87bb/jord-instrumental_2cc5364b87bb.md) | 2018 | FLAC | 00:41:50 | [IA](https://archive.org/details/jord-instrumental_2cc5364b87bb) [FileDitch](https://fileditchfiles.st/beta12/ae0d93c958754c218db8/Jord_Instrumental.tar) |

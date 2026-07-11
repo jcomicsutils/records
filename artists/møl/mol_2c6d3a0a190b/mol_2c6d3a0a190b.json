@@ -1,0 +1,29 @@
+{
+  "id": "mol_2c6d3a0a190b",
+  "fingerprint": "2c6d3a0a190bf156bdf519a248506d2b734bc95ddd2afea60f94582341adcd5f",
+  "archived_at": "2026-07-11T20:05:48Z",
+  "metadata": {
+    "title": "Møl",
+    "artist": "møl",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 829,
+    "duration_human": "00:13:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 MØL - Sundrowned",
+      "02 MØL - Airy",
+      "03 MØL - Makhachkala"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mol_2c6d3a0a190b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/b7fa599fa55639a75974/M_l.tar"
+    }
+  }
+}
