@@ -1,0 +1,33 @@
+{
+  "id": "reflections-of-a-sad-soul_99966ba52c3a",
+  "fingerprint": "99966ba52c3a8031da61369f9a6c58458d1f2be5d1c73bb02e58a5567ccbf1e6",
+  "archived_at": "2026-07-11T23:26:13Z",
+  "metadata": {
+    "title": "Reflections of a Sad Soul",
+    "artist": "Nocturnal Depression",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 4000,
+    "duration_human": "01:06:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nocturnal Depression - Intro",
+      "02 Nocturnal Depression - The Whispering Spectrum",
+      "03 Nocturnal Depression - Fading Away in the Fog",
+      "04 Nocturnal Depression - Solitude and Despair",
+      "05 Nocturnal Depression - Her Ghost Haunts These Walls",
+      "06 Nocturnal Depression - Nevica",
+      "07 Nocturnal Depression - Voices From Inside"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/reflections-of-a-sad-soul_99966ba52c3a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/f9fc08c68906cb108139/Reflections_of_a_Sad_Soul.tar"
+    }
+  }
+}
