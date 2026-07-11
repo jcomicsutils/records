@@ -1,0 +1,27 @@
+{
+  "id": "for-you-i-could-write-one-thousand-symphonies_efad2c31b75a",
+  "fingerprint": "efad2c31b75ab8ebe5a468169c8fef559fd87b4f76d79f9e03e3345611c35e77",
+  "archived_at": "2026-07-11T21:46:23Z",
+  "metadata": {
+    "title": "For You, I Could Write One Thousand Symphonies",
+    "artist": "To Be Gentle",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 578,
+    "duration_human": "00:09:38",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - For You, I Could Write One Thousand Symphonies"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/for-you-i-could-write-one-thousand-symphonies_efad2c31b75a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/682ce34f0ed1ab60e551/For_You_I_Could_Write_One_Thousand_Symphonies.tar"
+    }
+  }
+}
