@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/near-to-the-stars_4b2b7eb1cc73)
+- [FileDitch](https://fileditchfiles.st/beta12/6ae580eace4c2c0b1b59/Near_to_the_Stars.tar)
 
 ## Tracklist
 
