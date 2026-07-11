@@ -1,0 +1,33 @@
+{
+  "id": "hypnagogia_414c0bc3419f",
+  "fingerprint": "414c0bc3419ffc2a7d296b1dd2564dbd319b6488236d28872d60c61a229b9cff",
+  "archived_at": "2026-07-11T16:15:30Z",
+  "metadata": {
+    "title": "hypnagogia",
+    "artist": "sonhos tomam conta",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2465,
+    "duration_human": "00:41:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 sonhos tomam conta - alprazolam vs. vinho barato vs. 6 da manhã",
+      "02 sonhos tomam conta - lonely people in neon cities",
+      "03 sonhos tomam conta - aurora",
+      "04 sonhos tomam conta - meu corpo é uma prisão",
+      "05 sonhos tomam conta - reverb na master",
+      "06 sonhos tomam conta - that tweet isn't funny anymore",
+      "07 sonhos tomam conta - grape-coloured suicide"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hypnagogia_414c0bc3419f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/86630b44a23db1046406/hypnagogia.tar"
+    }
+  }
+}
