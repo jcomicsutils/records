@@ -1,0 +1,32 @@
+{
+  "id": "nullmatrix_aab71ebaf6ae",
+  "fingerprint": "aab71ebaf6aec15ccfab257929ab60f99179a9dd22d81744916c1e81012a90ae",
+  "archived_at": "2026-07-11T17:49:16Z",
+  "metadata": {
+    "title": "Nullmatrix",
+    "artist": "Strawberry Hospital",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 766,
+    "duration_human": "00:12:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Strawberry Hospital - Angeladministrator",
+      "02 Strawberry Hospital - Rhythm 0",
+      "03 Strawberry Hospital - Ferrofluid",
+      "04 Strawberry Hospital - Nullmatrix",
+      "05 Strawberry Hospital - Griefseed",
+      "06 Strawberry Hospital - Impuremelody"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nullmatrix_aab71ebaf6ae"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/e148fc900cef5957c5ad/Nullmatrix.tar"
+    }
+  }
+}
