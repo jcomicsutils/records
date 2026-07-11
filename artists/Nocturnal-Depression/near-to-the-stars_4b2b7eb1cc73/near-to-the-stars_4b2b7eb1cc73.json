@@ -1,0 +1,28 @@
+{
+  "id": "near-to-the-stars_4b2b7eb1cc73",
+  "fingerprint": "4b2b7eb1cc7344bcf79fc16143eb247708c1614a7e7bdf235132393072e135f4",
+  "archived_at": "2026-07-11T22:29:31Z",
+  "metadata": {
+    "title": "Near to the Stars",
+    "artist": "Nocturnal Depression",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2454,
+    "duration_human": "00:40:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nocturnal Depression - In the Arms of Fog",
+      "02 Nocturnal Depression - Near to the Stars",
+      "03 Nocturnal Depression - Nocte Aeterna",
+      "04 Nocturnal Depression - Crystal Tears",
+      "05 Nocturnal Depression - Lost in the Nothingness"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/near-to-the-stars_4b2b7eb1cc73"
+    }
+  }
+}
