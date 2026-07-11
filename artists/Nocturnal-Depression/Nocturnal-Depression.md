@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Soundtrack for a Suicide](soundtrack-for-a-suicide_c1f8ad40be2a/soundtrack-for-a-suicide_c1f8ad40be2a.md) | 2005 | MP3 | 00:57:20 | [IA](https://archive.org/details/soundtrack-for-a-suicide_c1f8ad40be2a) [FileDitch](https://fileditchfiles.st/beta12/4274b7a684f8bbc3b489/Soundtrack_for_a_Suicide.tar) |
 | [Fuck Off Parisian Black Metal Scene](fuck-off-parisian-black-metal-scene_ed7ca336a38f/fuck-off-parisian-black-metal-scene_ed7ca336a38f.md) | 2005 | MP3 | 00:20:07 | [IA](https://archive.org/details/fuck-off-parisian-black-metal-scene_ed7ca336a38f) [FileDitch](https://fileditchfiles.st/beta12/1318966557a4694fc2b9/Fuck_Off_Parisian_Black_Metal_Scene.tar) |
 | [Four Seasons to a Depression](four-seasons-to-a-depression_fcbf5e616067/four-seasons-to-a-depression_fcbf5e616067.md) | 2006 | FLAC | 00:36:51 | [IA](https://archive.org/details/four-seasons-to-a-depression_fcbf5e616067) [FileDitch](https://fileditchfiles.st/beta12/55346bdf36efc9394a0e/Four_Seasons_to_a_Depression.tar) |
 | [Nocturnal Depression / Funeral RIP](nocturnal-depression-funeral-rip_4f8f127973f6/nocturnal-depression-funeral-rip_4f8f127973f6.md) | 2006 | MP3 | 00:44:25 | [IA](https://archive.org/details/nocturnal-depression-funeral-rip_4f8f127973f6) [FileDitch](https://fileditchfiles.st/beta12/85ed3a4f861107eb49cc/Nocturnal_Depression_-_Funeral_RIP.tar) |

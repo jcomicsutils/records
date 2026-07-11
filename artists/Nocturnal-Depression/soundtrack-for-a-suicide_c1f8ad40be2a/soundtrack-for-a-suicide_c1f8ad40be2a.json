@@ -1,0 +1,31 @@
+{
+  "id": "soundtrack-for-a-suicide_c1f8ad40be2a",
+  "fingerprint": "c1f8ad40be2a40e4ce8ee1898113f460b3502e75c0f99f9e16b2123342e4ec8e",
+  "archived_at": "2026-07-11T23:41:10Z",
+  "metadata": {
+    "title": "Soundtrack for a Suicide",
+    "artist": "Nocturnal Depression",
+    "year": "2005",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 3440,
+    "duration_human": "00:57:20",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Nocturnal Depression - Voices From Inside",
+      "02 Nocturnal Depression - The Rope Cercling My Neck",
+      "03 Nocturnal Depression - Springtime Depression (Forgotten Tomb Cover)",
+      "04 Nocturnal Depression - Manchmal wenn Sie schläft (Nargaroth Cover)",
+      "05 Nocturnal Depression - Astre De Nuit"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/soundtrack-for-a-suicide_c1f8ad40be2a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/4274b7a684f8bbc3b489/Soundtrack_for_a_Suicide.tar"
+    }
+  }
+}
