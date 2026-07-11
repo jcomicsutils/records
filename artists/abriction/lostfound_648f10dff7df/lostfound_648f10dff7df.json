@@ -1,0 +1,27 @@
+{
+  "id": "lostfound_648f10dff7df",
+  "fingerprint": "648f10dff7dfc68f27fe8f1908f16bf6ecec0919b7674ad1be39fc39e964a8e5",
+  "archived_at": "2026-07-11T16:34:49Z",
+  "metadata": {
+    "title": "lost+found",
+    "artist": "abriction",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 167,
+    "duration_human": "00:02:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Abriction - lost+found"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lostfound_648f10dff7df"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/29e955338260d5d29667/lost_found.tar"
+    }
+  }
+}

@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [lost+found](lostfound_648f10dff7df/lostfound_648f10dff7df.md) | 2021 | FLAC | 00:02:47 | [IA](https://archive.org/details/lostfound_648f10dff7df) [FileDitch](https://fileditchfiles.st/beta12/29e955338260d5d29667/lost_found.tar) |
 | [i think we're dying](i-think-were-dying_984dfb7cfeda/i-think-were-dying_984dfb7cfeda.md) | 2021 | FLAC | 00:13:32 | [IA](https://archive.org/details/i-think-were-dying_984dfb7cfeda) [FileDitch](https://fileditchfiles.st/beta12/f19d1dbfa46dd9f33168/i_think_we_re_dying.tar) |
 | [143](143_b30766b7f3f0/143_b30766b7f3f0.md) | 2022 | FLAC | 00:07:39 | [IA](https://archive.org/details/143_b30766b7f3f0) [FileDitch](https://fileditchfiles.st/beta12/56e6a981ca70a55eaa16/143.tar) |
 | [Disorder](disorder_79dc71b14ce5/disorder_79dc71b14ce5.md) | 2022 | FLAC | 00:03:50 | [IA](https://archive.org/details/disorder_79dc71b14ce5) [FileDitch](https://fileditchfiles.st/beta12/56ffd003367768141853/Disorder.tar) |
