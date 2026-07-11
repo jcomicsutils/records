@@ -1,0 +1,31 @@
+{
+  "id": "the-movies-arent-enough_f37ab32e5b3a",
+  "fingerprint": "f37ab32e5b3a01f490508d61c6aed5b84a3bb04d3b572308b096107cf82a2ad0",
+  "archived_at": "2026-07-11T16:58:26Z",
+  "metadata": {
+    "title": "the movies aren't enough",
+    "artist": "sonhos tomam conta",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1671,
+    "duration_human": "00:27:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 sonhos tomam conta - ego death on a r/cptsd thread",
+      "02 sonhos tomam conta - wild strawberries",
+      "03 sonhos tomam conta - no fim do outono",
+      "04 sonhos tomam conta - o oceano de solaris",
+      "05 sonhos tomam conta - fingers"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-movies-arent-enough_f37ab32e5b3a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/37f5dc12173adcc6afd3/the_movies_aren_t_enough.tar"
+    }
+  }
+}
