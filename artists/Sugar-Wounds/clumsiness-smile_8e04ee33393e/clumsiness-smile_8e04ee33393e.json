@@ -1,0 +1,27 @@
+{
+  "id": "clumsiness-smile_8e04ee33393e",
+  "fingerprint": "8e04ee33393e3f4fe688bca45bacd6bc558140f569ce129deb066f1e323377cf",
+  "archived_at": "2026-07-11T18:29:56Z",
+  "metadata": {
+    "title": "Clumsiness Smile",
+    "artist": "Sugar Wounds",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 117,
+    "duration_human": "00:01:57",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sugar Wounds - Clumsiness Smile"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/clumsiness-smile_8e04ee33393e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/2f691e5de6f1f25f1fd8/Clumsiness_Smile.tar"
+    }
+  }
+}
