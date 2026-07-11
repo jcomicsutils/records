@@ -1,0 +1,39 @@
+{
+  "id": "live-at-harry-b-james_84cc82afb2fc",
+  "fingerprint": "84cc82afb2fc62cbd333e5dc8389117d614ed64f21bb09962a40118da2f16d8b",
+  "archived_at": "2026-07-11T17:47:30Z",
+  "metadata": {
+    "title": "Live at Harry B James",
+    "artist": "Lifelover",
+    "year": "2008",
+    "codec": "MP3",
+    "num_tracks": 13,
+    "duration_seconds": 2053,
+    "duration_human": "00:34:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Lifelover - Avbrott Sex",
+      "02 Lifelover - Nackskott",
+      "03 Lifelover - Vardagsnytt",
+      "04 Lifelover - Sondag",
+      "05 Lifelover - Mitt Oppna Oga",
+      "06 Lifelover - Medicinmannen",
+      "07 Lifelover - M/S Salmonella",
+      "08 Lifelover - Förspel & Intrång",
+      "09 Lifelover - Sweet Illness of Mine",
+      "10 Lifelover - Dodens Landsvag",
+      "11 Lifelover - Brand",
+      "12 Lifelover - Talk",
+      "13 Lifelover - Stockholm"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-at-harry-b-james_84cc82afb2fc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/b8f637257bf09744704b/Live_at_Harry_B_James.tar"
+    }
+  }
+}
