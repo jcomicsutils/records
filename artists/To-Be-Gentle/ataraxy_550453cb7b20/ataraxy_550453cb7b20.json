@@ -21,6 +21,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/ataraxy_550453cb7b20"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/c7da2fee68e5ac9b7031/Ataraxy.tar"
     }
   }
 }

@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/ataraxy_550453cb7b20)
+- [FileDitch](https://fileditchfiles.st/beta12/c7da2fee68e5ac9b7031/Ataraxy.tar)
 
 ## Tracklist
 
