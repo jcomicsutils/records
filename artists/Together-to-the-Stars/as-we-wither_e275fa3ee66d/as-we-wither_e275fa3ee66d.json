@@ -1,0 +1,32 @@
+{
+  "id": "as-we-wither_e275fa3ee66d",
+  "fingerprint": "e275fa3ee66db3b0f106b22881a0c5a729a66931d53070673dc07b813f28b223",
+  "archived_at": "2026-07-11T22:59:35Z",
+  "metadata": {
+    "title": "As We Wither",
+    "artist": "Together to the Stars",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2686,
+    "duration_human": "00:44:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Together to the Stars - Respire",
+      "02 Together to the Stars - Bioluminescence",
+      "03 Together to the Stars - Wither",
+      "04 Together to the Stars - Forgotten Tongue",
+      "05 Together to the Stars - Som Hängandes från Världen",
+      "06 Together to the Stars - Endeavour"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/as-we-wither_e275fa3ee66d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/66d19ff1f86a2e12d5de/As_We_Wither.tar"
+    }
+  }
+}
