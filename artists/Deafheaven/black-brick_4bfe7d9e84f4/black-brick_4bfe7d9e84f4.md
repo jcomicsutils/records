@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/black-brick_4bfe7d9e84f4)
+- [FileDitch](https://fileditchfiles.st/beta12/4c3eb65bbe1b077c501f/Black_Brick.tar)
 
 ## Tracklist
 
