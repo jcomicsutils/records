@@ -1,0 +1,27 @@
+{
+  "id": "cornelius-birthday_cf33c46cbd2f",
+  "fingerprint": "cf33c46cbd2f90b8154ad525ee211aa76c5c6f2175708a2d6de0baf6cb3c6e5a",
+  "archived_at": "2026-07-11T19:52:17Z",
+  "metadata": {
+    "title": "Cornelius' Birthday",
+    "artist": "To Be Gentle",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 234,
+    "duration_human": "00:03:54",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - Cornelius' Birthday"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cornelius-birthday_cf33c46cbd2f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/1ef3b7b65c5213c60571/Cornelius_Birthday.tar"
+    }
+  }
+}
