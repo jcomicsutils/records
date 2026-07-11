@@ -1,0 +1,27 @@
+{
+  "id": "oracao-do-mar_4a92c6318a7a",
+  "fingerprint": "4a92c6318a7afb31552983195257fac4005da288d743ffbe72437d5a0217f2af",
+  "archived_at": "2026-07-11T16:50:13Z",
+  "metadata": {
+    "title": "oração do mar",
+    "artist": "sonhos tomam conta",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 343,
+    "duration_human": "00:05:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 sonhos tomam conta - oração do mar"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/oracao-do-mar_4a92c6318a7a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/546ec7722382bcd1ebbc/ora_o_do_mar.tar"
+    }
+  }
+}
