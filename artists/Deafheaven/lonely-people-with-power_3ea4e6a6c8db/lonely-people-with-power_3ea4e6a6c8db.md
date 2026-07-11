@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/lonely-people-with-power_3ea4e6a6c8db)
+- [FileDitch](https://fileditchfiles.st/beta12/68667602901292c908f1/Lonely_People_With_Power.tar)
 
 ## Tracklist
 
