@@ -1,0 +1,27 @@
+{
+  "id": "typo-alternate-version_b97ae413bba5",
+  "fingerprint": "b97ae413bba527c7ed0f1a3f9f3cd50b42184c9bdab0883ec48c39917707988e",
+  "archived_at": "2026-07-11T17:22:14Z",
+  "metadata": {
+    "title": "typo (alternate version)",
+    "artist": "abriction",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 134,
+    "duration_human": "00:02:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Abriction - typo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/typo-alternate-version_b97ae413bba5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/2edf1b87f36cf8758fef/typo_alternate_version.tar"
+    }
+  }
+}
