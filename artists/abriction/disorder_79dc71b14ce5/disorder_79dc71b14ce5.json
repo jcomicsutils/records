@@ -1,0 +1,27 @@
+{
+  "id": "disorder_79dc71b14ce5",
+  "fingerprint": "79dc71b14ce546b302a71ce6c842b96f80f03cd78e8dcd61345f9faa3ede06d1",
+  "archived_at": "2026-07-11T16:03:47Z",
+  "metadata": {
+    "title": "Disorder",
+    "artist": "abriction",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 230,
+    "duration_human": "00:03:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Abriction - Disorder"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/disorder_79dc71b14ce5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/56ffd003367768141853/Disorder.tar"
+    }
+  }
+}
