@@ -1,0 +1,28 @@
+{
+  "id": "coffret-de-bijoux-aftoktonia_e482fb5f4eef",
+  "fingerprint": "e482fb5f4eef0cbc5ac744466dbc118a683f1b528193ec51b1607fba6fcdc2bf",
+  "archived_at": "2026-07-11T20:27:42Z",
+  "metadata": {
+    "title": "Coffret de Bijoux / Aftoktonia",
+    "artist": "Coffret de Bijoux",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1707,
+    "duration_human": "00:28:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Coffret de Bijoux - ântem",
+      "02 Aftoktonia - C'elësti"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/coffret-de-bijoux-aftoktonia_e482fb5f4eef"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/013cfbf74487fc053aab/Coffret_de_Bijoux_-_Aftoktonia.tar"
+    }
+  }
+}
