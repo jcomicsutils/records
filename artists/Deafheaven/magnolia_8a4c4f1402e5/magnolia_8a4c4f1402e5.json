@@ -1,0 +1,27 @@
+{
+  "id": "magnolia_8a4c4f1402e5",
+  "fingerprint": "8a4c4f1402e57bc840d2a14019af759ddd2649ed25abc66a48410f2a1eaa581f",
+  "archived_at": "2026-07-11T18:24:48Z",
+  "metadata": {
+    "title": "Magnolia",
+    "artist": "Deafheaven",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 254,
+    "duration_human": "00:04:14",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deafheaven - Magnolia"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/magnolia_8a4c4f1402e5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/ddc53029bb0982b5f08c/Magnolia.tar"
+    }
+  }
+}

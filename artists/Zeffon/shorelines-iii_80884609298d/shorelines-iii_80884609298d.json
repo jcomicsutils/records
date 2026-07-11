@@ -1,0 +1,24 @@
+{
+  "id": "shorelines-iii_80884609298d",
+  "fingerprint": "80884609298d901c7f5b9a43d55836649046c977b8a087996147926694044c73",
+  "archived_at": "2026-07-11T18:24:48Z",
+  "metadata": {
+    "title": "Shorelines III",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1842,
+    "duration_human": "00:30:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Limping Man of Ruptured Heart"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/shorelines-iii_80884609298d"
+    }
+  }
+}
