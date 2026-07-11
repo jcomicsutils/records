@@ -1,0 +1,27 @@
+{
+  "id": "be-nothing_1d5c38ab9b75",
+  "fingerprint": "1d5c38ab9b75e9b2919973e2a61576ac6df9c1603677922ba58afc4a5192bc06",
+  "archived_at": "2026-07-11T16:03:08Z",
+  "metadata": {
+    "title": "be nothing",
+    "artist": "abriction",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 538,
+    "duration_human": "00:08:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Abriction - be nothing"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/be-nothing_1d5c38ab9b75"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/dfdb75ed17d1740894b6/be_nothing.tar"
+    }
+  }
+}
