@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/shocker-infiltration-strategy_6f2b9047dfc7)
+- [FileDitch](https://fileditchfiles.st/beta12/3c9199bf556d5a4e573a/Shocker_Infiltration_Strategy.tar)
 
 ## Tracklist
 
