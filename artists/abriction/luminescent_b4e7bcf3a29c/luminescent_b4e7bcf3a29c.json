@@ -1,0 +1,27 @@
+{
+  "id": "luminescent_b4e7bcf3a29c",
+  "fingerprint": "b4e7bcf3a29c523a4661c228ef1b51946f83b27de46b2503d766324acbd113b2",
+  "archived_at": "2026-07-11T16:35:26Z",
+  "metadata": {
+    "title": "luminescent",
+    "artist": "abriction",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 180,
+    "duration_human": "00:03:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Abriction - luminescent"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/luminescent_b4e7bcf3a29c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/8087690ab9a7731ee9eb/luminescent.tar"
+    }
+  }
+}
