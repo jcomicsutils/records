@@ -1,0 +1,36 @@
+{
+  "id": "shadows-of-tragedy_06e56d738b65",
+  "fingerprint": "06e56d738b650608f937674b29dc49a54a76ea5c249c700e0e2ff0decdc49aa9",
+  "archived_at": "2026-07-11T23:36:33Z",
+  "metadata": {
+    "title": "Shadows of Tragedy",
+    "artist": "Nocturnal Depression",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3833,
+    "duration_human": "01:03:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Acedi - Drowned in Failure",
+      "02 Grimlair - To Kill Oneself to Exist and Choose Our Way",
+      "03 Grimlair - Captive Souls in Slaves and Artificial Bodies",
+      "04 Black Hate - The Glorious Moments",
+      "05 Black Hate - M/S Salmonella",
+      "06 Blodarv - I Hulernes Rige",
+      "07 Blodarv - Sharpstone Mountain",
+      "08 Nocturnal Depression - One Night Among Nightmares",
+      "09 Nocturnal Depression - Cthulhu is Awakening",
+      "10 Nocturnal Depression - The One Haunting My Mind"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/shadows-of-tragedy_06e56d738b65"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/234f5c90826d70b74bfc/Shadows_of_Tragedy.tar"
+    }
+  }
+}
