@@ -1,0 +1,27 @@
+{
+  "id": "leere-remastered-2020_f6f81c2f08f6",
+  "fingerprint": "f6f81c2f08f6bb5e9cfb084ac45f38f67cda519d615069a30c970260fbbbee0e",
+  "archived_at": "2026-07-11T20:22:09Z",
+  "metadata": {
+    "title": "Leere  (Remastered 2020)",
+    "artist": "Tardigrada",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 404,
+    "duration_human": "00:06:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Tardigrada - Leere  (Remastered)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leere-remastered-2020_f6f81c2f08f6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/c9711f8b4e6675d8450b/Leere_Remastered_2020.tar"
+    }
+  }
+}
