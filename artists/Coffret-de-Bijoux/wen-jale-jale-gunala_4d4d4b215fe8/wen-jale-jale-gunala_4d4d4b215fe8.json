@@ -1,0 +1,30 @@
+{
+  "id": "wen-jale-jale-gunala_4d4d4b215fe8",
+  "fingerprint": "4d4d4b215fe8516bd95fef8121fd5e9b85c7ec9d945baf0049e205552c3ca050",
+  "archived_at": "2026-07-11T23:21:30Z",
+  "metadata": {
+    "title": "Wen jalè jalè gunala",
+    "artist": "Coffret de Bijoux",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1999,
+    "duration_human": "00:33:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Coffret de Bijoux - ejaa duma venala't utun, utun ada quae'rbina",
+      "02 Coffret de Bijoux - nu janvael qupan ki'masmael kael inil èlajiarna'pae",
+      "03 Coffret de Bijoux - Interlude",
+      "04 Coffret de Bijoux - wen jalè jalè gunala"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wen-jale-jale-gunala_4d4d4b215fe8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/117e7a048d658271edd9/Wen_jal_jal_gunala.tar"
+    }
+  }
+}
