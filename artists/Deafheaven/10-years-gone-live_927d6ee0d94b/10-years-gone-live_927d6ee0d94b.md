@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/10-years-gone-live_927d6ee0d94b)
+- [FileDitch](https://fileditchfiles.st/beta12/a6c7ad4e2bd1a79d0293/10_Years_Gone_Live.tar)
 
 ## Tracklist
 
