@@ -1,0 +1,27 @@
+{
+  "id": "lastima_8abaf52b9681",
+  "fingerprint": "8abaf52b9681ac26665d07f3c878fe325c1320762f3d00bb2e446146c605e6c5",
+  "archived_at": "2026-07-11T15:58:11Z",
+  "metadata": {
+    "title": "Lástima",
+    "artist": "Lástima",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 383,
+    "duration_human": "00:06:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lástima - Lástima"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lastima_8abaf52b9681"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/7e47b9463799834ab59b/L_stima.tar"
+    }
+  }
+}
