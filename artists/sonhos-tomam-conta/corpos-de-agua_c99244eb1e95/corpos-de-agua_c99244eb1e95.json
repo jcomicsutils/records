@@ -1,0 +1,34 @@
+{
+  "id": "corpos-de-agua_c99244eb1e95",
+  "fingerprint": "c99244eb1e95cfe5d545718c2d84b9e1c338c77da89437f0c5e6ea9e4f7df5db",
+  "archived_at": "2026-07-11T15:59:24Z",
+  "metadata": {
+    "title": "corpos de água",
+    "artist": "sonhos tomam conta",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2723,
+    "duration_human": "00:45:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 sonhos tomam conta - uma súplica",
+      "02 sonhos tomam conta - oração do mar",
+      "03 sonhos tomam conta - tuas pegadas",
+      "04 sonhos tomam conta - o oceano de solaris",
+      "05 sonhos tomam conta - de areia e sal",
+      "06 sonhos tomam conta - scarborough fair (cântico)",
+      "07 sonhos tomam conta - a sétima onda",
+      "08 sonhos tomam conta - trilhas de água"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/corpos-de-agua_c99244eb1e95"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/c6fc365affca1e038ef2/corpos_de_gua.tar"
+    }
+  }
+}

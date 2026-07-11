@@ -38,6 +38,7 @@
 - [Club Rialto](Club-Rialto/Club-Rialto.md)
 - [Constellatia](Constellatia/Constellatia.md)
 - [Crying Motherfuckers](Crying-Motherfuckers/Crying-Motherfuckers.md)
+- [Deafheaven](Deafheaven/Deafheaven.md)
 - [Death Ambient](Death-Ambient/Death-Ambient.md)
 - [Deerhoof](Deerhoof/Deerhoof.md)
 - [Deerhunter](Deerhunter/Deerhunter.md)

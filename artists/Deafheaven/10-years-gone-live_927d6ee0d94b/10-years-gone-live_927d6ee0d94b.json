@@ -1,0 +1,31 @@
+{
+  "id": "10-years-gone-live_927d6ee0d94b",
+  "fingerprint": "927d6ee0d94b42efdbe35a5c37b4569011f06ccbe149f88296706f0fd3ff8933",
+  "archived_at": "2026-07-11T15:58:55Z",
+  "metadata": {
+    "title": "10 Years Gone (Live)",
+    "artist": "Deafheaven",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 4353,
+    "duration_human": "01:12:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deafheaven - From the Kettle Onto the Coil (Live)",
+      "02 Deafheaven - Daedalus (Live)",
+      "03 Deafheaven - Vertigo (Live)",
+      "04 Deafheaven - Language Games (Live)",
+      "05 Deafheaven - Glint (Live)",
+      "06 Deafheaven - Baby Blue (Live)",
+      "07 Deafheaven - The Pecan Tree (Live)",
+      "08 Deafheaven - Dream House (Live)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/10-years-gone-live_927d6ee0d94b"
+    }
+  }
+}
