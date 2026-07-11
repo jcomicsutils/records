@@ -1,0 +1,32 @@
+{
+  "id": "that-lasts-forever_5a7f371763c6",
+  "fingerprint": "5a7f371763c6a2e0b6bb4a0b7eece0ca8cc814a8c20856fb3b4184561f48d8af",
+  "archived_at": "2026-07-11T17:18:55Z",
+  "metadata": {
+    "title": "that lasts forever",
+    "artist": "abriction",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3866,
+    "duration_human": "01:04:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sadness, Abriction - glistening in the march lowsun",
+      "02 Sadness, Abriction - i left a message for you",
+      "03 Sadness, Abriction - the light that brims the clouds",
+      "04 Sadness, Abriction - something in the distance",
+      "05 Sadness, Abriction - my heart is your home",
+      "06 Sadness, Abriction - new body"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/that-lasts-forever_5a7f371763c6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/54960f3c0bed8c79e822/that_lasts_forever.tar"
+    }
+  }
+}
