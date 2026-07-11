@@ -1,0 +1,34 @@
+{
+  "id": "catatonia_f3435bfc613d",
+  "fingerprint": "f3435bfc613d4cc8003b601af0d849f36465ace0eadfb89bdcedf1906e03e67e",
+  "archived_at": "2026-07-11T18:46:23Z",
+  "metadata": {
+    "title": "Catatonia",
+    "artist": "To Be Gentle",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 3487,
+    "duration_human": "00:58:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 To Be Gentle - I Think of You Every Day",
+      "02 To Be Gentle - Ghosts Lingering Within the Confines of My Head",
+      "03 To Be Gentle - The Letter \"I\"",
+      "04 To Be Gentle - For Claire",
+      "05 To Be Gentle - Hyperextension",
+      "06 To Be Gentle - The Depths of Our Trauma is the Well From Which We Draw Our Compassion",
+      "07 To Be Gentle - As Long as I Am With You When It Ends",
+      "08 To Be Gentle - We Will Eventually Let Go"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/catatonia_f3435bfc613d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/783eb9c62d7304ebe131/Catatonia.tar"
+    }
+  }
+}
