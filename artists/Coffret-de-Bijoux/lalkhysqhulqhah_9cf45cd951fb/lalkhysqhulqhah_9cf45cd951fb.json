@@ -1,0 +1,30 @@
+{
+  "id": "lalkhysqhulqhah_9cf45cd951fb",
+  "fingerprint": "9cf45cd951fb8ca4345892d6d4b529f818ac1fd8af61794ffb8d77cc7c3ac97d",
+  "archived_at": "2026-07-11T22:11:35Z",
+  "metadata": {
+    "title": "Lal'khysqhulqhah",
+    "artist": "Coffret de Bijoux",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1270,
+    "duration_human": "00:21:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Coffret de Bijoux - jaen qunaiqu",
+      "02 Coffret de Bijoux - ejauws kai qunajhala",
+      "03 Coffret de Bijoux - lal'khysqhulqhah",
+      "04 Coffret de Bijoux - fleiu jafae"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lalkhysqhulqhah_9cf45cd951fb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/dfdddbda829734f5476d/Lal_khysqhulqhah.tar"
+    }
+  }
+}
