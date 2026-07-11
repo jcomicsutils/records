@@ -1,0 +1,27 @@
+{
+  "id": "im-going-to-leave-you-now-with-images-of-bread_255956f8c801",
+  "fingerprint": "255956f8c80123daf9bc24d8e42e71159e8d48faac585c43cf5e751c58fa49d9",
+  "archived_at": "2026-07-11T18:39:45Z",
+  "metadata": {
+    "title": "I'm Going to Leave You Now with Images of Bread",
+    "artist": "Sugar Wounds",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 444,
+    "duration_human": "00:07:24",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sugar Wounds - I'm Going to Leave You Now with Images of Bread"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/im-going-to-leave-you-now-with-images-of-bread_255956f8c801"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/e0e6b863e43c4e12bf12/I_m_Going_to_Leave_You_Now_with_Images_of_Bread.tar"
+    }
+  }
+}
