@@ -1,0 +1,30 @@
+{
+  "id": "living-is-easy_fdc27403b868",
+  "fingerprint": "fdc27403b868fccf851be68e9b2f56ff7474c60d46328bf94c1e85cf539863d3",
+  "archived_at": "2026-07-11T18:26:43Z",
+  "metadata": {
+    "title": "Living is Easy",
+    "artist": "Agriculture",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 962,
+    "duration_human": "00:16:02",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Agriculture - Living Is Easy",
+      "02 Agriculture - Being Eaten By A Tiger",
+      "03 Agriculture - In The House Of Angel Flesh",
+      "04 Agriculture - When You Were Born"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/living-is-easy_fdc27403b868"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/4971e9481df9af93d795/Living_is_Easy_2024_1.tar"
+    }
+  }
+}
