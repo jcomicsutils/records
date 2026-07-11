@@ -1,0 +1,33 @@
+{
+  "id": "calico-dreams_5b8bbff8d630",
+  "fingerprint": "5b8bbff8d630f66a3f65d34d9499634488adb72c8c6f4615f941f64807a0a2aa",
+  "archived_at": "2026-07-11T18:18:59Z",
+  "metadata": {
+    "title": "Calico Dreams",
+    "artist": "Sugar Wounds",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1388,
+    "duration_human": "00:23:08",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sugar Wounds - Every Color",
+      "02 Sugar Wounds - Calico Dreams",
+      "03 Sugar Wounds - Combat Wombat",
+      "04 Sugar Wounds - Semi-Burnt Sugar",
+      "05 Sugar Wounds - I QUIT",
+      "06 Sugar Wounds - Kneading Neatly is Mari's Nightly Norm",
+      "07 Sugar Wounds - Goodnight, Midnight"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/calico-dreams_5b8bbff8d630"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/8b0dcf461892bc158a69/Calico_Dreams.tar"
+    }
+  }
+}
