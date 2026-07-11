@@ -1,0 +1,28 @@
+{
+  "id": "northwind-sky-colored-dream_a53237521c04",
+  "fingerprint": "a53237521c0418dbaea6537abe81cb352e773b3fece1e6ebdfa3bd96e35612e2",
+  "archived_at": "2026-07-11T17:46:27Z",
+  "metadata": {
+    "title": "Northwind / Sky Colored Dream",
+    "artist": "Strawberry Hospital",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 421,
+    "duration_human": "00:07:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Strawberry Hospital, Parasite Heart - Northwind",
+      "02 Strawberry Hospital, Parasite Heart - Sky Colored Dream"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/northwind-sky-colored-dream_a53237521c04"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/b26eeb9dea9f9e211552/Northwind_-_Sky_Colored_Dream.tar"
+    }
+  }
+}
