@@ -1,0 +1,27 @@
+{
+  "id": "daedalus-live_23eaaea6061e",
+  "fingerprint": "23eaaea6061e05a8bff2ecec707167400be4d1f137f861d5e411a270d0902e62",
+  "archived_at": "2026-07-11T16:02:58Z",
+  "metadata": {
+    "title": "Daedalus (Live)",
+    "artist": "Deafheaven",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 291,
+    "duration_human": "00:04:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deafheaven - Daedalus (Live)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/daedalus-live_23eaaea6061e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/e796144b21743868ef30/Daedalus_Live.tar"
+    }
+  }
+}
