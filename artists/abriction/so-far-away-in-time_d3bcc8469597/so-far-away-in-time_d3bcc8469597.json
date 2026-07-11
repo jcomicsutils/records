@@ -1,0 +1,29 @@
+{
+  "id": "so-far-away-in-time_d3bcc8469597",
+  "fingerprint": "d3bcc8469597b8f3c5ecf51972a96da804c5f6c280b72d301118d80ab480c247",
+  "archived_at": "2026-07-11T16:56:44Z",
+  "metadata": {
+    "title": "So Far Away In Time...",
+    "artist": "abriction",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1694,
+    "duration_human": "00:28:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Abriction - Sunlight On The Sea",
+      "02 Abriction - Right Here, In The Realm Of Thought",
+      "03 Abriction - Trail Of Time"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/so-far-away-in-time_d3bcc8469597"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/5a102576bf291ea94d55/So_Far_Away_In_Time.tar"
+    }
+  }
+}
