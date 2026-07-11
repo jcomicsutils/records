@@ -1,0 +1,27 @@
+{
+  "id": "no-one-cares-remaster_2bbd70001c07",
+  "fingerprint": "2bbd70001c070b0d5c4350faa3dac3cd69bd6d05e02f2ae09d9df9a466d75d12",
+  "archived_at": "2026-07-11T16:36:04Z",
+  "metadata": {
+    "title": "No One Cares (Remaster)",
+    "artist": "abriction",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 469,
+    "duration_human": "00:07:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Abriction - No One Cares (Remaster)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/no-one-cares-remaster_2bbd70001c07"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/a0f662c3c7db670d79f2/No_One_Cares_Remaster.tar"
+    }
+  }
+}
