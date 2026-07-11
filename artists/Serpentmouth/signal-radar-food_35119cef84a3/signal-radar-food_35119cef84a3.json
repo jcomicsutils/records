@@ -1,0 +1,25 @@
+{
+  "id": "signal-radar-food_35119cef84a3",
+  "fingerprint": "35119cef84a3fff13210ec6031b697c60ea3a52ecaad45be1219105b082b891b",
+  "archived_at": "2026-07-11T23:42:32Z",
+  "metadata": {
+    "title": "Signal Radar Food",
+    "artist": "Serpentmouth",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5252,
+    "duration_human": "01:27:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Serpentmouth - March of Sulkaûô (Loop)",
+      "02 Serpentmouth - The Very Hairy Man"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/signal-radar-food_35119cef84a3"
+    }
+  }
+}

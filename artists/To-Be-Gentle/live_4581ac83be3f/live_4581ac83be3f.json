@@ -1,0 +1,32 @@
+{
+  "id": "live_4581ac83be3f",
+  "fingerprint": "4581ac83be3fc2e6da0ab6498ff3ad4cc8b539a5694bc793671b3cb4cd93497e",
+  "archived_at": "2026-07-11T23:43:17Z",
+  "metadata": {
+    "title": "Live",
+    "artist": "To Be Gentle",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 932,
+    "duration_human": "00:15:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 To Be Gentle - I Have Seen You and I",
+      "02 To Be Gentle - Flesh and Blood, Bone and Dream",
+      "03 To Be Gentle - A Thousand Words",
+      "04 To Be Gentle - Insurmountable",
+      "05 To Be Gentle - That Which is Safe",
+      "06 To Be Gentle - Love is the Only Way Out"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live_4581ac83be3f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/ed7712150910683d0ec8/Live.tar"
+    }
+  }
+}
