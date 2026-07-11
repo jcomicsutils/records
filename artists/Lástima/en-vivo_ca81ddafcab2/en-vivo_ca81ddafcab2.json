@@ -1,0 +1,34 @@
+{
+  "id": "en-vivo_ca81ddafcab2",
+  "fingerprint": "ca81ddafcab221e4305f8a34403ac4a4c68c85468afa76b46504688a43d787c2",
+  "archived_at": "2026-07-11T15:55:29Z",
+  "metadata": {
+    "title": "en vivo",
+    "artist": "Lástima",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2259,
+    "duration_human": "00:37:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lástima - Redux (en vivo)",
+      "02 Lástima - Al Cerro Ancón (en vivo)",
+      "03 Lástima - Lagrimas Negras (en vivo)",
+      "04 Lástima - The Shallow Drowned Lose Less Than We (en vivo)",
+      "05 Lástima - Hazel Interlude (en vivo)",
+      "06 Lástima - Sin Sol (en vivo)",
+      "07 Lástima - Gifts from Our Mother (en vivo)",
+      "08 Lástima - Septiembre (en vivo)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/en-vivo_ca81ddafcab2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/bc3ebae869570b2ea1ac/en_vivo.tar"
+    }
+  }
+}
