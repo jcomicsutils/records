@@ -1,0 +1,30 @@
+{
+  "id": "letters-to_10862b04b8b5",
+  "fingerprint": "10862b04b8b5588f07bcf7ec337395e676805371b0e59edd6155e7d5e1d1db7a",
+  "archived_at": "2026-07-11T23:42:02Z",
+  "metadata": {
+    "title": "Letters To",
+    "artist": "To Be Gentle",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1297,
+    "duration_human": "00:21:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Indisposed - Antiquate the Argument",
+      "02 Indisposed - Indisposed",
+      "03 To Be Gentle - Ephemeral and Endless",
+      "04 To Be Gentle - Aftermath"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/letters-to_10862b04b8b5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/4bd5158b9d8ae08713df/Letters_To.tar"
+    }
+  }
+}

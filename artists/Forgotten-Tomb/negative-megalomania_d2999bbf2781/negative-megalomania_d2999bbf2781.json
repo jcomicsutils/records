@@ -1,0 +1,28 @@
+{
+  "id": "negative-megalomania_d2999bbf2781",
+  "fingerprint": "d2999bbf27812c183c06e73bfb721d4b6b5ea061bc110d387ae3f80e15d73d30",
+  "archived_at": "2026-07-11T23:41:40Z",
+  "metadata": {
+    "title": "Negative Megalomania",
+    "artist": "Forgotten Tomb",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3424,
+    "duration_human": "00:57:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Forgotten Tomb - A Dish Best Served Cold",
+      "02 Forgotten Tomb - No Rehab (Final Exit)",
+      "03 Forgotten Tomb - Negative Megalomania",
+      "04 Forgotten Tomb - The Scapegoat",
+      "05 Forgotten Tomb - Blood and Concrete"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/negative-megalomania_d2999bbf2781"
+    }
+  }
+}
