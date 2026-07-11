@@ -1,0 +1,27 @@
+{
+  "id": "as-the-birds-still-fly_142f20401dea",
+  "fingerprint": "142f20401dea14aea4dedd66abe66f170a48f531e5f98ffc595bb6c43769f6f7",
+  "archived_at": "2026-07-11T16:04:38Z",
+  "metadata": {
+    "title": "...As the Birds Still Fly...",
+    "artist": "Left Alone...",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2647,
+    "duration_human": "00:44:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Left Alone... - .​.​.As the Birds Still Fly​.​.​.",
+      "02 Left Alone... - Candacensling",
+      "03 Left Alone... - In the Open Field of Pain",
+      "04 Left Alone... - These Grey Feathers..."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/as-the-birds-still-fly_142f20401dea"
+    }
+  }
+}

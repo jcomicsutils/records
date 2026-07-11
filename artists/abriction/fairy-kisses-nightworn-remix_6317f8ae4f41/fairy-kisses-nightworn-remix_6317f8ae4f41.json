@@ -1,0 +1,27 @@
+{
+  "id": "fairy-kisses-nightworn-remix_6317f8ae4f41",
+  "fingerprint": "6317f8ae4f41722f4cc3d613c44654dea16ab841c6bfec18bc642da42475fbec",
+  "archived_at": "2026-07-11T16:04:43Z",
+  "metadata": {
+    "title": "fairy kisses (nightworn remix)",
+    "artist": "abriction",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 349,
+    "duration_human": "00:05:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Abriction, Nightworn - fairy kisses (nightworn remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fairy-kisses-nightworn-remix_6317f8ae4f41"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/740aa3533dd55386ed3a/fairy_kisses_nightworn_remix.tar"
+    }
+  }
+}
