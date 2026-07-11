@@ -1,0 +1,30 @@
+{
+  "id": "senseless-fighting_61568509d5d6",
+  "fingerprint": "61568509d5d679f78e745e97cad697848dd99869b5a23c96cf7a0b8bb7b589ee",
+  "archived_at": "2026-07-11T03:13:32Z",
+  "metadata": {
+    "title": "Senseless Fighting",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 6241,
+    "duration_human": "01:44:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Kohlrabi, Part 1",
+      "02 Zeffon - Health is the Stephen Colbert of War",
+      "03 Zeffon - The Redness",
+      "04 Zeffon - Kohlrabi, Part 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/senseless-fighting_61568509d5d6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/b27d60d4bc01a9fccd9c/Senseless_Fighting.tar"
+    }
+  }
+}
