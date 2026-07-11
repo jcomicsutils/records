@@ -1,0 +1,30 @@
+{
+  "id": "longing-for-death_a6881f467915",
+  "fingerprint": "a6881f4679150ce4edce725e0e2c5bb2ea4db62936290a6b22579a174b8fda9c",
+  "archived_at": "2026-07-11T22:04:20Z",
+  "metadata": {
+    "title": "Longing for Death",
+    "artist": "Nocturnal Depression",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1925,
+    "duration_human": "00:32:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nocturnal Depression - Waste of Life",
+      "02 Myrd - Selvdestruktiv",
+      "03 Myrd - Afkom af et forfald",
+      "04 Vspolokh - Afkom af et forfald"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/longing-for-death_a6881f467915"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/ea8dc18c516601354f3e/Longing_for_Death.tar"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "vom-bruch-bis-zur-freiheit_d20cd8efa884",
+  "fingerprint": "d20cd8efa88426ff427262d650c99465fb642d66325f64e18fd67cb11f1b356e",
+  "archived_at": "2026-07-11T22:04:24Z",
+  "metadata": {
+    "title": "Vom Bruch bis zur Freiheit",
+    "artist": "Tardigrada",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 3533,
+    "duration_human": "00:58:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Tardigrada - Vi",
+      "02 Tardigrada - Verrat",
+      "03 Tardigrada - VII",
+      "04 Tardigrada - Zwang",
+      "05 Tardigrada - VIII",
+      "06 Tardigrada - Trugschluss Vertraue",
+      "07 Tardigrada - IX",
+      "08 Tardigrada - Vom Bruch bis zur Freiheit"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vom-bruch-bis-zur-freiheit_d20cd8efa884"
+    }
+  }
+}
