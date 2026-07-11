@@ -1,0 +1,28 @@
+{
+  "id": "1st-free-demo_ce42b434e373",
+  "fingerprint": "ce42b434e3733b99f70c2a0a1ae01fb4e872d3551506b5f6e5bbec3c0a22d9a1",
+  "archived_at": "2026-07-11T23:50:18Z",
+  "metadata": {
+    "title": "1st Free Demo",
+    "artist": "明日の叙景",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 412,
+    "duration_human": "00:06:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 明日の叙景 - The Slave of Delusion",
+      "02 明日の叙景 - Bubble Doll"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1st-free-demo_ce42b434e373"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/7fef7a8c0ed2385910ec/1st_Free_Demo.tar"
+    }
+  }
+}
