@@ -1,0 +1,27 @@
+{
+  "id": "paean-emerging_26d71d1dccaf",
+  "fingerprint": "26d71d1dccaf22bab51db202c0d19f3d50acb7611760211b022b237da229fd3d",
+  "archived_at": "2026-07-11T15:46:50Z",
+  "metadata": {
+    "title": "Paean Emerging",
+    "artist": "Constellatia",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 651,
+    "duration_human": "00:10:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Constellatia - Paean Emerging"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/paean-emerging_26d71d1dccaf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/730072fbcb1aad23cb10/Paean_Emerging.tar"
+    }
+  }
+}
