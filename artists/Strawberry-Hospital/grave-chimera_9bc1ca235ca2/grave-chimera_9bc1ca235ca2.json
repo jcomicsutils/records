@@ -1,0 +1,32 @@
+{
+  "id": "grave-chimera_9bc1ca235ca2",
+  "fingerprint": "9bc1ca235ca2c53619d8ba05dcd8606feb5506979b577443a4eb757442adca56",
+  "archived_at": "2026-07-11T17:15:20Z",
+  "metadata": {
+    "title": "Grave Chimera",
+    "artist": "Strawberry Hospital",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1141,
+    "duration_human": "00:19:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Strawberry Hospital - Memento",
+      "02 Strawberry Hospital - Canary Mane",
+      "03 Strawberry Hospital - Chimera",
+      "04 Strawberry Hospital - Holoparasite",
+      "05 Strawberry Hospital - Cherish",
+      "06 Strawberry Hospital - Arowana's Scarlet"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/grave-chimera_9bc1ca235ca2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/dfd121c7c05190c3f3e6/Grave_Chimera.tar"
+    }
+  }
+}
