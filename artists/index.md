@@ -71,6 +71,7 @@
 - [Kometjakten](Kometjakten/Kometjakten.md)
 - [Księżyc](Księżyc/Księżyc.md)
 - [Left Alone...](Left-Alone.../Left-Alone....md)
+- [Lifelover](Lifelover/Lifelover.md)
 - [Lil Ugly Mane](Lil-Ugly-Mane/Lil-Ugly-Mane.md)
 - [Loren Connors](Loren-Connors/Loren-Connors.md)
 - [Lotus Eaters](Lotus-Eaters/Lotus-Eaters.md)

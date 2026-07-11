@@ -1,0 +1,33 @@
+{
+  "id": "dekadens_5e64fb317ccf",
+  "fingerprint": "5e64fb317ccf43fe9324bffbc14b4e4d19d38b8aa1de04df7b358761bd8ec5c8",
+  "archived_at": "2026-07-11T17:05:17Z",
+  "metadata": {
+    "title": "Dekadens",
+    "artist": "Lifelover",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1566,
+    "duration_human": "00:26:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lifelover - Luuber Framtid",
+      "02 Lifelover - Myspys",
+      "03 Lifelover - Major Fuck Off",
+      "04 Lifelover - Lethargy",
+      "05 Lifelover - Androider",
+      "06 Lifelover - Visdomsord",
+      "07 Lifelover - Destination: Ingenstans"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dekadens_5e64fb317ccf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/ffbad6348e51f7c6894e/Dekadens.tar"
+    }
+  }
+}
