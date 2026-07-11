@@ -1,0 +1,27 @@
+{
+  "id": "rakkauden-taikuus_8ba0e2b9a108",
+  "fingerprint": "8ba0e2b9a108f497678bb0bdfdfb0e0914e802be7119be7fdaec82f4107a180e",
+  "archived_at": "2026-07-11T23:57:22Z",
+  "metadata": {
+    "title": "Rakkauden Taikuus",
+    "artist": "To Be Gentle",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 906,
+    "duration_human": "00:15:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 To Be Gentle - Rakkauden Taikuus"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rakkauden-taikuus_8ba0e2b9a108"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/4d310b582129ded7ac8d/Rakkauden_Taikuus.tar"
+    }
+  }
+}

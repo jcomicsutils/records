@@ -1,0 +1,29 @@
+{
+  "id": "nightfloating_92ac0181d252",
+  "fingerprint": "92ac0181d252a602f8b6616857b54c1454b617e447894b0e16972bf7e4a43bde",
+  "archived_at": "2026-07-11T23:58:02Z",
+  "metadata": {
+    "title": "Nightfloating",
+    "artist": "Forgotten Tomb",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2384,
+    "duration_human": "00:39:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Forgotten Tomb - Nightfloating",
+      "02 Forgotten Tomb - A Chill That You Can't Taint",
+      "03 Forgotten Tomb - This Sickness Withered My Heart",
+      "04 Forgotten Tomb - Unsafe Spaces",
+      "05 Forgotten Tomb - Drifting",
+      "06 Forgotten Tomb - A Despicable Gift"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nightfloating_92ac0181d252"
+    }
+  }
+}
