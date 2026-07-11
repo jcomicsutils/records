@@ -1,0 +1,27 @@
+{
+  "id": "perfect-symmetry-remaster_1078d3b582a8",
+  "fingerprint": "1078d3b582a8490b2ee6fabec54cca224b233a82f125ad51cafff15c0163ce96",
+  "archived_at": "2026-07-11T16:38:25Z",
+  "metadata": {
+    "title": "Perfect Symmetry (Remaster)",
+    "artist": "abriction",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 238,
+    "duration_human": "00:03:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Abriction - Perfect Symmetry (Remaster)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/perfect-symmetry-remaster_1078d3b582a8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/a3dcf0665375048b6ebb/Perfect_Symmetry_Remaster.tar"
+    }
+  }
+}
