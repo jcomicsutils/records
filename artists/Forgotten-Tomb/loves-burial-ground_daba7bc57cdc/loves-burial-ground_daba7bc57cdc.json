@@ -27,6 +27,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/loves-burial-ground_daba7bc57cdc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/44867c1c429bc5a89bf1/Love_s_Burial_Ground.tar"
     }
   }
 }
