@@ -1,0 +1,34 @@
+{
+  "id": "diorama-instrumental_12d16619fbc5",
+  "fingerprint": "12d16619fbc584add7266d4ce55f89aee2bfcc39b1d78bf94b007286e396d73f",
+  "archived_at": "2026-07-11T18:55:29Z",
+  "metadata": {
+    "title": "Diorama (Instrumental)",
+    "artist": "møl",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2772,
+    "duration_human": "00:46:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 MØL - Fraktur (Instrumental)",
+      "02 MØL - Photophobic (Instrumental)",
+      "03 MØL - Serf (Instrumental)",
+      "04 MØL - Vestige (Instrumental)",
+      "05 MØL - Redacted (Instrumental)",
+      "06 MØL - Itinerari (Instrumental)",
+      "07 MØL - Tvesind (Instrumental)",
+      "08 MØL - Diorama (Instrumental)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/diorama-instrumental_12d16619fbc5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/25f1a67f99e3c76419a7/Diorama_Instrumental.tar"
+    }
+  }
+}
