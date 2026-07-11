@@ -1,0 +1,27 @@
+{
+  "id": "great-mass-of-color_f6319557230a",
+  "fingerprint": "f6319557230a204addf7ad145f3caf6c6407f0b1672e1be051c3d87539a42925",
+  "archived_at": "2026-07-11T16:16:46Z",
+  "metadata": {
+    "title": "Great Mass of Color",
+    "artist": "Deafheaven",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 360,
+    "duration_human": "00:06:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deafheaven - Great Mass of Color"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/great-mass-of-color_f6319557230a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/bede0b270f9ac9cae135/Great_Mass_of_Color.tar"
+    }
+  }
+}
