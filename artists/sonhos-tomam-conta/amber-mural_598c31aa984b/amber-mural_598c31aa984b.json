@@ -1,0 +1,27 @@
+{
+  "id": "amber-mural_598c31aa984b",
+  "fingerprint": "598c31aa984b6fba3c0180e1918cf8d728afe551f0d58e20ae630ca52b2bb412",
+  "archived_at": "2026-07-11T15:49:02Z",
+  "metadata": {
+    "title": "amber mural",
+    "artist": "sonhos tomam conta",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 177,
+    "duration_human": "00:02:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Asian Glow, sonhos tomam conta - amber mural"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/amber-mural_598c31aa984b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/a691b364369ccbf04a09/amber_mural.tar"
+    }
+  }
+}

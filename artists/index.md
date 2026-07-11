@@ -135,6 +135,7 @@
 - [blue noise](blue-noise/blue-noise.md)
 - [fushigi na niwa](fushigi-na-niwa/fushigi-na-niwa.md)
 - [Opera for Infantry](opera-for-infantry/opera-for-infantry.md)
+- [sonhos tomam conta](sonhos-tomam-conta/sonhos-tomam-conta.md)
 - [tam tam](tam-tam/tam-tam.md)
 - [urutau](urutau/urutau.md)
 - [Violent Magic Orchestra](violent-magic-orchestra/violent-magic-orchestra.md)
