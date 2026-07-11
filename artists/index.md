@@ -75,6 +75,7 @@
 - [Love's Holiday Orchestra](Love's-Holiday-Orchestra/Love's-Holiday-Orchestra.md)
 - [Luke Chaos](Luke-Chaos/Luke-Chaos.md)
 - [Lupercais](Lupercais/Lupercais.md)
+- [Lástima](Lástima/Lástima.md)
 - [Mademoiselle Marchand](Mademoiselle-Marchand/Mademoiselle-Marchand.md)
 - [Mailcop](Mailcop/Mailcop.md)
 - [Mapeto](Mapeto/Mapeto.md)

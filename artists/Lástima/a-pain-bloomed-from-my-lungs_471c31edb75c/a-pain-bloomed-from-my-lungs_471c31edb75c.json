@@ -1,0 +1,35 @@
+{
+  "id": "a-pain-bloomed-from-my-lungs_471c31edb75c",
+  "fingerprint": "471c31edb75c327f19cca48ff97d32a685203fd63cbf0e74edff234d8fa782f8",
+  "archived_at": "2026-07-11T15:50:02Z",
+  "metadata": {
+    "title": "A Pain Bloomed from My Lungs",
+    "artist": "Lástima",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2689,
+    "duration_human": "00:44:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lástima - Redux",
+      "02 Lástima - The Shallow Drowned Lose Less Than We",
+      "03 Lástima - Al Cerro Ancón",
+      "04 Lástima - Hazel Interlude",
+      "05 Lástima - Lyla",
+      "06 Lástima - Espantapájaros",
+      "07 Lástima - Sin Sol",
+      "08 Lástima - Gifts from Our Mother",
+      "09 Lástima - Septiembre"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-pain-bloomed-from-my-lungs_471c31edb75c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/9d379951cb61ce9f592e/A_Pain_Bloomed_from_My_Lungs.tar"
+    }
+  }
+}
