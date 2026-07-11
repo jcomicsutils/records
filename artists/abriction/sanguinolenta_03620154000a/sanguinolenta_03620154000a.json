@@ -1,0 +1,28 @@
+{
+  "id": "sanguinolenta_03620154000a",
+  "fingerprint": "03620154000a74792f22db1e8b6e4532191980e955bfe07dc8c158c493177fb4",
+  "archived_at": "2026-07-11T16:53:36Z",
+  "metadata": {
+    "title": "Sanguinolenta",
+    "artist": "abriction",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1157,
+    "duration_human": "00:19:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Abriction - I've lost my face",
+      "02 Abriction - Those clouds never passed like you promised"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sanguinolenta_03620154000a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/b75fc5c02990b8129de1/Sanguinolenta.tar"
+    }
+  }
+}
