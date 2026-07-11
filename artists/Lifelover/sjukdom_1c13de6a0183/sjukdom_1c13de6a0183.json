@@ -1,0 +1,40 @@
+{
+  "id": "sjukdom_1c13de6a0183",
+  "fingerprint": "1c13de6a01831c65621fdeeccd0d8c788097ccfc488bda19b552fd183d836b02",
+  "archived_at": "2026-07-11T18:17:55Z",
+  "metadata": {
+    "title": "Sjukdom",
+    "artist": "Lifelover",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 3369,
+    "duration_human": "00:56:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lifelover - Svart Galla",
+      "02 Lifelover - Led by Misfortune",
+      "03 Lifelover - Expandera",
+      "04 Lifelover - Homicidal Tendencies",
+      "05 Lifelover - Resignation",
+      "06 Lifelover - Doften Av Tomhet",
+      "07 Lifelover - Totus Anctus",
+      "08 Lifelover - Horans Hora",
+      "09 Lifelover - Bitterljuv Kakofoni",
+      "10 Lifelover - Becksvart Frustration",
+      "11 Lifelover - Nedvaknande",
+      "12 Lifelover - Instrumental Asylum",
+      "13 Lifelover - Utdrag",
+      "14 Lifelover - Karma"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sjukdom_1c13de6a0183"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/6c9661073668b286e86f/Sjukdom.tar"
+    }
+  }
+}

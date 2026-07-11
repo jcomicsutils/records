@@ -1,0 +1,35 @@
+{
+  "id": "lonely-people-with-power_3ea4e6a6c8db",
+  "fingerprint": "3ea4e6a6c8db004b23298028537e713d36141720c14510d3432b8452d9f38beb",
+  "archived_at": "2026-07-11T18:17:15Z",
+  "metadata": {
+    "title": "Lonely People With Power",
+    "artist": "Deafheaven",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3731,
+    "duration_human": "01:02:11",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deafheaven - Incidental I",
+      "02 Deafheaven - Doberman",
+      "03 Deafheaven - Magnolia",
+      "04 Deafheaven - The Garden Route",
+      "05 Deafheaven - Heathen",
+      "06 Deafheaven - Amethyst",
+      "07 Deafheaven - Incidental II",
+      "08 Deafheaven - Revelator",
+      "09 Deafheaven - Body Behavior",
+      "10 Deafheaven - Incidental III",
+      "11 Deafheaven - Winona",
+      "12 Deafheaven - The Marvelous Orange Tree"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lonely-people-with-power_3ea4e6a6c8db"
+    }
+  }
+}
