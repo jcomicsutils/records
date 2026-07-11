@@ -1,0 +1,27 @@
+{
+  "id": "shocker-infiltration-strategy_6f2b9047dfc7",
+  "fingerprint": "6f2b9047dfc7f02630415eecbd7723899aacbeedd09f5e04e7e994899028e746",
+  "archived_at": "2026-07-11T18:08:31Z",
+  "metadata": {
+    "title": "Shocker Infiltration Strategy",
+    "artist": "Zeffon",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 18416,
+    "duration_human": "05:06:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Shocker Infiltration Strategy",
+      "02 Zeffon - Combine With Water",
+      "03 Zeffon - Shroud Comes Again",
+      "04 Zeffon - Dalii"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/shocker-infiltration-strategy_6f2b9047dfc7"
+    }
+  }
+}

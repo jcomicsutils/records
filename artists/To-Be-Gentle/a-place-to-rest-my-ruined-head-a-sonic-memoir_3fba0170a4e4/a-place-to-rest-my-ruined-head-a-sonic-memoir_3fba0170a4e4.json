@@ -1,0 +1,34 @@
+{
+  "id": "a-place-to-rest-my-ruined-head-a-sonic-memoir_3fba0170a4e4",
+  "fingerprint": "3fba0170a4e47818e312f96d11eea5536ef8faa972651c5ccfab48db9b953596",
+  "archived_at": "2026-07-11T18:08:38Z",
+  "metadata": {
+    "title": "A Place to Rest My Ruined Head: A Sonic Memoir",
+    "artist": "To Be Gentle",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1852,
+    "duration_human": "00:30:52",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - First Movement",
+      "02 To Be Gentle - Second Movement",
+      "03 To Be Gentle - Third Movement",
+      "04 To Be Gentle - Fourth Movement",
+      "05 To Be Gentle - Fifth Movement",
+      "06 To Be Gentle - Sixth Movement",
+      "07 To Be Gentle - Seventh Movement",
+      "08 To Be Gentle - Eighth Movement"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-place-to-rest-my-ruined-head-a-sonic-memoir_3fba0170a4e4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/1319608eab0a53a0324b/A_Place_to_Rest_My_Ruined_Head_A_Sonic_Memoir.tar"
+    }
+  }
+}
