@@ -1,0 +1,30 @@
+{
+  "id": "roads-to-judah_d6e33d24b639",
+  "fingerprint": "d6e33d24b63940ff5c9211038137ffc72439ac780ceee7fa19ba98b81fde79c7",
+  "archived_at": "2026-07-11T19:41:16Z",
+  "metadata": {
+    "title": "Roads to Judah",
+    "artist": "Deafheaven",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2303,
+    "duration_human": "00:38:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deafheaven - Violet",
+      "02 Deafheaven - Language Games",
+      "03 Deafheaven - Unrequited",
+      "04 Deafheaven - Tunnel of Trees"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/roads-to-judah_d6e33d24b639"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/955159fd885fca703782/Roads_to_Judah.tar"
+    }
+  }
+}
