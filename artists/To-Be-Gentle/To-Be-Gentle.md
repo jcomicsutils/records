@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [I Love You](i-love-you_3ff42a7b36d6/i-love-you_3ff42a7b36d6.md) | 2018 | FLAC | 00:07:56 | [IA](https://archive.org/details/i-love-you_3ff42a7b36d6) [FileDitch](https://fileditchfiles.st/beta12/7530e14ee1cb352024b3/I_Love_You.tar) |
 | [4 Way Split](4-way-split_a9e35fcd2037/4-way-split_a9e35fcd2037.md) | 2021 | FLAC | 00:21:58 | [IA](https://archive.org/details/4-way-split_a9e35fcd2037) [FileDitch](https://fileditchfiles.st/beta12/72967932006d49150641/4_Way_Split.tar) |
 | [Catatonia](catatonia_f3435bfc613d/catatonia_f3435bfc613d.md) | 2021 | FLAC | 00:58:07 | [IA](https://archive.org/details/catatonia_f3435bfc613d) [FileDitch](https://fileditchfiles.st/beta12/783eb9c62d7304ebe131/Catatonia.tar) |
 | [Dooms of Love](dooms-of-love_239910615940/dooms-of-love_239910615940.md) | 2021 | FLAC | 00:22:27 | [IA](https://archive.org/details/dooms-of-love_239910615940) [FileDitch](https://fileditchfiles.st/beta12/6fc0b234b5086ed53315/Dooms_of_Love.tar) |

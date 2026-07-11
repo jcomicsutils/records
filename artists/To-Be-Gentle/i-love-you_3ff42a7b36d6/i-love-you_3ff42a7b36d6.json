@@ -1,0 +1,28 @@
+{
+  "id": "i-love-you_3ff42a7b36d6",
+  "fingerprint": "3ff42a7b36d6985a38d3d500337d9195c47c38eeec54a60dcb2c01cab90ce1cc",
+  "archived_at": "2026-07-11T22:24:42Z",
+  "metadata": {
+    "title": "I Love You",
+    "artist": "To Be Gentle",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 476,
+    "duration_human": "00:07:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - That Which is Safe",
+      "02 To Be Gentle - Tender Green"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-love-you_3ff42a7b36d6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/7530e14ee1cb352024b3/I_Love_You.tar"
+    }
+  }
+}
