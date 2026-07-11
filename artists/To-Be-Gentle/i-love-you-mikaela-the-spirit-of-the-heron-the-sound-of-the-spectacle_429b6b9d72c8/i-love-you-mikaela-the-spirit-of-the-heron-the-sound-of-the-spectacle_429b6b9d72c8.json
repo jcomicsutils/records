@@ -1,0 +1,27 @@
+{
+  "id": "i-love-you-mikaela-the-spirit-of-the-heron-the-sound-of-the-spectacle_429b6b9d72c8",
+  "fingerprint": "429b6b9d72c8887709de1450b43be2bca3d2b4135c68045b635427956d4b56fd",
+  "archived_at": "2026-07-11T22:41:41Z",
+  "metadata": {
+    "title": "I Love You, Mikaela / The Spirit of the Heron / The Sound of the Spectacle",
+    "artist": "To Be Gentle",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 305,
+    "duration_human": "00:05:05",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - I Love You, Mikaela / The Spirit of the Heron / The Sound of the Spectacle"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-love-you-mikaela-the-spirit-of-the-heron-the-sound-of-the-spectacle_429b6b9d72c8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/26c94e9da0bd127c36f0/I_Love_You_Mikaela_-_The_Spirit_of_the_Heron_-_The_Sound_of_the.tar"
+    }
+  }
+}
