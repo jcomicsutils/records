@@ -1,0 +1,30 @@
+{
+  "id": "change-of-heart-we-are-no-longer-here_3403083e9a7c",
+  "fingerprint": "3403083e9a7c400dbc94d9d906a9c65a76260a49d17e3bfe6c471813e4e1dbe8",
+  "archived_at": "2026-07-11T18:28:56Z",
+  "metadata": {
+    "title": "Change of Heart (We Are No Longer Here)",
+    "artist": "Sugar Wounds",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1346,
+    "duration_human": "00:22:26",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sachiel - You Weep",
+      "02 Sachiel - Erase: Respite",
+      "03 Sugar Wounds - Kuiper's Belt",
+      "04 Sugar Wounds - Ether Canopy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/change-of-heart-we-are-no-longer-here_3403083e9a7c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/f12c6d34c96c9a17f873/Change_of_Heart_We_Are_No_Longer_Here.tar"
+    }
+  }
+}
