@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/vom-bruch-bis-zur-freiheit_d20cd8efa884)
+- [FileDitch](https://fileditchfiles.st/beta12/8637cb5407d027ea6375/Vom_Bruch_bis_zur_Freiheit.tar)
 
 ## Tracklist
 
