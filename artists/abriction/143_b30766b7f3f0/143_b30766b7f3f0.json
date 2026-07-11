@@ -1,0 +1,28 @@
+{
+  "id": "143_b30766b7f3f0",
+  "fingerprint": "b30766b7f3f0bcfdcea89101f1ed4c91d14a2659d24242ea4de61a6f8106da1b",
+  "archived_at": "2026-07-11T15:47:07Z",
+  "metadata": {
+    "title": "143",
+    "artist": "abriction",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 459,
+    "duration_human": "00:07:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Abriction - afar",
+      "02 Abriction - hope you're happy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/143_b30766b7f3f0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/56e6a981ca70a55eaa16/143.tar"
+    }
+  }
+}

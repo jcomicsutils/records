@@ -130,6 +130,7 @@
 - [Zeffon / Generated Missiân ZFN](Zeffon-Generated-Missiân-ZFN/Zeffon-Generated-Missiân-ZFN.md)
 - [Zeffon / Revenence](Zeffon-Revenence/Zeffon-Revenence.md)
 - [Zeffon / Revenence / Argon Beams / Serpentmouth](Zeffon-Revenence-Argon-Beams-Serpentmouth/Zeffon-Revenence-Argon-Beams-Serpentmouth.md)
+- [abriction](abriction/abriction.md)
 - [Black Magick SS](black-magick-ss/black-magick-ss.md)
 - [blue noise](blue-noise/blue-noise.md)
 - [fushigi na niwa](fushigi-na-niwa/fushigi-na-niwa.md)
