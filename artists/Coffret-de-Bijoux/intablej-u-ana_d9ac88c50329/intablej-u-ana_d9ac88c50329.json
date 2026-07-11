@@ -1,0 +1,30 @@
+{
+  "id": "intablej-u-ana_d9ac88c50329",
+  "fingerprint": "d9ac88c50329e5eb972e115aee068a49438916a2ac9b6ca6f428cb3779238a03",
+  "archived_at": "2026-07-11T21:59:30Z",
+  "metadata": {
+    "title": "intablej' u ana",
+    "artist": "Coffret de Bijoux",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1325,
+    "duration_human": "00:22:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Coffret de Bijoux - nielpa u mel rei’alsona",
+      "02 Coffret de Bijoux - floranam",
+      "03 Coffret de Bijoux - yaj uiqplaine hill cuete gens bahajade",
+      "04 Coffret de Bijoux - wy usten alss lute lasett fay hens jarakeleés baha"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/intablej-u-ana_d9ac88c50329"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/e67a053548092abbd165/intablej_u_ana.tar"
+    }
+  }
+}
