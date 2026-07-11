@@ -1,0 +1,28 @@
+{
+  "id": "moloch-nocturnal-depression_0d4885f23222",
+  "fingerprint": "0d4885f23222f97f28ffa4aa5cdc4909fa16b24415e7486005c26040eeba51c7",
+  "archived_at": "2026-07-11T22:08:50Z",
+  "metadata": {
+    "title": "Moloch / Nocturnal Depression",
+    "artist": "Nocturnal Depression",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 976,
+    "duration_human": "00:16:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Moloch - Ornamente des Todes (Ornaments of Death / Орнаменти Смерті)",
+      "02 Nocturnal Depression - Høst"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/moloch-nocturnal-depression_0d4885f23222"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/e5134a340b15a7c9c06d/Moloch_-_Nocturnal_Depression.tar"
+    }
+  }
+}

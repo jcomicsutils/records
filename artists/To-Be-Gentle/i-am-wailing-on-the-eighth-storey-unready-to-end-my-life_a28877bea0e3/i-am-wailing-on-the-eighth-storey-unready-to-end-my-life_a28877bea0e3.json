@@ -1,0 +1,26 @@
+{
+  "id": "i-am-wailing-on-the-eighth-storey-unready-to-end-my-life_a28877bea0e3",
+  "fingerprint": "a28877bea0e3d9ec14a84acadb57551c778504c6b9594e91f81a0ebffeec2862",
+  "archived_at": "2026-07-11T22:08:41Z",
+  "metadata": {
+    "title": "I Am Wailing on the Eighth Storey, Unready to End My Life",
+    "artist": "To Be Gentle",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 829,
+    "duration_human": "00:13:49",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - Dooms of Love",
+      "02 To Be Gentle - I Will Always",
+      "03 To Be Gentle - I Don't Want to Be Here Anymore"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-am-wailing-on-the-eighth-storey-unready-to-end-my-life_a28877bea0e3"
+    }
+  }
+}
