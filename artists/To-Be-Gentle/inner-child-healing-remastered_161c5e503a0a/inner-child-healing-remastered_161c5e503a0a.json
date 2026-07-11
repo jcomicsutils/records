@@ -1,0 +1,36 @@
+{
+  "id": "inner-child-healing-remastered_161c5e503a0a",
+  "fingerprint": "161c5e503a0a479b5a5b5c99868360db8dbe4a491ce5730b50275494bb8e3de1",
+  "archived_at": "2026-07-11T23:02:33Z",
+  "metadata": {
+    "title": "Inner Child Healing (Remastered)",
+    "artist": "To Be Gentle",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 1747,
+    "duration_human": "00:29:07",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - My Spirit Blossoms",
+      "02 To Be Gentle - Dustsvcker",
+      "03 To Be Gentle - Prayer for Matylda",
+      "04 To Be Gentle - Blue Apple Garden",
+      "05 To Be Gentle - Armed to the Teeth",
+      "06 To Be Gentle - Forgive Us, Mohammad",
+      "07 To Be Gentle - Autumnal Sun",
+      "08 To Be Gentle - Rakkaani",
+      "09 To Be Gentle - Redeemed",
+      "10 To Be Gentle - I Love You, ____"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/inner-child-healing-remastered_161c5e503a0a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/a9f4cb3ce411c650944f/Inner_Child_Healing_Remastered.tar"
+    }
+  }
+}
