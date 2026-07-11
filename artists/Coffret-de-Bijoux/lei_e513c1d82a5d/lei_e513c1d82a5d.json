@@ -1,0 +1,31 @@
+{
+  "id": "lei_e513c1d82a5d",
+  "fingerprint": "e513c1d82a5d08bfa6c2e72fb6f93151d427feafc65458816350589ac437a1f0",
+  "archived_at": "2026-07-11T22:16:04Z",
+  "metadata": {
+    "title": "Lei",
+    "artist": "Coffret de Bijoux",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2148,
+    "duration_human": "00:35:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Coffret de Bijoux - Subtle Expression",
+      "02 Coffret de Bijoux - Cold Enough",
+      "03 Coffret de Bijoux - String",
+      "04 Coffret de Bijoux - eol fem",
+      "05 Coffret de Bijoux - I Wish You Would Have Seen Who I Am"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lei_e513c1d82a5d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/3fdbf65fca3f705180cc/Lei.tar"
+    }
+  }
+}
