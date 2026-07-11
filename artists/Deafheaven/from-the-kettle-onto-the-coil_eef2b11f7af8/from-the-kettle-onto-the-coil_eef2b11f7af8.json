@@ -1,0 +1,27 @@
+{
+  "id": "from-the-kettle-onto-the-coil_eef2b11f7af8",
+  "fingerprint": "eef2b11f7af84f81ed48debf41ac82278a4c38f0bbd8210a34e42a0c0c24941d",
+  "archived_at": "2026-07-11T16:13:52Z",
+  "metadata": {
+    "title": "From the Kettle Onto the Coil",
+    "artist": "Deafheaven",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 396,
+    "duration_human": "00:06:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deafheaven - From the Kettle Onto the Coil"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/from-the-kettle-onto-the-coil_eef2b11f7af8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/c5d17a1dc95af61b9163/From_the_Kettle_Onto_the_Coil.tar"
+    }
+  }
+}
