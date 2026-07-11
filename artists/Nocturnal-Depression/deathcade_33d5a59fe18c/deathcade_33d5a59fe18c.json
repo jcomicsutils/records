@@ -1,0 +1,35 @@
+{
+  "id": "deathcade_33d5a59fe18c",
+  "fingerprint": "33d5a59fe18c5841ec06f32df48834980b6add0cf32eb03f5f99d05f6c33f36e",
+  "archived_at": "2026-07-11T21:29:08Z",
+  "metadata": {
+    "title": "Deathcade",
+    "artist": "Nocturnal Depression",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3437,
+    "duration_human": "00:57:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nocturnal Depression - And Fall the February Snow",
+      "02 Nocturnal Depression - Spring",
+      "03 Nocturnal Depression - They",
+      "04 Nocturnal Depression - Spleen Black Metal",
+      "05 Nocturnal Depression - Her Ghost Haunts These Walls",
+      "06 Nocturnal Depression - Hear My Voice, Kill Yourself",
+      "07 Nocturnal Depression - Anthem to Self Destruction",
+      "08 Nocturnal Depression - Nostalgia",
+      "09 Nocturnal Depression - Dead Children"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/deathcade_33d5a59fe18c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/b7cc5aa3df5e9ab2ecea/Deathcade.tar"
+    }
+  }
+}
