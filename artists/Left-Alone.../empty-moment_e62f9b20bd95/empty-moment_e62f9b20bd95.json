@@ -1,0 +1,30 @@
+{
+  "id": "empty-moment_e62f9b20bd95",
+  "fingerprint": "e62f9b20bd95a227b8ccc46355dfe495fccbd7c2116e42be26b98e86259f5fed",
+  "archived_at": "2026-07-11T16:33:07Z",
+  "metadata": {
+    "title": "Empty Moment",
+    "artist": "Left Alone...",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3262,
+    "duration_human": "00:54:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Left Alone... - Coldly as Embers Rise",
+      "02 Left Alone... - With Her in Winter Autumn",
+      "03 Left Alone... - Interlude",
+      "04 Left Alone... - She Loves You..."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/empty-moment_e62f9b20bd95"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/d451286b5635932252ae/Empty_Moment.tar"
+    }
+  }
+}
