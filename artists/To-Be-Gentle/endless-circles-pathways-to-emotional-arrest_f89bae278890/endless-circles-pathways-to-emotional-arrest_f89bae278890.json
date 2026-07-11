@@ -1,0 +1,30 @@
+{
+  "id": "endless-circles-pathways-to-emotional-arrest_f89bae278890",
+  "fingerprint": "f89bae278890e7791373eb85d52aa009766a0ad1f653a3da84b2f68b605adfeb",
+  "archived_at": "2026-07-11T21:25:55Z",
+  "metadata": {
+    "title": "Endless Circles / Pathways to Emotional Arrest",
+    "artist": "To Be Gentle",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1139,
+    "duration_human": "00:18:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - Greenhug",
+      "02 To Be Gentle - Lingering in My Dreams",
+      "03 To Be Gentle - Cryptic Last Words of an Old Man",
+      "04 To Be Gentle - Void of Joy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/endless-circles-pathways-to-emotional-arrest_f89bae278890"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/e8fc1e498438e5d3c1d3/Endless_Circles_-_Pathways_to_Emotional_Arrest.tar"
+    }
+  }
+}
