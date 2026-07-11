@@ -1,0 +1,31 @@
+{
+  "id": "new-bermuda_8d2fde976ad9",
+  "fingerprint": "8d2fde976ad919c149b1bc39d8028613136a53e9e9d8b6d439fb24a1ba4300c4",
+  "archived_at": "2026-07-11T18:52:38Z",
+  "metadata": {
+    "title": "New Bermuda",
+    "artist": "Deafheaven",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2797,
+    "duration_human": "00:46:37",
+    "sampling_rate": "88.2kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deafheaven - Brought to the Water",
+      "02 Deafheaven - Luna",
+      "03 Deafheaven - Baby Blue",
+      "04 Deafheaven - Come Back",
+      "05 Deafheaven - Gifts for the Earth"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/new-bermuda_8d2fde976ad9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/b54a1cab280ecaa5ac3c/New_Bermuda.tar"
+    }
+  }
+}
