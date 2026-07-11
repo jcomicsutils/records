@@ -1,0 +1,33 @@
+{
+  "id": "and-dont-deliver-us-from-evil_4cbd27974938",
+  "fingerprint": "4cbd27974938a2678b5f90f09ba3087f2a7650f02edde854b8eb5ac0bf80f211",
+  "archived_at": "2026-07-11T22:06:29Z",
+  "metadata": {
+    "title": "...And Don't Deliver Us From Evil",
+    "artist": "Forgotten Tomb",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3155,
+    "duration_human": "00:52:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Forgotten Tomb - Deprived",
+      "02 Forgotten Tomb - ...And Don't Deliver Us From Evil",
+      "03 Forgotten Tomb - Cold Summer",
+      "04 Forgotten Tomb - Let's Torture Each Other",
+      "05 Forgotten Tomb - Love Me Like You'd Love the Death",
+      "06 Forgotten Tomb - Adrift",
+      "07 Forgotten Tomb - Nullifying Tomorrow"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/and-dont-deliver-us-from-evil_4cbd27974938"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/1ec5acb7ba06eda1c43a/And_Don_t_Deliver_Us_From_Evil.tar"
+    }
+  }
+}
