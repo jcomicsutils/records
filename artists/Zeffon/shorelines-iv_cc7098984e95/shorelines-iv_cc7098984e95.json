@@ -1,0 +1,27 @@
+{
+  "id": "shorelines-iv_cc7098984e95",
+  "fingerprint": "cc7098984e954a0f1af917b8de9c603bd832ec0eeab063b9b1a4b140c73106a3",
+  "archived_at": "2026-07-11T18:56:11Z",
+  "metadata": {
+    "title": "Shorelines IV",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4968,
+    "duration_human": "01:22:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Eyeless"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/shorelines-iv_cc7098984e95"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/fc67653ac354f92595d3/Shorelines_IV.tar"
+    }
+  }
+}
