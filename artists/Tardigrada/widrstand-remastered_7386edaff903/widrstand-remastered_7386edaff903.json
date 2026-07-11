@@ -1,0 +1,31 @@
+{
+  "id": "widrstand-remastered_7386edaff903",
+  "fingerprint": "7386edaff903b0b4dff923182896cde750d036e1345dd58937693ddde15cd64a",
+  "archived_at": "2026-07-11T22:38:53Z",
+  "metadata": {
+    "title": "Widrstand (Remastered)",
+    "artist": "Tardigrada",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2278,
+    "duration_human": "00:37:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Tardigrada - Uftakt  (Remastered)",
+      "02 Tardigrada - Hoffnungslos  (Remastered)",
+      "03 Tardigrada - Widrstand  (Remastered)",
+      "04 Tardigrada - Einsamkeit  (Remastered)",
+      "05 Tardigrada - Leere  (Remastered)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/widrstand-remastered_7386edaff903"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/f0ed0b902ebb0d88b421/Widrstand_Remastered.tar"
+    }
+  }
+}

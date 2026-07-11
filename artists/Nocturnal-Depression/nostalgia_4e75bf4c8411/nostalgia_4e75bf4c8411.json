@@ -1,0 +1,29 @@
+{
+  "id": "nostalgia_4e75bf4c8411",
+  "fingerprint": "4e75bf4c84115d26c38ff04f5861814921c29c347843cdc46052f9e41c12ad01",
+  "archived_at": "2026-07-11T22:40:13Z",
+  "metadata": {
+    "title": "Nostalgia",
+    "artist": "Nocturnal Depression",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3177,
+    "duration_human": "00:52:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nocturnal Depression - Intro: Fragments of the Past",
+      "02 Nocturnal Depression - And Fall the February Snow",
+      "03 Nocturnal Depression - A Life for Suffering",
+      "04 Nocturnal Depression - Intermezzo: Lying Broken",
+      "05 Nocturnal Depression - Nostalgia",
+      "06 Nocturnal Depression - Outro: In My Dreams"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nostalgia_4e75bf4c8411"
+    }
+  }
+}
