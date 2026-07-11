@@ -1,0 +1,27 @@
+{
+  "id": "living-is-easy_e657728bd352",
+  "fingerprint": "e657728bd35278b63be3f2b244d90a5e6bed04069d3201c6fee2430865987dbb",
+  "archived_at": "2026-07-11T18:40:23Z",
+  "metadata": {
+    "title": "Living is Easy",
+    "artist": "Agriculture",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 423,
+    "duration_human": "00:07:03",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Agriculture - Living Is Easy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/living-is-easy_e657728bd352"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/5672ed89eb51ce738140/Living_is_Easy_2024_2.tar"
+    }
+  }
+}
