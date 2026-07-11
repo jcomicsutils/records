@@ -24,6 +24,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/iridescence_051a157c0046"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/28c33666e9fc6ab78b3c/Iridescence.tar"
     }
   }
 }
