@@ -1,0 +1,27 @@
+{
+  "id": "silence-of-the-unseen-mudman_c73e99394c60",
+  "fingerprint": "c73e99394c60b9a0cea39c5ca0c2a9ef17bc843b4147d25e391475fe5dea08f1",
+  "archived_at": "2026-07-12T01:12:44Z",
+  "metadata": {
+    "title": "Silence of the Unseen Mudman",
+    "artist": "Argon Beams",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 191,
+    "duration_human": "00:03:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Argon Beams - Btwâra"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/silence-of-the-unseen-mudman_c73e99394c60"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/150b4aa1f054d2ab8d34/Silence_of_the_Unseen_Mudman.tar"
+    }
+  }
+}
