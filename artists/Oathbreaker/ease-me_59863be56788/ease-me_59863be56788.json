@@ -1,0 +1,27 @@
+{
+  "id": "ease-me_59863be56788",
+  "fingerprint": "59863be56788d25bc7579a717c204dfefd5b4e2e5014e89bed9aae116fa91c16",
+  "archived_at": "2026-07-12T00:37:20Z",
+  "metadata": {
+    "title": "Ease Me",
+    "artist": "Oathbreaker",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 305,
+    "duration_human": "00:05:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Oathbreaker - Ease Me"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ease-me_59863be56788"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/736e4d6a65e61b65997b/Ease_Me.tar"
+    }
+  }
+}

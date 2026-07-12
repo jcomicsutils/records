@@ -1,0 +1,31 @@
+{
+  "id": "signal-radar-ration_0393628a58a4",
+  "fingerprint": "0393628a58a47233f73430b0b9a3ffc563b21c9279195889fe74dbd3cecb22cc",
+  "archived_at": "2026-07-12T00:36:20Z",
+  "metadata": {
+    "title": "Signal Radar Ration",
+    "artist": "Argon Beams",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 20518,
+    "duration_human": "05:41:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Argon Beams - Stone Giant",
+      "02 Argon Beams - Frost Come Down in Village",
+      "03 Argon Beams - Isolated Soldier",
+      "04 Argon Beams - Master...!",
+      "05 Argon Beams - Permanent Acts of Choice",
+      "06 Argon Beams - Unknown Acts",
+      "07 Argon Beams - Variable Color",
+      "08 Argon Beams - Frostbite"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/signal-radar-ration_0393628a58a4"
+    }
+  }
+}
