@@ -1,0 +1,30 @@
+{
+  "id": "demonstration_da163fabadc1",
+  "fingerprint": "da163fabadc132d63f62d4a87ac55d5bee36b6912d1df2e203910be1d634d1bc",
+  "archived_at": "2026-07-12T06:17:15Z",
+  "metadata": {
+    "title": "Demonstration",
+    "artist": "Respire",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1400,
+    "duration_human": "00:23:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Respire - Aeterna",
+      "02 Respire - Nox",
+      "03 Respire - Lux",
+      "04 Respire - Nihil"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/demonstration_da163fabadc1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/a55404cf07fc9c1a200f/Demonstration.tar"
+    }
+  }
+}
