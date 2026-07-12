@@ -1,0 +1,32 @@
+{
+  "id": "signal-radar-ration_80b81644cd87",
+  "fingerprint": "80b81644cd8775eddb3cc725b67f410e7dbd6c08dcb11798edc401f5f37c39b6",
+  "archived_at": "2026-07-12T01:00:09Z",
+  "metadata": {
+    "title": "Signal Radar Ration",
+    "artist": "Serpentmouth",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 8261,
+    "duration_human": "02:17:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Serpentmouth - A Look",
+      "02 Serpentmouth - Requiem",
+      "03 Serpentmouth - Why Did This Happen?",
+      "04 Serpentmouth - Shrine Constructed of Amber",
+      "05 Serpentmouth - His Death",
+      "06 Serpentmouth - Lost in Waves Forever",
+      "07 Serpentmouth - Underneath the Universe",
+      "08 Serpentmouth - Finding the Truth (Vampire, Pt. 3)",
+      "09 Serpentmouth - Signal Radar Ration"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/signal-radar-ration_80b81644cd87"
+    }
+  }
+}

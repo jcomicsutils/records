@@ -1,0 +1,30 @@
+{
+  "id": "trauma-responses_94145afdff71",
+  "fingerprint": "94145afdff719a22df19809e90dfc414728e201a40a441dfefa60712ece47335",
+  "archived_at": "2026-07-12T01:00:00Z",
+  "metadata": {
+    "title": "Trauma Responses",
+    "artist": "To Be Gentle",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1500,
+    "duration_human": "00:25:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 To Be Gentle - Looming",
+      "02 To Be Gentle - Spiritual Pruning",
+      "03 To Be Gentle - As Long as I Am With You When It Ends",
+      "04 To Be Gentle - I Fear of Your Death and It Rips Me Apart"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/trauma-responses_94145afdff71"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/91e59900618a8e21f5be/Trauma_Responses.tar"
+    }
+  }
+}
