@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Obscura Arcana Mortis: The Demo Years](obscura-arcana-mortis-the-demo-years_be5737074e25/obscura-arcana-mortis-the-demo-years_be5737074e25.md) | 2000 | FLAC | 00:28:31 | [IA](https://archive.org/details/obscura-arcana-mortis-the-demo-years_be5737074e25) [FileDitch](https://fileditchfiles.st/beta12/94909a84e1772d9a35cd/Obscura_Arcana_Mortis_The_Demo_Years.tar) |
 | [Love's Burial Ground](loves-burial-ground_daba7bc57cdc/loves-burial-ground_daba7bc57cdc.md) | 2004 | FLAC | 01:05:14 | [IA](https://archive.org/details/loves-burial-ground_daba7bc57cdc) [FileDitch](https://fileditchfiles.st/beta12/44867c1c429bc5a89bf1/Love_s_Burial_Ground.tar) |
 | [Negative Megalomania](negative-megalomania_d2999bbf2781/negative-megalomania_d2999bbf2781.md) | 2007 | FLAC | 00:57:04 | [IA](https://archive.org/details/negative-megalomania_d2999bbf2781) [FileDitch](https://fileditchfiles.st/beta12/c1c708ccae7db892c910/Negative_Megalomania.tar) |
 | [A Tribute to GG Allin](a-tribute-to-gg-allin_75080dbe2d62/a-tribute-to-gg-allin_75080dbe2d62.md) | 2011 | FLAC | 00:29:26 | [IA](https://archive.org/details/a-tribute-to-gg-allin_75080dbe2d62) [FileDitch](https://fileditchfiles.st/beta12/7e0a229d9967c6450067/A_Tribute_to_GG_Allin.tar) |
