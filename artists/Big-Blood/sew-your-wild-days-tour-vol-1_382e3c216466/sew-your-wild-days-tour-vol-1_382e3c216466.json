@@ -1,0 +1,33 @@
+{
+  "id": "sew-your-wild-days-tour-vol-1_382e3c216466",
+  "fingerprint": "382e3c21646642fd2826dfd46511b6379a10ee2d220fa0046ceec4998d39a915",
+  "archived_at": "2026-07-12T08:36:37Z",
+  "metadata": {
+    "title": "Sew Your Wild Days Tour Vol. 1",
+    "artist": "Big Blood",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2188,
+    "duration_human": "00:36:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Big Blood - Adversaries & Enemies",
+      "02 Big Blood - Vitamin C (Can)",
+      "03 Big Blood - Spit Shine",
+      "04 Big Blood - Don't Trust the Ruin I",
+      "05 Big Blood - Moonin' Away",
+      "06 Big Blood - Wrinkles & Ribbons",
+      "07 Big Blood - Song for Baltimore"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sew-your-wild-days-tour-vol-1_382e3c216466"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/926d7b4bbb51fa96b0a4/Sew_Your_Wild_Days_Tour_Vol._1.tar"
+    }
+  }
+}

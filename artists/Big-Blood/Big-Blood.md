@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Sew Your Wild Days Tour Vol. 1](sew-your-wild-days-tour-vol-1_382e3c216466/sew-your-wild-days-tour-vol-1_382e3c216466.md) | 2007 | FLAC | 00:36:28 | [IA](https://archive.org/details/sew-your-wild-days-tour-vol-1_382e3c216466) [FileDitch](https://fileditchfiles.st/beta12/926d7b4bbb51fa96b0a4/Sew_Your_Wild_Days_Tour_Vol._1.tar) |
 | [Big Blood & The Bleedin' Hearts](big-blood-the-bleedin-hearts_3466399b503a/big-blood-the-bleedin-hearts_3466399b503a.md) | 2008 | FLAC | 00:46:53 | [IA](https://archive.org/details/big-blood-the-bleedin-hearts_3466399b503a) [FileDitch](https://fileditchfiles.st/beta12/27656f0e08d39c8ea8dc/Big_Blood_The_Bleedin_Hearts.tar) |
 | [Already Gone I](already-gone-i_71f2040e2544/already-gone-i_71f2040e2544.md) | 2009 | FLAC | 00:45:24 | [IA](https://archive.org/details/already-gone-i_71f2040e2544) [FileDitch](https://fileditchfiles.st/beta12/6a1d74c9aca29c323b38/Already_Gone_I.tar) |
 | [Already Gone II](already-gone-ii_50a656a1eebd/already-gone-ii_50a656a1eebd.md) | 2009 | FLAC | 00:44:35 | [IA](https://archive.org/details/already-gone-ii_50a656a1eebd) [FileDitch](https://fileditchfiles.st/beta12/bc32347fe696b1334a85/Already_Gone_II.tar) |
