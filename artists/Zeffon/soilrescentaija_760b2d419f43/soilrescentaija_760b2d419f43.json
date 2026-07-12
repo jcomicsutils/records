@@ -35,6 +35,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/soilrescentaija_760b2d419f43"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/95338669938375a13880/Soilrescentaija.tar"
     }
   }
 }

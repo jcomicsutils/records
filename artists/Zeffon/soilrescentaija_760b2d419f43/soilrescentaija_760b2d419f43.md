@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/soilrescentaija_760b2d419f43)
+- [FileDitch](https://fileditchfiles.st/beta12/95338669938375a13880/Soilrescentaija.tar)
 
 ## Tracklist
 
