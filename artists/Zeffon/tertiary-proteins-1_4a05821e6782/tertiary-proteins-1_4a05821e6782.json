@@ -1,0 +1,37 @@
+{
+  "id": "tertiary-proteins-1_4a05821e6782",
+  "fingerprint": "4a05821e6782b76d23357d46315ea772f35ceb620354d3c8a617d080109a95ef",
+  "archived_at": "2026-07-12T19:34:59Z",
+  "metadata": {
+    "title": "Tertiary Proteins 1",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 3173,
+    "duration_human": "00:52:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - You're Losin' (Again)",
+      "02 Zeffon - Music for the Marsh Wilds",
+      "03 Zeffon - Stay Away From the Fire Path",
+      "04 Zeffon - Together Forever (Voice Inside)",
+      "05 Zeffon - We're Losin'",
+      "06 Zeffon - Tertiary Proteins!! 1",
+      "07 Zeffon - Someone For You",
+      "08 Zeffon - Vitamins!",
+      "09 Zeffon - Tertiary Proteins!! 2",
+      "10 Zeffon - Tertiary Proteins!! 3",
+      "11 Zeffon - Damage"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tertiary-proteins-1_4a05821e6782"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta13/60919b4a692fdb9fb2d1/Tertiary_Proteins_1.tar"
+    }
+  }
+}
