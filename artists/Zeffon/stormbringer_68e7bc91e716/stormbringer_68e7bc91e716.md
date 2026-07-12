@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/stormbringer_68e7bc91e716)
+- [FileDitch](https://fileditchfiles.st/beta12/2308002ac13efd89ce9c/Stormbringer.tar)
 
 ## Tracklist
 
