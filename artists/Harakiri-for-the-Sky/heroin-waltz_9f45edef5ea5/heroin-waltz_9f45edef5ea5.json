@@ -1,0 +1,27 @@
+{
+  "id": "heroin-waltz_9f45edef5ea5",
+  "fingerprint": "9f45edef5ea55c3e57006d5e139a621a120c1426d9faa1be9fa656d8197e2b93",
+  "archived_at": "2026-07-12T04:20:13Z",
+  "metadata": {
+    "title": "Heroin Waltz",
+    "artist": "Harakiri for the Sky",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 587,
+    "duration_human": "00:09:47",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Harakiri for the Sky - Heroin Waltz"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/heroin-waltz_9f45edef5ea5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/69bb8173c9ff7b1bb25e/Heroin_Waltz.tar"
+    }
+  }
+}
