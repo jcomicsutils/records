@@ -1,0 +1,27 @@
+{
+  "id": "solar-flare_1724acae2b8a",
+  "fingerprint": "1724acae2b8af5bce93d996fc4d3f8f2c7353f5e8654c4743a5c92d5e5cf5cfc",
+  "archived_at": "2026-07-12T04:10:09Z",
+  "metadata": {
+    "title": "Solar Flare",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4700,
+    "duration_human": "01:18:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Solar Flare"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/solar-flare_1724acae2b8a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/80e78b4d877f8d212c4b/Solar_Flare.tar"
+    }
+  }
+}
