@@ -1,0 +1,34 @@
+{
+  "id": "state-of-mind_b2f609148d8a",
+  "fingerprint": "b2f609148d8ae3bbe08705b710d3f1c1fb7abd3592999b1fe596af90d4579f29",
+  "archived_at": "2026-07-12T07:39:10Z",
+  "metadata": {
+    "title": "State of Mind",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1711,
+    "duration_human": "00:28:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - State of Mind",
+      "02 Zeffon - Anxiety",
+      "03 Zeffon - Movement",
+      "04 Zeffon - Audio",
+      "05 Zeffon - Microscope",
+      "06 Zeffon - 69!",
+      "07 Zeffon - Red and Blue",
+      "08 Zeffon - Sinemu"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/state-of-mind_b2f609148d8a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/d834f7a0a1828061014e/State_of_Mind.tar"
+    }
+  }
+}
