@@ -1,0 +1,31 @@
+{
+  "id": "worlds-collide_c77a75111614",
+  "fingerprint": "c77a75111614b24ce77ff8aaf93535b26bf79809c7ba0261f8ae96b628f731db",
+  "archived_at": "2026-07-12T02:24:15Z",
+  "metadata": {
+    "title": "Worlds Collide",
+    "artist": "To Be Gentle",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 988,
+    "duration_human": "00:16:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 The Civil War in France - Gosaku!",
+      "02 Face Turn - Stained Glass Window",
+      "03 Old Pride - VI",
+      "04 Summer 2000 - Candelabra",
+      "05 To Be Gentle - Greenhug"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/worlds-collide_c77a75111614"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/7b779f8f87da5c938b21/Worlds_Collide.tar"
+    }
+  }
+}
