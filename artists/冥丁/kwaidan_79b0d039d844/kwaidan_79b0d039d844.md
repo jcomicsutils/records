@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/kwaidan_79b0d039d844)
+- [FileDitch](https://fileditchfiles.st/beta12/df4bc110fdf876ba5b75/Kwaidan.tar)
 
 ## Tracklist
 
