@@ -1,0 +1,31 @@
+{
+  "id": "system-no-2_9c5b7894057f",
+  "fingerprint": "9c5b7894057f438a47911f56b654a9023dcc92975d07c1c07c749dc5c550a763",
+  "archived_at": "2026-07-12T17:16:29Z",
+  "metadata": {
+    "title": "System No. 2",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 5086,
+    "duration_human": "01:24:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - I Am Dead",
+      "02 Zeffon - Factory Revolt",
+      "03 Zeffon - Paragi",
+      "04 Zeffon - Yes, Sir",
+      "05 Zeffon - No, Sir"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/system-no-2_9c5b7894057f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta13/5413950a5053caef1485/System_No._2.tar"
+    }
+  }
+}
