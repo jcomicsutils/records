@@ -1,0 +1,27 @@
+{
+  "id": "i-pallbearer_2bb451575980",
+  "fingerprint": "2bb451575980f1295331d6db2838987240b48ee80561cdbdaf59714c6346cb2e",
+  "archived_at": "2026-07-12T04:26:59Z",
+  "metadata": {
+    "title": "I, Pallbearer",
+    "artist": "Harakiri for the Sky",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 422,
+    "duration_human": "00:07:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Harakiri for the Sky - I, Pallbearer"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-pallbearer_2bb451575980"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/c1e518ede29f8910a034/I_Pallbearer.tar"
+    }
+  }
+}
