@@ -1,0 +1,42 @@
+{
+  "id": "electric-voyeur_70dd2cc2122f",
+  "fingerprint": "70dd2cc2122f1d7e61758089c575e036e640ace181563b303014e69e8a489a5d",
+  "archived_at": "2026-07-12T05:35:45Z",
+  "metadata": {
+    "title": "Electric Voyeur",
+    "artist": "Big Blood",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_seconds": 3124,
+    "duration_human": "00:52:04",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Big Blood - Electric Voyeur",
+      "02 Big Blood - Middle of a Party",
+      "03 Big Blood - Night Walk",
+      "04 Big Blood - In the Night Sky",
+      "05 Big Blood - Electric Voyeur II",
+      "06 Big Blood - For Real",
+      "07 Big Blood - Who Lives?",
+      "08 Big Blood - Night Stalk",
+      "09 Big Blood - Bitter Choice",
+      "10 Big Blood - Floating From Xanthi II (Giant Fir)",
+      "11 Big Blood - Came to Life",
+      "12 Big Blood - Gravity's Mark",
+      "13 Big Blood - Joe's Head",
+      "14 Big Blood - No Rain Tonight",
+      "15 Big Blood - Day Bright",
+      "16 Big Blood - Color of the Moment"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/electric-voyeur_70dd2cc2122f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/609df075de9f1a2ad3f8/Electric_Voyeur.tar"
+    }
+  }
+}
