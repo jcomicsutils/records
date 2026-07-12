@@ -1,0 +1,33 @@
+{
+  "id": "show-me-a-dinosaur_dadba24aa54e",
+  "fingerprint": "dadba24aa54e456b9a826454759e9efb46cd9ac4e3a870596059485637ed3d09",
+  "archived_at": "2026-07-12T09:24:39Z",
+  "metadata": {
+    "title": "Show Me a Dinosaur",
+    "artist": "Show Me a Dinosaur",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2492,
+    "duration_human": "00:41:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Show Me a Dinosaur - Rakev",
+      "02 Show Me a Dinosaur - Vjuga",
+      "03 Show Me a Dinosaur - Ochag",
+      "04 Show Me a Dinosaur - Lights",
+      "05 Show Me a Dinosaur - Gone",
+      "06 Show Me a Dinosaur - Hearth",
+      "07 Show Me a Dinosaur - Wojna"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/show-me-a-dinosaur_dadba24aa54e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/81aea508455a42642d18/Show_Me_a_Dinosaur.tar"
+    }
+  }
+}
