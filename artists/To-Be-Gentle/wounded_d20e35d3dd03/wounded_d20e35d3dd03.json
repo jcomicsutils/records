@@ -1,0 +1,33 @@
+{
+  "id": "wounded_d20e35d3dd03",
+  "fingerprint": "d20e35d3dd03e80f341686d19415b56e2d270803fc358db515f350c404f9aee3",
+  "archived_at": "2026-07-12T02:30:02Z",
+  "metadata": {
+    "title": "Wounded",
+    "artist": "To Be Gentle",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1869,
+    "duration_human": "00:31:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - I Am Unafraid",
+      "02 To Be Gentle - A Thousand Words",
+      "03 To Be Gentle - Radiator Tubes",
+      "04 To Be Gentle - Impulses",
+      "05 To Be Gentle - Miasma",
+      "06 To Be Gentle - Hell is Real and It Rots in My Brain",
+      "07 To Be Gentle - Wounded"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wounded_d20e35d3dd03"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/8ccc62212d934430e4fa/Wounded.tar"
+    }
+  }
+}
