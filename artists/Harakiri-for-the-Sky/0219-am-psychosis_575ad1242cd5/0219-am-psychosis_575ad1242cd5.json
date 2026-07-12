@@ -1,0 +1,27 @@
+{
+  "id": "0219-am-psychosis_575ad1242cd5",
+  "fingerprint": "575ad1242cd578964ccb02fc84be19a4b3b0b8e1193ca20314eb24d6711319a3",
+  "archived_at": "2026-07-12T01:53:29Z",
+  "metadata": {
+    "title": "02:19 AM, Psychosis",
+    "artist": "Harakiri for the Sky",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 460,
+    "duration_human": "00:07:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Harakiri for the Sky - 02:19 AM, Psychosis"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/0219-am-psychosis_575ad1242cd5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/991ab7b2628dc5b25a6f/0219_AM_Psychosis.tar"
+    }
+  }
+}
