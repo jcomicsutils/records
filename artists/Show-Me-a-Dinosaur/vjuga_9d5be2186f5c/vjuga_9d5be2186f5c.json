@@ -1,0 +1,28 @@
+{
+  "id": "vjuga_9d5be2186f5c",
+  "fingerprint": "9d5be2186f5c80d2734f16f1ea90b9f8a04c66b612768c34f8f46b695b488529",
+  "archived_at": "2026-07-12T09:26:08Z",
+  "metadata": {
+    "title": "Vjuga",
+    "artist": "Show Me a Dinosaur",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 612,
+    "duration_human": "00:10:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Show Me a Dinosaur - Vjuga",
+      "02 Show Me a Dinosaur - Ochag"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vjuga_9d5be2186f5c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/b3d15c05a62a9924a1f2/Vjuga.tar"
+    }
+  }
+}
