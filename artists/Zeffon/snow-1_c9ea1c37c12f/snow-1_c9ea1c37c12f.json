@@ -1,0 +1,27 @@
+{
+  "id": "snow-1_c9ea1c37c12f",
+  "fingerprint": "c9ea1c37c12f64367b92d72070861d0e3d53553e4dc679f12c0292633baa7094",
+  "archived_at": "2026-07-12T02:47:19Z",
+  "metadata": {
+    "title": "Snow 1",
+    "artist": "Zeffon",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1148,
+    "duration_human": "00:19:08",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Snow 1 (Ver. 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/snow-1_c9ea1c37c12f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/b660a5de1557f4b9efbb/Snow_1.tar"
+    }
+  }
+}
