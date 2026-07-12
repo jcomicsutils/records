@@ -1,0 +1,33 @@
+{
+  "id": "rheia_f37fda523ae4",
+  "fingerprint": "f37fda523ae46b8b411c0dedda4a6fa933f2777a14bc778424a119f103a9732b",
+  "archived_at": "2026-07-12T01:57:48Z",
+  "metadata": {
+    "title": "Rheia",
+    "artist": "Oathbreaker",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3806,
+    "duration_human": "01:03:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Oathbreaker - 10:56",
+      "02 Oathbreaker - Second Son of R.",
+      "03 Oathbreaker - Being Able to Feel Nothing",
+      "04 Oathbreaker - Stay Here / Accroche-Moi",
+      "05 Oathbreaker - Needles in Your Skin",
+      "06 Oathbreaker - Immortals",
+      "07 Oathbreaker - I'm Sorry, This Is",
+      "08 Oathbreaker - Where I Live",
+      "09 Oathbreaker - Where I Leave",
+      "10 Oathbreaker - Begeerte"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rheia_f37fda523ae4"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "and-oceans-between-us_07777856b04f",
+  "fingerprint": "07777856b04f3cb3bc5f5c3f49f6ac4dcc67eaba5b21124cb1e9a9aac88ebc01",
+  "archived_at": "2026-07-12T02:00:30Z",
+  "metadata": {
+    "title": "And Oceans Between Us",
+    "artist": "Harakiri for the Sky",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 537,
+    "duration_human": "00:08:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Harakiri for the Sky - And Oceans Between Us"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/and-oceans-between-us_07777856b04f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/5e287a04e664f667b087/And_Oceans_Between_Us.tar"
+    }
+  }
+}
