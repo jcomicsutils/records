@@ -1,0 +1,35 @@
+{
+  "id": "think-of-you_a4c48b287d52",
+  "fingerprint": "a4c48b287d52a43b964612b93108bedb670a528793ab7536719806b3d971fad4",
+  "archived_at": "2026-07-12T00:34:03Z",
+  "metadata": {
+    "title": "Think of You",
+    "artist": "明日の叙景",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2191,
+    "duration_human": "00:36:31",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 明日の叙景 - Dawn",
+      "02 明日の叙景 - Stella",
+      "03 明日の叙景 - Magic Hour",
+      "04 明日の叙景 - Angel",
+      "05 明日の叙景 - Dogma",
+      "06 明日の叙景 - In the City Where Cobalt Falls",
+      "07 明日の叙景 - The Farewell Frost",
+      "08 明日の叙景 - Zeppelin",
+      "09 明日の叙景 - Tomorrow is Your Day"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/think-of-you_a4c48b287d52"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/fa797a122ebf51ada06d/Think_of_You.tar"
+    }
+  }
+}
