@@ -1,0 +1,34 @@
+{
+  "id": "lectric-lashes_b16bd5d4042d",
+  "fingerprint": "b16bd5d4042dae6a544889981e0468d12ff59abc9efe23d9e5ceb06bd9340cf9",
+  "archived_at": "2026-07-12T07:35:59Z",
+  "metadata": {
+    "title": "Lectric 'Lashes",
+    "artist": "Big Blood & Visitations",
+    "year": "2008",
+    "codec": "MP3",
+    "num_tracks": 8,
+    "duration_seconds": 3243,
+    "duration_human": "00:54:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Big Blood & Visitations - Late Night Jam Session 1",
+      "02 Big Blood & Visitations - Late Night Jam Session 2",
+      "03 Big Blood & Visitations - Late Night Jam Session 3",
+      "04 Big Blood & Visitations - Late Night Jam Session 4",
+      "05 Big Blood & Visitations - Lectric 'Lashes 1",
+      "06 Big Blood & Visitations - Lectric 'Lashes 2",
+      "07 Big Blood & Visitations - Lectric 'Lashes 3",
+      "08 Big Blood & Visitations - Lectric 'Lashes 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lectric-lashes_b16bd5d4042d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/88a1b7ac8a398c3b82c5/Lectric_Lashes.tar"
+    }
+  }
+}
