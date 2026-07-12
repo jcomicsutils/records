@@ -9,4 +9,5 @@
 | [Frozen Bloom](frozen-bloom_1cf365bf0007/frozen-bloom_1cf365bf0007.md) | 2021 | FLAC | 00:59:02 | [IA](https://archive.org/details/frozen-bloom_1cf365bf0007) [FileDitch](https://fileditchfiles.st/beta12/d630cdeccfcb1880f9b8/Frozen_Bloom.tar) |
 | [Reborn](reborn_16ef0f4ecc88/reborn_16ef0f4ecc88.md) | 2022 | FLAC | 01:19:07 | [IA](https://archive.org/details/reborn_16ef0f4ecc88) [FileDitch](https://fileditchfiles.st/beta12/cd45f803fa4c3188ca1f/Reborn.tar) |
 | [Eternal Fire](eternal-fire_8e34fb2634a0/eternal-fire_8e34fb2634a0.md) | 2023 | FLAC | 00:19:24 | [IA](https://archive.org/details/eternal-fire_8e34fb2634a0) [FileDitch](https://fileditchfiles.st/beta12/7e440727192ae6e65483/Eternal_Fire.tar) |
+| [Sacrifice](sacrifice_e3666e9d5a64/sacrifice_e3666e9d5a64.md) | 2024 | FLAC | 01:26:29 | [IA](https://archive.org/details/sacrifice_e3666e9d5a64) [FileDitch](https://fileditchfiles.st/beta12/7a50660faae8c135c960/Sacrifice.tar) |
 | [Memorial](memorial_160ab6d3341c/memorial_160ab6d3341c.md) | 2026 | FLAC | 01:18:20 | [IA](https://archive.org/details/memorial_160ab6d3341c) [FileDitch](https://fileditchfiles.st/beta12/9395bc069c69764b7441/Memorial.tar) |
