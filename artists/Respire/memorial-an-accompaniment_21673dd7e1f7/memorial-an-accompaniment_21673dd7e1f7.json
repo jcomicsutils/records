@@ -1,0 +1,34 @@
+{
+  "id": "memorial-an-accompaniment_21673dd7e1f7",
+  "fingerprint": "21673dd7e1f77fcd800f0638f00df90dfdbbb60ead9ff4d91c8cb73f604fe087",
+  "archived_at": "2026-07-12T06:49:40Z",
+  "metadata": {
+    "title": "Memorial (An Accompaniment)",
+    "artist": "Respire",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2244,
+    "duration_human": "00:37:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Respire - Bound",
+      "02 Respire - Haunt",
+      "03 Respire - Shiver",
+      "04 Respire - Bloom",
+      "05 Respire - Catacombs",
+      "06 Respire - Virtue",
+      "07 Respire - A Heart Still Pines",
+      "08 Respire - Dénouement"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/memorial-an-accompaniment_21673dd7e1f7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/dbd05715aca54f425630/Memorial_An_Accompaniment.tar"
+    }
+  }
+}
