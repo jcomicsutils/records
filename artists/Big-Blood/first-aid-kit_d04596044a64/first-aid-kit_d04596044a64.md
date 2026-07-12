@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/first-aid-kit_d04596044a64)
+- [FileDitch](https://fileditchfiles.st/beta12/447bb4b4ef39452171c0/First_Aid_Kit.tar)
 
 ## Tracklist
 
