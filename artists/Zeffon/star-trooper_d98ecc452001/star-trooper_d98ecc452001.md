@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/star-trooper_d98ecc452001)
+- [FileDitch](https://fileditchfiles.st/beta12/c912cc3c61e8f6c5005b/Star_Trooper.tar)
 
 ## Tracklist
 
