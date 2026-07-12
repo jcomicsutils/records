@@ -1,0 +1,35 @@
+{
+  "id": "black-line_5abd9d930b06",
+  "fingerprint": "5abd9d930b064abd73f1a9a59fe8ec2c7a604ea495f16b1c0fe30cf3ee24115f",
+  "archived_at": "2026-07-12T06:15:45Z",
+  "metadata": {
+    "title": "Black Line",
+    "artist": "Respire",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2467,
+    "duration_human": "00:41:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Respire - Blight",
+      "02 Respire - Tempest",
+      "03 Respire - Cicatrice",
+      "04 Respire - Lost Virtue",
+      "05 Respire - Kindling",
+      "06 Respire - Embers to End",
+      "07 Respire - Flicker and Faint",
+      "08 Respire - To Our Dead Friends",
+      "09 Respire - Catacombs Part II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/black-line_5abd9d930b06"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/610ed81ae72c0cefad38/Black_Line.tar"
+    }
+  }
+}
