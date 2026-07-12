@@ -1,0 +1,27 @@
+{
+  "id": "sublime_eec326b7a361",
+  "fingerprint": "eec326b7a361ca40fed483ac4bb22f2eba234ca9e3825b958932890bafcb54da",
+  "archived_at": "2026-07-12T13:00:02Z",
+  "metadata": {
+    "title": "Sublime",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 401,
+    "duration_human": "00:06:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Sublime (Single)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sublime_eec326b7a361"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/6c053150c75034e7d2b0/Sublime.tar"
+    }
+  }
+}
