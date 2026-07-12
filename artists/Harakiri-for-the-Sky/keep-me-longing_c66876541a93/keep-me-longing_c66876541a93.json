@@ -1,0 +1,30 @@
+{
+  "id": "keep-me-longing_c66876541a93",
+  "fingerprint": "c66876541a934e1c82874354df52b61203c7e25a2bc1fec8e30534c50f8225e5",
+  "archived_at": "2026-07-12T05:45:56Z",
+  "metadata": {
+    "title": "Keep Me Longing",
+    "artist": "Harakiri for the Sky",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1950,
+    "duration_human": "00:32:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Harakiri for the Sky - Keep Me Longing",
+      "02 Harakiri for the Sky - Street Spirit (Fade Out)",
+      "03 Harakiri for the Sky - Heal Me",
+      "04 Harakiri for the Sky - With Autumn I'll Surrender"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/keep-me-longing_c66876541a93"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/68be34c9ee12b0366e2b/Keep_Me_Longing.tar"
+    }
+  }
+}
