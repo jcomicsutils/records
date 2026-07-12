@@ -1,0 +1,27 @@
+{
+  "id": "mad-world_06fd4baceb8d",
+  "fingerprint": "06fd4baceb8d861f6192355aa583003bb76b98617a9d4bcdf2ae319d671d9747",
+  "archived_at": "2026-07-12T05:50:18Z",
+  "metadata": {
+    "title": "Mad World",
+    "artist": "Harakiri for the Sky",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 305,
+    "duration_human": "00:05:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Harakiri for the Sky - Mad World"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mad-world_06fd4baceb8d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/dd0333d5b903002c122c/Mad_World.tar"
+    }
+  }
+}
