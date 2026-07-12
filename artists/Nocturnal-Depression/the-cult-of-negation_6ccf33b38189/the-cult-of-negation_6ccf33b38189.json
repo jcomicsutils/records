@@ -1,0 +1,32 @@
+{
+  "id": "the-cult-of-negation_6ccf33b38189",
+  "fingerprint": "6ccf33b381894390dfbe9e2651fbb71a0e494ac4cfd3b85cb07ea3193bc27773",
+  "archived_at": "2026-07-12T00:10:40Z",
+  "metadata": {
+    "title": "The Cult of Negation",
+    "artist": "Nocturnal Depression",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2624,
+    "duration_human": "00:43:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nocturnal Depression - Credo negativo",
+      "02 Nocturnal Depression - They",
+      "03 Nocturnal Depression - We're All Better Off Dead",
+      "04 Nocturnal Depression - Home Asylum",
+      "05 Nocturnal Depression - Dead Children",
+      "06 Nocturnal Depression - The Cult of Negation"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-cult-of-negation_6ccf33b38189"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/c75c28e42ad8c2401cc7/The_Cult_of_Negation.tar"
+    }
+  }
+}
