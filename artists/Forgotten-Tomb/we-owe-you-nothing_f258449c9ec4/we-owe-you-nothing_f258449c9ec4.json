@@ -1,0 +1,32 @@
+{
+  "id": "we-owe-you-nothing_f258449c9ec4",
+  "fingerprint": "f258449c9ec41cf37afeb28a70347600f6cc0881c0e41ba6010ba670a4bbb03b",
+  "archived_at": "2026-07-12T01:51:46Z",
+  "metadata": {
+    "title": "We Owe You Nothing",
+    "artist": "Forgotten Tomb",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2457,
+    "duration_human": "00:40:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Forgotten Tomb - We Owe You Nothing",
+      "02 Forgotten Tomb - Second Chances",
+      "03 Forgotten Tomb - Saboteur",
+      "04 Forgotten Tomb - Abandon Everything",
+      "05 Forgotten Tomb - Longing for Decay",
+      "06 Forgotten Tomb - Black Overture"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/we-owe-you-nothing_f258449c9ec4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/bc19f7ec84fbf90074d9/We_Owe_You_Nothing.tar"
+    }
+  }
+}
