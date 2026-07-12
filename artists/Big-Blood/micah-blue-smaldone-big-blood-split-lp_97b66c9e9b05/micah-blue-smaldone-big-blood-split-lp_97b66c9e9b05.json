@@ -1,0 +1,31 @@
+{
+  "id": "micah-blue-smaldone-big-blood-split-lp_97b66c9e9b05",
+  "fingerprint": "97b66c9e9b057022fd6dccd0414d816bedd5d2b5ed7b410b8669d4941555eb24",
+  "archived_at": "2026-07-12T07:39:42Z",
+  "metadata": {
+    "title": "Micah Blue Smaldone / Big Blood - Split LP",
+    "artist": "Big Blood",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1752,
+    "duration_human": "00:29:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Micah Blue Smaldone, Big Blood - The Mule",
+      "02 Micah Blue Smaldone, Big Blood - Tell It to the Sun",
+      "03 Micah Blue Smaldone, Big Blood - The Queen & Her Court",
+      "04 Micah Blue Smaldone, Big Blood - Sister",
+      "05 Micah Blue Smaldone, Big Blood - Kentucky Babe"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/micah-blue-smaldone-big-blood-split-lp_97b66c9e9b05"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/16c39c291e34a372963e/Micah_Blue_Smaldone_-_Big_Blood_-_Split_LP.tar"
+    }
+  }
+}
