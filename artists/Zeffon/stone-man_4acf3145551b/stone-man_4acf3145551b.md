@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/stone-man_4acf3145551b)
+- [FileDitch](https://fileditchfiles.st/beta12/d4574f695758daa00798/Stone_Man.tar)
 
 ## Tracklist
 
