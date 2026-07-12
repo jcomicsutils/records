@@ -27,6 +27,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/gravity-and-grace_cea97583c99c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/8c031d815c0fa4a373f8/Gravity_and_Grace.tar"
     }
   }
 }
