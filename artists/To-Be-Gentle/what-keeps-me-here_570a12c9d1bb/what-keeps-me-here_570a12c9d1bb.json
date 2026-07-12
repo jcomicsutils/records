@@ -1,0 +1,32 @@
+{
+  "id": "what-keeps-me-here_570a12c9d1bb",
+  "fingerprint": "570a12c9d1bb7e669391f8362f07ffba3b35ffb0ab98289db87bb5bb12d8733d",
+  "archived_at": "2026-07-12T02:17:50Z",
+  "metadata": {
+    "title": "What Keeps Me Here",
+    "artist": "To Be Gentle",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2342,
+    "duration_human": "00:39:02",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - Summer Snow",
+      "02 To Be Gentle - Ambient Willow Branches",
+      "03 To Be Gentle - Setting Fire to Curtains in Hope That You're Dreaming",
+      "04 To Be Gentle - Dreams of the Pilots",
+      "05 To Be Gentle - Textured Longing / Greenliness",
+      "06 To Be Gentle - To Be Loved"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/what-keeps-me-here_570a12c9d1bb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/68e7632411d58bc8940a/What_Keeps_Me_Here.tar"
+    }
+  }
+}
