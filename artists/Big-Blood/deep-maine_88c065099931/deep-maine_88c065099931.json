@@ -25,6 +25,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/deep-maine_88c065099931"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/b19ee6ce2a117ec7656e/Deep_Maine.tar"
     }
   }
 }
