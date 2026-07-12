@@ -1,0 +1,27 @@
+{
+  "id": "sing-for-the-damage-weve-done_e90705ffedd8",
+  "fingerprint": "e90705ffedd82723583e92a982402594030db0327c4abe652905ed4cb475cbe1",
+  "archived_at": "2026-07-12T06:51:41Z",
+  "metadata": {
+    "title": "Sing for the Damage We've Done",
+    "artist": "Harakiri for the Sky",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 485,
+    "duration_human": "00:08:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Harakiri for the Sky, Alcest - Sing for the Damage We've Done"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sing-for-the-damage-weve-done_e90705ffedd8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/d470dcf36ae9ddd4be26/Sing_for_the_Damage_We_ve_Done.tar"
+    }
+  }
+}
