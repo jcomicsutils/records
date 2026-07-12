@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/ladoga_9a8ac98f441f)
+- [FileDitch](https://fileditchfiles.st/beta12/f086a531b79ba6058c75/Ladoga.tar)
 
 ## Tracklist
 
