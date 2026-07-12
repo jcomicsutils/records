@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/snow-zombies-eumtzhd-tguoch-zrpamrichats-vi_9a230d930617)
+- [FileDitch](https://fileditchfiles.st/beta12/0b3245c4124680c1b612/Snow_Zombies_-_VI.tar)
 
 ## Tracklist
 
