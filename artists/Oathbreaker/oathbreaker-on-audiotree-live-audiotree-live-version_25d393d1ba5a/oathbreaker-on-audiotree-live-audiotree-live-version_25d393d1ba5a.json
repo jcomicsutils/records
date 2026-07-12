@@ -1,0 +1,31 @@
+{
+  "id": "oathbreaker-on-audiotree-live-audiotree-live-version_25d393d1ba5a",
+  "fingerprint": "25d393d1ba5ad180f01b6e80999eb0d158db235da7bc2f5543d8b39b3cc0ab5b",
+  "archived_at": "2026-07-12T01:34:41Z",
+  "metadata": {
+    "title": "Oathbreaker on Audiotree Live (Audiotree Live Version)",
+    "artist": "Oathbreaker",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1595,
+    "duration_human": "00:26:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Oathbreaker - 10:56 (Audiotree Live Version)",
+      "02 Oathbreaker - Second Son of R. (Audiotree Live Version)",
+      "03 Oathbreaker - Needles in Your Skin (Audiotree Live Version)",
+      "04 Oathbreaker - Being Able to Feel Nothing (Audiotree Live Version)",
+      "05 Oathbreaker - Stay Here / Accroche-Moi (Audiotree Live Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/oathbreaker-on-audiotree-live-audiotree-live-version_25d393d1ba5a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/516ff6e850e154262925/Oathbreaker_on_Audiotree_Live_Audiotree_Live_Version.tar"
+    }
+  }
+}
