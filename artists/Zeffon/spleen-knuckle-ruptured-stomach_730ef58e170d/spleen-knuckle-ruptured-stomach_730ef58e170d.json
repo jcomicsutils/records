@@ -1,0 +1,28 @@
+{
+  "id": "spleen-knuckle-ruptured-stomach_730ef58e170d",
+  "fingerprint": "730ef58e170defa04f5342f4dae521ea638bcb04e9889aa899bc8aaee3ecc7c7",
+  "archived_at": "2026-07-12T06:31:28Z",
+  "metadata": {
+    "title": "Spleen, Knuckle, Ruptured Stomach",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 7179,
+    "duration_human": "01:59:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Guinea 8.12",
+      "02 Zeffon - Garbuu"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/spleen-knuckle-ruptured-stomach_730ef58e170d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/989148898135fe4600bf/Spleen_Knuckle_Ruptured_Stomach.tar"
+    }
+  }
+}
