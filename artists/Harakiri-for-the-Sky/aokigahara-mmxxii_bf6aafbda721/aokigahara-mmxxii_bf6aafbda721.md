@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/aokigahara-mmxxii_bf6aafbda721)
+- [FileDitch](https://fileditchfiles.st/beta12/e9af98bc1ba280561e90/Aokigahara_MMXXII.tar)
 
 ## Tracklist
 

@@ -28,6 +28,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/aokigahara-mmxxii_bf6aafbda721"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/e9af98bc1ba280561e90/Aokigahara_MMXXII.tar"
     }
   }
 }
