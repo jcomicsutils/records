@@ -1,0 +1,27 @@
+{
+  "id": "rain-bonus-track-version_151435d81411",
+  "fingerprint": "151435d814117c34f64569e54bc83cdd1877ebcdfc1e0666a512721132aa47e3",
+  "archived_at": "2026-07-12T09:14:58Z",
+  "metadata": {
+    "title": "Rain (Bonus Track Version)",
+    "artist": "Show Me a Dinosaur",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 367,
+    "duration_human": "00:06:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Show Me a Dinosaur - Rain (Bonus Track Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rain-bonus-track-version_151435d81411"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/04019fdeb0b390aa81f5/Rain_Bonus_Track_Version.tar"
+    }
+  }
+}
