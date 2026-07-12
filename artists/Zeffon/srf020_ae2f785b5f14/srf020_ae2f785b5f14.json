@@ -1,0 +1,28 @@
+{
+  "id": "srf020_ae2f785b5f14",
+  "fingerprint": "ae2f785b5f14b050f692b12b4fb21ce9b642dff5fea710230fe5dbcbc06b7a18",
+  "archived_at": "2026-07-12T06:35:09Z",
+  "metadata": {
+    "title": "SRF020",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2395,
+    "duration_human": "00:39:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - A Childish Error",
+      "02 Zeffon - Moving Through Waves"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/srf020_ae2f785b5f14"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/0508b31ec6d20f5af4d1/SRF020.tar"
+    }
+  }
+}
