@@ -1,0 +1,42 @@
+{
+  "id": "system-no-1_027465d2260b",
+  "fingerprint": "027465d2260bc031e2efc2b00e3cda84a794f7a72f52095d8c5d853306fa9f38",
+  "archived_at": "2026-07-12T16:44:45Z",
+  "metadata": {
+    "title": "System No. 1",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 19,
+    "duration_seconds": 19337,
+    "duration_human": "05:22:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Stretched Skin",
+      "02 Zeffon - System No. 1 (A Broken Wheel of the Thread of Law)",
+      "03 Zeffon - The Law",
+      "04 Zeffon - So Safe Flying...",
+      "05 Zeffon - Temporary System No. 1",
+      "06 Zeffon - System No. 2",
+      "07 Zeffon - System No. 3",
+      "08 Zeffon - Dimension of Omnivores",
+      "09 Zeffon - M79",
+      "10 Zeffon - Boil Water",
+      "11 Zeffon - Death in the River",
+      "12 Zeffon - Temporary System No. 2",
+      "13 Zeffon - Death Evening",
+      "14 Zeffon - M69",
+      "15 Zeffon - Infestation in Lung",
+      "16 Zeffon - Smashed Cicada Shells",
+      "17 Zeffon - Languid",
+      "18 Zeffon - Pus",
+      "19 Zeffon - The Anthem of Springs"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/system-no-1_027465d2260b"
+    }
+  }
+}

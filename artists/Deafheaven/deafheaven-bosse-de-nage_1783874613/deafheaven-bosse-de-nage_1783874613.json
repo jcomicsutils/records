@@ -1,0 +1,27 @@
+{
+  "id": "deafheaven-bosse-de-nage_1783874613",
+  "archived_at": "2026-07-12T16:47:29Z",
+  "metadata": {
+    "title": "Deafheaven / Bosse‐de‐Nage",
+    "artist": "Deafheaven",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1178,
+    "duration_human": "00:19:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deafheaven - Punk Rock / Cody",
+      "02 Deafheaven - A Mimesis of Purpose"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/deafheaven-bosse-de-nage_1783874613"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta13/ee10a672fe083d16ab35/Deafheaven_-_Bosse_de_Nage.tar"
+    }
+  }
+}
