@@ -1,0 +1,32 @@
+{
+  "id": "kwaidan_79b0d039d844",
+  "fingerprint": "79b0d039d8448ee2f8a0aed279445b0a84304a84061aad9de84b3696e1970961",
+  "archived_at": "2026-07-12T00:06:02Z",
+  "metadata": {
+    "title": "Kwaidan",
+    "artist": "冥丁",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2106,
+    "duration_human": "00:35:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Meitei - SAZANAMI",
+      "02 Meitei - Curio",
+      "03 Meitei - Touba",
+      "04 Meitei - JIZO",
+      "05 Meitei - Aoyagi",
+      "06 Meitei - Moryo",
+      "07 Meitei - Sankai",
+      "08 Meitei - Shoji",
+      "09 Meitei - Mushiro"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kwaidan_79b0d039d844"
+    }
+  }
+}

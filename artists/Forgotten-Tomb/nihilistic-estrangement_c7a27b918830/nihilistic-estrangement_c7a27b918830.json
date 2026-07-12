@@ -1,0 +1,32 @@
+{
+  "id": "nihilistic-estrangement_c7a27b918830",
+  "fingerprint": "c7a27b9188306b300e7c057d936c1c830da380f2646914b573d9938297eb0144",
+  "archived_at": "2026-07-12T00:05:34Z",
+  "metadata": {
+    "title": "Nihilistic Estrangement",
+    "artist": "Forgotten Tomb",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2442,
+    "duration_human": "00:40:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Forgotten Tomb - Active Shooter",
+      "02 Forgotten Tomb - Iris' House Pt. I",
+      "03 Forgotten Tomb - Iris' House Pt. II",
+      "04 Forgotten Tomb - Distrust³",
+      "05 Forgotten Tomb - Nihilistic Estrangement",
+      "06 Forgotten Tomb - RBMK"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nihilistic-estrangement_c7a27b918830"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/eae0e59fa3d7481a2d8d/Nihilistic_Estrangement.tar"
+    }
+  }
+}
