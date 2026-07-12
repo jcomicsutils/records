@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/arson_62c7c2d3f02d)
+- [FileDitch](https://fileditchfiles.st/beta12/f9aeb00a975dca41822b/Arson.tar)
 
 ## Tracklist
 

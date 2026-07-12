@@ -26,6 +26,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/arson_62c7c2d3f02d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/f9aeb00a975dca41822b/Arson.tar"
     }
   }
 }
