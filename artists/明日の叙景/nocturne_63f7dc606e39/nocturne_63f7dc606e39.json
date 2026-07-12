@@ -1,0 +1,28 @@
+{
+  "id": "nocturne_63f7dc606e39",
+  "fingerprint": "63f7dc606e39d6d8cf59c1ade3e17e2b13faaffa866357c0b3b213d8bce00258",
+  "archived_at": "2026-07-12T00:28:46Z",
+  "metadata": {
+    "title": "Nocturne",
+    "artist": "明日の叙景",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 749,
+    "duration_human": "00:12:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Unreqvited - Nocturne I: Deadmoon",
+      "02 明日の叙景 - Nocturne II: Stardust"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nocturne_63f7dc606e39"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/82e51fc05a800b162cae/Nocturne.tar"
+    }
+  }
+}
