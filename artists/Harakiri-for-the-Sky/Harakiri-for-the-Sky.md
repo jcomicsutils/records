@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Harakiri for the Sky](harakiri-for-the-sky_729cafc52c98/harakiri-for-the-sky_729cafc52c98.md) | 2012 | FLAC | 00:37:30 | [IA](https://archive.org/details/harakiri-for-the-sky_729cafc52c98) [FileDitch](https://fileditchfiles.st/beta12/02f7c7f0c785daa60b0c/Harakiri_for_the_Sky.tar) |
 | [Aokigahara](aokigahara_20fa4cea6b1e/aokigahara_20fa4cea6b1e.md) | 2014 | FLAC | 01:04:00 | [IA](https://archive.org/details/aokigahara_20fa4cea6b1e) [FileDitch](https://fileditchfiles.st/beta12/5158c1b208d1bf24ba15/Aokigahara.tar) |
 | [Arson](arson_62c7c2d3f02d/arson_62c7c2d3f02d.md) | 2018 | FLAC | 01:11:37 | [IA](https://archive.org/details/arson_62c7c2d3f02d) [FileDitch](https://fileditchfiles.st/beta12/f9aeb00a975dca41822b/Arson.tar) |
 | [And Oceans Between Us](and-oceans-between-us_07777856b04f/and-oceans-between-us_07777856b04f.md) | 2020 | FLAC | 00:08:57 | [IA](https://archive.org/details/and-oceans-between-us_07777856b04f) [FileDitch](https://fileditchfiles.st/beta12/5e287a04e664f667b087/And_Oceans_Between_Us.tar) |
