@@ -1,0 +1,28 @@
+{
+  "id": "stagourosrays_38ce2ca6f5ba",
+  "fingerprint": "38ce2ca6f5bac9892ed7c99870b05e1352a30c960cf0e817279b087ddee9a630",
+  "archived_at": "2026-07-12T07:08:40Z",
+  "metadata": {
+    "title": "Stagourosrays",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5245,
+    "duration_human": "01:27:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Breath of God",
+      "02 Zeffon - Antifreeze II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stagourosrays_38ce2ca6f5ba"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/546bb931a31828890a41/Stagourosrays.tar"
+    }
+  }
+}

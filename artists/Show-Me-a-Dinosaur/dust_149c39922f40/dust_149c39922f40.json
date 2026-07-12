@@ -1,0 +1,30 @@
+{
+  "id": "dust_149c39922f40",
+  "fingerprint": "149c39922f4032034505f8957280692f2ccd44a24bcb3f0957ce148430c38032",
+  "archived_at": "2026-07-12T07:08:50Z",
+  "metadata": {
+    "title": "Dust",
+    "artist": "Show Me a Dinosaur",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2735,
+    "duration_human": "00:45:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Show Me a Dinosaur - Man Made God",
+      "02 Show Me a Dinosaur - Bhopal",
+      "03 Show Me a Dinosaur - More Than 70 Million Lives",
+      "04 Show Me a Dinosaur - Values",
+      "05 Show Me a Dinosaur - Drawing the Line",
+      "06 Show Me a Dinosaur - Dust",
+      "07 Show Me a Dinosaur - Rain"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dust_149c39922f40"
+    }
+  }
+}

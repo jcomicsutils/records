@@ -115,6 +115,7 @@
 - [Serpentmouth](Serpentmouth/Serpentmouth.md)
 - [Serpentmouth / Generated Missiân ZFN](Serpentmouth-Generated-Missiân-ZFN/Serpentmouth-Generated-Missiân-ZFN.md)
 - [Serpentmouth / Generated Missiân ZFN / Argon Lo Curránt](Serpentmouth-Generated-Missiân-ZFN-Argon-Lo-Curránt/Serpentmouth-Generated-Missiân-ZFN-Argon-Lo-Curránt.md)
+- [Show Me a Dinosaur](Show-Me-a-Dinosaur/Show-Me-a-Dinosaur.md)
 - [Siouxsie and The Banshees](Siouxsie-and-The-Banshees/Siouxsie-and-The-Banshees.md)
 - [St. Francis Duo](St.-Francis-Duo/St.-Francis-Duo.md)
 - [Steinbrüchel](Steinbrüchel/Steinbrüchel.md)
