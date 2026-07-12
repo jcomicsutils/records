@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/do-you-wanna-have-a-skeleton-dream_30b113d279ec)
+- [FileDitch](https://fileditchfiles.st/beta12/bf9b1b07cf79d02cfe72/Do_You_Wanna_Have_a_Skeleton_Dream.tar)
 
 ## Tracklist
 
