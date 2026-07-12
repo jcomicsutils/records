@@ -1,0 +1,27 @@
+{
+  "id": "spright-blue_af4396b65350",
+  "fingerprint": "af4396b65350d5132903c66e9d5ce90c94639b9eaa3388e34e69a3aa0749d6cf",
+  "archived_at": "2026-07-12T00:05:01Z",
+  "metadata": {
+    "title": "Spright Blue",
+    "artist": "To Be Gentle",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 157,
+    "duration_human": "00:02:37",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - Spright Blue"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/spright-blue_af4396b65350"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/60bcfaa97ae3d0bcb5b0/Spright_Blue.tar"
+    }
+  }
+}
