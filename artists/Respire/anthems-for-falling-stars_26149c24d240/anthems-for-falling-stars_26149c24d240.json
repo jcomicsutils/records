@@ -1,0 +1,27 @@
+{
+  "id": "anthems-for-falling-stars_26149c24d240",
+  "fingerprint": "26149c24d2405b0a256ebbf3005639a121ae807e85690b9a037dd7b2c0a85b30",
+  "archived_at": "2026-07-12T05:59:49Z",
+  "metadata": {
+    "title": "Anthems for Falling Stars",
+    "artist": "Respire",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 537,
+    "duration_human": "00:08:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Respire - Anthems for Falling Stars"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/anthems-for-falling-stars_26149c24d240"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/88f6bafc1ae1162f6080/Anthems_for_Falling_Stars.tar"
+    }
+  }
+}
