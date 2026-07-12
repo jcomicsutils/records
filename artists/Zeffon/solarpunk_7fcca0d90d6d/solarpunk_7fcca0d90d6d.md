@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/solarpunk_7fcca0d90d6d)
+- [FileDitch](https://fileditchfiles.st/beta12/6037ffae10ba36b84400/Solarpunk.tar)
 
 ## Tracklist
 
