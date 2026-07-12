@@ -1,0 +1,32 @@
+{
+  "id": "tape-8_aaede9931638",
+  "fingerprint": "aaede993163878590e8b815096ad43e88aafff80297a4b6fbcc664e4d4b7517d",
+  "archived_at": "2026-07-12T17:33:48Z",
+  "metadata": {
+    "title": "Tape 8",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 5493,
+    "duration_human": "01:31:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Limbo (Extract)",
+      "02 Zeffon - Space Patrol, Part 2",
+      "03 Zeffon - Horror Scene From a Film",
+      "04 Zeffon - Dimensional Rift (Extract)",
+      "05 Zeffon - X-Ray Block Machine Phantom",
+      "06 Zeffon - Mining Town (Extract)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tape-8_aaede9931638"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta13/7ad5aaa055f2366a1ce2/Tape_8.tar"
+    }
+  }
+}
