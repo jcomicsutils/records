@@ -1,0 +1,30 @@
+{
+  "id": "two_a8ab6e151465",
+  "fingerprint": "a8ab6e1514654a76c737e3893aaa5f736349a5854eb96dd713ebc7b803b1eb38",
+  "archived_at": "2026-07-12T00:41:51Z",
+  "metadata": {
+    "title": "Two",
+    "artist": "明日の叙景",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 948,
+    "duration_human": "00:15:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Pale - Dakhme",
+      "02 Nhomme - 淋檎の謳",
+      "03 冬蟲夏草 - 玩弄物",
+      "04 明日の叙景 - 冷たい傍ら"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/two_a8ab6e151465"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/38391e76bbcd7e5e5d56/Two.tar"
+    }
+  }
+}
