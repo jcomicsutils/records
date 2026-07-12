@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/big-blood-the-wicked-hex_551a3ce60afa)
+- [FileDitch](https://fileditchfiles.st/beta12/27449a67185a7673d51c/Big_Blood_The_Wicked_Hex.tar)
 
 ## Tracklist
 
