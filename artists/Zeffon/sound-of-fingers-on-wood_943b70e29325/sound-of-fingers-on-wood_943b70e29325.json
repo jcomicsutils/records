@@ -1,0 +1,28 @@
+{
+  "id": "sound-of-fingers-on-wood_943b70e29325",
+  "fingerprint": "943b70e293250179b99535259576da33ef9703921fd6b6f6557e6dabe0904140",
+  "archived_at": "2026-07-12T04:52:26Z",
+  "metadata": {
+    "title": "Sound of Fingers on Wood",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3130,
+    "duration_human": "00:52:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Aoua (Sound)",
+      "02 Zeffon - Melody"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sound-of-fingers-on-wood_943b70e29325"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/5dc68f2c005d9c054959/Sound_of_Fingers_on_Wood.tar"
+    }
+  }
+}
