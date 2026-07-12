@@ -1,0 +1,31 @@
+{
+  "id": "oathbreaker_e7ee152dd873",
+  "fingerprint": "e7ee152dd873397d2d011b38494e7aa2870b9f257dd6e8450b9d28217bdfa10a",
+  "archived_at": "2026-07-12T01:28:53Z",
+  "metadata": {
+    "title": "Oathbreaker",
+    "artist": "Oathbreaker",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 835,
+    "duration_human": "00:13:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Oathbreaker - Mindless",
+      "02 Oathbreaker - Shelter",
+      "03 Oathbreaker - Ashes",
+      "04 Oathbreaker - Downfall",
+      "05 Oathbreaker - Mirror"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/oathbreaker_e7ee152dd873"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/cd16c6c794afb7ecb9d2/Oathbreaker.tar"
+    }
+  }
+}

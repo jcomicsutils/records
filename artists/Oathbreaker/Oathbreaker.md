@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Oathbreaker](oathbreaker_e7ee152dd873/oathbreaker_e7ee152dd873.md) | 2011 | FLAC | 00:13:55 | [IA](https://archive.org/details/oathbreaker_e7ee152dd873) [FileDitch](https://fileditchfiles.st/beta12/cd16c6c794afb7ecb9d2/Oathbreaker.tar) |
 | [Mælstrøm](maelstrom_a3f3dba0e4a5/maelstrom_a3f3dba0e4a5.md) | 2011 | FLAC | 00:31:08 | [IA](https://archive.org/details/maelstrom_a3f3dba0e4a5) [FileDitch](https://fileditchfiles.st/beta12/c30c821e2675bcd66440/M_lstr_m.tar) |
 | [ErosAnteros](erosanteros_6c589a926447/erosanteros_6c589a926447.md) | 2013 | FLAC | 00:46:42 | [IA](https://archive.org/details/erosanteros_6c589a926447) [FileDitch](https://fileditchfiles.st/beta12/10c5c8507eb9aae0ca3e/ErosAnteros.tar) |
 | [Ease Me](ease-me_59863be56788/ease-me_59863be56788.md) | 2019 | FLAC | 00:05:05 | [IA](https://archive.org/details/ease-me_59863be56788) [FileDitch](https://fileditchfiles.st/beta12/736e4d6a65e61b65997b/Ease_Me.tar) |

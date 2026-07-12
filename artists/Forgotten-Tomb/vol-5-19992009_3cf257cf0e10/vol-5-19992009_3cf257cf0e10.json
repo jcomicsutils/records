@@ -1,0 +1,34 @@
+{
+  "id": "vol-5-19992009_3cf257cf0e10",
+  "fingerprint": "3cf257cf0e108f8ca29fcff38e866ebf3b3ed685ca07fe4b19a7af8794a0a4a6",
+  "archived_at": "2026-07-12T01:25:22Z",
+  "metadata": {
+    "title": "Vol 5: 1999/2009",
+    "artist": "Forgotten Tomb",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 6124,
+    "duration_human": "01:42:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Forgotten Tomb - Black S., Subway Apathy",
+      "02 Forgotten Tomb - Solitude Ways",
+      "03 Forgotten Tomb - A Dish Best Served Cold",
+      "04 Forgotten Tomb - Disheartenment, Alone, Steal My Corpse",
+      "05 Forgotten Tomb - Daylight Obsession",
+      "06 Forgotten Tomb - Papercuts",
+      "07 Forgotten Tomb - Spectres Over Venice",
+      "08 Forgotten Tomb - Love's Burial Ground",
+      "09 Forgotten Tomb - Entombed by Winter, House of Nostalgia",
+      "10 Forgotten Tomb - Scars",
+      "11 Forgotten Tomb - Depression, Feedback"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vol-5-19992009_3cf257cf0e10"
+    }
+  }
+}
