@@ -1,0 +1,29 @@
+{
+  "id": "panoptycon_209378153adc",
+  "fingerprint": "209378153adcaa4d1c8c7d8625aaddbd93607ecbdf37685295aaf11add08184e",
+  "archived_at": "2026-07-12T06:28:35Z",
+  "metadata": {
+    "title": "Panoptycon",
+    "artist": "Harakiri for the Sky",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1217,
+    "duration_human": "00:20:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Harakiri for the Sky - Panoptycon",
+      "02 Harakiri for the Sky - Homecoming: Denied!",
+      "03 Harakiri for the Sky - Mad World"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/panoptycon_209378153adc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/b700862c8f670ffde0e5/Panoptycon.tar"
+    }
+  }
+}
