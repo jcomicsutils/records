@@ -1,0 +1,28 @@
+{
+  "id": "first-aid-kit-bonus-tracks_61266c7f1d10",
+  "fingerprint": "61266c7f1d10e1d1bf6187914f2d2af40c164daed10f1c174fb54a99800d4d8f",
+  "archived_at": "2026-07-12T07:29:33Z",
+  "metadata": {
+    "title": "First Aid Kit Bonus Tracks",
+    "artist": "Big Blood",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 395,
+    "duration_human": "00:06:35",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Big Blood - Gates of Steel",
+      "02 Big Blood - Spinning in the Wind"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/first-aid-kit-bonus-tracks_61266c7f1d10"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/2833f2471bbda7ba66bf/First_Aid_Kit_Bonus_Tracks.tar"
+    }
+  }
+}
