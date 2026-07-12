@@ -1,0 +1,27 @@
+{
+  "id": "1000-times_96ec753d8dba",
+  "fingerprint": "96ec753d8dbad94a9966fc61ad65b59689348ebf81b8c9bda533a6acf988fb6f",
+  "archived_at": "2026-07-12T02:34:02Z",
+  "metadata": {
+    "title": "1000 Times",
+    "artist": "Big Blood",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 267,
+    "duration_human": "00:04:27",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Big Blood - 1000 Times"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1000-times_96ec753d8dba"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/2d10e9364650e1e26c35/1000_Times.tar"
+    }
+  }
+}
