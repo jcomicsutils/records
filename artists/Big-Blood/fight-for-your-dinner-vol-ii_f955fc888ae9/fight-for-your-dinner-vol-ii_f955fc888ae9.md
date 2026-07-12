@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/fight-for-your-dinner-vol-ii_f955fc888ae9)
+- [FileDitch](https://fileditchfiles.st/beta12/e3dcea3a25239d0469f7/Fight_for_Your_Dinner_Vol._II.tar)
 
 ## Tracklist
 
