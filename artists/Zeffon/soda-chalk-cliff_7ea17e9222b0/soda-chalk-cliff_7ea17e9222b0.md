@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/soda-chalk-cliff_7ea17e9222b0)
+- [FileDitch](https://fileditchfiles.st/beta12/1a598858b4a287713a4a/Soda_Chalk_Cliff.tar)
 
 ## Tracklist
 

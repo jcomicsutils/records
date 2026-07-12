@@ -1,0 +1,28 @@
+{
+  "id": "big-blood-the-wicked-hex_551a3ce60afa",
+  "fingerprint": "551a3ce60afae8adfc2b831b7e5481f5e902ab7b8a5a6b8ffcc8a7a904a468b4",
+  "archived_at": "2026-07-12T03:21:16Z",
+  "metadata": {
+    "title": "Big Blood & The Wicked Hex",
+    "artist": "Big Blood",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2703,
+    "duration_human": "00:45:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Big Blood - Run",
+      "02 Big Blood - I Will Love You",
+      "03 Big Blood - Never Let Me Go",
+      "04 Big Blood - Keening",
+      "05 Big Blood - Water"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/big-blood-the-wicked-hex_551a3ce60afa"
+    }
+  }
+}

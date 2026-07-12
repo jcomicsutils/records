@@ -1,0 +1,32 @@
+{
+  "id": "ladoga_9a8ac98f441f",
+  "fingerprint": "9a8ac98f441f8c2be18096afa995b894e9cc5fd4ae76e1e50f111ec64b8d7cad",
+  "archived_at": "2026-07-12T03:21:22Z",
+  "metadata": {
+    "title": "Ladoga",
+    "artist": "Olhava",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 4274,
+    "duration_human": "01:11:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Olhava - Ageless River I",
+      "02 Olhava - Smoldering Woodland",
+      "03 Olhava - Ageless River II",
+      "04 Olhava - Trembling Night",
+      "05 Olhava - Ageless River III",
+      "06 Olhava - The Heart is a Lonely Hunter",
+      "07 Olhava - Ageless River IV",
+      "08 Olhava - Ladoga",
+      "09 Olhava - Ageless River V"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ladoga_9a8ac98f441f"
+    }
+  }
+}
