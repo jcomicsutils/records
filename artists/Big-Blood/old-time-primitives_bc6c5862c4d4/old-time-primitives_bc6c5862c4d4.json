@@ -1,0 +1,37 @@
+{
+  "id": "old-time-primitives_bc6c5862c4d4",
+  "fingerprint": "bc6c5862c4d43e150d09f3f257295caed28d4c7677af259fcaa6acc8d62c31a8",
+  "archived_at": "2026-07-12T08:01:43Z",
+  "metadata": {
+    "title": "Old Time Primitives",
+    "artist": "Big Blood",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2994,
+    "duration_human": "00:49:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Big Blood - Away Pt. II",
+      "02 Big Blood - Old Time Primitives",
+      "03 Big Blood - Out of Turn",
+      "04 Big Blood - Mark the Spot Spot",
+      "05 Big Blood - Leviathan Song Pt. I",
+      "06 Big Blood - Sirens Knell",
+      "07 Big Blood - Sounder",
+      "08 Big Blood - Away Pt. I",
+      "09 Big Blood - This is How You Record Pt. II",
+      "10 Big Blood - Awake Too Long",
+      "11 Big Blood - Shadows for the Land"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/old-time-primitives_bc6c5862c4d4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/7b8dad20577655dfbc9a/Old_Time_Primitives.tar"
+    }
+  }
+}
