@@ -1,0 +1,31 @@
+{
+  "id": "weird-road_b8cf1d30c2de",
+  "fingerprint": "b8cf1d30c2dea5ae799c080812c99e4c39e6e62779cd12680099de21abeb7866",
+  "archived_at": "2026-07-12T10:02:51Z",
+  "metadata": {
+    "title": "Weird Road",
+    "artist": "Big Blood",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1590,
+    "duration_human": "00:26:30",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Big Blood - Weird Road Pt. II",
+      "02 Big Blood - Move on Fast",
+      "03 Big Blood - Sirens Knell Pt. IV",
+      "04 Big Blood - Maybe Its Alright",
+      "05 Big Blood - We Are Endless"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/weird-road_b8cf1d30c2de"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/a489e6fbc1dd5ee92dfe/Weird_Road.tar"
+    }
+  }
+}
