@@ -1,0 +1,27 @@
+{
+  "id": "state-of-the-world_ecd73f573ec8",
+  "fingerprint": "ecd73f573ec82be249b8d6394c3fd1a53c5649ba62220b97c241f0717c132d7e",
+  "archived_at": "2026-07-12T08:03:36Z",
+  "metadata": {
+    "title": "State of the World",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3831,
+    "duration_human": "01:03:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Tones for Bactria (The one who turned the Wheel of the Law)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/state-of-the-world_ecd73f573ec8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/200fb2eac4aa72a03b98/State_of_the_World.tar"
+    }
+  }
+}
