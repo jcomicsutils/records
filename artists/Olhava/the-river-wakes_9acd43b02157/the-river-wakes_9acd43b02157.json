@@ -1,0 +1,27 @@
+{
+  "id": "the-river-wakes_9acd43b02157",
+  "fingerprint": "9acd43b02157c5c7fec5210a4d22b9c137eff10cb4af3905143d97b87731fd1d",
+  "archived_at": "2026-07-12T05:50:30Z",
+  "metadata": {
+    "title": "The River Wakes",
+    "artist": "Olhava",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 449,
+    "duration_human": "00:07:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Olhava - The River Wakes"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-river-wakes_9acd43b02157"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/fb997fb638492be46d8a/The_River_Wakes.tar"
+    }
+  }
+}
