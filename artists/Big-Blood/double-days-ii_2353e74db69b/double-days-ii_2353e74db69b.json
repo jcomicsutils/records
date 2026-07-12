@@ -1,0 +1,35 @@
+{
+  "id": "double-days-ii_2353e74db69b",
+  "fingerprint": "2353e74db69b5200cbdf9bf1f2cac69b228d717ac155a6801feb7fb3f8684ea3",
+  "archived_at": "2026-07-12T05:07:06Z",
+  "metadata": {
+    "title": "Double Days II",
+    "artist": "Big Blood",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2790,
+    "duration_human": "00:46:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Big Blood - New Plan",
+      "02 Big Blood - Endless Peace",
+      "03 Big Blood - Go See Boats",
+      "04 Big Blood - Micah's Old Room",
+      "05 Big Blood - Fire Stove",
+      "06 Big Blood - Wild Mountain Thyme",
+      "07 Big Blood - Magnetic Green",
+      "08 Big Blood - Time Stands Still",
+      "09 Big Blood - Golden Heart"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/double-days-ii_2353e74db69b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/efe0d818908abeb03a43/Double_Days_II.tar"
+    }
+  }
+}
