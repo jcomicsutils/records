@@ -1,0 +1,27 @@
+{
+  "id": "silence-is-the-golden-principle_826e4317e857",
+  "fingerprint": "826e4317e857b5cb2f481938804a0b3fbb3c26a1b85407f2b3c0e275c61d8ab2",
+  "archived_at": "2026-07-12T01:09:33Z",
+  "metadata": {
+    "title": "Silence is the Golden Principle",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 919,
+    "duration_human": "00:15:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Limping King / Missile (Extract)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/silence-is-the-golden-principle_826e4317e857"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/674592f4855957cacc3b/Silence_is_the_Golden_Principle.tar"
+    }
+  }
+}
