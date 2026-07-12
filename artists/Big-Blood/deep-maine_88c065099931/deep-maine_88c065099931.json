@@ -1,0 +1,30 @@
+{
+  "id": "deep-maine_88c065099931",
+  "fingerprint": "88c065099931d45cf52d6e17410b914355eeffbee18d1f86f9b52a2623f067a3",
+  "archived_at": "2026-07-12T04:18:12Z",
+  "metadata": {
+    "title": "Deep Maine",
+    "artist": "Big Blood",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2606,
+    "duration_human": "00:43:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Big Blood - Hail the Happy Hourlings",
+      "02 Big Blood - Baby Eyes",
+      "03 Big Blood - Time is Coming",
+      "04 Big Blood - A Message Sent",
+      "05 Big Blood - The Queen and Her Court II",
+      "06 Big Blood - Serpent Skies",
+      "07 Big Blood - James Bay"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/deep-maine_88c065099931"
+    }
+  }
+}

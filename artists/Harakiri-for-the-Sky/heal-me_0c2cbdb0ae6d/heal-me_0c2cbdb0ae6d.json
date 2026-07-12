@@ -1,0 +1,28 @@
+{
+  "id": "heal-me_0c2cbdb0ae6d",
+  "fingerprint": "0c2cbdb0ae6d9afe7f422a073d8cb0e97b48a422af279e8720c7acffd4bfd88c",
+  "archived_at": "2026-07-12T04:18:12Z",
+  "metadata": {
+    "title": "Heal Me",
+    "artist": "Harakiri for the Sky",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 975,
+    "duration_human": "00:16:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Harakiri for the Sky - Heal Me",
+      "02 Harakiri for the Sky - With Autumn I'll Surrender"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/heal-me_0c2cbdb0ae6d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/bda7222b278d5fbe1466/Heal_Me.tar"
+    }
+  }
+}
