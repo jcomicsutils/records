@@ -1,0 +1,27 @@
+{
+  "id": "tomb-omnia_21aa2a2cb9f6",
+  "fingerprint": "21aa2a2cb9f6edb0c0d0317f255c982d1b2dfe1f1f9a6b04654875303fb3a97b",
+  "archived_at": "2026-07-12T07:07:01Z",
+  "metadata": {
+    "title": "Tomb Omnia",
+    "artist": "Harakiri for the Sky",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 489,
+    "duration_human": "00:08:09",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Harakiri for the Sky - Tomb Omnia"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tomb-omnia_21aa2a2cb9f6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/b4927a6761acd05bf087/Tomb_Omnia.tar"
+    }
+  }
+}
