@@ -1,0 +1,31 @@
+{
+  "id": "songs-to-leave_32d5ca2f4141",
+  "fingerprint": "32d5ca2f4141f68bba4a14595d2acd7ee1628e4de5888d2418d9e3feedf0b7d8",
+  "archived_at": "2026-07-12T00:30:12Z",
+  "metadata": {
+    "title": "Songs to Leave",
+    "artist": "Forgotten Tomb",
+    "year": "2002",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2854,
+    "duration_human": "00:47:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Forgotten Tomb - Entombed by Winter",
+      "02 Forgotten Tomb - Solitude Ways",
+      "03 Forgotten Tomb - Steal My Corpse",
+      "04 Forgotten Tomb - No Way Out",
+      "05 Forgotten Tomb - Disheartenment"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/songs-to-leave_32d5ca2f4141"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/e43ff0966750aa7db8a8/Songs_to_Leave.tar"
+    }
+  }
+}
