@@ -1,0 +1,28 @@
+{
+  "id": "tape-12_695dae931586",
+  "fingerprint": "695dae93158683b6ac03d675576650409909a8d27696da965a26ce437694f670",
+  "archived_at": "2026-07-12T18:55:20Z",
+  "metadata": {
+    "title": "Tape 12",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3821,
+    "duration_human": "01:03:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Side A",
+      "02 Zeffon - Side B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tape-12_695dae931586"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta13/6b61f36440321db305ae/Tape_12.tar"
+    }
+  }
+}
