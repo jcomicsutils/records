@@ -1,0 +1,27 @@
+{
+  "id": "you-are-the-scars_108057349289",
+  "fingerprint": "1080573492899a3c0e3c400f82f4f4b488b3640de7e8a164bff28e120c13ff80",
+  "archived_at": "2026-07-12T07:18:43Z",
+  "metadata": {
+    "title": "You Are the Scars",
+    "artist": "Harakiri for the Sky",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 636,
+    "duration_human": "00:10:36",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Harakiri for the Sky - You Are the Scars"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/you-are-the-scars_108057349289"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/b4d2aa64d0aa16236502/You_Are_the_Scars.tar"
+    }
+  }
+}
