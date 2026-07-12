@@ -26,6 +26,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/iiitrauma_fdccf6ed41fa"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/a211a3f275770d6126c3/IIITrauma.tar"
     }
   }
 }
