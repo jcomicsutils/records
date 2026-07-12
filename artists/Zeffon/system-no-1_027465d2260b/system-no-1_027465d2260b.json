@@ -37,6 +37,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/system-no-1_027465d2260b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta13/fe2e5386f3e8c5a27f75/System_No._1.tar"
     }
   }
 }
