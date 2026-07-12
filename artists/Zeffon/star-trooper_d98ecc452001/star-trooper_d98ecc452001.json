@@ -1,0 +1,26 @@
+{
+  "id": "star-trooper_d98ecc452001",
+  "fingerprint": "d98ecc452001e7a54b8cf13bcd6255e3534d8cc8b520ecda6f7a19c5178456e1",
+  "archived_at": "2026-07-12T07:27:02Z",
+  "metadata": {
+    "title": "Star Trooper",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4722,
+    "duration_human": "01:18:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Unbanded Heat Gun",
+      "02 Zeffon - Older Days' PIÄTROZ",
+      "03 Zeffon - Crescent Moon"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/star-trooper_d98ecc452001"
+    }
+  }
+}
