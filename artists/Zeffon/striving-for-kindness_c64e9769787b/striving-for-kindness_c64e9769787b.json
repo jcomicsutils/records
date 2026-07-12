@@ -1,0 +1,30 @@
+{
+  "id": "striving-for-kindness_c64e9769787b",
+  "fingerprint": "c64e9769787b031281e8040d11c633d57ecab96b120962bb9172a775fbb8b994",
+  "archived_at": "2026-07-12T12:49:49Z",
+  "metadata": {
+    "title": "Striving for Kindness",
+    "artist": "Zeffon",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3109,
+    "duration_human": "00:51:49",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Sounds of Incidence (Prev)",
+      "02 Zeffon - Long Ways Away",
+      "03 Zeffon - Grin / Cult of Fire",
+      "04 Zeffon - Speed Shift"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/striving-for-kindness_c64e9769787b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/f15e00e48165896b5de6/Striving_for_Kindness.tar"
+    }
+  }
+}
