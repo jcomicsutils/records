@@ -1,0 +1,27 @@
+{
+  "id": "spright-elf_c96791059a4e",
+  "fingerprint": "c96791059a4eae6756a77bd3ccf7ab3f639f72412be3e5c3f9e648a2ed407be2",
+  "archived_at": "2026-07-12T00:09:46Z",
+  "metadata": {
+    "title": "Spright Elf",
+    "artist": "To Be Gentle",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 200,
+    "duration_human": "00:03:20",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - Spright Elf"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/spright-elf_c96791059a4e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/a32e053b2f8d9620849e/Spright_Elf.tar"
+    }
+  }
+}
