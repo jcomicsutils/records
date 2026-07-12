@@ -1,0 +1,28 @@
+{
+  "id": "te-ya-blood-shrouyd_3966b70b7060",
+  "fingerprint": "3966b70b7060780686fe07478408044da9ce8405dad914d7870b71843a36773a",
+  "archived_at": "2026-07-12T19:01:35Z",
+  "metadata": {
+    "title": "Te Ya Blood Shrouyd",
+    "artist": "Zeffon",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 13968,
+    "duration_human": "03:52:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Sddhingkatejagrantau Mdou",
+      "02 Zeffon - Slumber BevââÊ utr-dan Plateaux"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/te-ya-blood-shrouyd_3966b70b7060"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta13/ba42ecd10b53d9fe2bb1/Te_Ya_Blood_Shrouyd.tar"
+    }
+  }
+}
