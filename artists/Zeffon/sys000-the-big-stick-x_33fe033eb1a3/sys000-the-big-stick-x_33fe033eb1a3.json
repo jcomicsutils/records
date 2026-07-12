@@ -1,0 +1,28 @@
+{
+  "id": "sys000-the-big-stick-x_33fe033eb1a3",
+  "fingerprint": "33fe033eb1a37e0fce5b06e79fa29dbde0f976513057598e9b87a9b1bfaff3cf",
+  "archived_at": "2026-07-12T14:49:47Z",
+  "metadata": {
+    "title": "SYS000 (The Big Stick X)",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 10868,
+    "duration_human": "03:01:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Hollow Highway, Part 1",
+      "02 Zeffon - Hollow Highway, Part 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sys000-the-big-stick-x_33fe033eb1a3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/bb5f2e212125396ef3a7/SYS000_The_Big_Stick_X.tar"
+    }
+  }
+}
