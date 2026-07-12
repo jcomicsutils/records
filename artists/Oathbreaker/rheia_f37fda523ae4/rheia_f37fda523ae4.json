@@ -28,6 +28,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/rheia_f37fda523ae4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/322ff2a82a9e818e6ab7/Rheia.tar"
     }
   }
 }

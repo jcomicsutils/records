@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/rheia_f37fda523ae4)
+- [FileDitch](https://fileditchfiles.st/beta12/322ff2a82a9e818e6ab7/Rheia.tar)
 
 ## Tracklist
 
