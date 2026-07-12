@@ -1,0 +1,33 @@
+{
+  "id": "ant-farm_35cc8e8001e7",
+  "fingerprint": "35cc8e8001e7fc8239c7bd511af0d141b5a0a2fe1da0877a5673ee8899d55c53",
+  "archived_at": "2026-07-12T02:56:32Z",
+  "metadata": {
+    "title": "Ant Farm",
+    "artist": "Big Blood",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3090,
+    "duration_human": "00:51:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Elliott Schwartz & Big Blood - Scrolls",
+      "02 Elliott Schwartz & Big Blood - Fungus Garden",
+      "03 Elliott Schwartz & Big Blood - Nuptial Flight",
+      "04 Elliott Schwartz & Big Blood - Winged Pile",
+      "05 Elliott Schwartz & Big Blood - Minums and Minors",
+      "06 Elliott Schwartz & Big Blood - The Queen's Egg",
+      "07 Elliott Schwartz & Big Blood - The Mediae & Majors",
+      "08 Elliott Schwartz & Big Blood - Swarm",
+      "09 Elliott Schwartz & Big Blood - Gaster Gossip",
+      "10 Elliott Schwartz & Big Blood - Chambers"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ant-farm_35cc8e8001e7"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "frozen-bloom_1cf365bf0007",
+  "fingerprint": "1cf365bf000769b53ce82c1104adb1871b3dec5c7721673768a6682e1b8cd0cb",
+  "archived_at": "2026-07-12T02:49:11Z",
+  "metadata": {
+    "title": "Frozen Bloom",
+    "artist": "Olhava",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3542,
+    "duration_human": "00:59:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Olhava - The Queen of Fields",
+      "02 Olhava - Adrift",
+      "03 Olhava - Frozen Bloom I",
+      "04 Olhava - Frozen Bloom II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/frozen-bloom_1cf365bf0007"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/d630cdeccfcb1880f9b8/Frozen_Bloom.tar"
+    }
+  }
+}
