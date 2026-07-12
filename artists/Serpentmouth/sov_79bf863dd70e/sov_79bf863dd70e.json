@@ -1,0 +1,28 @@
+{
+  "id": "sov_79bf863dd70e",
+  "fingerprint": "79bf863dd70e78c9d18119819b67384bdc0cf09a54b752ea24355fc2002d4911",
+  "archived_at": "2026-07-12T05:27:26Z",
+  "metadata": {
+    "title": "Sov",
+    "artist": "Serpentmouth",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1848,
+    "duration_human": "00:30:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Serpentmouth - Requiem (Technology)",
+      "02 Serpentmouth - The Peril, Pt. 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sov_79bf863dd70e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/16607fadf931989e46e8/Sov.tar"
+    }
+  }
+}

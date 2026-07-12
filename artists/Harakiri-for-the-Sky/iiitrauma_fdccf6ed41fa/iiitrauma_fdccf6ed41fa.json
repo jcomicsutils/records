@@ -1,0 +1,31 @@
+{
+  "id": "iiitrauma_fdccf6ed41fa",
+  "fingerprint": "fdccf6ed41fa525935f49e85ce08ded2d37531febf7052d6ca5a050b2dd2a0da",
+  "archived_at": "2026-07-12T05:27:18Z",
+  "metadata": {
+    "title": "III:Trauma",
+    "artist": "Harakiri for the Sky",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 4512,
+    "duration_human": "01:15:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Harakiri for the Sky - Calling the Rain",
+      "02 Harakiri for the Sky - Funeral Dreams",
+      "03 Harakiri for the Sky - Thanatos",
+      "04 Harakiri for the Sky - This Life as a Dagger",
+      "05 Harakiri for the Sky - The Traces We Leave",
+      "06 Harakiri for the Sky - Viaticum",
+      "07 Harakiri for the Sky - Dry the River",
+      "08 Harakiri for the Sky - Bury Me"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/iiitrauma_fdccf6ed41fa"
+    }
+  }
+}
