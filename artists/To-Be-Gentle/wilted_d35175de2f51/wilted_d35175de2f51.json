@@ -1,0 +1,27 @@
+{
+  "id": "wilted_d35175de2f51",
+  "fingerprint": "d35175de2f5106e88745bd307b4dcdaff3bf4a363c5c9c3573dadab4e5811782",
+  "archived_at": "2026-07-12T02:22:26Z",
+  "metadata": {
+    "title": "Wilted",
+    "artist": "To Be Gentle",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1393,
+    "duration_human": "00:23:13",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - When Sorrow Shoots Her Darts",
+      "02 To Be Gentle - Wounded",
+      "03 Snip - Wind Swept Palms",
+      "04 Snip - Sand Castles"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wilted_d35175de2f51"
+    }
+  }
+}

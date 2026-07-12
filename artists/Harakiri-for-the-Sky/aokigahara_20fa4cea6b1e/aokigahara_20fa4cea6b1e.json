@@ -1,0 +1,35 @@
+{
+  "id": "aokigahara_20fa4cea6b1e",
+  "fingerprint": "20fa4cea6b1e787534427d31fadabb1be0d1b60940882d41b70c26565f9597f4",
+  "archived_at": "2026-07-12T02:21:03Z",
+  "metadata": {
+    "title": "Aokigahara",
+    "artist": "Harakiri for the Sky",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3840,
+    "duration_human": "01:04:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Harakiri for the Sky - My Bones to the Sea",
+      "02 Harakiri for the Sky - Jhator",
+      "03 Harakiri for the Sky - Homecoming, Denied!",
+      "04 Harakiri for the Sky - 69 Dead Birds for Utøya",
+      "05 Harakiri for the Sky - Parting",
+      "06 Harakiri for the Sky - Burning from Both Ends",
+      "07 Harakiri for the Sky - Panoptycon",
+      "08 Harakiri for the Sky - Nailgarden",
+      "09 Harakiri for the Sky - Gallows (Give 'Em Rope)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/aokigahara_20fa4cea6b1e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/5158c1b208d1bf24ba15/Aokigahara.tar"
+    }
+  }
+}
