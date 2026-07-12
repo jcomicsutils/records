@@ -1,0 +1,35 @@
+{
+  "id": "stormbringer_68e7bc91e716",
+  "fingerprint": "68e7bc91e716647d9b00c0428c04e42cff6495ea0a0cfd61fd8815eb63345eec",
+  "archived_at": "2026-07-12T09:11:47Z",
+  "metadata": {
+    "title": "Stormbringer",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 8997,
+    "duration_human": "02:29:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Melody of Unknown Significance",
+      "02 Zeffon - Opera Blueheart",
+      "03 Zeffon - I: Stormbringer",
+      "04 Zeffon - II: Psychosis (Stormbringer Outro)",
+      "05 Zeffon - III: Serenade For The Dead",
+      "06 Zeffon - Gondii Maledicta, Pt. 3",
+      "07 Zeffon - Cosmos",
+      "08 Zeffon - Dark Comet, Pt. 2",
+      "09 Zeffon - IV: Stone Face",
+      "10 Zeffon - V: Perpetual Autumn",
+      "11 Zeffon - VI: Goetia",
+      "12 Zeffon - Chaosdrive"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stormbringer_68e7bc91e716"
+    }
+  }
+}

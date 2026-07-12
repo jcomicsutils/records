@@ -1,0 +1,33 @@
+{
+  "id": "plantgazer_136e7b8a8c42",
+  "fingerprint": "136e7b8a8c420215af6646c621a5be6ba91be9de2b27cf85b33fdd4a8ae3cff0",
+  "archived_at": "2026-07-12T09:10:04Z",
+  "metadata": {
+    "title": "Plantgazer",
+    "artist": "Show Me a Dinosaur",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2658,
+    "duration_human": "00:44:18",
+    "sampling_rate": "192kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Show Me a Dinosaur - Sunflower",
+      "02 Show Me a Dinosaur - Marsh",
+      "03 Show Me a Dinosaur - Red River",
+      "04 Show Me a Dinosaur - Selva",
+      "05 Show Me a Dinosaur - Unsaid I",
+      "06 Show Me a Dinosaur - Hum",
+      "07 Show Me a Dinosaur - Unsaid II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/plantgazer_136e7b8a8c42"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/d853829f77ba387d6ec4/Plantgazer.tar"
+    }
+  }
+}
