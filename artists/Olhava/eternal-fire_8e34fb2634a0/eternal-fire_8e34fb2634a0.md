@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/eternal-fire_8e34fb2634a0)
+- [FileDitch](https://fileditchfiles.st/beta12/7e440727192ae6e65483/Eternal_Fire.tar)
 
 ## Tracklist
 
