@@ -1,0 +1,36 @@
+{
+  "id": "to-be-gentle-remastered_38bce5d62655",
+  "fingerprint": "38bce5d62655d6ba7b6d7f894498d0076a9e5ecb57a74128f324976f593f7b62",
+  "archived_at": "2026-07-12T00:57:46Z",
+  "metadata": {
+    "title": "To Be Gentle (Remastered)",
+    "artist": "To Be Gentle",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2246,
+    "duration_human": "00:37:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 To Be Gentle - Understanding Healing (Remastered)",
+      "02 To Be Gentle - All the Things I Was Too Scared to Say (Remastered)",
+      "03 To Be Gentle - We Build Our Castles in the Air (Remastered)",
+      "04 To Be Gentle - Du Sang (Remastered)",
+      "05 To Be Gentle - Road to Himeji (Remastered)",
+      "06 To Be Gentle - But a Sound (Remastered)",
+      "07 To Be Gentle - An Amputation (Remastered)",
+      "08 To Be Gentle - The Hand That Rests on My Shoulder (Remastered)",
+      "09 To Be Gentle - One Day We Will No Longer Hurt (Remastered)",
+      "10 To Be Gentle - To Be Gentle (Remastered)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/to-be-gentle-remastered_38bce5d62655"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/41cc713e20cae625bb40/To_Be_Gentle_Remastered.tar"
+    }
+  }
+}
