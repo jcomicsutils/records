@@ -1,0 +1,33 @@
+{
+  "id": "moonlight-again-ep_cbbf0153bda1",
+  "fingerprint": "cbbf0153bda15284e4bcac27320037198b3d3618c2635f8bee7c44e756602010",
+  "archived_at": "2026-07-12T07:45:18Z",
+  "metadata": {
+    "title": "Moonlight, Again EP",
+    "artist": "Big Blood",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1337,
+    "duration_human": "00:22:17",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Big Blood - Where Would You Go?",
+      "02 Big Blood - Under Water (Junk for a Pence)",
+      "03 Big Blood - This is What a Book Can Be",
+      "04 Big Blood - Kipple Everlasting",
+      "05 Big Blood - Slapdown!",
+      "06 Big Blood - Eyes of Blue",
+      "07 Big Blood - 100 Days (Of War)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/moonlight-again-ep_cbbf0153bda1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/3c92eb7eee18ae78d58d/Moonlight_Again_EP.tar"
+    }
+  }
+}
