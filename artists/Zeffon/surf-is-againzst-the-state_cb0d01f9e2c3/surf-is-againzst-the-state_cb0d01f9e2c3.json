@@ -1,0 +1,33 @@
+{
+  "id": "surf-is-againzst-the-state_cb0d01f9e2c3",
+  "fingerprint": "cb0d01f9e2c32f0d87355a16e7fa20159240fe48a4923f9f4712cb7598e4838a",
+  "archived_at": "2026-07-12T14:21:15Z",
+  "metadata": {
+    "title": "Surf is Agâinzst The State",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 15572,
+    "duration_human": "04:19:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Requirements",
+      "02 Zeffon - Shatter Beliefs",
+      "03 Zeffon - Electronic Showcase",
+      "04 Zeffon - SCREWED UP (Track Down)",
+      "05 Zeffon - MAOMIJCHI Was A Rapscallian (Samba 1)",
+      "06 Zeffon - MAOMIJCHI Was A Rapscallian (Samba 2)",
+      "07 Zeffon - Retried Arrogance"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/surf-is-againzst-the-state_cb0d01f9e2c3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/f313017bd024178bbbe6/Surf_is_Ag_inzst_The_State.tar"
+    }
+  }
+}
