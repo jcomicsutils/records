@@ -1,0 +1,30 @@
+{
+  "id": "tertiary-proteins-3_351565b267cf",
+  "fingerprint": "351565b267cf34d0490c787f5ad1f3521801c571837925cdce93099079d0d23f",
+  "archived_at": "2026-07-12T20:41:27Z",
+  "metadata": {
+    "title": "Tertiary Proteins 3",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4702,
+    "duration_human": "01:18:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Chalk Forest Mist of the Tyrns (Part 1 of 3)",
+      "02 Zeffon - Chalk Forest of the Tyrns (Part 2 of 3)",
+      "03 Zeffon - Chalk Forest of the Tyrns (Part 3 of 3)",
+      "04 Zeffon - The Great Men of the Lord"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tertiary-proteins-3_351565b267cf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta13/086f6436c617ed231b8b/Tertiary_Proteins_3.tar"
+    }
+  }
+}
