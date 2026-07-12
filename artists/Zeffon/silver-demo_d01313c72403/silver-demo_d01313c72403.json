@@ -1,0 +1,28 @@
+{
+  "id": "silver-demo_d01313c72403",
+  "fingerprint": "d01313c72403432736cd880032f17b6868f47c4b4bc8670feb87b2b579fc2478",
+  "archived_at": "2026-07-12T02:43:40Z",
+  "metadata": {
+    "title": "Silver Demo",
+    "artist": "Zeffon",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 507,
+    "duration_human": "00:08:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Scrrech",
+      "02 Zeffon - Silver"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/silver-demo_d01313c72403"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/86ef3c832fae458d2508/Silver_Demo.tar"
+    }
+  }
+}
