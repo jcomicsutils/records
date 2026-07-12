@@ -1,0 +1,29 @@
+{
+  "id": "terrify-kingdom_ca3917c80154",
+  "fingerprint": "ca3917c80154c4e2f8d4052d263528a61d7d6258d1f27f176fc8be2dd0e9e8fe",
+  "archived_at": "2026-07-12T19:32:52Z",
+  "metadata": {
+    "title": "Terrify Kingdom",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1723,
+    "duration_human": "00:28:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Terrify Kingdom",
+      "02 Zeffon - Jaws of the Serpent Name",
+      "03 Zeffon - Serpent Name"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/terrify-kingdom_ca3917c80154"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta13/53e5d8fdd8054e0bbbe5/Terrify_Kingdom.tar"
+    }
+  }
+}
