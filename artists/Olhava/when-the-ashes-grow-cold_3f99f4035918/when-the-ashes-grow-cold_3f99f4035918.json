@@ -1,0 +1,27 @@
+{
+  "id": "when-the-ashes-grow-cold_3f99f4035918",
+  "fingerprint": "3f99f40359188efd8a5809eac23a56886f4c1e9f4cd871438227c450776e4e11",
+  "archived_at": "2026-07-12T05:51:34Z",
+  "metadata": {
+    "title": "When the Ashes Grow Cold",
+    "artist": "Olhava",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1221,
+    "duration_human": "00:20:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Olhava - When the Ashes Grow Cold"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/when-the-ashes-grow-cold_3f99f4035918"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/c2e0bbb6714132f2b81b/When_the_Ashes_Grow_Cold.tar"
+    }
+  }
+}
