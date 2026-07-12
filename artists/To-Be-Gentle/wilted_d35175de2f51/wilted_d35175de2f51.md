@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/wilted_d35175de2f51)
+- [FileDitch](https://fileditchfiles.st/beta12/aba6561dd03277cd1a74/Wilted.tar)
 
 ## Tracklist
 
