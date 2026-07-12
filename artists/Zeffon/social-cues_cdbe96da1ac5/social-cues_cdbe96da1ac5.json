@@ -1,0 +1,27 @@
+{
+  "id": "social-cues_cdbe96da1ac5",
+  "fingerprint": "cdbe96da1ac5b15f98618990e492704f36da10656439ecf6c285a246bad08cb6",
+  "archived_at": "2026-07-12T03:03:31Z",
+  "metadata": {
+    "title": "Social Cues",
+    "artist": "Zeffon",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3054,
+    "duration_human": "00:50:54",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Underside",
+      "02 Zeffon - Blossoming Flowers",
+      "03 Zeffon - Eeraa (In the Mist)",
+      "04 Zeffon - Sound of Mourning"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/social-cues_cdbe96da1ac5"
+    }
+  }
+}
