@@ -1,0 +1,28 @@
+{
+  "id": "the-girl-with-the-green-colored-name_d1a44aa48206",
+  "fingerprint": "d1a44aa482064e5217568b48d19587c2cfd5ba49f6b96962c9572ca3ca126a56",
+  "archived_at": "2026-07-12T00:12:58Z",
+  "metadata": {
+    "title": "The Girl With the Green Colored Name",
+    "artist": "To Be Gentle",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 460,
+    "duration_human": "00:07:40",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - Willow",
+      "02 To Be Gentle - Important Times"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-girl-with-the-green-colored-name_d1a44aa48206"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/5666289fa88982f8af23/The_Girl_With_the_Green_Colored_Name.tar"
+    }
+  }
+}
