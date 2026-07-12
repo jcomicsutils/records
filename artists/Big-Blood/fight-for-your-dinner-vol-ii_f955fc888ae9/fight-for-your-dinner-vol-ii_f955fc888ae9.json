@@ -1,0 +1,33 @@
+{
+  "id": "fight-for-your-dinner-vol-ii_f955fc888ae9",
+  "fingerprint": "f955fc888ae9aaa17f76ced3fc5b189ba1c6dfced341b3951d2e2e9d5a89e78a",
+  "archived_at": "2026-07-12T06:53:18Z",
+  "metadata": {
+    "title": "Fight for Your Dinner Vol. II",
+    "artist": "Big Blood",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3028,
+    "duration_human": "00:50:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 big blood - Half Light Blues",
+      "02 big blood - Floating From Xanthi",
+      "03 big blood - 92nd Street",
+      "04 big blood - The Fox and the Rose",
+      "05 big blood - Archangel Thunderbird (Amon Düül II)",
+      "06 big blood - My Daughter’s Only Son",
+      "07 big blood - When Doves Cry/I Would Die for You (Prince)",
+      "08 big blood - Velouria (Pixies)",
+      "09 big blood - Rejected by Reno",
+      "10 big blood - Shine Bright Like a Star"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fight-for-your-dinner-vol-ii_f955fc888ae9"
+    }
+  }
+}

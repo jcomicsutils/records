@@ -1,0 +1,29 @@
+{
+  "id": "sroait-dero-latruam_9b7a9981e8c6",
+  "fingerprint": "9b7a9981e8c655c43ba8218828b4c574f336ec0475decd6abb2a49e08259d373",
+  "archived_at": "2026-07-12T06:53:44Z",
+  "metadata": {
+    "title": "Sroäit Dero Latruäm",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 6010,
+    "duration_human": "01:40:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - A Solemn Covenant",
+      "02 Zeffon - Alien Soundtrack Manipulators, Part 2",
+      "03 Zeffon - The Chronicles of the Continent",
+      "04 Zeffon - Dr. Yuičtoy Lkandiy Uolf (14??-98)",
+      "05 Zeffon - Space Patrol, Part 7",
+      "06 Zeffon - Trade Sanctions"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sroait-dero-latruam_9b7a9981e8c6"
+    }
+  }
+}

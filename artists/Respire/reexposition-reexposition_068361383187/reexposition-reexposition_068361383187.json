@@ -1,0 +1,29 @@
+{
+  "id": "reexposition-reexposition_068361383187",
+  "fingerprint": "0683613831879989302e0977a90a941f201de29b6126b0d3d84c3ef7d8d55043",
+  "archived_at": "2026-07-12T06:53:54Z",
+  "metadata": {
+    "title": "réexposition. (réexposition)",
+    "artist": "Respire",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 959,
+    "duration_human": "00:15:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Respire - Cicatrice (réexposition)",
+      "02 Respire - Flicker and Faint (réexposition)",
+      "03 Respire - Catacombs Part II (réexposition)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/reexposition-reexposition_068361383187"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/27998c26e258ffa68f84/r_exposition._r_exposition.tar"
+    }
+  }
+}
