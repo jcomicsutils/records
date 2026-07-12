@@ -1,0 +1,28 @@
+{
+  "id": "never-leave-me-alone_a7404e0bc011",
+  "fingerprint": "a7404e0bc011e68d414605c349bb764535c05d84890ad6018cc9c2ce78d1be37",
+  "archived_at": "2026-07-12T04:05:35Z",
+  "metadata": {
+    "title": "Never Leave Me Alone",
+    "artist": "Olhava",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2443,
+    "duration_human": "00:40:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Olhava - Loyalty (Drone Version)",
+      "02 Olhava - Hope (Drone Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/never-leave-me-alone_a7404e0bc011"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/1eb2ea84b257f6b92707/Never_Leave_Me_Alone.tar"
+    }
+  }
+}
