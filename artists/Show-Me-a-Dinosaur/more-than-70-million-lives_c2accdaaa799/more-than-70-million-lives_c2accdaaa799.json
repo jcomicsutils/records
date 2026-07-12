@@ -1,0 +1,28 @@
+{
+  "id": "more-than-70-million-lives_c2accdaaa799",
+  "fingerprint": "c2accdaaa799b362b58f866405f798ed7dd924f918b1a398702cd5ab7465f13c",
+  "archived_at": "2026-07-12T08:11:15Z",
+  "metadata": {
+    "title": "More Than 70 Million Lives",
+    "artist": "Show Me a Dinosaur",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 784,
+    "duration_human": "00:13:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Show Me a Dinosaur - More Than 70 Million Lives",
+      "02 Show Me a Dinosaur - Drawing The Line"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/more-than-70-million-lives_c2accdaaa799"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/7281a58933f7f91a617b/More_Than_70_Million_Lives.tar"
+    }
+  }
+}
