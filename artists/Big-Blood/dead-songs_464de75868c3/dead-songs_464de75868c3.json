@@ -1,0 +1,35 @@
+{
+  "id": "dead-songs_464de75868c3",
+  "fingerprint": "464de75868c342270ddd0402ad3b272743e5b0b006d01de68f59e17ace1f2f39",
+  "archived_at": "2026-07-12T04:13:10Z",
+  "metadata": {
+    "title": "Dead Songs",
+    "artist": "Big Blood",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2614,
+    "duration_human": "00:43:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Big Blood - Dead Song",
+      "02 Big Blood - Homebody Blues",
+      "03 Big Blood - A Spiral Down",
+      "04 Big Blood - Headstone 1974",
+      "05 Big Blood - Curtain Call",
+      "06 Big Blood - Lay Your Head on the Rails II",
+      "07 Big Blood - New Eyes",
+      "08 Big Blood - Daughter",
+      "09 Big Blood - The Archivist & the Archeologist"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dead-songs_464de75868c3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/7f820824a5b8b2a9e014/Dead_Songs.tar"
+    }
+  }
+}
