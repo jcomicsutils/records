@@ -1,0 +1,32 @@
+{
+  "id": "summary-of-grady-way-a-collection-of-noise_a78ea5932ddf",
+  "fingerprint": "a78ea5932ddf2ebef49cfd49979ccae6ce15708e1f2bbe80cd13e3a56c638df8",
+  "archived_at": "2026-07-12T13:19:49Z",
+  "metadata": {
+    "title": "Summary of Grady Way (A Collection of Noise)",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2507,
+    "duration_human": "00:41:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Murder",
+      "02 Zeffon - Absolutely Not",
+      "03 Zeffon - Liberty",
+      "04 Zeffon - The Art of '97",
+      "05 Zeffon - Core Beliefs and Principles",
+      "06 Zeffon - Callisto Tibet"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/summary-of-grady-way-a-collection-of-noise_a78ea5932ddf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/8b269097f97d304f430e/Summary_of_Grady_Way_A_Collection_of_Noise.tar"
+    }
+  }
+}
