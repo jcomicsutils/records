@@ -1,0 +1,33 @@
+{
+  "id": "strange-maine-110406_7ba4ae5e7199",
+  "fingerprint": "7ba4ae5e719945ac28c5f9a8ef99acb50dd58d5a0dd18c29c96579d058e3324e",
+  "archived_at": "2026-07-12T08:51:12Z",
+  "metadata": {
+    "title": "Strange Maine 11.04.06",
+    "artist": "Big Blood",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2417,
+    "duration_human": "00:40:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Big Blood - All Operations",
+      "02 Big Blood - A Friendly Noose",
+      "03 Big Blood - A Quiet Lousy Roar",
+      "04 Big Blood - Full of Smoke",
+      "05 Big Blood - Past Time",
+      "06 Big Blood - Under the Concourse",
+      "07 Big Blood - Slumber Me"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/strange-maine-110406_7ba4ae5e7199"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/d2231fd01545a879c917/Strange_Maine_11.04.06.tar"
+    }
+  }
+}
