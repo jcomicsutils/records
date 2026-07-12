@@ -1,0 +1,36 @@
+{
+  "id": "double-days-i_c33ab6d88f2f",
+  "fingerprint": "c33ab6d88f2f65fcc3696974d7bb3087f3fd341f7c4bcc324405ddcdb2dc84e1",
+  "archived_at": "2026-07-12T04:40:55Z",
+  "metadata": {
+    "title": "Double Days I",
+    "artist": "Big Blood",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2738,
+    "duration_human": "00:45:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Big Blood - On Waterfall's Head",
+      "02 Big Blood - Rabbit's Foot",
+      "03 Big Blood - Planet Caravan",
+      "04 Big Blood - Double Day",
+      "05 Big Blood - For Gardiner Greene Hubbard",
+      "06 Big Blood - Disintegration",
+      "07 Big Blood - Full of Drape",
+      "08 Big Blood - Babies Looking Weird",
+      "09 Big Blood - ...But I Studied",
+      "10 Big Blood - You're Crushing My Heart"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/double-days-i_c33ab6d88f2f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/860d89f812b1425a6584/Double_Days_I.tar"
+    }
+  }
+}
