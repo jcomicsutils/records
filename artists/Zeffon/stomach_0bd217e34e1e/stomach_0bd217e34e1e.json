@@ -1,0 +1,27 @@
+{
+  "id": "stomach_0bd217e34e1e",
+  "fingerprint": "0bd217e34e1e388630da2621b11711729ed63a30e84f7e67e462e3681581f38a",
+  "archived_at": "2026-07-12T08:04:33Z",
+  "metadata": {
+    "title": "Stomach",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 91,
+    "duration_human": "00:01:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - He Tried and Got His Stomach Carved Out... (Single Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stomach_0bd217e34e1e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/737f10a62f314ef2088c/Stomach.tar"
+    }
+  }
+}
