@@ -1,0 +1,29 @@
+{
+  "id": "state-of-being-idjuhiji_4f1d55362266",
+  "fingerprint": "4f1d55362266354c658f160b9585544d9dd402b0defd3357e8d572aa6fd5372f",
+  "archived_at": "2026-07-12T07:36:35Z",
+  "metadata": {
+    "title": "State of Being / IDJUHIJI",
+    "artist": "Zeffon",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 5700,
+    "duration_human": "01:35:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Hu Pthrajamirjo",
+      "02 Zeffon - Temple Purpose",
+      "03 Zeffon - Errors in Consistency / mt1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/state-of-being-idjuhiji_4f1d55362266"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/d3286d264398ef9c24d2/State_of_Being_-_IDJUHIJI.tar"
+    }
+  }
+}
