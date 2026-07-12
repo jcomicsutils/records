@@ -1,0 +1,33 @@
+{
+  "id": "first-aid-kit_d04596044a64",
+  "fingerprint": "d04596044a64430517bde645189d95d4c136b0723e6e0c8cde1bd7fb18b14d8c",
+  "archived_at": "2026-07-12T07:25:18Z",
+  "metadata": {
+    "title": "First Aid Kit",
+    "artist": "Big Blood",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2637,
+    "duration_human": "00:43:57",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Big Blood - In My Head",
+      "02 Big Blood - Haunted",
+      "03 Big Blood - Candy, Here I Come",
+      "04 Big Blood - Infinite Space",
+      "05 Big Blood - Ring Telephone Ring",
+      "06 Big Blood - Haunted Interlude",
+      "07 Big Blood - Never Ending Nightmare",
+      "08 Big Blood - Makes Me Wonder",
+      "09 Big Blood - 1000 Times",
+      "10 Big Blood - Weird Road, Pt. 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/first-aid-kit_d04596044a64"
+    }
+  }
+}

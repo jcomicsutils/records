@@ -1,0 +1,32 @@
+{
+  "id": "evolvent-2018-remastered-version_abfc0a86c88f",
+  "fingerprint": "abfc0a86c88fcd1f6352afdb219beea60a3d89594be4467e6f5fbcde74f62b75",
+  "archived_at": "2026-07-12T07:24:54Z",
+  "metadata": {
+    "title": "Evolvent (2018 Remastered Version)",
+    "artist": "Show Me a Dinosaur",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1808,
+    "duration_human": "00:30:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Show Me a Dinosaur - Still First in Space (2018 Remastered Version)",
+      "02 Show Me a Dinosaur - Gagarin (2018 Remastered Version)",
+      "03 Show Me a Dinosaur - Is This Really Happening?! (2018 Remastered Version)",
+      "04 Show Me a Dinosaur - Petropavlovsk-Kamchatsky (2018 Remastered Version)",
+      "05 Show Me a Dinosaur - You Can't Find This Place on Google Maps (2018 Remastered Version)",
+      "06 Show Me a Dinosaur - Lift up Your Telescopes (2018 Remastered Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/evolvent-2018-remastered-version_abfc0a86c88f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/515eb840c5d461013b09/Evolvent_2018_Remastered_Version.tar"
+    }
+  }
+}
