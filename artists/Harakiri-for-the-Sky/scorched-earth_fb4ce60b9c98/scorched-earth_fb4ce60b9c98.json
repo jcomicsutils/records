@@ -1,0 +1,34 @@
+{
+  "id": "scorched-earth_fb4ce60b9c98",
+  "fingerprint": "fb4ce60b9c98678080572fec08467dc4e3a69fc0f84e4161fa80bbb1cc9dac50",
+  "archived_at": "2026-07-12T06:46:44Z",
+  "metadata": {
+    "title": "Scorched Earth",
+    "artist": "Harakiri for the Sky",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 4048,
+    "duration_human": "01:07:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Harakiri for the Sky - Heal Me",
+      "02 Harakiri for the Sky - Keep Me Longing",
+      "03 Harakiri for the Sky - Without You I'm Just a Sad Song",
+      "04 Harakiri for the Sky - No Graves but the Sea",
+      "05 Harakiri for the Sky - With Autumn I'll Surrender",
+      "06 Harakiri for the Sky - I Was Just Another Promise You Couldn't Keep",
+      "07 Harakiri for the Sky - Too Late for Goodbyes",
+      "08 Harakiri for the Sky - Street Spirit (Fade Out)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/scorched-earth_fb4ce60b9c98"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/edd272ab77674f6c1d95/Scorched_Earth.tar"
+    }
+  }
+}

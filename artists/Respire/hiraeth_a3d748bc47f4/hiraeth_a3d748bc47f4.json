@@ -1,0 +1,33 @@
+{
+  "id": "hiraeth_a3d748bc47f4",
+  "fingerprint": "a3d748bc47f493651dc59194fefcc171a280c4ccb94be6587694cc3600358fea",
+  "archived_at": "2026-07-12T06:47:15Z",
+  "metadata": {
+    "title": "Hiraeth",
+    "artist": "Respire",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2661,
+    "duration_human": "00:44:21",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Respire - Keening",
+      "02 Respire - The Match, Consumed",
+      "03 Respire - Distant Light of Belonging",
+      "04 Respire - First Snow",
+      "05 Respire - Home of Ash",
+      "06 Respire - Voiceless; Nameless",
+      "07 Respire - The Sun Sets Without Us",
+      "08 Respire - We Grow Like Trees in Rooms of Borrowed Light",
+      "09 Respire - Do the Birds Still Sing",
+      "10 Respire - Farewell (In Standard)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hiraeth_a3d748bc47f4"
+    }
+  }
+}

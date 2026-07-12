@@ -8,3 +8,4 @@
 | [Gravity and Grace](gravity-and-grace_cea97583c99c/gravity-and-grace_cea97583c99c.md) | 2016 | FLAC | 00:42:28 | [IA](https://archive.org/details/gravity-and-grace_cea97583c99c) [FileDitch](https://fileditchfiles.st/beta12/8c031d815c0fa4a373f8/Gravity_and_Grace.tar) |
 | [Dénouement](denouement_8bd73cdf2ca8/denouement_8bd73cdf2ca8.md) | 2018 | FLAC | 00:36:27 | [IA](https://archive.org/details/denouement_8bd73cdf2ca8) [FileDitch](https://fileditchfiles.st/beta12/baf93569556a2d96d558/D_nouement.tar) |
 | [Black Line](black-line_5abd9d930b06/black-line_5abd9d930b06.md) | 2020 | FLAC | 00:41:07 | [IA](https://archive.org/details/black-line_5abd9d930b06) [FileDitch](https://fileditchfiles.st/beta12/610ed81ae72c0cefad38/Black_Line.tar) |
+| [Hiraeth](hiraeth_a3d748bc47f4/hiraeth_a3d748bc47f4.md) | 2024 | FLAC | 00:44:21 | [IA](https://archive.org/details/hiraeth_a3d748bc47f4) |
