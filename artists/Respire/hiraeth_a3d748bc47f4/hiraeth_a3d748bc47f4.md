@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/hiraeth_a3d748bc47f4)
+- [FileDitch](https://fileditchfiles.st/beta12/3cb66f6f052f2462419a/Hiraeth.tar)
 
 ## Tracklist
 
