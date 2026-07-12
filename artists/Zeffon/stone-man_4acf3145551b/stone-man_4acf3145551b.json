@@ -1,0 +1,43 @@
+{
+  "id": "stone-man_4acf3145551b",
+  "fingerprint": "4acf3145551b7fde06c133fee7dde6c05474087e40f9334f360192956b1b2cc1",
+  "archived_at": "2026-07-12T09:00:30Z",
+  "metadata": {
+    "title": "Stone Man",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 20,
+    "duration_seconds": 20303,
+    "duration_human": "05:38:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Before Them (Vision Lost)",
+      "02 Zeffon - Parallels in Azure or Cyan",
+      "03 Zeffon - Ghost White",
+      "04 Zeffon - The Administrative Portal",
+      "05 Zeffon - Blind",
+      "06 Zeffon - Doctor, Doctor, Minister",
+      "07 Zeffon - 87F",
+      "08 Zeffon - Map of the Entire World",
+      "09 Zeffon - Bomber Robbery / In La Mention",
+      "10 Zeffon - A Mysterious Distorted Guest",
+      "11 Zeffon - Valentine",
+      "12 Zeffon - #0_800003051757813",
+      "13 Zeffon - Greed",
+      "14 Zeffon - Reverse",
+      "15 Zeffon - Terraformed Fortress of Winds",
+      "16 Zeffon - A Cursed Avenger of Sorts",
+      "17 Zeffon - Scales",
+      "18 Zeffon - A Path to the Vacant Dream",
+      "19 Zeffon - The Stranger With A Lamp",
+      "20 Zeffon - 11: Unwelcome Dwellers, Water Book"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stone-man_4acf3145551b"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "the-daughters-union_8fe57b66761a",
+  "fingerprint": "8fe57b66761a73937b130476e08e518335c21c8cd18b15957fcc6d51f9c3801d",
+  "archived_at": "2026-07-12T09:00:16Z",
+  "metadata": {
+    "title": "The Daughter's Union",
+    "artist": "Big Blood",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2935,
+    "duration_human": "00:48:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Big Blood - Blind Owl I",
+      "02 Big Blood - Reproduce & Get Dirty",
+      "03 Big Blood - Thank You for the Path",
+      "04 Big Blood - Our Love Will Still Be There",
+      "05 Big Blood - All is Clear",
+      "06 Big Blood - Stars Sewn Into Our Skies",
+      "07 Big Blood - On & On",
+      "08 Big Blood - I Have Known Love",
+      "09 Big Blood - Blind Owl II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-daughters-union_8fe57b66761a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/9a7cb7187e42e0385cc7/The_Daughter_s_Union.tar"
+    }
+  }
+}
