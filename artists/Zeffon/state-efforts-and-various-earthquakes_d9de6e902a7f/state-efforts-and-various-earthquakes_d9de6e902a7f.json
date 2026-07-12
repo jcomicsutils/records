@@ -1,0 +1,28 @@
+{
+  "id": "state-efforts-and-various-earthquakes_d9de6e902a7f",
+  "fingerprint": "d9de6e902a7f7cd047f3ee0338a3c882930995e6fb11b1d87a69b833c54db35c",
+  "archived_at": "2026-07-12T07:31:30Z",
+  "metadata": {
+    "title": "State Efforts and Various Earthquakes",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5150,
+    "duration_human": "01:25:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Rahm",
+      "02 Zeffon - Mysteriously Absent"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/state-efforts-and-various-earthquakes_d9de6e902a7f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/06082e133d8a13496cea/State_Efforts_and_Various_Earthquakes.tar"
+    }
+  }
+}
