@@ -1,0 +1,33 @@
+{
+  "id": "plantgazer-instrumental_7d28c0a70bc8",
+  "fingerprint": "7d28c0a70bc8276bb6afa5dad8c53ef1cbb1b12cfd8af6d8da65cf241d8f1303",
+  "archived_at": "2026-07-12T09:14:01Z",
+  "metadata": {
+    "title": "Plantgazer (Instrumental)",
+    "artist": "Show Me a Dinosaur",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2658,
+    "duration_human": "00:44:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Show Me a Dinosaur - Sunflower (Instrumental)",
+      "02 Show Me a Dinosaur - Marsh (Instrumental)",
+      "03 Show Me a Dinosaur - Red River",
+      "04 Show Me a Dinosaur - Selva (Instrumental)",
+      "05 Show Me a Dinosaur - Unsaid I (Instrumental)",
+      "06 Show Me a Dinosaur - Hum (Instrumental)",
+      "07 Show Me a Dinosaur - Unsaid II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/plantgazer-instrumental_7d28c0a70bc8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/d9392549ad9ef8781c7f/Plantgazer_Instrumental.tar"
+    }
+  }
+}
