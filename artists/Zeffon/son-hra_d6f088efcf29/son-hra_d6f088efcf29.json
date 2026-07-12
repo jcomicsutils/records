@@ -1,0 +1,29 @@
+{
+  "id": "son-hra_d6f088efcf29",
+  "fingerprint": "d6f088efcf2997380157164197355d71f64cff274954b644a3cc9d2805a41dfe",
+  "archived_at": "2026-07-12T04:27:57Z",
+  "metadata": {
+    "title": "Son Hra",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1187,
+    "duration_human": "00:19:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Assuming the Edge of Existence in 8AAs",
+      "02 Zeffon - H___ Absûûrdity is For Hh_H____pin mới (Braôeja da Lueg)",
+      "03 Zeffon - Manipura 7 Döes Not Kare, Pluss '-+-+-+-'"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/son-hra_d6f088efcf29"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/dc97c0d3911276a680ed/Son_Hra.tar"
+    }
+  }
+}
