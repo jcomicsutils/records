@@ -1,0 +1,32 @@
+{
+  "id": "tape-9_b7658d2bbd71",
+  "fingerprint": "b7658d2bbd71389f8524b2c281cc8e1935ccafcb27df37f59a5f6f07d20942df",
+  "archived_at": "2026-07-12T18:06:34Z",
+  "metadata": {
+    "title": "Tape 9",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 12849,
+    "duration_human": "03:34:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Red Pineapple (Scrap Metal, Part 1)",
+      "02 Zeffon - Blue Ocean",
+      "03 Zeffon - Red is the Color of Every Man",
+      "04 Zeffon - You Talk",
+      "05 Zeffon - Dead Eyes (Dusk Air... Extract)",
+      "06 Zeffon - Technetium-99m"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tape-9_b7658d2bbd71"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta13/440f287471e1e43d0772/Tape_9.tar"
+    }
+  }
+}
