@@ -1,0 +1,36 @@
+{
+  "id": "erosanteros_6c589a926447",
+  "fingerprint": "6c589a92644714ea4cbebccbdc9194d7a4318c22180e7f725f57774541e80d18",
+  "archived_at": "2026-07-12T01:09:10Z",
+  "metadata": {
+    "title": "ErosAnteros",
+    "artist": "Oathbreaker",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2802,
+    "duration_human": "00:46:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Oathbreaker - (Beeltenis)",
+      "02 Oathbreaker - No Rest for the Weary",
+      "03 Oathbreaker - Upheaval",
+      "04 Oathbreaker - As I Look into the Abyss",
+      "05 Oathbreaker - The Abyss Looks into Me",
+      "06 Oathbreaker - Condor Tongue",
+      "07 Oathbreaker - Offer Aan De Leegte",
+      "08 Oathbreaker - Agartha",
+      "09 Oathbreaker - Nomads",
+      "10 Oathbreaker - Clair Obscur"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/erosanteros_6c589a926447"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/10c5c8507eb9aae0ca3e/ErosAnteros.tar"
+    }
+  }
+}
