@@ -1,0 +1,36 @@
+{
+  "id": "sew-your-wild-days-tour-vol-ii_3449a1b862e1",
+  "fingerprint": "3449a1b862e17e51d80e2145b5ffdcbdfd8db63497042d4480422c5d73bb44df",
+  "archived_at": "2026-07-12T08:43:24Z",
+  "metadata": {
+    "title": "Sew Your Wild Days Tour Vol. II",
+    "artist": "Big Blood",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2738,
+    "duration_human": "00:45:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Big Blood - Haystack (A.P.)",
+      "02 Big Blood - She Said Nothing II",
+      "03 Big Blood - Rodin Deadpan",
+      "04 Big Blood - Frost Farm",
+      "05 Big Blood - Got Wings?",
+      "06 Big Blood - I'm So Glad (Skip James)",
+      "07 Big Blood - So Po Swing",
+      "08 Big Blood - Moon Perfume",
+      "09 Big Blood - 'Preese 'Preese",
+      "10 Big Blood - I've Been a Baby All My Life (I Hope You Don't Expect a Man)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sew-your-wild-days-tour-vol-ii_3449a1b862e1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/18202ddd4e762dede6d1/Sew_Your_Wild_Days_Tour_Vol._II.tar"
+    }
+  }
+}
