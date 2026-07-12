@@ -1,0 +1,35 @@
+{
+  "id": "quarantunes-series-no027_2ec3f06a4389",
+  "fingerprint": "2ec3f06a43891342065706158adb605a57074175c7b09ea978bf3bce6a9088ab",
+  "archived_at": "2026-07-12T08:25:16Z",
+  "metadata": {
+    "title": "Quarantunes Series No.027",
+    "artist": "Big Blood",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1928,
+    "duration_human": "00:32:08",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Big Blood - Cupid (Sam Cooke)",
+      "02 Big Blood - Providence",
+      "03 Big Blood - Reproduce and Get Dirty",
+      "04 Big Blood - Inside My Head",
+      "05 Big Blood - Satie Interlude",
+      "06 Big Blood - You Dont Know Whats Going on (Exuma)",
+      "07 Big Blood - 1000 Times",
+      "08 Big Blood - Anything Could Happen (The Clean)",
+      "09 Big Blood - Ocean Blue Eyes"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/quarantunes-series-no027_2ec3f06a4389"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/33743a506e58699391ae/Quarantunes_Series_No.027.tar"
+    }
+  }
+}
