@@ -1,0 +1,36 @@
+{
+  "id": "maere_b81ea3eb8cdd",
+  "fingerprint": "b81ea3eb8cdde6b8ef0902732fa7c7f62b766ec7b69622e1c7d3c36ebab03d02",
+  "archived_at": "2026-07-12T06:17:47Z",
+  "metadata": {
+    "title": "Mære",
+    "artist": "Harakiri for the Sky",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 5077,
+    "duration_human": "01:24:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Harakiri for the Sky - I, Pallbearer",
+      "02 Harakiri for the Sky - Sing for the Damage We've Done",
+      "03 Harakiri for the Sky - Us Against December Skies",
+      "04 Harakiri for the Sky - I'm All About the Dusk",
+      "05 Harakiri for the Sky - Three Empty Words",
+      "06 Harakiri for the Sky - Once Upon a Winter",
+      "07 Harakiri for the Sky - And Oceans Between Us",
+      "08 Harakiri for the Sky - Silver Needle // Golden Dawn",
+      "09 Harakiri for the Sky - Time Is a Ghost",
+      "10 Harakiri for the Sky - Song to Say Goodbye"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/maere_b81ea3eb8cdd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/ce55de06cee820bc0e81/M_re.tar"
+    }
+  }
+}
