@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/unyielding-joy-elements-conducive-to-unassailable-heartbreak_d7d0c386fb89)
+- [FileDitch](https://fileditchfiles.st/beta12/bd8c9c2a513d81834caf/Unyielding_Joy_-_Elements_Conducive_to_Unassailable_Heartbreak.tar)
 
 ## Tracklist
 
