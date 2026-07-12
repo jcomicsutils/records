@@ -1,0 +1,34 @@
+{
+  "id": "tides-of-despair_45c7d9eb9cc1",
+  "fingerprint": "45c7d9eb9cc108e2f532cbbd12f242f19cb3ec8c7b73e04990e7e7b79b62fa69",
+  "archived_at": "2026-07-12T00:27:04Z",
+  "metadata": {
+    "title": "Tides of Despair",
+    "artist": "Nocturnal Depression",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2592,
+    "duration_human": "00:43:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nocturnal Depression - Drowning Myself",
+      "02 Nocturnal Depression - Tides of Despair",
+      "03 Nocturnal Depression - Living in a Mass Grave",
+      "04 Nocturnal Depression - Solitude and Despair Again",
+      "05 Nocturnal Depression - Slit My Wrists",
+      "06 Nocturnal Depression - Farewell Letter",
+      "07 Nocturnal Depression - Muse of Suicide",
+      "08 Nocturnal Depression - Reveries"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tides-of-despair_45c7d9eb9cc1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/2cb24b814b439a9cd161/Tides_of_Despair.tar"
+    }
+  }
+}

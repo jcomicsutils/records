@@ -1,0 +1,35 @@
+{
+  "id": "to-be-gentle_f192ccc8c621",
+  "fingerprint": "f192ccc8c621cfa86844882620a32c07d89df6c0e0b6fd6e7745ba004e85d710",
+  "archived_at": "2026-07-12T00:26:27Z",
+  "metadata": {
+    "title": "To Be Gentle",
+    "artist": "To Be Gentle",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2727,
+    "duration_human": "00:45:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 To Be Gentle - Understanding Healing",
+      "02 To Be Gentle - All the Things I Was Too Scared to Say",
+      "03 To Be Gentle - We Build Our Castles in the Air",
+      "04 To Be Gentle - Du Sang",
+      "05 To Be Gentle - Road to Himeji",
+      "06 To Be Gentle - But a Sound",
+      "07 To Be Gentle - Tender Green",
+      "08 To Be Gentle - An Amputation",
+      "09 To Be Gentle - That Which is Safe",
+      "10 To Be Gentle - The Hand That Rests on My Shoulder",
+      "11 To Be Gentle - One Day We Will No Longer Hurt",
+      "12 To Be Gentle - To Be Gentle"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/to-be-gentle_f192ccc8c621"
+    }
+  }
+}
