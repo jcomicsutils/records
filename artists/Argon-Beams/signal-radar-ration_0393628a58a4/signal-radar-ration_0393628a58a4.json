@@ -26,6 +26,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/signal-radar-ration_0393628a58a4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/e106bd81008868522258/Signal_Radar_Ration_2017_1.tar"
     }
   }
 }
