@@ -1,0 +1,38 @@
+{
+  "id": "big-blood-thunder-crutch_0a2e7c9b5a2f",
+  "fingerprint": "0a2e7c9b5a2f279b47c353246536b0ba2e98cc99f794f7e382cecd658902dbc4",
+  "archived_at": "2026-07-12T03:45:23Z",
+  "metadata": {
+    "title": "Big Blood & Thunder Crutch",
+    "artist": "Big Blood",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3572,
+    "duration_human": "00:59:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 dontrustheruin - Standard Aberation",
+      "02 dontrustheruin - Redux N' Roll",
+      "03 dontrustheruin - Underneath He is a Girl",
+      "04 dontrustheruin - Make Way",
+      "05 dontrustheruin - Sing for What It's Worth",
+      "06 dontrustheruin - Saturn",
+      "07 dontrustheruin - Soil for Shady Grass",
+      "08 dontrustheruin - Wall Eye",
+      "09 dontrustheruin - Sweaty Pants",
+      "10 dontrustheruin - State of Science",
+      "11 dontrustheruin - Remember is You",
+      "12 dontrustheruin - Red Light"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/big-blood-thunder-crutch_0a2e7c9b5a2f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/6e2722561c7cf8d6dd72/Big_Blood_Thunder_Crutch.tar"
+    }
+  }
+}
