@@ -1,0 +1,27 @@
+{
+  "id": "in-my-head_8eb87b987617",
+  "fingerprint": "8eb87b987617cc1bf3b1c5bb4398e807f526baf8c6991424b4c71401f9348463",
+  "archived_at": "2026-07-12T07:32:21Z",
+  "metadata": {
+    "title": "In My Head",
+    "artist": "Big Blood",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 161,
+    "duration_human": "00:02:41",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Big Blood - In My Head"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/in-my-head_8eb87b987617"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/8ada2c8e043616b52d03/In_My_Head.tar"
+    }
+  }
+}
