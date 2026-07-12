@@ -1,0 +1,31 @@
+{
+  "id": "wishes_e64f9eaf9e2d",
+  "fingerprint": "e64f9eaf9e2d387741b39c8a1e34f0a89696f4085ff118c0ec0aa4a859849290",
+  "archived_at": "2026-07-12T00:56:44Z",
+  "metadata": {
+    "title": "Wishes",
+    "artist": "明日の叙景",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1630,
+    "duration_human": "00:27:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 明日の叙景 - Carry On",
+      "02 明日の叙景 - I Won't Pray Anymore",
+      "03 明日の叙景 - Being Lost",
+      "04 明日の叙景 - Unripe Orange",
+      "05 明日の叙景 - Birth"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wishes_e64f9eaf9e2d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/7e41a0a8a2c111106e6a/Wishes.tar"
+    }
+  }
+}
