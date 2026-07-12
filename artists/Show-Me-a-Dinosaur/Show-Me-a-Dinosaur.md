@@ -2,4 +2,4 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
-| [Dust](dust_149c39922f40/dust_149c39922f40.md) | 2014 | FLAC | 00:45:35 | [IA](https://archive.org/details/dust_149c39922f40) |
+| [Dust](dust_149c39922f40/dust_149c39922f40.md) | 2014 | FLAC | 00:45:35 | [IA](https://archive.org/details/dust_149c39922f40) [FileDitch](https://fileditchfiles.st/beta12/43c56795bcfce47ae74b/Dust.tar) |

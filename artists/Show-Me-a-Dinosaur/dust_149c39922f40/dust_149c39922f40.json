@@ -25,6 +25,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/dust_149c39922f40"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/43c56795bcfce47ae74b/Dust.tar"
     }
   }
 }
