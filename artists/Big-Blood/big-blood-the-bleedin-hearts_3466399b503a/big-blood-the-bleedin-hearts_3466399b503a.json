@@ -1,0 +1,37 @@
+{
+  "id": "big-blood-the-bleedin-hearts_3466399b503a",
+  "fingerprint": "3466399b503a6ced5be78db912c341212c9c358d7a8b1a88ac48c7bdd92c8f55",
+  "archived_at": "2026-07-12T03:15:56Z",
+  "metadata": {
+    "title": "Big Blood & The Bleedin' Hearts",
+    "artist": "Big Blood",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2813,
+    "duration_human": "00:46:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Big Blood - Bah-Num",
+      "02 Big Blood - Baron in the Trees",
+      "03 Big Blood - New Dish Rag",
+      "04 Big Blood - Graceless Lady",
+      "05 Big Blood - Curse",
+      "06 Big Blood - Blood Mumble",
+      "07 Big Blood - Oh Country (Skin & Bones)",
+      "08 Big Blood - The Birds & the Herds",
+      "09 Big Blood - Tease It Like a Cop",
+      "10 Big Blood - Night Lighter",
+      "11 Big Blood - Terrapin (Oh! Syd)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/big-blood-the-bleedin-hearts_3466399b503a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/27656f0e08d39c8ea8dc/Big_Blood_The_Bleedin_Hearts.tar"
+    }
+  }
+}

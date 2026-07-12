@@ -1,0 +1,26 @@
+{
+  "id": "soda-chalk-cliff_7ea17e9222b0",
+  "fingerprint": "7ea17e9222b02c49d56c4aa92f2f660f7e7b63d73509ff78352073f6494b26de",
+  "archived_at": "2026-07-12T03:12:00Z",
+  "metadata": {
+    "title": "Soda Chalk Cliff",
+    "artist": "Zeffon",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 6087,
+    "duration_human": "01:41:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - U__trm Collage",
+      "02 Zeffon - Lemon Salad (Ver. 1) [Ver. Anti Sanderz]",
+      "03 Zeffon - HHRL"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/soda-chalk-cliff_7ea17e9222b0"
+    }
+  }
+}
