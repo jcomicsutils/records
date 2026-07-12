@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/awakening_5a1bc95aabc4)
+- [FileDitch](https://fileditchfiles.st/beta12/d6574ebc816f6a40518c/Awakening.tar)
 
 ## Tracklist
 
