@@ -1,0 +1,30 @@
+{
+  "id": "reborn_16ef0f4ecc88",
+  "fingerprint": "16ef0f4ecc88e9d1cbc1ffc1350acf04ed9536e30d00dce9932377ac9034e9f1",
+  "archived_at": "2026-07-12T04:36:51Z",
+  "metadata": {
+    "title": "Reborn",
+    "artist": "Olhava",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4747,
+    "duration_human": "01:19:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Olhava - Mirror",
+      "02 Olhava - Reflection",
+      "03 Olhava - Reborn - Pt. I",
+      "04 Olhava - Reborn - Pt. II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/reborn_16ef0f4ecc88"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/cd45f803fa4c3188ca1f/Reborn.tar"
+    }
+  }
+}
