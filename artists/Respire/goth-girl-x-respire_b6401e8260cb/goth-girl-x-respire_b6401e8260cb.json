@@ -1,0 +1,27 @@
+{
+  "id": "goth-girl-x-respire_b6401e8260cb",
+  "fingerprint": "b6401e8260cb903d9d2a84bb1223f07529b3dee0686200809fabe6d59d9bab69",
+  "archived_at": "2026-07-12T06:25:55Z",
+  "metadata": {
+    "title": "Goth Girl x Respire",
+    "artist": "Respire",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1344,
+    "duration_human": "00:22:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Respire - Storm & Stress"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/goth-girl-x-respire_b6401e8260cb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/be0d35ee4067533ab5e2/Goth_Girl_x_Respire.tar"
+    }
+  }
+}

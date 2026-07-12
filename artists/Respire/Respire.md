@@ -4,5 +4,6 @@
 |-------|------|-------|----------|-------|
 | [Demonstration](demonstration_da163fabadc1/demonstration_da163fabadc1.md) | 2014 | FLAC | 00:23:20 | [IA](https://archive.org/details/demonstration_da163fabadc1) [FileDitch](https://fileditchfiles.st/beta12/a55404cf07fc9c1a200f/Demonstration.tar) |
 | [Anthems for Falling Stars](anthems-for-falling-stars_26149c24d240/anthems-for-falling-stars_26149c24d240.md) | 2015 | FLAC | 00:08:57 | [IA](https://archive.org/details/anthems-for-falling-stars_26149c24d240) [FileDitch](https://fileditchfiles.st/beta12/88f6bafc1ae1162f6080/Anthems_for_Falling_Stars.tar) |
+| [Goth Girl x Respire](goth-girl-x-respire_b6401e8260cb/goth-girl-x-respire_b6401e8260cb.md) | 2016 | FLAC | 00:22:24 | [IA](https://archive.org/details/goth-girl-x-respire_b6401e8260cb) [FileDitch](https://fileditchfiles.st/beta12/be0d35ee4067533ab5e2/Goth_Girl_x_Respire.tar) |
 | [Dénouement](denouement_8bd73cdf2ca8/denouement_8bd73cdf2ca8.md) | 2018 | FLAC | 00:36:27 | [IA](https://archive.org/details/denouement_8bd73cdf2ca8) [FileDitch](https://fileditchfiles.st/beta12/baf93569556a2d96d558/D_nouement.tar) |
 | [Black Line](black-line_5abd9d930b06/black-line_5abd9d930b06.md) | 2020 | FLAC | 00:41:07 | [IA](https://archive.org/details/black-line_5abd9d930b06) [FileDitch](https://fileditchfiles.st/beta12/610ed81ae72c0cefad38/Black_Line.tar) |
