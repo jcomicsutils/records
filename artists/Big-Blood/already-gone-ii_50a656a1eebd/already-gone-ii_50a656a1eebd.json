@@ -1,0 +1,37 @@
+{
+  "id": "already-gone-ii_50a656a1eebd",
+  "fingerprint": "50a656a1eebd1edb313b9769c8bc4a9a8d16b964c0630de2afb65e7ace111f63",
+  "archived_at": "2026-07-12T02:46:43Z",
+  "metadata": {
+    "title": "Already Gone II",
+    "artist": "Big Blood",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2675,
+    "duration_human": "00:44:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Big Blood - Land Upon Mud I",
+      "02 Big Blood - Brotha-O-Brotha",
+      "03 Big Blood - Heart of Glass (Blondie)",
+      "04 Big Blood - Do Insects Sleep?",
+      "05 Big Blood - Sleepin' Time",
+      "06 Big Blood - Talking Head Pt. 1",
+      "07 Big Blood - Beatle Bones 'N' Smokin' Stones (Captain Beefheart)",
+      "08 Big Blood - So Old Again",
+      "09 Big Blood - Apes & History (Swimmin' in Paper)",
+      "10 Big Blood - For Four Beating Lungs",
+      "11 Big Blood - Polly + the Sheep"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/already-gone-ii_50a656a1eebd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/bc32347fe696b1334a85/Already_Gone_II.tar"
+    }
+  }
+}
