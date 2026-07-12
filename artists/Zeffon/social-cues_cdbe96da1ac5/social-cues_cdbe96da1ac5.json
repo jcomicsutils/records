@@ -22,6 +22,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/social-cues_cdbe96da1ac5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/8a4626fd547c53b770a3/Social_Cues.tar"
     }
   }
 }
