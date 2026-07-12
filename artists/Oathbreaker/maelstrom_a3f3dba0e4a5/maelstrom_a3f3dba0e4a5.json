@@ -1,0 +1,35 @@
+{
+  "id": "maelstrom_a3f3dba0e4a5",
+  "fingerprint": "a3f3dba0e4a5c5df60d6b260d683939bf2520303216faee1927c56bcf57f0d84",
+  "archived_at": "2026-07-12T01:15:45Z",
+  "metadata": {
+    "title": "Mælstrøm",
+    "artist": "Oathbreaker",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1868,
+    "duration_human": "00:31:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Oathbreaker - Origin",
+      "02 Oathbreaker - Hierophant",
+      "03 Oathbreaker - Fate Is Nigh",
+      "04 Oathbreaker - Sink Into Sin - I",
+      "05 Oathbreaker - Sink Into Sin - II",
+      "06 Oathbreaker - Thoth",
+      "07 Oathbreaker - Black Sun",
+      "08 Oathbreaker - Glimpse of the Unseen",
+      "09 Oathbreaker - Maelstrøm"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/maelstrom_a3f3dba0e4a5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/c30c821e2675bcd66440/M_lstr_m.tar"
+    }
+  }
+}
