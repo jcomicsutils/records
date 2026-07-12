@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/to-be-gentle_f192ccc8c621)
+- [FileDitch](https://fileditchfiles.st/beta12/f7304b0f8372a6e985a0/To_Be_Gentle.tar)
 
 ## Tracklist
 
