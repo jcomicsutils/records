@@ -1,0 +1,31 @@
+{
+  "id": "respire-audiotree-worldwide_3ae89f47b199",
+  "fingerprint": "3ae89f47b19944c6470f6f0fb0f5822e0e6980501306cd26ad100d0ad021be8e",
+  "archived_at": "2026-07-12T07:01:31Z",
+  "metadata": {
+    "title": "Respire - Audiotree Worldwide",
+    "artist": "Respire",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1588,
+    "duration_human": "00:26:28",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Respire - Lost Virtue",
+      "02 Respire - Cicatrice",
+      "03 Respire - Bound",
+      "04 Respire - To Our Dead Friends",
+      "05 Respire - Catacombs"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/respire-audiotree-worldwide_3ae89f47b199"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/e9ee93ed80190f78c5f3/Respire_-_Audiotree_Worldwide.tar"
+    }
+  }
+}
