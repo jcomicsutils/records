@@ -1,0 +1,27 @@
+{
+  "id": "when-summer-turns-to-autumn_2f5ccf721cee",
+  "fingerprint": "2f5ccf721cee653bcffa3179b394d73418d5a304a25e73ff53dfd7e8ff991d6c",
+  "archived_at": "2026-07-12T02:19:27Z",
+  "metadata": {
+    "title": "When Summer Turns to Autumn",
+    "artist": "To Be Gentle",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 71,
+    "duration_human": "00:01:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - When Summer Turns to Autumn"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/when-summer-turns-to-autumn_2f5ccf721cee"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/d89f70de234b224eeea1/When_Summer_Turns_to_Autumn.tar"
+    }
+  }
+}
