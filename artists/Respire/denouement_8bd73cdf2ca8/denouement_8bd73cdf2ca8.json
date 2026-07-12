@@ -1,0 +1,34 @@
+{
+  "id": "denouement_8bd73cdf2ca8",
+  "fingerprint": "8bd73cdf2ca8a9c5e6e07f4eb7e6ce8e2ce8f89f29b4fd1340adbde1ef155541",
+  "archived_at": "2026-07-12T06:24:04Z",
+  "metadata": {
+    "title": "Dénouement",
+    "artist": "Respire",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2187,
+    "duration_human": "00:36:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Respire - Bound",
+      "02 Respire - Haunt",
+      "03 Respire - Shiver",
+      "04 Respire - Bloom",
+      "05 Respire - Catacombs",
+      "06 Respire - Virtue",
+      "07 Respire - A Heart Still Pines",
+      "08 Respire - Dénouement"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/denouement_8bd73cdf2ca8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/baf93569556a2d96d558/D_nouement.tar"
+    }
+  }
+}
