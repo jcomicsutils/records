@@ -1,0 +1,32 @@
+{
+  "id": "operators-things_fcffdf907271",
+  "fingerprint": "fcffdf90727161622e721fa19894bb5c93b96b70fc3036539de1626a0e0d1c1c",
+  "archived_at": "2026-07-12T08:17:12Z",
+  "metadata": {
+    "title": "Operators & Things",
+    "artist": "Big Blood",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1242,
+    "duration_human": "00:20:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Big Blood - The Sound & the Sea",
+      "02 Big Blood - South of Portland",
+      "03 Big Blood - Have You Seen Rainbow",
+      "04 Big Blood - Lay Your Head on the Rails",
+      "05 Big Blood - Mouth of Seven Tongues",
+      "06 Big Blood - Destin Rain"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/operators-things_fcffdf907271"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/a1d40bcb6019858a29e8/Operators_Things.tar"
+    }
+  }
+}
