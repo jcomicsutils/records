@@ -1,0 +1,33 @@
+{
+  "id": "springtime-depression_438f6be74343",
+  "fingerprint": "438f6be7434335abeccd49fb7a5f1837d5b96d663be7f36a0a349d985e40729a",
+  "archived_at": "2026-07-12T00:52:43Z",
+  "metadata": {
+    "title": "Springtime Depression",
+    "artist": "Forgotten Tomb",
+    "year": "2003",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3672,
+    "duration_human": "01:01:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Forgotten Tomb - Todestrieb",
+      "02 Forgotten Tomb - Scars",
+      "03 Forgotten Tomb - Daylight Obsession",
+      "04 Forgotten Tomb - Springtime Depression",
+      "05 Forgotten Tomb - Colourless Despondency",
+      "06 Forgotten Tomb - Subway Apathy",
+      "07 Forgotten Tomb - Desolated Funeral (Bonus Track)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/springtime-depression_438f6be74343"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/590b9f95b39fe84edd44/Springtime_Depression.tar"
+    }
+  }
+}
