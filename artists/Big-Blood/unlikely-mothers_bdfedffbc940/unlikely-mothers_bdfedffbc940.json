@@ -1,0 +1,35 @@
+{
+  "id": "unlikely-mothers_bdfedffbc940",
+  "fingerprint": "bdfedffbc940e0d2284bd753355d0cf9a7f8d14e292dfbf79bd7974e4b5d0191",
+  "archived_at": "2026-07-12T09:55:43Z",
+  "metadata": {
+    "title": "Unlikely Mothers",
+    "artist": "Big Blood",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 5195,
+    "duration_human": "01:26:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Big Blood - A Watery Down I",
+      "02 Big Blood - Away Pt. III",
+      "03 Big Blood - It's Alright",
+      "04 Big Blood - Leviathan Song Pt. II",
+      "05 Big Blood - Thumbnail Moon",
+      "06 Big Blood - Steppin' Time Pt. II",
+      "07 Big Blood - So. Po. Village Stone",
+      "08 Big Blood - Endless Echo",
+      "09 Big Blood - A Watery Down II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/unlikely-mothers_bdfedffbc940"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/1a9a275b4e9997a772a8/Unlikely_Mothers.tar"
+    }
+  }
+}
