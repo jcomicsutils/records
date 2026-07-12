@@ -1,0 +1,31 @@
+{
+  "id": "songs-of-the-dark-earth_2bac2f840360",
+  "fingerprint": "2bac2f840360af9a7bb517d6c12a2ddcd499d4a37e7401fba1d55e663ef78c81",
+  "archived_at": "2026-07-12T04:35:21Z",
+  "metadata": {
+    "title": "Songs of the Dark Earth",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 772,
+    "duration_human": "00:12:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Bongo",
+      "02 Zeffon - Dead moths and flies lie in the river",
+      "03 Zeffon - Marshcrown of the ages, sleeps knit in stone",
+      "04 Zeffon - Cyane Returns to the Wysteriascape",
+      "05 Zeffon - Gold Forest"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/songs-of-the-dark-earth_2bac2f840360"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/9db151322d7dc48e38ff/Songs_of_the_Dark_Earth.tar"
+    }
+  }
+}
