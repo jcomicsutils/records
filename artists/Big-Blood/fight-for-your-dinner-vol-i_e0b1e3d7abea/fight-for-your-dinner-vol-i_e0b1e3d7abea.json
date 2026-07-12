@@ -1,0 +1,43 @@
+{
+  "id": "fight-for-your-dinner-vol-i_e0b1e3d7abea",
+  "fingerprint": "e0b1e3d7abeaa614abdc495e7b806ecd79dfb70e04378ce95feb71408be04929",
+  "archived_at": "2026-07-12T06:39:06Z",
+  "metadata": {
+    "title": "Fight for Your Dinner Vol. I",
+    "artist": "Big Blood",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_seconds": 3141,
+    "duration_human": "00:52:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Big Blood - Wrong Number I",
+      "02 Big Blood - Fight for Your Dinner",
+      "03 Big Blood - Well Water Pt. II",
+      "04 Big Blood - El Debarge",
+      "05 Big Blood - Twin Skin I",
+      "06 Big Blood - The Black Angel's Death Song (The Velvet Underground)",
+      "07 Big Blood - Sick With Information",
+      "08 Big Blood - You Need Then It Comes",
+      "09 Big Blood - Wrong Number II",
+      "10 Big Blood - Pussycat (Missy Elliott)",
+      "11 Big Blood - Oh My Child II",
+      "12 Big Blood - Sirens Knell II",
+      "13 Big Blood - 2+2=? (The Bob Seger System)",
+      "14 Big Blood - This is How You Record Pt. III",
+      "15 Big Blood - Song for Herb",
+      "16 Big Blood - Herb Sings Tom Dooley (Trad./Herb Mulkerin)",
+      "17 Big Blood - Twin Skin II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fight-for-your-dinner-vol-i_e0b1e3d7abea"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/94777e6e1dcd2061dcf9/Fight_for_Your_Dinner_Vol._I.tar"
+    }
+  }
+}
