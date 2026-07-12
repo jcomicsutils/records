@@ -1,0 +1,28 @@
+{
+  "id": "strange-day_98089ad9c66a",
+  "fingerprint": "98089ad9c66a557fa8c69344c55fcc6e4515d6d7e4e1649aa5536fb6d43d7f14",
+  "archived_at": "2026-07-12T09:29:32Z",
+  "metadata": {
+    "title": "Strange Day",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3397,
+    "duration_human": "00:56:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Rastiad Wilds",
+      "02 Zeffon - Strange Day"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/strange-day_98089ad9c66a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/284ceed94085c1b842d1/Strange_Day.tar"
+    }
+  }
+}
