@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/electric-voyeur-instrumental_8055ed18b769)
+- [FileDitch](https://fileditchfiles.st/beta12/68ce4748f1958a451d5d/Electric_Voyeur_INSTRUMENTAL.tar)
 
 ## Tracklist
 
