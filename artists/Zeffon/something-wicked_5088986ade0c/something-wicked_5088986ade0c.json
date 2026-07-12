@@ -1,0 +1,33 @@
+{
+  "id": "something-wicked_5088986ade0c",
+  "fingerprint": "5088986ade0c1511e76e127958e28aad7adb9b006733ef0b9fb87bb01da878f5",
+  "archived_at": "2026-07-12T04:25:25Z",
+  "metadata": {
+    "title": "Something Wicked",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1122,
+    "duration_human": "00:18:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Chemical Rain",
+      "02 Zeffon - Something Wicked",
+      "03 Zeffon - Burning Fire of Fires",
+      "04 Zeffon - Glass Bottle",
+      "05 Zeffon - Treasure Trove",
+      "06 Zeffon - The Long Road Home (Execution)",
+      "07 Zeffon - Orchid Pact"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/something-wicked_5088986ade0c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/9cd6af73321fd6e8246d/Something_Wicked.tar"
+    }
+  }
+}
