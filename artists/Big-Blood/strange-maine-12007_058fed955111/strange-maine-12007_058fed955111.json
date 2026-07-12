@@ -1,0 +1,35 @@
+{
+  "id": "strange-maine-12007_058fed955111",
+  "fingerprint": "058fed9551116ed57846f66c3e6e26189eb547092abc1ee6437f68ff0c595af9",
+  "archived_at": "2026-07-12T08:49:13Z",
+  "metadata": {
+    "title": "Strange Maine 1​.​20​.​07",
+    "artist": "Big Blood",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2414,
+    "duration_human": "00:40:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Big Blood - Satie (First Gnossienne)",
+      "02 Big Blood - Suffer Creation",
+      "03 Big Blood - Sovereignty You Bitch",
+      "04 Big Blood - Handsome Son of No One",
+      "05 Big Blood - Satie II",
+      "06 Big Blood - My Last Days as a Fish",
+      "07 Big Blood - Indang Pariman (A Sumatran Pop Song)",
+      "08 Big Blood - The Fall of Quinnisa Rose",
+      "09 Big Blood - A Goddamn Spell"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/strange-maine-12007_058fed955111"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/a6e7ae75a9e7fe2b7fc5/Strange_Maine_1_._20_._07.tar"
+    }
+  }
+}

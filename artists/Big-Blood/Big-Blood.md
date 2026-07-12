@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Strange Maine 1​.​20​.​07](strange-maine-12007_058fed955111/strange-maine-12007_058fed955111.md) | 2007 | FLAC | 00:40:14 | [IA](https://archive.org/details/strange-maine-12007_058fed955111) [FileDitch](https://fileditchfiles.st/beta12/a6e7ae75a9e7fe2b7fc5/Strange_Maine_1_._20_._07.tar) |
 | [Sew Your Wild Days Tour Vol. 1](sew-your-wild-days-tour-vol-1_382e3c216466/sew-your-wild-days-tour-vol-1_382e3c216466.md) | 2007 | FLAC | 00:36:28 | [IA](https://archive.org/details/sew-your-wild-days-tour-vol-1_382e3c216466) [FileDitch](https://fileditchfiles.st/beta12/926d7b4bbb51fa96b0a4/Sew_Your_Wild_Days_Tour_Vol._1.tar) |
 | [Sew Your Wild Days Tour Vol. II](sew-your-wild-days-tour-vol-ii_3449a1b862e1/sew-your-wild-days-tour-vol-ii_3449a1b862e1.md) | 2007 | FLAC | 00:45:38 | [IA](https://archive.org/details/sew-your-wild-days-tour-vol-ii_3449a1b862e1) [FileDitch](https://fileditchfiles.st/beta12/18202ddd4e762dede6d1/Sew_Your_Wild_Days_Tour_Vol._II.tar) |
 | [Space Gallery 1.27.07 Sahara Club 1.28.07](space-gallery-12707-sahara-club-12807_b8fc967e35f5/space-gallery-12707-sahara-club-12807_b8fc967e35f5.md) | 2007 | FLAC | 00:45:57 | [IA](https://archive.org/details/space-gallery-12707-sahara-club-12807_b8fc967e35f5) [FileDitch](https://fileditchfiles.st/beta12/1f2fb805918c3cf67e14/Space_Gallery_1.27.07_Sahara_Club_1.28.07.tar) |
