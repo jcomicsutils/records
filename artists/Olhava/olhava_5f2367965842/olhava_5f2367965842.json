@@ -20,6 +20,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/olhava_5f2367965842"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/822a8c011bb8d6aa4289/Olhava.tar"
     }
   }
 }
