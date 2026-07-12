@@ -1,0 +1,34 @@
+{
+  "id": "memorial_160ab6d3341c",
+  "fingerprint": "160ab6d3341c14f6c2fe87b1313fd6cfb138558a3cea5b48a5a65c50142c6776",
+  "archived_at": "2026-07-12T03:55:35Z",
+  "metadata": {
+    "title": "Memorial",
+    "artist": "Olhava",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 4700,
+    "duration_human": "01:18:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Olhava - Ageless River X",
+      "02 Olhava - After I'm Gone",
+      "03 Olhava - When the Ashes Grow Cold",
+      "04 Olhava - Ageless River XI",
+      "05 Olhava - Memorial",
+      "06 Olhava - Ageless River XII",
+      "07 Olhava - The River Wakes",
+      "08 Olhava - Ageless River XIII"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/memorial_160ab6d3341c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/9395bc069c69764b7441/Memorial.tar"
+    }
+  }
+}
