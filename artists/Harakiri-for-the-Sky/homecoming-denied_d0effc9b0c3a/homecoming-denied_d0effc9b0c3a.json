@@ -1,0 +1,28 @@
+{
+  "id": "homecoming-denied_d0effc9b0c3a",
+  "fingerprint": "d0effc9b0c3a8731e5c202309c5956a0122bd4f0e5fc8a43c4c8c6100d069d33",
+  "archived_at": "2026-07-12T04:26:05Z",
+  "metadata": {
+    "title": "Homecoming: Denied!",
+    "artist": "Harakiri for the Sky",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 779,
+    "duration_human": "00:12:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Harakiri for the Sky - Homecoming: Denied!",
+      "02 Harakiri for the Sky - Mad World"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/homecoming-denied_d0effc9b0c3a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/9c7855f68e4b1d0e4194/Homecoming_Denied.tar"
+    }
+  }
+}
