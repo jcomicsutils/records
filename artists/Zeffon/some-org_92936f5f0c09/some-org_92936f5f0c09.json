@@ -1,0 +1,27 @@
+{
+  "id": "some-org_92936f5f0c09",
+  "fingerprint": "92936f5f0c09128c3037d1389fdf22b23168b7b328d3fcc439da139a91bd169d",
+  "archived_at": "2026-07-12T04:23:40Z",
+  "metadata": {
+    "title": "Some Org.",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 139,
+    "duration_human": "00:02:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Session"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/some-org_92936f5f0c09"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/a561ff5c91ce92d52b95/Some_Org.tar"
+    }
+  }
+}
