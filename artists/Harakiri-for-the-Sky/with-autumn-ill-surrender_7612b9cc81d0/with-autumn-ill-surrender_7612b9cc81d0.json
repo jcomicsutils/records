@@ -1,0 +1,27 @@
+{
+  "id": "with-autumn-ill-surrender_7612b9cc81d0",
+  "fingerprint": "7612b9cc81d0c1d14d0ccecd9412bd71bf1ac4415d1684952e99acda2c9df1f6",
+  "archived_at": "2026-07-12T07:17:42Z",
+  "metadata": {
+    "title": "With Autumn I'll Surrender",
+    "artist": "Harakiri for the Sky",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 518,
+    "duration_human": "00:08:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Harakiri for the Sky - With Autumn I'll Surrender"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/with-autumn-ill-surrender_7612b9cc81d0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/74fa50e01adeeb595783/With_Autumn_I_ll_Surrender.tar"
+    }
+  }
+}
