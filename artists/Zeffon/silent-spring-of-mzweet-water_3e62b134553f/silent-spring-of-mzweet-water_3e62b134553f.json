@@ -1,0 +1,29 @@
+{
+  "id": "silent-spring-of-mzweet-water_3e62b134553f",
+  "fingerprint": "3e62b134553fc07e6b8b80bbb01410f98a3465a56dc3d072e3175bfc091ed83c",
+  "archived_at": "2026-07-12T02:39:45Z",
+  "metadata": {
+    "title": "Silent Spring of Mzweet Water",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 10477,
+    "duration_human": "02:54:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Ahw Crsshao",
+      "02 Zeffon - Yellow Lowland",
+      "03 Zeffon - Mentstroââi Mzweet Kaazranka"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/silent-spring-of-mzweet-water_3e62b134553f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/ad8993b64af36e39060e/Silent_Spring_of_Mzweet_Water.tar"
+    }
+  }
+}
