@@ -1,0 +1,29 @@
+{
+  "id": "when-my-time-has-come_1a950c74edc5",
+  "fingerprint": "1a950c74edc50c1f7af95c43cac42975487d9fb445e1c89b0c6dfe34c73cab20",
+  "archived_at": "2026-07-12T00:31:54Z",
+  "metadata": {
+    "title": "When My Time Has Come",
+    "artist": "Nocturnal Depression",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1643,
+    "duration_human": "00:27:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nocturnal Depression - When My Time Has Come to Die",
+      "02 Nocturnal Depression - Return to Home Asylum",
+      "03 Nocturnal Depression - The Dead Dreamer"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/when-my-time-has-come_1a950c74edc5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/1945814e30ac24afd41b/When_My_Time_Has_Come.tar"
+    }
+  }
+}
