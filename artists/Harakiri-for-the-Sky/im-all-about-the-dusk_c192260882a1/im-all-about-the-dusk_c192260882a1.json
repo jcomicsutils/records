@@ -1,0 +1,27 @@
+{
+  "id": "im-all-about-the-dusk_c192260882a1",
+  "fingerprint": "c192260882a1011c804b2929e2cca441ec2ff782f346165e959a552afdf8855f",
+  "archived_at": "2026-07-12T04:27:44Z",
+  "metadata": {
+    "title": "I'm All About the Dusk",
+    "artist": "Harakiri for the Sky",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 669,
+    "duration_human": "00:11:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Harakiri for the Sky - I'm All About the Dusk"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/im-all-about-the-dusk_c192260882a1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/2d9d13ecd33ab9911808/I_m_All_About_the_Dusk.tar"
+    }
+  }
+}
