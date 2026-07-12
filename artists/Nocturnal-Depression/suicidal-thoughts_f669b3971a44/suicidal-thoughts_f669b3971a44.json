@@ -1,0 +1,30 @@
+{
+  "id": "suicidal-thoughts_f669b3971a44",
+  "fingerprint": "f669b3971a4410963b55e13b085df47f254ca7b1328e956dd4be22001df5c155",
+  "archived_at": "2026-07-12T00:08:49Z",
+  "metadata": {
+    "title": "Suicidal Thoughts",
+    "artist": "Nocturnal Depression",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2115,
+    "duration_human": "00:35:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nocturnal Depression - A Ghostly Face Into the Night",
+      "02 Nocturnal Depression - When Darkness Covers My Soul",
+      "03 Nocturnal Depression - As Blades Penetrate My Flesh",
+      "04 Nocturnal Depression - ...And the Forest Answers to My Call"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/suicidal-thoughts_f669b3971a44"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/181d70aa30570c87f99a/Suicidal_Thoughts.tar"
+    }
+  }
+}
