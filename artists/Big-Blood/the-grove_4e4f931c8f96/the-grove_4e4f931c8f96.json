@@ -1,0 +1,36 @@
+{
+  "id": "the-grove_4e4f931c8f96",
+  "fingerprint": "4e4f931c8f96b27a785ce0983eb450e099b3be868f42ef9f675ad26c239e28eb",
+  "archived_at": "2026-07-12T09:03:15Z",
+  "metadata": {
+    "title": "The Grove",
+    "artist": "Big Blood",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2525,
+    "duration_human": "00:42:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Big Blood - The Grove is Hotter Than an Ocean's Oven",
+      "02 Big Blood - Little Lepers",
+      "03 Big Blood - In the Light of the Moon",
+      "04 Big Blood - No Gravity Blues",
+      "05 Big Blood - In the Shade",
+      "06 Big Blood - Something Brighter Than the News",
+      "07 Big Blood - Beast (1 Beast)",
+      "08 Big Blood - Restless Purity",
+      "09 Big Blood - Saints & Lepers",
+      "10 Big Blood - Low Gravity Blues"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-grove_4e4f931c8f96"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/0368005d5c5b0747bda2/The_Grove.tar"
+    }
+  }
+}
