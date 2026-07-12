@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/sroait-dero-latruam_9b7a9981e8c6)
+- [FileDitch](https://fileditchfiles.st/beta12/f4cbba388afa54a1fd20/Sro_it_Dero_Latru_m.tar)
 
 ## Tracklist
 
