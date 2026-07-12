@@ -1,0 +1,34 @@
+{
+  "id": "stuka-food_35f30a1ce117",
+  "fingerprint": "35f30a1ce11793fecce8ae6d039e38e0ceeca944cba96fe4944606e779952056",
+  "archived_at": "2026-07-12T12:57:48Z",
+  "metadata": {
+    "title": "Stuka-food",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 11649,
+    "duration_human": "03:14:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - No Strength to Stand",
+      "02 Zeffon - Mining Accident",
+      "03 Zeffon - September Star",
+      "04 Zeffon - Rotting Fruit Vials",
+      "05 Zeffon - Yez, Part 1",
+      "06 Zeffon - Yez, Part 2",
+      "07 Zeffon - A White Bird Called",
+      "08 Zeffon - Taking Away Our Loved Ones"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stuka-food_35f30a1ce117"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/7115cce632df510d3a23/Stuka-food.tar"
+    }
+  }
+}
