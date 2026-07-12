@@ -1,0 +1,35 @@
+{
+  "id": "already-gone-i_71f2040e2544",
+  "fingerprint": "71f2040e2544f4aee2eb0ac8453bd4bf86b1e91d1bcf6fa1d14a55ebd0db4563",
+  "archived_at": "2026-07-12T02:39:20Z",
+  "metadata": {
+    "title": "Already Gone I",
+    "artist": "Big Blood",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2724,
+    "duration_human": "00:45:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Big Blood - The Winds House",
+      "02 Big Blood - Well Water",
+      "03 Big Blood - Comin' Home Pt. 1",
+      "04 Big Blood - She Sells Sanctuary (The Cult)",
+      "05 Big Blood - Sunday, Years After",
+      "06 Big Blood - Echohead",
+      "07 Big Blood - Comin' Home Pt. 2",
+      "08 Big Blood - Breath is a Seed",
+      "09 Big Blood - Land Upon Mud II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/already-gone-i_71f2040e2544"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/6a1d74c9aca29c323b38/Already_Gone_I.tar"
+    }
+  }
+}
