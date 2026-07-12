@@ -1,0 +1,38 @@
+{
+  "id": "dark-country-magic_ec439eedb3e1",
+  "fingerprint": "ec439eedb3e1726b4ff9aee0656bbf0fce6ac8b7e1fdde2d16bb191c0327391d",
+  "archived_at": "2026-07-12T04:07:17Z",
+  "metadata": {
+    "title": "Dark Country Magic",
+    "artist": "Big Blood",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3077,
+    "duration_human": "00:51:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Big Blood - Oh My Child",
+      "02 Big Blood - Creepin' Crazy Time",
+      "03 Big Blood - Ringers in the Fold",
+      "04 Big Blood - She-Wander (Er)",
+      "05 Big Blood - Reverse Hymnal",
+      "06 Big Blood - This is Record, OK",
+      "07 Big Blood - Airaid Air Raid",
+      "08 Big Blood - ...Is All We Have",
+      "09 Big Blood - Waiting is ...",
+      "10 Big Blood - Song for Ro-He-Ge",
+      "11 Big Blood - Coming Home Pt. III",
+      "12 Big Blood - Moo-Hoo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dark-country-magic_ec439eedb3e1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/7a7d3ca98a326371cbfd/Dark_Country_Magic.tar"
+    }
+  }
+}

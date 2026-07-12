@@ -1,0 +1,25 @@
+{
+  "id": "olhava_5f2367965842",
+  "fingerprint": "5f2367965842149986caaf8ced63c21f7030aebeca164717a61062fa0d3e75be",
+  "archived_at": "2026-07-12T04:07:19Z",
+  "metadata": {
+    "title": "Olhava",
+    "artist": "Olhava",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2432,
+    "duration_human": "00:40:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Olhava - Loyalty",
+      "02 Olhava - Hope"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/olhava_5f2367965842"
+    }
+  }
+}

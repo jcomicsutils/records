@@ -1,0 +1,40 @@
+{
+  "id": "soilrescentaija_760b2d419f43",
+  "fingerprint": "760b2d419f4384cc13af61daab98aea37dadb369ac6933d7588af5eece21ef85",
+  "archived_at": "2026-07-12T04:07:21Z",
+  "metadata": {
+    "title": "Soilrescentaija",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_seconds": 10700,
+    "duration_human": "02:58:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Violet-livid",
+      "02 Zeffon - Past History",
+      "03 Zeffon - Ghost in the Woods",
+      "04 Zeffon - Moor Beneath the Surface",
+      "05 Zeffon - Black Fluid",
+      "06 Zeffon - Traditional Musick",
+      "07 Zeffon - Moving the Riverside To a Different Land",
+      "08 Zeffon - Chimer",
+      "09 Zeffon - Meltdown",
+      "10 Zeffon - Piaatfiasco",
+      "11 Zeffon - Nanoreach",
+      "12 Zeffon - I Like the Cool Air",
+      "13 Zeffon - I Feel it in My Heart",
+      "14 Zeffon - Soilrescentaija",
+      "15 Zeffon - History Building Tall Towers of Pollution",
+      "16 Zeffon - Rumor, Sacred (Unknown to...)",
+      "17 Zeffon - Climax Round Circle"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/soilrescentaija_760b2d419f43"
+    }
+  }
+}
