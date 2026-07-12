@@ -1,0 +1,27 @@
+{
+  "id": "song-to-say-goodbye_aa413a9381c9",
+  "fingerprint": "aa413a9381c9c416a610870f7352b723503e1a2e9e9088b119b704a6ef107ccd",
+  "archived_at": "2026-07-12T06:52:29Z",
+  "metadata": {
+    "title": "Song to Say Goodbye",
+    "artist": "Harakiri for the Sky",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 324,
+    "duration_human": "00:05:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Harakiri for the Sky - Song to Say Goodbye"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/song-to-say-goodbye_aa413a9381c9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/e0b622387a68bf566767/Song_to_Say_Goodbye.tar"
+    }
+  }
+}
