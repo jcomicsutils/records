@@ -1,0 +1,40 @@
+{
+  "id": "to-be-gentle-i-love-you_14499d1c057f",
+  "fingerprint": "14499d1c057fb1f9795628f728ec69818cb5662da5030ec79d2b41ee671ec5b0",
+  "archived_at": "2026-07-12T00:53:51Z",
+  "metadata": {
+    "title": "To Be Gentle / I Love You",
+    "artist": "To Be Gentle",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 3204,
+    "duration_human": "00:53:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 To Be Gentle - Understandning Healing",
+      "02 To Be Gentle - All the Things I Was Too Scared to Say",
+      "03 To Be Gentle - We Build Our Castles in the Air",
+      "04 To Be Gentle - Du Sang",
+      "05 To Be Gentle - Road to Himeji",
+      "06 To Be Gentle - But a Sound",
+      "07 To Be Gentle - Tender Green",
+      "08 To Be Gentle - An Amputation",
+      "09 To Be Gentle - That Which is Safe",
+      "10 To Be Gentle - The Hand That Rests on My Shoulder",
+      "11 To Be Gentle - One Day We Will No Longer Hurt",
+      "12 To Be Gentle - To Be Gentle",
+      "13 To Be Gentle - That Which is Safe",
+      "14 To Be Gentle - Tender Green"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/to-be-gentle-i-love-you_14499d1c057f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/ebfcdddab7002759c911/To_Be_Gentle_-_I_Love_You.tar"
+    }
+  }
+}

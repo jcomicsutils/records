@@ -1,0 +1,32 @@
+{
+  "id": "under-saturn-retrograde_401e6b077511",
+  "fingerprint": "401e6b0775112c418d33147d80a34a8dc04f22eedea34445f8563b155ae05640",
+  "archived_at": "2026-07-12T00:55:26Z",
+  "metadata": {
+    "title": "Under Saturn Retrograde",
+    "artist": "Forgotten Tomb",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3049,
+    "duration_human": "00:50:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Forgotten Tomb - Reject Existence",
+      "02 Forgotten Tomb - Shutter",
+      "03 Forgotten Tomb - Downlift",
+      "04 Forgotten Tomb - I Wanna Be Your Dog",
+      "05 Forgotten Tomb - Joyless",
+      "06 Forgotten Tomb - Under Saturn Retrograde, Pt. 1",
+      "07 Forgotten Tomb - Under Saturn Retrograde, Pt. 2",
+      "08 Forgotten Tomb - You Can't Kill Who's Already Dead",
+      "09 Forgotten Tomb - Spectres Over Venice"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/under-saturn-retrograde_401e6b077511"
+    }
+  }
+}
