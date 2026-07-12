@@ -1,0 +1,30 @@
+{
+  "id": "awakening_5a1bc95aabc4",
+  "fingerprint": "5a1bc95aabc45e55239de4b2daf6e7e63ffb75bda80ed6772faf89d4a09c22f9",
+  "archived_at": "2026-07-12T00:02:29Z",
+  "metadata": {
+    "title": "Awakening",
+    "artist": "明日の叙景",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2881,
+    "duration_human": "00:48:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 明日の叙景 - Spring of Passion",
+      "02 明日の叙景 - Chain",
+      "03 明日の叙景 - \"Double Quotation Mark\"",
+      "04 明日の叙景 - Sleet",
+      "05 明日の叙景 - Bashfulness of the Moon",
+      "06 明日の叙景 - Ugly Mask",
+      "07 明日の叙景 - Thin Ice"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/awakening_5a1bc95aabc4"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "septemberthirteenthtwentytwenty_81ef42d98029",
+  "fingerprint": "81ef42d98029c97fbda3d6a1949b24a6673d3b771d8d581bf4b8f7c899fd5dc6",
+  "archived_at": "2026-07-12T00:02:41Z",
+  "metadata": {
+    "title": "Septemberthirteenthtwentytwenty",
+    "artist": "To Be Gentle",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 701,
+    "duration_human": "00:11:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 To Be Gentle - Every Day",
+      "02 To Be Gentle - An Ardent Light",
+      "03 To Be Gentle / Sowithout. - Tinyhands2therescue",
+      "04 To Be Gentle / Sowithout. - Synonymsforsad"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/septemberthirteenthtwentytwenty_81ef42d98029"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/484071aeb0b913eb08aa/Septemberthirteenthtwentytwenty.tar"
+    }
+  }
+}
