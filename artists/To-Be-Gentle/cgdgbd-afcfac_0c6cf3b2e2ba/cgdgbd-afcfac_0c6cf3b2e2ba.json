@@ -1,0 +1,29 @@
+{
+  "id": "cgdgbd-afcfac_0c6cf3b2e2ba",
+  "fingerprint": "0c6cf3b2e2baf6b01b443115e5e4050c46c3843c02a1f866929a2bd3e89d3ce2",
+  "archived_at": "2026-07-12T02:33:04Z",
+  "metadata": {
+    "title": "CGDGBD A#FCFAC",
+    "artist": "To Be Gentle",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1068,
+    "duration_human": "00:17:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 To Be Gentle - The Light of a Thousand Suns",
+      "02 To Be Gentle - Cornelius' Birthday",
+      "03 To Be Gentle - Everlasting"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cgdgbd-afcfac_0c6cf3b2e2ba"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/0d65f71c432c58250f45/CGDGBD_A_FCFAC.tar"
+    }
+  }
+}

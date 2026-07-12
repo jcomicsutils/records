@@ -1,0 +1,33 @@
+{
+  "id": "aokigahara-mmxxii_bf6aafbda721",
+  "fingerprint": "bf6aafbda7210d5117076f23568463a760e3a922629938f5f5fa9bb3772d60e4",
+  "archived_at": "2026-07-12T02:32:47Z",
+  "metadata": {
+    "title": "Aokigahara MMXXII",
+    "artist": "Harakiri for the Sky",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 4088,
+    "duration_human": "01:08:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Harakiri for the Sky - My Bones to the Sea",
+      "02 Harakiri for the Sky - Jhator",
+      "03 Harakiri for the Sky - Homecoming: Denied!",
+      "04 Harakiri for the Sky - 69 Dead Birds for Utøya",
+      "05 Harakiri for the Sky - Parting",
+      "06 Harakiri for the Sky - Burning from Both Ends",
+      "07 Harakiri for the Sky - Panoptycon",
+      "08 Harakiri for the Sky - Nailgarden",
+      "09 Harakiri for the Sky - Gallows (Give 'Em Rope)",
+      "10 Harakiri for the Sky - Mad World"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/aokigahara-mmxxii_bf6aafbda721"
+    }
+  }
+}
