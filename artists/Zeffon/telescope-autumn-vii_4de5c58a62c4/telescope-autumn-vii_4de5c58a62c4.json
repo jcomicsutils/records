@@ -1,0 +1,33 @@
+{
+  "id": "telescope-autumn-vii_4de5c58a62c4",
+  "fingerprint": "4de5c58a62c4263fbc6944e7baa5778bbc00b5a1684527552305082d401c8951",
+  "archived_at": "2026-07-12T19:10:53Z",
+  "metadata": {
+    "title": "Telescope (Autumn VII)",
+    "artist": "Zeffon",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 4015,
+    "duration_human": "01:06:55",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Laser Beam in the Eye",
+      "02 Zeffon - The Rain, That Storm From Eight Years Ago",
+      "03 Zeffon - I Lost My Hands in That Forest",
+      "04 Zeffon - ST43",
+      "05 Zeffon - Visuals Lost",
+      "06 Zeffon - Escape from the Badlands",
+      "07 Zeffon - March Hazard"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/telescope-autumn-vii_4de5c58a62c4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta13/14cf9163a6f03608f627/Telescope_Autumn_VII.tar"
+    }
+  }
+}
