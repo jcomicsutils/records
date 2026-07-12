@@ -1,0 +1,35 @@
+{
+  "id": "strawberry-mudman-dub_ce3e1fa7586f",
+  "fingerprint": "ce3e1fa7586ff01586e33f32fa5ef855850fb49105b28bb26ebddc4856dac828",
+  "archived_at": "2026-07-12T12:35:35Z",
+  "metadata": {
+    "title": "Strawberry Mudman Dub",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 31504,
+    "duration_human": "08:45:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Ghosts of the Mountains of Pue",
+      "02 Zeffon - Strawberry Mudman Dub Ver. 4",
+      "03 Zeffon - Strawberry Test Tone 1",
+      "04 Zeffon - Strawberry Test Tone 2",
+      "05 Zeffon - The Pear Tree",
+      "06 Zeffon - Don Lemon Gets Killed by His Personified Stupidity - Strawberry Mudman Dub Ver. 2 (1/2)",
+      "07 Zeffon - Guitar Spirit That Spits in Your Hand",
+      "08 Zeffon - El Voz (Mini)",
+      "09 Zeffon - Strawberry Mudman Dub Ver. 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/strawberry-mudman-dub_ce3e1fa7586f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/d0a26708a1eca8cd1f1f/Strawberry_Mudman_Dub.tar"
+    }
+  }
+}
