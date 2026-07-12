@@ -1,0 +1,31 @@
+{
+  "id": "harakiri-for-the-sky-mmxxii_6098353ae228",
+  "fingerprint": "6098353ae228116c4f7bdb919086646af122a31d733594396fb92733787b3333",
+  "archived_at": "2026-07-12T04:11:16Z",
+  "metadata": {
+    "title": "Harakiri for the Sky MMXXII",
+    "artist": "Harakiri for the Sky",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2261,
+    "duration_human": "00:37:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Harakiri for the Sky - Lungs Filled with Water",
+      "02 Harakiri for the Sky - 02:19 AM, Psychosis",
+      "03 Harakiri for the Sky - From Yesterday to Ashes",
+      "04 Harakiri for the Sky - Drown in My Nihilism",
+      "05 Harakiri for the Sky - Dancing on Debris"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/harakiri-for-the-sky-mmxxii_6098353ae228"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta12/b061205c746932a740f7/Harakiri_for_the_Sky_MMXXII.tar"
+    }
+  }
+}
