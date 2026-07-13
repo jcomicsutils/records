@@ -1,0 +1,28 @@
+{
+  "id": "the-big-stick-v_d88e903dac65",
+  "fingerprint": "d88e903dac65421624e3e76c2f531b4834d1b770c5df81593c7659ccd555c955",
+  "archived_at": "2026-07-13T01:17:03Z",
+  "metadata": {
+    "title": "The Big Stick V",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4758,
+    "duration_human": "01:19:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Tired Orange Tied Bluck-luck (Even Tired)",
+      "02 Zeffon - Hardemony Belongs Sunset Otâng Class (Even Tried 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-big-stick-v_d88e903dac65"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta13/44800fb963088b7822d1/The_Big_Stick_V.tar"
+    }
+  }
+}
