@@ -1,0 +1,74 @@
+# Zeffon — The Big Stick (2018)
+
+![Cover](https://archive.org/download/the-big-stick_ffe3fb96da7e/__ia_thumb.jpg)
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | 44.1kHz |
+| Bit Depth | 16-bit |
+| Tracks | 50 |
+| Duration | 20:36:00 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/the-big-stick_ffe3fb96da7e)
+- FileDitch: [Part 1](https://fileditchfiles.st/beta13/207aabbc8167defe5477/The_Big_Stick.part001.tar) [Part 2](https://fileditchfiles.st/beta13/cfa20aa3bbc76057e598/The_Big_Stick.part002.tar)
+
+## Tracklist
+
+```
+01 Zeffon - Asana Ri
+02 Zeffon - Badger #1
+03 Zeffon - Voices In Head
+04 Zeffon - Mjata Track 1
+05 Zeffon - A Strange Day to Be Moving
+06 Zeffon - Euût-Mjata
+07 Zeffon - Are You There?
+08 Zeffon - A New Form of Beauty
+09 Zeffon - Mjata Track 2 (BHRH Hessa)
+10 Zeffon - CIA Daf
+11 Zeffon - CIADIA
+12 Zeffon - You Are Everything
+13 Zeffon - Mjata Track 3 (Segment)
+14 Zeffon - Me - No
+15 Zeffon - Dotajmari Ruins
+16 Zeffon - Chopped Splash
+17 Zeffon - Otanddujaatmich, Part 1
+18 Zeffon - Otanddujaatmich, Part 2
+19 Zeffon - Time, Part 1
+20 Zeffon - Time, Part 2
+21 Zeffon - Hichj (Time Dijunk)
+22 Zeffon - Vibantt
+23 Zeffon - Colour
+24 Zeffon - Discomfort of the Spiritual Path
+25 Zeffon - Greyness-taht
+26 Zeffon - Herrimthot
+27 Zeffon - Badger #3
+28 Zeffon - Time, Part 3
+29 Zeffon - Badger #2
+30 Zeffon - Zouvona
+31 Zeffon - Ofuûlobstucktione
+32 Zeffon - Parting Grace #1
+33 Zeffon - Mjata Track 3
+34 Zeffon - Parting Grace #2
+35 Zeffon - Ojk-Bgarwa-Bare Objet
+36 Zeffon - 'Nivol Emos Emmig' or 'S awnskayeZDAev e'
+37 Zeffon - Blue Sapphire
+38 Zeffon - White Magic (Breathd)
+39 Zeffon - Refugees 8
+40 Zeffon - Dotajmari of the Old Kingdom - Dotajmari Rain You Cannot Drink; It is Black (The Big Stick)
+41 Zeffon - Traction 4
+42 Zeffon - Spinal Paralysis Brought On By Hjakrry
+43 Zeffon - Path of the Undead
+44 Zeffon - ICOVMUW
+45 Zeffon - The Crimson Lotus Has 1000 Petals
+46 Zeffon - IHVH
+47 Zeffon - One More Day
+48 Zeffon - The Big Stick - Call of Zuaabör
+49 Zeffon - Bullmoose #13
+50 Zeffon - Bullmoose #2
+```
+
+---
+*Archived: 2026-07-13*
