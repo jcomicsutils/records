@@ -1,0 +1,36 @@
+{
+  "id": "the-big-stick-xii_51044600f8a6",
+  "fingerprint": "51044600f8a6f1c9dad00144c2a8054e204557e455331d4d9d57db0890bd0c8b",
+  "archived_at": "2026-07-13T02:11:46Z",
+  "metadata": {
+    "title": "The Big Stick XII",
+    "artist": "Zeffon",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 16328,
+    "duration_human": "04:32:08",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - 10",
+      "02 Zeffon - 3/1 Dub",
+      "03 Zeffon - Er Yu Io Pomm",
+      "04 Zeffon - 3",
+      "05 Zeffon - Autonomous Cistern",
+      "06 Zeffon - Cistern of Ancients",
+      "07 Zeffon - Gimmick Cistern",
+      "08 Zeffon - Nó Móre Slaóghter, S800.1501hs 2",
+      "09 Zeffon - 2 (Ver. 2)",
+      "10 Zeffon - Love and Peace"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-big-stick-xii_51044600f8a6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta13/b3d277b1b90605449fdb/The_Big_Stick_XII.tar"
+    }
+  }
+}
