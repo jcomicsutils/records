@@ -1,0 +1,39 @@
+{
+  "id": "the-big-stick-xiii_f822852c9ea7",
+  "fingerprint": "f822852c9ea7b61f524b928298434ee5920fa46eca2cc62dfa306c08530ccc32",
+  "archived_at": "2026-07-13T02:26:14Z",
+  "metadata": {
+    "title": "The Big Stick XIII",
+    "artist": "Zeffon",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 32912,
+    "duration_human": "09:08:32",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - No Stamina",
+      "02 Zeffon - Substantial",
+      "03 Zeffon - Pharyngitis",
+      "04 Zeffon - ''Dead Computer'' 1A",
+      "05 Zeffon - Forested Lodging (Prev)",
+      "06 Zeffon - White Light on Black Plastic",
+      "07 Zeffon - Acute Senses / Sleepy Cat",
+      "08 Zeffon - White Light on Black Plastic",
+      "09 Zeffon - Bitter Devil",
+      "10 Zeffon - Dreamshores II",
+      "11 Zeffon - Tigress Stripes / L Ûbj / Pan Adjustment, Part 1",
+      "12 Zeffon - Project_5 (Prev)",
+      "13 Zeffon - Untitled Supernatural / Pan Adjustment, Part 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-big-stick-xiii_f822852c9ea7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta13/7d61cd85f69170495af8/The_Big_Stick_XIII.tar"
+    }
+  }
+}
