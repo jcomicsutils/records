@@ -1,0 +1,34 @@
+{
+  "id": "the-broken-wheel_f54e7670a180",
+  "fingerprint": "f54e7670a180d19249e97643d2f00042bf8b3db179054c208feed968f9e817be",
+  "archived_at": "2026-07-13T03:22:17Z",
+  "metadata": {
+    "title": "The Broken Wheel",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 9009,
+    "duration_human": "02:30:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Pyotr Dolgov",
+      "02 Zeffon - Master Never Comes Home Anymore",
+      "03 Zeffon - 1960 Conspiracy Theory",
+      "04 Zeffon - Philosophy of Ancient Magik",
+      "05 Zeffon - Reason ('Urbain Ijlenephviohijl' Groove, Part I of II)",
+      "06 Zeffon - Alien Soundtrack Manipulators, Part 1",
+      "07 Zeffon - Coiling Through the H-magnet",
+      "08 Zeffon - Ratama Fountain"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-broken-wheel_f54e7670a180"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta13/a66ecda6905b4c0bfb4b/The_Broken_Wheel.tar"
+    }
+  }
+}
