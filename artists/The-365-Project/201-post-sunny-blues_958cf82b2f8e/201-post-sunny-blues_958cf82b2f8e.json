@@ -1,0 +1,27 @@
+{
+  "id": "201-post-sunny-blues_958cf82b2f8e",
+  "fingerprint": "958cf82b2f8e603dbea95434e393bd0a3936e90107f2a6239e5790f19b2160af",
+  "archived_at": "2026-07-14T22:02:01Z",
+  "metadata": {
+    "title": "201: Post-Sunny Blues",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 448,
+    "duration_human": "00:07:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Post-Sunny Blues"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/201-post-sunny-blues_958cf82b2f8e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/f4dd9aaeb8fa8ad213e1/201_Post-Sunny_Blues.tar"
+    }
+  }
+}
