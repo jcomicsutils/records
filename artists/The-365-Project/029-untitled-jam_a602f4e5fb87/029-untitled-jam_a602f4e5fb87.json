@@ -1,0 +1,27 @@
+{
+  "id": "029-untitled-jam_a602f4e5fb87",
+  "fingerprint": "a602f4e5fb879cfefdeb2425504c53b48bc4f7e9e6e929b5bdf18438953dfe95",
+  "archived_at": "2026-07-14T16:20:39Z",
+  "metadata": {
+    "title": "029: Untitled Jam",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1541,
+    "duration_human": "00:25:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Untitled Jam"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/029-untitled-jam_a602f4e5fb87"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/cadf85220766401d28d7/029_Untitled_Jam.tar"
+    }
+  }
+}
