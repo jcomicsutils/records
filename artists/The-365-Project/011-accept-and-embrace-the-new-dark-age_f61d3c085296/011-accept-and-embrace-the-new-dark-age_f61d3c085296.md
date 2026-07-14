@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/011-accept-and-embrace-the-new-dark-age_f61d3c085296)
+- [FileDitch](https://fileditchfiles.st/beta14/2df825f30abccaabc70c/011_Accept_and_Embrace_the_New_Dark_Age.tar)
 
 ## Tracklist
 
