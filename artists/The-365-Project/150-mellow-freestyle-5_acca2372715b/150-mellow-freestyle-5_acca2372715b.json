@@ -1,0 +1,27 @@
+{
+  "id": "150-mellow-freestyle-5_acca2372715b",
+  "fingerprint": "acca2372715bbd1d2b2afe0215269158f64b431aa3809ae571fc22b915c2b340",
+  "archived_at": "2026-07-14T21:03:11Z",
+  "metadata": {
+    "title": "150: Mellow Freestyle 5",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 108,
+    "duration_human": "00:01:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Mellow Freestyle 5"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/150-mellow-freestyle-5_acca2372715b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/8985a9e51092929a099a/150_Mellow_Freestyle_5.tar"
+    }
+  }
+}
