@@ -1,0 +1,27 @@
+{
+  "id": "168-j_fc60b3ec5e89",
+  "fingerprint": "fc60b3ec5e895485b01167eb4efc5493590d6d4533355c858891f5e1f85367e3",
+  "archived_at": "2026-07-14T21:28:24Z",
+  "metadata": {
+    "title": "168: J",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 128,
+    "duration_human": "00:02:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - J"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/168-j_fc60b3ec5e89"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/dc2d2d262c287a198532/168_J.tar"
+    }
+  }
+}
