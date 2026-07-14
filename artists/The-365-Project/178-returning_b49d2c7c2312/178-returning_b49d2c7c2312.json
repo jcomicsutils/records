@@ -1,0 +1,27 @@
+{
+  "id": "178-returning_b49d2c7c2312",
+  "fingerprint": "b49d2c7c2312d58fcb86878229bd21e3a484eb94128114607309685eec059550",
+  "archived_at": "2026-07-14T21:36:49Z",
+  "metadata": {
+    "title": "178: Returning",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 615,
+    "duration_human": "00:10:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Returning"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/178-returning_b49d2c7c2312"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/ceb814bcfd45890d9bc2/178_Returning.tar"
+    }
+  }
+}
