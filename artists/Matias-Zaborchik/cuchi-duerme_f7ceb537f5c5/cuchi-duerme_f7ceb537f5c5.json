@@ -1,0 +1,26 @@
+{
+  "id": "cuchi-duerme_f7ceb537f5c5",
+  "fingerprint": "f7ceb537f5c570a1137a73c87bb567ac9dd5b80e90336a45dd7989921811e600",
+  "archived_at": "2026-07-14T22:05:17Z",
+  "metadata": {
+    "title": "cuchi, duerme",
+    "artist": "Matias Zaborchik",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1375,
+    "duration_human": "00:22:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Matias Zaborchik - cuchi, duerme",
+      "02 Matias Zaborchik - eterno mientras dura",
+      "03 Matias Zaborchik - el clavel en la tumba"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cuchi-duerme_f7ceb537f5c5"
+    }
+  }
+}

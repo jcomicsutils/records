@@ -1,0 +1,27 @@
+{
+  "id": "205-the-song_fb5fc0c2f63e",
+  "fingerprint": "fb5fc0c2f63ea64bbb9b6537657d014426087e55906a6540f2f2f09a81fbe11f",
+  "archived_at": "2026-07-14T22:05:27Z",
+  "metadata": {
+    "title": "205: The Song",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 291,
+    "duration_human": "00:04:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - The Song"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/205-the-song_fb5fc0c2f63e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/523834b588b539dfa1c5/205_The_Song.tar"
+    }
+  }
+}
