@@ -1,0 +1,28 @@
+{
+  "id": "270-yay_ec98127efec4",
+  "fingerprint": "ec98127efec408841ea4620f5ca7eab3a3c8ccb664e51c807f1fbf0d25f103fe",
+  "archived_at": "2026-07-14T23:32:41Z",
+  "metadata": {
+    "title": "270: Yay",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 647,
+    "duration_human": "00:10:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - I Like to Make Everything About Myself (Early)",
+      "02 The 365 Project - I've Decided Once Again That I Hate My Body and Want to Die (Early)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/270-yay_ec98127efec4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/7f550c1acd36f45bccec/270_Yay.tar"
+    }
+  }
+}
