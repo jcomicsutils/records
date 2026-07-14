@@ -1,0 +1,27 @@
+{
+  "id": "094-sleep-deprived-jam_6a7eb796003d",
+  "fingerprint": "6a7eb796003dbb14079b821198f3d389139917001018c481c529391d55254181",
+  "archived_at": "2026-07-14T17:20:00Z",
+  "metadata": {
+    "title": "094: Sleep Deprived Jam",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 964,
+    "duration_human": "00:16:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Sleep Deprived Jam"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/094-sleep-deprived-jam_6a7eb796003d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/2e3d13d161e2bdea7635/094_Sleep_Deprived_Jam.tar"
+    }
+  }
+}

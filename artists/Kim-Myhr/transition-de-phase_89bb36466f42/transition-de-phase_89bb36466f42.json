@@ -1,0 +1,26 @@
+{
+  "id": "transition-de-phase_89bb36466f42",
+  "fingerprint": "89bb36466f424f0e624964b00829205a1469f7417b095878e14c254b718d12ab",
+  "archived_at": "2026-07-14T17:20:02Z",
+  "metadata": {
+    "title": "Transition De Phase",
+    "artist": "Kim Myhr",
+    "year": "2011",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 3109,
+    "duration_human": "00:51:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Jim Denley, Philippe Lauzier, Pierre-Yves Martel, Kim Myhr, Éric Normand - Phase 1",
+      "02 Jim Denley, Philippe Lauzier, Pierre-Yves Martel, Kim Myhr, Éric Normand - Phase 2",
+      "03 Jim Denley, Philippe Lauzier, Pierre-Yves Martel, Kim Myhr, Éric Normand - Phase 3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/transition-de-phase_89bb36466f42"
+    }
+  }
+}
