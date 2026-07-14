@@ -1,0 +1,28 @@
+{
+  "id": "bloom_00bc9ad3442e",
+  "fingerprint": "00bc9ad3442e8316403b7c23e570d8445679f2ca2ae26ac52ac7defe9d5fdd20",
+  "archived_at": "2026-07-14T16:12:16Z",
+  "metadata": {
+    "title": "Bloom",
+    "artist": "Kim Myhr",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2250,
+    "duration_human": "00:37:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kim Myhr - Sort Sol",
+      "02 Kim Myhr - O Horizon",
+      "03 Kim Myhr - Swales Fell",
+      "04 Kim Myhr - Peel Me",
+      "05 Kim Myhr - Milk Run Sky"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bloom_00bc9ad3442e"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "019-field-recordings-and-birdsong-for-itoet_603b22cb6da2",
+  "fingerprint": "603b22cb6da2691a5f18537a3043a2b6c6c0623fa0c8a153b88a3caba4da0d1e",
+  "archived_at": "2026-07-14T16:12:35Z",
+  "metadata": {
+    "title": "019: Field Recordings and Birdsong for ITOET",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 922,
+    "duration_human": "00:15:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Field Recordings and Birdsong for ITOET"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/019-field-recordings-and-birdsong-for-itoet_603b22cb6da2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/95b4539d98a248af2725/019_Field_Recordings_and_Birdsong_for_ITOET.tar"
+    }
+  }
+}
