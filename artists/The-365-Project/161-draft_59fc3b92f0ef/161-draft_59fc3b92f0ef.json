@@ -1,0 +1,27 @@
+{
+  "id": "161-draft_59fc3b92f0ef",
+  "fingerprint": "59fc3b92f0ef18e2134a9ee10ac54a654ef2bafe3a16c2ad186dc0509766232d",
+  "archived_at": "2026-07-14T21:23:40Z",
+  "metadata": {
+    "title": "161: Draft",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 126,
+    "duration_human": "00:02:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Draft"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/161-draft_59fc3b92f0ef"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/c01d278d0ef12cdd0a3f/161_Draft.tar"
+    }
+  }
+}
