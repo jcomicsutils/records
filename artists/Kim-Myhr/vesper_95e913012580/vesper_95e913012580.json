@@ -1,0 +1,29 @@
+{
+  "id": "vesper_95e913012580",
+  "fingerprint": "95e91301258000aa7f1a732957807a744f3ece9c06933024e05353732d0fc211",
+  "archived_at": "2026-07-14T18:01:17Z",
+  "metadata": {
+    "title": "Vesper",
+    "artist": "Kim Myhr",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3365,
+    "duration_human": "00:56:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kim Myhr, Australian Art Orchestra - I Caught a Glimpse of the Sea Through the Leafy Boughs of the Pines",
+      "02 Kim Myhr, Australian Art Orchestra - We Seemed to Grow More and More Pensive, but in Fact We Were Less and Less",
+      "03 Kim Myhr, Australian Art Orchestra - No Walls, No Ceiling, No Windows"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vesper_95e913012580"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/3d623069055dceae0f4d/Vesper.tar"
+    }
+  }
+}
