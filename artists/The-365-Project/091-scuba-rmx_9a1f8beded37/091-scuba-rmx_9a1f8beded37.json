@@ -1,0 +1,27 @@
+{
+  "id": "091-scuba-rmx_9a1f8beded37",
+  "fingerprint": "9a1f8beded371e33370a39970af11d4877354ef277f3ab164ad2b871597c8e44",
+  "archived_at": "2026-07-14T17:18:15Z",
+  "metadata": {
+    "title": "091: Scuba Rmx",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 823,
+    "duration_human": "00:13:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Scuba Rmx"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/091-scuba-rmx_9a1f8beded37"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/6afc2531004232111123/091_Scuba_Rmx.tar"
+    }
+  }
+}
