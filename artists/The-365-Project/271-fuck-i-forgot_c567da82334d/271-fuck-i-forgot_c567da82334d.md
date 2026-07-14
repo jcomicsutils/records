@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/271-fuck-i-forgot_c567da82334d)
+- [FileDitch](https://fileditchfiles.st/beta14/6a916431795fe0779f44/271_Fuck_I_Forgot.tar)
 
 ## Tracklist
 
