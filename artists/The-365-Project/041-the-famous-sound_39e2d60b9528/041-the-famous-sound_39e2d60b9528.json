@@ -1,0 +1,27 @@
+{
+  "id": "041-the-famous-sound_39e2d60b9528",
+  "fingerprint": "39e2d60b95285bb7782b8841eda8ace12a8e098227ab1c12053958fcfe23a6af",
+  "archived_at": "2026-07-14T16:31:03Z",
+  "metadata": {
+    "title": "041: The Famous Sound",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 826,
+    "duration_human": "00:13:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - The Famous Sound"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/041-the-famous-sound_39e2d60b9528"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/a2172e208a007b8776d4/041_The_Famous_Sound.tar"
+    }
+  }
+}

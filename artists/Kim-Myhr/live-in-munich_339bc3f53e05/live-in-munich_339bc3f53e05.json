@@ -1,0 +1,28 @@
+{
+  "id": "live-in-munich_339bc3f53e05",
+  "fingerprint": "339bc3f53e050476eea0f11afae75da1faca821a75b595c7208b3ab2bc018049",
+  "archived_at": "2026-07-14T16:30:51Z",
+  "metadata": {
+    "title": "Live in Munich",
+    "artist": "Kim Myhr",
+    "year": "2010",
+    "codec": "ALAC",
+    "num_tracks": 5,
+    "duration_seconds": 2761,
+    "duration_human": "00:46:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jim Denley & Kim Myhr - One",
+      "02 Jim Denley & Kim Myhr - Two",
+      "03 Jim Denley & Kim Myhr - Three",
+      "04 Jim Denley & Kim Myhr - Four",
+      "05 Jim Denley & Kim Myhr - Encore"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-in-munich_339bc3f53e05"
+    }
+  }
+}
