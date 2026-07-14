@@ -1,0 +1,27 @@
+{
+  "id": "024-fake-jam_bfb689a79e2b",
+  "fingerprint": "bfb689a79e2ba1a6c742f5185749226dee9fe3340f80326f12eb725329a44658",
+  "archived_at": "2026-07-14T16:16:18Z",
+  "metadata": {
+    "title": "024: Fake Jam",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1438,
+    "duration_human": "00:23:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Fake Jam"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/024-fake-jam_bfb689a79e2b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/db525eab2a233fa1e8ea/024_Fake_Jam.tar"
+    }
+  }
+}
