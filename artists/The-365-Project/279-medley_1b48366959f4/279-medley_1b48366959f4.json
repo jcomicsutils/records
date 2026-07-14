@@ -1,0 +1,27 @@
+{
+  "id": "279-medley_1b48366959f4",
+  "fingerprint": "1b48366959f4f099f86dd25c6d9855d5bfcefcc0f73faafa22b9064e04c68a67",
+  "archived_at": "2026-07-14T23:39:01Z",
+  "metadata": {
+    "title": "279: Medley",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 193,
+    "duration_human": "00:03:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Medley"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/279-medley_1b48366959f4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/34de3490676fb55c2061/279_Medley.tar"
+    }
+  }
+}
