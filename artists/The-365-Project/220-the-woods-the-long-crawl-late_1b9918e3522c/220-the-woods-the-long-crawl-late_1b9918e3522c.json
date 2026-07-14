@@ -1,0 +1,27 @@
+{
+  "id": "220-the-woods-the-long-crawl-late_1b9918e3522c",
+  "fingerprint": "1b9918e3522cf4c5f779eec7ff3f74ef8abfed31be919459de0a4c730dcab2b4",
+  "archived_at": "2026-07-14T22:24:22Z",
+  "metadata": {
+    "title": "220: The Woods / The Long Crawl (Late)",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 897,
+    "duration_human": "00:14:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - The Woods / The Long Crawl (Late)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/220-the-woods-the-long-crawl-late_1b9918e3522c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/3c4588c68870308b70d4/220_The_Woods_-_The_Long_Crawl_Late.tar"
+    }
+  }
+}
