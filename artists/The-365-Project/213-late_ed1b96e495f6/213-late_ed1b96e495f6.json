@@ -1,0 +1,28 @@
+{
+  "id": "213-late_ed1b96e495f6",
+  "fingerprint": "ed1b96e495f6f4d8fe151dcfeebac87542af614091a1c794e5d5260a157fd796",
+  "archived_at": "2026-07-14T22:15:11Z",
+  "metadata": {
+    "title": "213: Late",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 3311,
+    "duration_human": "00:55:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Static (Late)",
+      "02 mold - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/213-late_ed1b96e495f6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/01513d0080b61fd21e34/213_Late.tar"
+    }
+  }
+}
