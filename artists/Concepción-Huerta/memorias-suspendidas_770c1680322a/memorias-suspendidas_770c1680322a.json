@@ -1,0 +1,32 @@
+{
+  "id": "memorias-suspendidas_770c1680322a",
+  "fingerprint": "770c1680322ab4732081d79317aa792051950dfde071989dc10ad77a6c0ee6bd",
+  "archived_at": "2026-07-14T23:12:45Z",
+  "metadata": {
+    "title": "Memorias Suspendidas",
+    "artist": "Concepción Huerta",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1778,
+    "duration_human": "00:29:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Concepción Huerta, José Orozco Mora - Nuestro Presente",
+      "02 Concepción Huerta, José Orozco Mora - Pulsos",
+      "03 Concepción Huerta, José Orozco Mora - Traslación",
+      "04 Concepción Huerta, José Orozco Mora - La Profundidad se Expande",
+      "05 Concepción Huerta, José Orozco Mora - Memorias Suspendidas",
+      "06 Concepción Huerta, José Orozco Mora - Nos Encontramos en la Melancolía"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/memorias-suspendidas_770c1680322a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/e64f9fb6b9bb686daf75/Memorias_Suspendidas.tar"
+    }
+  }
+}
