@@ -1,0 +1,27 @@
+{
+  "id": "008-mellow-freestyle_07be5c32c45b",
+  "fingerprint": "07be5c32c45be9082e2635522bad5af1b25201d7965dd822c0b5c0dc04bb2dc2",
+  "archived_at": "2026-07-14T16:00:43Z",
+  "metadata": {
+    "title": "008: Mellow Freestyle",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 40,
+    "duration_human": "00:00:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Mellow Freestyle"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/008-mellow-freestyle_07be5c32c45b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/681983bf34fcd0d5e6b0/008_Mellow_Freestyle.tar"
+    }
+  }
+}
