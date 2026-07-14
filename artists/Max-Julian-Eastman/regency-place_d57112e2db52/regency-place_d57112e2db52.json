@@ -1,0 +1,30 @@
+{
+  "id": "regency-place_d57112e2db52",
+  "fingerprint": "d57112e2db52247e6bf0e8fc2c2d70eb4df0be16f35ded3bb9d6ba076861fd77",
+  "archived_at": "2026-07-14T22:18:52Z",
+  "metadata": {
+    "title": "Regency Place",
+    "artist": "Max Julian Eastman",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1534,
+    "duration_human": "00:25:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Max Julian Eastman - Pal Joey",
+      "02 Max Julian Eastman - Waiting for Edward",
+      "03 Max Julian Eastman - Chambraigne",
+      "04 Max Julian Eastman - Knifing Around"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/regency-place_d57112e2db52"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/469aa3f43611f5d7e318/Regency_Place.tar"
+    }
+  }
+}
