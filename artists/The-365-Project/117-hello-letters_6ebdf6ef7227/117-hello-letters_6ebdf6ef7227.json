@@ -1,0 +1,27 @@
+{
+  "id": "117-hello-letters_6ebdf6ef7227",
+  "fingerprint": "6ebdf6ef7227c51ff586e9ca103e05cc680da44ac712e0e5e29090ae701a8dee",
+  "archived_at": "2026-07-14T18:43:57Z",
+  "metadata": {
+    "title": "117: Hello Letters",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 843,
+    "duration_human": "00:14:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Hello Letters"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/117-hello-letters_6ebdf6ef7227"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/781fc7fdb66edeffb8c7/117_Hello_Letters.tar"
+    }
+  }
+}
