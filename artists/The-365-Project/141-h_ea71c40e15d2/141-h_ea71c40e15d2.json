@@ -1,0 +1,27 @@
+{
+  "id": "141-h_ea71c40e15d2",
+  "fingerprint": "ea71c40e15d2e77cc606e2f3a9027192d24e4daea3b0ab3eca741075d9ecffc2",
+  "archived_at": "2026-07-14T20:32:34Z",
+  "metadata": {
+    "title": "141: h",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 122,
+    "duration_human": "00:02:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - h"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/141-h_ea71c40e15d2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/f47f93fa1f9cf83711fb/141_h.tar"
+    }
+  }
+}
