@@ -1,0 +1,27 @@
+{
+  "id": "122-acquisition-of-debt_1a953a8d05e7",
+  "fingerprint": "1a953a8d05e72a859c5893111cc39a6cbf32fd2878ebe3e3f5ca330a79ce8ea0",
+  "archived_at": "2026-07-14T18:55:33Z",
+  "metadata": {
+    "title": "122: Acquisition of Debt",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 714,
+    "duration_human": "00:11:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Acquisition of Debt"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/122-acquisition-of-debt_1a953a8d05e7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/ea78b6cddc3ef8064f3a/122_Acquisition_of_Debt.tar"
+    }
+  }
+}
