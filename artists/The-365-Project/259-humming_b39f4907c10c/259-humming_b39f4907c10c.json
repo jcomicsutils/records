@@ -1,0 +1,27 @@
+{
+  "id": "259-humming_b39f4907c10c",
+  "fingerprint": "b39f4907c10cd65eb77fd9ec788c74fcd30e1fd449dde53a28cfa79b01d1221a",
+  "archived_at": "2026-07-14T23:23:36Z",
+  "metadata": {
+    "title": "259: Humming",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 167,
+    "duration_human": "00:02:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Sebadoh Count (demo)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/259-humming_b39f4907c10c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/a7046368e58f5bd1a351/259_Humming.tar"
+    }
+  }
+}
