@@ -1,0 +1,27 @@
+{
+  "id": "089-i-am-one-with-rain_317462c9e792",
+  "fingerprint": "317462c9e7929b0785061b5db7ece22982d00677988068e0efd01d8f514f8d13",
+  "archived_at": "2026-07-14T17:16:02Z",
+  "metadata": {
+    "title": "089: I am One With Rain",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 2186,
+    "duration_human": "00:36:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - I am One With Rain"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/089-i-am-one-with-rain_317462c9e792"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/7ff0121808523fcc9aec/089_I_am_One_With_Rain.tar"
+    }
+  }
+}
