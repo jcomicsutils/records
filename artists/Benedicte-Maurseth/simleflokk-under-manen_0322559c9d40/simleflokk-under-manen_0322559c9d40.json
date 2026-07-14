@@ -1,0 +1,27 @@
+{
+  "id": "simleflokk-under-manen_0322559c9d40",
+  "fingerprint": "0322559c9d408926fc4ad0378c75cb39c56225212f58adff09e917093ee2b506",
+  "archived_at": "2026-07-14T20:37:40Z",
+  "metadata": {
+    "title": "Simleflokk under månen",
+    "artist": "Benedicte Maurseth",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 407,
+    "duration_human": "00:06:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Benedicte Maurseth - Simleflokk under månen"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/simleflokk-under-manen_0322559c9d40"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/c48558a653bfb57ab7f8/Simleflokk_under_m_nen.tar"
+    }
+  }
+}
