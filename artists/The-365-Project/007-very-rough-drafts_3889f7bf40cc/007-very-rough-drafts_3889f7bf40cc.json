@@ -1,0 +1,28 @@
+{
+  "id": "007-very-rough-drafts_3889f7bf40cc",
+  "fingerprint": "3889f7bf40cc8566a8baca9e9c715d634922e56c0e5a794d0eeb46f6d398b405",
+  "archived_at": "2026-07-14T16:00:07Z",
+  "metadata": {
+    "title": "007: Very Rough Drafts",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 475,
+    "duration_human": "00:07:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Campfire Song 1: We all Have a Skeleton in our Closet - Very Rough Demo",
+      "02 The 365 Project - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/007-very-rough-drafts_3889f7bf40cc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/92954fc6e387868e4de1/007_Very_Rough_Drafts.tar"
+    }
+  }
+}
