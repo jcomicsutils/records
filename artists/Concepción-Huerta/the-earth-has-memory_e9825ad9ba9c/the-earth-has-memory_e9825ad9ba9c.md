@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/the-earth-has-memory_e9825ad9ba9c)
+- [FileDitch](https://fileditchfiles.st/beta14/2846800a0a9efe2d5424/The_Earth_Has_Memory.tar)
 
 ## Tracklist
 
