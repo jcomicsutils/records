@@ -1,0 +1,28 @@
+{
+  "id": "215-if-only_9c9ad977e255",
+  "fingerprint": "9c9ad977e2552a832291523c29a9de255a588949d0695b15f613674ee1ff549d",
+  "archived_at": "2026-07-14T22:16:45Z",
+  "metadata": {
+    "title": "215: If Only",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 525,
+    "duration_human": "00:08:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Eulogy (Late)",
+      "02 シームレス History - \"if only...\""
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/215-if-only_9c9ad977e255"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/7b35e5cf563903a24cb9/215_If_Only.tar"
+    }
+  }
+}
