@@ -1,0 +1,27 @@
+{
+  "id": "ny-viii_a1b3c35c72a5",
+  "fingerprint": "a1b3c35c72a5c3ed64faad79d1ec62c853391b599968386c59ef56cff5925423",
+  "archived_at": "2026-07-14T22:09:23Z",
+  "metadata": {
+    "title": "NY VIII",
+    "artist": "Max Julian Eastman",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1794,
+    "duration_human": "00:29:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Max Julian Eastman & Cyess Afxzs - NY VIII"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ny-viii_a1b3c35c72a5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/f36d9375644a792194a4/NY_VIII.tar"
+    }
+  }
+}

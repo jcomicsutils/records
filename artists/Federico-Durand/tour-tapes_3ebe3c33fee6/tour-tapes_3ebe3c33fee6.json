@@ -1,0 +1,32 @@
+{
+  "id": "tour-tapes_3ebe3c33fee6",
+  "fingerprint": "3ebe3c33fee641bab94077fa338995351102c63a13f6313a4e994a9df51f2324",
+  "archived_at": "2026-07-14T22:09:22Z",
+  "metadata": {
+    "title": "Tour Tapes",
+    "artist": "Federico Durand",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 6209,
+    "duration_human": "01:43:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "1-01 Federico Durand - Adormidera",
+      "1-02 Federico Durand - Niebla, montaña, pinos",
+      "1-03 Federico Durand - Música para Manuel I",
+      "1-04 Federico Durand - Música para Manuel II",
+      "2-01 Federico Durand - Pléyades",
+      "2-02 Federico Durand - La cesta de mimbre",
+      "2-03 Federico Durand - Pavel",
+      "2-04 Federico Durand - Fiesta de los brotes azules",
+      "2-05 Federico Durand - El hechizado"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tour-tapes_3ebe3c33fee6"
+    }
+  }
+}
