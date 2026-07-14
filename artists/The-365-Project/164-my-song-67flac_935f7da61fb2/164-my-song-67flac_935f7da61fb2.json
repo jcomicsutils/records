@@ -1,0 +1,27 @@
+{
+  "id": "164-my-song-67flac_935f7da61fb2",
+  "fingerprint": "935f7da61fb2f1ce9b898132f44ad33914ffff0d2eaa377cdf6deffea2ddc145",
+  "archived_at": "2026-07-14T21:25:58Z",
+  "metadata": {
+    "title": "164: My Song 67.flac",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 218,
+    "duration_human": "00:03:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - My Song 67.flac"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/164-my-song-67flac_935f7da61fb2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/df4850d440ad08abae9a/164_My_Song_67.flac.tar"
+    }
+  }
+}
