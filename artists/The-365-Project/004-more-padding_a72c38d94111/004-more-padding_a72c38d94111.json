@@ -1,0 +1,28 @@
+{
+  "id": "004-more-padding_a72c38d94111",
+  "fingerprint": "a72c38d94111b4cd2f7710e2f5470bf0b0145336dd2e8b054dc1ad6c877ed5f2",
+  "archived_at": "2026-07-14T15:56:12Z",
+  "metadata": {
+    "title": "004: More Padding",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 876,
+    "duration_human": "00:14:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - [untitled]",
+      "02 The 365 Project - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/004-more-padding_a72c38d94111"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/99f8bba9361117d387f2/004_More_Padding.tar"
+    }
+  }
+}
