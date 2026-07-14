@@ -1,0 +1,32 @@
+{
+  "id": "contrived_a10696f37bf2",
+  "fingerprint": "a10696f37bf26cba037241da0cbe5a703863a8cba94b382bb7f3e1cc5cb1f08c",
+  "archived_at": "2026-07-14T16:15:15Z",
+  "metadata": {
+    "title": "Contrived",
+    "artist": "Kim Myhr",
+    "year": "2019",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 1873,
+    "duration_human": "00:31:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Ricardo Arias / Santiago Botero / Kim Myhr - Discretely Contrived",
+      "02 Ricardo Arias / Santiago Botero / Kim Myhr - Tactfully Contrived",
+      "03 Ricardo Arias / Santiago Botero / Kim Myhr - Charmingly Contrived",
+      "04 Ricardo Arias / Santiago Botero / Kim Myhr - Subtly Contrived",
+      "05 Ricardo Arias / Santiago Botero / Kim Myhr - Delicately Contrived",
+      "06 Ricardo Arias / Santiago Botero / Kim Myhr - Attentively Contrived"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/contrived_a10696f37bf2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/107f8741341dff38789d/Contrived.tar"
+    }
+  }
+}
