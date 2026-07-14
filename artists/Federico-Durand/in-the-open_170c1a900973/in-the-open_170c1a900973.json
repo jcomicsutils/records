@@ -26,6 +26,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/in-the-open_170c1a900973"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/e25414c382ed98189da9/In_the_Open.tar"
     }
   }
 }

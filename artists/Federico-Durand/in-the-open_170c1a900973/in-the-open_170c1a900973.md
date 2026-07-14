@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/in-the-open_170c1a900973)
+- [FileDitch](https://fileditchfiles.st/beta14/e25414c382ed98189da9/In_the_Open.tar)
 
 ## Tracklist
 
