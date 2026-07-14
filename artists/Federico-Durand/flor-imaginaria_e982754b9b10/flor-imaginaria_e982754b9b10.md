@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/flor-imaginaria_e982754b9b10)
+- [FileDitch](https://fileditchfiles.st/beta14/813dc604457ee6233902/Flor_Imaginaria.tar)
 
 ## Tracklist
 

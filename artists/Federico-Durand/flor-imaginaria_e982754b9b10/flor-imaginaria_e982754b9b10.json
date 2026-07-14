@@ -20,6 +20,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/flor-imaginaria_e982754b9b10"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/813dc604457ee6233902/Flor_Imaginaria.tar"
     }
   }
 }
