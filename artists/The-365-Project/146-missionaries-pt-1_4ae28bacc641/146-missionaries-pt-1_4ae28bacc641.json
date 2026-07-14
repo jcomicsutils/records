@@ -1,0 +1,27 @@
+{
+  "id": "146-missionaries-pt-1_4ae28bacc641",
+  "fingerprint": "4ae28bacc641804ae806c4ad6315992c1bc75e3875ed61f510fde747fe2ad41f",
+  "archived_at": "2026-07-14T20:50:49Z",
+  "metadata": {
+    "title": "146: Missionaries, Pt. 1",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1067,
+    "duration_human": "00:17:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Missionaries, Pt. 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/146-missionaries-pt-1_4ae28bacc641"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/7e8ac9274766c47e2cf1/146_Missionaries_Pt._1.tar"
+    }
+  }
+}
