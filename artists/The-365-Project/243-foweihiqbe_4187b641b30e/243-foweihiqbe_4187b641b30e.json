@@ -1,0 +1,27 @@
+{
+  "id": "243-foweihiqbe_4187b641b30e",
+  "fingerprint": "4187b641b30e4a25bfdb6d1a3ee7b0d45c42165ca3783e7bd39ae3bdd5fea33a",
+  "archived_at": "2026-07-14T23:05:50Z",
+  "metadata": {
+    "title": "243: fow;eihiqbe",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 574,
+    "duration_human": "00:09:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - 2025-08-31 23-11-40.flac"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/243-foweihiqbe_4187b641b30e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/7ef94aa3f0c3bf939d8b/243_fow_eihiqbe.tar"
+    }
+  }
+}
