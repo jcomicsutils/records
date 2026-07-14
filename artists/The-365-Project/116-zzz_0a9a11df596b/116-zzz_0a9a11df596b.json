@@ -1,0 +1,27 @@
+{
+  "id": "116-zzz_0a9a11df596b",
+  "fingerprint": "0a9a11df596bade086bdf91e04e0117821155fd0393d32e691dcd38e090c141c",
+  "archived_at": "2026-07-14T18:40:13Z",
+  "metadata": {
+    "title": "116: [zzz]",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 928,
+    "duration_human": "00:15:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - [zzz]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/116-zzz_0a9a11df596b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/6447d7d1d3b5098be920/116_zzz.tar"
+    }
+  }
+}
