@@ -1,0 +1,27 @@
+{
+  "id": "125-its-been-so-long_028ab4e913fe",
+  "fingerprint": "028ab4e913fe0263524f5b35050fc99d6888d196a5d762dd876766606fa1185c",
+  "archived_at": "2026-07-14T19:08:27Z",
+  "metadata": {
+    "title": "125: It's Been So Long",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1023,
+    "duration_human": "00:17:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - It's Been So Long"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/125-its-been-so-long_028ab4e913fe"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/b0b457cf48c74299f477/125_It_s_Been_So_Long.tar"
+    }
+  }
+}
