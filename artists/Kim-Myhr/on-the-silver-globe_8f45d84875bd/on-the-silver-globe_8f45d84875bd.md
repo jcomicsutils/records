@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/on-the-silver-globe_8f45d84875bd)
+- [FileDitch](https://fileditchfiles.st/beta14/ac0f43117587ece352bd/On_the_Silver_Globe.tar)
 
 ## Tracklist
 
