@@ -1,0 +1,27 @@
+{
+  "id": "274-audio-of-mellow-rudely-waking-me-up-as-i-attempt-to-fall-asleep_ebd0ea234239",
+  "fingerprint": "ebd0ea23423952cf3bfef2ee464d705923a5476d8d156a8c19417fda58d5556b",
+  "archived_at": "2026-07-14T23:34:58Z",
+  "metadata": {
+    "title": "274: Audio of Mellow Rudely Waking Me Up as I Attempt to Fall Asleep",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 44,
+    "duration_human": "00:00:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Audio of Mellow Rudely Waking Me Up as I Attempt to Fall Asleep"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/274-audio-of-mellow-rudely-waking-me-up-as-i-attempt-to-fall-asleep_ebd0ea234239"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/cbd90d3d07e419d450f8/274_Audio_of_Mellow_Rudely_Waking_Me_Up_as_I_Attempt_to_Fall_Asl.tar"
+    }
+  }
+}
