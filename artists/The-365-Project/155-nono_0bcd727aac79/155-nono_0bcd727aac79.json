@@ -1,0 +1,27 @@
+{
+  "id": "155-nono_0bcd727aac79",
+  "fingerprint": "0bcd727aac7991d69782209272e5d8d5c8308f44cc59d349925b579a5f39c253",
+  "archived_at": "2026-07-14T21:13:11Z",
+  "metadata": {
+    "title": "155: Nono",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 661,
+    "duration_human": "00:11:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Nono"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/155-nono_0bcd727aac79"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/9ddd010c629cf3aef8dd/155_Nono.tar"
+    }
+  }
+}
