@@ -1,0 +1,31 @@
+{
+  "id": "musica-para-manuel_08d073c090f2",
+  "fingerprint": "08d073c090f2b8201d6052da59dec3117750865b70f823c56d7e3e9c90bfd70e",
+  "archived_at": "2026-07-14T17:31:04Z",
+  "metadata": {
+    "title": "Música Para Manuel",
+    "artist": "Federico Durand",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2389,
+    "duration_human": "00:39:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Federico Durand - I",
+      "02 Federico Durand - II",
+      "03 Federico Durand - III",
+      "04 Federico Durand - IV",
+      "05 Federico Durand - V"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/musica-para-manuel_08d073c090f2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/2919caeb2fc5aa7b264d/M_sica_Para_Manuel.tar"
+    }
+  }
+}
