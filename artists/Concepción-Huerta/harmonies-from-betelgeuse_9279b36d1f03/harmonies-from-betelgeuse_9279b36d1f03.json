@@ -1,0 +1,34 @@
+{
+  "id": "harmonies-from-betelgeuse_9279b36d1f03",
+  "fingerprint": "9279b36d1f03169cdc5c7f6242be339db5129145dd917ea249d0db51b2d8fe68",
+  "archived_at": "2026-07-14T23:05:11Z",
+  "metadata": {
+    "title": "Harmonies from Betelgeuse",
+    "artist": "Concepción Huerta",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2312,
+    "duration_human": "00:38:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Concepción Huerta - Melancholy In Time",
+      "02 Concepción Huerta - Travelers",
+      "03 Concepción Huerta - History Returns",
+      "04 Concepción Huerta - Electricity Unites Us",
+      "05 Concepción Huerta - Harmonies Of Movement",
+      "06 Concepción Huerta - Solastalgia",
+      "07 Concepción Huerta - Letting Go Of Misery",
+      "08 Concepción Huerta - With Each Other"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/harmonies-from-betelgeuse_9279b36d1f03"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/1ae5c7e45c73295e8ada/Harmonies_from_Betelgeuse.tar"
+    }
+  }
+}
