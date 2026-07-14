@@ -1,0 +1,34 @@
+{
+  "id": "069-long-live-pup_7e477fee556b",
+  "fingerprint": "7e477fee556b609a9c8c854d7e3708d2c15255576a6af2f5c201362ab8818950",
+  "archived_at": "2026-07-14T16:52:17Z",
+  "metadata": {
+    "title": "069: Long Live Pup",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 8,
+    "duration_seconds": 2306,
+    "duration_human": "00:38:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Luca Calmera - Ropepuppy",
+      "02 Ves - Iannis Xenakis if he was good",
+      "03 The 365 Project - Furfag Rmx",
+      "04 Rice - Recordit-1740381100 / \"Woof Woof\"",
+      "05 Ves - Rothko Ropepuppy",
+      "06 Ves - Puppy Dances",
+      "07 The 365 Project - order:score",
+      "08 The 365 Project - Sunnyd's Nightmare"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/069-long-live-pup_7e477fee556b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/3a10995ae2d164a74cf8/069_Long_Live_Pup.tar"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "on-the-silver-globe_8f45d84875bd",
+  "fingerprint": "8f45d84875bd33190230975794befd3a79a28bdc7bee6d2c2b19f0891282036f",
+  "archived_at": "2026-07-14T16:52:22Z",
+  "metadata": {
+    "title": "On the Silver Globe",
+    "artist": "Kim Myhr",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1779,
+    "duration_human": "00:29:39",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Kim Myhr, Lasse Marhaug - On the Silver Globe"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/on-the-silver-globe_8f45d84875bd"
+    }
+  }
+}
