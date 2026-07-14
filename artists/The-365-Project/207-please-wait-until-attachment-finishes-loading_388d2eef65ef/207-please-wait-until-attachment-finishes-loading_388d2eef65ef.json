@@ -1,0 +1,27 @@
+{
+  "id": "207-please-wait-until-attachment-finishes-loading_388d2eef65ef",
+  "fingerprint": "388d2eef65ef1ceaf1c675282ead4ed61056ef0daa6aaabab4c6f94bd7c5bd10",
+  "archived_at": "2026-07-14T22:06:51Z",
+  "metadata": {
+    "title": "207: Please wait until attachment finishes loading.",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 324,
+    "duration_human": "00:05:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - My Song 80"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/207-please-wait-until-attachment-finishes-loading_388d2eef65ef"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/743bb729e60944c706f5/207_Please_wait_until_attachment_finishes_loading.tar"
+    }
+  }
+}
