@@ -1,0 +1,43 @@
+{
+  "id": "portraits_f7abaef4e30a",
+  "fingerprint": "f7abaef4e30a25ca25a578497fde0ce5c9376e64d460db37bec37d74a59167b8",
+  "archived_at": "2026-07-14T23:53:16Z",
+  "metadata": {
+    "title": "Portraits",
+    "artist": "Jack O' the Clock",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_seconds": 3259,
+    "duration_human": "00:54:19",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Jack O' the Clock - Josephine's Fresh Cuts",
+      "02 Jack O' the Clock - I'm OK, You're a Shithead",
+      "03 Jack O' the Clock - No. 4 Mountain",
+      "04 Jack O' the Clock - Another Sunny Day/Star of Monster",
+      "05 Jack O' the Clock - Year of the Gypsy Moths",
+      "06 Jack O' the Clock - In the Gold Coin Saloon",
+      "07 Jack O' the Clock - My Life's Not Wasted",
+      "08 Jack O' the Clock - Lazy Tom Bog",
+      "09 Jack O' the Clock - The Gardener",
+      "10 Jack O' the Clock - Nature Abhors a Vacuum",
+      "11 Jack O' the Clock - Puer 1",
+      "12 Jack O' the Clock - Twomile Island",
+      "13 Jack O' the Clock - Isolation Booth",
+      "14 Jack O' the Clock - Stone Cold Steve Cactus In Mojave",
+      "15 Jack O' the Clock - Windigo Knocking",
+      "16 Jack O' the Clock - It's Hard To Find Booze On Sunday",
+      "17 Jack O' the Clock - Puer 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/portraits_f7abaef4e30a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/1090dd6a039b6ed95fb7/Portraits.tar"
+    }
+  }
+}
