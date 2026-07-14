@@ -1,0 +1,27 @@
+{
+  "id": "138-you-are-foolish_bab348c25f58",
+  "fingerprint": "bab348c25f586126ad0e9c8b38445ee729e09859971f0ef7237219ae212f3418",
+  "archived_at": "2026-07-14T20:21:26Z",
+  "metadata": {
+    "title": "138: You Are Foolish",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 154,
+    "duration_human": "00:02:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - You Are Foolish"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/138-you-are-foolish_bab348c25f58"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/6d4e8de3749fa610d81e/138_You_Are_Foolish.tar"
+    }
+  }
+}
