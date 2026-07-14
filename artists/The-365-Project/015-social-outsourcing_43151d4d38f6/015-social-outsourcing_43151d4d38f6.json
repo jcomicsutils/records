@@ -1,0 +1,28 @@
+{
+  "id": "015-social-outsourcing_43151d4d38f6",
+  "fingerprint": "43151d4d38f66a06688a30e909664d8bd857b9e5e039b79a5f739844d28c5467",
+  "archived_at": "2026-07-14T16:10:14Z",
+  "metadata": {
+    "title": "015: Social Outsourcing",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1503,
+    "duration_human": "00:25:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Dead Leaves, Pts. 2-5 - No Vocals",
+      "02 Post Modern - Funny *NOISY* drone with awesome sauce vocal sample"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/015-social-outsourcing_43151d4d38f6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/1e9fb44f1c89c9d405cf/015_Social_Outsourcing.tar"
+    }
+  }
+}
