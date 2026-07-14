@@ -1,0 +1,27 @@
+{
+  "id": "251-slow_19d811f7b54c",
+  "fingerprint": "19d811f7b54c66a412dd707f9ad377b011b37399fb8a13d304b6dbf82590c34d",
+  "archived_at": "2026-07-14T23:17:57Z",
+  "metadata": {
+    "title": "251: Slow",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 381,
+    "duration_human": "00:06:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Slow"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/251-slow_19d811f7b54c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/b58e94cd6e3068546d1e/251_Slow.tar"
+    }
+  }
+}
