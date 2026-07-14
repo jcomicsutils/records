@@ -1,0 +1,27 @@
+{
+  "id": "018-scuba_28d772d157de",
+  "fingerprint": "28d772d157de1e80041448e0bbcc2de777e422278b8ac87cd18c67938c2a095f",
+  "archived_at": "2026-07-14T16:11:56Z",
+  "metadata": {
+    "title": "018: Scuba",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 52,
+    "duration_human": "00:00:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Scuba"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/018-scuba_28d772d157de"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/2249ae3df59681dfffba/018_Scuba.tar"
+    }
+  }
+}
