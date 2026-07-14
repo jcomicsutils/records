@@ -1,0 +1,24 @@
+{
+  "id": "088-d-a-d-f-a-d_8b9a6d53aa5f",
+  "fingerprint": "8b9a6d53aa5f7b7c1af2d3a6c2c16fade90af4cfe86cbcec5b10867ecc155882",
+  "archived_at": "2026-07-14T17:14:16Z",
+  "metadata": {
+    "title": "088: D A D F# A D",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 723,
+    "duration_human": "00:12:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - D A D F# A D"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/088-d-a-d-f-a-d_8b9a6d53aa5f"
+    }
+  }
+}

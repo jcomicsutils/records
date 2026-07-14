@@ -1,0 +1,33 @@
+{
+  "id": "sympathetic-magic_b02f8520444c",
+  "fingerprint": "b02f8520444c1ac61a56adbefad2a9e868c122412a0cafac8951d8557a7a2d36",
+  "archived_at": "2026-07-14T17:13:44Z",
+  "metadata": {
+    "title": "Sympathetic Magic",
+    "artist": "Kim Myhr",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 4362,
+    "duration_human": "01:12:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kim Myhr - And I Thought These Are My People",
+      "02 Kim Myhr - Gifting Senselessly in Endless Lavishness",
+      "03 Kim Myhr - Move the Rolling Sky",
+      "04 Kim Myhr - Iridescent",
+      "05 Kim Myhr - Up to the Sun Shall Go Your Heartache",
+      "06 Kim Myhr - I Wonder if I Shall Fall Right Through the Earth",
+      "07 Kim Myhr - Heart Streams"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sympathetic-magic_b02f8520444c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/a1f1d33572b98bd9ffe9/Sympathetic_Magic.tar"
+    }
+  }
+}
