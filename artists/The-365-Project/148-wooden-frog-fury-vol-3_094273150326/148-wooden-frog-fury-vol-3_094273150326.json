@@ -1,0 +1,27 @@
+{
+  "id": "148-wooden-frog-fury-vol-3_094273150326",
+  "fingerprint": "0942731503266250048289cb159b9446308b18e81b4763e0ec345f0940fad072",
+  "archived_at": "2026-07-14T21:00:15Z",
+  "metadata": {
+    "title": "148: Wooden Frog Fury! Vol. 3",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 124,
+    "duration_human": "00:02:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Wooden Frog Fury! Vol. 3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/148-wooden-frog-fury-vol-3_094273150326"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/5def8f81119e40acb081/148_Wooden_Frog_Fury_Vol._3.tar"
+    }
+  }
+}
