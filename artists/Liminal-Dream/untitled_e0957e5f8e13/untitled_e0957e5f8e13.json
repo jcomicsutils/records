@@ -23,6 +23,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/untitled_e0957e5f8e13"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/37746d729205ee97711c/Untitled.tar"
     }
   }
 }

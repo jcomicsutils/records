@@ -1,0 +1,24 @@
+{
+  "id": "sommarbeite_e280ec16443d",
+  "fingerprint": "e280ec16443dc7601ebe9806eca4a328ab5a8721fc19565e1554afd9f144e701",
+  "archived_at": "2026-07-14T21:50:54Z",
+  "metadata": {
+    "title": "Sommarbeite",
+    "artist": "Benedicte Maurseth",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 332,
+    "duration_human": "00:05:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Benedicte Maurseth - Sommarbeite"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sommarbeite_e280ec16443d"
+    }
+  }
+}
