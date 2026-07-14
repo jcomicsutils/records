@@ -1,0 +1,27 @@
+{
+  "id": "074-sleeping-through-winter_749ba8308beb",
+  "fingerprint": "749ba8308beb3384f310e67e3a0840613ebcd01173ea6078c22f1a7f20212c18",
+  "archived_at": "2026-07-14T16:59:44Z",
+  "metadata": {
+    "title": "074: Sleeping Through Winter",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 862,
+    "duration_human": "00:14:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Sleeping Through Winter"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/074-sleeping-through-winter_749ba8308beb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/6cb012d9b2f67efb5da7/074_Sleeping_Through_Winter.tar"
+    }
+  }
+}
