@@ -31,6 +31,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/hymn-for-hope_fc3a8668e5ab"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/13a4b81982980c616a73/Hymn_for_Hope.tar"
     }
   }
 }

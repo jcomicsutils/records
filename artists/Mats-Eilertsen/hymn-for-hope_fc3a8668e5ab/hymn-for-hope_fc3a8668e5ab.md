@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/hymn-for-hope_fc3a8668e5ab)
+- [FileDitch](https://fileditchfiles.st/beta14/13a4b81982980c616a73/Hymn_for_Hope.tar)
 
 ## Tracklist
 
