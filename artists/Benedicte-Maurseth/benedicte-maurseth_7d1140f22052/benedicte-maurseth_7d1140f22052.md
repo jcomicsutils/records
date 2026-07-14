@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/benedicte-maurseth_7d1140f22052)
+- [FileDitch](https://fileditchfiles.st/beta14/6e80c8cf053976b011ff/Benedicte_Maurseth.tar)
 
 ## Tracklist
 

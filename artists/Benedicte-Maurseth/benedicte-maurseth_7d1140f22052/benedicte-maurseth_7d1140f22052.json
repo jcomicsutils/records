@@ -26,6 +26,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/benedicte-maurseth_7d1140f22052"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/6e80c8cf053976b011ff/Benedicte_Maurseth.tar"
     }
   }
 }
