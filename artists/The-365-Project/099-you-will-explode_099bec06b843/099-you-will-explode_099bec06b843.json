@@ -1,0 +1,27 @@
+{
+  "id": "099-you-will-explode_099bec06b843",
+  "fingerprint": "099bec06b8434a0d9ae653cbff441e0cdab54c2315eda60f3a549c19acea0765",
+  "archived_at": "2026-07-14T17:24:14Z",
+  "metadata": {
+    "title": "099: You Will Explode!",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 530,
+    "duration_human": "00:08:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - You Will Explode!"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/099-you-will-explode_099bec06b843"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/75cc64047d734f3edbdb/099_You_Will_Explode.tar"
+    }
+  }
+}
