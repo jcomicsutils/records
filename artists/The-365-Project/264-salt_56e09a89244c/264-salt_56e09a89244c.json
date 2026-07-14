@@ -1,0 +1,27 @@
+{
+  "id": "264-salt_56e09a89244c",
+  "fingerprint": "56e09a89244c1d65c231c738b3fc94e9f248b1366278b96b1b01813491cf0c6a",
+  "archived_at": "2026-07-14T23:27:26Z",
+  "metadata": {
+    "title": "264: Salt",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 974,
+    "duration_human": "00:16:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Salt"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/264-salt_56e09a89244c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/0ac12d7c0056267fc7ac/264_Salt.tar"
+    }
+  }
+}
