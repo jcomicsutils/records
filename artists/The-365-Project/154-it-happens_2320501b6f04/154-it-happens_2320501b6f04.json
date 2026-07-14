@@ -1,0 +1,27 @@
+{
+  "id": "154-it-happens_2320501b6f04",
+  "fingerprint": "2320501b6f040f41f981e6551a0068f4a5073bfb3c2de61f8811b38512afedef",
+  "archived_at": "2026-07-14T21:11:49Z",
+  "metadata": {
+    "title": "154: It Happens",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 600,
+    "duration_human": "00:10:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - It Happens"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/154-it-happens_2320501b6f04"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/8ecda0205e08fa3c13ee/154_It_Happens.tar"
+    }
+  }
+}
