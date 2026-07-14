@@ -1,0 +1,27 @@
+{
+  "id": "106-western_2d333863d793",
+  "fingerprint": "2d333863d7935d2b53eba317702710e98b659703bacb537827d31a32b38699f5",
+  "archived_at": "2026-07-14T17:30:16Z",
+  "metadata": {
+    "title": "106: Western",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 616,
+    "duration_human": "00:10:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Western"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/106-western_2d333863d793"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/08300f98a435e62623c9/106_Western.tar"
+    }
+  }
+}
