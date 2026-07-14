@@ -1,0 +1,27 @@
+{
+  "id": "276-pt-2_9f16cea93bb4",
+  "fingerprint": "9f16cea93bb4a8814bb10b8de51ba007762a2847b34c2e23fcba050252ab0503",
+  "archived_at": "2026-07-14T23:36:12Z",
+  "metadata": {
+    "title": "276: Pt. 2",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 301,
+    "duration_human": "00:05:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Pt. 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/276-pt-2_9f16cea93bb4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/8b392fed4173bb0c32ce/276_Pt._2.tar"
+    }
+  }
+}
