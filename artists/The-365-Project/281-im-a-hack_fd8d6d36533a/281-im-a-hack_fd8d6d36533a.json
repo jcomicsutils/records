@@ -1,0 +1,27 @@
+{
+  "id": "281-im-a-hack_fd8d6d36533a",
+  "fingerprint": "fd8d6d36533a8ca35193cdb7ddabeb947c6fed493632f136a26b74f85aff1adf",
+  "archived_at": "2026-07-14T23:56:52Z",
+  "metadata": {
+    "title": "281: I'm a Hack",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 5052,
+    "duration_human": "01:24:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - I'm a Hack"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/281-im-a-hack_fd8d6d36533a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/e68e9a1501146a781444/281_I_m_a_Hack.tar"
+    }
+  }
+}

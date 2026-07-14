@@ -1,0 +1,36 @@
+{
+  "id": "hymn-for-hope_fc3a8668e5ab",
+  "fingerprint": "fc3a8668e5abe7631e073d6aab88d90535317a208d20e4697cdae2d4edcd1a24",
+  "archived_at": "2026-07-14T23:56:52Z",
+  "metadata": {
+    "title": "Hymn for Hope",
+    "artist": "Mats Eilertsen",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 4682,
+    "duration_human": "01:18:02",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Mats Eilertsen - Little Thug",
+      "02 Mats Eilertsen - Oscuro",
+      "03 Mats Eilertsen - K",
+      "04 Mats Eilertsen - Sunrise",
+      "05 Mats Eilertsen - Circle",
+      "06 Mats Eilertsen - Hymn for Hope",
+      "07 Mats Eilertsen - M",
+      "08 Mats Eilertsen - Sunday",
+      "09 Mats Eilertsen - August",
+      "10 Mats Eilertsen - Chiaro",
+      "11 Mats Eilertsen - Call",
+      "12 Mats Eilertsen - First",
+      "13 Mats Eilertsen - X"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hymn-for-hope_fc3a8668e5ab"
+    }
+  }
+}
