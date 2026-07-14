@@ -1,0 +1,27 @@
+{
+  "id": "229-apioewfhewpiofqpiowghqoipf_34c8252ad774",
+  "fingerprint": "34c8252ad774d34e46e2b16d4c5fe202e07d412487e4bf50b49e4cb031564f27",
+  "archived_at": "2026-07-14T22:29:52Z",
+  "metadata": {
+    "title": "229: apioewfhewpiofqpiowghqoipf",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1414,
+    "duration_human": "00:23:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - oaigjsogk"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/229-apioewfhewpiofqpiowghqoipf_34c8252ad774"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/a8abea9640e1c2d79972/229_apioewfhewpiofqpiowghqoipf.tar"
+    }
+  }
+}
