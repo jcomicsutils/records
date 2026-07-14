@@ -90,6 +90,7 @@
 - [Mademoiselle Marchand](Mademoiselle-Marchand/Mademoiselle-Marchand.md)
 - [Mailcop](Mailcop/Mailcop.md)
 - [Mapeto](Mapeto/Mapeto.md)
+- [Max Julian Eastman](Max-Julian-Eastman/Max-Julian-Eastman.md)
 - [Merzbow + Xiu Xiu](Merzbow-+-Xiu-Xiu/Merzbow-+-Xiu-Xiu.md)
 - [Midori Hirano](Midori-Hirano/Midori-Hirano.md)
 - [Minimalistic Sweden](Minimalistic-Sweden/Minimalistic-Sweden.md)

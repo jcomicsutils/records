@@ -1,0 +1,30 @@
+{
+  "id": "untitled_692d3c09efbf",
+  "fingerprint": "692d3c09efbf2247f62eee829ce1f324b032e7b71de20e01339432a829da7fff",
+  "archived_at": "2026-07-14T15:51:56Z",
+  "metadata": {
+    "title": "[untitled]",
+    "artist": "Max Julian Eastman",
+    "year": "2025",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1466,
+    "duration_human": "00:24:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 TAC & Max Julian Eastman - bwhdvd",
+      "02 TAC & Max Julian Eastman - bwhstat",
+      "03 TAC & Max Julian Eastman - cuex",
+      "04 TAC & Max Julian Eastman - cuv"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/untitled_692d3c09efbf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/506b492c9060799876e4/untitled.tar"
+    }
+  }
+}
