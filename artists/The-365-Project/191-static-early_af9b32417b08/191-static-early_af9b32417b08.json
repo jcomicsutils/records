@@ -1,0 +1,27 @@
+{
+  "id": "191-static-early_af9b32417b08",
+  "fingerprint": "af9b32417b0865b04feeb5c5ed2e3c12c6d3a4e755de8739164200edc2529ad1",
+  "archived_at": "2026-07-14T21:49:18Z",
+  "metadata": {
+    "title": "191: Static (Early)",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 546,
+    "duration_human": "00:09:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Static (Early)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/191-static-early_af9b32417b08"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/e6db6c119b096d06b82e/191_Static_Early.tar"
+    }
+  }
+}
