@@ -1,0 +1,27 @@
+{
+  "id": "216-my-song-82_ce1736f457f5",
+  "fingerprint": "ce1736f457f5730f782781359d49a612aed778de2a3811c4b7da27382be0fb2b",
+  "archived_at": "2026-07-14T22:17:22Z",
+  "metadata": {
+    "title": "216: My Song 82",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 399,
+    "duration_human": "00:06:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - My Song 82"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/216-my-song-82_ce1736f457f5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/6d7cc2e6c20e3d1c0bad/216_My_Song_82.tar"
+    }
+  }
+}
