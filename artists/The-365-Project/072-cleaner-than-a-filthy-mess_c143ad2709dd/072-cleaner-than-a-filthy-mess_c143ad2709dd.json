@@ -1,0 +1,28 @@
+{
+  "id": "072-cleaner-than-a-filthy-mess_c143ad2709dd",
+  "fingerprint": "c143ad2709dd906591b07190518d0c6ebd9c17a26309f9216ab6b351edb2e65f",
+  "archived_at": "2026-07-14T16:58:30Z",
+  "metadata": {
+    "title": "072: Cleaner Than a Filthy Mess",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1029,
+    "duration_human": "00:17:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Cleaner Than a Filthy Mess",
+      "02 The 365 Project - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/072-cleaner-than-a-filthy-mess_c143ad2709dd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/b06000d632721ebd686e/072_Cleaner_Than_a_Filthy_Mess.tar"
+    }
+  }
+}
