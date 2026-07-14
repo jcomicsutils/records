@@ -1,0 +1,27 @@
+{
+  "id": "047-window_db31b28dbcb2",
+  "fingerprint": "db31b28dbcb2178350017157230b53d2809d0be0d8e8ed0bce6369170185218d",
+  "archived_at": "2026-07-14T16:34:45Z",
+  "metadata": {
+    "title": "047: Window",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 586,
+    "duration_human": "00:09:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Window"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/047-window_db31b28dbcb2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/24a88fdc5560d0d66414/047_Window.tar"
+    }
+  }
+}
