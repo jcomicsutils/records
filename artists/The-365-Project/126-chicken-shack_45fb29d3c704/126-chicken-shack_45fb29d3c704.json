@@ -1,0 +1,27 @@
+{
+  "id": "126-chicken-shack_45fb29d3c704",
+  "fingerprint": "45fb29d3c704a3fa68dec99165fea7570cccc6d416edd77e18deac94cc2587be",
+  "archived_at": "2026-07-14T19:12:32Z",
+  "metadata": {
+    "title": "126: Chicken Shack",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 589,
+    "duration_human": "00:09:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Chicken Shack"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/126-chicken-shack_45fb29d3c704"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/3d624c763faca8f1221b/126_Chicken_Shack.tar"
+    }
+  }
+}
