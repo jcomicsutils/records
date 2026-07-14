@@ -1,0 +1,29 @@
+{
+  "id": "001-time-is-a-construct-so-lets-start-moving_5e5de5c10dbe",
+  "fingerprint": "5e5de5c10dbe084fa146c1cc2966f1381878d235ad3644e17644acfbcc7d93c4",
+  "archived_at": "2026-07-14T15:52:48Z",
+  "metadata": {
+    "title": "001: Time is a Construct, So Let's Start Moving",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 683,
+    "duration_human": "00:11:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Flexi",
+      "02 The 365 Project - Dead Leaves: Demo 1 (01/01/2025, 1:00 PM - 2:04 PM)",
+      "03 The 365 Project - Time is a Construct, So Let's Start Moving"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/001-time-is-a-construct-so-lets-start-moving_5e5de5c10dbe"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/13e0b16f0faca121f5d0/001_Time_is_a_Construct_So_Let_s_Start_Moving.tar"
+    }
+  }
+}

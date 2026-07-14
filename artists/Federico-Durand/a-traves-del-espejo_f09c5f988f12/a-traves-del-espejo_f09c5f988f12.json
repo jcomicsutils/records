@@ -1,0 +1,33 @@
+{
+  "id": "a-traves-del-espejo_f09c5f988f12",
+  "fingerprint": "f09c5f988f12e662d96d7132936ddf360ee5dc0d389bae818b008904a4da03df",
+  "archived_at": "2026-07-14T15:52:36Z",
+  "metadata": {
+    "title": "A Través Del Espejo",
+    "artist": "Federico Durand",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2553,
+    "duration_human": "00:42:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Federico Durand - Mirador en la montaña (Viewpoint in the mountain)",
+      "02 Federico Durand - Teatro de sombras (Shadow play)",
+      "03 Federico Durand - El jardín encantado (The enchanted garden)",
+      "04 Federico Durand - Linternas junto a la laguna (Lanterns beside the lake)",
+      "05 Federico Durand - Diorama (Diorama)",
+      "06 Federico Durand - El grillo de nácar (The cricket of nacre)",
+      "07 Federico Durand - Canción de la Vía Láctea (Milky Way song)",
+      "08 Federico Durand - Hora de dormir (Time to sleep)",
+      "09 Federico Durand - Recuerdos en Super 8 (Memories on Super 8)",
+      "10 Federico Durand - A través del espejo (Through the mirror)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-traves-del-espejo_f09c5f988f12"
+    }
+  }
+}
