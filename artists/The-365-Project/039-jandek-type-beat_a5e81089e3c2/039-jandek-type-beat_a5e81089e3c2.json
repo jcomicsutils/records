@@ -1,0 +1,27 @@
+{
+  "id": "039-jandek-type-beat_a5e81089e3c2",
+  "fingerprint": "a5e81089e3c2d4ffceceb344abc4e0d0aa4c2595f6a60a356cc22ee74079f3b6",
+  "archived_at": "2026-07-14T16:29:34Z",
+  "metadata": {
+    "title": "039: Jandek Type Beat",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1058,
+    "duration_human": "00:17:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Jandek Type Beat"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/039-jandek-type-beat_a5e81089e3c2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/b1975eb89ea975fcc627/039_Jandek_Type_Beat.tar"
+    }
+  }
+}
