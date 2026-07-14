@@ -1,0 +1,31 @@
+{
+  "id": "i_6e381b39e92b",
+  "fingerprint": "6e381b39e92bbe657094ce5544ba343b81cb76ff1aac218d4b89e4241755909e",
+  "archived_at": "2026-07-14T23:00:38Z",
+  "metadata": {
+    "title": "I.",
+    "artist": "Širom",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2907,
+    "duration_human": "00:48:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Širom - Samotni mora dehteti",
+      "02 Širom - Svetlobni prelaz čez vrnitev",
+      "03 Širom - Trilogija",
+      "04 Širom - Mehki koraki rjovenja",
+      "05 Širom - Vsak dan je jutri nov dan"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i_6e381b39e92b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/b4b583f7249557802dd9/I.tar"
+    }
+  }
+}
