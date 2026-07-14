@@ -1,0 +1,27 @@
+{
+  "id": "173-kevin_a3d868b6db2a",
+  "fingerprint": "a3d868b6db2acfdc5051cf0a5d32235d98abbb87f91504700e4091439249b1f1",
+  "archived_at": "2026-07-14T21:32:54Z",
+  "metadata": {
+    "title": "173: Kevin",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 838,
+    "duration_human": "00:13:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Kevin"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/173-kevin_a3d868b6db2a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/196219203c97632820f8/173_Kevin.tar"
+    }
+  }
+}
