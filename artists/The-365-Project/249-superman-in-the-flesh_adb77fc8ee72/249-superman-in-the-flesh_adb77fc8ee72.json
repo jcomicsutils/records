@@ -1,0 +1,27 @@
+{
+  "id": "249-superman-in-the-flesh_adb77fc8ee72",
+  "fingerprint": "adb77fc8ee72504d9838517ec48d83a117f5b9417f496919cc4d9287ae34e016",
+  "archived_at": "2026-07-14T23:10:00Z",
+  "metadata": {
+    "title": "249: Superman in the Flesh",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 260,
+    "duration_human": "00:04:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Superman in the Flesh"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/249-superman-in-the-flesh_adb77fc8ee72"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/a831a7e3675a97e999c3/249_Superman_in_the_Flesh.tar"
+    }
+  }
+}
