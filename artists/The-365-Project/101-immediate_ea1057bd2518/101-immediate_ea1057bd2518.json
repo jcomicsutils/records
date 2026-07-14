@@ -1,0 +1,27 @@
+{
+  "id": "101-immediate_ea1057bd2518",
+  "fingerprint": "ea1057bd25183daaa2983657508864d7f53601578eba536badcd83f9bf64f7fa",
+  "archived_at": "2026-07-14T17:25:55Z",
+  "metadata": {
+    "title": "101: Immediate",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 756,
+    "duration_human": "00:12:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Immediate"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/101-immediate_ea1057bd2518"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/8aa02b142dc9315d3b2f/101_Immediate.tar"
+    }
+  }
+}
