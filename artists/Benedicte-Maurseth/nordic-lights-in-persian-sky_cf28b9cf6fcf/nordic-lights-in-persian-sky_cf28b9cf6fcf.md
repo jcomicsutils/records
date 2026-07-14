@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/nordic-lights-in-persian-sky_cf28b9cf6fcf)
+- [FileDitch](https://fileditchfiles.st/beta14/e35f249a0d2bf28f5205/Nordic_Lights_in_Persian_Sky.tar)
 
 ## Tracklist
 
