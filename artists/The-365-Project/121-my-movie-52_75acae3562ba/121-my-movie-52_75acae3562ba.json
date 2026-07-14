@@ -1,0 +1,27 @@
+{
+  "id": "121-my-movie-52_75acae3562ba",
+  "fingerprint": "75acae3562ba17d3cfed6a590e9d58dc16ceafe0e802c5331fe94a0097a0202e",
+  "archived_at": "2026-07-14T18:51:41Z",
+  "metadata": {
+    "title": "121: My Movie 52",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 611,
+    "duration_human": "00:10:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - My Movie 52"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/121-my-movie-52_75acae3562ba"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/312261d5a0d9a95dad6a/121_My_Movie_52.tar"
+    }
+  }
+}
