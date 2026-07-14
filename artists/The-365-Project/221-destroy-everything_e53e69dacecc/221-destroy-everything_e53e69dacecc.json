@@ -1,0 +1,27 @@
+{
+  "id": "221-destroy-everything_e53e69dacecc",
+  "fingerprint": "e53e69dacecc21159bbb892fcdb7cf56639c036b02a14cbaa75f3dac2e7cb45c",
+  "archived_at": "2026-07-14T22:25:00Z",
+  "metadata": {
+    "title": "221: Destroy Everything",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 292,
+    "duration_human": "00:04:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Destroy Everything"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/221-destroy-everything_e53e69dacecc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/d93179c7cbb1fedd8ec2/221_Destroy_Everything.tar"
+    }
+  }
+}
