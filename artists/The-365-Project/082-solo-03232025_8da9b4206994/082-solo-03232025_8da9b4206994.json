@@ -1,0 +1,27 @@
+{
+  "id": "082-solo-03232025_8da9b4206994",
+  "fingerprint": "8da9b42069945ecba4452f02a259a2ecf7cb22dd0be86bf6ef0d379043ae9fe5",
+  "archived_at": "2026-07-14T17:06:48Z",
+  "metadata": {
+    "title": "082: Solo 03/23/2025",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1451,
+    "duration_human": "00:24:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Solo 03/23/2025"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/082-solo-03232025_8da9b4206994"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/8ca9d2465b18944d6269/082_Solo_03_-_23_-_2025.tar"
+    }
+  }
+}
