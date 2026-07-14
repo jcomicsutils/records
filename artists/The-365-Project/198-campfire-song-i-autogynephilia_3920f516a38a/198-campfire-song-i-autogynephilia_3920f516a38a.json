@@ -1,0 +1,27 @@
+{
+  "id": "198-campfire-song-i-autogynephilia_3920f516a38a",
+  "fingerprint": "3920f516a38ab6805c2e4adfbeca25bea4259b1b0bd91eb27e2ee9aeabcf744b",
+  "archived_at": "2026-07-14T21:54:57Z",
+  "metadata": {
+    "title": "198: Campfire Song I / Autogynephilia",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 612,
+    "duration_human": "00:10:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Campfire Song I / Autogynephilia"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/198-campfire-song-i-autogynephilia_3920f516a38a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/2e19f0a499bb9b2d3420/198_Campfire_Song_I_-_Autogynephilia.tar"
+    }
+  }
+}

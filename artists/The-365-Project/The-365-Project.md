@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [198: Campfire Song I / Autogynephilia](198-campfire-song-i-autogynephilia_3920f516a38a/198-campfire-song-i-autogynephilia_3920f516a38a.md) | 2026 | MP3 | 00:10:12 | [IA](https://archive.org/details/198-campfire-song-i-autogynephilia_3920f516a38a) [FileDitch](https://fileditchfiles.st/beta14/2e19f0a499bb9b2d3420/198_Campfire_Song_I_-_Autogynephilia.tar) |
 | [043: Cars passing, people shoveling snow](043-cars-passing-people-shoveling-snow_909bd4706366/043-cars-passing-people-shoveling-snow_909bd4706366.md) | 2026 | MP3 | 00:05:35 | [IA](https://archive.org/details/043-cars-passing-people-shoveling-snow_909bd4706366) [FileDitch](https://fileditchfiles.st/beta14/1bf2ead31882648bf906/043_Cars_passing_people_shoveling_snow.tar) |
 | [129: Shithead Jam 2](129-shithead-jam-2_28317732daaa/129-shithead-jam-2_28317732daaa.md) | 2026 | MP3 | 00:07:28 | [IA](https://archive.org/details/129-shithead-jam-2_28317732daaa) [FileDitch](https://fileditchfiles.st/beta14/30eaa428b998b8aa9914/129_Shithead_Jam_2.tar) |
 | [037: My My, Hey Hey \(Out of the Blue\)](037-my-my-hey-hey-out-of-the-blue_24383945d58b/037-my-my-hey-hey-out-of-the-blue_24383945d58b.md) | 2026 | MP3 | 00:06:09 | [IA](https://archive.org/details/037-my-my-hey-hey-out-of-the-blue_24383945d58b) [FileDitch](https://fileditchfiles.st/beta14/654d870717bd514f257d/037_My_My_Hey_Hey_Out_of_the_Blue.tar) |
