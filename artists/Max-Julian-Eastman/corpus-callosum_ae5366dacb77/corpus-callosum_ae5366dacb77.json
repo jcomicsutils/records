@@ -1,0 +1,27 @@
+{
+  "id": "corpus-callosum_ae5366dacb77",
+  "fingerprint": "ae5366dacb77a6e3c5b7025d2288aa9867e955d36dc8431fb8044f22340c2210",
+  "archived_at": "2026-07-14T16:26:47Z",
+  "metadata": {
+    "title": "Corpus Callosum",
+    "artist": "Max Julian Eastman",
+    "year": "2021",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1584,
+    "duration_human": "00:26:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Gen Ken Montgomery & Max Julian Eastman - 8-Track Magic / Rural Electronics / Extreme Analogue / Robert's Cock"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/corpus-callosum_ae5366dacb77"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/a7b626b672b38daa21d3/Corpus_Callosum.tar"
+    }
+  }
+}
