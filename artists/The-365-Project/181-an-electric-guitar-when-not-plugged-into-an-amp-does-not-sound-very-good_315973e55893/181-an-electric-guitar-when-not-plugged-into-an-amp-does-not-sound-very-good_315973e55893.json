@@ -1,0 +1,27 @@
+{
+  "id": "181-an-electric-guitar-when-not-plugged-into-an-amp-does-not-sound-very-good_315973e55893",
+  "fingerprint": "315973e55893ac192c43f54c0f35b3003543bcde416e4b8669467a3c8917cd31",
+  "archived_at": "2026-07-14T21:40:55Z",
+  "metadata": {
+    "title": "181: An Electric Guitar, When Not Plugged Into an Amp, Does Not Sound Very Good",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 557,
+    "duration_human": "00:09:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - aughhg"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/181-an-electric-guitar-when-not-plugged-into-an-amp-does-not-sound-very-good_315973e55893"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/98a7797927d0c9b38ba5/181_An_Electric_Guitar_When_Not_Plugged_Into_an_Amp_Does_Not_S.tar"
+    }
+  }
+}
