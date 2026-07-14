@@ -1,0 +1,31 @@
+{
+  "id": "fire-on-fire_9a1233341f07",
+  "fingerprint": "9a1233341f0787dcd774126e67682f569becb2b572474afeaf9b989bfe233e8e",
+  "archived_at": "2026-07-14T22:20:46Z",
+  "metadata": {
+    "title": "Fire on Fire",
+    "artist": "Fire on Fire",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1880,
+    "duration_human": "00:31:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Fire on Fire - Hangman",
+      "02 Fire on Fire - Liberty Unknown",
+      "03 Fire on Fire - My Lady Coffin",
+      "04 Fire on Fire - Amnesia",
+      "05 Fire on Fire - Three or More"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fire-on-fire_9a1233341f07"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/0fda22ae178c55045adb/Fire_on_Fire.tar"
+    }
+  }
+}
