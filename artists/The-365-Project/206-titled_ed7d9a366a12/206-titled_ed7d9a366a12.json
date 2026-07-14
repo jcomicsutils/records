@@ -1,0 +1,27 @@
+{
+  "id": "206-titled_ed7d9a366a12",
+  "fingerprint": "ed7d9a366a12277497595b433500e1e69d986792738b7616507095d21865a66b",
+  "archived_at": "2026-07-14T22:06:15Z",
+  "metadata": {
+    "title": "206: Titled",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 624,
+    "duration_human": "00:10:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Type Shit"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/206-titled_ed7d9a366a12"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/d2b8005044b99cfd0178/206_Titled.tar"
+    }
+  }
+}
