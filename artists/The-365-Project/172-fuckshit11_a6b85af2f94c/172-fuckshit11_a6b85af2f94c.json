@@ -1,0 +1,27 @@
+{
+  "id": "172-fuckshit11_a6b85af2f94c",
+  "fingerprint": "a6b85af2f94ca12ae28609c9e48ec90873785beb7823a85280da499264494bf8",
+  "archived_at": "2026-07-14T21:31:52Z",
+  "metadata": {
+    "title": "172: fuckshit11",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 320,
+    "duration_human": "00:05:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - fuckshit11"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/172-fuckshit11_a6b85af2f94c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/54debd0f64aca8b14260/172_fuckshit11.tar"
+    }
+  }
+}
