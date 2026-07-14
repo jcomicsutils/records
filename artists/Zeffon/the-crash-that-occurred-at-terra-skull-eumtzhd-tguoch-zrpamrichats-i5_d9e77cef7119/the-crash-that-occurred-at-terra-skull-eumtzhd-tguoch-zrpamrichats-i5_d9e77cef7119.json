@@ -1,0 +1,34 @@
+{
+  "id": "the-crash-that-occurred-at-terra-skull-eumtzhd-tguoch-zrpamrichats-i5_d9e77cef7119",
+  "fingerprint": "d9e77cef7119ee529a5461fdf356f09a833a6db967b2af85292b9fadc810ca33",
+  "archived_at": "2026-07-14T14:43:37Z",
+  "metadata": {
+    "title": "The Crash That Occurred at Terra Skull (Ёумтжд - Тгуоч Зрпамричац I.5)",
+    "artist": "Zeffon",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 3452,
+    "duration_human": "00:57:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Would-Be Phantom",
+      "02 Zeffon - Shore in the Middle of the Ocean",
+      "03 Zeffon - Magick",
+      "04 Zeffon - Blizzard",
+      "05 Zeffon - Demon Agaa (Breaking the Barriers)",
+      "06 Zeffon - Dawha Gazing Onwards",
+      "07 Zeffon - Spineaccóard",
+      "08 Zeffon - Baba (A.)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-crash-that-occurred-at-terra-skull-eumtzhd-tguoch-zrpamrichats-i5_d9e77cef7119"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/9e5223d05d4627d468bf/The_Crash_That_Occurred_at_Terra_Skull.tar"
+    }
+  }
+}
