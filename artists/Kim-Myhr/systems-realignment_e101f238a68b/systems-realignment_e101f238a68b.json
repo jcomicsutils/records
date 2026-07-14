@@ -1,0 +1,36 @@
+{
+  "id": "systems-realignment_e101f238a68b",
+  "fingerprint": "e101f238a68b1a603f769b8420f6b465cf3241e5fc340b7ae29db24df0c9cd3a",
+  "archived_at": "2026-07-14T17:17:11Z",
+  "metadata": {
+    "title": "Systems Realignment",
+    "artist": "Kim Myhr",
+    "year": "2009",
+    "codec": "MP3",
+    "num_tracks": 10,
+    "duration_seconds": 2528,
+    "duration_human": "00:42:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Kim Myhr - Hurried Plainsong",
+      "02 Kim Myhr - Original Sing",
+      "03 Kim Myhr - Interlaced Codes Etching",
+      "04 Kim Myhr - Engraved and Suspended",
+      "05 Kim Myhr - Sonic Rockart",
+      "06 Kim Myhr - Anima Metal Breath",
+      "07 Kim Myhr - Systems Realignment",
+      "08 Kim Myhr - Sabretooth Flickerfest",
+      "09 Kim Myhr - The Singing Neanderthal",
+      "10 Kim Myhr - Deconsingsong"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/systems-realignment_e101f238a68b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/3dabcee3cbd4fb771455/Systems_Realignment.tar"
+    }
+  }
+}
