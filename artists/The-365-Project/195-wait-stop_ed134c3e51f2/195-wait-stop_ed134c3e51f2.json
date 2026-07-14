@@ -1,0 +1,27 @@
+{
+  "id": "195-wait-stop_ed134c3e51f2",
+  "fingerprint": "ed134c3e51f2c2580496757a2ac048901a2db93aff4d149c6ef110d99dfe307d",
+  "archived_at": "2026-07-14T21:52:03Z",
+  "metadata": {
+    "title": "195: Wait, Stop",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 338,
+    "duration_human": "00:05:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Wait, Stop"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/195-wait-stop_ed134c3e51f2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/5d3befa5dd6cf5462bd0/195_Wait_Stop.tar"
+    }
+  }
+}
