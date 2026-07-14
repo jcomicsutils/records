@@ -1,0 +1,27 @@
+{
+  "id": "083-dead-leaves-pt-3-take-2_bb238484422d",
+  "fingerprint": "bb238484422db65d9b28aeec33d0ab84cf60666db49d253f0c84c6db50403a1f",
+  "archived_at": "2026-07-14T17:07:27Z",
+  "metadata": {
+    "title": "083: Dead Leaves, Pt. 3 Take 2",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 160,
+    "duration_human": "00:02:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Dead Leaves, Pt. 3 Take 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/083-dead-leaves-pt-3-take-2_bb238484422d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/f33ed0a9ec611f0ea270/083_Dead_Leaves_Pt._3_Take_2.tar"
+    }
+  }
+}
