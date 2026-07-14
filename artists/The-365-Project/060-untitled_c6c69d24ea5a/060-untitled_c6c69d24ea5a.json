@@ -1,0 +1,27 @@
+{
+  "id": "060-untitled_c6c69d24ea5a",
+  "fingerprint": "c6c69d24ea5a2248aeb51638ca46049e84d4f3e12e155c2091309a4a0e4f6a2e",
+  "archived_at": "2026-07-14T16:43:47Z",
+  "metadata": {
+    "title": "060: [untitled]",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 716,
+    "duration_human": "00:11:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/060-untitled_c6c69d24ea5a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/b3919364b9abd48496ba/060_untitled.tar"
+    }
+  }
+}
