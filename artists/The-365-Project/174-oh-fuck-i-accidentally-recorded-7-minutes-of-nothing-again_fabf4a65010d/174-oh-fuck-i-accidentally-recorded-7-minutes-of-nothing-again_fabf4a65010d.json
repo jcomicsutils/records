@@ -1,0 +1,27 @@
+{
+  "id": "174-oh-fuck-i-accidentally-recorded-7-minutes-of-nothing-again_fabf4a65010d",
+  "fingerprint": "fabf4a65010d175268d942c9a4956e3aec98427890dbb6f9b1222ffc7ac2e412",
+  "archived_at": "2026-07-14T21:34:17Z",
+  "metadata": {
+    "title": "174: Oh Fuck I Accidentally Recorded 7 Minutes of Nothing Again",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 500,
+    "duration_human": "00:08:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Oh Fuck I Accidentally Recorded 7 Minutes of Nothing Again"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/174-oh-fuck-i-accidentally-recorded-7-minutes-of-nothing-again_fabf4a65010d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/857264fa598a6f36b86b/174_Oh_Fuck_I_Accidentally_Recorded_7_Minutes_of_Nothing_Again.tar"
+    }
+  }
+}
