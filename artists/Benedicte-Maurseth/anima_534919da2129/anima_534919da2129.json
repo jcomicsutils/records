@@ -1,0 +1,37 @@
+{
+  "id": "anima_534919da2129",
+  "fingerprint": "534919da212968cb763001134757b4b2d77a22a1742382dba79700731afa4176",
+  "archived_at": "2026-07-14T16:24:24Z",
+  "metadata": {
+    "title": "Anima",
+    "artist": "Benedicte Maurseth",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 3281,
+    "duration_human": "00:54:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Benedicte Maurseth, Knut Hamre, Philippe Pierlot, Nils Økland, Elisabeth Seitz - Førnesbrunen",
+      "02 Benedicte Maurseth, Knut Hamre, Philippe Pierlot, Nils Økland, Elisabeth Seitz - 5736",
+      "03 Benedicte Maurseth, Knut Hamre, Philippe Pierlot, Nils Økland, Elisabeth Seitz - A Pavin",
+      "04 Benedicte Maurseth, Knut Hamre, Philippe Pierlot, Nils Økland, Elisabeth Seitz - Nordafjells",
+      "05 Benedicte Maurseth, Knut Hamre, Philippe Pierlot, Nils Økland, Elisabeth Seitz - Engelsk sett",
+      "06 Benedicte Maurseth, Knut Hamre, Philippe Pierlot, Nils Økland, Elisabeth Seitz - Springar",
+      "07 Benedicte Maurseth, Knut Hamre, Philippe Pierlot, Nils Økland, Elisabeth Seitz - Touch me lightly",
+      "08 Benedicte Maurseth, Knut Hamre, Philippe Pierlot, Nils Økland, Elisabeth Seitz - Biberslått",
+      "09 Benedicte Maurseth, Knut Hamre, Philippe Pierlot, Nils Økland, Elisabeth Seitz - Rameslått I",
+      "10 Benedicte Maurseth, Knut Hamre, Philippe Pierlot, Nils Økland, Elisabeth Seitz - Otteslåtten",
+      "11 Benedicte Maurseth, Knut Hamre, Philippe Pierlot, Nils Økland, Elisabeth Seitz - Bibervals",
+      "12 Benedicte Maurseth, Knut Hamre, Philippe Pierlot, Nils Økland, Elisabeth Seitz - Grøn fjord",
+      "13 Benedicte Maurseth, Knut Hamre, Philippe Pierlot, Nils Økland, Elisabeth Seitz - Improvisasjon",
+      "14 Benedicte Maurseth, Knut Hamre, Philippe Pierlot, Nils Økland, Elisabeth Seitz - Rundtanz"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/anima_534919da2129"
+    }
+  }
+}
