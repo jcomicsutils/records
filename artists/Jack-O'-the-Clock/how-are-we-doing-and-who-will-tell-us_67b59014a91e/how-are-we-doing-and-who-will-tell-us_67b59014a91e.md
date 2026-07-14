@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/how-are-we-doing-and-who-will-tell-us_67b59014a91e)
+- [FileDitch](https://fileditchfiles.st/beta14/e34800ef14e33d790957/How_Are_We_Doing_And_Who_Will_Tell_Us.tar)
 
 ## Tracklist
 
