@@ -1,0 +1,27 @@
+{
+  "id": "048-rat_b686471f7931",
+  "fingerprint": "b686471f7931f7a582d874aca49e1c38b98b1da55c341595f46528e43c42c4ac",
+  "archived_at": "2026-07-14T16:35:21Z",
+  "metadata": {
+    "title": "048: Rat",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 717,
+    "duration_human": "00:11:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Amp Fuckery, Vol. 2 / Rat"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/048-rat_b686471f7931"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/e1000f58489ffff16383/048_Rat.tar"
+    }
+  }
+}
