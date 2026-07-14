@@ -1,0 +1,28 @@
+{
+  "id": "110-social-outsourcing-v_b8c6742d7a92",
+  "fingerprint": "b8c6742d7a92aa66ce08f5291814754079773a3909cc8678b9450bfba0f8e988",
+  "archived_at": "2026-07-14T18:08:00Z",
+  "metadata": {
+    "title": "110: Social Outsourcing V",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 4689,
+    "duration_human": "01:18:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - I Love Shenis",
+      "02 Rice - I Love Gock, Pt. 1 / I Love Gock, Pt. 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/110-social-outsourcing-v_b8c6742d7a92"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/0e5fc9bb30b465be2768/110_Social_Outsourcing_V.tar"
+    }
+  }
+}
