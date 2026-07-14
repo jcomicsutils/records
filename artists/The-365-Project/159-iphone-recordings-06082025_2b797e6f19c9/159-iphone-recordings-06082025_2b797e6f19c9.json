@@ -1,0 +1,30 @@
+{
+  "id": "159-iphone-recordings-06082025_2b797e6f19c9",
+  "fingerprint": "2b797e6f19c9032456006b54b51cd6535ba3d49d996ec933524120417cba0dd4",
+  "archived_at": "2026-07-14T21:21:17Z",
+  "metadata": {
+    "title": "159: iPhone Recordings 06/08/2025",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 123,
+    "duration_human": "00:02:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Korg Little Bits #1",
+      "02 The 365 Project - Korg Little Bits #2",
+      "03 The 365 Project - Korg Little Bits #3",
+      "04 The 365 Project - Untitled Demo: \"I Just Killed a Hillbilly and Stole His Banjo\""
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/159-iphone-recordings-06082025_2b797e6f19c9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/dc9a0c8746f4cdb3f2c4/159_iPhone_Recordings_06_-_08_-_2025.tar"
+    }
+  }
+}
