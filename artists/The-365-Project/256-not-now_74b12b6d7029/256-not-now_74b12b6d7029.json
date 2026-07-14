@@ -1,0 +1,27 @@
+{
+  "id": "256-not-now_74b12b6d7029",
+  "fingerprint": "74b12b6d7029df4956aac92c14d66eb4f9342bbf4c0126b9732898e11290fd6d",
+  "archived_at": "2026-07-14T23:21:23Z",
+  "metadata": {
+    "title": "256: Not Now",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 170,
+    "duration_human": "00:02:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Not Now"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/256-not-now_74b12b6d7029"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/6fe855c9ec0a0e7aafaa/256_Not_Now.tar"
+    }
+  }
+}
