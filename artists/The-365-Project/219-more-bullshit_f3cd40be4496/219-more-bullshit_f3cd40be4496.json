@@ -1,0 +1,29 @@
+{
+  "id": "219-more-bullshit_f3cd40be4496",
+  "fingerprint": "f3cd40be4496b22a5b7cd22df5d0a07addc7b45b35010ff581844f7aff5485bc",
+  "archived_at": "2026-07-14T22:23:33Z",
+  "metadata": {
+    "title": "219: More Bullshit",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 780,
+    "duration_human": "00:13:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - [untitled]",
+      "02 The 365 Project - Shit Jam Now Featuring a Melodica",
+      "03 The 365 Project - The Long Crawl Outro"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/219-more-bullshit_f3cd40be4496"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/643b45f29dc96f17f037/219_More_Bullshit.tar"
+    }
+  }
+}
