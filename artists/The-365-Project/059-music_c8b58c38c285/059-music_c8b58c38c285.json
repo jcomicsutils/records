@@ -1,0 +1,29 @@
+{
+  "id": "059-music_c8b58c38c285",
+  "fingerprint": "c8b58c38c285fa2a1428d1352edc56359f2a4f494f08e82abdba5baba9668e41",
+  "archived_at": "2026-07-14T16:43:08Z",
+  "metadata": {
+    "title": "059: Music",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 585,
+    "duration_human": "00:09:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Guitar Pick Hell",
+      "02 Ves - Unfinished bm song",
+      "03 Paul \"Jessica\" Stretch - New_Project(1)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/059-music_c8b58c38c285"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/49b91dc3b783af5fa1b1/059_Music.tar"
+    }
+  }
+}
