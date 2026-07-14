@@ -1,0 +1,27 @@
+{
+  "id": "057-gayass-jam_89fa1d00e743",
+  "fingerprint": "89fa1d00e743a1e13b1f38ac786242430f7499325d337939055fd35b4e4d61e8",
+  "archived_at": "2026-07-14T16:41:18Z",
+  "metadata": {
+    "title": "057: Gayass Jam",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 600,
+    "duration_human": "00:10:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Gayass Jam"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/057-gayass-jam_89fa1d00e743"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/4b3a39df65f49781244d/057_Gayass_Jam.tar"
+    }
+  }
+}
