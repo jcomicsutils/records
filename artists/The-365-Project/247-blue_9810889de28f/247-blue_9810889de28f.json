@@ -1,0 +1,27 @@
+{
+  "id": "247-blue_9810889de28f",
+  "fingerprint": "9810889de28f6b15ea92a3984c00f7b33ba2ecaadd0ae34e0b140cb56d845509",
+  "archived_at": "2026-07-14T23:08:29Z",
+  "metadata": {
+    "title": "247: Blue",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 890,
+    "duration_human": "00:14:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Blue"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/247-blue_9810889de28f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/6529927ac1f9c3235fc6/247_Blue.tar"
+    }
+  }
+}
