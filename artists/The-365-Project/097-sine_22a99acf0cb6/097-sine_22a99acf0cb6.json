@@ -1,0 +1,27 @@
+{
+  "id": "097-sine_22a99acf0cb6",
+  "fingerprint": "22a99acf0cb6a27c86ac451773b2114bccff1ca053cab7ad3010074ec2bfc34e",
+  "archived_at": "2026-07-14T17:22:57Z",
+  "metadata": {
+    "title": "097: Sine",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 124,
+    "duration_human": "00:02:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Sine"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/097-sine_22a99acf0cb6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/509d21f66aadf366cccc/097_Sine.tar"
+    }
+  }
+}
