@@ -1,0 +1,27 @@
+{
+  "id": "096-solo-06122024_47cbd0b9bd91",
+  "fingerprint": "47cbd0b9bd9189bee17909a8447caefbad9325c6c29c9ec202afc5664026178b",
+  "archived_at": "2026-07-14T17:22:21Z",
+  "metadata": {
+    "title": "096: Solo 06/12/2024",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1003,
+    "duration_human": "00:16:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Solo 06/12/2024"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/096-solo-06122024_47cbd0b9bd91"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/1691fe89dd3737552478/096_Solo_06_-_12_-_2024.tar"
+    }
+  }
+}
