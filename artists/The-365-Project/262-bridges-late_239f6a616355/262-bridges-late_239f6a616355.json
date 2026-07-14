@@ -1,0 +1,27 @@
+{
+  "id": "262-bridges-late_239f6a616355",
+  "fingerprint": "239f6a616355dc055df1ceafb23f98f85d861734a36cc2251ea89c4610bc51d4",
+  "archived_at": "2026-07-14T23:26:06Z",
+  "metadata": {
+    "title": "262: Bridges (Late)",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 564,
+    "duration_human": "00:09:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Bridges (Late)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/262-bridges-late_239f6a616355"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/3471b73aa006963e48f8/262_Bridges_Late.tar"
+    }
+  }
+}
