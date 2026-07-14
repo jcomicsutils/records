@@ -1,0 +1,30 @@
+{
+  "id": "magical-imaginary-child_43b06a2d0daf",
+  "fingerprint": "43b06a2d0dafd0ac201e99e882011e1abe0aa489b59a2afb6dde4b64ffcd95df",
+  "archived_at": "2026-07-14T17:28:27Z",
+  "metadata": {
+    "title": "Magical Imaginary Child",
+    "artist": "Federico Durand",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3030,
+    "duration_human": "00:50:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Chihei Hatakeyama + Federico Durand - Maria",
+      "02 Chihei Hatakeyama + Federico Durand - Nami",
+      "03 Chihei Hatakeyama + Federico Durand - Cordelia",
+      "04 Chihei Hatakeyama + Federico Durand - Tove"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/magical-imaginary-child_43b06a2d0daf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/cd56bdbeb0eb0aba02c4/Magical_Imaginary_Child.tar"
+    }
+  }
+}
