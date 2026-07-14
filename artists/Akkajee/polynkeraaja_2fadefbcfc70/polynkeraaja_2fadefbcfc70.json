@@ -1,0 +1,33 @@
+{
+  "id": "polynkeraaja_2fadefbcfc70",
+  "fingerprint": "2fadefbcfc70e23d69095a832624df7d0d616a9671ee8ccade0d5c3090ef1b52",
+  "archived_at": "2026-07-14T16:03:02Z",
+  "metadata": {
+    "title": "Pölynkerääjä",
+    "artist": "Akkajee",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2270,
+    "duration_human": "00:37:50",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Akkajee - Kuolleita kutsun",
+      "02 Akkajee - Pölyvyö",
+      "03 Akkajee - Kello lyö",
+      "04 Akkajee - Ikiliikkuva II",
+      "05 Akkajee - Have, pia anima",
+      "06 Akkajee - Esi",
+      "07 Akkajee - Mökkikirja",
+      "08 Akkajee - Tempus fugit",
+      "09 Akkajee - Ajastaika",
+      "10 Akkajee - Jälki"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/polynkeraaja_2fadefbcfc70"
+    }
+  }
+}

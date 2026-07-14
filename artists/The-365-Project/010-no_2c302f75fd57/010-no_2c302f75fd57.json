@@ -1,0 +1,28 @@
+{
+  "id": "010-no_2c302f75fd57",
+  "fingerprint": "2c302f75fd576ffbe6a75f5e058c56430f2a046560d5cdf00f22ca8c8eeb813e",
+  "archived_at": "2026-07-14T16:03:16Z",
+  "metadata": {
+    "title": "010: No",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1587,
+    "duration_human": "00:26:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - [untitled]",
+      "02 The 365 Project - 01/10/2025 - Maddie Rants at You in the Woods About Essentially Nothing for 10 Minutes and 13 Seconds"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/010-no_2c302f75fd57"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/1121880e043ef6f9819f/010_No.tar"
+    }
+  }
+}
