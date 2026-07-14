@@ -1,0 +1,27 @@
+{
+  "id": "037-my-my-hey-hey-out-of-the-blue_24383945d58b",
+  "fingerprint": "24383945d58ba1d23309b914be3e1d40d871812aa8b6f2ef1b951c1e7bde9005",
+  "archived_at": "2026-07-14T16:28:18Z",
+  "metadata": {
+    "title": "037: My My, Hey Hey (Out of the Blue)",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 369,
+    "duration_human": "00:06:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - My My, Hey Hey (Out of the Blue)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/037-my-my-hey-hey-out-of-the-blue_24383945d58b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/654d870717bd514f257d/037_My_My_Hey_Hey_Out_of_the_Blue.tar"
+    }
+  }
+}
