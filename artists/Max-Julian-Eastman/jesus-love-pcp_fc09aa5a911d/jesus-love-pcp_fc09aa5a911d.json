@@ -1,0 +1,25 @@
+{
+  "id": "jesus-love-pcp_fc09aa5a911d",
+  "fingerprint": "fc09aa5a911d4b9b0ee4d89299cb889b35d91983e49a663b3f5bf92bd31199ac",
+  "archived_at": "2026-07-14T21:46:45Z",
+  "metadata": {
+    "title": "Jesus Love / PCP",
+    "artist": "Max Julian Eastman",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 697,
+    "duration_human": "00:11:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Max Julian Eastman - Jesus Love",
+      "02 Max Julian Eastman - PCP"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/jesus-love-pcp_fc09aa5a911d"
+    }
+  }
+}
