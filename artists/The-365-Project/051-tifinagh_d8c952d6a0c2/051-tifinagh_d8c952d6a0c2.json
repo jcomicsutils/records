@@ -1,0 +1,27 @@
+{
+  "id": "051-tifinagh_d8c952d6a0c2",
+  "fingerprint": "d8c952d6a0c2cd2561bf7a62cfa893fda73c74e0578317c47f7bd68bff282cb5",
+  "archived_at": "2026-07-14T16:37:07Z",
+  "metadata": {
+    "title": "051: Tifinagh",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1508,
+    "duration_human": "00:25:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Tifinagh"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/051-tifinagh_d8c952d6a0c2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/43a900fa61f30043fc77/051_Tifinagh.tar"
+    }
+  }
+}
