@@ -1,0 +1,25 @@
+{
+  "id": "seven-ways-of-going_cdf16c741112",
+  "fingerprint": "cdf16c741112a59d4d7859385c71acb98e9b56423726493cec20445cf64bb25e",
+  "archived_at": "2026-07-14T22:21:07Z",
+  "metadata": {
+    "title": "Seven Ways Of Going",
+    "artist": "Max Julian Eastman",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 240,
+    "duration_human": "00:04:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Max Julian Eastman - Excerpt From Side A - Seven Ways Of Going",
+      "02 Max Julian Eastman - Excerpt From Side B - Seven Ways Of Going"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/seven-ways-of-going_cdf16c741112"
+    }
+  }
+}

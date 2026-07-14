@@ -1,0 +1,27 @@
+{
+  "id": "cotidianidad_8df519e1a0db",
+  "fingerprint": "8df519e1a0db888c893236ffc2fab1bba7aa89f65d02f759c9711d6bb865fed4",
+  "archived_at": "2026-07-14T22:21:07Z",
+  "metadata": {
+    "title": "Cotidianidad",
+    "artist": "Concepción Huerta",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 308,
+    "duration_human": "00:05:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Estrella del Sol + Concepción Huerta - Cotidianidad"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cotidianidad_8df519e1a0db"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/7b85ec8d1cca61ddbbf7/Cotidianidad.tar"
+    }
+  }
+}
