@@ -1,0 +1,28 @@
+{
+  "id": "071-weathered_05a5cf0a6411",
+  "fingerprint": "05a5cf0a6411109d509a9dfcb039f23b1e002331dbedfc979e625068b7f8aced",
+  "archived_at": "2026-07-14T16:56:02Z",
+  "metadata": {
+    "title": "071: Weathered",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 2314,
+    "duration_human": "00:38:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Weathered",
+      "02 Rice - Dogshit"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/071-weathered_05a5cf0a6411"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/d2b0b0a6315cb372a3a3/071_Weathered.tar"
+    }
+  }
+}
