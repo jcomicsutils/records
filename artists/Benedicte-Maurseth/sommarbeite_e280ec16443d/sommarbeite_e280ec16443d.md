@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/sommarbeite_e280ec16443d)
+- [FileDitch](https://fileditchfiles.st/beta14/83922f5fd559734600f6/Sommarbeite.tar)
 
 ## Tracklist
 
