@@ -1,0 +1,27 @@
+{
+  "id": "211-conceptualization-1_3e1cf9115f23",
+  "fingerprint": "3e1cf9115f23b8ccb6aa442fe92bd430646da2783db160159259748e5960441c",
+  "archived_at": "2026-07-14T22:10:49Z",
+  "metadata": {
+    "title": "211: Conceptualization 1",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 288,
+    "duration_human": "00:04:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Conceptualization 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/211-conceptualization-1_3e1cf9115f23"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/99f22a3a88d44a2f2b28/211_Conceptualization_1.tar"
+    }
+  }
+}
