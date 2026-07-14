@@ -1,0 +1,27 @@
+{
+  "id": "and-i-thought-these-are-my-people_a4a31124a606",
+  "fingerprint": "a4a31124a606a2245232fd0995653579550d06d37a1035c019bd36968946d0eb",
+  "archived_at": "2026-07-14T16:07:48Z",
+  "metadata": {
+    "title": "And I Thought These Are My People",
+    "artist": "Kim Myhr",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 370,
+    "duration_human": "00:06:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kim Myhr - And I Thought These Are My People"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/and-i-thought-these-are-my-people_a4a31124a606"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/7f223be3f9b36062a92c/And_I_Thought_These_Are_My_People.tar"
+    }
+  }
+}
