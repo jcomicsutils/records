@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Internal Capacity](internal-capacity_2e343e943ea4/internal-capacity_2e343e943ea4.md) | 2018 | MP3 | 00:16:11 | [IA](https://archive.org/details/internal-capacity_2e343e943ea4) [FileDitch](https://fileditchfiles.st/beta14/6514f3fe5ea28289c974/Internal_Capacity.tar) |
+| [Silence is Violence \(MPM02\)](silence-is-violence-mpm02_7ebf4d1a0894/silence-is-violence-mpm02_7ebf4d1a0894.md) | 2018 | MP3 | 00:32:11 | [IA](https://archive.org/details/silence-is-violence-mpm02_7ebf4d1a0894) [FileDitch](https://fileditchfiles.st/beta14/550bacc51de8de1e96a4/Silence_is_Violence_MPM02.tar) |
 | [Concepción Huerta + Daniel Llermaly + Lucitzel](concepcion-huerta-daniel-llermaly-lucitzel_2369b612d83e/concepcion-huerta-daniel-llermaly-lucitzel_2369b612d83e.md) | 2019 | FLAC | 00:08:47 | [IA](https://archive.org/details/concepcion-huerta-daniel-llermaly-lucitzel_2369b612d83e) [FileDitch](https://fileditchfiles.st/beta14/1520ee77e22c619e55e0/Concepci_n_Huerta_Daniel_Llermaly_Lucitzel.tar) |
 | [Cotidianidad](cotidianidad_8df519e1a0db/cotidianidad_8df519e1a0db.md) | 2020 | MP3 | 00:05:08 | [IA](https://archive.org/details/cotidianidad_8df519e1a0db) [FileDitch](https://fileditchfiles.st/beta14/7b85ec8d1cca61ddbbf7/Cotidianidad.tar) |
 | [Lost Time](lost-time_996e2016fcbf/lost-time_996e2016fcbf.md) | 2020 | MP3 | 00:21:56 | [IA](https://archive.org/details/lost-time_996e2016fcbf) [FileDitch](https://fileditchfiles.st/beta14/4ea821af4dfa3f536219/Lost_Time.tar) |

@@ -1,0 +1,27 @@
+{
+  "id": "silence-is-violence-mpm02_7ebf4d1a0894",
+  "fingerprint": "7ebf4d1a08945514aafad1f51b39422c3fbed0512a441ecfde54f3c1b2cad362",
+  "archived_at": "2026-07-14T23:34:01Z",
+  "metadata": {
+    "title": "Silence is Violence (MPM02)",
+    "artist": "Concepción Huerta",
+    "year": "2018",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1931,
+    "duration_human": "00:32:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Concepción Huerta - Silence is Violence"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/silence-is-violence-mpm02_7ebf4d1a0894"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/550bacc51de8de1e96a4/Silence_is_Violence_MPM02.tar"
+    }
+  }
+}
