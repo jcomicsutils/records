@@ -1,0 +1,27 @@
+{
+  "id": "176-the-sixth-one_287389c78537",
+  "fingerprint": "287389c78537ef062c3ed648d686fca3c4fa081686bda27ddcfe8642b985c5e7",
+  "archived_at": "2026-07-14T21:35:30Z",
+  "metadata": {
+    "title": "176: The Sixth One",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 49,
+    "duration_human": "00:00:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - The Sixth One"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/176-the-sixth-one_287389c78537"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/fbf86cb28f6f99668098/176_The_Sixth_One.tar"
+    }
+  }
+}
