@@ -1,0 +1,27 @@
+{
+  "id": "066-hypnagogic-pop_c12b01ebbd56",
+  "fingerprint": "c12b01ebbd563a32029b1d9eca408bc5adfbf85b97f5fa869e3e4f9e1b5a013d",
+  "archived_at": "2026-07-14T16:49:03Z",
+  "metadata": {
+    "title": "066: Hypnagogic Pop",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 725,
+    "duration_human": "00:12:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Hypnagogic Pop"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/066-hypnagogic-pop_c12b01ebbd56"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/2333db621a16d0161b5b/066_Hypnagogic_Pop.tar"
+    }
+  }
+}
