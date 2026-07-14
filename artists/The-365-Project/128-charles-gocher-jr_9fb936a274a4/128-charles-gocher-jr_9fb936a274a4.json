@@ -1,0 +1,27 @@
+{
+  "id": "128-charles-gocher-jr_9fb936a274a4",
+  "fingerprint": "9fb936a274a45ff4f819d38af6c1abde666f8599704da694c65c00e8237e9e15",
+  "archived_at": "2026-07-14T19:15:43Z",
+  "metadata": {
+    "title": "128: Charles Gocher Jr.",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 909,
+    "duration_human": "00:15:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Charles Gocher Jr."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/128-charles-gocher-jr_9fb936a274a4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/c4e9f80e478a9ec23394/128_Charles_Gocher_Jr.tar"
+    }
+  }
+}
