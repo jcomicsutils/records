@@ -1,0 +1,27 @@
+{
+  "id": "185-long-ver_be33b4893ae4",
+  "fingerprint": "be33b4893ae47e4513ec7e1a29f5310d76358e511810c2bbc3dfdab15f6ee00b",
+  "archived_at": "2026-07-14T21:45:22Z",
+  "metadata": {
+    "title": "185: (Long Ver.)",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 746,
+    "duration_human": "00:12:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - (Long Ver.)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/185-long-ver_be33b4893ae4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/1d64dcabc4a4bcd39d0a/185_Long_Ver.tar"
+    }
+  }
+}
