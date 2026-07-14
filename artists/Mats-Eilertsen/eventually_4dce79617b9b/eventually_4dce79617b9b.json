@@ -1,0 +1,35 @@
+{
+  "id": "eventually_4dce79617b9b",
+  "fingerprint": "4dce79617b9b9619bef9a127c9915ca6cb5e616201626fe78101c8bc1c628fc8",
+  "archived_at": "2026-07-14T23:13:54Z",
+  "metadata": {
+    "title": "Eventually",
+    "artist": "Mats Eilertsen",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2566,
+    "duration_human": "00:42:46",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Jacob Young, Mats Eilertsen, Audun Kleive - Eventually",
+      "02 Jacob Young, Mats Eilertsen, Audun Kleive - I Told You in October",
+      "03 Jacob Young, Mats Eilertsen, Audun Kleive - Moon Over Meno",
+      "04 Jacob Young, Mats Eilertsen, Audun Kleive - One for Louis",
+      "05 Jacob Young, Mats Eilertsen, Audun Kleive - Schönstedtstraße",
+      "06 Jacob Young, Mats Eilertsen, Audun Kleive - Northbound",
+      "07 Jacob Young, Mats Eilertsen, Audun Kleive - The Dog Ate My Homework",
+      "08 Jacob Young, Mats Eilertsen, Audun Kleive - The Meaning of Joy",
+      "09 Jacob Young, Mats Eilertsen, Audun Kleive - Inside"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/eventually_4dce79617b9b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/02c7d391ab2f156dec4c/Eventually.tar"
+    }
+  }
+}
