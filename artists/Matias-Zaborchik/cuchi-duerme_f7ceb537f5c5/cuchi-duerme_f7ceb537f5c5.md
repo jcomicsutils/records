@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/cuchi-duerme_f7ceb537f5c5)
+- [FileDitch](https://fileditchfiles.st/beta14/bc346f6be70f0ed4acb9/cuchi_duerme.tar)
 
 ## Tracklist
 
