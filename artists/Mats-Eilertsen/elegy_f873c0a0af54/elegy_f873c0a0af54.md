@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/elegy_f873c0a0af54)
+- [FileDitch](https://fileditchfiles.st/beta14/90ff6ab6da9be509ec2b/Elegy.tar)
 
 ## Tracklist
 

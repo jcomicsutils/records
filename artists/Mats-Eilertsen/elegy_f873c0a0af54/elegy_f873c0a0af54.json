@@ -28,6 +28,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/elegy_f873c0a0af54"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/90ff6ab6da9be509ec2b/Elegy.tar"
     }
   }
 }
