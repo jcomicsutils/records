@@ -1,0 +1,28 @@
+{
+  "id": "te-de-flores-silvestres_168c2220a28e",
+  "fingerprint": "168c2220a28ec193075dc6ed852e871887a544120016194d29561d04a67ff775",
+  "archived_at": "2026-07-14T21:50:06Z",
+  "metadata": {
+    "title": "Té De Flores Silvestres",
+    "artist": "Federico Durand",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2559,
+    "duration_human": "00:42:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Federico Durand - Había Una Vez",
+      "02 Federico Durand - Mensaje Desde El Mar Del Norte",
+      "03 Federico Durand - Alguien Escribió Su Nombre En El Vidrio Empañado",
+      "04 Federico Durand - Sueño De Una Polilla De Seda",
+      "05 Federico Durand - Té De Flores Silvestres"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/te-de-flores-silvestres_168c2220a28e"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "192-sunnyll-sink-us-original-ver_eac30e46594d",
+  "fingerprint": "eac30e46594da603994bcb5fc133340252594291885b8d9786066300acd92ea7",
+  "archived_at": "2026-07-14T21:50:09Z",
+  "metadata": {
+    "title": "192: Sunny'll Sink Us (Original Ver.)",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 342,
+    "duration_human": "00:05:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Sunny'll Sink Us (Original Ver.)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/192-sunnyll-sink-us-original-ver_eac30e46594d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/e3c27182c5bc7e38caa9/192_Sunny_ll_Sink_Us_Original_Ver.tar"
+    }
+  }
+}
