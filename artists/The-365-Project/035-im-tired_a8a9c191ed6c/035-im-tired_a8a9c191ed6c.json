@@ -1,0 +1,27 @@
+{
+  "id": "035-im-tired_a8a9c191ed6c",
+  "fingerprint": "a8a9c191ed6c2f322853e6483157ddb3603896e7cdf858f33085be2db98f3219",
+  "archived_at": "2026-07-14T16:27:11Z",
+  "metadata": {
+    "title": "035: I'm Tired",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 32,
+    "duration_human": "00:00:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - I'm Tired"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/035-im-tired_a8a9c191ed6c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/74ba21db3aca6fef884d/035_I_m_Tired.tar"
+    }
+  }
+}
