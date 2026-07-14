@@ -1,0 +1,27 @@
+{
+  "id": "196-proceed_86e63e183a9a",
+  "fingerprint": "86e63e183a9a6c7dafca36d67d440c927a1ba2357331457f6e07d62ab1644811",
+  "archived_at": "2026-07-14T21:53:36Z",
+  "metadata": {
+    "title": "196: Proceed",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 462,
+    "duration_human": "00:07:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Proceed"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/196-proceed_86e63e183a9a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/fb052881309f5163c3f5/196_Proceed.tar"
+    }
+  }
+}
