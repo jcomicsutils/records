@@ -1,0 +1,33 @@
+{
+  "id": "herbario_40ea7e9865af",
+  "fingerprint": "40ea7e9865af331997763ec1d9eee6aba7c099824c45b0caa4bf0523db262c52",
+  "archived_at": "2026-07-14T16:45:58Z",
+  "metadata": {
+    "title": "Herbario",
+    "artist": "Federico Durand",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2392,
+    "duration_human": "00:39:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Federico Durand - Salvia",
+      "02 Federico Durand - Romero",
+      "03 Federico Durand - Nogal",
+      "04 Federico Durand - Tomillo",
+      "05 Federico Durand - Menta",
+      "06 Federico Durand - Cedrón",
+      "07 Federico Durand - Laurel"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/herbario_40ea7e9865af"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/9f6303679d07a3e2e402/Herbario.tar"
+    }
+  }
+}
