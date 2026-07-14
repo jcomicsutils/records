@@ -1,0 +1,35 @@
+{
+  "id": "nordic-lights-in-persian-sky_cf28b9cf6fcf",
+  "fingerprint": "cf28b9cf6fcf4a2ca9d063e1d92e06d1aeb10cbde264d7d2cac806ee15ef8361",
+  "archived_at": "2026-07-14T17:18:58Z",
+  "metadata": {
+    "title": "Nordic Lights in Persian Sky",
+    "artist": "Benedicte Maurseth",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3546,
+    "duration_human": "00:59:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Constantinople - And the Glacier Answers Quietly",
+      "02 Constantinople - Vetla jento mi",
+      "03 Constantinople - Dance of the Wind",
+      "04 Constantinople - Huldreslåttar",
+      "05 Constantinople - Dâya Dâya & Brureslått",
+      "06 Constantinople - Moonlight Mahtâb",
+      "07 Constantinople - Den 4. Gorrlausen",
+      "08 Constantinople - Shooting Stars in the Wide Sky",
+      "09 Constantinople - Timeturning & Along with the Breeze",
+      "10 Constantinople - Summer Solstice",
+      "11 Constantinople - Bâz âmadam",
+      "12 Constantinople - Nordic Dreams"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nordic-lights-in-persian-sky_cf28b9cf6fcf"
+    }
+  }
+}

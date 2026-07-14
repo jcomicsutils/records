@@ -1,0 +1,28 @@
+{
+  "id": "093-the-93rd-one_94f16bf99285",
+  "fingerprint": "94f16bf9928521a9690ce90562a4439a83e88f7215ae07223e48dec1f999a46d",
+  "archived_at": "2026-07-14T17:19:06Z",
+  "metadata": {
+    "title": "093: The 93rd One",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 896,
+    "duration_human": "00:14:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Campfire Song II Rmx",
+      "02 The 365 Project - Lovely Thunderstorm Sample"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/093-the-93rd-one_94f16bf99285"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/81d14507b90358b651e4/093_The_93rd_One.tar"
+    }
+  }
+}
