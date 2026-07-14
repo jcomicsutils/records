@@ -1,0 +1,27 @@
+{
+  "id": "166-little-drone_b97c84dbc804",
+  "fingerprint": "b97c84dbc804a7840a5406320ee067bcd4fe1d6f9d40b342baece669f5458516",
+  "archived_at": "2026-07-14T21:27:20Z",
+  "metadata": {
+    "title": "166: Little Drone",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 38,
+    "duration_human": "00:00:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Little Drone"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/166-little-drone_b97c84dbc804"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/e795c792480754a39cb1/166_Little_Drone.tar"
+    }
+  }
+}
