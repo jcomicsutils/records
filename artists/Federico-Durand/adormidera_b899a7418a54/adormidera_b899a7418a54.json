@@ -1,0 +1,28 @@
+{
+  "id": "adormidera_b899a7418a54",
+  "fingerprint": "b899a7418a54de922e5ddaab527370f450e33dfd09e633233d7d3a9fdbddb0fe",
+  "archived_at": "2026-07-14T16:02:44Z",
+  "metadata": {
+    "title": "Adormidera",
+    "artist": "Federico Durand",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1915,
+    "duration_human": "00:31:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Federico Durand - Niebla, montaña, pinos",
+      "02 Federico Durand - Adormidera"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/adormidera_b899a7418a54"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/2cca9078356149adffa7/Adormidera.tar"
+    }
+  }
+}
