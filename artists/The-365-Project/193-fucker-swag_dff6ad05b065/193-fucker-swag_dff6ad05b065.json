@@ -1,0 +1,27 @@
+{
+  "id": "193-fucker-swag_dff6ad05b065",
+  "fingerprint": "dff6ad05b0654b8952c79fc6cf84e076a4d3ece161f71640a5c1c17b277524f6",
+  "archived_at": "2026-07-14T21:50:50Z",
+  "metadata": {
+    "title": "193: Fucker Swag",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 155,
+    "duration_human": "00:02:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Fucker Swag"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/193-fucker-swag_dff6ad05b065"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/275ba0ba2e4251db3a3f/193_Fucker_Swag.tar"
+    }
+  }
+}
