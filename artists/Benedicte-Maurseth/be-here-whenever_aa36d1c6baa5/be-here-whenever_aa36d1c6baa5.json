@@ -1,0 +1,32 @@
+{
+  "id": "be-here-whenever_aa36d1c6baa5",
+  "fingerprint": "aa36d1c6baa5a740e2280d5b99304a6b62c51df1042b49dbc55825fa1b08b5b6",
+  "archived_at": "2026-07-14T16:49:17Z",
+  "metadata": {
+    "title": "Be Here Whenever",
+    "artist": "Benedicte Maurseth",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2884,
+    "duration_human": "00:48:04",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Danielle DeGruttola, Henry Kaiser, Benedicte Maurseth, Stein Urheim - Førespel",
+      "02 Danielle DeGruttola, Henry Kaiser, Benedicte Maurseth, Stein Urheim - Rainbow in an Unseen Teardrop",
+      "03 Danielle DeGruttola, Henry Kaiser, Benedicte Maurseth, Stein Urheim - A Strange Piece of Driftwood Found on the Beach",
+      "04 Danielle DeGruttola, Henry Kaiser, Benedicte Maurseth, Stein Urheim - The Wrong Forest",
+      "05 Danielle DeGruttola, Henry Kaiser, Benedicte Maurseth, Stein Urheim - The Lake of Forgotten Spirits",
+      "06 Danielle DeGruttola, Henry Kaiser, Benedicte Maurseth, Stein Urheim - Musik i mörker.",
+      "07 Danielle DeGruttola, Henry Kaiser, Benedicte Maurseth, Stein Urheim - Eventyrdalen",
+      "08 Danielle DeGruttola, Henry Kaiser, Benedicte Maurseth, Stein Urheim - Circling Two Suns",
+      "09 Danielle DeGruttola, Henry Kaiser, Benedicte Maurseth, Stein Urheim - Huleorkesteret spiller opp"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/be-here-whenever_aa36d1c6baa5"
+    }
+  }
+}

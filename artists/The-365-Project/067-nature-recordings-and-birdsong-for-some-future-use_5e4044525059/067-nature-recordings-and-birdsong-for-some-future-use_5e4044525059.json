@@ -1,0 +1,27 @@
+{
+  "id": "067-nature-recordings-and-birdsong-for-some-future-use_5e4044525059",
+  "fingerprint": "5e404452505968ca6ff67f42351615c6665931885bffbcb72e5ee4ea755f0c85",
+  "archived_at": "2026-07-14T16:49:40Z",
+  "metadata": {
+    "title": "067: Nature Recordings and Birdsong for Some Future Use",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1978,
+    "duration_human": "00:32:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/067-nature-recordings-and-birdsong-for-some-future-use_5e4044525059"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/e498d2f5e6ebea90d0e4/067_Nature_Recordings_and_Birdsong_for_Some_Future_Use.tar"
+    }
+  }
+}
