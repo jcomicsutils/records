@@ -1,0 +1,27 @@
+{
+  "id": "052-music-is-a-curse_f9b9724e9e45",
+  "fingerprint": "f9b9724e9e45dc39b0ed57ce54ebb9b7d6f463f4e4cdc82a9f568adc05a291bf",
+  "archived_at": "2026-07-14T16:37:50Z",
+  "metadata": {
+    "title": "052: Music is a Curse",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 815,
+    "duration_human": "00:13:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Music is a Curse (Including 'Cheapskate Improv')"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/052-music-is-a-curse_f9b9724e9e45"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/5e560f33fd71e97e402a/052_Music_is_a_Curse.tar"
+    }
+  }
+}
