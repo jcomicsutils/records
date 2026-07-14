@@ -1,0 +1,36 @@
+{
+  "id": "la-estrella-dormida_efe575a7ce1e",
+  "fingerprint": "efe575a7ce1e94c2d1fdc6893c405d008c9f58551f51dd6c3e6c1c8edea63b3c",
+  "archived_at": "2026-07-14T16:53:35Z",
+  "metadata": {
+    "title": "La estrella dormida",
+    "artist": "Federico Durand",
+    "year": "2014",
+    "codec": "MP3",
+    "num_tracks": 10,
+    "duration_seconds": 2512,
+    "duration_human": "00:41:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Federico Durand - Té de manzanilla",
+      "02 Federico Durand - La estrella dormida",
+      "03 Federico Durand - El fantasma de un niño ronda el invernadero",
+      "04 Federico Durand - A través del espejo",
+      "05 Federico Durand - Caída libre",
+      "06 Federico Durand - Pequeña pieza para lira y cintas de cassette",
+      "07 Federico Durand - Primeras luces del día",
+      "08 Federico Durand - Reflejos del sol en la superficie del agua",
+      "09 Federico Durand - El sueño de Fabergé",
+      "10 Federico Durand - Despierta, todo esta está cubierto de nieve"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/la-estrella-dormida_efe575a7ce1e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/2f8cc5d71e418a7a898e/La_estrella_dormida.tar"
+    }
+  }
+}
