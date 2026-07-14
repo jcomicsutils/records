@@ -1,0 +1,27 @@
+{
+  "id": "170-not-true_e7a77c13f0c3",
+  "fingerprint": "e7a77c13f0c36a7b1ec8b2137f7d385106e25a06cd6c586348359e8053bcec99",
+  "archived_at": "2026-07-14T21:30:24Z",
+  "metadata": {
+    "title": "170: Not True",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 96,
+    "duration_human": "00:01:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Not True"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/170-not-true_e7a77c13f0c3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/38004caff3fa1da35bce/170_Not_True.tar"
+    }
+  }
+}
