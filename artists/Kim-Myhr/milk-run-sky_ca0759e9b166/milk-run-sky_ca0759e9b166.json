@@ -1,0 +1,27 @@
+{
+  "id": "milk-run-sky_ca0759e9b166",
+  "fingerprint": "ca0759e9b166d71f23c6a35c5d8d5117404f9777f8a58723666eb59ce653b2bd",
+  "archived_at": "2026-07-14T16:32:04Z",
+  "metadata": {
+    "title": "Milk Run Sky",
+    "artist": "Kim Myhr",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 647,
+    "duration_human": "00:10:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kim Myhr - Milk Run Sky"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/milk-run-sky_ca0759e9b166"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/6789da1ba3d39a48c29d/Milk_Run_Sky.tar"
+    }
+  }
+}
