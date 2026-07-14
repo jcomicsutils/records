@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/i-can-be-a-clay-snapper_56a497606ee8)
+- [FileDitch](https://fileditchfiles.st/beta14/d7fe33a632e7cdbdca8b/I_Can_Be_a_Clay_Snapper.tar)
 
 ## Tracklist
 
