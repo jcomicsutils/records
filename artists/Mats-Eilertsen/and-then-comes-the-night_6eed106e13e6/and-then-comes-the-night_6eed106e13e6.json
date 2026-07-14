@@ -1,0 +1,33 @@
+{
+  "id": "and-then-comes-the-night_6eed106e13e6",
+  "fingerprint": "6eed106e13e65867565a6224ce2d555d6509e655bd20cba6964d03304cdeebc2",
+  "archived_at": "2026-07-14T22:32:06Z",
+  "metadata": {
+    "title": "And Then Comes the Night",
+    "artist": "Mats Eilertsen",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2854,
+    "duration_human": "00:47:34",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Mats Eilertsen, Harmen Fraanje, Thomas Strønen - 22",
+      "02 Mats Eilertsen, Harmen Fraanje, Thomas Strønen - Perpetum",
+      "03 Mats Eilertsen, Harmen Fraanje, Thomas Strønen - Albatross",
+      "04 Mats Eilertsen, Harmen Fraanje, Thomas Strønen - After the Rain",
+      "05 Mats Eilertsen, Harmen Fraanje, Thomas Strønen - The Void",
+      "06 Mats Eilertsen, Harmen Fraanje, Thomas Strønen - Solace",
+      "07 Mats Eilertsen, Harmen Fraanje, Thomas Strønen - Sirens",
+      "08 Mats Eilertsen, Harmen Fraanje, Thomas Strønen - Then Comes the Night",
+      "09 Mats Eilertsen, Harmen Fraanje, Thomas Strønen - Soften",
+      "10 Mats Eilertsen, Harmen Fraanje, Thomas Strønen - 22 (Var.)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/and-then-comes-the-night_6eed106e13e6"
+    }
+  }
+}

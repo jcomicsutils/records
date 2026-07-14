@@ -1,0 +1,27 @@
+{
+  "id": "231-the-one-before-the-next-one_c725cc27b96f",
+  "fingerprint": "c725cc27b96f7844880225054522a94800725f61932ada8593686008e7815b69",
+  "archived_at": "2026-07-14T22:32:07Z",
+  "metadata": {
+    "title": "231: The One Before the Next One",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 500,
+    "duration_human": "00:08:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/231-the-one-before-the-next-one_c725cc27b96f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/b6fd0338a88f382c1b83/231_The_One_Before_the_Next_One.tar"
+    }
+  }
+}
