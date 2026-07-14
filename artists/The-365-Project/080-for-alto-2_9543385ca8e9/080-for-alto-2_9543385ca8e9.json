@@ -1,0 +1,28 @@
+{
+  "id": "080-for-alto-2_9543385ca8e9",
+  "fingerprint": "9543385ca8e903ed397ce0db252bb74354aa324adcf4e5378a72f3ba03c5ad3c",
+  "archived_at": "2026-07-14T17:03:40Z",
+  "metadata": {
+    "title": "080: For Alto 2",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 809,
+    "duration_human": "00:13:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Dedicated to Multi-Instrumentalist Pine Tree Sound",
+      "02 Pine Tree Sound - Gnome Music2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/080-for-alto-2_9543385ca8e9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/4adbe6fd5f5a77edbbf6/080_For_Alto_2.tar"
+    }
+  }
+}

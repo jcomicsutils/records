@@ -1,0 +1,32 @@
+{
+  "id": "harr_adc7d684dc5c",
+  "fingerprint": "adc7d684dc5cdedc7d7d34c8484fcada3ebeabf6bbce6cf3ef76b4d477fbb5d5",
+  "archived_at": "2026-07-14T17:03:27Z",
+  "metadata": {
+    "title": "Hárr",
+    "artist": "Benedicte Maurseth",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2605,
+    "duration_human": "00:43:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Benedicte Maurseth - Augnast",
+      "02 Benedicte Maurseth - Heilo",
+      "03 Benedicte Maurseth - Reinsdyrbjøller",
+      "04 Benedicte Maurseth - Kollasj I",
+      "05 Benedicte Maurseth - Eidfyrder",
+      "06 Benedicte Maurseth - Hárr",
+      "07 Benedicte Maurseth - Hreinn",
+      "08 Benedicte Maurseth - Kollasj II",
+      "09 Benedicte Maurseth - Snø over Sysendalen"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/harr_adc7d684dc5c"
+    }
+  }
+}
