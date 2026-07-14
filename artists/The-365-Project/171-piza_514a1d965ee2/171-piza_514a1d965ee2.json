@@ -19,6 +19,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/171-piza_514a1d965ee2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/3156f4d5403d3909696a/171_Piza.tar"
     }
   }
 }
