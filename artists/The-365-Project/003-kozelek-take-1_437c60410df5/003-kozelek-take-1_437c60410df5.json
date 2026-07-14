@@ -1,0 +1,29 @@
+{
+  "id": "003-kozelek-take-1_437c60410df5",
+  "fingerprint": "437c60410df5eea488a5467a546802ca55fabf1fc385fd99a40833693781ef2d",
+  "archived_at": "2026-07-14T15:55:27Z",
+  "metadata": {
+    "title": "003: Kozelek Take 1",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 718,
+    "duration_human": "00:11:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Mark Kozelek Died Today of Natural Causes - Instrumental Demo",
+      "02 scrambled egg - A “Scream” That They Wanted Me to Put on the Album; or, ‘So’",
+      "03 The 365 Project - Solo 01/02/2025"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/003-kozelek-take-1_437c60410df5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/9dd088cd7d7474cd2e68/003_Kozelek_Take_1.tar"
+    }
+  }
+}
