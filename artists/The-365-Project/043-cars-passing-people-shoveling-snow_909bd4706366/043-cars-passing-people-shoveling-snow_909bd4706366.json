@@ -1,0 +1,27 @@
+{
+  "id": "043-cars-passing-people-shoveling-snow_909bd4706366",
+  "fingerprint": "909bd47063662f288a9a0a8514318549887aa3eb5261f7ad6977fe96723eaf74",
+  "archived_at": "2026-07-14T16:32:11Z",
+  "metadata": {
+    "title": "043: Cars passing, people shoveling snow",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 335,
+    "duration_human": "00:05:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Cars Passing, people shoveling snow"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/043-cars-passing-people-shoveling-snow_909bd4706366"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/1bf2ead31882648bf906/043_Cars_passing_people_shoveling_snow.tar"
+    }
+  }
+}

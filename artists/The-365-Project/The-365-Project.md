@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [043: Cars passing, people shoveling snow](043-cars-passing-people-shoveling-snow_909bd4706366/043-cars-passing-people-shoveling-snow_909bd4706366.md) | 2026 | MP3 | 00:05:35 | [IA](https://archive.org/details/043-cars-passing-people-shoveling-snow_909bd4706366) [FileDitch](https://fileditchfiles.st/beta14/1bf2ead31882648bf906/043_Cars_passing_people_shoveling_snow.tar) |
 | [037: My My, Hey Hey \(Out of the Blue\)](037-my-my-hey-hey-out-of-the-blue_24383945d58b/037-my-my-hey-hey-out-of-the-blue_24383945d58b.md) | 2026 | MP3 | 00:06:09 | [IA](https://archive.org/details/037-my-my-hey-hey-out-of-the-blue_24383945d58b) [FileDitch](https://fileditchfiles.st/beta14/654d870717bd514f257d/037_My_My_Hey_Hey_Out_of_the_Blue.tar) |
 | [029: Untitled Jam](029-untitled-jam_a602f4e5fb87/029-untitled-jam_a602f4e5fb87.md) | 2026 | MP3 | 00:25:41 | [IA](https://archive.org/details/029-untitled-jam_a602f4e5fb87) [FileDitch](https://fileditchfiles.st/beta14/cadf85220766401d28d7/029_Untitled_Jam.tar) |
 | [019: Field Recordings and Birdsong for ITOET](019-field-recordings-and-birdsong-for-itoet_603b22cb6da2/019-field-recordings-and-birdsong-for-itoet_603b22cb6da2.md) | 2026 | MP3 | 00:15:22 | [IA](https://archive.org/details/019-field-recordings-and-birdsong-for-itoet_603b22cb6da2) [FileDitch](https://fileditchfiles.st/beta14/95b4539d98a248af2725/019_Field_Recordings_and_Birdsong_for_ITOET.tar) |
