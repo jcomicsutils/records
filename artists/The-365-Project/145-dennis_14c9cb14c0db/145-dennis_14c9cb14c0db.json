@@ -1,0 +1,27 @@
+{
+  "id": "145-dennis_14c9cb14c0db",
+  "fingerprint": "14c9cb14c0db32f48717ac6d57dd0b588f8e23f96b373e9850cb683fa1063855",
+  "archived_at": "2026-07-14T20:43:06Z",
+  "metadata": {
+    "title": "145: Dennis",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 499,
+    "duration_human": "00:08:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Dennis"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/145-dennis_14c9cb14c0db"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/9ff2d6d3b4946b70ce71/145_Dennis.tar"
+    }
+  }
+}
