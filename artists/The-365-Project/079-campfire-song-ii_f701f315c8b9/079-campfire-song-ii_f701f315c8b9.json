@@ -1,0 +1,27 @@
+{
+  "id": "079-campfire-song-ii_f701f315c8b9",
+  "fingerprint": "f701f315c8b900cee2e297ca9ac9cb62b878880f261e6590388c62884796f60a",
+  "archived_at": "2026-07-14T17:02:54Z",
+  "metadata": {
+    "title": "079: Campfire Song II",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 738,
+    "duration_human": "00:12:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Campfire Song II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/079-campfire-song-ii_f701f315c8b9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/eac1f6b28936a96d9888/079_Campfire_Song_II.tar"
+    }
+  }
+}
