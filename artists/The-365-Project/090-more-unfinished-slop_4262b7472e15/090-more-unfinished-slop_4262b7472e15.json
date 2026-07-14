@@ -1,0 +1,28 @@
+{
+  "id": "090-more-unfinished-slop_4262b7472e15",
+  "fingerprint": "4262b7472e157c11a2817d2122158a064a89df1934b7af05ce0bfd419b9d8b43",
+  "archived_at": "2026-07-14T17:16:46Z",
+  "metadata": {
+    "title": "090: More Unfinished Slop",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 628,
+    "duration_human": "00:10:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Soundtrack to My Suicide",
+      "02 The 365 Project - Untitled (Fake)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/090-more-unfinished-slop_4262b7472e15"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/081a613d6a7b4d01c98d/090_More_Unfinished_Slop.tar"
+    }
+  }
+}
