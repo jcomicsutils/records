@@ -1,0 +1,27 @@
+{
+  "id": "045-dont-even-joke-lad_05bbc41cef88",
+  "fingerprint": "05bbc41cef88ccfe96d9b31e56eab9e1f1b5e705f9b7cb502e7f6ee0f32cb4b4",
+  "archived_at": "2026-07-14T16:33:40Z",
+  "metadata": {
+    "title": "045: Don't Even Joke Lad",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 172,
+    "duration_human": "00:02:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Don't Even Joke Lad"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/045-dont-even-joke-lad_05bbc41cef88"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/31dd801716d48c99b321/045_Don_t_Even_Joke_Lad.tar"
+    }
+  }
+}
