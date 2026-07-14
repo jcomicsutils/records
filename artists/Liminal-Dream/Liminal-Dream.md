@@ -3,3 +3,4 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Luna](luna_92bbe1f6e3eb/luna_92bbe1f6e3eb.md) | 2021 | FLAC | 01:05:07 | [IA](https://archive.org/details/luna_92bbe1f6e3eb) [FileDitch](https://fileditchfiles.st/beta14/bb2b51edffbee34fe05d/Luna.tar) |
+| [Mind](mind_9fc6664a4d5e/mind_9fc6664a4d5e.md) | 2022 | FLAC | 00:28:02 | [IA](https://archive.org/details/mind_9fc6664a4d5e) [FileDitch](https://fileditchfiles.st/beta14/b75a89129f1cf6462937/Mind.tar) |

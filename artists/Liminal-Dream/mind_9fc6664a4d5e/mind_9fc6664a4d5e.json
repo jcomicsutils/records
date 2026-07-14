@@ -1,0 +1,29 @@
+{
+  "id": "mind_9fc6664a4d5e",
+  "fingerprint": "9fc6664a4d5ea759c8bf1f59959a02c022ebc8f05df6aeb39e089432af7e17ee",
+  "archived_at": "2026-07-14T20:47:01Z",
+  "metadata": {
+    "title": "Mind",
+    "artist": "Liminal Dream",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1682,
+    "duration_human": "00:28:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Liminal Dream - Liminal Fire",
+      "02 Liminal Dream - Liminal Face",
+      "03 Liminal Dream - Liminal Sight"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mind_9fc6664a4d5e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/b75a89129f1cf6462937/Mind.tar"
+    }
+  }
+}
