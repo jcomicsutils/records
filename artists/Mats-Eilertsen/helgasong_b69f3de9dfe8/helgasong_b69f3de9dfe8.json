@@ -1,0 +1,37 @@
+{
+  "id": "helgasong_b69f3de9dfe8",
+  "fingerprint": "b69f3de9dfe817c714664a840574146a7a1625ad9fe847f450dd411c7361b16d",
+  "archived_at": "2026-07-14T23:33:35Z",
+  "metadata": {
+    "title": "Helgasong",
+    "artist": "Mats Eilertsen",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2484,
+    "duration_human": "00:41:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Berit Opheim, Nils Økland, Mats Eilertsen, Tore Brunborg, Irene Tillung - No Koma Guds Englar",
+      "02 Berit Opheim, Nils Økland, Mats Eilertsen, Tore Brunborg, Irene Tillung - Den Fagraste Rosa",
+      "03 Berit Opheim, Nils Økland, Mats Eilertsen, Tore Brunborg, Irene Tillung - I Denne Søte Juletid",
+      "04 Berit Opheim, Nils Økland, Mats Eilertsen, Tore Brunborg, Irene Tillung - Oppå Land",
+      "05 Berit Opheim, Nils Økland, Mats Eilertsen, Tore Brunborg, Irene Tillung - Eg Er So Glad Kvar Jolekveld",
+      "06 Berit Opheim, Nils Økland, Mats Eilertsen, Tore Brunborg, Irene Tillung - Fager Er Jordi",
+      "07 Berit Opheim, Nils Økland, Mats Eilertsen, Tore Brunborg, Irene Tillung - Fryd Dig Du Kristi Brud",
+      "08 Berit Opheim, Nils Økland, Mats Eilertsen, Tore Brunborg, Irene Tillung - Her Er Det Ny Som På Jorderik Skjedde",
+      "09 Berit Opheim, Nils Økland, Mats Eilertsen, Tore Brunborg, Irene Tillung - Eit Barn Er Født I Betlehem",
+      "10 Berit Opheim, Nils Økland, Mats Eilertsen, Tore Brunborg, Irene Tillung - Dei to Systrena",
+      "11 Berit Opheim, Nils Økland, Mats Eilertsen, Tore Brunborg, Irene Tillung - Fra Himlen Høyt"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/helgasong_b69f3de9dfe8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/9eb685223f21fca607fa/Helgasong.tar"
+    }
+  }
+}

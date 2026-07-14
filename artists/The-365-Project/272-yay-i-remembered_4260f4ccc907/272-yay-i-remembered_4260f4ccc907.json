@@ -1,0 +1,24 @@
+{
+  "id": "272-yay-i-remembered_4260f4ccc907",
+  "fingerprint": "4260f4ccc907172062ca1d37eab8c15ff2e004741a4a502b7a9a830482e2943c",
+  "archived_at": "2026-07-14T23:33:54Z",
+  "metadata": {
+    "title": "272: Yay I Remembered",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 114,
+    "duration_human": "00:01:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Yay I Remembered"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/272-yay-i-remembered_4260f4ccc907"
+    }
+  }
+}
