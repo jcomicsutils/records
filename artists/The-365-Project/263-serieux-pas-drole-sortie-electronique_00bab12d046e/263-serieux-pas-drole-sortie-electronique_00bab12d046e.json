@@ -1,0 +1,29 @@
+{
+  "id": "263-serieux-pas-drole-sortie-electronique_00bab12d046e",
+  "fingerprint": "00bab12d046e4205fbd09b93f04526a9636ab0b25a36bec912c9891ac3425c24",
+  "archived_at": "2026-07-14T23:26:49Z",
+  "metadata": {
+    "title": "263: Sérieux, pas drôle, sortie électronique",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 415,
+    "duration_human": "00:06:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - 78 athr non-analog non-loop",
+      "02 scrambled egg - My Song 286",
+      "03 mold - familiar buzzing noise"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/263-serieux-pas-drole-sortie-electronique_00bab12d046e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/137e34a5e471f7b17f39/263_S_rieux_pas_dr_le_sortie_lectronique.tar"
+    }
+  }
+}
