@@ -1,0 +1,27 @@
+{
+  "id": "245-rotter_fe9d9ecaf4ca",
+  "fingerprint": "fe9d9ecaf4ca8da145b9a6d9c7665a454147d1eb1d279894fd220abc20b7d88a",
+  "archived_at": "2026-07-14T23:07:05Z",
+  "metadata": {
+    "title": "245: Rotter",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 144,
+    "duration_human": "00:02:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Rotter"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/245-rotter_fe9d9ecaf4ca"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/634ce72c67a5ff8dc947/245_Rotter.tar"
+    }
+  }
+}
