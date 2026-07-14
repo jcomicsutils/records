@@ -1,0 +1,27 @@
+{
+  "id": "half-life-2026-version_3ace6f5ee66e",
+  "fingerprint": "3ace6f5ee66e51607afada65dd6483b87f087f270a0cb7b30cac10827e19ed3e",
+  "archived_at": "2026-07-14T22:33:40Z",
+  "metadata": {
+    "title": "Half Life (2026 Version)",
+    "artist": "Jack O' the Clock",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 334,
+    "duration_human": "00:05:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Jack O' the Clock - Half Life (2026 Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/half-life-2026-version_3ace6f5ee66e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/9ca4d483bcb7edd72a2f/Half_Life_2026_Version.tar"
+    }
+  }
+}
