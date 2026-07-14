@@ -1,0 +1,28 @@
+{
+  "id": "063-animate-deteriorate_a6fd755c6050",
+  "fingerprint": "a6fd755c6050f8a2bcdcfc2cbf9f7fcce7ac4f63f3819e2f0dce3d48f519e903",
+  "archived_at": "2026-07-14T16:47:08Z",
+  "metadata": {
+    "title": "063: Animate / Deteriorate",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 4322,
+    "duration_human": "01:12:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Animate (Water Droplet Static Euphoria)",
+      "02 The 365 Project - Deteriorate (Dead Wall Static Mariana)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/063-animate-deteriorate_a6fd755c6050"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/bcd57cac81853e286619/063_Animate_-_Deteriorate.tar"
+    }
+  }
+}
