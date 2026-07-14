@@ -1,0 +1,27 @@
+{
+  "id": "218-christmas-reissue_92374892337a",
+  "fingerprint": "92374892337a4754ce652be64fdac4ba260f3f6f059fd1240f141f5df78ba2ae",
+  "archived_at": "2026-07-14T22:21:51Z",
+  "metadata": {
+    "title": "218: Christmas Reissue",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1750,
+    "duration_human": "00:29:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/218-christmas-reissue_92374892337a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/3abd4df6568f6166d6ae/218_Christmas_Reissue.tar"
+    }
+  }
+}
