@@ -1,0 +1,28 @@
+{
+  "id": "you-i-me_5e2d5cd52fd3",
+  "fingerprint": "5e2d5cd52fd3dc28d418d84336f740ec4f5f594a0fb8d9a0870a4a2fbe30a937",
+  "archived_at": "2026-07-14T19:01:50Z",
+  "metadata": {
+    "title": "You I Me",
+    "artist": "Kim Myhr",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2286,
+    "duration_human": "00:38:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kim Myhr - You I Me A",
+      "02 Kim Myhr - You I Me B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/you-i-me_5e2d5cd52fd3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/5673d2f9b649fce2792a/You_I_Me.tar"
+    }
+  }
+}
