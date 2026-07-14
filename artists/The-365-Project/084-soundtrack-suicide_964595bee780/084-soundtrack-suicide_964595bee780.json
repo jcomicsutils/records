@@ -1,0 +1,27 @@
+{
+  "id": "084-soundtrack-suicide_964595bee780",
+  "fingerprint": "964595bee7804a6164c83a32b2bdf4e052aa4b34007b8afdbfc492a7ed9c98c6",
+  "archived_at": "2026-07-14T17:08:00Z",
+  "metadata": {
+    "title": "084: Soundtrack / Suicide",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 811,
+    "duration_human": "00:13:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Soundtrack / Suicide"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/084-soundtrack-suicide_964595bee780"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/e0196391e0bcc22afcc1/084_Soundtrack_-_Suicide.tar"
+    }
+  }
+}
