@@ -1,0 +1,33 @@
+{
+  "id": "model-of-malehood_3acfc92825b0",
+  "fingerprint": "3acfc92825b0ada6301419c5dbf7fd85fa9fd043a6cf50dcfd28dc685058b498",
+  "archived_at": "2026-07-14T21:56:18Z",
+  "metadata": {
+    "title": "Model of Malehood",
+    "artist": "Max Julian Eastman",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 4071,
+    "duration_human": "01:07:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Max Julian Eastman - When Doves Cry 37",
+      "02 Max Julian Eastman - P.H. Excerpt",
+      "03 Max Julian Eastman - Bladder Control",
+      "04 Max Julian Eastman - [untitled]",
+      "05 Max Julian Eastman - Wunderlufee",
+      "06 Max Julian Eastman - Liquidsh",
+      "07 Max Julian Eastman - [untitled]",
+      "08 Max Julian Eastman - [untitled]",
+      "09 Max Julian Eastman - [untitled]",
+      "10 Max Julian Eastman - Boys of Summer 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/model-of-malehood_3acfc92825b0"
+    }
+  }
+}

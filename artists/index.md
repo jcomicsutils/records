@@ -93,6 +93,7 @@
 - [Lástima](Lástima/Lástima.md)
 - [Mademoiselle Marchand](Mademoiselle-Marchand/Mademoiselle-Marchand.md)
 - [Mailcop](Mailcop/Mailcop.md)
+- [Makers](Makers/Makers.md)
 - [Mapeto](Mapeto/Mapeto.md)
 - [Max Julian Eastman](Max-Julian-Eastman/Max-Julian-Eastman.md)
 - [Merzbow + Xiu Xiu](Merzbow-+-Xiu-Xiu/Merzbow-+-Xiu-Xiu.md)

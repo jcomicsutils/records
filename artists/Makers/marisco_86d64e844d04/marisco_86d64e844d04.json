@@ -1,0 +1,33 @@
+{
+  "id": "marisco_86d64e844d04",
+  "fingerprint": "86d64e844d048bda45d682e739f69a2afa941955c47c29c2aeb2d138c82e4c6e",
+  "archived_at": "2026-07-14T21:56:28Z",
+  "metadata": {
+    "title": "Marisco",
+    "artist": "Makers",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1146,
+    "duration_human": "00:19:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Makers - Sky Dub",
+      "02 Makers - What Blood",
+      "03 Makers - Baby",
+      "04 Makers - Morning",
+      "05 Makers - Some Nothing",
+      "06 Makers - Real Deal",
+      "07 Makers - Drums"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/marisco_86d64e844d04"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/27aa5577335bc4eb8ba3/Marisco.tar"
+    }
+  }
+}
