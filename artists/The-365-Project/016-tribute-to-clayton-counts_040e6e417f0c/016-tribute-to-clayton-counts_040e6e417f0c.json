@@ -1,0 +1,27 @@
+{
+  "id": "016-tribute-to-clayton-counts_040e6e417f0c",
+  "fingerprint": "040e6e417f0ce4ca2d422b727c110e0bb8ed4707d7c30920e715198523562038",
+  "archived_at": "2026-07-14T16:10:48Z",
+  "metadata": {
+    "title": "016: Tribute to Clayton Counts",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 251,
+    "duration_human": "00:04:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Tribute to Clayton Counts"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/016-tribute-to-clayton-counts_040e6e417f0c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/f731f1b9b5a423a31d16/016_Tribute_to_Clayton_Counts.tar"
+    }
+  }
+}
