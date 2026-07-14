@@ -1,0 +1,27 @@
+{
+  "id": "050-l_3cf8bdb85885",
+  "fingerprint": "3cf8bdb85885323ed2d95885d6a2799bac481d781b528a3bf8bcfdd2e63c06a5",
+  "archived_at": "2026-07-14T16:36:32Z",
+  "metadata": {
+    "title": "050: L",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 8,
+    "duration_human": "00:00:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - L"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/050-l_3cf8bdb85885"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/48e3fc60da3e17a61f44/050_L.tar"
+    }
+  }
+}
