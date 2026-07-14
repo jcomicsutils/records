@@ -1,0 +1,31 @@
+{
+  "id": "dia-de-nieve_1fb8ab7de395",
+  "fingerprint": "1fb8ab7de395af67ea25ff0b1ab0d03a19838141b971ae94cf69a57db5970ef0",
+  "archived_at": "2026-07-14T16:15:51Z",
+  "metadata": {
+    "title": "Dia de Nieve",
+    "artist": "Federico Durand",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 510,
+    "duration_human": "00:08:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Federico Durand - Dia de Nieve",
+      "02 Federico Durand - Habitación en Penumbra",
+      "03 Federico Durand - Te Mi Jou",
+      "04 Federico Durand - Hojas Frescas de Eucalipto",
+      "05 Federico Durand - El Jardin de la Casa Abandonada"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dia-de-nieve_1fb8ab7de395"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/c7d2380978e897c659d1/Dia_de_Nieve.tar"
+    }
+  }
+}

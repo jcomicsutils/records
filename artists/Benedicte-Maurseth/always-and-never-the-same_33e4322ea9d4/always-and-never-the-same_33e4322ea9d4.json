@@ -1,0 +1,31 @@
+{
+  "id": "always-and-never-the-same_33e4322ea9d4",
+  "fingerprint": "33e4322ea9d4744ad472cdfa325fe1f61022316126b0cb1fd866650cd6d49d4b",
+  "archived_at": "2026-07-14T16:15:49Z",
+  "metadata": {
+    "title": "Always and Never the Same",
+    "artist": "Benedicte Maurseth",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2493,
+    "duration_human": "00:41:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Ensemble neoN, Benedicte Maurseth - Contented Pelicans I",
+      "02 Ensemble neoN, Benedicte Maurseth - Without path endless field",
+      "03 Ensemble neoN, Benedicte Maurseth - As a bee among blooms just so walking through",
+      "04 Ensemble neoN, Benedicte Maurseth - Contented Pelicans II",
+      "05 Ensemble neoN, Benedicte Maurseth - Delightful are forests unintended for delight",
+      "06 Ensemble neoN, Benedicte Maurseth - Unmoved by praise or blame",
+      "07 Ensemble neoN, Benedicte Maurseth - Nor mine, nor me, nor I",
+      "08 Ensemble neoN, Benedicte Maurseth - Contented Pelicans III"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/always-and-never-the-same_33e4322ea9d4"
+    }
+  }
+}

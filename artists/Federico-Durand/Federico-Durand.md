@@ -5,3 +5,4 @@
 | [Adormidera](adormidera_b899a7418a54/adormidera_b899a7418a54.md) | 2012 | FLAC | 00:31:55 | [IA](https://archive.org/details/adormidera_b899a7418a54) [FileDitch](https://fileditchfiles.st/beta14/2cca9078356149adffa7/Adormidera.tar) |
 | [A Través Del Espejo](a-traves-del-espejo_f09c5f988f12/a-traves-del-espejo_f09c5f988f12.md) | 2016 | FLAC | 00:42:33 | [IA](https://archive.org/details/a-traves-del-espejo_f09c5f988f12) [FileDitch](https://fileditchfiles.st/beta14/6cafa76c53b7857e26a5/A_Trav_s_Del_Espejo.tar) |
 | [Alba](alba_4dd9f83a76c2/alba_4dd9f83a76c2.md) | 2020 | FLAC | 00:41:46 | [IA](https://archive.org/details/alba_4dd9f83a76c2) [FileDitch](https://fileditchfiles.st/beta14/9182ba61e83e98ec6c36/Alba.tar) |
+| [Dia de Nieve](dia-de-nieve_1fb8ab7de395/dia-de-nieve_1fb8ab7de395.md) | 2023 | FLAC | 00:08:30 | [IA](https://archive.org/details/dia-de-nieve_1fb8ab7de395) [FileDitch](https://fileditchfiles.st/beta14/c7d2380978e897c659d1/Dia_de_Nieve.tar) |
