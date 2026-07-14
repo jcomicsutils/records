@@ -1,0 +1,27 @@
+{
+  "id": "109_df0fb32b6409",
+  "fingerprint": "df0fb32b64095a971d65e8c50dc3f8bd1f341386216b4720a6b3aeb3c7a01139",
+  "archived_at": "2026-07-14T17:36:29Z",
+  "metadata": {
+    "title": "109:",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1299,
+    "duration_human": "00:21:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - ‎ ‎ ‎ ‎ ‎"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/109_df0fb32b6409"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/599a9f7e8a537e84a128/109.tar"
+    }
+  }
+}
