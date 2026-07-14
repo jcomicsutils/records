@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/tour-tapes_3ebe3c33fee6)
+- [FileDitch](https://fileditchfiles.st/beta14/9617f29a3163d1c52050/Tour_Tapes.tar)
 
 ## Tracklist
 
