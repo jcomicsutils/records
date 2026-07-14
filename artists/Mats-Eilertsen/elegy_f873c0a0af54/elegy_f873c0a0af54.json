@@ -1,0 +1,33 @@
+{
+  "id": "elegy_f873c0a0af54",
+  "fingerprint": "f873c0a0af54ef1900a7db32a9ccae6cecade1ac9ca05f0e8a92ce61fc24eedc",
+  "archived_at": "2026-07-14T23:06:30Z",
+  "metadata": {
+    "title": "Elegy",
+    "artist": "Mats Eilertsen",
+    "year": "2011",
+    "codec": "ALAC",
+    "num_tracks": 10,
+    "duration_seconds": 3238,
+    "duration_human": "00:53:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mats Eilertsen Trio - Drumba",
+      "02 Mats Eilertsen Trio - Elegy",
+      "03 Mats Eilertsen Trio - Sukha",
+      "04 Mats Eilertsen Trio - Kram",
+      "05 Mats Eilertsen Trio - Flying",
+      "06 Mats Eilertsen Trio - Falling",
+      "07 Mats Eilertsen Trio - Tuven, Tuven",
+      "08 Mats Eilertsen Trio - Nardis",
+      "09 Mats Eilertsen Trio - Six Weeks",
+      "10 Mats Eilertsen Trio - Floating"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/elegy_f873c0a0af54"
+    }
+  }
+}

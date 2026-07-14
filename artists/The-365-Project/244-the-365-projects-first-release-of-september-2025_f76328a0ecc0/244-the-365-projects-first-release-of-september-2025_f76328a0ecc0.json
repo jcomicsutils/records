@@ -1,0 +1,27 @@
+{
+  "id": "244-the-365-projects-first-release-of-september-2025_f76328a0ecc0",
+  "fingerprint": "f76328a0ecc05cf933f8acfda540345240d80ddea3c9b8de8c32a6a5dd043e83",
+  "archived_at": "2026-07-14T23:06:30Z",
+  "metadata": {
+    "title": "244: The 365 Project's First Release of September, 2025",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 69,
+    "duration_human": "00:01:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Not a Real Song"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/244-the-365-projects-first-release-of-september-2025_f76328a0ecc0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/028528a542fc4a90ffba/244_The_365_Project_s_First_Release_of_September_2025.tar"
+    }
+  }
+}
