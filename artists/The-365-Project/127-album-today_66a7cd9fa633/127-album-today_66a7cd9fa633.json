@@ -1,0 +1,27 @@
+{
+  "id": "127-album-today_66a7cd9fa633",
+  "fingerprint": "66a7cd9fa633100619f8f503c6a59c5bd3a7df175f5a1283917cb8ad10fa6c52",
+  "archived_at": "2026-07-14T19:13:08Z",
+  "metadata": {
+    "title": "127: Album Today",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 26,
+    "duration_human": "00:00:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Album Today"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/127-album-today_66a7cd9fa633"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/fd93b46870c60cd6f1a4/127_Album_Today.tar"
+    }
+  }
+}
