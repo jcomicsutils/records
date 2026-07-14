@@ -1,0 +1,27 @@
+{
+  "id": "027-snippit-mellow-freestyle-2_eb50cbd48104",
+  "fingerprint": "eb50cbd48104762c34f2aeb055b6b1cbd89ba9f2c572ef67a965b6108dc98499",
+  "archived_at": "2026-07-14T16:18:15Z",
+  "metadata": {
+    "title": "027: Snippit / Mellow Freestyle 2",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 177,
+    "duration_human": "00:02:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Snippit / Mellow Freestyle 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/027-snippit-mellow-freestyle-2_eb50cbd48104"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/e7f90736b6aa8551f13e/027_Snippit_-_Mellow_Freestyle_2.tar"
+    }
+  }
+}
