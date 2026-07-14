@@ -25,6 +25,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/el-extasis-de-las-flores-pequenas_4168fed6463a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/05995e5a56db4c8031ee/El_xtasis_De_Las_Flores_Peque_as.tar"
     }
   }
 }

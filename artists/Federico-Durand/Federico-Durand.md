@@ -2,7 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
-| [El Éxtasis De Las Flores Pequeñas](el-extasis-de-las-flores-pequenas_4168fed6463a/el-extasis-de-las-flores-pequenas_4168fed6463a.md) | 2011 | FLAC | 00:35:27 | [IA](https://archive.org/details/el-extasis-de-las-flores-pequenas_4168fed6463a) |
+| [El Éxtasis De Las Flores Pequeñas](el-extasis-de-las-flores-pequenas_4168fed6463a/el-extasis-de-las-flores-pequenas_4168fed6463a.md) | 2011 | FLAC | 00:35:27 | [IA](https://archive.org/details/el-extasis-de-las-flores-pequenas_4168fed6463a) [FileDitch](https://fileditchfiles.st/beta14/05995e5a56db4c8031ee/El_xtasis_De_Las_Flores_Peque_as.tar) |
 | [Adormidera](adormidera_b899a7418a54/adormidera_b899a7418a54.md) | 2012 | FLAC | 00:31:55 | [IA](https://archive.org/details/adormidera_b899a7418a54) [FileDitch](https://fileditchfiles.st/beta14/2cca9078356149adffa7/Adormidera.tar) |
 | [El estanque esmeralda](el-estanque-esmeralda_86c083d6f7cf/el-estanque-esmeralda_86c083d6f7cf.md) | 2014 | MP3 | 00:40:59 | [IA](https://archive.org/details/el-estanque-esmeralda_86c083d6f7cf) [FileDitch](https://fileditchfiles.st/beta14/113dddff7cfd54301f5d/El_estanque_esmeralda.tar) |
 | [A Través Del Espejo](a-traves-del-espejo_f09c5f988f12/a-traves-del-espejo_f09c5f988f12.md) | 2016 | FLAC | 00:42:33 | [IA](https://archive.org/details/a-traves-del-espejo_f09c5f988f12) [FileDitch](https://fileditchfiles.st/beta14/6cafa76c53b7857e26a5/A_Trav_s_Del_Espejo.tar) |
