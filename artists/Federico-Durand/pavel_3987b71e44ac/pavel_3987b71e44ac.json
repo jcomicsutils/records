@@ -1,0 +1,31 @@
+{
+  "id": "pavel_3987b71e44ac",
+  "fingerprint": "3987b71e44ac931150d885f43b3a8a8f3333a6f2439f7c97cc89d5b1dc08b651",
+  "archived_at": "2026-07-14T17:59:25Z",
+  "metadata": {
+    "title": "Pavel",
+    "artist": "Federico Durand",
+    "year": "2017",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 2652,
+    "duration_human": "00:44:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Federico Durand - Pléyades",
+      "02 Federico Durand - La cesta de mimbre, segunda versión",
+      "03 Federico Durand - Pavel",
+      "04 Federico Durand - Fiesta de los brotes azules",
+      "05 Federico Durand - El hechizado"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pavel_3987b71e44ac"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/4ab1b22d084ab52ebfde/Pavel.tar"
+    }
+  }
+}
