@@ -1,0 +1,28 @@
+{
+  "id": "160-siren_7c1bbcb6e4fc",
+  "fingerprint": "7c1bbcb6e4fcd026608e17bfb8b90ba267093b1ba9c277b8d7edbeb9b47bcc3d",
+  "archived_at": "2026-07-14T21:23:04Z",
+  "metadata": {
+    "title": "160: Siren",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 769,
+    "duration_human": "00:12:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Siren",
+      "02 The 365 Project - Barebones Demo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/160-siren_7c1bbcb6e4fc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/e11389b5ac5c39efa502/160_Siren.tar"
+    }
+  }
+}

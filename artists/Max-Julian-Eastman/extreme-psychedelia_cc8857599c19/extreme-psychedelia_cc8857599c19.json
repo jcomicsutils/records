@@ -1,0 +1,29 @@
+{
+  "id": "extreme-psychedelia_cc8857599c19",
+  "fingerprint": "cc8857599c1963f52297a3f09f37878cd80f13a307ee0016d3738e96b7c1dba2",
+  "archived_at": "2026-07-14T21:21:31Z",
+  "metadata": {
+    "title": "Extreme Psychedelia",
+    "artist": "Max Julian Eastman",
+    "year": "2022",
+    "codec": "ALAC",
+    "num_tracks": 6,
+    "duration_seconds": 16044,
+    "duration_human": "04:27:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Max Julian Eastman - Side A",
+      "02 Max Julian Eastman - Side B",
+      "03 Max Julian Eastman - Side C",
+      "04 Max Julian Eastman - Side D",
+      "05 Max Julian Eastman - Side E",
+      "06 Max Julian Eastman - Side F"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/extreme-psychedelia_cc8857599c19"
+    }
+  }
+}
