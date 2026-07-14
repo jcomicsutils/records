@@ -1,0 +1,27 @@
+{
+  "id": "182-the-halfway-point_09c0891adee1",
+  "fingerprint": "09c0891adee1cf7dd8fa7d53dc98c878c15a5338589d139c32fc287eea1a8243",
+  "archived_at": "2026-07-14T21:41:57Z",
+  "metadata": {
+    "title": "182: The Halfway Point",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1195,
+    "duration_human": "00:19:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - The Halfway Point"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/182-the-halfway-point_09c0891adee1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/899dd566b5a7543198e8/182_The_Halfway_Point.tar"
+    }
+  }
+}
