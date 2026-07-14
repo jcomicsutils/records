@@ -1,0 +1,27 @@
+{
+  "id": "021-radio-broadcast-bullshit_dd9eb97266ec",
+  "fingerprint": "dd9eb97266eca8e58eb6cc20e6fba0624ca21329bfc87d9f1190303041824cbd",
+  "archived_at": "2026-07-14T16:14:07Z",
+  "metadata": {
+    "title": "021: Radio Broadcast Bullshit",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 842,
+    "duration_human": "00:14:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Radio Broadcast Bullshit"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/021-radio-broadcast-bullshit_dd9eb97266ec"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/84b99e8cd0884a5ea86c/021_Radio_Broadcast_Bullshit.tar"
+    }
+  }
+}
