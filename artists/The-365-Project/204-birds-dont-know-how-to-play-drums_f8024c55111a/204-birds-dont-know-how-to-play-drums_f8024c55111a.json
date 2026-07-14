@@ -1,0 +1,27 @@
+{
+  "id": "204-birds-dont-know-how-to-play-drums_f8024c55111a",
+  "fingerprint": "f8024c55111a2658a33a613093323106f23e2cd9ccbc6ba0165e8b7c92bc10ca",
+  "archived_at": "2026-07-14T22:04:45Z",
+  "metadata": {
+    "title": "204: Birds Don't Know How to Play Drums",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 512,
+    "duration_human": "00:08:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Birds Don't Know How to Play Drums"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/204-birds-dont-know-how-to-play-drums_f8024c55111a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/3e0ef0d493dfaf834a46/204_Birds_Don_t_Know_How_to_Play_Drums.tar"
+    }
+  }
+}
