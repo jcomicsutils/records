@@ -1,0 +1,27 @@
+{
+  "id": "275-a-day_c61f579843a5",
+  "fingerprint": "c61f579843a58474027268c13725b8de0e44a073e903d09884144a7dddf11638",
+  "archived_at": "2026-07-14T23:35:41Z",
+  "metadata": {
+    "title": "275: A Day",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 768,
+    "duration_human": "00:12:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - A Day"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/275-a-day_c61f579843a5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/0acb86cd07956abb86e0/275_A_Day.tar"
+    }
+  }
+}
