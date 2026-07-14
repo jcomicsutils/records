@@ -1,0 +1,27 @@
+{
+  "id": "076-session-1-unfinished_c71ebb900e49",
+  "fingerprint": "c71ebb900e49bee003464c8c9b6a1afd93098200f391f9305587ce727fdfe8a2",
+  "archived_at": "2026-07-14T17:01:04Z",
+  "metadata": {
+    "title": "076: Session 1 Unfinished",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 430,
+    "duration_human": "00:07:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Fags of the Sea (Demo 1)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/076-session-1-unfinished_c71ebb900e49"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/b2e29daa0e88509c352d/076_Session_1_Unfinished.tar"
+    }
+  }
+}

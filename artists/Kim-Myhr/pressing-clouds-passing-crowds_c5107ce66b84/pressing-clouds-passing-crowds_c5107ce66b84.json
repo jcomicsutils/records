@@ -1,0 +1,29 @@
+{
+  "id": "pressing-clouds-passing-crowds_c5107ce66b84",
+  "fingerprint": "c5107ce66b84ceb4092b6ff5f5462f297225786332e4d918f81a05159fc4a27b",
+  "archived_at": "2026-07-14T17:00:53Z",
+  "metadata": {
+    "title": "Pressing Clouds Passing Crowds",
+    "artist": "Kim Myhr",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2715,
+    "duration_human": "00:45:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kim Myhr, Quatuor Bozzini, Ingar Zach, Caroline Bergvall - Passing Through",
+      "02 Kim Myhr, Quatuor Bozzini, Ingar Zach, Caroline Bergvall - Days",
+      "03 Kim Myhr, Quatuor Bozzini, Ingar Zach, Caroline Bergvall - THNGS Dispr",
+      "04 Kim Myhr, Quatuor Bozzini, Ingar Zach, Caroline Bergvall - Past The",
+      "05 Kim Myhr, Quatuor Bozzini, Ingar Zach, Caroline Bergvall - Future Present",
+      "06 Kim Myhr, Quatuor Bozzini, Ingar Zach, Caroline Bergvall - Burning"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pressing-clouds-passing-crowds_c5107ce66b84"
+    }
+  }
+}
