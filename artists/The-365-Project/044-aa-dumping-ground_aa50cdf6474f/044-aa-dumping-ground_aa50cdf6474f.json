@@ -1,0 +1,29 @@
+{
+  "id": "044-aa-dumping-ground_aa50cdf6474f",
+  "fingerprint": "aa50cdf6474f3ad20f508835ee28d6191c4a75dbae8ad765276d0ee80c9112b6",
+  "archived_at": "2026-07-14T16:33:03Z",
+  "metadata": {
+    "title": "044: aa Dumping Ground",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 852,
+    "duration_human": "00:14:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Ves - Pls Clap",
+      "02 The 365 Project - Rat",
+      "03 Rice - IMG_4115"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/044-aa-dumping-ground_aa50cdf6474f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/08b58ffbff3b39e14c28/044_aa_Dumping_Ground.tar"
+    }
+  }
+}
