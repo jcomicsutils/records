@@ -28,6 +28,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/and-then-comes-the-night_6eed106e13e6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/7e4ef09a3e62959a7f14/And_Then_Comes_the_Night.tar"
     }
   }
 }
