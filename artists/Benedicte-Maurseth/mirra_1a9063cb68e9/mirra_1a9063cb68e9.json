@@ -1,0 +1,34 @@
+{
+  "id": "mirra_1a9063cb68e9",
+  "fingerprint": "1a9063cb68e9c34b58bb677445725ca2bdf778f613abf9d30fdec457570e0282",
+  "archived_at": "2026-07-14T17:05:47Z",
+  "metadata": {
+    "title": "Mirra",
+    "artist": "Benedicte Maurseth",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2458,
+    "duration_human": "00:40:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Benedicte Maurseth - Mirra",
+      "02 Benedicte Maurseth - Dagar med vind",
+      "03 Benedicte Maurseth - Kalven reiser seg",
+      "04 Benedicte Maurseth - Sommarbeite",
+      "05 Benedicte Maurseth - Kvitkrull",
+      "06 Benedicte Maurseth - Jaktmarsj",
+      "07 Benedicte Maurseth - Nysnø over reinlav",
+      "08 Benedicte Maurseth - Simleflokk under månen"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mirra_1a9063cb68e9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/4958869a8c1c52f54280/Mirra.tar"
+    }
+  }
+}
