@@ -1,0 +1,27 @@
+{
+  "id": "203-help_0f0868bd52f2",
+  "fingerprint": "0f0868bd52f2cc6528675240885bb059cddc189e767a5f0c176ce564cd709cdd",
+  "archived_at": "2026-07-14T22:04:02Z",
+  "metadata": {
+    "title": "203: Help",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 71,
+    "duration_human": "00:01:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Help"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/203-help_0f0868bd52f2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/72d9bce84f27c4190d2c/203_Help.tar"
+    }
+  }
+}
