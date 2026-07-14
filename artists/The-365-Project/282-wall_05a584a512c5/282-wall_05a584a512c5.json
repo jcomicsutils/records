@@ -1,0 +1,27 @@
+{
+  "id": "282-wall_05a584a512c5",
+  "fingerprint": "05a584a512c58d13dc0b5064d6719b18b335a48e97a5b2ade08d51d667676206",
+  "archived_at": "2026-07-14T23:59:06Z",
+  "metadata": {
+    "title": "282: Wall",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 2034,
+    "duration_human": "00:33:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Wall"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/282-wall_05a584a512c5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/5667dd721c8de04393e3/282_Wall.tar"
+    }
+  }
+}

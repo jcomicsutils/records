@@ -1,0 +1,30 @@
+{
+  "id": "the-earth-has-memory_e9825ad9ba9c",
+  "fingerprint": "e9825ad9ba9cd7f095a90a58349df9bfe22ca955c9bfece0726b42534c59bb2e",
+  "archived_at": "2026-07-14T23:58:42Z",
+  "metadata": {
+    "title": "The Earth Has Memory",
+    "artist": "Concepción Huerta",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2302,
+    "duration_human": "00:38:22",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Concepción Huerta - Emerges from the Deep",
+      "02 Concepción Huerta - The Crack is Illuminated",
+      "03 Concepción Huerta - Trepidation",
+      "04 Concepción Huerta - The Earth Has Memory, the Body Too",
+      "05 Concepción Huerta - The Sacredness: Minerals & Rhizome",
+      "06 Concepción Huerta - We Return to the Center",
+      "07 Concepción Huerta - From Another Place"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-earth-has-memory_e9825ad9ba9c"
+    }
+  }
+}
