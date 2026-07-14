@@ -1,0 +1,28 @@
+{
+  "id": "062-session-1_64bf40da0a08",
+  "fingerprint": "64bf40da0a08e84e5eb1a9b22afec97377eb383c0065a1f4af8a353f1aa0fc84",
+  "archived_at": "2026-07-14T16:45:03Z",
+  "metadata": {
+    "title": "062: Session 1",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1166,
+    "duration_human": "00:19:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Deadend Jam (Including 'Death of a Capitalist' and '[untitled]')",
+      "02 The 365 Project - Shitty Generic BM Song"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/062-session-1_64bf40da0a08"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/32ee5cb4ee0a8dd4fffc/062_Session_1.tar"
+    }
+  }
+}
