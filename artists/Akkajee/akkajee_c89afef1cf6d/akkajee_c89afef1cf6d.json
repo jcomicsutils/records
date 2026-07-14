@@ -1,0 +1,34 @@
+{
+  "id": "akkajee_c89afef1cf6d",
+  "fingerprint": "c89afef1cf6d8fa4c6cccfb3289ea621b43218d4cc90a9fdad8a2a167f3421c3",
+  "archived_at": "2026-07-14T15:50:22Z",
+  "metadata": {
+    "title": "Akkajee",
+    "artist": "Akkajee",
+    "year": "2013",
+    "codec": "MP3",
+    "num_tracks": 8,
+    "duration_seconds": 2204,
+    "duration_human": "00:36:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Akkajee - Alku",
+      "02 Akkajee - Serendipity",
+      "03 Akkajee - Keinokuitu",
+      "04 Akkajee - Nikunakuneitoset",
+      "05 Akkajee - Routa",
+      "06 Akkajee - Velisurmaaja",
+      "07 Akkajee - Pelto",
+      "08 Akkajee - Koutokeino"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/akkajee_c89afef1cf6d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/8358b8e7cd3c30ee75cf/Akkajee.tar"
+    }
+  }
+}
