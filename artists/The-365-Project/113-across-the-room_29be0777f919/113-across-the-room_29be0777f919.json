@@ -1,0 +1,27 @@
+{
+  "id": "113-across-the-room_29be0777f919",
+  "fingerprint": "29be0777f919f4862270899bc834fff50b8c37d37910a293a5914a9797e1dbfb",
+  "archived_at": "2026-07-14T18:31:09Z",
+  "metadata": {
+    "title": "113: Across the Room",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 710,
+    "duration_human": "00:11:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Across the Room"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/113-across-the-room_29be0777f919"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/3a366a7fbddacf23451f/113_Across_the_Room.tar"
+    }
+  }
+}
