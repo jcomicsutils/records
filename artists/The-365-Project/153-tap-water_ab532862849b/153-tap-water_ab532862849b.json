@@ -1,0 +1,27 @@
+{
+  "id": "153-tap-water_ab532862849b",
+  "fingerprint": "ab532862849b4a48c5eba2032cd0fffb49aa18c1293e5cbaa2cff327a753e4b4",
+  "archived_at": "2026-07-14T21:11:05Z",
+  "metadata": {
+    "title": "153: Tap Water",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 444,
+    "duration_human": "00:07:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Tap Water"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/153-tap-water_ab532862849b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/2d72c83b0f281de8a2f0/153_Tap_Water.tar"
+    }
+  }
+}
