@@ -1,0 +1,27 @@
+{
+  "id": "078-soundscape-1_2414043ecff6",
+  "fingerprint": "2414043ecff60d7f4bdf5576abc735802ca81a6c14e5d338fbaa8722cc03a1c1",
+  "archived_at": "2026-07-14T17:02:18Z",
+  "metadata": {
+    "title": "078: Soundscape 1",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 252,
+    "duration_human": "00:04:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Soundscape 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/078-soundscape-1_2414043ecff6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/b9f0904f021fb425ecb8/078_Soundscape_1.tar"
+    }
+  }
+}
