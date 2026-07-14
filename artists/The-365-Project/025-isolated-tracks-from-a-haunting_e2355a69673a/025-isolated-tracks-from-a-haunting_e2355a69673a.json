@@ -1,0 +1,28 @@
+{
+  "id": "025-isolated-tracks-from-a-haunting_e2355a69673a",
+  "fingerprint": "e2355a69673ad54352df94ba28f786886bbae0e7469032fdbb8a6fda92eeaaef",
+  "archived_at": "2026-07-14T16:17:02Z",
+  "metadata": {
+    "title": "025: Isolated Tracks from 'a Haunting'",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 674,
+    "duration_human": "00:11:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Isolated Guitar from 'a Haunting'",
+      "02 The 365 Project - Isolated Noise from 'a Haunting'"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/025-isolated-tracks-from-a-haunting_e2355a69673a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/cc23037dce69c0b39151/025_Isolated_Tracks_from_a_Haunting.tar"
+    }
+  }
+}
