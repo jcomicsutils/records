@@ -1,0 +1,27 @@
+{
+  "id": "107-we-know-where-you-sleep_0d6eec9b338e",
+  "fingerprint": "0d6eec9b338e7d8022b592d920a44e93d3d78d3f9828f84bda9b2f1cdba8ff96",
+  "archived_at": "2026-07-14T17:32:03Z",
+  "metadata": {
+    "title": "107: We Know Where You Sleep",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 821,
+    "duration_human": "00:13:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - We Know Where You Sleep"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/107-we-know-where-you-sleep_0d6eec9b338e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/8c74189fdbfbc38a08ae/107_We_Know_Where_You_Sleep.tar"
+    }
+  }
+}
