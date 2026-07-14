@@ -1,0 +1,30 @@
+{
+  "id": "inside-christmas-factory_30059736dad7",
+  "fingerprint": "30059736dad7bf5ed8fe0562e1a95f22085072ca7a68b2557c1148e8d2b1724a",
+  "archived_at": "2026-07-14T21:38:33Z",
+  "metadata": {
+    "title": "Inside Christmas Factory",
+    "artist": "Max Julian Eastman",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2521,
+    "duration_human": "00:42:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Max Julian Eastman - Hey Tony",
+      "02 Max Julian Eastman - Babel",
+      "03 Max Julian Eastman - Awful Liar II",
+      "04 Max Julian Eastman - Inside Christmas Factory (Arranged)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/inside-christmas-factory_30059736dad7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/294ab5e9fe14b50cd079/Inside_Christmas_Factory.tar"
+    }
+  }
+}
