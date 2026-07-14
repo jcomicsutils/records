@@ -1,0 +1,28 @@
+{
+  "id": "floating-layer-cake_ebd1a563e2c6",
+  "fingerprint": "ebd1a563e2c6db7d4b973221fb51e717af55944ade4ec0e6078dbf872547e344",
+  "archived_at": "2026-07-14T16:21:24Z",
+  "metadata": {
+    "title": "Floating Layer Cake",
+    "artist": "Kim Myhr",
+    "year": "2019",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 2329,
+    "duration_human": "00:38:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Ingar Zach / Caroline Bergvall / Kim Myhr / Quatuor Bozzini - The Lost Ones",
+      "02 Ingar Zach / Caroline Bergvall / Kim Myhr / Quatuor Bozzini - Let the Snare Speak"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/floating-layer-cake_ebd1a563e2c6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/096981284baa41443fcd/Floating_Layer_Cake.tar"
+    }
+  }
+}
