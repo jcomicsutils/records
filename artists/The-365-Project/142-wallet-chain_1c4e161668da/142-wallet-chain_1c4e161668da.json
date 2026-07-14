@@ -1,0 +1,27 @@
+{
+  "id": "142-wallet-chain_1c4e161668da",
+  "fingerprint": "1c4e161668da38c7384e87bc477db9d30d5fda633becc3a2224d0b26cada7a2b",
+  "archived_at": "2026-07-14T20:34:33Z",
+  "metadata": {
+    "title": "142: Wallet Chain",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 261,
+    "duration_human": "00:04:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Wallet Chain"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/142-wallet-chain_1c4e161668da"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/2c015ce9d1ad18f39006/142_Wallet_Chain.tar"
+    }
+  }
+}
