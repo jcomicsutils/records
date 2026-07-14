@@ -1,0 +1,27 @@
+{
+  "id": "054-radio-static_3996282a412c",
+  "fingerprint": "3996282a412c5968e9fa5fbcf461fc7220c00d7acea5842b774618f78ea34198",
+  "archived_at": "2026-07-14T16:39:15Z",
+  "metadata": {
+    "title": "054: Radio Static",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 4076,
+    "duration_human": "01:07:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Radio Static"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/054-radio-static_3996282a412c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/0db268e25d5c376307ed/054_Radio_Static.tar"
+    }
+  }
+}
