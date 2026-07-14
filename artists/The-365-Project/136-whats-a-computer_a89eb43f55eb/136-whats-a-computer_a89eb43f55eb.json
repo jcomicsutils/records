@@ -1,0 +1,27 @@
+{
+  "id": "136-whats-a-computer_a89eb43f55eb",
+  "fingerprint": "a89eb43f55eb74d9e47c29bb48abcbced5be3892441860a88fc96c6a5ac6bd7a",
+  "archived_at": "2026-07-14T20:14:02Z",
+  "metadata": {
+    "title": "136: What's a Computer?",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 499,
+    "duration_human": "00:08:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - What's a Computer?"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/136-whats-a-computer_a89eb43f55eb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/b6e80f574dfffd0e8e0a/136_What_s_a_Computer.tar"
+    }
+  }
+}
