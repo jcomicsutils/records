@@ -1,0 +1,27 @@
+{
+  "id": "162-spectre_1da6bb4805c0",
+  "fingerprint": "1da6bb4805c0dfc7f87b792863e60df1bf3a18cd62fe48f5360058e70b3c30c5",
+  "archived_at": "2026-07-14T21:24:18Z",
+  "metadata": {
+    "title": "162: Spectre",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 651,
+    "duration_human": "00:10:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Spectre"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/162-spectre_1da6bb4805c0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/7240a7412403562d138e/162_Spectre.tar"
+    }
+  }
+}
