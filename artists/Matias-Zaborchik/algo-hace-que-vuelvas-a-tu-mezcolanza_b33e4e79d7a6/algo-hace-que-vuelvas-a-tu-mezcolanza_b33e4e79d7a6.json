@@ -1,0 +1,29 @@
+{
+  "id": "algo-hace-que-vuelvas-a-tu-mezcolanza_b33e4e79d7a6",
+  "fingerprint": "b33e4e79d7a66c0f2796a7f3422cdaa71d4add4029b1ee07f2a8224d961d05ea",
+  "archived_at": "2026-07-14T21:58:35Z",
+  "metadata": {
+    "title": "Algo hace que vuelvas a tu mezcolanza",
+    "artist": "Matias Zaborchik",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 590,
+    "duration_human": "00:09:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Matias Zaborchik - El sentido incongruente; las prácticas anacrónicas",
+      "02 Matias Zaborchik - Un dolor crónico jamás podría punzar el cambio",
+      "03 Matias Zaborchik - Decepcionado, el amor, aún debía"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/algo-hace-que-vuelvas-a-tu-mezcolanza_b33e4e79d7a6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/9fc66edb731d7746ca7c/Algo_hace_que_vuelvas_a_tu_mezcolanza.tar"
+    }
+  }
+}
