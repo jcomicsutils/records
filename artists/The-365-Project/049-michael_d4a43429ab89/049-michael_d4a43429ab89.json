@@ -1,0 +1,29 @@
+{
+  "id": "049-michael_d4a43429ab89",
+  "fingerprint": "d4a43429ab89b08ec83ca0a147d70eddbb59856ef4c5993891f7ec5c8f8631bb",
+  "archived_at": "2026-07-14T16:36:04Z",
+  "metadata": {
+    "title": "049: Michael",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 708,
+    "duration_human": "00:11:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Static Jam",
+      "02 The 365 Project - Wooden Frog Fury! Vol. 2",
+      "03 The 365 Project - Michael"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/049-michael_d4a43429ab89"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/41647ee6a2f2e6aa47f4/049_Michael.tar"
+    }
+  }
+}

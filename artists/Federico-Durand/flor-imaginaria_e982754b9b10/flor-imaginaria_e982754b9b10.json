@@ -1,0 +1,25 @@
+{
+  "id": "flor-imaginaria_e982754b9b10",
+  "fingerprint": "e982754b9b103d1c837c1b0ff0bfb3a19a16d61369d4a5efcab92f07174c5dfb",
+  "archived_at": "2026-07-14T16:35:49Z",
+  "metadata": {
+    "title": "Flor Imaginaria",
+    "artist": "Federico Durand",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2437,
+    "duration_human": "00:40:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Federico Durand - Flor Imaginaria",
+      "02 Federico Durand - VIaje En Globo A Tierras Lejanas"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/flor-imaginaria_e982754b9b10"
+    }
+  }
+}
