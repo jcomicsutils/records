@@ -1,0 +1,27 @@
+{
+  "id": "149-nothing-special_bfaf11226cc0",
+  "fingerprint": "bfaf11226cc018bee99092c294d8db80ea5a6f2073402b03ef2d05787c1e723b",
+  "archived_at": "2026-07-14T21:02:11Z",
+  "metadata": {
+    "title": "149: Nothing Special",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 242,
+    "duration_human": "00:04:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Nothing Special"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/149-nothing-special_bfaf11226cc0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/c7e79c6ce083577a210c/149_Nothing_Special.tar"
+    }
+  }
+}
