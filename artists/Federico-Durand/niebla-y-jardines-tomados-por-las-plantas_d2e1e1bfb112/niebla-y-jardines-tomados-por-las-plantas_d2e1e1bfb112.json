@@ -1,0 +1,36 @@
+{
+  "id": "niebla-y-jardines-tomados-por-las-plantas_d2e1e1bfb112",
+  "fingerprint": "d2e1e1bfb112b5b6f7125511b2aee639c4183c463524bae970c61bf161d28ced",
+  "archived_at": "2026-07-14T17:50:55Z",
+  "metadata": {
+    "title": "Niebla y jardines tomados por las plantas",
+    "artist": "Federico Durand",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2853,
+    "duration_human": "00:47:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Federico Durand & hofli - Into a dream garden",
+      "02 Federico Durand & hofli - Lavanda",
+      "03 Federico Durand & hofli - Last night I was a cat in your garden",
+      "04 Federico Durand & hofli - Salvia",
+      "05 Federico Durand & hofli - And I looked up at the constellation",
+      "06 Federico Durand & hofli - Menta",
+      "07 Federico Durand & hofli - You have dreamed of me playing in your garden during siesta",
+      "08 Federico Durand & hofli - Jazmín del país",
+      "09 Federico Durand & hofli - In the herb fragrance",
+      "10 Federico Durand & hofli - Los siete cabritos"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/niebla-y-jardines-tomados-por-las-plantas_d2e1e1bfb112"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/f8092304370e445a33aa/Niebla_y_jardines_tomados_por_las_plantas.tar"
+    }
+  }
+}
