@@ -1,0 +1,27 @@
+{
+  "id": "186-smashing-mirrors_8334d8a91233",
+  "fingerprint": "8334d8a91233e9e09b3e64ab10f812653ddfe18fbd0cc325b144870cf4103445",
+  "archived_at": "2026-07-14T21:45:51Z",
+  "metadata": {
+    "title": "186: Smashing Mirrors",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 347,
+    "duration_human": "00:05:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Smashing Mirrors"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/186-smashing-mirrors_8334d8a91233"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/0c8c16907a5ad830a96f/186_Smashing_Mirrors.tar"
+    }
+  }
+}
