@@ -1,0 +1,24 @@
+{
+  "id": "up-to-the-sun-shall-go-your-heartache_8b6ac42d13cd",
+  "fingerprint": "8b6ac42d13cd243bbe68f86a2c8a8c439b64eb87fce2fe8953f6687818ccf34f",
+  "archived_at": "2026-07-14T17:27:55Z",
+  "metadata": {
+    "title": "Up to the Sun Shall Go Your Heartache",
+    "artist": "Kim Myhr",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 732,
+    "duration_human": "00:12:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kim Myhr - Up to the Sun Shall Go Your Heartache"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/up-to-the-sun-shall-go-your-heartache_8b6ac42d13cd"
+    }
+  }
+}
