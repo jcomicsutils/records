@@ -1,0 +1,27 @@
+{
+  "id": "240-i-was-always-cold_ed3bd1de5e82",
+  "fingerprint": "ed3bd1de5e82f6948fbf8b1d9790d9d0d0563ed8815c2e1a39415093c06b405f",
+  "archived_at": "2026-07-14T22:40:11Z",
+  "metadata": {
+    "title": "240: I Was Always Cold",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 429,
+    "duration_human": "00:07:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - I Was Always Cold"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/240-i-was-always-cold_ed3bd1de5e82"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/80e96e270ba4ec1642be/240_I_Was_Always_Cold.tar"
+    }
+  }
+}
