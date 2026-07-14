@@ -1,0 +1,34 @@
+{
+  "id": "la-siesta-del-cipres_62dc21989b7a",
+  "fingerprint": "62dc21989b7a454f6934cae2f1d6b3b4c60d9fd4e6f5fba5dfc87549b4cff23a",
+  "archived_at": "2026-07-14T17:19:37Z",
+  "metadata": {
+    "title": "La Siesta del Ciprés",
+    "artist": "Federico Durand",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2161,
+    "duration_human": "00:36:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Federico Durand - El Mundo Secreto de la Montaña",
+      "02 Federico Durand - Mi Pequeño Mundo de Papel",
+      "03 Federico Durand - La Siesta del Ciprés",
+      "04 Federico Durand - El Increíble Altillo de Lili y Sebastian",
+      "05 Federico Durand - Nos Alejamos de la Casa, Sobre la Nieve Joven",
+      "06 Federico Durand - Los Alerces del Patio",
+      "07 Federico Durand - Luna",
+      "08 Federico Durand - Pudú, Tu Nombre es Tobías?"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/la-siesta-del-cipres_62dc21989b7a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/1ad7fd91d3dd8aa73900/La_Siesta_del_Cipr_s.tar"
+    }
+  }
+}
