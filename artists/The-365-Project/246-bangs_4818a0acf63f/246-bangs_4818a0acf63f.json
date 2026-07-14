@@ -1,0 +1,28 @@
+{
+  "id": "246-bangs_4818a0acf63f",
+  "fingerprint": "4818a0acf63ffa1fa2f15f47442a24ead0644fba221f96e4256c888b773aba05",
+  "archived_at": "2026-07-14T23:07:50Z",
+  "metadata": {
+    "title": "246: Bangs",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 277,
+    "duration_human": "00:04:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Knots",
+      "02 The 365 Project - Bangs"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/246-bangs_4818a0acf63f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/3155b4a71244f5138027/246_Bangs.tar"
+    }
+  }
+}
