@@ -1,0 +1,27 @@
+{
+  "id": "you-me-excerpt_fef7365cc5e3",
+  "fingerprint": "fef7365cc5e359b93e4f61f8ce059202e2a590cba9f4bad84fc02cc8cd94f91d",
+  "archived_at": "2026-07-14T19:09:11Z",
+  "metadata": {
+    "title": "You | Me (Excerpt)",
+    "artist": "Kim Myhr",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 431,
+    "duration_human": "00:07:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kim Myhr, Hans Hulbækmo, Ingar Zach, Tony Buck - You | Me (Excerpt)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/you-me-excerpt_fef7365cc5e3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/62f3967240752ca42857/You_Me_Excerpt.tar"
+    }
+  }
+}
