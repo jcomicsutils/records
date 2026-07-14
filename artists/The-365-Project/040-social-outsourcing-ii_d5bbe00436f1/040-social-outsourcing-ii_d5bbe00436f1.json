@@ -1,0 +1,28 @@
+{
+  "id": "040-social-outsourcing-ii_d5bbe00436f1",
+  "fingerprint": "d5bbe00436f104db550e3f384cd0b1206d02be6179100a5faa0d432d6619fb9d",
+  "archived_at": "2026-07-14T16:30:18Z",
+  "metadata": {
+    "title": "040: Social Outsourcing II",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 931,
+    "duration_human": "00:15:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Death by a Million Flowers",
+      "02 Luca Calmera - Time is of the essence"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/040-social-outsourcing-ii_d5bbe00436f1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/bbb7a8f497c066801125/040_Social_Outsourcing_II.tar"
+    }
+  }
+}
