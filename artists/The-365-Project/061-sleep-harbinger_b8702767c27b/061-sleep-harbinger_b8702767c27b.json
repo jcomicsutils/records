@@ -1,0 +1,27 @@
+{
+  "id": "061-sleep-harbinger_b8702767c27b",
+  "fingerprint": "b8702767c27bedd78aad13742796018136471b82d99e931db8304472c3a69304",
+  "archived_at": "2026-07-14T16:44:21Z",
+  "metadata": {
+    "title": "061: Sleep Harbinger",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 5998,
+    "duration_human": "01:39:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Sleep Harbinger"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/061-sleep-harbinger_b8702767c27b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/bdaa9cd00c07e81b345e/061_Sleep_Harbinger.tar"
+    }
+  }
+}
