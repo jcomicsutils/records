@@ -1,0 +1,41 @@
+{
+  "id": "the-copper-alloy_1ea043060d7f",
+  "fingerprint": "1ea043060d7f2732d481df6fd110406082f8d7007648232f1b9d9076873c9c49",
+  "archived_at": "2026-07-14T14:36:40Z",
+  "metadata": {
+    "title": "The Copper Alloy",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 7528,
+    "duration_human": "02:05:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - A Secret Bunker",
+      "02 Zeffon - Sulfur-Smell",
+      "03 Zeffon - Still Cannot Understand the Industrial Quantities",
+      "04 Zeffon - Envision",
+      "05 Zeffon - A Great War and Tragedy",
+      "06 Zeffon - Pottery of Mud",
+      "07 Zeffon - Deep in the Forest, A Bunker Dedicated to a Hideaway Dictator",
+      "08 Zeffon - The Strange Concrete Foundation",
+      "09 Zeffon - Shower Title, Cannot See Nor Understand",
+      "10 Zeffon - Vague Way the Individuals in the Camp Operate",
+      "11 Zeffon - Sinewave Warfare",
+      "12 Zeffon - Mustard Gas Has Been Used on the Prisoners",
+      "13 Zeffon - Our People and Children Were Abducted in the Night",
+      "14 Zeffon - Train and the Disciple",
+      "15 Zeffon - Sil Capitria (235)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-copper-alloy_1ea043060d7f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/991f6b878d0d7aed0f1b/The_Copper_Alloy.tar"
+    }
+  }
+}
