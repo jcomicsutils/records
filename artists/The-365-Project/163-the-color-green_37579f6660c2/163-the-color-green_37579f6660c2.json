@@ -1,0 +1,27 @@
+{
+  "id": "163-the-color-green_37579f6660c2",
+  "fingerprint": "37579f6660c22b00460fb7e8fb0d7fa2aa9da6a058626f6966a28592778e32bc",
+  "archived_at": "2026-07-14T21:25:12Z",
+  "metadata": {
+    "title": "163: The Color Green",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 729,
+    "duration_human": "00:12:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - The Color Green"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/163-the-color-green_37579f6660c2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/d4a78e7f7a1a27bee80d/163_The_Color_Green.tar"
+    }
+  }
+}
