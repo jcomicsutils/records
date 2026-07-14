@@ -1,0 +1,28 @@
+{
+  "id": "134-digitized-distortion_893bdc912fb9",
+  "fingerprint": "893bdc912fb94b5dfbdef0e9c685a70b9903965406ac82bc49ded8a032841408",
+  "archived_at": "2026-07-14T20:10:04Z",
+  "metadata": {
+    "title": "134: Digitized Distortion",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 546,
+    "duration_human": "00:09:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Mellow Interlude",
+      "02 The 365 Project - Digitized Distortion"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/134-digitized-distortion_893bdc912fb9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/08575b6ad193d7ea6d2e/134_Digitized_Distortion.tar"
+    }
+  }
+}
