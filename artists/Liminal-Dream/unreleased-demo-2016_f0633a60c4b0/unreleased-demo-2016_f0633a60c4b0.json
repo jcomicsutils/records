@@ -1,0 +1,28 @@
+{
+  "id": "unreleased-demo-2016_f0633a60c4b0",
+  "fingerprint": "f0633a60c4b0015308417531dae02ab72ed4dcc2b3fcafe090ab2d630f169b68",
+  "archived_at": "2026-07-14T21:30:30Z",
+  "metadata": {
+    "title": "Unreleased demo 2016",
+    "artist": "Liminal Dream",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2769,
+    "duration_human": "00:46:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Liminal Dream - Calzä Ollhcëfvtärä",
+      "02 Liminal Dream - Aevsan thjérën tha Ovrälein"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/unreleased-demo-2016_f0633a60c4b0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/dc5984d1270ae72b1cac/Unreleased_demo_2016.tar"
+    }
+  }
+}
