@@ -1,0 +1,27 @@
+{
+  "id": "119-radio-show_ceeeb4642efc",
+  "fingerprint": "ceeeb4642efca348e5061284013034ffa71359230db9a6bd2def7ef1561b63ce",
+  "archived_at": "2026-07-14T18:48:36Z",
+  "metadata": {
+    "title": "119: Radio Show",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 731,
+    "duration_human": "00:12:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Radio Show"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/119-radio-show_ceeeb4642efc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/b2b8cbeb23f3d185a6de/119_Radio_Show.tar"
+    }
+  }
+}
