@@ -1,0 +1,27 @@
+{
+  "id": "034-im-a-cowboy_457a99aa8ec3",
+  "fingerprint": "457a99aa8ec34851a17e68e0f0bafd14af3800bef629ce1660946d60c992b215",
+  "archived_at": "2026-07-14T16:26:31Z",
+  "metadata": {
+    "title": "034: I'm a Cowboy",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1333,
+    "duration_human": "00:22:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - I'm a Cowboy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/034-im-a-cowboy_457a99aa8ec3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/73f7f869b8239f6cb6be/034_I_m_a_Cowboy.tar"
+    }
+  }
+}
