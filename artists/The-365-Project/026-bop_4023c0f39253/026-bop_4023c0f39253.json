@@ -1,0 +1,28 @@
+{
+  "id": "026-bop_4023c0f39253",
+  "fingerprint": "4023c0f392538d01ff25a2811f5d6480a89765a4f80e5a359674557221cfe3d8",
+  "archived_at": "2026-07-14T16:17:45Z",
+  "metadata": {
+    "title": "026: Bop",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 139,
+    "duration_human": "00:02:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Bop",
+      "02 The 365 Project - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/026-bop_4023c0f39253"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/b3472eb56a965343bbb0/026_Bop.tar"
+    }
+  }
+}
