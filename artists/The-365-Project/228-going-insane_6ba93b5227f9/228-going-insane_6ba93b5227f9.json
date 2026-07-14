@@ -1,0 +1,27 @@
+{
+  "id": "228-going-insane_6ba93b5227f9",
+  "fingerprint": "6ba93b5227f918700700982fa0566dc01d15020bc3972d6d42192d447b313dac",
+  "archived_at": "2026-07-14T22:29:16Z",
+  "metadata": {
+    "title": "228: Going Insane",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 402,
+    "duration_human": "00:06:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Going Insane"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/228-going-insane_6ba93b5227f9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/ce2fa73a1cd0482b7ad3/228_Going_Insane.tar"
+    }
+  }
+}
