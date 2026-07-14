@@ -27,6 +27,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/harr_adc7d684dc5c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/984cff0f86af409d8b86/H_rr.tar"
     }
   }
 }
