@@ -1,0 +1,27 @@
+{
+  "id": "260-outro_1ce2e57ddd2a",
+  "fingerprint": "1ce2e57ddd2a4272baad06e1919a763f4a78a6e1a0fbf26669c175b8fc4755b8",
+  "archived_at": "2026-07-14T23:24:18Z",
+  "metadata": {
+    "title": "260: Outro",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 306,
+    "duration_human": "00:05:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Outro"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/260-outro_1ce2e57ddd2a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/e17d7306951d5faf8fb2/260_Outro.tar"
+    }
+  }
+}
