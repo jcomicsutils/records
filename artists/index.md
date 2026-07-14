@@ -29,6 +29,7 @@
 - [BLUE NOISE](BLUE-NOISE/BLUE-NOISE.md)
 - [Bardo Todol](Bardo-Todol/Bardo-Todol.md)
 - [Bark Psychosis](Bark-Psychosis/Bark-Psychosis.md)
+- [Benedicte Maurseth](Benedicte-Maurseth/Benedicte-Maurseth.md)
 - [Besna](Besna/Besna.md)
 - [Big Blood](Big-Blood/Big-Blood.md)
 - [Big Blood & Visitations](Big-Blood-&-Visitations/Big-Blood-&-Visitations.md)

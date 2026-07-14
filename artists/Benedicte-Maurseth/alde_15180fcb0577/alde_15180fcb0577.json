@@ -1,0 +1,41 @@
+{
+  "id": "alde_15180fcb0577",
+  "fingerprint": "15180fcb05771422c0d5adad798162259a220bf944993e446ec0213cc829d035",
+  "archived_at": "2026-07-14T16:11:25Z",
+  "metadata": {
+    "title": "Alde",
+    "artist": "Benedicte Maurseth",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 2844,
+    "duration_human": "00:47:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Benedicte Maurseth - Bøn",
+      "02 Benedicte Maurseth - Fylgje",
+      "03 Benedicte Maurseth - Til Knut",
+      "04 Benedicte Maurseth - Torghallingen",
+      "05 Benedicte Maurseth - Springar På Seltakvednstille",
+      "06 Benedicte Maurseth - Lett Regn Av Lys",
+      "07 Benedicte Maurseth - Sissel-Hallingen",
+      "08 Benedicte Maurseth - Alida",
+      "09 Benedicte Maurseth - Inspirasjon",
+      "10 Benedicte Maurseth - Kjetil-Slåtten",
+      "11 Benedicte Maurseth - Mellomspel",
+      "12 Benedicte Maurseth - Jenglenuten",
+      "13 Benedicte Maurseth - Gamle Gunnar",
+      "14 Benedicte Maurseth - Vals",
+      "15 Benedicte Maurseth - Alde"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/alde_15180fcb0577"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/07f8a6a0c2059468b018/Alde.tar"
+    }
+  }
+}
