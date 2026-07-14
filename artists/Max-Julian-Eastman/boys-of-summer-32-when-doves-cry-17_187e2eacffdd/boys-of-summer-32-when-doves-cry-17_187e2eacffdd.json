@@ -1,0 +1,25 @@
+{
+  "id": "boys-of-summer-32-when-doves-cry-17_187e2eacffdd",
+  "fingerprint": "187e2eacffdd76f5a091ff07a6ba1496326932d240ecef126c6b20445c1d6fb8",
+  "archived_at": "2026-07-14T16:24:53Z",
+  "metadata": {
+    "title": "Boys of Summer #32 / When Doves Cry #17",
+    "artist": "Max Julian Eastman",
+    "year": "2023",
+    "codec": "ALAC",
+    "num_tracks": 2,
+    "duration_seconds": 5598,
+    "duration_human": "01:33:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Max Julian Eastman - Boys of Summer #32",
+      "02 Max Julian Eastman - When Doves Cry #17"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/boys-of-summer-32-when-doves-cry-17_187e2eacffdd"
+    }
+  }
+}

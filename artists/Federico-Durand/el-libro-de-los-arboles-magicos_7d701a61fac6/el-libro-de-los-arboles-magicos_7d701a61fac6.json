@@ -1,0 +1,30 @@
+{
+  "id": "el-libro-de-los-arboles-magicos_7d701a61fac6",
+  "fingerprint": "7d701a61fac6e6bd46019beced9233cec45c4a280c8b78f91d49c98c8b43a2e2",
+  "archived_at": "2026-07-14T16:24:53Z",
+  "metadata": {
+    "title": "El Libro De Los Árboles Mágicos",
+    "artist": "Federico Durand",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2503,
+    "duration_human": "00:41:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Federico Durand - Crisantemo",
+      "02 Federico Durand - Atardecer",
+      "03 Federico Durand - La Edad Del Bosque",
+      "04 Federico Durand - La Niebla Cambia De Color",
+      "05 Federico Durand - El Pequeño Zorro Colorado",
+      "06 Federico Durand - El Libro De Los Árboles Mágicos",
+      "07 Federico Durand - Cinco Luciérnagas"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/el-libro-de-los-arboles-magicos_7d701a61fac6"
+    }
+  }
+}

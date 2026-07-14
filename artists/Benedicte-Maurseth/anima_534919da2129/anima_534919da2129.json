@@ -32,6 +32,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/anima_534919da2129"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/6c644ea3069365cfcdea/Anima.tar"
     }
   }
 }
