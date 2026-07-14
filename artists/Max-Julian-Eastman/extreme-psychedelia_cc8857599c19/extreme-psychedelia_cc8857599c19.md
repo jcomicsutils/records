@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/extreme-psychedelia_cc8857599c19)
+- [FileDitch](https://fileditchfiles.st/beta14/d2226fed2cafd2a2a66b/Extreme_Psychedelia.tar)
 
 ## Tracklist
 
