@@ -1,0 +1,27 @@
+{
+  "id": "102-hell-2_d0a020c908e9",
+  "fingerprint": "d0a020c908e98494e0fe1cb1145abe39a3d514cf4c12ce43af9800505002a9b1",
+  "archived_at": "2026-07-14T17:27:02Z",
+  "metadata": {
+    "title": "102: Hell 2",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 334,
+    "duration_human": "00:05:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Hell 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/102-hell-2_d0a020c908e9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/81485aa147b1b9e48cd3/102_Hell_2.tar"
+    }
+  }
+}
