@@ -1,0 +1,28 @@
+{
+  "id": "030-210-rage-bait_6872280fe322",
+  "fingerprint": "6872280fe322774d86ec5285df5260b6c407e4e337234c5b38bbd66d86f913b3",
+  "archived_at": "2026-07-14T16:21:51Z",
+  "metadata": {
+    "title": "030: 2/10 rage bait",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1122,
+    "duration_human": "00:18:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Joker Mode: Activate",
+      "02 The 365 Project - 2/10 rage bait"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/030-210-rage-bait_6872280fe322"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/da01c8c2eec78316e647/030_2_-_10_rage_bait.tar"
+    }
+  }
+}
