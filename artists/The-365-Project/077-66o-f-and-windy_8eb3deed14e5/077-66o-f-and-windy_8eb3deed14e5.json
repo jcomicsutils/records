@@ -1,0 +1,27 @@
+{
+  "id": "077-66o-f-and-windy_8eb3deed14e5",
+  "fingerprint": "8eb3deed14e543be337eab93374ccfc15fda9165c9bf640e9cdf101920279fd6",
+  "archived_at": "2026-07-14T17:01:40Z",
+  "metadata": {
+    "title": "077: 66º F and Windy",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 934,
+    "duration_human": "00:15:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - 66º F and Windy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/077-66o-f-and-windy_8eb3deed14e5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/83672b76b78863ea58f7/077_66_F_and_Windy.tar"
+    }
+  }
+}
