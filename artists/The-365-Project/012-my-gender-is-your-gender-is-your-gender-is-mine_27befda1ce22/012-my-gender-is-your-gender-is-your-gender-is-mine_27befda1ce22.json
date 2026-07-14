@@ -1,0 +1,28 @@
+{
+  "id": "012-my-gender-is-your-gender-is-your-gender-is-mine_27befda1ce22",
+  "fingerprint": "27befda1ce228286e1a512f4f5833af1203702ddf0dbe73973ef7a39a2b874a1",
+  "archived_at": "2026-07-14T16:05:02Z",
+  "metadata": {
+    "title": "012: My Gender is Your Gender is Your Gender is Mine",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1545,
+    "duration_human": "00:25:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - My Gender is Your Gender is Your Gender is Mine",
+      "02 The 365 Project - Amp Fuckery, Vol. 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/012-my-gender-is-your-gender-is-your-gender-is-mine_27befda1ce22"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/aae181b00b6cad087257/012_My_Gender_is_Your_Gender_is_Your_Gender_is_Mine.tar"
+    }
+  }
+}
