@@ -1,0 +1,27 @@
+{
+  "id": "147-dronedeath-omega_cbbd2c969eb4",
+  "fingerprint": "cbbd2c969eb4f6d88c9b7c20ccabb1327fe3a3be44523d4f5cfb80f7d794fe43",
+  "archived_at": "2026-07-14T20:58:41Z",
+  "metadata": {
+    "title": "147: Dronedeath Omega",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 3152,
+    "duration_human": "00:52:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Dronedeath Omega"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/147-dronedeath-omega_cbbd2c969eb4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/76898d55a0780e3fb4b8/147_Dronedeath_Omega.tar"
+    }
+  }
+}
