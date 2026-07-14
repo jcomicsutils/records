@@ -28,6 +28,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/model-of-malehood_3acfc92825b0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/12bc99b3ec6ff2a82748/Model_of_Malehood.tar"
     }
   }
 }
