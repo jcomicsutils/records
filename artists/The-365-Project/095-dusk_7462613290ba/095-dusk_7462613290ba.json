@@ -1,0 +1,30 @@
+{
+  "id": "095-dusk_7462613290ba",
+  "fingerprint": "7462613290bac0a84322045adf614254ed713e8a947b9036c81fe87970606db5",
+  "archived_at": "2026-07-14T17:21:40Z",
+  "metadata": {
+    "title": "095: Dusk",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 2641,
+    "duration_human": "00:44:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Paranoia Deluxe",
+      "02 The 365 Project - Solo 04/05/2025",
+      "03 Cozmikaze - Cozmikaze's dog barks 4 times",
+      "04 The 365 Project - Broken Fog, Pt. 2 (Long Take)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/095-dusk_7462613290ba"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/903cf577fe1eb37a2bf3/095_Dusk.tar"
+    }
+  }
+}
