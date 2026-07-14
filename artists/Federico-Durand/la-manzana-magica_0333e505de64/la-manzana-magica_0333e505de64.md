@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/la-manzana-magica_0333e505de64)
+- [FileDitch](https://fileditchfiles.st/beta14/ef3f9d929ae9641bbe0b/La_Manzana_M_gica.tar)
 
 ## Tracklist
 

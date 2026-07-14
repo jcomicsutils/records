@@ -15,4 +15,4 @@
 | [In the Open](in-the-open_170c1a900973/in-the-open_170c1a900973.md) | 2020 | FLAC | 00:39:26 | [IA](https://archive.org/details/in-the-open_170c1a900973) [FileDitch](https://fileditchfiles.st/beta14/e25414c382ed98189da9/In_the_Open.tar) |
 | [Herbario](herbario_40ea7e9865af/herbario_40ea7e9865af.md) | 2021 | FLAC | 00:39:52 | [IA](https://archive.org/details/herbario_40ea7e9865af) [FileDitch](https://fileditchfiles.st/beta14/9f6303679d07a3e2e402/Herbario.tar) |
 | [Dia de Nieve](dia-de-nieve_1fb8ab7de395/dia-de-nieve_1fb8ab7de395.md) | 2023 | FLAC | 00:08:30 | [IA](https://archive.org/details/dia-de-nieve_1fb8ab7de395) [FileDitch](https://fileditchfiles.st/beta14/c7d2380978e897c659d1/Dia_de_Nieve.tar) |
-| [La Manzana Mágica](la-manzana-magica_0333e505de64/la-manzana-magica_0333e505de64.md) | 2026 | FLAC | 00:41:48 | [IA](https://archive.org/details/la-manzana-magica_0333e505de64) |
+| [La Manzana Mágica](la-manzana-magica_0333e505de64/la-manzana-magica_0333e505de64.md) | 2026 | FLAC | 00:41:48 | [IA](https://archive.org/details/la-manzana-magica_0333e505de64) [FileDitch](https://fileditchfiles.st/beta14/ef3f9d929ae9641bbe0b/La_Manzana_M_gica.tar) |
