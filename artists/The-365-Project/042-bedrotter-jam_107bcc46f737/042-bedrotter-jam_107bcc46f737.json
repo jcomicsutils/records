@@ -1,0 +1,27 @@
+{
+  "id": "042-bedrotter-jam_107bcc46f737",
+  "fingerprint": "107bcc46f7376f0e9e24baeee08caf9e50066e0444cf0ccd6457fa7c64e09b78",
+  "archived_at": "2026-07-14T16:31:36Z",
+  "metadata": {
+    "title": "042: Bedrotter Jam",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 973,
+    "duration_human": "00:16:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Bedrotter Jam"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/042-bedrotter-jam_107bcc46f737"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/b1f087ad0af5e0dbb747/042_Bedrotter_Jam.tar"
+    }
+  }
+}
