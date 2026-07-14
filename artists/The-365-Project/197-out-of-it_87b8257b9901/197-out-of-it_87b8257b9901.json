@@ -1,0 +1,27 @@
+{
+  "id": "197-out-of-it_87b8257b9901",
+  "fingerprint": "87b8257b9901dd65da896f0e65deacfe1ed84ab2d5db8e6300b6c695ba542ca6",
+  "archived_at": "2026-07-14T21:54:09Z",
+  "metadata": {
+    "title": "197: Out of It",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 216,
+    "duration_human": "00:03:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Out of It"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/197-out-of-it_87b8257b9901"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/a0204814068e254aa9e6/197_Out_of_It.tar"
+    }
+  }
+}
