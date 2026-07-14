@@ -1,0 +1,30 @@
+{
+  "id": "086-iphone-demos-circa-late-2023-mid-2024_d7b05d19159e",
+  "fingerprint": "d7b05d19159e84c47fa567ddf0a518594294ee2949e64c4924cbc91397864286",
+  "archived_at": "2026-07-14T17:12:12Z",
+  "metadata": {
+    "title": "086: iPhone Demos Circa Late 2023 - Mid 2024",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 2421,
+    "duration_human": "00:40:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - The Road Ahead is Shrouded and Gone, Pts. 1 & 2",
+      "02 The 365 Project - The Long Crawl: Demo 2",
+      "03 The 365 Project - Would You Die for Me: Take 3",
+      "04 The 365 Project - Acoustic Suite: Dawn / [...] / The Phoenix / Lifestarter Outro"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/086-iphone-demos-circa-late-2023-mid-2024_d7b05d19159e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/5a316145da3c9b41d500/086_iPhone_Demos_Circa_Late_2023_-_Mid_2024.tar"
+    }
+  }
+}
