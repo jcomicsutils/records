@@ -1,0 +1,29 @@
+{
+  "id": "199-assorted-nature-recordings_2e83aa2f755a",
+  "fingerprint": "2e83aa2f755ab72a2c7cedfaab13089733e50cca1d681e7386e2067551769499",
+  "archived_at": "2026-07-14T21:55:42Z",
+  "metadata": {
+    "title": "199: Assorted Nature Recordings",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 1198,
+    "duration_human": "00:19:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Trill",
+      "02 The 365 Project - Grunt and Falsify",
+      "03 The 365 Project - Other People"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/199-assorted-nature-recordings_2e83aa2f755a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/4d3792ee47ca8fedf762/199_Assorted_Nature_Recordings.tar"
+    }
+  }
+}
