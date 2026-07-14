@@ -1,0 +1,27 @@
+{
+  "id": "242-ep_f7186b8ee878",
+  "fingerprint": "f7186b8ee878254e5693d9cdd6f65ac82ba9fc6d33a847702b84b671cf0cbeba",
+  "archived_at": "2026-07-14T23:05:07Z",
+  "metadata": {
+    "title": "242: EP",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 349,
+    "duration_human": "00:05:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Song"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/242-ep_f7186b8ee878"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/248b09d215a6e9bf3a03/242_EP.tar"
+    }
+  }
+}
