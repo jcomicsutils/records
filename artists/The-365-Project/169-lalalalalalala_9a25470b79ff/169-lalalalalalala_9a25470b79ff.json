@@ -1,0 +1,27 @@
+{
+  "id": "169-lalalalalalala_9a25470b79ff",
+  "fingerprint": "9a25470b79ff4ed3c7adfe564d074ce3774adb929005bb898797e2772f4793ab",
+  "archived_at": "2026-07-14T21:29:51Z",
+  "metadata": {
+    "title": "169: Lalalalalalala",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 751,
+    "duration_human": "00:12:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Lalalalalalala"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/169-lalalalalalala_9a25470b79ff"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/5281b0bbfa8b0be874c2/169_Lalalalalalala.tar"
+    }
+  }
+}
