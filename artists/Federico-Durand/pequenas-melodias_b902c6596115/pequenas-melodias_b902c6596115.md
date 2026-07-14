@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/pequenas-melodias_b902c6596115)
+- [FileDitch](https://fileditchfiles.st/beta14/992a13795969f799692d/Peque_as_Melodias.tar)
 
 ## Tracklist
 
