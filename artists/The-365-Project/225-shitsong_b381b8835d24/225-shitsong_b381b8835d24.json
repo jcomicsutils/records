@@ -1,0 +1,27 @@
+{
+  "id": "225-shitsong_b381b8835d24",
+  "fingerprint": "b381b8835d24f3f5644aa6545b0e9ce2454aff30024b7f9109a44315f7dd6927",
+  "archived_at": "2026-07-14T22:27:21Z",
+  "metadata": {
+    "title": "225: shitsong",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 34,
+    "duration_human": "00:00:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - shitsong"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/225-shitsong_b381b8835d24"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/1cf0666bd8003b991216/225_shitsong.tar"
+    }
+  }
+}
