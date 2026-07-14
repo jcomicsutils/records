@@ -1,0 +1,27 @@
+{
+  "id": "the-creation_274b0e095e6f",
+  "fingerprint": "274b0e095e6f83c3e6783dc6b29bcfa7560c127f34d443593e3a8baaf5b2c186",
+  "archived_at": "2026-07-14T14:46:30Z",
+  "metadata": {
+    "title": "The Creation",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 7447,
+    "duration_human": "02:04:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - I.O.L.E. DAB"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-creation_274b0e095e6f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/5f19149491481f63f693/The_Creation.tar"
+    }
+  }
+}
