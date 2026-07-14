@@ -1,0 +1,28 @@
+{
+  "id": "209-lovely-thunderstorm-final_0ca094d83510",
+  "fingerprint": "0ca094d83510e3332e2ed00fff046c4de3cbf5a71a60ea117f1d1620e609f431",
+  "archived_at": "2026-07-14T22:09:44Z",
+  "metadata": {
+    "title": "209: Lovely Thunderstorm -Final-",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1435,
+    "duration_human": "00:23:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Lovely Thunderstorm -Final-",
+      "02 The 365 Project - July 28, 2025, 7:46 PM"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/209-lovely-thunderstorm-final_0ca094d83510"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/eac0261c71627a7feff3/209_Lovely_Thunderstorm_-Final.tar"
+    }
+  }
+}
