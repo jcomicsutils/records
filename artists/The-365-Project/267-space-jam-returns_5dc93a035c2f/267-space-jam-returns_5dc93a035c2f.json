@@ -1,0 +1,27 @@
+{
+  "id": "267-space-jam-returns_5dc93a035c2f",
+  "fingerprint": "5dc93a035c2f650958c21067382e4fdde4560d7d692003a6bc783d7dc88adc85",
+  "archived_at": "2026-07-14T23:30:44Z",
+  "metadata": {
+    "title": "267: Space Jam Returns",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 704,
+    "duration_human": "00:11:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Space Jam Returns"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/267-space-jam-returns_5dc93a035c2f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/059e070b2865ccda5f54/267_Space_Jam_Returns.tar"
+    }
+  }
+}
