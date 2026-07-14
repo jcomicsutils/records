@@ -1,0 +1,27 @@
+{
+  "id": "269-internet-handles_5d32e914d663",
+  "fingerprint": "5d32e914d66385b261eda96fe133cb5c4181d99de86494e19c65e1f7bca210b6",
+  "archived_at": "2026-07-14T23:31:57Z",
+  "metadata": {
+    "title": "269: Internet Handles",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 704,
+    "duration_human": "00:11:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Internet Handles"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/269-internet-handles_5d32e914d663"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/11eae8144362039ea53a/269_Internet_Handles.tar"
+    }
+  }
+}
