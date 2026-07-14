@@ -1,0 +1,28 @@
+{
+  "id": "009-if-i-had-a-reason_9dd06aeb5df4",
+  "fingerprint": "9dd06aeb5df4978e6fd346bc3331e8e111cab0e88e33c364a2a5f8c565be6db9",
+  "archived_at": "2026-07-14T16:01:22Z",
+  "metadata": {
+    "title": "009: If I Had a Reason",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 230,
+    "duration_human": "00:03:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - If I Had a Reason",
+      "02 The 365 Project - Maddie Complains About Her Pinky Finger for 40 Seconds"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/009-if-i-had-a-reason_9dd06aeb5df4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/5335be83e6f67a7ccd97/009_If_I_Had_a_Reason.tar"
+    }
+  }
+}
