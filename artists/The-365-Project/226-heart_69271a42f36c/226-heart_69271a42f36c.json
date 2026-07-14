@@ -1,0 +1,27 @@
+{
+  "id": "226-heart_69271a42f36c",
+  "fingerprint": "69271a42f36c6f8fa3a1c5008f804ca1e88c775ac088a69b3c26842b40d3b1c5",
+  "archived_at": "2026-07-14T22:28:07Z",
+  "metadata": {
+    "title": "226: Heart",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1801,
+    "duration_human": "00:30:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Heart"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/226-heart_69271a42f36c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/5bb10ee4ef88d95e2afd/226_Heart.tar"
+    }
+  }
+}
