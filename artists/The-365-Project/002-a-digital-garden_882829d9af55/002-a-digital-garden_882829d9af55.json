@@ -1,0 +1,28 @@
+{
+  "id": "002-a-digital-garden_882829d9af55",
+  "fingerprint": "882829d9af555b2ec59dcc0044a5f504882225c3f0b968e359e48ec1eac0a741",
+  "archived_at": "2026-07-14T15:54:30Z",
+  "metadata": {
+    "title": "002: (A) Digital Garden",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1582,
+    "duration_human": "00:26:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - (A) Little Ditty",
+      "02 The 365 Project - Digital Garden"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/002-a-digital-garden_882829d9af55"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/5dc67fcec0784e264512/002_A_Digital_Garden.tar"
+    }
+  }
+}
