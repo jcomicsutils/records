@@ -1,0 +1,27 @@
+{
+  "id": "239-take-2-of-untitled-thing_efe9be08fb77",
+  "fingerprint": "efe9be08fb77c73cb01025e10b896f57b4875c8a4dda2e67fc934e1afb891607",
+  "archived_at": "2026-07-14T22:39:36Z",
+  "metadata": {
+    "title": "239: take 2 of untitled thing",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 574,
+    "duration_human": "00:09:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/239-take-2-of-untitled-thing_efe9be08fb77"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/de9da23e7982c238a1de/239_take_2_of_untitled_thing.tar"
+    }
+  }
+}

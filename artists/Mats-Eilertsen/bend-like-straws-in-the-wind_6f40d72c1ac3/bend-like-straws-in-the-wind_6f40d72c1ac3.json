@@ -1,0 +1,24 @@
+{
+  "id": "bend-like-straws-in-the-wind_6f40d72c1ac3",
+  "fingerprint": "6f40d72c1ac30305f7e3468221b934741cde3139f6a97baa29d1d48f2d4bcbea",
+  "archived_at": "2026-07-14T22:39:36Z",
+  "metadata": {
+    "title": "Bend Like Straws in the Wind",
+    "artist": "Mats Eilertsen",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 254,
+    "duration_human": "00:04:14",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Jonas Sjøvaag, Mats Eilertsen, Andreas Ulvo - Bend Like Straws in the Wind"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bend-like-straws-in-the-wind_6f40d72c1ac3"
+    }
+  }
+}

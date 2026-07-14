@@ -1,0 +1,27 @@
+{
+  "id": "estatica_580df9c93038",
+  "fingerprint": "580df9c9303820586d52cde8946f9486734866ac72190ffb5a1b9ab98ce7c397",
+  "archived_at": "2026-07-14T22:39:29Z",
+  "metadata": {
+    "title": "Estática",
+    "artist": "Concepción Huerta",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1446,
+    "duration_human": "00:24:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Mabe Fratti, Concepción Huerta - Irreversible",
+      "02 Mabe Fratti, Concepción Huerta - Descomposiciones Resonantes",
+      "03 Mabe Fratti, Concepción Huerta - Estática",
+      "04 Mabe Fratti, Concepción Huerta - Mar de Voces"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/estatica_580df9c93038"
+    }
+  }
+}
