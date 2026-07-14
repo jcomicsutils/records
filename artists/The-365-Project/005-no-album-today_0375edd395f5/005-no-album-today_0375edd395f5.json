@@ -1,0 +1,27 @@
+{
+  "id": "005-no-album-today_0375edd395f5",
+  "fingerprint": "0375edd395f5153f8c90b35c0e33b1daa02388f8028cbb9efe9edb4e8212d32c",
+  "archived_at": "2026-07-14T15:58:58Z",
+  "metadata": {
+    "title": "005: No Album Today",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1451,
+    "duration_human": "00:24:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - No Album Today"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/005-no-album-today_0375edd395f5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/c66b108c30d016f32f4d/005_No_Album_Today.tar"
+    }
+  }
+}
