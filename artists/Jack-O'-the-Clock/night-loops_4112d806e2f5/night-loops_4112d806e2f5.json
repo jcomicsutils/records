@@ -1,0 +1,39 @@
+{
+  "id": "night-loops_4112d806e2f5",
+  "fingerprint": "4112d806e2f57509ae230dde9f0cf442dc8635c0752186836c3024e4d7fda5d4",
+  "archived_at": "2026-07-14T23:29:40Z",
+  "metadata": {
+    "title": "Night Loops",
+    "artist": "Jack O' the Clock",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 3255,
+    "duration_human": "00:54:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jack O' the Clock - Ten Fingers",
+      "02 Jack O' the Clock - Bethlehem Watcher",
+      "03 Jack O' the Clock - Tiny Sonographic Heart",
+      "04 Jack O' the Clock - Come Back Tomorrow",
+      "05 Jack O' the Clock - How the Light Is Approached",
+      "06 Jack O' the Clock - Familiar 1: Night Heron Over Harrison Square",
+      "07 Jack O' the Clock - Fixture",
+      "08 Jack O' the Clock - Furnace",
+      "09 Jack O' the Clock - Salt Moon",
+      "10 Jack O' the Clock - Down Below",
+      "11 Jack O' the Clock - As Long as the Earth Lasts",
+      "12 Jack O' the Clock - Familiar 2: Barred Owl",
+      "13 Jack O' the Clock - Rehearsing the Long Walk Home"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/night-loops_4112d806e2f5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/c89c10c8d02998fde9cb/Night_Loops.tar"
+    }
+  }
+}
