@@ -1,0 +1,28 @@
+{
+  "id": "an-event-in-475-time_6e653ca877be",
+  "fingerprint": "6e653ca877be2e9c2165d6af560218d2df7d369f81488a340897616dc73ea27a",
+  "archived_at": "2026-07-14T15:59:37Z",
+  "metadata": {
+    "title": "An Event in 4.75 Time",
+    "artist": "Max Julian Eastman",
+    "year": "2024",
+    "codec": "ALAC",
+    "num_tracks": 2,
+    "duration_seconds": 1665,
+    "duration_human": "00:27:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Max Julian Eastman - Methods & Mistakes",
+      "02 Max Julian Eastman - A Domestic Event"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/an-event-in-475-time_6e653ca877be"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/a6ad9c26fc0e8f60f7fd/An_Event_in_4.75_Time.tar"
+    }
+  }
+}
