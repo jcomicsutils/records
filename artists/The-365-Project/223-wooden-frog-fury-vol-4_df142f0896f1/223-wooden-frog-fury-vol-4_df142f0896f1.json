@@ -1,0 +1,27 @@
+{
+  "id": "223-wooden-frog-fury-vol-4_df142f0896f1",
+  "fingerprint": "df142f0896f120aef5987dc0dc2c65f422ea581c933b03f5497d5fdbec291cba",
+  "archived_at": "2026-07-14T22:26:08Z",
+  "metadata": {
+    "title": "223: Wooden Frog Fury! Vol. 4",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 124,
+    "duration_human": "00:02:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Wooden Frog Fury! Vol. 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/223-wooden-frog-fury-vol-4_df142f0896f1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/ce932003d524341c2ec6/223_Wooden_Frog_Fury_Vol._4.tar"
+    }
+  }
+}

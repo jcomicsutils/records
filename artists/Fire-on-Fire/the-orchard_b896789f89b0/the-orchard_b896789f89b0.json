@@ -1,0 +1,35 @@
+{
+  "id": "the-orchard_b896789f89b0",
+  "fingerprint": "b896789f89b07dd927d00076d5bab05386ad37385a3dcdab400edf5522786e53",
+  "archived_at": "2026-07-14T22:26:16Z",
+  "metadata": {
+    "title": "The Orchard",
+    "artist": "Fire on Fire",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3731,
+    "duration_human": "01:02:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Fire on Fire - Sirocco",
+      "02 Fire on Fire - Heavy D",
+      "03 Fire on Fire - Assanine Race",
+      "04 Fire on Fire - The Orchard",
+      "05 Fire on Fire - Flordinese",
+      "06 Fire on Fire - Hartford Blues",
+      "07 Fire on Fire - Toknight",
+      "08 Fire on Fire - Squeeze Box",
+      "09 Fire on Fire - Flight Song",
+      "10 Fire on Fire - Grin",
+      "11 Fire on Fire - Tsunami",
+      "12 Fire on Fire - Haystack"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-orchard_b896789f89b0"
+    }
+  }
+}
