@@ -22,6 +22,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/luna_92bbe1f6e3eb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/bb2b51edffbee34fe05d/Luna.tar"
     }
   }
 }
