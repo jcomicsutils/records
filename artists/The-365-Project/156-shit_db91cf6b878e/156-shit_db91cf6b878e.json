@@ -1,0 +1,27 @@
+{
+  "id": "156-shit_db91cf6b878e",
+  "fingerprint": "db91cf6b878e259c05ac506a07052daddf0987d7c57a2953d0d962d4ed55c59f",
+  "archived_at": "2026-07-14T21:14:13Z",
+  "metadata": {
+    "title": "156: Shit",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 354,
+    "duration_human": "00:05:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Shit"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/156-shit_db91cf6b878e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/e4372a6f9cb1a01d8252/156_Shit.tar"
+    }
+  }
+}
