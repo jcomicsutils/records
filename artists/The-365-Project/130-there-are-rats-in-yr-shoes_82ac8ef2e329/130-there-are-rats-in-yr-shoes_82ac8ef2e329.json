@@ -1,0 +1,27 @@
+{
+  "id": "130-there-are-rats-in-yr-shoes_82ac8ef2e329",
+  "fingerprint": "82ac8ef2e3297e57dfaf841125c782718d662a2e322a10ae442cbbc656bbff4f",
+  "archived_at": "2026-07-14T19:19:45Z",
+  "metadata": {
+    "title": "130: There Are Rats in Yr. Shoes",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 560,
+    "duration_human": "00:09:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - There Are Rats in Yr. Shoes"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/130-there-are-rats-in-yr-shoes_82ac8ef2e329"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/52b3c230abd5aac999f3/130_There_Are_Rats_in_Yr._Shoes.tar"
+    }
+  }
+}
