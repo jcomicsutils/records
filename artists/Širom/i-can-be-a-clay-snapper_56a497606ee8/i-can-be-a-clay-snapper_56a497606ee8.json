@@ -1,0 +1,28 @@
+{
+  "id": "i-can-be-a-clay-snapper_56a497606ee8",
+  "fingerprint": "56a497606ee86445eadaf731acca13a439c7579f53f4c14bf7a5cb0889cf464c",
+  "archived_at": "2026-07-14T23:27:47Z",
+  "metadata": {
+    "title": "I Can Be a Clay Snapper",
+    "artist": "Širom",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2540,
+    "duration_human": "00:42:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Širom - Just About Awake",
+      "02 Širom - Boats, Biding, Beware!",
+      "03 Širom - Everything I Sow Is Fatal",
+      "04 Širom - Maestro Kneading Screams of Joy",
+      "05 Širom - Ten Words"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-can-be-a-clay-snapper_56a497606ee8"
+    }
+  }
+}

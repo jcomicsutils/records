@@ -1,0 +1,27 @@
+{
+  "id": "265-wow_463f693e6909",
+  "fingerprint": "463f693e6909959545aba791c6c5f0d7a210b2f3ab5b54c4e29a389b2dea70b3",
+  "archived_at": "2026-07-14T23:27:58Z",
+  "metadata": {
+    "title": "265: Wow!!!!!!",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 135,
+    "duration_human": "00:02:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - All Around the World (feat. Joel Gallagher)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/265-wow_463f693e6909"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/fa298a0a98d307a02f65/265_Wow.tar"
+    }
+  }
+}
