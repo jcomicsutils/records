@@ -1,0 +1,29 @@
+{
+  "id": "214-what-the-driven-drink_a330d0a47a00",
+  "fingerprint": "a330d0a47a00cb300b64813115ac05ca47e945de7d53895ad027b42673be5da3",
+  "archived_at": "2026-07-14T22:16:04Z",
+  "metadata": {
+    "title": "214: What the Driven Drink",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 2289,
+    "duration_human": "00:38:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - The Sadness That He Sold Her (Late)",
+      "02 The 365 Project - What the Driven Drink",
+      "03 The 365 Project - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/214-what-the-driven-drink_a330d0a47a00"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/f2a7384bbbd44ec31d3e/214_What_the_Driven_Drink.tar"
+    }
+  }
+}
