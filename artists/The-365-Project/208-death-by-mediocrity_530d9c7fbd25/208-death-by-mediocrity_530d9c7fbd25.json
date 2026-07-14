@@ -1,0 +1,27 @@
+{
+  "id": "208-death-by-mediocrity_530d9c7fbd25",
+  "fingerprint": "530d9c7fbd254aa2c5d1c2828e4701d3447894f7576c90a9d8320db254569a45",
+  "archived_at": "2026-07-14T22:07:25Z",
+  "metadata": {
+    "title": "208: Death by Mediocrity",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 436,
+    "duration_human": "00:07:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Death by Mediocrity"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/208-death-by-mediocrity_530d9c7fbd25"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/7b39a3c88e27e8bc506d/208_Death_by_Mediocrity.tar"
+    }
+  }
+}
