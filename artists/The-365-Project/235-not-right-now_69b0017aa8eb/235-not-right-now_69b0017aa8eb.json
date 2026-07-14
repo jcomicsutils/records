@@ -1,0 +1,27 @@
+{
+  "id": "235-not-right-now_69b0017aa8eb",
+  "fingerprint": "69b0017aa8eb1fdb46929f945a3202d238df3d757a77007f45d26589954238cd",
+  "archived_at": "2026-07-14T22:35:09Z",
+  "metadata": {
+    "title": "235: Not Right Now",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 300,
+    "duration_human": "00:05:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Not Right Now"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/235-not-right-now_69b0017aa8eb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/ecb05ea0788a75176816/235_Not_Right_Now.tar"
+    }
+  }
+}
