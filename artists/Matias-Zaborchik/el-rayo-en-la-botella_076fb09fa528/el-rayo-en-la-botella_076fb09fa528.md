@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/el-rayo-en-la-botella_076fb09fa528)
+- [FileDitch](https://fileditchfiles.st/beta14/a07b6b3cca66465de570/el_rayo_en_la_botella.tar)
 
 ## Tracklist
 
