@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/272-yay-i-remembered_4260f4ccc907)
+- [FileDitch](https://fileditchfiles.st/beta14/7552482ce9a2a0b5ab92/272_Yay_I_Remembered.tar)
 
 ## Tracklist
 
