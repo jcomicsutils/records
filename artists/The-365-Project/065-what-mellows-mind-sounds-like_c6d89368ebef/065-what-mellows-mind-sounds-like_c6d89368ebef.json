@@ -1,0 +1,27 @@
+{
+  "id": "065-what-mellows-mind-sounds-like_c6d89368ebef",
+  "fingerprint": "c6d89368ebef535de6b625dc5dce4a2a67bf386bf84a79427a42e0bc6ed785b2",
+  "archived_at": "2026-07-14T16:48:31Z",
+  "metadata": {
+    "title": "065: What Mellow's Mind Sounds Like",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 318,
+    "duration_human": "00:05:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - What Mellow's Mind Sounds Like"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/065-what-mellows-mind-sounds-like_c6d89368ebef"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/164be3ced7474e9b364b/065_What_Mellow_s_Mind_Sounds_Like.tar"
+    }
+  }
+}
