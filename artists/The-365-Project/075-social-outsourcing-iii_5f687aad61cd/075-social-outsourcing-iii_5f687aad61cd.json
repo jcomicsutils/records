@@ -1,0 +1,28 @@
+{
+  "id": "075-social-outsourcing-iii_5f687aad61cd",
+  "fingerprint": "5f687aad61cd19f28f5cb97084062eb711e5901894ce77c2901bbdc0cf138224",
+  "archived_at": "2026-07-14T17:00:30Z",
+  "metadata": {
+    "title": "075: Social Outsourcing III",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 997,
+    "duration_human": "00:16:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - The Horror! (Take 2 - No Saxophone Mix)",
+      "02 mold - Seven Dreams"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/075-social-outsourcing-iii_5f687aad61cd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/20a7ac005937fb493f13/075_Social_Outsourcing_III.tar"
+    }
+  }
+}
