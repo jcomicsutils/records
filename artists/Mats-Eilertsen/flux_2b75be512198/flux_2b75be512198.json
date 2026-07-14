@@ -1,0 +1,38 @@
+{
+  "id": "flux_2b75be512198",
+  "fingerprint": "2b75be5121989a1a2250c4f8e9fbf136c8e9d4e518c2e96b634c596343df1b56",
+  "archived_at": "2026-07-14T23:25:36Z",
+  "metadata": {
+    "title": "Flux",
+    "artist": "Mats Eilertsen",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2618,
+    "duration_human": "00:43:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mats Eilertsen - No Fuzz for Buzz",
+      "02 Mats Eilertsen - 4d",
+      "03 Mats Eilertsen - Olivier",
+      "04 Mats Eilertsen - Lunar",
+      "05 Mats Eilertsen - Flux",
+      "06 Mats Eilertsen - Gruff",
+      "07 Mats Eilertsen - Duo",
+      "08 Mats Eilertsen - Revolver",
+      "09 Mats Eilertsen - Dodeka",
+      "10 Mats Eilertsen - Dias",
+      "11 Mats Eilertsen - Passaggio Nach Dem Regen",
+      "12 Mats Eilertsen - In Orbit"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/flux_2b75be512198"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/eb5a2dfe6b331ddf56fb/Flux.tar"
+    }
+  }
+}
