@@ -1,0 +1,27 @@
+{
+  "id": "252-confession-of-mellow_8ce75a15e19c",
+  "fingerprint": "8ce75a15e19c4c5240a5775ce253a51e3d16f223987ed3cdf50f0739af5c1ed7",
+  "archived_at": "2026-07-14T23:18:34Z",
+  "metadata": {
+    "title": "252: Confession of Mellow",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 47,
+    "duration_human": "00:00:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Confession of Mellow"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/252-confession-of-mellow_8ce75a15e19c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/58acf6d8034d9318f1f4/252_Confession_of_Mellow.tar"
+    }
+  }
+}
