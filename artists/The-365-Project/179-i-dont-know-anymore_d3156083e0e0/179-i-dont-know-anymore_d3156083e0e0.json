@@ -1,0 +1,27 @@
+{
+  "id": "179-i-dont-know-anymore_d3156083e0e0",
+  "fingerprint": "d3156083e0e09048b0b975beb41041336df6643c5d8041c4bf0d1499a7aa179e",
+  "archived_at": "2026-07-14T21:37:42Z",
+  "metadata": {
+    "title": "179: I Don't Know Anymore",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 728,
+    "duration_human": "00:12:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - I Don't Know Anymore"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/179-i-dont-know-anymore_d3156083e0e0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/f9f31a25309e57d2a6b1/179_I_Don_t_Know_Anymore.tar"
+    }
+  }
+}
