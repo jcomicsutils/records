@@ -1,0 +1,27 @@
+{
+  "id": "017-noise-improv-for-itoet_2747afbea417",
+  "fingerprint": "2747afbea417062f38f32573b3a8a2cc3ab305810c695a710b022a4b85101e24",
+  "archived_at": "2026-07-14T16:11:19Z",
+  "metadata": {
+    "title": "017: Noise Improv for ITOET",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 371,
+    "duration_human": "00:06:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Noise Improv for ITOET"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/017-noise-improv-for-itoet_2747afbea417"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/2ebc4bac309454a71bc2/017_Noise_Improv_for_ITOET.tar"
+    }
+  }
+}
