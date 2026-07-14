@@ -20,6 +20,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/no-queda-nada-todo-resuena_8a676ee4a5fa"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/7237659d5e4c2ba99359/No_Queda_Nada_Todo_Resuena.tar"
     }
   }
 }
