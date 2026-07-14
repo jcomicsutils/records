@@ -1,0 +1,35 @@
+{
+  "id": "how-are-we-doing-and-who-will-tell-us_67b59014a91e",
+  "fingerprint": "67b59014a91eb9131eec1cfcd7a5b90aa742c9fd972b9b45a2f4f378a7a7f0d5",
+  "archived_at": "2026-07-14T22:38:55Z",
+  "metadata": {
+    "title": "How Are We Doing And Who Will Tell Us?",
+    "artist": "Jack O' the Clock",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3952,
+    "duration_human": "01:05:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jack O' the Clock - Blue Tail Fly",
+      "02 Jack O' the Clock - Schlitzie, Last of the Aztecs, Lodges An Objection in the Order of Things",
+      "03 Jack O' the Clock - Shrinking",
+      "04 Jack O' the Clock - Deepwater Horizon Burning",
+      "05 Jack O' the Clock - First of the Year",
+      "06 Jack O' the Clock - Manifesto",
+      "07 Jack O' the Clock - Back to the Swamp",
+      "08 Jack O' the Clock - Looking In",
+      "09 Jack O' the Clock - Last of the Blue Bloods",
+      "10 Jack O' the Clock - Search",
+      "11 Jack O' the Clock - Novaya Zemlya",
+      "12 Jack O' the Clock - Ultima Thule"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/how-are-we-doing-and-who-will-tell-us_67b59014a91e"
+    }
+  }
+}
