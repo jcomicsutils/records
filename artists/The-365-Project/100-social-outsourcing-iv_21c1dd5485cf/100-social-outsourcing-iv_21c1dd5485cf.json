@@ -1,0 +1,32 @@
+{
+  "id": "100-social-outsourcing-iv_21c1dd5485cf",
+  "fingerprint": "21c1dd5485cf879163c49500242445a5dc3c57908a6be4a8a74a922d9b347bf9",
+  "archived_at": "2026-07-14T17:25:21Z",
+  "metadata": {
+    "title": "100: Social Outsourcing IV",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 2442,
+    "duration_human": "00:40:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Whine and Whimper",
+      "02 The 365 Project - Cuddly",
+      "03 The 365 Project - Ace of Thorns Random Jam Sesh",
+      "04 Ace of Thorns - Dead Leaves",
+      "05 Ace of Thorns - The Horror!",
+      "06 Ace of Thorns - a Haunting"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/100-social-outsourcing-iv_21c1dd5485cf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/9bca4d744ed46965c75c/100_Social_Outsourcing_IV.tar"
+    }
+  }
+}
