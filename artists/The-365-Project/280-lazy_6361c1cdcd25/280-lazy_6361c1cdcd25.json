@@ -1,0 +1,27 @@
+{
+  "id": "280-lazy_6361c1cdcd25",
+  "fingerprint": "6361c1cdcd25c92e8f9b1b074bc39595c54ca3880512508b26a485318773c613",
+  "archived_at": "2026-07-14T23:39:44Z",
+  "metadata": {
+    "title": "280: Lazy",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 771,
+    "duration_human": "00:12:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Lazy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/280-lazy_6361c1cdcd25"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/fc4f4d7d20d3ba2aa717/280_Lazy.tar"
+    }
+  }
+}
