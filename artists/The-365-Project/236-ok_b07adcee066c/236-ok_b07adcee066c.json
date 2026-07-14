@@ -1,0 +1,27 @@
+{
+  "id": "236-ok_b07adcee066c",
+  "fingerprint": "b07adcee066ccb119b248a373dd178c29747d41609291d790d81a49c25874bda",
+  "archived_at": "2026-07-14T22:35:58Z",
+  "metadata": {
+    "title": "236: Ok",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 89,
+    "duration_human": "00:01:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/236-ok_b07adcee066c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/3dd1c3b221994b5baa24/236_Ok.tar"
+    }
+  }
+}
