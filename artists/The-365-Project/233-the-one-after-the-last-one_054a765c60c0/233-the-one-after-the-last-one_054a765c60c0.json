@@ -1,0 +1,28 @@
+{
+  "id": "233-the-one-after-the-last-one_054a765c60c0",
+  "fingerprint": "054a765c60c0c0dc994d4fc8f7b276928b33db0849fe67fe74dbf6ad7797f0ec",
+  "archived_at": "2026-07-14T22:33:59Z",
+  "metadata": {
+    "title": "233: The One After the Last One",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 242,
+    "duration_human": "00:04:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - [untitled]",
+      "02 The 365 Project - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/233-the-one-after-the-last-one_054a765c60c0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/4eed077861129a872783/233_The_One_After_the_Last_One.tar"
+    }
+  }
+}
