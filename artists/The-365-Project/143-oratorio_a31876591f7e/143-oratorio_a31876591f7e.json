@@ -1,0 +1,27 @@
+{
+  "id": "143-oratorio_a31876591f7e",
+  "fingerprint": "a31876591f7e5178f9e1420efd307290c7971cc273325efb8b946608c5b8d781",
+  "archived_at": "2026-07-14T20:37:26Z",
+  "metadata": {
+    "title": "143: Oratorio",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 368,
+    "duration_human": "00:06:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Oratorio"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/143-oratorio_a31876591f7e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/e71183ec7fdd0018f038/143_Oratorio.tar"
+    }
+  }
+}
