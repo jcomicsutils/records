@@ -1,0 +1,27 @@
+{
+  "id": "152-ahhh_65a9cec1a0cd",
+  "fingerprint": "65a9cec1a0cd0cfc930ffecfedd44119255e03a2c3c99a35a3474e98711a4b71",
+  "archived_at": "2026-07-14T21:10:32Z",
+  "metadata": {
+    "title": "152: Ahhh!!!",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 435,
+    "duration_human": "00:07:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Ahhhh!!!"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/152-ahhh_65a9cec1a0cd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/172d0fe5fdee702c6a49/152_Ahhh.tar"
+    }
+  }
+}
