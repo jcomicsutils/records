@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Rosa I Botnen](rosa-i-botnen_1d778aecdab9/rosa-i-botnen_1d778aecdab9.md) | 2006 | FLAC | 00:46:44 | [IA](https://archive.org/details/rosa-i-botnen_1d778aecdab9) [FileDitch](https://fileditchfiles.st/beta14/0c632166e5419aec3227/Rosa_I_Botnen.tar) |
 | [Fodne Ho Svara Stilt - Folketonar Frå Hardanger Samla Av Geirr Tveitt](fodne-ho-svara-stilt-folketonar-fra-hardanger-samla-av-geirr-tveitt_fe2fe9487adc/fodne-ho-svara-stilt-folketonar-fra-hardanger-samla-av-geirr-tveitt_fe2fe9487adc.md) | 2008 | FLAC | 00:46:51 | [IA](https://archive.org/details/fodne-ho-svara-stilt-folketonar-fra-hardanger-samla-av-geirr-tveitt_fe2fe9487adc) [FileDitch](https://fileditchfiles.st/beta14/7dd35fd41bc8e0c278f9/Fodne_Ho_Svara_Stilt_-_Folketonar_Fr_Hardanger_Samla_Av_Geirr_T.tar) |
 | [Alde](alde_15180fcb0577/alde_15180fcb0577.md) | 2010 | FLAC | 00:47:24 | [IA](https://archive.org/details/alde_15180fcb0577) [FileDitch](https://fileditchfiles.st/beta14/07f8a6a0c2059468b018/Alde.tar) |
 | [Anima](anima_534919da2129/anima_534919da2129.md) | 2012 | FLAC | 00:54:41 | [IA](https://archive.org/details/anima_534919da2129) [FileDitch](https://fileditchfiles.st/beta14/6c644ea3069365cfcdea/Anima.tar) |

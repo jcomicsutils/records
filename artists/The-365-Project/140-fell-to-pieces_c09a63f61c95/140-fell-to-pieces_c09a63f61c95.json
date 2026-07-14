@@ -1,0 +1,24 @@
+{
+  "id": "140-fell-to-pieces_c09a63f61c95",
+  "fingerprint": "c09a63f61c950320298552139e08db02e4eaa316e223b8064a297adf4be4ea1f",
+  "archived_at": "2026-07-14T20:31:50Z",
+  "metadata": {
+    "title": "140: Fell to Pieces",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1756,
+    "duration_human": "00:29:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Fell to Pieces"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/140-fell-to-pieces_c09a63f61c95"
+    }
+  }
+}

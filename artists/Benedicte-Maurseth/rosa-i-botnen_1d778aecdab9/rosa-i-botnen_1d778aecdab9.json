@@ -1,0 +1,43 @@
+{
+  "id": "rosa-i-botnen_1d778aecdab9",
+  "fingerprint": "1d778aecdab9d5936a3c2c02b2f1b1dc73c94d50db965e294fc2edea3090dc28",
+  "archived_at": "2026-07-14T20:31:30Z",
+  "metadata": {
+    "title": "Rosa I Botnen",
+    "artist": "Benedicte Maurseth",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_seconds": 2804,
+    "duration_human": "00:46:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Knut Hamre, Benedicte Maurseth - Elling Mølsters Trollstilte, Gangar",
+      "02 Knut Hamre, Benedicte Maurseth - Vetla Jento Mi, Springar",
+      "03 Knut Hamre, Benedicte Maurseth - Rull Etter Severin Kjerland",
+      "04 Knut Hamre, Benedicte Maurseth - Huldrespringar Etter Ola Håstabø",
+      "05 Knut Hamre, Benedicte Maurseth - Springar Etter Severin Kjerland",
+      "06 Knut Hamre, Benedicte Maurseth - Huldreslåttar Etter Eirik Medås",
+      "07 Knut Hamre, Benedicte Maurseth - Røven",
+      "08 Knut Hamre, Benedicte Maurseth - Brureslått Etter Magnus Botnen",
+      "09 Knut Hamre, Benedicte Maurseth - Lydarslått Etter Ola Håstabø",
+      "10 Knut Hamre, Benedicte Maurseth - Huldrespringar Etter Ola Håstabø",
+      "11 Knut Hamre, Benedicte Maurseth - Springar Etter Sjur Liland",
+      "12 Knut Hamre, Benedicte Maurseth - Mellomspel 1",
+      "13 Knut Hamre, Benedicte Maurseth - Rull Etter Trygve Hæve",
+      "14 Knut Hamre, Benedicte Maurseth - Mellomspel 2",
+      "15 Knut Hamre, Benedicte Maurseth - Bruraslått Etter Ola Håstabø",
+      "16 Knut Hamre, Benedicte Maurseth - Rull Etter Anders Kjerland",
+      "17 Knut Hamre, Benedicte Maurseth - Etterspel"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rosa-i-botnen_1d778aecdab9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/0c632166e5419aec3227/Rosa_I_Botnen.tar"
+    }
+  }
+}
