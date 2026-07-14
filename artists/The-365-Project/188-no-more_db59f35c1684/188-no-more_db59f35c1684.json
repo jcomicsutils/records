@@ -1,0 +1,27 @@
+{
+  "id": "188-no-more_db59f35c1684",
+  "fingerprint": "db59f35c1684b3909b9c7ed0a1a23f7ad01b5eea0cc2859c41c642c732c9ceee",
+  "archived_at": "2026-07-14T21:47:19Z",
+  "metadata": {
+    "title": "188: No More",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 274,
+    "duration_human": "00:04:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - No More"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/188-no-more_db59f35c1684"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/92a1cc34e421998b59b1/188_No_More.tar"
+    }
+  }
+}
