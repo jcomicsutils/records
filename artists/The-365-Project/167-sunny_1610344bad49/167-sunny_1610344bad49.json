@@ -1,0 +1,27 @@
+{
+  "id": "167-sunny_1610344bad49",
+  "fingerprint": "1610344bad49e9e51182ac94a28c55a76d639424b6f32ace771e71cf58b2b48e",
+  "archived_at": "2026-07-14T21:27:50Z",
+  "metadata": {
+    "title": "167: Sunny",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 194,
+    "duration_human": "00:03:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Sunny"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/167-sunny_1610344bad49"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/f508824e67f963682526/167_Sunny.tar"
+    }
+  }
+}
