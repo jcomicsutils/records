@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/bend-like-straws-in-the-wind_6f40d72c1ac3)
+- [FileDitch](https://fileditchfiles.st/beta14/517dd2823ca0392df75c/Bend_Like_Straws_in_the_Wind.tar)
 
 ## Tracklist
 
