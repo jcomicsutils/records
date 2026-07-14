@@ -1,0 +1,27 @@
+{
+  "id": "268-the-the-the_3b3420397b3a",
+  "fingerprint": "3b3420397b3a9a25586f1400ea3a2bf140fbe900648fffe9e384043ecf37ffd2",
+  "archived_at": "2026-07-14T23:31:18Z",
+  "metadata": {
+    "title": "268: The the The",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 206,
+    "duration_human": "00:03:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - The the The"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/268-the-the-the_3b3420397b3a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/1f5f95f32bc0073ebbfc/268_The_the_The.tar"
+    }
+  }
+}
