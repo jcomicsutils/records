@@ -1,0 +1,31 @@
+{
+  "id": "022-isolated-noise-tracks-from-itoet_71c040a764cb",
+  "fingerprint": "71c040a764cb2e0ed12187c317e109fecc72f6b4bb47a9254a85e417ce52182f",
+  "archived_at": "2026-07-14T16:15:08Z",
+  "metadata": {
+    "title": "022: Isolated Noise Tracks from ITOET",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 1217,
+    "duration_human": "00:20:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Isolated Noise Track from ITOET 1 (feat. Random Dog That Was Outside While I Was Recording)",
+      "02 The 365 Project - Improv; Capo on 9th Fret",
+      "03 The 365 Project - Wooden Frog Fury! Vol. 1",
+      "04 The 365 Project - Isolated Noise Track from ITOET 2",
+      "05 The 365 Project - Latający pies"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/022-isolated-noise-tracks-from-itoet_71c040a764cb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/1ff6f24c9490dd6304d0/022_Isolated_Noise_Tracks_from_ITOET.tar"
+    }
+  }
+}
