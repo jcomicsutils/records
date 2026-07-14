@@ -1,0 +1,27 @@
+{
+  "id": "046-live-in-hell_dcadcd53ef0f",
+  "fingerprint": "dcadcd53ef0ff43350254ec721d771d729d2ade44925a760532eaededf3d637c",
+  "archived_at": "2026-07-14T16:34:10Z",
+  "metadata": {
+    "title": "046: Live in Hell",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 486,
+    "duration_human": "00:08:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project, Rice & ungrilled cheese sandwich - Live in Hell"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/046-live-in-hell_dcadcd53ef0f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/fab7f020dd80da1e5160/046_Live_in_Hell.tar"
+    }
+  }
+}
