@@ -1,0 +1,29 @@
+{
+  "id": "137-red-herrings_d267253cca0c",
+  "fingerprint": "d267253cca0c76bc9a71a065b7f3e8cf11ee488e6ba59582720d11b12aa6f5b1",
+  "archived_at": "2026-07-14T20:19:34Z",
+  "metadata": {
+    "title": "137: Red Herrings",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 1274,
+    "duration_human": "00:21:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - My Song 17",
+      "02 The 365 Project - My Song 8",
+      "03 The 365 Project - My Song 9"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/137-red-herrings_d267253cca0c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/21dee1cbaf4649520f7c/137_Red_Herrings.tar"
+    }
+  }
+}

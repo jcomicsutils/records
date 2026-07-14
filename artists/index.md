@@ -84,6 +84,7 @@
 - [Left Alone...](Left-Alone.../Left-Alone....md)
 - [Lifelover](Lifelover/Lifelover.md)
 - [Lil Ugly Mane](Lil-Ugly-Mane/Lil-Ugly-Mane.md)
+- [Liminal Dream](Liminal-Dream/Liminal-Dream.md)
 - [Loren Connors](Loren-Connors/Loren-Connors.md)
 - [Lotus Eaters](Lotus-Eaters/Lotus-Eaters.md)
 - [Love's Holiday Orchestra](Love's-Holiday-Orchestra/Love's-Holiday-Orchestra.md)

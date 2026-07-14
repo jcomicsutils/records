@@ -1,0 +1,27 @@
+{
+  "id": "luna_92bbe1f6e3eb",
+  "fingerprint": "92bbe1f6e3ebb2f49c795541e2f90ebb4919de28586675354786b113fa71dfc7",
+  "archived_at": "2026-07-14T20:18:43Z",
+  "metadata": {
+    "title": "Luna",
+    "artist": "Liminal Dream",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3907,
+    "duration_human": "01:05:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Liminal Dream - October Moonlight",
+      "02 Liminal Dream - Raven Towards",
+      "03 Liminal Dream - And Twilight Drapes The Longing",
+      "04 Liminal Dream - A La Mar"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/luna_92bbe1f6e3eb"
+    }
+  }
+}
