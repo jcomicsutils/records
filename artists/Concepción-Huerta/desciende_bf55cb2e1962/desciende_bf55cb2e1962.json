@@ -1,0 +1,32 @@
+{
+  "id": "desciende_bf55cb2e1962",
+  "fingerprint": "bf55cb2e19629a655d1db6119bb39df96062a12d0cd1b222ab4c61fba78f8a73",
+  "archived_at": "2026-07-14T22:22:14Z",
+  "metadata": {
+    "title": "Desciende",
+    "artist": "Concepción Huerta",
+    "year": "2021",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 1714,
+    "duration_human": "00:28:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Concepción Huerta & Camilo Ángeles - Ursus",
+      "02 Concepción Huerta & Camilo Ángeles - Debajo",
+      "03 Concepción Huerta & Camilo Ángeles - Murciélago",
+      "04 Concepción Huerta & Camilo Ángeles - Chiroptera",
+      "05 Concepción Huerta & Camilo Ángeles - Nahual",
+      "06 Concepción Huerta & Camilo Ángeles - La voz dice"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/desciende_bf55cb2e1962"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/81d0ad94d5f65358eba9/Desciende.tar"
+    }
+  }
+}
