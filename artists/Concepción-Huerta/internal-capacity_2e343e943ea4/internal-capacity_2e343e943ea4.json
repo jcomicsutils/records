@@ -1,0 +1,29 @@
+{
+  "id": "internal-capacity_2e343e943ea4",
+  "fingerprint": "2e343e943ea44f469fcf8cc7ba71262f57f236530a7e32cb2bf9d9830ca2e45a",
+  "archived_at": "2026-07-14T23:06:35Z",
+  "metadata": {
+    "title": "Internal Capacity",
+    "artist": "Concepción Huerta",
+    "year": "2018",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 971,
+    "duration_human": "00:16:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Mabe Fratti + Concepción Huerta - Internal Signal",
+      "02 Mabe Fratti + Concepción Huerta - Internal Luminescence",
+      "03 Mabe Fratti + Concepción Huerta - Internal Recognition"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/internal-capacity_2e343e943ea4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/6514f3fe5ea28289c974/Internal_Capacity.tar"
+    }
+  }
+}
