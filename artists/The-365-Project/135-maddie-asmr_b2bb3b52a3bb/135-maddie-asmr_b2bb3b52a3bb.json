@@ -1,0 +1,27 @@
+{
+  "id": "135-maddie-asmr_b2bb3b52a3bb",
+  "fingerprint": "b2bb3b52a3bb838c8be519d7874f7e48a46684cf69c28b547009f43702580692",
+  "archived_at": "2026-07-14T20:11:02Z",
+  "metadata": {
+    "title": "135: Maddie ASMR",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 109,
+    "duration_human": "00:01:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Maddie ASMR"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/135-maddie-asmr_b2bb3b52a3bb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/df4c13191fd744696d39/135_Maddie_ASMR.tar"
+    }
+  }
+}
