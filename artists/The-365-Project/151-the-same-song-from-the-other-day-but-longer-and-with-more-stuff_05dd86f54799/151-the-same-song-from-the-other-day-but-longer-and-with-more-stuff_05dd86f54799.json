@@ -1,0 +1,27 @@
+{
+  "id": "151-the-same-song-from-the-other-day-but-longer-and-with-more-stuff_05dd86f54799",
+  "fingerprint": "05dd86f5479983fbb45043f571531abf7a4c15df7587b04bfafbcf80176da11a",
+  "archived_at": "2026-07-14T21:08:43Z",
+  "metadata": {
+    "title": "151: The Same Song from the Other Day But Longer and With More Stuff",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1613,
+    "duration_human": "00:26:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Missionaries, Pts. 1 + 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/151-the-same-song-from-the-other-day-but-longer-and-with-more-stuff_05dd86f54799"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/ca03bd5f71df3941b04d/151_The_Same_Song_from_the_Other_Day_But_Longer_and_With_More_St.tar"
+    }
+  }
+}
