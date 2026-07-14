@@ -1,0 +1,30 @@
+{
+  "id": "087-new-mix_76637c2e254e",
+  "fingerprint": "76637c2e254ed52515715d6be7c3b862029711ebc4cfa37e15ad8c5afe8df3dd",
+  "archived_at": "2026-07-14T17:13:31Z",
+  "metadata": {
+    "title": "087: New Mix",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1153,
+    "duration_human": "00:19:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - [untitled]",
+      "02 The 365 Project - [untitled]",
+      "03 The 365 Project - [untitled]",
+      "04 The 365 Project - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/087-new-mix_76637c2e254e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/b7460eeb7054febccef2/087_New_Mix.tar"
+    }
+  }
+}
