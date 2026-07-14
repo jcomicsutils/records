@@ -1,0 +1,28 @@
+{
+  "id": "081-campfire-songs-i-ii-take-2_e412a7329a22",
+  "fingerprint": "e412a7329a2288d2d86151e0383ac707eaa66ec307d6bc9c1ef4af6f5327fca6",
+  "archived_at": "2026-07-14T17:04:32Z",
+  "metadata": {
+    "title": "081: Campfire Songs I + II Take 2",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 728,
+    "duration_human": "00:12:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Campfire Song I: Take 2",
+      "02 The 365 Project - Campfire Song II: Take 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/081-campfire-songs-i-ii-take-2_e412a7329a22"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/75221047a172c540638a/081_Campfire_Songs_I_II_Take_2.tar"
+    }
+  }
+}
