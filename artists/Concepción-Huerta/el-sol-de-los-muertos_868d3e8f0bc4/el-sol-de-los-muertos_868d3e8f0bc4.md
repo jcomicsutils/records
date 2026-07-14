@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/el-sol-de-los-muertos_868d3e8f0bc4)
+- [FileDitch](https://fileditchfiles.st/beta14/5227588db5469424da65/El_Sol_de_los_Muertos.tar)
 
 ## Tracklist
 
