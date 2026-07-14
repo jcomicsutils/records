@@ -1,0 +1,28 @@
+{
+  "id": "032-space-jams_08fa7f4088a3",
+  "fingerprint": "08fa7f4088a375a260b5f055b86f29d13d3e1678df2816efad7d688414d2fa86",
+  "archived_at": "2026-07-14T16:24:03Z",
+  "metadata": {
+    "title": "032: Space Jams",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1955,
+    "duration_human": "00:32:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Space Jam",
+      "02 The 365 Project - Space Jam 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/032-space-jams_08fa7f4088a3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/4b97dcc8b3668b9b28af/032_Space_Jams.tar"
+    }
+  }
+}
