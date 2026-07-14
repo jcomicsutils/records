@@ -1,0 +1,30 @@
+{
+  "id": "200-sunnysampler_45c8dd9c0f9d",
+  "fingerprint": "45c8dd9c0f9d5a6698a5350bda3afd896efb3b8cec31a72d8512c5a8c6bfb5bf",
+  "archived_at": "2026-07-14T22:01:22Z",
+  "metadata": {
+    "title": "200: Sunnysampler",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 2631,
+    "duration_human": "00:43:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 onion - Sunny'll Sink Us (2006 Digital Remaster)",
+      "02 onion - Mr. Sunnyside",
+      "03 sunnyfriends+ - Sunnyfriends Killed My Grandma (The Last One_2025) [Live at Oranbouos Fan Club 25.06.17] Fuck You",
+      "04 onion - Sunnyoutro (Leaving Sunnyville... For Now)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/200-sunnysampler_45c8dd9c0f9d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/90e84d41bc286b405007/200_Sunnysampler.tar"
+    }
+  }
+}
