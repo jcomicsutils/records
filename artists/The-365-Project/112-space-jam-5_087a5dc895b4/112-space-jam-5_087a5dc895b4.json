@@ -1,0 +1,27 @@
+{
+  "id": "112-space-jam-5_087a5dc895b4",
+  "fingerprint": "087a5dc895b4c503abd6fb993471e1d37c0921e5157a34c286ae4e57f6f42cd6",
+  "archived_at": "2026-07-14T18:26:52Z",
+  "metadata": {
+    "title": "112: Space Jam 5",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 450,
+    "duration_human": "00:07:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Space Jam 5"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/112-space-jam-5_087a5dc895b4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/cde8951964170526ebe7/112_Space_Jam_5.tar"
+    }
+  }
+}
