@@ -1,0 +1,27 @@
+{
+  "id": "098_120bb4e75d0a",
+  "fingerprint": "120bb4e75d0a058b931f592448f21e6ab8ade7d1f8f7327ee79d414406dfe970",
+  "archived_at": "2026-07-14T17:23:39Z",
+  "metadata": {
+    "title": "098: ?!?!?!?!?",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1468,
+    "duration_human": "00:24:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Acoustic Suite: Dawn / [...] / The Phoenix / Lifestarter Outro (Alt. Take)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/098_120bb4e75d0a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/dad01030ff7cb98cbd78/098.tar"
+    }
+  }
+}
