@@ -1,0 +1,27 @@
+{
+  "id": "118-the_651655b0c35e",
+  "fingerprint": "651655b0c35e3b4fb2899206e256f0b45e8a316d8b208baa4e7ba67d4d7f7455",
+  "archived_at": "2026-07-14T18:44:53Z",
+  "metadata": {
+    "title": "118: The",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 78,
+    "duration_human": "00:01:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - The"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/118-the_651655b0c35e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/bd85820c65edbe501c52/118_The.tar"
+    }
+  }
+}
