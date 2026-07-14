@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/slattar-fra-kvam-ulvik-eidfjord-og-ullensvang_6a55bd1d1bae)
+- [FileDitch](https://fileditchfiles.st/beta14/0211876609286fa70593/Sl_ttar_fr_Kvam_Ulvik_Eidfjord_og_Ullensvang.tar)
 
 ## Tracklist
 
