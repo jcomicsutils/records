@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/bloom_00bc9ad3442e)
+- [FileDitch](https://fileditchfiles.st/beta14/26631edbcf6688aabc55/Bloom.tar)
 
 ## Tracklist
 
