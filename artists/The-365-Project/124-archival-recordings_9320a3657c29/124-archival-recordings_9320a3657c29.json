@@ -1,0 +1,28 @@
+{
+  "id": "124-archival-recordings_9320a3657c29",
+  "fingerprint": "9320a3657c294a0bfd569175f198771219e0fd8461d26198217d379f5cf2a8ff",
+  "archived_at": "2026-07-14T19:04:49Z",
+  "metadata": {
+    "title": "124: Archival Recordings",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 2575,
+    "duration_human": "00:42:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - 01/17/2025: Maddie Attempts an Improvised Review of The Perfect Child by Spiral Staircase",
+      "02 Dave Graw & J Rowe / Jordan Schug - 01/11/2025: Live at Third Man Records, Detroit, MI"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/124-archival-recordings_9320a3657c29"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/85412276a9b9ee3cecc2/124_Archival_Recordings.tar"
+    }
+  }
+}
