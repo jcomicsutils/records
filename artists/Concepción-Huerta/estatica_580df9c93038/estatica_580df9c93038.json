@@ -22,6 +22,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/estatica_580df9c93038"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/7908b15a8fb473541334/Est_tica.tar"
     }
   }
 }

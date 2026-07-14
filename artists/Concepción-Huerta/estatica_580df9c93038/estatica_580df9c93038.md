@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/estatica_580df9c93038)
+- [FileDitch](https://fileditchfiles.st/beta14/7908b15a8fb473541334/Est_tica.tar)
 
 ## Tracklist
 
