@@ -1,0 +1,27 @@
+{
+  "id": "234-dead-suburbia_4395e60e32a9",
+  "fingerprint": "4395e60e32a92304134d1311e5d8c5fe355c05affc1e980ed199e8d264706d27",
+  "archived_at": "2026-07-14T22:34:37Z",
+  "metadata": {
+    "title": "234: Dead Suburbia",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1119,
+    "duration_human": "00:18:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Dead Suburbia"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/234-dead-suburbia_4395e60e32a9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/6ebe55c5f47b9dfc8904/234_Dead_Suburbia.tar"
+    }
+  }
+}
