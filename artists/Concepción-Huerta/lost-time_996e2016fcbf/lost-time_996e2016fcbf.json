@@ -1,0 +1,28 @@
+{
+  "id": "lost-time_996e2016fcbf",
+  "fingerprint": "996e2016fcbf76eec4fa07db9ee91bec2a59d5062555c5b68f5efc2d905719ee",
+  "archived_at": "2026-07-14T23:07:27Z",
+  "metadata": {
+    "title": "Lost Time",
+    "artist": "Concepción Huerta",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1316,
+    "duration_human": "00:21:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Concepcion Huerta - 1. Nowhere to go",
+      "02 Concepcion Huerta - 2. Nothing remains"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lost-time_996e2016fcbf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/4ea821af4dfa3f536219/Lost_Time.tar"
+    }
+  }
+}
