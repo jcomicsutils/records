@@ -1,0 +1,28 @@
+{
+  "id": "concepcion-huerta-daniel-llermaly-lucitzel_2369b612d83e",
+  "fingerprint": "2369b612d83ed5ff861832b10f95e5851ad7ecd068fb09c5df4112aeba56f4ca",
+  "archived_at": "2026-07-14T22:20:26Z",
+  "metadata": {
+    "title": "Concepción Huerta + Daniel Llermaly + Lucitzel",
+    "artist": "Concepción Huerta",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 527,
+    "duration_human": "00:08:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Concepción Huerta - Concepción Huerta - Encuentro Final",
+      "02 Concepción Huerta, Daniel Llermaly, Lucitzel - Daniel Llermaly - Oficio"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/concepcion-huerta-daniel-llermaly-lucitzel_2369b612d83e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/1520ee77e22c619e55e0/Concepci_n_Huerta_Daniel_Llermaly_Lucitzel.tar"
+    }
+  }
+}
