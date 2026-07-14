@@ -1,0 +1,33 @@
+{
+  "id": "el-idioma-de-las-luciernagas_fde3952b4be6",
+  "fingerprint": "fde3952b4be697b1d9589b9338141f9d538ae758c7e0bca4aca8edcf322cae84",
+  "archived_at": "2026-07-14T16:21:40Z",
+  "metadata": {
+    "title": "El idioma de las luciérnagas",
+    "artist": "Federico Durand",
+    "year": "2013",
+    "codec": "MP3",
+    "num_tracks": 7,
+    "duration_seconds": 2161,
+    "duration_human": "00:36:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Federico Durand - Los niños izan las estrellas con hilos de plata",
+      "02 Federico Durand - El espejo de mil años",
+      "03 Federico Durand - Huemul",
+      "04 Federico Durand - El idioma de las luciérnagas",
+      "05 Federico Durand - Mumi",
+      "06 Federico Durand - Los cristales soñadores",
+      "07 Federico Durand - Una ciudad al pie de las montañas"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/el-idioma-de-las-luciernagas_fde3952b4be6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/331bbc80a8a02f02f0c5/El_idioma_de_las_luci_rnagas.tar"
+    }
+  }
+}
