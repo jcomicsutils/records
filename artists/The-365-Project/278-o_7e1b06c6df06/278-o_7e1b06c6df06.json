@@ -1,0 +1,27 @@
+{
+  "id": "278-o_7e1b06c6df06",
+  "fingerprint": "7e1b06c6df06994d568a510d10017113719807009db7853940e4db1b334fbf9e",
+  "archived_at": "2026-07-14T23:38:31Z",
+  "metadata": {
+    "title": "278: Ω",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 141,
+    "duration_human": "00:02:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Ω"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/278-o_7e1b06c6df06"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/b65bed64951e68f41219/278.tar"
+    }
+  }
+}
