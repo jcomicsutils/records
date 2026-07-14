@@ -1,0 +1,27 @@
+{
+  "id": "108-the-burnout_4adebe6296cb",
+  "fingerprint": "4adebe6296cb59183f524e05fc85808b457aaa369531d487c5cbacd8c7878a77",
+  "archived_at": "2026-07-14T17:32:40Z",
+  "metadata": {
+    "title": "108: The Burnout",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 228,
+    "duration_human": "00:03:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - The Burnout"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/108-the-burnout_4adebe6296cb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/4eaa8d28c5c399f55ea2/108_The_Burnout.tar"
+    }
+  }
+}
