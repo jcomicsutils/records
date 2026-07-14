@@ -1,0 +1,27 @@
+{
+  "id": "253-notloudthing_47e69b504e2d",
+  "fingerprint": "47e69b504e2d9a53560dda283c9e0fbc6bc1334ef06407dac1002acf967c72ab",
+  "archived_at": "2026-07-14T23:19:07Z",
+  "metadata": {
+    "title": "253: Notloudthing",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 166,
+    "duration_human": "00:02:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Notloudthing"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/253-notloudthing_47e69b504e2d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/0b395c606fa0f632343b/253_Notloudthing.tar"
+    }
+  }
+}
