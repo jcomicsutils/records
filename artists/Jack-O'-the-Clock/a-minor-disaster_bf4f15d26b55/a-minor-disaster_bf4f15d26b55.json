@@ -1,0 +1,27 @@
+{
+  "id": "a-minor-disaster_bf4f15d26b55",
+  "fingerprint": "bf4f15d26b55c76c1f014e0ea8d44796c7cf19fd9bea1b7c6dbe20d6b78a4eb5",
+  "archived_at": "2026-07-14T22:27:25Z",
+  "metadata": {
+    "title": "A Minor Disaster",
+    "artist": "Jack O' the Clock",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 336,
+    "duration_human": "00:05:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jack O' the Clock - A Minor Disaster"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-minor-disaster_bf4f15d26b55"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/a466182fe0bfa83d50be/A_Minor_Disaster.tar"
+    }
+  }
+}
