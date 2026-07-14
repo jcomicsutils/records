@@ -1,0 +1,38 @@
+{
+  "id": "jardin-de-invierno_f2f9ab160bdd",
+  "fingerprint": "f2f9ab160bdd59a9f8fcd0a960b2425cdbed1e2d09bda81e6ef630bc2e18f4c6",
+  "archived_at": "2026-07-14T16:52:02Z",
+  "metadata": {
+    "title": "Jardín de invierno",
+    "artist": "Federico Durand",
+    "year": "2016",
+    "codec": "MP3",
+    "num_tracks": 12,
+    "duration_seconds": 2776,
+    "duration_human": "00:46:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Federico Durand - Lilium",
+      "02 Federico Durand - Florilegio",
+      "03 Federico Durand - Figuritas de jade",
+      "04 Federico Durand - Mariposas nocturnas",
+      "05 Federico Durand - Jardín de invierno",
+      "06 Federico Durand - Copos de nieve",
+      "07 Federico Durand - Canción de las gacelas",
+      "08 Federico Durand - Azahar",
+      "09 Federico Durand - Un gran bosque rodea el monoblock",
+      "10 Federico Durand - Ver a través del follaje",
+      "11 Federico Durand - Tarde de lluvia",
+      "12 Federico Durand - Las sierra se disuelven entre las nubes"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/jardin-de-invierno_f2f9ab160bdd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/4ba1e45daf05553171e6/Jard_n_de_invierno.tar"
+    }
+  }
+}
