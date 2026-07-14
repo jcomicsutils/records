@@ -1,0 +1,27 @@
+{
+  "id": "058-walk-on-leaves_11be9bc49a39",
+  "fingerprint": "11be9bc49a39d64c61effa7e4120320aef4adc58cd63a407cd38cdcab8e2cba3",
+  "archived_at": "2026-07-14T16:42:16Z",
+  "metadata": {
+    "title": "058: Walk on Leaves",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 769,
+    "duration_human": "00:12:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Walk on Leaves"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/058-walk-on-leaves_11be9bc49a39"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/6d91a128b28f73b8a30c/058_Walk_on_Leaves.tar"
+    }
+  }
+}
