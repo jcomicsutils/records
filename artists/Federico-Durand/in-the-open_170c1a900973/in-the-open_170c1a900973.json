@@ -1,0 +1,31 @@
+{
+  "id": "in-the-open_170c1a900973",
+  "fingerprint": "170c1a90097336c85a93d0806ba85ba1cb8fff858356ead49a4fc3215fc44308",
+  "archived_at": "2026-07-14T16:50:13Z",
+  "metadata": {
+    "title": "In the Open",
+    "artist": "Federico Durand",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2366,
+    "duration_human": "00:39:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Asuna, Tomoyoshi Date, Federico Durand - In the forest on the hill of old castle.",
+      "02 Asuna, Tomoyoshi Date, Federico Durand - The pond of the water mirror garden.",
+      "03 Asuna, Tomoyoshi Date, Federico Durand - Gates and ramparts.",
+      "04 Asuna, Tomoyoshi Date, Federico Durand - Sweeping the leaves like a quiet wave.",
+      "05 Asuna, Tomoyoshi Date, Federico Durand - On the shore of the stray pond.",
+      "06 Asuna, Tomoyoshi Date, Federico Durand - The noon crescent is waiting for the cherry blossoms to bloom.",
+      "07 Asuna, Tomoyoshi Date, Federico Durand - Down through the tunnel to the river.",
+      "08 Asuna, Tomoyoshi Date, Federico Durand - Lunch before farewell at the soba house."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/in-the-open_170c1a900973"
+    }
+  }
+}

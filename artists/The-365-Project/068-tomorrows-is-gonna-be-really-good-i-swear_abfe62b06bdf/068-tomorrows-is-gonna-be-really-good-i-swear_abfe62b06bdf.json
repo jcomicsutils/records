@@ -1,0 +1,27 @@
+{
+  "id": "068-tomorrows-is-gonna-be-really-good-i-swear_abfe62b06bdf",
+  "fingerprint": "abfe62b06bdf15f47c3c37f802872ce7cc9fc9879bd58cc3d9f0cdcb09b4ab0c",
+  "archived_at": "2026-07-14T16:50:29Z",
+  "metadata": {
+    "title": "068: Tomorrow's is Gonna Be Really Good I Swear",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1231,
+    "duration_human": "00:20:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/068-tomorrows-is-gonna-be-really-good-i-swear_abfe62b06bdf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/d4264eb90aa02f8ee0f7/068_Tomorrow_s_is_Gonna_Be_Really_Good_I_Swear.tar"
+    }
+  }
+}
