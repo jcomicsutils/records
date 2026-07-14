@@ -1,0 +1,40 @@
+{
+  "id": "el-rayo-en-la-botella_076fb09fa528",
+  "fingerprint": "076fb09fa528020c5a81b4120eb0fe671d5e19270b39561ec6d4ad458062084b",
+  "archived_at": "2026-07-14T22:16:36Z",
+  "metadata": {
+    "title": "el rayo en la botella",
+    "artist": "Matias Zaborchik",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_seconds": 1415,
+    "duration_human": "00:23:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Matias Zaborchik - ¿cuál es la distancia?",
+      "02 Matias Zaborchik - antes desde ahora",
+      "03 Matias Zaborchik - pixel I",
+      "04 Matias Zaborchik - se prenden, se apagan",
+      "05 Matias Zaborchik - tiempo de espera",
+      "06 Matias Zaborchik - pixel II",
+      "07 Matias Zaborchik - abulia zonza",
+      "08 Matias Zaborchik - short ad",
+      "09 Matias Zaborchik - el rayo en la botella",
+      "10 Matias Zaborchik - campanas 240p",
+      "11 Matias Zaborchik - desarme rápido / galán que opina",
+      "12 Matias Zaborchik - dios en las cosas (con Alma Gamerro)",
+      "13 Matias Zaborchik - tik tokyo",
+      "14 Matias Zaborchik - cápsula sábado",
+      "15 Matias Zaborchik - volver del laburo",
+      "16 Matias Zaborchik - jugando con las rejas",
+      "17 Matias Zaborchik - error zen / despedida (gracias)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/el-rayo-en-la-botella_076fb09fa528"
+    }
+  }
+}

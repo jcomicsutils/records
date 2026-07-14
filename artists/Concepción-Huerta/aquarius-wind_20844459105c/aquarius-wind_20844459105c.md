@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/aquarius-wind_20844459105c)
+- [FileDitch](https://fileditchfiles.st/beta14/eff4a67c71ac402f1540/Aquarius_Wind.tar)
 
 ## Tracklist
 
