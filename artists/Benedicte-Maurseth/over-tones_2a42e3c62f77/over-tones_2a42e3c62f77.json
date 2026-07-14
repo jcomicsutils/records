@@ -1,0 +1,37 @@
+{
+  "id": "over-tones_2a42e3c62f77",
+  "fingerprint": "2a42e3c62f773f10ce92d2438903c8a10969e20e562c3ad9945cd175043d8ded",
+  "archived_at": "2026-07-14T18:56:28Z",
+  "metadata": {
+    "title": "Over Tones",
+    "artist": "Benedicte Maurseth",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2653,
+    "duration_human": "00:44:13",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Benedicte Maurseth, Åsne Valland Nordli - Alde",
+      "02 Benedicte Maurseth, Åsne Valland Nordli - Veverskens tid",
+      "03 Benedicte Maurseth, Åsne Valland Nordli - Slåtten hans Borgår",
+      "04 Benedicte Maurseth, Åsne Valland Nordli - Overtone",
+      "05 Benedicte Maurseth, Åsne Valland Nordli - Ales",
+      "06 Benedicte Maurseth, Åsne Valland Nordli - Huldrespringar",
+      "07 Benedicte Maurseth, Åsne Valland Nordli - Jesus gjør meg stille",
+      "08 Benedicte Maurseth, Åsne Valland Nordli - Blåtone",
+      "09 Benedicte Maurseth, Åsne Valland Nordli - Rameslått II",
+      "10 Benedicte Maurseth, Åsne Valland Nordli - Kilden",
+      "11 Benedicte Maurseth, Åsne Valland Nordli - Båtsong"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/over-tones_2a42e3c62f77"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/d5f4ce7e8bcb46060b7e/Over_Tones.tar"
+    }
+  }
+}
