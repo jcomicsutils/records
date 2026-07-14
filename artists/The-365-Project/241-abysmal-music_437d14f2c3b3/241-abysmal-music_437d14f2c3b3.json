@@ -1,0 +1,27 @@
+{
+  "id": "241-abysmal-music_437d14f2c3b3",
+  "fingerprint": "437d14f2c3b3856d84a56ca69e0c7b442586290b359352156251b0b97258b1aa",
+  "archived_at": "2026-07-14T23:03:57Z",
+  "metadata": {
+    "title": "241: Abysmal Music",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 10803,
+    "duration_human": "03:00:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Abysmal Music"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/241-abysmal-music_437d14f2c3b3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/2d6189b7acf7bcb1f72c/241_Abysmal_Music.tar"
+    }
+  }
+}
