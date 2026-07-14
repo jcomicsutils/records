@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/seven-ways-of-going_cdf16c741112)
+- [FileDitch](https://fileditchfiles.st/beta14/35bb68077bfcf5225951/Seven_Ways_Of_Going.tar)
 
 ## Tracklist
 

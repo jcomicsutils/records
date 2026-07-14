@@ -20,6 +20,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/seven-ways-of-going_cdf16c741112"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/35bb68077bfcf5225951/Seven_Ways_Of_Going.tar"
     }
   }
 }
