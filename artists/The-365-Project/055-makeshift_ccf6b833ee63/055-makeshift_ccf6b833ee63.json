@@ -1,0 +1,27 @@
+{
+  "id": "055-makeshift_ccf6b833ee63",
+  "fingerprint": "ccf6b833ee6383932f30739b624fbbfa015a82e0d270ea197802c2be5da9ac71",
+  "archived_at": "2026-07-14T16:40:06Z",
+  "metadata": {
+    "title": "055: Makeshift",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 521,
+    "duration_human": "00:08:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Makeshift"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/055-makeshift_ccf6b833ee63"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/4178295351adbc36479e/055_Makeshift.tar"
+    }
+  }
+}
