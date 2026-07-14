@@ -1,0 +1,27 @@
+{
+  "id": "023-latajacy-pies_ecd287223845",
+  "fingerprint": "ecd287223845e6aa289c7a2541815674884b331f1d910b7e1fbae23c04aadbf4",
+  "archived_at": "2026-07-14T16:15:43Z",
+  "metadata": {
+    "title": "023: Latający pies",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 167,
+    "duration_human": "00:02:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Latający pies"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/023-latajacy-pies_ecd287223845"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/649a14ddae809fcf8c04/023_Lataj_cy_pies.tar"
+    }
+  }
+}
