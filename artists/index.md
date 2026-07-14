@@ -43,6 +43,7 @@
 - [Clinical trails](Clinical-trails/Clinical-trails.md)
 - [Club Rialto](Club-Rialto/Club-Rialto.md)
 - [Coffret de Bijoux](Coffret-de-Bijoux/Coffret-de-Bijoux.md)
+- [Concepción Huerta](Concepción-Huerta/Concepción-Huerta.md)
 - [Constellatia](Constellatia/Constellatia.md)
 - [Crying Motherfuckers](Crying-Motherfuckers/Crying-Motherfuckers.md)
 - [Deafheaven](Deafheaven/Deafheaven.md)

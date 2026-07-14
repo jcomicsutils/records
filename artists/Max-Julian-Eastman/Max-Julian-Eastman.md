@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Pygmalion Styled & Out of Vogue](pygmalion-styled-out-of-vogue_b723c45cab37/pygmalion-styled-out-of-vogue_b723c45cab37.md) | 2021 | FLAC | 00:19:41 | [IA](https://archive.org/details/pygmalion-styled-out-of-vogue_b723c45cab37) [FileDitch](https://fileditchfiles.st/beta14/625f9d1a964674b88b55/Pygmalion_Styled_Out_of_Vogue.tar) |
 | [Corpus Callosum](corpus-callosum_ae5366dacb77/corpus-callosum_ae5366dacb77.md) | 2021 | MP3 | 00:26:24 | [IA](https://archive.org/details/corpus-callosum_ae5366dacb77) [FileDitch](https://fileditchfiles.st/beta14/a7b626b672b38daa21d3/Corpus_Callosum.tar) |
 | [Extreme Psychedelia](extreme-psychedelia_cc8857599c19/extreme-psychedelia_cc8857599c19.md) | 2022 | ALAC | 04:27:24 | [IA](https://archive.org/details/extreme-psychedelia_cc8857599c19) [FileDitch](https://fileditchfiles.st/beta14/d2226fed2cafd2a2a66b/Extreme_Psychedelia.tar) |
 | [Model of Malehood](model-of-malehood_3acfc92825b0/model-of-malehood_3acfc92825b0.md) | 2022 | FLAC | 01:07:51 | [IA](https://archive.org/details/model-of-malehood_3acfc92825b0) [FileDitch](https://fileditchfiles.st/beta14/12bc99b3ec6ff2a82748/Model_of_Malehood.tar) |

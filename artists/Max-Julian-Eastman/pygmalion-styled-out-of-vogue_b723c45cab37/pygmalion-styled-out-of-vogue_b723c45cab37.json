@@ -1,0 +1,29 @@
+{
+  "id": "pygmalion-styled-out-of-vogue_b723c45cab37",
+  "fingerprint": "b723c45cab37b2462467446d919ffe73bcb0cdf4d417423e8b76aef402bb34a3",
+  "archived_at": "2026-07-14T22:16:25Z",
+  "metadata": {
+    "title": "Pygmalion Styled & Out of Vogue",
+    "artist": "Max Julian Eastman",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1181,
+    "duration_human": "00:19:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Max Julian Eastman - Pygmalion",
+      "02 Max Julian Eastman - Styled",
+      "03 Max Julian Eastman - Out of Vogue"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pygmalion-styled-out-of-vogue_b723c45cab37"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/625f9d1a964674b88b55/Pygmalion_Styled_Out_of_Vogue.tar"
+    }
+  }
+}

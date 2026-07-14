@@ -1,0 +1,25 @@
+{
+  "id": "aquarius-wind_20844459105c",
+  "fingerprint": "20844459105c2183e87d3463c2567b84b0ce6ed4e4bd7620592eba98e2a6cf96",
+  "archived_at": "2026-07-14T22:16:17Z",
+  "metadata": {
+    "title": "Aquarius Wind",
+    "artist": "Concepción Huerta",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3945,
+    "duration_human": "01:05:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Concepción Huerta, Eli Piña - Lado A",
+      "02 Concepción Huerta, Eli Piña - Lado B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/aquarius-wind_20844459105c"
+    }
+  }
+}
