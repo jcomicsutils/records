@@ -1,0 +1,28 @@
+{
+  "id": "257-social-outsourcing-vii_759c64b27986",
+  "fingerprint": "759c64b2798678283852ef52a97f06ffb480cfd4412a288c0e8d05afc694fae2",
+  "archived_at": "2026-07-14T23:22:04Z",
+  "metadata": {
+    "title": "257: Social Outsourcing VII",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 368,
+    "duration_human": "00:06:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Accidentally Burning Bridges",
+      "02 곰팡이 [mold] - fever"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/257-social-outsourcing-vii_759c64b27986"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/74a95525947a914c4e4c/257_Social_Outsourcing_VII.tar"
+    }
+  }
+}
