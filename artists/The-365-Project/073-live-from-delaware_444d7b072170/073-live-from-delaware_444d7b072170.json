@@ -1,0 +1,27 @@
+{
+  "id": "073-live-from-delaware_444d7b072170",
+  "fingerprint": "444d7b072170b6668729902c94cca15a3c1ba9ee5680277fb7b4a7f39158de7d",
+  "archived_at": "2026-07-14T16:59:08Z",
+  "metadata": {
+    "title": "073: Live from Delaware",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 124,
+    "duration_human": "00:02:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Live from Delaware"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/073-live-from-delaware_444d7b072170"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/6060006a8872d1d9970d/073_Live_from_Delaware.tar"
+    }
+  }
+}

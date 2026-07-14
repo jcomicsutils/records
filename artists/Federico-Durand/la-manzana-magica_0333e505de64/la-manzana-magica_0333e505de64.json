@@ -1,0 +1,35 @@
+{
+  "id": "la-manzana-magica_0333e505de64",
+  "fingerprint": "0333e505de64b8f6292e1d76bedd5747afe5b98a2253a360b19e12f8a301478f",
+  "archived_at": "2026-07-14T16:58:43Z",
+  "metadata": {
+    "title": "La Manzana Mágica",
+    "artist": "Federico Durand",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2508,
+    "duration_human": "00:41:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Federico Durand - Liv",
+      "02 Federico Durand - Sibylle von Olfers",
+      "03 Federico Durand - Essen 1887",
+      "04 Federico Durand - Los días se acortan",
+      "05 Federico Durand - Hansel y Gretel",
+      "06 Federico Durand - Jul 1948",
+      "07 Federico Durand - God Helg 1920",
+      "08 Federico Durand - La manzana mágica",
+      "09 Federico Durand - Netherland 1959",
+      "10 Federico Durand - Jinete de caracoles",
+      "11 Federico Durand - Puy",
+      "12 Federico Durand - Jólin 1960"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/la-manzana-magica_0333e505de64"
+    }
+  }
+}
