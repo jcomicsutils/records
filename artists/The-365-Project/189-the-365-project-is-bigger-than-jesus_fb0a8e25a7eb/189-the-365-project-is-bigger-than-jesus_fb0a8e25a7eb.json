@@ -1,0 +1,28 @@
+{
+  "id": "189-the-365-project-is-bigger-than-jesus_fb0a8e25a7eb",
+  "fingerprint": "fb0a8e25a7eba1b524b87e369c0ef8f932fdd59439b92af1c0b2778e705ebbf1",
+  "archived_at": "2026-07-14T21:48:07Z",
+  "metadata": {
+    "title": "189: The 365 Project Is Bigger Than Jesus",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 796,
+    "duration_human": "00:13:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Screwdriver",
+      "02 The 365 Project - Guitar Abuse"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/189-the-365-project-is-bigger-than-jesus_fb0a8e25a7eb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/81c1cd989e576ec8100a/189_The_365_Project_Is_Bigger_Than_Jesus.tar"
+    }
+  }
+}
