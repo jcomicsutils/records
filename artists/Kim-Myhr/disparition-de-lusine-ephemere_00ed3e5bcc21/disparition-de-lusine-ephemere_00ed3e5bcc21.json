@@ -1,0 +1,36 @@
+{
+  "id": "disparition-de-lusine-ephemere_00ed3e5bcc21",
+  "fingerprint": "00ed3e5bcc216bd32154463c7318210604def99b38a40b7f81f2e056aa47172f",
+  "archived_at": "2026-07-14T16:20:20Z",
+  "metadata": {
+    "title": "Disparition de l'usine ephémère",
+    "artist": "Kim Myhr",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2184,
+    "duration_human": "00:36:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Philippe Lauzier, Pierre-Yves Martel, Kim Myhr, Martin Tétreault - Traitement Thermique",
+      "02 Philippe Lauzier, Pierre-Yves Martel, Kim Myhr, Martin Tétreault - Enrenage",
+      "03 Philippe Lauzier, Pierre-Yves Martel, Kim Myhr, Martin Tétreault - Électro-polissage",
+      "04 Philippe Lauzier, Pierre-Yves Martel, Kim Myhr, Martin Tétreault - État de surface",
+      "05 Philippe Lauzier, Pierre-Yves Martel, Kim Myhr, Martin Tétreault - Gestion Des Ressources Humaines",
+      "06 Philippe Lauzier, Pierre-Yves Martel, Kim Myhr, Martin Tétreault - Fonderie",
+      "07 Philippe Lauzier, Pierre-Yves Martel, Kim Myhr, Martin Tétreault - Passage Cylindrique",
+      "08 Philippe Lauzier, Pierre-Yves Martel, Kim Myhr, Martin Tétreault - Rouleau Compresseur",
+      "09 Philippe Lauzier, Pierre-Yves Martel, Kim Myhr, Martin Tétreault - Assemblage",
+      "10 Philippe Lauzier, Pierre-Yves Martel, Kim Myhr, Martin Tétreault - Chantier Naval"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/disparition-de-lusine-ephemere_00ed3e5bcc21"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/341f429849e1fb08f23c/Disparition_de_l_usine_eph_m_re.tar"
+    }
+  }
+}

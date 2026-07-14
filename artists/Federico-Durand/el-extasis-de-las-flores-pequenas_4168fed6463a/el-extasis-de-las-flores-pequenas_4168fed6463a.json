@@ -1,0 +1,30 @@
+{
+  "id": "el-extasis-de-las-flores-pequenas_4168fed6463a",
+  "fingerprint": "4168fed6463aec1f12a795376c786d6bb8d4bbe011435a1cc850cfd9f4302ed0",
+  "archived_at": "2026-07-14T16:20:11Z",
+  "metadata": {
+    "title": "El Éxtasis De Las Flores Pequeñas",
+    "artist": "Federico Durand",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2127,
+    "duration_human": "00:35:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Federico Durand - El Pequeño Huésped Sigue Dormido",
+      "02 Federico Durand - Los Niños Escriben Poemas En Tiras De Papel Rojo",
+      "03 Federico Durand - Elin",
+      "04 Federico Durand - La Casa De Los Abuelos",
+      "05 Federico Durand - El Éxtasis De Las Flores Pequeñas",
+      "06 Federico Durand - Atardecer En Las Montañas",
+      "07 Federico Durand - Kim"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/el-extasis-de-las-flores-pequenas_4168fed6463a"
+    }
+  }
+}

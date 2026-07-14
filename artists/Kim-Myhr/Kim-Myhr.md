@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Disparition de l'usine ephémère](disparition-de-lusine-ephemere_00ed3e5bcc21/disparition-de-lusine-ephemere_00ed3e5bcc21.md) | 2008 | FLAC | 00:36:24 | [IA](https://archive.org/details/disparition-de-lusine-ephemere_00ed3e5bcc21) [FileDitch](https://fileditchfiles.st/beta14/341f429849e1fb08f23c/Disparition_de_l_usine_eph_m_re.tar) |
 | [All Your Limbs Singing](all-your-limbs-singing_e0d7aff71840/all-your-limbs-singing_e0d7aff71840.md) | 2014 | FLAC | 00:38:49 | [IA](https://archive.org/details/all-your-limbs-singing_e0d7aff71840) [FileDitch](https://fileditchfiles.st/beta14/35cbb71edf63d41c1d71/All_Your_Limbs_Singing.tar) |
 | [Bloom](bloom_00bc9ad3442e/bloom_00bc9ad3442e.md) | 2016 | FLAC | 00:37:30 | [IA](https://archive.org/details/bloom_00bc9ad3442e) [FileDitch](https://fileditchfiles.st/beta14/26631edbcf6688aabc55/Bloom.tar) |
 | [Contrived](contrived_a10696f37bf2/contrived_a10696f37bf2.md) | 2019 | MP3 | 00:31:13 | [IA](https://archive.org/details/contrived_a10696f37bf2) [FileDitch](https://fileditchfiles.st/beta14/107f8741341dff38789d/Contrived.tar) |
