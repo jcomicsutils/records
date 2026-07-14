@@ -1,0 +1,27 @@
+{
+  "id": "111-more-cricket-noises-delivered-to-the-masses_36ed00f48c24",
+  "fingerprint": "36ed00f48c24ab919f7551af35d4b9cfe278e54e5fb166e3654381070cda6e7f",
+  "archived_at": "2026-07-14T18:23:42Z",
+  "metadata": {
+    "title": "111: More Cricket Noises Delivered to the Masses",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 2695,
+    "duration_human": "00:44:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/111-more-cricket-noises-delivered-to-the-masses_36ed00f48c24"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/e873cc1a82b94cecf027/111_More_Cricket_Noises_Delivered_to_the_Masses.tar"
+    }
+  }
+}
