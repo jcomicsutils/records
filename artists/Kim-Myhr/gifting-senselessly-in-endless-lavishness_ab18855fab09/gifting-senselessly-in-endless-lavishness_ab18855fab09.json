@@ -1,0 +1,27 @@
+{
+  "id": "gifting-senselessly-in-endless-lavishness_ab18855fab09",
+  "fingerprint": "ab18855fab091e2c1bea576497669d55288830e1323bc852f31117cd16cd802e",
+  "archived_at": "2026-07-14T16:22:06Z",
+  "metadata": {
+    "title": "Gifting Senselessly in Endless Lavishness",
+    "artist": "Kim Myhr",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 540,
+    "duration_human": "00:09:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kim Myhr - Gifting Senselessly in Endless Lavishness"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/gifting-senselessly-in-endless-lavishness_ab18855fab09"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/f6502c44fab1cdb6448f/Gifting_Senselessly_in_Endless_Lavishness.tar"
+    }
+  }
+}
