@@ -1,0 +1,27 @@
+{
+  "id": "158-my-bad_36a4ae1396c9",
+  "fingerprint": "36a4ae1396c9493764df4221495407e43c2fb5ac360fc33d1d821daf76948495",
+  "archived_at": "2026-07-14T21:20:21Z",
+  "metadata": {
+    "title": "158: My Bad",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 2052,
+    "duration_human": "00:34:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - My Bad"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/158-my-bad_36a4ae1396c9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/e909f92aa0567f361af4/158_My_Bad.tar"
+    }
+  }
+}
