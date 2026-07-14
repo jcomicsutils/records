@@ -1,0 +1,28 @@
+{
+  "id": "the-glamorous-life_c8b8a9b42db2",
+  "fingerprint": "c8b8a9b42db2eea5c62cfa1346895d4857038ce6efe85c4c58b477f2ba6e706a",
+  "archived_at": "2026-07-14T22:23:46Z",
+  "metadata": {
+    "title": "The Glamorous Life",
+    "artist": "Max Julian Eastman",
+    "year": "2024",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 2407,
+    "duration_human": "00:40:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Max Julian Eastman - Side A - The Glamorous Life",
+      "02 Max Julian Eastman - Side B - The Glamorous Life"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-glamorous-life_c8b8a9b42db2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/eac8a69e35db646b62a7/The_Glamorous_Life.tar"
+    }
+  }
+}
