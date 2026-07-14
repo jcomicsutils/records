@@ -1,0 +1,27 @@
+{
+  "id": "115-static-take-1_4b7abdf0345e",
+  "fingerprint": "4b7abdf0345e4f04f9509074b19123b8586c8c4b857af1b9025d0a29ae3fd951",
+  "archived_at": "2026-07-14T18:38:15Z",
+  "metadata": {
+    "title": "115: Static (Take 1)",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 332,
+    "duration_human": "00:05:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Static (Take 1)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/115-static-take-1_4b7abdf0345e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/a1cbbd698a3403b945fd/115_Static_Take_1.tar"
+    }
+  }
+}
