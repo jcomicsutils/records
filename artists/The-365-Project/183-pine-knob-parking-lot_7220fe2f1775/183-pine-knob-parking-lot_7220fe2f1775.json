@@ -1,0 +1,27 @@
+{
+  "id": "183-pine-knob-parking-lot_7220fe2f1775",
+  "fingerprint": "7220fe2f177519d56d7b0cbe6f05724660932405627cbf0db5814d874b04b976",
+  "archived_at": "2026-07-14T21:42:44Z",
+  "metadata": {
+    "title": "183: Pine Knob Parking Lot",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 167,
+    "duration_human": "00:02:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Pine Knob Parking Lot"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/183-pine-knob-parking-lot_7220fe2f1775"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/915be39e9ec97fb10821/183_Pine_Knob_Parking_Lot.tar"
+    }
+  }
+}
