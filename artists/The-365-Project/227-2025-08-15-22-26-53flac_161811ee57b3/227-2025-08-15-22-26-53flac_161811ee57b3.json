@@ -1,0 +1,27 @@
+{
+  "id": "227-2025-08-15-22-26-53flac_161811ee57b3",
+  "fingerprint": "161811ee57b38737996b1617af87ad0400271b79bf1f14caa72de4f7c18381cf",
+  "archived_at": "2026-07-14T22:28:45Z",
+  "metadata": {
+    "title": "227: 2025-08-15 22-26-53.flac",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 305,
+    "duration_human": "00:05:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - 2025-08-15 22-26-53.flac"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/227-2025-08-15-22-26-53flac_161811ee57b3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/560c2a5d4bf8674fd228/227_2025-08-15_22-26-53.flac.tar"
+    }
+  }
+}
