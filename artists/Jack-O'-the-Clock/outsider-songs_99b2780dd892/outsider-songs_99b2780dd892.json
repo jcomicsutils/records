@@ -1,0 +1,33 @@
+{
+  "id": "outsider-songs_99b2780dd892",
+  "fingerprint": "99b2780dd892c5b8eafa6f5db136d6ae4718ef16fc43fea95e875173b641b3f8",
+  "archived_at": "2026-07-14T23:33:04Z",
+  "metadata": {
+    "title": "Outsider Songs",
+    "artist": "Jack O' the Clock",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1883,
+    "duration_human": "00:31:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jack O' the Clock - Chinaberry Tree",
+      "02 Jack O' the Clock - Mute Witness",
+      "03 Jack O' the Clock - The Chauffeur",
+      "04 Jack O' the Clock - The Wrong Child",
+      "05 Jack O' the Clock - Think Too Much (B)",
+      "06 Jack O' the Clock - Hyoer-Ballad",
+      "07 Jack O' the Clock - Serenity"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/outsider-songs_99b2780dd892"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/8802b621fc28f7b4b58a/Outsider_Songs.tar"
+    }
+  }
+}
