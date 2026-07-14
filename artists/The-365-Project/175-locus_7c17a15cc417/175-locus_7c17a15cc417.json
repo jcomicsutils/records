@@ -1,0 +1,27 @@
+{
+  "id": "175-locus_7c17a15cc417",
+  "fingerprint": "7c17a15cc417117c044c1b9f9471be968cd2f19e9ae1724ef06861acad157593",
+  "archived_at": "2026-07-14T21:34:51Z",
+  "metadata": {
+    "title": "175: Locus",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 257,
+    "duration_human": "00:04:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Locus"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/175-locus_7c17a15cc417"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/a6c9bdd066acb65bd3cc/175_Locus.tar"
+    }
+  }
+}
