@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/088-d-a-d-f-a-d_8b9a6d53aa5f)
+- [FileDitch](https://fileditchfiles.st/beta14/f7cc095a51f6851c5ed5/088_D_A_D_F_A_D.tar)
 
 ## Tracklist
 
