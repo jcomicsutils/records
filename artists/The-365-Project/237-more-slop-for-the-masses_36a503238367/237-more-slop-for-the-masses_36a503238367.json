@@ -1,0 +1,28 @@
+{
+  "id": "237-more-slop-for-the-masses_36a503238367",
+  "fingerprint": "36a503238367bf53a8ea83c7809256138ca616a893e49efa2f75c53e29b6ddac",
+  "archived_at": "2026-07-14T22:38:05Z",
+  "metadata": {
+    "title": "237: More Slop for the Masses",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 536,
+    "duration_human": "00:08:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - shit thing",
+      "02 The 365 Project - not shit thing"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/237-more-slop-for-the-masses_36a503238367"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/ceeddadc3d1fcb5038b4/237_More_Slop_for_the_Masses.tar"
+    }
+  }
+}
