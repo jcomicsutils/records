@@ -1,0 +1,27 @@
+{
+  "id": "250-melatonin_0f5e7bf6cedf",
+  "fingerprint": "0f5e7bf6cedf9bc0cd3862e3ff9dcf976058ee2933afa0516a071e131a427284",
+  "archived_at": "2026-07-14T23:17:15Z",
+  "metadata": {
+    "title": "250: Melatonin",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 2204,
+    "duration_human": "00:36:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Melatonin"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/250-melatonin_0f5e7bf6cedf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/2babc9db5651af7d741f/250_Melatonin.tar"
+    }
+  }
+}
