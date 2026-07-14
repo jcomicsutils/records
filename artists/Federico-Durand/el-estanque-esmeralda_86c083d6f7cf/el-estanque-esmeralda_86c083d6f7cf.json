@@ -1,0 +1,34 @@
+{
+  "id": "el-estanque-esmeralda_86c083d6f7cf",
+  "fingerprint": "86c083d6f7cf1b6bb7cf87aa61558aae572bbec06cf676f082c564003475909a",
+  "archived_at": "2026-07-14T16:17:28Z",
+  "metadata": {
+    "title": "El estanque esmeralda",
+    "artist": "Federico Durand",
+    "year": "2014",
+    "codec": "MP3",
+    "num_tracks": 8,
+    "duration_seconds": 2459,
+    "duration_human": "00:40:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Federico Durand - Clavel",
+      "02 Federico Durand - La linterna mágica",
+      "03 Federico Durand - El pequeño puente de madera",
+      "04 Federico Durand - Un claro del bosque iluminado por la luz de la luna",
+      "05 Federico Durand - El maravilloso cuenco de Ritva Kaukoranta",
+      "06 Federico Durand - Visiones del estanque esmeralda",
+      "07 Federico Durand - Iris, la niña invisible",
+      "08 Federico Durand - Nymphaea"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/el-estanque-esmeralda_86c083d6f7cf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/113dddff7cfd54301f5d/El_estanque_esmeralda.tar"
+    }
+  }
+}
