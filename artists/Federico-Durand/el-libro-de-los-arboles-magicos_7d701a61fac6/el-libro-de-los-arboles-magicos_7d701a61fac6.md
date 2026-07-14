@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/el-libro-de-los-arboles-magicos_7d701a61fac6)
+- [FileDitch](https://fileditchfiles.st/beta14/af16c9b1cdc56bf35b32/El_Libro_De_Los_rboles_M_gicos.tar)
 
 ## Tracklist
 
