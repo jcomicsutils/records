@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/fodne-ho-svara-stilt-folketonar-fra-hardanger-samla-av-geirr-tveitt_fe2fe9487adc)
+- [FileDitch](https://fileditchfiles.st/beta14/7dd35fd41bc8e0c278f9/Fodne_Ho_Svara_Stilt_-_Folketonar_Fr_Hardanger_Samla_Av_Geirr_T.tar)
 
 ## Tracklist
 
