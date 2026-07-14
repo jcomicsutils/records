@@ -1,0 +1,27 @@
+{
+  "id": "131-initiative_7bbe19f6a617",
+  "fingerprint": "7bbe19f6a617731ee306b630bc3842c24a223287bebcee4b1a7a4806232aa6d4",
+  "archived_at": "2026-07-14T19:20:22Z",
+  "metadata": {
+    "title": "131: Initiative",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 47,
+    "duration_human": "00:00:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Initiative"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/131-initiative_7bbe19f6a617"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/1a9502daee2b0ba1e52e/131_Initiative.tar"
+    }
+  }
+}
