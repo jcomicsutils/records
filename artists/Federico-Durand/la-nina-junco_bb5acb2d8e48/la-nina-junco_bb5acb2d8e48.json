@@ -1,0 +1,35 @@
+{
+  "id": "la-nina-junco_bb5acb2d8e48",
+  "fingerprint": "bb5acb2d8e48f2a36f91a6793b6c3c4892cd3b5243ce4e39a55a4f4d2b1296de",
+  "archived_at": "2026-07-14T17:10:38Z",
+  "metadata": {
+    "title": "La Niña Junco",
+    "artist": "Federico Durand",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2433,
+    "duration_human": "00:40:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Federico Durand - La historia de la niña junco",
+      "02 Federico Durand - Melodía de felpa",
+      "03 Federico Durand - Navidad en el bosque",
+      "04 Federico Durand - Rondel",
+      "05 Federico Durand - Una plaza junto a las vías del tren",
+      "06 Federico Durand - Ilu",
+      "07 Federico Durand - El cascabel de plata",
+      "08 Federico Durand - Melodía de felpa, continuación",
+      "09 Federico Durand - Lluvia de estrellas"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/la-nina-junco_bb5acb2d8e48"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/c5778d1551683082a882/La_Ni_a_Junco.tar"
+    }
+  }
+}
