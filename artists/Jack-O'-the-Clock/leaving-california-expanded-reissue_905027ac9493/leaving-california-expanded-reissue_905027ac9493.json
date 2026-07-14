@@ -1,0 +1,32 @@
+{
+  "id": "leaving-california-expanded-reissue_905027ac9493",
+  "fingerprint": "905027ac949370e281ef73771be3fa71aee5bb284dddc3d93bde9462430c2e09",
+  "archived_at": "2026-07-14T23:22:35Z",
+  "metadata": {
+    "title": "Leaving California (Expanded) (Reissue)",
+    "artist": "Jack O' the Clock",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3536,
+    "duration_human": "00:58:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Jack O' the Clock - Jubilation",
+      "02 Jack O' the Clock - You Let Me Down",
+      "03 Jack O' the Clock - The Butcher",
+      "04 Jack O' the Clock - A Quarter-Page Ad",
+      "05 Jack O' the Clock - Leaving California",
+      "06 Jack O' the Clock - Fascination",
+      "07 Jack O' the Clock - Narrow Gate",
+      "08 Jack O' the Clock - Leaving California Suite (Vermont band version) (Bonus Track)",
+      "09 Jack O' the Clock - Jubilation (Vermont band version) (Bonus Track)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leaving-california-expanded-reissue_905027ac9493"
+    }
+  }
+}

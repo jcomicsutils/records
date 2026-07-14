@@ -1,0 +1,27 @@
+{
+  "id": "258-music-license_2bcced8b22d0",
+  "fingerprint": "2bcced8b22d02655a4587b8b8f04c527f3e0c4161c18900a5bcdc7e21c2944a1",
+  "archived_at": "2026-07-14T23:22:40Z",
+  "metadata": {
+    "title": "258: Music License",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 224,
+    "duration_human": "00:03:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Music License"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/258-music-license_2bcced8b22d0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/4264a9850714ea45ddbf/258_Music_License.tar"
+    }
+  }
+}
