@@ -23,6 +23,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/live-in-munich_339bc3f53e05"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/0e4fe6996bef7364e276/Live_in_Munich.tar"
     }
   }
 }
