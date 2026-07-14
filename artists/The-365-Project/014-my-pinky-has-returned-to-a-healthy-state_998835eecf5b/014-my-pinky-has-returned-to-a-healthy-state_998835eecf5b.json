@@ -1,0 +1,29 @@
+{
+  "id": "014-my-pinky-has-returned-to-a-healthy-state_998835eecf5b",
+  "fingerprint": "998835eecf5bcd5ac0356be5f9eed278d8c622bc9c2c1f082faeaf51c6f53a74",
+  "archived_at": "2026-07-14T16:06:53Z",
+  "metadata": {
+    "title": "014: My Pinky Has Returned to a Healthy State",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 921,
+    "duration_human": "00:15:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - The absence of anything resembling a tune continues to nag, and the mood improves when McMahan keeps his mouth shut.",
+      "02 The 365 Project - My Pinky Has Returned to a Healthy State",
+      "03 The 365 Project - [take 1]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/014-my-pinky-has-returned-to-a-healthy-state_998835eecf5b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/4f80c7c060b97cdb49ac/014_My_Pinky_Has_Returned_to_a_Healthy_State.tar"
+    }
+  }
+}
