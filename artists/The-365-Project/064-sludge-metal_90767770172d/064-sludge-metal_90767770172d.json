@@ -1,0 +1,27 @@
+{
+  "id": "064-sludge-metal_90767770172d",
+  "fingerprint": "90767770172db4ace882ecbe1dae1e873498f58f202cf8d140677b5e587022df",
+  "archived_at": "2026-07-14T16:47:55Z",
+  "metadata": {
+    "title": "064: Sludge Metal",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 531,
+    "duration_human": "00:08:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Sludge Metal"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/064-sludge-metal_90767770172d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/d3ef5bfb607a123c4abb/064_Sludge_Metal.tar"
+    }
+  }
+}
