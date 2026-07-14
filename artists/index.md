@@ -76,6 +76,7 @@
 - [Kashshapu](Kashshapu/Kashshapu.md)
 - [Khanate](Khanate/Khanate.md)
 - [Killing Joke](Killing-Joke/Killing-Joke.md)
+- [Kim Myhr](Kim-Myhr/Kim-Myhr.md)
 - [Kiss the Anus of a Black Cat](Kiss-the-Anus-of-a-Black-Cat/Kiss-the-Anus-of-a-Black-Cat.md)
 - [Kometjakten](Kometjakten/Kometjakten.md)
 - [Księżyc](Księżyc/Księżyc.md)

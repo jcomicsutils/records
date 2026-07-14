@@ -1,0 +1,29 @@
+{
+  "id": "all-your-limbs-singing_e0d7aff71840",
+  "fingerprint": "e0d7aff718409cf12f4558ccd6403d6bbef1f7f7b9d9ec9c24be61dc6ed6e93f",
+  "archived_at": "2026-07-14T16:04:14Z",
+  "metadata": {
+    "title": "All Your Limbs Singing",
+    "artist": "Kim Myhr",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2329,
+    "duration_human": "00:38:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kim Myhr - Weaving Into Choir",
+      "02 Kim Myhr - Descent",
+      "03 Kim Myhr - Blinky",
+      "04 Kim Myhr - Leaping Into Periphery",
+      "05 Kim Myhr - Sleep Nothing, Eat Nothing",
+      "06 Kim Myhr - Harbor Me"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/all-your-limbs-singing_e0d7aff71840"
+    }
+  }
+}

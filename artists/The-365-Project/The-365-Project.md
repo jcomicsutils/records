@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [011: Accept and Embrace the New Dark Age](011-accept-and-embrace-the-new-dark-age_f61d3c085296/011-accept-and-embrace-the-new-dark-age_f61d3c085296.md) | 2026 | MP3 | 01:40:00 | [IA](https://archive.org/details/011-accept-and-embrace-the-new-dark-age_f61d3c085296) |
 | [003: Kozelek Take 1](003-kozelek-take-1_437c60410df5/003-kozelek-take-1_437c60410df5.md) | 2026 | MP3 | 00:11:58 | [IA](https://archive.org/details/003-kozelek-take-1_437c60410df5) [FileDitch](https://fileditchfiles.st/beta14/9dd088cd7d7474cd2e68/003_Kozelek_Take_1.tar) |
 | [006: Dead Leaves, Pt. 2 - Take 2](006-dead-leaves-pt-2-take-2_16dfaa406e31/006-dead-leaves-pt-2-take-2_16dfaa406e31.md) | 2026 | MP3 | 00:05:29 | [IA](https://archive.org/details/006-dead-leaves-pt-2-take-2_16dfaa406e31) [FileDitch](https://fileditchfiles.st/beta14/cea92636597c875ab5f4/006_Dead_Leaves_Pt._2_-_Take_2.tar) |
 | [010: No](010-no_2c302f75fd57/010-no_2c302f75fd57.md) | 2026 | MP3 | 00:26:27 | [IA](https://archive.org/details/010-no_2c302f75fd57) [FileDitch](https://fileditchfiles.st/beta14/1121880e043ef6f9819f/010_No.tar) |
