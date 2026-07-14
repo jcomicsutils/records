@@ -1,0 +1,27 @@
+{
+  "id": "217-shithead-jam-3_7316fb42b8ba",
+  "fingerprint": "7316fb42b8baf25843ac249712bb8519171e5fc3079ed678c394af02a4d25616",
+  "archived_at": "2026-07-14T22:18:09Z",
+  "metadata": {
+    "title": "217: Shithead Jam 3",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 429,
+    "duration_human": "00:07:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Shithead Jam 3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/217-shithead-jam-3_7316fb42b8ba"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/fa25dddab72844d5a0af/217_Shithead_Jam_3.tar"
+    }
+  }
+}
