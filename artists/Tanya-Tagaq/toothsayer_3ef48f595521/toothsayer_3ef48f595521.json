@@ -1,0 +1,31 @@
+{
+  "id": "toothsayer_3ef48f595521",
+  "fingerprint": "3ef48f595521f70d567eb260704eb5ca144a9ae4c92b784b12f04bafbc90baf5",
+  "archived_at": "2026-07-15T02:33:30Z",
+  "metadata": {
+    "title": "Toothsayer",
+    "artist": "Tanya Tagaq",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1500,
+    "duration_human": "00:25:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tanya Tagaq - Icebreaker",
+      "02 Tanya Tagaq - Snowblind",
+      "03 Tanya Tagaq - Toothsayer",
+      "04 Tanya Tagaq - Submerged",
+      "05 Tanya Tagaq - Hypothermia"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/toothsayer_3ef48f595521"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/027c05ea6debde79ac9d/Toothsayer.tar"
+    }
+  }
+}
