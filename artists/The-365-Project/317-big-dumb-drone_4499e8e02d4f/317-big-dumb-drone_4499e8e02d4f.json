@@ -1,0 +1,27 @@
+{
+  "id": "317-big-dumb-drone_4499e8e02d4f",
+  "fingerprint": "4499e8e02d4f7058bfcd89584e23b1b5fd896213ef4c3234e4190748a4a10be1",
+  "archived_at": "2026-07-15T00:34:09Z",
+  "metadata": {
+    "title": "317: Big Dumb Drone",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 891,
+    "duration_human": "00:14:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Big Dumb Drone"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/317-big-dumb-drone_4499e8e02d4f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/ecc060d87422cff28106/317_Big_Dumb_Drone.tar"
+    }
+  }
+}
