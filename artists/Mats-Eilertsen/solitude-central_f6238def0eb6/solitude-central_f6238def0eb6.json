@@ -1,0 +1,32 @@
+{
+  "id": "solitude-central_f6238def0eb6",
+  "fingerprint": "f6238def0eb6471fcd4dba587de32ae9437a995cdaec0b8dadc601f59c5e5f7e",
+  "archived_at": "2026-07-15T02:09:07Z",
+  "metadata": {
+    "title": "Solitude Central",
+    "artist": "Mats Eilertsen",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1920,
+    "duration_human": "00:32:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mats Eilertsen - Opening Solitude",
+      "02 Mats Eilertsen - 2nd Solitude",
+      "03 Mats Eilertsen - 3rd Solitude",
+      "04 Mats Eilertsen - 4th Solitude",
+      "05 Mats Eilertsen - 5th Solitude",
+      "06 Mats Eilertsen - Closing Solitude"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/solitude-central_f6238def0eb6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/a55ac39e769c39651918/Solitude_Central.tar"
+    }
+  }
+}
