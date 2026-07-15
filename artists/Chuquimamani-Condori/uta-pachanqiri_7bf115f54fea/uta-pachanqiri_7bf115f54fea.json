@@ -1,0 +1,31 @@
+{
+  "id": "uta-pachanqiri_7bf115f54fea",
+  "fingerprint": "7bf115f54fead76642fe33506629f124733d7b9852ea5817177d07ff98703c7c",
+  "archived_at": "2026-07-15T17:47:06Z",
+  "metadata": {
+    "title": "Uta Pachanqiri",
+    "artist": "Chuquimamani-Condori",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1081,
+    "duration_human": "00:18:01",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Chuquimamani-Condori - Tears on My Walk Song",
+      "02 Chuquimamani-Condori - Willow Sips Water Song (For Sage LaPena)",
+      "03 Chuquimamani-Condori - Shonisaurus Prayer Song",
+      "04 Chuquimamani-Condori - See My Relatives Song (Fire Bear)",
+      "05 Chuquimamani-Condori - Paka Jaqui My Nation Song"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/uta-pachanqiri_7bf115f54fea"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/7d88c08a817dfb5deaa5/Uta_Pachanqiri.tar"
+    }
+  }
+}
