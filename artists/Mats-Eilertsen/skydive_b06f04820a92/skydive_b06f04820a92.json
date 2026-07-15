@@ -1,0 +1,32 @@
+{
+  "id": "skydive_b06f04820a92",
+  "fingerprint": "b06f04820a92b9890931a3486402aff2395f0ad4e9be9bd4db7d6d222ae8b7e7",
+  "archived_at": "2026-07-15T02:01:57Z",
+  "metadata": {
+    "title": "Skydive",
+    "artist": "Mats Eilertsen",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3210,
+    "duration_human": "00:53:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mats Eilertsen - Splendor",
+      "02 Mats Eilertsen - Memento",
+      "03 Mats Eilertsen - Birds Perspective",
+      "04 Mats Eilertsen - Parachute Psalm",
+      "05 Mats Eilertsen - The Pilots Choice",
+      "06 Mats Eilertsen - Skydive",
+      "07 Mats Eilertsen - The Void",
+      "08 Mats Eilertsen - Embrace",
+      "09 Mats Eilertsen - The Old Oak"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/skydive_b06f04820a92"
+    }
+  }
+}

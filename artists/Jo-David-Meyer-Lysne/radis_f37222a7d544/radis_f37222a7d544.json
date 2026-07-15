@@ -1,0 +1,33 @@
+{
+  "id": "radis_f37222a7d544",
+  "fingerprint": "f37222a7d5446fe2f9e90908c020faca4762808dec9db925778ae5f04294ca80",
+  "archived_at": "2026-07-15T02:02:44Z",
+  "metadata": {
+    "title": "Radis",
+    "artist": "Jo David Meyer Lysne",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 7,
+    "duration_seconds": 2806,
+    "duration_human": "00:46:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Andrea Giordano, Kalle Moberg, Jo David Meyer Lysne - Fioria",
+      "02 Andrea Giordano, Kalle Moberg, Jo David Meyer Lysne - Malinconie",
+      "03 Andrea Giordano, Kalle Moberg, Jo David Meyer Lysne - Per mi ancheuj",
+      "04 Andrea Giordano, Kalle Moberg, Jo David Meyer Lysne - Profij despers",
+      "05 Andrea Giordano, Kalle Moberg, Jo David Meyer Lysne - D antorn a lor",
+      "06 Andrea Giordano, Kalle Moberg, Jo David Meyer Lysne - Guarda me cheur",
+      "07 Andrea Giordano, Kalle Moberg, Jo David Meyer Lysne - E semper ti"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/radis_f37222a7d544"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/9aebeb9a195af16001d1/Radis.tar"
+    }
+  }
+}
