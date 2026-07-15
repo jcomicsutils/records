@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/365-i-hate-the-365-project_e99b81a46abf)
+- [FileDitch](https://fileditchfiles.st/beta14/30ce80a2b797fefa6380/365_I_Hate_the_365_Project.tar)
 
 ## Tracklist
 
