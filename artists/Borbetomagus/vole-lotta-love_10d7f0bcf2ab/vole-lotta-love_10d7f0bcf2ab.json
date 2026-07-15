@@ -1,0 +1,28 @@
+{
+  "id": "vole-lotta-love_10d7f0bcf2ab",
+  "fingerprint": "10d7f0bcf2abc15352c7c0bc69a31705672b726cee8cd0b0175ae9c02bd973fc",
+  "archived_at": "2026-07-15T15:39:57Z",
+  "metadata": {
+    "title": "Vole Lotta Love",
+    "artist": "Borbetomagus",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2276,
+    "duration_human": "00:37:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Borbetomagus - Part 1",
+      "02 Borbetomagus - Part 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vole-lotta-love_10d7f0bcf2ab"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/d903829566915c3fd538/Vole_Lotta_Love.tar"
+    }
+  }
+}
