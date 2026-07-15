@@ -1,0 +1,35 @@
+{
+  "id": "end-of-the-middle_d03f5e8f3476",
+  "fingerprint": "d03f5e8f347699bef18cd64c30e62994536dd5f7007d5e40d2cf5aec9cf8ceb7",
+  "archived_at": "2026-07-15T23:22:05Z",
+  "metadata": {
+    "title": "End of the Middle",
+    "artist": "Richard Dawson",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2954,
+    "duration_human": "00:49:14",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Richard Dawson - Bolt",
+      "02 Richard Dawson - Gondola",
+      "03 Richard Dawson - Bullies",
+      "04 Richard Dawson - The Question",
+      "05 Richard Dawson - Boxing Day Sales",
+      "06 Richard Dawson - Knot",
+      "07 Richard Dawson - Polytunnel",
+      "08 Richard Dawson - Removals Van",
+      "09 Richard Dawson - More Than Real"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/end-of-the-middle_d03f5e8f3476"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/95ab5408896ab4891615/End_of_the_Middle.tar"
+    }
+  }
+}
