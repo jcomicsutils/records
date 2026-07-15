@@ -1,0 +1,32 @@
+{
+  "id": "eco-arches-eras_c6c757102e6b",
+  "fingerprint": "c6c757102e6bd80151ad5e52132265f675b037f2bf502fd1a83597317e34d6b3",
+  "archived_at": "2026-07-15T17:00:15Z",
+  "metadata": {
+    "title": "Eco, Arches & Eras",
+    "artist": "Huntsville",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 5872,
+    "duration_human": "01:37:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "1-01 Huntsville - Lancet",
+      "1-02 Huntsville - Eco",
+      "1-03 Huntsville - Ogee",
+      "1-04 Huntsville - Arrow and Rain",
+      "1-05 Huntsville - Tudor",
+      "2-01 Huntsville - Eras"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/eco-arches-eras_c6c757102e6b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/3a7a6fae33b78a79e707/Eco_Arches_Eras.tar"
+    }
+  }
+}
