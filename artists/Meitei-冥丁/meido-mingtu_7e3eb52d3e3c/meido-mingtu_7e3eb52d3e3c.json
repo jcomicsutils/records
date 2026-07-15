@@ -1,0 +1,29 @@
+{
+  "id": "meido-mingtu_7e3eb52d3e3c",
+  "fingerprint": "7e3eb52d3e3cae5d0f6695ec721a59c36e927e865cc0f983843509f45a18eae8",
+  "archived_at": "2026-07-15T05:19:06Z",
+  "metadata": {
+    "title": "Meido / 冥土",
+    "artist": "Meitei / 冥丁",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 522,
+    "duration_human": "00:08:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Meitei / 冥丁 - Myo / 冥",
+      "02 Meitei / 冥丁 - Maboroshi / 幻",
+      "03 Meitei / 冥丁 - Fukiya / 吹矢"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/meido-mingtu_7e3eb52d3e3c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/69c4554c1c703b5795ff/Meido.tar"
+    }
+  }
+}

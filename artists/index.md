@@ -104,6 +104,7 @@
 - [Matias Zaborchik](Matias-Zaborchik/Matias-Zaborchik.md)
 - [Mats Eilertsen](Mats-Eilertsen/Mats-Eilertsen.md)
 - [Max Julian Eastman](Max-Julian-Eastman/Max-Julian-Eastman.md)
+- [Meitei / 冥丁](Meitei-冥丁/Meitei-冥丁.md)
 - [Merzbow + Xiu Xiu](Merzbow-+-Xiu-Xiu/Merzbow-+-Xiu-Xiu.md)
 - [Midori Hirano](Midori-Hirano/Midori-Hirano.md)
 - [Minimalistic Sweden](Minimalistic-Sweden/Minimalistic-Sweden.md)
