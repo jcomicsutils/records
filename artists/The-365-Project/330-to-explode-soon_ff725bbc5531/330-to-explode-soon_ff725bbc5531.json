@@ -1,0 +1,27 @@
+{
+  "id": "330-to-explode-soon_ff725bbc5531",
+  "fingerprint": "ff725bbc5531e123ea60d4359064f50dbacd5f34fbb989a1003479a156e9233d",
+  "archived_at": "2026-07-15T00:47:54Z",
+  "metadata": {
+    "title": "330: To Explode Soon",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 748,
+    "duration_human": "00:12:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - To Explode Soon"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/330-to-explode-soon_ff725bbc5531"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/5a28e0ccc08c4e176268/330_To_Explode_Soon.tar"
+    }
+  }
+}
