@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Betwixt & Between 3](betwixt-between-3_f164f0538655/betwixt-between-3_f164f0538655.md) | 2018 | FLAC | 00:30:10 | [IA](https://archive.org/details/betwixt-between-3_f164f0538655) [FileDitch](https://fileditchfiles.st/beta15/aeca3e543f6fb004f6fb/Betwixt_Between_3.tar) |
 | [Betwixt & Between 1](betwixt-between-1_f4a473c658c0/betwixt-between-1_f4a473c658c0.md) | 2018 | FLAC | 00:29:02 | [IA](https://archive.org/details/betwixt-between-1_f4a473c658c0) [FileDitch](https://fileditchfiles.st/beta15/e9a8d8bbd1103e3691f4/Betwixt_Between_1.tar) |
 | [Betwixt & Between 2](betwixt-between-2_b0f45b4183de/betwixt-between-2_b0f45b4183de.md) | 2018 | FLAC | 00:30:02 | [IA](https://archive.org/details/betwixt-between-2_b0f45b4183de) [FileDitch](https://fileditchfiles.st/beta15/b3545ffe57771ee7b812/Betwixt_Between_2.tar) |
 | [Banjo with the Sound of its Own Making](banjo-with-the-sound-of-its-own-making_9c8986d86404/banjo-with-the-sound-of-its-own-making_9c8986d86404.md) | 2021 | FLAC | 00:35:02 | [IA](https://archive.org/details/banjo-with-the-sound-of-its-own-making_9c8986d86404) [FileDitch](https://fileditchfiles.st/beta15/7f117ce6859c840be396/Banjo_with_the_Sound_of_its_Own_Making.tar) |

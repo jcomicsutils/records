@@ -1,0 +1,31 @@
+{
+  "id": "betwixt-between-3_f164f0538655",
+  "fingerprint": "f164f053865509dba2147549136996dcae42a242428478593bdffa132e874241",
+  "archived_at": "2026-07-15T21:44:59Z",
+  "metadata": {
+    "title": "Betwixt & Between 3",
+    "artist": "Jacken Elswyth",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1810,
+    "duration_human": "00:30:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jacken Elswyth, Spoatly Smith - Glory in the Meeting House",
+      "02 Jacken Elswyth, Spoatly Smith - Sweet Lemeny",
+      "03 Jacken Elswyth, Spoatly Smith - Last Chance / Sandy River Belle",
+      "04 Jacken Elswyth, Spoatly Smith - Improvisation for Banjo",
+      "05 Jacken Elswyth, Spoatly Smith - Vichai"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/betwixt-between-3_f164f0538655"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/aeca3e543f6fb004f6fb/Betwixt_Between_3.tar"
+    }
+  }
+}
