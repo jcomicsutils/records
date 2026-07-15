@@ -1,0 +1,29 @@
+{
+  "id": "347-hello-world-i-am-a-blob_9091a35577a2",
+  "fingerprint": "9091a35577a21d60bf5c664677d411e100aea11123dc2719b55d6b805099794b",
+  "archived_at": "2026-07-15T01:16:47Z",
+  "metadata": {
+    "title": "347: Hello World I Am A Blob",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 782,
+    "duration_human": "00:13:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 ungrilled cheese sandwich - deer basket socks",
+      "02 ungrilled cheese sandwich - remove my rock please",
+      "03 ungrilled cheese sandwich - sometimes?"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/347-hello-world-i-am-a-blob_9091a35577a2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/a5e2a2f46085e82cdd88/347_Hello_World_I_Am_A_Blob.tar"
+    }
+  }
+}
