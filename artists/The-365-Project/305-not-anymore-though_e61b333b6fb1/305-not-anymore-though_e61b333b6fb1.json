@@ -1,0 +1,28 @@
+{
+  "id": "305-not-anymore-though_e61b333b6fb1",
+  "fingerprint": "e61b333b6fb1615c7654a1065ef047389cdf6676df5e7c058fc78fbd014d2fa8",
+  "archived_at": "2026-07-15T00:26:43Z",
+  "metadata": {
+    "title": "305: Not Anymore Though",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 383,
+    "duration_human": "00:06:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Failure (Early)",
+      "02 The 365 Project - Rat Jam"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/305-not-anymore-though_e61b333b6fb1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/13ec1b73ce9e3564eb67/305_Not_Anymore_Though.tar"
+    }
+  }
+}
