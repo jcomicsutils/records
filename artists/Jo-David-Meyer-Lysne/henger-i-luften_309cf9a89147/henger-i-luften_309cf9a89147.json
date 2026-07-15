@@ -1,0 +1,34 @@
+{
+  "id": "henger-i-luften_309cf9a89147",
+  "fingerprint": "309cf9a89147b072a892a3f138ecf5427aadc905b22391cf4fdb21b614242b19",
+  "archived_at": "2026-07-15T01:58:53Z",
+  "metadata": {
+    "title": "Henger I Luften",
+    "artist": "Jo David Meyer Lysne",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1923,
+    "duration_human": "00:32:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jo David Meyer Lysne - Svalene På Årnes Brygge",
+      "02 Jo David Meyer Lysne - Henger I Luften",
+      "03 Jo David Meyer Lysne - Uten Feste",
+      "04 Jo David Meyer Lysne - Oslo",
+      "05 Jo David Meyer Lysne - -",
+      "06 Jo David Meyer Lysne - Saktere Dager",
+      "07 Jo David Meyer Lysne - Noen Andre Venter På",
+      "08 Jo David Meyer Lysne - Februar"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/henger-i-luften_309cf9a89147"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/115e4abbfa3e7a105177/Henger_I_Luften.tar"
+    }
+  }
+}
