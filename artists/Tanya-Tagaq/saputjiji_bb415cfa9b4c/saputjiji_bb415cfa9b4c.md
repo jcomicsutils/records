@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/saputjiji_bb415cfa9b4c)
+- [FileDitch](https://fileditchfiles.st/beta14/9bfd4c5c5222c4de1ca5/Saputjiji.tar)
 
 ## Tracklist
 
