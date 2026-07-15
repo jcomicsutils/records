@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/anuraagtuq_4faa9c425e08)
+- [FileDitch](https://fileditchfiles.st/beta14/b61e1575441bea8e485b/Anuraagtuq.tar)
 
 ## Tracklist
 
