@@ -133,6 +133,7 @@
 - [Respire](Respire/Respire.md)
 - [Revenence](Revenence/Revenence.md)
 - [Revenence / Argon Beams / Serpentmouth](Revenence-Argon-Beams-Serpentmouth/Revenence-Argon-Beams-Serpentmouth.md)
+- [Richard Dawson](Richard-Dawson/Richard-Dawson.md)
 - [Roel Meelkop](Roel-Meelkop/Roel-Meelkop.md)
 - [Ruf-Neck Piano](Ruf-Neck-Piano/Ruf-Neck-Piano.md)
 - [Sarin](Sarin/Sarin.md)
