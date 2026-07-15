@@ -1,0 +1,28 @@
+{
+  "id": "357-good_ee1675e7ecb6",
+  "fingerprint": "ee1675e7ecb682b6e0a2a4862062473e7949ce7e11b8e5b13209693fa16bea3e",
+  "archived_at": "2026-07-15T01:31:33Z",
+  "metadata": {
+    "title": "357: Good",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 315,
+    "duration_human": "00:05:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Renner (I Can Manipulate You)",
+      "02 The 365 Project - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/357-good_ee1675e7ecb6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/04aac350d2f0ff7cb05f/357_Good.tar"
+    }
+  }
+}
