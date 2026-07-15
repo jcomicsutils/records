@@ -1,0 +1,27 @@
+{
+  "id": "328-loomy-diss-track_8bac9de17ebb",
+  "fingerprint": "8bac9de17ebb6bb23c43e89b3db16b4c0dae6379c82e35e2da6a70ed758eb282",
+  "archived_at": "2026-07-15T00:45:35Z",
+  "metadata": {
+    "title": "328: Loomy Diss Track",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 374,
+    "duration_human": "00:06:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Loomy Diss Track"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/328-loomy-diss-track_8bac9de17ebb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/78d981d781be7ff44449/328_Loomy_Diss_Track.tar"
+    }
+  }
+}
