@@ -1,0 +1,33 @@
+{
+  "id": "quirquincho-medicine_04a257858bc1",
+  "fingerprint": "04a257858bc1b29427116c6ffcd02e5b33b1c7a8f74b7bc2d32df41deca02fd9",
+  "archived_at": "2026-07-15T17:32:46Z",
+  "metadata": {
+    "title": "Quirquincho Medicine",
+    "artist": "Chuquimamani-Condori",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1562,
+    "duration_human": "00:26:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Chuquimamani-Condori - Ghost Lift Song",
+      "02 Chuquimamani-Condori - Cedar Picking Song",
+      "03 Chuquimamani-Condori - Spider Medicine Song (los ojos Ymaymana Ñoccaycu Rapñauin)",
+      "04 Chuquimamani-Condori - Sierra Song (Two-Spirit Song)",
+      "05 Chuquimamani-Condori - Kalampeo Song",
+      "06 Chuquimamani-Condori - Family Court Song",
+      "07 Chuquimamani-Condori - Strength of Our Sacred Bundle Song"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/quirquincho-medicine_04a257858bc1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/12f7369d14e3083e193b/Quirquincho_Medicine.tar"
+    }
+  }
+}
