@@ -1,0 +1,27 @@
+{
+  "id": "295-tissues_65ece122c79c",
+  "fingerprint": "65ece122c79c94532bc72a76b005a8aa7ef1f7fa7f9d3c58bfe41d237cedd420",
+  "archived_at": "2026-07-15T00:08:20Z",
+  "metadata": {
+    "title": "295: Tissues",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 685,
+    "duration_human": "00:11:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Tissues"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/295-tissues_65ece122c79c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/dcc654a3c117695a8250/295_Tissues.tar"
+    }
+  }
+}
