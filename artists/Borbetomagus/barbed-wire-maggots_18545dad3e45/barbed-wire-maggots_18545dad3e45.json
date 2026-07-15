@@ -20,6 +20,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/barbed-wire-maggots_18545dad3e45"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/7276191c1f94cdc69bce/Barbed_Wire_Maggots.tar"
     }
   }
 }

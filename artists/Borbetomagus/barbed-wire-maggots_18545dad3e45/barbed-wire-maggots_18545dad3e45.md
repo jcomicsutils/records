@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/barbed-wire-maggots_18545dad3e45)
+- [FileDitch](https://fileditchfiles.st/beta14/7276191c1f94cdc69bce/Barbed_Wire_Maggots.tar)
 
 ## Tracklist
 
