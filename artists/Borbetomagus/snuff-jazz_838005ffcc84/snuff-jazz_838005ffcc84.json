@@ -1,0 +1,27 @@
+{
+  "id": "snuff-jazz_838005ffcc84",
+  "fingerprint": "838005ffcc84f0e0789e5fd68349596c62b79c7102d7e7156fe689fe65de2aaf",
+  "archived_at": "2026-07-15T04:44:08Z",
+  "metadata": {
+    "title": "Snuff Jazz",
+    "artist": "Borbetomagus",
+    "year": "1990",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3035,
+    "duration_human": "00:50:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Borbetomagus - ABC",
+      "02 Borbetomagus - BBC",
+      "03 Borbetomagus - CBC",
+      "04 Borbetomagus - DC"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/snuff-jazz_838005ffcc84"
+    }
+  }
+}

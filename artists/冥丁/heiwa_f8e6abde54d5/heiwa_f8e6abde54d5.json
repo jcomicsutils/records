@@ -1,0 +1,27 @@
+{
+  "id": "heiwa_f8e6abde54d5",
+  "fingerprint": "f8e6abde54d57aa1e2ee030c2b928cd1f01350e057ae2fae385dff132e02f87c",
+  "archived_at": "2026-07-15T04:44:57Z",
+  "metadata": {
+    "title": "Heiwa",
+    "artist": "冥丁",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 203,
+    "duration_human": "00:03:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Meitei - Heiwa"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/heiwa_f8e6abde54d5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/f99712be3ee399c87058/Heiwa.tar"
+    }
+  }
+}
