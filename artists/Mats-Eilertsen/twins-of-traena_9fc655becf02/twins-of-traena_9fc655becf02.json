@@ -1,0 +1,27 @@
+{
+  "id": "twins-of-traena_9fc655becf02",
+  "fingerprint": "9fc655becf02855339d942c980dd7a08dc1534c44451bf75357cd76afb17ac86",
+  "archived_at": "2026-07-15T02:39:19Z",
+  "metadata": {
+    "title": "Twins of Træna",
+    "artist": "Mats Eilertsen",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 221,
+    "duration_human": "00:03:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trond Kallevåg, Mats Eilertsen, Gard Nilssen, Tuva Halse - Twins of Træna"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/twins-of-traena_9fc655becf02"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/22236fc87ed0434eae69/Twins_of_Tr_na.tar"
+    }
+  }
+}
