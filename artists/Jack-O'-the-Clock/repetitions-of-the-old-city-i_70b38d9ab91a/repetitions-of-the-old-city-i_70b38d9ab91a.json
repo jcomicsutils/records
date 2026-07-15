@@ -1,0 +1,35 @@
+{
+  "id": "repetitions-of-the-old-city-i_70b38d9ab91a",
+  "fingerprint": "70b38d9ab91af709eaf67c677f052735c674170537713fdd63a12179eb9be9d7",
+  "archived_at": "2026-07-15T00:16:21Z",
+  "metadata": {
+    "title": "Repetitions of the Old City I",
+    "artist": "Jack O' the Clock",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3852,
+    "duration_human": "01:04:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jack O' the Clock - I Am so Glad to Meet You",
+      "02 Jack O' the Clock - The Old Man and the Table Saw",
+      "03 Jack O' the Clock - When the Door Opens, It Opens on Everything",
+      "04 Jack O' the Clock - Epistemology / Even Keel",
+      "05 Jack O' the Clock - .22, Or Denny Takes One for the Team",
+      "06 Jack O' the Clock - Videos of the Dead",
+      "07 Jack O' the Clock - Whiteout",
+      "08 Jack O' the Clock - Fighting the Doughboy",
+      "09 Jack O' the Clock - After the Dive"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/repetitions-of-the-old-city-i_70b38d9ab91a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/a6632784d9c4ce33ad8c/Repetitions_of_the_Old_City_I.tar"
+    }
+  }
+}
