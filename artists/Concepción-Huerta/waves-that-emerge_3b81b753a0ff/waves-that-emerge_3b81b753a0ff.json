@@ -19,6 +19,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/waves-that-emerge_3b81b753a0ff"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/04c856d8de41f2a777ee/Waves_that_Emerge.tar"
     }
   }
 }
