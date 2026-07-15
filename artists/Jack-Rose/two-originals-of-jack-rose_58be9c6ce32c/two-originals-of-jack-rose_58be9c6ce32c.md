@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/two-originals-of-jack-rose_58be9c6ce32c)
+- [FileDitch](https://fileditchfiles.st/beta15/d9e45a4d9ad2cda61369/Two_Originals_of_Jack_Rose.tar)
 
 ## Tracklist
 

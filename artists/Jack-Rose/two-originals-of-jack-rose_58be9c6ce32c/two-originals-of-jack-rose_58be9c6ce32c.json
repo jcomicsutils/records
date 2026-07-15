@@ -27,6 +27,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/two-originals-of-jack-rose_58be9c6ce32c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/d9e45a4d9ad2cda61369/Two_Originals_of_Jack_Rose.tar"
     }
   }
 }
