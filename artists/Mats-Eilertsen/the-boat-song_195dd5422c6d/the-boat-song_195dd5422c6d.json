@@ -1,0 +1,27 @@
+{
+  "id": "the-boat-song_195dd5422c6d",
+  "fingerprint": "195dd5422c6d0d24b36a3860b1c12976569de19f3fdd42c7acdf72133216ebc1",
+  "archived_at": "2026-07-15T02:18:13Z",
+  "metadata": {
+    "title": "The Boat Song",
+    "artist": "Mats Eilertsen",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 275,
+    "duration_human": "00:04:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trond Kallevåg, Mats Eilertsen, Gard Nilssen, Tuva Halse - The Boat Song"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-boat-song_195dd5422c6d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/70e95f733e02d1e63d7a/The_Boat_Song.tar"
+    }
+  }
+}
