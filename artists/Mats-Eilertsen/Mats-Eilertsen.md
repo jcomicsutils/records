@@ -4,6 +4,7 @@
 |-------|------|-------|----------|-------|
 | [Parish](parish_e88197a93b6f/parish_e88197a93b6f.md) | 2005 | FLAC | 01:11:20 | [IA](https://archive.org/details/parish_e88197a93b6f) [FileDitch](https://fileditchfiles.st/beta14/18f41e2d5fed7cf004c4/Parish.tar) |
 | [Flux](flux_2b75be512198/flux_2b75be512198.md) | 2006 | FLAC | 00:43:38 | [IA](https://archive.org/details/flux_2b75be512198) [FileDitch](https://fileditchfiles.st/beta14/eb5a2dfe6b331ddf56fb/Flux.tar) |
+| [Short Stories](short-stories_20b8c31cf80a/short-stories_20b8c31cf80a.md) | 2007 | FLAC | 00:39:51 | [IA](https://archive.org/details/short-stories_20b8c31cf80a) [FileDitch](https://fileditchfiles.st/beta14/f482fafa700861d90e28/Short_Stories.tar) |
 | [Radio Yonder](radio-yonder_2c7b90f1786d/radio-yonder_2c7b90f1786d.md) | 2009 | FLAC | 00:56:06 | [IA](https://archive.org/details/radio-yonder_2c7b90f1786d) [FileDitch](https://fileditchfiles.st/beta14/f4a9dac4c25e0342edea/Radio_Yonder.tar) |
 | [Elegy](elegy_f873c0a0af54/elegy_f873c0a0af54.md) | 2011 | ALAC | 00:53:58 | [IA](https://archive.org/details/elegy_f873c0a0af54) [FileDitch](https://fileditchfiles.st/beta14/90ff6ab6da9be509ec2b/Elegy.tar) |
 | [Sails Set](sails-set_92deda1aeff0/sails-set_92deda1aeff0.md) | 2013 | FLAC | 00:37:38 | [IA](https://archive.org/details/sails-set_92deda1aeff0) [FileDitch](https://fileditchfiles.st/beta14/e68a9065b2f545840c42/Sails_Set.tar) |

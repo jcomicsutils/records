@@ -1,0 +1,40 @@
+{
+  "id": "short-stories_20b8c31cf80a",
+  "fingerprint": "20b8c31cf80a7ef7184f087fc0603208b558588505e2edabba0d5ec7c47e5191",
+  "archived_at": "2026-07-15T01:54:48Z",
+  "metadata": {
+    "title": "Short Stories",
+    "artist": "Mats Eilertsen",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 2391,
+    "duration_human": "00:39:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mats Eilertsen - Preludium",
+      "02 Mats Eilertsen - To the Little Radio - 1",
+      "03 Mats Eilertsen - Metal",
+      "04 Mats Eilertsen - Alltid Freidig",
+      "05 Mats Eilertsen - Geist",
+      "06 Mats Eilertsen - Lace",
+      "07 Mats Eilertsen - Gutua",
+      "08 Mats Eilertsen - East of Auster",
+      "09 Mats Eilertsen - Glory",
+      "10 Mats Eilertsen - Litany",
+      "11 Mats Eilertsen - Vertigo",
+      "12 Mats Eilertsen - Apus Apus",
+      "13 Mats Eilertsen - Undertow",
+      "14 Mats Eilertsen - To the Little Radio - 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/short-stories_20b8c31cf80a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/f482fafa700861d90e28/Short_Stories.tar"
+    }
+  }
+}

@@ -76,6 +76,7 @@
 - [House of Low Culture](House-of-Low-Culture/House-of-Low-Culture.md)
 - [If-Then-Else](If-Then-Else/If-Then-Else.md)
 - [Jack O' the Clock](Jack-O'-the-Clock/Jack-O'-the-Clock.md)
+- [Jo David Meyer Lysne](Jo-David-Meyer-Lysne/Jo-David-Meyer-Lysne.md)
 - [KTL](KTL/KTL.md)
 - [Kaatayra](Kaatayra/Kaatayra.md)
 - [Kammerflimmer Kollektief](Kammerflimmer-Kollektief/Kammerflimmer-Kollektief.md)
