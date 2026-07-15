@@ -1,0 +1,38 @@
+{
+  "id": "at-fargrounds_f67de54df5f3",
+  "fingerprint": "f67de54df5f3c46caede3cb9b8085ef1f22b073106502657dc6f6c503a577dab",
+  "archived_at": "2026-07-15T21:25:35Z",
+  "metadata": {
+    "title": "At Fargrounds",
+    "artist": "Jacken Elswyth",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2658,
+    "duration_human": "00:44:18",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Jacken Elswyth - Singing Birds / Jack Lattin",
+      "02 Jacken Elswyth - Warm Machinery",
+      "03 Jacken Elswyth - Lost Gander",
+      "04 Jacken Elswyth - Sugar Hill",
+      "05 Jacken Elswyth - Waken Workshops",
+      "06 Jacken Elswyth - White Cockade / Big Sciota",
+      "07 Jacken Elswyth - Sussex Waltz",
+      "08 Jacken Elswyth - Princess Royal",
+      "09 Jacken Elswyth - Who Remembers",
+      "10 Jacken Elswyth - A Fisherman's Song For Attracting Seals / Full Rigged Ship",
+      "11 Jacken Elswyth - Falls of Richmond / Squirrel Hunters",
+      "12 Jacken Elswyth - Coffin Maker"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/at-fargrounds_f67de54df5f3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/17e15a46aa7ca8370bba/At_Fargrounds.tar"
+    }
+  }
+}
