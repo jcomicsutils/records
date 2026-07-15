@@ -1,0 +1,27 @@
+{
+  "id": "296-not-today-satan_2e19deae0d6d",
+  "fingerprint": "2e19deae0d6d0e6cdcbc91689db53363ed82deb8520adb1a9f641bec8b5a2a27",
+  "archived_at": "2026-07-15T00:09:08Z",
+  "metadata": {
+    "title": "296: Not Today, Satan!",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 4004,
+    "duration_human": "01:06:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Not Today, Satan!"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/296-not-today-satan_2e19deae0d6d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/298b2186b415b3c9eea4/296_Not_Today_Satan.tar"
+    }
+  }
+}
