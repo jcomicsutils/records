@@ -1,0 +1,33 @@
+{
+  "id": "jack-rose_542885f61650",
+  "fingerprint": "542885f61650453fedf2474bf91f52c1d5414829aa9cdbbc66f9350c070c32af",
+  "archived_at": "2026-07-15T18:25:26Z",
+  "metadata": {
+    "title": "Jack Rose",
+    "artist": "Jack Rose",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2037,
+    "duration_human": "00:33:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jack Rose - Levee",
+      "02 Jack Rose - Revolt",
+      "03 Jack Rose - St. Louis Blues",
+      "04 Jack Rose - Miss May's Place",
+      "05 Jack Rose - Gage Blues",
+      "06 Jack Rose - Spirits in the House",
+      "07 Jack Rose - Dark Was the Night"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/jack-rose_542885f61650"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha16/d58fec5fda745ad59a7f/Jack_Rose.tar"
+    }
+  }
+}
