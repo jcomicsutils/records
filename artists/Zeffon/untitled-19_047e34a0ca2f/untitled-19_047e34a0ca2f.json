@@ -1,0 +1,29 @@
+{
+  "id": "untitled-19_047e34a0ca2f",
+  "fingerprint": "047e34a0ca2f92c51ef28be1b4096a7433226c5831ae912e2b96969af64b0445",
+  "archived_at": "2026-07-15T23:11:23Z",
+  "metadata": {
+    "title": "(untitled) '19",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 13153,
+    "duration_human": "03:39:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Dream in the Duel (Ver. 1)",
+      "02 Zeffon - Gong Kai-Style Artefacts (Bread and Rice)",
+      "03 Zeffon - Gabon Rotation (Forever Ver. 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/untitled-19_047e34a0ca2f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/0133668554a2ec3e4ce6/untitled_19.tar"
+    }
+  }
+}
