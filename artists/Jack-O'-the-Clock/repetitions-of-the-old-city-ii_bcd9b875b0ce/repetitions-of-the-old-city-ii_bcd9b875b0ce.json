@@ -1,0 +1,35 @@
+{
+  "id": "repetitions-of-the-old-city-ii_bcd9b875b0ce",
+  "fingerprint": "bcd9b875b0ced9268e002b0962a3fcd64dd727daa3b0761da37e98d6fff63c75",
+  "archived_at": "2026-07-15T00:36:33Z",
+  "metadata": {
+    "title": "Repetitions of the Old City II",
+    "artist": "Jack O' the Clock",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3601,
+    "duration_human": "01:00:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jack O' the Clock - Damascus Gate",
+      "02 Jack O' the Clock - Miracle Car Wash, 1978",
+      "03 Jack O' the Clock - Island Time",
+      "04 Jack O' the Clock - Errol at Twenty-Three",
+      "05 Jack O' the Clock - Whiteout",
+      "06 Jack O' the Clock - Guru on the Road",
+      "07 Jack O' the Clock - My Room Before Sleep",
+      "08 Jack O' the Clock - Into the Fireplace",
+      "09 Jack O' the Clock - Unger Reminisces",
+      "10 Jack O' the Clock - I'm Afraid of Fucking the Whole Thing Up",
+      "11 Jack O' the Clock - Double Door",
+      "12 Jack O' the Clock - A Sick Boy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/repetitions-of-the-old-city-ii_bcd9b875b0ce"
+    }
+  }
+}

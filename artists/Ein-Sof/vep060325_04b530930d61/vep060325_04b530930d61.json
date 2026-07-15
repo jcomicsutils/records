@@ -1,0 +1,29 @@
+{
+  "id": "vep060325_04b530930d61",
+  "fingerprint": "04b530930d61d78d7c17a1d9352671e455f8f8dc059f042e64de2700f7834b6a",
+  "archived_at": "2026-07-15T00:36:47Z",
+  "metadata": {
+    "title": "VEP060325",
+    "artist": "Ein Sof",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1885,
+    "duration_human": "00:31:25",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Ein Sof - CUBO BLANCO",
+      "02 Ein Sof - RUPE TARPEA",
+      "03 Ein Sof - RADIO CORPORACIÓN / DRONE"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vep060325_04b530930d61"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/925e5eeb26f15ca89349/VEP060325.tar"
+    }
+  }
+}
