@@ -4,3 +4,4 @@
 |-------|------|-------|----------|-------|
 | [3 Demos](3-demos_98e386f5ed62/3-demos_98e386f5ed62.md) | 2020 | FLAC | 00:24:00 | [IA](https://archive.org/details/3-demos_98e386f5ed62) [FileDitch](https://fileditchfiles.st/beta14/4abbbe7b82a97e35460d/3_Demos.tar) |
 | [DJ E](dj-e_1191c5ca875d/dj-e_1191c5ca875d.md) | 2023 | FLAC | 00:29:08 | [IA](https://archive.org/details/dj-e_1191c5ca875d) [FileDitch](https://fileditchfiles.st/beta14/b7a98abf5ae794b8bb43/DJ_E.tar) |
+| [Edits](edits_e7fa2a828700/edits_e7fa2a828700.md) | 2025 | FLAC | 01:39:37 | [IA](https://archive.org/details/edits_e7fa2a828700) [FileDitch](https://fileditchfiles.st/beta14/76bd02182f3bda6bae1a/Edits.tar) |
