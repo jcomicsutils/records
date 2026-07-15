@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/snuff-jazz_838005ffcc84)
+- [FileDitch](https://fileditchfiles.st/beta14/c22a29bb7b9b1c1a71cb/Snuff_Jazz.tar)
 
 ## Tracklist
 

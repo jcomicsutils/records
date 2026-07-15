@@ -22,6 +22,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/snuff-jazz_838005ffcc84"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/c22a29bb7b9b1c1a71cb/Snuff_Jazz.tar"
     }
   }
 }
