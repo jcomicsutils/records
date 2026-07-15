@@ -22,6 +22,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/eg260425_45fc75fca60e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/9511e025102344a215f7/EG260425.tar"
     }
   }
 }
