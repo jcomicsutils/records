@@ -1,0 +1,27 @@
+{
+  "id": "285-bees-in-ur-skin_fff11d00c235",
+  "fingerprint": "fff11d00c23530b41594d77eaa2b2722138ed341c2a472e169a656c684a98234",
+  "archived_at": "2026-07-15T00:02:10Z",
+  "metadata": {
+    "title": "285: BEES IN UR SKIN",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 200,
+    "duration_human": "00:03:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - BEES IN UR SKIN"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/285-bees-in-ur-skin_fff11d00c235"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/a26f35de1ddcde0e85d0/285_BEES_IN_UR_SKIN.tar"
+    }
+  }
+}
