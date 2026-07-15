@@ -1,0 +1,41 @@
+{
+  "id": "344-happy-birthday-jenny-tada_59a830a92890",
+  "fingerprint": "59a830a928905b7172a785bef023049c2290910204d7536c5891f72638a359a8",
+  "archived_at": "2026-07-15T01:14:31Z",
+  "metadata": {
+    "title": "344: Happy Birthday Jenny 🎉",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 15,
+    "duration_seconds": 634,
+    "duration_human": "00:10:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 ungrilled cheese sandwich - JennyStar extra special awesome spectaculor birthday bash funky tune!!",
+      "02 The 365 Project - happy birthday jenny",
+      "03 Rice - Soprano Recorder (false start)",
+      "04 Rice - Soprano Recorder",
+      "05 Rice - Melodica",
+      "06 Rice - Kazoo",
+      "07 Rice - Ocarina",
+      "08 Rice - Kalimba",
+      "09 Rice - Aztec Death Whistle",
+      "10 Rice - Guitar (low)",
+      "11 Rice - Guitar (high)",
+      "12 Rice - Duet",
+      "13 Rice - Opera",
+      "14 Rice - Opera cow",
+      "15 Rice - Rap"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/344-happy-birthday-jenny-tada_59a830a92890"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/edbb5a77f75e2adb4244/344_Happy_Birthday_Jenny.tar"
+    }
+  }
+}
