@@ -1,0 +1,27 @@
+{
+  "id": "304-big-spooky_dead66dca4e7",
+  "fingerprint": "dead66dca4e74b50089514fc10c7c25206e3e12180841486ac345b3f9281a4d9",
+  "archived_at": "2026-07-15T00:25:40Z",
+  "metadata": {
+    "title": "304: Big Spooky",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 2651,
+    "duration_human": "00:44:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Big Spooky"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/304-big-spooky_dead66dca4e7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/06b3a65929f0e4dcb87b/304_Big_Spooky.tar"
+    }
+  }
+}

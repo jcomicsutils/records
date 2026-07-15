@@ -1,0 +1,27 @@
+{
+  "id": "eg260425_45fc75fca60e",
+  "fingerprint": "45fc75fca60e089bd777ae10d80e6fb438eb8bb7077e4013703bd3e42cbacfde",
+  "archived_at": "2026-07-15T00:25:39Z",
+  "metadata": {
+    "title": "EG260425",
+    "artist": "Ein Sof",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1397,
+    "duration_human": "00:23:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Ein Sof - CUBO BLANCO",
+      "02 Ein Sof - 孤独の発明",
+      "03 Ein Sof - Shaking Hand",
+      "04 Ein Sof - RADIO CORPORACIÓN"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/eg260425_45fc75fca60e"
+    }
+  }
+}
