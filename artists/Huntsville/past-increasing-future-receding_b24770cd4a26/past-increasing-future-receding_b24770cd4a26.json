@@ -1,0 +1,29 @@
+{
+  "id": "past-increasing-future-receding_b24770cd4a26",
+  "fingerprint": "b24770cd4a26b32bba2a4eee0f898760c83fb7dac185bff54f8fb543ed71b3df",
+  "archived_at": "2026-07-15T17:31:48Z",
+  "metadata": {
+    "title": "Past increasing, future receding",
+    "artist": "Huntsville",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2070,
+    "duration_human": "00:34:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Huntsville - Presence in Absence",
+      "02 Huntsville - The Flow of Sand",
+      "03 Huntsville - In an Hourglass"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/past-increasing-future-receding_b24770cd4a26"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/27e57d0b52de330a2bfc/Past_increasing_future_receding.tar"
+    }
+  }
+}
