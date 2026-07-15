@@ -1,0 +1,31 @@
+{
+  "id": "fish-that-sparkling-bubble_261d09a5b893",
+  "fingerprint": "261d09a5b893e9d7c7a868d638bfd983e47dcc095dbce7345e9672f9e9cf7685",
+  "archived_at": "2026-07-15T03:14:48Z",
+  "metadata": {
+    "title": "Fish That Sparkling Bubble",
+    "artist": "Borbetomagus",
+    "year": "1988",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2433,
+    "duration_human": "00:40:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Borbetomagus - We Don't Need No Warrior Goddess",
+      "02 Borbetomagus - Vungavunga",
+      "03 Borbetomagus - Cracked Magus",
+      "04 Borbetomagus - Floonder King",
+      "05 Borbetomagus - My Tongue in Your Cheek"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fish-that-sparkling-bubble_261d09a5b893"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/d5bea39bc68bc6769260/Fish_That_Sparkling_Bubble.tar"
+    }
+  }
+}
