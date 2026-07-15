@@ -1,0 +1,27 @@
+{
+  "id": "sennyu-yon-no-yu_b76d77089c4e",
+  "fingerprint": "b76d77089c4e66653a0a20c0a1e9e408b749e27e5fffd804edcc28432012e5e4",
+  "archived_at": "2026-07-15T05:27:35Z",
+  "metadata": {
+    "title": "Sen'nyū - Yon-no-yu",
+    "artist": "冥丁",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 455,
+    "duration_human": "00:07:35",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Meitei - Sen'nyū - Yon-no-yu"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sennyu-yon-no-yu_b76d77089c4e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/b8200468d4780c88add5/Sen_nyu_-_Yon-no-yu.tar"
+    }
+  }
+}
