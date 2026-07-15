@@ -1,0 +1,28 @@
+{
+  "id": "358-im-going-to-start-a-big-drama-on-christmas-eve_9de05674c5c8",
+  "fingerprint": "9de05674c5c875217115122e67ae4d0a4f1a7e89d13393a478b14556813fb372",
+  "archived_at": "2026-07-15T01:32:19Z",
+  "metadata": {
+    "title": "358: Im going to start a big drama on christmas eve",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 739,
+    "duration_human": "00:12:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 ungrilled cheese sandwich - Big drama",
+      "02 ungrilled cheese sandwich - jolly!"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/358-im-going-to-start-a-big-drama-on-christmas-eve_9de05674c5c8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/ebaddf55f838ec98beaf/358_Im_going_to_start_a_big_drama_on_christmas_eve.tar"
+    }
+  }
+}
