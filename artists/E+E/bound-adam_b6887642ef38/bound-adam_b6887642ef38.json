@@ -1,0 +1,30 @@
+{
+  "id": "bound-adam_b6887642ef38",
+  "fingerprint": "b6887642ef38d547511bfc20b894bbb87a5e8e91cbae6b6918f52907a78d04ba",
+  "archived_at": "2026-07-15T20:31:18Z",
+  "metadata": {
+    "title": "Bound Adam",
+    "artist": "E+E",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 835,
+    "duration_human": "00:13:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 E+E - The Totaled Angelica",
+      "02 E+E - The Gutting (ft Damon Collins)",
+      "03 E+E - The Wish (ft Angelica)",
+      "04 E+E - The Fired Fortress"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bound-adam_b6887642ef38"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/c60291d0bde5643aba2d/Bound_Adam.tar"
+    }
+  }
+}
