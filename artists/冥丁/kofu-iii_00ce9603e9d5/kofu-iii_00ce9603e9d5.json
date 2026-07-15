@@ -1,0 +1,35 @@
+{
+  "id": "kofu-iii_00ce9603e9d5",
+  "fingerprint": "00ce9603e9d5173376d4aa292d56d990c7b838199c0049d1ebd1872706c8e026",
+  "archived_at": "2026-07-15T04:57:08Z",
+  "metadata": {
+    "title": "Kofū III",
+    "artist": "冥丁",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2089,
+    "duration_human": "00:34:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Meitei - Reimei",
+      "02 Meitei - Mange-kyō",
+      "03 Meitei - Yume-jūya",
+      "04 Meitei - Fujin",
+      "05 Meitei - Wa-rōsoku",
+      "06 Meitei - Edogawa Ranpo",
+      "07 Meitei - Shisei",
+      "08 Meitei - Heiwa",
+      "09 Meitei - Hiroshima"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kofu-iii_00ce9603e9d5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/788462757a432d3fea33/Kof_III.tar"
+    }
+  }
+}
