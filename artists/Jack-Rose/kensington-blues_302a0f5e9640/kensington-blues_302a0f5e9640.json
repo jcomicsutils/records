@@ -1,0 +1,34 @@
+{
+  "id": "kensington-blues_302a0f5e9640",
+  "fingerprint": "302a0f5e964021e1f59afe01d286b1a10e37d63c6093f37f47d47bfb4485b664",
+  "archived_at": "2026-07-15T19:22:30Z",
+  "metadata": {
+    "title": "Kensington Blues",
+    "artist": "Jack Rose",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2700,
+    "duration_human": "00:45:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jack Rose - Kensington Blues",
+      "02 Jack Rose - Cross the North Fork",
+      "03 Jack Rose - Cathedral Et Chartres",
+      "04 Jack Rose - Rappahanock River Rag (For William Moore)",
+      "05 Jack Rose - Sunflower River Blues",
+      "06 Jack Rose - Now That I'm a Man Full Grown II",
+      "07 Jack Rose - Flirtin' With the Undertaker",
+      "08 Jack Rose - Calais to Dover"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kensington-blues_302a0f5e9640"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/734eb4f0bad72b701138/Kensington_Blues.tar"
+    }
+  }
+}
