@@ -1,0 +1,32 @@
+{
+  "id": "song-over-stov_261a3a609d6b",
+  "fingerprint": "261a3a609d6b7f24c2dbb17115d817d4c4b8b4320639bbe49bee0bfc6993727d",
+  "archived_at": "2026-07-15T02:15:01Z",
+  "metadata": {
+    "title": "Song Over Støv",
+    "artist": "Mats Eilertsen",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2070,
+    "duration_human": "00:34:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Erlend Apneseth, Mats Eilertsen, Rolf Erik Nystrøm, Henriette Eilertsen, Rasmus Kjorstad - Straumen Forbi",
+      "02 Erlend Apneseth, Mats Eilertsen, Rolf Erik Nystrøm, Henriette Eilertsen, Rasmus Kjorstad - I Natt",
+      "03 Erlend Apneseth, Mats Eilertsen, Rolf Erik Nystrøm, Henriette Eilertsen, Rasmus Kjorstad - Song Over Støv",
+      "04 Erlend Apneseth, Mats Eilertsen, Rolf Erik Nystrøm, Henriette Eilertsen, Rasmus Kjorstad - Spring",
+      "05 Erlend Apneseth, Mats Eilertsen, Rolf Erik Nystrøm, Henriette Eilertsen, Rasmus Kjorstad - Trø",
+      "06 Erlend Apneseth, Mats Eilertsen, Rolf Erik Nystrøm, Henriette Eilertsen, Rasmus Kjorstad - Samdrøm"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/song-over-stov_261a3a609d6b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/afa635d5b57fe923b822/Song_Over_St_v.tar"
+    }
+  }
+}
