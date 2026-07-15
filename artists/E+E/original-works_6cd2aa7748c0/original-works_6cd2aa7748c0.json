@@ -1,0 +1,32 @@
+{
+  "id": "original-works_6cd2aa7748c0",
+  "fingerprint": "6cd2aa7748c0cd0c7b8ea6fc3041d7ade3a5a2f2e582572b7b1d8639dbcc981e",
+  "archived_at": "2026-07-15T20:28:03Z",
+  "metadata": {
+    "title": "☆ Original Works ☆ ♫ ☆",
+    "artist": "E+E",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1521,
+    "duration_human": "00:25:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 E+E - Lake Transformation",
+      "02 E+E - Elysian Dream",
+      "03 E+E - The Totaled Angelica",
+      "04 E+E - The Wish",
+      "05 E+E - Reina [2008]",
+      "06 E+E - The Fired Fortress"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/original-works_6cd2aa7748c0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/39fda5b4dcbcc143e2f2/Original_Works.tar"
+    }
+  }
+}

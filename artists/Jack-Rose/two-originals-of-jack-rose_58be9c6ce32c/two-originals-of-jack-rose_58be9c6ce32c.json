@@ -1,0 +1,32 @@
+{
+  "id": "two-originals-of-jack-rose_58be9c6ce32c",
+  "fingerprint": "58be9c6ce32c21500e97effeeddc7de55204eba4f1f5f78d4ed374996da62b50",
+  "archived_at": "2026-07-15T20:28:29Z",
+  "metadata": {
+    "title": "Two Originals of Jack Rose",
+    "artist": "Jack Rose",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 4090,
+    "duration_human": "01:08:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jack Rose - Red Horse",
+      "02 Jack Rose - Dark Was the Night, Cold Was the Ground",
+      "03 Jack Rose - White Mule",
+      "04 Jack Rose - White Mule II",
+      "05 Jack Rose - Hide the Whiskey (Blues for the Colonel)",
+      "06 Jack Rose - Yaman Blues",
+      "07 Jack Rose - Linden Ave Stomp",
+      "08 Jack Rose - Mountaintop Lamento",
+      "09 Jack Rose - Black Pearls"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/two-originals-of-jack-rose_58be9c6ce32c"
+    }
+  }
+}
