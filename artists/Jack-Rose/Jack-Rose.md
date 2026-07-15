@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Via St. Louis](via-st-louis_47fdaf185c96/via-st-louis_47fdaf185c96.md) | 1996 | MP3 | 00:44:52 | [IA](https://archive.org/details/via-st-louis_47fdaf185c96) [FileDitch](https://fileditchfiles.st/beta15/6c158713934db0724483/Via_St._Louis.tar) |
 | [Red Horse, White Mule](red-horse-white-mule_d31f07a471d7/red-horse-white-mule_d31f07a471d7.md) | 2002 | FLAC | 00:34:19 | [IA](https://archive.org/details/red-horse-white-mule_d31f07a471d7) [FileDitch](https://fileditchfiles.st/beta15/2c8fb7aa41ad614b15b5/Red_Horse_White_Mule.tar) |
 | [Opium Musick](opium-musick_b466340272f0/opium-musick_b466340272f0.md) | 2003 | FLAC | 00:34:35 | [IA](https://archive.org/details/opium-musick_b466340272f0) [FileDitch](https://fileditchfiles.st/beta15/7b801c06634314f52564/Opium_Musick.tar) |
 | [Raag Manifestos](raag-manifestos_37b3ace92cc2/raag-manifestos_37b3ace92cc2.md) | 2004 | FLAC | 00:46:23 | [IA](https://archive.org/details/raag-manifestos_37b3ace92cc2) [FileDitch](https://fileditchfiles.st/beta15/a87c2875cee0d349b036/Raag_Manifestos.tar) |

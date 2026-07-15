@@ -1,0 +1,33 @@
+{
+  "id": "via-st-louis_47fdaf185c96",
+  "fingerprint": "47fdaf185c96495b67c4411caee40220a5cbb3d43661ac501aec752fec56a681",
+  "archived_at": "2026-07-15T20:33:24Z",
+  "metadata": {
+    "title": "Via St. Louis",
+    "artist": "Jack Rose",
+    "year": "1996",
+    "codec": "MP3",
+    "num_tracks": 7,
+    "duration_seconds": 2692,
+    "duration_human": "00:44:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Jason Bill & Jack Rose - Revolution of the Stars",
+      "02 Jason Bill & Jack Rose - Forest for the Trees",
+      "03 Jason Bill & Jack Rose - Heart of the Bells",
+      "04 Jason Bill & Jack Rose - Flood Stage",
+      "05 Jason Bill & Jack Rose - You Are Not of My People",
+      "06 Jason Bill & Jack Rose - Sting of the Yellow Jackets",
+      "07 Jason Bill & Jack Rose - King George Country"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/via-st-louis_47fdaf185c96"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/6c158713934db0724483/Via_St._Louis.tar"
+    }
+  }
+}
