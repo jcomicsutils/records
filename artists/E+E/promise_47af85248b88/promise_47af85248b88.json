@@ -1,0 +1,27 @@
+{
+  "id": "promise_47af85248b88",
+  "fingerprint": "47af85248b8869d34388190f1fc046955976c53efdd5036904685011f0f9d960",
+  "archived_at": "2026-07-15T20:59:38Z",
+  "metadata": {
+    "title": "Promise",
+    "artist": "E+E",
+    "year": "2012",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 2725,
+    "duration_human": "00:45:25",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 E+E - Promise"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/promise_47af85248b88"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/113c7c6d73bf5064503c/Promise.tar"
+    }
+  }
+}
