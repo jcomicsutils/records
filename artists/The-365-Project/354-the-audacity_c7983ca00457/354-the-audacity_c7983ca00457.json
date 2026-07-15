@@ -1,0 +1,28 @@
+{
+  "id": "354-the-audacity_c7983ca00457",
+  "fingerprint": "c7983ca00457df49e379ca51e49056ff9c9e249c2b782376b28ddea4c94e90cd",
+  "archived_at": "2026-07-15T01:28:04Z",
+  "metadata": {
+    "title": "354: The Audacity!",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 3618,
+    "duration_human": "01:00:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - [untitled]",
+      "02 The 365 Project - Laziness via Paul"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/354-the-audacity_c7983ca00457"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/60c6b8496ba4db49b5d1/354_The_Audacity.tar"
+    }
+  }
+}
