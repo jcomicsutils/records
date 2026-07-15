@@ -1,0 +1,35 @@
+{
+  "id": "betwixt-between-6_96dff56dcc2b",
+  "fingerprint": "96dff56dcc2b0398ddfb380f2742be834191c96225b961fe817dc5775429656e",
+  "archived_at": "2026-07-15T22:00:03Z",
+  "metadata": {
+    "title": "Betwixt & Between 6",
+    "artist": "Jacken Elswyth",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1863,
+    "duration_human": "00:31:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jacken Elswyth, Ryan Eyers - Lone Prairie",
+      "02 Jacken Elswyth, Ryan Eyers - The Caravan",
+      "03 Jacken Elswyth, Ryan Eyers - Improvisation for amplified banjo",
+      "04 Jacken Elswyth, Ryan Eyers - Improvisation for banjo",
+      "05 Jacken Elswyth, Ryan Eyers - Sketch 1",
+      "06 Jacken Elswyth, Ryan Eyers - Sketch 2",
+      "07 Jacken Elswyth, Ryan Eyers - Sketch 3",
+      "08 Jacken Elswyth, Ryan Eyers - Sketch 4",
+      "09 Jacken Elswyth, Ryan Eyers - Sketch 5"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/betwixt-between-6_96dff56dcc2b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/4cde5cb98f52388d2cfb/Betwixt_Between_6.tar"
+    }
+  }
+}
