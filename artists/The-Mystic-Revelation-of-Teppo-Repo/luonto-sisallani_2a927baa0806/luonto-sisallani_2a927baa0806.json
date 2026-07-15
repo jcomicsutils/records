@@ -1,0 +1,36 @@
+{
+  "id": "luonto-sisallani_2a927baa0806",
+  "fingerprint": "2a927baa0806b718272326112d44a12420129cbd301dcad3bb43a6b963e80167",
+  "archived_at": "2026-07-15T03:09:02Z",
+  "metadata": {
+    "title": "Luonto sisälläni",
+    "artist": "The Mystic Revelation of Teppo Repo",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2548,
+    "duration_human": "00:42:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Mystic Revelation of Teppo Repo - Aamuvenytys",
+      "02 The Mystic Revelation of Teppo Repo - Aamuvenytys 2",
+      "03 The Mystic Revelation of Teppo Repo - Reissun päällä",
+      "04 The Mystic Revelation of Teppo Repo - Vesi vanhin voitehista",
+      "05 The Mystic Revelation of Teppo Repo - Vesi vanhin voitehista 2",
+      "06 The Mystic Revelation of Teppo Repo - Henkilintu",
+      "07 The Mystic Revelation of Teppo Repo - Henkilintu 2",
+      "08 The Mystic Revelation of Teppo Repo - Ohilaukaus",
+      "09 The Mystic Revelation of Teppo Repo - Ohilaukaus 2",
+      "10 The Mystic Revelation of Teppo Repo - Henkilintu dub"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/luonto-sisallani_2a927baa0806"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/777b4d33dcafc3e9b370/Luonto_sis_ll_ni.tar"
+    }
+  }
+}
