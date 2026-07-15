@@ -1,0 +1,33 @@
+{
+  "id": "urbain-ghra_e4559832883a",
+  "fingerprint": "e4559832883a9dd28d6a720bc26791ab587dc3f6c1202a49bf50f352126eaf08",
+  "archived_at": "2026-07-15T21:14:12Z",
+  "metadata": {
+    "title": "'Urbain Ghra'",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3105,
+    "duration_human": "00:51:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Grandeur (Part II of II)",
+      "02 Zeffon - Town of Unknown Worth (Red Hot Candy, Part II of II)",
+      "03 Zeffon - 'Taraja Wold's Permafrost Machine' (Part II of II)",
+      "04 Zeffon - Heightened Ocean and Sea",
+      "05 Zeffon - Beast Eradication",
+      "06 Zeffon - Imprint (Ella's Day)",
+      "07 Zeffon - Escape From Castle Helga"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/urbain-ghra_e4559832883a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/607a015c1b0ab668c8aa/Urbain_Ghra.tar"
+    }
+  }
+}
