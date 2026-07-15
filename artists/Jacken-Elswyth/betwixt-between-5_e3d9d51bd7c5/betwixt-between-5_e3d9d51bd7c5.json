@@ -1,0 +1,33 @@
+{
+  "id": "betwixt-between-5_e3d9d51bd7c5",
+  "fingerprint": "e3d9d51bd7c5463095e29229144253ed0b8a37387481eea6f9aefca6d71d7483",
+  "archived_at": "2026-07-15T21:57:15Z",
+  "metadata": {
+    "title": "Betwixt & Between 5",
+    "artist": "Jacken Elswyth",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1808,
+    "duration_human": "00:30:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jacken Elswyth, Alula Down - Sweet Lemeny",
+      "02 Jacken Elswyth, Alula Down - Improvisation for banjo",
+      "03 Jacken Elswyth, Alula Down - Last Chance set",
+      "04 Jacken Elswyth, Alula Down - Sprig of Thyme",
+      "05 Jacken Elswyth, Alula Down - Sweet Lemeny",
+      "06 Jacken Elswyth, Alula Down - Three Ravens",
+      "07 Jacken Elswyth, Alula Down - Blackbird"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/betwixt-between-5_e3d9d51bd7c5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/f5fbb9aed32aa65e0b73/Betwixt_Between_5.tar"
+    }
+  }
+}
