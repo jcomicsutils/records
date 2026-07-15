@@ -1,0 +1,32 @@
+{
+  "id": "353-i-made-this-one-in-9-minutes-wow_857360afeee4",
+  "fingerprint": "857360afeee412665df8b2263e2557a613884fdfecc54a65ff69182933750cf3",
+  "archived_at": "2026-07-15T01:22:25Z",
+  "metadata": {
+    "title": "353: i made this one in 9 minutes! wow!",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 538,
+    "duration_human": "00:08:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 ungrilled cheese sandwich - Today Today Today",
+      "02 ungrilled cheese sandwich - which strings are out of tune?",
+      "03 ungrilled cheese sandwich - interesting...",
+      "04 ungrilled cheese sandwich - odd..",
+      "05 ungrilled cheese sandwich - jolly good show!",
+      "06 ungrilled cheese sandwich - 999 ambulanve please"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/353-i-made-this-one-in-9-minutes-wow_857360afeee4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/ed1daf2fe066aea87c9e/353_i_made_this_one_in_9_minutes_wow.tar"
+    }
+  }
+}
