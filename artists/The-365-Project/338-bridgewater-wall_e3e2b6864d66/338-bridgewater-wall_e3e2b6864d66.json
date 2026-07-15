@@ -1,0 +1,24 @@
+{
+  "id": "338-bridgewater-wall_e3e2b6864d66",
+  "fingerprint": "e3e2b6864d6624c5ff6cb88cea0a1e5a7de659d852b79db59c85d956f2333003",
+  "archived_at": "2026-07-15T00:57:01Z",
+  "metadata": {
+    "title": "338: Bridgewater Wall",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1934,
+    "duration_human": "00:32:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Bridgewater Wall"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/338-bridgewater-wall_e3e2b6864d66"
+    }
+  }
+}
