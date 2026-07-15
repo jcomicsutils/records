@@ -1,0 +1,29 @@
+{
+  "id": "291-homecoming_659203c08b26",
+  "fingerprint": "659203c08b2660e0ea7953646835de8554a65f7fdc3e5586828182f0769d2353",
+  "archived_at": "2026-07-15T00:06:05Z",
+  "metadata": {
+    "title": "291: Homecoming",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 135,
+    "duration_human": "00:02:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Vampire vs. Werewolf",
+      "02 The 365 Project - Evil Fucking Wizard",
+      "03 The 365 Project - Darth Vader vs. Adolf Hitler"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/291-homecoming_659203c08b26"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/69fdb190ebf48c2d31a5/291_Homecoming.tar"
+    }
+  }
+}
