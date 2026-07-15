@@ -1,0 +1,27 @@
+{
+  "id": "311-joe_f1bcca48f456",
+  "fingerprint": "f1bcca48f45630a21a05961a5125c21e2996aefddfcc06c95378e0614b829be1",
+  "archived_at": "2026-07-15T00:30:13Z",
+  "metadata": {
+    "title": "311: Joe",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 307,
+    "duration_human": "00:05:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Joe"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/311-joe_f1bcca48f456"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/139c4642c62e1cdce553/311_Joe.tar"
+    }
+  }
+}
