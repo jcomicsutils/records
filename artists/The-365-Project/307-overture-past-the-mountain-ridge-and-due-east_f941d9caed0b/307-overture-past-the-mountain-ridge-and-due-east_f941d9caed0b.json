@@ -1,0 +1,27 @@
+{
+  "id": "307-overture-past-the-mountain-ridge-and-due-east_f941d9caed0b",
+  "fingerprint": "f941d9caed0bc2fe5f0cf5b2a7f9737a1f5265acb9acffd83ecca5ebc1a8ae2f",
+  "archived_at": "2026-07-15T00:28:01Z",
+  "metadata": {
+    "title": "307: Overture / Past the Mountain Ridge and Due East",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 771,
+    "duration_human": "00:12:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Overture / Past the Mountain Ridge and Due East"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/307-overture-past-the-mountain-ridge-and-due-east_f941d9caed0b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/08dd2ebb4187a046e2e1/307_Overture_-_Past_the_Mountain_Ridge_and_Due_East.tar"
+    }
+  }
+}
