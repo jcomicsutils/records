@@ -1,0 +1,27 @@
+{
+  "id": "309-excerpt-2_cd39454ae9d5",
+  "fingerprint": "cd39454ae9d5d8e46c4951da9f4047632bca77c135dc18ac9e33008c9a22a1e6",
+  "archived_at": "2026-07-15T00:29:07Z",
+  "metadata": {
+    "title": "309: Excerpt 2",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 435,
+    "duration_human": "00:07:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Excerpt 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/309-excerpt-2_cd39454ae9d5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/90d48022faba04814440/309_Excerpt_2.tar"
+    }
+  }
+}
