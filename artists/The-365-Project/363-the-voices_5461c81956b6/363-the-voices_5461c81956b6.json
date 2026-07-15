@@ -1,0 +1,30 @@
+{
+  "id": "363-the-voices_5461c81956b6",
+  "fingerprint": "5461c81956b60062473ba642087b5a1f758fc749c365525eac60b4ced94d2eee",
+  "archived_at": "2026-07-15T01:39:49Z",
+  "metadata": {
+    "title": "363: The Voices",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1015,
+    "duration_human": "00:16:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 heavensouls - SMYW Anthem (did i snao)",
+      "02 The 365 Project - Failure",
+      "03 The 365 Project - License 2 Kill (Early)",
+      "04 ungrilled cheese sandwich - I'm Missing Roughly 36 Bones From My Body"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/363-the-voices_5461c81956b6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/12bbf20ab7137f491da6/363_The_Voices.tar"
+    }
+  }
+}
