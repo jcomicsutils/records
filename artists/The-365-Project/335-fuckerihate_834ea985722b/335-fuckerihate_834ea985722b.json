@@ -1,0 +1,27 @@
+{
+  "id": "335-fuckerihate_834ea985722b",
+  "fingerprint": "834ea985722bf5d1893365d06e09caf42c9eaf9a10959bfa1bb48a0daa9fae08",
+  "archived_at": "2026-07-15T00:52:56Z",
+  "metadata": {
+    "title": "335: Fuckerihate",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 320,
+    "duration_human": "00:05:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Fuckerihate"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/335-fuckerihate_834ea985722b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/085c9d15d7725ab506b9/335_Fuckerihate.tar"
+    }
+  }
+}
