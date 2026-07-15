@@ -1,0 +1,31 @@
+{
+  "id": "yabun_e947ab204bed",
+  "fingerprint": "e947ab204bed6cf2a39c70fa15a6c6aac360b63270f026310be366d58ef78749",
+  "archived_at": "2026-07-15T05:36:42Z",
+  "metadata": {
+    "title": "Yabun",
+    "artist": "冥丁",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1133,
+    "duration_human": "00:18:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Meitei - Ike",
+      "02 Meitei - Chōchin",
+      "03 Meitei - Utano",
+      "04 Meitei - Nami",
+      "05 Meitei - Ensō"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/yabun_e947ab204bed"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/5108fd63f153d6747002/Yabun.tar"
+    }
+  }
+}
