@@ -1,0 +1,30 @@
+{
+  "id": "new-york-performances_f90f8837224e",
+  "fingerprint": "f90f8837224ef5a5bc8bcc44383c8b72c58bef99dca7c8f485015e1bcec67f9e",
+  "archived_at": "2026-07-15T04:17:25Z",
+  "metadata": {
+    "title": "New York Performances",
+    "artist": "Borbetomagus",
+    "year": "1986",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 2943,
+    "duration_human": "00:49:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Borbetomagus - [untitled]",
+      "02 Borbetomagus - [untitled]",
+      "03 Borbetomagus - [untitled]",
+      "04 Borbetomagus - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/new-york-performances_f90f8837224e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/0a94215eeb6407263ebd/New_York_Performances.tar"
+    }
+  }
+}
