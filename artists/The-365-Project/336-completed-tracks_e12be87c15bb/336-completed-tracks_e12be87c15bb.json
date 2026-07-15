@@ -1,0 +1,29 @@
+{
+  "id": "336-completed-tracks_e12be87c15bb",
+  "fingerprint": "e12be87c15bb74aa32f61af7ea4a9502fdb19a787db29fb8e403d1fcca764fa7",
+  "archived_at": "2026-07-15T00:53:54Z",
+  "metadata": {
+    "title": "336: Completed Tracks",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 692,
+    "duration_human": "00:11:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Water Under the Bridge",
+      "02 The 365 Project - Little Rat",
+      "03 The 365 Project - I've Decided Once Again That I Hate My Body and Want to Die"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/336-completed-tracks_e12be87c15bb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/081271d44b9783c13c54/336_Completed_Tracks.tar"
+    }
+  }
+}

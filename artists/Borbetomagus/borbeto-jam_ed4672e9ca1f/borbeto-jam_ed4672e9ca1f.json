@@ -1,0 +1,27 @@
+{
+  "id": "borbeto-jam_ed4672e9ca1f",
+  "fingerprint": "ed4672e9ca1f635f1f8f102e720cc330152efe751128306ab464ad2c8eac6c91",
+  "archived_at": "2026-07-15T00:53:14Z",
+  "metadata": {
+    "title": "Borbeto Jam",
+    "artist": "Borbetomagus",
+    "year": "1985",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2371,
+    "duration_human": "00:39:31",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Borbetomagus - Concordat No. 12",
+      "02 Borbetomagus - Concordat No. 13",
+      "03 Borbetomagus - Concordat No. 14",
+      "04 Borbetomagus - Concordat No. 15"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/borbeto-jam_ed4672e9ca1f"
+    }
+  }
+}
