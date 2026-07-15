@@ -1,0 +1,30 @@
+{
+  "id": "for-the-middle-class_c4bf4c52ec02",
+  "fingerprint": "c4bf4c52ec021a0f14af9543290239d230412f99c9401cdc89a3a4d7550ee98f",
+  "archived_at": "2026-07-15T17:15:33Z",
+  "metadata": {
+    "title": "For the Middle Class",
+    "artist": "Huntsville",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3011,
+    "duration_human": "00:50:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Huntsville - The Appearance of a Wise Child",
+      "02 Huntsville - Serious Like a Pope",
+      "03 Huntsville - Add a Key of Humanity",
+      "04 Huntsville - Melon"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/for-the-middle-class_c4bf4c52ec02"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/ae405d0b04418338c7d8/For_the_Middle_Class.tar"
+    }
+  }
+}
