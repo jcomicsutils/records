@@ -1,0 +1,35 @@
+{
+  "id": "tongues-north-star-remixes_d75a1135ff52",
+  "fingerprint": "d75a1135ff52543c2ac7625802355fd591ab5a48d72252ed47b280df4e0ff601",
+  "archived_at": "2026-07-15T02:31:05Z",
+  "metadata": {
+    "title": "Tongues North Star Remixes",
+    "artist": "Tanya Tagaq",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1960,
+    "duration_human": "00:32:40",
+    "sampling_rate": "192kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Tanya Tagaq - In Me (Paola Prestini Remix)",
+      "02 Tanya Tagaq - Tongues (Backxwash Remix)",
+      "03 Tanya Tagaq - Tongues (Daedelus Remix)",
+      "04 Tanya Tagaq - Colonizer (Joel Tarman Remix)",
+      "05 Tanya Tagaq - Colonizer (The Halluci Nation Remix)",
+      "06 Tanya Tagaq - I Forgive Me (July Talk Remix)",
+      "07 Tanya Tagaq - Earth Monster (Chad VanGaalen Remix)",
+      "08 Tanya Tagaq - Earth Monster (Dave Parley Remix)",
+      "09 Tanya Tagaq - Earth Monster (Ash Koosha Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tongues-north-star-remixes_d75a1135ff52"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/52bdd3552276abca532f/Tongues_North_Star_Remixes.tar"
+    }
+  }
+}
