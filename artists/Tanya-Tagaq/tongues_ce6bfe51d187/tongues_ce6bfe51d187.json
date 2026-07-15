@@ -1,0 +1,33 @@
+{
+  "id": "tongues_ce6bfe51d187",
+  "fingerprint": "ce6bfe51d187e184bf0da50b89d579e23cf04b35373c76497985eed535b47ebb",
+  "archived_at": "2026-07-15T01:41:26Z",
+  "metadata": {
+    "title": "Tongues",
+    "artist": "Tanya Tagaq",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2050,
+    "duration_human": "00:34:10",
+    "sampling_rate": "192kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Tanya Tagaq - In Me",
+      "02 Tanya Tagaq - Tongues",
+      "03 Tanya Tagaq - Colonizer",
+      "04 Tanya Tagaq - Teeth Agape",
+      "05 Tanya Tagaq - Birth",
+      "06 Tanya Tagaq - I Forgive Me",
+      "07 Tanya Tagaq - Nuclear",
+      "08 Tanya Tagaq - Do Not Fear Love",
+      "09 Tanya Tagaq - Earth Monster",
+      "10 Tanya Tagaq - Colonizer (Tundra Mix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tongues_ce6bfe51d187"
+    }
+  }
+}

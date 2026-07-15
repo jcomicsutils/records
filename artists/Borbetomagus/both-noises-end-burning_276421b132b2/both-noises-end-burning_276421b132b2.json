@@ -1,0 +1,27 @@
+{
+  "id": "both-noises-end-burning_276421b132b2",
+  "fingerprint": "276421b132b2da1b0ebbb64eb71fd28f28aeeefc7356d8228f272ec7eea72762",
+  "archived_at": "2026-07-15T01:42:18Z",
+  "metadata": {
+    "title": "Both Noises End Burning",
+    "artist": "Borbetomagus",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4300,
+    "duration_human": "01:11:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Borbetomagus & Hijokaidan - The Challenger Deep"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/both-noises-end-burning_276421b132b2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/c4017e1df0716208b164/Both_Noises_End_Burning.tar"
+    }
+  }
+}
