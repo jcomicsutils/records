@@ -1,0 +1,27 @@
+{
+  "id": "332-not-today_61ecf4a769ab",
+  "fingerprint": "61ecf4a769ab3fcabf88709355caf79d2f7927c4ce8c57952c968669f74b76f8",
+  "archived_at": "2026-07-15T00:49:43Z",
+  "metadata": {
+    "title": "332: Not Today",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1983,
+    "duration_human": "00:33:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Not Today"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/332-not-today_61ecf4a769ab"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/0f4ad3a60ba864d02acf/332_Not_Today.tar"
+    }
+  }
+}

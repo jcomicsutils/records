@@ -1,0 +1,25 @@
+{
+  "id": "barbed-wire-maggots_18545dad3e45",
+  "fingerprint": "18545dad3e45cbdd4626fcc6c5b3092fc9b42c5b09d246d46aabf92db5151e05",
+  "archived_at": "2026-07-15T00:49:33Z",
+  "metadata": {
+    "title": "Barbed Wire Maggots",
+    "artist": "Borbetomagus",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2611,
+    "duration_human": "00:43:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Borbetomagus - [untitled]",
+      "02 Borbetomagus - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/barbed-wire-maggots_18545dad3e45"
+    }
+  }
+}
