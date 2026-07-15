@@ -1,0 +1,38 @@
+{
+  "id": "kofu-ii_d633326547eb",
+  "fingerprint": "d633326547ebb7f5da32bf6f3a18216c4f0354afc251944d1138c5849825de84",
+  "archived_at": "2026-07-15T04:53:30Z",
+  "metadata": {
+    "title": "Kofū II",
+    "artist": "冥丁",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2341,
+    "duration_human": "00:39:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Meitei - Megumi",
+      "02 Meitei - Tōkaidō",
+      "03 Meitei - Happyaku-yachō",
+      "04 Meitei - Kaworu",
+      "05 Meitei - Ochi-musha",
+      "06 Meitei - Yoshiwara",
+      "07 Meitei - Shurayuki hime",
+      "08 Meitei - Shinobi",
+      "09 Meitei - Arinsu",
+      "10 Meitei - Saryō",
+      "11 Meitei - Akira Kurosawa",
+      "12 Meitei - Ji"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kofu-ii_d633326547eb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/fae623ed329721331325/Kof_II.tar"
+    }
+  }
+}
