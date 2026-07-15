@@ -1,0 +1,28 @@
+{
+  "id": "293-awesome-music_05d64239c738",
+  "fingerprint": "05d64239c7384fbd114f035da7ce58c25ec6e80482bf59ded8548e185bd2fca4",
+  "archived_at": "2026-07-15T00:07:17Z",
+  "metadata": {
+    "title": "293: Awesome Music",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 781,
+    "duration_human": "00:13:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - [untitled]",
+      "02 The 365 Project - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/293-awesome-music_05d64239c738"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/ed1094fcecc2c97f2773/293_Awesome_Music.tar"
+    }
+  }
+}

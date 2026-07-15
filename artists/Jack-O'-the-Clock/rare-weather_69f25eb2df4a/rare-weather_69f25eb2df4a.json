@@ -1,0 +1,31 @@
+{
+  "id": "rare-weather_69f25eb2df4a",
+  "fingerprint": "69f25eb2df4aeeb9f019b82b9ce25399080b838cb26b4365371cbf16325b796a",
+  "archived_at": "2026-07-15T00:07:07Z",
+  "metadata": {
+    "title": "Rare Weather",
+    "artist": "Jack O' the Clock",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 3667,
+    "duration_human": "01:01:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jack O' the Clock - New American Gothic",
+      "02 Jack O' the Clock - Aspen",
+      "03 Jack O' the Clock - All Last Night",
+      "04 Jack O' the Clock - Suckers \\'N Marks",
+      "05 Jack O' the Clock - Fire At Noon",
+      "06 Jack O' the Clock - Half Life",
+      "07 Jack O' the Clock - Sea Change/Rare Weather/I Watch the Planes",
+      "08 Jack O' the Clock - Mountains"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rare-weather_69f25eb2df4a"
+    }
+  }
+}
