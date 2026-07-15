@@ -1,0 +1,30 @@
+{
+  "id": "348-i-keep-forgetting-how-that-song-goes_3a52d56ec250",
+  "fingerprint": "3a52d56ec250f2467c79c986ce357b1d42b2353dadb7611a0e1ee1d813555295",
+  "archived_at": "2026-07-15T01:17:48Z",
+  "metadata": {
+    "title": "348: I Keep Forgetting How That Song Goes",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 926,
+    "duration_human": "00:15:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 ungrilled cheese sandwich - Kill Morrissey Please",
+      "02 ungrilled cheese sandwich - Nonsensical Nightmare About Minecraft Youtuber Dream",
+      "03 ungrilled cheese sandwich - Evil WEEZER Tune",
+      "04 DJ ɅNNƎ - ANNEMIXFOR365PROJECT2025"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/348-i-keep-forgetting-how-that-song-goes_3a52d56ec250"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/15c31327e59bf062224a/348_I_Keep_Forgetting_How_That_Song_Goes.tar"
+    }
+  }
+}

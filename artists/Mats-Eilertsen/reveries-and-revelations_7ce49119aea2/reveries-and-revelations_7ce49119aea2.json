@@ -1,0 +1,33 @@
+{
+  "id": "reveries-and-revelations_7ce49119aea2",
+  "fingerprint": "7ce49119aea215a3e94fe4600254be5fea828454c0fa709e0322189090b0d68d",
+  "archived_at": "2026-07-15T01:17:44Z",
+  "metadata": {
+    "title": "Reveries and Revelations",
+    "artist": "Mats Eilertsen",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2107,
+    "duration_human": "00:35:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mats Eilertsen - Nightride",
+      "02 Mats Eilertsen - Tundra",
+      "03 Mats Eilertsen - Endless",
+      "04 Mats Eilertsen - Bouvet Blues",
+      "05 Mats Eilertsen - Signal",
+      "06 Mats Eilertsen - Venus",
+      "07 Mats Eilertsen - Polynesia Pluck",
+      "08 Mats Eilertsen - Sibirean Sorrow",
+      "09 Mats Eilertsen - Hardanger",
+      "10 Mats Eilertsen - Appreciate"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/reveries-and-revelations_7ce49119aea2"
+    }
+  }
+}
