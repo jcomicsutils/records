@@ -1,0 +1,27 @@
+{
+  "id": "qi230525_a7f3f075d7f5",
+  "fingerprint": "a7f3f075d7f504777a074409878174e2e52da681d5d5c34196d307eb4ae7b402",
+  "archived_at": "2026-07-15T00:27:38Z",
+  "metadata": {
+    "title": "QI230525",
+    "artist": "Ein Sof",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1096,
+    "duration_human": "00:18:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Ein Sof - فصل طولانی"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/qi230525_a7f3f075d7f5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/8ca93651adb41f392d8e/QI230525.tar"
+    }
+  }
+}
