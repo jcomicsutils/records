@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Borbetomagus](borbetomagus_524dba6ecee5/borbetomagus_524dba6ecee5.md) | 1982 | MP3 | 00:42:34 | [IA](https://archive.org/details/borbetomagus_524dba6ecee5) [FileDitch](https://fileditchfiles.st/beta14/0c17827139ce92050fae/Borbetomagus_1982.tar) |
+| [Industrial Strength](industrial-strength_26c039d9a6b8/industrial-strength_26c039d9a6b8.md) | 1983 | FLAC | 00:41:32 | [IA](https://archive.org/details/industrial-strength_26c039d9a6b8) [FileDitch](https://fileditchfiles.st/beta14/0d553fb8d829a0dda757/Industrial_Strength.tar) |
 | [Borbeto Jam](borbeto-jam_ed4672e9ca1f/borbeto-jam_ed4672e9ca1f.md) | 1985 | FLAC | 00:39:31 | [IA](https://archive.org/details/borbeto-jam_ed4672e9ca1f) [FileDitch](https://fileditchfiles.st/beta14/823c9d3d756265f941a1/Borbeto_Jam.tar) |
 | [Fish That Sparkling Bubble](fish-that-sparkling-bubble_261d09a5b893/fish-that-sparkling-bubble_261d09a5b893.md) | 1988 | FLAC | 00:40:33 | [IA](https://archive.org/details/fish-that-sparkling-bubble_261d09a5b893) [FileDitch](https://fileditchfiles.st/beta14/d5bea39bc68bc6769260/Fish_That_Sparkling_Bubble.tar) |
 | [Asbestos Shake](asbestos-shake_e0bbeed465af/asbestos-shake_e0bbeed465af.md) | 1991 | FLAC | 00:54:14 | [IA](https://archive.org/details/asbestos-shake_e0bbeed465af) [FileDitch](https://fileditchfiles.st/beta14/b6cbd137f7aa2f90d35c/Asbestos_Shake.tar) |

@@ -1,0 +1,30 @@
+{
+  "id": "industrial-strength_26c039d9a6b8",
+  "fingerprint": "26c039d9a6b8e9194b16a09860d18f180b97a7008bbbc0df44611b96dbc1d20a",
+  "archived_at": "2026-07-15T03:24:39Z",
+  "metadata": {
+    "title": "Industrial Strength",
+    "artist": "Borbetomagus",
+    "year": "1983",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2492,
+    "duration_human": "00:41:32",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Borbetomagus And Friends - Improv. 3 (Parts 1 & 11)",
+      "02 Borbetomagus And Friends - Improv. 7",
+      "03 Borbetomagus And Friends - Improv. 4",
+      "04 Borbetomagus And Friends - Improv. 8"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/industrial-strength_26c039d9a6b8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/0d553fb8d829a0dda757/Industrial_Strength.tar"
+    }
+  }
+}
