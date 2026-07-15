@@ -1,0 +1,27 @@
+{
+  "id": "333-bad-noise-song_38987d202141",
+  "fingerprint": "38987d20214180b87697adfc8117864ff9cb509a23a83581678d483790f801bd",
+  "archived_at": "2026-07-15T00:51:34Z",
+  "metadata": {
+    "title": "333: Bad Noise Song",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 2468,
+    "duration_human": "00:41:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Bad Noise Song"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/333-bad-noise-song_38987d202141"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/39299dbac88761f5cf6e/333_Bad_Noise_Song.tar"
+    }
+  }
+}
