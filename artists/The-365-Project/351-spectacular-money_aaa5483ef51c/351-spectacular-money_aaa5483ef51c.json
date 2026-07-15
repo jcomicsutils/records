@@ -1,0 +1,28 @@
+{
+  "id": "351-spectacular-money_aaa5483ef51c",
+  "fingerprint": "aaa5483ef51c152bd8be2635f7a7e1d0aec50b49f613cb6dc500fd63ff1c6cd8",
+  "archived_at": "2026-07-15T01:20:40Z",
+  "metadata": {
+    "title": "351: Spectacular Money",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1409,
+    "duration_human": "00:23:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Headghost_ - Digital Camera 57",
+      "02 ungrilled cheese sandwich - A Quick One Before the 365 Project Devours Michigan"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/351-spectacular-money_aaa5483ef51c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/db0d96bd0b5d221464ee/351_Spectacular_Money.tar"
+    }
+  }
+}
