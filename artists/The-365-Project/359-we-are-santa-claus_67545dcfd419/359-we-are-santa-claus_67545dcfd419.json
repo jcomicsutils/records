@@ -1,0 +1,28 @@
+{
+  "id": "359-we-are-santa-claus_67545dcfd419",
+  "fingerprint": "67545dcfd4196d6a7d89b7ae26f653ac2304e38799fc06b80054555aabf11033",
+  "archived_at": "2026-07-15T01:33:44Z",
+  "metadata": {
+    "title": "359: We Are Santa Claus",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 610,
+    "duration_human": "00:10:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Avant-Folk - We Are Santa Claus",
+      "02 The 365 Project - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/359-we-are-santa-claus_67545dcfd419"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/585bc1c2195d992a1048/359_We_Are_Santa_Claus.tar"
+    }
+  }
+}
