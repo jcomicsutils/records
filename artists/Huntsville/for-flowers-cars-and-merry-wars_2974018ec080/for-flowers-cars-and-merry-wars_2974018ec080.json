@@ -1,0 +1,30 @@
+{
+  "id": "for-flowers-cars-and-merry-wars_2974018ec080",
+  "fingerprint": "2974018ec08031fd06f4731f63a04fabd428288427062a93e12ffaa5fc2294f2",
+  "archived_at": "2026-07-15T17:10:52Z",
+  "metadata": {
+    "title": "For Flowers, Cars and Merry Wars",
+    "artist": "Huntsville",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2226,
+    "duration_human": "00:37:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Huntsville - For Flowers, Cars and Merry Wars",
+      "02 Huntsville - For the Working Class",
+      "03 Huntsville - Ear/Eye Connector",
+      "04 Huntsville - Star Spangled Pillow"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/for-flowers-cars-and-merry-wars_2974018ec080"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/d95c70e8b21db094e495/For_Flowers_Cars_and_Merry_Wars.tar"
+    }
+  }
+}
