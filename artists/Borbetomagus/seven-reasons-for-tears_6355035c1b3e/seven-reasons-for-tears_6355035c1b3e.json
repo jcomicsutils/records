@@ -1,0 +1,34 @@
+{
+  "id": "seven-reasons-for-tears_6355035c1b3e",
+  "fingerprint": "6355035c1b3eecbbac6d0fb725d497c87ebe28915ed98af1929fb443759e0378",
+  "archived_at": "2026-07-15T04:24:32Z",
+  "metadata": {
+    "title": "Seven Reasons for Tears",
+    "artist": "Borbetomagus",
+    "year": "1989",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2478,
+    "duration_human": "00:41:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Borbetomagus - [untitled]",
+      "02 Borbetomagus - [untitled]",
+      "03 Borbetomagus - [untitled]",
+      "04 Borbetomagus - [untitled]",
+      "05 Borbetomagus - [untitled]",
+      "06 Borbetomagus - [untitled]",
+      "07 Borbetomagus - [untitled]",
+      "08 Borbetomagus - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/seven-reasons-for-tears_6355035c1b3e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/a17d7943db26bfc90776/Seven_Reasons_for_Tears.tar"
+    }
+  }
+}
