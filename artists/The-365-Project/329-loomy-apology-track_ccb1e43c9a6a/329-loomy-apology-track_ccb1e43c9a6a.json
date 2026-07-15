@@ -1,0 +1,27 @@
+{
+  "id": "329-loomy-apology-track_ccb1e43c9a6a",
+  "fingerprint": "ccb1e43c9a6adeb3087d4e77efe096d8199918268a5fe6c529de981e6a34eafc",
+  "archived_at": "2026-07-15T00:46:10Z",
+  "metadata": {
+    "title": "329: Loomy Apology Track",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1064,
+    "duration_human": "00:17:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Loomy Apology Track"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/329-loomy-apology-track_ccb1e43c9a6a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/aa68271d19b7206187a7/329_Loomy_Apology_Track.tar"
+    }
+  }
+}
