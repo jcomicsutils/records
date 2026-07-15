@@ -1,0 +1,27 @@
+{
+  "id": "290-sound-curfew_95eccca2a1f8",
+  "fingerprint": "95eccca2a1f82aa8ec58c10aecfb3322a0372ee07c2cf9940e798a2484c66662",
+  "archived_at": "2026-07-15T00:05:26Z",
+  "metadata": {
+    "title": "290: Sound Curfew",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 74,
+    "duration_human": "00:01:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Sound Curfew"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/290-sound-curfew_95eccca2a1f8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/8eb68779b972c7b03991/290_Sound_Curfew.tar"
+    }
+  }
+}
