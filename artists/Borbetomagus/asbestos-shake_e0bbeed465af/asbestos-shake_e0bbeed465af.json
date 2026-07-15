@@ -1,0 +1,29 @@
+{
+  "id": "asbestos-shake_e0bbeed465af",
+  "fingerprint": "e0bbeed465af84072afb1e571868e844c108b0adef4d8c87f717f2ecf51b31e7",
+  "archived_at": "2026-07-15T00:43:10Z",
+  "metadata": {
+    "title": "Asbestos Shake",
+    "artist": "Borbetomagus",
+    "year": "1991",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3254,
+    "duration_human": "00:54:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Borbetomagus & Voice Crack - [untitled]",
+      "02 Borbetomagus & Voice Crack - [untitled]",
+      "03 Borbetomagus & Voice Crack - [untitled]",
+      "04 Borbetomagus & Voice Crack - [untitled]",
+      "05 Borbetomagus & Voice Crack - [untitled]",
+      "06 Borbetomagus & Voice Crack - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/asbestos-shake_e0bbeed465af"
+    }
+  }
+}

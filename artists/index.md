@@ -35,6 +35,7 @@
 - [Big Blood & Visitations](Big-Blood-&-Visitations/Big-Blood-&-Visitations.md)
 - [Bird Violence](Bird-Violence/Bird-Violence.md)
 - [Bloodz Boi](Bloodz-Boi/Bloodz-Boi.md)
+- [Borbetomagus](Borbetomagus/Borbetomagus.md)
 - [Brueder Selke](Brueder-Selke/Brueder-Selke.md)
 - [Burning Witch](Burning-Witch/Burning-Witch.md)
 - [Ceeys](Ceeys/Ceeys.md)
