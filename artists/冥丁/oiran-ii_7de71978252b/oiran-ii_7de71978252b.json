@@ -1,0 +1,27 @@
+{
+  "id": "oiran-ii_7de71978252b",
+  "fingerprint": "7de71978252bcbd153baec485f7e683c61a334655ed58f437ef6f519049baa1f",
+  "archived_at": "2026-07-15T05:20:14Z",
+  "metadata": {
+    "title": "Oiran II",
+    "artist": "冥丁",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 247,
+    "duration_human": "00:04:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Meitei - Oiran II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/oiran-ii_7de71978252b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/80f0ab391e2f5db850b3/Oiran_II.tar"
+    }
+  }
+}
