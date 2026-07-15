@@ -1,0 +1,31 @@
+{
+  "id": "buncha-hair-that-long_4bdbd19a597f",
+  "fingerprint": "4bdbd19a597f7049c4b48511dd3a3b05cd66141b1de3ebc248d026c35bebf254",
+  "archived_at": "2026-07-15T01:59:56Z",
+  "metadata": {
+    "title": "Buncha Hair That Long",
+    "artist": "Borbetomagus",
+    "year": "1992",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3482,
+    "duration_human": "00:58:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Borbetomagus - Friendly Fire",
+      "02 Borbetomagus - Buncha Hair",
+      "03 Borbetomagus - One for Tram",
+      "04 Borbetomagus - In the Nursery",
+      "05 Borbetomagus - Blue Jay Way"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/buncha-hair-that-long_4bdbd19a597f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/188b8d0916a6f25cd6ee/Buncha_Hair_That_Long.tar"
+    }
+  }
+}
