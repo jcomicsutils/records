@@ -2,4 +2,4 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
-| [cubo blanco \(acústico, en paraná\)](cubo-blanco-acustico-en-parana_e5b5b8e66257/cubo-blanco-acustico-en-parana_e5b5b8e66257.md) | 2025 | FLAC | 00:07:50 | [IA](https://archive.org/details/cubo-blanco-acustico-en-parana_e5b5b8e66257) |
+| [cubo blanco \(acústico, en paraná\)](cubo-blanco-acustico-en-parana_e5b5b8e66257/cubo-blanco-acustico-en-parana_e5b5b8e66257.md) | 2025 | FLAC | 00:07:50 | [IA](https://archive.org/details/cubo-blanco-acustico-en-parana_e5b5b8e66257) [FileDitch](https://fileditchfiles.st/beta14/780cffb8113bc6641c0e/cubo_blanco_ac_stico_en_paran.tar) |
