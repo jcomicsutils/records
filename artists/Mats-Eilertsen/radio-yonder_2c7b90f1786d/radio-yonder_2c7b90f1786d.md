@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/radio-yonder_2c7b90f1786d)
+- [FileDitch](https://fileditchfiles.st/beta14/f4a9dac4c25e0342edea/Radio_Yonder.tar)
 
 ## Tracklist
 
