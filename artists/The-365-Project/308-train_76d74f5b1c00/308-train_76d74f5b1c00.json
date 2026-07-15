@@ -1,0 +1,27 @@
+{
+  "id": "308-train_76d74f5b1c00",
+  "fingerprint": "76d74f5b1c00920d57ac209d1393567dc3c58f5fb9e0cadb504f4401ddbf3269",
+  "archived_at": "2026-07-15T00:28:31Z",
+  "metadata": {
+    "title": "308: Train",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 566,
+    "duration_human": "00:09:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Train"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/308-train_76d74f5b1c00"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/a0d9d7fad34585ae7be3/308_Train.tar"
+    }
+  }
+}
