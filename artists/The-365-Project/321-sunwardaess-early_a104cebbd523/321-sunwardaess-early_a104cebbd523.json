@@ -1,0 +1,27 @@
+{
+  "id": "321-sunwardaess-early_a104cebbd523",
+  "fingerprint": "a104cebbd5230f8ac9b5a50d4c22db05663722e249b3dcab46b929e6fcc8d59f",
+  "archived_at": "2026-07-15T00:40:29Z",
+  "metadata": {
+    "title": "321: Sünwardæß (Early)",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 187,
+    "duration_human": "00:03:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Sünwardæß (Early)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/321-sunwardaess-early_a104cebbd523"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/dabf2db69f1b3fe917f5/321_S_nward_Early.tar"
+    }
+  }
+}
