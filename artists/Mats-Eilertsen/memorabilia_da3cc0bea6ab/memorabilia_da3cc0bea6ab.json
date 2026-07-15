@@ -35,6 +35,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/memorabilia_da3cc0bea6ab"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/1bac4ed05b46a183bd78/Memorabilia.tar"
     }
   }
 }
