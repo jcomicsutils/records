@@ -1,0 +1,28 @@
+{
+  "id": "anuraagtuq_4faa9c425e08",
+  "fingerprint": "4faa9c425e089f64aa8ec2ef67fb6fd4e23d390ce1fdc966733c4573ffd70892",
+  "archived_at": "2026-07-15T01:00:40Z",
+  "metadata": {
+    "title": "Anuraagtuq",
+    "artist": "Tanya Tagaq",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3393,
+    "duration_human": "00:56:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tanya Tagaq - Snarl",
+      "02 Tanya Tagaq - Plush",
+      "03 Tanya Tagaq - Savik",
+      "04 Tanya Tagaq - Plume",
+      "05 Tanya Tagaq - Tatkik"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/anuraagtuq_4faa9c425e08"
+    }
+  }
+}

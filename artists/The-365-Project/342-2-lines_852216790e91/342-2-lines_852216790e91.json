@@ -1,0 +1,27 @@
+{
+  "id": "342-2-lines_852216790e91",
+  "fingerprint": "852216790e917feb9011133c5bc4a1681a2b4ecb1060d2cefab0886312632383",
+  "archived_at": "2026-07-15T01:00:38Z",
+  "metadata": {
+    "title": "342: 2 Lines",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 435,
+    "duration_human": "00:07:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - 2 Lines"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/342-2-lines_852216790e91"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/cc088160edefeb2d03c5/342_2_Lines.tar"
+    }
+  }
+}
