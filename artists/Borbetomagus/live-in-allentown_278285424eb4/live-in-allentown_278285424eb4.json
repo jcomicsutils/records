@@ -1,0 +1,28 @@
+{
+  "id": "live-in-allentown_278285424eb4",
+  "fingerprint": "278285424eb499246c8edc0b56edf15583b586493d6c63cc998653c2458b7fc0",
+  "archived_at": "2026-07-15T04:11:44Z",
+  "metadata": {
+    "title": "Live in Allentown",
+    "artist": "Borbetomagus",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3262,
+    "duration_human": "00:54:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Borbetomagus - [untitled]",
+      "02 Borbetomagus - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-in-allentown_278285424eb4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/3fed54e16f5b9c05b456/Live_in_Allentown.tar"
+    }
+  }
+}
