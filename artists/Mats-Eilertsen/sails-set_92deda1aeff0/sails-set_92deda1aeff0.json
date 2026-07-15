@@ -1,0 +1,37 @@
+{
+  "id": "sails-set_92deda1aeff0",
+  "fingerprint": "92deda1aeff0513b188c73d0437909a680c25e7d06d890be0770d75ca73344de",
+  "archived_at": "2026-07-15T01:51:10Z",
+  "metadata": {
+    "title": "Sails Set",
+    "artist": "Mats Eilertsen",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2258,
+    "duration_human": "00:37:38",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mats Eilertsen Trio - Sails Set",
+      "02 Mats Eilertsen Trio - Stellar",
+      "03 Mats Eilertsen Trio - Orbiting",
+      "04 Mats Eilertsen Trio - Stray Dog",
+      "05 Mats Eilertsen Trio - The Lighthouse",
+      "06 Mats Eilertsen Trio - Monument",
+      "07 Mats Eilertsen Trio - Lunar Light",
+      "08 Mats Eilertsen Trio - Currents",
+      "09 Mats Eilertsen Trio - Stone and Sand",
+      "10 Mats Eilertsen Trio - Music Box",
+      "11 Mats Eilertsen Trio - Alone"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sails-set_92deda1aeff0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/e68a9065b2f545840c42/Sails_Set.tar"
+    }
+  }
+}
