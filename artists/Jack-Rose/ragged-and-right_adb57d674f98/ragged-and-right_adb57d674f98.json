@@ -1,0 +1,30 @@
+{
+  "id": "ragged-and-right_adb57d674f98",
+  "fingerprint": "adb57d674f985f05a15b0cbde5f48224a8b10a9cd427a27b582a41b76e86fe9b",
+  "archived_at": "2026-07-15T20:01:24Z",
+  "metadata": {
+    "title": "Ragged and Right",
+    "artist": "Jack Rose",
+    "year": "2010",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1023,
+    "duration_human": "00:17:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Jack Rose With D. Charles Speer & The Helix - Prison Song",
+      "02 Jack Rose With D. Charles Speer & The Helix - Linden Avenue Stomp",
+      "03 Jack Rose With D. Charles Speer & The Helix - The Longer You Wait",
+      "04 Jack Rose With D. Charles Speer & The Helix - In the Pines"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ragged-and-right_adb57d674f98"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/28161aadcba7275aa190/Ragged_and_Right.tar"
+    }
+  }
+}
