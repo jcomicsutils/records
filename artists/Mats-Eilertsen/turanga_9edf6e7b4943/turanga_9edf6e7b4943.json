@@ -1,0 +1,38 @@
+{
+  "id": "turanga_9edf6e7b4943",
+  "fingerprint": "9edf6e7b49433f6a652c39ec372d3fc0425bfccc309d25f3f552af9d935feedd",
+  "archived_at": "2026-07-15T02:38:24Z",
+  "metadata": {
+    "title": "Turanga",
+    "artist": "Mats Eilertsen",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3153,
+    "duration_human": "00:52:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mats Eilertsen - Rica",
+      "02 Mats Eilertsen - Oasis",
+      "03 Mats Eilertsen - Ambush",
+      "04 Mats Eilertsen - Sweet Snowflakes",
+      "05 Mats Eilertsen - Gamelange",
+      "06 Mats Eilertsen - Sukha",
+      "07 Mats Eilertsen - Monsoon",
+      "08 Mats Eilertsen - Visby",
+      "09 Mats Eilertsen - Impal",
+      "10 Mats Eilertsen - The Trade",
+      "11 Mats Eilertsen - Turanga",
+      "12 Mats Eilertsen - Solitude"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/turanga_9edf6e7b4943"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/e1f5586797ade9667f7e/Turanga.tar"
+    }
+  }
+}

@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Turanga](turanga_9edf6e7b4943/turanga_9edf6e7b4943.md) | 2004 | FLAC | 00:52:33 | [IA](https://archive.org/details/turanga_9edf6e7b4943) [FileDitch](https://fileditchfiles.st/beta14/e1f5586797ade9667f7e/Turanga.tar) |
 | [Parish](parish_e88197a93b6f/parish_e88197a93b6f.md) | 2005 | FLAC | 01:11:20 | [IA](https://archive.org/details/parish_e88197a93b6f) [FileDitch](https://fileditchfiles.st/beta14/18f41e2d5fed7cf004c4/Parish.tar) |
 | [Flux](flux_2b75be512198/flux_2b75be512198.md) | 2006 | FLAC | 00:43:38 | [IA](https://archive.org/details/flux_2b75be512198) [FileDitch](https://fileditchfiles.st/beta14/eb5a2dfe6b331ddf56fb/Flux.tar) |
 | [Short Stories](short-stories_20b8c31cf80a/short-stories_20b8c31cf80a.md) | 2007 | FLAC | 00:39:51 | [IA](https://archive.org/details/short-stories_20b8c31cf80a) [FileDitch](https://fileditchfiles.st/beta14/f482fafa700861d90e28/Short_Stories.tar) |
