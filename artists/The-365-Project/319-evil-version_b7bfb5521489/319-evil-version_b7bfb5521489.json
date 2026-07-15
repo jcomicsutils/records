@@ -1,0 +1,27 @@
+{
+  "id": "319-evil-version_b7bfb5521489",
+  "fingerprint": "b7bfb552148924f279b9b35d451e701d6b637b9af63087f9571a08a14010af93",
+  "archived_at": "2026-07-15T00:35:21Z",
+  "metadata": {
+    "title": "319: Evil Version",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 161,
+    "duration_human": "00:02:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Evil Version"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/319-evil-version_b7bfb5521489"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/6a0f15268f911d52e763/319_Evil_Version.tar"
+    }
+  }
+}
