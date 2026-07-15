@@ -1,0 +1,27 @@
+{
+  "id": "297-tweeks_856f47c309bb",
+  "fingerprint": "856f47c309bb49a37b75385fb3c8b5ba2ab70dcdce52c7df73e4bfef816387b6",
+  "archived_at": "2026-07-15T00:10:01Z",
+  "metadata": {
+    "title": "297: Tweeks",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 680,
+    "duration_human": "00:11:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Tweeks"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/297-tweeks_856f47c309bb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/43d30bf7c768eb3e29c5/297_Tweeks.tar"
+    }
+  }
+}
