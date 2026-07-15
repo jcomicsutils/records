@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/borbetomagus_bca3bb564f3b)
+- [FileDitch](https://fileditchfiles.st/beta14/35840b6d1cecc9c20655/Borbetomagus_1995.tar)
 
 ## Tracklist
 

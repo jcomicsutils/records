@@ -1,0 +1,36 @@
+{
+  "id": "auk-blood_cdcc3a7cdc23",
+  "fingerprint": "cdcc3a7cdc237e530f5559c6247741364422715a46af1aad3150963a39f24fce",
+  "archived_at": "2026-07-15T01:04:17Z",
+  "metadata": {
+    "title": "Auk / Blood",
+    "artist": "Tanya Tagaq",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 3184,
+    "duration_human": "00:53:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tanya Tagaq - Fox: Tiriganiak",
+      "02 Tanya Tagaq - Fire: Ikuma",
+      "03 Tanya Tagaq - Growth",
+      "04 Tanya Tagaq - Gentle",
+      "05 Tanya Tagaq - Tategak",
+      "06 Tanya Tagaq - Force",
+      "07 Tanya Tagaq - Growl",
+      "08 Tanya Tagaq - Want",
+      "09 Tanya Tagaq - Hunger",
+      "10 Tanya Tagaq - Burst",
+      "11 Tanya Tagaq - Blood: Auk",
+      "12 Tanya Tagaq - Construction",
+      "13 Tanya Tagaq - Sinialuk"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/auk-blood_cdcc3a7cdc23"
+    }
+  }
+}
