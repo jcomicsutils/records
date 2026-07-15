@@ -1,0 +1,31 @@
+{
+  "id": "untitled-13_a4fa2323c9b1",
+  "fingerprint": "a4fa2323c9b1a3171dafeea8bf2b3471bea23f15ea999edf9dc73a7e24dab550",
+  "archived_at": "2026-07-15T22:38:32Z",
+  "metadata": {
+    "title": "(untitled) '13",
+    "artist": "Revenence",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 12919,
+    "duration_human": "03:35:19",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Revenence - Indigo/Violet Thumb, Part 2 (Smoke)",
+      "02 Revenence - Death Rider Atop Nightmare Omilstiici Pale of Inejeheim",
+      "03 Revenence - (untitled) '13",
+      "04 Revenence - Crevz",
+      "05 Revenence - Then The Poisoner"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/untitled-13_a4fa2323c9b1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/3b2a7cfcbf3460bbeafa/untitled_13.tar"
+    }
+  }
+}
