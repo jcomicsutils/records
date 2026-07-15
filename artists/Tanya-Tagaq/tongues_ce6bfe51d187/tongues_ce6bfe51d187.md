@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/tongues_ce6bfe51d187)
+- [FileDitch](https://fileditchfiles.st/beta14/715fc652fb75de643a6a/Tongues.tar)
 
 ## Tracklist
 
