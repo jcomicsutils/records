@@ -1,0 +1,38 @@
+{
+  "id": "komachi_59dd17ba1631",
+  "fingerprint": "59dd17ba16312d74102a4fa2c51aae183d8142bba427a7a07cd47bab68e69432",
+  "archived_at": "2026-07-15T05:03:07Z",
+  "metadata": {
+    "title": "Komachi",
+    "artist": "冥丁",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2748,
+    "duration_human": "00:45:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Meitei - Seto",
+      "02 Meitei - Ike",
+      "03 Meitei - Nami",
+      "04 Meitei - Sentō (Pt. 2)",
+      "05 Meitei - Kawanabe Kyōsai (Pt. 2)",
+      "06 Meitei - Chōchin",
+      "07 Meitei - Maboroshi",
+      "08 Meitei - Sentō (Pt. 1)",
+      "09 Meitei - Myō",
+      "10 Meitei - Kawanabe Kyōsai (Pt. 1)",
+      "11 Meitei - Shinkai",
+      "12 Meitei - Utano"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/komachi_59dd17ba1631"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/c9ecea8fbc20945e9565/Komachi.tar"
+    }
+  }
+}
