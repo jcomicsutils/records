@@ -1,0 +1,29 @@
+{
+  "id": "latlas-des-galaxies-etranges_1c84b67438e5",
+  "fingerprint": "1c84b67438e56c487567743df20f449fa564bc69199fb777c7eafe2f5b9aa1e1",
+  "archived_at": "2026-07-15T03:26:01Z",
+  "metadata": {
+    "title": "L'Atlas Des Galaxies Etranges",
+    "artist": "Borbetomagus",
+    "year": "1995",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 2420,
+    "duration_human": "00:40:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Borbetomagus - Chu-72353",
+      "02 Borbetomagus - DB Dwan",
+      "03 Borbetomagus - Schmule 93 AOS"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/latlas-des-galaxies-etranges_1c84b67438e5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/c0449600721d8cdb31c4/L_Atlas_Des_Galaxies_Etranges.tar"
+    }
+  }
+}
