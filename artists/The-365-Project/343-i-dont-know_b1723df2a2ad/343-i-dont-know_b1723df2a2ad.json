@@ -1,0 +1,27 @@
+{
+  "id": "343-i-dont-know_b1723df2a2ad",
+  "fingerprint": "b1723df2a2ad4203f3fcd78f863d60e75fcbb28438604b6bc1110ab4dfaf0183",
+  "archived_at": "2026-07-15T01:11:03Z",
+  "metadata": {
+    "title": "343: I Don't Know",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 4608,
+    "duration_human": "01:16:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - I Don't Know"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/343-i-dont-know_b1723df2a2ad"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/99d08807dc3316738dc6/343_I_Don_t_Know.tar"
+    }
+  }
+}
