@@ -1,0 +1,30 @@
+{
+  "id": "borbetomagus_524dba6ecee5",
+  "fingerprint": "524dba6ecee5faf235a811affd92f049db40c44e5f0e4ac02bf959c892f7f9dc",
+  "archived_at": "2026-07-15T00:57:13Z",
+  "metadata": {
+    "title": "Borbetomagus",
+    "artist": "Borbetomagus",
+    "year": "1982",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 2554,
+    "duration_human": "00:42:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Borbetomagus - Aimi Studio",
+      "02 Borbetomagus - In Roads",
+      "03 Borbetomagus - Bergen Community College",
+      "04 Borbetomagus - The Wreck Room"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/borbetomagus_524dba6ecee5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/0c17827139ce92050fae/Borbetomagus_1982.tar"
+    }
+  }
+}
