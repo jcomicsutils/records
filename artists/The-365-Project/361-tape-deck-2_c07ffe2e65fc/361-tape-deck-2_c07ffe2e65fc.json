@@ -1,0 +1,27 @@
+{
+  "id": "361-tape-deck-2_c07ffe2e65fc",
+  "fingerprint": "c07ffe2e65fcd1891a9f2d083fa4eae3267573258fbcb08de2536bcaed1669fb",
+  "archived_at": "2026-07-15T01:35:44Z",
+  "metadata": {
+    "title": "361: Tape Deck 2",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 806,
+    "duration_human": "00:13:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/361-tape-deck-2_c07ffe2e65fc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/689ae05c7ed2f32eb4b2/361_Tape_Deck_2.tar"
+    }
+  }
+}
