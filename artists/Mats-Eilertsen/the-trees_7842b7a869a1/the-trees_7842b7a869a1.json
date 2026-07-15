@@ -1,0 +1,36 @@
+{
+  "id": "the-trees_7842b7a869a1",
+  "fingerprint": "7842b7a869a18f469366588251e67b6095b28eb197855fecf60433d65266b1ad",
+  "archived_at": "2026-07-15T02:20:09Z",
+  "metadata": {
+    "title": "The Trees",
+    "artist": "Mats Eilertsen",
+    "year": "2013",
+    "codec": "MP3",
+    "num_tracks": 10,
+    "duration_seconds": 2871,
+    "duration_human": "00:47:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Mark Solborg Trio, Herb Robertson, Evan Parker - The Whip",
+      "02 Mark Solborg Trio, Herb Robertson, Evan Parker - Hophornbeam",
+      "03 Mark Solborg Trio, Herb Robertson, Evan Parker - Dogwood",
+      "04 Mark Solborg Trio, Herb Robertson, Evan Parker - Skyrækker №1",
+      "05 Mark Solborg Trio, Herb Robertson, Evan Parker - Oak and the Alder",
+      "06 Mark Solborg Trio, Herb Robertson, Evan Parker - Skyrækker №2",
+      "07 Mark Solborg Trio, Herb Robertson, Evan Parker - Chestnut and the Woods",
+      "08 Mark Solborg Trio, Herb Robertson, Evan Parker - Apples, Apples",
+      "09 Mark Solborg Trio, Herb Robertson, Evan Parker - Dark Boat",
+      "10 Mark Solborg Trio, Herb Robertson, Evan Parker - Closure"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-trees_7842b7a869a1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/fc88c69bbd606a0f5a0d/The_Trees.tar"
+    }
+  }
+}
