@@ -1,0 +1,27 @@
+{
+  "id": "301-listen-to-my-bass-jam_d13b42385bf3",
+  "fingerprint": "d13b42385bf354b00bc569193e10de42b2108191302ebb011f03484492a75130",
+  "archived_at": "2026-07-15T00:14:44Z",
+  "metadata": {
+    "title": "301: Listen to My Bass Jam",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 414,
+    "duration_human": "00:06:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Listen to My Bass Jam"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/301-listen-to-my-bass-jam_d13b42385bf3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/7fa6da2a189235ad32e3/301_Listen_to_My_Bass_Jam.tar"
+    }
+  }
+}
