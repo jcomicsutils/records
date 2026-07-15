@@ -1,0 +1,27 @@
+{
+  "id": "288-sebadoh-count_7b9080f9da82",
+  "fingerprint": "7b9080f9da82150538de32bbacc2ddd1f42c447a69006950c7f84ed4c563180f",
+  "archived_at": "2026-07-15T00:04:12Z",
+  "metadata": {
+    "title": "288: Sebadoh Count",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 166,
+    "duration_human": "00:02:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Sebadoh Count"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/288-sebadoh-count_7b9080f9da82"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/2a3213c416f3afc55b92/288_Sebadoh_Count.tar"
+    }
+  }
+}

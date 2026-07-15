@@ -1,0 +1,24 @@
+{
+  "id": "waves-that-emerge_3b81b753a0ff",
+  "fingerprint": "3b81b753a0ffac4e8aeb62e2a5308741f3a5f649068086959714b090bae99a3c",
+  "archived_at": "2026-07-15T00:04:15Z",
+  "metadata": {
+    "title": "Waves that Emerge",
+    "artist": "Concepción Huerta",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 274,
+    "duration_human": "00:04:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Concepción Huerta - Waves that Emerge"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/waves-that-emerge_3b81b753a0ff"
+    }
+  }
+}
