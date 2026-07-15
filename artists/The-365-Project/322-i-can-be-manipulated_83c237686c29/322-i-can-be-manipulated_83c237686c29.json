@@ -1,0 +1,27 @@
+{
+  "id": "322-i-can-be-manipulated_83c237686c29",
+  "fingerprint": "83c237686c294207a6152a84cc0aaad95806d646ecb2f218e463577e193bf16e",
+  "archived_at": "2026-07-15T00:41:13Z",
+  "metadata": {
+    "title": "322: I Can Be Manipulated",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 566,
+    "duration_human": "00:09:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - I Can Be Manipulated"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/322-i-can-be-manipulated_83c237686c29"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/45c803a2d7c580bf2eff/322_I_Can_Be_Manipulated.tar"
+    }
+  }
+}
