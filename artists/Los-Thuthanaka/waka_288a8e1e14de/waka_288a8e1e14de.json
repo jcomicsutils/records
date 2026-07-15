@@ -1,0 +1,29 @@
+{
+  "id": "waka_288a8e1e14de",
+  "fingerprint": "288a8e1e14de5a63d6512bbfe6e6b7c82d28c9a46cb6a4cc4b8ed61849b2f7ac",
+  "archived_at": "2026-07-15T20:17:59Z",
+  "metadata": {
+    "title": "Wak'a",
+    "artist": "Los Thuthanaka",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1108,
+    "duration_human": "00:18:28",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Los Thuthanaka - Quta (capo-kullawada)",
+      "02 Los Thuthanaka - Wara Wara (capo-kullawada)",
+      "03 Los Thuthanaka - Ay Kawkinpachasa? (capo-kullawada)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/waka_288a8e1e14de"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/00bf9e7bbe5051a6f797/Wak_a.tar"
+    }
+  }
+}
