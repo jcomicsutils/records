@@ -1,0 +1,30 @@
+{
+  "id": "bow-shoulder_0ff788ca4368",
+  "fingerprint": "0ff788ca436802ccd6fbb8d217f814fd344a71e2bc8e3eac2c1b79f2264b2294",
+  "archived_at": "2026-07-15T16:17:26Z",
+  "metadata": {
+    "title": "Bow Shoulder",
+    "artist": "Huntsville",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3523,
+    "duration_human": "00:58:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Huntsville - Side Wind",
+      "02 Huntsville - Higher",
+      "03 Huntsville - Lower",
+      "04 Huntsville - The Unshot"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bow-shoulder_0ff788ca4368"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/fcd10a5adca69c062b41/Bow_Shoulder.tar"
+    }
+  }
+}
