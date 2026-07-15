@@ -1,0 +1,34 @@
+{
+  "id": "oi-te-kamuiset_df475ec58638",
+  "fingerprint": "df475ec58638d26136e3dc289a1b4f2ccbe1ac04f679f2821b3fef4526778fe1",
+  "archived_at": "2026-07-15T03:15:40Z",
+  "metadata": {
+    "title": "Oi te kamuiset",
+    "artist": "The Mystic Revelation of Teppo Repo",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2210,
+    "duration_human": "00:36:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Mystic Revelation of Teppo Repo - Juhan Muurahainen",
+      "02 The Mystic Revelation of Teppo Repo - Oi te kamuiset",
+      "03 The Mystic Revelation of Teppo Repo - Se kohiseva koski",
+      "04 The Mystic Revelation of Teppo Repo - Valssi Rovaniemeltä",
+      "05 The Mystic Revelation of Teppo Repo - Karhutanssi",
+      "06 The Mystic Revelation of Teppo Repo - Halia soitto ja tantsukollena",
+      "07 The Mystic Revelation of Teppo Repo - Lennä ratsu",
+      "08 The Mystic Revelation of Teppo Repo - Kettu itki poikiansa"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/oi-te-kamuiset_df475ec58638"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/6ad1b666ec885fe42b5d/Oi_te_kamuiset.tar"
+    }
+  }
+}
