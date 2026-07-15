@@ -1,0 +1,29 @@
+{
+  "id": "3-demos_98e386f5ed62",
+  "fingerprint": "98e386f5ed624b67b807a637d42bcdf8021fa5f102fd4cd99ccb2af2018efcd1",
+  "archived_at": "2026-07-15T16:38:40Z",
+  "metadata": {
+    "title": "3 Demos",
+    "artist": "Chuquimamani-Condori",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1440,
+    "duration_human": "00:24:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Chuquimamani-Condori - Red Demo (For Frank LaPena)",
+      "02 Chuquimamani-Condori - Family Court Demo [2003]",
+      "03 Chuquimamani-Condori - Fired Fort Demo (Ft Joshua Chuquimia Crampton) [2003]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/3-demos_98e386f5ed62"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/4abbbe7b82a97e35460d/3_Demos.tar"
+    }
+  }
+}

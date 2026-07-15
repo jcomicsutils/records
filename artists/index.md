@@ -42,6 +42,7 @@
 - [Ceeys](Ceeys/Ceeys.md)
 - [Chaos Royale](Chaos-Royale/Chaos-Royale.md)
 - [Chas Smith](Chas-Smith/Chas-Smith.md)
+- [Chuquimamani-Condori](Chuquimamani-Condori/Chuquimamani-Condori.md)
 - [Clinical trails](Clinical-trails/Clinical-trails.md)
 - [Club Rialto](Club-Rialto/Club-Rialto.md)
 - [Coffret de Bijoux](Coffret-de-Bijoux/Coffret-de-Bijoux.md)
