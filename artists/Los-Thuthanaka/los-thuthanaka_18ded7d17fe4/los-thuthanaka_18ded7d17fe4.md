@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/los-thuthanaka_18ded7d17fe4)
+- [FileDitch](https://fileditchfiles.st/beta15/dc699d3a0e6b0fb61436/Los_Thuthanaka.tar)
 
 ## Tracklist
 

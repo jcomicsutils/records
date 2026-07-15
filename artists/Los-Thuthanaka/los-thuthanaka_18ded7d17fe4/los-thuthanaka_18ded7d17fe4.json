@@ -26,6 +26,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/los-thuthanaka_18ded7d17fe4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/dc699d3a0e6b0fb61436/Los_Thuthanaka.tar"
     }
   }
 }
