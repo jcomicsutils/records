@@ -1,0 +1,27 @@
+{
+  "id": "337-noisy-community_07e0deec3a87",
+  "fingerprint": "07e0deec3a87fc90a351d208b84071a4210a84c9cd1163f1289c444f84c10b81",
+  "archived_at": "2026-07-15T00:54:31Z",
+  "metadata": {
+    "title": "337: Noisy Community",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 392,
+    "duration_human": "00:06:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Noisy Community"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/337-noisy-community_07e0deec3a87"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/7f8ad0a92a1e58fa7be6/337_Noisy_Community.tar"
+    }
+  }
+}
