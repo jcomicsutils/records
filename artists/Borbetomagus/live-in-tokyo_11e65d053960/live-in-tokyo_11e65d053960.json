@@ -1,0 +1,28 @@
+{
+  "id": "live-in-tokyo_11e65d053960",
+  "fingerprint": "11e65d0539602eb35eb2a238c848818109c4b27ef352e17b25c96a0e3e392368",
+  "archived_at": "2026-07-15T04:16:13Z",
+  "metadata": {
+    "title": "Live in Tokyo",
+    "artist": "Borbetomagus",
+    "year": "1997",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 3823,
+    "duration_human": "01:03:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Borbetomagus - Pachinko Cadaver",
+      "02 Borbetomagus - Kill the Light Between the Womb and the Funeral Parlor"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-in-tokyo_11e65d053960"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/263a8f8f5ac6b8c1ac2f/Live_in_Tokyo.tar"
+    }
+  }
+}
