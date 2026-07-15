@@ -1,0 +1,29 @@
+{
+  "id": "coelacanth_6eed1783ebf4",
+  "fingerprint": "6eed1783ebf4d9242132a5c85d86ecce14f4d094e16d1a8e25716b27bc046b81",
+  "archived_at": "2026-07-15T02:02:56Z",
+  "metadata": {
+    "title": "Coelacanth",
+    "artist": "Borbetomagus",
+    "year": "1992",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 1659,
+    "duration_human": "00:27:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Borbetomagus & Shaking Ray Levis - Coelacanth",
+      "02 Borbetomagus & Shaking Ray Levis - I Want to Be a Black Weight Lifter Named Douglas",
+      "03 Borbetomagus & Shaking Ray Levis - Lady Big Boy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/coelacanth_6eed1783ebf4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/d54e1b831f893ff1d779/Coelacanth_1992.tar"
+    }
+  }
+}
