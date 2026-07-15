@@ -1,0 +1,27 @@
+{
+  "id": "320-the-365-podcast_aad84de75cfb",
+  "fingerprint": "aad84de75cfb3bc66c0437acfb9fdd4c2517ac389792738c32791117a1fb6430",
+  "archived_at": "2026-07-15T00:39:31Z",
+  "metadata": {
+    "title": "320: The 365 Podcast",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 2845,
+    "duration_human": "00:47:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project & Paul \"Jessica\" Stretch - The 365 Podcast"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/320-the-365-podcast_aad84de75cfb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/902bfc4e480e86a29d78/320_The_365_Podcast.tar"
+    }
+  }
+}
