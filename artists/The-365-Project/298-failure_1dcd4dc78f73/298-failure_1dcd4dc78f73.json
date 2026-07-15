@@ -1,0 +1,27 @@
+{
+  "id": "298-failure_1dcd4dc78f73",
+  "fingerprint": "1dcd4dc78f73794b4114429ebb7ce0d634305c948e35b018b87977ab55950e4b",
+  "archived_at": "2026-07-15T00:10:48Z",
+  "metadata": {
+    "title": "298: Failure",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 173,
+    "duration_human": "00:02:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Failure"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/298-failure_1dcd4dc78f73"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/ed67dd0790a7b0719313/298_Failure.tar"
+    }
+  }
+}
