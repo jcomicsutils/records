@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/auk-blood_cdcc3a7cdc23)
+- [FileDitch](https://fileditchfiles.st/beta14/26ffd068207e716fc5ca/Auk_-_Blood.tar)
 
 ## Tracklist
 
