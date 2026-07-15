@@ -1,0 +1,27 @@
+{
+  "id": "akira-kurosawa_f9950f06d30f",
+  "fingerprint": "f9950f06d30ffc3eb0c27e5df8c6a8f14c87c8f80a3a9bf63e9e5d052c224836",
+  "archived_at": "2026-07-15T04:43:27Z",
+  "metadata": {
+    "title": "Akira Kurosawa",
+    "artist": "冥丁",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 296,
+    "duration_human": "00:04:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Meitei - Akira Kurosawa"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/akira-kurosawa_f9950f06d30f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/e519d753c0f09df99248/Akira_Kurosawa.tar"
+    }
+  }
+}
