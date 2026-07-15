@@ -1,0 +1,32 @@
+{
+  "id": "the-black-dirt-sessions_7cbfda8116ba",
+  "fingerprint": "7cbfda8116baca43affa3e1410a2ecfc869ad86144723138b2568ceb267f9005",
+  "archived_at": "2026-07-15T20:17:20Z",
+  "metadata": {
+    "title": "The Black Dirt Sessions",
+    "artist": "Jack Rose",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2191,
+    "duration_human": "00:36:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jack Rose - Dusty Grass",
+      "02 Jack Rose - Cross the North Fork",
+      "03 Jack Rose - Fishtown Flower",
+      "04 Jack Rose - Song for the Owl",
+      "05 Jack Rose - Box of Pine",
+      "06 Jack Rose - The World Has Let Me Down"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-black-dirt-sessions_7cbfda8116ba"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/204e0fcaf68d29b69a6e/The_Black_Dirt_Sessions.tar"
+    }
+  }
+}
