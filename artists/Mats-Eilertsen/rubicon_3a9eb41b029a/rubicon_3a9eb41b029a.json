@@ -1,0 +1,36 @@
+{
+  "id": "rubicon_3a9eb41b029a",
+  "fingerprint": "3a9eb41b029a60154398dba6d6fe443ac1a3ff951fc6af06cfe821a683a59777",
+  "archived_at": "2026-07-15T01:44:29Z",
+  "metadata": {
+    "title": "Rubicon",
+    "artist": "Mats Eilertsen",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3270,
+    "duration_human": "00:54:30",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Mats Eilertsen - Canto",
+      "02 Mats Eilertsen - Cross the Creek",
+      "03 Mats Eilertsen - March",
+      "04 Mats Eilertsen - Balky",
+      "05 Mats Eilertsen - Lago",
+      "06 Mats Eilertsen - BluBlue",
+      "07 Mats Eilertsen - Wood and Water",
+      "08 Mats Eilertsen - September",
+      "09 Mats Eilertsen - Reminiscent",
+      "10 Mats Eilertsen - Introitus"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rubicon_3a9eb41b029a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/fd631c3213555cde1d12/Rubicon.tar"
+    }
+  }
+}
