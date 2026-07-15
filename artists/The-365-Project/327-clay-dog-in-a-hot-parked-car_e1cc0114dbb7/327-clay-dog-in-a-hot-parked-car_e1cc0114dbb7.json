@@ -1,0 +1,27 @@
+{
+  "id": "327-clay-dog-in-a-hot-parked-car_e1cc0114dbb7",
+  "fingerprint": "e1cc0114dbb7e7678757d77b86cd4a60ec3c1f3a657305e84a8c5fcc723b32bd",
+  "archived_at": "2026-07-15T00:44:58Z",
+  "metadata": {
+    "title": "327: Clay Dog in a Hot Parked Car",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 358,
+    "duration_human": "00:05:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Clay Dog Left in a Hot Parked Car"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/327-clay-dog-in-a-hot-parked-car_e1cc0114dbb7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/c43e2bb46f2970349832/327_Clay_Dog_in_a_Hot_Parked_Car.tar"
+    }
+  }
+}
