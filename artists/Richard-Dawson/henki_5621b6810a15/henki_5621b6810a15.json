@@ -1,0 +1,33 @@
+{
+  "id": "henki_5621b6810a15",
+  "fingerprint": "5621b6810a15f85435f0a57cab319c299f5aabce5c5deac8fde5ab01c230c6b3",
+  "archived_at": "2026-07-15T23:42:05Z",
+  "metadata": {
+    "title": "Henki",
+    "artist": "Richard Dawson",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3352,
+    "duration_human": "00:55:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Richard Dawson, Circle - Cooksonia",
+      "02 Richard Dawson, Circle - Ivy",
+      "03 Richard Dawson, Circle - Silphium",
+      "04 Richard Dawson, Circle - Silene",
+      "05 Richard Dawson, Circle - Methuselah",
+      "06 Richard Dawson, Circle - Lily",
+      "07 Richard Dawson, Circle - Pitcher"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/henki_5621b6810a15"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/18a1befd7bca66fc1977/Henki.tar"
+    }
+  }
+}
