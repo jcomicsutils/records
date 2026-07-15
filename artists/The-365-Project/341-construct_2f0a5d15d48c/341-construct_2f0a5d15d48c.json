@@ -1,0 +1,27 @@
+{
+  "id": "341-construct_2f0a5d15d48c",
+  "fingerprint": "2f0a5d15d48c08d98f2709617320b2eced05e13fc4e8602d69fd000ee2117f47",
+  "archived_at": "2026-07-15T01:00:03Z",
+  "metadata": {
+    "title": "341: Construct",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 484,
+    "duration_human": "00:08:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Construct"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/341-construct_2f0a5d15d48c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/517e991b827537251d9f/341_Construct.tar"
+    }
+  }
+}
