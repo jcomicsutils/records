@@ -1,0 +1,27 @@
+{
+  "id": "voices_a64151ab955c",
+  "fingerprint": "a64151ab955cd92193cd86ba3af30fc370ab087b53f98fd8da37eb89a8582290",
+  "archived_at": "2026-07-15T00:03:36Z",
+  "metadata": {
+    "title": "Voices",
+    "artist": "Concepción Huerta",
+    "year": "2018",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 779,
+    "duration_human": "00:12:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Mabe Fratti + Concepción Huerta - Voices"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/voices_a64151ab955c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/1e98338fcf907f81e18d/Voices.tar"
+    }
+  }
+}
