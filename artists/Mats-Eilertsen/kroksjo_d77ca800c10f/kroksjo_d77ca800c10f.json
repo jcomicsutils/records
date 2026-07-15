@@ -1,0 +1,34 @@
+{
+  "id": "kroksjo_d77ca800c10f",
+  "fingerprint": "d77ca800c10fe2afd8f30a6598e023537cf219e282e2fd3860591f03af5c0485",
+  "archived_at": "2026-07-15T00:10:20Z",
+  "metadata": {
+    "title": "Kroksjø",
+    "artist": "Mats Eilertsen",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1935,
+    "duration_human": "00:32:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jo David Meyer Lysne, Mats Eilertsen - Lamyra",
+      "02 Jo David Meyer Lysne, Mats Eilertsen - Forve",
+      "03 Jo David Meyer Lysne, Mats Eilertsen - Strandsjø",
+      "04 Jo David Meyer Lysne, Mats Eilertsen - Byakjela",
+      "05 Jo David Meyer Lysne, Mats Eilertsen - Snoensøya",
+      "06 Jo David Meyer Lysne, Mats Eilertsen - Ålykkja",
+      "07 Jo David Meyer Lysne, Mats Eilertsen - Finna",
+      "08 Jo David Meyer Lysne, Mats Eilertsen - Furumokjela"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kroksjo_d77ca800c10f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/8b72064a248aeff68e65/Kroksj.tar"
+    }
+  }
+}

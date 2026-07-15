@@ -1,0 +1,32 @@
+# Mats Eilertsen — Kroksjø (2020)
+
+![Cover](https://archive.org/download/kroksjo_d77ca800c10f/__ia_thumb.jpg)
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | 44.1kHz |
+| Bit Depth | 16-bit |
+| Tracks | 8 |
+| Duration | 00:32:15 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/kroksjo_d77ca800c10f)
+- [FileDitch](https://fileditchfiles.st/beta14/8b72064a248aeff68e65/Kroksj.tar)
+
+## Tracklist
+
+```
+01 Jo David Meyer Lysne, Mats Eilertsen - Lamyra
+02 Jo David Meyer Lysne, Mats Eilertsen - Forve
+03 Jo David Meyer Lysne, Mats Eilertsen - Strandsjø
+04 Jo David Meyer Lysne, Mats Eilertsen - Byakjela
+05 Jo David Meyer Lysne, Mats Eilertsen - Snoensøya
+06 Jo David Meyer Lysne, Mats Eilertsen - Ålykkja
+07 Jo David Meyer Lysne, Mats Eilertsen - Finna
+08 Jo David Meyer Lysne, Mats Eilertsen - Furumokjela
+```
+
+---
+*Archived: 2026-07-15*
