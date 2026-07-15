@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/skydive_b06f04820a92)
+- [FileDitch](https://fileditchfiles.st/beta14/f3fb66f5f71b346b11c9/Skydive.tar)
 
 ## Tracklist
 
