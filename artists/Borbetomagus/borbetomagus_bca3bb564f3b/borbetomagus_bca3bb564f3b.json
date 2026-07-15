@@ -1,0 +1,29 @@
+{
+  "id": "borbetomagus_bca3bb564f3b",
+  "fingerprint": "bca3bb564f3b2dfaa8bd910cc4121affbf2ef55f14b0078d46b9fc90d881c95c",
+  "archived_at": "2026-07-15T01:03:34Z",
+  "metadata": {
+    "title": "Borbetomagus",
+    "artist": "Borbetomagus",
+    "year": "1995",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2881,
+    "duration_human": "00:48:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Borbetomagus - Concordat 1",
+      "02 Borbetomagus - Concordat 2",
+      "03 Borbetomagus - Concordat 3",
+      "04 Borbetomagus - Concordat 4",
+      "05 Borbetomagus - Concordat 5",
+      "06 Borbetomagus - The Lost Concordat"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/borbetomagus_bca3bb564f3b"
+    }
+  }
+}

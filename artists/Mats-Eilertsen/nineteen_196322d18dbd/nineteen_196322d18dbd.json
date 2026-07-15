@@ -1,0 +1,27 @@
+{
+  "id": "nineteen_196322d18dbd",
+  "fingerprint": "196322d18dbd013559eccfb92024517092a70d38553e09f7a8ad52117985011d",
+  "archived_at": "2026-07-15T01:03:34Z",
+  "metadata": {
+    "title": "Nineteen",
+    "artist": "Mats Eilertsen",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 354,
+    "duration_human": "00:05:54",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Jonas Sjøvaag, Mats Eilertsen, Andreas Ulvo, Jørgen Munkeby - Nineteen"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nineteen_196322d18dbd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/c498d1945a5414d167c2/Nineteen.tar"
+    }
+  }
+}
