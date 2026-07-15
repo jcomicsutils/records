@@ -1,0 +1,33 @@
+{
+  "id": "raag-manifestos_37b3ace92cc2",
+  "fingerprint": "37b3ace92cc2e068c1382f2c1178c68c60591ef1e3df446bd2b025565d8c5240",
+  "archived_at": "2026-07-15T19:59:51Z",
+  "metadata": {
+    "title": "Raag Manifestos",
+    "artist": "Jack Rose",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2783,
+    "duration_human": "00:46:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jack Rose - Black Pearls From the River",
+      "02 Jack Rose - Tower of Babel",
+      "03 Jack Rose - Hart Cranes Old Boyfriends",
+      "04 Jack Rose - Tex",
+      "05 Jack Rose - Crossing the Great Waters",
+      "06 Jack Rose - Road",
+      "07 Jack Rose - Blessed Be the Name of the Lord"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/raag-manifestos_37b3ace92cc2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/a87c2875cee0d349b036/Raag_Manifestos.tar"
+    }
+  }
+}
