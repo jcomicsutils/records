@@ -1,0 +1,29 @@
+{
+  "id": "concerto-for-cracked-everyday-electronics-and-chamber-orchestra_18c1bb504144",
+  "fingerprint": "18c1bb504144ee33f97780dee5127912ed4882e03e85b457385744b76332afa1",
+  "archived_at": "2026-07-15T02:22:51Z",
+  "metadata": {
+    "title": "Concerto for Cracked Everyday Electronics and Chamber Orchestra",
+    "artist": "Borbetomagus",
+    "year": "1997",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2369,
+    "duration_human": "00:39:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Borbetomagus & Voice Crack - [untitled]",
+      "02 Borbetomagus & Voice Crack - [untitled]",
+      "03 Borbetomagus & Voice Crack - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/concerto-for-cracked-everyday-electronics-and-chamber-orchestra_18c1bb504144"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/8c5c51a139498b764336/Concerto_for_Cracked_Everyday_Electronics_and_Chamber_Orchestra.tar"
+    }
+  }
+}
