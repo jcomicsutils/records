@@ -1,0 +1,28 @@
+{
+  "id": "316-more-onion_8e2639ed4644",
+  "fingerprint": "8e2639ed4644eadd39c7f87d50e2b7a6d6176abd91f3ea354a535e2656d2b480",
+  "archived_at": "2026-07-15T00:33:34Z",
+  "metadata": {
+    "title": "316: More Onion",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 225,
+    "duration_human": "00:03:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - T.V. Dinner for 1",
+      "02 The 365 Project - Carnavas by Brainbombs"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/316-more-onion_8e2639ed4644"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/2609122be499997f1832/316_More_Onion.tar"
+    }
+  }
+}
