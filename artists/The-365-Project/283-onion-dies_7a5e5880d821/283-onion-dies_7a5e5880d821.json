@@ -1,0 +1,27 @@
+{
+  "id": "283-onion-dies_7a5e5880d821",
+  "fingerprint": "7a5e5880d821993aa28d7a4fd1c3bbe0963888a73f9330f1624ce2784322dfd4",
+  "archived_at": "2026-07-15T00:00:10Z",
+  "metadata": {
+    "title": "283: Onion Dies",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 213,
+    "duration_human": "00:03:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Onion Dies"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/283-onion-dies_7a5e5880d821"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/fcd2400765cc8705b101/283_Onion_Dies.tar"
+    }
+  }
+}
