@@ -1,0 +1,27 @@
+{
+  "id": "326-reggie_7cad2dea8dd7",
+  "fingerprint": "7cad2dea8dd745799c48fafe0d841bce4c4ee0bf8a0464fe5901711bc88db194",
+  "archived_at": "2026-07-15T00:44:20Z",
+  "metadata": {
+    "title": "326: Reggie",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 178,
+    "duration_human": "00:02:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Reggie"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/326-reggie_7cad2dea8dd7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/6af578193d4a7c4d445a/326_Reggie.tar"
+    }
+  }
+}
