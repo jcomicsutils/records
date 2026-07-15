@@ -1,0 +1,27 @@
+{
+  "id": "valkoakaasiat_4d625c16af75",
+  "fingerprint": "4d625c16af755c0807be00f6b2366060fd55268231fe8fa26f9afdc5b408a9a9",
+  "archived_at": "2026-07-15T04:33:19Z",
+  "metadata": {
+    "title": "Valkoakaasiat",
+    "artist": "The Mystic Revelation of Teppo Repo",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 210,
+    "duration_human": "00:03:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Mystic Revelation of Teppo Repo - Valkoakaasiat"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/valkoakaasiat_4d625c16af75"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/a8be18dc7a84abc7fdba/Valkoakaasiat.tar"
+    }
+  }
+}
