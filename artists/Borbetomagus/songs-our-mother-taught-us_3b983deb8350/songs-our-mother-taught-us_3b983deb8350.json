@@ -1,0 +1,29 @@
+{
+  "id": "songs-our-mother-taught-us_3b983deb8350",
+  "fingerprint": "3b983deb8350dffa4e4041a6088ff4afec02d2f7853d537eaa3ad450b41d0435",
+  "archived_at": "2026-07-15T05:00:11Z",
+  "metadata": {
+    "title": "Songs Our Mother Taught Us",
+    "artist": "Borbetomagus",
+    "year": "2003",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3208,
+    "duration_human": "00:53:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Borbetomagus - Aftershock",
+      "02 Borbetomagus - Songs Our Mother Taught Us",
+      "03 Borbetomagus - After Aftershock"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/songs-our-mother-taught-us_3b983deb8350"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/e194070e5d83f1b57b89/Songs_Our_Mother_Taught_Us.tar"
+    }
+  }
+}
