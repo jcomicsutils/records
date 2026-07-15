@@ -1,0 +1,37 @@
+{
+  "id": "ikivihreat_653551a523cb",
+  "fingerprint": "653551a523cb32f39e79882471b535949efda613956fe1fdb2da0a46364442e3",
+  "archived_at": "2026-07-15T02:49:44Z",
+  "metadata": {
+    "title": "Ikivihreät",
+    "artist": "The Mystic Revelation of Teppo Repo",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2209,
+    "duration_human": "00:36:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Mystic Revelation of Teppo Repo - Unohtumaton ilta",
+      "02 The Mystic Revelation of Teppo Repo - Bandura",
+      "03 The Mystic Revelation of Teppo Repo - Valkoakaasiat",
+      "04 The Mystic Revelation of Teppo Repo - Kallavesj",
+      "05 The Mystic Revelation of Teppo Repo - Laulu synnyinseudulle",
+      "06 The Mystic Revelation of Teppo Repo - Lehdetön puu",
+      "07 The Mystic Revelation of Teppo Repo - Soittajapaimen",
+      "08 The Mystic Revelation of Teppo Repo - Satumaa",
+      "09 The Mystic Revelation of Teppo Repo - Kuolleet lehdet",
+      "10 The Mystic Revelation of Teppo Repo - Uralin pihlaja",
+      "11 The Mystic Revelation of Teppo Repo - Laulu Dnjeprille"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ikivihreat_653551a523cb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/89d0f3323d805e11fcd3/Ikivihre_t.tar"
+    }
+  }
+}
