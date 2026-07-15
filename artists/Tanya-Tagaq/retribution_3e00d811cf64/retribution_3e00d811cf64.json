@@ -1,0 +1,36 @@
+{
+  "id": "retribution_3e00d811cf64",
+  "fingerprint": "3e00d811cf64117cb257cb4cebeb8e580aaeb54545f0a496ec9cddd8de3583c6",
+  "archived_at": "2026-07-15T01:12:45Z",
+  "metadata": {
+    "title": "Retribution",
+    "artist": "Tanya Tagaq",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2851,
+    "duration_human": "00:47:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tanya Tagaq - Ajaaja",
+      "02 Tanya Tagaq - Retribution",
+      "03 Tanya Tagaq - Nacreous",
+      "04 Tanya Tagaq - Aorta",
+      "05 Tanya Tagaq - Centre",
+      "06 Tanya Tagaq - Summoning",
+      "07 Tanya Tagaq - Cold",
+      "08 Tanya Tagaq - Sivulivinivut",
+      "09 Tanya Tagaq - Sulfur",
+      "10 Tanya Tagaq - Rape Me"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/retribution_3e00d811cf64"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/d564bca51457d9900093/Retribution.tar"
+    }
+  }
+}

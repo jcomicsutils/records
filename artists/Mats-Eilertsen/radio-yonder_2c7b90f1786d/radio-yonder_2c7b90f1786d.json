@@ -1,0 +1,32 @@
+{
+  "id": "radio-yonder_2c7b90f1786d",
+  "fingerprint": "2c7b90f1786d8f915ac8a7cb1d1e881c273d7dde7c074d2ff3cd1883e565be26",
+  "archived_at": "2026-07-15T01:13:29Z",
+  "metadata": {
+    "title": "Radio Yonder",
+    "artist": "Mats Eilertsen",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3366,
+    "duration_human": "00:56:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mats Eilertsen - Radio",
+      "02 Mats Eilertsen - Bora",
+      "03 Mats Eilertsen - Night Song",
+      "04 Mats Eilertsen - Yonder",
+      "05 Mats Eilertsen - Further Float",
+      "06 Mats Eilertsen - Wall View",
+      "07 Mats Eilertsen - Stork",
+      "08 Mats Eilertsen - Hunting High and Low",
+      "09 Mats Eilertsen - Aceh"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/radio-yonder_2c7b90f1786d"
+    }
+  }
+}

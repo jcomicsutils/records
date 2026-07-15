@@ -1,0 +1,32 @@
+{
+  "id": "witness_2932c09bfcb3",
+  "fingerprint": "2932c09bfcb39e6992ba2c000e8963f563f47ca70e2db71c6befdac25c725103",
+  "archived_at": "2026-07-15T01:13:06Z",
+  "metadata": {
+    "title": "Witness",
+    "artist": "Jack O' the Clock",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3992,
+    "duration_human": "01:06:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jack O' the Clock - Let All Mortal Flesh Keep Silence / Blue Tail Fly",
+      "02 Jack O' the Clock - The Old Man and the Table Saw",
+      "03 Jack O' the Clock - Come Back Tomorrow",
+      "04 Jack O' the Clock - Guru on the Road / The Blizzard / Ten Fingers",
+      "05 Jack O' the Clock - Rehearsing the Long Walk Home",
+      "06 Jack O' the Clock - The Pilot",
+      "07 Jack O' the Clock - Salt Moon",
+      "08 Jack O' the Clock - Slow March / Schlitzie, Last of the Aztecs, Lodges and Objection in the Order of Things",
+      "09 Jack O' the Clock - .22, or Denny Takes One For the Team / I Am So Glad to Meet You"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/witness_2932c09bfcb3"
+    }
+  }
+}
