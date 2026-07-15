@@ -1,0 +1,37 @@
+{
+  "id": "jack-rose-the-black-twig-pickers_af5a9785e756",
+  "fingerprint": "af5a9785e7569579881638dd0a99f2dde149a2ec52fa0394dcd699b377d91963",
+  "archived_at": "2026-07-15T18:53:12Z",
+  "metadata": {
+    "title": "Jack Rose & The Black Twig Pickers",
+    "artist": "Jack Rose",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2295,
+    "duration_human": "00:38:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jack Rose, The Black Twig Pickers, Jack Rose & The Black Twig Pickers - Little Sadie",
+      "02 Jack Rose, The Black Twig Pickers, Jack Rose & The Black Twig Pickers - Sail Away Ladies / I Shall Not Be Moved",
+      "03 Jack Rose, The Black Twig Pickers, Jack Rose & The Black Twig Pickers - Hand Me Down My Walking Cane",
+      "04 Jack Rose, The Black Twig Pickers, Jack Rose & The Black Twig Pickers - Soft Steel Piston",
+      "05 Jack Rose, The Black Twig Pickers, Jack Rose & The Black Twig Pickers - Some Happy Day",
+      "06 Jack Rose, The Black Twig Pickers, Jack Rose & The Black Twig Pickers - Ride Ole Buck",
+      "07 Jack Rose, The Black Twig Pickers, Jack Rose & The Black Twig Pickers - Revolt",
+      "08 Jack Rose, The Black Twig Pickers, Jack Rose & The Black Twig Pickers - Kensington Blues",
+      "09 Jack Rose, The Black Twig Pickers, Jack Rose & The Black Twig Pickers - Special Rider",
+      "10 Jack Rose, The Black Twig Pickers, Jack Rose & The Black Twig Pickers - Bright Sunny South",
+      "11 Jack Rose, The Black Twig Pickers, Jack Rose & The Black Twig Pickers - Goodbye Booze"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/jack-rose-the-black-twig-pickers_af5a9785e756"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha16/f3393ff48f860d7be24a/Jack_Rose_The_Black_Twig_Pickers.tar"
+    }
+  }
+}
