@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/asbestos-shake_e0bbeed465af)
+- [FileDitch](https://fileditchfiles.st/beta14/b6cbd137f7aa2f90d35c/Asbestos_Shake.tar)
 
 ## Tracklist
 
