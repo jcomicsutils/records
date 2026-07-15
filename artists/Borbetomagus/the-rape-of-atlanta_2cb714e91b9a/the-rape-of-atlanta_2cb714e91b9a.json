@@ -1,0 +1,28 @@
+{
+  "id": "the-rape-of-atlanta_2cb714e91b9a",
+  "fingerprint": "2cb714e91b9ad55ee6034fc546cb2a8b8bc5be2130590d74a177f7ab04b7f6a0",
+  "archived_at": "2026-07-15T05:32:54Z",
+  "metadata": {
+    "title": "The Rape of Atlanta",
+    "artist": "Borbetomagus",
+    "year": "2011",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1961,
+    "duration_human": "00:32:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Borbetomagus - Archie Keens for a Moister Veronica",
+      "02 Borbetomagus - Jughead's Prayer Renders Betty Senseless"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-rape-of-atlanta_2cb714e91b9a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/d64f96a8bab770712e44/The_Rape_of_Atlanta.tar"
+    }
+  }
+}
