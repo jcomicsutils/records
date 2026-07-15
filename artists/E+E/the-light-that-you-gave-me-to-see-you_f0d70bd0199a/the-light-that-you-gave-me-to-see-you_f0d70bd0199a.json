@@ -1,0 +1,33 @@
+{
+  "id": "the-light-that-you-gave-me-to-see-you_f0d70bd0199a",
+  "fingerprint": "f0d70bd0199ac12c41e37aeed749bd043fcb7ca41ffa1d338c48303cc6502779",
+  "archived_at": "2026-07-15T21:07:29Z",
+  "metadata": {
+    "title": "The Light That You Gave Me to See You",
+    "artist": "E+E",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1521,
+    "duration_human": "00:25:21",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 E+E - REINADA",
+      "02 E+E - SWORD",
+      "03 E+E - BIG-FIRE",
+      "04 E+E - STEERED",
+      "05 E+E - OMEGA PLATE",
+      "06 E+E - CRUX",
+      "07 E+E - FIRE GUT"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-light-that-you-gave-me-to-see-you_f0d70bd0199a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/735406cea7455e185c49/The_Light_That_You_Gave_Me_to_See_You.tar"
+    }
+  }
+}

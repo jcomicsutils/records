@@ -1,0 +1,30 @@
+{
+  "id": "a-cast-of-flowers_71c4267f89cb",
+  "fingerprint": "71c4267f89cb84b70695257a06a44c12cd6d7acc8ab17a9febb32358eafb3978",
+  "archived_at": "2026-07-15T21:08:10Z",
+  "metadata": {
+    "title": "A Cast of Flowers",
+    "artist": "Jacken Elswyth",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1136,
+    "duration_human": "00:18:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jacken Elswyth - Other shimmer compass",
+      "02 Jacken Elswyth - The sail we dilate",
+      "03 Jacken Elswyth - I peel",
+      "04 Jacken Elswyth - Curative time",
+      "05 Jacken Elswyth - Track the portion",
+      "06 Jacken Elswyth - Will to ladle",
+      "07 Jacken Elswyth - Queer shine plunging"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-cast-of-flowers_71c4267f89cb"
+    }
+  }
+}
