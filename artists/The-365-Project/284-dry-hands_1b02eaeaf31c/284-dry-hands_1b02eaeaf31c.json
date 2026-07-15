@@ -1,0 +1,27 @@
+{
+  "id": "284-dry-hands_1b02eaeaf31c",
+  "fingerprint": "1b02eaeaf31cc28d6bf1378e9f15511b3b90e318e052b363b00f0f12a595a41a",
+  "archived_at": "2026-07-15T00:01:40Z",
+  "metadata": {
+    "title": "284: Dry Hands",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1338,
+    "duration_human": "00:22:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Dry Hands"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/284-dry-hands_1b02eaeaf31c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/2fd2e2ca6fe4bdac8dbf/284_Dry_Hands.tar"
+    }
+  }
+}
