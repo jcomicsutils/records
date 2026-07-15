@@ -12,6 +12,7 @@
 - [Alcest](Alcest/Alcest.md)
 - [Alexander Gregory Kent](Alexander-Gregory-Kent/Alexander-Gregory-Kent.md)
 - [Algebra Suicide](Algebra-Suicide/Algebra-Suicide.md)
+- [Amor Muere](Amor-Muere/Amor-Muere.md)
 - [And We Walk Endlessly Towards The Sun](And-We-Walk-Endlessly-Towards-The-Sun/And-We-Walk-Endlessly-Towards-The-Sun.md)
 - [Andy Boay](Andy-Boay/Andy-Boay.md)
 - [Ania Karpowicz](Ania-Karpowicz/Ania-Karpowicz.md)
