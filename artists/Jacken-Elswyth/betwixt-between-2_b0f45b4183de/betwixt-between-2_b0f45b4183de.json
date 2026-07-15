@@ -1,0 +1,31 @@
+{
+  "id": "betwixt-between-2_b0f45b4183de",
+  "fingerprint": "b0f45b4183de02cb78ed60891d4fbce15550c25783fdc7fd18a52116baeaf92b",
+  "archived_at": "2026-07-15T21:43:33Z",
+  "metadata": {
+    "title": "Betwixt & Between 2",
+    "artist": "Jacken Elswyth",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1802,
+    "duration_human": "00:30:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jacken Elswyth, Pataphysical - Improvisation for Bowed Banjo and Shruti Box",
+      "02 Jacken Elswyth, Pataphysical - Improvisation for Bowed Banjo and Shruti Box",
+      "03 Jacken Elswyth, Pataphysical - Arkansas Traveller",
+      "04 Jacken Elswyth, Pataphysical - Improvisation for Bowed Banjo Shruti Box and Amp Feedback",
+      "05 Jacken Elswyth, Pataphysical - Mediation Tape 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/betwixt-between-2_b0f45b4183de"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/b3545ffe57771ee7b812/Betwixt_Between_2.tar"
+    }
+  }
+}
