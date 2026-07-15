@@ -1,0 +1,28 @@
+{
+  "id": "364-time-is-a-construct-so-lets-never-do-this-ever-again_cf62269fc7ca",
+  "fingerprint": "cf62269fc7caeb6ff85afd81575aa901b284e0fd2c59856640cb802fc1e57ee1",
+  "archived_at": "2026-07-15T01:40:30Z",
+  "metadata": {
+    "title": "364: Time Is a Construct, So Let's Never Do This Ever Again",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 595,
+    "duration_human": "00:09:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Priestess of Inanna - Across Different Trains",
+      "02 The 365 Project - Time Is a Construct, So Let's Never Do This Ever Again"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/364-time-is-a-construct-so-lets-never-do-this-ever-again_cf62269fc7ca"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/53a98be97051103d3e33/364_Time_Is_a_Construct_So_Let_s_Never_Do_This_Ever_Again.tar"
+    }
+  }
+}
