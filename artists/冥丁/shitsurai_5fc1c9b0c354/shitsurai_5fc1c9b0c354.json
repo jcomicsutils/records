@@ -1,0 +1,30 @@
+{
+  "id": "shitsurai_5fc1c9b0c354",
+  "fingerprint": "5fc1c9b0c354856d034feb7fb396be9e22e6b40a30632e1b7ed8258d9aa8786b",
+  "archived_at": "2026-07-15T05:28:54Z",
+  "metadata": {
+    "title": "SHITSURAI",
+    "artist": "冥丁",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 914,
+    "duration_human": "00:15:14",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Meitei - Risshun",
+      "02 Meitei - Rikka",
+      "03 Meitei - Risshū",
+      "04 Meitei - Rittō"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/shitsurai_5fc1c9b0c354"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/954572b5aef83c311ef4/SHITSURAI.tar"
+    }
+  }
+}

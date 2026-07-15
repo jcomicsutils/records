@@ -1,0 +1,25 @@
+{
+  "id": "the-eastcote-studios-session_add2c715f473",
+  "fingerprint": "add2c715f473b0a9661f445c481e6e65a0051870a2736cdc467b6006ece8ac37",
+  "archived_at": "2026-07-15T05:28:29Z",
+  "metadata": {
+    "title": "The Eastcote Studios Session",
+    "artist": "Borbetomagus",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2173,
+    "duration_human": "00:36:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Borbetomagus - Dis",
+      "02 Borbetomagus - Dat"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-eastcote-studios-session_add2c715f473"
+    }
+  }
+}
