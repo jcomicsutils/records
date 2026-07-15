@@ -1,0 +1,27 @@
+{
+  "id": "306-it-exists_90e0af148c61",
+  "fingerprint": "90e0af148c61b6d138267aea6910babcaf79f612cd65d46669b9f1db52f7d1d2",
+  "archived_at": "2026-07-15T00:27:15Z",
+  "metadata": {
+    "title": "306: It Exists",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 436,
+    "duration_human": "00:07:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - It Exists"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/306-it-exists_90e0af148c61"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/250ec42d83164414e99d/306_It_Exists.tar"
+    }
+  }
+}
