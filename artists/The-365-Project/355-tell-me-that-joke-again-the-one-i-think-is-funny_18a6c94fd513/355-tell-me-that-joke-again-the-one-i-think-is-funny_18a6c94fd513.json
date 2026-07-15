@@ -1,0 +1,29 @@
+{
+  "id": "355-tell-me-that-joke-again-the-one-i-think-is-funny_18a6c94fd513",
+  "fingerprint": "18a6c94fd51370aebd66d2888c9224cd8ab9b7467d6c3522cd20315f38ac5191",
+  "archived_at": "2026-07-15T01:29:17Z",
+  "metadata": {
+    "title": "355: Tell Me That Joke Again, The One I Think Is Funny",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 1917,
+    "duration_human": "00:31:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 ungrilled cheese sandwich - moons",
+      "02 mold - 드럼, 비현실감, 드론, 목적지",
+      "03 scrambled egg - Total Egg Death"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/355-tell-me-that-joke-again-the-one-i-think-is-funny_18a6c94fd513"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/05993964c2b1a8a28fe0/355_Tell_Me_That_Joke_Again_The_One_I_Think_Is_Funny.tar"
+    }
+  }
+}
