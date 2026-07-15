@@ -1,0 +1,30 @@
+{
+  "id": "pond_8f0a856a6390",
+  "fingerprint": "8f0a856a6390c989f9dcc5babf285cf3619b696cce5da382691d039999c2afe0",
+  "archived_at": "2026-07-15T17:43:10Z",
+  "metadata": {
+    "title": "Pond",
+    "artist": "Huntsville",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3087,
+    "duration_human": "00:51:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Huntsville - (ER)",
+      "02 Huntsville - (ING)",
+      "03 Huntsville - (AGE)",
+      "04 Huntsville - (OK)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pond_8f0a856a6390"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/bc8ed54dee45c2c5293a/Pond.tar"
+    }
+  }
+}
