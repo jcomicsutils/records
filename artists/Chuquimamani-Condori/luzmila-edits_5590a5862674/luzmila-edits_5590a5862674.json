@@ -1,0 +1,30 @@
+{
+  "id": "luzmila-edits_5590a5862674",
+  "fingerprint": "5590a58626746030044d93e034e2ce08c805c65232fae615544c3e719b0c3d78",
+  "archived_at": "2026-07-15T17:26:29Z",
+  "metadata": {
+    "title": "Luzmila Edits",
+    "artist": "Chuquimamani-Condori",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 902,
+    "duration_human": "00:15:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Chuquimamani-Condori - Luzmila Heartbreak King E Dj Edit",
+      "02 Chuquimamani-Condori - Al Cautiverio E DJ Edit",
+      "03 Chuquimamani-Condori - Uru Uru Golden Child E Dj Edit",
+      "04 Chuquimamani-Condori - Thought of You E Dj Edit"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/luzmila-edits_5590a5862674"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/3f1a711d1bd9b8fd6d7d/Luzmila_Edits.tar"
+    }
+  }
+}
