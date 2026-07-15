@@ -1,0 +1,33 @@
+{
+  "id": "six-static-scenes_59c5ce6e24d1",
+  "fingerprint": "59c5ce6e24d1bef8b1b63ae89909311b6eec03f96203afa4edf4a84fcc17e2dd",
+  "archived_at": "2026-07-15T22:01:36Z",
+  "metadata": {
+    "title": "Six Static Scenes",
+    "artist": "Jacken Elswyth",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1916,
+    "duration_human": "00:31:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jacken Elswyth - Scene 1, after Hobart Smith",
+      "02 Jacken Elswyth - Scene 2, after Dock Boggs",
+      "03 Jacken Elswyth - Scene 3, after Dink Roberts",
+      "04 Jacken Elswyth - Scene 4a",
+      "05 Jacken Elswyth - Scene 4b",
+      "06 Jacken Elswyth - Scene 5",
+      "07 Jacken Elswyth - Scene 6, after Margaret Barry"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/six-static-scenes_59c5ce6e24d1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/1f83beb6fd919a7324f1/Six_Static_Scenes.tar"
+    }
+  }
+}
