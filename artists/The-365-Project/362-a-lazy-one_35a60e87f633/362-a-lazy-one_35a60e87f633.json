@@ -1,0 +1,27 @@
+{
+  "id": "362-a-lazy-one_35a60e87f633",
+  "fingerprint": "35a60e87f6338c5856a4a4e9b1c9d05efc911fabd0307636ac8b8445b8ef75fe",
+  "archived_at": "2026-07-15T01:37:32Z",
+  "metadata": {
+    "title": "362: A Lazy One",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 427,
+    "duration_human": "00:07:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - A Lazy One"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/362-a-lazy-one_35a60e87f633"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/62e87652549d463f12d1/362_A_Lazy_One.tar"
+    }
+  }
+}
