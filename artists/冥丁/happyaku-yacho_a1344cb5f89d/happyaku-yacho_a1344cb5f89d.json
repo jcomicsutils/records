@@ -1,0 +1,27 @@
+{
+  "id": "happyaku-yacho_a1344cb5f89d",
+  "fingerprint": "a1344cb5f89d328a3b68ff47b9e199c6cc7b3a86f8f2884e7106649999eecc48",
+  "archived_at": "2026-07-15T04:44:04Z",
+  "metadata": {
+    "title": "Happyaku-yachō",
+    "artist": "冥丁",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 187,
+    "duration_human": "00:03:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Meitei - Happyaku-yachō"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/happyaku-yacho_a1344cb5f89d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/135fcb6019dc3b357ef3/Happyaku-yach.tar"
+    }
+  }
+}
