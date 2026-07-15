@@ -1,0 +1,27 @@
+{
+  "id": "you-got-to-run-spirit-of-the-wind_a71fc9629e42",
+  "fingerprint": "a71fc9629e422099b94eeb7a128aa60a630d69efae96e7425ef8899dfa89c2cc",
+  "archived_at": "2026-07-15T02:34:12Z",
+  "metadata": {
+    "title": "You Got To Run (Spirit of the Wind)",
+    "artist": "Tanya Tagaq",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 222,
+    "duration_human": "00:03:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Buffy Sainte-Marie, Tanya Tagaq - You Got To Run (Spirit of the Wind)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/you-got-to-run-spirit-of-the-wind_a71fc9629e42"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/39f685c68f4f58752cbf/You_Got_To_Run_Spirit_of_the_Wind.tar"
+    }
+  }
+}
