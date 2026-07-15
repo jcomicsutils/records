@@ -1,0 +1,28 @@
+{
+  "id": "splashgirl-huntsville_d9ef003ae705",
+  "fingerprint": "d9ef003ae705a3daf2434a5d468b8f466aebd2ea85ef05e526261ec7e983700b",
+  "archived_at": "2026-07-15T17:44:04Z",
+  "metadata": {
+    "title": "Splashgirl Huntsville",
+    "artist": "Splashgirl / Huntsville",
+    "year": "2011",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1624,
+    "duration_human": "00:27:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Splashgirl / Huntsville - Splashgirl: Dagger / Paperback",
+      "02 Splashgirl / Huntsville - Huntsville: Star-spangled Swan / For The Working Class (Optimized For The Young At Heart)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/splashgirl-huntsville_d9ef003ae705"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/8c7d65aacb795a7000da/Splashgirl_Huntsville.tar"
+    }
+  }
+}
