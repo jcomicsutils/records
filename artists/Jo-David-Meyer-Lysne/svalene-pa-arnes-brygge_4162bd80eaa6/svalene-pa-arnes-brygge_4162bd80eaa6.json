@@ -1,0 +1,27 @@
+{
+  "id": "svalene-pa-arnes-brygge_4162bd80eaa6",
+  "fingerprint": "4162bd80eaa6dba66177717a3c7c76200f481e870f11902755685aeb56756c66",
+  "archived_at": "2026-07-15T03:03:10Z",
+  "metadata": {
+    "title": "Svalene på Årnes brygge",
+    "artist": "Jo David Meyer Lysne",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 329,
+    "duration_human": "00:05:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jo David Meyer Lysne - Svalene på Årnes brygge"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/svalene-pa-arnes-brygge_4162bd80eaa6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/d47b972b1250c99e0fbc/Svalene_p_rnes_brygge.tar"
+    }
+  }
+}
