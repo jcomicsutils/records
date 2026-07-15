@@ -1,0 +1,31 @@
+{
+  "id": "wooden-guitar_8b7f143964ca",
+  "fingerprint": "8b7f143964caaeed7dcaf63f36c629bb008cc0968fe2e1790f00b4d566e983f7",
+  "archived_at": "2026-07-15T21:02:12Z",
+  "metadata": {
+    "title": "Wooden Guitar",
+    "artist": "Jack Rose",
+    "year": "2003",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 4233,
+    "duration_human": "01:10:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jack Rose - Red Horse II",
+      "02 Steffen Basho-Junghans - A North Thuringian Raga",
+      "03 Tetuzi Akiyama - Time Between",
+      "04 Steffen Basho-Junghans - Smiling Penguins",
+      "05 Sir Richard Bishop - Corpuscle"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wooden-guitar_8b7f143964ca"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/7fd3427e322280c3bba2/Wooden_Guitar.tar"
+    }
+  }
+}
