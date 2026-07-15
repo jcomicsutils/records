@@ -1,0 +1,27 @@
+{
+  "id": "han-on-kalastaja_9bd07a43b518",
+  "fingerprint": "9bd07a43b518c5387869ddfcdec801863ad1255e5a07617ed35a3adb822bb57a",
+  "archived_at": "2026-07-15T02:34:52Z",
+  "metadata": {
+    "title": "Hän on kalastaja",
+    "artist": "The Mystic Revelation of Teppo Repo",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 235,
+    "duration_human": "00:03:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Joose Keskitalo, The Mystic Revelation of Teppo Repo - Hän on kalastaja"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/han-on-kalastaja_9bd07a43b518"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/8fedc1a9f28009bd30ca/H_n_on_kalastaja.tar"
+    }
+  }
+}

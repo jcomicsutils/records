@@ -149,6 +149,7 @@
 - [Text of Light](Text-of-Light/Text-of-Light.md)
 - [The 365 Project](The-365-Project/The-365-Project.md)
 - [The Jim Yoshii Pile-Up / Xiu Xiu](The-Jim-Yoshii-Pile-Up-Xiu-Xiu/The-Jim-Yoshii-Pile-Up-Xiu-Xiu.md)
+- [The Mystic Revelation of Teppo Repo](The-Mystic-Revelation-of-Teppo-Repo/The-Mystic-Revelation-of-Teppo-Repo.md)
 - [The Runners From 1984](The-Runners-From-1984/The-Runners-From-1984.md)
 - [The Sleeping Moustache](The-Sleeping-Moustache/The-Sleeping-Moustache.md)
 - [Thorr's Hammer](Thorr's-Hammer/Thorr's-Hammer.md)
