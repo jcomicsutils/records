@@ -1,0 +1,27 @@
+{
+  "id": "315-onion-kills-god_f83b8fe8763d",
+  "fingerprint": "f83b8fe8763d43b0b56b7a0344968efdc935b5a36facc9375adaa25bba20fc6e",
+  "archived_at": "2026-07-15T00:32:54Z",
+  "metadata": {
+    "title": "315: Onion Kills God",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 126,
+    "duration_human": "00:02:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Onion Kills God"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/315-onion-kills-god_f83b8fe8763d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/6db40a40220f47622f0d/315_Onion_Kills_God.tar"
+    }
+  }
+}
