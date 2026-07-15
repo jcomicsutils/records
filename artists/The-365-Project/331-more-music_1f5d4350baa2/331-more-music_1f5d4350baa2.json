@@ -1,0 +1,27 @@
+{
+  "id": "331-more-music_1f5d4350baa2",
+  "fingerprint": "1f5d4350baa20d84afe5d7a3453c1378db08420c94d804789dd1e1908d8fa98a",
+  "archived_at": "2026-07-15T00:48:28Z",
+  "metadata": {
+    "title": "331: More Music",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1683,
+    "duration_human": "00:28:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - More Music"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/331-more-music_1f5d4350baa2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/86c6acdf46e83d036b08/331_More_Music.tar"
+    }
+  }
+}
