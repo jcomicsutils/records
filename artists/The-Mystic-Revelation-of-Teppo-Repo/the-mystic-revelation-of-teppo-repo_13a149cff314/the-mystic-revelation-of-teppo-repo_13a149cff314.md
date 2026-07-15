@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/the-mystic-revelation-of-teppo-repo_13a149cff314)
+- [FileDitch](https://fileditchfiles.st/beta14/377274bb5d0d1ffa86ed/The_Mystic_Revelation_of_Teppo_Repo.tar)
 
 ## Tracklist
 

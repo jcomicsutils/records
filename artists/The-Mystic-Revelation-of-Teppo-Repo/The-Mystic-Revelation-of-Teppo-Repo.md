@@ -2,7 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
-| [The Mystic Revelation of Teppo Repo](the-mystic-revelation-of-teppo-repo_13a149cff314/the-mystic-revelation-of-teppo-repo_13a149cff314.md) | 2014 | FLAC | 00:27:29 | [IA](https://archive.org/details/the-mystic-revelation-of-teppo-repo_13a149cff314) |
+| [The Mystic Revelation of Teppo Repo](the-mystic-revelation-of-teppo-repo_13a149cff314/the-mystic-revelation-of-teppo-repo_13a149cff314.md) | 2014 | FLAC | 00:27:29 | [IA](https://archive.org/details/the-mystic-revelation-of-teppo-repo_13a149cff314) [FileDitch](https://fileditchfiles.st/beta14/377274bb5d0d1ffa86ed/The_Mystic_Revelation_of_Teppo_Repo.tar) |
 | [Luonto sisälläni](luonto-sisallani_2a927baa0806/luonto-sisallani_2a927baa0806.md) | 2016 | FLAC | 00:42:28 | [IA](https://archive.org/details/luonto-sisallani_2a927baa0806) [FileDitch](https://fileditchfiles.st/beta14/777b4d33dcafc3e9b370/Luonto_sis_ll_ni.tar) |
 | [Rangon mailla](rangon-mailla_ec055cc26ea8/rangon-mailla_ec055cc26ea8.md) | 2016 | FLAC | 00:38:56 | [IA](https://archive.org/details/rangon-mailla_ec055cc26ea8) [FileDitch](https://fileditchfiles.st/beta14/e2b342c6ee9a6851f91e/Rangon_mailla.tar) |
 | [Oi te kamuiset](oi-te-kamuiset_df475ec58638/oi-te-kamuiset_df475ec58638.md) | 2020 | FLAC | 00:36:50 | [IA](https://archive.org/details/oi-te-kamuiset_df475ec58638) [FileDitch](https://fileditchfiles.st/beta14/6ad1b666ec885fe42b5d/Oi_te_kamuiset.tar) |
