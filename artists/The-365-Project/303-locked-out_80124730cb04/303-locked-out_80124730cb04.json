@@ -1,0 +1,27 @@
+{
+  "id": "303-locked-out_80124730cb04",
+  "fingerprint": "80124730cb04b3eeee101f7e195590fe946360d7634d558bb1179c6357464516",
+  "archived_at": "2026-07-15T00:25:03Z",
+  "metadata": {
+    "title": "303: Locked Out",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 200,
+    "duration_human": "00:03:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Locked Out"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/303-locked-out_80124730cb04"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/62af9ce200d8fbe7d5e1/303_Locked_Out.tar"
+    }
+  }
+}
