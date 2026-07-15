@@ -1,0 +1,30 @@
+{
+  "id": "opium-musick_b466340272f0",
+  "fingerprint": "b466340272f06590d6cf6d4949c6221e6547c7234e3ac7492a2ba418cf4a029f",
+  "archived_at": "2026-07-15T19:47:08Z",
+  "metadata": {
+    "title": "Opium Musick",
+    "artist": "Jack Rose",
+    "year": "2003",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2075,
+    "duration_human": "00:34:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jack Rose - Yaman Blues",
+      "02 Jack Rose - Linden Ave Stomp",
+      "03 Jack Rose - Mountaintop Lamento",
+      "04 Jack Rose - Black Pearls"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/opium-musick_b466340272f0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/7b801c06634314f52564/Opium_Musick.tar"
+    }
+  }
+}
