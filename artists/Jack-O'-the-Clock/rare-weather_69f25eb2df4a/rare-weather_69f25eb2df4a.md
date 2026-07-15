@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/rare-weather_69f25eb2df4a)
+- [FileDitch](https://fileditchfiles.st/beta14/4538777905cfca10c4ec/Rare_Weather.tar)
 
 ## Tracklist
 

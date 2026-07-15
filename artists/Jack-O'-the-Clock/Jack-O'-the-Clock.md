@@ -2,7 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
-| [Rare Weather](rare-weather_69f25eb2df4a/rare-weather_69f25eb2df4a.md) | 2008 | FLAC | 01:01:07 | [IA](https://archive.org/details/rare-weather_69f25eb2df4a) |
+| [Rare Weather](rare-weather_69f25eb2df4a/rare-weather_69f25eb2df4a.md) | 2008 | FLAC | 01:01:07 | [IA](https://archive.org/details/rare-weather_69f25eb2df4a) [FileDitch](https://fileditchfiles.st/beta14/4538777905cfca10c4ec/Rare_Weather.tar) |
 | [How Are We Doing And Who Will Tell Us?](how-are-we-doing-and-who-will-tell-us_67b59014a91e/how-are-we-doing-and-who-will-tell-us_67b59014a91e.md) | 2011 | FLAC | 01:05:52 | [IA](https://archive.org/details/how-are-we-doing-and-who-will-tell-us_67b59014a91e) [FileDitch](https://fileditchfiles.st/beta14/e34800ef14e33d790957/How_Are_We_Doing_And_Who_Will_Tell_Us.tar) |
 | [All My Friends](all-my-friends_e46e45b236f4/all-my-friends_e46e45b236f4.md) | 2013 | FLAC | 00:54:20 | [IA](https://archive.org/details/all-my-friends_e46e45b236f4) [FileDitch](https://fileditchfiles.st/beta14/86cd0adbc5d8ec405832/All_My_Friends.tar) |
 | [Night Loops](night-loops_4112d806e2f5/night-loops_4112d806e2f5.md) | 2014 | FLAC | 00:54:15 | [IA](https://archive.org/details/night-loops_4112d806e2f5) [FileDitch](https://fileditchfiles.st/beta14/c89c10c8d02998fde9cb/Night_Loops.tar) |

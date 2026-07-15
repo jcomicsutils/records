@@ -26,6 +26,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/rare-weather_69f25eb2df4a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/4538777905cfca10c4ec/Rare_Weather.tar"
     }
   }
 }
