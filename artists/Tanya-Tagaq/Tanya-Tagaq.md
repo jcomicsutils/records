@@ -8,4 +8,5 @@
 | [Animism](animism_64f698839b9e/animism_64f698839b9e.md) | 2014 | FLAC | 00:49:07 | [IA](https://archive.org/details/animism_64f698839b9e) [FileDitch](https://fileditchfiles.st/beta14/5e7e4e1303b4a2657fba/Animism.tar) |
 | [Retribution](retribution_3e00d811cf64/retribution_3e00d811cf64.md) | 2016 | FLAC | 00:47:31 | [IA](https://archive.org/details/retribution_3e00d811cf64) [FileDitch](https://fileditchfiles.st/beta14/d564bca51457d9900093/Retribution.tar) |
 | [Erie Changys](erie-changys_b992108fbccd/erie-changys_b992108fbccd.md) | 2017 | FLAC | 00:04:06 | [IA](https://archive.org/details/erie-changys_b992108fbccd) [FileDitch](https://fileditchfiles.st/beta14/1078fc3620dc1099eaef/Erie_Changys.tar) |
+| [Split Tooth](split-tooth_c83f4440b35d/split-tooth_c83f4440b35d.md) | 2018 | MP3 | 05:31:14 | [IA](https://archive.org/details/split-tooth_c83f4440b35d) [FileDitch](https://fileditchfiles.st/beta14/02b53ff63ec73705a97d/Split_Tooth.tar) |
 | [Saputjiji](saputjiji_bb415cfa9b4c/saputjiji_bb415cfa9b4c.md) | 2026 | FLAC | 00:33:31 | [IA](https://archive.org/details/saputjiji_bb415cfa9b4c) [FileDitch](https://fileditchfiles.st/beta14/9bfd4c5c5222c4de1ca5/Saputjiji.tar) |

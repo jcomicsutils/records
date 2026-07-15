@@ -1,0 +1,27 @@
+{
+  "id": "split-tooth_c83f4440b35d",
+  "fingerprint": "c83f4440b35d42359c4f6ceb8569850df6409a2c900f820e93aa7d4875fe2fd5",
+  "archived_at": "2026-07-15T01:24:34Z",
+  "metadata": {
+    "title": "Split Tooth",
+    "artist": "Tanya Tagaq",
+    "year": "2018",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 19874,
+    "duration_human": "05:31:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Tanya Tagaq - Split Tooth"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/split-tooth_c83f4440b35d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/02b53ff63ec73705a97d/Split_Tooth.tar"
+    }
+  }
+}
