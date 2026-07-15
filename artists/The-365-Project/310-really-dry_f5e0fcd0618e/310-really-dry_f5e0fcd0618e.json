@@ -1,0 +1,27 @@
+{
+  "id": "310-really-dry_f5e0fcd0618e",
+  "fingerprint": "f5e0fcd0618e35d41d765c51b283ca26f76b99d86c89c3b912ceddbc9e160305",
+  "archived_at": "2026-07-15T00:29:39Z",
+  "metadata": {
+    "title": "310: Really Dry",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 764,
+    "duration_human": "00:12:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Really Dry"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/310-really-dry_f5e0fcd0618e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/755b50cbf26137bd2d52/310_Really_Dry.tar"
+    }
+  }
+}
