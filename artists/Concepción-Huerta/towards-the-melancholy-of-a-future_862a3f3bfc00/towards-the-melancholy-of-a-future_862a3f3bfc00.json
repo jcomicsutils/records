@@ -1,0 +1,31 @@
+{
+  "id": "towards-the-melancholy-of-a-future_862a3f3bfc00",
+  "fingerprint": "862a3f3bfc003c3083d51ef4e08a8ac00ee76c35d0cd35cbcca530365a33de44",
+  "archived_at": "2026-07-15T00:01:04Z",
+  "metadata": {
+    "title": "Towards the melancholy of a future",
+    "artist": "Concepción Huerta",
+    "year": "2024",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 1701,
+    "duration_human": "00:28:21",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Concepción Huerta & Hara Alonso - Memoria",
+      "02 Concepción Huerta & Hara Alonso - The artist might die - قد يموت الفنان",
+      "03 Concepción Huerta & Hara Alonso - Corrientes invisibles",
+      "04 Concepción Huerta & Hara Alonso - Del sindicato de la nostalgia",
+      "05 Concepción Huerta & Hara Alonso - Migratory winds"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/towards-the-melancholy-of-a-future_862a3f3bfc00"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/4eadbe80e047bd8b88a5/Towards_the_melancholy_of_a_future.tar"
+    }
+  }
+}
