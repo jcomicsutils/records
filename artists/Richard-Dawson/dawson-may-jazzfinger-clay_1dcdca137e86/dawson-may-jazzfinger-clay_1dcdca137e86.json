@@ -1,0 +1,47 @@
+{
+  "id": "dawson-may-jazzfinger-clay_1dcdca137e86",
+  "fingerprint": "1dcdca137e861e3e413c1d52f34fd3dc1feab9f608de1a36a041e425f0d48e1d",
+  "archived_at": "2026-07-15T22:41:11Z",
+  "metadata": {
+    "title": "Dawson May Jazzfinger Clay",
+    "artist": "Richard Dawson",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 21,
+    "duration_seconds": 4247,
+    "duration_human": "01:10:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Richard Dawson - The Final Moments of the Universe",
+      "02 Richard Dawson - Shoes",
+      "03 Richard Dawson - Ornithology",
+      "04 Richard Dawson - Hollywood Ave",
+      "05 Richard Dawson - Falconry",
+      "06 Ally May - Birds Sing",
+      "07 Ally May - Lazy Day",
+      "08 Ally May - Winter Sunrise",
+      "09 Jazzfinger - Cube That Ruined Newton",
+      "10 Ally May - Flowers and the Scent of Rain",
+      "11 Ally May - 1997 Forever",
+      "12 Ally May - 10 A.M.",
+      "13 Nev Clay - (Hurting You Was) The Last Thing on My Mind",
+      "14 Nev Clay - Nostradamus",
+      "15 Nev Clay - I Hope You Know",
+      "16 Nev Clay - Tony Robinson's Tears",
+      "17 Nev Clay - Strawberry Brunette",
+      "18 Nev Clay - Search Me",
+      "19 Nev Clay - Father's Day",
+      "20 Nev Clay - Prayer",
+      "21 Nev Clay - On the Engagement of Phil Tyler & Cath Oss"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dawson-may-jazzfinger-clay_1dcdca137e86"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/adaa913f9fd2ed9dcb2b/Dawson_May_Jazzfinger_Clay.tar"
+    }
+  }
+}
