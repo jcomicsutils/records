@@ -1,0 +1,31 @@
+{
+  "id": "los-thuthanaka_18ded7d17fe4",
+  "fingerprint": "18ded7d17fe435b7a6158e915c4ab8d435e5aefe9f0857d8c59dfd3a3161f2d8",
+  "archived_at": "2026-07-15T20:05:15Z",
+  "metadata": {
+    "title": "Los Thuthanaka",
+    "artist": "Los Thuthanaka",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 3646,
+    "duration_human": "01:00:46",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Los Thuthanaka - Q’iwanakax‐Q’iwsanakax Utjxiwa",
+      "02 Los Thuthanaka - Jallalla Ayllu Pahaza Marka Qalaqutu Pakaxa",
+      "03 Los Thuthanaka - Huayño “Ipi Saxra”",
+      "04 Los Thuthanaka - Huayño “Phuju”",
+      "05 Los Thuthanaka - Caporal “Apnaqkaya Titi”",
+      "06 Los Thuthanaka - Kullawada “Awila”",
+      "07 Los Thuthanaka - Parrandita “Sariri Tunupa”",
+      "08 Los Thuthanaka - Salay “Titi Ch’iri Siqititi”"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/los-thuthanaka_18ded7d17fe4"
+    }
+  }
+}

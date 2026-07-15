@@ -1,0 +1,31 @@
+{
+  "id": "red-horse-white-mule_d31f07a471d7",
+  "fingerprint": "d31f07a471d79b09282f703818436074741d2d2c0fd419dd1128dd32db5563aa",
+  "archived_at": "2026-07-15T20:07:27Z",
+  "metadata": {
+    "title": "Red Horse, White Mule",
+    "artist": "Jack Rose",
+    "year": "2002",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2059,
+    "duration_human": "00:34:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jack Rose - Red Horse",
+      "02 Jack Rose - Dark Was the Night, Cold Was the Ground",
+      "03 Jack Rose - White Mule Part 1",
+      "04 Jack Rose - White Mule Part 2",
+      "05 Jack Rose - Hide the Whiskey (Blues for the Colonel)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/red-horse-white-mule_d31f07a471d7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/2c8fb7aa41ad614b15b5/Red_Horse_White_Mule.tar"
+    }
+  }
+}

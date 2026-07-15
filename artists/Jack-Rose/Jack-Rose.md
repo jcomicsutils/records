@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Red Horse, White Mule](red-horse-white-mule_d31f07a471d7/red-horse-white-mule_d31f07a471d7.md) | 2002 | FLAC | 00:34:19 | [IA](https://archive.org/details/red-horse-white-mule_d31f07a471d7) [FileDitch](https://fileditchfiles.st/beta15/2c8fb7aa41ad614b15b5/Red_Horse_White_Mule.tar) |
 | [Opium Musick](opium-musick_b466340272f0/opium-musick_b466340272f0.md) | 2003 | FLAC | 00:34:35 | [IA](https://archive.org/details/opium-musick_b466340272f0) [FileDitch](https://fileditchfiles.st/beta15/7b801c06634314f52564/Opium_Musick.tar) |
 | [Raag Manifestos](raag-manifestos_37b3ace92cc2/raag-manifestos_37b3ace92cc2.md) | 2004 | FLAC | 00:46:23 | [IA](https://archive.org/details/raag-manifestos_37b3ace92cc2) [FileDitch](https://fileditchfiles.st/beta15/a87c2875cee0d349b036/Raag_Manifestos.tar) |
 | [Kensington Blues](kensington-blues_302a0f5e9640/kensington-blues_302a0f5e9640.md) | 2005 | FLAC | 00:45:00 | [IA](https://archive.org/details/kensington-blues_302a0f5e9640) [FileDitch](https://fileditchfiles.st/beta15/734eb4f0bad72b701138/Kensington_Blues.tar) |
