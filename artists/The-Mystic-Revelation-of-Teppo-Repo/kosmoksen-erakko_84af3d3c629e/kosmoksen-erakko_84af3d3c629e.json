@@ -1,0 +1,31 @@
+{
+  "id": "kosmoksen-erakko_84af3d3c629e",
+  "fingerprint": "84af3d3c629e9380343338457470475f8f12dd9cb78c9b1a060c320a3b27f696",
+  "archived_at": "2026-07-15T02:54:47Z",
+  "metadata": {
+    "title": "Kosmoksen erakko",
+    "artist": "The Mystic Revelation of Teppo Repo",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2122,
+    "duration_human": "00:35:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Mystic Revelation of Teppo Repo - Jolkottelevat sudet",
+      "02 The Mystic Revelation of Teppo Repo - Reida",
+      "03 The Mystic Revelation of Teppo Repo - Yö päivällä",
+      "04 The Mystic Revelation of Teppo Repo - Kalahari",
+      "05 The Mystic Revelation of Teppo Repo - Vuosaaren kirkonkellot"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kosmoksen-erakko_84af3d3c629e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/e3332997bfdbfa166173/Kosmoksen_erakko.tar"
+    }
+  }
+}
