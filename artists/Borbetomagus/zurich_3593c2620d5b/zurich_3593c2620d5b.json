@@ -1,0 +1,34 @@
+{
+  "id": "zurich_3593c2620d5b",
+  "fingerprint": "3593c2620d5bbb9eafba0e6f791306bc13d040e24802e45a9fc03f0c402203b6",
+  "archived_at": "2026-07-15T15:44:06Z",
+  "metadata": {
+    "title": "Zurich",
+    "artist": "Borbetomagus",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 4672,
+    "duration_human": "01:17:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Borbetomagus - Fleetwood DeKooning",
+      "02 Borbetomagus - Pink Pants",
+      "03 Borbetomagus - Ohne Fleisch Loaf",
+      "04 Borbetomagus - Ms. Fisch Brotchen",
+      "05 Borbetomagus - Fried Tampons",
+      "06 Borbetomagus - Schwarma Death",
+      "07 Borbetomagus - Nein is the Loneliest Number",
+      "08 Borbetomagus - Elaine DeFleetwood"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zurich_3593c2620d5b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/38479db713d20511f2bc/Zurich.tar"
+    }
+  }
+}
