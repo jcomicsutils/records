@@ -1,0 +1,27 @@
+{
+  "id": "312-onion-returns-via-necromancy-dog-food_f531fc84e3aa",
+  "fingerprint": "f531fc84e3aac25411a83e95009f8d447207d091104d819fe55c8caa68704a34",
+  "archived_at": "2026-07-15T00:30:53Z",
+  "metadata": {
+    "title": "312: Onion Returns via Necromancy + Dog Food",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 166,
+    "duration_human": "00:02:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Onion Returns via Necromancy + Dog Food"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/312-onion-returns-via-necromancy-dog-food_f531fc84e3aa"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/4534011f67b01d8e95e4/312_Onion_Returns_via_Necromancy_Dog_Food.tar"
+    }
+  }
+}
