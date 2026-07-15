@@ -1,0 +1,27 @@
+{
+  "id": "erie-changys_b992108fbccd",
+  "fingerprint": "b992108fbccd66993064b0a86e0622feb4567623a50619a081937c1fad686a2b",
+  "archived_at": "2026-07-15T01:10:04Z",
+  "metadata": {
+    "title": "Erie Changys",
+    "artist": "Tanya Tagaq",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 246,
+    "duration_human": "00:04:06",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Tanya Tagaq - Erie Changys"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/erie-changys_b992108fbccd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/1078fc3620dc1099eaef/Erie_Changys.tar"
+    }
+  }
+}
