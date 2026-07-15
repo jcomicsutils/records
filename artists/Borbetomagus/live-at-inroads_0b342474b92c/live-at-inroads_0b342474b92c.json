@@ -1,0 +1,29 @@
+{
+  "id": "live-at-inroads_0b342474b92c",
+  "fingerprint": "0b342474b92cba363e328365ab7ff1077a7b0e82ee91591862dbe3a32528982b",
+  "archived_at": "2026-07-15T03:41:22Z",
+  "metadata": {
+    "title": "Live at InRoads",
+    "artist": "Borbetomagus",
+    "year": "1983",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3641,
+    "duration_human": "01:00:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Borbetomagus - [untitled]",
+      "02 Borbetomagus - [untitled]",
+      "03 Borbetomagus - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-at-inroads_0b342474b92c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/e37d7057f80bf6fdf3f1/Live_at_InRoads.tar"
+    }
+  }
+}

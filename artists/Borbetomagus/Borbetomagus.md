@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Borbetomagus](borbetomagus_524dba6ecee5/borbetomagus_524dba6ecee5.md) | 1982 | MP3 | 00:42:34 | [IA](https://archive.org/details/borbetomagus_524dba6ecee5) [FileDitch](https://fileditchfiles.st/beta14/0c17827139ce92050fae/Borbetomagus_1982.tar) |
+| [Live at InRoads](live-at-inroads_0b342474b92c/live-at-inroads_0b342474b92c.md) | 1983 | FLAC | 01:00:41 | [IA](https://archive.org/details/live-at-inroads_0b342474b92c) [FileDitch](https://fileditchfiles.st/beta14/e37d7057f80bf6fdf3f1/Live_at_InRoads.tar) |
 | [Industrial Strength](industrial-strength_26c039d9a6b8/industrial-strength_26c039d9a6b8.md) | 1983 | FLAC | 00:41:32 | [IA](https://archive.org/details/industrial-strength_26c039d9a6b8) [FileDitch](https://fileditchfiles.st/beta14/0d553fb8d829a0dda757/Industrial_Strength.tar) |
 | [Borbeto Jam](borbeto-jam_ed4672e9ca1f/borbeto-jam_ed4672e9ca1f.md) | 1985 | FLAC | 00:39:31 | [IA](https://archive.org/details/borbeto-jam_ed4672e9ca1f) [FileDitch](https://fileditchfiles.st/beta14/823c9d3d756265f941a1/Borbeto_Jam.tar) |
 | [Fish That Sparkling Bubble](fish-that-sparkling-bubble_261d09a5b893/fish-that-sparkling-bubble_261d09a5b893.md) | 1988 | FLAC | 00:40:33 | [IA](https://archive.org/details/fish-that-sparkling-bubble_261d09a5b893) [FileDitch](https://fileditchfiles.st/beta14/d5bea39bc68bc6769260/Fish_That_Sparkling_Bubble.tar) |
