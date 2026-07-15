@@ -1,0 +1,27 @@
+{
+  "id": "345-sham_066796121e49",
+  "fingerprint": "066796121e498b7989d15018147a6de3f40e3946d3ea9a667c4d31ace30fdf55",
+  "archived_at": "2026-07-15T01:15:21Z",
+  "metadata": {
+    "title": "345: Sham",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 529,
+    "duration_human": "00:08:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Sham"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/345-sham_066796121e49"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/765a264f275f8ccfed00/345_Sham.tar"
+    }
+  }
+}
