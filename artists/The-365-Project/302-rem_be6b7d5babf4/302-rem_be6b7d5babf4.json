@@ -1,0 +1,27 @@
+{
+  "id": "302-rem_be6b7d5babf4",
+  "fingerprint": "be6b7d5babf4d811ff84ede5398654852a8751989ee29e7fed291596568d008e",
+  "archived_at": "2026-07-15T00:24:17Z",
+  "metadata": {
+    "title": "302: R.E.M.",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 3310,
+    "duration_human": "00:55:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - R.E.M."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/302-rem_be6b7d5babf4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/6e7729339547bd5c42f7/302_R.E.M.tar"
+    }
+  }
+}
