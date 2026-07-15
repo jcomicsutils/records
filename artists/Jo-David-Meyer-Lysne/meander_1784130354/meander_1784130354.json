@@ -1,0 +1,37 @@
+{
+  "id": "meander_1784130354",
+  "fingerprint": "ff7ca683293d718ee1c3692c45ef51303b3475d2543cf5422d9b46416d157846",
+  "archived_at": "2026-07-15T15:45:54Z",
+  "metadata": {
+    "title": "Meander",
+    "artist": "Jo David Meyer Lysne",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 1854,
+    "duration_human": "00:30:54",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Jo David Meyer Lysne, Mats Eilertsen - Intro",
+      "02 Jo David Meyer Lysne, Mats Eilertsen - Sluten",
+      "03 Jo David Meyer Lysne, Mats Eilertsen - Meander",
+      "04 Jo David Meyer Lysne, Mats Eilertsen - Steinkast",
+      "05 Jo David Meyer Lysne, Mats Eilertsen - Åpning",
+      "06 Jo David Meyer Lysne, Mats Eilertsen - Pil",
+      "07 Jo David Meyer Lysne, Mats Eilertsen - Svømmer Over",
+      "08 Jo David Meyer Lysne, Mats Eilertsen - Duolian",
+      "09 Jo David Meyer Lysne, Mats Eilertsen - Digg Dyne",
+      "10 Jo David Meyer Lysne, Mats Eilertsen - Meso",
+      "11 Jo David Meyer Lysne, Mats Eilertsen - Uro"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/meander_ff7ca683293d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/b91beb46154d83bdb964/Meander.tar"
+    }
+  }
+}

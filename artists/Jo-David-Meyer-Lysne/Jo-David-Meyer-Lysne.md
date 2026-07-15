@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Meander](meander_1784080765/meander_1784080765.md) | 2017 | FLAC | 00:30:54 | [IA](https://archive.org/details/meander_ff7ca683293d) [FileDitch](https://fileditchfiles.st/beta14/b91beb46154d83bdb964/Meander.tar) |
+| [Meander](meander_1784130354/meander_1784130354.md) | 2017 | FLAC | 00:30:54 | [IA](https://archive.org/details/meander_ff7ca683293d) [FileDitch](https://fileditchfiles.st/beta14/b91beb46154d83bdb964/Meander.tar) |
 | [Svalene på Årnes brygge](svalene-pa-arnes-brygge_4162bd80eaa6/svalene-pa-arnes-brygge_4162bd80eaa6.md) | 2018 | FLAC | 00:05:29 | [IA](https://archive.org/details/svalene-pa-arnes-brygge_4162bd80eaa6) [FileDitch](https://fileditchfiles.st/beta14/d47b972b1250c99e0fbc/Svalene_p_rnes_brygge.tar) |
 | [Henger I Luften](henger-i-luften_309cf9a89147/henger-i-luften_309cf9a89147.md) | 2019 | FLAC | 00:32:03 | [IA](https://archive.org/details/henger-i-luften_309cf9a89147) [FileDitch](https://fileditchfiles.st/beta14/115e4abbfa3e7a105177/Henger_I_Luften.tar) |
 | [Kroksjø](kroksjo_1784130349/kroksjo_1784130349.md) | 2020 | FLAC | 00:32:15 | [IA](https://archive.org/details/kroksjo_d77ca800c10f) [FileDitch](https://fileditchfiles.st/beta14/8b72064a248aeff68e65/Kroksj.tar) |
