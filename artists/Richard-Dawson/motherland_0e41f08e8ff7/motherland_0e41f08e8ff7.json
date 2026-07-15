@@ -1,0 +1,32 @@
+{
+  "id": "motherland_0e41f08e8ff7",
+  "fingerprint": "0e41f08e8ff715811fd22ed321ad1031a85172aae2e34e73f8efae6d82cfa91b",
+  "archived_at": "2026-07-15T23:56:33Z",
+  "metadata": {
+    "title": "Motherland",
+    "artist": "Richard Dawson",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1613,
+    "duration_human": "00:26:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Richard Dawson - Black Sand Finger",
+      "02 Richard Dawson - Anna",
+      "03 Richard Dawson - Gravel Flame",
+      "04 Richard Dawson - Shining Ballast",
+      "05 Richard Dawson - Snowing News",
+      "06 Richard Dawson - The Heart Beats Slowly"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/motherland_0e41f08e8ff7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/c966b27fc4b5bd0db5f8/Motherland.tar"
+    }
+  }
+}
