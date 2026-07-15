@@ -1,0 +1,28 @@
+{
+  "id": "yume-juya_300189d444b0",
+  "fingerprint": "300189d444b09aa73217307aeeb67812fb5cf2ac537a5cab65c487eab2954934",
+  "archived_at": "2026-07-15T05:37:43Z",
+  "metadata": {
+    "title": "Yume-jūya",
+    "artist": "冥丁",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 347,
+    "duration_human": "00:05:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Meitei - Yume-jūya",
+      "02 Meitei - Heiwa"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/yume-juya_300189d444b0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/7ee0a29079fc60f66ece/Yume-j_ya.tar"
+    }
+  }
+}
