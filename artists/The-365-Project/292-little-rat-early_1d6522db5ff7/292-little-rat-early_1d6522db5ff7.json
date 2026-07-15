@@ -1,0 +1,27 @@
+{
+  "id": "292-little-rat-early_1d6522db5ff7",
+  "fingerprint": "1d6522db5ff78cfce4eed9b2428dd9466322b6470aaf67bbbf959f8fc747900e",
+  "archived_at": "2026-07-15T00:06:34Z",
+  "metadata": {
+    "title": "292: Little Rat (Early)",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 228,
+    "duration_human": "00:03:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Little Rat (Early)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/292-little-rat-early_1d6522db5ff7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/0e9658c09c22d1ea2742/292_Little_Rat_Early.tar"
+    }
+  }
+}
