@@ -1,0 +1,27 @@
+{
+  "id": "variympyra_b76d01f45128",
+  "fingerprint": "b76d01f45128359b41beafd7a8577c0eb66f769fde8ee49564c254d930c826ff",
+  "archived_at": "2026-07-15T04:33:56Z",
+  "metadata": {
+    "title": "Väriympyrä",
+    "artist": "The Mystic Revelation of Teppo Repo",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 164,
+    "duration_human": "00:02:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Joose Keskitalo, The Mystic Revelation of Teppo Repo - Väriympyrä"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/variympyra_b76d01f45128"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/2c044914e3435c7b295a/V_riympyr.tar"
+    }
+  }
+}
