@@ -1,0 +1,39 @@
+{
+  "id": "kofu_069c70802078",
+  "fingerprint": "069c708020789df0889ba350f692321f0a226b74d931ed02ed7ec8785840d40f",
+  "archived_at": "2026-07-15T04:49:15Z",
+  "metadata": {
+    "title": "Kofū",
+    "artist": "冥丁",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 2737,
+    "duration_human": "00:45:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Meitei - Kintsugi",
+      "02 Meitei - Man'yō",
+      "03 Meitei - Oiran I",
+      "04 Meitei - Sadayakko",
+      "05 Meitei - En'nichi",
+      "06 Meitei - Nyōbō",
+      "07 Meitei - Urameshi-ya",
+      "08 Meitei - Oiran II",
+      "09 Meitei - Otojirō",
+      "10 Meitei - Shōnen",
+      "11 Meitei - Kyōshū",
+      "12 Meitei - Gen'ei",
+      "13 Meitei - Sūki"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kofu_069c70802078"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/6127012e8d10dd9994ff/Kof.tar"
+    }
+  }
+}
