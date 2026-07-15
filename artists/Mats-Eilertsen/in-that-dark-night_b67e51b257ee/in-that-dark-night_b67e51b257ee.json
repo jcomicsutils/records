@@ -1,0 +1,27 @@
+{
+  "id": "in-that-dark-night_b67e51b257ee",
+  "fingerprint": "b67e51b257ee80cb3460339d61a84284da46957982f4a3caca6be90d883d4d84",
+  "archived_at": "2026-07-15T00:04:34Z",
+  "metadata": {
+    "title": "In That Dark Night",
+    "artist": "Mats Eilertsen",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 376,
+    "duration_human": "00:06:16",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Jonas Sjøvaag, Mats Eilertsen, Andreas Ulvo - In That Dark Night"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/in-that-dark-night_b67e51b257ee"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/f83fa14ff40415342db3/In_That_Dark_Night.tar"
+    }
+  }
+}
