@@ -1,0 +1,27 @@
+{
+  "id": "294-i-only-have-to-make-71-more-of-these_b62f43c56ca9",
+  "fingerprint": "b62f43c56ca9c69f65e26fae07dcd8ca7dbd686b6517d02a021da088ae6f6842",
+  "archived_at": "2026-07-15T00:07:49Z",
+  "metadata": {
+    "title": "294: I Only Have to Make 71 More of These",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 71,
+    "duration_human": "00:01:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - aughghgh"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/294-i-only-have-to-make-71-more-of-these_b62f43c56ca9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/d84dd374ea0df1ecb9e9/294_I_Only_Have_to_Make_71_More_of_These.tar"
+    }
+  }
+}
