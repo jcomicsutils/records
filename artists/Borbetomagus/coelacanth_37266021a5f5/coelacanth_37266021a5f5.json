@@ -1,0 +1,28 @@
+{
+  "id": "coelacanth_37266021a5f5",
+  "fingerprint": "37266021a5f5893c769f6843cf4cdd93f3f63c7c01025c59e43c3077f8bd6421",
+  "archived_at": "2026-07-15T02:04:04Z",
+  "metadata": {
+    "title": "Coelacanth",
+    "artist": "Borbetomagus",
+    "year": "1993",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 470,
+    "duration_human": "00:07:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Borbetomagus - Coelacanth 6.27.92",
+      "02 Borbetomagus - Coelacanth 5.9.93"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/coelacanth_37266021a5f5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/4ec24389aa02dbab1347/Coelacanth_1993.tar"
+    }
+  }
+}
