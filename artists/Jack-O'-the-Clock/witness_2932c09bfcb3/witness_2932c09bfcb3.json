@@ -27,6 +27,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/witness_2932c09bfcb3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/ed6283cf2a91bb6f3c4b/Witness.tar"
     }
   }
 }
