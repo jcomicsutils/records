@@ -1,0 +1,28 @@
+{
+  "id": "experience-the-magic_eaf8f760e67a",
+  "fingerprint": "eaf8f760e67a4478dcb5538f67503e9c4a9c261bb1e2065e038622f1a9ee23c4",
+  "archived_at": "2026-07-15T03:08:11Z",
+  "metadata": {
+    "title": "Experience the Magic",
+    "artist": "Borbetomagus",
+    "year": "1993",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3530,
+    "duration_human": "00:58:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Borbetomagus - Bathed in the Blood of the Lamb",
+      "02 Borbetomagus - Grunion Run"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/experience-the-magic_eaf8f760e67a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/d7e0188a74f9c33a862d/Experience_the_Magic.tar"
+    }
+  }
+}
