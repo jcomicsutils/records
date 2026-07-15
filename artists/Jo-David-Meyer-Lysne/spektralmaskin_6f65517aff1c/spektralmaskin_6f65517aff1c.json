@@ -1,0 +1,29 @@
+{
+  "id": "spektralmaskin_6f65517aff1c",
+  "fingerprint": "6f65517aff1c43b8286eabbb4a09dbbd71c137a891f3e0d76ba6ff02086adcf7",
+  "archived_at": "2026-07-15T02:59:32Z",
+  "metadata": {
+    "title": "Spektralmaskin",
+    "artist": "Jo David Meyer Lysne",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2054,
+    "duration_human": "00:34:14",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Peder Simonsen, Jo David Meyer Lysne - I",
+      "02 Peder Simonsen, Jo David Meyer Lysne - II",
+      "03 Peder Simonsen, Jo David Meyer Lysne - III"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/spektralmaskin_6f65517aff1c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/0582d425db2ae90ac277/Spektralmaskin.tar"
+    }
+  }
+}
