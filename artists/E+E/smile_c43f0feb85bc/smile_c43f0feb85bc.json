@@ -1,0 +1,30 @@
+{
+  "id": "smile_c43f0feb85bc",
+  "fingerprint": "c43f0feb85bc2f7f8e3a36fb5de041f5828b0fb7a5e966674c6a52adb0bba18d",
+  "archived_at": "2026-07-15T21:00:58Z",
+  "metadata": {
+    "title": "Smile",
+    "artist": "E+E",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 742,
+    "duration_human": "00:12:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 E+E - Smile",
+      "02 E+E - Shenandoah",
+      "03 E+E - Dream",
+      "04 E+E - As Long as You Love Me (Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/smile_c43f0feb85bc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/8742594eb9acc6cc8f31/Smile.tar"
+    }
+  }
+}
