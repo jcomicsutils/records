@@ -1,0 +1,35 @@
+{
+  "id": "the-warm-dark-circus_caeaeecc8ffa",
+  "fingerprint": "caeaeecc8ffa0d082f60e8807bc074dd3946cec210953e6f379d2020c1fad4d2",
+  "archived_at": "2026-07-15T00:55:00Z",
+  "metadata": {
+    "title": "The Warm, Dark Circus",
+    "artist": "Jack O' the Clock",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3414,
+    "duration_human": "00:56:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Jack O' the Clock - The Ladder Slipped",
+      "02 Jack O' the Clock - Division Blues",
+      "03 Jack O' the Clock - Stuck Inside of Elvis",
+      "04 Jack O' the Clock - Sage's Song",
+      "05 Jack O' the Clock - Dürer's Rhinoceros",
+      "06 Jack O' the Clock - This Is Just What It Seems",
+      "07 Jack O' the Clock - How Are We Doing...",
+      "08 Jack O' the Clock - ...And Who Will Tell Us?",
+      "09 Jack O' the Clock - Snowman On a Ledge"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-warm-dark-circus_caeaeecc8ffa"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/a919c9e571b45b6704f1/The_Warm_Dark_Circus.tar"
+    }
+  }
+}
