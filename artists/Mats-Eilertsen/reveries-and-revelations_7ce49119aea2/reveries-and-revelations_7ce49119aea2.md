@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/reveries-and-revelations_7ce49119aea2)
+- [FileDitch](https://fileditchfiles.st/beta14/b20e2c8a0b5b11ff3258/Reveries_and_Revelations.tar)
 
 ## Tracklist
 
