@@ -1,0 +1,32 @@
+{
+  "id": "sennyu_441403625ad5",
+  "fingerprint": "441403625ad5eabf37801abd40fb230a78a8da3f8cccc1d02fa56166a3be9fe2",
+  "archived_at": "2026-07-15T05:22:31Z",
+  "metadata": {
+    "title": "Sen'nyū",
+    "artist": "冥丁",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2851,
+    "duration_human": "00:47:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Meitei - Sen'nyū - Ichi-no-yu",
+      "02 Meitei - Sen'nyū - Ni-no-yu",
+      "03 Meitei - Sen'nyū - San-no-yu",
+      "04 Meitei - Sen'nyū - Yon-no-yu",
+      "05 Meitei - Sen'nyū - Oyu",
+      "06 Meitei - Sen'nyū - Go-no-yu"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sennyu_441403625ad5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/61b33ce8796d830a6781/Sen_ny.tar"
+    }
+  }
+}
