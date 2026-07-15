@@ -1,0 +1,27 @@
+{
+  "id": "289-deadhead-crawl_2a06cfdd9967",
+  "fingerprint": "2a06cfdd9967e69ff3164492b775d2dc8254778e44ad63787335800f23fcf028",
+  "archived_at": "2026-07-15T00:04:54Z",
+  "metadata": {
+    "title": "289: Deadhead Crawl",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 2140,
+    "duration_human": "00:35:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Deadhead Crawl"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/289-deadhead-crawl_2a06cfdd9967"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/1b0c6c1961d75605e03c/289_Deadhead_Crawl.tar"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "cubo-blanco-acustico-en-parana_e5b5b8e66257",
+  "fingerprint": "e5b5b8e6625759359fc2255b64574fc242bf0c6247b9f40622194ccf2d37c78a",
+  "archived_at": "2026-07-15T00:04:57Z",
+  "metadata": {
+    "title": "cubo blanco (acústico, en paraná)",
+    "artist": "Ein Sof",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 470,
+    "duration_human": "00:07:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Ein Sof - cubo blanco (acústico, en paraná)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cubo-blanco-acustico-en-parana_e5b5b8e66257"
+    }
+  }
+}

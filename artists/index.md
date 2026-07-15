@@ -54,6 +54,7 @@
 - [Dirty Three](Dirty-Three/Dirty-Three.md)
 - [Doron Sadja](Doron-Sadja/Doron-Sadja.md)
 - [Egor Klochikhin](Egor-Klochikhin/Egor-Klochikhin.md)
+- [Ein Sof](Ein-Sof/Ein-Sof.md)
 - [Ensemble Pearl](Ensemble-Pearl/Ensemble-Pearl.md)
 - [Ever Present Orchestra](Ever-Present-Orchestra/Ever-Present-Orchestra.md)
 - [Exploring Jezebel](Exploring-Jezebel/Exploring-Jezebel.md)
