@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/the-liquified-throne-of-simplicity_25eb802b82ae)
+- [FileDitch](https://fileditchfiles.st/beta14/5cd460b4094d85cc1734/The_Liquified_Throne_of_Simplicity.tar)
 
 ## Tracklist
 
