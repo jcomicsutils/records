@@ -1,0 +1,27 @@
+{
+  "id": "346-basketball_2f5b3396f92e",
+  "fingerprint": "2f5b3396f92e75ae1751470c594f898577b31ec29f0963981b042580644873e2",
+  "archived_at": "2026-07-15T01:15:53Z",
+  "metadata": {
+    "title": "346: Basketball",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 826,
+    "duration_human": "00:13:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - My Song 95"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/346-basketball_2f5b3396f92e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/dbeb9e8edd88e64502ef/346_Basketball.tar"
+    }
+  }
+}
