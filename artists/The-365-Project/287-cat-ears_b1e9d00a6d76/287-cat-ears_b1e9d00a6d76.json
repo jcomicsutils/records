@@ -1,0 +1,27 @@
+{
+  "id": "287-cat-ears_b1e9d00a6d76",
+  "fingerprint": "b1e9d00a6d7614b30602d3e6537974921c50d5611b879ac7d7f890697d023b4c",
+  "archived_at": "2026-07-15T00:03:33Z",
+  "metadata": {
+    "title": "287: Cat Ears",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 54,
+    "duration_human": "00:00:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Cat Ears"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/287-cat-ears_b1e9d00a6d76"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/9419c9ff4d0953782380/287_Cat_Ears.tar"
+    }
+  }
+}
