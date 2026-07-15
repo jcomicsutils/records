@@ -1,0 +1,33 @@
+{
+  "id": "betwixt-between-1_f4a473c658c0",
+  "fingerprint": "f4a473c658c00877a3b782dbd794b8e22f18cbeed61d953605109db43c2dfebf",
+  "archived_at": "2026-07-15T21:38:05Z",
+  "metadata": {
+    "title": "Betwixt & Between 1",
+    "artist": "Jacken Elswyth",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1742,
+    "duration_human": "00:29:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jacken Elswyth, Laurel Uziell and David Grundy - Barlow Knife",
+      "02 Jacken Elswyth, Laurel Uziell and David Grundy - Rye Whiskey",
+      "03 Jacken Elswyth, Laurel Uziell and David Grundy - Going Across the Sea",
+      "04 Jacken Elswyth, Laurel Uziell and David Grundy - Groundhog",
+      "05 Jacken Elswyth, Laurel Uziell and David Grundy - Shove that Pig's Foot Further in the Fire",
+      "06 Jacken Elswyth, Laurel Uziell and David Grundy - Cooperworks 1",
+      "07 Jacken Elswyth, Laurel Uziell and David Grundy - Cooperworks 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/betwixt-between-1_f4a473c658c0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/e9a8d8bbd1103e3691f4/Betwixt_Between_1.tar"
+    }
+  }
+}
