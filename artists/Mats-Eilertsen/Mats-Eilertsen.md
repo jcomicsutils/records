@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Parish](parish_e88197a93b6f/parish_e88197a93b6f.md) | 2005 | FLAC | 01:11:20 | [IA](https://archive.org/details/parish_e88197a93b6f) [FileDitch](https://fileditchfiles.st/beta14/18f41e2d5fed7cf004c4/Parish.tar) |
 | [Flux](flux_2b75be512198/flux_2b75be512198.md) | 2006 | FLAC | 00:43:38 | [IA](https://archive.org/details/flux_2b75be512198) [FileDitch](https://fileditchfiles.st/beta14/eb5a2dfe6b331ddf56fb/Flux.tar) |
 | [Elegy](elegy_f873c0a0af54/elegy_f873c0a0af54.md) | 2011 | ALAC | 00:53:58 | [IA](https://archive.org/details/elegy_f873c0a0af54) [FileDitch](https://fileditchfiles.st/beta14/90ff6ab6da9be509ec2b/Elegy.tar) |
 | [Meander](meander_ff7ca683293d/meander_ff7ca683293d.md) | 2017 | FLAC | 00:30:54 | [IA](https://archive.org/details/meander_ff7ca683293d) [FileDitch](https://fileditchfiles.st/beta14/b91beb46154d83bdb964/Meander.tar) |

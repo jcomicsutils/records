@@ -1,0 +1,42 @@
+{
+  "id": "parish_e88197a93b6f",
+  "fingerprint": "e88197a93b6fa27076c73ec01d587402fb53eac9da48a0e13ea3b3fa7612660e",
+  "archived_at": "2026-07-15T01:07:22Z",
+  "metadata": {
+    "title": "Parish",
+    "artist": "Mats Eilertsen",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_seconds": 4280,
+    "duration_human": "01:11:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Thomas Strønen, Bobo Stenson, Fredrik Ljungkvist, Mats Eilertsen - Improvisation I",
+      "02 Thomas Strønen, Bobo Stenson, Fredrik Ljungkvist, Mats Eilertsen - Suite for Trio I",
+      "03 Thomas Strønen, Bobo Stenson, Fredrik Ljungkvist, Mats Eilertsen - Suite for Trio II",
+      "04 Thomas Strønen, Bobo Stenson, Fredrik Ljungkvist, Mats Eilertsen - Suite for Trio III",
+      "05 Thomas Strønen, Bobo Stenson, Fredrik Ljungkvist, Mats Eilertsen - Suite for Trio IV",
+      "06 Thomas Strønen, Bobo Stenson, Fredrik Ljungkvist, Mats Eilertsen - Improvisation II",
+      "07 Thomas Strønen, Bobo Stenson, Fredrik Ljungkvist, Mats Eilertsen - Easta",
+      "08 Thomas Strønen, Bobo Stenson, Fredrik Ljungkvist, Mats Eilertsen - Daddycation",
+      "09 Thomas Strønen, Bobo Stenson, Fredrik Ljungkvist, Mats Eilertsen - Travel I",
+      "10 Thomas Strønen, Bobo Stenson, Fredrik Ljungkvist, Mats Eilertsen - Quartz",
+      "11 Thomas Strønen, Bobo Stenson, Fredrik Ljungkvist, Mats Eilertsen - Murring",
+      "12 Thomas Strønen, Bobo Stenson, Fredrik Ljungkvist, Mats Eilertsen - Travel II",
+      "13 Thomas Strønen, Bobo Stenson, Fredrik Ljungkvist, Mats Eilertsen - In Motion",
+      "14 Thomas Strønen, Bobo Stenson, Fredrik Ljungkvist, Mats Eilertsen - C Moll Maj",
+      "15 Thomas Strønen, Bobo Stenson, Fredrik Ljungkvist, Mats Eilertsen - Improvisation III",
+      "16 Thomas Strønen, Bobo Stenson, Fredrik Ljungkvist, Mats Eilertsen - Nu"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/parish_e88197a93b6f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/18f41e2d5fed7cf004c4/Parish.tar"
+    }
+  }
+}
