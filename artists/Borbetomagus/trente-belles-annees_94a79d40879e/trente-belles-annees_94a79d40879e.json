@@ -1,0 +1,27 @@
+{
+  "id": "trente-belles-annees_94a79d40879e",
+  "fingerprint": "94a79d40879e33b97592192a23c0b2ef7a0010bebcd7ef99992b55158e2d004a",
+  "archived_at": "2026-07-15T05:46:41Z",
+  "metadata": {
+    "title": "Trente Belles Années",
+    "artist": "Borbetomagus",
+    "year": "2009",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 2775,
+    "duration_human": "00:46:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Borbetomagus - Trente Belles Années"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/trente-belles-annees_94a79d40879e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/5d51435342150ec205fc/Trente_Belles_Ann_es.tar"
+    }
+  }
+}
