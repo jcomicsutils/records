@@ -1,0 +1,27 @@
+{
+  "id": "286-turntable-music_1c004ac022c2",
+  "fingerprint": "1c004ac022c2ca0389b715772c05e2329544b387bdb153b0ea8b7bd50d85e7c4",
+  "archived_at": "2026-07-15T00:02:59Z",
+  "metadata": {
+    "title": "286: Turntable Music",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 473,
+    "duration_human": "00:07:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - Turntable Music"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/286-turntable-music_1c004ac022c2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/1a45a5b9c1f272e65899/286_Turntable_Music.tar"
+    }
+  }
+}
