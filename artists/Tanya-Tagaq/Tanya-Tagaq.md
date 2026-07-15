@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Sinaa](sinaa_9397cc9d8649/sinaa_9397cc9d8649.md) | 2004 | FLAC | 00:45:47 | [IA](https://archive.org/details/sinaa_9397cc9d8649) [FileDitch](https://fileditchfiles.st/beta14/ad0c07edcfe3e6c833b7/Sinaa.tar) |
 | [Auk / Blood](auk-blood_cdcc3a7cdc23/auk-blood_cdcc3a7cdc23.md) | 2008 | FLAC | 00:53:04 | [IA](https://archive.org/details/auk-blood_cdcc3a7cdc23) [FileDitch](https://fileditchfiles.st/beta14/26ffd068207e716fc5ca/Auk_-_Blood.tar) |
 | [Anuraagtuq](anuraagtuq_4faa9c425e08/anuraagtuq_4faa9c425e08.md) | 2011 | FLAC | 00:56:33 | [IA](https://archive.org/details/anuraagtuq_4faa9c425e08) [FileDitch](https://fileditchfiles.st/beta14/b61e1575441bea8e485b/Anuraagtuq.tar) |
 | [Animism](animism_64f698839b9e/animism_64f698839b9e.md) | 2014 | FLAC | 00:49:07 | [IA](https://archive.org/details/animism_64f698839b9e) [FileDitch](https://fileditchfiles.st/beta14/5e7e4e1303b4a2657fba/Animism.tar) |
