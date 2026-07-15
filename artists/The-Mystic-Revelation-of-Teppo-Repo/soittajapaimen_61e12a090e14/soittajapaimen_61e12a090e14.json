@@ -1,0 +1,27 @@
+{
+  "id": "soittajapaimen_61e12a090e14",
+  "fingerprint": "61e12a090e14668f269beb1b64ec5a8ae01d4153dd254d65f2527a4c4f6b1531",
+  "archived_at": "2026-07-15T04:05:08Z",
+  "metadata": {
+    "title": "Soittajapaimen",
+    "artist": "The Mystic Revelation of Teppo Repo",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 225,
+    "duration_human": "00:03:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Mystic Revelation of Teppo Repo - Soittajapaimen"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/soittajapaimen_61e12a090e14"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/c36f9d123168600556b0/Soittajapaimen.tar"
+    }
+  }
+}
