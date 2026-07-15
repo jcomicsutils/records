@@ -1,0 +1,35 @@
+{
+  "id": "dr-ragtime-his-pals_57aca266b735",
+  "fingerprint": "57aca266b7355b943fb66e73bcb8775324f93e099cb1053208333df88b53d24e",
+  "archived_at": "2026-07-15T17:49:15Z",
+  "metadata": {
+    "title": "Dr. Ragtime & His Pals",
+    "artist": "Jack Rose",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1729,
+    "duration_human": "00:28:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jack Rose - Miss May's Place",
+      "02 Jack Rose - Revolt",
+      "03 Jack Rose - Bells",
+      "04 Jack Rose - Knoxville Blues",
+      "05 Jack Rose - Soft Steel Piston",
+      "06 Jack Rose - Linden Avenue Stomp",
+      "07 Jack Rose - Blessed Be the Name of the Lord",
+      "08 Jack Rose - Walkin' Blues",
+      "09 Jack Rose - Buckdancer's Choice"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dr-ragtime-his-pals_57aca266b735"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/1715c9d1dd2259446085/Dr._Ragtime_His_Pals.tar"
+    }
+  }
+}

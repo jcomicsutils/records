@@ -79,6 +79,7 @@
 - [Huntsville](Huntsville/Huntsville.md)
 - [If-Then-Else](If-Then-Else/If-Then-Else.md)
 - [Jack O' the Clock](Jack-O'-the-Clock/Jack-O'-the-Clock.md)
+- [Jack Rose](Jack-Rose/Jack-Rose.md)
 - [Jo David Meyer Lysne](Jo-David-Meyer-Lysne/Jo-David-Meyer-Lysne.md)
 - [KTL](KTL/KTL.md)
 - [Kaatayra](Kaatayra/Kaatayra.md)
