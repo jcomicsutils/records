@@ -1,0 +1,27 @@
+{
+  "id": "325-i-dont-want-to_9fd25084e22f",
+  "fingerprint": "9fd25084e22fb73f11b8e3a301c81f968905bdbb53e967a058040b1c61a6a822",
+  "archived_at": "2026-07-15T00:43:48Z",
+  "metadata": {
+    "title": "325: I Don't Want To",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 164,
+    "duration_human": "00:02:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - I Don't Want To"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/325-i-dont-want-to_9fd25084e22f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/844fc377ddf3523cc4f0/325_I_Don_t_Want_To.tar"
+    }
+  }
+}
