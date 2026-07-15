@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Luonto sisälläni](luonto-sisallani_2a927baa0806/luonto-sisallani_2a927baa0806.md) | 2016 | FLAC | 00:42:28 | [IA](https://archive.org/details/luonto-sisallani_2a927baa0806) [FileDitch](https://fileditchfiles.st/beta14/777b4d33dcafc3e9b370/Luonto_sis_ll_ni.tar) |
+| [Rangon mailla](rangon-mailla_ec055cc26ea8/rangon-mailla_ec055cc26ea8.md) | 2016 | FLAC | 00:38:56 | [IA](https://archive.org/details/rangon-mailla_ec055cc26ea8) [FileDitch](https://fileditchfiles.st/beta14/e2b342c6ee9a6851f91e/Rangon_mailla.tar) |
 | [Oi te kamuiset](oi-te-kamuiset_df475ec58638/oi-te-kamuiset_df475ec58638.md) | 2020 | FLAC | 00:36:50 | [IA](https://archive.org/details/oi-te-kamuiset_df475ec58638) [FileDitch](https://fileditchfiles.st/beta14/6ad1b666ec885fe42b5d/Oi_te_kamuiset.tar) |
 | [Orfiset laulut I-IV](orfiset-laulut-i-iv_ba74723cc864/orfiset-laulut-i-iv_ba74723cc864.md) | 2021 | FLAC | 03:19:45 | [IA](https://archive.org/details/orfiset-laulut-i-iv_ba74723cc864) [FileDitch](https://fileditchfiles.st/beta14/fa1ac81ffa96544fbe4e/Orfiset_laulut_I-IV.tar) |
 | [Kosmoksen erakko](kosmoksen-erakko_84af3d3c629e/kosmoksen-erakko_84af3d3c629e.md) | 2022 | FLAC | 00:35:22 | [IA](https://archive.org/details/kosmoksen-erakko_84af3d3c629e) [FileDitch](https://fileditchfiles.st/beta14/e3332997bfdbfa166173/Kosmoksen_erakko.tar) |

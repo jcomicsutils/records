@@ -1,0 +1,33 @@
+{
+  "id": "rangon-mailla_ec055cc26ea8",
+  "fingerprint": "ec055cc26ea81a99428727e947ab21ed35c0068703501458cb0423331dc1ca4a",
+  "archived_at": "2026-07-15T04:04:10Z",
+  "metadata": {
+    "title": "Rangon mailla",
+    "artist": "The Mystic Revelation of Teppo Repo",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2336,
+    "duration_human": "00:38:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Mystic Revelation of Teppo Repo - Sukeltaja",
+      "02 The Mystic Revelation of Teppo Repo - Rangon mailla",
+      "03 The Mystic Revelation of Teppo Repo - Puitten istuttaja",
+      "04 The Mystic Revelation of Teppo Repo - Жон-Жон",
+      "05 The Mystic Revelation of Teppo Repo - Apinainen",
+      "06 The Mystic Revelation of Teppo Repo - Maria",
+      "07 The Mystic Revelation of Teppo Repo - Kullankaivaja"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rangon-mailla_ec055cc26ea8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/e2b342c6ee9a6851f91e/Rangon_mailla.tar"
+    }
+  }
+}
