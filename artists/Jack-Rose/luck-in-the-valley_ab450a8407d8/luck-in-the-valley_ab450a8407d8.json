@@ -1,0 +1,36 @@
+{
+  "id": "luck-in-the-valley_ab450a8407d8",
+  "fingerprint": "ab450a8407d8ed51035603fbd5144ac81a854a4b5593c0b95f4fce918b7cb77a",
+  "archived_at": "2026-07-15T19:38:49Z",
+  "metadata": {
+    "title": "Luck in the Valley",
+    "artist": "Jack Rose",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2224,
+    "duration_human": "00:37:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jack Rose - Blues for Percy Danforth",
+      "02 Jack Rose - Lick Mountain Ramble",
+      "03 Jack Rose - Woodpiles on the Side of the Road",
+      "04 Jack Rose - When Tailgate Drops, the Bullshit Stops",
+      "05 Jack Rose - Moon in the Gutter",
+      "06 Jack Rose - Luck in the Valley",
+      "07 Jack Rose - Saint Louis Blues",
+      "08 Jack Rose - Tree in the Valley",
+      "09 Jack Rose - Everybody Ought to Pray Sometimes",
+      "10 Jack Rose - West Coast Blues"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/luck-in-the-valley_ab450a8407d8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/59108f8f286b464b8fb7/Luck_in_the_Valley.tar"
+    }
+  }
+}
