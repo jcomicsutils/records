@@ -1,0 +1,32 @@
+{
+  "id": "distant-sediments_1784080552",
+  "fingerprint": "c8c2fe7dad5ce95c548ba0d0f155fa64a7b3ec522d853fd89600a263b16fc706",
+  "archived_at": "2026-07-15T01:55:52Z",
+  "metadata": {
+    "title": "Distant Sediments",
+    "artist": "Jo David Meyer Lysne",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2644,
+    "duration_human": "00:44:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Oh No Noh, Midori Hirano, Jo David Meyer Lysne - Mhjlmr",
+      "02 Oh No Noh, Midori Hirano, Jo David Meyer Lysne - Jlmrmh",
+      "03 Oh No Noh, Midori Hirano, Jo David Meyer Lysne - Mrmhjl"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/distant-sediments_1778796089"
+    },
+    "catbox": {
+      "url": "https://files.catbox.moe/plgod4.tar"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/dcc883ae6289b760a620/Distant_Sediments.tar"
+    }
+  }
+}
