@@ -1,0 +1,33 @@
+{
+  "id": "350-density-correlation-is-not-dissimilar_4e2ce1cbba54",
+  "fingerprint": "4e2ce1cbba54dec80c2e7bb2be3c8a2bc1551cc743c8ed886e18191d1dde640f",
+  "archived_at": "2026-07-15T01:19:57Z",
+  "metadata": {
+    "title": "350: Density Correlation Is Not Dissimilar",
+    "artist": "The 365 Project",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 7,
+    "duration_seconds": 976,
+    "duration_human": "00:16:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The 365 Project - [untitled]",
+      "02 The 365 Project - Every Bad Thing I Ever Did Was Actually Awesome",
+      "03 Starfish Boyfriend - urgh",
+      "04 The 365 Project - Stone Roses Initiate!",
+      "05 ungrilled cheese sandwich - Camera Flash",
+      "06 ungrilled cheese sandwich - Happy birthday balloon sound effects",
+      "07 ungrilled cheese sandwich - i do not like stink bugs!! they smell bad!!!!!!!!"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/350-density-correlation-is-not-dissimilar_4e2ce1cbba54"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/aef94ef009c32c299a89/350_Density_Correlation_Is_Not_Dissimilar.tar"
+    }
+  }
+}
