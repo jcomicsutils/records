@@ -1,0 +1,29 @@
+{
+  "id": "no-hate-is-a-cold-star_ccadcd95ac08",
+  "fingerprint": "ccadcd95ac084c91ce49a49d54275732a97103edcbe4974d88375d0aaa2b825f",
+  "archived_at": "2026-07-16T18:41:58Z",
+  "metadata": {
+    "title": "No Hate Is A Cold Star",
+    "artist": "7038634357",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 716,
+    "duration_human": "00:11:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 7038634357 - No Hate Is a Cold Star",
+      "02 7038634357 - Disssipate",
+      "03 7038634357 - No Hate Is a Cold Star  (Wa?ste Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/no-hate-is-a-cold-star_ccadcd95ac08"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/3c0bcc91860e6f86c2b2/No_Hate_Is_A_Cold_Star.tar"
+    }
+  }
+}
