@@ -1,0 +1,32 @@
+{
+  "id": "electric_6036298f50d4",
+  "fingerprint": "6036298f50d428314a1dee71b06fd872ababa72b5b8c7419930bb246cd4052b6",
+  "archived_at": "2026-07-16T16:15:00Z",
+  "metadata": {
+    "title": "Electric",
+    "artist": "7038634357",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1110,
+    "duration_human": "00:18:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 7038634357 - Menu",
+      "02 7038634357 - Runway",
+      "03 7038634357 - Overalign",
+      "04 7038634357 - Sink",
+      "05 7038634357 - Rose",
+      "06 7038634357 - Daybreak"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/electric_6036298f50d4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/3f484753851f3094b99d/Electric.tar"
+    }
+  }
+}
