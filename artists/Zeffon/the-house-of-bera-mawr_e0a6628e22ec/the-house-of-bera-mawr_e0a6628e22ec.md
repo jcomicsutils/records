@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/the-house-of-bera-mawr_e0a6628e22ec)
+- [FileDitch](https://fileditchfiles.st/beta15/df3a0974342d38d39a4f/The_House_of_Bera_Mawr.tar)
 
 ## Tracklist
 
