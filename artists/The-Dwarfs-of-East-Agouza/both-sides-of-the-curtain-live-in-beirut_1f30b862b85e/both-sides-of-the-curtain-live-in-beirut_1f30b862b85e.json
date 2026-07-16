@@ -1,0 +1,28 @@
+{
+  "id": "both-sides-of-the-curtain-live-in-beirut_1f30b862b85e",
+  "fingerprint": "1f30b862b85e7fb7d4a35dddfe6c8d4ca0206483b45f48be4cf8af42e3869cce",
+  "archived_at": "2026-07-16T03:29:49Z",
+  "metadata": {
+    "title": "Both Sides of the Curtain (Live In Beirut)",
+    "artist": "The Dwarfs of East Agouza",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2116,
+    "duration_human": "00:35:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Dwarfs of East Agouza - [untitled]",
+      "02 The Dwarfs of East Agouza - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/both-sides-of-the-curtain-live-in-beirut_1f30b862b85e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/3bd9bf4178b6ee730357/Both_Sides_of_the_Curtain_Live_In_Beirut.tar"
+    }
+  }
+}
