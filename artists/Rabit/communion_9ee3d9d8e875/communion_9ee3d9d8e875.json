@@ -1,0 +1,37 @@
+{
+  "id": "communion_9ee3d9d8e875",
+  "fingerprint": "9ee3d9d8e875fe28a4dac715452f67aca52e2955447c7ef1c4953bfea70d338b",
+  "archived_at": "2026-07-16T18:33:44Z",
+  "metadata": {
+    "title": "Communion",
+    "artist": "Rabit",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 1936,
+    "duration_human": "00:32:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rabit - Advent",
+      "02 Rabit - Snow Leopard",
+      "03 Rabit - Fetal",
+      "04 Rabit - Artemis",
+      "05 Rabit - Ox",
+      "06 Rabit - Flesh Covers the Bone",
+      "07 Rabit - Pandemic",
+      "08 Rabit - Burnerz",
+      "09 Rabit - Glass Harp Interlude",
+      "10 Rabit - Black Gates",
+      "11 Rabit - Trapped In This Body"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/communion_9ee3d9d8e875"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/d4b1c9bb72020145a229/Communion.tar"
+    }
+  }
+}
