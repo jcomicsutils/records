@@ -1,0 +1,27 @@
+{
+  "id": "sooner-or-later-hope-he-calls-back_cda13a8ffb84",
+  "fingerprint": "cda13a8ffb8418462ea50af3b23657c3ce3fd56410e4bdbbab254af5991a004b",
+  "archived_at": "2026-07-16T22:17:31Z",
+  "metadata": {
+    "title": "sooner or later / hope he calls back",
+    "artist": ".cutspace",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 195,
+    "duration_human": "00:03:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 .cutspace, Lade - sooner or later / hope he calls back"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sooner-or-later-hope-he-calls-back_cda13a8ffb84"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/5814e7bb4044d98d8382/sooner_or_later_-_hope_he_calls_back.tar"
+    }
+  }
+}
