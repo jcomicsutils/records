@@ -105,6 +105,7 @@
 - [Luke Chaos](Luke-Chaos/Luke-Chaos.md)
 - [Lupercais](Lupercais/Lupercais.md)
 - [Lástima](Lástima/Lástima.md)
+- [MON/KU](MONKU/MONKU.md)
 - [Mademoiselle Marchand](Mademoiselle-Marchand/Mademoiselle-Marchand.md)
 - [Mailcop](Mailcop/Mailcop.md)
 - [Makers](Makers/Makers.md)

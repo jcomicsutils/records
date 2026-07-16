@@ -1,0 +1,27 @@
+{
+  "id": "fluff_4b1abba3df27",
+  "fingerprint": "4b1abba3df27fadf7cfe196ae6022a9837d52788fad42a4649dfacd983dfbada",
+  "archived_at": "2026-07-16T15:48:29Z",
+  "metadata": {
+    "title": "Fluff",
+    "artist": "MON/KU",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 413,
+    "duration_human": "00:06:53",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 MON/KU - Fluff"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fluff_4b1abba3df27"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/fb10ab598f2674bc4f35/Fluff.tar"
+    }
+  }
+}
