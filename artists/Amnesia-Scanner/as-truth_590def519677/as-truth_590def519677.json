@@ -1,0 +1,28 @@
+{
+  "id": "as-truth_590def519677",
+  "fingerprint": "590def5196777d34514253510a2f0f8594a602a80abd696e46214338e049b7da",
+  "archived_at": "2026-07-16T21:19:52Z",
+  "metadata": {
+    "title": "AS Truth",
+    "artist": "Amnesia Scanner",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 442,
+    "duration_human": "00:07:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Amnesia Scanner - AS Truth",
+      "02 Amnesia Scanner - AS Brieth"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/as-truth_590def519677"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/88e8673665a16cac046d/AS_Truth.tar"
+    }
+  }
+}
