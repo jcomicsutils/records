@@ -1,0 +1,35 @@
+{
+  "id": "lexachast_4ba8a5a04c15",
+  "fingerprint": "4ba8a5a04c152294ea0b49f69a54dd592efa272645347cc963a41c2c7bb17b15",
+  "archived_at": "2026-07-16T22:07:43Z",
+  "metadata": {
+    "title": "Lexachast",
+    "artist": "Amnesia Scanner",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2042,
+    "duration_human": "00:34:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Amnesia Scanner, Bill Kouligas - Lexachast I",
+      "02 Amnesia Scanner, Bill Kouligas - Lexachast II",
+      "03 Amnesia Scanner, Bill Kouligas - Lexachast III",
+      "04 Amnesia Scanner, Bill Kouligas - Lexachast IV",
+      "05 Amnesia Scanner, Bill Kouligas - Lexachast V",
+      "06 Amnesia Scanner, Bill Kouligas - Lexachast VI",
+      "07 Amnesia Scanner, Bill Kouligas - Lexachast VII",
+      "08 Amnesia Scanner, Bill Kouligas - Lexachast VIII",
+      "09 Amnesia Scanner, Bill Kouligas - Lexachast IX"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lexachast_4ba8a5a04c15"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/b3a6dd0573d41f1789ea/Lexachast.tar"
+    }
+  }
+}
