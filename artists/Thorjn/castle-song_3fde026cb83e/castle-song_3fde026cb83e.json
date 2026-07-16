@@ -1,0 +1,27 @@
+{
+  "id": "castle-song_3fde026cb83e",
+  "fingerprint": "3fde026cb83e1fb00ce5e66a8bf797ac6a11eb23db983d41f9cb18c731886db1",
+  "archived_at": "2026-07-16T22:55:43Z",
+  "metadata": {
+    "title": "Castle Song",
+    "artist": "Thorjn",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 195,
+    "duration_human": "00:03:15",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Thorjn - Castle Song"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/castle-song_3fde026cb83e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/bc4a1fbf4d68119968e3/Castle_Song.tar"
+    }
+  }
+}
