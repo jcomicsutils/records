@@ -1,0 +1,27 @@
+{
+  "id": "mosss-lilypad_e9d36ed5aec3",
+  "fingerprint": "e9d36ed5aec3810e56531dff19ff0ef3171019f55d0853df7c2ec63df39dd19c",
+  "archived_at": "2026-07-16T23:59:16Z",
+  "metadata": {
+    "title": "Moss's Lilypad",
+    "artist": "Thorjn",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 265,
+    "duration_human": "00:04:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Thorjn - Moss's Lilypad"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mosss-lilypad_e9d36ed5aec3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/b701eb463f1f3e049950/Moss_s_Lilypad.tar"
+    }
+  }
+}

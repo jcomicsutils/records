@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Moss's Lilypad](mosss-lilypad_e9d36ed5aec3/mosss-lilypad_e9d36ed5aec3.md) | 2021 | FLAC | 00:04:25 | [IA](https://archive.org/details/mosss-lilypad_e9d36ed5aec3) [FileDitch](https://fileditchfiles.st/beta15/b701eb463f1f3e049950/Moss_s_Lilypad.tar) |
 | [Green Tail](green-tail_9080305ea431/green-tail_9080305ea431.md) | 2021 | FLAC | 00:04:57 | [IA](https://archive.org/details/green-tail_9080305ea431) [FileDitch](https://fileditchfiles.st/beta15/b832979a4229c4b36ef7/Green_Tail.tar) |
 | [Fruit Birth](fruit-birth_b010163449cf/fruit-birth_b010163449cf.md) | 2022 | FLAC | 00:03:17 | [IA](https://archive.org/details/fruit-birth_b010163449cf) [FileDitch](https://fileditchfiles.st/beta15/911326e9aaec6f14e1b7/Fruit_Birth.tar) |
 | [Feathers](feathers_b9395ca7e36e/feathers_b9395ca7e36e.md) | 2022 | FLAC | 00:04:16 | [IA](https://archive.org/details/feathers_b9395ca7e36e) [FileDitch](https://fileditchfiles.st/beta15/8975c22949dd3c286ee3/Feathers.tar) |
