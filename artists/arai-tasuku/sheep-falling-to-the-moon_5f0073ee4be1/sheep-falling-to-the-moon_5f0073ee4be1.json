@@ -1,0 +1,38 @@
+{
+  "id": "sheep-falling-to-the-moon_5f0073ee4be1",
+  "fingerprint": "5f0073ee4be116694ff6049da6b89c1ef6416bdcf797d93c8df8a3de99e247a4",
+  "archived_at": "2026-07-16T23:19:44Z",
+  "metadata": {
+    "title": "Sheep falling to the moon",
+    "artist": "arai tasuku",
+    "year": "",
+    "codec": "MP3",
+    "num_tracks": 12,
+    "duration_seconds": 3922,
+    "duration_human": "01:05:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 arai tasuku - Garden",
+      "02 arai tasuku - Been a while feat.coma",
+      "03 arai tasuku - Black sea",
+      "04 arai tasuku - Tick slow feat.coma",
+      "05 arai tasuku - 仕切られた世界の獣 feat.藤江香織",
+      "06 arai tasuku - still alive",
+      "07 arai tasuku - Rule",
+      "08 arai tasuku - Atrophy in Silence feat.coma",
+      "09 arai tasuku - Re:Tick slow feat.coma",
+      "10 arai tasuku - Re:Been a while feat.coma",
+      "11 arai tasuku - Never ending child",
+      "12 arai tasuku - End tune"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sheep-falling-to-the-moon_5f0073ee4be1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/a5c78b99f94598a8f067/Sheep_falling_to_the_moon.tar"
+    }
+  }
+}
