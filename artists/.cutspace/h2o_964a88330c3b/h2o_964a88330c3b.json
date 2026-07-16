@@ -1,0 +1,27 @@
+{
+  "id": "h2o_964a88330c3b",
+  "fingerprint": "964a88330c3b80458ba2cd1e6fe1e675da967d43335a4b4c332b3aa71bb9e80b",
+  "archived_at": "2026-07-16T22:04:43Z",
+  "metadata": {
+    "title": "h2o",
+    "artist": ".cutspace",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 91,
+    "duration_human": "00:01:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 .cutspace, Stef - h2o"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/h2o_964a88330c3b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/33954bcd5adab4609858/h2o.tar"
+    }
+  }
+}
