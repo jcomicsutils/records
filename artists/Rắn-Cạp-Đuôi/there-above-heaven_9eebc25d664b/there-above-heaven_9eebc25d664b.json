@@ -1,0 +1,27 @@
+{
+  "id": "there-above-heaven_9eebc25d664b",
+  "fingerprint": "9eebc25d664b76c849690fc3b3bb51006a02a251a54fb7eb307a3727d3edf89f",
+  "archived_at": "2026-07-16T22:43:55Z",
+  "metadata": {
+    "title": "There, Above Heaven",
+    "artist": "Rắn Cạp Đuôi",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 157,
+    "duration_human": "00:02:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rắn Cạp Đuôi - There, Above Heaven"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/there-above-heaven_9eebc25d664b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/33ba4406358d91cfa097/There_Above_Heaven.tar"
+    }
+  }
+}
