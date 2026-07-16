@@ -1,0 +1,27 @@
+{
+  "id": "as-too-wrong_7afb1ff21fc1",
+  "fingerprint": "7afb1ff21fc16c1ecb0154cc44dff1699fc0def85e7426694d30cb6d2a0e6eeb",
+  "archived_at": "2026-07-16T21:10:12Z",
+  "metadata": {
+    "title": "AS Too Wrong",
+    "artist": "Amnesia Scanner",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 254,
+    "duration_human": "00:04:14",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Amnesia Scanner - AS Too Wrong"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/as-too-wrong_7afb1ff21fc1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/649432036e8bb7c0e232/AS_Too_Wrong.tar"
+    }
+  }
+}
