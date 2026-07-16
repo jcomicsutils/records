@@ -1,0 +1,37 @@
+{
+  "id": "stranger-in-a-strange-land_0d78299c19bf",
+  "fingerprint": "0d78299c19bf5de8d1aa00f31fba6e09c3de9e3ccff91abeae0b1054844a5e62",
+  "archived_at": "2026-07-16T19:44:30Z",
+  "metadata": {
+    "title": "Stranger in a Strange Land",
+    "artist": "Rabit",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 1892,
+    "duration_human": "00:31:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rabit - stranger",
+      "02 Rabit - jupiter",
+      "03 Rabit - portal",
+      "04 Rabit - narcotic",
+      "05 Rabit - southside",
+      "06 Rabit - sloth",
+      "07 Rabit - venice beach",
+      "08 Rabit - dark matter",
+      "09 Rabit - wiggy",
+      "10 Rabit - xe",
+      "11 Rabit - ghost"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stranger-in-a-strange-land_0d78299c19bf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/a5f4d528047d7954849a/Stranger_in_a_Strange_Land.tar"
+    }
+  }
+}

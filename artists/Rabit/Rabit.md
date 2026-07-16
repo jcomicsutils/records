@@ -15,3 +15,4 @@
 | [LAST TIME](last-time_97811cac4db0/last-time_97811cac4db0.md) | 2023 | FLAC | 00:05:09 | [IA](https://archive.org/details/last-time_97811cac4db0) [FileDitch](https://fileditchfiles.st/beta15/d211946a98c03f960ef7/LAST_TIME.tar) |
 | [RED](red_c739963c278a/red_c739963c278a.md) | 2024 | FLAC | 00:03:48 | [IA](https://archive.org/details/red_c739963c278a) [FileDitch](https://fileditchfiles.st/beta15/397e83057c9b1c0173e7/RED.tar) |
 | [Looming](looming_2da6e24f15b4/looming_2da6e24f15b4.md) | 2025 | FLAC | 00:03:55 | [IA](https://archive.org/details/looming_2da6e24f15b4) [FileDitch](https://fileditchfiles.st/beta15/41deba619b429ed72208/Looming.tar) |
+| [Stranger in a Strange Land](stranger-in-a-strange-land_0d78299c19bf/stranger-in-a-strange-land_0d78299c19bf.md) | 2026 | FLAC | 00:31:32 | [IA](https://archive.org/details/stranger-in-a-strange-land_0d78299c19bf) [FileDitch](https://fileditchfiles.st/beta15/a5f4d528047d7954849a/Stranger_in_a_Strange_Land.tar) |
