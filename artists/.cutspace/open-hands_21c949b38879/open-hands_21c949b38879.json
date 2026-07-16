@@ -1,0 +1,27 @@
+{
+  "id": "open-hands_21c949b38879",
+  "fingerprint": "21c949b388795e057cc69b71c75894497ba88fd735d935b8fc142a428a56952e",
+  "archived_at": "2026-07-16T22:06:23Z",
+  "metadata": {
+    "title": "open hands",
+    "artist": ".cutspace",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 114,
+    "duration_human": "00:01:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 .cutspace, Ian - open hands"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/open-hands_21c949b38879"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/ccd36d9b022724b6ffa9/open_hands.tar"
+    }
+  }
+}
