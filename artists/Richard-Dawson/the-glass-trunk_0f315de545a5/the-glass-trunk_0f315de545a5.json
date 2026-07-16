@@ -1,0 +1,45 @@
+{
+  "id": "the-glass-trunk_0f315de545a5",
+  "fingerprint": "0f315de545a5ebd8207be5e41470023a6d4313b1b047ec97620c58342df65cee",
+  "archived_at": "2026-07-16T01:42:35Z",
+  "metadata": {
+    "title": "The Glass Trunk",
+    "artist": "Richard Dawson",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 19,
+    "duration_seconds": 3743,
+    "duration_human": "01:02:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Richard Dawson - A Parents Address to His Firstborn Son on the Day of His Birth",
+      "02 Richard Dawson - I",
+      "03 Richard Dawson - II",
+      "04 Richard Dawson - Poor Old Horse",
+      "05 Richard Dawson - III",
+      "06 Richard Dawson - IV",
+      "07 Richard Dawson - William and His Mother Visit the Museum",
+      "08 Richard Dawson - V",
+      "09 Richard Dawson - VI",
+      "10 Richard Dawson - The Brisk Lad",
+      "11 Richard Dawson - VII",
+      "12 Richard Dawson - VIII",
+      "13 Richard Dawson - Joe the Quilt-Maker",
+      "14 Richard Dawson - IX",
+      "15 Richard Dawson - X",
+      "16 Richard Dawson - The Ghost of a Tree",
+      "17 Richard Dawson - XI",
+      "18 Richard Dawson - XII",
+      "19 Richard Dawson - The Ice-Breaker Baikal"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-glass-trunk_0f315de545a5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/d131279f6693efdc0e3f/The_Glass_Trunk.tar"
+    }
+  }
+}
