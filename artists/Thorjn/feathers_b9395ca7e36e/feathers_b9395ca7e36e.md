@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/feathers_b9395ca7e36e)
+- [FileDitch](https://fileditchfiles.st/beta15/8975c22949dd3c286ee3/Feathers.tar)
 
 ## Tracklist
 
