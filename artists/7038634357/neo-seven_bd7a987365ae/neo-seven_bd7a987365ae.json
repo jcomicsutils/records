@@ -1,0 +1,33 @@
+{
+  "id": "neo-seven_bd7a987365ae",
+  "fingerprint": "bd7a987365aed6583f5026a6dad932604e1e56049b77594a4f2d00cfc51063e8",
+  "archived_at": "2026-07-16T18:30:15Z",
+  "metadata": {
+    "title": "Neo Seven",
+    "artist": "7038634357",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1894,
+    "duration_human": "00:31:34",
+    "sampling_rate": "88.2kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 7038634357 - Winded",
+      "02 7038634357 - Everytime",
+      "03 7038634357 - Square Heart",
+      "04 7038634357 - Acolyte",
+      "05 7038634357 - Overbraid",
+      "06 7038634357 - Eraser",
+      "07 7038634357 - Perfect Night"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/neo-seven_bd7a987365ae"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/455c8d96ad6e1620356a/Neo_Seven.tar"
+    }
+  }
+}

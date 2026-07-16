@@ -1,0 +1,33 @@
+{
+  "id": "the-heart-of-the-anchoress_17eab6bb424f",
+  "fingerprint": "17eab6bb424f9d7861ac7452a697f79c36a6b718f70d63283159753e219a91dd",
+  "archived_at": "2026-07-16T18:30:16Z",
+  "metadata": {
+    "title": "The Heart of the Anchoress",
+    "artist": "Bianca Scout",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2389,
+    "duration_human": "00:39:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Bianca Scout - Empty space",
+      "02 Bianca Scout - Vanguard",
+      "03 Bianca Scout - Dealers Portals",
+      "04 Bianca Scout - Chorus",
+      "05 Bianca Scout - This City Had A Wall",
+      "06 Bianca Scout - lamina",
+      "07 Bianca Scout - Phantom Lamb",
+      "08 Bianca Scout - Dedicated two",
+      "09 Bianca Scout - Proud To Employ A Qualified Ghost",
+      "10 Bianca Scout - Kingdom"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-heart-of-the-anchoress_17eab6bb424f"
+    }
+  }
+}
