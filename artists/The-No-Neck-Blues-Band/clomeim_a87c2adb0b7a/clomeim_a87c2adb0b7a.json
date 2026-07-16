@@ -1,0 +1,37 @@
+{
+  "id": "clomeim_a87c2adb0b7a",
+  "fingerprint": "a87c2adb0b7a6a062b936b8b2a80927497e3cb9cfc5bf858423af260113df569",
+  "archived_at": "2026-07-16T23:25:03Z",
+  "metadata": {
+    "title": "Clomeim",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 4443,
+    "duration_human": "01:14:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - Silurist",
+      "02 The No-Neck Blues Band - The Coach House",
+      "03 The No-Neck Blues Band - Ministry of Voices",
+      "04 The No-Neck Blues Band - Walking Wind",
+      "05 The No-Neck Blues Band - Salai Widnalas",
+      "06 The No-Neck Blues Band - Ialas Saladiw",
+      "07 The No-Neck Blues Band - Make Love",
+      "08 The No-Neck Blues Band - Again",
+      "09 The No-Neck Blues Band - Woaihb",
+      "10 The No-Neck Blues Band - La Promesse Miruco",
+      "11 The No-Neck Blues Band - Silurist 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/clomeim_a87c2adb0b7a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/0f789a311f2ed5386ba5/Clomeim.tar"
+    }
+  }
+}
