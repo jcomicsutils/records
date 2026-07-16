@@ -1,0 +1,48 @@
+{
+  "id": "hoax_2571843927f6",
+  "fingerprint": "2571843927f62e9671b7e6a705aff4ffa42e3fd06b277d94fc4a2cb12733ac06",
+  "archived_at": "2026-07-16T22:00:26Z",
+  "metadata": {
+    "title": "HOAX",
+    "artist": "Amnesia Scanner",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 22,
+    "duration_seconds": 3462,
+    "duration_human": "00:57:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "1-01 Amnesia Scanner, Freeka Tet - ASFT Ruff",
+      "1-02 Amnesia Scanner, Freeka Tet - AS Over",
+      "1-03 Amnesia Scanner, Freeka Tet - AS Amygdala",
+      "1-04 Amnesia Scanner, Freeka Tet - AS Neverend",
+      "1-05 Amnesia Scanner, Freeka Tet - AS Mantra",
+      "1-06 Amnesia Scanner, Freeka Tet - ASFT Tazzie",
+      "1-07 Amnesia Scanner, Freeka Tet - ASFT ISSOK",
+      "1-08 Amnesia Scanner, Freeka Tet - AS Disco",
+      "1-09 Amnesia Scanner, Freeka Tet - AS Back",
+      "1-10 Amnesia Scanner, Freeka Tet - AS U",
+      "1-11 Amnesia Scanner, Freeka Tet - ASFT Icaros",
+      "2-01 Amnesia Scanner, Freeka Tet - FT Ruff (Active noise cancelling script)",
+      "2-02 Amnesia Scanner, Freeka Tet - FT Over (Active noise cancelling script)",
+      "2-03 Amnesia Scanner, Freeka Tet - FT Amygdala (Active noise cancelling script)",
+      "2-04 Amnesia Scanner, Freeka Tet - FT Neverend (Active noise cancelling script)",
+      "2-05 Amnesia Scanner, Freeka Tet - FT Mantra (Active noise cancelling script)",
+      "2-06 Amnesia Scanner, Freeka Tet - FT Tazzie (Active noise cancelling script)",
+      "2-07 Amnesia Scanner, Freeka Tet - FT ISSOK (Active noise cancelling script)",
+      "2-08 Amnesia Scanner, Freeka Tet - FT Disco (Active noise cancelling script)",
+      "2-09 Amnesia Scanner, Freeka Tet - FT Back (Active noise cancelling script)",
+      "2-10 Amnesia Scanner, Freeka Tet - FT U (Active noise cancelling script)",
+      "2-11 Amnesia Scanner, Freeka Tet - FTAS Icaros (PNG noise cancellation)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hoax_2571843927f6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/87acbba6fac1336c4027/HOAX.tar"
+    }
+  }
+}
