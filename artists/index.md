@@ -44,6 +44,7 @@
 - [Ceeys](Ceeys/Ceeys.md)
 - [Chaos Royale](Chaos-Royale/Chaos-Royale.md)
 - [Chas Smith](Chas-Smith/Chas-Smith.md)
+- [Chino Amobi](Chino-Amobi/Chino-Amobi.md)
 - [Chuquimamani-Condori](Chuquimamani-Condori/Chuquimamani-Condori.md)
 - [Clinical trails](Clinical-trails/Clinical-trails.md)
 - [Club Rialto](Club-Rialto/Club-Rialto.md)

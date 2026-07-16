@@ -1,0 +1,33 @@
+{
+  "id": "airport-music-for-black-folk_d9fcb7580d73",
+  "fingerprint": "d9fcb7580d73dee129243ba3d49abe3d58e8f67d9cacab3e2d386aca98787f5d",
+  "archived_at": "2026-07-16T18:44:21Z",
+  "metadata": {
+    "title": "Airport Music For Black Folk",
+    "artist": "Chino Amobi",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1244,
+    "duration_human": "00:20:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Chino Amobi - LONDON",
+      "02 Chino Amobi - LONDON II",
+      "03 Chino Amobi - MALMO",
+      "04 Chino Amobi - MILAN",
+      "05 Chino Amobi - WARSZAWA",
+      "06 Chino Amobi - BERLIN",
+      "07 Chino Amobi - ROTTERDAM"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/airport-music-for-black-folk_d9fcb7580d73"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/8c782581ff8cdf023e59/Airport_Music_For_Black_Folk.tar"
+    }
+  }
+}
