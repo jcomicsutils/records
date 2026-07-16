@@ -1,0 +1,27 @@
+{
+  "id": "in-the-study-hall-of-the-illiterate-scribe_d692fae666ed",
+  "fingerprint": "d692fae666ed77c47cb1f93a0fb61547045e57b72b78329ff405d910611004ca",
+  "archived_at": "2026-07-16T22:05:44Z",
+  "metadata": {
+    "title": "In the Study Hall of the illiterate scribe",
+    "artist": ".cutspace",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 346,
+    "duration_human": "00:05:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 .cutspace - In the Study Hall of the illiterate scribe"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/in-the-study-hall-of-the-illiterate-scribe_d692fae666ed"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/dff62cb554b3331e6d6a/In_the_Study_Hall_of_the_illiterate_scribe.tar"
+    }
+  }
+}
