@@ -1,0 +1,31 @@
+{
+  "id": "the-divine-properties-of-copper_c0329546bbbe",
+  "fingerprint": "c0329546bbbef0a9939073b48c9bcc8f807efdfd39d0590d385149de77cdfee4",
+  "archived_at": "2026-07-16T04:28:39Z",
+  "metadata": {
+    "title": "The Divine Properties of Copper",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 6960,
+    "duration_human": "01:56:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Unknown Spirits",
+      "02 Zeffon - The Oddity of the Strange Man Who Lived Throughout His Holy War",
+      "03 Zeffon - To Fear is to Understand, and to Understand is the Opposite",
+      "04 Zeffon - Guillotines and Mimics of Parachutes",
+      "05 Zeffon - Reinterpretation of Spleen Blackness"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-divine-properties-of-copper_c0329546bbbe"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/c549c0dc6f3c8d7d1572/The_Divine_Properties_of_Copper.tar"
+    }
+  }
+}
