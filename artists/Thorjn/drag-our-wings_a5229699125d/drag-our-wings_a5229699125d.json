@@ -1,0 +1,27 @@
+{
+  "id": "drag-our-wings_a5229699125d",
+  "fingerprint": "a5229699125d6b18bf704e52d749d65107c4eb9021966659428d0a507440aabd",
+  "archived_at": "2026-07-16T23:12:25Z",
+  "metadata": {
+    "title": "Drag our Wings",
+    "artist": "Thorjn",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 341,
+    "duration_human": "00:05:41",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Thorjn - Drag our Wings"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/drag-our-wings_a5229699125d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/b9f2ed4beca877b1ad14/Drag_our_Wings.tar"
+    }
+  }
+}
