@@ -1,0 +1,32 @@
+{
+  "id": "swallow_9b1aa4b9a771",
+  "fingerprint": "9b1aa4b9a771c4485c08969a49ea57fd79a51f215cc7377429a7c5af5b647254",
+  "archived_at": "2026-07-16T19:31:44Z",
+  "metadata": {
+    "title": "Swallow",
+    "artist": "7038634357",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1736,
+    "duration_human": "00:28:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 7038634357 - Deep End Blue",
+      "02 7038634357 - Lemon Cake",
+      "03 7038634357 - Angel Shaving (L.A.S.E.R.)",
+      "04 7038634357 - Meadow Corolla",
+      "05 7038634357 - Balance Beam",
+      "06 7038634357 - Exfoliatrix (Virginia)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/swallow_9b1aa4b9a771"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/33d88ed2285d406c6ce2/Swallow.tar"
+    }
+  }
+}
