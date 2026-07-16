@@ -158,6 +158,7 @@
 - [Teeth Of Lions Rule The Divine](Teeth-Of-Lions-Rule-The-Divine/Teeth-Of-Lions-Rule-The-Divine.md)
 - [Text of Light](Text-of-Light/Text-of-Light.md)
 - [The 365 Project](The-365-Project/The-365-Project.md)
+- [The Dwarfs of East Agouza](The-Dwarfs-of-East-Agouza/The-Dwarfs-of-East-Agouza.md)
 - [The Jim Yoshii Pile-Up / Xiu Xiu](The-Jim-Yoshii-Pile-Up-Xiu-Xiu/The-Jim-Yoshii-Pile-Up-Xiu-Xiu.md)
 - [The Mystic Revelation of Teppo Repo](The-Mystic-Revelation-of-Teppo-Repo/The-Mystic-Revelation-of-Teppo-Repo.md)
 - [The Runners From 1984](The-Runners-From-1984/The-Runners-From-1984.md)

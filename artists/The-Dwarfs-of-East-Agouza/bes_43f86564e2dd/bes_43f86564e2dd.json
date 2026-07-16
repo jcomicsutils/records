@@ -1,0 +1,34 @@
+{
+  "id": "bes_43f86564e2dd",
+  "fingerprint": "43f86564e2dd8e67846bde736ea990c2f08e73e0125c4730349965d2b042636c",
+  "archived_at": "2026-07-16T03:16:46Z",
+  "metadata": {
+    "title": "Bes",
+    "artist": "The Dwarfs of East Agouza",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 4575,
+    "duration_human": "01:16:15",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Dwarfs of East Agouza - Baka of the Future",
+      "02 The Dwarfs of East Agouza - Clean Shahin",
+      "03 The Dwarfs of East Agouza - Where's Turbo?",
+      "04 The Dwarfs of East Agouza - Hungry Bears Don't Dance",
+      "05 The Dwarfs of East Agouza - Resinance",
+      "06 The Dwarfs of East Agouza - Museum Of Stranglers (Part I)",
+      "07 The Dwarfs of East Agouza - Museum Of Stranglers (Part II)",
+      "08 The Dwarfs of East Agouza - Museum Of Stranglers (Part III)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bes_43f86564e2dd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/976cb34bd0732cf3e42d/Bes.tar"
+    }
+  }
+}
