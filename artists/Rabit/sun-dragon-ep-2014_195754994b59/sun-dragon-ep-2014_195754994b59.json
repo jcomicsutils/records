@@ -1,0 +1,30 @@
+{
+  "id": "sun-dragon-ep-2014_195754994b59",
+  "fingerprint": "195754994b59e3529007ae1b7270d8601f5ca7bb30d3014056967017b2489eb3",
+  "archived_at": "2026-07-16T19:45:52Z",
+  "metadata": {
+    "title": "SUN DRAGON EP (2014)",
+    "artist": "Rabit",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 923,
+    "duration_human": "00:15:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rabit - SEND",
+      "02 Rabit - ATACAMA SKELETON",
+      "03 Rabit - SUN GOD",
+      "04 Rabit - YELLOW HAZE"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sun-dragon-ep-2014_195754994b59"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/edaa53ef3727df974951/SUN_DRAGON_EP_2014.tar"
+    }
+  }
+}
