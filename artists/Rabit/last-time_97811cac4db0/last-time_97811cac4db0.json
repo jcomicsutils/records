@@ -1,0 +1,27 @@
+{
+  "id": "last-time_97811cac4db0",
+  "fingerprint": "97811cac4db018b7ab5f15eee030adea2fd86b506b6c2eeadbac1509a9553de4",
+  "archived_at": "2026-07-16T19:24:16Z",
+  "metadata": {
+    "title": "LAST TIME",
+    "artist": "Rabit",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 309,
+    "duration_human": "00:05:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rabit - LAST TIME"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/last-time_97811cac4db0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/d211946a98c03f960ef7/LAST_TIME.tar"
+    }
+  }
+}
