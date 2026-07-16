@@ -1,0 +1,27 @@
+{
+  "id": "score-for-oracle-vocal_ba66f3e8cd1a",
+  "fingerprint": "ba66f3e8cd1a995bc8525d08ec82ba0402df9296be2fcb9841f8ec49d890ce48",
+  "archived_at": "2026-07-16T19:16:33Z",
+  "metadata": {
+    "title": "Score for Oracle (Vocal)",
+    "artist": "7038634357",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 660,
+    "duration_human": "00:11:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 7038634357 - Score for Oracle (Vocal)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/score-for-oracle-vocal_ba66f3e8cd1a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/b6e1afafedcf1eac8e20/Score_for_Oracle_Vocal.tar"
+    }
+  }
+}
