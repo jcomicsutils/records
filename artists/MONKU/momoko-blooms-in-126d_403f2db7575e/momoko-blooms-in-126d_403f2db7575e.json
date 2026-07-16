@@ -34,6 +34,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/momoko-blooms-in-126d_403f2db7575e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/a972e9cac44abcf3b859/MOMOKO_blooms_in_1.26D.tar"
     }
   }
 }

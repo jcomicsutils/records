@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/momoko-blooms-in-126d_403f2db7575e)
+- [FileDitch](https://fileditchfiles.st/beta15/a972e9cac44abcf3b859/MOMOKO_blooms_in_1.26D.tar)
 
 ## Tracklist
 
