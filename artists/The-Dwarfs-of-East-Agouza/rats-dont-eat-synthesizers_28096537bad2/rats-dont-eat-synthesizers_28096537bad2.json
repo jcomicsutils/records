@@ -1,0 +1,28 @@
+{
+  "id": "rats-dont-eat-synthesizers_28096537bad2",
+  "fingerprint": "28096537bad2b08499a79a73c7cbd5e85d17869b1da9e9ed9366700671252e21",
+  "archived_at": "2026-07-16T04:04:08Z",
+  "metadata": {
+    "title": "Rats Don't Eat Synthesizers",
+    "artist": "The Dwarfs of East Agouza",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2136,
+    "duration_human": "00:35:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Dwarfs of East Agouza - Rats Don't Eat Synthesizers",
+      "02 The Dwarfs of East Agouza - Ringa Mask Koshary"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rats-dont-eat-synthesizers_28096537bad2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/898b102aba3d87ed2df9/Rats_Don_t_Eat_Synthesizers.tar"
+    }
+  }
+}
