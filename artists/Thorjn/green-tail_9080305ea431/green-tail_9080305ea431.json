@@ -1,0 +1,27 @@
+{
+  "id": "green-tail_9080305ea431",
+  "fingerprint": "9080305ea431e4a65daeb072fd6d5dc1ce413ea4a155fdc96ef9853257b98378",
+  "archived_at": "2026-07-16T23:53:22Z",
+  "metadata": {
+    "title": "Green Tail",
+    "artist": "Thorjn",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 297,
+    "duration_human": "00:04:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Thorjn - Green Tail"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/green-tail_9080305ea431"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/b832979a4229c4b36ef7/Green_Tail.tar"
+    }
+  }
+}
