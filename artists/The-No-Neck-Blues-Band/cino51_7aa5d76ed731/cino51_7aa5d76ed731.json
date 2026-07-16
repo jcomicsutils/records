@@ -1,0 +1,28 @@
+{
+  "id": "cino51_7aa5d76ed731",
+  "fingerprint": "7aa5d76ed731e503a0b9057d6964c36d14049a416d04a67385e1002736978681",
+  "archived_at": "2026-07-16T23:01:44Z",
+  "metadata": {
+    "title": "CINo51",
+    "artist": "The No-Neck Blues Band",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2587,
+    "duration_human": "00:43:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - A Daisy Chain for Richard Wright",
+      "02 The No-Neck Blues Band - Prelude - The Danube"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cino51_7aa5d76ed731"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/271fffd3cb0d468d233c/CINo51.tar"
+    }
+  }
+}
