@@ -33,6 +33,7 @@
 - [Bark Psychosis](Bark-Psychosis/Bark-Psychosis.md)
 - [Benedicte Maurseth](Benedicte-Maurseth/Benedicte-Maurseth.md)
 - [Besna](Besna/Besna.md)
+- [Bianca Scout](Bianca-Scout/Bianca-Scout.md)
 - [Big Blood](Big-Blood/Big-Blood.md)
 - [Big Blood & Visitations](Big-Blood-&-Visitations/Big-Blood-&-Visitations.md)
 - [Bird Violence](Bird-Violence/Bird-Violence.md)
