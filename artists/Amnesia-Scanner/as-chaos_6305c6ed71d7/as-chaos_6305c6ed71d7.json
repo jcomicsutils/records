@@ -1,0 +1,27 @@
+{
+  "id": "as-chaos_6305c6ed71d7",
+  "fingerprint": "6305c6ed71d78629f0e87d04a8003b2d97f42f641af6530400bee410903c97d7",
+  "archived_at": "2026-07-16T20:43:54Z",
+  "metadata": {
+    "title": "AS Chaos",
+    "artist": "Amnesia Scanner",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 229,
+    "duration_human": "00:03:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Amnesia Scanner - AS Chaos (feat. Pan Daijing)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/as-chaos_6305c6ed71d7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/450609e1bf5c9897de03/AS_Chaos.tar"
+    }
+  }
+}
