@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/at-6am-we-become-the-police_5b698b42c0ac)
+- [FileDitch](https://fileditchfiles.st/beta15/d7042f44f9d5fc24b6b5/At_6am_We_Become_the_Police.tar)
 
 ## Tracklist
 
