@@ -1,0 +1,27 @@
+{
+  "id": "like-a-stone_308b16e6ff26",
+  "fingerprint": "308b16e6ff2606272df04bb6c8d67392c6119e9c81051c492bf37c1c90a0118e",
+  "archived_at": "2026-07-16T16:42:02Z",
+  "metadata": {
+    "title": "Like a Stone",
+    "artist": "7038634357",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 250,
+    "duration_human": "00:04:10",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 7038634357 - Like a Stone"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/like-a-stone_308b16e6ff26"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/54eb0fbb7cad19dd6232/Like_a_Stone.tar"
+    }
+  }
+}
