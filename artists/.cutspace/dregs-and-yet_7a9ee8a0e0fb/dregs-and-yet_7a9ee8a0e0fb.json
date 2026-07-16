@@ -1,0 +1,28 @@
+{
+  "id": "dregs-and-yet_7a9ee8a0e0fb",
+  "fingerprint": "7a9ee8a0e0fb2cd8c1fe0cf8efccece34098fbc96f861817cb9d51936afbf2d4",
+  "archived_at": "2026-07-16T22:01:33Z",
+  "metadata": {
+    "title": "dregs, and Yet",
+    "artist": ".cutspace",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 275,
+    "duration_human": "00:04:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 .cutspace - where Do I go if I Lost ground?",
+      "02 .cutspace - where Do I go if I Denied the Sky?"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dregs-and-yet_7a9ee8a0e0fb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/640eb10c01872224539a/dregs_and_Yet.tar"
+    }
+  }
+}
