@@ -1,0 +1,34 @@
+{
+  "id": "french-extremism_435deae33d9d",
+  "fingerprint": "435deae33d9d4252aa48298abd1ece698ddb32717f15d71b5bbb4c39adc51f37",
+  "archived_at": "2026-07-16T19:54:52Z",
+  "metadata": {
+    "title": "FRENCH EXTREMISM",
+    "artist": "Chino Amobi",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1426,
+    "duration_human": "00:23:46",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Chino Amobi - FR UN",
+      "02 Chino Amobi - FR DEUX",
+      "03 Chino Amobi - FR TROIS",
+      "04 Chino Amobi - FR QUATRE",
+      "05 Chino Amobi - FR CINQ",
+      "06 Chino Amobi - FR SIX",
+      "07 Chino Amobi - FR SEPT",
+      "08 Chino Amobi - FR NEUF"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/french-extremism_435deae33d9d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/81c36cb2a438dd267516/FRENCH_EXTREMISM.tar"
+    }
+  }
+}
