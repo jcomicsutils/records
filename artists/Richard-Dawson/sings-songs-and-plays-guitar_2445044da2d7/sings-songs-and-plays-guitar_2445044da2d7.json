@@ -1,0 +1,42 @@
+{
+  "id": "sings-songs-and-plays-guitar_2445044da2d7",
+  "fingerprint": "2445044da2d780548f253b8484ac4777891780e0ae9be8f68ee8f043f92e1a48",
+  "archived_at": "2026-07-16T01:28:10Z",
+  "metadata": {
+    "title": "Sings Songs and Plays Guitar",
+    "artist": "Richard Dawson",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_seconds": 3258,
+    "duration_human": "00:54:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Richard Dawson - I Will Make It Up to You",
+      "02 Richard Dawson - More and More",
+      "03 Richard Dawson - I Will Kiss You Goodnight",
+      "04 Richard Dawson - Babes in the Wood",
+      "05 Richard Dawson - Jane",
+      "06 Richard Dawson - I Have Walked for Many Days",
+      "07 Richard Dawson - She Came to My Room Last Night",
+      "08 Richard Dawson - The Farmer’s Dilemma",
+      "09 Richard Dawson - Under Your Boots",
+      "10 Richard Dawson - Hymn",
+      "11 Richard Dawson - Birds Are Circling ’round My Head",
+      "12 Richard Dawson - Heavy Flooding",
+      "13 Richard Dawson - Forest",
+      "14 Richard Dawson - Cazale’s Joy",
+      "15 Richard Dawson - Between the Long Grass",
+      "16 Richard Dawson - The Wynding"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sings-songs-and-plays-guitar_2445044da2d7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/18c79a6c84bb1cf88477/Sings_Songs_and_Plays_Guitar.tar"
+    }
+  }
+}

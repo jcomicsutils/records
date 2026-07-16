@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Sings Songs and Plays Guitar](sings-songs-and-plays-guitar_2445044da2d7/sings-songs-and-plays-guitar_2445044da2d7.md) | 2005 | FLAC | 00:54:18 | [IA](https://archive.org/details/sings-songs-and-plays-guitar_2445044da2d7) [FileDitch](https://fileditchfiles.st/beta15/18c79a6c84bb1cf88477/Sings_Songs_and_Plays_Guitar.tar) |
 | [Motherland](motherland_0e41f08e8ff7/motherland_0e41f08e8ff7.md) | 2008 | FLAC | 00:26:53 | [IA](https://archive.org/details/motherland_0e41f08e8ff7) [FileDitch](https://fileditchfiles.st/beta15/c966b27fc4b5bd0db5f8/Motherland.tar) |
 | [Dawson May Jazzfinger Clay](dawson-may-jazzfinger-clay_1dcdca137e86/dawson-may-jazzfinger-clay_1dcdca137e86.md) | 2009 | FLAC | 01:10:47 | [IA](https://archive.org/details/dawson-may-jazzfinger-clay_1dcdca137e86) [FileDitch](https://fileditchfiles.st/beta15/adaa913f9fd2ed9dcb2b/Dawson_May_Jazzfinger_Clay.tar) |
 | [Nothing Important](nothing-important_6c7ee888f98e/nothing-important_6c7ee888f98e.md) | 2014 | FLAC | 00:44:10 | [IA](https://archive.org/details/nothing-important_6c7ee888f98e) [FileDitch](https://fileditchfiles.st/beta15/1d01006a2ca7f8c3957a/Nothing_Important.tar) |
