@@ -1,0 +1,33 @@
+{
+  "id": "embryonnck-cd_0b5b655fd95d",
+  "fingerprint": "0b5b655fd95db6db51f0b75286417c8add19f9b7316e3c5a8163af33b8ef60cb",
+  "archived_at": "2026-07-16T23:44:35Z",
+  "metadata": {
+    "title": "Embryonnck CD",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2448,
+    "duration_human": "00:40:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - Wieder Das Erste Mal",
+      "02 The No-Neck Blues Band - Five Grams of the Widow",
+      "03 The No-Neck Blues Band - After Marja's Cats",
+      "04 The No-Neck Blues Band - Frank Cologne",
+      "05 The No-Neck Blues Band - Die Farbe Aus Dem All",
+      "06 The No-Neck Blues Band - Zweiter Sommer",
+      "07 The No-Neck Blues Band - Das Erste Mal"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/embryonnck-cd_0b5b655fd95d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/7fb5ffd097421e67a83a/Embryonnck_CD.tar"
+    }
+  }
+}
