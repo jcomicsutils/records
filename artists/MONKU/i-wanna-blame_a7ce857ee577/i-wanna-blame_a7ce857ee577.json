@@ -1,0 +1,27 @@
+{
+  "id": "i-wanna-blame_a7ce857ee577",
+  "fingerprint": "a7ce857ee577ce7c50faf717620a7b358031dcf5c88a6bf95b4f4b93c440bea9",
+  "archived_at": "2026-07-16T16:12:16Z",
+  "metadata": {
+    "title": "I Wanna Blame",
+    "artist": "MON/KU",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 167,
+    "duration_human": "00:02:47",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 TOMc, Gimgigam, MON/KU - I Wanna Blame"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-wanna-blame_a7ce857ee577"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/88482ea91d4696a2109e/I_Wanna_Blame.tar"
+    }
+  }
+}
