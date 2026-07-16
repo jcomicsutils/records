@@ -1,0 +1,27 @@
+{
+  "id": "ledge_ac52f6d84b05",
+  "fingerprint": "ac52f6d84b0552524f03e8b5b67cf2683bdc6dcf7fd222f20dccbeb51c94a31c",
+  "archived_at": "2026-07-16T22:01:22Z",
+  "metadata": {
+    "title": "Ledge",
+    "artist": "Amnesia Scanner",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 211,
+    "duration_human": "00:03:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Amnesia Scanner, Freeka Tet - Ledge"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ledge_ac52f6d84b05"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/37b233bf780ec2a796ae/Ledge.tar"
+    }
+  }
+}
