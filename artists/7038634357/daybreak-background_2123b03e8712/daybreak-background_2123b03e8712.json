@@ -1,0 +1,27 @@
+{
+  "id": "daybreak-background_2123b03e8712",
+  "fingerprint": "2123b03e87128c6af95883c3431610d71604e19ec2076ac9dab045dcc18d848e",
+  "archived_at": "2026-07-16T15:44:18Z",
+  "metadata": {
+    "title": "Daybreak (Background)",
+    "artist": "7038634357",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 260,
+    "duration_human": "00:04:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 7038634357 - Daybreak (Background)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/daybreak-background_2123b03e8712"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/1190a8b85232b657f14f/Daybreak_Background.tar"
+    }
+  }
+}
