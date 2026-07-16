@@ -1,0 +1,27 @@
+{
+  "id": "rank_509f01edd7f9",
+  "fingerprint": "509f01edd7f97770180204e107cb4aa4e67a81c3b8145dac7c4000cfcadee44f",
+  "archived_at": "2026-07-16T22:15:27Z",
+  "metadata": {
+    "title": "Rank",
+    "artist": ".cutspace",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 167,
+    "duration_human": "00:02:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 .cutspace, MOH BARETTA, xxhang - Rank"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rank_509f01edd7f9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/95a9869343ce83787e25/Rank.tar"
+    }
+  }
+}
