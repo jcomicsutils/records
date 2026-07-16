@@ -1,0 +1,31 @@
+{
+  "id": "dutch-money_f7c18f943d6e",
+  "fingerprint": "f7c18f943d6ecd2a49a1cc62a4c002f24dc214098c658b358879a2cefb442cf9",
+  "archived_at": "2026-07-16T23:38:43Z",
+  "metadata": {
+    "title": "Dutch Money",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2159,
+    "duration_human": "00:35:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - Maid of Many Sands",
+      "02 The No-Neck Blues Band - Raising the Low Road",
+      "03 The No-Neck Blues Band - I See Popping Slaughter",
+      "04 The No-Neck Blues Band - The Festoon Bid",
+      "05 The No-Neck Blues Band - Sharing Charlestown With the World"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dutch-money_f7c18f943d6e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/484de36f4b49a8878203/Dutch_Money.tar"
+    }
+  }
+}
