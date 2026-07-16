@@ -1,0 +1,27 @@
+{
+  "id": "so-many-cats_32562c235061",
+  "fingerprint": "32562c23506101083d3ee432844045451cec638f6414fb1300f956e86d5613b0",
+  "archived_at": "2026-07-16T18:10:31Z",
+  "metadata": {
+    "title": "SO MANY CATS",
+    "artist": "MON/KU",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 342,
+    "duration_human": "00:05:42",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 MON/KU - SO MANY CATS"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/so-many-cats_32562c235061"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/8757752354f4c6637830/SO_MANY_CATS.tar"
+    }
+  }
+}
