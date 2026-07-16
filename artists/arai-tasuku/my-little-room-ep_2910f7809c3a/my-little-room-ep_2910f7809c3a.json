@@ -1,0 +1,31 @@
+{
+  "id": "my-little-room-ep_2910f7809c3a",
+  "fingerprint": "2910f7809c3a3c425a7c3a0e94a8983a6af3a53149f336a4c58a7b49086dc15f",
+  "archived_at": "2026-07-16T23:13:01Z",
+  "metadata": {
+    "title": "My little room E.P.",
+    "artist": "arai tasuku",
+    "year": "2015",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 1247,
+    "duration_human": "00:20:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 arai tasuku - My little room 000",
+      "02 arai tasuku - My little room 001",
+      "03 arai tasuku - My little room 002",
+      "04 arai tasuku - My little room 404",
+      "05 arai tasuku - My little room 060"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/my-little-room-ep_2910f7809c3a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/594b35e2549b0568626b/My_little_room_E.P.tar"
+    }
+  }
+}
