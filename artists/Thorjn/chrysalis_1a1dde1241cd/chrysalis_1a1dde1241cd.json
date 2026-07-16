@@ -1,0 +1,27 @@
+{
+  "id": "chrysalis_1a1dde1241cd",
+  "fingerprint": "1a1dde1241cdc13f14a85c0cef79c57efad20bfda8e9fd3b11db0501c5ea00d0",
+  "archived_at": "2026-07-16T23:02:56Z",
+  "metadata": {
+    "title": "Chrysalis",
+    "artist": "Thorjn",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 304,
+    "duration_human": "00:05:04",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Thorjn - Chrysalis"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chrysalis_1a1dde1241cd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/277ff17593e63b02e869/Chrysalis.tar"
+    }
+  }
+}
