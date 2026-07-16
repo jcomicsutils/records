@@ -1,0 +1,27 @@
+{
+  "id": "fall-apart_491beed4f2a7",
+  "fingerprint": "491beed4f2a70fad1117773e81e14b5f3aa507fce6581b3e9b814b271405b398",
+  "archived_at": "2026-07-16T16:33:56Z",
+  "metadata": {
+    "title": "Fall Apart",
+    "artist": "7038634357",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 165,
+    "duration_human": "00:02:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 7038634357 - Fall Apart"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fall-apart_491beed4f2a7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/b8634e58d9ea19db497b/Fall_Apart.tar"
+    }
+  }
+}
