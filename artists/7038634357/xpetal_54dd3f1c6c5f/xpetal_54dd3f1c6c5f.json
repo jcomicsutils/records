@@ -23,6 +23,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/xpetal_54dd3f1c6c5f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/7ebb5cd0bdcfff08dbc1/Xpetal.tar"
     }
   }
 }

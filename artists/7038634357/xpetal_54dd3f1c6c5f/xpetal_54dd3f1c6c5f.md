@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/xpetal_54dd3f1c6c5f)
+- [FileDitch](https://fileditchfiles.st/beta15/7ebb5cd0bdcfff08dbc1/Xpetal.tar)
 
 ## Tracklist
 
