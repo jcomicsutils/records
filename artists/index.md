@@ -133,6 +133,7 @@
 - [Peace & Freedom](Peace-&-Freedom/Peace-&-Freedom.md)
 - [Pentemple](Pentemple/Pentemple.md)
 - [Psycodrama](Psycodrama/Psycodrama.md)
+- [Rabit](Rabit/Rabit.md)
 - [Respire](Respire/Respire.md)
 - [Revenence](Revenence/Revenence.md)
 - [Revenence / Argon Beams / Serpentmouth](Revenence-Argon-Beams-Serpentmouth/Revenence-Argon-Beams-Serpentmouth.md)

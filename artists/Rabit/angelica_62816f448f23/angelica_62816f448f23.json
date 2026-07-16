@@ -1,0 +1,27 @@
+{
+  "id": "angelica_62816f448f23",
+  "fingerprint": "62816f448f237fa521097a88620130a8949cadb78f7ef99813e52b8aed4147ac",
+  "archived_at": "2026-07-16T18:25:59Z",
+  "metadata": {
+    "title": "Angelica",
+    "artist": "Rabit",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 215,
+    "duration_human": "00:03:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rabit, Eartheater - Angelica"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/angelica_62816f448f23"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/d21186bdf5f10b11ff39/Angelica.tar"
+    }
+  }
+}
