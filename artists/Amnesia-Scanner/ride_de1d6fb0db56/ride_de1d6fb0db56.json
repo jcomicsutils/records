@@ -1,0 +1,27 @@
+{
+  "id": "ride_de1d6fb0db56",
+  "fingerprint": "de1d6fb0db563487c438c54a654d456956acc876ad41b479093f1f0c2cf8c090",
+  "archived_at": "2026-07-16T22:10:33Z",
+  "metadata": {
+    "title": "Ride",
+    "artist": "Amnesia Scanner",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 217,
+    "duration_human": "00:03:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Amnesia Scanner, Freeka Tet - Ride"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ride_de1d6fb0db56"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/a21ca42794b3f100f66c/Ride.tar"
+    }
+  }
+}
