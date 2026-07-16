@@ -1,0 +1,37 @@
+{
+  "id": "peasant_9548f6efbd90",
+  "fingerprint": "9548f6efbd90aca95feb727508978b3cf820b18c0a79e68c02d31918dcb3221a",
+  "archived_at": "2026-07-16T00:50:09Z",
+  "metadata": {
+    "title": "Peasant",
+    "artist": "Richard Dawson",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 3531,
+    "duration_human": "00:58:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Richard Dawson - Herald",
+      "02 Richard Dawson - Ogre",
+      "03 Richard Dawson - Soldier",
+      "04 Richard Dawson - Weaver",
+      "05 Richard Dawson - Prostitute",
+      "06 Richard Dawson - Shapeshifter",
+      "07 Richard Dawson - Scientist",
+      "08 Richard Dawson - Hob",
+      "09 Richard Dawson - Beggar",
+      "10 Richard Dawson - No-one",
+      "11 Richard Dawson - Masseuse"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/peasant_9548f6efbd90"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/e7c23960a8f62d16eefc/Peasant.tar"
+    }
+  }
+}
