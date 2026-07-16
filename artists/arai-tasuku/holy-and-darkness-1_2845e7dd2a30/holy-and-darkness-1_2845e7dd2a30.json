@@ -1,0 +1,27 @@
+{
+  "id": "holy-and-darkness-1_2845e7dd2a30",
+  "fingerprint": "2845e7dd2a303a368b2e0be57e80e62b173fe1d8e71562801f521da59468657f",
+  "archived_at": "2026-07-16T23:11:29Z",
+  "metadata": {
+    "title": "Holy and Darkness 1",
+    "artist": "arai tasuku",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 599,
+    "duration_human": "00:09:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 arai tasuku, Mili - Holy and Darkness 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/holy-and-darkness-1_2845e7dd2a30"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/11688fa33a9d0a38390a/Holy_and_Darkness_1.tar"
+    }
+  }
+}
