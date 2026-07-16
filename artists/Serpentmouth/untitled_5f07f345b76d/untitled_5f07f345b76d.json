@@ -1,0 +1,34 @@
+{
+  "id": "untitled_5f07f345b76d",
+  "fingerprint": "5f07f345b76dd335024c7b0707a1faf2094df0f3b73c52daf93098b5f0ba2ce3",
+  "archived_at": "2026-07-16T02:34:24Z",
+  "metadata": {
+    "title": "(untitled)",
+    "artist": "Serpentmouth",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 47467,
+    "duration_human": "13:11:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Serpentmouth - Untitled",
+      "02 Serpentmouth - Untitled",
+      "03 Serpentmouth - Untitled",
+      "04 Serpentmouth - Untitled",
+      "05 Serpentmouth - Untitled",
+      "06 Serpentmouth - Untitled",
+      "07 Serpentmouth - Badlands",
+      "08 Serpentmouth - Shadow Hemisphere People (Typhoon)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/untitled_5f07f345b76d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/63cafe21050028561499/untitled_2018.tar"
+    }
+  }
+}
