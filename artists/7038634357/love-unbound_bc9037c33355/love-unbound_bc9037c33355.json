@@ -1,0 +1,30 @@
+{
+  "id": "love-unbound_bc9037c33355",
+  "fingerprint": "bc9037c33355bfa1309f0125989fa1ff32e802cfd03b7538543745e3443ebb3b",
+  "archived_at": "2026-07-16T17:08:38Z",
+  "metadata": {
+    "title": "Love Unbound",
+    "artist": "7038634357",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1223,
+    "duration_human": "00:20:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 7038634357 - I.n' .C.H.",
+      "02 7038634357 - A Ribbon for Red Lana",
+      "03 7038634357 - Bedchamber",
+      "04 7038634357 - Love Unbound (Underside)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/love-unbound_bc9037c33355"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/caded3844f080e5e12a3/Love_Unbound.tar"
+    }
+  }
+}
