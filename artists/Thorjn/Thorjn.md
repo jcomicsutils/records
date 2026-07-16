@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Black Bird](black-bird_0cfb77b23b09/black-bird_0cfb77b23b09.md) | 2023 | FLAC | 00:03:20 | [IA](https://archive.org/details/black-bird_0cfb77b23b09) [FileDitch](https://fileditchfiles.st/beta15/c5228751e6cb5e6918c5/Black_Bird.tar) |
+| [Collision Notes](collision-notes_acb8b097382e/collision-notes_acb8b097382e.md) | 2024 | FLAC | 00:04:05 | [IA](https://archive.org/details/collision-notes_acb8b097382e) [FileDitch](https://fileditchfiles.st/beta15/aad72b3f7c39d898bd1e/Collision_Notes.tar) |
 | [Chrysalis](chrysalis_1a1dde1241cd/chrysalis_1a1dde1241cd.md) | 2025 | FLAC | 00:05:04 | [IA](https://archive.org/details/chrysalis_1a1dde1241cd) [FileDitch](https://fileditchfiles.st/beta15/277ff17593e63b02e869/Chrysalis.tar) |
 | [Bool](bool_1fc89ba6272a/bool_1fc89ba6272a.md) | 2025 | FLAC | 00:05:53 | [IA](https://archive.org/details/bool_1fc89ba6272a) [FileDitch](https://fileditchfiles.st/beta15/fac1da2cdf9e501cdc83/Bool.tar) |
 | [Castle Song](castle-song_3fde026cb83e/castle-song_3fde026cb83e.md) | 2026 | FLAC | 00:03:15 | [IA](https://archive.org/details/castle-song_3fde026cb83e) [FileDitch](https://fileditchfiles.st/beta15/bc4a1fbf4d68119968e3/Castle_Song.tar) |

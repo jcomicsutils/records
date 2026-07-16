@@ -1,0 +1,27 @@
+{
+  "id": "collision-notes_acb8b097382e",
+  "fingerprint": "acb8b097382e0d4df195e51d1aea021dc301fa1675bf9ed0c156701011f987e0",
+  "archived_at": "2026-07-16T23:03:49Z",
+  "metadata": {
+    "title": "Collision Notes",
+    "artist": "Thorjn",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 245,
+    "duration_human": "00:04:05",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Thorjn - Collision Notes"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/collision-notes_acb8b097382e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/aad72b3f7c39d898bd1e/Collision_Notes.tar"
+    }
+  }
+}
