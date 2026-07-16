@@ -1,0 +1,35 @@
+{
+  "id": "life-after-death_e90b2bb7a482",
+  "fingerprint": "e90b2bb7a482d278be8002b61e3c089846ced64c9fcadbb3e5c40906b16aaed2",
+  "archived_at": "2026-07-16T19:39:21Z",
+  "metadata": {
+    "title": "Life After Death",
+    "artist": "Rabit",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2012,
+    "duration_human": "00:33:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Rabit - The Quickening",
+      "02 Rabit - Spiral",
+      "03 Rabit - III",
+      "04 Rabit - All I Have",
+      "05 Rabit - V",
+      "06 Rabit - 6 Devil",
+      "07 Rabit - Dream",
+      "08 Rabit - Blue Death",
+      "09 Rabit - IX (Regret)",
+      "10 Rabit - eX",
+      "11 Rabit - Daydream",
+      "12 Rabit - 12"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/life-after-death_e90b2bb7a482"
+    }
+  }
+}
