@@ -1,0 +1,36 @@
+{
+  "id": "the-magic-bridge_48db5624fccf",
+  "fingerprint": "48db5624fccf668b28a00a4037bc9578193b78a0edfc354e059144e2b0dec961",
+  "archived_at": "2026-07-16T01:46:22Z",
+  "metadata": {
+    "title": "The Magic Bridge",
+    "artist": "Richard Dawson",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3790,
+    "duration_human": "01:03:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Richard Dawson - Juniper Berries Float Down the Stream",
+      "02 Richard Dawson - Black Dog in the Sky",
+      "03 Richard Dawson - Wooden Bag",
+      "04 Richard Dawson - The Bamburgh Beast",
+      "05 Richard Dawson - Grandad's Deathbed Hallucinations",
+      "06 Richard Dawson - Cumberland Rag",
+      "07 Richard Dawson - We Picked Apples in a Graveyard Freshly Mowed",
+      "08 Richard Dawson - Newcastle",
+      "09 Richard Dawson - Man Has Been Struck Down by Hands Unseen",
+      "10 Richard Dawson - The Magic Bridge"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-magic-bridge_48db5624fccf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/d95aabe5f2aa568207ac/The_Magic_Bridge.tar"
+    }
+  }
+}
