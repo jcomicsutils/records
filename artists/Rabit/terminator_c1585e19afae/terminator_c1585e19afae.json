@@ -1,0 +1,34 @@
+{
+  "id": "terminator_c1585e19afae",
+  "fingerprint": "c1585e19afae6f320438ecb79537bed21608b3ac7e0149eebb4c3c0a5c64e2f3",
+  "archived_at": "2026-07-16T20:29:27Z",
+  "metadata": {
+    "title": "Terminator",
+    "artist": "Rabit",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2072,
+    "duration_human": "00:34:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rabit - Terminator",
+      "02 Rabit - So Clean",
+      "03 Rabit - Mainline",
+      "04 Rabit - So Clean (Drippin' Remix)",
+      "05 Rabit - So Clean (Mohegan Son Diq So Clean Remix)",
+      "06 Rabit - Terminator (Five Remix)",
+      "07 Rabit - Terminator (Traxman Chi City Remix)",
+      "08 Rabit - Mainline (Sines Yellow Ladders Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/terminator_c1585e19afae"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/33653b1b461f29937998/Terminator.tar"
+    }
+  }
+}
