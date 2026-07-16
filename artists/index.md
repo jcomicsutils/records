@@ -172,6 +172,7 @@
 - [The No-Neck Blues Band](The-No-Neck-Blues-Band/The-No-Neck-Blues-Band.md)
 - [The Runners From 1984](The-Runners-From-1984/The-Runners-From-1984.md)
 - [The Sleeping Moustache](The-Sleeping-Moustache/The-Sleeping-Moustache.md)
+- [Thorjn](Thorjn/Thorjn.md)
 - [Thorr's Hammer](Thorr's-Hammer/Thorr's-Hammer.md)
 - [To Be Gentle](To-Be-Gentle/To-Be-Gentle.md)
 - [Together to the Stars](Together-to-the-Stars/Together-to-the-Stars.md)

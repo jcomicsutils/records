@@ -1,0 +1,27 @@
+{
+  "id": "we-music_bacece8c9452",
+  "fingerprint": "bacece8c9452f81819a75a4ba34a0dc5e97865add6eab194919c0ef0ae509206",
+  "archived_at": "2026-07-16T22:25:07Z",
+  "metadata": {
+    "title": "'We' Music",
+    "artist": "Thorjn",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 250,
+    "duration_human": "00:04:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 you love me, Thorjn - 'We' Music"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/we-music_bacece8c9452"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/f947cccdd5214e6d0827/We_Music.tar"
+    }
+  }
+}
