@@ -1,0 +1,27 @@
+{
+  "id": "the-pier_e79a2d657cdb",
+  "fingerprint": "e79a2d657cdb853b42463cde27477d3de65232fab83b8bcae530175525b1dab0",
+  "archived_at": "2026-07-16T18:21:55Z",
+  "metadata": {
+    "title": "The Pier",
+    "artist": "MON/KU",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 295,
+    "duration_human": "00:04:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 MON/KU - The Pier"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-pier_e79a2d657cdb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/b7ce32c0cadabf34556d/The_Pier.tar"
+    }
+  }
+}
