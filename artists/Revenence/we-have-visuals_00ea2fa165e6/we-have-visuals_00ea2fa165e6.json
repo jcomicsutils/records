@@ -1,0 +1,27 @@
+{
+  "id": "we-have-visuals_00ea2fa165e6",
+  "fingerprint": "00ea2fa165e6110e302f05f7da58cb02e536c11fc159dd32f99d40acfdcf93d6",
+  "archived_at": "2026-07-16T03:08:35Z",
+  "metadata": {
+    "title": "(we have visuals)",
+    "artist": "Revenence",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2871,
+    "duration_human": "00:47:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Revenence - (we have visuals)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/we-have-visuals_00ea2fa165e6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/a6b8bc4e1698a52f1d8b/we_have_visuals.tar"
+    }
+  }
+}

@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Catalyst](catalyst_b4cc0dfe0864/catalyst_b4cc0dfe0864.md) | 2014 | FLAC | 00:03:56 | [IA](https://archive.org/details/catalyst_b4cc0dfe0864) [FileDitch](https://fileditchfiles.me/beta5/c02a68e3e33f62a64cbf/Catalyst.tar) |
+| [\(we have visuals\)](we-have-visuals_00ea2fa165e6/we-have-visuals_00ea2fa165e6.md) | 2014 | FLAC | 00:47:51 | [IA](https://archive.org/details/we-have-visuals_00ea2fa165e6) [FileDitch](https://fileditchfiles.st/beta15/a6b8bc4e1698a52f1d8b/we_have_visuals.tar) |
 | [Epipogium aphyllum](epipogium-aphyllum_fdbb628026df/epipogium-aphyllum_fdbb628026df.md) | 2014 | FLAC | 00:03:32 | [IA](https://archive.org/details/epipogium-aphyllum_fdbb628026df) [FileDitch](https://fileditchfiles.me/beta6/7d7634783852e62cb29a/Epipogium_aphyllum.tar) |
 | [Intpreatchaton dar Sulka](intpreatchaton-dar-sulka_b03344ce83bb/intpreatchaton-dar-sulka_b03344ce83bb.md) | 2018 | FLAC | 08:09:45 | [FileDitch](https://fileditchfiles.me/beta7/681242932ea98752946c/Intpreatchaton_dar_Sulka.tar) [IA](https://archive.org/details/intpreatchaton-dar-sulka_b03344ce83bb) |
 | [Beluga Whale Stomach](beluga-whale-stomach_8405994c29d3/beluga-whale-stomach_8405994c29d3.md) | 2019 | FLAC | 00:39:24 | [IA](https://archive.org/details/beluga-whale-stomach_8405994c29d3) [FileDitch](https://fileditchfiles.me/file.php?f=/beta4/14d4c8ee242b077508bf/Beluga_Whale_Stomach.tar) |
