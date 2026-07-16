@@ -1,0 +1,27 @@
+{
+  "id": "god-blessed-the-girl_0055edc6d81d",
+  "fingerprint": "0055edc6d81d7796a315697272c4aa41e796127b31d0aeb213fba110337244d1",
+  "archived_at": "2026-07-16T22:04:05Z",
+  "metadata": {
+    "title": "god blessed the girl",
+    "artist": ".cutspace",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 101,
+    "duration_human": "00:01:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 .cutspace, $amaad - god blessed the girl"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/god-blessed-the-girl_0055edc6d81d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/250c07ef7d0625f1d389/god_blessed_the_girl.tar"
+    }
+  }
+}
