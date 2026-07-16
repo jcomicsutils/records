@@ -1,0 +1,28 @@
+{
+  "id": "a-tabu-two-2_f16774b20bb6",
+  "fingerprint": "f16774b20bb636c62fadecf683223a4af9126fa04a535ea38399ebe49267d51f",
+  "archived_at": "2026-07-16T05:30:22Z",
+  "metadata": {
+    "title": "A Tabu Two 2",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2313,
+    "duration_human": "00:38:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - A Tabu Two A",
+      "02 The No-Neck Blues Band - A Tabu Two B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-tabu-two-2_f16774b20bb6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/c0bfe037ab393402f61f/A_Tabu_Two_2.tar"
+    }
+  }
+}
