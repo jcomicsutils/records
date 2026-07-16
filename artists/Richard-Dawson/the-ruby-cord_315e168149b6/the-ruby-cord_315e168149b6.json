@@ -1,0 +1,33 @@
+{
+  "id": "the-ruby-cord_315e168149b6",
+  "fingerprint": "315e168149b6e9db5db5079f12752750e1dc0820196a864eb3ad262233c2cb2b",
+  "archived_at": "2026-07-16T02:17:05Z",
+  "metadata": {
+    "title": "The Ruby Cord",
+    "artist": "Richard Dawson",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 4851,
+    "duration_human": "01:20:51",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Richard Dawson - The Hermit",
+      "02 Richard Dawson - Thicker Than Water",
+      "03 Richard Dawson - The Fool",
+      "04 Richard Dawson - Museum",
+      "05 Richard Dawson - The Tip of an Arrow",
+      "06 Richard Dawson - No-one",
+      "07 Richard Dawson - Horse and Rider"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-ruby-cord_315e168149b6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/8f9209fe7263d13150e2/The_Ruby_Cord.tar"
+    }
+  }
+}
