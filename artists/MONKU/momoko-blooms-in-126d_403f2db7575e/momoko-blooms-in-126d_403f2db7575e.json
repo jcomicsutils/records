@@ -1,0 +1,39 @@
+{
+  "id": "momoko-blooms-in-126d_403f2db7575e",
+  "fingerprint": "403f2db7575ea3bfa2f0caae43a26a4c7a22af105026a11fc272275239cb1786",
+  "archived_at": "2026-07-16T18:03:59Z",
+  "metadata": {
+    "title": "MOMOKO blooms in 1.26D",
+    "artist": "MON/KU",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_seconds": 3769,
+    "duration_human": "01:02:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 MON/KU - nu7",
+      "02 MON/KU - al8",
+      "03 MON/KU - yu-32",
+      "04 MON/KU - Tloo-23",
+      "05 MON/KU - closed section",
+      "06 MON/KU - HERBALISM",
+      "07 MON/KU - S I N K",
+      "08 MON/KU - Blue Gas",
+      "09 MON/KU - Sixth Horn",
+      "10 MON/KU - 5:00 p.m. i n t e r l u d e",
+      "11 MON/KU - The Sense of Taste",
+      "12 MON/KU - STUCK IN MY ARM",
+      "13 MON/KU - Straw",
+      "14 MON/KU - Swell",
+      "15 MON/KU - MOMOKO",
+      "16 MON/KU - muuu6"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/momoko-blooms-in-126d_403f2db7575e"
+    }
+  }
+}

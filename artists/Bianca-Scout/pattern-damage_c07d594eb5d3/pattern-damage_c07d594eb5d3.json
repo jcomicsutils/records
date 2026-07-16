@@ -1,0 +1,38 @@
+{
+  "id": "pattern-damage_c07d594eb5d3",
+  "fingerprint": "c07d594eb5d3e289b4c9f4939a972b706aed19dbd781847e89e3cba22a0e920c",
+  "archived_at": "2026-07-16T18:04:22Z",
+  "metadata": {
+    "title": "Pattern Damage",
+    "artist": "Bianca Scout",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2390,
+    "duration_human": "00:39:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bianca Scout - Intro",
+      "02 Bianca Scout - Forest Spirit",
+      "03 Bianca Scout - Midnight",
+      "04 Bianca Scout - Interlude",
+      "05 Bianca Scout - Chances",
+      "06 Bianca Scout - Desert",
+      "07 Bianca Scout - Lead Us",
+      "08 Bianca Scout - When My Heart Is Lonely (Monks Orchard)",
+      "09 Bianca Scout - Passage",
+      "10 Bianca Scout - Almost Nothing",
+      "11 Bianca Scout - I Don't Sleep",
+      "12 Bianca Scout - Anon's Song"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pattern-damage_c07d594eb5d3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/e1f4227f67fd2dd680f9/Pattern_Damage.tar"
+    }
+  }
+}
