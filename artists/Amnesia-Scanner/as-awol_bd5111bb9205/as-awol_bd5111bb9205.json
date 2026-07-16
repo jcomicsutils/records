@@ -1,0 +1,27 @@
+{
+  "id": "as-awol_bd5111bb9205",
+  "fingerprint": "bd5111bb9205a47cd1327674008c7d389bf1d0ca480ff518d6b5a2911642c177",
+  "archived_at": "2026-07-16T20:37:43Z",
+  "metadata": {
+    "title": "AS A.W.O.L.",
+    "artist": "Amnesia Scanner",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 209,
+    "duration_human": "00:03:29",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Amnesia Scanner - AS A.W.O.L."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/as-awol_bd5111bb9205"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/119649ff1b4f564bc374/AS_A.W.O.L.tar"
+    }
+  }
+}
