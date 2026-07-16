@@ -1,0 +1,30 @@
+{
+  "id": "baptizm_03d93b9c409a",
+  "fingerprint": "03d93b9c409a173823fd9a2aaf11c3f60ad2b20d78e82fc810e274b38310d74c",
+  "archived_at": "2026-07-16T18:29:08Z",
+  "metadata": {
+    "title": "Baptizm",
+    "artist": "Rabit",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 641,
+    "duration_human": "00:10:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rabit - Imp",
+      "02 Rabit - Bloody Eye",
+      "03 Rabit - Hex",
+      "04 Rabit - Straps"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/baptizm_03d93b9c409a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/d544761266e2ab9ccbbb/Baptizm.tar"
+    }
+  }
+}
