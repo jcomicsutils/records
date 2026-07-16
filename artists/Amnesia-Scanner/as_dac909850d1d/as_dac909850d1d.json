@@ -1,0 +1,32 @@
+{
+  "id": "as_dac909850d1d",
+  "fingerprint": "dac909850d1dfa5dc1ecb038a4ef449b5bacad95bf1345d08ad9eeff62ca453d",
+  "archived_at": "2026-07-16T20:36:12Z",
+  "metadata": {
+    "title": "AS",
+    "artist": "Amnesia Scanner",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1282,
+    "duration_human": "00:21:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Amnesia Scanner - AS Gardens Need Walls",
+      "02 Amnesia Scanner - AS Chingy",
+      "03 Amnesia Scanner - AS Crust",
+      "04 Amnesia Scanner - AS Wood Gas",
+      "05 Amnesia Scanner - AS Want It",
+      "06 Amnesia Scanner - AS Atlas"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/as_dac909850d1d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/a1721d8a77d572cf6166/AS.tar"
+    }
+  }
+}
