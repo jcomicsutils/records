@@ -1,0 +1,27 @@
+{
+  "id": "bool_1fc89ba6272a",
+  "fingerprint": "1fc89ba6272a1148477352ff121e736da889d55a7795f0b3fa975ceb51a60eed",
+  "archived_at": "2026-07-16T22:54:27Z",
+  "metadata": {
+    "title": "Bool",
+    "artist": "Thorjn",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 353,
+    "duration_human": "00:05:53",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Rissan, Thorjn - Bool"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bool_1fc89ba6272a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/fac1da2cdf9e501cdc83/Bool.tar"
+    }
+  }
+}
