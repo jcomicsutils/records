@@ -1,0 +1,39 @@
+{
+  "id": "what-dreams-may-come_94fc7d6d7eb8",
+  "fingerprint": "94fc7d6d7eb8211d41bee71cdc797c048de43d55c4a51360f61c5d941c98cb4b",
+  "archived_at": "2026-07-16T22:16:27Z",
+  "metadata": {
+    "title": "What Dreams May Come",
+    "artist": "Rabit",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 2823,
+    "duration_human": "00:47:03",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Rabit - No Ceiling",
+      "02 Rabit - Georgia Boy",
+      "03 Rabit - Angelica",
+      "04 Rabit - The Growth Interlude",
+      "05 Rabit - Epiphany",
+      "06 Rabit - Safe",
+      "07 Rabit - Bad Dreams",
+      "08 Rabit - No Air",
+      "09 Rabit - TRU",
+      "10 Rabit - Georgia Boy Interlude",
+      "11 Rabit - New Days",
+      "12 Rabit - Requiem",
+      "13 Rabit - Reprise"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/what-dreams-may-come_94fc7d6d7eb8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/29098c4d6c01dfd4e579/What_Dreams_May_Come.tar"
+    }
+  }
+}
