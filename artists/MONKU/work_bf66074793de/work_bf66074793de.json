@@ -1,0 +1,28 @@
+{
+  "id": "work_bf66074793de",
+  "fingerprint": "bf66074793de1b34980e6123107785e8f95c521e68a78fe49ffeec500f9f9e47",
+  "archived_at": "2026-07-16T18:25:09Z",
+  "metadata": {
+    "title": "WORK",
+    "artist": "MON/KU",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 664,
+    "duration_human": "00:11:04",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Till Yawuh, MON/KU - WORK",
+      "02 Till Yawuh, MON/KU - WORK (Till Yawuh Rework)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/work_bf66074793de"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/a2224fccf589d65e6a73/WORK.tar"
+    }
+  }
+}
