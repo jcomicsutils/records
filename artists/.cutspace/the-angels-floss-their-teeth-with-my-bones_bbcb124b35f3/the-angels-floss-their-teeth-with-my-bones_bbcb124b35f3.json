@@ -1,0 +1,31 @@
+{
+  "id": "the-angels-floss-their-teeth-with-my-bones_bbcb124b35f3",
+  "fingerprint": "bbcb124b35f322a294a41a45f54b098d9350ef22e91712808c7e1ad148214fb9",
+  "archived_at": "2026-07-16T22:19:26Z",
+  "metadata": {
+    "title": "the angels floss their teeth with my bones",
+    "artist": ".cutspace",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 476,
+    "duration_human": "00:07:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 .cutspace - pull it off",
+      "02 .cutspace - head trauma",
+      "03 .cutspace - sacrifice",
+      "04 .cutspace - 237",
+      "05 .cutspace - vogue"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-angels-floss-their-teeth-with-my-bones_bbcb124b35f3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/dcd4d3f6c9f2e38b527c/the_angels_floss_their_teeth_with_my_bones.tar"
+    }
+  }
+}
