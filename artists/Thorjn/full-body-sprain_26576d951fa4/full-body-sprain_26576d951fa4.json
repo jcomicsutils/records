@@ -1,0 +1,37 @@
+{
+  "id": "full-body-sprain_26576d951fa4",
+  "fingerprint": "26576d951fa4e44f48a95236085af1add034c1d4db89c5391c5b254fb0f2d1b2",
+  "archived_at": "2026-07-16T23:51:59Z",
+  "metadata": {
+    "title": "Full Body Sprain",
+    "artist": "Thorjn",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2554,
+    "duration_human": "00:42:34",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Thorjn - Collision Notes",
+      "02 Thorjn - A Clear .",
+      "03 Thorjn - Steal Progression",
+      "04 Thorjn - Way Elm",
+      "05 Thorjn - Circadian",
+      "06 Thorjn - ꕥ (Petal)",
+      "07 Thorjn - ∞:",
+      "08 Thorjn - Vapour",
+      "09 Thorjn - Drag ꧁our꧂ Wings",
+      "10 Thorjn - Tail Bite",
+      "11 Thorjn - Solar Plexus"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/full-body-sprain_26576d951fa4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/0b6e59ee37d6d822fbf6/Full_Body_Sprain.tar"
+    }
+  }
+}
