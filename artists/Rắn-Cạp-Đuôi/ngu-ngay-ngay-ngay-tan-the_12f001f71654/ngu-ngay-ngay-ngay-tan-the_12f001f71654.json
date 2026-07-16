@@ -1,0 +1,34 @@
+{
+  "id": "ngu-ngay-ngay-ngay-tan-the_12f001f71654",
+  "fingerprint": "12f001f71654637488d57e71ef7c9dd0f14d119875ab498ca9803a8bc2abd4a1",
+  "archived_at": "2026-07-16T22:39:58Z",
+  "metadata": {
+    "title": "Ngủ Ngày Ngay Ngày Tận Thế",
+    "artist": "Rắn Cạp Đuôi",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1633,
+    "duration_human": "00:27:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rắn Cạp Đuôi - Images",
+      "02 Rắn Cạp Đuôi - Eri Eri Eri Eri Eri Rema Rema Rema Rema Rema",
+      "03 Rắn Cạp Đuôi - Distant People",
+      "04 Rắn Cạp Đuôi - Mực nang",
+      "05 Rắn Cạp Đuôi - Infinite",
+      "06 Rắn Cạp Đuôi - Aztec Glue",
+      "07 Rắn Cạp Đuôi - Denial and Caves",
+      "08 Rắn Cạp Đuôi - Đme giựt mồng"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ngu-ngay-ngay-ngay-tan-the_12f001f71654"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/111b75e0b7a267783f3d/Ng_Ng_y_Ngay_Ng_y_T_n_Th.tar"
+    }
+  }
+}
