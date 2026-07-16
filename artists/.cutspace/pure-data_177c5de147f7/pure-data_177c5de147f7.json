@@ -1,0 +1,38 @@
+{
+  "id": "pure-data_177c5de147f7",
+  "fingerprint": "177c5de147f7d42abeb78d7e6a0de48b9d913a43c71e879b6f89c3a4babee7ca",
+  "archived_at": "2026-07-16T22:12:45Z",
+  "metadata": {
+    "title": "pure data",
+    "artist": ".cutspace",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 1572,
+    "duration_human": "00:26:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 .cutspace, ShiniGami - all that remains",
+      "02 .cutspace, ShiniGami - snow",
+      "03 .cutspace, ShiniGami - crestfallen",
+      "04 .cutspace, ShiniGami - there will be blood",
+      "05 .cutspace, ShiniGami - the mark i wear :: endless hymn",
+      "06 .cutspace, ShiniGami - targeted individual",
+      "07 .cutspace, ShiniGami - 343",
+      "08 .cutspace, ShiniGami - new terrain",
+      "09 .cutspace, ShiniGami - the burden of Knowing",
+      "10 .cutspace, ShiniGami - drain my battery",
+      "11 .cutspace, ShiniGami - saving grace",
+      "12 .cutspace, ShiniGami - when these days End"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pure-data_177c5de147f7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/a62182d50aacec31f178/pure_data.tar"
+    }
+  }
+}
