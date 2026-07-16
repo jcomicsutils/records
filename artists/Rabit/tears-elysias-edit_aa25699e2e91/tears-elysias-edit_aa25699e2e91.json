@@ -1,0 +1,27 @@
+{
+  "id": "tears-elysias-edit_aa25699e2e91",
+  "fingerprint": "aa25699e2e91bde319ab8a82b254b24e785a41e7056dd79948032d5fbc79c679",
+  "archived_at": "2026-07-16T19:55:43Z",
+  "metadata": {
+    "title": "TEARS (ELYSIA'S EDIT)",
+    "artist": "Rabit",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 239,
+    "duration_human": "00:03:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rabit - TEARS (ELYSIA'S EDIT)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tears-elysias-edit_aa25699e2e91"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/b123ddc8e802f65a6767/TEARS_ELYSIA_S_EDIT.tar"
+    }
+  }
+}
