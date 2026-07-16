@@ -1,0 +1,33 @@
+{
+  "id": "anyas-garden_3bfc573adfe7",
+  "fingerprint": "3bfc573adfe7a04604b9c3a86ae10a8f295e6d97134af48a7bcecd7cea728dd3",
+  "archived_at": "2026-07-16T19:01:18Z",
+  "metadata": {
+    "title": "Anya's Garden",
+    "artist": "Chino Amobi",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1425,
+    "duration_human": "00:23:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Chino Amobi - Anya's Garden (Prelude)",
+      "02 Chino Amobi - The Prisoners of Nymphaion",
+      "03 Chino Amobi - Roneqah's Theme (Vision of Judgement)",
+      "04 Chino Amobi - Mountains of Villeneuve",
+      "05 Chino Amobi - Prayer (The Masque of Anarchy)",
+      "06 Chino Amobi - Lady of Shallot",
+      "07 Chino Amobi - Anya's Garden (Fugue)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/anyas-garden_3bfc573adfe7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/ab238549229398e67d83/Anya_s_Garden.tar"
+    }
+  }
+}
