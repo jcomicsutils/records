@@ -1,0 +1,27 @@
+{
+  "id": "square-heart_fb5ea9ca6148",
+  "fingerprint": "fb5ea9ca614881a6660f65b06527d44019a1d57bd91da1e73cbceedc35a5871b",
+  "archived_at": "2026-07-16T19:19:19Z",
+  "metadata": {
+    "title": "Square Heart",
+    "artist": "7038634357",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 262,
+    "duration_human": "00:04:22",
+    "sampling_rate": "88.2kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 7038634357 - Square Heart"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/square-heart_fb5ea9ca6148"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/1ab5874e4f4c2a1fa512/Square_Heart.tar"
+    }
+  }
+}
