@@ -1,0 +1,41 @@
+{
+  "id": "communion-decennium-edition_1143fbae7dae",
+  "fingerprint": "1143fbae7dae5502790766fadd348256d7a7b07f4ed5144f77efdffc0e561164",
+  "archived_at": "2026-07-16T19:16:58Z",
+  "metadata": {
+    "title": "Communion (Decennium Edition)",
+    "artist": "Rabit",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 2823,
+    "duration_human": "00:47:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "1-01 Rabit - Advent",
+      "1-02 Rabit - Snow Leopard",
+      "1-03 Rabit - Fetal",
+      "1-04 Rabit - Artemis",
+      "1-05 Rabit - Ox",
+      "1-06 Rabit - Flesh Covers the Bone",
+      "1-07 Rabit - Pandemic",
+      "1-08 Rabit - Burnerz",
+      "1-09 Rabit - Glass Harp Interlude",
+      "1-10 Rabit - Black Gates",
+      "1-11 Rabit - Trapped In This Body",
+      "2-01 Rabit - Looming",
+      "2-02 Rabit - LostFile2",
+      "2-03 Rabit - The Daughter Of The Firmament",
+      "2-04 Rabit - Epidemikkk"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/communion-decennium-edition_1143fbae7dae"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/4c69d31ac800c91f9a69/Communion_Decennium_Edition.tar"
+    }
+  }
+}
