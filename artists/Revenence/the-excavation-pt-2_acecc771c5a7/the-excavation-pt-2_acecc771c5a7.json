@@ -1,0 +1,27 @@
+{
+  "id": "the-excavation-pt-2_acecc771c5a7",
+  "fingerprint": "acecc771c5a7e134b1bd631dbb33566c34ff14803989a92a00eac0e424298c0b",
+  "archived_at": "2026-07-16T04:32:50Z",
+  "metadata": {
+    "title": "The Excavation, Pt. 2",
+    "artist": "Revenence",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1937,
+    "duration_human": "00:32:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Revenence - Goodbye"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-excavation-pt-2_acecc771c5a7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/2968dad23196f50aea3c/The_Excavation_Pt._2.tar"
+    }
+  }
+}

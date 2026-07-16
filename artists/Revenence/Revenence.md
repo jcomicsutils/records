@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [The Excavation, Pt. 2](the-excavation-pt-2_acecc771c5a7/the-excavation-pt-2_acecc771c5a7.md) | 2014 | FLAC | 00:32:17 | [IA](https://archive.org/details/the-excavation-pt-2_acecc771c5a7) [FileDitch](https://fileditchfiles.st/beta15/2968dad23196f50aea3c/The_Excavation_Pt._2.tar) |
 | [Catalyst](catalyst_b4cc0dfe0864/catalyst_b4cc0dfe0864.md) | 2014 | FLAC | 00:03:56 | [IA](https://archive.org/details/catalyst_b4cc0dfe0864) [FileDitch](https://fileditchfiles.me/beta5/c02a68e3e33f62a64cbf/Catalyst.tar) |
 | [\(we have visuals\)](we-have-visuals_00ea2fa165e6/we-have-visuals_00ea2fa165e6.md) | 2014 | FLAC | 00:47:51 | [IA](https://archive.org/details/we-have-visuals_00ea2fa165e6) [FileDitch](https://fileditchfiles.st/beta15/a6b8bc4e1698a52f1d8b/we_have_visuals.tar) |
 | [Epipogium aphyllum](epipogium-aphyllum_fdbb628026df/epipogium-aphyllum_fdbb628026df.md) | 2014 | FLAC | 00:03:32 | [IA](https://archive.org/details/epipogium-aphyllum_fdbb628026df) [FileDitch](https://fileditchfiles.me/beta6/7d7634783852e62cb29a/Epipogium_aphyllum.tar) |
