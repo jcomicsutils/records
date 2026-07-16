@@ -1,0 +1,27 @@
+{
+  "id": "there-will-be-blood_67973531f6d3",
+  "fingerprint": "67973531f6d37fc6937784c011e618693aca6d315896d4257f3a5ff6618bbb07",
+  "archived_at": "2026-07-16T22:21:05Z",
+  "metadata": {
+    "title": "there will be blood",
+    "artist": ".cutspace",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 114,
+    "duration_human": "00:01:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 .cutspace, ShiniGami - there will be blood"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/there-will-be-blood_67973531f6d3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/4496abf86260426cba77/there_will_be_blood.tar"
+    }
+  }
+}
