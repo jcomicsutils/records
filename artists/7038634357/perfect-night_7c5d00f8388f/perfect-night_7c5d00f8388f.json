@@ -1,0 +1,27 @@
+{
+  "id": "perfect-night_7c5d00f8388f",
+  "fingerprint": "7c5d00f8388fb2dc07092107f251b49b83638987d69d68ccbd648733fed0745e",
+  "archived_at": "2026-07-16T18:50:24Z",
+  "metadata": {
+    "title": "Perfect Night",
+    "artist": "7038634357",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 260,
+    "duration_human": "00:04:20",
+    "sampling_rate": "88.2kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 7038634357 - Perfect Night"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/perfect-night_7c5d00f8388f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/3b2d45d32fa0b5a4ff6b/Perfect_Night.tar"
+    }
+  }
+}
