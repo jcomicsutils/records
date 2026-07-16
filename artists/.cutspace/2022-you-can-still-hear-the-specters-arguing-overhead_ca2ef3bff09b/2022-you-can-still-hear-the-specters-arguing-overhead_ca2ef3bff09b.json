@@ -1,0 +1,32 @@
+{
+  "id": "2022-you-can-still-hear-the-specters-arguing-overhead_ca2ef3bff09b",
+  "fingerprint": "ca2ef3bff09b8685360d4e4b51fbf39ba5d5972cb4915428b68add4e18ddeb5f",
+  "archived_at": "2026-07-16T21:58:47Z",
+  "metadata": {
+    "title": "2022: you can still hear the Specters arguing overhead.",
+    "artist": ".cutspace",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1401,
+    "duration_human": "00:23:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 .cutspace - hauberk",
+      "02 .cutspace - how did we fend them off: the vitreous fettles which once devoured us?",
+      "03 .cutspace - there are Drums between the Bells, and no Thought will escape this unforgiving Density.",
+      "04 .cutspace - look Around! all the promises you've nursed are Swimming away.",
+      "05 .cutspace - i've seen Tall laughs perch on Curiosity's veneers.",
+      "06 .cutspace - knot these Murmurs, and remit to Tabula Rasa."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/2022-you-can-still-hear-the-specters-arguing-overhead_ca2ef3bff09b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/b9551dc312f323ea68f6/2022_you_can_still_hear_the_Specters_arguing_overhead.tar"
+    }
+  }
+}
