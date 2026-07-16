@@ -1,0 +1,27 @@
+{
+  "id": "bad-dreams_8f58da371ce7",
+  "fingerprint": "8f58da371ce7896e63f790be9469e854072c923ac35feb1ee58b434c167bcead",
+  "archived_at": "2026-07-16T18:27:10Z",
+  "metadata": {
+    "title": "Bad Dreams",
+    "artist": "Rabit",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 221,
+    "duration_human": "00:03:41",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Rabit - Bad Dreams"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bad-dreams_8f58da371ce7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/4f8e5d53fd0a947f8256/Bad_Dreams.tar"
+    }
+  }
+}
