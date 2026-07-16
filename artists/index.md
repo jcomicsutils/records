@@ -12,6 +12,7 @@
 - [Akkajee](Akkajee/Akkajee.md)
 - [Alcest](Alcest/Alcest.md)
 - [Alexander Gregory Kent](Alexander-Gregory-Kent/Alexander-Gregory-Kent.md)
+- [Alexander Panos](Alexander-Panos/Alexander-Panos.md)
 - [Algebra Suicide](Algebra-Suicide/Algebra-Suicide.md)
 - [Amor Muere](Amor-Muere/Amor-Muere.md)
 - [And We Walk Endlessly Towards The Sun](And-We-Walk-Endlessly-Towards-The-Sun/And-We-Walk-Endlessly-Towards-The-Sun.md)

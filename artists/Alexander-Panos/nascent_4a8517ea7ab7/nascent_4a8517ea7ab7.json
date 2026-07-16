@@ -1,0 +1,36 @@
+{
+  "id": "nascent_4a8517ea7ab7",
+  "fingerprint": "4a8517ea7ab72a813489a7721cd1a736a4538cb5e6f5a6511129ed35b840f69a",
+  "archived_at": "2026-07-16T19:47:04Z",
+  "metadata": {
+    "title": "Nascent",
+    "artist": "Alexander Panos",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2130,
+    "duration_human": "00:35:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Alexander Panos - Q Windswept",
+      "02 Alexander Panos - Cycles",
+      "03 Alexander Panos - Sutter",
+      "04 Alexander Panos - 36523_red/blue",
+      "05 Alexander Panos - reasonsnotto",
+      "06 Alexander Panos - Dream Extinction",
+      "07 Alexander Panos - Equinox (Prelude)",
+      "08 Alexander Panos - Equinox",
+      "09 Alexander Panos - catch it",
+      "10 Alexander Panos - re:Turning"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nascent_4a8517ea7ab7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/358eb040a80d5ed457d6/Nascent.tar"
+    }
+  }
+}
