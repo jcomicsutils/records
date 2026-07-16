@@ -1,0 +1,28 @@
+{
+  "id": "aftypiclipse-for-jazzfinger-lp_ce75c159ebc4",
+  "fingerprint": "ce75c159ebc408630f2d01689e7169c725eff9c69a15ddef66384cac08651128",
+  "archived_at": "2026-07-16T06:10:46Z",
+  "metadata": {
+    "title": "Aftypiclipse (For Jazzfinger) LP",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2561,
+    "duration_human": "00:42:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - Side A",
+      "02 The No-Neck Blues Band - Side B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/aftypiclipse-for-jazzfinger-lp_ce75c159ebc4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/e918a689ca21da5f808b/Aftypiclipse_For_Jazzfinger_LP.tar"
+    }
+  }
+}
