@@ -144,6 +144,7 @@
 - [Richard Dawson](Richard-Dawson/Richard-Dawson.md)
 - [Roel Meelkop](Roel-Meelkop/Roel-Meelkop.md)
 - [Ruf-Neck Piano](Ruf-Neck-Piano/Ruf-Neck-Piano.md)
+- [Rắn Cạp Đuôi](Rắn-Cạp-Đuôi/Rắn-Cạp-Đuôi.md)
 - [Sarin](Sarin/Sarin.md)
 - [Serpentmouth](Serpentmouth/Serpentmouth.md)
 - [Serpentmouth / Generated Missiân ZFN](Serpentmouth-Generated-Missiân-ZFN/Serpentmouth-Generated-Missiân-ZFN.md)

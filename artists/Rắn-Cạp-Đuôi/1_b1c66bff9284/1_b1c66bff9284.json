@@ -1,0 +1,35 @@
+{
+  "id": "1_b1c66bff9284",
+  "fingerprint": "b1c66bff928498ef7bb4aa3fc4266f4fd078aaa2e5931d107aba943e9d054d43",
+  "archived_at": "2026-07-16T22:31:09Z",
+  "metadata": {
+    "title": "*1",
+    "artist": "Rắn Cạp Đuôi",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1744,
+    "duration_human": "00:29:04",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Rắn Cạp Đuôi - Straws",
+      "02 Rắn Cạp Đuôi - What Cherubs",
+      "03 Rắn Cạp Đuôi - Nhộng Tằm",
+      "04 Rắn Cạp Đuôi - Bloody",
+      "05 Rắn Cạp Đuôi - Untitled 2",
+      "06 Rắn Cạp Đuôi - Pressure",
+      "07 Rắn Cạp Đuôi - Mang Theo Tôi Nữa",
+      "08 Rắn Cạp Đuôi - The Virgin Mary In The Grilled Cheese",
+      "09 Rắn Cạp Đuôi - Bugs Life"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1_b1c66bff9284"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/5b12439469585f7424bf/1.tar"
+    }
+  }
+}
