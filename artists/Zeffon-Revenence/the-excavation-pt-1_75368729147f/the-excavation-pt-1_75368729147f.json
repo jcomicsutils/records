@@ -1,0 +1,28 @@
+{
+  "id": "the-excavation-pt-1_75368729147f",
+  "fingerprint": "75368729147f9d0370738b0643d955ffebfd230f91e745c73db9515bfcd4d81c",
+  "archived_at": "2026-07-16T04:31:59Z",
+  "metadata": {
+    "title": "The Excavation, Pt. 1",
+    "artist": "Zeffon / Revenence",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1067,
+    "duration_human": "00:17:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Excavation (Shrunken Heads)",
+      "02 Revenence - The Excavation (Temple Worship)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-excavation-pt-1_75368729147f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/3ee4a3ff27a5cd6d829d/The_Excavation_Pt._1.tar"
+    }
+  }
+}
