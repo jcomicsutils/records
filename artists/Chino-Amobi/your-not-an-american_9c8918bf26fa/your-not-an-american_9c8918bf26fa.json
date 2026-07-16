@@ -1,0 +1,35 @@
+{
+  "id": "your-not-an-american_9c8918bf26fa",
+  "fingerprint": "9c8918bf26fa1bc777e6d08a1e5d58ea9ea1147cd7253eeee341d8272ddae03a",
+  "archived_at": "2026-07-16T21:39:43Z",
+  "metadata": {
+    "title": "YOUR NOT AN AMERICAN",
+    "artist": "Chino Amobi",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1828,
+    "duration_human": "00:30:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Chino Amobi - American Exceptionalism",
+      "02 Chino Amobi - Soon We Will Be Naked Together",
+      "03 Chino Amobi - I Wrote This Song For That Girl Bunny Rogers",
+      "04 Chino Amobi - Texas (The New Middle East) YJ",
+      "05 Chino Amobi - Persia",
+      "06 Chino Amobi - You're Not Am American",
+      "07 Chino Amobi - Lara (Ressurection Day Baptism)",
+      "08 Chino Amobi - Zoë (Bare Life)",
+      "09 Chino Amobi - Death To America"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/your-not-an-american_9c8918bf26fa"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/e01ab699133d2d725727/YOUR_NOT_AN_AMERICAN.tar"
+    }
+  }
+}
