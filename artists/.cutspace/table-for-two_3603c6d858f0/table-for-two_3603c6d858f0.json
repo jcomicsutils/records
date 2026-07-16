@@ -1,0 +1,27 @@
+{
+  "id": "table-for-two_3603c6d858f0",
+  "fingerprint": "3603c6d858f0c5b666e9f491d327930a05238e37d64055a7c71fca9c546faeb9",
+  "archived_at": "2026-07-16T22:18:24Z",
+  "metadata": {
+    "title": "table for two",
+    "artist": ".cutspace",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 194,
+    "duration_human": "00:03:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 .cutspace - table for two"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/table-for-two_3603c6d858f0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/bc873c818dc4813c01e2/table_for_two.tar"
+    }
+  }
+}
