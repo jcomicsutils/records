@@ -1,0 +1,34 @@
+{
+  "id": "the-ocean-is-a-demon_9e24650c1b24",
+  "fingerprint": "9e24650c1b24293df71b18562ffb30267702b65b281b193e713b7451d18daae8",
+  "archived_at": "2026-07-16T23:27:44Z",
+  "metadata": {
+    "title": "The Ocean is a Demon",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 8556,
+    "duration_human": "02:22:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - City of Rata-Ahga",
+      "02 Zeffon - Dotajmari, and the Ocean Fear",
+      "03 Zeffon - Hope Song",
+      "04 Zeffon - The Angels Sing",
+      "05 Zeffon - The Ocean is a Demon",
+      "06 Zeffon - 'Killing Hands' (The Brother of Ocean)",
+      "07 Zeffon - Metal",
+      "08 Zeffon - The Sister of Ocean"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-ocean-is-a-demon_9e24650c1b24"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/6db811ba9ed698b98964/The_Ocean_is_a_Demon.tar"
+    }
+  }
+}
