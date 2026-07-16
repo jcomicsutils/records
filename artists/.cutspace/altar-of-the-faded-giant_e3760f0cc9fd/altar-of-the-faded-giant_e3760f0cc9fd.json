@@ -1,0 +1,27 @@
+{
+  "id": "altar-of-the-faded-giant_e3760f0cc9fd",
+  "fingerprint": "e3760f0cc9fda0123d80029bab345018c421e08a9ec41ee29d014aa113ddb14f",
+  "archived_at": "2026-07-16T22:00:06Z",
+  "metadata": {
+    "title": "Altar of the Faded Giant",
+    "artist": ".cutspace",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 86,
+    "duration_human": "00:01:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 .cutspace - Altar of the Faded Giant"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/altar-of-the-faded-giant_e3760f0cc9fd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/92dae70602fa10251f4e/Altar_of_the_Faded_Giant.tar"
+    }
+  }
+}
