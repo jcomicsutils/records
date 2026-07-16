@@ -1,0 +1,27 @@
+{
+  "id": "eye-contact_bdd5e53b9f30",
+  "fingerprint": "bdd5e53b9f3032c232da0ff9df19980600060cf7caf749ec37ab645e2e388862",
+  "archived_at": "2026-07-16T16:27:11Z",
+  "metadata": {
+    "title": "Eye Contact",
+    "artist": "7038634357",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 218,
+    "duration_human": "00:03:38",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 7038634357 - Eye Contact"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/eye-contact_bdd5e53b9f30"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/dd2af9a7acd158ca3853/Eye_Contact.tar"
+    }
+  }
+}
