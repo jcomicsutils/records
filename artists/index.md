@@ -14,6 +14,7 @@
 - [Alexander Gregory Kent](Alexander-Gregory-Kent/Alexander-Gregory-Kent.md)
 - [Alexander Panos](Alexander-Panos/Alexander-Panos.md)
 - [Algebra Suicide](Algebra-Suicide/Algebra-Suicide.md)
+- [Amnesia Scanner](Amnesia-Scanner/Amnesia-Scanner.md)
 - [Amor Muere](Amor-Muere/Amor-Muere.md)
 - [And We Walk Endlessly Towards The Sun](And-We-Walk-Endlessly-Towards-The-Sun/And-We-Walk-Endlessly-Towards-The-Sun.md)
 - [Andy Boay](Andy-Boay/Andy-Boay.md)
