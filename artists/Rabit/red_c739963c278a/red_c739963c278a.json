@@ -1,0 +1,27 @@
+{
+  "id": "red_c739963c278a",
+  "fingerprint": "c739963c278a4d2488f3dc49149b872c9049ab34fc933c2f2a8efb039eecaa56",
+  "archived_at": "2026-07-16T19:42:26Z",
+  "metadata": {
+    "title": "RED",
+    "artist": "Rabit",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 228,
+    "duration_human": "00:03:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rabit, Croww - RED"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/red_c739963c278a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/397e83057c9b1c0173e7/RED.tar"
+    }
+  }
+}

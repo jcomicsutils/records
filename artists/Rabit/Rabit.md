@@ -13,4 +13,5 @@
 | [Bad Dreams](bad-dreams_8f58da371ce7/bad-dreams_8f58da371ce7.md) | 2022 | FLAC | 00:03:41 | [IA](https://archive.org/details/bad-dreams_8f58da371ce7) [FileDitch](https://fileditchfiles.st/beta15/4f8e5d53fd0a947f8256/Bad_Dreams.tar) |
 | [No Ceiling](no-ceiling_a389df08eea9/no-ceiling_a389df08eea9.md) | 2022 | FLAC | 00:01:51 | [IA](https://archive.org/details/no-ceiling_a389df08eea9) [FileDitch](https://fileditchfiles.st/beta15/a8e4eccef379b113a59c/No_Ceiling.tar) |
 | [LAST TIME](last-time_97811cac4db0/last-time_97811cac4db0.md) | 2023 | FLAC | 00:05:09 | [IA](https://archive.org/details/last-time_97811cac4db0) [FileDitch](https://fileditchfiles.st/beta15/d211946a98c03f960ef7/LAST_TIME.tar) |
+| [RED](red_c739963c278a/red_c739963c278a.md) | 2024 | FLAC | 00:03:48 | [IA](https://archive.org/details/red_c739963c278a) [FileDitch](https://fileditchfiles.st/beta15/397e83057c9b1c0173e7/RED.tar) |
 | [Looming](looming_2da6e24f15b4/looming_2da6e24f15b4.md) | 2025 | FLAC | 00:03:55 | [IA](https://archive.org/details/looming_2da6e24f15b4) [FileDitch](https://fileditchfiles.st/beta15/41deba619b429ed72208/Looming.tar) |
