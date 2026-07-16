@@ -1,0 +1,32 @@
+{
+  "id": "my-way-out_e4e1ab7fc611",
+  "fingerprint": "e4e1ab7fc6114e87c1f2ef8b338f545dae0402a1bf63002bb5303f082bf4443c",
+  "archived_at": "2026-07-16T17:31:46Z",
+  "metadata": {
+    "title": "My Way Out",
+    "artist": "7038634357",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1536,
+    "duration_human": "00:25:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 7038634357 - Ground (Up)",
+      "02 7038634357 - Display",
+      "03 7038634357 - Automatic",
+      "04 7038634357 - Tarmac",
+      "05 7038634357 - Avoid",
+      "06 7038634357 - Dawn"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/my-way-out_e4e1ab7fc611"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/1120276d1671e736436c/My_Way_Out.tar"
+    }
+  }
+}
