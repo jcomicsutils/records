@@ -1,0 +1,27 @@
+{
+  "id": "ghanet_5ee7dabef36f",
+  "fingerprint": "5ee7dabef36f2892f91130b82be13cc1c06bf71804dbb4e2b4b278a55c3d4ed7",
+  "archived_at": "2026-07-16T22:03:30Z",
+  "metadata": {
+    "title": "GHANET",
+    "artist": ".cutspace",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 142,
+    "duration_human": "00:02:22",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 WAJA33, .cutspace - GHANET"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ghanet_5ee7dabef36f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/a7f8fa06a3d8e1d6c29b/GHANET.tar"
+    }
+  }
+}
