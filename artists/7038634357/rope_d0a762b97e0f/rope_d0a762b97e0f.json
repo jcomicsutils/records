@@ -1,0 +1,27 @@
+{
+  "id": "rope_d0a762b97e0f",
+  "fingerprint": "d0a762b97e0fd31d85fc8762fc7a2cd3604d36639c8ef94b81e0e2a02fe673c0",
+  "archived_at": "2026-07-16T19:10:13Z",
+  "metadata": {
+    "title": "Rope",
+    "artist": "7038634357",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1247,
+    "duration_human": "00:20:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 7038634357 - Rope"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rope_d0a762b97e0f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/8dbe665ba0eaf0ce134f/Rope.tar"
+    }
+  }
+}
