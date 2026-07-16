@@ -1,0 +1,27 @@
+{
+  "id": "at-6am-we-become-the-police_5b698b42c0ac",
+  "fingerprint": "5b698b42c0acddf3e2c0b2d3eb674fe0f175165f1b8591ef607dbb64b7e68d7b",
+  "archived_at": "2026-07-16T22:46:31Z",
+  "metadata": {
+    "title": "At 6am We Become the Police",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2352,
+    "duration_human": "00:39:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - Hrmny 1 (A Tabu 3)",
+      "02 The No-Neck Blues Band - NNCK 97",
+      "03 The No-Neck Blues Band - Mico 1",
+      "04 The No-Neck Blues Band - Hrmny 5 (A Tabu 3)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/at-6am-we-become-the-police_5b698b42c0ac"
+    }
+  }
+}

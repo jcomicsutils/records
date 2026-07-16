@@ -1,0 +1,27 @@
+{
+  "id": "black-bird_0cfb77b23b09",
+  "fingerprint": "0cfb77b23b09750cdd193c5500aa37c567cad44bac112419f1069ab6509acfa4",
+  "archived_at": "2026-07-16T22:47:02Z",
+  "metadata": {
+    "title": "Black Bird",
+    "artist": "Thorjn",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 200,
+    "duration_human": "00:03:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Thorjn - Black Bird"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/black-bird_0cfb77b23b09"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/c5228751e6cb5e6918c5/Black_Bird.tar"
+    }
+  }
+}
