@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Double Dragon - EP](double-dragon-ep_2ffb9fe46015/double-dragon-ep_2ffb9fe46015.md) | 2013 | FLAC | 00:19:15 | [IA](https://archive.org/details/double-dragon-ep_2ffb9fe46015) [FileDitch](https://fileditchfiles.st/beta15/094b8e13042c88b2f4c5/Double_Dragon_-_EP.tar) |
 | [Black Dragons](black-dragons_11dc24ee62a6/black-dragons_11dc24ee62a6.md) | 2014 | FLAC | 00:06:10 | [IA](https://archive.org/details/black-dragons_11dc24ee62a6) [FileDitch](https://fileditchfiles.st/beta15/c85e576c0082f0e0a935/Black_Dragons.tar) |
 | [Baptizm](baptizm_03d93b9c409a/baptizm_03d93b9c409a.md) | 2015 | FLAC | 00:10:41 | [IA](https://archive.org/details/baptizm_03d93b9c409a) [FileDitch](https://fileditchfiles.st/beta15/d544761266e2ab9ccbbb/Baptizm.tar) |
 | [Communion](communion_9ee3d9d8e875/communion_9ee3d9d8e875.md) | 2015 | FLAC | 00:32:16 | [IA](https://archive.org/details/communion_9ee3d9d8e875) [FileDitch](https://fileditchfiles.st/beta15/d4b1c9bb72020145a229/Communion.tar) |

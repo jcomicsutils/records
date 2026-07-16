@@ -1,0 +1,31 @@
+{
+  "id": "double-dragon-ep_2ffb9fe46015",
+  "fingerprint": "2ffb9fe46015fcbb7c9ef5cd6f22ce637446f60084b4d1764a9b2ab2ddc5a4fd",
+  "archived_at": "2026-07-16T19:23:01Z",
+  "metadata": {
+    "title": "Double Dragon - EP",
+    "artist": "Rabit",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1155,
+    "duration_human": "00:19:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rabit - Double Dragon",
+      "02 Rabit - Black Dragons",
+      "03 Rabit - Wolf Spider",
+      "04 Rabit - Wolf Spider (Epochs Soundbwoy Demolition Mix)",
+      "05 Rabit - Double Dragon (Logos Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/double-dragon-ep_2ffb9fe46015"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/094b8e13042c88b2f4c5/Double_Dragon_-_EP.tar"
+    }
+  }
+}
