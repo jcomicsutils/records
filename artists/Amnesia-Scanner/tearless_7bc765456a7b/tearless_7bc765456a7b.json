@@ -1,0 +1,36 @@
+{
+  "id": "tearless_7bc765456a7b",
+  "fingerprint": "7bc765456a7b95553debc8d8566e666153047f81b35ee790a0a775fdfb8caa8d",
+  "archived_at": "2026-07-16T22:26:07Z",
+  "metadata": {
+    "title": "Tearless",
+    "artist": "Amnesia Scanner",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 1829,
+    "duration_human": "00:30:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Amnesia Scanner - AS Enter",
+      "02 Amnesia Scanner - AS Tearless (feat. Daniela Lalita)",
+      "03 Amnesia Scanner - AS Flat (feat. Code Orange)",
+      "04 Amnesia Scanner - AS Trouble",
+      "05 Amnesia Scanner - AS Acá (feat. Daniela Lalita)",
+      "06 Amnesia Scanner - Call Of The Center (Interlude)",
+      "07 Amnesia Scanner - AS Too Late",
+      "08 Amnesia Scanner - AS Going (feat. LYZZA)",
+      "09 Amnesia Scanner - AS Labyrinth",
+      "10 Amnesia Scanner - AS U Will Be Fine"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tearless_7bc765456a7b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/a3c255596e4d9f6677f5/Tearless.tar"
+    }
+  }
+}
