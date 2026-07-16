@@ -1,0 +1,38 @@
+{
+  "id": "alice_688e828b326d",
+  "fingerprint": "688e828b326d2f1f0e4e85f0407c013cf69f5ab692523646e00ddbbf41f9dfec",
+  "archived_at": "2026-07-16T22:33:59Z",
+  "metadata": {
+    "title": "Alice",
+    "artist": "arai tasuku",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2311,
+    "duration_human": "00:38:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 arai tasuku - Pitch Black Awakening (feat. Shigatsu Chan)",
+      "02 arai tasuku - Never Against Reality",
+      "03 arai tasuku - Why Is a Raven Like a Writing Desk?",
+      "04 arai tasuku - Dear Alice (feat. Itaru Baba)",
+      "05 arai tasuku - Speak Roughly to Your Little Boy",
+      "06 arai tasuku - A for White Eyed Ashley (feat. Itaru Baba)",
+      "07 arai tasuku - Twisted Apple Trees (feat. Itaru Baba)",
+      "08 arai tasuku - C Is for Colleen Who Wasted Away",
+      "09 arai tasuku - Dear Alice (Rainy Days) (feat. Itaru Baba)",
+      "10 arai tasuku - Dreamland Is Falling Dawn (feat. Shigatsu Chan)",
+      "11 arai tasuku - You Only Smiled Once",
+      "12 arai tasuku - Lost Scenery"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/alice_688e828b326d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/c38b4055107954d36a06/Alice.tar"
+    }
+  }
+}

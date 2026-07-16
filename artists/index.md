@@ -192,6 +192,7 @@
 - [Zeffon / Revenence](Zeffon-Revenence/Zeffon-Revenence.md)
 - [Zeffon / Revenence / Argon Beams / Serpentmouth](Zeffon-Revenence-Argon-Beams-Serpentmouth/Zeffon-Revenence-Argon-Beams-Serpentmouth.md)
 - [abriction](abriction/abriction.md)
+- [arai tasuku](arai-tasuku/arai-tasuku.md)
 - [Black Magick SS](black-magick-ss/black-magick-ss.md)
 - [blue noise](blue-noise/blue-noise.md)
 - [fushigi na niwa](fushigi-na-niwa/fushigi-na-niwa.md)
