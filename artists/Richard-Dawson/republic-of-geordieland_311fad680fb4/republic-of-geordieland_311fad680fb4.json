@@ -1,0 +1,35 @@
+{
+  "id": "republic-of-geordieland_311fad680fb4",
+  "fingerprint": "311fad680fb4dead6069f6221d66ced865b93de3067f01cb9f28829a97f7d8dc",
+  "archived_at": "2026-07-16T01:22:30Z",
+  "metadata": {
+    "title": "Republic of Geordieland",
+    "artist": "Richard Dawson",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2743,
+    "duration_human": "00:45:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Richard Dawson - Within the City Walls",
+      "02 Richard Dawson - We Are Black and White",
+      "03 Richard Dawson - Felon",
+      "04 Richard Dawson - A Very Fine Horse",
+      "05 Richard Dawson - Heart Beats Slowly",
+      "06 Richard Dawson - Derwentwater Farewell",
+      "07 Richard Dawson - The Minotaur of Cowhill",
+      "08 Richard Dawson - Almsgiver",
+      "09 Richard Dawson - Beyond the City Walls"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/republic-of-geordieland_311fad680fb4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/b8b126d16e48c7638864/Republic_of_Geordieland.tar"
+    }
+  }
+}
