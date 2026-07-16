@@ -1,0 +1,28 @@
+{
+  "id": "the-mysterious-package_352c5facd4cd",
+  "fingerprint": "352c5facd4cdc2f13c4066b780d90c848837f2544d91a737e05541b3a910452d",
+  "archived_at": "2026-07-16T22:27:22Z",
+  "metadata": {
+    "title": "The Mysterious Package",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4907,
+    "duration_human": "01:21:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Dancing in the Enternal Loop",
+      "02 Zeffon - Side B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-mysterious-package_352c5facd4cd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/0352967e4c67834fc0fe/The_Mysterious_Package.tar"
+    }
+  }
+}
