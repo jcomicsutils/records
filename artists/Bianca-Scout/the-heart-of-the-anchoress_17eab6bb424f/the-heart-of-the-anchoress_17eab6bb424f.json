@@ -28,6 +28,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/the-heart-of-the-anchoress_17eab6bb424f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/9df75308fa8e74f3e5b1/The_Heart_of_the_Anchoress.tar"
     }
   }
 }

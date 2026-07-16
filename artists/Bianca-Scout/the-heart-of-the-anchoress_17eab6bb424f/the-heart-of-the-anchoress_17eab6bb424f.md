@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/the-heart-of-the-anchoress_17eab6bb424f)
+- [FileDitch](https://fileditchfiles.st/beta15/9df75308fa8e74f3e5b1/The_Heart_of_the_Anchoress.tar)
 
 ## Tracklist
 
