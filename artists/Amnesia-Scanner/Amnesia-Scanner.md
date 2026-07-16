@@ -11,4 +11,5 @@
 | [Lexachast](lexachast_4ba8a5a04c15/lexachast_4ba8a5a04c15.md) | 2019 | FLAC | 00:34:02 | [IA](https://archive.org/details/lexachast_4ba8a5a04c15) [FileDitch](https://fileditchfiles.st/beta15/b3a6dd0573d41f1789ea/Lexachast.tar) |
 | [Ledge](ledge_ac52f6d84b05/ledge_ac52f6d84b05.md) | 2023 | FLAC | 00:03:31 | [IA](https://archive.org/details/ledge_ac52f6d84b05) [FileDitch](https://fileditchfiles.st/beta15/37b233bf780ec2a796ae/Ledge.tar) |
 | [Ride](ride_de1d6fb0db56/ride_de1d6fb0db56.md) | 2023 | FLAC | 00:03:37 | [IA](https://archive.org/details/ride_de1d6fb0db56) [FileDitch](https://fileditchfiles.st/beta15/a21ca42794b3f100f66c/Ride.tar) |
+| [STROBE.RIP](stroberip_21179ef9b0fd/stroberip_21179ef9b0fd.md) | 2023 | FLAC | 00:35:51 | [IA](https://archive.org/details/stroberip_21179ef9b0fd) |
 | [HOAX](hoax_2571843927f6/hoax_2571843927f6.md) | 2024 | FLAC | 00:57:42 | [IA](https://archive.org/details/hoax_2571843927f6) [FileDitch](https://fileditchfiles.st/beta15/87acbba6fac1336c4027/HOAX.tar) |

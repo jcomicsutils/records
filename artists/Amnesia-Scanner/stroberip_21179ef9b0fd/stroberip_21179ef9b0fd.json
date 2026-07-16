@@ -1,0 +1,35 @@
+{
+  "id": "stroberip_21179ef9b0fd",
+  "fingerprint": "21179ef9b0fd78b8e4997addacc77068b986af92e6f7bd23f66c78c7ae570e8d",
+  "archived_at": "2026-07-16T22:14:34Z",
+  "metadata": {
+    "title": "STROBE.RIP",
+    "artist": "Amnesia Scanner",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2151,
+    "duration_human": "00:35:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Amnesia Scanner, Freeka Tet - Tongue Demons",
+      "02 Amnesia Scanner, Freeka Tet - Giggle",
+      "03 Amnesia Scanner, Freeka Tet - Bounds",
+      "04 Amnesia Scanner, Freeka Tet - Ledge",
+      "05 Amnesia Scanner, Freeka Tet - Disperse",
+      "06 Amnesia Scanner, Freeka Tet - Ride",
+      "07 Amnesia Scanner, Freeka Tet - Damon",
+      "08 Amnesia Scanner, Freeka Tet - Clown",
+      "09 Amnesia Scanner, Freeka Tet - abandoned.club",
+      "10 Amnesia Scanner, Freeka Tet - Scorpions, Bats & Spiders",
+      "11 Amnesia Scanner, Freeka Tet - Cat",
+      "12 Amnesia Scanner, Freeka Tet - Merge"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stroberip_21179ef9b0fd"
+    }
+  }
+}

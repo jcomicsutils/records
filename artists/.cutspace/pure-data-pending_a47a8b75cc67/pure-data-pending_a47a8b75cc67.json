@@ -1,0 +1,28 @@
+{
+  "id": "pure-data-pending_a47a8b75cc67",
+  "fingerprint": "a47a8b75cc67b545f903d76a0afc3bcb64410282ad677fe02ffb29ea49b08c37",
+  "archived_at": "2026-07-16T22:14:46Z",
+  "metadata": {
+    "title": "pure data (pending)",
+    "artist": ".cutspace",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 251,
+    "duration_human": "00:04:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 .cutspace, ShiniGami - snow",
+      "02 .cutspace, ShiniGami - there will be blood"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pure-data-pending_a47a8b75cc67"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/400e0478dadce95ea9c7/pure_data_pending.tar"
+    }
+  }
+}
