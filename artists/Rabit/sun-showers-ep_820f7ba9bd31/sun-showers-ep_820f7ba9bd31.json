@@ -1,0 +1,30 @@
+{
+  "id": "sun-showers-ep_820f7ba9bd31",
+  "fingerprint": "820f7ba9bd3167be48e098eced22c43e28187764c0326abfd516000eecf481ba",
+  "archived_at": "2026-07-16T19:52:14Z",
+  "metadata": {
+    "title": "Sun Showers - EP",
+    "artist": "Rabit",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 926,
+    "duration_human": "00:15:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Rabit - Sun Showers",
+      "02 Rabit - Levels",
+      "03 Rabit - 40 Below",
+      "04 Rabit - Black Bag"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sun-showers-ep_820f7ba9bd31"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/5dbd268c12cacde4ab69/Sun_Showers_-_EP.tar"
+    }
+  }
+}
