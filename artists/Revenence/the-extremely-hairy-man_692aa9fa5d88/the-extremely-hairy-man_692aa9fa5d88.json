@@ -1,0 +1,28 @@
+{
+  "id": "the-extremely-hairy-man_692aa9fa5d88",
+  "fingerprint": "692aa9fa5d880c9a80e93a7c14d02f3ccc9349bd250ba6d820721b8055cf9dc9",
+  "archived_at": "2026-07-16T05:17:12Z",
+  "metadata": {
+    "title": "The Extremely Hairy Man",
+    "artist": "Revenence",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 6068,
+    "duration_human": "01:41:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Revenence - 〖〖The Extremely Hairy Man〗〗",
+      "02 Revenence - Combustable Coconut Bôedh - a fun internet dream ９５！⽟⽟ (Mist Clôemetrkkuuôse)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-extremely-hairy-man_692aa9fa5d88"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/96b40ff91d9f077025d1/The_Extremely_Hairy_Man.tar"
+    }
+  }
+}
