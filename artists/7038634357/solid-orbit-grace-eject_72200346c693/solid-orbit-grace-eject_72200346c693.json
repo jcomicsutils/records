@@ -1,0 +1,28 @@
+{
+  "id": "solid-orbit-grace-eject_72200346c693",
+  "fingerprint": "72200346c69346ada58d6b53fbd4d584ef4d85f6c5ed99e9b83ad818cb8d4976",
+  "archived_at": "2026-07-16T19:18:17Z",
+  "metadata": {
+    "title": "Solid Orbit / Grace Eject",
+    "artist": "7038634357",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 564,
+    "duration_human": "00:09:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 7038634357 - Solid Orbit",
+      "02 7038634357 - Grace Eject"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/solid-orbit-grace-eject_72200346c693"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/c1a671457c1483200be5/Solid_Orbit_-_Grace_Eject.tar"
+    }
+  }
+}
