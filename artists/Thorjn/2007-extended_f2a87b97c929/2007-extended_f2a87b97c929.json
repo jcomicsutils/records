@@ -1,0 +1,43 @@
+{
+  "id": "2007-extended_f2a87b97c929",
+  "fingerprint": "f2a87b97c929bb0d54122914925d71490d76f92b696842d9eab96eb28e9a6559",
+  "archived_at": "2026-07-16T22:44:44Z",
+  "metadata": {
+    "title": "2007 (Extended)",
+    "artist": "Thorjn",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_seconds": 3325,
+    "duration_human": "00:55:25",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Thorjn - Organs",
+      "02 Thorjn - Wimpy Nest",
+      "03 Thorjn - Auto Not Here (Demo)",
+      "04 Thorjn - Naus",
+      "05 Thorjn - To You, \"IK730\"",
+      "06 Thorjn - Brave Little Boy",
+      "07 Thorjn - ICTAPE (Room Mix)",
+      "08 Thorjn - Swallow The Sun, A Sun Won't Rise Again",
+      "09 Thorjn - 2c-Red/Green Lattice (Demo)",
+      "10 Thorjn - 2007",
+      "11 Thorjn - one last time, Mutant DreamFear Asia",
+      "12 Thorjn - Ultraview (Demo)",
+      "13 Thorjn - somewhereloop1",
+      "14 Thorjn - Cloud Primes (Peacher)",
+      "15 Thorjn - Beaver Chimer",
+      "16 Thorjn - Swallow The Sun, The Sun Won't Rise Again (Original Mix)",
+      "17 Thorjn - Neck (Original Mix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/2007-extended_f2a87b97c929"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/adb44e60360463dac693/2007_Extended.tar"
+    }
+  }
+}
