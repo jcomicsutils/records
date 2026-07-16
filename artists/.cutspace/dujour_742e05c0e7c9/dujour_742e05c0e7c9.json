@@ -1,0 +1,27 @@
+{
+  "id": "dujour_742e05c0e7c9",
+  "fingerprint": "742e05c0e7c9d2ca5b6b50942e9470fce17235b970d34ff16fbf5d63a1feb6a0",
+  "archived_at": "2026-07-16T22:02:36Z",
+  "metadata": {
+    "title": "dujour",
+    "artist": ".cutspace",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 151,
+    "duration_human": "00:02:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 .cutspace, Ian - dujour"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dujour_742e05c0e7c9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/6e5fbc87023ee72b8bb1/dujour.tar"
+    }
+  }
+}
