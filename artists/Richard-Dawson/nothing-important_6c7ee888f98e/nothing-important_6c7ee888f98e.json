@@ -1,0 +1,30 @@
+{
+  "id": "nothing-important_6c7ee888f98e",
+  "fingerprint": "6c7ee888f98e29a19e51cb43cae463ef7a4da40ded88fb5e35589247dfa62b3c",
+  "archived_at": "2026-07-16T00:06:36Z",
+  "metadata": {
+    "title": "Nothing Important",
+    "artist": "Richard Dawson",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2650,
+    "duration_human": "00:44:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Richard Dawson - Judas Iscariot",
+      "02 Richard Dawson - Nothing Important",
+      "03 Richard Dawson - The Vile Stuff",
+      "04 Richard Dawson - Doubting Thomas"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nothing-important_6c7ee888f98e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/1d01006a2ca7f8c3957a/Nothing_Important.tar"
+    }
+  }
+}
