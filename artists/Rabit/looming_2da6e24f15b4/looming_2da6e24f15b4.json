@@ -1,0 +1,27 @@
+{
+  "id": "looming_2da6e24f15b4",
+  "fingerprint": "2da6e24f15b4ac8e945439c8307be82a351d89b7f22e1573f129331402dec267",
+  "archived_at": "2026-07-16T19:41:02Z",
+  "metadata": {
+    "title": "Looming",
+    "artist": "Rabit",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 235,
+    "duration_human": "00:03:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Rabit - Looming"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/looming_2da6e24f15b4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/41deba619b429ed72208/Looming.tar"
+    }
+  }
+}
