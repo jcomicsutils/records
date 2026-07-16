@@ -1,0 +1,33 @@
+{
+  "id": "sasquatch-landslide_b1947abb2406",
+  "fingerprint": "b1947abb2406bc8f910c90cd25995d148053ef39e35c03043ff8b09fad789cd0",
+  "archived_at": "2026-07-16T04:23:30Z",
+  "metadata": {
+    "title": "Sasquatch Landslide",
+    "artist": "The Dwarfs of East Agouza",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2544,
+    "duration_human": "00:42:24",
+    "sampling_rate": "88.2kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Dwarfs of East Agouza - Swollen Thankles",
+      "02 The Dwarfs of East Agouza - Saber Tooth Millipede",
+      "03 The Dwarfs of East Agouza - Double Mothers",
+      "04 The Dwarfs of East Agouza - Titular",
+      "05 The Dwarfs of East Agouza - Neptune Anteater",
+      "06 The Dwarfs of East Agouza - Body To Match",
+      "07 The Dwarfs of East Agouza - Goldfish Molasses"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sasquatch-landslide_b1947abb2406"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/adc7289529e957c52535/Sasquatch_Landslide.tar"
+    }
+  }
+}
