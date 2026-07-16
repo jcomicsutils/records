@@ -1,0 +1,24 @@
+{
+  "id": "feathers_b9395ca7e36e",
+  "fingerprint": "b9395ca7e36e6f1078f642db95348a11b0823b3a66aa294254895506e3678d04",
+  "archived_at": "2026-07-16T23:13:35Z",
+  "metadata": {
+    "title": "Feathers",
+    "artist": "Thorjn",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 256,
+    "duration_human": "00:04:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Thorjn - Feathers"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/feathers_b9395ca7e36e"
+    }
+  }
+}

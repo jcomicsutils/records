@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Feathers](feathers_b9395ca7e36e/feathers_b9395ca7e36e.md) | 2022 | FLAC | 00:04:16 | [IA](https://archive.org/details/feathers_b9395ca7e36e) |
 | [Black Bird](black-bird_0cfb77b23b09/black-bird_0cfb77b23b09.md) | 2023 | FLAC | 00:03:20 | [IA](https://archive.org/details/black-bird_0cfb77b23b09) [FileDitch](https://fileditchfiles.st/beta15/c5228751e6cb5e6918c5/Black_Bird.tar) |
 | [Drag our Wings](drag-our-wings_a5229699125d/drag-our-wings_a5229699125d.md) | 2024 | FLAC | 00:05:41 | [IA](https://archive.org/details/drag-our-wings_a5229699125d) [FileDitch](https://fileditchfiles.st/beta15/b9f2ed4beca877b1ad14/Drag_our_Wings.tar) |
 | [Collision Notes](collision-notes_acb8b097382e/collision-notes_acb8b097382e.md) | 2024 | FLAC | 00:04:05 | [IA](https://archive.org/details/collision-notes_acb8b097382e) [FileDitch](https://fileditchfiles.st/beta15/aad72b3f7c39d898bd1e/Collision_Notes.tar) |

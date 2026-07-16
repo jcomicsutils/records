@@ -1,0 +1,27 @@
+{
+  "id": "rebecca-never-goes-outside_24782a6dd563",
+  "fingerprint": "24782a6dd5637c19e5f729282479b03825e02ff26e62fb76b047ece356928399",
+  "archived_at": "2026-07-16T23:13:38Z",
+  "metadata": {
+    "title": "Rebecca never goes outside",
+    "artist": "arai tasuku",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 170,
+    "duration_human": "00:02:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 arai tasuku, Itaru Baba - Rebecca never goes outside"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rebecca-never-goes-outside_24782a6dd563"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/e21f5f9579a2014df2fe/Rebecca_never_goes_outside.tar"
+    }
+  }
+}
