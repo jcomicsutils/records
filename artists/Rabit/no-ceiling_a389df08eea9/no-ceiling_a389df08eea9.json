@@ -1,0 +1,27 @@
+{
+  "id": "no-ceiling_a389df08eea9",
+  "fingerprint": "a389df08eea9b4f44cb3459455a3de957ef3342b38ed5e546406480ad1b66386",
+  "archived_at": "2026-07-16T19:41:46Z",
+  "metadata": {
+    "title": "No Ceiling",
+    "artist": "Rabit",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 111,
+    "duration_human": "00:01:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rabit, Embaci - No Ceiling"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/no-ceiling_a389df08eea9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/a8e4eccef379b113a59c/No_Ceiling.tar"
+    }
+  }
+}

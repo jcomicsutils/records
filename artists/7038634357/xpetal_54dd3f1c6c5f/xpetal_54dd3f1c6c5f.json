@@ -1,0 +1,28 @@
+{
+  "id": "xpetal_54dd3f1c6c5f",
+  "fingerprint": "54dd3f1c6c5f6971661070b3e162fa06291911acc708709268b91047fba420cd",
+  "archived_at": "2026-07-16T19:41:29Z",
+  "metadata": {
+    "title": "Xpetal",
+    "artist": "7038634357",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1213,
+    "duration_human": "00:20:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 7038634357 - Don't You Recognize Me?",
+      "02 7038634357 - Sugar Armor",
+      "03 7038634357 - Six Wing Underside",
+      "04 7038634357 - Sickle Sheen (Arms Open)",
+      "05 7038634357 - Back Yard"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xpetal_54dd3f1c6c5f"
+    }
+  }
+}
