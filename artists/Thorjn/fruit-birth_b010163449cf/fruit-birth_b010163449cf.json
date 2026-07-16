@@ -1,0 +1,27 @@
+{
+  "id": "fruit-birth_b010163449cf",
+  "fingerprint": "b010163449cfc37b62fc2bfc9a89aa274bb061f13b2dbbf05f130646db49e486",
+  "archived_at": "2026-07-16T23:14:22Z",
+  "metadata": {
+    "title": "Fruit Birth",
+    "artist": "Thorjn",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 197,
+    "duration_human": "00:03:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Thorjn - Fruit Birth"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fruit-birth_b010163449cf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/911326e9aaec6f14e1b7/Fruit_Birth.tar"
+    }
+  }
+}
