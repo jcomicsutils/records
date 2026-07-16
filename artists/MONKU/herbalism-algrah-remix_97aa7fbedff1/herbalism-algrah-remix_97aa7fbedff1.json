@@ -1,0 +1,27 @@
+{
+  "id": "herbalism-algrah-remix_97aa7fbedff1",
+  "fingerprint": "97aa7fbedff1c14e56ed5b586df4318f36f2e173deac90cc1642ff40184a6f6a",
+  "archived_at": "2026-07-16T16:05:30Z",
+  "metadata": {
+    "title": "HERBALISM (algrah Remix)",
+    "artist": "MON/KU",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 328,
+    "duration_human": "00:05:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Algrah, MON/KU - HERBALISM (algrah Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/herbalism-algrah-remix_97aa7fbedff1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/0283a9e2238d87428e81/HERBALISM_algrah_Remix.tar"
+    }
+  }
+}
