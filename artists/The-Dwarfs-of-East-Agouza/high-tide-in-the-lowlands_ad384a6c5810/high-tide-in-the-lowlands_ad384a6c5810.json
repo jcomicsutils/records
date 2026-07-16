@@ -1,0 +1,28 @@
+{
+  "id": "high-tide-in-the-lowlands_ad384a6c5810",
+  "fingerprint": "ad384a6c581005df998627e5cb8f76ee2036221b273cc322af454ff5c993f2e7",
+  "archived_at": "2026-07-16T03:52:38Z",
+  "metadata": {
+    "title": "High Tide In The Lowlands",
+    "artist": "The Dwarfs of East Agouza",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2520,
+    "duration_human": "00:42:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Dwarfs of East Agouza - Baka of the Future",
+      "02 The Dwarfs of East Agouza - The Sprouting of the 7th Entertainment"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/high-tide-in-the-lowlands_ad384a6c5810"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/a494ff39552a85a756b5/High_Tide_In_The_Lowlands.tar"
+    }
+  }
+}
