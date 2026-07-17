@@ -1,0 +1,27 @@
+{
+  "id": "ochre_63021ce4d011",
+  "fingerprint": "63021ce4d0119aa74f397dd585e3d246d270645af14121557ebf324e704ee061",
+  "archived_at": "2026-07-17T00:23:53Z",
+  "metadata": {
+    "title": "Ochre",
+    "artist": "Thorjn",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 231,
+    "duration_human": "00:03:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Gater, Thorjn - Ochre"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ochre_63021ce4d011"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/bd7ada2f4965276efa99/Ochre.tar"
+    }
+  }
+}
