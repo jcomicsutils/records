@@ -1,0 +1,29 @@
+{
+  "id": "ex-tempore_672abe7db356",
+  "fingerprint": "672abe7db3560e186d46d92e8744bf3ab5458233eceb447c5e56d9574fc2aa7c",
+  "archived_at": "2026-07-17T00:05:34Z",
+  "metadata": {
+    "title": "Ex Tempore",
+    "artist": "Ariadne",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1401,
+    "duration_human": "00:23:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Ariadne - He Walks",
+      "02 Ariadne - Fantasy",
+      "03 Ariadne - Pain"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ex-tempore_672abe7db356"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/b44fa7b26cfeca1d61ee/Ex_Tempore.tar"
+    }
+  }
+}

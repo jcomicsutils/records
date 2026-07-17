@@ -1,0 +1,25 @@
+{
+  "id": "embryonnck-lp_94c8b834f967",
+  "fingerprint": "94c8b834f96715e927972ea4b8ca46691e67e644845d5bedeb835e0d73404522",
+  "archived_at": "2026-07-17T00:05:54Z",
+  "metadata": {
+    "title": "Embryonnck LP",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2586,
+    "duration_human": "00:43:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - Embryonnck A",
+      "02 The No-Neck Blues Band - Embryonnck B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/embryonnck-lp_94c8b834f967"
+    }
+  }
+}
