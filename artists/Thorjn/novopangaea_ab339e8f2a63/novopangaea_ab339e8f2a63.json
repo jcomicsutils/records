@@ -1,0 +1,29 @@
+{
+  "id": "novopangaea_ab339e8f2a63",
+  "fingerprint": "ab339e8f2a638c9031e091a655b06c1a05664fc1e122ffbab2616843852711fd",
+  "archived_at": "2026-07-17T00:23:00Z",
+  "metadata": {
+    "title": "NOVOPANGAEA",
+    "artist": "Thorjn",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1505,
+    "duration_human": "00:25:05",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Thorjn - NOVOPANGAEA",
+      "02 Thorjn - 30,000 CHAINS OF WATER",
+      "03 Thorjn - MOTHBLATE",
+      "04 Thorjn - 30,000 PICTURES OF OUR SUN",
+      "05 Thorjn - POST ANTHROPIC BASIN",
+      "06 Thorjn - NEURALINK COCAINE"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/novopangaea_ab339e8f2a63"
+    }
+  }
+}
