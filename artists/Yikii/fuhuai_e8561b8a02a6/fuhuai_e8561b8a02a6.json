@@ -1,0 +1,27 @@
+{
+  "id": "fuhuai_e8561b8a02a6",
+  "fingerprint": "e8561b8a02a6b4d02707b0152ade17c313b876d314369b02bf365ea00b493457",
+  "archived_at": "2026-07-17T04:56:16Z",
+  "metadata": {
+    "title": "FuHuai",
+    "artist": "Yikii",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 296,
+    "duration_human": "00:04:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Yikii - FuHuai"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fuhuai_e8561b8a02a6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/99c0bcd8207c7fc7c08f/FuHuai.tar"
+    }
+  }
+}
