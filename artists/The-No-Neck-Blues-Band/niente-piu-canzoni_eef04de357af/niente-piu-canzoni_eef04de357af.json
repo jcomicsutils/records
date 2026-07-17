@@ -1,0 +1,29 @@
+{
+  "id": "niente-piu-canzoni_eef04de357af",
+  "fingerprint": "eef04de357afdddd0314a3126ba84b8aae3f6632410dc13efcbe72a9edff211d",
+  "archived_at": "2026-07-17T03:49:22Z",
+  "metadata": {
+    "title": "Niente Piu Canzoni",
+    "artist": "The No-Neck Blues Band",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2558,
+    "duration_human": "00:42:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - Niente Piu Canzoni",
+      "02 The No-Neck Blues Band - No-Future Days",
+      "03 The No-Neck Blues Band - I Played It for You..."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/niente-piu-canzoni_eef04de357af"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/b0a25261f35bacb8d88a/Niente_Piu_Canzoni.tar"
+    }
+  }
+}
