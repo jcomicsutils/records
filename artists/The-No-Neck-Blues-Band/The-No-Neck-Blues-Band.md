@@ -4,6 +4,7 @@
 |-------|------|-------|----------|-------|
 | [CINo51](cino51_7aa5d76ed731/cino51_7aa5d76ed731.md) | 2012 | FLAC | 00:43:07 | [IA](https://archive.org/details/cino51_7aa5d76ed731) [FileDitch](https://fileditchfiles.st/beta15/271fffd3cb0d468d233c/CINo51.tar) |
 | [A Tabu Two 2](a-tabu-two-2_f16774b20bb6/a-tabu-two-2_f16774b20bb6.md) | 2013 | FLAC | 00:38:33 | [IA](https://archive.org/details/a-tabu-two-2_f16774b20bb6) [FileDitch](https://fileditchfiles.st/beta15/c0bfe037ab393402f61f/A_Tabu_Two_2.tar) |
+| [Live at Ken's Electric Lake](live-at-kens-electric-lake_13b769b0b500/live-at-kens-electric-lake_13b769b0b500.md) | 2013 | FLAC | 01:23:36 | [IA](https://archive.org/details/live-at-kens-electric-lake_13b769b0b500) [FileDitch](https://fileditchfiles.st/beta15/a317b3bd1f7af96cc67d/Live_at_Ken_s_Electric_Lake.tar) |
 | [Embryonnck LP](embryonnck-lp_94c8b834f967/embryonnck-lp_94c8b834f967.md) | 2013 | FLAC | 00:43:06 | [IA](https://archive.org/details/embryonnck-lp_94c8b834f967) [FileDitch](https://fileditchfiles.st/beta15/b2cb6c1c2344abb240e2/Embryonnck_LP.tar) |
 | [Ever Borneo!](ever-borneo_b965c70b76b9/ever-borneo_b965c70b76b9.md) | 2013 | FLAC | 00:59:18 | [IA](https://archive.org/details/ever-borneo_b965c70b76b9) [FileDitch](https://fileditchfiles.st/beta15/652f8ed6adb9c8836db2/Ever_Borneo.tar) |
 | [Hoichi](hoichi_9e54ac5523a9/hoichi_9e54ac5523a9.md) | 2013 | FLAC | 00:44:04 | [IA](https://archive.org/details/hoichi_9e54ac5523a9) [FileDitch](https://fileditchfiles.st/beta15/f79f3babea27bf37f2d2/Hoichi.tar) |
