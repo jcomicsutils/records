@@ -1,0 +1,27 @@
+{
+  "id": "no-town_26287ba92be1",
+  "fingerprint": "26287ba92be12128f7ab2cf237f9bd29a8e4d3055bbf0b6735a66048214557da",
+  "archived_at": "2026-07-17T04:02:16Z",
+  "metadata": {
+    "title": "No Town",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 414,
+    "duration_human": "00:06:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - No Town"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/no-town_26287ba92be1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/e24b8bbaef00c5861dee/No_Town.tar"
+    }
+  }
+}
