@@ -1,0 +1,37 @@
+{
+  "id": "qvaris_bec88bfe6e50",
+  "fingerprint": "bec88bfe6e5078876c4c64af2a11e0dff837b31181ce11012849e6716f6afd29",
+  "archived_at": "2026-07-17T04:31:24Z",
+  "metadata": {
+    "title": "Qvaris",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 4134,
+    "duration_human": "01:08:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - The Doon",
+      "02 The No-Neck Blues Band - Live Your Myth in Grease",
+      "03 The No-Neck Blues Band - The Black Pope",
+      "04 The No-Neck Blues Band - Qvaris Theme 1",
+      "05 The No-Neck Blues Band - The Caterpillar Heart",
+      "06 The No-Neck Blues Band - Qvaris Theme (Lopiop Hearing Qvaris)",
+      "07 The No-Neck Blues Band - Boreal Gluts",
+      "08 The No-Neck Blues Band - Dark Equus",
+      "09 The No-Neck Blues Band - Qvaris Theme 3 (Wohihb)",
+      "10 The No-Neck Blues Band - Lugnagall",
+      "11 The No-Neck Blues Band - Vaticon Blue (Theme End)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/qvaris_bec88bfe6e50"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/0df401d1789d5e33dc84/Qvaris.tar"
+    }
+  }
+}
