@@ -1,0 +1,35 @@
+{
+  "id": "intonomancy_407d51def8d8",
+  "fingerprint": "407d51def8d8bbd69625779a4560e5d259975184b3a4247fdec752df20c9e401",
+  "archived_at": "2026-07-17T02:11:00Z",
+  "metadata": {
+    "title": "Intonomancy",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 4016,
+    "duration_human": "01:06:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - Flor Yet Slolemn",
+      "02 The No-Neck Blues Band - Witch",
+      "03 The No-Neck Blues Band - Play Your Play",
+      "04 The No-Neck Blues Band - Open That Grass Can",
+      "05 The No-Neck Blues Band - Intonomancy",
+      "06 The No-Neck Blues Band - This Absent-Minded Crises_",
+      "07 The No-Neck Blues Band - Fuck-No.",
+      "08 The No-Neck Blues Band - Floater",
+      "09 The No-Neck Blues Band - The Shepherd Takes a Shine to the Abyss"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/intonomancy_407d51def8d8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/5a96bad77fd676618ad4/Intonomancy.tar"
+    }
+  }
+}
