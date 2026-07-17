@@ -1,0 +1,31 @@
+{
+  "id": "paradise-lost-ep-wts43_3eb9b0c46189",
+  "fingerprint": "3eb9b0c4618984b4b05a85a8614935640bdfb5a77c37c617bfca1a4e37b667cb",
+  "archived_at": "2026-07-17T05:03:26Z",
+  "metadata": {
+    "title": "Paradise Lost (EP) [WTS43]",
+    "artist": "Yikii",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 939,
+    "duration_human": "00:15:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Filmy Ghost & Yikii - Trust in Sadness",
+      "02 Filmy Ghost & Yikii - Little Obscure Voices",
+      "03 Filmy Ghost & Yikii - Ocean of Nightmares",
+      "04 Filmy Ghost & Yikii - Paradise Lost",
+      "05 Filmy Ghost & Yikii - Spooky Forest"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/paradise-lost-ep-wts43_3eb9b0c46189"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/b01fe6fc7d04f72fffe7/Paradise_Lost_EP_WTS43.tar"
+    }
+  }
+}
