@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/gray-rain_2e82818d82be)
+- [FileDitch](https://fileditchfiles.st/beta15/0624aef77450f7aba8bc/Gray_Rain.tar)
 
 ## Tracklist
 

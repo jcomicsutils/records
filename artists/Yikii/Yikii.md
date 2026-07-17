@@ -3,7 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Dream Collapse](dream-collapse_d9d4b6ed7baf/dream-collapse_d9d4b6ed7baf.md) | 2017 | MP3 | 00:49:16 | [IA](https://archive.org/details/dream-collapse_d9d4b6ed7baf) [FileDitch](https://fileditchfiles.st/beta15/d4d5223f2c6d258a8138/Dream_Collapse.tar) |
-| [Gray Rain](gray-rain_2e82818d82be/gray-rain_2e82818d82be.md) | 2017 | FLAC | 00:18:13 | [IA](https://archive.org/details/gray-rain_2e82818d82be) |
+| [Gray Rain](gray-rain_2e82818d82be/gray-rain_2e82818d82be.md) | 2017 | FLAC | 00:18:13 | [IA](https://archive.org/details/gray-rain_2e82818d82be) [FileDitch](https://fileditchfiles.st/beta15/0624aef77450f7aba8bc/Gray_Rain.tar) |
 | [❀ \[no pain\]](no-pain_c6d52690edc7/no-pain_c6d52690edc7.md) | 2017 | FLAC | 01:11:01 | [IA](https://archive.org/details/no-pain_c6d52690edc7) [FileDitch](https://fileditchfiles.st/beta15/4c0decb762e68668dc72/no_pain.tar) |
 | [❀痛閾異常threshold of pain abnormal❀](tongyuyichangthreshold-of-pain-abnormal_bbcd9386000a/tongyuyichangthreshold-of-pain-abnormal_bbcd9386000a.md) | 2018 | FLAC | 01:18:42 | [IA](https://archive.org/details/tongyuyichangthreshold-of-pain-abnormal_bbcd9386000a) [FileDitch](https://fileditchfiles.st/beta15/f460726aeadc9ff16170/threshold_of_pain_abnormal.tar) |
 | [Don't Cry Little Ghost](dont-cry-little-ghost_48e93596708a/dont-cry-little-ghost_48e93596708a.md) | 2019 | FLAC | 00:27:16 | [IA](https://archive.org/details/dont-cry-little-ghost_48e93596708a) [FileDitch](https://fileditchfiles.st/beta15/831a08166693a71ea639/Don_t_Cry_Little_Ghost.tar) |
