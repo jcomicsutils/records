@@ -1,0 +1,27 @@
+{
+  "id": "pulse_0a572e862e3e",
+  "fingerprint": "0a572e862e3e2ddf7b1126f2e6d1b05aa156f76cefc4f48c5b90b25ff31f0f8b",
+  "archived_at": "2026-07-17T04:20:53Z",
+  "metadata": {
+    "title": "Pulse",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 400,
+    "duration_human": "00:06:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - Pulse"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pulse_0a572e862e3e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/5cf2d3952d8dafc50932/Pulse.tar"
+    }
+  }
+}
