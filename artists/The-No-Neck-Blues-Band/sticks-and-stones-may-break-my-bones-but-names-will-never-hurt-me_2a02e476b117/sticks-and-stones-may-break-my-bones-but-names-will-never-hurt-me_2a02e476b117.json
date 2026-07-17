@@ -1,0 +1,33 @@
+{
+  "id": "sticks-and-stones-may-break-my-bones-but-names-will-never-hurt-me_2a02e476b117",
+  "fingerprint": "2a02e476b117f94e3ba40af9eab4f8b9efd9bcd497dffc0a0589918aafefd861",
+  "archived_at": "2026-07-17T05:25:35Z",
+  "metadata": {
+    "title": "Sticks and Stones May Break My Bones but Names Will Never Hurt Me.",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 4483,
+    "duration_human": "01:14:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - There Are a-Movements in Our Time Not Long",
+      "02 The No-Neck Blues Band - The Natural Bridge",
+      "03 The No-Neck Blues Band - Assignment Subud",
+      "04 The No-Neck Blues Band - Back to the O Mind (I'd Rather Not Go)",
+      "05 The No-Neck Blues Band - [untitled]",
+      "06 The No-Neck Blues Band - [untitled]",
+      "07 The No-Neck Blues Band - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sticks-and-stones-may-break-my-bones-but-names-will-never-hurt-me_2a02e476b117"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/f78e89db729e7ceb8dff/Sticks_and_Stones_May_Break_My_Bones_but_Names_Will_Never_Hurt_M.tar"
+    }
+  }
+}
