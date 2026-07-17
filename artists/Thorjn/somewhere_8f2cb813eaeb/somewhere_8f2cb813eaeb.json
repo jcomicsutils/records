@@ -1,0 +1,34 @@
+{
+  "id": "somewhere_8f2cb813eaeb",
+  "fingerprint": "8f2cb813eaeb3f035b322d4cf2a54b505a8a5746041fcf6ce359c975352354c5",
+  "archived_at": "2026-07-17T00:41:43Z",
+  "metadata": {
+    "title": "Somewhere",
+    "artist": "Thorjn",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2424,
+    "duration_human": "00:40:24",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Thorjn - Castle Song",
+      "02 Thorjn - Wish",
+      "03 Thorjn - The Bloomfish",
+      "04 Thorjn - Cloud Primes",
+      "05 Thorjn - Upon The Woods",
+      "06 Thorjn - Somewhere",
+      "07 Thorjn - Blood Repeater",
+      "08 Thorjn - Neck"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/somewhere_8f2cb813eaeb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/951849538886ee5f0825/Somewhere.tar"
+    }
+  }
+}
