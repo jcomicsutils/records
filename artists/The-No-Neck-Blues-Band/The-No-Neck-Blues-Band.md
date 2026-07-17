@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Nine for Victor](nine-for-victor_52ec2498b47c/nine-for-victor_52ec2498b47c.md) | 2006 | FLAC | 00:46:26 | [IA](https://archive.org/details/nine-for-victor_52ec2498b47c) [FileDitch](https://fileditchfiles.st/beta15/89409dd198e2b5cb3f34/Nine_for_Victor.tar) |
 | [CINo51](cino51_7aa5d76ed731/cino51_7aa5d76ed731.md) | 2012 | FLAC | 00:43:07 | [IA](https://archive.org/details/cino51_7aa5d76ed731) [FileDitch](https://fileditchfiles.st/beta15/271fffd3cb0d468d233c/CINo51.tar) |
 | [A Tabu Two 2](a-tabu-two-2_f16774b20bb6/a-tabu-two-2_f16774b20bb6.md) | 2013 | FLAC | 00:38:33 | [IA](https://archive.org/details/a-tabu-two-2_f16774b20bb6) [FileDitch](https://fileditchfiles.st/beta15/c0bfe037ab393402f61f/A_Tabu_Two_2.tar) |
 | [Live at Ken's Electric Lake](live-at-kens-electric-lake_13b769b0b500/live-at-kens-electric-lake_13b769b0b500.md) | 2013 | FLAC | 01:23:36 | [IA](https://archive.org/details/live-at-kens-electric-lake_13b769b0b500) [FileDitch](https://fileditchfiles.st/beta15/a317b3bd1f7af96cc67d/Live_at_Ken_s_Electric_Lake.tar) |
