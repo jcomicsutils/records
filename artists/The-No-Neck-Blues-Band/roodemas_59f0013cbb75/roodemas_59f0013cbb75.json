@@ -1,0 +1,31 @@
+{
+  "id": "roodemas_59f0013cbb75",
+  "fingerprint": "59f0013cbb75691071cee1da5ab979c751b1c26dee4af9d1daffd20dddec78f8",
+  "archived_at": "2026-07-17T04:58:28Z",
+  "metadata": {
+    "title": "Roodemas",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2353,
+    "duration_human": "00:39:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - Ascending Node",
+      "02 The No-Neck Blues Band - I Am Grown Phthisical",
+      "03 The No-Neck Blues Band - Zhro",
+      "04 The No-Neck Blues Band - Saltes or Stuff for Saltes",
+      "05 The No-Neck Blues Band - Descending Node"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/roodemas_59f0013cbb75"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/f499417a670c7720e7a7/Roodemas.tar"
+    }
+  }
+}

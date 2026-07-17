@@ -1,0 +1,37 @@
+{
+  "id": "gentle-nightmare_1a1ff5ab1a7f",
+  "fingerprint": "1a1ff5ab1a7fd853ff4c046556428c36da7a3094186afb0b0e8357925c99a203",
+  "archived_at": "2026-07-17T04:58:30Z",
+  "metadata": {
+    "title": "Gentle Nightmare",
+    "artist": "Yikii",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 1885,
+    "duration_human": "00:31:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Yikii - Abysmal Sea",
+      "02 Yikii - Time Warp Usagi",
+      "03 Yikii - Snowning Doomdream",
+      "04 Yikii - Trajectory",
+      "05 Yikii - 5am",
+      "06 Yikii - Aftermath",
+      "07 Yikii - Forgotten Things",
+      "08 Yikii - Miasmal",
+      "09 Yikii - Kill Me",
+      "10 Yikii - Reality Crimson",
+      "11 Yikii - Sewage Dirty",
+      "12 Yikii - Butterflies",
+      "13 Yikii - Obsidian Crushing",
+      "14 Yikii - The Last Voice"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/gentle-nightmare_1a1ff5ab1a7f"
+    }
+  }
+}
