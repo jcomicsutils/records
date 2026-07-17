@@ -1,0 +1,27 @@
+{
+  "id": "sweet-gem-berry-farm-baoshitianmeinongchang_bb7d3ba41b3c",
+  "fingerprint": "bb7d3ba41b3c5520d0c88d56d360e81b4d56bdf8d0ba4b80d605930c2b018b58",
+  "archived_at": "2026-07-17T05:28:15Z",
+  "metadata": {
+    "title": "Sweet Gem Berry Farm 宝石甜莓农场",
+    "artist": "Yikii",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 186,
+    "duration_human": "00:03:06",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Yikii - Sweet Gem Berry Farm 宝石甜莓农场"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sweet-gem-berry-farm-baoshitianmeinongchang_bb7d3ba41b3c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/b5dfb7cdf84e1dd42aee/Sweet_Gem_Berry_Farm.tar"
+    }
+  }
+}
