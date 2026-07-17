@@ -1,0 +1,32 @@
+{
+  "id": "letters-from-the-earth_ffefeaf40a45",
+  "fingerprint": "ffefeaf40a45958c707a39f36327a3525edc547ac5f93ba828061a75ed0fc69f",
+  "archived_at": "2026-07-17T02:51:53Z",
+  "metadata": {
+    "title": "Letters From the Earth",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 6589,
+    "duration_human": "01:49:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - Montana Morning",
+      "02 The No-Neck Blues Band - Isopropyl Ocean",
+      "03 The No-Neck Blues Band - [untitled]",
+      "04 The No-Neck Blues Band - Cosmos",
+      "05 The No-Neck Blues Band - John the Baptist",
+      "06 The No-Neck Blues Band - Seven Spaces of Empty Place"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/letters-from-the-earth_ffefeaf40a45"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/040f0e036f32476829c8/Letters_From_the_Earth.tar"
+    }
+  }
+}
