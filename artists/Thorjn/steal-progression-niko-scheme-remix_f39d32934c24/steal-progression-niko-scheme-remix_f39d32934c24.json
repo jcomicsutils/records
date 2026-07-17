@@ -1,0 +1,27 @@
+{
+  "id": "steal-progression-niko-scheme-remix_f39d32934c24",
+  "fingerprint": "f39d32934c245e8c8fdc37924525ede07ebc9823746353ae5df23b36c2e56a0d",
+  "archived_at": "2026-07-17T01:04:47Z",
+  "metadata": {
+    "title": "Steal Progression  (niko scheme remix)",
+    "artist": "Thorjn",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 270,
+    "duration_human": "00:04:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Thorjn, Niko Scheme - Steal Progression  (niko scheme remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/steal-progression-niko-scheme-remix_f39d32934c24"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/2c6d2c3801bbe2d7c307/Steal_Progression_niko_scheme_remix.tar"
+    }
+  }
+}
