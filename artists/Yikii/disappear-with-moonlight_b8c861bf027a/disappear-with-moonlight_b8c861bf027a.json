@@ -1,0 +1,33 @@
+{
+  "id": "disappear-with-moonlight_b8c861bf027a",
+  "fingerprint": "b8c861bf027a4d1c5d48767292f3fddba11a4fa169cabcb10ae704140e05964c",
+  "archived_at": "2026-07-17T04:18:08Z",
+  "metadata": {
+    "title": "Disappear with Moonlight",
+    "artist": "Yikii",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 757,
+    "duration_human": "00:12:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Yikii - Failure 0.1",
+      "02 Yikii - Post-Glacial Ages",
+      "03 Yikii - Quietus (2020 Remastered)",
+      "04 Yikii - Long Dream",
+      "05 Yikii - Sin",
+      "06 Yikii - Falling Ashes",
+      "07 Yikii - Failed 0.2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/disappear-with-moonlight_b8c861bf027a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/9ed54c9a5ad71ef8a257/Disappear_with_Moonlight.tar"
+    }
+  }
+}
