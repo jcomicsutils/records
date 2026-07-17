@@ -1,0 +1,27 @@
+{
+  "id": "upon-the-woods_002bb254817a",
+  "fingerprint": "002bb254817a2050d187487283c6ec06865f486f948a660822dc6c46f698a543",
+  "archived_at": "2026-07-17T01:20:14Z",
+  "metadata": {
+    "title": "Upon The Woods",
+    "artist": "Thorjn",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 229,
+    "duration_human": "00:03:49",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Thorjn - Upon The Woods"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/upon-the-woods_002bb254817a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/2c76565f41773e254ce8/Upon_The_Woods.tar"
+    }
+  }
+}
