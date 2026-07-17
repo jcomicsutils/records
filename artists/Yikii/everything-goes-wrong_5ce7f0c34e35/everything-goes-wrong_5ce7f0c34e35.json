@@ -1,0 +1,41 @@
+{
+  "id": "everything-goes-wrong_5ce7f0c34e35",
+  "fingerprint": "5ce7f0c34e35bf358489e05849c3004aed40a1a3add2a38e8e20e549d9b8e234",
+  "archived_at": "2026-07-17T04:45:15Z",
+  "metadata": {
+    "title": "Everything Goes Wrong",
+    "artist": "Yikii",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 1955,
+    "duration_human": "00:32:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Yikii - 花之憂鬱",
+      "02 Yikii - 雪之列車",
+      "03 Yikii - 量子之梦",
+      "04 Yikii - 蝴蝶效應 (Butterfly+Effect)",
+      "05 Yikii - 依存症",
+      "06 Yikii - Jealousy._",
+      "07 Yikii - 忘卻之地",
+      "08 Yikii - @彼岸花@",
+      "09 Yikii - Cosmos.1",
+      "10 Yikii - 惡化 (Fester)",
+      "11 Yikii - 無痛症 (Analgesia)",
+      "12 Yikii - 低溫症 (Hypothermia)",
+      "13 Yikii - End of Summer",
+      "14 Yikii - 輪迴 (Reincarnation)",
+      "15 Yikii - Every Thing Is Black"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/everything-goes-wrong_5ce7f0c34e35"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/1a7dd4b0dee0b48b140f/Everything_Goes_Wrong.tar"
+    }
+  }
+}
