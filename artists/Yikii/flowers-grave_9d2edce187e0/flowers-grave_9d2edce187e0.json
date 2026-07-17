@@ -1,0 +1,36 @@
+{
+  "id": "flowers-grave_9d2edce187e0",
+  "fingerprint": "9d2edce187e034efbcd20357e660cbec440d1ed8bc5f7aa92503c64909026c65",
+  "archived_at": "2026-07-17T04:47:19Z",
+  "metadata": {
+    "title": "Flower's Grave",
+    "artist": "Yikii",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2081,
+    "duration_human": "00:34:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Yikii - Rotten Flowers",
+      "02 Yikii - Toxic Clouds in Dreamland",
+      "03 Yikii - Sunset Shackle",
+      "04 Yikii - Feast of Fire",
+      "05 Yikii - Cruelty Lullaby",
+      "06 Yikii - Guillotine Lament",
+      "07 Yikii - Non-Being",
+      "08 Yikii - Spider Lover",
+      "09 Yikii - Dance of Sink",
+      "10 Yikii - Obscure World of Null"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/flowers-grave_9d2edce187e0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/d4e2b9b044d127ad194d/Flower_s_Grave_2019_1.tar"
+    }
+  }
+}
