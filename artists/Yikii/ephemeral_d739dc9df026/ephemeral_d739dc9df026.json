@@ -1,0 +1,27 @@
+{
+  "id": "ephemeral_d739dc9df026",
+  "fingerprint": "d739dc9df026c8c86254ff67d47adacbca1b5bc7b3af5a484cd9c81cb452a41c",
+  "archived_at": "2026-07-17T04:42:14Z",
+  "metadata": {
+    "title": "Ephemeral​",
+    "artist": "Yikii",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 636,
+    "duration_human": "00:10:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Yikii - Ephemeral​"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ephemeral_d739dc9df026"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/0c1ce0112e9096f15553/Ephemeral.tar"
+    }
+  }
+}
