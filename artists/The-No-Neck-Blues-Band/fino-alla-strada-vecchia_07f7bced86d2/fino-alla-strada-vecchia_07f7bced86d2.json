@@ -1,0 +1,28 @@
+{
+  "id": "fino-alla-strada-vecchia_07f7bced86d2",
+  "fingerprint": "07f7bced86d2580dc647466995628d6d930b8086d63cc935c0287eeb20a2fd07",
+  "archived_at": "2026-07-17T00:39:02Z",
+  "metadata": {
+    "title": "Fino Alla Strada Vecchia",
+    "artist": "The No-Neck Blues Band",
+    "year": "2019",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 2375,
+    "duration_human": "00:39:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The No-Neck Blues Band - Fino Alla Strada Vecchia",
+      "02 The No-Neck Blues Band - Portatemi a Casa, Strade DI Campagna"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fino-alla-strada-vecchia_07f7bced86d2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/240d6b32c6aa0db3a885/Fino_Alla_Strada_Vecchia.tar"
+    }
+  }
+}
