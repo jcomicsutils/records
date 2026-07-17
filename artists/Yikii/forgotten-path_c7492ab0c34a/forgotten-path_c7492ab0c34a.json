@@ -1,0 +1,36 @@
+{
+  "id": "forgotten-path_c7492ab0c34a",
+  "fingerprint": "c7492ab0c34ad51c53902f3669cacabb54507522a737c890dfeea3fab726a7e3",
+  "archived_at": "2026-07-17T04:51:37Z",
+  "metadata": {
+    "title": "Forgotten Path",
+    "artist": "Yikii",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 1336,
+    "duration_human": "00:22:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Yikii - Don't Forget the Butterfly",
+      "02 Yikii - The Slaughterhouse (2013 Version)",
+      "03 Yikii - Lost Qualia(2014)",
+      "04 Yikii - Agony and Thick Smoke",
+      "05 Yikii - Drowning Aphotic Zone (2015 Firework Night Version)",
+      "06 Yikii - Heart.Fin",
+      "07 Yikii - Graveyard Level",
+      "08 Yikii - Flashback Tree",
+      "09 Yikii - Bye=Bye",
+      "10 Yikii - Aberration"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/forgotten-path_c7492ab0c34a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/cb27295080a88a9715cb/Forgotten_Path.tar"
+    }
+  }
+}
