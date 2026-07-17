@@ -1,0 +1,27 @@
+{
+  "id": "vapour_a5664189d8a1",
+  "fingerprint": "a5664189d8a12357aed5d0bb95beb928aade316a9795795961f92e46aac87e73",
+  "archived_at": "2026-07-17T01:31:12Z",
+  "metadata": {
+    "title": "Vapour",
+    "artist": "Thorjn",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 234,
+    "duration_human": "00:03:54",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Thorjn - Vapour"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vapour_a5664189d8a1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/b9761e7622cf7bd03883/Vapour.tar"
+    }
+  }
+}
