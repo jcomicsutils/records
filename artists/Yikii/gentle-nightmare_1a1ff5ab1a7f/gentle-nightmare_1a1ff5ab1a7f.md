@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/gentle-nightmare_1a1ff5ab1a7f)
+- [FileDitch](https://fileditchfiles.st/beta15/ea36d4453f10c104ebd4/Gentle_Nightmare.tar)
 
 ## Tracklist
 
