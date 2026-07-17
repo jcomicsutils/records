@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/the-secret-eye-of-olici_7fddb8c8f3c4)
+- [FileDitch](https://fileditchfiles.st/beta15/5d48ff788202ae815927/The_Secret_Eye_of_OLICI.tar)
 
 ## Tracklist
 
