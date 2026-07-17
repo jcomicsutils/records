@@ -187,6 +187,7 @@
 - [XXL](XXL/XXL.md)
 - [Xiu Xiu](Xiu-Xiu/Xiu-Xiu.md)
 - [Xiu Xiu/Miniature Garden](Xiu-XiuMiniature-Garden/Xiu-XiuMiniature-Garden.md)
+- [Yikii](Yikii/Yikii.md)
 - [Zeffon](Zeffon/Zeffon.md)
 - [Zeffon & Greathumour](Zeffon-&-Greathumour/Zeffon-&-Greathumour.md)
 - [Zeffon / Generated Missiân ZFN](Zeffon-Generated-Missiân-ZFN/Zeffon-Generated-Missiân-ZFN.md)
