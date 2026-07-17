@@ -1,0 +1,30 @@
+{
+  "id": "letters-from-the-serth_9ddb7bc02aff",
+  "fingerprint": "9ddb7bc02affd7dc1344df95a26a3a34fe55950c6b4abdf9b837b597829bb231",
+  "archived_at": "2026-07-17T03:11:24Z",
+  "metadata": {
+    "title": "Letters From the Serth",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3887,
+    "duration_human": "01:04:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - Joan the Baptist",
+      "02 The No-Neck Blues Band - Dept. Of Energy",
+      "03 The No-Neck Blues Band - Letters From the Serth",
+      "04 The No-Neck Blues Band - Slithering Verdure"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/letters-from-the-serth_9ddb7bc02aff"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/d2000492d751942cc667/Letters_From_the_Serth.tar"
+    }
+  }
+}
