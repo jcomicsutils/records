@@ -1,0 +1,30 @@
+{
+  "id": "recorded-in-public-private_73c6eca3ae89",
+  "fingerprint": "73c6eca3ae893a9983e7f61dc187f42408e3b367c6c2165b81b3aaa599653991",
+  "archived_at": "2026-07-17T04:52:10Z",
+  "metadata": {
+    "title": "Recorded in Public & Private",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2893,
+    "duration_human": "00:48:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - The Ghost of Magnetism",
+      "02 The No-Neck Blues Band - History of Electricity",
+      "03 The No-Neck Blues Band - A Gull-Scene Depth",
+      "04 The No-Neck Blues Band - Not the Sky"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/recorded-in-public-private_73c6eca3ae89"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/b6c56cf4b878e9377af3/Recorded_in_Public_Private.tar"
+    }
+  }
+}
