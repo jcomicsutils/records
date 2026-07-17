@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/embryonnck-lp_94c8b834f967)
+- [FileDitch](https://fileditchfiles.st/beta15/b2cb6c1c2344abb240e2/Embryonnck_LP.tar)
 
 ## Tracklist
 
