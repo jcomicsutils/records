@@ -1,0 +1,27 @@
+{
+  "id": "way-elm-samuel-marquis-rework_6147c22575cd",
+  "fingerprint": "6147c22575cdba08a90e439710a05893f9e33337e6135ebc8b33f544e38dd25b",
+  "archived_at": "2026-07-17T01:32:19Z",
+  "metadata": {
+    "title": "Way Elm  (Samuel Marquis Rework)",
+    "artist": "Thorjn",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 223,
+    "duration_human": "00:03:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Thorjn, Samuel Marquis - Way Elm  (Samuel Marquis Rework)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/way-elm-samuel-marquis-rework_6147c22575cd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/b968ee2284bd3768dc55/Way_Elm_Samuel_Marquis_Rework.tar"
+    }
+  }
+}
