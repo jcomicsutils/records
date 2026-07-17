@@ -1,0 +1,36 @@
+{
+  "id": "snowblindness_eeafea16a6d7",
+  "fingerprint": "eeafea16a6d7730802ce2edb88ffa31bf51b6ee0267bb67658ee880ae87d7daa",
+  "archived_at": "2026-07-17T05:27:09Z",
+  "metadata": {
+    "title": "Snowblindness",
+    "artist": "Yikii",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2430,
+    "duration_human": "00:40:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Yikii - Firefly in the Sewer",
+      "02 Yikii - Transparent Crowd",
+      "03 Yikii - The Dark River to Otherworld",
+      "04 Yikii - Rewriting the Starless Sky",
+      "05 Yikii - Infested Hill",
+      "06 Yikii - The White Aeon Dead World",
+      "07 Yikii - Alabaster",
+      "08 Yikii - In the Field of Sentinels",
+      "09 Yikii - Petaloid Plasma",
+      "10 Yikii - A High Explosive Shell as Farewell"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/snowblindness_eeafea16a6d7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/86f39bd8f0c9ed2e9af8/Snowblindness.tar"
+    }
+  }
+}
