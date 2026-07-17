@@ -1,0 +1,37 @@
+{
+  "id": "parallel-easters_051d58f857b6",
+  "fingerprint": "051d58f857b6668ed5c2b09f2df681aedf071909b34c9a8cd1caa83958812842",
+  "archived_at": "2026-07-17T04:19:18Z",
+  "metadata": {
+    "title": "Parallel Easters",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 7851,
+    "duration_human": "02:10:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - Rasing the Low Road",
+      "02 The No-Neck Blues Band - Weaving & Then Waving Straps",
+      "03 The No-Neck Blues Band - The Bruce Effect",
+      "04 The No-Neck Blues Band - Beyond the Edge the Carpet Cannot End At",
+      "05 The No-Neck Blues Band - An Exercise in Perception",
+      "06 The No-Neck Blues Band - The Sun is That",
+      "07 The No-Neck Blues Band - Ygg",
+      "08 The No-Neck Blues Band - Llemlis",
+      "09 The No-Neck Blues Band - Lllirikum",
+      "10 The No-Neck Blues Band - Amortortak",
+      "11 The No-Neck Blues Band - Mechel"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/parallel-easters_051d58f857b6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/ab7492981cec54e709b7/Parallel_Easters.tar"
+    }
+  }
+}
