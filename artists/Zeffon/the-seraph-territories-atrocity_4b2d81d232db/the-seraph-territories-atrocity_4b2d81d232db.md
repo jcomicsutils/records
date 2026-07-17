@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/the-seraph-territories-atrocity_4b2d81d232db)
+- [FileDitch](https://fileditchfiles.st/beta15/adb53f55a477783d07d6/The_Seraph_Territories_Atrocity.tar)
 
 ## Tracklist
 
