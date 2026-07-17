@@ -1,0 +1,27 @@
+{
+  "id": "raise-the-high-roof-beams-carpenter_286b93ec6335",
+  "fingerprint": "286b93ec633523eb2af4a73171782fb83a3a77398ca0048c87b56cf9f8805803",
+  "archived_at": "2026-07-17T04:32:35Z",
+  "metadata": {
+    "title": "Raise the High Roof Beams, Carpenter",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 290,
+    "duration_human": "00:04:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - Raise the High Roof Beams, Carpenter"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/raise-the-high-roof-beams-carpenter_286b93ec6335"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/f9c225e1e77de7bc5ec8/Raise_the_High_Roof_Beams_Carpenter.tar"
+    }
+  }
+}
