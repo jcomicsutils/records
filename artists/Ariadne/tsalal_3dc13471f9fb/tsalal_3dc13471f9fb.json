@@ -1,0 +1,32 @@
+{
+  "id": "tsalal_3dc13471f9fb",
+  "fingerprint": "3dc13471f9fbf028881720e472edd162a4490cf265ba604088daf684a10652c1",
+  "archived_at": "2026-07-17T00:45:05Z",
+  "metadata": {
+    "title": "Tsalal",
+    "artist": "Ariadne",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3524,
+    "duration_human": "00:58:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Ariadne - I Thirst",
+      "02 Ariadne - Forsaken",
+      "03 Ariadne - Spare Me",
+      "04 Ariadne - Rejoice",
+      "05 Ariadne - The Shadow",
+      "06 Ariadne - The Darkness"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tsalal_3dc13471f9fb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/9403f2cb83d2ddcb5c8e/Tsalal.tar"
+    }
+  }
+}
