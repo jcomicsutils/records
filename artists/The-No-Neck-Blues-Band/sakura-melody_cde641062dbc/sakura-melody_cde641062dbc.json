@@ -19,6 +19,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/sakura-melody_cde641062dbc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/067293e7e02d7868b432/Sakura_Melody.tar"
     }
   }
 }
