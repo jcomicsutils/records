@@ -1,0 +1,38 @@
+{
+  "id": "black-hole-ringdown_5bd390543bd0",
+  "fingerprint": "5bd390543bd06827185a2e9f70a199eac712f265d3578f1ff1dae198bd5e928e",
+  "archived_at": "2026-07-17T03:15:51Z",
+  "metadata": {
+    "title": "Black Hole Ringdown",
+    "artist": "Yikii",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2397,
+    "duration_human": "00:39:57",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Yikii - Calyx",
+      "02 Yikii - Salt and Rhodonite",
+      "03 Yikii - Thanaposis",
+      "04 Yikii - Melancholia Glass Bird",
+      "05 Yikii - The Last Page of My Diary",
+      "06 Yikii - Cicadas in the Snow",
+      "07 Yikii - Water Lichens",
+      "08 Yikii - Hypnagogia, Sea",
+      "09 Yikii - Azure Zoo",
+      "10 Yikii - Dragonfly Lullaby",
+      "11 Yikii - After Dark",
+      "12 Yikii - The Crawling Stars"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/black-hole-ringdown_5bd390543bd0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/3e6aecdf716f3e7b2496/Black_Hole_Ringdown.tar"
+    }
+  }
+}
