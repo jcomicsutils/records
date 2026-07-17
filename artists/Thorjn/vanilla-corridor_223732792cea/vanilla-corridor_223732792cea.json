@@ -1,0 +1,27 @@
+{
+  "id": "vanilla-corridor_223732792cea",
+  "fingerprint": "223732792cea280e911c4f9a86634336859245d250e27ec1a0fb1a1a5926421d",
+  "archived_at": "2026-07-17T01:21:05Z",
+  "metadata": {
+    "title": "Vanilla Corridor",
+    "artist": "Thorjn",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 295,
+    "duration_human": "00:04:55",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Thorjn - Vanilla Corridor"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vanilla-corridor_223732792cea"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/7a9f79888466532c08b1/Vanilla_Corridor.tar"
+    }
+  }
+}
