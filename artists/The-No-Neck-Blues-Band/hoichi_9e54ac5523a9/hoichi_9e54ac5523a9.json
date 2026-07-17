@@ -1,0 +1,29 @@
+{
+  "id": "hoichi_9e54ac5523a9",
+  "fingerprint": "9e54ac5523a997b9978566cc3cc75e6fb692e7191d1378f31e21ed6ec0beefff",
+  "archived_at": "2026-07-17T01:40:23Z",
+  "metadata": {
+    "title": "Hoichi",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2644,
+    "duration_human": "00:44:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - [untitled]",
+      "02 The No-Neck Blues Band - Fr Neptune",
+      "03 The No-Neck Blues Band - The Law of the Sea"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hoichi_9e54ac5523a9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/f79f3babea27bf37f2d2/Hoichi.tar"
+    }
+  }
+}
