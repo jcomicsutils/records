@@ -1,0 +1,28 @@
+{
+  "id": "languid-red-marchetti_5cc279ab15f4",
+  "fingerprint": "5cc279ab15f4c50bb2b3422506d092562417a71299188bf704de7dc1879651e7",
+  "archived_at": "2026-07-17T02:22:27Z",
+  "metadata": {
+    "title": "Languid Red Marchetti",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2190,
+    "duration_human": "00:36:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - Languid Red Marchetti A",
+      "02 The No-Neck Blues Band - Languid Red Marchetti B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/languid-red-marchetti_5cc279ab15f4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/bd198cc3ce84d3d1d308/Languid_Red_Marchetti.tar"
+    }
+  }
+}
