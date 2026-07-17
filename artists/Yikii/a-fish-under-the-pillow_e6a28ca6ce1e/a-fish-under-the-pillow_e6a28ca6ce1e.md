@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/a-fish-under-the-pillow_e6a28ca6ce1e)
+- [FileDitch](https://fileditchfiles.st/beta15/a0dd5f0844a6fc33b784/A_Fish_Under_the_Pillow.tar)
 
 ## Tracklist
 
