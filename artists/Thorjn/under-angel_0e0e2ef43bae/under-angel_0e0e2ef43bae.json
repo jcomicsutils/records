@@ -1,0 +1,27 @@
+{
+  "id": "under-angel_0e0e2ef43bae",
+  "fingerprint": "0e0e2ef43baeb1dc8ddfdcb1e1392c2e82beef5e1bdac54ab9008badb21c55b6",
+  "archived_at": "2026-07-17T01:16:46Z",
+  "metadata": {
+    "title": "Under Angel",
+    "artist": "Thorjn",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 338,
+    "duration_human": "00:05:38",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Thorjn - Under Angel"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/under-angel_0e0e2ef43bae"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/3d34a00139f6848e9f2b/Under_Angel.tar"
+    }
+  }
+}
