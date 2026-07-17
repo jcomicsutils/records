@@ -1,0 +1,36 @@
+{
+  "id": "dont-cry-little-ghost_48e93596708a",
+  "fingerprint": "48e93596708a2acdfd704d8174d67f05c3b67c2c6b9e8d103b73a42782fb9d5c",
+  "archived_at": "2026-07-17T04:29:13Z",
+  "metadata": {
+    "title": "Don't Cry Little Ghost",
+    "artist": "Yikii",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 1636,
+    "duration_human": "00:27:16",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Yikii - Frost Jelly Cake",
+      "02 Yikii - Moonlit Neverland",
+      "03 Yikii - Lilac Butterfly Soup",
+      "04 Yikii - Self-Torture",
+      "05 Yikii - Tear Off The Last Page",
+      "06 Yikii - Helium Flash",
+      "07 Yikii - Quietly Hiding In The Rain",
+      "08 Yikii - Lloigor",
+      "09 Yikii - Lilac Butterfly Soup (Dasychira Cauldron Pot Twist)",
+      "10 Yikii - Frost Jelly Cake (Dasychira Secret Recipe Book Edition)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dont-cry-little-ghost_48e93596708a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/831a08166693a71ea639/Don_t_Cry_Little_Ghost.tar"
+    }
+  }
+}
