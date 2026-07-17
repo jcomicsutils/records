@@ -1,0 +1,33 @@
+{
+  "id": "found-a-darker-way_c6ce7028f315",
+  "fingerprint": "c6ce7028f315e14512cab45111fabc918c07f6ad670c68710bba32b14bb23ead",
+  "archived_at": "2026-07-17T04:54:55Z",
+  "metadata": {
+    "title": "Found a Darker Way",
+    "artist": "Yikii",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 923,
+    "duration_human": "00:15:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Yikii - 水色",
+      "02 Yikii - 失明",
+      "03 Yikii - 夢の周波数",
+      "04 Yikii - Piano Keys Spontaneous Combustion",
+      "05 Yikii - Ocean",
+      "06 Yikii - Syrup",
+      "07 Yikii - Jellyfish Statue (Inst)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/found-a-darker-way_c6ce7028f315"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/965686e8805da180b28e/Found_a_Darker_Way.tar"
+    }
+  }
+}
