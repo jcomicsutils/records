@@ -1,0 +1,32 @@
+{
+  "id": "tales-of-the-canary-cage_65934be946e2",
+  "fingerprint": "65934be946e2c93dfb08bf6d13b25bbe260ac7acf166a54e3eecca5565fbb8fd",
+  "archived_at": "2026-07-17T01:14:14Z",
+  "metadata": {
+    "title": "Tales Of The Canary Cage",
+    "artist": "Thorjn",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1206,
+    "duration_human": "00:20:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Thorjn - Cherry Tree",
+      "02 Thorjn - Fruit Birth",
+      "03 Thorjn - Tales Of The Canary Cage",
+      "04 Thorjn - Grave Of",
+      "05 Thorjn - Feathers",
+      "06 Thorjn - On The Brink Of Collapse"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tales-of-the-canary-cage_65934be946e2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/0d0c4b89edc10e2e1784/Tales_Of_The_Canary_Cage.tar"
+    }
+  }
+}
