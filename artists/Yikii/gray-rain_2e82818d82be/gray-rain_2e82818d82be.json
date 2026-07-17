@@ -1,0 +1,31 @@
+{
+  "id": "gray-rain_2e82818d82be",
+  "fingerprint": "2e82818d82beeca1852b51355a843778314a480d968d8e930ce7f504e5d685cb",
+  "archived_at": "2026-07-17T05:01:01Z",
+  "metadata": {
+    "title": "Gray Rain",
+    "artist": "Yikii",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1093,
+    "duration_human": "00:18:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Yikii - A Short Dream",
+      "02 Yikii - Flower with Phosphorescence",
+      "03 Yikii - Night of Redemption",
+      "04 Yikii - Cyanine Loveu",
+      "05 Yikii - Venom",
+      "06 Yikii - CoMorbid",
+      "07 Yikii - Zoom Blur",
+      "08 Yikii - Rain of Silence"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/gray-rain_2e82818d82be"
+    }
+  }
+}
