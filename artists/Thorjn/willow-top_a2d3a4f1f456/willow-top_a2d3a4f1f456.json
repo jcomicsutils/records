@@ -1,0 +1,27 @@
+{
+  "id": "willow-top_a2d3a4f1f456",
+  "fingerprint": "a2d3a4f1f456e51adbeed64efce2cdc9486f6353564375d8928fbacd03e258c5",
+  "archived_at": "2026-07-17T01:33:02Z",
+  "metadata": {
+    "title": "Willow Top",
+    "artist": "Thorjn",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 314,
+    "duration_human": "00:05:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Thorjn - Willow Top"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/willow-top_a2d3a4f1f456"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/9b5f65e3df90ef91c937/Willow_Top.tar"
+    }
+  }
+}
