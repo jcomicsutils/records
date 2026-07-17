@@ -1,0 +1,34 @@
+{
+  "id": "lathes_95adb3e7f32f",
+  "fingerprint": "95adb3e7f32fab00efb9df79fe91fa133a1dc7ac7387dc068da79c5f75a74bf6",
+  "archived_at": "2026-07-17T02:29:44Z",
+  "metadata": {
+    "title": "Lathes",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 5140,
+    "duration_human": "01:25:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - Cum",
+      "02 The No-Neck Blues Band - Thinner",
+      "03 The No-Neck Blues Band - Ink",
+      "04 The No-Neck Blues Band - Sweat",
+      "05 The No-Neck Blues Band - Piss",
+      "06 The No-Neck Blues Band - Oil",
+      "07 The No-Neck Blues Band - Blood",
+      "08 The No-Neck Blues Band - Vapor"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lathes_95adb3e7f32f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/a6a5bb4f63122c1287ee/Lathes.tar"
+    }
+  }
+}
