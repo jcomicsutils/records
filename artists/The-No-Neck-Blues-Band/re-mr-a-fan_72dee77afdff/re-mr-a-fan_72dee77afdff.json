@@ -1,0 +1,30 @@
+{
+  "id": "re-mr-a-fan_72dee77afdff",
+  "fingerprint": "72dee77afdff5bcaa0ab32e7130f5b620d5bef8e6696a6b6122c0d5365e0e43e",
+  "archived_at": "2026-07-17T04:42:56Z",
+  "metadata": {
+    "title": "Re: \"Mr. A Fan...\"",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2198,
+    "duration_human": "00:36:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - A Little Piece of the Sky",
+      "02 The No-Neck Blues Band - It's the Fourth of July",
+      "03 The No-Neck Blues Band - The Sound of Virgins",
+      "04 The No-Neck Blues Band - Unafarmer"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/re-mr-a-fan_72dee77afdff"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/dc6d7a227610a490fb00/Re_Mr._A_Fan.tar"
+    }
+  }
+}
