@@ -1,0 +1,44 @@
+{
+  "id": "a-sleeping-monster_dc5d93dc180f",
+  "fingerprint": "dc5d93dc180f1b5f392b56019675d09d536a5708b1e1d5bdf9917030b5158593",
+  "archived_at": "2026-07-17T02:55:26Z",
+  "metadata": {
+    "title": "A Sleeping Monster",
+    "artist": "Yikii",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 18,
+    "duration_seconds": 2607,
+    "duration_human": "00:43:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Yikii - Underwater",
+      "02 Yikii - Sweet Broken",
+      "03 Yikii - Rainbow Rain",
+      "04 Yikii - Alice",
+      "05 Yikii - Island of Ancient Dreams",
+      "06 Yikii - Snowflake",
+      "07 Yikii - Plankton",
+      "08 Yikii - Mechanical Sheep",
+      "09 Yikii - Ice",
+      "10 Yikii - Ruins of Time",
+      "11 Yikii - Shadow Crocodile",
+      "12 Yikii - Cosmic Fields",
+      "13 Yikii - Neon",
+      "14 Yikii - Bye=Bye 2",
+      "15 Yikii - Distorted Love",
+      "16 Yikii - Poison & Serenity",
+      "17 Yikii - Dollx2",
+      "18 Yikii - A Sleeping Girl"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-sleeping-monster_dc5d93dc180f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/5c335697e45371060d7e/A_Sleeping_Monster.tar"
+    }
+  }
+}
