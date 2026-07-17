@@ -1,0 +1,38 @@
+{
+  "id": "crimson-poem-shenhongzhishi_17d5a601e69c",
+  "fingerprint": "17d5a601e69c77b67e2073465ca6604c11d5993bd0acf73c242324a56a873660",
+  "archived_at": "2026-07-17T04:12:48Z",
+  "metadata": {
+    "title": "Crimson Poem 深紅之詩",
+    "artist": "Yikii",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2784,
+    "duration_human": "00:46:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Yikii - -47 °C",
+      "02 Yikii - Disillusionment 破滅",
+      "03 Yikii - Phantasmagoria! 千燈幻景",
+      "04 Yikii - Afterimage In Ruin 廢墟残像",
+      "05 Yikii - Five Layers of Crimson Snow 五重絳雪",
+      "06 Yikii - Doll's Synaesthesia 人偶的通感",
+      "07 Yikii - Noctambulist 夢行者",
+      "08 Yikii - Heart Halo 心之光晕",
+      "09 Yikii - Liminal Space 虛與實",
+      "10 Yikii - Scavenger's Daughter 清道夫之女",
+      "11 Yikii - Glass Drumsticks 玻璃鼓槌",
+      "12 Yikii - Two Moons 戼"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/crimson-poem-shenhongzhishi_17d5a601e69c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/8a83a3ec3c4619b3dd01/Crimson_Poem.tar"
+    }
+  }
+}
