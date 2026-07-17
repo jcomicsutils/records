@@ -1,0 +1,28 @@
+{
+  "id": "furamingo-josei_a4c3b84fa56b",
+  "fingerprint": "a4c3b84fa56b52b0820b4bf88615740842c6ee1d5c75266f1c5b1ccef8760d74",
+  "archived_at": "2026-07-17T01:02:55Z",
+  "metadata": {
+    "title": "Furamingo Josei",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 2671,
+    "duration_human": "00:44:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The No-Neck Blues Band - Mistery Tape Edited, Part 1",
+      "02 The No-Neck Blues Band - Mistery Tape Edited, Part 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/furamingo-josei_a4c3b84fa56b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/065c54a068a4fd64105e/Furamingo_Josei.tar"
+    }
+  }
+}
