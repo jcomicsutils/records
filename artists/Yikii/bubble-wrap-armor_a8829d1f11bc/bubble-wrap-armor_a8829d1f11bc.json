@@ -1,0 +1,30 @@
+{
+  "id": "bubble-wrap-armor_a8829d1f11bc",
+  "fingerprint": "a8829d1f11bce13e6dc27ed6757e1887fd9314e4b728883e80e3af977a5f8168",
+  "archived_at": "2026-07-17T03:26:30Z",
+  "metadata": {
+    "title": "Bubble Wrap Armor",
+    "artist": "Yikii",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 674,
+    "duration_human": "00:11:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Yikii, Dasychira - Future Tell",
+      "02 Yikii, Dasychira - Laser Star",
+      "03 Yikii, Dasychira - Faerie Circus Waltz",
+      "04 Yikii, Dasychira - Doll's Library"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bubble-wrap-armor_a8829d1f11bc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/f5c06e319e6542903b80/Bubble_Wrap_Armor.tar"
+    }
+  }
+}
