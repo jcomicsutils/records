@@ -1,0 +1,27 @@
+{
+  "id": "steal-progression_7d0f07dee772",
+  "fingerprint": "7d0f07dee77285c8bdf855f2479221a94e9bb6ca0723aa398725acdf45ea04a1",
+  "archived_at": "2026-07-17T00:50:24Z",
+  "metadata": {
+    "title": "Steal Progression",
+    "artist": "Thorjn",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 319,
+    "duration_human": "00:05:19",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Thorjn - Steal Progression"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/steal-progression_7d0f07dee772"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/4265433478860d1d7d63/Steal_Progression.tar"
+    }
+  }
+}
