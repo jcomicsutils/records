@@ -1,0 +1,31 @@
+{
+  "id": "satans-compulsive-hoarding_41886365df4b",
+  "fingerprint": "41886365df4b1df5c2dfc49365311bc9e27380b6d33c7311f7ce11527ae3f0ea",
+  "archived_at": "2026-07-17T05:11:07Z",
+  "metadata": {
+    "title": "Satan's Compulsive Hoarding",
+    "artist": "Yikii",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 770,
+    "duration_human": "00:12:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Yikii - Satans Compulsive Hoarding",
+      "02 Yikii - 微光",
+      "03 Yikii - 表象世界的绝对界限",
+      "04 Yikii - Sick Sea",
+      "05 Yikii - Scar of Rose"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/satans-compulsive-hoarding_41886365df4b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/5c6720ecdf9009f61d95/Satan_s_Compulsive_Hoarding.tar"
+    }
+  }
+}
