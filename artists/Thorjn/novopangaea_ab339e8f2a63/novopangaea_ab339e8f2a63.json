@@ -24,6 +24,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/novopangaea_ab339e8f2a63"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/7f8349e249020b95b4a6/NOVOPANGAEA.tar"
     }
   }
 }

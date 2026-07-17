@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/novopangaea_ab339e8f2a63)
+- [FileDitch](https://fileditchfiles.st/beta15/7f8349e249020b95b4a6/NOVOPANGAEA.tar)
 
 ## Tracklist
 
