@@ -1,0 +1,28 @@
+{
+  "id": "tales-of-the-canary-cage-remixes_32fa2a9b4344",
+  "fingerprint": "32fa2a9b4344f201479463264b7cd13940f47e142f56b2cd99013e0919abbb56",
+  "archived_at": "2026-07-17T01:15:52Z",
+  "metadata": {
+    "title": "Tales Of The Canary Cage Remixes",
+    "artist": "Thorjn",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 444,
+    "duration_human": "00:07:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Thorjn - On The Brink Of Collapse (juha Remix)",
+      "02 Thorjn - Grave Of (prox.Bleep Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tales-of-the-canary-cage-remixes_32fa2a9b4344"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/a1b8ff488de5f5018cc2/Tales_Of_The_Canary_Cage_Remixes.tar"
+    }
+  }
+}
