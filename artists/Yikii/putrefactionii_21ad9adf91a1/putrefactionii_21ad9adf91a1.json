@@ -1,0 +1,27 @@
+{
+  "id": "putrefactionii_21ad9adf91a1",
+  "fingerprint": "21ad9adf91a11553d31c985cd769960507b99447afcb6f0f46c062c3691b0c45",
+  "archived_at": "2026-07-17T05:09:34Z",
+  "metadata": {
+    "title": "PutrefactionII",
+    "artist": "Yikii",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 411,
+    "duration_human": "00:06:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Yikii - PutrefactionII"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/putrefactionii_21ad9adf91a1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/d754dd2b68023db7a682/PutrefactionII.tar"
+    }
+  }
+}
