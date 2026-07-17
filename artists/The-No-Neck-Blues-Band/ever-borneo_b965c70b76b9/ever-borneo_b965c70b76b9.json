@@ -1,0 +1,39 @@
+{
+  "id": "ever-borneo_b965c70b76b9",
+  "fingerprint": "b965c70b76b9ca839b84e47903feff137abbae8d69ee42681148bf06f50dbb9a",
+  "archived_at": "2026-07-17T00:27:58Z",
+  "metadata": {
+    "title": "Ever Borneo!",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 3558,
+    "duration_human": "00:59:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - Twinkle",
+      "02 The No-Neck Blues Band - Second Colombus, Pt. 1",
+      "03 The No-Neck Blues Band - Blue Craft",
+      "04 The No-Neck Blues Band - Ever Borneo!",
+      "05 The No-Neck Blues Band - Accepting the Gift & Gently Saying Goodbye",
+      "06 The No-Neck Blues Band - And Here is Your Key",
+      "07 The No-Neck Blues Band - Futuremaster",
+      "08 The No-Neck Blues Band - Second Colombus, Pt. 2",
+      "09 The No-Neck Blues Band - Tacomind",
+      "10 The No-Neck Blues Band - Mount Analog \"Burney Toppins\" A",
+      "11 The No-Neck Blues Band - Mount Analog \"Burney Toppins\" B",
+      "12 The No-Neck Blues Band - Siriusly \"Hog's Hole\" A",
+      "13 The No-Neck Blues Band - Siriusly \"Hog's Hole\" B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ever-borneo_b965c70b76b9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/652f8ed6adb9c8836db2/Ever_Borneo.tar"
+    }
+  }
+}
