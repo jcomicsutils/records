@@ -1,0 +1,27 @@
+{
+  "id": "purification-instrumental_3a56952e1391",
+  "fingerprint": "3a56952e13917550ce8112f5596f9b1f5dcb8bccd6770e1d7b1c9b0227a177bf",
+  "archived_at": "2026-07-17T05:08:55Z",
+  "metadata": {
+    "title": "Purification (Instrumental)",
+    "artist": "Yikii",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 196,
+    "duration_human": "00:03:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Yikii - Purification (Instrumental)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/purification-instrumental_3a56952e1391"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/49f1170f2dec2f0478c0/Purification_Instrumental.tar"
+    }
+  }
+}
