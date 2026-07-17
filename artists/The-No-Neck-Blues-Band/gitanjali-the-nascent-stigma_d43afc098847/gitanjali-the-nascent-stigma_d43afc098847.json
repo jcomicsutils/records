@@ -1,0 +1,29 @@
+{
+  "id": "gitanjali-the-nascent-stigma_d43afc098847",
+  "fingerprint": "d43afc0988473e98d2c75d62cb3430efa0bc3fa9c622909b84c751a180883553",
+  "archived_at": "2026-07-17T01:06:08Z",
+  "metadata": {
+    "title": "Gitanjali + The Nascent Stigma",
+    "artist": "The No-Neck Blues Band",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 3280,
+    "duration_human": "00:54:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The No-Neck Blues Band - Solipsistic Circles",
+      "02 The No-Neck Blues Band - The Sepulcher of Oblivion",
+      "03 The No-Neck Blues Band - Gitanjali Fr C. Gocher"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/gitanjali-the-nascent-stigma_d43afc098847"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/e954e4a6352a867f20eb/Gitanjali_The_Nascent_Stigma.tar"
+    }
+  }
+}
