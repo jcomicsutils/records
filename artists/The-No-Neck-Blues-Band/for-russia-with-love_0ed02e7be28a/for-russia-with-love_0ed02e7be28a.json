@@ -1,0 +1,27 @@
+{
+  "id": "for-russia-with-love_0ed02e7be28a",
+  "fingerprint": "0ed02e7be28addb53128db893017e32fa4e8ebfe82e00f4e5aa51f537c26dadd",
+  "archived_at": "2026-07-17T00:57:05Z",
+  "metadata": {
+    "title": "For Russia With Love",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 253,
+    "duration_human": "00:04:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - For Russia With Love"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/for-russia-with-love_0ed02e7be28a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/55e466a3a4cb3e185d1d/For_Russia_With_Love.tar"
+    }
+  }
+}
