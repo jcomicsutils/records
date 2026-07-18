@@ -1,0 +1,28 @@
+{
+  "id": "the-large-taquat_775aa2d628f5",
+  "fingerprint": "775aa2d628f5407c46615aa7b8b3840be995b770042f9042230bcd0092df8f58",
+  "archived_at": "2026-07-18T04:02:00Z",
+  "metadata": {
+    "title": "The Large Taquat",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2162,
+    "duration_human": "00:36:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - The Large Taquat A",
+      "02 The No-Neck Blues Band - The Large Taquat B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-large-taquat_775aa2d628f5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/375eafafb22a3fa3fd2f/The_Large_Taquat.tar"
+    }
+  }
+}
