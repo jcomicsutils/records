@@ -1,0 +1,28 @@
+{
+  "id": "the-circle-broken_e3bd4bc87850",
+  "fingerprint": "e3bd4bc87850e2404ca0b28757646b2b78b1cd217650a80091a1b5f44d5c4662",
+  "archived_at": "2026-07-18T03:26:15Z",
+  "metadata": {
+    "title": "The Circle Broken",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3356,
+    "duration_human": "00:55:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - Obelisk",
+      "02 The No-Neck Blues Band - The Golden Tower"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-circle-broken_e3bd4bc87850"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/78c4eccc8a140e5b788a/The_Circle_Broken.tar"
+    }
+  }
+}
