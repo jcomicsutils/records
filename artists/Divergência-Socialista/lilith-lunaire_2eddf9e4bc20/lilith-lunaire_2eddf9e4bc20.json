@@ -1,0 +1,37 @@
+{
+  "id": "lilith-lunaire_2eddf9e4bc20",
+  "fingerprint": "2eddf9e4bc20df5e41033b0056026bc08fc135c7e4f883fa201341345ea0e35c",
+  "archived_at": "2026-07-18T05:33:04Z",
+  "metadata": {
+    "title": "Lilith Lunaire",
+    "artist": "Divergência Socialista",
+    "year": "1990",
+    "codec": "MP3",
+    "num_tracks": 11,
+    "duration_seconds": 2502,
+    "duration_human": "00:41:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Divergência Socialista - Cindy & Kate / Rimel Broadcasting",
+      "02 Divergência Socialista - Dolores Duran",
+      "03 Divergência Socialista - Sylvia Telles / Vida",
+      "04 Divergência Socialista - Thomas Mann / A morte em Veneza",
+      "05 Divergência Socialista - Jean-Pierre Léaud / Duas inglesas e o amor",
+      "06 Divergência Socialista - Gustav Aschenbach / Der tod in venedig",
+      "07 Divergência Socialista - Thomas Morus Dub / Aqui & aqui / Man Ray",
+      "08 Divergência Socialista - Maysa / Mother nº851",
+      "09 Divergência Socialista - Béatrice Dalle nº37",
+      "10 Divergência Socialista - Lilith Lunaire",
+      "11 Divergência Socialista - Astrud Gilberto"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lilith-lunaire_2eddf9e4bc20"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/477b2972eb9e970bb7df/Lilith_Lunaire.tar"
+    }
+  }
+}
