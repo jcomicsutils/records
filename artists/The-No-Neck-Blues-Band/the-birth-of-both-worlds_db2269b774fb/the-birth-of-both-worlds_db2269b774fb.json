@@ -1,0 +1,30 @@
+{
+  "id": "the-birth-of-both-worlds_db2269b774fb",
+  "fingerprint": "db2269b774fb5766d3e397f7d65e3589abacb1a93b4348f927531c705d7d8a7e",
+  "archived_at": "2026-07-18T03:23:52Z",
+  "metadata": {
+    "title": "The Birth of Both Worlds",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 6439,
+    "duration_human": "01:47:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - Ye Boned Ragas a Garden Obey",
+      "02 The No-Neck Blues Band - We Are All Going Down",
+      "03 The No-Neck Blues Band - To You Too",
+      "04 The No-Neck Blues Band - The Emblematic Cut",
+      "05 The No-Neck Blues Band - Why is Love Wrong_",
+      "06 The No-Neck Blues Band - The New Quarter",
+      "07 The No-Neck Blues Band - Sif Was His Mistress"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-birth-of-both-worlds_db2269b774fb"
+    }
+  }
+}
