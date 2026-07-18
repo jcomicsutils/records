@@ -1,0 +1,27 @@
+{
+  "id": "yomi-yami-shepherds-of-the-bunker_8910573d8575",
+  "fingerprint": "8910573d8575c4121c5290a6f12447195ad3ccd1ded5f0b6157d47568b1bc3e0",
+  "archived_at": "2026-07-18T03:46:51Z",
+  "metadata": {
+    "title": "Yomi & Yami, Shepherds of the Bunker",
+    "artist": "Yikii",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 510,
+    "duration_human": "00:08:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Yikii - Yomi & Yami, Shepherds of the Bunker"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/yomi-yami-shepherds-of-the-bunker_8910573d8575"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/8dec75d0451c0bab910e/Yomi_Yami_Shepherds_of_the_Bunker.tar"
+    }
+  }
+}
