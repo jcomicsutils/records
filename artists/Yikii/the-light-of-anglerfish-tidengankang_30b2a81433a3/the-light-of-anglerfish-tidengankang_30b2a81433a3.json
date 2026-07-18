@@ -1,0 +1,27 @@
+{
+  "id": "the-light-of-anglerfish-tidengankang_30b2a81433a3",
+  "fingerprint": "30b2a81433a3835a866d8cf8d747919b486498ad9de9d455de14d759a06c25bd",
+  "archived_at": "2026-07-18T03:25:22Z",
+  "metadata": {
+    "title": "The Light of Anglerfish 提灯鮟鱇",
+    "artist": "Yikii",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 246,
+    "duration_human": "00:04:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Yikii - The Light of Anglerfish 提灯鮟鱇"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-light-of-anglerfish-tidengankang_30b2a81433a3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/7e2302a852da59fb05a4/The_Light_of_Anglerfish.tar"
+    }
+  }
+}
