@@ -1,0 +1,31 @@
+{
+  "id": "wolfen-nickel_f737111787c3",
+  "fingerprint": "f737111787c300eecac3cd5a52493ea2117390033b40269fda577317d2629a5d",
+  "archived_at": "2026-07-18T04:06:58Z",
+  "metadata": {
+    "title": "Wolfen Nickel",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2369,
+    "duration_human": "00:39:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - [untitled]",
+      "02 The No-Neck Blues Band - [untitled]",
+      "03 The No-Neck Blues Band - [untitled]",
+      "04 The No-Neck Blues Band - [untitled]",
+      "05 The No-Neck Blues Band - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wolfen-nickel_f737111787c3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/6f8b06d73036387c8ea5/Wolfen_Nickel.tar"
+    }
+  }
+}
