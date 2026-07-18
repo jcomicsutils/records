@@ -1,0 +1,28 @@
+{
+  "id": "ytiu_4dbf9c3c0174",
+  "fingerprint": "4dbf9c3c01740cb8797124cf33211b89344bcf6e69e303816a24250c415342f9",
+  "archived_at": "2026-07-18T04:08:12Z",
+  "metadata": {
+    "title": "Ytiu",
+    "artist": "The No-Neck Blues Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2424,
+    "duration_human": "00:40:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The No-Neck Blues Band - Platinum Willows",
+      "02 The No-Neck Blues Band - A Daisy Chain for Richard Wright"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ytiu_4dbf9c3c0174"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/c0ade3d1e36c78e719e0/Ytiu.tar"
+    }
+  }
+}
