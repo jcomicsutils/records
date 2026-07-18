@@ -62,6 +62,7 @@
 - [Deerhunter](Deerhunter/Deerhunter.md)
 - [Delia Detritus](Delia-Detritus/Delia-Detritus.md)
 - [Dirty Three](Dirty-Three/Dirty-Three.md)
+- [Divergência Socialista](Divergência-Socialista/Divergência-Socialista.md)
 - [Doron Sadja](Doron-Sadja/Doron-Sadja.md)
 - [E+E](E+E/E+E.md)
 - [Egor Klochikhin](Egor-Klochikhin/Egor-Klochikhin.md)
