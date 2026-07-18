@@ -1,0 +1,28 @@
+{
+  "id": "the-math-of-crack_ccd8e97815c6",
+  "fingerprint": "ccd8e97815c616fa56354d3a5147cf469bcacb7cb94442856ad12d4acc42828f",
+  "archived_at": "2026-07-18T04:03:11Z",
+  "metadata": {
+    "title": "The Math of Crack",
+    "artist": "The No-Neck Blues Band",
+    "year": "1995",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 751,
+    "duration_human": "00:12:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The No-Neck Blues Band - The Math of Crack",
+      "02 The No-Neck Blues Band - The Mouth of Gack"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-math-of-crack_ccd8e97815c6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/4a103c402b785d3276e0/The_Math_of_Crack.tar"
+    }
+  }
+}
