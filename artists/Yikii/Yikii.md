@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Upside Down Forest](upside-down-forest_07f284efe851/upside-down-forest_07f284efe851.md) | 2017 | FLAC | 00:26:04 | [IA](https://archive.org/details/upside-down-forest_07f284efe851) [FileDitch](https://fileditchfiles.st/beta15/6b164ee1bfbac8fdf8d5/Upside_Down_Forest.tar) |
 | [Paradise Lost \(EP\) \[WTS43\]](paradise-lost-ep-wts43_3eb9b0c46189/paradise-lost-ep-wts43_3eb9b0c46189.md) | 2017 | FLAC | 00:15:39 | [IA](https://archive.org/details/paradise-lost-ep-wts43_3eb9b0c46189) [FileDitch](https://fileditchfiles.st/beta15/b01fe6fc7d04f72fffe7/Paradise_Lost_EP_WTS43.tar) |
 | [Unknown Room](unknown-room_0b0961bee32d/unknown-room_0b0961bee32d.md) | 2017 | FLAC | 00:21:14 | [IA](https://archive.org/details/unknown-room_0b0961bee32d) [FileDitch](https://fileditchfiles.st/beta15/63c07fa8b689ab361eee/Unknown_Room.tar) |
 | [Dream Collapse](dream-collapse_d9d4b6ed7baf/dream-collapse_d9d4b6ed7baf.md) | 2017 | MP3 | 00:49:16 | [IA](https://archive.org/details/dream-collapse_d9d4b6ed7baf) [FileDitch](https://fileditchfiles.st/beta15/d4d5223f2c6d258a8138/Dream_Collapse.tar) |

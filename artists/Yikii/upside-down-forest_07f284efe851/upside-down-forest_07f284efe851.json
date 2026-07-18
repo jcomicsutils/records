@@ -1,0 +1,36 @@
+{
+  "id": "upside-down-forest_07f284efe851",
+  "fingerprint": "07f284efe85170fd14f4b90a78408334385d40d478cd5bb0bcd9999ee20a91f1",
+  "archived_at": "2026-07-18T03:38:32Z",
+  "metadata": {
+    "title": "Upside Down Forest",
+    "artist": "Yikii",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 1564,
+    "duration_human": "00:26:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Yikii - Wave Function Collapse",
+      "02 Yikii - 13th Dre",
+      "03 Yikii - Apathetic",
+      "04 Yikii - Tears",
+      "05 Yikii - Zoae222",
+      "06 Yikii - Utter Despair",
+      "07 Yikii - Claustrophobia",
+      "08 Yikii - Mirror Stars Falling",
+      "09 Yikii - Alienation",
+      "10 Yikii - Deepest"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/upside-down-forest_07f284efe851"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/6b164ee1bfbac8fdf8d5/Upside_Down_Forest.tar"
+    }
+  }
+}
