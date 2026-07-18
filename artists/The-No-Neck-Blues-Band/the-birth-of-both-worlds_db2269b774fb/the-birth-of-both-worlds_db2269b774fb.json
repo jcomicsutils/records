@@ -25,6 +25,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/the-birth-of-both-worlds_db2269b774fb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/bae6a3ba7ff3d8e4c746/The_Birth_of_Both_Worlds.tar"
     }
   }
 }
