@@ -1,0 +1,35 @@
+{
+  "id": "unknown-room_0b0961bee32d",
+  "fingerprint": "0b0961bee32d9eca1c3605d8929e974ba6540993c061e1049ed810ef26901d4f",
+  "archived_at": "2026-07-18T03:34:42Z",
+  "metadata": {
+    "title": "Unknown Room",
+    "artist": "Yikii",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1274,
+    "duration_human": "00:21:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Yikii - Empty",
+      "02 Yikii - Snow Memory",
+      "03 Yikii - Lost in the Snow",
+      "04 Yikii - Flower of Reversal",
+      "05 Yikii - The Snowless Realm",
+      "06 Yikii - Snowdrop Tales",
+      "07 Yikii - Era of the Supernova",
+      "08 Yikii - Derangement",
+      "09 Yikii - Disquiet"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/unknown-room_0b0961bee32d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/63c07fa8b689ab361eee/Unknown_Room.tar"
+    }
+  }
+}
