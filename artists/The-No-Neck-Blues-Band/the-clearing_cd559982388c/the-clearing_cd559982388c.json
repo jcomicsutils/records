@@ -1,0 +1,29 @@
+{
+  "id": "the-clearing_cd559982388c",
+  "fingerprint": "cd559982388cd6be5c453b87b5aebb290ac8ada477818f1a67f45a358dc915b1",
+  "archived_at": "2026-07-18T03:27:42Z",
+  "metadata": {
+    "title": "The Clearing",
+    "artist": "The No-Neck Blues Band",
+    "year": "1995",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 1028,
+    "duration_human": "00:17:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The No-Neck Blues Band - The Clearing",
+      "02 The No-Neck Blues Band - Shaitan's Fingering (Excerpt)",
+      "03 The No-Neck Blues Band - Everything I Earned and Learned Has Gone With a Tap of a Spoon Against the Teeth"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-clearing_cd559982388c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/28eef0476863608f4a5b/The_Clearing.tar"
+    }
+  }
+}
