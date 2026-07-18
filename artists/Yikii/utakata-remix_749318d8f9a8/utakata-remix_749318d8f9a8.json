@@ -1,0 +1,27 @@
+{
+  "id": "utakata-remix_749318d8f9a8",
+  "fingerprint": "749318d8f9a803729d217afbdf758726a0add836a35024501fd3ebbf8b3985d5",
+  "archived_at": "2026-07-18T03:39:35Z",
+  "metadata": {
+    "title": "Utakata (Remix)",
+    "artist": "Yikii",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 202,
+    "duration_human": "00:03:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Yikii - Utakata (Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/utakata-remix_749318d8f9a8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/cd7271fab77508e0a2c6/Utakata_Remix.tar"
+    }
+  }
+}
