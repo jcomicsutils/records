@@ -1,0 +1,33 @@
+{
+  "id": "pohuaisaretatingyl-07_fc9f2b33418c",
+  "fingerprint": "fc9f2b33418c9bd54890224b2279561f660ec7b696dfd23a4c5df0eabdf07eb4",
+  "archived_at": "2026-07-18T04:09:59Z",
+  "metadata": {
+    "title": "破壊された町YL-07",
+    "artist": "Yikii",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 977,
+    "duration_human": "00:16:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Yikii - destroy everything(album ver.)",
+      "02 Yikii - 異形・透明",
+      "03 Yikii - 深夜の遊園地",
+      "04 Yikii - Prière",
+      "05 Yikii - Knight's Heart",
+      "06 Yikii - Physical Death(blossoming)",
+      "07 Yikii - 番外・アブラ"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pohuaisaretatingyl-07_fc9f2b33418c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta15/513960b5f5a5e9dfbd2d/YL-07.tar"
+    }
+  }
+}
