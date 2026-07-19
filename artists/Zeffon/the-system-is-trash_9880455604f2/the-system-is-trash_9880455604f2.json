@@ -1,0 +1,34 @@
+{
+  "id": "the-system-is-trash_9880455604f2",
+  "fingerprint": "9880455604f291a788c6817335de9245509057ea825de66d7f91b662af1361be",
+  "archived_at": "2026-07-19T22:58:43Z",
+  "metadata": {
+    "title": "The System is Trash",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2797,
+    "duration_human": "00:46:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Pitohui Vibrâânce 2",
+      "02 Zeffon - Strange Wind",
+      "03 Zeffon - 1 Minute of Peaceful Songs About Armageddon",
+      "04 Zeffon - He Lives",
+      "05 Zeffon - Hu Muma Poaagw",
+      "06 Zeffon - Lost in the Trees",
+      "07 Zeffon - Swamp Thing",
+      "08 Zeffon - What is Knotted Inside a Man... (Running Water, Then Flatulence)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-system-is-trash_9880455604f2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta16/9735c343110c00bcfd37/The_System_is_Trash.tar"
+    }
+  }
+}
