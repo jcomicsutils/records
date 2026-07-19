@@ -1,0 +1,50 @@
+{
+  "id": "the-sun-departs_5b7a887b87b8",
+  "fingerprint": "5b7a887b87b81170f48912b19301140cd11578278dd35c3e48c819a7be6acba7",
+  "archived_at": "2026-07-19T22:10:21Z",
+  "metadata": {
+    "title": "The Sun Departs",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 24,
+    "duration_seconds": 20058,
+    "duration_human": "05:34:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Terra Cotta Army (Precious Ouroboros, Part 2)",
+      "02 Zeffon - Better in Space",
+      "03 Zeffon - Still On Forked Silverware... And Still Good! (Naju, Part 2)",
+      "04 Zeffon - Dark Hill",
+      "05 Zeffon - En Canot",
+      "06 Zeffon - Fire and Brimstone",
+      "07 Zeffon - Breakthrough",
+      "08 Zeffon - The Crying Banshee",
+      "09 Zeffon - The Sun Departs",
+      "10 Zeffon - Evil Eye",
+      "11 Zeffon - The Death of Painted Works",
+      "12 Zeffon - Smolenskas",
+      "13 Zeffon - Eberswalde",
+      "14 Zeffon - Metallic Kill",
+      "15 Zeffon - Day of the Fire-Breathing Beast",
+      "16 Zeffon - Bloody Horns",
+      "17 Zeffon - Snow Falls Around Abandoned Rusty Swords",
+      "18 Zeffon - Abandoned Again",
+      "19 Zeffon - Rotting Hands and Wandering Forever I",
+      "20 Zeffon - Rotting Hands and Wandering Forever II",
+      "21 Zeffon - Extreme Hot Metal",
+      "22 Zeffon - Ramen-Ration",
+      "23 Zeffon - Distance",
+      "24 Zeffon - Rava-Ruska"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-sun-departs_5b7a887b87b8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta16/b05ffbdc18357627e2fe/The_Sun_Departs.tar"
+    }
+  }
+}
