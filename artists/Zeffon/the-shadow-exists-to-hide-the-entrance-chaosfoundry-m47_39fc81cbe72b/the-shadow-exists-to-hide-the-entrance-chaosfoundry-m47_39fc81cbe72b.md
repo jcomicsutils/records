@@ -1,5 +1,7 @@
 # Zeffon — The Shadow Exists to Hide the Entrance (Chaosfoundry M47) (2022)
 
+![Cover](https://archive.org/download/the-shadow-exists-to-hide-the-entrance-chaosfoundry-m47_39fc81cbe72b/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - FileDitch: [Part 1](https://fileditchfiles.st/beta15/b89397b1424f9facca78/The_Shadow_Exists_to_Hide_the_Entrance_Chaosfoundry_M47.part001.tar) [Part 2](https://fileditchfiles.st/beta15/6d20f74bfd060dd2c8dc/The_Shadow_Exists_to_Hide_the_Entrance_Chaosfoundry_M47.part002.tar)
+- [Archive.org](https://archive.org/details/the-shadow-exists-to-hide-the-entrance-chaosfoundry-m47_39fc81cbe72b)
 
 ## Tracklist
 
