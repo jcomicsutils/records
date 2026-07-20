@@ -1,0 +1,29 @@
+{
+  "id": "the-unanswered-question_018d7ba5cb1f",
+  "fingerprint": "018d7ba5cb1f2c982df2712a6d94ddb0ffdb666fc7d77440df5ca3ea18b589ee",
+  "archived_at": "2026-07-20T02:21:16Z",
+  "metadata": {
+    "title": "The Unanswered Question",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4253,
+    "duration_human": "01:10:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Love Ballad (Hatross Tribute)",
+      "02 Zeffon - All I Wanna Do Is Love You An' There Ain't No More",
+      "03 Zeffon - Nothin' T'lose"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-unanswered-question_018d7ba5cb1f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta16/aaee0cc1061fc7bb9de6/The_Unanswered_Question.tar"
+    }
+  }
+}
