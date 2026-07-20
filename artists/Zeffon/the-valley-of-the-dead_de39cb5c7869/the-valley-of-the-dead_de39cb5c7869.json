@@ -1,0 +1,27 @@
+{
+  "id": "the-valley-of-the-dead_de39cb5c7869",
+  "fingerprint": "de39cb5c7869edc5ef5f9af8d4c4325d28083d4f0841f51c2cf86a545665e584",
+  "archived_at": "2026-07-20T02:44:33Z",
+  "metadata": {
+    "title": "The Valley of the Dead",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 986,
+    "duration_human": "00:16:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Berry Woods"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-valley-of-the-dead_de39cb5c7869"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta16/75a55eb307f364dabac7/The_Valley_of_the_Dead.tar"
+    }
+  }
+}
