@@ -1,0 +1,28 @@
+{
+  "id": "the-white-magick-factory_ccf0e97fd467",
+  "fingerprint": "ccf0e97fd467c30590ba4e96c44a084af82c0894b83bb6f39d51031af4835d8f",
+  "archived_at": "2026-07-20T02:51:32Z",
+  "metadata": {
+    "title": "The White Magick Factory",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4152,
+    "duration_human": "01:09:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Factory of White Magick",
+      "02 Zeffon - Many Filthy Stars in the Sky"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-white-magick-factory_ccf0e97fd467"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta16/0a74f90f963b5ea53ee3/The_White_Magick_Factory.tar"
+    }
+  }
+}
