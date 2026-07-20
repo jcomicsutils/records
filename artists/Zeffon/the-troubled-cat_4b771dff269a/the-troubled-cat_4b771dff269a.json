@@ -1,0 +1,33 @@
+{
+  "id": "the-troubled-cat_4b771dff269a",
+  "fingerprint": "4b771dff269a4e66011fd9dfbf648049a2a176f45348e18009f348a059079fdf",
+  "archived_at": "2026-07-20T01:23:21Z",
+  "metadata": {
+    "title": "The Troubled Cat",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 26138,
+    "duration_human": "07:15:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Population",
+      "02 Zeffon - Shabroêppau Dêlf",
+      "03 Zeffon - Square Vine",
+      "04 Zeffon - Behind 98.8",
+      "05 Zeffon - We Don't Mention What Happened to the Kids...",
+      "06 Zeffon - Old Gunk",
+      "07 Zeffon - The Troubled Cat (Not Understood)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-troubled-cat_4b771dff269a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta16/a56a7bedf61359f6dcf8/The_Troubled_Cat.tar"
+    }
+  }
+}
