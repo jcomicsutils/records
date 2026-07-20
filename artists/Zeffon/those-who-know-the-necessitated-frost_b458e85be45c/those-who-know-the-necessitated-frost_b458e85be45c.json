@@ -1,0 +1,32 @@
+{
+  "id": "those-who-know-the-necessitated-frost_b458e85be45c",
+  "fingerprint": "b458e85be45cc889c8c163afae04d4d747ec0d1a1b067c6fd442f73e7124300b",
+  "archived_at": "2026-07-20T07:47:05Z",
+  "metadata": {
+    "title": "Those Who Know the Necessitated Frost",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 9169,
+    "duration_human": "02:32:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Demon Hunter, Part 2",
+      "02 Zeffon - Phobia of Sinful Men (Pink Roses)",
+      "03 Zeffon - Sirius, Part 1",
+      "04 Zeffon - Beam of Lovely Design",
+      "05 Zeffon - Saint Real-Tribe",
+      "06 Zeffon - Sil Capitria, Part 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/those-who-know-the-necessitated-frost_b458e85be45c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta16/fa157bad26e33c524d08/Those_Who_Know_the_Necessitated_Frost.tar"
+    }
+  }
+}
