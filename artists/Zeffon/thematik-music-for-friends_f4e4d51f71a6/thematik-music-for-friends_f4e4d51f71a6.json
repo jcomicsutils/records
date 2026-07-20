@@ -1,0 +1,34 @@
+{
+  "id": "thematik-music-for-friends_f4e4d51f71a6",
+  "fingerprint": "f4e4d51f71a6cafd03443718ecaf17e2ca121a59502aa2cec32787f2204e3f9f",
+  "archived_at": "2026-07-20T03:58:08Z",
+  "metadata": {
+    "title": "Thematik Music For Friends",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 13425,
+    "duration_human": "03:43:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Thematics, Part 1",
+      "02 Zeffon - Friends",
+      "03 Zeffon - Thematics, Part 2",
+      "04 Zeffon - Mortars (Black Powder)",
+      "05 Zeffon - Harjdarricolona",
+      "06 Zeffon - Thematics, Part 3",
+      "07 Zeffon - Thematics, Part 4",
+      "08 Zeffon - Rektifjana (Conra X.)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/thematik-music-for-friends_f4e4d51f71a6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta16/b01c0d3be7c343c7c9b2/Thematik_Music_For_Friends.tar"
+    }
+  }
+}
