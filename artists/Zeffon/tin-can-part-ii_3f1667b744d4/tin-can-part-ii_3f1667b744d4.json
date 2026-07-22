@@ -1,0 +1,32 @@
+{
+  "id": "tin-can-part-ii_3f1667b744d4",
+  "fingerprint": "3f1667b744d49af348444f47ebb66c95176f977167b6bb961686f78056ed5985",
+  "archived_at": "2026-07-22T21:17:04Z",
+  "metadata": {
+    "title": "Tin Can (Part II)",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 6686,
+    "duration_human": "01:51:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Et, Al (Scrap Metal, Part 3)",
+      "02 Zeffon - Tin Can",
+      "03 Zeffon - Rust Peel",
+      "04 Zeffon - Victimized",
+      "05 Zeffon - Frog, Part 3",
+      "06 Zeffon - Crashing"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tin-can-part-ii_3f1667b744d4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/764f7dbc21d668740f38/Tin_Can_Part_II.tar"
+    }
+  }
+}
