@@ -1,0 +1,33 @@
+{
+  "id": "ii_1e1f7a902fb5",
+  "fingerprint": "1e1f7a902fb5fe51dcc3f6677aef85561bad8f418a40e10ee71da5503e7f4678",
+  "archived_at": "2026-07-22T19:53:09Z",
+  "metadata": {
+    "title": "II",
+    "artist": "Espers",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3004,
+    "duration_human": "00:50:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Espers - Dead Queen",
+      "02 Espers - Widow's Weed",
+      "03 Espers - Cruel Storm",
+      "04 Espers - Children Of Stone",
+      "05 Espers - Mansfield And Cyclops",
+      "06 Espers - Dead King",
+      "07 Espers - Moon Occults The Sun"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ii_1e1f7a902fb5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/6fd739295e0338998fc3/II.tar"
+    }
+  }
+}
