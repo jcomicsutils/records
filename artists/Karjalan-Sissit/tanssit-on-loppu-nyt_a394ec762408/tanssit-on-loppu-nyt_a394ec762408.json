@@ -1,0 +1,35 @@
+{
+  "id": "tanssit-on-loppu-nyt_a394ec762408",
+  "fingerprint": "a394ec7624089439490c3c17298e66109b4f2f631eb11a72c2e0f3e48681d0e7",
+  "archived_at": "2026-07-22T21:00:40Z",
+  "metadata": {
+    "title": "Tanssit On Loppu Nyt",
+    "artist": "Karjalan Sissit",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1940,
+    "duration_human": "00:32:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Karjalan Sissit - Taa On Katastrofi, Saatana",
+      "02 Karjalan Sissit - Kiitan Puolestani",
+      "03 Karjalan Sissit - Nagon Vacker Dag Far Du Smaka Pa Finn Yxan Javla Rip-off Gubbe",
+      "04 Karjalan Sissit - Tanssit On Loppu Nyt",
+      "05 Karjalan Sissit - ...Ja Verkkaritkin Haisse Koskenkorvalle",
+      "06 Karjalan Sissit - Viinanjuontikoulun viimeinen oppiyunti: Milta lyhyt ryyppy tuntuu",
+      "07 Karjalan Sissit - Kuolema Tulloo",
+      "08 Karjalan Sissit - Oiken Erityisella Lammolla",
+      "09 Karjalan Sissit - Valkoinen Sisar"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tanssit-on-loppu-nyt_a394ec762408"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/20fdc3d604dd62c95ace/Tanssit_On_Loppu_Nyt.tar"
+    }
+  }
+}
