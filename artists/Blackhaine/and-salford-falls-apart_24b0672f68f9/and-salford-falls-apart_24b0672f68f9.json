@@ -1,0 +1,31 @@
+{
+  "id": "and-salford-falls-apart_24b0672f68f9",
+  "fingerprint": "24b0672f68f9d583f8791ca25f9ea03bddceb2468a6c2f64baddabab3e67a951",
+  "archived_at": "2026-07-22T20:27:18Z",
+  "metadata": {
+    "title": "And Salford Falls Apart",
+    "artist": "Blackhaine",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1175,
+    "duration_human": "00:19:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Blackhaine - Saddleworth",
+      "02 Blackhaine - Hotel",
+      "03 Blackhaine - And Salford Falls Apart",
+      "04 Blackhaine - Throat",
+      "05 Blackhaine - Let Me Know"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/and-salford-falls-apart_24b0672f68f9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/1f313c7b7f8591423b6d/And_Salford_Falls_Apart.tar"
+    }
+  }
+}

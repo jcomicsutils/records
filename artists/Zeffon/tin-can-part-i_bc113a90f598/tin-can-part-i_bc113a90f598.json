@@ -1,0 +1,34 @@
+{
+  "id": "tin-can-part-i_bc113a90f598",
+  "fingerprint": "bc113a90f5989c9efcb71c31550bb200050125f95c414389965dfdbce3a44876",
+  "archived_at": "2026-07-22T20:27:16Z",
+  "metadata": {
+    "title": "Tin Can (Part I)",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 10189,
+    "duration_human": "02:49:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Frost Salts, Part 1",
+      "02 Zeffon - Seattle Dawn",
+      "03 Zeffon - Implicit Differentiation",
+      "04 Zeffon - Frost Salts, Part 2",
+      "05 Zeffon - Souo Died in the Building Fire (Scrap Metal, Part 2)",
+      "06 Zeffon - Canned Kidney Beans",
+      "07 Zeffon - Bacon",
+      "08 Zeffon - More Control Over Firearms",
+      "09 Zeffon - Terrible Unfinished Mix",
+      "10 Zeffon - Frog, Part 1",
+      "11 Zeffon - Frog, Part 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tin-can-part-i_bc113a90f598"
+    }
+  }
+}

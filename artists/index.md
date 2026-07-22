@@ -42,6 +42,7 @@
 - [Big Blood](Big-Blood/Big-Blood.md)
 - [Big Blood & Visitations](Big-Blood-&-Visitations/Big-Blood-&-Visitations.md)
 - [Bird Violence](Bird-Violence/Bird-Violence.md)
+- [Blackhaine](Blackhaine/Blackhaine.md)
 - [Bloodz Boi](Bloodz-Boi/Bloodz-Boi.md)
 - [Borbetomagus](Borbetomagus/Borbetomagus.md)
 - [Brueder Selke](Brueder-Selke/Brueder-Selke.md)
