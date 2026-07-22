@@ -1,0 +1,34 @@
+{
+  "id": "hoje-ha-conquilhas-amanha-nao-sabemos_6c454c85ce8d",
+  "fingerprint": "6c454c85ce8da880bedb1d705e4123554122869f41183d83f105b8025dd8bc7e",
+  "archived_at": "2026-07-22T19:46:06Z",
+  "metadata": {
+    "title": "Hoje Há Conquilhas Amanhã Não Sabemos",
+    "artist": "Banda do Casaco",
+    "year": "1977",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2177,
+    "duration_human": "00:36:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Banda do Casaco - Acalanto",
+      "02 Banda do Casaco - Despique",
+      "03 Banda do Casaco - País: Portugal",
+      "04 Banda do Casaco - Alvorada, Tio Lérias",
+      "05 Banda do Casaco - Geringonça",
+      "06 Banda do Casaco - Dez-Onze-Doze",
+      "07 Banda do Casaco - Ont'à Noite",
+      "08 Banda do Casaco - Água de Rosas"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hoje-ha-conquilhas-amanha-nao-sabemos_6c454c85ce8d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/af044a3cca857845c7a1/Hoje_H_Conquilhas_Amanh_N_o_Sabemos.tar"
+    }
+  }
+}
