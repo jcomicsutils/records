@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/dos-beneficios-dum-vendido-no-reino-dos-bonifacios_7cdf5078a04a)
+- [FileDitch](https://fileditchfiles.st/alpha18/21727e0d69d9ef65c0d0/Dos_Benef_cios_Dum_Vendido_No_Reino_Dos_Bonif_cios.tar)
 
 ## Tracklist
 
