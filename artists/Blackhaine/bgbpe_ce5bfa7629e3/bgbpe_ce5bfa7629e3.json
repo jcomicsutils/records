@@ -1,0 +1,27 @@
+{
+  "id": "bgbpe_ce5bfa7629e3",
+  "fingerprint": "ce5bfa7629e31c064516b50ffb2d6e83e902eb893ac7d739914502566b4be855",
+  "archived_at": "2026-07-22T20:32:20Z",
+  "metadata": {
+    "title": "B£E",
+    "artist": "Blackhaine",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 179,
+    "duration_human": "00:02:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Space Afrika, Blackhaine - B£E"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bgbpe_ce5bfa7629e3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/dee0733827ca58be483a/B_E.tar"
+    }
+  }
+}
