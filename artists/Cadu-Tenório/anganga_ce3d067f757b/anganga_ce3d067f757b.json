@@ -1,0 +1,34 @@
+{
+  "id": "anganga_ce3d067f757b",
+  "fingerprint": "ce3d067f757bca20a0e8b72ddae9eb23065621876c6b4155069f8066e3894ddf",
+  "archived_at": "2026-07-22T21:45:03Z",
+  "metadata": {
+    "title": "Anganga",
+    "artist": "Cadu Tenório",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1658,
+    "duration_human": "00:27:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cadu Tenório, Juçara Marçal - Eká",
+      "02 Cadu Tenório, Juçara Marçal - Canto Il",
+      "03 Cadu Tenório, Juçara Marçal - Grande Anganga Muquixe",
+      "04 Cadu Tenório, Juçara Marçal - Canto Ill",
+      "05 Cadu Tenório, Juçara Marçal - Canto Vl",
+      "06 Cadu Tenório, Juçara Marçal - Canto Vll",
+      "07 Cadu Tenório, Juçara Marçal - Taio",
+      "08 Cadu Tenório, Juçara Marçal - Candomblé / Ia Cacunde? / Iaue?"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/anganga_ce3d067f757b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/1669cf082ca98b2f7586/Anganga.tar"
+    }
+  }
+}
