@@ -1,0 +1,31 @@
+{
+  "id": "acaro_4c66d0d7934f",
+  "fingerprint": "4c66d0d7934f78e843e72845bedcad0082c5a892aa4a14c444b3e8382b291714",
+  "archived_at": "2026-07-22T21:30:39Z",
+  "metadata": {
+    "title": "Ácaro",
+    "artist": "Cadu Tenório",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1510,
+    "duration_human": "00:25:10",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Diego Dias, Cadu Tenório e Arthur Lacerda - I",
+      "02 Diego Dias, Cadu Tenório e Arthur Lacerda - II",
+      "03 Diego Dias, Cadu Tenório e Arthur Lacerda - III",
+      "04 Diego Dias, Cadu Tenório e Arthur Lacerda - IV",
+      "05 Diego Dias, Cadu Tenório e Arthur Lacerda - V"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/acaro_4c66d0d7934f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/c0b9351f90693aa8b986/caro.tar"
+    }
+  }
+}
