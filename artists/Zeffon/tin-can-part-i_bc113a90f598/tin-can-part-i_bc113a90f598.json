@@ -29,6 +29,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/tin-can-part-i_bc113a90f598"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/14a3d0ec8e82e47bf3e9/Tin_Can_Part_I.tar"
     }
   }
 }
