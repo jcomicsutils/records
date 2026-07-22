@@ -1,0 +1,36 @@
+{
+  "id": "iii_5c8981266557",
+  "fingerprint": "5c89812665573beabfe4aa2805a2a09a089e671de349284867ead86b9a40223b",
+  "archived_at": "2026-07-22T20:11:45Z",
+  "metadata": {
+    "title": "III",
+    "artist": "Espers",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2850,
+    "duration_human": "00:47:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Espers - I Can't See Clear",
+      "02 Espers - The Road Of Golden Dust",
+      "03 Espers - Caroline",
+      "04 Espers - The Pearl",
+      "05 Espers - That Which Darkly Thrives",
+      "06 Espers - Sightings",
+      "07 Espers - Meridian",
+      "08 Espers - Another Moon Song",
+      "09 Espers - Colony",
+      "10 Espers - Trollslanda"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/iii_5c8981266557"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/84df78fbec7381ba17b6/III.tar"
+    }
+  }
+}
