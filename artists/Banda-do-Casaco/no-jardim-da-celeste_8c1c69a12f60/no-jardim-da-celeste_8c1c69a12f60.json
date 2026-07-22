@@ -1,0 +1,34 @@
+{
+  "id": "no-jardim-da-celeste_8c1c69a12f60",
+  "fingerprint": "8c1c69a12f607c817dbe9b931b5351279d36d1205b95e5fdf55dfcc7f617cd1a",
+  "archived_at": "2026-07-22T20:05:52Z",
+  "metadata": {
+    "title": "No Jardim da Celeste",
+    "artist": "Banda do Casaco",
+    "year": "1980",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2067,
+    "duration_human": "00:34:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Banda do Casaco - Argila de Luz",
+      "02 Banda do Casaco - Estranha Força",
+      "03 Banda do Casaco - Barquinha de Lua",
+      "04 Banda do Casaco - Ai Se a Luzia",
+      "05 Banda do Casaco - Natação Obrigatória",
+      "06 Banda do Casaco - Liliana Nibelunga (A Bruxa Boa)",
+      "07 Banda do Casaco - Madrasta",
+      "08 Banda do Casaco - É Ouvi-Los"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/no-jardim-da-celeste_8c1c69a12f60"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/e69ad83ae132bad16738/No_Jardim_da_Celeste.tar"
+    }
+  }
+}
