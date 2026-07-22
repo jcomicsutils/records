@@ -1,0 +1,34 @@
+{
+  "id": "movements-viewed-through-a-variety-of-lenses_81d322d1046c",
+  "fingerprint": "81d322d1046cd5a6526d089df3607c1564537ef8b8a656f64dc291ed2f571092",
+  "archived_at": "2026-07-22T23:39:34Z",
+  "metadata": {
+    "title": "Movements Viewed Through a Variety of Lenses",
+    "artist": "Lost Salt Blood Purges",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2243,
+    "duration_human": "00:37:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Lost Salt Blood Purges / Volcanic Queen - Lost Salt Blood Purges - Hevrh",
+      "02 Lost Salt Blood Purges / Volcanic Queen - Lost Salt Blood Purges - Sol'r (Voltaeia ê an'a)",
+      "03 Lost Salt Blood Purges / Volcanic Queen - Lost Salt Blood Purges - Vorscha",
+      "04 Lost Salt Blood Purges / Volcanic Queen - Lost Salt Blood Purges - Pharae",
+      "05 Lost Salt Blood Purges / Volcanic Queen - Volcanic Queen - Al pasar el invierno",
+      "06 Lost Salt Blood Purges / Volcanic Queen - Volcanic Queen - Glaciers Form At High Elevations",
+      "07 Lost Salt Blood Purges / Volcanic Queen - Volcanic Queen - Wound of the Night",
+      "08 Lost Salt Blood Purges / Volcanic Queen - Volcanic Queen - Skin Abrasions Appeared After the Storm"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/movements-viewed-through-a-variety-of-lenses_81d322d1046c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/6aa1a1b771ee52cef565/Movements_Viewed_Through_a_Variety_of_Lenses.tar"
+    }
+  }
+}
