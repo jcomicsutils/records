@@ -1,0 +1,35 @@
+{
+  "id": "dos-beneficios-dum-vendido-no-reino-dos-bonifacios_7cdf5078a04a",
+  "fingerprint": "7cdf5078a04a7c3d8e9c8f270790c34b07342d5f0f53af4080bb010ffba6a518",
+  "archived_at": "2026-07-22T19:39:57Z",
+  "metadata": {
+    "title": "Dos Benefícios Dum Vendido No Reino Dos Bonifácios",
+    "artist": "Banda do Casaco",
+    "year": "1974",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2228,
+    "duration_human": "00:37:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Banda do Casaco - Aliciação (Espírito Imundo)",
+      "02 Banda do Casaco - D' Alma Aviada",
+      "03 Banda do Casaco - A Ladaínha Das Comadres",
+      "04 Banda do Casaco - A Cavalo Dado...",
+      "05 Banda do Casaco - Henrique Ser Ou Não Enriquecer",
+      "06 Banda do Casaco - Bonifácios",
+      "07 Banda do Casaco - Lavados Lavados Sim",
+      "08 Banda do Casaco - Cocktail Do Braço De Prata",
+      "09 Banda do Casaco - Na Boca Do Inferno",
+      "10 Banda do Casaco - Horas De Ponta E Mola",
+      "11 Banda do Casaco - Memorandum (Sábado Sauna - Sábado Santo)",
+      "12 Banda do Casaco - Opúsculo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dos-beneficios-dum-vendido-no-reino-dos-bonifacios_7cdf5078a04a"
+    }
+  }
+}

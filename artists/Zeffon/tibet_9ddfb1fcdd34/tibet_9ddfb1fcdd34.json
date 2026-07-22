@@ -1,0 +1,29 @@
+{
+  "id": "tibet_9ddfb1fcdd34",
+  "fingerprint": "9ddfb1fcdd34971044c444f115d304d42236cdfec1e0c351fcd6503bc1b7ed8a",
+  "archived_at": "2026-07-22T19:40:00Z",
+  "metadata": {
+    "title": "Tibet",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3914,
+    "duration_human": "01:05:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Dragänsword 3",
+      "02 Zeffon - Lobsang Palden Yeshe",
+      "03 Zeffon - Tibet"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tibet_9ddfb1fcdd34"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/d6d635d6f02c172cbfeb/Tibet.tar"
+    }
+  }
+}
