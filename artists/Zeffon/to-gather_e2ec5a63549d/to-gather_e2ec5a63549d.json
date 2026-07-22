@@ -1,0 +1,32 @@
+{
+  "id": "to-gather_e2ec5a63549d",
+  "fingerprint": "e2ec5a63549d410080df85941f8ca957e57cc098d7948b8acf41920104efff99",
+  "archived_at": "2026-07-22T21:35:47Z",
+  "metadata": {
+    "title": "To Gather...",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2137,
+    "duration_human": "00:35:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Ramh",
+      "02 Zeffon - Phase Seven",
+      "03 Zeffon - Unclear Paths",
+      "04 Zeffon - Rehearsal Piece",
+      "05 Zeffon - A Return to the Throne",
+      "06 Zeffon - To Consume..."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/to-gather_e2ec5a63549d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/315b64c4eca94d115093/To_Gather.tar"
+    }
+  }
+}
