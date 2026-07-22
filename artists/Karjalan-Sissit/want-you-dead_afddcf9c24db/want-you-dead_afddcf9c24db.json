@@ -1,0 +1,34 @@
+{
+  "id": "want-you-dead_afddcf9c24db",
+  "fingerprint": "afddcf9c24db4ec6e6397988df725aabc579afee67f0b376f37e2ef0d2fbc36d",
+  "archived_at": "2026-07-22T21:27:26Z",
+  "metadata": {
+    "title": "...Want You Dead",
+    "artist": "Karjalan Sissit",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2499,
+    "duration_human": "00:41:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Karjalan Sissit - Kantapää Lapiossa",
+      "02 Karjalan Sissit - VIttumainen Yksinäisyys",
+      "03 Karjalan Sissit - 1974",
+      "04 Karjalan Sissit - Firman Isoin Puliukko",
+      "05 Karjalan Sissit - Läpi Elämän Helvetin",
+      "06 Karjalan Sissit - Sairaus, Katkeruus, Kuolema",
+      "07 Karjalan Sissit - Totaalinen Kaaos",
+      "08 Karjalan Sissit - Suga En Kalja O Somna In"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/want-you-dead_afddcf9c24db"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/144f3d351c711f173006/Want_You_Dead.tar"
+    }
+  }
+}
