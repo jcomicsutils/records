@@ -1,0 +1,30 @@
+{
+  "id": "banquete_7c760d0425f4",
+  "fingerprint": "7c760d0425f441cec702df721b7f6064456564db1906869e037b1939ce295683",
+  "archived_at": "2026-07-22T22:40:53Z",
+  "metadata": {
+    "title": "Banquete",
+    "artist": "Cadu Tenório",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1070,
+    "duration_human": "00:17:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Cadu Tenório, Márcio Bulk - Café Expresso",
+      "02 Cadu Tenório, Márcio Bulk - Estela",
+      "03 Cadu Tenório, Márcio Bulk - Electric Fish",
+      "04 Cadu Tenório, Márcio Bulk - Em Transe"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/banquete_7c760d0425f4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/8e7cfee301d32b85664c/Banquete.tar"
+    }
+  }
+}
