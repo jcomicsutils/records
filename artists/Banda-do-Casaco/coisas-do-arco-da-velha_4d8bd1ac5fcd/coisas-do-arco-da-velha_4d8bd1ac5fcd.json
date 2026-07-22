@@ -1,0 +1,37 @@
+{
+  "id": "coisas-do-arco-da-velha_4d8bd1ac5fcd",
+  "fingerprint": "4d8bd1ac5fcdd27dc7f288108cfae3ac50b12c210d6bac418d2280e025044bc9",
+  "archived_at": "2026-07-22T19:04:32Z",
+  "metadata": {
+    "title": "Coisas Do Arco Da Velha",
+    "artist": "Banda do Casaco",
+    "year": "1976",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2594,
+    "duration_human": "00:43:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Banda do Casaco - Morgadinha Dos Canibais",
+      "02 Banda do Casaco - Ai Mê André",
+      "03 Banda do Casaco - Romance De Branca-Flôr",
+      "04 Banda do Casaco - Rigolindo",
+      "05 Banda do Casaco - Olá Margarida",
+      "06 Banda do Casaco - Canto De Amor E Trabalho",
+      "07 Banda do Casaco - É Triste Não Saber Ler",
+      "08 Banda do Casaco - Virgolino Faz O Pino",
+      "09 Banda do Casaco - A Mulher Do Regedor",
+      "10 Banda do Casaco - Era Uma Vez Uma Velha",
+      "11 Banda do Casaco - Cantiga D' Embalar Avozinhas"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/coisas-do-arco-da-velha_4d8bd1ac5fcd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/ec78f9226e771a7e4e72/Coisas_Do_Arco_Da_Velha.tar"
+    }
+  }
+}
