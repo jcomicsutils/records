@@ -1,0 +1,35 @@
+{
+  "id": "sober-maal_7c06bc8ed54e",
+  "fingerprint": "7c06bc8ed54eb7e71cba4195711cebcdaea83166f79bd02351f3c453ba710534",
+  "archived_at": "2026-07-22T19:11:42Z",
+  "metadata": {
+    "title": "Sober Maal",
+    "artist": "De Mannen Broeders",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2684,
+    "duration_human": "00:44:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 De Mannen Broeders - Alle Roem is Uitgesloten",
+      "02 De Mannen Broeders - Asemruumte",
+      "03 De Mannen Broeders - Verteere Heel",
+      "04 De Mannen Broeders - Van Licht Ontdaan",
+      "05 De Mannen Broeders - Grafschrift",
+      "06 De Mannen Broeders - Omer III",
+      "07 De Mannen Broeders - Onze Lieve Vrouwe",
+      "08 De Mannen Broeders - Ons Nu Voorbij",
+      "09 De Mannen Broeders - Sober Maal"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sober-maal_7c06bc8ed54e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/22c60c8d4983e7cf6e7a/Sober_Maal.tar"
+    }
+  }
+}
