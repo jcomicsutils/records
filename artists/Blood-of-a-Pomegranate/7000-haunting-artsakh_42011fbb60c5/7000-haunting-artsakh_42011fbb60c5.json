@@ -1,0 +1,32 @@
+{
+  "id": "7000-haunting-artsakh_42011fbb60c5",
+  "fingerprint": "42011fbb60c55203552b3869d5305ea45ed70178d3509c6427b7f4a1d994a22d",
+  "archived_at": "2026-07-22T20:59:07Z",
+  "metadata": {
+    "title": "7,000 Haunting Artsakh",
+    "artist": "Blood of a Pomegranate",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1835,
+    "duration_human": "00:30:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Blood of a Pomegranate - Hov Arek (հով արեք)",
+      "02 Blood of a Pomegranate - Tunavor Lich (թունավոր լիճ)",
+      "03 Blood of a Pomegranate - Arakel Mushegh pt. 1 (Առաքել Մուշեղ, 1)",
+      "04 Blood of a Pomegranate - Arakel Mushegh pt. 2 (Առաքել Մուշեղ, 2)",
+      "05 Blood of a Pomegranate - 7000 Haunting Artsakh",
+      "06 Blood of a Pomegranate - Ur Es Mayr Im (ուր ես մայր իմ)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/7000-haunting-artsakh_42011fbb60c5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/dc333efbe8ed35793c82/7_000_Haunting_Artsakh.tar"
+    }
+  }
+}
