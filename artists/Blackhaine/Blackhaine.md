@@ -2,4 +2,5 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Armour](armour_db500a25b66b/armour_db500a25b66b.md) | 2020 | MP3 | 00:15:10 | [IA](https://archive.org/details/armour_db500a25b66b) [FileDitch](https://fileditchfiles.st/alpha18/4b26c7b88aa55e5b5d59/Armour.tar) |
 | [And Salford Falls Apart](and-salford-falls-apart_24b0672f68f9/and-salford-falls-apart_24b0672f68f9.md) | 2021 | FLAC | 00:19:35 | [IA](https://archive.org/details/and-salford-falls-apart_24b0672f68f9) [FileDitch](https://fileditchfiles.st/alpha18/1f313c7b7f8591423b6d/And_Salford_Falls_Apart.tar) |
