@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/fucking-whore-society_cae4ea3314b7)
+- [FileDitch](https://fileditchfiles.st/alpha18/a71c479ff27efa8f1873/Fucking_Whore_Society.tar)
 
 ## Tracklist
 
