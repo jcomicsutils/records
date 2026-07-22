@@ -1,0 +1,33 @@
+{
+  "id": "the-weed-tree_a02a71c70339",
+  "fingerprint": "a02a71c7033916302ffc565170a6bf74773a975d5c22171cd4c5ee230a823e7d",
+  "archived_at": "2026-07-22T20:26:08Z",
+  "metadata": {
+    "title": "The Weed Tree",
+    "artist": "Espers",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2215,
+    "duration_human": "00:36:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Espers - Rosemary Lane",
+      "02 Espers - Tomorrow",
+      "03 Espers - Black Is the Color",
+      "04 Espers - Afraid",
+      "05 Espers - Blue Mountain",
+      "06 Espers - Flaming Telepaths",
+      "07 Espers - Dead King"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-weed-tree_a02a71c70339"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/63563f92ad297db34a90/The_Weed_Tree.tar"
+    }
+  }
+}
