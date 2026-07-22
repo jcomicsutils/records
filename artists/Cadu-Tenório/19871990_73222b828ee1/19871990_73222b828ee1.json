@@ -1,0 +1,28 @@
+{
+  "id": "19871990_73222b828ee1",
+  "fingerprint": "73222b828ee167179e33eb3655dac2fd03ed44a1c9278b50b3dfe8d80a9f94d1",
+  "archived_at": "2026-07-22T21:15:10Z",
+  "metadata": {
+    "title": "1987/1990",
+    "artist": "Cadu Tenório",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1698,
+    "duration_human": "00:28:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cadu Tenório - 1987",
+      "02 Cadu Tenório - 1990"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/19871990_73222b828ee1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/891f78cffe1e200c936e/1987_-_1990.tar"
+    }
+  }
+}

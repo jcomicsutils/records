@@ -48,6 +48,7 @@
 - [Borbetomagus](Borbetomagus/Borbetomagus.md)
 - [Brueder Selke](Brueder-Selke/Brueder-Selke.md)
 - [Burning Witch](Burning-Witch/Burning-Witch.md)
+- [Cadu Tenório](Cadu-Tenório/Cadu-Tenório.md)
 - [Ceeys](Ceeys/Ceeys.md)
 - [Chaos Royale](Chaos-Royale/Chaos-Royale.md)
 - [Chas Smith](Chas-Smith/Chas-Smith.md)
