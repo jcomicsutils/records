@@ -1,0 +1,29 @@
+{
+  "id": "haunted-arrow-arc_00d895643331",
+  "fingerprint": "00d8956433314443dd81c9420b52d88e70fbddd76816164bddce6355cca3c255",
+  "archived_at": "2026-07-22T22:48:18Z",
+  "metadata": {
+    "title": "Haunted Arrow Arc",
+    "artist": "Lost Salt Blood Purges",
+    "year": "2017",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 2465,
+    "duration_human": "00:41:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Lost Salt Blood Purges - Solar System (The Microphones)",
+      "02 Lost Salt Blood Purges - The Haunted Arrow's Arc In Three Movements (I. Hanover, II. Gwenhwyfar, III. Liliaceae)",
+      "03 Lost Salt Blood Purges - Float"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/haunted-arrow-arc_00d895643331"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/d54677d80e9be1f4c8b0/Haunted_Arrow_Arc.tar"
+    }
+  }
+}
