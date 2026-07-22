@@ -1,0 +1,28 @@
+{
+  "id": "stained-materials_8e944ac6453b",
+  "fingerprint": "8e944ac6453b2d6cebf5079b56c8846428dc515e48d4889020e7fa91ee855ee7",
+  "archived_at": "2026-07-22T20:51:39Z",
+  "metadata": {
+    "title": "Stained Materials",
+    "artist": "Blackhaine",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 379,
+    "duration_human": "00:06:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Blackhaine - Stained Materials",
+      "02 Blackhaine - Stained Materials (Edit)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stained-materials_8e944ac6453b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/6c818f59bfa7c0a78cd3/Stained_Materials.tar"
+    }
+  }
+}
