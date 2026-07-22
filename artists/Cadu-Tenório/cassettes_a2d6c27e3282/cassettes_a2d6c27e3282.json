@@ -1,0 +1,30 @@
+{
+  "id": "cassettes_a2d6c27e3282",
+  "fingerprint": "a2d6c27e328270242d16d10b9ee40741fb56ceb8ac21c86523309b7a4ee83d6a",
+  "archived_at": "2026-07-22T23:08:29Z",
+  "metadata": {
+    "title": "Cassettes",
+    "artist": "Cadu Tenório",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2140,
+    "duration_human": "00:35:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cadu Tenório - Prematuro",
+      "02 Cadu Tenório - Valsa",
+      "03 Cadu Tenório - Redoma",
+      "04 Cadu Tenório - Ventre"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cassettes_a2d6c27e3282"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/525d558b39263b76c552/Cassettes.tar"
+    }
+  }
+}
