@@ -1,0 +1,36 @@
+{
+  "id": "are-you-okay_3ba03138b9b4",
+  "fingerprint": "3ba03138b9b48c2706016b98c90d43ae670d623521276b6943767c7f7aab7f8d",
+  "archived_at": "2026-07-22T22:25:57Z",
+  "metadata": {
+    "title": "Are You Okay?",
+    "artist": "Cadu Tenório",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3233,
+    "duration_human": "00:53:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cadu Tenório - Dream",
+      "02 Cadu Tenório - Psycho Zaku",
+      "03 Cadu Tenório - My Soul Is Weighed Down By Gravity",
+      "04 Cadu Tenório - Not Alone",
+      "05 Cadu Tenório - Ardjet",
+      "06 Cadu Tenório - Roukanken/hakurouken",
+      "07 Cadu Tenório - 54d",
+      "08 Cadu Tenório - U",
+      "09 Cadu Tenório - Sure?",
+      "10 Cadu Tenório - Aquário"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/are-you-okay_3ba03138b9b4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/7ca175bc91c7fc552cee/Are_You_Okay.tar"
+    }
+  }
+}
