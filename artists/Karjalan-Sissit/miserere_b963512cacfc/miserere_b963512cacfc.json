@@ -1,0 +1,37 @@
+{
+  "id": "miserere_b963512cacfc",
+  "fingerprint": "b963512cacfc1f100421e3aa1707726b55acd5e86452ced54ee1d10e8ceab4a3",
+  "archived_at": "2026-07-22T20:57:33Z",
+  "metadata": {
+    "title": "Miserere",
+    "artist": "Karjalan Sissit",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2958,
+    "duration_human": "00:49:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Karjalan Sissit - Pig Society",
+      "02 Karjalan Sissit - Haarschnitt",
+      "03 Karjalan Sissit - Inner Pain",
+      "04 Karjalan Sissit - Den Bittra Mannen",
+      "05 Karjalan Sissit - Dagen Da Fingrarna Gick Av - Fabriken",
+      "06 Karjalan Sissit - Requiem",
+      "07 Karjalan Sissit - Discipline Now",
+      "08 Karjalan Sissit - She Was a Whore Anyways",
+      "09 Karjalan Sissit - Symphony 2: Finlandia Messe",
+      "10 Karjalan Sissit - Bullet in the Head",
+      "11 Karjalan Sissit - Litany"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/miserere_b963512cacfc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/cc798473c65228a599ff/Miserere.tar"
+    }
+  }
+}
