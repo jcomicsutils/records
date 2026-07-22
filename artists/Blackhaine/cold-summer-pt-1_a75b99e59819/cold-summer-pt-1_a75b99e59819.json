@@ -1,0 +1,27 @@
+{
+  "id": "cold-summer-pt-1_a75b99e59819",
+  "fingerprint": "a75b99e59819908d214cbc2dc65bd81eea97d0bcd5f872fa2204adc6a3978a38",
+  "archived_at": "2026-07-22T20:42:33Z",
+  "metadata": {
+    "title": "Cold Summer, Pt. 1",
+    "artist": "Blackhaine",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 417,
+    "duration_human": "00:06:57",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Aho Ssan, Blackhaine - Cold Summer, Pt. 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cold-summer-pt-1_a75b99e59819"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/54f449104f4ae8ecfd47/Cold_Summer_Pt._1.tar"
+    }
+  }
+}
