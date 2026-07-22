@@ -1,0 +1,32 @@
+{
+  "id": "armour-ii_fb97f5da51ad",
+  "fingerprint": "fb97f5da51adb3aa0608099fb53ec212cde2d56dc0be23614d80ee0c9d0a30e7",
+  "archived_at": "2026-07-22T20:30:58Z",
+  "metadata": {
+    "title": "Armour II",
+    "artist": "Blackhaine",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1430,
+    "duration_human": "00:23:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Blackhaine - Stained Materials",
+      "02 Blackhaine - Pavements",
+      "03 Blackhaine - Faith",
+      "04 Blackhaine - Prayer",
+      "05 Blackhaine - Armour Freestyle",
+      "06 Blackhaine - Waiting Room"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/armour-ii_fb97f5da51ad"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/f49a8b33d8a522d99b9d/Armour_II.tar"
+    }
+  }
+}
