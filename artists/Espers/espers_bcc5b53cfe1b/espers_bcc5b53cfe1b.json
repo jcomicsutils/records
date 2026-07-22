@@ -1,0 +1,34 @@
+{
+  "id": "espers_bcc5b53cfe1b",
+  "fingerprint": "bcc5b53cfe1b477f7c663ca2bd9463c45068149c3ef282ab4e35bc21954c62a7",
+  "archived_at": "2026-07-22T19:35:48Z",
+  "metadata": {
+    "title": "Espers",
+    "artist": "Espers",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2427,
+    "duration_human": "00:40:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Espers - Flower Noontide",
+      "02 Espers - Meadow",
+      "03 Espers - Riding",
+      "04 Espers - Voices",
+      "05 Espers - Hearts & Daggers",
+      "06 Espers - Byss & Abyss",
+      "07 Espers - Daughter",
+      "08 Espers - Travel Mountains"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/espers_bcc5b53cfe1b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/27ca8b96871cf158c474/Espers.tar"
+    }
+  }
+}

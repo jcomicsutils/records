@@ -70,6 +70,7 @@
 - [Egor Klochikhin](Egor-Klochikhin/Egor-Klochikhin.md)
 - [Ein Sof](Ein-Sof/Ein-Sof.md)
 - [Ensemble Pearl](Ensemble-Pearl/Ensemble-Pearl.md)
+- [Espers](Espers/Espers.md)
 - [Ever Present Orchestra](Ever-Present-Orchestra/Ever-Present-Orchestra.md)
 - [Exploring Jezebel](Exploring-Jezebel/Exploring-Jezebel.md)
 - [Father Noark](Father-Noark/Father-Noark.md)
