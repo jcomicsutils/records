@@ -1,0 +1,40 @@
+{
+  "id": "banda-do-casaco-com-ti-chitas_104a1b904fbb",
+  "fingerprint": "104a1b904fbb6f46e2d491ff9357efa7445db93d263787751a3b8bae96d5d14f",
+  "archived_at": "2026-07-22T18:27:13Z",
+  "metadata": {
+    "title": "Banda do Casaco Com Ti Chitas",
+    "artist": "Banda do Casaco",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 2629,
+    "duration_human": "00:43:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Banda do Casaco - Cantilena da Consolação",
+      "02 Banda do Casaco - Consilação",
+      "03 Banda do Casaco - Lugar do Início",
+      "04 Banda do Casaco - Almutante",
+      "05 Banda do Casaco - Veaveza",
+      "06 Banda do Casaco - Dono da Noite",
+      "07 Banda do Casaco - Aguaceiro",
+      "08 Banda do Casaco - Bailemos",
+      "09 Banda do Casaco - Nossa Sinhora D'azenha",
+      "10 Banda do Casaco - Salvé Maravilha Ii",
+      "11 Banda do Casaco - Matar Saudades",
+      "12 Banda do Casaco - Música do Sol",
+      "13 Banda do Casaco - Quando Eu Era Pequenina",
+      "14 Banda do Casaco - Cantilena"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/banda-do-casaco-com-ti-chitas_104a1b904fbb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/007765574e8e15080608/Banda_do_Casaco_Com_Ti_Chitas.tar"
+    }
+  }
+}
