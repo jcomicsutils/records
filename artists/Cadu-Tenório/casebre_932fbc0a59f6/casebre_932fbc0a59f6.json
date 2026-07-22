@@ -1,0 +1,31 @@
+{
+  "id": "casebre_932fbc0a59f6",
+  "fingerprint": "932fbc0a59f6ded80cbe6d404ea6abc20692138694458a2a8a71d05374b7da61",
+  "archived_at": "2026-07-22T22:59:49Z",
+  "metadata": {
+    "title": "Casebre",
+    "artist": "Cadu Tenório",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2109,
+    "duration_human": "00:35:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cadu Tenório, Eduardo Manso - Descalço",
+      "02 Cadu Tenório, Eduardo Manso - Casebre",
+      "03 Cadu Tenório, Eduardo Manso - Rádio",
+      "04 Cadu Tenório, Eduardo Manso - Manco",
+      "05 Cadu Tenório, Eduardo Manso - Ferrugem"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/casebre_932fbc0a59f6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/230f74d92c05f48bc8e9/Casebre.tar"
+    }
+  }
+}
