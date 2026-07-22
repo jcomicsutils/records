@@ -1,0 +1,35 @@
+{
+  "id": "tambem-eu_32759cdbfe51",
+  "fingerprint": "32759cdbfe5196497f8e5009fab9a4f29df125bb2b0ed39c4ae1d69a39b24dcd",
+  "archived_at": "2026-07-22T20:14:49Z",
+  "metadata": {
+    "title": "Também Eu",
+    "artist": "Banda do Casaco",
+    "year": "1982",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1866,
+    "duration_human": "00:31:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Banda do Casaco - Salvé Maravilha",
+      "02 Banda do Casaco - Sedução",
+      "03 Banda do Casaco - Sétimo Dia",
+      "04 Banda do Casaco - Crença",
+      "05 Banda do Casaco - Alcateia I",
+      "06 Banda do Casaco - Alcateia II",
+      "07 Banda do Casaco - Alcateia III",
+      "08 Banda do Casaco - Esvoaço em Lorilai",
+      "09 Banda do Casaco - Assim"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tambem-eu_32759cdbfe51"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/0e0ca93b44ad99c3fe53/Tamb_m_Eu.tar"
+    }
+  }
+}
