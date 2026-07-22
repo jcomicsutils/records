@@ -1,0 +1,36 @@
+{
+  "id": "contos-da-barbearia_8e4e7e8592ec",
+  "fingerprint": "8e4e7e8592ec9521f01d03f1735f57a0c9e6e00d123a559924798e7ffb5ec3e3",
+  "archived_at": "2026-07-22T19:31:36Z",
+  "metadata": {
+    "title": "Contos da Barbearia",
+    "artist": "Banda do Casaco",
+    "year": "1978",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2111,
+    "duration_human": "00:35:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Banda do Casaco - Na Cadeira do Barbeiro",
+      "02 Banda do Casaco - O Diabo da Velha",
+      "03 Banda do Casaco - A Noite Passada em Caminha",
+      "04 Banda do Casaco - O Enterro do Tostão",
+      "05 Banda do Casaco - La Pastorica",
+      "06 Banda do Casaco - Malfamagrifada",
+      "07 Banda do Casaco - Zás! Pás! (O Casório do Trolha)",
+      "08 Banda do Casaco - Retrato D'homenzinho Pequenino Com Frasco",
+      "09 Banda do Casaco - Amo Tracinho Te",
+      "10 Banda do Casaco - Godofredo Cheio de Medo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/contos-da-barbearia_8e4e7e8592ec"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/dbcc379764824edcebdc/Contos_da_Barbearia.tar"
+    }
+  }
+}
