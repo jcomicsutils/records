@@ -1,0 +1,28 @@
+{
+  "id": "too-faar_475ec59a0c80",
+  "fingerprint": "475ec59a0c80163ed668a9ccfcace88104cd7cff8ebee736c8a9d7a3185a28cd",
+  "archived_at": "2026-07-22T21:50:38Z",
+  "metadata": {
+    "title": "Too Faar",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3472,
+    "duration_human": "00:57:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Rose",
+      "02 Zeffon - Soup"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/too-faar_475ec59a0c80"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/7c15217d7d35d4fd70d2/Too_Faar.tar"
+    }
+  }
+}
