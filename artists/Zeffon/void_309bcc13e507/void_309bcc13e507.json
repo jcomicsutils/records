@@ -1,0 +1,35 @@
+{
+  "id": "void_309bcc13e507",
+  "fingerprint": "309bcc13e507773117900cd615e5200bdbc9ccbc58019043037094054e891ee7",
+  "archived_at": "2026-07-23T10:26:45Z",
+  "metadata": {
+    "title": "Void",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3435,
+    "duration_human": "00:57:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Zeffon - Music Box V",
+      "02 Zeffon - Altitude Sickness",
+      "03 Zeffon - Dead Frequencies",
+      "04 Zeffon - Hermit of the Pol Mountains",
+      "05 Zeffon - Interlude (Void)",
+      "06 Zeffon - Winter (Hermit of the Pol Mountains, Pt. 2)",
+      "07 Zeffon - The Last Murder",
+      "08 Zeffon - Amber Shades",
+      "09 Zeffon - Catoblepas"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/void_309bcc13e507"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/ad5e9c502ef7d47177c2/Void.tar"
+    }
+  }
+}
