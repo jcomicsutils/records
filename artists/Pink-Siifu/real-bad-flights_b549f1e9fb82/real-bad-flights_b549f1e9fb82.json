@@ -1,0 +1,35 @@
+{
+  "id": "real-bad-flights_b549f1e9fb82",
+  "fingerprint": "b549f1e9fb826fe1dd67ae3fec9dff45c368628c4ca772973bc123b4d3016cac",
+  "archived_at": "2026-07-23T09:53:06Z",
+  "metadata": {
+    "title": "Real Bad Flights",
+    "artist": "Pink Siifu",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1900,
+    "duration_human": "00:31:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Pink Siifu, Real Bad Man - Real Negro Life",
+      "02 Pink Siifu, Real Bad Man - Looking for Water",
+      "03 Pink Siifu, Real Bad Man - Tokyo Blunts",
+      "04 Pink Siifu, Real Bad Man - Afro Russian",
+      "05 Pink Siifu, Real Bad Man - View of Paris",
+      "06 Pink Siifu, Real Bad Man - Off the Plane",
+      "07 Pink Siifu, Real Bad Man - Pour the Wine",
+      "08 Pink Siifu, Real Bad Man - Po Drama",
+      "09 Pink Siifu, Real Bad Man - Real Bad Gospel"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/real-bad-flights_b549f1e9fb82"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/c494f737fe9d597f67fd/Real_Bad_Flights.tar"
+    }
+  }
+}
