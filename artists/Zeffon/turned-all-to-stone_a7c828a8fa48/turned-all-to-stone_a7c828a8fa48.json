@@ -1,0 +1,30 @@
+{
+  "id": "turned-all-to-stone_a7c828a8fa48",
+  "fingerprint": "a7c828a8fa48f1f020e2b67bfa42fd80b78e4162578d55dbbaa834cc3ca53ffb",
+  "archived_at": "2026-07-23T05:27:07Z",
+  "metadata": {
+    "title": "Turned All to Stone",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 6911,
+    "duration_human": "01:55:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Jubedya",
+      "02 Zeffon - [Fire] Tactical Nuke?",
+      "03 Zeffon - [Wolf] Turned All to Stone",
+      "04 Zeffon - Shadow of a Lonely Enraged Man"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/turned-all-to-stone_a7c828a8fa48"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/c850ea0eac715b3694b9/Turned_All_to_Stone.tar"
+    }
+  }
+}
