@@ -1,0 +1,44 @@
+{
+  "id": "monument-for-nothing_b94e63db06d5",
+  "fingerprint": "b94e63db06d5b7d502a21707e62f596d1fdf51c12ebae2a19b354f9d8a15ff71",
+  "archived_at": "2026-07-23T03:22:58Z",
+  "metadata": {
+    "title": "Monument for Nothing",
+    "artist": "Cadu Tenório",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 18,
+    "duration_seconds": 5342,
+    "duration_human": "01:29:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cadu Tenório - Hi...",
+      "02 Cadu Tenório - Garden",
+      "03 Cadu Tenório - No Longer Human",
+      "04 Cadu Tenório - Shinobu",
+      "05 Cadu Tenório - Saffron Witch",
+      "06 Cadu Tenório - Hazel Priestess",
+      "07 Cadu Tenório - R'lyeh.Exe",
+      "08 Cadu Tenório - @Tekeli_Li",
+      "09 Cadu Tenório - Monument for Nothing",
+      "10 Cadu Tenório - Breeze Asmr",
+      "11 Cadu Tenório - Yog-Sothoth Is the Gate",
+      "12 Cadu Tenório - Nublado",
+      "13 Cadu Tenório - Conchas",
+      "14 Cadu Tenório - Astral Clocktower",
+      "15 Cadu Tenório - Entreportas",
+      "16 Cadu Tenório - Mãos",
+      "17 Cadu Tenório - Gatos De Ulthar Na Rua Dos Quatro Ventos",
+      "18 Cadu Tenório - Fim"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/monument-for-nothing_b94e63db06d5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/f9e941cb8a2726288601/Monument_for_Nothing.tar"
+    }
+  }
+}
