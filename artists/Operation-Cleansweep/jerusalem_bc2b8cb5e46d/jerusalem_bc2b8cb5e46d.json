@@ -1,0 +1,29 @@
+{
+  "id": "jerusalem_bc2b8cb5e46d",
+  "fingerprint": "bc2b8cb5e46d754f77285027fc3042fdda5e5fba4b9dd96ecf1d767f4a849bb4",
+  "archived_at": "2026-07-23T05:43:15Z",
+  "metadata": {
+    "title": "JerUSAlem",
+    "artist": "Operation Cleansweep",
+    "year": "2001",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1851,
+    "duration_human": "00:30:51",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Operation Cleansweep - House of His Promise",
+      "02 Operation Cleansweep - Invisible Empire",
+      "03 Operation Cleansweep - YHWH's Law",
+      "04 Operation Cleansweep - The Light of the World",
+      "05 Operation Cleansweep - White Father",
+      "06 Operation Cleansweep - Days of Captivity"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/jerusalem_bc2b8cb5e46d"
+    }
+  }
+}

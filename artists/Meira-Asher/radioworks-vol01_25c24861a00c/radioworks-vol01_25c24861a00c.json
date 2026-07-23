@@ -1,0 +1,37 @@
+{
+  "id": "radioworks-vol01_25c24861a00c",
+  "fingerprint": "25c24861a00c8d6a0df9e8c22973b98df2e9bc2166494943e0efbb4c4298a2f2",
+  "archived_at": "2026-07-23T05:44:18Z",
+  "metadata": {
+    "title": "radioworks_vol.01",
+    "artist": "Meira Asher",
+    "year": "2022",
+    "codec": "MP3",
+    "num_tracks": 11,
+    "duration_seconds": 5196,
+    "duration_human": "01:26:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Meira Asher - Where Did You Serve?",
+      "02 Meira Asher - Refuse:military.01",
+      "03 Meira Asher - My Right to Be Innocent",
+      "04 Meira Asher - Still Sleeping",
+      "05 Meira Asher - The Other is the Native",
+      "06 Meira Asher - North.jordan.valley.2018",
+      "07 Meira Asher - Show You the Way Out",
+      "08 Meira Asher - Tansik تنسيق",
+      "09 Meira Asher - Nyahu Said",
+      "10 Meira Asher - Hunger for Justice",
+      "11 Meira Asher - White Trash"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/radioworks-vol01_25c24861a00c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/12e957b474c9d345e728/radioworks_vol.01.tar"
+    }
+  }
+}
