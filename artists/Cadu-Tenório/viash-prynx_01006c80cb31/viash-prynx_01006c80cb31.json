@@ -1,0 +1,28 @@
+{
+  "id": "viash-prynx_01006c80cb31",
+  "fingerprint": "01006c80cb3114dce451a31e1d1eeeb04eb5da8f2189a4d8e3f41eae1e66e207",
+  "archived_at": "2026-07-23T03:55:13Z",
+  "metadata": {
+    "title": "Viash-Prynx",
+    "artist": "Cadu Tenório",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1084,
+    "duration_human": "00:18:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cadu Tenório, Marcos Campello - Prynx",
+      "02 Cadu Tenório, Marcos Campello - Viash"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/viash-prynx_01006c80cb31"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/5242999259c3daec640c/Viash-Prynx.tar"
+    }
+  }
+}
