@@ -1,0 +1,32 @@
+{
+  "id": "unstrewn-cavern-forest-ghost-under-weird-forest_4046f36d8445",
+  "fingerprint": "4046f36d8445d654e0f3db20c9d4ed2117fd51ef11c9dcbd49d746f06030a9c4",
+  "archived_at": "2026-07-23T08:19:00Z",
+  "metadata": {
+    "title": "Unstrewn Cavern (Forest Ghost Under Weird Forest)",
+    "artist": "Zeffon",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 5857,
+    "duration_human": "01:37:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Frogcatcher",
+      "02 Zeffon - Twelve Shape Time Loop, Part 1",
+      "03 Zeffon - K7",
+      "04 Zeffon - Untitled",
+      "05 Zeffon - Östj-er (Sanctity Dub)",
+      "06 Zeffon - Twelve Shape Time Loop, Part 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/unstrewn-cavern-forest-ghost-under-weird-forest_4046f36d8445"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/bb721792bf573d1d3cd6/Unstrewn_Cavern_Forest_Ghost_Under_Weird_Forest.tar"
+    }
+  }
+}
