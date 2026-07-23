@@ -1,0 +1,27 @@
+{
+  "id": "mare-immobile_46c6e10f3e36",
+  "fingerprint": "46c6e10f3e36586b99c308495fe0fe895c990792914fe0cf36a24ecf8e79d129",
+  "archived_at": "2026-07-23T04:45:48Z",
+  "metadata": {
+    "title": "Mare immobile",
+    "artist": "Mare immobile",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1481,
+    "duration_human": "00:24:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mare immobile - Mare immobile"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mare-immobile_46c6e10f3e36"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/ffde47bc3dda8362ff18/Mare_immobile.tar"
+    }
+  }
+}
