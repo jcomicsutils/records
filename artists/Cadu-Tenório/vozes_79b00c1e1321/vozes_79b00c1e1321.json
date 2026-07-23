@@ -1,0 +1,30 @@
+{
+  "id": "vozes_79b00c1e1321",
+  "fingerprint": "79b00c1e1321604d9569dc713c6d963116b69f672edbe5d781cd498a719069a4",
+  "archived_at": "2026-07-23T04:08:29Z",
+  "metadata": {
+    "title": "Vozes",
+    "artist": "Cadu Tenório",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2267,
+    "duration_human": "00:37:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cadu Tenório - Fragmentos",
+      "02 Cadu Tenório - Procissão",
+      "03 Cadu Tenório - Lamento",
+      "04 Cadu Tenório - Bebê"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vozes_79b00c1e1321"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/58c0a79e3f6e47d1af38/Vozes.tar"
+    }
+  }
+}

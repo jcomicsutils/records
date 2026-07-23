@@ -1,0 +1,35 @@
+{
+  "id": "true-form-of-eye_dc011a44284a",
+  "fingerprint": "dc011a44284a4570320592caaf3b634c4e1ffab462c1e3d72232154a389cf206",
+  "archived_at": "2026-07-23T04:08:32Z",
+  "metadata": {
+    "title": "True Form of Eye",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3551,
+    "duration_human": "00:59:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Moon Cult (Part 1)",
+      "02 Zeffon - Broken Death Chamber",
+      "03 Zeffon - True Form of Eye (Part 1)",
+      "04 Zeffon - Sound of Perfect Movement",
+      "05 Zeffon - Moon Cult (Part 2)",
+      "06 Zeffon - RTN 55 RHH",
+      "07 Zeffon - Colored Eye",
+      "08 Zeffon - Moon Cult (Part 3)",
+      "09 Zeffon - True Form of Eye (Part 3)",
+      "10 Zeffon - Callisto Yavat",
+      "11 Zeffon - Destroy Methodically",
+      "12 Zeffon - True Form of Eye (Part 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/true-form-of-eye_dc011a44284a"
+    }
+  }
+}
