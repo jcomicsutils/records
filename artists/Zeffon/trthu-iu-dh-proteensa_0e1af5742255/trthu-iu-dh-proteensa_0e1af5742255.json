@@ -1,0 +1,28 @@
+{
+  "id": "trthu-iu-dh-proteensa_0e1af5742255",
+  "fingerprint": "0e1af5742255913e378b12a96765834cb02b207e71ba365e7b585a135c883169",
+  "archived_at": "2026-07-23T04:04:15Z",
+  "metadata": {
+    "title": "Trthü 'Iu' dh Proteënsa",
+    "artist": "Zeffon",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 12598,
+    "duration_human": "03:29:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Industry 02",
+      "02 Zeffon - Head Sterile Tx."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/trthu-iu-dh-proteensa_0e1af5742255"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/8251c10673185eb85f27/Trth_Iu_dh_Prote_nsa.tar"
+    }
+  }
+}
