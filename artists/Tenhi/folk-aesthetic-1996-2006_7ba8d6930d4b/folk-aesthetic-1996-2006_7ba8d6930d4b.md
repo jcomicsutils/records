@@ -1,0 +1,50 @@
+# Tenhi — Folk Aesthetic (1996-2006) (2007)
+
+![Cover](https://archive.org/download/folk-aesthetic-1996-2006_7ba8d6930d4b/__ia_thumb.jpg)
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | 44.1kHz |
+| Bit Depth | 16-bit |
+| Tracks | 27 |
+| Duration | 03:00:45 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/folk-aesthetic-1996-2006_7ba8d6930d4b)
+
+## Tracklist
+
+```
+01 Tenhi - Neidiie (Folk Aesthetic Version)
+02 Tenhi - Näkin Laulu (Folk Aesthetic Version)
+03 Tenhi - Havuisissa Saleissa (Folk Aesthetic Version)
+04 Tenhi - Tenhi (Folk Aesthetic Version)
+05 Tenhi - Hallavedet (Folk Aesthetic Version)
+06 Tenhi - Hiljaiseksi Lampi Jää (Folk Aesthetic Version)
+07 Tenhi - Tuulennostatus (Folk Aesthetic Version)
+08 Tenhi - Kielo (Folk Aesthetic Version)
+09 Tenhi - Ciwenkierto (Folk Aesthetic Version)
+10 Tenhi - Kausienranta (Folk Aesthetic Version)
+11 Tenhi - Tuulenkaato (Folk Aesthetic Version)
+12 Tenhi - Linnuit (Folk Aesthetic Version)
+13 Tenhi - Suortuva (Folk Aesthetic Version)
+14 Tenhi - Etäisyyksien Taa (Folk Aesthetic Version)
+15 Tenhi - Sydänvalkea (Folk Aesthetic Version)
+16 Tenhi - Korvenraivaajat (Folk Aesthetic Version)
+17 Tenhi - Kuoppa (Folk Aesthetic Version)
+18 Tenhi - Kielo (Folk Aesthetic Alternate Version)
+19 Tenhi - Niin Auer Hiljaa Vie (Folk Aesthetic Version)
+20 Tenhi - Häie (Folk Aesthetic Version)
+21 Tenhi - Luo Varjo (Folk Aesthetic Version)
+22 Tenhi - Koiranlainen Peura (Folk Aesthetic Version)
+23 Tenhi - Suruiksi Soi (Folk Aesthetic Version)
+24 Tenhi - Sarahdus (Folk Aesthetic Version)
+25 Tenhi - Tuuli Varista (Folk Aesthetic Version)
+26 Tenhi - Laule (Folk Aesthetic Version)
+27 Tenhi - Vasen (Folk Aesthetic Version)
+```
+
+---
+*Archived: 2026-07-23*

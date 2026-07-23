@@ -1,0 +1,45 @@
+{
+  "id": "blackantique_f85a8dfc3a4e",
+  "fingerprint": "f85a8dfc3a4e37b33d869101146e58ac08dc7ae3b2b5b8681ff166a37852c67e",
+  "archived_at": "2026-07-23T07:33:59Z",
+  "metadata": {
+    "title": "BLACK’!ANTIQUE",
+    "artist": "Pink Siifu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 19,
+    "duration_seconds": 4674,
+    "duration_human": "01:17:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Pink Siifu - BLACK’!ANTIQUE",
+      "02 Pink Siifu - ALIVE & DIRECT’!",
+      "03 Pink Siifu - 1:1[FKDUP.BEZEL]",
+      "04 Pink Siifu - V12’!HML’!",
+      "05 Pink Siifu - Sacrifice’!BonAppétit",
+      "06 Pink Siifu - SCREW4LIFE'! RIPJALEN'!",
+      "07 Pink Siifu - 4DOE[47]",
+      "08 Pink Siifu - WHOUWITHHO+",
+      "09 Pink Siifu - TRANSLATION’!",
+      "10 Pink Siifu - Girls Fall Out Tha Sky",
+      "11 Pink Siifu - PSA’!",
+      "12 Pink Siifu - FACECARD’!",
+      "13 Pink Siifu - LOCKED IN’!",
+      "14 Pink Siifu - U.ALREADY’!",
+      "15 Pink Siifu - OUTSIDE’!",
+      "16 Pink Siifu - SleepAtTheWheel’!",
+      "17 Pink Siifu - LAST ONE ALIVE'!",
+      "18 Pink Siifu - 8)",
+      "19 Pink Siifu - BLACKWATER'!"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/blackantique_f85a8dfc3a4e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/9ddd6c6ae024c54c89b7/BLACK_ANTIQUE.tar"
+    }
+  }
+}
