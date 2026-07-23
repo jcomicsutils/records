@@ -1,0 +1,29 @@
+{
+  "id": "airutciwi_678ec6c3ebad",
+  "fingerprint": "678ec6c3ebad29aec1b5697e0d275440676efee16b6c8e80ccfcd9fc975f9dc5",
+  "archived_at": "2026-07-23T07:22:42Z",
+  "metadata": {
+    "title": "Airut:Ciwi",
+    "artist": "Tenhi",
+    "year": "2000",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1126,
+    "duration_human": "00:18:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tenhi - Tuulennostatus",
+      "02 Tenhi - Kielo",
+      "03 Tenhi - Ciwenkierto"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/airutciwi_678ec6c3ebad"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/e1f49a91b602b58bc76e/AirutCiwi.tar"
+    }
+  }
+}
