@@ -1,0 +1,36 @@
+{
+  "id": "waifu_b8056569058e",
+  "fingerprint": "b8056569058e3ebb114972f4579f3a4e0f588893858025b79d178e62cc4f1db9",
+  "archived_at": "2026-07-23T04:33:28Z",
+  "metadata": {
+    "title": "Waifu",
+    "artist": "Cadu Tenório",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 4392,
+    "duration_human": "01:13:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cadu Tenório - 水滴",
+      "02 Cadu Tenório - Saliva",
+      "03 Cadu Tenório - Seu Silêncio",
+      "04 Cadu Tenório - Hahaha",
+      "05 Cadu Tenório - Fire Walk With You",
+      "06 Cadu Tenório - Fire Keeper (Than Touch The Darkness Within Me)",
+      "07 Cadu Tenório - Babel / Infocalipse",
+      "08 Cadu Tenório - No More",
+      "09 Cadu Tenório - Holol1Ve_He@V3N",
+      "10 Cadu Tenório - The World Only Needs Beautiful Things (橘千晶)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/waifu_b8056569058e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/6eb4170fa8f08b04ecfa/Waifu.tar"
+    }
+  }
+}
