@@ -1,0 +1,31 @@
+{
+  "id": "ultra-revenence_af2458b46202",
+  "fingerprint": "af2458b46202cd1a8ce0ea34d65b1a75ee7b40ec8e027fd1103b4fac6cf44ea0",
+  "archived_at": "2026-07-23T05:55:02Z",
+  "metadata": {
+    "title": "Ultra-Revenence",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 13739,
+    "duration_human": "03:48:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Samjastiaa",
+      "02 Zeffon - Take A Break",
+      "03 Zeffon - Take Five",
+      "04 Zeffon - Zerouu Mabarretron",
+      "05 Zeffon - Zerouu Ultra-Revenenceia"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ultra-revenence_af2458b46202"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/f47434ca201b77e3562e/Ultra-Revenence.tar"
+    }
+  }
+}
