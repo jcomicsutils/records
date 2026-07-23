@@ -1,0 +1,31 @@
+{
+  "id": "urguhr-a-valeriseolemni_37a4ccc720b6",
+  "fingerprint": "37a4ccc720b6cb81c4de5f4ba88ca3986d80eae1ed242e38c815642416e540c5",
+  "archived_at": "2026-07-23T08:50:20Z",
+  "metadata": {
+    "title": "Urgühr Á Valeriseolemni",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 4053,
+    "duration_human": "01:07:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Urgühr Region of the People's Countryside",
+      "02 Zeffon - Ultra-Religion (Part XIV of XX)",
+      "03 Zeffon - Ultra-Religion (Part XV of XX)",
+      "04 Zeffon - Temptation 1",
+      "05 Zeffon - Southern Rise (Three Frogs Lake Incident)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/urguhr-a-valeriseolemni_37a4ccc720b6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/b20c239f5a38893cf4cf/Urg_hr_Valeriseolemni.tar"
+    }
+  }
+}
