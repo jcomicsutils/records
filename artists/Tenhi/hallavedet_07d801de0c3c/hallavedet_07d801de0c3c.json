@@ -1,0 +1,28 @@
+{
+  "id": "hallavedet_07d801de0c3c",
+  "fingerprint": "07d801de0c3c04d1d3c7845d06322dc7f226273feb99f52b2b2c7b1bbbcddadf",
+  "archived_at": "2026-07-23T07:41:38Z",
+  "metadata": {
+    "title": "Hallavedet",
+    "artist": "Tenhi",
+    "year": "1998",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 940,
+    "duration_human": "00:15:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tenhi - Hallavedet / The Glacial Waters (Version 1998)",
+      "02 Tenhi - Hiljaiseksi Lampi Jää / The Pond Stays Still"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hallavedet_07d801de0c3c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/36ec808803fc5729095e/Hallavedet.tar"
+    }
+  }
+}
