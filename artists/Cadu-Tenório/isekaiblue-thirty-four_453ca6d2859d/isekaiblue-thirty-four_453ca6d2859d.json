@@ -1,0 +1,34 @@
+{
+  "id": "isekaiblue-thirty-four_453ca6d2859d",
+  "fingerprint": "453ca6d2859d4304bad711c1ef6d729c0969edf3fcf35017065f9dac1eb52fd6",
+  "archived_at": "2026-07-23T02:15:35Z",
+  "metadata": {
+    "title": "Isekai<Blue Thirty-Four>",
+    "artist": "Cadu Tenório",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 3311,
+    "duration_human": "00:55:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cadu Tenório - 燕返し",
+      "02 Cadu Tenório - The Samurai Who Smells of Sunflowers",
+      "03 Cadu Tenório - Buscai o Tronco",
+      "04 Cadu Tenório - Pássaros em Painéis Não Cantam, Orquídeas Pintadas Não Exalam Perfume",
+      "05 Cadu Tenório - I Think That Every Day the Sun Rises, It May Be the Last Time I Bask in the Sun.",
+      "06 Cadu Tenório - We Always Return to Where We're Meant to Be (déjà Vu)",
+      "07 Cadu Tenório - Não Vos Enganeis Colhendo Folhas, Perseguindo Galhos",
+      "08 Cadu Tenório - You See, I've Walked in Darkness for a Very Long Time, a Person Can Grow Accustomed to Anything..."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/isekaiblue-thirty-four_453ca6d2859d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/a44438cae3b99f4bebfc/IsekaiBlue_Thirty-Four.tar"
+    }
+  }
+}
