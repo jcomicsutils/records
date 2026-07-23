@@ -1,0 +1,31 @@
+{
+  "id": "tuhaw_2e6f203fef60",
+  "fingerprint": "2e6f203fef604aaa4fcfe31907e8d0b639c3ecd2394f710129e470f38bab7c89",
+  "archived_at": "2026-07-23T05:08:12Z",
+  "metadata": {
+    "title": "Tuhaw",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2913,
+    "duration_human": "00:48:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Understanding the Forest Element (Urbanize Glaciate 3)",
+      "02 Zeffon - Pale Undead (Primitive 1)",
+      "03 Zeffon - Nightcrawler (Primitive 3)",
+      "04 Zeffon - Mossy Balance Temple (Primitive 5)",
+      "05 Zeffon - Pyro (Primitive 6)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tuhaw_2e6f203fef60"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/518b4b89cb5298490971/Tuhaw.tar"
+    }
+  }
+}
