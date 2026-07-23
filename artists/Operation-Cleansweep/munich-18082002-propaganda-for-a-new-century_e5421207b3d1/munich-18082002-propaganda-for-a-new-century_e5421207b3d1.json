@@ -1,0 +1,35 @@
+{
+  "id": "munich-18082002-propaganda-for-a-new-century_e5421207b3d1",
+  "fingerprint": "e5421207b3d1d7abe394ee026496c5c608588e64265529185b7d1decb846ab70",
+  "archived_at": "2026-07-23T05:47:54Z",
+  "metadata": {
+    "title": "Munich 18/08/2002: Propaganda for a New Century",
+    "artist": "Operation Cleansweep",
+    "year": "2003",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2834,
+    "duration_human": "00:47:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Operation Cleansweep - The Call to Die",
+      "02 Operation Cleansweep - YHWH's Law",
+      "03 Operation Cleansweep - Invisible Empire",
+      "04 Operation Cleansweep - Bloodface",
+      "05 Operation Cleansweep - Tarpat",
+      "06 Operation Cleansweep - The Many",
+      "07 Operation Cleansweep - Novis Orbis Terrarum",
+      "08 Operation Cleansweep - Lesson 1",
+      "09 Operation Cleansweep - Fuck Your Brains Out"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/munich-18082002-propaganda-for-a-new-century_e5421207b3d1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/ca5f18e515a2a9ee9774/Munich_18_-_08_-_2002_Propaganda_for_a_New_Century.tar"
+    }
+  }
+}
