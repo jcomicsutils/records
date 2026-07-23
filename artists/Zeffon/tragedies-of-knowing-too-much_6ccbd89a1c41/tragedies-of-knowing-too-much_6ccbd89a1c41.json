@@ -1,0 +1,29 @@
+{
+  "id": "tragedies-of-knowing-too-much_6ccbd89a1c41",
+  "fingerprint": "6ccbd89a1c41f9b2133c4fee4eeda9d9bbd451f7de5a934318e0c58f8c685d4a",
+  "archived_at": "2026-07-23T02:01:26Z",
+  "metadata": {
+    "title": "Tragedies of Knowing Too Much",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 8526,
+    "duration_human": "02:22:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Serious Consequences For Both Sides",
+      "02 Zeffon - The Tragedies of Knowing Too Much",
+      "03 Zeffon - The Lush Briar Patch Where I Went to Die"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tragedies-of-knowing-too-much_6ccbd89a1c41"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/b76792aee039bd169280/Tragedies_of_Knowing_Too_Much.tar"
+    }
+  }
+}
