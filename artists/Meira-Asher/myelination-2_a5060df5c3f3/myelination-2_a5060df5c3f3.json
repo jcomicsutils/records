@@ -1,0 +1,33 @@
+{
+  "id": "myelination-2_a5060df5c3f3",
+  "fingerprint": "a5060df5c3f3d3f66eceb4a93683393e5e43513fcb7fb669114628ebb8ed37f0",
+  "archived_at": "2026-07-23T05:36:32Z",
+  "metadata": {
+    "title": "Myelination 2",
+    "artist": "Meira Asher",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2728,
+    "duration_human": "00:45:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Meira Asher, Jean Claude Jones - One Out (Live)",
+      "02 Meira Asher, Jean Claude Jones - Two in (Live)",
+      "03 Meira Asher, Jean Claude Jones - Three Out (Live)",
+      "04 Meira Asher, Jean Claude Jones - Four in (Live)",
+      "05 Meira Asher, Jean Claude Jones - Five Out (Live)",
+      "06 Meira Asher, Jean Claude Jones - Six in (Live)",
+      "07 Meira Asher, Jean Claude Jones - Seven Out (Live)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/myelination-2_a5060df5c3f3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/66ea18eb3040326a93c8/Myelination_2.tar"
+    }
+  }
+}
