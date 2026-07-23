@@ -1,0 +1,27 @@
+{
+  "id": "a-sky-in-our-eye_23bbece18019",
+  "fingerprint": "23bbece18019053c89d187c94fb9b124d1741047a53c73026eaf418873f24cdf",
+  "archived_at": "2026-07-23T01:40:57Z",
+  "metadata": {
+    "title": "A Sky in Our Eye",
+    "artist": "many tiny boxes",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 328,
+    "duration_human": "00:05:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 many tiny boxes - A Sky in Our Eye"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-sky-in-our-eye_23bbece18019"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/3527d4473dab82668055/A_Sky_in_Our_Eye.tar"
+    }
+  }
+}
