@@ -1,0 +1,35 @@
+{
+  "id": "weird-forest_c5e5431b163d",
+  "fingerprint": "c5e5431b163dfef071ce8d989e79f716e23427f9661c30c22ee7dff7b7778f65",
+  "archived_at": "2026-07-23T22:35:00Z",
+  "metadata": {
+    "title": "Weird Forest",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 7138,
+    "duration_human": "01:58:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Global",
+      "02 Zeffon - Mirror-Drïnk",
+      "03 Zeffon - Nfroonatradasta",
+      "04 Zeffon - To Get the Edge of the Non-Existent Man",
+      "05 Zeffon - Broken Corridor",
+      "06 Zeffon - Trudge Through the Snow",
+      "07 Zeffon - Sharp-Tongued Grafitti on the Only Concrete Wall",
+      "08 Zeffon - Graveyard",
+      "09 Zeffon - The Old Tree"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/weird-forest_c5e5431b163d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/36cf406d9be26f1d782d/Weird_Forest.tar"
+    }
+  }
+}
