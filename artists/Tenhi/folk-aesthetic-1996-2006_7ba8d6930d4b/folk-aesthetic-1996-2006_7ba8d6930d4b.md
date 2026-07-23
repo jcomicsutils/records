@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/folk-aesthetic-1996-2006_7ba8d6930d4b)
+- [FileDitch](https://fileditchfiles.st/alpha18/70b96775e0a6c57ca1b8/Folk_Aesthetic_1996-2006.tar)
 
 ## Tracklist
 
