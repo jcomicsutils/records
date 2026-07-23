@@ -1,0 +1,30 @@
+{
+  "id": "variable-trauma_f9ace7398350",
+  "fingerprint": "f9ace739835066870cc8df8434da772d92fc30b3307be1fffbebb43f98f7e925",
+  "archived_at": "2026-07-23T09:13:32Z",
+  "metadata": {
+    "title": "Variable Trauma",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 6012,
+    "duration_human": "01:40:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Signal Radar Food, Part 2",
+      "02 Zeffon - Solarpunk Du Orl Sulka",
+      "03 Zeffon - War is the State of the Health",
+      "04 Zeffon - Political Dissonance (Sulkaûô Arctic)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/variable-trauma_f9ace7398350"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/cd88af9e809b0f2d19ea/Variable_Trauma.tar"
+    }
+  }
+}
