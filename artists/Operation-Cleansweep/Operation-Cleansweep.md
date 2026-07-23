@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Powerhungry](powerhungry_0999e70bfdfe/powerhungry_0999e70bfdfe.md) | 1996 | FLAC | 00:53:12 | [IA](https://archive.org/details/powerhungry_0999e70bfdfe) [FileDitch](https://fileditchfiles.st/alpha18/467b8e01485826ab8ca5/Powerhungry.tar) |
 | [JerUSAlem](jerusalem_bc2b8cb5e46d/jerusalem_bc2b8cb5e46d.md) | 2001 | FLAC | 00:30:51 | [IA](https://archive.org/details/jerusalem_bc2b8cb5e46d) [FileDitch](https://fileditchfiles.st/alpha18/959d6ce41692bb1abdfa/JerUSAlem.tar) |
 | [Deathcount](deathcount_224f97201dd0/deathcount_224f97201dd0.md) | 2003 | FLAC | 00:15:53 | [IA](https://archive.org/details/deathcount_224f97201dd0) [FileDitch](https://fileditchfiles.st/alpha18/cea593ceb30fbadeb3b5/Deathcount.tar) |
 | [Munich 18/08/2002: Propaganda for a New Century](munich-18082002-propaganda-for-a-new-century_e5421207b3d1/munich-18082002-propaganda-for-a-new-century_e5421207b3d1.md) | 2003 | FLAC | 00:47:14 | [IA](https://archive.org/details/munich-18082002-propaganda-for-a-new-century_e5421207b3d1) [FileDitch](https://fileditchfiles.st/alpha18/ca5f18e515a2a9ee9774/Munich_18_-_08_-_2002_Propaganda_for_a_New_Century.tar) |

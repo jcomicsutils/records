@@ -1,0 +1,32 @@
+{
+  "id": "powerhungry_0999e70bfdfe",
+  "fingerprint": "0999e70bfdfe243d10df8df8ca3d0d4067363b5f9b0b16ab4b156a4cc5c37518",
+  "archived_at": "2026-07-23T05:52:03Z",
+  "metadata": {
+    "title": "Powerhungry",
+    "artist": "Operation Cleansweep",
+    "year": "1996",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3192,
+    "duration_human": "00:53:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Operation Cleansweep - White Patriots",
+      "02 Operation Cleansweep - Lesson 1",
+      "03 Operation Cleansweep - Crying Blood",
+      "04 Operation Cleansweep - Can You Wake Up?",
+      "05 Operation Cleansweep - Fuck Your Brains Out",
+      "06 Operation Cleansweep - Powerhungry"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/powerhungry_0999e70bfdfe"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/467b8e01485826ab8ca5/Powerhungry.tar"
+    }
+  }
+}
