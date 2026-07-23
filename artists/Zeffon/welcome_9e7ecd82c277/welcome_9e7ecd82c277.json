@@ -1,0 +1,27 @@
+{
+  "id": "welcome_9e7ecd82c277",
+  "fingerprint": "9e7ecd82c27743a1fe49a086d25511a5dea954946b3662fd8f5da56af7ac6f93",
+  "archived_at": "2026-07-23T23:08:25Z",
+  "metadata": {
+    "title": "Welcome!",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3234,
+    "duration_human": "00:53:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Intro: Red 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/welcome_9e7ecd82c277"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/c57761986a9c46618ad3/Welcome.tar"
+    }
+  }
+}
