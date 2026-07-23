@@ -1,0 +1,34 @@
+{
+  "id": "release-now-the-call-to-die_06dbcfd31122",
+  "fingerprint": "06dbcfd3112281960a82f468d7bde4fdcdc85f0f3b5cc3025640760a822e1475",
+  "archived_at": "2026-07-23T07:08:35Z",
+  "metadata": {
+    "title": "Release Now! The Call to Die",
+    "artist": "Operation Cleansweep",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2641,
+    "duration_human": "00:44:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Operation Cleansweep - Electric Death Education",
+      "02 Operation Cleansweep - The Call to Die",
+      "03 Operation Cleansweep - Tongues",
+      "04 Operation Cleansweep - Algomania II",
+      "05 Operation Cleansweep - Media Mass Murder",
+      "06 Operation Cleansweep - Cataclysm",
+      "07 Operation Cleansweep - Sacred Principle",
+      "08 Operation Cleansweep - Jihad"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/release-now-the-call-to-die_06dbcfd31122"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/96b4ead9285ceae80d8e/Release_Now_The_Call_to_Die.tar"
+    }
+  }
+}
