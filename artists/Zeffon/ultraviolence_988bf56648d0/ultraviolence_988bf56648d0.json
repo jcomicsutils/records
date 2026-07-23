@@ -1,0 +1,31 @@
+{
+  "id": "ultraviolence_988bf56648d0",
+  "fingerprint": "988bf56648d0c4c83808a73b1b13b5c9a22c7beeea6ccd627db2e3a65dd734b7",
+  "archived_at": "2026-07-23T06:02:47Z",
+  "metadata": {
+    "title": "Ultraviolence",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1853,
+    "duration_human": "00:30:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Mao Interlude",
+      "02 Zeffon - The Children",
+      "03 Zeffon - Devil Man",
+      "04 Zeffon - Rufus 'Maye' Ansede and the Ho Chi Minh Trail",
+      "05 Zeffon - Strange Gore (A Jurassic Jade Tribute)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ultraviolence_988bf56648d0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/728b52b8bab9cdd42c49/Ultraviolence.tar"
+    }
+  }
+}
