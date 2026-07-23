@@ -4,6 +4,7 @@
 |-------|------|-------|----------|-------|
 | [Banquete](banquete_7c760d0425f4/banquete_7c760d0425f4.md) | 2010 | FLAC | 00:17:50 | [IA](https://archive.org/details/banquete_7c760d0425f4) [FileDitch](https://fileditchfiles.st/alpha18/8e7cfee301d32b85664c/Banquete.tar) |
 | [Je t'explique](je-texplique_b9be18d9d53c/je-texplique_b9be18d9d53c.md) | 2013 | FLAC | 00:04:58 | [IA](https://archive.org/details/je-texplique_b9be18d9d53c) [FileDitch](https://fileditchfiles.st/alpha18/9a81bdd2bc4f5a94542a/Je_t_explique.tar) |
+| [Soluços](solucos_afb28c3d727b/solucos_afb28c3d727b.md) | 2013 | FLAC | 00:06:00 | [IA](https://archive.org/details/solucos_afb28c3d727b) [FileDitch](https://fileditchfiles.st/alpha18/b60200b8e8162af15b9a/Solu_os.tar) |
 | [1987/1990](19871990_73222b828ee1/19871990_73222b828ee1.md) | 2014 | FLAC | 00:28:18 | [IA](https://archive.org/details/19871990_73222b828ee1) [FileDitch](https://fileditchfiles.st/alpha18/891f78cffe1e200c936e/1987_-_1990.tar) |
 | [Cassettes](cassettes_a2d6c27e3282/cassettes_a2d6c27e3282.md) | 2014 | FLAC | 00:35:40 | [IA](https://archive.org/details/cassettes_a2d6c27e3282) [FileDitch](https://fileditchfiles.st/alpha18/525d558b39263b76c552/Cassettes.tar) |
 | [Casebre](casebre_932fbc0a59f6/casebre_932fbc0a59f6.md) | 2015 | FLAC | 00:35:09 | [IA](https://archive.org/details/casebre_932fbc0a59f6) [FileDitch](https://fileditchfiles.st/alpha18/230f74d92c05f48bc8e9/Casebre.tar) |

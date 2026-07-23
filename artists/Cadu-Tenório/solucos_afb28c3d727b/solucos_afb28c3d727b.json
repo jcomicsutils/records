@@ -1,0 +1,28 @@
+{
+  "id": "solucos_afb28c3d727b",
+  "fingerprint": "afb28c3d727ba5ba1f26f6e0605e72051eb34e00805aaa4702ab61a289eb6b9d",
+  "archived_at": "2026-07-23T03:54:13Z",
+  "metadata": {
+    "title": "Soluços",
+    "artist": "Cadu Tenório",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 360,
+    "duration_human": "00:06:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Alice Caymmi, Cadu Tenório - Soluços",
+      "02 Alice Caymmi, Cadu Tenório - Soluços (Epílogo)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/solucos_afb28c3d727b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/b60200b8e8162af15b9a/Solu_os.tar"
+    }
+  }
+}
