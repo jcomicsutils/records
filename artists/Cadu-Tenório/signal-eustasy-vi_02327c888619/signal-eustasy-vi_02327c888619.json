@@ -33,6 +33,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/signal-eustasy-vi_02327c888619"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/0dbe6af89509014e6ef1/Signal_Eustasy_VI.tar"
     }
   }
 }

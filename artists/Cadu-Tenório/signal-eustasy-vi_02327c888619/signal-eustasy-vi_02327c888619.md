@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/signal-eustasy-vi_02327c888619)
+- [FileDitch](https://fileditchfiles.st/alpha18/0dbe6af89509014e6ef1/Signal_Eustasy_VI.tar)
 
 ## Tracklist
 
