@@ -1,0 +1,38 @@
+{
+  "id": "maaaet_a0667667babc",
+  "fingerprint": "a0667667babc194000e04dfffd7a4b4463bc32bbf90404a5413ce52c8ea98404",
+  "archived_at": "2026-07-23T07:58:22Z",
+  "metadata": {
+    "title": "Maaäet",
+    "artist": "Tenhi",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3618,
+    "duration_human": "01:00:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tenhi - Kuoppa",
+      "02 Tenhi - Varpuspäivä",
+      "03 Tenhi - Kuulut Kesiin",
+      "04 Tenhi - Salain",
+      "05 Tenhi - Viimeiseen",
+      "06 Tenhi - Vähäinen Violetissa",
+      "07 Tenhi - Sarastuskävijä",
+      "08 Tenhi - Maa Syttyy",
+      "09 Tenhi - Tuulenkaato",
+      "10 Tenhi - Aatos",
+      "11 Tenhi - Uuuvu Oravan Luu",
+      "12 Tenhi - Rannalte Haettu"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/maaaet_a0667667babc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/fe54f0e93670e620350f/Maa_et.tar"
+    }
+  }
+}

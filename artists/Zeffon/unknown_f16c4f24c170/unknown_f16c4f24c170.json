@@ -1,0 +1,27 @@
+{
+  "id": "unknown_f16c4f24c170",
+  "fingerprint": "f16c4f24c170f833ce4e4f3e6cd26b0e549f1d8d8c56f563b7f82c018af00f56",
+  "archived_at": "2026-07-23T07:58:33Z",
+  "metadata": {
+    "title": "Unknown...",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 7674,
+    "duration_human": "02:07:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - (Yha Evjhnt jc Vefrenwlcbo) Etho",
+      "02 Zeffon - Caria (Frogcatcher, Pt. 2)",
+      "03 Zeffon - Unveiling of the Machine",
+      "04 Zeffon - Endigös"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/unknown_f16c4f24c170"
+    }
+  }
+}
