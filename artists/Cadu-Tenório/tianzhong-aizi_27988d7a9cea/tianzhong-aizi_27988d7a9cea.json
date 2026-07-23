@@ -1,0 +1,27 @@
+{
+  "id": "tianzhong-aizi_27988d7a9cea",
+  "fingerprint": "27988d7a9cea596868ca43c102c362750071f7ba21b023ad10713cad60595894",
+  "archived_at": "2026-07-23T04:44:36Z",
+  "metadata": {
+    "title": "田中 愛子",
+    "artist": "Cadu Tenório",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 286,
+    "duration_human": "00:04:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cadu Tenório - 田中 愛子"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tianzhong-aizi_27988d7a9cea"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/6e3789efe9f9e3081e9d/%E7%94%B0%E4%B8%AD_%E6%84%9B%E5%AD%90.tar"
+    }
+  }
+}
