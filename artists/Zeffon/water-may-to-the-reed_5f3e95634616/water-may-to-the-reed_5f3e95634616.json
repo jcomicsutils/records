@@ -1,0 +1,30 @@
+{
+  "id": "water-may-to-the-reed_5f3e95634616",
+  "fingerprint": "5f3e9563461661ad7cad1c01622b91aaf922bb16c29dbcf9ac4ff0a00aa29450",
+  "archived_at": "2026-07-23T11:41:53Z",
+  "metadata": {
+    "title": "Water May to the Reed",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1555,
+    "duration_human": "00:25:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Liack",
+      "02 Zeffon - Panic in the Streets Over the Appeared Tower",
+      "03 Zeffon - Banana Plantain",
+      "04 Zeffon - Microfarad"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/water-may-to-the-reed_5f3e95634616"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/4a4e135cd636f84d65a9/Water_May_to_the_Reed.tar"
+    }
+  }
+}
