@@ -1,0 +1,28 @@
+{
+  "id": "tribeeal-teeeme-un-the-bruns_996094fa1641",
+  "fingerprint": "996094fa164106d51356e27317e3ae8b611e67dbf367c4d2c6c4f624e558e82b",
+  "archived_at": "2026-07-23T03:28:57Z",
+  "metadata": {
+    "title": "Tribêêal Têêême Un the Bruns",
+    "artist": "Generated Missiân ZFN",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 21969,
+    "duration_human": "06:06:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Generated Missiân ZFN - Fââortu-mntramua-samba",
+      "02 Generated Missiân ZFN - Tongue Teeth"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tribeeal-teeeme-un-the-bruns_996094fa1641"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/84acc23aba408dccc37f/Trib_al_T_me_Un_the_Bruns.tar"
+    }
+  }
+}
