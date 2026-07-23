@@ -146,6 +146,7 @@
 - [Não ao Futebol Moderno](Não-ao-Futebol-Moderno/Não-ao-Futebol-Moderno.md)
 - [Oathbreaker](Oathbreaker/Oathbreaker.md)
 - [Olhava](Olhava/Olhava.md)
+- [Operation Cleansweep](Operation-Cleansweep/Operation-Cleansweep.md)
 - [Peace & Freedom](Peace-&-Freedom/Peace-&-Freedom.md)
 - [Pentemple](Pentemple/Pentemple.md)
 - [Psycodrama](Psycodrama/Psycodrama.md)
