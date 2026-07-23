@@ -149,6 +149,7 @@
 - [Operation Cleansweep](Operation-Cleansweep/Operation-Cleansweep.md)
 - [Peace & Freedom](Peace-&-Freedom/Peace-&-Freedom.md)
 - [Pentemple](Pentemple/Pentemple.md)
+- [Pink Siifu](Pink-Siifu/Pink-Siifu.md)
 - [Psycodrama](Psycodrama/Psycodrama.md)
 - [Rabit](Rabit/Rabit.md)
 - [Respire](Respire/Respire.md)
