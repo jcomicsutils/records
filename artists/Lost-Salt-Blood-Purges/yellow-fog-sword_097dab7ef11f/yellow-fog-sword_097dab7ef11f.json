@@ -1,0 +1,37 @@
+{
+  "id": "yellow-fog-sword_097dab7ef11f",
+  "fingerprint": "097dab7ef11f4443b5f7a4b37ee38c1e89e5b3500a312d80493d80e91b33546f",
+  "archived_at": "2026-07-23T01:32:16Z",
+  "metadata": {
+    "title": "Yellow Fog Sword",
+    "artist": "Lost Salt Blood Purges",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 5264,
+    "duration_human": "01:27:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Boring Bathtimes, Lost Salt Blood Purges - The Violent Light",
+      "02 Boring Bathtimes, Lost Salt Blood Purges - The Soft Luminescence",
+      "03 Boring Bathtimes, Lost Salt Blood Purges - And The Expanding Earth",
+      "04 Boring Bathtimes, Lost Salt Blood Purges - Ritually Fallen Leaves",
+      "05 Boring Bathtimes, Lost Salt Blood Purges - Lay Before a Village That Dreams but Never Sleeps",
+      "06 Boring Bathtimes, Lost Salt Blood Purges - The Water Leads The Way",
+      "07 Boring Bathtimes, Lost Salt Blood Purges - To Small Dead Souls That Build Upon The Bed of the River",
+      "08 Boring Bathtimes, Lost Salt Blood Purges - The Tower, Centred in Saltless Plains",
+      "09 Boring Bathtimes, Lost Salt Blood Purges - The Sorceress, Hiding in its Highest Chamber",
+      "10 Boring Bathtimes, Lost Salt Blood Purges - And the Yellow Fog Sword",
+      "11 Boring Bathtimes, Lost Salt Blood Purges - That Leaves Shan'xi in Eternal Sleep"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/yellow-fog-sword_097dab7ef11f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/e59786ff8eea706b5cfe/Yellow_Fog_Sword.tar"
+    }
+  }
+}
