@@ -1,0 +1,32 @@
+{
+  "id": "cisterns_f06b686392cd",
+  "fingerprint": "f06b686392cd57364177dca3e631d32608c2f77d31dca5c66c2f8948f490fcab",
+  "archived_at": "2026-07-23T04:49:12Z",
+  "metadata": {
+    "title": "Cisterns",
+    "artist": "Meira Asher",
+    "year": "2023",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 3575,
+    "duration_human": "00:59:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Asher.Zax - Drain",
+      "02 Asher.Zax - Blow",
+      "03 Asher.Zax - Pierce",
+      "04 Asher.Zax - Smash",
+      "05 Asher.Zax - Empty",
+      "06 Asher.Zax - Cisterns Continuous"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cisterns_f06b686392cd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/0c9d401670d542e82bfd/Cisterns.tar"
+    }
+  }
+}
