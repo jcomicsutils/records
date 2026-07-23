@@ -1,0 +1,38 @@
+{
+  "id": "the-voids-we-all-long-for_40b76f29b4ae",
+  "fingerprint": "40b76f29b4aedead65e9f889e765bda0472e17e4104c4a39773848695b5ec823",
+  "archived_at": "2026-07-23T01:00:09Z",
+  "metadata": {
+    "title": "The Voids We All Long For",
+    "artist": "Lost Salt Blood Purges",
+    "year": "2015",
+    "codec": "MP3",
+    "num_tracks": 12,
+    "duration_seconds": 3870,
+    "duration_human": "01:04:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Lost Salt Blood Purges - Astral Filth",
+      "02 Lost Salt Blood Purges - Void I: Noctambulant Journeys",
+      "03 Lost Salt Blood Purges - Their Wine Is the Poison of Dragons",
+      "04 Lost Salt Blood Purges - Coyotes Feel the Cold Wave of the Dark In Three Movements (I: Vast Nocturnal Landscape, II: The Only Night, III: Diabolic Forces In a Ceremonial Union)",
+      "05 Lost Salt Blood Purges - Void II: The Jaws of Bestial Earth",
+      "06 Lost Salt Blood Purges - It Froze Me (The Mountain Goats cover)",
+      "07 Lost Salt Blood Purges - Gloom Trance",
+      "08 Lost Salt Blood Purges - They Call Me With Secret Tongues",
+      "09 Lost Salt Blood Purges - Void III: Bones Will Blow In Pink Light",
+      "10 Lost Salt Blood Purges - Æthers",
+      "11 Lost Salt Blood Purges - Ghostlike Silence",
+      "12 Lost Salt Blood Purges - God Damn the Sun (Swans cover)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-voids-we-all-long-for_40b76f29b4ae"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/56a9a3d7295a88deaabd/The_Voids_We_All_Long_For.tar"
+    }
+  }
+}
