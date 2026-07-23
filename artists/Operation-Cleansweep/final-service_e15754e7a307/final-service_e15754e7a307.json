@@ -1,0 +1,38 @@
+{
+  "id": "final-service_e15754e7a307",
+  "fingerprint": "e15754e7a30756dfc1b77882b307b17798404c569201c0c76c19f2a321c93125",
+  "archived_at": "2026-07-23T05:00:54Z",
+  "metadata": {
+    "title": "Final Service",
+    "artist": "Operation Cleansweep",
+    "year": "2012",
+    "codec": "MP3",
+    "num_tracks": 12,
+    "duration_seconds": 2988,
+    "duration_human": "00:49:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Singular Cleansweep Operations - Invisible Wounds",
+      "02 Singular Cleansweep Operations - Todbereit",
+      "03 Singular Cleansweep Operations - Guard",
+      "04 Singular Cleansweep Operations - Ad Absurdum",
+      "05 Singular Cleansweep Operations - Death In Order",
+      "06 Singular Cleansweep Operations - Verbrenne, Mensch!",
+      "07 Singular Cleansweep Operations - Revolutionary Suicide Council",
+      "08 Singular Cleansweep Operations - The Cane",
+      "09 Singular Cleansweep Operations - Final Service",
+      "10 Singular Cleansweep Operations - Inquisition",
+      "11 Singular Cleansweep Operations - Infektion",
+      "12 Singular Cleansweep Operations - N.D.E."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/final-service_e15754e7a307"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/4b1a9636ec3eb9a4a213/Final_Service.tar"
+    }
+  }
+}
