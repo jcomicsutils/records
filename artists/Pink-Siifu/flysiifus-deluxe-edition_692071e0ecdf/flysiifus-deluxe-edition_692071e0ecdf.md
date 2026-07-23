@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/flysiifus-deluxe-edition_692071e0ecdf)
+- [FileDitch](https://fileditchfiles.st/alpha18/f7d44322d98a2f012db9/FlySiifu_s_Deluxe_Edition.tar)
 
 ## Tracklist
 
