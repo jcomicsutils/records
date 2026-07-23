@@ -1,0 +1,43 @@
+{
+  "id": "face-wslot_c37eb4c88b95",
+  "fingerprint": "c37eb4c88b953a5f14adb916a3a2cd98a805a370948d92608ac8fa22db1d3152",
+  "archived_at": "2026-07-23T05:25:14Z",
+  "metadata": {
+    "title": "Face_WSLOT",
+    "artist": "Meira Asher",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_seconds": 3442,
+    "duration_human": "00:57:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Meira Asher - A.J. Most Fight",
+      "02 Meira Asher - A.J. Arm",
+      "03 Meira Asher - A.J. Papa",
+      "04 Meira Asher - A.J. Suzanna",
+      "05 Meira Asher - A.J. Why!",
+      "06 Meira Asher - Coll. Good to Go",
+      "07 Meira Asher - C.C. Even",
+      "08 Meira Asher - C.C. Op. Stampin'stomach",
+      "09 Meira Asher - C.C. Forget",
+      "10 Meira Asher - C.C. Options",
+      "11 Meira Asher - M.P. Peacekeepin'",
+      "12 Meira Asher - M.P. Beleh",
+      "13 Meira Asher - M.P. Bush F.A.Q.",
+      "14 Meira Asher - Coll. Mummy",
+      "15 Meira Asher - M.P. Caterpillar",
+      "16 Meira Asher - M.P. Confusion",
+      "17 Meira Asher - Coll. Touch"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/face-wslot_c37eb4c88b95"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/aa3a43aaa99ab2bd72fc/Face_WSLOT.tar"
+    }
+  }
+}
