@@ -50,6 +50,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/corrupted-datadietokujira_300e6bebe271"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/172ffc139cbb08757a28/Corrupted_Data.tar"
     }
   }
 }

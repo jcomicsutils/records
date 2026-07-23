@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/corrupted-datadietokujira_300e6bebe271)
+- [FileDitch](https://fileditchfiles.st/alpha18/172ffc139cbb08757a28/Corrupted_Data.tar)
 
 ## Tracklist
 
