@@ -1,0 +1,34 @@
+{
+  "id": "dissected_09139370ef70",
+  "fingerprint": "09139370ef70f44117375c38e1a2f854700b34f4d0ee0f37af878bb4a6fbb8b7",
+  "archived_at": "2026-07-23T05:22:04Z",
+  "metadata": {
+    "title": "Dissected",
+    "artist": "Meira Asher",
+    "year": "1994",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2587,
+    "duration_human": "00:43:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Meira Asher - Sida (Aids)",
+      "02 Meira Asher - Fair and Ruddy",
+      "03 Meira Asher - Give Peace",
+      "04 Meira Asher - Psalms 19",
+      "05 Meira Asher - Dissect Me",
+      "06 Meira Asher - Maligora the Sand Child",
+      "07 Meira Asher - Daddy Came",
+      "08 Meira Asher - Taht A' Shams"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dissected_09139370ef70"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/1f0e25613d225edfd94f/Dissected.tar"
+    }
+  }
+}
