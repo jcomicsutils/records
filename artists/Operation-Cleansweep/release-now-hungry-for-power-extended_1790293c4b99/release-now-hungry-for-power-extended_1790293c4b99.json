@@ -1,0 +1,33 @@
+{
+  "id": "release-now-hungry-for-power-extended_1790293c4b99",
+  "fingerprint": "1790293c4b99a0f0fa274bad89dc7e8ebb07a5db13daff084735ef171847b855",
+  "archived_at": "2026-07-23T07:03:35Z",
+  "metadata": {
+    "title": "Release Now! Hungry for Power (Extended)",
+    "artist": "Operation Cleansweep",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 4504,
+    "duration_human": "01:15:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Operation Cleansweep - White Patriots (Extended)",
+      "02 Operation Cleansweep - Lesson 1 (Extended)",
+      "03 Operation Cleansweep - Crying Blood (Extended)",
+      "04 Operation Cleansweep - Can You Wake Up (Extended)",
+      "05 Operation Cleansweep - Fuck Your Brains Out (Extended)",
+      "06 Operation Cleansweep - Powerhungry (Extended)",
+      "07 Operation Cleansweep - Blood is Tripping from Our Hands (Extended)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/release-now-hungry-for-power-extended_1790293c4b99"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/034030549d481070ae39/Release_Now_Hungry_for_Power_Extended.tar"
+    }
+  }
+}
