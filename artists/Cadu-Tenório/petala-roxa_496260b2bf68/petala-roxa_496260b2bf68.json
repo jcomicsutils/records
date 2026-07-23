@@ -1,0 +1,24 @@
+{
+  "id": "petala-roxa_496260b2bf68",
+  "fingerprint": "496260b2bf6830f5c01d45ef423e005690459b58a1b88ad691398d7b72a7e7d5",
+  "archived_at": "2026-07-23T03:24:19Z",
+  "metadata": {
+    "title": "Pétala Roxa",
+    "artist": "Cadu Tenório",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 198,
+    "duration_human": "00:03:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Taís Lobo, Cadu Tenório - Pétala Roxa"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/petala-roxa_496260b2bf68"
+    }
+  }
+}

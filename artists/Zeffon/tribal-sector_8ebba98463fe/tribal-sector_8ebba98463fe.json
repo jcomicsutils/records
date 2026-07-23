@@ -1,0 +1,28 @@
+{
+  "id": "tribal-sector_8ebba98463fe",
+  "fingerprint": "8ebba98463fe52d819dcc7c68d4be5dc572f3149cb115c12868d68b2ae510615",
+  "archived_at": "2026-07-23T03:23:44Z",
+  "metadata": {
+    "title": "Tribal Sector",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2528,
+    "duration_human": "00:42:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Untitled",
+      "02 Zeffon - Untitled"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tribal-sector_8ebba98463fe"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/21a72a5347057b8e7500/Tribal_Sector.tar"
+    }
+  }
+}
