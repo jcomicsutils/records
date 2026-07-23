@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/petala-roxa_496260b2bf68)
+- [FileDitch](https://fileditchfiles.st/alpha18/abf977dbbd1df2aaae1b/P_tala_Roxa.tar)
 
 ## Tracklist
 

@@ -19,6 +19,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/petala-roxa_496260b2bf68"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/abf977dbbd1df2aaae1b/P_tala_Roxa.tar"
     }
   }
 }
