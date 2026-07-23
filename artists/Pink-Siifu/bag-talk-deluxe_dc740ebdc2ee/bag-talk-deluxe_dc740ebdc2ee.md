@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/bag-talk-deluxe_dc740ebdc2ee)
+- [FileDitch](https://fileditchfiles.st/alpha18/96d79cfdcddee0cad98f/BAG_TALK_DELUXE.tar)
 
 ## Tracklist
 

@@ -41,6 +41,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/bag-talk-deluxe_dc740ebdc2ee"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/96d79cfdcddee0cad98f/BAG_TALK_DELUXE.tar"
     }
   }
 }
