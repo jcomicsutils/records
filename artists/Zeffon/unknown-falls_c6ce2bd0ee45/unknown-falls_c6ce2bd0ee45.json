@@ -1,0 +1,37 @@
+{
+  "id": "unknown-falls_c6ce2bd0ee45",
+  "fingerprint": "c6ce2bd0ee4539d03a3b34cb2d8aeaa2aca0ada33eb90b4af99f38c3800f5fa7",
+  "archived_at": "2026-07-23T08:03:55Z",
+  "metadata": {
+    "title": "Unknown Falls",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 9049,
+    "duration_human": "02:30:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - An Offer (A Pan.Thy.Monium Tribute)",
+      "02 Zeffon - Mother is Calling",
+      "03 Zeffon - Aarmysiseth and Empire",
+      "04 Zeffon - F.2 (Four Guards and Five Runners)",
+      "05 Zeffon - Fabled Existence of the Great Master of Patience",
+      "06 Zeffon - Outside Unknown Falls",
+      "07 Zeffon - Robbing the Mansion of Bones, Longbow, Vines",
+      "08 Zeffon - Unknown Refeaëlese Call (c.1415)",
+      "09 Zeffon - Gods of Wrath",
+      "10 Zeffon - SeraphOperations (U.F.SW)",
+      "11 Zeffon - S.O. (Re.)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/unknown-falls_c6ce2bd0ee45"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/5694473b33eacc19556c/Unknown_Falls.tar"
+    }
+  }
+}
