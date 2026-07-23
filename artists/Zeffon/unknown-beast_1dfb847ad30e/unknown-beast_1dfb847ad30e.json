@@ -1,0 +1,27 @@
+{
+  "id": "unknown-beast_1dfb847ad30e",
+  "fingerprint": "1dfb847ad30ee75e1770257d1d375c4273e212481b2b0de1f89d7c63392d57df",
+  "archived_at": "2026-07-23T07:59:47Z",
+  "metadata": {
+    "title": "Unknown Beast",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 142,
+    "duration_human": "00:02:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Unknown Beast (Single)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/unknown-beast_1dfb847ad30e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/3a9e22e73d88a260b6e5/Unknown_Beast.tar"
+    }
+  }
+}
