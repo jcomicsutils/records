@@ -1,0 +1,38 @@
+{
+  "id": "rimming-compilation-liquid-sky_971efcc06402",
+  "fingerprint": "971efcc06402164ca31490b854d715ba915f61c99e1dab54690bbb7af55dbe62",
+  "archived_at": "2026-07-23T03:27:59Z",
+  "metadata": {
+    "title": "Rimming Compilation: Liquid Sky",
+    "artist": "Cadu Tenório",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2282,
+    "duration_human": "00:38:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cadu Tenório - A",
+      "02 Cadu Tenório - Cyberia (Digital Deathru)",
+      "03 Cadu Tenório - Nozsa Wars",
+      "04 Cadu Tenório - Star",
+      "05 Cadu Tenório - Pirease",
+      "06 Cadu Tenório - Death in Midsummer",
+      "07 Cadu Tenório - Enter the Void",
+      "08 Cadu Tenório - 玄野 計",
+      "09 Cadu Tenório - Mima",
+      "10 Cadu Tenório - アスカ",
+      "11 Cadu Tenório - 2300 Ad",
+      "12 Cadu Tenório - Z"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rimming-compilation-liquid-sky_971efcc06402"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/6aea2c222536663ff165/Rimming_Compilation_Liquid_Sky.tar"
+    }
+  }
+}
