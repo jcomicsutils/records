@@ -1,0 +1,38 @@
+{
+  "id": "signal-eustasy-vi_02327c888619",
+  "fingerprint": "02327c8886192fc98a178080ee7d33392f8cde8426e068766f89f0c5bd3991a5",
+  "archived_at": "2026-07-23T03:52:42Z",
+  "metadata": {
+    "title": "Signal Eustasy VI",
+    "artist": "Cadu Tenório",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 4302,
+    "duration_human": "01:11:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cadu Tenório - Heartless Angel",
+      "02 Cadu Tenório - The Points Where Things Could Easily Be Broken.",
+      "03 Cadu Tenório - Kupo",
+      "04 Cadu Tenório - Xibalba",
+      "05 Cadu Tenório - El-seibzehn",
+      "06 Cadu Tenório - Cursed Woods",
+      "07 Cadu Tenório - Mystic Eyes of Death Perception",
+      "08 Cadu Tenório - Gunblade",
+      "09 Cadu Tenório - Diamond Dust",
+      "10 Cadu Tenório - Yellow Flower",
+      "11 Cadu Tenório - Dronya",
+      "12 Cadu Tenório - The Jetbike Race",
+      "13 Cadu Tenório - Grimoire Noir",
+      "14 Cadu Tenório - Grimoire Weiss",
+      "15 Cadu Tenório - Sleeping Beauty"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/signal-eustasy-vi_02327c888619"
+    }
+  }
+}

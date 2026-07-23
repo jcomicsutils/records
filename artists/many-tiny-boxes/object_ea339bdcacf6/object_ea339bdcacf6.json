@@ -1,0 +1,27 @@
+{
+  "id": "object_ea339bdcacf6",
+  "fingerprint": "ea339bdcacf6a75b0b01be81f05a40e8abf4bff70e5f4ca629b017a7a6ef80dc",
+  "archived_at": "2026-07-23T03:52:37Z",
+  "metadata": {
+    "title": "Object",
+    "artist": "many tiny boxes",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 314,
+    "duration_human": "00:05:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 many tiny boxes - Object"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/object_ea339bdcacf6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/9e1874d677c3dee365ce/Object.tar"
+    }
+  }
+}
