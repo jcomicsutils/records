@@ -1,0 +1,41 @@
+{
+  "id": "waft_d27610e7ab63",
+  "fingerprint": "d27610e7ab63c855a578578954fd4364cd616a6e12521ea669eac9d6535d3f7c",
+  "archived_at": "2026-07-23T11:37:27Z",
+  "metadata": {
+    "title": "Waft",
+    "artist": "Zeffon",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 26863,
+    "duration_human": "07:27:43",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - W 1",
+      "02 Zeffon - Presez Vee 1",
+      "03 Zeffon - Waft",
+      "04 Zeffon - Waft",
+      "05 Zeffon - Insect Time 63",
+      "06 Zeffon - The Veracity of People's Intentions",
+      "07 Zeffon - Even Terrace",
+      "08 Zeffon - Manipura 17 (We Are Stars in a Sky of Humans)",
+      "09 Zeffon - Waft",
+      "10 Zeffon - Presez Vee 2",
+      "11 Zeffon - Cliffside",
+      "12 Zeffon - Deposits on Topsoil",
+      "13 Zeffon - SEF_NOR",
+      "14 Zeffon - Live Show in a Public Restroom Sounds Insane",
+      "15 Zeffon - Self-Indulgence (You ARE The One)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/waft_d27610e7ab63"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/e10f25e1410122f59fbc/Waft.tar"
+    }
+  }
+}
