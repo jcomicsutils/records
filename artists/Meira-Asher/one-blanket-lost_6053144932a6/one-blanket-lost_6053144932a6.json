@@ -1,0 +1,28 @@
+{
+  "id": "one-blanket-lost_6053144932a6",
+  "fingerprint": "6053144932a6183f4396a81daf9562d273f27d3e03884efcef6fe500b7d61325",
+  "archived_at": "2026-07-23T05:38:26Z",
+  "metadata": {
+    "title": "One Blanket Lost",
+    "artist": "Meira Asher",
+    "year": "2012",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 2084,
+    "duration_human": "00:34:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Meira Asher - One Blanket Lost_part1",
+      "02 Meira Asher - One Blanket Lost_part2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/one-blanket-lost_6053144932a6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/f1d0927c70689065ba68/One_Blanket_Lost.tar"
+    }
+  }
+}
