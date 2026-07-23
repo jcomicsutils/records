@@ -1,0 +1,32 @@
+{
+  "id": "twisted-by-love_078feb76d778",
+  "fingerprint": "078feb76d77856f4245ff00c7133ea0ab1dc4aa793c48c9ccfe9d78c1aa9b10d",
+  "archived_at": "2026-07-23T10:03:54Z",
+  "metadata": {
+    "title": "Twisted by Love",
+    "artist": "This Immortal Coil",
+    "year": "2022",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 2482,
+    "duration_human": "00:41:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 This Immortal Coil - Dark River (Aho Ssan remix)",
+      "02 This Immortal Coil - Tattoed Man (Third Eye Foundation remix)",
+      "03 This Immortal Coil - Magnetic North (Geins’t Nait remix)",
+      "04 This Immortal Coil - A White Rainbow (Geins’t Nait remix)",
+      "05 This Immortal Coil - Chaostrophy (Deadverse remix)",
+      "06 This Immortal Coil - White Rainbow (instrumental version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/twisted-by-love_078feb76d778"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/40fa58e56cb7d0cc4d5b/Twisted_by_Love.tar"
+    }
+  }
+}
