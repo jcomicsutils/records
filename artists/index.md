@@ -164,6 +164,7 @@
 - [Serpentmouth](Serpentmouth/Serpentmouth.md)
 - [Serpentmouth / Generated Missiân ZFN](Serpentmouth-Generated-Missiân-ZFN/Serpentmouth-Generated-Missiân-ZFN.md)
 - [Serpentmouth / Generated Missiân ZFN / Argon Lo Curránt](Serpentmouth-Generated-Missiân-ZFN-Argon-Lo-Curránt/Serpentmouth-Generated-Missiân-ZFN-Argon-Lo-Curránt.md)
+- [Sexo Explícito](Sexo-Explícito/Sexo-Explícito.md)
 - [Show Me a Dinosaur](Show-Me-a-Dinosaur/Show-Me-a-Dinosaur.md)
 - [Siouxsie and The Banshees](Siouxsie-and-The-Banshees/Siouxsie-and-The-Banshees.md)
 - [Splashgirl / Huntsville](Splashgirl-Huntsville/Splashgirl-Huntsville.md)
