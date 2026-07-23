@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Dissected](dissected_09139370ef70/dissected_09139370ef70.md) | 1994 | FLAC | 00:43:07 | [IA](https://archive.org/details/dissected_09139370ef70) [FileDitch](https://fileditchfiles.st/alpha18/1f0e25613d225edfd94f/Dissected.tar) |
+| [Spears Into Hooks](spears-into-hooks_d8da2136ffce/spears-into-hooks_d8da2136ffce.md) | 1999 | FLAC | 00:55:14 | [IA](https://archive.org/details/spears-into-hooks_d8da2136ffce) [FileDitch](https://fileditchfiles.st/alpha18/5e36447d051bb1f3ecd3/Spears_Into_Hooks.tar) |
 | [Infantry](infantry_5413c2f15f4e/infantry_5413c2f15f4e.md) | 2001 | FLAC | 00:47:40 | [IA](https://archive.org/details/infantry_5413c2f15f4e) [FileDitch](https://fileditchfiles.st/alpha18/654ee532b948d5efd1e8/Infantry.tar) |
 | [Face_WSLOT](face-wslot_c37eb4c88b95/face-wslot_c37eb4c88b95.md) | 2004 | FLAC | 00:57:22 | [IA](https://archive.org/details/face-wslot_c37eb4c88b95) [FileDitch](https://fileditchfiles.st/alpha18/aa3a43aaa99ab2bd72fc/Face_WSLOT.tar) |
 | [One Blanket Lost](one-blanket-lost_6053144932a6/one-blanket-lost_6053144932a6.md) | 2012 | MP3 | 00:34:44 | [IA](https://archive.org/details/one-blanket-lost_6053144932a6) [FileDitch](https://fileditchfiles.st/alpha18/f1d0927c70689065ba68/One_Blanket_Lost.tar) |

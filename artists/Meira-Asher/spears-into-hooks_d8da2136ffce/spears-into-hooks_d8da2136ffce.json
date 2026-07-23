@@ -1,0 +1,35 @@
+{
+  "id": "spears-into-hooks_d8da2136ffce",
+  "fingerprint": "d8da2136ffceeb7fb7b00e79bfdcaa44f900d2aa61e0285f0f6e15a174477c0f",
+  "archived_at": "2026-07-23T05:50:53Z",
+  "metadata": {
+    "title": "Spears Into Hooks",
+    "artist": "Meira Asher",
+    "year": "1999",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3314,
+    "duration_human": "00:55:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Meira Asher - Shahid 1",
+      "02 Meira Asher - Shahid 2",
+      "03 Meira Asher - Dissect Me Again",
+      "04 Meira Asher - The Flood",
+      "05 Meira Asher - Weekend Away Break",
+      "06 Meira Asher - Tiring Night",
+      "07 Meira Asher - Me Last Granny",
+      "08 Meira Asher - Vio Smear",
+      "09 Meira Asher - E' un uomo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/spears-into-hooks_d8da2136ffce"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/5e36447d051bb1f3ecd3/Spears_Into_Hooks.tar"
+    }
+  }
+}
