@@ -1,0 +1,35 @@
+{
+  "id": "unatikmock-in-the-evil-forest_ad0a15608438",
+  "fingerprint": "ad0a15608438b5b273090df89c30e425c3c5f822569db7f13c72555e4eaf6cbb",
+  "archived_at": "2026-07-23T07:28:26Z",
+  "metadata": {
+    "title": "Unatikmock in the Evil Forest",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 7822,
+    "duration_human": "02:10:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Headline",
+      "02 Zeffon - Malwoubetowabi (Part II) + T.4 (Brume Cover)",
+      "03 Zeffon - Zeffon Appreciates Scripture",
+      "04 Zeffon - A Thousand Suns",
+      "05 Zeffon - Pineapple Frictia Sub-sexist",
+      "06 Zeffon - Skittering Tantrum Doanu Nonchalant",
+      "07 Zeffon - The Seven Sensitive Patches",
+      "08 Zeffon - A Monk in His Home of Isolation",
+      "09 Zeffon - Hymn"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/unatikmock-in-the-evil-forest_ad0a15608438"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/9495bd1a34c080a4b58f/Unatikmock_in_the_Evil_Forest.tar"
+    }
+  }
+}
