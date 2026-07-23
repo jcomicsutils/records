@@ -1,0 +1,27 @@
+{
+  "id": "water-punch-the-big-stick-xxv_007f96c9c21c",
+  "fingerprint": "007f96c9c21c9c1637188ebeaebe03b286fa035ce8ba5e0652d464a646177c5f",
+  "archived_at": "2026-07-23T11:54:54Z",
+  "metadata": {
+    "title": "Water Punch (The Big Stick XXV)",
+    "artist": "Serpentmouth",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1621,
+    "duration_human": "00:27:01",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Serpentmouth - Zennias"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/water-punch-the-big-stick-xxv_007f96c9c21c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/f923bc94e74b4e4a6db6/Water_Punch_The_Big_Stick_XXV.tar"
+    }
+  }
+}
