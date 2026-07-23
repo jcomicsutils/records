@@ -1,0 +1,27 @@
+{
+  "id": "flowers-lie_1d93caea96eb",
+  "fingerprint": "1d93caea96eba8ff66de5c6b70290623c1e3b8981af7a6da94a34de8a98e039b",
+  "archived_at": "2026-07-23T02:09:26Z",
+  "metadata": {
+    "title": "Flowers Lie",
+    "artist": "many tiny boxes",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 148,
+    "duration_human": "00:02:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 many tiny boxes - Flowers Lie"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/flowers-lie_1d93caea96eb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/f506a37e707715868855/Flowers_Lie.tar"
+    }
+  }
+}
