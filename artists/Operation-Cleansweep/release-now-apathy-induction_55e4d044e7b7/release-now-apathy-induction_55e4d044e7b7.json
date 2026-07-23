@@ -1,0 +1,36 @@
+{
+  "id": "release-now-apathy-induction_55e4d044e7b7",
+  "fingerprint": "55e4d044e7b709bfdffa911d330dce44b31a0870869d99c0ad885c89709e4019",
+  "archived_at": "2026-07-23T05:57:55Z",
+  "metadata": {
+    "title": "Release Now! Apathy Induction",
+    "artist": "Operation Cleansweep",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2792,
+    "duration_human": "00:46:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "1-01 Operation Cleansweep - Operasi Sapu Berish (2013)",
+      "1-02 Operation Cleansweep - Annihilation Of Consciousness (2011)",
+      "1-03 Operation Cleansweep - Hunters (2015)",
+      "1-04 Operation Cleansweep - Pulsa diNura (2014)",
+      "1-05 Operation Cleansweep - Radiation Monitoring Course (2003)",
+      "1-06 Operation Cleansweep - Error Identities (2013)",
+      "1-07 Operation Cleansweep - Everything Is Alright (2011)",
+      "1-08 Operation Cleansweep - Eruption (2015)",
+      "2-01 Operation Cleansweep - Apathy Induction (2000)",
+      "2-02 Operation Cleansweep - The End (2001)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/release-now-apathy-induction_55e4d044e7b7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/31498a19cb8cd647d018/Release_Now_Apathy_Induction.tar"
+    }
+  }
+}
