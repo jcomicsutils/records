@@ -1,0 +1,28 @@
+{
+  "id": "what-does-your-hand-find_116a91a37735",
+  "fingerprint": "116a91a37735a09ae8df236603b924ae5d1f2fa689daabcfef3990bf40833ab2",
+  "archived_at": "2026-07-23T23:32:45Z",
+  "metadata": {
+    "title": "What Does Your Hand Find?",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5581,
+    "duration_human": "01:33:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Proteins 10",
+      "02 Zeffon - Antifreeze"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/what-does-your-hand-find_116a91a37735"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/e05004b2a8039492409e/What_Does_Your_Hand_Find.tar"
+    }
+  }
+}
