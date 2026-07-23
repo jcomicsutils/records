@@ -1,0 +1,39 @@
+{
+  "id": "only-the-youngest-grave_535013dd2da0",
+  "fingerprint": "535013dd2da0f5eee5649a97408251270ae88560b9e73a36c9671405f705d34c",
+  "archived_at": "2026-07-23T00:44:44Z",
+  "metadata": {
+    "title": "Only The Youngest Grave",
+    "artist": "Lost Salt Blood Purges",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 6124,
+    "duration_human": "01:42:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lost Salt Blood Purges - Oneiric",
+      "02 Lost Salt Blood Purges - Abject Lust Of God",
+      "03 Lost Salt Blood Purges - First Chant: Waxing Waning Moon",
+      "04 Lost Salt Blood Purges - Aura of Silent Moors And Their Chambers",
+      "05 Lost Salt Blood Purges - Stuttering Sinews",
+      "06 Lost Salt Blood Purges - Second Chant: Blood In The Shells",
+      "07 Lost Salt Blood Purges - Bodies Falling",
+      "08 Lost Salt Blood Purges - Lanthanesthai",
+      "09 Lost Salt Blood Purges - The Spirit Meets The Skin",
+      "10 Lost Salt Blood Purges - Final Chant: Stygian Cessation",
+      "11 Lost Salt Blood Purges - Noose In The Afterglow",
+      "12 Lost Salt Blood Purges - Dense Swells In Cold Earth Devour",
+      "13 Lost Salt Blood Purges - Blood Communion To The Port Saint"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/only-the-youngest-grave_535013dd2da0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/1b94d83cf72fa62b164c/Only_The_Youngest_Grave.tar"
+    }
+  }
+}
