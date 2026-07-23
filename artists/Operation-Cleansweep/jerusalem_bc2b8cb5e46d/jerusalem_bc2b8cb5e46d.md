@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/jerusalem_bc2b8cb5e46d)
+- [FileDitch](https://fileditchfiles.st/alpha18/959d6ce41692bb1abdfa/JerUSAlem.tar)
 
 ## Tracklist
 
