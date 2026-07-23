@@ -1,0 +1,36 @@
+{
+  "id": "kauan_570be364a093",
+  "fingerprint": "570be364a0939bfb735f36556622e16c2939200931a9e0198a3c6c0fa72afc4b",
+  "archived_at": "2026-07-23T07:50:16Z",
+  "metadata": {
+    "title": "Kauan",
+    "artist": "Tenhi",
+    "year": "1999",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 4309,
+    "duration_human": "01:11:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tenhi - Näkin Laulu",
+      "02 Tenhi - Huomen",
+      "03 Tenhi - Revontulet",
+      "04 Tenhi - Hallavedet",
+      "05 Tenhi - Etäisyyksien Taa",
+      "06 Tenhi - Lauluni Sinulle",
+      "07 Tenhi - Taival",
+      "08 Tenhi - Souto",
+      "09 Tenhi - Kielo",
+      "10 Tenhi - Niin Auer Hiljaa Vie"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kauan_570be364a093"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/a2237e7e03f539951726/Kauan.tar"
+    }
+  }
+}
