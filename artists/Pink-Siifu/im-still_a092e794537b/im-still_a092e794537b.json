@@ -1,0 +1,30 @@
+{
+  "id": "im-still_a092e794537b",
+  "fingerprint": "a092e794537b4cebc3dbfe1d86259f2605aa7effe8aba51a21575037d036ca19",
+  "archived_at": "2026-07-23T09:17:31Z",
+  "metadata": {
+    "title": "I'm still.",
+    "artist": "Pink Siifu",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 758,
+    "duration_human": "00:12:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Pink Siifu - stillsay",
+      "02 Pink Siifu - pullup",
+      "03 Pink Siifu - lil'nxgga",
+      "04 Pink Siifu - pickup"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/im-still_a092e794537b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/e1cb8c1edd5930732167/I_m_still.tar"
+    }
+  }
+}
