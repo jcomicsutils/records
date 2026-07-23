@@ -1,0 +1,27 @@
+{
+  "id": "to-my-dead-friend_b2031ed4aca2",
+  "fingerprint": "b2031ed4aca23ae4058adc591f490b6223b613e35ab7d60760c8abda2b395253",
+  "archived_at": "2026-07-23T04:38:12Z",
+  "metadata": {
+    "title": "To My Dead Friend",
+    "artist": "many tiny boxes",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 135,
+    "duration_human": "00:02:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 many tiny boxes - To My Dead Friend"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/to-my-dead-friend_b2031ed4aca2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/a1332409d8b5f77b621c/To_My_Dead_Friend.tar"
+    }
+  }
+}
