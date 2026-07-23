@@ -10,3 +10,4 @@
 | [Maaäet](maaaet_a0667667babc/maaaet_a0667667babc.md) | 2005 | FLAC | 01:00:18 | [IA](https://archive.org/details/maaaet_a0667667babc) [FileDitch](https://fileditchfiles.st/alpha18/fe54f0e93670e620350f/Maa_et.tar) |
 | [Folk Aesthetic \(1996-2006\)](folk-aesthetic-1996-2006_7ba8d6930d4b/folk-aesthetic-1996-2006_7ba8d6930d4b.md) | 2007 | FLAC | 03:00:45 | [IA](https://archive.org/details/folk-aesthetic-1996-2006_7ba8d6930d4b) [FileDitch](https://fileditchfiles.st/alpha18/70b96775e0a6c57ca1b8/Folk_Aesthetic_1996-2006.tar) |
 | [Saivo](saivo_5f2397932aff/saivo_5f2397932aff.md) | 2011 | FLAC | 01:10:03 | [IA](https://archive.org/details/saivo_5f2397932aff) [FileDitch](https://fileditchfiles.st/alpha18/86298f3416019b3c063d/Saivo.tar) |
+| [Valkama](valkama_0fb6c9e018f4/valkama_0fb6c9e018f4.md) | 2023 | FLAC | 01:10:09 | [IA](https://archive.org/details/valkama_0fb6c9e018f4) [FileDitch](https://fileditchfiles.st/alpha18/81ed4743aaeedf89c541/Valkama.tar) |

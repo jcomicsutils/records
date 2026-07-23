@@ -1,0 +1,38 @@
+{
+  "id": "valkama_0fb6c9e018f4",
+  "fingerprint": "0fb6c9e018f4dc06631d864f6de94ca6f71a4cc8e51fd14325e326b544e58b37",
+  "archived_at": "2026-07-23T08:17:08Z",
+  "metadata": {
+    "title": "Valkama",
+    "artist": "Tenhi",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 4209,
+    "duration_human": "01:10:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tenhi - Saattue",
+      "02 Tenhi - Kesävihanta",
+      "03 Tenhi - Valkama",
+      "04 Tenhi - Rintamaan",
+      "05 Tenhi - Rannankukka",
+      "06 Tenhi - Laineinen",
+      "07 Tenhi - Hele",
+      "08 Tenhi - Ulapoi",
+      "09 Tenhi - Elokuun linnut",
+      "10 Tenhi - Sydämes on tiel",
+      "11 Tenhi - Veden elein",
+      "12 Tenhi - Aina sininen aina"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/valkama_0fb6c9e018f4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/81ed4743aaeedf89c541/Valkama.tar"
+    }
+  }
+}
