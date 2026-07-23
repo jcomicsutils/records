@@ -1,0 +1,31 @@
+{
+  "id": "colonial-war-and-mental-disorders_dc84251e66b6",
+  "fingerprint": "dc84251e66b683195e9e37b264216d4bdff0e60d07101a174c831bfca2ff1f73",
+  "archived_at": "2026-07-23T05:06:13Z",
+  "metadata": {
+    "title": "Colonial War and Mental Disorders",
+    "artist": "Meira Asher",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 4902,
+    "duration_human": "01:21:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Asher.Zax & Dave Phillips - Introduction",
+      "02 Asher.Zax & Dave Phillips - Case №1",
+      "03 Asher.Zax & Dave Phillips - Case №2",
+      "04 Asher.Zax & Dave Phillips - Case №3",
+      "05 Asher.Zax & Dave Phillips - Colonial War and Mental Disorders"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/colonial-war-and-mental-disorders_dc84251e66b6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/6ab64df9dc28e3a43ced/Colonial_War_and_Mental_Disorders.tar"
+    }
+  }
+}
