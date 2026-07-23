@@ -1,0 +1,27 @@
+{
+  "id": "fucked-to-death_d78c53bc06a4",
+  "fingerprint": "d78c53bc06a4cca2d3f99c65c91bfe7501ecfd6614afbc9558af317f05769052",
+  "archived_at": "2026-07-23T02:14:24Z",
+  "metadata": {
+    "title": "Fucked to Death",
+    "artist": "many tiny boxes",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 261,
+    "duration_human": "00:04:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 many tiny boxes - Fucked to Death"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fucked-to-death_d78c53bc06a4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/f01c79f93c2875dbf253/Fucked_to_Death.tar"
+    }
+  }
+}
