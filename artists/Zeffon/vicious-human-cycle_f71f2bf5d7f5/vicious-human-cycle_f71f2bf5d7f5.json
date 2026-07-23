@@ -1,0 +1,28 @@
+{
+  "id": "vicious-human-cycle_f71f2bf5d7f5",
+  "fingerprint": "f71f2bf5d7f5f164f05be422acd6be121593464ae091b4c551ef0c9375649bbf",
+  "archived_at": "2026-07-23T09:42:43Z",
+  "metadata": {
+    "title": "Vicious Human Cycle",
+    "artist": "Zeffon",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 8260,
+    "duration_human": "02:17:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Meteor Shower to the East, Human, Skeleton Amongst the Cedar Trees",
+      "02 Zeffon - Host (Baylisascaris procyonis)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vicious-human-cycle_f71f2bf5d7f5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/03fdc20ea97545b26fd3/Vicious_Human_Cycle.tar"
+    }
+  }
+}
