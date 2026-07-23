@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/gumbo-deluxe_ca4093d5b030)
+- [FileDitch](https://fileditchfiles.st/alpha18/85ac8e791133e8e1b7d3/GUMBO_DELUXE.tar)
 
 ## Tracklist
 
