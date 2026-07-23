@@ -1,0 +1,38 @@
+{
+  "id": "saivo_5f2397932aff",
+  "fingerprint": "5f2397932affbba3bc82c0de453a076561885d62c5f29d9087307efdb17cf653",
+  "archived_at": "2026-07-23T08:05:47Z",
+  "metadata": {
+    "title": "Saivo",
+    "artist": "Tenhi",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 4203,
+    "duration_human": "01:10:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tenhi - Saivon Kimallus",
+      "02 Tenhi - Pojan Kiiski",
+      "03 Tenhi - Uloin",
+      "04 Tenhi - Pienet Purot",
+      "05 Tenhi - Sateen Soutu",
+      "06 Tenhi - Haaksi",
+      "07 Tenhi - Surunuotta",
+      "08 Tenhi - Savoie",
+      "09 Tenhi - Vuoksi",
+      "10 Tenhi - Paluu Joelle",
+      "11 Tenhi - Sees",
+      "12 Tenhi - Siniset Runot"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/saivo_5f2397932aff"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/86298f3416019b3c063d/Saivo.tar"
+    }
+  }
+}
