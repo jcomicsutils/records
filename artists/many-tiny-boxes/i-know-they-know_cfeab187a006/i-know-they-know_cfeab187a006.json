@@ -1,0 +1,27 @@
+{
+  "id": "i-know-they-know_cfeab187a006",
+  "fingerprint": "cfeab187a0060dc2f01dcf4cd6086f4f63aa733f4b8053ff95ad764ac59e0e07",
+  "archived_at": "2026-07-23T02:19:50Z",
+  "metadata": {
+    "title": "I Know (They) Know",
+    "artist": "many tiny boxes",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 208,
+    "duration_human": "00:03:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 many tiny boxes - I Know (They) Know"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-know-they-know_cfeab187a006"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/550fa9f90c2a88d1eee4/I_Know_They_Know.tar"
+    }
+  }
+}
