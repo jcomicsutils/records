@@ -1,0 +1,30 @@
+{
+  "id": "far-beneath-the-bridge_6a85da4cc2c4",
+  "fingerprint": "6a85da4cc2c4a5069889466745098e4ecb1a01c40a58fcbdf740750fae710aae",
+  "archived_at": "2026-07-23T02:06:11Z",
+  "metadata": {
+    "title": "Far Beneath the Bridge",
+    "artist": "many tiny boxes",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1111,
+    "duration_human": "00:18:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 many tiny boxes - I Don't Eat",
+      "02 many tiny boxes - Weight of the Sea",
+      "03 many tiny boxes - The Flood is Coming",
+      "04 many tiny boxes - A Lonely Sun"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/far-beneath-the-bridge_6a85da4cc2c4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/8074cf2d189aa2cf35ce/Far_Beneath_the_Bridge.tar"
+    }
+  }
+}
