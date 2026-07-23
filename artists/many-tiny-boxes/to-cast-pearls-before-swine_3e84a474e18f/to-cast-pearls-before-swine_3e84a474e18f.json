@@ -1,0 +1,38 @@
+{
+  "id": "to-cast-pearls-before-swine_3e84a474e18f",
+  "fingerprint": "3e84a474e18f1b614066b7328253b4551dcccaa268a164ff855b87976eda62d6",
+  "archived_at": "2026-07-23T04:37:03Z",
+  "metadata": {
+    "title": "To Cast Pearls Before Swine",
+    "artist": "many tiny boxes",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2307,
+    "duration_human": "00:38:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 many tiny boxes - To Cast Pearls Before Swine",
+      "02 many tiny boxes - Fucked to Death",
+      "03 many tiny boxes - Mother Not Even a Face Could Love",
+      "04 many tiny boxes - To Forgive Life",
+      "05 many tiny boxes - There is a Place for You Here",
+      "06 many tiny boxes - Failure to Grant",
+      "07 many tiny boxes - I Am All Wrong",
+      "08 many tiny boxes - Wolf and Woman",
+      "09 many tiny boxes - Object",
+      "10 many tiny boxes - Love (Again)",
+      "11 many tiny boxes - No Longer",
+      "12 many tiny boxes - In a World Without Air"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/to-cast-pearls-before-swine_3e84a474e18f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/2ee6cc7224a3f53b047d/To_Cast_Pearls_Before_Swine.tar"
+    }
+  }
+}
