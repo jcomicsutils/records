@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/undead-and-spiritual-anomalies_3adc47f23994)
+- [FileDitch](https://fileditchfiles.st/alpha18/da63ebd61d34924e74c2/Undead_and_Spiritual_Anomalies.tar)
 
 ## Tracklist
 
