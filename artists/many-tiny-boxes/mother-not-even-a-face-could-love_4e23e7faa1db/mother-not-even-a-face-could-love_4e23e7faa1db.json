@@ -1,0 +1,27 @@
+{
+  "id": "mother-not-even-a-face-could-love_4e23e7faa1db",
+  "fingerprint": "4e23e7faa1db4811fd59d5d0ce98d3b8a9c81fc45cbddbbd89aacf1d84423715",
+  "archived_at": "2026-07-23T03:51:57Z",
+  "metadata": {
+    "title": "Mother Not Even a Face Could Love",
+    "artist": "many tiny boxes",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 177,
+    "duration_human": "00:02:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 many tiny boxes - Mother Not Even a Face Could Love"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mother-not-even-a-face-could-love_4e23e7faa1db"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/3af64c9ce81aab577d7b/Mother_Not_Even_a_Face_Could_Love.tar"
+    }
+  }
+}
