@@ -1,0 +1,27 @@
+{
+  "id": "je-texplique_b9be18d9d53c",
+  "fingerprint": "b9be18d9d53cdce813f4fe90d6fae1a6f3d1d44bd1d53b8fdf3d38dc1f67066e",
+  "archived_at": "2026-07-23T02:22:01Z",
+  "metadata": {
+    "title": "Je t'explique",
+    "artist": "Cadu Tenório",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 298,
+    "duration_human": "00:04:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Clemente, Cadu Tenório, Ana Rovati - Je t'explique"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/je-texplique_b9be18d9d53c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/9a81bdd2bc4f5a94542a/Je_t_explique.tar"
+    }
+  }
+}
