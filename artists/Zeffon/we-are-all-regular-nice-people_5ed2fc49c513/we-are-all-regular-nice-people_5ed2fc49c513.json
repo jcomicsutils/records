@@ -1,0 +1,31 @@
+{
+  "id": "we-are-all-regular-nice-people_5ed2fc49c513",
+  "fingerprint": "5ed2fc49c513153066a1a4d96e11a53e2bf5685bbe9f5a687e2213c4dbee0019",
+  "archived_at": "2026-07-23T11:58:31Z",
+  "metadata": {
+    "title": "We Are All Regular, Nice People",
+    "artist": "Zeffon",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2199,
+    "duration_human": "00:36:39",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Explosion of Dust and VITRIOL",
+      "02 Zeffon - Opening the Door",
+      "03 Zeffon - Erasing Castle",
+      "04 Zeffon - Area Today (Dust Explosion, Part 2)",
+      "05 Zeffon - Project_6 (Spatial Institute No. 34)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/we-are-all-regular-nice-people_5ed2fc49c513"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/2a116a686ffc70fde4ad/We_Are_All_Regular_Nice_People.tar"
+    }
+  }
+}
