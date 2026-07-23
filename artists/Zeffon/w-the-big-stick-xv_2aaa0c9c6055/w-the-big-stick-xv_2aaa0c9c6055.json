@@ -1,0 +1,30 @@
+{
+  "id": "w-the-big-stick-xv_2aaa0c9c6055",
+  "fingerprint": "2aaa0c9c6055f320e5a42a4f1dd2231ceed0d05923435c38c4437139917cf0df",
+  "archived_at": "2026-07-23T10:46:47Z",
+  "metadata": {
+    "title": "W (The Big Stick XV)",
+    "artist": "Zeffon",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1353,
+    "duration_human": "00:22:33",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Chalk Strata 63",
+      "02 Zeffon - Crazy Natural Redundance",
+      "03 Zeffon - Chalk Strata",
+      "04 Zeffon - W 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/w-the-big-stick-xv_2aaa0c9c6055"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/e8d7cac4eb5ff7bbff22/W_The_Big_Stick_XV.tar"
+    }
+  }
+}
