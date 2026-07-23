@@ -1,0 +1,27 @@
+{
+  "id": "tree-being_b19e83850004",
+  "fingerprint": "b19e83850004db725988f5bd1405e3443f0d0665be6c711c8019e19a564544cf",
+  "archived_at": "2026-07-23T02:35:01Z",
+  "metadata": {
+    "title": "Tree Being",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3829,
+    "duration_human": "01:03:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Tehesomra Terauna Got"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tree-being_b19e83850004"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/e9c162fad7d229a55825/Tree_Being.tar"
+    }
+  }
+}
