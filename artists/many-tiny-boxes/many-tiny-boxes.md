@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Many Tiny Boxes](many-tiny-boxes_baa926400757/many-tiny-boxes_baa926400757.md) | 2023 | FLAC | 00:32:58 | [IA](https://archive.org/details/many-tiny-boxes_baa926400757) [FileDitch](https://fileditchfiles.st/alpha18/8377a4949171d5b16b68/Many_Tiny_Boxes.tar) |
 | [I Know \(They\) Know](i-know-they-know_cfeab187a006/i-know-they-know_cfeab187a006.md) | 2023 | FLAC | 00:03:28 | [IA](https://archive.org/details/i-know-they-know_cfeab187a006) [FileDitch](https://fileditchfiles.st/alpha18/550fa9f90c2a88d1eee4/I_Know_They_Know.tar) |
 | [Flowers Lie](flowers-lie_1d93caea96eb/flowers-lie_1d93caea96eb.md) | 2023 | FLAC | 00:02:28 | [IA](https://archive.org/details/flowers-lie_1d93caea96eb) [FileDitch](https://fileditchfiles.st/alpha18/f506a37e707715868855/Flowers_Lie.tar) |
 | [Far Beneath the Bridge](far-beneath-the-bridge_6a85da4cc2c4/far-beneath-the-bridge_6a85da4cc2c4.md) | 2023 | FLAC | 00:18:31 | [IA](https://archive.org/details/far-beneath-the-bridge_6a85da4cc2c4) [FileDitch](https://fileditchfiles.st/alpha18/8074cf2d189aa2cf35ce/Far_Beneath_the_Bridge.tar) |

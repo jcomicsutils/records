@@ -1,0 +1,38 @@
+{
+  "id": "many-tiny-boxes_baa926400757",
+  "fingerprint": "baa9264007571d30dee93bfcf8b8ea5a0badd32164d51bd5d2877bc5306fabf3",
+  "archived_at": "2026-07-23T03:03:13Z",
+  "metadata": {
+    "title": "Many Tiny Boxes",
+    "artist": "many tiny boxes",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 1978,
+    "duration_human": "00:32:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 many tiny boxes - Many Tiny Intros",
+      "02 many tiny boxes - Schizo Ego Mania",
+      "03 many tiny boxes - I Know (They) Know",
+      "04 many tiny boxes - Time (Doesn't) Heal My Wounds",
+      "05 many tiny boxes - (I) Am Lonely",
+      "06 many tiny boxes - Flowers Lie",
+      "07 many tiny boxes - Unstoppable/Immovable",
+      "08 many tiny boxes - Charity and Abuse",
+      "09 many tiny boxes - Feed Me Your Pity (Please)",
+      "10 many tiny boxes - Down the Pit",
+      "11 many tiny boxes - This is (Not) a Cry for Help",
+      "12 many tiny boxes - People Die Sometimes."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/many-tiny-boxes_baa926400757"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/8377a4949171d5b16b68/Many_Tiny_Boxes.tar"
+    }
+  }
+}
