@@ -1,0 +1,27 @@
+{
+  "id": "lagrima_9e9143c5abdd",
+  "fingerprint": "9e9143c5abdd0d4360581ffd4e1fffc4f3855b6decb1f684a657c30f12eafe6a",
+  "archived_at": "2026-07-23T03:05:46Z",
+  "metadata": {
+    "title": "Lágrima",
+    "artist": "Cadu Tenório",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2580,
+    "duration_human": "00:43:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cadu Tenório - Lágrima"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lagrima_9e9143c5abdd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/2c5d660a20d34f3849c9/L_grima.tar"
+    }
+  }
+}
