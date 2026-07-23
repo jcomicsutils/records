@@ -1,0 +1,28 @@
+{
+  "id": "ultra-religion_2618113a996f",
+  "fingerprint": "2618113a996fef965bc8fad42abee83960cd54ca890ca44a417ab3b1cac020a1",
+  "archived_at": "2026-07-23T05:33:50Z",
+  "metadata": {
+    "title": "Ultra-Religion",
+    "artist": "Revenence / Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2697,
+    "duration_human": "00:44:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Revenence - Murder Weapon",
+      "02 Zeffon - Ultra-Religion (Part XIII of XX)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ultra-religion_2618113a996f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/0bcb29611545de0c063f/Ultra-Religion.tar"
+    }
+  }
+}
