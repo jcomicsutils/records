@@ -1,0 +1,37 @@
+{
+  "id": "the-dark-age-of-love_fbd3a081d004",
+  "fingerprint": "fbd3a081d0041bdc37e79bbb6099f387314b6d78cabd04cd9f31886a1de28374",
+  "archived_at": "2026-07-23T09:56:12Z",
+  "metadata": {
+    "title": "The Dark Age of Love",
+    "artist": "This Immortal Coil",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 3543,
+    "duration_human": "00:59:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 This Immortal Coil - The Dark Age of Love",
+      "02 This Immortal Coil - Red Queen",
+      "03 This Immortal Coil - Ostia",
+      "04 This Immortal Coil - Chaostrophy",
+      "05 This Immortal Coil - Love Secret Domain",
+      "06 This Immortal Coil - Tattoed Man",
+      "07 This Immortal Coil - Teenage Lightning",
+      "08 This Immortal Coil - Amber Rain",
+      "09 This Immortal Coil - Cardinal Points",
+      "10 This Immortal Coil - Blood from the Air",
+      "11 This Immortal Coil - Outro Lsd"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-dark-age-of-love_fbd3a081d004"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/a4f8f997a3927eaf1958/The_Dark_Age_of_Love.tar"
+    }
+  }
+}
