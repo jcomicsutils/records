@@ -1,0 +1,29 @@
+{
+  "id": "kertomuksia_26effcddb16b",
+  "fingerprint": "26effcddb16bc5570c0fc84e27bfe9b35495b69fb4fa48cdf7f2e5fc21d321d4",
+  "archived_at": "2026-07-23T07:53:09Z",
+  "metadata": {
+    "title": "Kertomuksia",
+    "artist": "Tenhi",
+    "year": "1997",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 1359,
+    "duration_human": "00:22:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Tenhi - Nдkin Laulu",
+      "02 Tenhi - Havuisissa Saleissa",
+      "03 Tenhi - Tenhi"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kertomuksia_26effcddb16b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/956a13ff005cb3811397/Kertomuksia.tar"
+    }
+  }
+}
