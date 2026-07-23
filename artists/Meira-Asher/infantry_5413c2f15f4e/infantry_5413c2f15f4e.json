@@ -1,0 +1,40 @@
+{
+  "id": "infantry_5413c2f15f4e",
+  "fingerprint": "5413c2f15f4e4832fa4069f12321956d1e87081c65eb4a582e918aaea316d34e",
+  "archived_at": "2026-07-23T05:29:13Z",
+  "metadata": {
+    "title": "Infantry",
+    "artist": "Meira Asher",
+    "year": "2001",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 2860,
+    "duration_human": "00:47:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Meira Asher, Guy Harries - Girl",
+      "02 Meira Asher, Guy Harries - Torture - Bodyparts",
+      "03 Meira Asher, Guy Harries - Airplane Quiz",
+      "04 Meira Asher, Guy Harries - The School",
+      "05 Meira Asher, Guy Harries - Childsoldier List",
+      "06 Meira Asher, Guy Harries - Box",
+      "07 Meira Asher, Guy Harries - The Car",
+      "08 Meira Asher, Guy Harries - Lineboy",
+      "09 Meira Asher, Guy Harries - Nr. 1",
+      "10 Meira Asher, Guy Harries - Daumenlutscher",
+      "11 Meira Asher, Guy Harries - Bad Toys",
+      "12 Meira Asher, Guy Harries - The Hospital",
+      "13 Meira Asher, Guy Harries - Torture - ABC",
+      "14 Meira Asher, Guy Harries - Tots"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/infantry_5413c2f15f4e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/654ee532b948d5efd1e8/Infantry.tar"
+    }
+  }
+}
