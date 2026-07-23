@@ -1,0 +1,27 @@
+{
+  "id": "the-light-withinout_828e9aed282e",
+  "fingerprint": "828e9aed282effed5242677edfb18ae50f62fb1dba74dfee304ae84a1a1153d9",
+  "archived_at": "2026-07-23T04:03:33Z",
+  "metadata": {
+    "title": "The Light With(In/Out)",
+    "artist": "many tiny boxes",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 594,
+    "duration_human": "00:09:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 many tiny boxes - The Light With(in/Out)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-light-withinout_828e9aed282e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/94f95ad63e7ac62a1cad/The_Light_With_In_-_Out.tar"
+    }
+  }
+}
