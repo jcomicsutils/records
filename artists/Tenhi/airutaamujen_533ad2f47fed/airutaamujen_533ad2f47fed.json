@@ -1,0 +1,35 @@
+{
+  "id": "airutaamujen_533ad2f47fed",
+  "fingerprint": "533ad2f47fed65f15ec164ae046e52acb22b465ed6d43a99e4f81a7eeb8ec812",
+  "archived_at": "2026-07-23T07:21:12Z",
+  "metadata": {
+    "title": "Airut:Aamujen",
+    "artist": "Tenhi",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3139,
+    "duration_human": "00:52:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tenhi - Saapuminen",
+      "02 Tenhi - Seitsensarvi",
+      "03 Tenhi - Lävitseni Kaikkeen",
+      "04 Tenhi - Luopumisen Laulu",
+      "05 Tenhi - Kuvajainen",
+      "06 Tenhi - Oikea Sointi",
+      "07 Tenhi - Kahluu",
+      "08 Tenhi - Hiensynty",
+      "09 Tenhi - Läheltä"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/airutaamujen_533ad2f47fed"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/41746ed17ca64fc9fee6/AirutAamujen.tar"
+    }
+  }
+}
