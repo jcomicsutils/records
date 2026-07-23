@@ -1,0 +1,27 @@
+{
+  "id": "visual-decay_5aa108db9f45",
+  "fingerprint": "5aa108db9f45cc64b45ff414190aa3297bd09bb1767bda1cdd55cced13fc6da8",
+  "archived_at": "2026-07-23T10:11:13Z",
+  "metadata": {
+    "title": "Visual Decay",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 565,
+    "duration_human": "00:09:25",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Visual Decay"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/visual-decay_5aa108db9f45"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/fc9101210498f97fb4c2/Visual_Decay.tar"
+    }
+  }
+}
