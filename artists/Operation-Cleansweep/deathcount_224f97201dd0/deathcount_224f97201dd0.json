@@ -1,0 +1,30 @@
+{
+  "id": "deathcount_224f97201dd0",
+  "fingerprint": "224f97201dd044304e5c8e981a0898a9760cace4826868c79b1f350d24511d46",
+  "archived_at": "2026-07-23T04:57:49Z",
+  "metadata": {
+    "title": "Deathcount",
+    "artist": "Operation Cleansweep",
+    "year": "2003",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 953,
+    "duration_human": "00:15:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 OPERATION CLEANSWEEP - Operation Cleansweep Receiving Center",
+      "02 OPERATION CLEANSWEEP - Deathcount",
+      "03 OPERATION CLEANSWEEP - Brighter Than God",
+      "04 OPERATION CLEANSWEEP - Novis Orbis Terrarum"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/deathcount_224f97201dd0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/cea593ceb30fbadeb3b5/Deathcount.tar"
+    }
+  }
+}
