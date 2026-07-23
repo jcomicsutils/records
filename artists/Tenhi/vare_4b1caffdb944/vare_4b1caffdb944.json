@@ -1,0 +1,37 @@
+{
+  "id": "vare_4b1caffdb944",
+  "fingerprint": "4b1caffdb94497a5db5e27e56b84f312d3576cb1f0ebbdfd48e0ea18342939f0",
+  "archived_at": "2026-07-23T08:20:24Z",
+  "metadata": {
+    "title": "Väre",
+    "artist": "Tenhi",
+    "year": "2002",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 3433,
+    "duration_human": "00:57:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tenhi - Vastakaiun",
+      "02 Tenhi - Jäljen",
+      "03 Tenhi - Vilja",
+      "04 Tenhi - Keväin",
+      "05 Tenhi - Yötä",
+      "06 Tenhi - Suortuva",
+      "07 Tenhi - Tenhi",
+      "08 Tenhi - Sutoi",
+      "09 Tenhi - Katve",
+      "10 Tenhi - Varis Eloinen",
+      "11 Tenhi - Kuolleesi Jokeen"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vare_4b1caffdb944"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/188d60f9d602565ace40/V_re.tar"
+    }
+  }
+}
