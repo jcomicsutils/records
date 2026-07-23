@@ -1,0 +1,27 @@
+{
+  "id": "valentine_f30ebca6cfdd",
+  "fingerprint": "f30ebca6cfdd94e88a723f282d698233e0aec9afc6761596ffd56e44be023c32",
+  "archived_at": "2026-07-23T08:59:02Z",
+  "metadata": {
+    "title": "Valentine",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1446,
+    "duration_human": "00:24:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Valentine (Blind Single)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/valentine_f30ebca6cfdd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/ba1404d9a081d42b2703/Valentine.tar"
+    }
+  }
+}
