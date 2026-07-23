@@ -1,0 +1,28 @@
+{
+  "id": "truly-a-shame_0685b1643de5",
+  "fingerprint": "0685b1643de50b8419380dfc6c5c91864e79439c6dc1cbc14c5b321a023407af",
+  "archived_at": "2026-07-23T05:05:03Z",
+  "metadata": {
+    "title": "Truly A Shame",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5345,
+    "duration_human": "01:29:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Sacrifice of Õ.",
+      "02 Zeffon - Take Four"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/truly-a-shame_0685b1643de5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/62e803df2a568cbb1c23/Truly_A_Shame.tar"
+    }
+  }
+}
