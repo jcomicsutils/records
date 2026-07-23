@@ -22,6 +22,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/unknown_f16c4f24c170"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/74d31bf5d2f824add7d7/Unknown.tar"
     }
   }
 }
