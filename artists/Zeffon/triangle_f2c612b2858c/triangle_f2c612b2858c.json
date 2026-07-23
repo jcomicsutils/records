@@ -1,0 +1,27 @@
+{
+  "id": "triangle_f2c612b2858c",
+  "fingerprint": "f2c612b2858c1d05bffcde6a7e99efbd535b3f65998e5849a72542a2feab1707",
+  "archived_at": "2026-07-23T02:52:51Z",
+  "metadata": {
+    "title": "Triangle",
+    "artist": "Zeffon",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1067,
+    "duration_human": "00:17:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Death Wall"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/triangle_f2c612b2858c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/7b38861c1007f41e46b0/Triangle.tar"
+    }
+  }
+}
