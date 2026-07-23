@@ -1,0 +1,34 @@
+{
+  "id": "voyager_5abff484f03b",
+  "fingerprint": "5abff484f03b84b3a0c25b1fc03149e311eb0d1fc6e3b4ef5e16def124d306e6",
+  "archived_at": "2026-07-23T10:44:55Z",
+  "metadata": {
+    "title": "Voyager",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 5699,
+    "duration_human": "01:34:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - 901 - I Can't Care About Distortion",
+      "02 Zeffon - Voyager",
+      "03 Zeffon - Why Are We Here and Not There?",
+      "04 Zeffon - Pulklos, Part 3",
+      "05 Zeffon - Thé Läp, Part 2",
+      "06 Zeffon - Superviolent",
+      "07 Zeffon - During the Mission To Convert",
+      "08 Zeffon - Guinea 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/voyager_5abff484f03b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/fcb3ee00a1c85ca6e58a/Voyager.tar"
+    }
+  }
+}
