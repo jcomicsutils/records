@@ -1,0 +1,31 @@
+{
+  "id": "tuhigplafen_2f282bcf9f21",
+  "fingerprint": "2f282bcf9f212b25ef1b5a0b821a8d896db7ec39418568bc9db9ab52689da408",
+  "archived_at": "2026-07-23T05:11:10Z",
+  "metadata": {
+    "title": "Tuhigpläfen",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2984,
+    "duration_human": "00:49:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Years From Now",
+      "02 Zeffon - Urbanize Glaciate 1",
+      "03 Zeffon - Tuhigpläfen",
+      "04 Zeffon - Primitive 7",
+      "05 Zeffon - Primitive 8"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tuhigplafen_2f282bcf9f21"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/0499b939af5994e5318e/Tuhigpl_fen.tar"
+    }
+  }
+}
