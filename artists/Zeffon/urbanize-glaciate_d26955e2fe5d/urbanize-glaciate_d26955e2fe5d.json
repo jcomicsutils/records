@@ -1,0 +1,35 @@
+{
+  "id": "urbanize-glaciate_d26955e2fe5d",
+  "fingerprint": "d26955e2fe5d32fe726c441098c9dd288df289b232db9767405db63e15ff1e45",
+  "archived_at": "2026-07-23T08:34:34Z",
+  "metadata": {
+    "title": "Urbanize Glaciate",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 7028,
+    "duration_human": "01:57:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Alien Soundtrack Manipulators, Part 3",
+      "02 Zeffon - Urbanize Glaciate 2",
+      "03 Zeffon - Stalling'd",
+      "04 Zeffon - Rakhine",
+      "05 Zeffon - Omnipotent (6-20-17)",
+      "06 Zeffon - The Wheel",
+      "07 Zeffon - Starving For Justice",
+      "08 Zeffon - Cha-Vahnite Boat Triumph",
+      "09 Zeffon - The Unknown Way of Eresymcaion"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/urbanize-glaciate_d26955e2fe5d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/7b5111be7b10328b69e7/Urbanize_Glaciate.tar"
+    }
+  }
+}
