@@ -1,0 +1,32 @@
+{
+  "id": "the-last-shall-be-first_4beed23fb0c5",
+  "fingerprint": "4beed23fb0c5fd416a78fd7803a6c6fe811ebd3605441f517068cac368c329e0",
+  "archived_at": "2026-07-23T05:53:23Z",
+  "metadata": {
+    "title": "The Last Shall Be First",
+    "artist": "Meira Asher",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 2228,
+    "duration_human": "00:37:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Asher.Zax - The Last Shall Be First",
+      "02 Asher.Zax - Absolute Evil",
+      "03 Asher.Zax - The Colonised People",
+      "04 Asher.Zax - L'abolition de la croix",
+      "05 Asher.Zax - Hunger Strike is Combat",
+      "06 Asher.Zax - Response to My Remains"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-last-shall-be-first_4beed23fb0c5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha18/4cdc5a54b05c5fcbbc44/The_Last_Shall_Be_First.tar"
+    }
+  }
+}
