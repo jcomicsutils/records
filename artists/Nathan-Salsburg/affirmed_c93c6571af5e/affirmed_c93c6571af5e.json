@@ -1,0 +1,34 @@
+{
+  "id": "affirmed_c93c6571af5e",
+  "fingerprint": "c93c6571af5e5b8f97e586c86388261f2d6ad7dfc25974bce0ac4bd13f79b671",
+  "archived_at": "2026-07-24T20:27:18Z",
+  "metadata": {
+    "title": "Affirmed",
+    "artist": "Nathan Salsburg",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2033,
+    "duration_human": "00:33:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nathan Salsburg - Sought & Hidden",
+      "02 Nathan Salsburg - New Bold Ruler’s Joy",
+      "03 Nathan Salsburg - Back Home in Bogenbrook",
+      "04 Nathan Salsburg - Blues For Eight Belles",
+      "05 Nathan Salsburg - Fraught With Hornpipe",
+      "06 Nathan Salsburg - Eight Belles Dreamt The Devil Was Dead",
+      "07 Nathan Salsburg - The False True Love",
+      "08 Nathan Salsburg - Affirmed"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/affirmed_c93c6571af5e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/03d7d0b43f40e7387a3c/Affirmed.tar"
+    }
+  }
+}
