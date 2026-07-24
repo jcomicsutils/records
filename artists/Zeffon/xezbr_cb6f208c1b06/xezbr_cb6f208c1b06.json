@@ -1,0 +1,27 @@
+{
+  "id": "xezbr_cb6f208c1b06",
+  "fingerprint": "cb6f208c1b06b91209a6f2832ef382eabb24d62be54fa1eb936c25edb186c27f",
+  "archived_at": "2026-07-24T02:01:38Z",
+  "metadata": {
+    "title": "Xezbr",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 225,
+    "duration_human": "00:03:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - XIII: Xezbr"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xezbr_cb6f208c1b06"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/e2d63165864f8fb3a6e2/Xezbr.tar"
+    }
+  }
+}
