@@ -1,0 +1,32 @@
+{
+  "id": "kholod_f8ac7da17bbf",
+  "fingerprint": "f8ac7da17bbfdae69d238d373dd8b1c11db4ebba928f4397ff0c92645bca272d",
+  "archived_at": "2026-07-24T07:37:57Z",
+  "metadata": {
+    "title": "Холод",
+    "artist": "Majdanek Waltz",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2200,
+    "duration_human": "00:36:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Majdanek Waltz - Ожидание (ep version)",
+      "02 Majdanek Waltz - Всё будет так, как хочется зиме (ep version)",
+      "03 Majdanek Waltz - Холод (ep version)",
+      "04 Majdanek Waltz - Всё будет так, как хочется зиме",
+      "05 Majdanek Waltz - Холод",
+      "06 Majdanek Waltz - Ворон"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kholod_f8ac7da17bbf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/e423789cea35dfee6d05/%D0%A5%D0%BE%D0%BB%D0%BE%D0%B4.tar"
+    }
+  }
+}

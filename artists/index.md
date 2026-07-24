@@ -207,6 +207,7 @@
 - [Ursus Wallis](Ursus-Wallis/Ursus-Wallis.md)
 - [Various Artists](Various-Artists/Various-Artists.md)
 - [Vesuvio](Vesuvio/Vesuvio.md)
+- [Vomit-Self](Vomit-Self/Vomit-Self.md)
 - [XIU XIU](XIU-XIU/XIU-XIU.md)
 - [XXL](XXL/XXL.md)
 - [Xiu Xiu](Xiu-Xiu/Xiu-Xiu.md)
