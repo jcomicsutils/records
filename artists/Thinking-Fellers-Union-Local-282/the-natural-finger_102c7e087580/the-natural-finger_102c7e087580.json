@@ -1,0 +1,30 @@
+{
+  "id": "the-natural-finger_102c7e087580",
+  "fingerprint": "102c7e0875804baa743fbc155be9f5db3790e6e971e05c58ba3fba5763e8033d",
+  "archived_at": "2026-07-24T04:03:16Z",
+  "metadata": {
+    "title": "The Natural Finger",
+    "artist": "Thinking Fellers Union Local 282",
+    "year": "1990",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 791,
+    "duration_human": "00:13:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Thinking Fellers Union Local 282 - Hell Rules",
+      "02 Thinking Fellers Union Local 282 - Narlus Spectre",
+      "03 Thinking Fellers Union Local 282 - Leaky Bag",
+      "04 Thinking Fellers Union Local 282 - Misfits Park"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-natural-finger_102c7e087580"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/e334d4c864c4f93bd58d/The_Natural_Finger.tar"
+    }
+  }
+}
