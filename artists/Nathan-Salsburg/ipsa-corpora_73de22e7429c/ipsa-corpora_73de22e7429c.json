@@ -1,0 +1,28 @@
+{
+  "id": "ipsa-corpora_73de22e7429c",
+  "fingerprint": "73de22e7429c6058a9fee2351e787f6f255916d1c2d4a9ef4bb03c5aaf6d68b2",
+  "archived_at": "2026-07-24T21:13:40Z",
+  "metadata": {
+    "title": "Ipsa Corpora",
+    "artist": "Nathan Salsburg",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2381,
+    "duration_human": "00:39:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nathan Salsburg - Part I",
+      "02 Nathan Salsburg - Part II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ipsa-corpora_73de22e7429c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/6b6e8d00dea5c78a32ca/Ipsa_Corpora.tar"
+    }
+  }
+}
