@@ -1,0 +1,36 @@
+{
+  "id": "el-bueno-y-el-malo_995c860d79c0",
+  "fingerprint": "995c860d79c06d25d9854d92b62ab65fa0f5b9a4247fa48b5e83911dc462360e",
+  "archived_at": "2026-07-24T07:56:11Z",
+  "metadata": {
+    "title": "El bueno y el malo",
+    "artist": "Hermanos Gutiérrez",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2008,
+    "duration_human": "00:33:28",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Hermanos Gutiérrez - El bueno y el malo",
+      "02 Hermanos Gutiérrez - Hermosa Drive",
+      "03 Hermanos Gutiérrez - Los chicos tristes",
+      "04 Hermanos Gutiérrez - Thunderbird",
+      "05 Hermanos Gutiérrez - Cielo grande",
+      "06 Hermanos Gutiérrez - Tres hermanos",
+      "07 Hermanos Gutiérrez - Pueblo Man",
+      "08 Hermanos Gutiérrez - La verdad",
+      "09 Hermanos Gutiérrez - Los amantes",
+      "10 Hermanos Gutiérrez - Dorado Valley"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/el-bueno-y-el-malo_995c860d79c0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/d1f9d92c8791c4c46848/El_bueno_y_el_malo.tar"
+    }
+  }
+}
