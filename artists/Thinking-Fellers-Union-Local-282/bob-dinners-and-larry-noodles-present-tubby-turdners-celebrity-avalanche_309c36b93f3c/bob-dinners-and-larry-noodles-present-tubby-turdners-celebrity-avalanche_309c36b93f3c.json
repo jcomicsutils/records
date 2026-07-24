@@ -1,0 +1,40 @@
+{
+  "id": "bob-dinners-and-larry-noodles-present-tubby-turdners-celebrity-avalanche_309c36b93f3c",
+  "fingerprint": "309c36b93f3cdb691a154552049d4ae7f08258937227e8d4ed40f9c2c459fe10",
+  "archived_at": "2026-07-24T02:23:54Z",
+  "metadata": {
+    "title": "Bob Dinners and Larry Noodles Present Tubby Turdner's Celebrity Avalanche",
+    "artist": "Thinking Fellers Union Local 282",
+    "year": "2001",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 3037,
+    "duration_human": "00:50:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Thinking Fellers Union Local 282 - Another Clip",
+      "02 Thinking Fellers Union Local 282 - Sno Cone",
+      "03 Thinking Fellers Union Local 282 - You Will Be Eliminated",
+      "04 Thinking Fellers Union Local 282 - Holy Ghost",
+      "05 Thinking Fellers Union Local 282 - Everything's Impossible",
+      "06 Thinking Fellers Union Local 282 - Birth of a Rock Song",
+      "07 Thinking Fellers Union Local 282 - You in a Movie",
+      "08 Thinking Fellers Union Local 282 - Boob Feeler",
+      "09 Thinking Fellers Union Local 282 - In the Stars I Can Sizzle Like a Battery",
+      "10 Thinking Fellers Union Local 282 - El Cerrito",
+      "11 Thinking Fellers Union Local 282 - '91 Dodge Van",
+      "12 Thinking Fellers Union Local 282 - Remindor",
+      "13 Thinking Fellers Union Local 282 - The Barker",
+      "14 Thinking Fellers Union Local 282 - He Keeps Himself Fed"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bob-dinners-and-larry-noodles-present-tubby-turdners-celebrity-avalanche_309c36b93f3c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/f874ad017b417274cf5d/Bob_Dinners_and_Larry_Noodles_Present_Tubby_Turdner_s_Celebrity.tar"
+    }
+  }
+}
