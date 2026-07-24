@@ -1,0 +1,32 @@
+{
+  "id": "contos-da-aldeia-e-da-noite_66593a26f499",
+  "fingerprint": "66593a26f4994e8ba2117fb206d65f07aa54f9cf6e7bc2ff93fb82062604c7ab",
+  "archived_at": "2026-07-24T02:54:29Z",
+  "metadata": {
+    "title": "Contos da Aldeia e da Noite",
+    "artist": "Durvena Cabina",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 5168,
+    "duration_human": "01:26:08",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Durvena Cabina - Mortos no Celeiro",
+      "02 Durvena Cabina - Dança das Irmãs Coruja",
+      "03 Durvena Cabina - Bruxa de Ébano",
+      "04 Durvena Cabina - As Torres têm Olhos",
+      "05 Durvena Cabina - Sopros do Cume Negro",
+      "06 Durvena Cabina - Rosas na Neve"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/contos-da-aldeia-e-da-noite_66593a26f499"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/a05d85ec44cc4915cfb0/Contos_da_Aldeia_e_da_Noite.tar"
+    }
+  }
+}

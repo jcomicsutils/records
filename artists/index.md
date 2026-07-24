@@ -70,6 +70,7 @@
 - [Dirty Three](Dirty-Three/Dirty-Three.md)
 - [Divergência Socialista](Divergência-Socialista/Divergência-Socialista.md)
 - [Doron Sadja](Doron-Sadja/Doron-Sadja.md)
+- [Durvena Cabina](Durvena-Cabina/Durvena-Cabina.md)
 - [E+E](E+E/E+E.md)
 - [Egor Klochikhin](Egor-Klochikhin/Egor-Klochikhin.md)
 - [Ein Sof](Ein-Sof/Ein-Sof.md)
