@@ -1,0 +1,29 @@
+{
+  "id": "wilderness_782bd011e8a9",
+  "fingerprint": "782bd011e8a94042d523097788bc03523f08208b0655f642a307ed2805b7da68",
+  "archived_at": "2026-07-24T01:41:05Z",
+  "metadata": {
+    "title": "Wilderness",
+    "artist": "Zeffon",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1385,
+    "duration_human": "00:23:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - A New Wilderness",
+      "02 Zeffon - In the Past...",
+      "03 Zeffon - Scoria Kyrmyu Gong (The Green Palace in South Lavu)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wilderness_782bd011e8a9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/37c5d1456c552ac41deb/Wilderness.tar"
+    }
+  }
+}
