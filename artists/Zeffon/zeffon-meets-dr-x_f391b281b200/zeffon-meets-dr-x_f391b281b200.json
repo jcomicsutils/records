@@ -1,0 +1,40 @@
+{
+  "id": "zeffon-meets-dr-x_f391b281b200",
+  "fingerprint": "f391b281b2007e7d3c2b663e6100b4db9f920e0dd0da0c326a3f270268b4bf8b",
+  "archived_at": "2026-07-24T20:13:25Z",
+  "metadata": {
+    "title": "Zeffon Meets Dr. X",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 4335,
+    "duration_human": "01:12:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Prison",
+      "02 Zeffon - Radioactive Notes and Pages",
+      "03 Zeffon - Wheels' Magnetism Obstruktion",
+      "04 Zeffon - Planetary Rings",
+      "05 Zeffon - Space Patrol, Part 5",
+      "06 Zeffon - Hydro-electric Forest",
+      "07 Zeffon - Ice Crystal Hammer",
+      "08 Zeffon - Habanero Cafe",
+      "09 Zeffon - Coral Reef",
+      "10 Zeffon - Can Be",
+      "11 Zeffon - Chemically Bonded Salts",
+      "12 Zeffon - ERBS",
+      "13 Zeffon - Star Trooper",
+      "14 Zeffon - Uranium Computer Technology"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zeffon-meets-dr-x_f391b281b200"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/e336a9ff81e586d345ad/Zeffon_Meets_Dr._X.tar"
+    }
+  }
+}
