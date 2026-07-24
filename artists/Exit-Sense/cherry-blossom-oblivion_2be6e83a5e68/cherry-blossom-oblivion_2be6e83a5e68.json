@@ -1,0 +1,29 @@
+{
+  "id": "cherry-blossom-oblivion_2be6e83a5e68",
+  "fingerprint": "2be6e83a5e682901542dfe90dc9feecf6a832421502da578bd85457168613672",
+  "archived_at": "2026-07-24T20:59:25Z",
+  "metadata": {
+    "title": "Cherry Blossom Oblivion",
+    "artist": "Exit Sense",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3775,
+    "duration_human": "01:02:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Exit Sense - Cold Can Come Closer",
+      "02 Exit Sense - Flickering and Meandering, Reappearing",
+      "03 Exit Sense - Fired Into the Dirt and Fire Spouts",
+      "04 Exit Sense - Everything is Blooming",
+      "05 Exit Sense - The Moon and Satellites, Changing Rivers",
+      "06 Exit Sense - Died as It Did"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cherry-blossom-oblivion_2be6e83a5e68"
+    }
+  }
+}

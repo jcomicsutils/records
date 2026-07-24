@@ -1,0 +1,39 @@
+{
+  "id": "ambsace_a4b26e9e6f5f",
+  "fingerprint": "a4b26e9e6f5f02ee1322aa9935608b974032205de86880a93e5ea1c49e71fcdb",
+  "archived_at": "2026-07-24T20:59:29Z",
+  "metadata": {
+    "title": "Ambsace",
+    "artist": "Nathan Salsburg",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 2362,
+    "duration_human": "00:39:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 James Elkington, Nathan Salsburg - Up of Stairs",
+      "02 James Elkington, Nathan Salsburg - Invention #4",
+      "03 James Elkington, Nathan Salsburg - Dim Recollection",
+      "04 James Elkington, Nathan Salsburg - The Narrowing of Grey Park",
+      "05 James Elkington, Nathan Salsburg - The Unhaunted Williams",
+      "06 James Elkington, Nathan Salsburg - Carrots",
+      "07 James Elkington, Nathan Salsburg - Reel Around the Fountain",
+      "08 James Elkington, Nathan Salsburg - Great Big God of Hands",
+      "09 James Elkington, Nathan Salsburg - Fleurette Africaine",
+      "10 James Elkington, Nathan Salsburg - Bee's Thing",
+      "11 James Elkington, Nathan Salsburg - Rough Purr",
+      "12 James Elkington, Nathan Salsburg - Stern and Earnest",
+      "13 James Elkington, Nathan Salsburg - Slow Train"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ambsace_a4b26e9e6f5f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/bbcc572873e6477c1835/Ambsace.tar"
+    }
+  }
+}
