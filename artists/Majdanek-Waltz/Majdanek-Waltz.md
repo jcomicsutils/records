@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Hund Fuchs Feld](hund-fuchs-feld_bb4efdb7a186/hund-fuchs-feld_bb4efdb7a186.md) | 2002 | MP3 | 00:45:52 | [IA](https://archive.org/details/hund-fuchs-feld_bb4efdb7a186) [FileDitch](https://fileditchfiles.st/beta17/4f7f8adb8f48ea656560/Hund_Fuchs_Feld.tar) |
 | [Frühjahr](fruhjahr_a1ea771a7db5/fruhjahr_a1ea771a7db5.md) | 2012 | FLAC | 00:23:37 | [IA](https://archive.org/details/fruhjahr_a1ea771a7db5) [FileDitch](https://fileditchfiles.st/beta17/0eadd498b5422da60f55/Fr_hjahr.tar) |
 | [Berlin](berlin_efb978b18527/berlin_efb978b18527.md) | 2015 | FLAC | 00:04:45 | [IA](https://archive.org/details/berlin_efb978b18527) [FileDitch](https://fileditchfiles.st/beta17/5d67de632f8a7c9a1792/Berlin.tar) |
 | [Die Blinden Schützen](die-blinden-schutzen_d5afe99ebb3c/die-blinden-schutzen_d5afe99ebb3c.md) | 2016 | FLAC | 00:40:36 | [IA](https://archive.org/details/die-blinden-schutzen_d5afe99ebb3c) [FileDitch](https://fileditchfiles.st/beta17/cd6f2da51ae21c1f8186/Die_Blinden_Sch_tzen.tar) |

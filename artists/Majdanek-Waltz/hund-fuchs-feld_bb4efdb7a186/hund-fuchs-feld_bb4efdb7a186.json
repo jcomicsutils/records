@@ -1,0 +1,34 @@
+{
+  "id": "hund-fuchs-feld_bb4efdb7a186",
+  "fingerprint": "bb4efdb7a186ade8f31deb6308d2c7815b0f46e5b57e975f5c09c20c24c7daba",
+  "archived_at": "2026-07-24T05:49:44Z",
+  "metadata": {
+    "title": "Hund Fuchs Feld",
+    "artist": "Majdanek Waltz",
+    "year": "2002",
+    "codec": "MP3",
+    "num_tracks": 8,
+    "duration_seconds": 2752,
+    "duration_human": "00:45:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Majdanek Waltz - Предпоследний закат (часть 1)",
+      "02 Majdanek Waltz - Сделай себе больно",
+      "03 Majdanek Waltz - Предпоследний закат (часть 2)",
+      "04 Majdanek Waltz - Нингирсу",
+      "05 Majdanek Waltz - Пауки",
+      "06 Majdanek Waltz - Черно-белые сны",
+      "07 Majdanek Waltz - Настанет гибель для всего живого",
+      "08 Majdanek Waltz - Приметы смерти"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hund-fuchs-feld_bb4efdb7a186"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/4f7f8adb8f48ea656560/Hund_Fuchs_Feld.tar"
+    }
+  }
+}
