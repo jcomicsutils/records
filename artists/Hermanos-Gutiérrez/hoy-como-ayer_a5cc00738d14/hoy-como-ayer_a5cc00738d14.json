@@ -1,0 +1,34 @@
+{
+  "id": "hoy-como-ayer_a5cc00738d14",
+  "fingerprint": "a5cc00738d146b7a0fb7d0a56b23e0aab3366aae7684a32457815eaa101006ee",
+  "archived_at": "2026-07-24T20:27:53Z",
+  "metadata": {
+    "title": "Hoy Como Ayer",
+    "artist": "Hermanos Gutiérrez",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1455,
+    "duration_human": "00:24:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Hermanos Gutierrez - Hoy Como Ayer",
+      "02 Hermanos Gutierrez - Amar Y Vivir",
+      "03 Hermanos Gutierrez - Cerca De Ti",
+      "04 Hermanos Gutierrez - El Sol Avenue",
+      "05 Hermanos Gutierrez - El Desierto",
+      "06 Hermanos Gutierrez - Tu Y Yo",
+      "07 Hermanos Gutierrez - Pacifico",
+      "08 Hermanos Gutierrez - El Lobo Blanco"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hoy-como-ayer_a5cc00738d14"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/9b8f8bd7d4550e2d992f/Hoy_Como_Ayer.tar"
+    }
+  }
+}
