@@ -1,0 +1,33 @@
+{
+  "id": "vo-veki-vekov_d2635c21cf19",
+  "fingerprint": "d2635c21cf19211d62ef922eac578594b8d8ed6424dc0cb43d0c92748193edd8",
+  "archived_at": "2026-07-24T06:41:59Z",
+  "metadata": {
+    "title": "Во веки веков",
+    "artist": "Majdanek Waltz",
+    "year": "2003",
+    "codec": "MP3",
+    "num_tracks": 7,
+    "duration_seconds": 1776,
+    "duration_human": "00:29:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Majdanek Waltz - Любовь как удар кнута",
+      "02 Majdanek Waltz - Во веки веков",
+      "03 Majdanek Waltz - Окно-роза",
+      "04 Majdanek Waltz - Сон ангелов",
+      "05 Majdanek Waltz - Символ веры",
+      "06 Majdanek Waltz - Воск",
+      "07 Majdanek Waltz - Прощальный взгляд"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vo-veki-vekov_d2635c21cf19"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/d1c73623d67c519b8e61/%D0%92%D0%BE_%D0%B2%D0%B5%D0%BA%D0%B8_%D0%B2%D0%B5%D0%BA%D0%BE%D0%B2.tar"
+    }
+  }
+}

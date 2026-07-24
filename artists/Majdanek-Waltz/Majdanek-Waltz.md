@@ -4,6 +4,7 @@
 |-------|------|-------|----------|-------|
 | [Nachtlied](nachtlied_96ce92d72114/nachtlied_96ce92d72114.md) | 2002 | FLAC | 01:05:29 | [IA](https://archive.org/details/nachtlied_96ce92d72114) [FileDitch](https://fileditchfiles.st/beta17/f01a8e3ad61efe831877/Nachtlied.tar) |
 | [Hund Fuchs Feld](hund-fuchs-feld_bb4efdb7a186/hund-fuchs-feld_bb4efdb7a186.md) | 2002 | MP3 | 00:45:52 | [IA](https://archive.org/details/hund-fuchs-feld_bb4efdb7a186) [FileDitch](https://fileditchfiles.st/beta17/4f7f8adb8f48ea656560/Hund_Fuchs_Feld.tar) |
+| [Во веки веков](vo-veki-vekov_d2635c21cf19/vo-veki-vekov_d2635c21cf19.md) | 2003 | MP3 | 00:29:36 | [IA](https://archive.org/details/vo-veki-vekov_d2635c21cf19) [FileDitch](https://fileditchfiles.st/beta17/d1c73623d67c519b8e61/%D0%92%D0%BE_%D0%B2%D0%B5%D0%BA%D0%B8_%D0%B2%D0%B5%D0%BA%D0%BE%D0%B2.tar) |
 | [Tenebrae](tenebrae_c5a8aab75c0e/tenebrae_c5a8aab75c0e.md) | 2011 | FLAC | 00:42:08 | [IA](https://archive.org/details/tenebrae_c5a8aab75c0e) [FileDitch](https://fileditchfiles.st/beta17/73caa4d48780dc013002/Tenebrae.tar) |
 | [Stille!](stille_92ad0b2aed87/stille_92ad0b2aed87.md) | 2012 | FLAC | 00:38:15 | [IA](https://archive.org/details/stille_92ad0b2aed87) [FileDitch](https://fileditchfiles.st/beta17/15cbeadfc6d2febd6457/Stille.tar) |
 | [Frühjahr](fruhjahr_a1ea771a7db5/fruhjahr_a1ea771a7db5.md) | 2012 | FLAC | 00:23:37 | [IA](https://archive.org/details/fruhjahr_a1ea771a7db5) [FileDitch](https://fileditchfiles.st/beta17/0eadd498b5422da60f55/Fr_hjahr.tar) |
