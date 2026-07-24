@@ -1,0 +1,31 @@
+{
+  "id": "der-weg-der-toten_9d89f55544e8",
+  "fingerprint": "9d89f55544e8564f4ca7d20023e04b82b425e0c69b810bad4747c259f6664385",
+  "archived_at": "2026-07-24T05:35:39Z",
+  "metadata": {
+    "title": "Der Weg Der Toten",
+    "artist": "Majdanek Waltz",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2476,
+    "duration_human": "00:41:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Majdanek Waltz · Vintersolverv · The Noktulians - Das Ufer",
+      "02 Majdanek Waltz · Vintersolverv · The Noktulians - Dunkles Wasser",
+      "03 Majdanek Waltz · Vintersolverv · The Noktulians - Strahlenkranz",
+      "04 Majdanek Waltz · Vintersolverv · The Noktulians - Die Küste",
+      "05 Majdanek Waltz · Vintersolverv · The Noktulians - Der Weg Der Toten"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/der-weg-der-toten_9d89f55544e8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/613705c8890071d3ea60/Der_Weg_Der_Toten.tar"
+    }
+  }
+}
