@@ -1,0 +1,32 @@
+{
+  "id": "landwerk-no-3_bde696443c4c",
+  "fingerprint": "bde696443c4cfb1b52d2ad64997bee608c068e5f4a4a87c028e52abd7a9d0437",
+  "archived_at": "2026-07-24T21:50:30Z",
+  "metadata": {
+    "title": "Landwerk No. 3",
+    "artist": "Nathan Salsburg",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3909,
+    "duration_human": "01:05:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nathan Salsburg - IX",
+      "02 Nathan Salsburg - X",
+      "03 Nathan Salsburg - XI",
+      "04 Nathan Salsburg - XII",
+      "05 Nathan Salsburg - XIII",
+      "06 Nathan Salsburg - XIV"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/landwerk-no-3_bde696443c4c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/e2d568405e86c54b33d9/Landwerk_No._3.tar"
+    }
+  }
+}
