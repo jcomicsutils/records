@@ -1,0 +1,32 @@
+{
+  "id": "fickle-demos-23-24-pt-1_e5d860e4e7a5",
+  "fingerprint": "e5d860e4e7a513adb256a6b7b1d1c03c5615ad8351204b605276dc0750fd6b50",
+  "archived_at": "2026-07-24T03:22:30Z",
+  "metadata": {
+    "title": "fickle (demos 23-24 pt. 1)",
+    "artist": "čuljak",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1054,
+    "duration_human": "00:17:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 čuljak - 3.wav",
+      "02 čuljak - cost of death",
+      "03 čuljak - listen (lord of lords)",
+      "04 čuljak - organ demo 23",
+      "05 čuljak - purest of guilt",
+      "06 čuljak - time"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fickle-demos-23-24-pt-1_e5d860e4e7a5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/34caacee88cf8b1505de/fickle_demos_23-24_pt._1.tar"
+    }
+  }
+}
