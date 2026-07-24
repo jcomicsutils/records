@@ -1,0 +1,33 @@
+{
+  "id": "o-proiskhozhdenii-mira_b2c31c67771b",
+  "fingerprint": "b2c31c67771b336c2c1631c38a29d832e29d6cb78fe338e6f412e3fbf3a82fd5",
+  "archived_at": "2026-07-24T07:14:01Z",
+  "metadata": {
+    "title": "О происхождении мира",
+    "artist": "Majdanek Waltz",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2357,
+    "duration_human": "00:39:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Majdanek Waltz - Инвокация",
+      "02 Majdanek Waltz - Rosa Alchemica",
+      "03 Majdanek Waltz - Свиток войны",
+      "04 Majdanek Waltz - Знак вотана",
+      "05 Majdanek Waltz - О происхождении мира",
+      "06 Majdanek Waltz - Солнечный ветер",
+      "07 Majdanek Waltz - Апокалипсис адама"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/o-proiskhozhdenii-mira_b2c31c67771b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/95db699662c34e75c432/%D0%9E_%D0%BF%D1%80%D0%BE%D0%B8%D1%81%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8_%D0%BC%D0%B8%D1%80%D0%B0.tar"
+    }
+  }
+}
