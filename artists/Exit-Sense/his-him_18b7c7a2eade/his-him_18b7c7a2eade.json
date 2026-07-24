@@ -1,0 +1,34 @@
+{
+  "id": "his-him_18b7c7a2eade",
+  "fingerprint": "18b7c7a2eade72f75a0b1239f7f77a458a08a2ec0e8885c0f1eb0615200c221c",
+  "archived_at": "2026-07-24T21:08:10Z",
+  "metadata": {
+    "title": "His Him",
+    "artist": "Exit Sense",
+    "year": "2014",
+    "codec": "MP3",
+    "num_tracks": 8,
+    "duration_seconds": 3932,
+    "duration_human": "01:05:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Exit Sense - From Chaos Garden",
+      "02 Exit Sense - Mist Turned Zoloft",
+      "03 Exit Sense - In Death I'll Let Dream",
+      "04 Exit Sense - Why Warfare Evanesces",
+      "05 Exit Sense - I Won't Fall Asleep, Their Tall Shadows",
+      "06 Exit Sense - What is Sleep I Have Fallen",
+      "07 Exit Sense - As if a Shard of Eyes",
+      "08 Exit Sense - Realm of Violent Visions"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/his-him_18b7c7a2eade"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/713ae019fea42c5c455b/His_Him.tar"
+    }
+  }
+}
