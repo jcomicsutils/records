@@ -1,0 +1,28 @@
+{
+  "id": "bloed_75995f0c3bd8",
+  "fingerprint": "75995f0c3bd84b65aa75b775bbaf882ea72784bed3818232521f35597c8e70e5",
+  "archived_at": "2026-07-24T02:24:29Z",
+  "metadata": {
+    "title": "bloed",
+    "artist": "čuljak",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 364,
+    "duration_human": "00:06:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 čuljak - bloed (a)",
+      "02 čuljak - bloed (b)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bloed_75995f0c3bd8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/4a8a52c4077ae7792564/bloed.tar"
+    }
+  }
+}
