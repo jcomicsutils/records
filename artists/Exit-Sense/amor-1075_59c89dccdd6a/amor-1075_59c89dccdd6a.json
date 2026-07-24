@@ -1,0 +1,33 @@
+{
+  "id": "amor-1075_59c89dccdd6a",
+  "fingerprint": "59c89dccdd6a63f7b96b421a8fd761068a1acfa066f1715e2d636bb4dee8c042",
+  "archived_at": "2026-07-24T21:59:28Z",
+  "metadata": {
+    "title": "Amor 107.5",
+    "artist": "Exit Sense",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2359,
+    "duration_human": "00:39:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Exit Sense - Daemons in the Sky",
+      "02 Exit Sense - 1,000,000 Ghosts",
+      "03 Exit Sense - Thrown in the Pit",
+      "04 Exit Sense - Night at the Hanging Gardens",
+      "05 Exit Sense - Toda esta paranoia y todavía no te veo",
+      "06 Exit Sense - Yo duermo poderosamente",
+      "07 Exit Sense - Weib, siehe, das ist dein Sohn",
+      "08 Exit Sense - Amor 107.5",
+      "09 Exit Sense - DAS ANDERE op. 49 in this abandoned CLUB...",
+      "10 Exit Sense - Turn On the Lights"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/amor-1075_59c89dccdd6a"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "watch-what-happens_bf93c9bff653",
+  "fingerprint": "bf93c9bff65368987e695f02b5d5a0af469313422567867df845a5d79fc81603",
+  "archived_at": "2026-07-24T22:00:13Z",
+  "metadata": {
+    "title": "Watch What Happens",
+    "artist": "Nathan Salsburg",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 338,
+    "duration_human": "00:05:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Joan Shelley, Nathan Salsburg, Matt Sweeney, Bonnie \"Prince\" Billy - Watch What Happens",
+      "02 Joan Shelley, Nathan Salsburg, Matt Sweeney, Bonnie \"Prince\" Billy - Stay On My Shore"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/watch-what-happens_bf93c9bff653"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/2f974d3e93190af49f15/Watch_What_Happens.tar"
+    }
+  }
+}
