@@ -1,0 +1,27 @@
+{
+  "id": "precious-metals_95df2e53aca8",
+  "fingerprint": "95df2e53aca8b0363e0dd65e030c741ee777a1a9fff958feac65788189083a06",
+  "archived_at": "2026-07-24T21:47:41Z",
+  "metadata": {
+    "title": "Precious Metals",
+    "artist": "Exit Sense",
+    "year": "2016",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1720,
+    "duration_human": "00:28:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Exit Sense - Precious Metals"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/precious-metals_95df2e53aca8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/6159016eea36828d8928/Precious_Metals.tar"
+    }
+  }
+}
