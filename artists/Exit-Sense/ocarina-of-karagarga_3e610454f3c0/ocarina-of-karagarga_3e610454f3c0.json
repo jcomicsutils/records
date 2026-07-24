@@ -1,0 +1,27 @@
+{
+  "id": "ocarina-of-karagarga_3e610454f3c0",
+  "fingerprint": "3e610454f3c0bcd0618a7ad169c8ec8551e1a0eb6ff414ffe0fb1bc0976f1446",
+  "archived_at": "2026-07-24T21:45:22Z",
+  "metadata": {
+    "title": "Ocarina of Karagarga",
+    "artist": "Exit Sense",
+    "year": "2017",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 3630,
+    "duration_human": "01:00:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Exit Sense - Ocarina of Karagarga"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ocarina-of-karagarga_3e610454f3c0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/c6eed9db0317242b0c60/Ocarina_of_Karagarga.tar"
+    }
+  }
+}
