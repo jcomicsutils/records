@@ -1,0 +1,33 @@
+{
+  "id": "abandon-the-body_2a65bf600bad",
+  "fingerprint": "2a65bf600bad4b3aa3981e8b8b9aeeb8b982b97e03a19c157ec67bcedc7eaa9a",
+  "archived_at": "2026-07-24T02:01:54Z",
+  "metadata": {
+    "title": "Abandon The Body",
+    "artist": "Beli Yo'il",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2367,
+    "duration_human": "00:39:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Beli Yo'il - A Monologue Spoken By Unfamiliar Limbs",
+      "02 Beli Yo'il - Abducted Lungs Filled With Bupivacaine",
+      "03 Beli Yo'il - Foreign Nerves In Common Flesh",
+      "04 Beli Yo'il - Reduplicative Paramnesia Does Not Explain The Words It Speaks",
+      "05 Beli Yo'il - Something Lesser Removed",
+      "06 Beli Yo'il - Gasping For Air Underneath The Flayed Static",
+      "07 Beli Yo'il - A Brief Moment Before I Climb The Stair"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/abandon-the-body_2a65bf600bad"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/f1fac178a0840a378bbd/Abandon_The_Body.tar"
+    }
+  }
+}
