@@ -1,0 +1,27 @@
+{
+  "id": "nede_1a983555c0e8",
+  "fingerprint": "1a983555c0e8682fb079be8b0ef71d5ce23beb2881fe1480287cbd2d9a85be93",
+  "archived_at": "2026-07-24T03:44:14Z",
+  "metadata": {
+    "title": "nede",
+    "artist": "čuljak",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 176,
+    "duration_human": "00:02:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 čuljak - nede"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nede_1a983555c0e8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/e7730478680c7032a068/nede.tar"
+    }
+  }
+}
