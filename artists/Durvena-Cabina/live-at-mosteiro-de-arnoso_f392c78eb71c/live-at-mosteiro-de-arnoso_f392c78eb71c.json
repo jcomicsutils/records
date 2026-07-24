@@ -1,0 +1,27 @@
+{
+  "id": "live-at-mosteiro-de-arnoso_f392c78eb71c",
+  "fingerprint": "f392c78eb71c53ddb0c4cb3e10f267c576785aabc66aec3b2ba37fb28f2e0e1a",
+  "archived_at": "2026-07-24T04:06:13Z",
+  "metadata": {
+    "title": "Live at Mosteiro de Arnoso",
+    "artist": "Durvena Cabina",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2129,
+    "duration_human": "00:35:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Durvena Cabina - `O´"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-at-mosteiro-de-arnoso_f392c78eb71c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/010a1665bbd14e22a92c/Live_at_Mosteiro_de_Arnoso.tar"
+    }
+  }
+}
