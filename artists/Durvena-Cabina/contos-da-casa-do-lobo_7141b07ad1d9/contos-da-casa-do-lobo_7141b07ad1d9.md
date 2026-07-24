@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/contos-da-casa-do-lobo_7141b07ad1d9)
+- [FileDitch](https://fileditchfiles.st/beta17/9332015930b883ae7ca5/Contos_da_Casa_do_Lobo.tar)
 
 ## Tracklist
 
