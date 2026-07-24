@@ -1,0 +1,30 @@
+{
+  "id": "landwerk_338e70fcf455",
+  "fingerprint": "338e70fcf455b8a8de155a9e4a3d031f58c44f27c067a2b8b670efdf7308b552",
+  "archived_at": "2026-07-24T21:21:12Z",
+  "metadata": {
+    "title": "Landwerk",
+    "artist": "Nathan Salsburg",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2159,
+    "duration_human": "00:35:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nathan Salsburg - Landwerk I",
+      "02 Nathan Salsburg - Landwerk II",
+      "03 Nathan Salsburg - Landwerk III",
+      "04 Nathan Salsburg - Landwerk IV"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/landwerk_338e70fcf455"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/5a247b41b90ce842e971/Landwerk.tar"
+    }
+  }
+}
