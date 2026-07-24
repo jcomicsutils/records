@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/hear-the-children-sing-the-evidence_7261cc5c7b32)
+- [FileDitch](https://fileditchfiles.st/beta17/76b1d22731e98eac490c/Hear_The_Children_Sing_The_Evidence.tar)
 
 ## Tracklist
 
