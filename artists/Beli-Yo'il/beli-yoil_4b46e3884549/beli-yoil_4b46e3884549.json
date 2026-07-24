@@ -1,0 +1,34 @@
+{
+  "id": "beli-yoil_4b46e3884549",
+  "fingerprint": "4b46e3884549f473c20a0db2d6a1455e9ef56ee468f1e2fb93f1de021bca32a0",
+  "archived_at": "2026-07-24T02:17:06Z",
+  "metadata": {
+    "title": "Beli Yo'il",
+    "artist": "Beli Yo'il",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2401,
+    "duration_human": "00:40:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Beli Yo'il - Sitting Crosslegged Pulling at the Fibers That Hold Me Together",
+      "02 Beli Yo'il - The Clearing in Which My Rape Was Called an Exorcism",
+      "03 Beli Yo'il - Self Purging with Wounded Fingers",
+      "04 Beli Yo'il - Tongues Turned Sour with Familiarity",
+      "05 Beli Yo'il - The Subtle Difference Between an Exorcism and a Porno",
+      "06 Beli Yo'il - Ashes in My Eyes as I Peel the Layers Back",
+      "07 Beli Yo'il - The God That Justifies Child Abuse as Religious Ceremony",
+      "08 Beli Yo'il - An Unnatural Obsession with Nailing My Own Hand to the Table"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/beli-yoil_4b46e3884549"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/cd5510a33ae06ef9a4d8/Beli_Yo_il.tar"
+    }
+  }
+}
