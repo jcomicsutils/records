@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/information-mystic_51f5fad44233)
+- [FileDitch](https://fileditchfiles.st/beta17/be471c75c50a05c11ade/Information_Mystic.tar)
 
 ## Tracklist
 
