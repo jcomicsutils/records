@@ -1,0 +1,29 @@
+{
+  "id": "zhuravli_9270b6ceb31b",
+  "fingerprint": "9270b6ceb31bdac3e9b7e3dc70b48dcb89c41798ec0dd700ba370937e53fdfeb",
+  "archived_at": "2026-07-24T06:51:41Z",
+  "metadata": {
+    "title": "Журавли",
+    "artist": "Majdanek Waltz",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 600,
+    "duration_human": "00:10:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Majdanek Waltz - Интро",
+      "02 Majdanek Waltz - Журавли",
+      "03 Majdanek Waltz - Аутро"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zhuravli_9270b6ceb31b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/22a3ca5899a769847aff/%D0%96%D1%83%D1%80%D0%B0%D0%B2%D0%BB%D0%B8.tar"
+    }
+  }
+}
