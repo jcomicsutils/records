@@ -1,0 +1,28 @@
+{
+  "id": "die-blinden-schutzen_d5afe99ebb3c",
+  "fingerprint": "d5afe99ebb3ce31325d2016d0386fd2cddcb495c34f7cbd4751f5341c5b33e15",
+  "archived_at": "2026-07-24T05:45:44Z",
+  "metadata": {
+    "title": "Die Blinden Schützen",
+    "artist": "Majdanek Waltz",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2436,
+    "duration_human": "00:40:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Majdanek Waltz - Der Schläfer",
+      "02 Majdanek Waltz - Die Blinden Schützen"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/die-blinden-schutzen_d5afe99ebb3c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/cd6f2da51ae21c1f8186/Die_Blinden_Sch_tzen.tar"
+    }
+  }
+}
