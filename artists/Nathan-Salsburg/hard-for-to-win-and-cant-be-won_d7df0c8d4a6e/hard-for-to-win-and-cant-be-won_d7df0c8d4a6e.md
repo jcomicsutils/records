@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/hard-for-to-win-and-cant-be-won_d7df0c8d4a6e)
+- [FileDitch](https://fileditchfiles.st/beta17/62fe512d4dd04fae2272/Hard_For_To_Win_And_Can_t_Be_Won.tar)
 
 ## Tracklist
 
