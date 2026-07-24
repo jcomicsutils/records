@@ -1,0 +1,31 @@
+{
+  "id": "tenebrae_c5a8aab75c0e",
+  "fingerprint": "c5a8aab75c0e157a9bb7bb5322c246f74d620d67a263125e824f46cb28f83e79",
+  "archived_at": "2026-07-24T06:30:32Z",
+  "metadata": {
+    "title": "Tenebrae",
+    "artist": "Majdanek Waltz",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2528,
+    "duration_human": "00:42:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Majdanek Waltz & Sal Solaris - Ливень",
+      "02 Majdanek Waltz & Sal Solaris - Поля",
+      "03 Majdanek Waltz & Sal Solaris - Око времени",
+      "04 Majdanek Waltz & Sal Solaris - Я слышал, что внезапно расцвел топор",
+      "05 Majdanek Waltz & Sal Solaris - Фуга смерти"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tenebrae_c5a8aab75c0e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/73caa4d48780dc013002/Tenebrae.tar"
+    }
+  }
+}
