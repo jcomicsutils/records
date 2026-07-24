@@ -1,0 +1,30 @@
+{
+  "id": "landwerk-demos_2f918ac5d73b",
+  "fingerprint": "2f918ac5d73be517481ee54d626a05863bd773112a08317b1a2c14262605deb8",
+  "archived_at": "2026-07-24T21:22:40Z",
+  "metadata": {
+    "title": "Landwerk demos",
+    "artist": "Nathan Salsburg",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 2150,
+    "duration_human": "00:35:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Nathan Salsburg - Landwerk 01",
+      "02 Nathan Salsburg - Landwerk 02",
+      "03 Nathan Salsburg - Landwerk 03",
+      "04 Nathan Salsburg - Landwerk 04"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/landwerk-demos_2f918ac5d73b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/8b23eaa012a44725faae/Landwerk_demos.tar"
+    }
+  }
+}

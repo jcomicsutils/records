@@ -1,0 +1,24 @@
+{
+  "id": "information-mystic_51f5fad44233",
+  "fingerprint": "51f5fad442330bb96e50c02a35f2005ad2e3b5000e9e2bdc7f40d82a61c87851",
+  "archived_at": "2026-07-24T21:22:43Z",
+  "metadata": {
+    "title": "Information Mystic",
+    "artist": "Exit Sense",
+    "year": "2014",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1450,
+    "duration_human": "00:24:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Exit Sense - Information Mystic"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/information-mystic_51f5fad44233"
+    }
+  }
+}
