@@ -1,0 +1,27 @@
+{
+  "id": "3t13-4never_9efb57d9a24e",
+  "fingerprint": "9efb57d9a24eb9dc605cfa335afdc9375073f99d475d24b25922947909d7b0d5",
+  "archived_at": "2026-07-24T02:22:39Z",
+  "metadata": {
+    "title": "3t13 4never",
+    "artist": "čuljak",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 133,
+    "duration_human": "00:02:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 DJ 3t13, čuljak - 3t13 4never"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/3t13-4never_9efb57d9a24e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/f24e24e64b24d494b299/3t13_4never.tar"
+    }
+  }
+}
