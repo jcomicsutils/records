@@ -1,0 +1,38 @@
+{
+  "id": "sonido-cosmico_32f2704ef124",
+  "fingerprint": "32f2704ef1243b1abfcc36fd702a28af3b75f1dde47dd5274b48e71929a507df",
+  "archived_at": "2026-07-24T20:44:13Z",
+  "metadata": {
+    "title": "Sonido cósmico",
+    "artist": "Hermanos Gutiérrez",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2410,
+    "duration_human": "00:40:10",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Hermanos Gutiérrez - Lágrimas negras",
+      "02 Hermanos Gutiérrez - Low Sun",
+      "03 Hermanos Gutiérrez - Cumbia lunar",
+      "04 Hermanos Gutiérrez - Abuelita",
+      "05 Hermanos Gutiérrez - El fantasma",
+      "06 Hermanos Gutiérrez - It’s All in Your Mind",
+      "07 Hermanos Gutiérrez - Sonido cósmico",
+      "08 Hermanos Gutiérrez - Barrio Hustle",
+      "09 Hermanos Gutiérrez - Until We Meet Again",
+      "10 Hermanos Gutiérrez - Los navegantes",
+      "11 Hermanos Gutiérrez - Luz y sombra",
+      "12 Hermanos Gutiérrez - Misterio verde"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sonido-cosmico_32f2704ef124"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/3b923d3026303d696c3a/Sonido_c_smico.tar"
+    }
+  }
+}
