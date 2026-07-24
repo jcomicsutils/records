@@ -1,0 +1,27 @@
+{
+  "id": "berlin_efb978b18527",
+  "fingerprint": "efb978b18527649c252acab14cdcbbf7850466ecf70971d8da2797490604c65d",
+  "archived_at": "2026-07-24T05:28:20Z",
+  "metadata": {
+    "title": "Berlin",
+    "artist": "Majdanek Waltz",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 285,
+    "duration_human": "00:04:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Majdanek Waltz - Berlin"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/berlin_efb978b18527"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/5d67de632f8a7c9a1792/Berlin.tar"
+    }
+  }
+}
