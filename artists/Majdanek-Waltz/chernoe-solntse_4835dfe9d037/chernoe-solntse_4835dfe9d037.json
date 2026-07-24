@@ -1,0 +1,35 @@
+{
+  "id": "chernoe-solntse_4835dfe9d037",
+  "fingerprint": "4835dfe9d0375917ddf58928fde1c1d5d3ebcc2c9829cc153f57c20831784270",
+  "archived_at": "2026-07-24T07:42:37Z",
+  "metadata": {
+    "title": "Чёрное солнце",
+    "artist": "Majdanek Waltz",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1930,
+    "duration_human": "00:32:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Majdanek Waltz - Мир как свет",
+      "02 Majdanek Waltz - Пламя возмездия",
+      "03 Majdanek Waltz - Очищение, ч. i",
+      "04 Majdanek Waltz - Тень",
+      "05 Majdanek Waltz - Очищение, ч. ii",
+      "06 Majdanek Waltz - Млечный путь",
+      "07 Majdanek Waltz - Моя свастика",
+      "08 Majdanek Waltz - Очищение, ч. iii",
+      "09 Majdanek Waltz - Новая песня"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chernoe-solntse_4835dfe9d037"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/9d5058595060b4df33e4/%D0%A7%D1%91%D1%80%D0%BD%D0%BE%D0%B5_%D1%81%D0%BE%D0%BB%D0%BD%D1%86%D0%B5.tar"
+    }
+  }
+}
