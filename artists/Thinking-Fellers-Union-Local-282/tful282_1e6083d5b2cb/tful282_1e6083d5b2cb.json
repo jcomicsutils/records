@@ -1,0 +1,50 @@
+{
+  "id": "tful282_1e6083d5b2cb",
+  "fingerprint": "1e6083d5b2cba3126bd58aec34b381d654ec78a44aaa6c9517950146f542cd83",
+  "archived_at": "2026-07-24T03:57:07Z",
+  "metadata": {
+    "title": "TFUL282",
+    "artist": "Thinking Fellers Union Local 282",
+    "year": "1995",
+    "codec": "FLAC",
+    "num_tracks": 24,
+    "duration_seconds": 4370,
+    "duration_human": "01:12:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Thinking Fellers Union Local 282 - The Streets Vibrated With Traffic and Power Tools",
+      "02 Thinking Fellers Union Local 282 - Sports Car",
+      "03 Thinking Fellers Union Local 282 - Waited Too Long",
+      "04 Thinking Fellers Union Local 282 - Narlus Spectre",
+      "05 Thinking Fellers Union Local 282 - Motorin' Flarey Henderson",
+      "06 Thinking Fellers Union Local 282 - Scraping the Skin Off My Shoulder",
+      "07 Thinking Fellers Union Local 282 - Nothing Solid",
+      "08 Thinking Fellers Union Local 282 - The Operation",
+      "09 Thinking Fellers Union Local 282 - Trevor",
+      "10 Thinking Fellers Union Local 282 - Push",
+      "11 Thinking Fellers Union Local 282 - A Gentleman's Lament",
+      "12 Thinking Fellers Union Local 282 - Undertaker",
+      "13 Thinking Fellers Union Local 282 - Mark My Words",
+      "14 Thinking Fellers Union Local 282 - It Wasn't Me",
+      "15 Thinking Fellers Union Local 282 - Hornet's Heart",
+      "16 Thinking Fellers Union Local 282 - Tell Me",
+      "17 Thinking Fellers Union Local 282 - It's Seven",
+      "18 Thinking Fellers Union Local 282 - Hive",
+      "19 Thinking Fellers Union Local 282 - Cistern",
+      "20 Thinking Fellers Union Local 282 - Heaven for Addled Imbeciles",
+      "21 Thinking Fellers Union Local 282 - Burning Up",
+      "22 Thinking Fellers Union Local 282 - Cup of Dreams",
+      "23 Thinking Fellers Union Local 282 - Indigestion",
+      "24 Thinking Fellers Union Local 282 - The Demise of Craig"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tful282_1e6083d5b2cb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/1e03ce258d7b5d030395/TFUL282.tar"
+    }
+  }
+}
