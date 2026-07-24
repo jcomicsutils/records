@@ -1,0 +1,43 @@
+{
+  "id": "i-hope-it-lands_c5418119f458",
+  "fingerprint": "c5418119f458b3451f7f89d87223cc05ed66c8e2b3fe49809ec0c230eca1ce75",
+  "archived_at": "2026-07-24T02:38:59Z",
+  "metadata": {
+    "title": "I Hope It Lands",
+    "artist": "Thinking Fellers Union Local 282",
+    "year": "1996",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_seconds": 2418,
+    "duration_human": "00:40:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Thinking Fellers Union Local 282 - The Poem",
+      "02 Thinking Fellers Union Local 282 - A Lamb's Lullaby",
+      "03 Thinking Fellers Union Local 282 - Empty Cup",
+      "04 Thinking Fellers Union Local 282 - I Hope It Lands",
+      "05 Thinking Fellers Union Local 282 - Lizard's Dream",
+      "06 Thinking Fellers Union Local 282 - Cornad Adrift Toward Mars",
+      "07 Thinking Fellers Union Local 282 - Elgin Miller",
+      "08 Thinking Fellers Union Local 282 - Hudson Bottom Dance",
+      "09 Thinking Fellers Union Local 282 - Jagged Ambush Bug",
+      "10 Thinking Fellers Union Local 282 - Brains",
+      "11 Thinking Fellers Union Local 282 - Rampaging Fuckers of Anything on the Crazy Shitting Planet of the Vomit Atmosphere",
+      "12 Thinking Fellers Union Local 282 - Cuckoo at the World",
+      "13 Thinking Fellers Union Local 282 - Inspector Fat Ass",
+      "14 Thinking Fellers Union Local 282 - The Arbeiter",
+      "15 Thinking Fellers Union Local 282 - Triple X",
+      "16 Thinking Fellers Union Local 282 - Booth Delirium",
+      "17 Thinking Fellers Union Local 282 - Hills"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-hope-it-lands_c5418119f458"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/34e186fc8ea848f10259/I_Hope_It_Lands.tar"
+    }
+  }
+}
