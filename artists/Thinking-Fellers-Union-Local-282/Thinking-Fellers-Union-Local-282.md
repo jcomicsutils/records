@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Wormed by Leonard](wormed-by-leonard_a2d35164e7d6/wormed-by-leonard_a2d35164e7d6.md) | 1988 | FLAC | 01:12:27 | [IA](https://archive.org/details/wormed-by-leonard_a2d35164e7d6) [FileDitch](https://fileditchfiles.st/beta17/6522a18179035756df64/Wormed_by_Leonard.tar) |
 | [Tangle](tangle_ce6b9eb65ba5/tangle_ce6b9eb65ba5.md) | 1989 | FLAC | 00:46:08 | [IA](https://archive.org/details/tangle_ce6b9eb65ba5) [FileDitch](https://fileditchfiles.st/beta17/5b15ddd4f7102c03fe6e/Tangle.tar) |
 | [The Natural Finger](the-natural-finger_102c7e087580/the-natural-finger_102c7e087580.md) | 1990 | FLAC | 00:13:11 | [IA](https://archive.org/details/the-natural-finger_102c7e087580) [FileDitch](https://fileditchfiles.st/beta17/e334d4c864c4f93bd58d/The_Natural_Finger.tar) |
 | [Lovelyville](lovelyville_b25fbd673baa/lovelyville_b25fbd673baa.md) | 1991 | FLAC | 00:57:27 | [IA](https://archive.org/details/lovelyville_b25fbd673baa) [FileDitch](https://fileditchfiles.st/beta17/49048c66c83763f6e55c/Lovelyville.tar) |
