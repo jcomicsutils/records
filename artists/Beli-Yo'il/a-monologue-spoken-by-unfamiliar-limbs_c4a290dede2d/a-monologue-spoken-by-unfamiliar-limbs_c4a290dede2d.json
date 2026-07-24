@@ -1,0 +1,27 @@
+{
+  "id": "a-monologue-spoken-by-unfamiliar-limbs_c4a290dede2d",
+  "fingerprint": "c4a290dede2db6623310ff649dd83524bdbf9643873e92fc38b3f07b9563e70b",
+  "archived_at": "2026-07-24T01:57:15Z",
+  "metadata": {
+    "title": "A Monologue Spoken By Unfamiliar Limbs",
+    "artist": "Beli Yo'il",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 512,
+    "duration_human": "00:08:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Beli Yo'il - A Monologue Spoken By Unfamiliar Limbs"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-monologue-spoken-by-unfamiliar-limbs_c4a290dede2d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/a91fd5c77b388fbf98a9/A_Monologue_Spoken_By_Unfamiliar_Limbs.tar"
+    }
+  }
+}
