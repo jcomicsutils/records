@@ -1,0 +1,42 @@
+{
+  "id": "cul-ur-self-iii_631158dc9490",
+  "fingerprint": "631158dc94909b6a56f543e671d0faae50f6204ab7d75d97864c9f60835ac886",
+  "archived_at": "2026-07-24T03:14:31Z",
+  "metadata": {
+    "title": "čul ur self (iii)",
+    "artist": "čuljak",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_seconds": 3808,
+    "duration_human": "01:03:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 čuljak - trilogy (intro)",
+      "02 čuljak - salvador",
+      "03 čuljak - no war for the prey",
+      "04 čuljak - i was looking at the light",
+      "05 čuljak - i do not believe",
+      "06 čuljak - my heart",
+      "07 čuljak - laurie (death beyond love)",
+      "08 čuljak - 40 days cover",
+      "09 čuljak - loser or hero",
+      "10 čuljak - my pleasure",
+      "11 čuljak - nothing but thou",
+      "12 čuljak - pleh em part 2",
+      "13 čuljak - roman pillar",
+      "14 čuljak - i taught myself the word death twelve times",
+      "15 čuljak - valedictorian",
+      "16 čuljak - they are not me (outro)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cul-ur-self-iii_631158dc9490"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/cf353fe72262514ef6c8/ul_ur_self_iii.tar"
+    }
+  }
+}
