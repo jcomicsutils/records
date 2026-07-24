@@ -1,0 +1,29 @@
+{
+  "id": "three-feral-pieces_83e201507739",
+  "fingerprint": "83e201507739b6e5f46c37ed3a70a17d3f63cf25fe809863fe81a098bb384ea8",
+  "archived_at": "2026-07-24T21:58:30Z",
+  "metadata": {
+    "title": "Three Feral Pieces",
+    "artist": "Nathan Salsburg",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 547,
+    "duration_human": "00:09:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nathan Salsburg, Bonnie \"Prince\" Billy - Orbit Song",
+      "02 Nathan Salsburg, Bonnie \"Prince\" Billy - Unlearning Chant",
+      "03 Nathan Salsburg, Bonnie \"Prince\" Billy - Here Song"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/three-feral-pieces_83e201507739"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/ae35c5639c3c0e914ac9/Three_Feral_Pieces.tar"
+    }
+  }
+}
