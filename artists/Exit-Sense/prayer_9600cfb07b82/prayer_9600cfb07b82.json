@@ -1,0 +1,27 @@
+{
+  "id": "prayer_9600cfb07b82",
+  "fingerprint": "9600cfb07b826551869f7bc2fa835b30de6fd6b90783630884e25b2c8d584bcb",
+  "archived_at": "2026-07-24T21:46:19Z",
+  "metadata": {
+    "title": "Prayer",
+    "artist": "Exit Sense",
+    "year": "2015",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1578,
+    "duration_human": "00:26:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Exit Sense - Prayer"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/prayer_9600cfb07b82"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/040fe05fe01688de04f7/Prayer.tar"
+    }
+  }
+}
