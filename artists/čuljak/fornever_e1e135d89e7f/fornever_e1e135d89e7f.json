@@ -1,0 +1,29 @@
+{
+  "id": "fornever_e1e135d89e7f",
+  "fingerprint": "e1e135d89e7fd0c03b7a884f3e550ee32d03764d18ff94b6e1b01887f1de352e",
+  "archived_at": "2026-07-24T03:23:56Z",
+  "metadata": {
+    "title": "fornever",
+    "artist": "čuljak",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 491,
+    "duration_human": "00:08:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 čuljak - fornever intro",
+      "02 čuljak - never forever help help help",
+      "03 čuljak - new meaning to the word death"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fornever_e1e135d89e7f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/9eb1dbe990c9003943d6/fornever.tar"
+    }
+  }
+}
