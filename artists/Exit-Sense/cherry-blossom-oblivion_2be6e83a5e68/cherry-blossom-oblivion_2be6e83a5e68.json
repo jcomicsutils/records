@@ -24,6 +24,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/cherry-blossom-oblivion_2be6e83a5e68"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/79498e5e493a55021dfd/Cherry_Blossom_Oblivion.tar"
     }
   }
 }

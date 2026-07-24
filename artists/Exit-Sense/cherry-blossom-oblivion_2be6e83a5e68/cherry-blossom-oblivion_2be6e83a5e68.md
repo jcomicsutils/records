@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/cherry-blossom-oblivion_2be6e83a5e68)
+- [FileDitch](https://fileditchfiles.st/beta17/79498e5e493a55021dfd/Cherry_Blossom_Oblivion.tar)
 
 ## Tracklist
 
