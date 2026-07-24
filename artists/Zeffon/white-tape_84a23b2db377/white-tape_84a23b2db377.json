@@ -1,0 +1,33 @@
+{
+  "id": "white-tape_84a23b2db377",
+  "fingerprint": "84a23b2db377fcee51c5fae60b77bbb0297bcdfd8318eaf721c27a33e3b9c40d",
+  "archived_at": "2026-07-23T23:59:57Z",
+  "metadata": {
+    "title": "White Tape",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 4800,
+    "duration_human": "01:20:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Space Patrol, Part 3",
+      "02 Zeffon - No Harm",
+      "03 Zeffon - Why Do You Start Fires?",
+      "04 Zeffon - Dr. X and His Radioactive Computer",
+      "05 Zeffon - Sinclaire",
+      "06 Zeffon - Gerstaadhion",
+      "07 Zeffon - Ice Spear (ヴィルード火山)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/white-tape_84a23b2db377"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/9a26e6a5552d2e245b6d/White_Tape.tar"
+    }
+  }
+}
