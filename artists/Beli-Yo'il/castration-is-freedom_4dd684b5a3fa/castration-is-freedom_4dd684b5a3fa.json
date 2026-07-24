@@ -1,0 +1,27 @@
+{
+  "id": "castration-is-freedom_4dd684b5a3fa",
+  "fingerprint": "4dd684b5a3fad4f68669c30dffb8489ea1bf5bb533b41fcf6a53acd3a641c85c",
+  "archived_at": "2026-07-24T02:18:19Z",
+  "metadata": {
+    "title": "Castration Is Freedom",
+    "artist": "Beli Yo'il",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 326,
+    "duration_human": "00:05:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Beli Yo'il - Castration Is Freedom"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/castration-is-freedom_4dd684b5a3fa"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/76c9204e1962d7bd16d0/Castration_Is_Freedom.tar"
+    }
+  }
+}
