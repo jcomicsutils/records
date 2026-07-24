@@ -1,0 +1,32 @@
+{
+  "id": "virgin-mary_a0f4ac182a6c",
+  "fingerprint": "a0f4ac182a6cbb4fd2628839d7e0f9c77041c2664ec64be0ad44844c2a6d6d11",
+  "archived_at": "2026-07-24T03:54:55Z",
+  "metadata": {
+    "title": "virgin mary",
+    "artist": "čuljak",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1084,
+    "duration_human": "00:18:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 čuljak - i am crying real tears (tnulb naed)",
+      "02 čuljak - i am a broken man",
+      "03 čuljak - perfect hanging (smaerd muipo)",
+      "04 čuljak - reast easy čuljak (enorthkrad)",
+      "05 čuljak - auditory hallucination",
+      "06 čuljak - the horror house of my decaying mental state"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/virgin-mary_a0f4ac182a6c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/56ad7058a68030030a76/virgin_mary.tar"
+    }
+  }
+}
