@@ -1,0 +1,29 @@
+{
+  "id": "break-the-cycle-and-find-the-end_c20e7e932949",
+  "fingerprint": "c20e7e932949c3f166e7a7009726a8e9b2b0045cb8c4a00adde1db86fc445fba",
+  "archived_at": "2026-07-24T02:31:16Z",
+  "metadata": {
+    "title": "break the cycle and find the end",
+    "artist": "čuljak",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 682,
+    "duration_human": "00:11:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 čuljak - i was born with flesh to tear",
+      "02 čuljak - hidden beneath me is my shadow/god isn't dead they are alive called čuljak",
+      "03 čuljak - if i was to see the light i have not lived right"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/break-the-cycle-and-find-the-end_c20e7e932949"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/f734577d0828631ff4cf/break_the_cycle_and_find_the_end.tar"
+    }
+  }
+}
