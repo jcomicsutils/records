@@ -69,6 +69,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/zeffen-imaaoprha-der-to-der-sulka-mentstroaai-maarr-lowlands_7bc6a465fd0e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/8593f8e2b937e7f39d2a/Zeffen_Im_prha_der_to_der_Sulka_-_Mentstro_i_Maarr_Lowlands.tar"
     }
   }
 }
