@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [break the cycle and find the end](break-the-cycle-and-find-the-end_c20e7e932949/break-the-cycle-and-find-the-end_c20e7e932949.md) | 2023 | FLAC | 00:11:22 | [IA](https://archive.org/details/break-the-cycle-and-find-the-end_c20e7e932949) [FileDitch](https://fileditchfiles.st/beta17/f734577d0828631ff4cf/break_the_cycle_and_find_the_end.tar) |
+| [death of the virgin](death-of-the-virgin_9f74316a62e5/death-of-the-virgin_9f74316a62e5.md) | 2023 | FLAC | 00:03:31 | [IA](https://archive.org/details/death-of-the-virgin_9f74316a62e5) [FileDitch](https://fileditchfiles.st/beta17/e9f0ec603d5ea5613432/death_of_the_virgin.tar) |
 | [čul ur self](cul-ur-self_cddcf01a9b45/cul-ur-self_cddcf01a9b45.md) | 2023 | FLAC | 01:04:08 | [IA](https://archive.org/details/cul-ur-self_cddcf01a9b45) [FileDitch](https://fileditchfiles.st/beta17/9b9b4de618eb9135e4c3/ul_ur_self.tar) |
 | [čulme](culme_0a09cf0c8383/culme_0a09cf0c8383.md) | 2023 | FLAC | 00:02:43 | [IA](https://archive.org/details/culme_0a09cf0c8383) [FileDitch](https://fileditchfiles.st/beta17/20bcb58ab8c3661a00fe/ulme.tar) |
 | [čul ur self \(ii\)](cul-ur-self-ii_ae3f9841b943/cul-ur-self-ii_ae3f9841b943.md) | 2024 | FLAC | 01:06:57 | [IA](https://archive.org/details/cul-ur-self-ii_ae3f9841b943) [FileDitch](https://fileditchfiles.st/beta17/230a653a5e7aef39bb9e/ul_ur_self_ii.tar) |

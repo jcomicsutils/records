@@ -1,0 +1,27 @@
+{
+  "id": "death-of-the-virgin_9f74316a62e5",
+  "fingerprint": "9f74316a62e5cec2d5eb1580c0353e6b77d27a26537455aa0cccac75b8e9e0ef",
+  "archived_at": "2026-07-24T03:16:34Z",
+  "metadata": {
+    "title": "death of the virgin",
+    "artist": "čuljak",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 211,
+    "duration_human": "00:03:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 čuljak - death of the virgin"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/death-of-the-virgin_9f74316a62e5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/e9f0ec603d5ea5613432/death_of_the_virgin.tar"
+    }
+  }
+}
