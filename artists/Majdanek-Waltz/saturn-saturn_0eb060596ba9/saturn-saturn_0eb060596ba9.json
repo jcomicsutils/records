@@ -1,0 +1,30 @@
+{
+  "id": "saturn-saturn_0eb060596ba9",
+  "fingerprint": "0eb060596ba987634323b80b6c4acb65bb6feee5e61598972a2d67ddc79af57b",
+  "archived_at": "2026-07-24T05:18:02Z",
+  "metadata": {
+    "title": "♄ (Сатурн)",
+    "artist": "Majdanek Waltz",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1156,
+    "duration_human": "00:19:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Кроль & Majdanek Waltz - Сатурн [Saturn]",
+      "02 Кроль & Majdanek Waltz - Нож входит мне в грудь [The Knife Goes into my Chest]",
+      "03 Кроль & Majdanek Waltz - Ты узнаешь, как сладко гореть [You Will Learn How Sweet It is to Burn]",
+      "04 Кроль & Majdanek Waltz - Холм [Hill]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/saturn-saturn_0eb060596ba9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/a59df820216707f9f0ec/%E2%99%84_%28%D0%A1%D0%B0%D1%82%D1%83%D1%80%D0%BD%29.tar"
+    }
+  }
+}

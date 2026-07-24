@@ -125,6 +125,7 @@
 - [MON/KU](MONKU/MONKU.md)
 - [Mademoiselle Marchand](Mademoiselle-Marchand/Mademoiselle-Marchand.md)
 - [Mailcop](Mailcop/Mailcop.md)
+- [Majdanek Waltz](Majdanek-Waltz/Majdanek-Waltz.md)
 - [Makers](Makers/Makers.md)
 - [Mapeto](Mapeto/Mapeto.md)
 - [Mare immobile](Mare-immobile/Mare-immobile.md)
