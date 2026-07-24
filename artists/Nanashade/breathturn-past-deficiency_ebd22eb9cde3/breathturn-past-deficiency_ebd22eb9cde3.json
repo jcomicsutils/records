@@ -1,0 +1,27 @@
+{
+  "id": "breathturn-past-deficiency_ebd22eb9cde3",
+  "fingerprint": "ebd22eb9cde380c4a4a2ff3cefb628c6f5929ab9a77663583c40876774e3d05e",
+  "archived_at": "2026-07-24T03:57:02Z",
+  "metadata": {
+    "title": "Breathturn Past Deficiency",
+    "artist": "Nanashade",
+    "year": "2024",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 660,
+    "duration_human": "00:11:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Nanashade - Breathturn Past Deficiency"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/breathturn-past-deficiency_ebd22eb9cde3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/386b8be47f640d446c8f/Breathturn_Past_Deficiency.tar"
+    }
+  }
+}
