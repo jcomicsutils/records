@@ -1,0 +1,30 @@
+{
+  "id": "dieculjak_fb0c7a91d749",
+  "fingerprint": "fb0c7a91d749515dba1813642264957cb6d7b095fb2574c53c53a6f83d08516d",
+  "archived_at": "2026-07-24T03:19:23Z",
+  "metadata": {
+    "title": "diečuljak",
+    "artist": "čuljak",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 498,
+    "duration_human": "00:08:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 čuljak - i bleed for myself",
+      "02 čuljak - paint",
+      "03 čuljak - pleh em",
+      "04 čuljak - no hope"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dieculjak_fb0c7a91d749"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/069c1301e64af57ad36d/die_uljak.tar"
+    }
+  }
+}
