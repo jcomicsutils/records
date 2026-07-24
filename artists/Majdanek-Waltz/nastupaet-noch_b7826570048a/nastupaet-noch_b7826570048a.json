@@ -1,0 +1,29 @@
+{
+  "id": "nastupaet-noch_b7826570048a",
+  "fingerprint": "b7826570048abdd111368683fb6d5e70f0494fffd95bdbfada2d83ea3c12e476",
+  "archived_at": "2026-07-24T07:06:49Z",
+  "metadata": {
+    "title": "Наступает Ночь",
+    "artist": "Majdanek Waltz",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1082,
+    "duration_human": "00:18:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Кроль & Majdanek Waltz - Весна",
+      "02 Кроль & Majdanek Waltz - Звери лязгают зубами",
+      "03 Кроль & Majdanek Waltz - Наступает Ночь (feat. Kryptogen Rundfunk / Мираж cover)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nastupaet-noch_b7826570048a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/3f608ef241ae0efb9c3b/%D0%9D%D0%B0%D1%81%D1%82%D1%83%D0%BF%D0%B0%D0%B5%D1%82_%D0%9D%D0%BE%D1%87%D1%8C.tar"
+    }
+  }
+}
