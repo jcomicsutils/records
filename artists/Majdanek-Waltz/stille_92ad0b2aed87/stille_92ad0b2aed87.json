@@ -1,0 +1,37 @@
+{
+  "id": "stille_92ad0b2aed87",
+  "fingerprint": "92ad0b2aed87b767164c4063db884d5245106e4a0750bb9e5a890b759a3aa867",
+  "archived_at": "2026-07-24T06:23:46Z",
+  "metadata": {
+    "title": "Stille!",
+    "artist": "Majdanek Waltz",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2295,
+    "duration_human": "00:38:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Majdanek Waltz - Vereinsamt",
+      "02 Majdanek Waltz - Возмездие",
+      "03 Majdanek Waltz - Ночь светла",
+      "04 Majdanek Waltz - Окно-роза",
+      "05 Majdanek Waltz - Колодец",
+      "06 Majdanek Waltz - Колыбельная",
+      "07 Majdanek Waltz - Tenebrae I",
+      "08 Majdanek Waltz - Кристалл",
+      "09 Majdanek Waltz - Tenebrae II",
+      "10 Majdanek Waltz - Cветила (stille!)",
+      "11 Majdanek Waltz - Stille!"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stille_92ad0b2aed87"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/15cbeadfc6d2febd6457/Stille.tar"
+    }
+  }
+}
