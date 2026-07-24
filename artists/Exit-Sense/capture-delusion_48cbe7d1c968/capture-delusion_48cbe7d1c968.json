@@ -1,0 +1,27 @@
+{
+  "id": "capture-delusion_48cbe7d1c968",
+  "fingerprint": "48cbe7d1c96870cc6c06468d87ad68dfe326a13fe5164e96cce2dd6e69784cea",
+  "archived_at": "2026-07-24T20:51:59Z",
+  "metadata": {
+    "title": "Capture Delusion",
+    "artist": "Exit Sense",
+    "year": "2015",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 2389,
+    "duration_human": "00:39:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Exit Sense - Capture Delusion"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/capture-delusion_48cbe7d1c968"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/518ee59cfc1f0ef38448/Capture_Delusion.tar"
+    }
+  }
+}
