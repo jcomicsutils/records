@@ -1,0 +1,31 @@
+{
+  "id": "schizophrenic-providence_b638c223f237",
+  "fingerprint": "b638c223f23762140a869c2544d163430fda9d8cd765b6f28a8ec68b68c0843b",
+  "archived_at": "2026-07-24T21:48:36Z",
+  "metadata": {
+    "title": "Schizophrenic Providence",
+    "artist": "Exit Sense",
+    "year": "2015",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 1345,
+    "duration_human": "00:22:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Exit Sense - Shimmering Nightmare of Winter Hologram",
+      "02 Exit Sense - Religiosity and Urgency of Life",
+      "03 Exit Sense - You Only You Your Arcane Wisdom",
+      "04 Exit Sense - Integration of Everything",
+      "05 Exit Sense - Lightsaber Crystals Illuminating Darkness"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/schizophrenic-providence_b638c223f237"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/19b3e1c5e311aa6a3f05/Schizophrenic_Providence.tar"
+    }
+  }
+}
