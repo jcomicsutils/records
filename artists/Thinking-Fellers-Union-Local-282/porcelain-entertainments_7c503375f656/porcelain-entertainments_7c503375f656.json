@@ -1,0 +1,41 @@
+{
+  "id": "porcelain-entertainments_7c503375f656",
+  "fingerprint": "7c503375f656480e584092ca7bf0cdc6242db9b56e2e5f170e5f22cf62638ff8",
+  "archived_at": "2026-07-24T03:23:10Z",
+  "metadata": {
+    "title": "Porcelain Entertainments",
+    "artist": "Thinking Fellers Union Local 282",
+    "year": "1995",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 3013,
+    "duration_human": "00:50:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Thinking Fellers Union Local 282 - The Piston and the Shaft (Live)",
+      "02 Thinking Fellers Union Local 282 - Undertaker (Live)",
+      "03 Thinking Fellers Union Local 282 - Green Eyed Lady (Live)",
+      "04 Thinking Fellers Union Local 282 - Egg Danger (Live)",
+      "05 Thinking Fellers Union Local 282 - Quacky (Live)",
+      "06 Thinking Fellers Union Local 282 - Selections From \"A Fistful of Dollars\": Overture / Almost Dead / The Chase / For a Fistful of Dollars (Live)",
+      "07 Thinking Fellers Union Local 282 - Paul Borge",
+      "08 Thinking Fellers Union Local 282 - Chickens' Escape Plan",
+      "09 Thinking Fellers Union Local 282 - Chicken Keeper",
+      "10 Thinking Fellers Union Local 282 - 52 Girlfriends",
+      "11 Thinking Fellers Union Local 282 - White Box",
+      "12 Thinking Fellers Union Local 282 - Tunnel Tube",
+      "13 Thinking Fellers Union Local 282 - Release",
+      "14 Thinking Fellers Union Local 282 - The Soilie Smutchy",
+      "15 Thinking Fellers Union Local 282 - Mission's Eve"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/porcelain-entertainments_7c503375f656"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/81e7fe098044d4405145/Porcelain_Entertainments.tar"
+    }
+  }
+}
