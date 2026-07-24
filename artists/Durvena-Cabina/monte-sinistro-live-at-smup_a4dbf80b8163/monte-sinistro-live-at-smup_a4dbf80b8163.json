@@ -1,0 +1,29 @@
+{
+  "id": "monte-sinistro-live-at-smup_a4dbf80b8163",
+  "fingerprint": "a4dbf80b8163bee5c1d1a022e49cf0d357fe093ee44198c11413c017adb8a064",
+  "archived_at": "2026-07-24T04:14:23Z",
+  "metadata": {
+    "title": "Monte Sinistro - Live at SMUP",
+    "artist": "Durvena Cabina",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1948,
+    "duration_human": "00:32:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Durvena Cabina - Vilarinho",
+      "02 Durvena Cabina - Saraghina",
+      "03 Durvena Cabina - Istrela no Monte"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/monte-sinistro-live-at-smup_a4dbf80b8163"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/957d483e9468e3353970/Monte_Sinistro_-_Live_at_SMUP.tar"
+    }
+  }
+}
