@@ -1,0 +1,31 @@
+{
+  "id": "the-chariot_9321a8b68644",
+  "fingerprint": "9321a8b6864446c0e92cfa9e1316c8a30aa7bc532a191f27f6dda7d806290f1a",
+  "archived_at": "2026-07-24T06:32:26Z",
+  "metadata": {
+    "title": "The Chariot",
+    "artist": "Majdanek Waltz",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 954,
+    "duration_human": "00:15:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Majdanek Waltz, Consumed Triumphant - Invisible Fire",
+      "02 Majdanek Waltz, Consumed Triumphant - The Chariot",
+      "03 Majdanek Waltz, Consumed Triumphant - Dragons in the White Air",
+      "04 Majdanek Waltz, Consumed Triumphant - In a Dead House",
+      "05 Majdanek Waltz, Consumed Triumphant - In the Heights"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-chariot_9321a8b68644"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/1bd36509739f288ca7bb/The_Chariot.tar"
+    }
+  }
+}
