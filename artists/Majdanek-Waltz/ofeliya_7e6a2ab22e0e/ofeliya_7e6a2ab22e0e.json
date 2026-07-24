@@ -1,0 +1,31 @@
+{
+  "id": "ofeliya_7e6a2ab22e0e",
+  "fingerprint": "7e6a2ab22e0ea55924e55f395f6bebc0a357be1455dd65a016639eff00c082e2",
+  "archived_at": "2026-07-24T07:20:21Z",
+  "metadata": {
+    "title": "Офелия",
+    "artist": "Majdanek Waltz",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1550,
+    "duration_human": "00:25:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Majdanek Waltz - Смерть любящих i",
+      "02 Majdanek Waltz - Дома глаза раскрыли",
+      "03 Majdanek Waltz - Офелия",
+      "04 Majdanek Waltz - Плавучими кораблями...",
+      "05 Majdanek Waltz - Смерть любящих ii"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ofeliya_7e6a2ab22e0e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/7e69ad01e50bcec281da/%D0%9E%D1%84%D0%B5%D0%BB%D0%B8%D1%8F.tar"
+    }
+  }
+}
