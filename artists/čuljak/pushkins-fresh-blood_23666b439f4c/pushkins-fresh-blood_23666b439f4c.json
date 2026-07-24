@@ -1,0 +1,30 @@
+{
+  "id": "pushkins-fresh-blood_23666b439f4c",
+  "fingerprint": "23666b439f4c49ebd156f65c05582a3ed58825feee35aa091c90a04573597d1b",
+  "archived_at": "2026-07-24T03:46:25Z",
+  "metadata": {
+    "title": "pushkin's fresh blood",
+    "artist": "čuljak",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 875,
+    "duration_human": "00:14:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 čuljak - forty five (introduction)",
+      "02 čuljak - liberty and (for i) myself",
+      "03 čuljak - liquid",
+      "04 čuljak - church"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pushkins-fresh-blood_23666b439f4c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/28c1922953e464242297/pushkin_s_fresh_blood.tar"
+    }
+  }
+}
