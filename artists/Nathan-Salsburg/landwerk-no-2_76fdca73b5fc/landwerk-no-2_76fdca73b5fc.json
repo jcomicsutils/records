@@ -1,0 +1,30 @@
+{
+  "id": "landwerk-no-2_76fdca73b5fc",
+  "fingerprint": "76fdca73b5fc308afd72249518e9e3a412bed83ede6802330174d3a76114e146",
+  "archived_at": "2026-07-24T21:28:10Z",
+  "metadata": {
+    "title": "Landwerk No. 2",
+    "artist": "Nathan Salsburg",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2189,
+    "duration_human": "00:36:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nathan Salsburg - V (Through A Crystal Unluminous)",
+      "02 Nathan Salsburg - VI (The Rocks of Redemption)",
+      "03 Nathan Salsburg - VII (Coincident Constellation)",
+      "04 Nathan Salsburg - VIII (All That Were Calculated Have Passed)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/landwerk-no-2_76fdca73b5fc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/ff1c2742c6197a024a34/Landwerk_No._2.tar"
+    }
+  }
+}
