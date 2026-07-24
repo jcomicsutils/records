@@ -1,0 +1,27 @@
+{
+  "id": "live-in-concert-from-nprs-all-songs-considered_028d2ddfee1b",
+  "fingerprint": "028d2ddfee1b5e7df441a1b470d3bcf4f49ef5070d68ec21401e4fd51fbbd330",
+  "archived_at": "2026-07-24T02:46:24Z",
+  "metadata": {
+    "title": "Live in Concert From NPR's All Songs Considered",
+    "artist": "Thinking Fellers Union Local 282",
+    "year": "2011",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 3545,
+    "duration_human": "00:59:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Thinking Fellers Union Local 282 - Thinking Fellers Union Local 282 in Concert: ATP Festival 2011"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-in-concert-from-nprs-all-songs-considered_028d2ddfee1b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/d83d7e005c536dcf7e30/Live_in_Concert_From_NPR_s_All_Songs_Considered.tar"
+    }
+  }
+}
