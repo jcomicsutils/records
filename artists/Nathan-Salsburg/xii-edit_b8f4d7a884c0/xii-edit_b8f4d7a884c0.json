@@ -1,0 +1,27 @@
+{
+  "id": "xii-edit_b8f4d7a884c0",
+  "fingerprint": "b8f4d7a884c023b045a777fb15b75bd7e27029eefcb00082515fa8b7e15f3184",
+  "archived_at": "2026-07-24T22:01:24Z",
+  "metadata": {
+    "title": "XII (Edit)",
+    "artist": "Nathan Salsburg",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 291,
+    "duration_human": "00:04:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nathan Salsburg - XII (Edit)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xii-edit_b8f4d7a884c0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/3da23f9a2ae09d3d092b/XII_Edit.tar"
+    }
+  }
+}
