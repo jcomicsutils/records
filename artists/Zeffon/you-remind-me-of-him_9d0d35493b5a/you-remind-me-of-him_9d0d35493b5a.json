@@ -1,0 +1,30 @@
+{
+  "id": "you-remind-me-of-him_9d0d35493b5a",
+  "fingerprint": "9d0d35493b5a0006c5b7d8a71f137f9017a636cc5a6ea0bb72fac7f9c2d75615",
+  "archived_at": "2026-07-24T04:28:38Z",
+  "metadata": {
+    "title": "You Remind Me of... Him",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1068,
+    "duration_human": "00:17:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Absolutely Not",
+      "02 Zeffon - Core Beliefs and Principles",
+      "03 Zeffon - I Close My Eye",
+      "04 Zeffon - Dragänsword 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/you-remind-me-of-him_9d0d35493b5a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/5e3660a2539120828416/You_Remind_Me_of..._Him.tar"
+    }
+  }
+}
