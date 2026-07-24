@@ -1,0 +1,27 @@
+{
+  "id": "tam-gde-vechno-dremlet-tayna_8da605fb317a",
+  "fingerprint": "8da605fb317a905e925421fbf11a854ca3046421873c8aac855360e54d7f9e4c",
+  "archived_at": "2026-07-24T07:27:58Z",
+  "metadata": {
+    "title": "Там, где вечно дремлет тайна",
+    "artist": "Majdanek Waltz",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 296,
+    "duration_human": "00:04:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Majdanek Waltz - Там, где вечно дремлет тайна"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tam-gde-vechno-dremlet-tayna_8da605fb317a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/9f9c43e03cf438366dac/%D0%A2%D0%B0%D0%BC_%D0%B3%D0%B4%D0%B5_%D0%B2%D0%B5%D1%87%D0%BD%D0%BE_%D0%B4%D1%80%D0%B5%D0%BC%D0%BB%D0%B5%D1%82_%D1%82%D0%B0%D0%B9%D0%BD%D0%B0.tar"
+    }
+  }
+}
