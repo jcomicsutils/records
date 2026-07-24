@@ -1,0 +1,30 @@
+{
+  "id": "osso-bosque-demo_590950f3e5f2",
+  "fingerprint": "590950f3e5f20741a04b9ae435b35e018ce4b219458981ed7cf4e3956f86b5ed",
+  "archived_at": "2026-07-24T04:40:30Z",
+  "metadata": {
+    "title": "Osso Bosque (Demo)",
+    "artist": "Durvena Cabina",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3822,
+    "duration_human": "01:03:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Durvena Cabina - Osso Bosque - Pt. 1",
+      "02 Durvena Cabina - Osso Bosque - Pt. 2",
+      "03 Durvena Cabina - Osso Bosque - Pt. 3",
+      "04 Durvena Cabina - Osso Bosque - Pt. 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/osso-bosque-demo_590950f3e5f2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/a4eb132ecb578bb23d41/Osso_Bosque_Demo.tar"
+    }
+  }
+}
