@@ -1,0 +1,34 @@
+{
+  "id": "lune-noire_9257458deba9",
+  "fingerprint": "9257458deba944054b09194cf6091579eacf7ffde7525ca48961578a84f42939",
+  "archived_at": "2026-07-24T05:52:38Z",
+  "metadata": {
+    "title": "Lune Noire",
+    "artist": "Majdanek Waltz",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1543,
+    "duration_human": "00:25:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Majdanek Waltz - Le premier quartier",
+      "02 Majdanek Waltz - Le premier croissant",
+      "03 Majdanek Waltz - La nouvelle Lune",
+      "04 Majdanek Waltz - Le dernier croissant",
+      "05 Majdanek Waltz - Le dernier quartier",
+      "06 Majdanek Waltz - La Lune gibbeuse décroissante",
+      "07 Majdanek Waltz - La pleine Lune",
+      "08 Majdanek Waltz - La Lune gibbeuse croissante"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lune-noire_9257458deba9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/87139f38004379857e57/Lune_Noire.tar"
+    }
+  }
+}
