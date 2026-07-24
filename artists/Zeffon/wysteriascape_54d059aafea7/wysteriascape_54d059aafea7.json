@@ -1,0 +1,30 @@
+{
+  "id": "wysteriascape_54d059aafea7",
+  "fingerprint": "54d059aafea7d6dda695cd18556a689808147975e8fc21ddcfc2770cb7717145",
+  "archived_at": "2026-07-24T01:45:43Z",
+  "metadata": {
+    "title": "Wysteriascape",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 5585,
+    "duration_human": "01:33:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Dawn",
+      "02 Zeffon - Asymmetry",
+      "03 Zeffon - They Say The Winds Steal Your Spirit",
+      "04 Zeffon - Wysteriascape (A Gravespell Tribute)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wysteriascape_54d059aafea7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/12a198d38fb7362c3c5b/Wysteriascape.tar"
+    }
+  }
+}
