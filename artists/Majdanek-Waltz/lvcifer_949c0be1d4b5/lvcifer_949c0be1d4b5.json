@@ -1,0 +1,27 @@
+{
+  "id": "lvcifer_949c0be1d4b5",
+  "fingerprint": "949c0be1d4b5a45a29bdb961d517750607506b6fad4b0294b2cb046d85d16a75",
+  "archived_at": "2026-07-24T05:59:17Z",
+  "metadata": {
+    "title": "Lvcifer",
+    "artist": "Majdanek Waltz",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1678,
+    "duration_human": "00:27:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Majdanek Waltz - Lvcifer"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lvcifer_949c0be1d4b5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/dd542e5d79d0b2977bca/Lvcifer.tar"
+    }
+  }
+}
