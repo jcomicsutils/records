@@ -1,0 +1,27 @@
+{
+  "id": "all-i-can-feel-is-the-pressure_5b49bb2713c6",
+  "fingerprint": "5b49bb2713c65eb4b5bd69ee46c62b0c6d195aa806f58f90eed3fe4fc8faa4cc",
+  "archived_at": "2026-07-24T02:03:18Z",
+  "metadata": {
+    "title": "All I Can Feel Is the Pressure",
+    "artist": "Beli Yo'il",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 320,
+    "duration_human": "00:05:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Beli Yo'il - All I Can Feel Is the Pressure"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/all-i-can-feel-is-the-pressure_5b49bb2713c6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/5af925f08db452ff9575/All_I_Can_Feel_Is_the_Pressure.tar"
+    }
+  }
+}
