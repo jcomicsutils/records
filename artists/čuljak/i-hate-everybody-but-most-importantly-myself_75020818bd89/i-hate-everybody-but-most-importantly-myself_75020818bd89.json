@@ -1,0 +1,31 @@
+{
+  "id": "i-hate-everybody-but-most-importantly-myself_75020818bd89",
+  "fingerprint": "75020818bd89970957d638fe7a282cdb029ff6fc98e9ae59c9149a3e94c4777c",
+  "archived_at": "2026-07-24T03:39:43Z",
+  "metadata": {
+    "title": "i hate everybody, but most importantly myself.",
+    "artist": "čuljak",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1293,
+    "duration_human": "00:21:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 čuljak - wretched",
+      "02 čuljak - kovač",
+      "03 čuljak - young man young death",
+      "04 čuljak - heriotza hutsa",
+      "05 čuljak - praise be to čuljak"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-hate-everybody-but-most-importantly-myself_75020818bd89"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/d81a58ca7febdbd18dd8/i_hate_everybody_but_most_importantly_myself.tar"
+    }
+  }
+}
