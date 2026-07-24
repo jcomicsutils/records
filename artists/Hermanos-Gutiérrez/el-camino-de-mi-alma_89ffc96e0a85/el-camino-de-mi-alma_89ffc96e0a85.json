@@ -1,0 +1,34 @@
+{
+  "id": "el-camino-de-mi-alma_89ffc96e0a85",
+  "fingerprint": "89ffc96e0a859cf905650dda6a7a7801f0fc1f1c7036c5f8f90232251d115546",
+  "archived_at": "2026-07-24T08:01:49Z",
+  "metadata": {
+    "title": "El Camino De Mi Alma",
+    "artist": "Hermanos Gutiérrez",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1997,
+    "duration_human": "00:33:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Hermanos Gutierrez - El Camino De Mi Alma",
+      "02 Hermanos Gutierrez - Hombre Honrado",
+      "03 Hermanos Gutierrez - Hasta La Muerte",
+      "04 Hermanos Gutierrez - Abrazos De Una Rosa",
+      "05 Hermanos Gutierrez - La Noche Esta Llegando",
+      "06 Hermanos Gutierrez - Dolores",
+      "07 Hermanos Gutierrez - Cuando Llora El Cielo",
+      "08 Hermanos Gutierrez - Guayaquil"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/el-camino-de-mi-alma_89ffc96e0a85"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/78925b43bb9da508d1fb/El_Camino_De_Mi_Alma.tar"
+    }
+  }
+}
