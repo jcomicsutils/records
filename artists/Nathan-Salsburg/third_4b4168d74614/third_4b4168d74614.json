@@ -1,0 +1,36 @@
+{
+  "id": "third_4b4168d74614",
+  "fingerprint": "4b4168d74614b352d51957ae798a1d7b9904db25e07537ab75ad685b4482ba45",
+  "archived_at": "2026-07-24T21:57:24Z",
+  "metadata": {
+    "title": "Third",
+    "artist": "Nathan Salsburg",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2066,
+    "duration_human": "00:34:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nathan Salsburg - Timoney’s",
+      "02 Nathan Salsburg - B.B.",
+      "03 Nathan Salsburg - Impossible Air",
+      "04 Nathan Salsburg - Planxty Davis",
+      "05 Nathan Salsburg - A Hovering",
+      "06 Nathan Salsburg - Ruby’s Freilach / Low Spirits",
+      "07 Nathan Salsburg - Walls of the World",
+      "08 Nathan Salsburg - Sketch from Life",
+      "09 Nathan Salsburg - Exilic Excursions",
+      "10 Nathan Salsburg - Offering"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/third_4b4168d74614"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/aad6ab341125cc88ddc4/Third.tar"
+    }
+  }
+}
