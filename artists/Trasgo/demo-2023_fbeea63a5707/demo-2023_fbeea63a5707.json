@@ -1,0 +1,29 @@
+{
+  "id": "demo-2023_fbeea63a5707",
+  "fingerprint": "fbeea63a57075645baefaf7f95d03e307006f4ae1f361df8415c9547ccdaf055",
+  "archived_at": "2026-07-24T04:56:04Z",
+  "metadata": {
+    "title": "Demo (2023)",
+    "artist": "Trasgo",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 723,
+    "duration_human": "00:12:03",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Trasgo - Calado (Demo)",
+      "02 Trasgo - Peso Insuportavel (Demo)",
+      "03 Trasgo - Coulrofilia (Demo)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/demo-2023_fbeea63a5707"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/51e0543a2ae37da01e5c/Demo_2023.tar"
+    }
+  }
+}
