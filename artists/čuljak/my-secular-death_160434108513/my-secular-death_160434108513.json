@@ -1,0 +1,27 @@
+{
+  "id": "my-secular-death_160434108513",
+  "fingerprint": "160434108513ec79043262c2ff0cf5f3d07fd9fdc8eb141497642f79b84c9409",
+  "archived_at": "2026-07-24T03:43:02Z",
+  "metadata": {
+    "title": "my secular death",
+    "artist": "čuljak",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 438,
+    "duration_human": "00:07:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 čuljak - my secular death"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/my-secular-death_160434108513"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/02cf06727066bef2abfe/my_secular_death.tar"
+    }
+  }
+}

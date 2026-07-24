@@ -1,0 +1,35 @@
+{
+  "id": "tangle_ce6b9eb65ba5",
+  "fingerprint": "ce6b9eb65ba58faea061ac7a9ea58424bfebdc45bf929e0cd82c7a264d8d1b84",
+  "archived_at": "2026-07-24T03:42:56Z",
+  "metadata": {
+    "title": "Tangle",
+    "artist": "Thinking Fellers Union Local 282",
+    "year": "1989",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2768,
+    "duration_human": "00:46:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Thinking Fellers Union Local 282 - Sister Hell",
+      "02 Thinking Fellers Union Local 282 - Prelmnlrl",
+      "03 Thinking Fellers Union Local 282 - It Wasn't Me",
+      "04 Thinking Fellers Union Local 282 - Interlude",
+      "05 Thinking Fellers Union Local 282 - Keeps Repeating",
+      "06 Thinking Fellers Union Local 282 - Sports Car",
+      "07 Thinking Fellers Union Local 282 - Burning Up",
+      "08 Thinking Fellers Union Local 282 - What Time is It",
+      "09 Thinking Fellers Union Local 282 - Change Your Mind",
+      "10 Thinking Fellers Union Local 282 - Interlude",
+      "11 Thinking Fellers Union Local 282 - Cold Cold Cold Ground",
+      "12 Thinking Fellers Union Local 282 - Choke"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tangle_ce6b9eb65ba5"
+    }
+  }
+}
