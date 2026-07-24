@@ -35,6 +35,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/zeffon-continues-to-travel-apocalypse_df265751c228"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/22e92d95a121339e18c0/Zeffon_Continues_to_Travel_Apocalypse.tar"
     }
   }
 }
