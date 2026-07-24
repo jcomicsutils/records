@@ -1,0 +1,30 @@
+{
+  "id": "wounded-land_b0879e679928",
+  "fingerprint": "b0879e6799289dad6303c53cc9f12059630b55c4925f2dda28871901cd57b6db",
+  "archived_at": "2026-07-24T01:42:20Z",
+  "metadata": {
+    "title": "Wounded Land",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1935,
+    "duration_human": "00:32:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Untitled",
+      "02 Zeffon - Requiem, Pt. 2",
+      "03 Zeffon - Hiding in Leaves",
+      "04 Zeffon - Trapped in a Box"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wounded-land_b0879e679928"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/7c19dce200445f037144/Wounded_Land.tar"
+    }
+  }
+}
