@@ -1,0 +1,27 @@
+{
+  "id": "voron_9bd08ebd5db1",
+  "fingerprint": "9bd08ebd5db15601d7b993e003daccc3d737e44cd247827a74992999944b202a",
+  "archived_at": "2026-07-24T06:43:08Z",
+  "metadata": {
+    "title": "Ворон",
+    "artist": "Majdanek Waltz",
+    "year": "2004",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 961,
+    "duration_human": "00:16:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Majdanek Waltz - Ворон"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/voron_9bd08ebd5db1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/f5df7c2e5eea25ac4ce3/%D0%92%D0%BE%D1%80%D0%BE%D0%BD.tar"
+    }
+  }
+}
