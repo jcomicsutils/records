@@ -1,0 +1,27 @@
+{
+  "id": "gallows-in-my-room-part-one_99b5f8918c6d",
+  "fingerprint": "99b5f8918c6d5aaa194531aa5981e20fffed1470f74b08a98dd75d8148c3e0e6",
+  "archived_at": "2026-07-24T03:24:39Z",
+  "metadata": {
+    "title": "gallows in my room part one",
+    "artist": "čuljak",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 157,
+    "duration_human": "00:02:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 čuljak - gallows in my room part one"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/gallows-in-my-room-part-one_99b5f8918c6d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/40837b5836464e736f66/gallows_in_my_room_part_one.tar"
+    }
+  }
+}
