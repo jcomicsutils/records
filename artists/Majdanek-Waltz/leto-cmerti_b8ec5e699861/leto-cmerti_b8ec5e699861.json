@@ -1,0 +1,27 @@
+{
+  "id": "leto-cmerti_b8ec5e699861",
+  "fingerprint": "b8ec5e6998615ffab5750b0cb4ab327ce0348313f65fef97aa0a1107688e15f3",
+  "archived_at": "2026-07-24T07:00:39Z",
+  "metadata": {
+    "title": "Лето cмерти",
+    "artist": "Majdanek Waltz",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 334,
+    "duration_human": "00:05:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Majdanek Waltz - Лето cмерти"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leto-cmerti_b8ec5e699861"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/178796b516724ef919ce/c.tar"
+    }
+  }
+}
