@@ -1,0 +1,33 @@
+{
+  "id": "zhatva_999c4922cd0e",
+  "fingerprint": "999c4922cd0e64da1aadf2a4c53638acbda02de391860e66cabe45c383218a0a",
+  "archived_at": "2026-07-24T06:48:56Z",
+  "metadata": {
+    "title": "Жатва",
+    "artist": "Majdanek Waltz",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1172,
+    "duration_human": "00:19:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Majdanek Waltz - Сумеречный день",
+      "02 Majdanek Waltz - Весна",
+      "03 Majdanek Waltz - Меланхолия",
+      "04 Majdanek Waltz - Слышащий лес и зрячее поле",
+      "05 Majdanek Waltz - Триумф смерти",
+      "06 Majdanek Waltz - Жатва",
+      "07 Majdanek Waltz - Настанет гибель для всего живого"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zhatva_999c4922cd0e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/3a332d145b1d9825b709/%D0%96%D0%B0%D1%82%D0%B2%D0%B0.tar"
+    }
+  }
+}
