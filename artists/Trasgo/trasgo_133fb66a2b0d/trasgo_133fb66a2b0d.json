@@ -1,0 +1,34 @@
+{
+  "id": "trasgo_133fb66a2b0d",
+  "fingerprint": "133fb66a2b0df7258132261c631c3ab0aed510c78ae53e17072d65c24c275213",
+  "archived_at": "2026-07-24T05:21:13Z",
+  "metadata": {
+    "title": "Trasgo",
+    "artist": "Trasgo",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 3855,
+    "duration_human": "01:04:15",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Trasgo - Trasgo",
+      "02 Trasgo - Calado",
+      "03 Trasgo - Peso Insuportável",
+      "04 Trasgo - Centopeia",
+      "05 Trasgo - Entrevista",
+      "06 Trasgo - Senhor Guarda",
+      "07 Trasgo - Petróleo",
+      "08 Trasgo - Coulrofilia"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/trasgo_133fb66a2b0d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/bada9e82dcc41cfabdbb/Trasgo.tar"
+    }
+  }
+}
