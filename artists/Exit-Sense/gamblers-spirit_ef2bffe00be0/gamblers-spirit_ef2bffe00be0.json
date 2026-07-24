@@ -1,0 +1,27 @@
+{
+  "id": "gamblers-spirit_ef2bffe00be0",
+  "fingerprint": "ef2bffe00be0500e1d3e82147389115b4c9ea4e93cf10bdc9bf79d3d8086a22f",
+  "archived_at": "2026-07-24T21:05:49Z",
+  "metadata": {
+    "title": "Gambler's Spirit",
+    "artist": "Exit Sense",
+    "year": "2016",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1873,
+    "duration_human": "00:31:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Exit Sense - Gambler's Spirit"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/gamblers-spirit_ef2bffe00be0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/9a9478ee8b00312dbaa0/Gambler_s_Spirit.tar"
+    }
+  }
+}
