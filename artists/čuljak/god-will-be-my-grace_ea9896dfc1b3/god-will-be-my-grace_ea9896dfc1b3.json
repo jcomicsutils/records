@@ -1,0 +1,34 @@
+{
+  "id": "god-will-be-my-grace_ea9896dfc1b3",
+  "fingerprint": "ea9896dfc1b3909c86640862d001a1aa7dc76b82adfd9416867c09ffad1347d6",
+  "archived_at": "2026-07-24T03:35:06Z",
+  "metadata": {
+    "title": "god will be my grace",
+    "artist": "čuljak",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2898,
+    "duration_human": "00:48:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 čuljak - intro (crash)",
+      "02 čuljak - i was once a star, now i am merely a failure.",
+      "03 čuljak - penance & pain",
+      "04 čuljak - beautiful (money)",
+      "05 čuljak - pushkin (čuljak is the prophet)",
+      "06 čuljak - to kill (the noise is killing me from my ear drums outwards)",
+      "07 čuljak - evil (i am it)",
+      "08 čuljak - outro (next_tuesday)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/god-will-be-my-grace_ea9896dfc1b3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/c5c767e5573da9e97964/god_will_be_my_grace.tar"
+    }
+  }
+}
