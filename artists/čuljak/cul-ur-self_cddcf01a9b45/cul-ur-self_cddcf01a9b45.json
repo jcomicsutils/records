@@ -1,0 +1,46 @@
+{
+  "id": "cul-ur-self_cddcf01a9b45",
+  "fingerprint": "cddcf01a9b45a0709cdc7fbae4fdbcf9469b83d1563ec4c01b10b2ed7fb023e8",
+  "archived_at": "2026-07-24T02:49:10Z",
+  "metadata": {
+    "title": "čul ur self",
+    "artist": "čuljak",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 20,
+    "duration_seconds": 3848,
+    "duration_human": "01:04:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 čuljak - spilling flemish blood",
+      "02 čuljak - smite",
+      "03 čuljak - view from the tower",
+      "04 čuljak - cure the saint (curse me)",
+      "05 čuljak - tears of harmony",
+      "06 čuljak - the brain plays existence",
+      "07 čuljak - čuljak in chains",
+      "08 čuljak - kajluč",
+      "09 čuljak - cruel consciousness (vein)",
+      "10 čuljak - interlude",
+      "11 čuljak - cold skin",
+      "12 čuljak - dark roses covered in my holy blood",
+      "13 čuljak - flames swallow me whole",
+      "14 čuljak - saviour",
+      "15 čuljak - if one cannot die on their own, they have not succeeded.",
+      "16 čuljak - jesus died and čuljak will die too",
+      "17 čuljak - axes",
+      "18 čuljak - sound is meaning",
+      "19 čuljak - eternity cannot be fufilled when living",
+      "20 čuljak - gallows in my room part one"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cul-ur-self_cddcf01a9b45"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/9b9b4de618eb9135e4c3/ul_ur_self.tar"
+    }
+  }
+}
