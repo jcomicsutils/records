@@ -1,0 +1,29 @@
+{
+  "id": "contos-da-casa-do-lobo_7141b07ad1d9",
+  "fingerprint": "7141b07ad1d95c69e80140a24ac7811a5a903e2165ead8b8d4cea66f4ebef963",
+  "archived_at": "2026-07-24T03:38:02Z",
+  "metadata": {
+    "title": "Contos da Casa do Lobo",
+    "artist": "Durvena Cabina",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3443,
+    "duration_human": "00:57:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Durvena Cabina - Entrudo",
+      "02 Durvena Cabina - O Flautista e o Moinho",
+      "03 Durvena Cabina - Solstício",
+      "04 Durvena Cabina - Caí no Poço, Morri no Campo",
+      "05 Durvena Cabina - Ela que chamou o Fumo",
+      "06 Durvena Cabina - Luna"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/contos-da-casa-do-lobo_7141b07ad1d9"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "strangers-from-the-universe_a90570773211",
+  "fingerprint": "a90570773211c3a215ace46e8a1a31dc2167ddb72d7ee222d83efeb03476ff3f",
+  "archived_at": "2026-07-24T03:37:37Z",
+  "metadata": {
+    "title": "Strangers From the Universe",
+    "artist": "Thinking Fellers Union Local 282",
+    "year": "1994",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 2805,
+    "duration_human": "00:46:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Thinking Fellers Union Local 282 - My Pal the Tortoise",
+      "02 Thinking Fellers Union Local 282 - Socket",
+      "03 Thinking Fellers Union Local 282 - Bomber Pilot Wwii",
+      "04 Thinking Fellers Union Local 282 - Hundreds of Years",
+      "05 Thinking Fellers Union Local 282 - Guillotine",
+      "06 Thinking Fellers Union Local 282 - Uranium",
+      "07 Thinking Fellers Union Local 282 - February",
+      "08 Thinking Fellers Union Local 282 - Pull My Pants Up Tight",
+      "09 Thinking Fellers Union Local 282 - Cup of Dreams",
+      "10 Thinking Fellers Union Local 282 - The Oxenmaster",
+      "11 Thinking Fellers Union Local 282 - The Operation",
+      "12 Thinking Fellers Union Local 282 - The Piston and the Shaft",
+      "13 Thinking Fellers Union Local 282 - Communication",
+      "14 Thinking Fellers Union Local 282 - Noble Experiment"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/strangers-from-the-universe_a90570773211"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/23390bddd2cb2ff18217/Strangers_From_the_Universe.tar"
+    }
+  }
+}
