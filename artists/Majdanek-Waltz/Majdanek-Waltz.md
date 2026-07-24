@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Nachtlied](nachtlied_96ce92d72114/nachtlied_96ce92d72114.md) | 2002 | FLAC | 01:05:29 | [IA](https://archive.org/details/nachtlied_96ce92d72114) [FileDitch](https://fileditchfiles.st/beta17/f01a8e3ad61efe831877/Nachtlied.tar) |
 | [Hund Fuchs Feld](hund-fuchs-feld_bb4efdb7a186/hund-fuchs-feld_bb4efdb7a186.md) | 2002 | MP3 | 00:45:52 | [IA](https://archive.org/details/hund-fuchs-feld_bb4efdb7a186) [FileDitch](https://fileditchfiles.st/beta17/4f7f8adb8f48ea656560/Hund_Fuchs_Feld.tar) |
 | [Frühjahr](fruhjahr_a1ea771a7db5/fruhjahr_a1ea771a7db5.md) | 2012 | FLAC | 00:23:37 | [IA](https://archive.org/details/fruhjahr_a1ea771a7db5) [FileDitch](https://fileditchfiles.st/beta17/0eadd498b5422da60f55/Fr_hjahr.tar) |
 | [Lvcifer](lvcifer_949c0be1d4b5/lvcifer_949c0be1d4b5.md) | 2013 | FLAC | 00:27:58 | [IA](https://archive.org/details/lvcifer_949c0be1d4b5) [FileDitch](https://fileditchfiles.st/beta17/dd542e5d79d0b2977bca/Lvcifer.tar) |
