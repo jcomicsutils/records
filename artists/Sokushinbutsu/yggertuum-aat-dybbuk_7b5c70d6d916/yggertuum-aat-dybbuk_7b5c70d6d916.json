@@ -1,0 +1,32 @@
+{
+  "id": "yggertuum-aat-dybbuk_7b5c70d6d916",
+  "fingerprint": "7b5c70d6d916cc7d3a41876a9d437e02ee0c591fe58f6322837f71d9ba4887ea",
+  "archived_at": "2026-07-24T02:00:09Z",
+  "metadata": {
+    "title": "Yggertüum a'at Dybbuk",
+    "artist": "Sokushinbutsu",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1648,
+    "duration_human": "00:27:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sokushinbutsu - Blackhaze Witch Chant",
+      "02 Sokushinbutsu - Slithered Tongues on Stone Skin",
+      "03 Sokushinbutsu - Rippled Eye Murder Dance",
+      "04 Sokushinbutsu - Circle Patterned Liver Efoliation",
+      "05 Sokushinbutsu - Red Desert of Old Delirium",
+      "06 Sokushinbutsu - Lunar Horn Amulet"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/yggertuum-aat-dybbuk_7b5c70d6d916"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/f29cc145372cc457a098/Yggert_um_a_at_Dybbuk.tar"
+    }
+  }
+}
