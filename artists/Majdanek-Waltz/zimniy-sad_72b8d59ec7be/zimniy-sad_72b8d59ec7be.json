@@ -1,0 +1,29 @@
+{
+  "id": "zimniy-sad_72b8d59ec7be",
+  "fingerprint": "72b8d59ec7be5ef9e036fb8e4003324d41dafa9bffc6807654cff20e5fcb7a56",
+  "archived_at": "2026-07-24T06:55:17Z",
+  "metadata": {
+    "title": "Зимний сад",
+    "artist": "Majdanek Waltz",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 940,
+    "duration_human": "00:15:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Majdanek Waltz - Последний путь",
+      "02 Majdanek Waltz - Зимний сад",
+      "03 Majdanek Waltz - Злая вода"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zimniy-sad_72b8d59ec7be"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/cc5f1b202ae5ebe0e19f/%D0%97%D0%B8%D0%BC%D0%BD%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4.tar"
+    }
+  }
+}
