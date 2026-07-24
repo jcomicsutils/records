@@ -1,0 +1,36 @@
+{
+  "id": "all-gist_78da3148fcd6",
+  "fingerprint": "78da3148fcd68aba0d4e50deecd3ad7f99f58d0b8f3762a65b3aa60279683217",
+  "archived_at": "2026-07-24T20:55:35Z",
+  "metadata": {
+    "title": "All Gist",
+    "artist": "Nathan Salsburg",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2340,
+    "duration_human": "00:39:00",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 James Elkington, Nathan Salsburg - Death Wishes to Kill",
+      "02 James Elkington, Nathan Salsburg - Long in the Tooth Again",
+      "03 James Elkington, Nathan Salsburg - Numb Limbs",
+      "04 James Elkington, Nathan Salsburg - Nicest Distinction",
+      "05 James Elkington, Nathan Salsburg - Well, Well, Cornelius",
+      "06 James Elkington, Nathan Salsburg - Explanation Point",
+      "07 James Elkington, Nathan Salsburg - Fears of This Nature",
+      "08 James Elkington, Nathan Salsburg - Rule Bretagne",
+      "09 James Elkington, Nathan Salsburg - All Gist Could Be Yours",
+      "10 James Elkington, Nathan Salsburg - Buffalo Stance"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/all-gist_78da3148fcd6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/b76552c3b8164943866a/All_Gist.tar"
+    }
+  }
+}
