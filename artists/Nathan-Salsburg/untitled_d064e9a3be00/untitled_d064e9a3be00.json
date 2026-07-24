@@ -1,0 +1,29 @@
+{
+  "id": "untitled_d064e9a3be00",
+  "fingerprint": "d064e9a3be00a0c3c5e64ee673b2546ce09976a2ddd4b2512550ca6f6b7f2133",
+  "archived_at": "2026-07-24T21:59:22Z",
+  "metadata": {
+    "title": "Untitled",
+    "artist": "Nathan Salsburg",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 484,
+    "duration_human": "00:08:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bonnie “Prince” Billy & Nathan Salsburg - Beargrass Song",
+      "02 Bonnie “Prince” Billy & Nathan Salsburg - Wallins Creek Girls",
+      "03 Bonnie “Prince” Billy & Nathan Salsburg - Fare You Well, My Little Annie Darling"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/untitled_d064e9a3be00"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/de1f1db8b5db86ad4bd8/Untitled.tar"
+    }
+  }
+}
