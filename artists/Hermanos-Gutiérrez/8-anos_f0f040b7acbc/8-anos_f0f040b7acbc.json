@@ -1,0 +1,34 @@
+{
+  "id": "8-anos_f0f040b7acbc",
+  "fingerprint": "f0f040b7acbcda7efc64d57f1098cec1992c9d4f51141757ac28406873bfff39",
+  "archived_at": "2026-07-24T07:44:09Z",
+  "metadata": {
+    "title": "8 Años",
+    "artist": "Hermanos Gutiérrez",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1574,
+    "duration_human": "00:26:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Hermanos Gutierrez - Venganza",
+      "02 Hermanos Gutierrez - 8 Años",
+      "03 Hermanos Gutierrez - Mi Amor",
+      "04 Hermanos Gutierrez - El Jardin",
+      "05 Hermanos Gutierrez - Suéltalo",
+      "06 Hermanos Gutierrez - Dios",
+      "07 Hermanos Gutierrez - El Mar",
+      "08 Hermanos Gutierrez - Flores"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/8-anos_f0f040b7acbc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/9cee4740003a1a4e7931/8_A_os.tar"
+    }
+  }
+}

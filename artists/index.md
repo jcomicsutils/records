@@ -92,6 +92,7 @@
 - [Hanging Stars](Hanging-Stars/Hanging-Stars.md)
 - [Happy Halloween](Happy-Halloween/Happy-Halloween.md)
 - [Harakiri for the Sky](Harakiri-for-the-Sky/Harakiri-for-the-Sky.md)
+- [Hermanos Gutiérrez](Hermanos-Gutiérrez/Hermanos-Gutiérrez.md)
 - [House of Low Culture](House-of-Low-Culture/House-of-Low-Culture.md)
 - [Huntsville](Huntsville/Huntsville.md)
 - [If-Then-Else](If-Then-Else/If-Then-Else.md)
