@@ -1,0 +1,28 @@
+{
+  "id": "thrones_909290121478",
+  "fingerprint": "909290121478a904a6ac94544210f472d9c0b886d35437d7528bbfceff682b83",
+  "archived_at": "2026-07-24T06:34:22Z",
+  "metadata": {
+    "title": "Thrones",
+    "artist": "Majdanek Waltz",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1248,
+    "duration_human": "00:20:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Majdanek Waltz - Thrones",
+      "02 Majdanek Waltz - You Will Dress Me in Silver"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/thrones_909290121478"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/2c0215e97c4976a65608/Thrones.tar"
+    }
+  }
+}
