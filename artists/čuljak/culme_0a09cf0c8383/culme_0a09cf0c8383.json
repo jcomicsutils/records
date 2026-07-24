@@ -1,0 +1,27 @@
+{
+  "id": "culme_0a09cf0c8383",
+  "fingerprint": "0a09cf0c838373bbeeb220911627dce0e984eb2326ade62acae92b54ee6eac1a",
+  "archived_at": "2026-07-24T03:15:51Z",
+  "metadata": {
+    "title": "čulme",
+    "artist": "čuljak",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 163,
+    "duration_human": "00:02:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 čuljak - čulme"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/culme_0a09cf0c8383"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/20bcb58ab8c3661a00fe/ulme.tar"
+    }
+  }
+}
