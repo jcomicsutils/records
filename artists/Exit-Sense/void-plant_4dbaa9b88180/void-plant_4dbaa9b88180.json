@@ -1,0 +1,27 @@
+{
+  "id": "void-plant_4dbaa9b88180",
+  "fingerprint": "4dbaa9b881805dc8118cc3c2ad0165b5996b2d78b946a9170fb4fdfc439b10ca",
+  "archived_at": "2026-07-24T21:49:13Z",
+  "metadata": {
+    "title": "Void Plant",
+    "artist": "Exit Sense",
+    "year": "2014",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 355,
+    "duration_human": "00:05:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Exit Sense - Void Plant"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/void-plant_4dbaa9b88180"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/c5cd8ff85573142351e9/Void_Plant.tar"
+    }
+  }
+}

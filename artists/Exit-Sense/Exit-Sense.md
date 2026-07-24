@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Cherry Blossom Oblivion](cherry-blossom-oblivion_2be6e83a5e68/cherry-blossom-oblivion_2be6e83a5e68.md) | 2013 | FLAC | 01:02:55 | [IA](https://archive.org/details/cherry-blossom-oblivion_2be6e83a5e68) [FileDitch](https://fileditchfiles.st/beta17/79498e5e493a55021dfd/Cherry_Blossom_Oblivion.tar) |
+| [Void Plant](void-plant_4dbaa9b88180/void-plant_4dbaa9b88180.md) | 2014 | MP3 | 00:05:55 | [IA](https://archive.org/details/void-plant_4dbaa9b88180) [FileDitch](https://fileditchfiles.st/beta17/c5cd8ff85573142351e9/Void_Plant.tar) |
 | [His Him](his-him_18b7c7a2eade/his-him_18b7c7a2eade.md) | 2014 | MP3 | 01:05:32 | [IA](https://archive.org/details/his-him_18b7c7a2eade) [FileDitch](https://fileditchfiles.st/beta17/713ae019fea42c5c455b/His_Him.tar) |
 | [HHW-MIX Exit Sense](hhw-mix-exit-sense_112e131e0c0a/hhw-mix-exit-sense_112e131e0c0a.md) | 2014 | MP3 | 00:36:20 | [IA](https://archive.org/details/hhw-mix-exit-sense_112e131e0c0a) [FileDitch](https://fileditchfiles.st/beta17/f767e759be63e8b67cde/HHW-MIX_Exit_Sense.tar) |
 | [Information Mystic](information-mystic_51f5fad44233/information-mystic_51f5fad44233.md) | 2014 | MP3 | 00:24:10 | [IA](https://archive.org/details/information-mystic_51f5fad44233) [FileDitch](https://fileditchfiles.st/beta17/be471c75c50a05c11ade/Information_Mystic.tar) |
