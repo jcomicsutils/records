@@ -1,0 +1,27 @@
+{
+  "id": "fruhjahr_a1ea771a7db5",
+  "fingerprint": "a1ea771a7db5c26cc46666dc0b6ee26a22a2babd9c7194be8b33ef5639681248",
+  "archived_at": "2026-07-24T05:46:50Z",
+  "metadata": {
+    "title": "Frühjahr",
+    "artist": "Majdanek Waltz",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1417,
+    "duration_human": "00:23:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Majdanek Waltz - Frühjahr"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fruhjahr_a1ea771a7db5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/0eadd498b5422da60f55/Fr_hjahr.tar"
+    }
+  }
+}

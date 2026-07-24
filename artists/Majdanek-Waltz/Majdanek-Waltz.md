@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Frühjahr](fruhjahr_a1ea771a7db5/fruhjahr_a1ea771a7db5.md) | 2012 | FLAC | 00:23:37 | [IA](https://archive.org/details/fruhjahr_a1ea771a7db5) [FileDitch](https://fileditchfiles.st/beta17/0eadd498b5422da60f55/Fr_hjahr.tar) |
 | [Berlin](berlin_efb978b18527/berlin_efb978b18527.md) | 2015 | FLAC | 00:04:45 | [IA](https://archive.org/details/berlin_efb978b18527) [FileDitch](https://fileditchfiles.st/beta17/5d67de632f8a7c9a1792/Berlin.tar) |
 | [Die Blinden Schützen](die-blinden-schutzen_d5afe99ebb3c/die-blinden-schutzen_d5afe99ebb3c.md) | 2016 | FLAC | 00:40:36 | [IA](https://archive.org/details/die-blinden-schutzen_d5afe99ebb3c) [FileDitch](https://fileditchfiles.st/beta17/cd6f2da51ae21c1f8186/Die_Blinden_Sch_tzen.tar) |
 | [16.12.11](161211_3ddf2deefa2d/161211_3ddf2deefa2d.md) | 2016 | FLAC | 00:51:04 | [IA](https://archive.org/details/161211_3ddf2deefa2d) [FileDitch](https://fileditchfiles.st/beta17/dfed27f7b5abc11d2e7b/16.12.11.tar) |
