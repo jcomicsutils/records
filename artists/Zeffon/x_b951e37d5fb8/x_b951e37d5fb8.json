@@ -1,0 +1,29 @@
+{
+  "id": "x_b951e37d5fb8",
+  "fingerprint": "b951e37d5fb82a12e286879082dba435a072557a9d79d9ae6160041b5aa179ec",
+  "archived_at": "2026-07-24T01:54:33Z",
+  "metadata": {
+    "title": "X",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3264,
+    "duration_human": "00:54:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Proto Genesis",
+      "02 Zeffon - O.L.I.C.I",
+      "03 Zeffon - X"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/x_b951e37d5fb8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/acc56c3e8d2d238c5be8/X.tar"
+    }
+  }
+}
