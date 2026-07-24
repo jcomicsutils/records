@@ -1,0 +1,27 @@
+{
+  "id": "monte-sinistro-demo_73ba581dfac9",
+  "fingerprint": "73ba581dfac94addf1ec3aad7ee832eced7131ec1c912c74b829cc13e92163a3",
+  "archived_at": "2026-07-24T04:26:00Z",
+  "metadata": {
+    "title": "Monte Sinistro (Demo)",
+    "artist": "Durvena Cabina",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3588,
+    "duration_human": "00:59:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Durvena Cabina - Espantalho Acéfalo",
+      "02 Durvena Cabina - Saraghina",
+      "03 Durvena Cabina - Bruma",
+      "04 Durvena Cabina - Istrela no Monte"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/monte-sinistro-demo_73ba581dfac9"
+    }
+  }
+}

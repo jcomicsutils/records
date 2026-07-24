@@ -1,0 +1,34 @@
+{
+  "id": "yet-another-dimension_a43009b2159b",
+  "fingerprint": "a43009b2159bcf2333c157867aae737d95a4cd50f33eb8aa5d7f3c0e1d0e9f9d",
+  "archived_at": "2026-07-24T04:26:46Z",
+  "metadata": {
+    "title": "Yet Another Dimension",
+    "artist": "Zeffon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1155,
+    "duration_human": "00:19:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Music Box I",
+      "02 Zeffon - Central Square",
+      "03 Zeffon - Music Box II",
+      "04 Zeffon - The Bending Walls Above Me",
+      "05 Zeffon - Woodlands",
+      "06 Zeffon - Music Box III",
+      "07 Zeffon - Yet Another Dimension",
+      "08 Zeffon - Music Box IV"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/yet-another-dimension_a43009b2159b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/b1a5eb6403759e9f2c26/Yet_Another_Dimension.tar"
+    }
+  }
+}
