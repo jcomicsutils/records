@@ -1,0 +1,27 @@
+{
+  "id": "x-ray-meets-zeffon-for-another-time_02ce10a4f158",
+  "fingerprint": "02ce10a4f158cd1faf00bba064972a6466b77dcecaf51bbe28bb4cffbee9a0c8",
+  "archived_at": "2026-07-24T01:56:35Z",
+  "metadata": {
+    "title": "X-Ray Meets Zeffon For Another Time",
+    "artist": "Zeffon",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4671,
+    "duration_human": "01:17:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Buzzbuzz"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/x-ray-meets-zeffon-for-another-time_02ce10a4f158"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/0dbe8d3de35d63007c46/X-Ray_Meets_Zeffon_For_Another_Time.tar"
+    }
+  }
+}
