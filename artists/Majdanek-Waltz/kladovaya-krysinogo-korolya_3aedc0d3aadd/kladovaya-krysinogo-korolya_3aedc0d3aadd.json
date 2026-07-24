@@ -1,0 +1,38 @@
+{
+  "id": "kladovaya-krysinogo-korolya_3aedc0d3aadd",
+  "fingerprint": "3aedc0d3aadd7a5a06286e7c035c8143e4d254b262099c095eb532e20e2a5497",
+  "archived_at": "2026-07-24T06:59:27Z",
+  "metadata": {
+    "title": "Кладовая крысиного короля",
+    "artist": "Majdanek Waltz",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2643,
+    "duration_human": "00:44:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Majdanek Waltz, Patimat Khripa - На пороге тьмы",
+      "02 Majdanek Waltz, Patimat Khripa - Никогда и ничего",
+      "03 Majdanek Waltz, Patimat Khripa - Освободитель прибыл",
+      "04 Majdanek Waltz, Patimat Khripa - Крысолов мёртв",
+      "05 Majdanek Waltz, Patimat Khripa - Сказка странствий",
+      "06 Majdanek Waltz, Patimat Khripa - Рассыпается пепел",
+      "07 Majdanek Waltz, Patimat Khripa - Выше звёзд",
+      "08 Majdanek Waltz, Patimat Khripa - Кладовая крысиного короля",
+      "09 Majdanek Waltz, Patimat Khripa - О чём поёт ночная птица",
+      "10 Majdanek Waltz, Patimat Khripa - Sátántangó",
+      "11 Majdanek Waltz, Patimat Khripa - Ночь в казарме",
+      "12 Majdanek Waltz, Patimat Khripa - В пламени снег"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kladovaya-krysinogo-korolya_3aedc0d3aadd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/9abdf00922c6073dadda/%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D1%80%D1%8B%D1%81%D0%B8%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8F.tar"
+    }
+  }
+}
