@@ -1,0 +1,27 @@
+{
+  "id": "xerocole_4a36ca386e0a",
+  "fingerprint": "4a36ca386e0a2bbd2bed5e0805925bcc6cbb487f42dd4cd9505a7d6263d2fddf",
+  "archived_at": "2026-07-24T02:00:39Z",
+  "metadata": {
+    "title": "Xerocole",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 928,
+    "duration_human": "00:15:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Piece 919 - Xerocole"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xerocole_4a36ca386e0a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/961d28e0bb83104918c9/Xerocole.tar"
+    }
+  }
+}
