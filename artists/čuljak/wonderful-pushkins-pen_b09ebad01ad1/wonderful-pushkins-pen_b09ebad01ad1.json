@@ -1,0 +1,27 @@
+{
+  "id": "wonderful-pushkins-pen_b09ebad01ad1",
+  "fingerprint": "b09ebad01ad1a8cd04c828a5b245b4f34cf849a32bdfde3c27ddfb21232a2d54",
+  "archived_at": "2026-07-24T03:55:41Z",
+  "metadata": {
+    "title": "wonderful (pushkin's pen)",
+    "artist": "čuljak",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 102,
+    "duration_human": "00:01:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 čuljak - wonderful (pushkin's pen)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wonderful-pushkins-pen_b09ebad01ad1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/0cdba4eff91f39418b83/wonderful_pushkin_s_pen.tar"
+    }
+  }
+}
