@@ -1,0 +1,30 @@
+{
+  "id": "xhupa_555bcfc5c1a4",
+  "fingerprint": "555bcfc5c1a49353ab0f329fabf5c3537711e2c6df3e195a1737f6185302b5c0",
+  "archived_at": "2026-07-24T02:11:55Z",
+  "metadata": {
+    "title": "Xhupa",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1389,
+    "duration_human": "00:23:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Leaping Man",
+      "02 Zeffon - Telltale Sings",
+      "03 Zeffon - Xhupa",
+      "04 Zeffon - Mach-O-Iuna"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xhupa_555bcfc5c1a4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/e390dc5e242a6baad3c0/Xhupa.tar"
+    }
+  }
+}
