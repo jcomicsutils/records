@@ -1,0 +1,28 @@
+{
+  "id": "lumiere-astrale_2beb39142dda",
+  "fingerprint": "2beb39142dda4efbaaf62e86e9b0c46fda26b4162efbdec2ee018cd09e593f8a",
+  "archived_at": "2026-07-24T05:51:07Z",
+  "metadata": {
+    "title": "Lumiere Astrale",
+    "artist": "Majdanek Waltz",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1255,
+    "duration_human": "00:20:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Кроль & Majdanek Waltz - Lumiere Astrale (with PRIMITIVE)",
+      "02 Кроль & Majdanek Waltz - Прощайте, тёмные деревья"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lumiere-astrale_2beb39142dda"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/fccbbf131c5ada5d74b0/Lumiere_Astrale.tar"
+    }
+  }
+}
