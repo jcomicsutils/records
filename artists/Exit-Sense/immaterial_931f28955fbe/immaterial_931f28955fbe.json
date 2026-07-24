@@ -1,0 +1,27 @@
+{
+  "id": "immaterial_931f28955fbe",
+  "fingerprint": "931f28955fbe5a03801957d95136c920120e84bdf5cdd84e34fcad2e6565c6cd",
+  "archived_at": "2026-07-24T21:18:31Z",
+  "metadata": {
+    "title": "Immaterial",
+    "artist": "Exit Sense",
+    "year": "2021",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 7067,
+    "duration_human": "01:57:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Exit Sense - Immaterial"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/immaterial_931f28955fbe"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/6ddb37621fd337240ac2/Immaterial.tar"
+    }
+  }
+}
