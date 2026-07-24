@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/islamabad-formigomaster_288fad516e86)
+- [FileDitch](https://fileditchfiles.st/beta17/279d169e520a03c451ee/Islamabad_Formigomaster.tar)
 
 ## Tracklist
 

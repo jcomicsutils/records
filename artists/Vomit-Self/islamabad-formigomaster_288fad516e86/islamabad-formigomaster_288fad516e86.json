@@ -29,6 +29,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/islamabad-formigomaster_288fad516e86"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/279d169e520a03c451ee/Islamabad_Formigomaster.tar"
     }
   }
 }
