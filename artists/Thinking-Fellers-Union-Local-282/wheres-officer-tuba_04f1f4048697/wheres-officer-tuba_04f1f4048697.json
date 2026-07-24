@@ -1,0 +1,34 @@
+{
+  "id": "wheres-officer-tuba_04f1f4048697",
+  "fingerprint": "04f1f4048697ee7927909aee84f1d22bb24f7e923ae32c4f6832b4e83eb615dc",
+  "archived_at": "2026-07-24T04:39:35Z",
+  "metadata": {
+    "title": "Where's Officer Tuba",
+    "artist": "Thinking Fellers Union Local 282",
+    "year": "1993",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1490,
+    "duration_human": "00:24:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Thinking Fellers Union Local 282 - Wide Forehead",
+      "02 Thinking Fellers Union Local 282 - Gentleman's Lament",
+      "03 Thinking Fellers Union Local 282 - Outhouse of the Pryeeeee",
+      "04 Thinking Fellers Union Local 282 - I Am Beautiful, I Am Good",
+      "05 Thinking Fellers Union Local 282 - Hive",
+      "06 Thinking Fellers Union Local 282 - Heaven for Real Idiots",
+      "07 Thinking Fellers Union Local 282 - Strolling Big Butter",
+      "08 Thinking Fellers Union Local 282 - 282 Years"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wheres-officer-tuba_04f1f4048697"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/bac9e5d8cc5dd64cb24c/Where_s_Officer_Tuba.tar"
+    }
+  }
+}
