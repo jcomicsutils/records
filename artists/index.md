@@ -36,6 +36,7 @@
 - [Banda do Casaco](Banda-do-Casaco/Banda-do-Casaco.md)
 - [Bardo Todol](Bardo-Todol/Bardo-Todol.md)
 - [Bark Psychosis](Bark-Psychosis/Bark-Psychosis.md)
+- [Beli Yo'il](Beli-Yo'il/Beli-Yo'il.md)
 - [Benedicte Maurseth](Benedicte-Maurseth/Benedicte-Maurseth.md)
 - [Besna](Besna/Besna.md)
 - [Bianca Scout](Bianca-Scout/Bianca-Scout.md)

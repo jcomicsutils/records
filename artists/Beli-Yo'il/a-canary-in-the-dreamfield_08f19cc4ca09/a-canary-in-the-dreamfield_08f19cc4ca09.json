@@ -1,0 +1,31 @@
+{
+  "id": "a-canary-in-the-dreamfield_08f19cc4ca09",
+  "fingerprint": "08f19cc4ca09ec49b2da015a933b9a8f4b5b7a9ea79bdcb91fc1ed474158b1b9",
+  "archived_at": "2026-07-24T01:55:46Z",
+  "metadata": {
+    "title": "A Canary in the Dreamfield",
+    "artist": "Beli Yo'il",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1551,
+    "duration_human": "00:25:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Beli Yo'il, No Curfew Kids - Inertia",
+      "02 Beli Yo'il, No Curfew Kids - Hare Trail",
+      "03 Beli Yo'il, No Curfew Kids - Sewn into My Own Sins",
+      "04 Beli Yo'il, No Curfew Kids - Cutting into Heaven's Celestial Chest",
+      "05 Beli Yo'il, No Curfew Kids - Falling from Under Unending Floors"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-canary-in-the-dreamfield_08f19cc4ca09"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/b8a8450ca6903117c315/A_Canary_in_the_Dreamfield.tar"
+    }
+  }
+}
