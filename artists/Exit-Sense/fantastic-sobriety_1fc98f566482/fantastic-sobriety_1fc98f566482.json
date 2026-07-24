@@ -1,0 +1,27 @@
+{
+  "id": "fantastic-sobriety_1fc98f566482",
+  "fingerprint": "1fc98f5664821e58bb6ee0dc5347f5924660979d7450410a650dd3ed824bc2c6",
+  "archived_at": "2026-07-24T21:01:42Z",
+  "metadata": {
+    "title": "Fantastic Sobriety",
+    "artist": "Exit Sense",
+    "year": "2014",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 2362,
+    "duration_human": "00:39:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Exit Sense - Fantastic Sobriety"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fantastic-sobriety_1fc98f566482"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/8093bb2841d58da34f12/Fantastic_Sobriety.tar"
+    }
+  }
+}

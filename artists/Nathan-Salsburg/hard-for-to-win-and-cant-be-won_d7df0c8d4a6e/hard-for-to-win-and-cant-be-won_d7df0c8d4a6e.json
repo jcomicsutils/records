@@ -1,0 +1,32 @@
+{
+  "id": "hard-for-to-win-and-cant-be-won_d7df0c8d4a6e",
+  "fingerprint": "d7df0c8d4a6e526f195651640c3ee2332317138035125535a09eca0e075255db",
+  "archived_at": "2026-07-24T21:01:52Z",
+  "metadata": {
+    "title": "Hard For To Win And Can't Be Won",
+    "artist": "Nathan Salsburg",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2478,
+    "duration_human": "00:41:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nathan Salsburg - First Field Path",
+      "02 Nathan Salsburg - Mrs. Gristle's Reel",
+      "03 Nathan Salsburg - Paraffin & Turpentine",
+      "04 Nathan Salsburg - Coll Mackenzie (Archie Fisher)",
+      "05 Nathan Salsburg - Concessions",
+      "06 Nathan Salsburg - Dog At Bay",
+      "07 Nathan Salsburg - Chief Wants",
+      "08 Nathan Salsburg - To Welcome The Travelers Home",
+      "09 Nathan Salsburg - What Can't Be Won"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hard-for-to-win-and-cant-be-won_d7df0c8d4a6e"
+    }
+  }
+}
