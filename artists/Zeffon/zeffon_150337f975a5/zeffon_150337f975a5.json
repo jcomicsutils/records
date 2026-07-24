@@ -1,0 +1,28 @@
+{
+  "id": "zeffon_150337f975a5",
+  "fingerprint": "150337f975a5594fcbc112ec89ecaff8bd80b47c68edac0b50b4ecc7d4c87ab9",
+  "archived_at": "2026-07-24T06:54:45Z",
+  "metadata": {
+    "title": "Zeffón",
+    "artist": "Zeffon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3731,
+    "duration_human": "01:02:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Zeffón",
+      "02 Zeffon - X Ca Mero Dao"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zeffon_150337f975a5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/030230bfae531ab0ef8c/Zeff_n.tar"
+    }
+  }
+}
