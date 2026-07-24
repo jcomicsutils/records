@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/monte-sinistro-demo_73ba581dfac9)
+- [FileDitch](https://fileditchfiles.st/beta17/0ce058f666d71b4faa3c/Monte_Sinistro_Demo.tar)
 
 ## Tracklist
 
