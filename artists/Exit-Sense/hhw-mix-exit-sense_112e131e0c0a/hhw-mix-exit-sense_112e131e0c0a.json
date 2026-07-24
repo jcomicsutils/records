@@ -1,0 +1,27 @@
+{
+  "id": "hhw-mix-exit-sense_112e131e0c0a",
+  "fingerprint": "112e131e0c0a442144c913a82634e6e836d3a59570f2373484a84b663e604aa2",
+  "archived_at": "2026-07-24T21:06:43Z",
+  "metadata": {
+    "title": "HHW-MIX Exit Sense",
+    "artist": "Exit Sense",
+    "year": "2014",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 2180,
+    "duration_human": "00:36:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Exit Sense - HHW-MIX Exit Sense"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hhw-mix-exit-sense_112e131e0c0a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/f767e759be63e8b67cde/HHW-MIX_Exit_Sense.tar"
+    }
+  }
+}

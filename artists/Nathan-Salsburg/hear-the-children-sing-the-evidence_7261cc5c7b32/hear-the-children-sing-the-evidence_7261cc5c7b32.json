@@ -1,0 +1,25 @@
+{
+  "id": "hear-the-children-sing-the-evidence_7261cc5c7b32",
+  "fingerprint": "7261cc5c7b32f014e1cb0daf6e65308c350a2ebcaedd85aa8511bf5b7b8d21c6",
+  "archived_at": "2026-07-24T21:06:21Z",
+  "metadata": {
+    "title": "Hear The Children Sing The Evidence",
+    "artist": "Nathan Salsburg",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2464,
+    "duration_human": "00:41:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bonnie \"Prince\" Billy, Nathan Salsburg, Tyler Trotter - Hear The Children Sing",
+      "02 Bonnie \"Prince\" Billy, Nathan Salsburg, Tyler Trotter - The Evidence"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hear-the-children-sing-the-evidence_7261cc5c7b32"
+    }
+  }
+}
