@@ -1,0 +1,36 @@
+{
+  "id": "vir-majdanek-waltz_e8663ba41765",
+  "fingerprint": "e8663ba417654ced436b26835a4f757497591bce7924bbbbbd84debaf8ff5b4c",
+  "archived_at": "2026-07-24T06:40:34Z",
+  "metadata": {
+    "title": "Вирь / Majdanek Waltz",
+    "artist": "Majdanek Waltz",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2985,
+    "duration_human": "00:49:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Вирь - В тёмной воде",
+      "02 Вирь - Всё закончилось",
+      "03 Вирь - Вечная зима",
+      "04 Вирь - Прокляты",
+      "05 Вирь - У последних берегов",
+      "06 Majdanek Waltz - Красный лес",
+      "07 Majdanek Waltz - В мёртвом доме",
+      "08 Majdanek Waltz - Незримый возница",
+      "09 Majdanek Waltz - Декабрь",
+      "10 Majdanek Waltz - ὄνυξ"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vir-majdanek-waltz_e8663ba41765"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/efa89cedbeb3e33cded5/-_Majdanek_Waltz.tar"
+    }
+  }
+}
