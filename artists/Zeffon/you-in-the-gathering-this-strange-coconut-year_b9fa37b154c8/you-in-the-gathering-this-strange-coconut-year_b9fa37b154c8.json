@@ -1,0 +1,27 @@
+{
+  "id": "you-in-the-gathering-this-strange-coconut-year_b9fa37b154c8",
+  "fingerprint": "b9fa37b154c81296dbed78b215b491600c3eadb786dc60f0bb973982b2fd61e9",
+  "archived_at": "2026-07-24T04:27:29Z",
+  "metadata": {
+    "title": "You in the Gathering (This Strange Coconut Year)",
+    "artist": "Zeffon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 67,
+    "duration_human": "00:01:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Tried and True Method, Part 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/you-in-the-gathering-this-strange-coconut-year_b9fa37b154c8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/64dae7b12838752f68c3/You_in_the_Gathering_This_Strange_Coconut_Year.tar"
+    }
+  }
+}
