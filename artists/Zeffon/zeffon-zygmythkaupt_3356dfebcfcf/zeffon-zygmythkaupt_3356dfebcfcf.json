@@ -1,0 +1,27 @@
+{
+  "id": "zeffon-zygmythkaupt_3356dfebcfcf",
+  "fingerprint": "3356dfebcfcfdbc36cd4a06795442414bbfd2234e14d821cbd0e6f9b324460e1",
+  "archived_at": "2026-07-24T06:57:12Z",
+  "metadata": {
+    "title": "Zeffon / Zygmythkaupt",
+    "artist": "Zeffon",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 645,
+    "duration_human": "00:10:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - The Untended Garden"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zeffon-zygmythkaupt_3356dfebcfcf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/41c936b4e6e92d275213/Zeffon_-_Zygmythkaupt.tar"
+    }
+  }
+}
