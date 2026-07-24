@@ -1,0 +1,27 @@
+{
+  "id": "ozolhos-da-bruxa-demo_d8be2f894160",
+  "fingerprint": "d8be2f894160f50b8d0d4d46ebea3601cae6a04db48c56c9d3c8346cf037b51c",
+  "archived_at": "2026-07-24T05:14:21Z",
+  "metadata": {
+    "title": "Ozolhos da Bruxa (Demo)",
+    "artist": "Durvena Cabina",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2162,
+    "duration_human": "00:36:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Durvena Cabina - Ozolhos da Bruxa"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ozolhos-da-bruxa-demo_d8be2f894160"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/998d18abe588e7fd9f93/Ozolhos_da_Bruxa_Demo.tar"
+    }
+  }
+}
