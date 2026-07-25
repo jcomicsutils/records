@@ -1,0 +1,29 @@
+{
+  "id": "become_0804f683f12c",
+  "fingerprint": "0804f683f12cc716b441fdd9bd17f1c182ff158a1d868e310e2a79b55fde214f",
+  "archived_at": "2026-07-25T05:09:32Z",
+  "metadata": {
+    "title": "Become",
+    "artist": "Sutekh Hexen",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2393,
+    "duration_human": "00:39:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sutekh Hexen - Five Faces of Decay",
+      "02 Sutekh Hexen - Vestibule",
+      "03 Sutekh Hexen - The Voice : The Void"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/become_0804f683f12c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/0341f12d3930c935c865/Become.tar"
+    }
+  }
+}
