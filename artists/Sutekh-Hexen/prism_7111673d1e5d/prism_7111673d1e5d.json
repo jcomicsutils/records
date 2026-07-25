@@ -1,0 +1,34 @@
+{
+  "id": "prism_7111673d1e5d",
+  "fingerprint": "7111673d1e5dee06da2c38be65aa92d3bff700a694d86ada5ef6244756643dd4",
+  "archived_at": "2026-07-25T06:47:26Z",
+  "metadata": {
+    "title": "P:R:I:S:M",
+    "artist": "Sutekh Hexen",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 3219,
+    "duration_human": "00:53:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sutekh Hexen, Funerary Call - Meridian Øº",
+      "02 Sutekh Hexen, Funerary Call - Infernal Folly",
+      "03 Sutekh Hexen, Funerary Call - Perilous Shade",
+      "04 Sutekh Hexen, Funerary Call - Towards the Eastern Gate",
+      "05 Sutekh Hexen, Funerary Call - Fractal - Void",
+      "06 Sutekh Hexen, Funerary Call - Íscend Obsidia",
+      "07 Sutekh Hexen, Funerary Call - Pangëa Ultima2 (Dread)",
+      "08 Sutekh Hexen, Funerary Call - Shores of Purgatory"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/prism_7111673d1e5d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/258ff79dd1c30a14f7bd/PRISM.tar"
+    }
+  }
+}
