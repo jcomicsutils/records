@@ -1,0 +1,31 @@
+{
+  "id": "zennias-the-big-stick-xxii_f8aabff6b573",
+  "fingerprint": "f8aabff6b5737a1e8a80ba1741c55eee3e603695623e3bc28490d9e9b0ae92d5",
+  "archived_at": "2026-07-25T01:43:57Z",
+  "metadata": {
+    "title": "Zennias (The Big Stick XXII)",
+    "artist": "Zeffon",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3792,
+    "duration_human": "01:03:12",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Pumice (Pagara / Many Hands)",
+      "02 Zeffon - Having the Time for Something Different",
+      "03 Zeffon - Pyrouh dhMeraredth",
+      "04 Zeffon - Lov Beam",
+      "05 Zeffon - Behind (Zennias)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zennias-the-big-stick-xxii_f8aabff6b573"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/4cde92e709ac34cc915a/Zennias_The_Big_Stick_XXII.tar"
+    }
+  }
+}
