@@ -1,0 +1,32 @@
+{
+  "id": "luciform_982ec3f3e786",
+  "fingerprint": "982ec3f3e78680d10b417d3a38f1e3f18988d58a591dc1c6a5d91d5fb87bc0ad",
+  "archived_at": "2026-07-25T06:00:10Z",
+  "metadata": {
+    "title": "Luciform",
+    "artist": "Sutekh Hexen",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1824,
+    "duration_human": "00:30:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Sutekh Hexen - The Great Whore",
+      "02 Sutekh Hexen - In Worship They Weep His Name",
+      "03 Sutekh Hexen - Chains",
+      "04 Sutekh Hexen - Serpents",
+      "05 Sutekh Hexen - Seraph",
+      "06 Sutekh Hexen - The Hermetic"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/luciform_982ec3f3e786"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/eb441fee40ad97a1210c/Luciform.tar"
+    }
+  }
+}
