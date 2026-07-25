@@ -1,0 +1,28 @@
+{
+  "id": "constellation_9a9ebf634370",
+  "fingerprint": "9a9ebf634370eac8733654cbba3ac8f70f7e6ea389bd8409956557b6893eb1c2",
+  "archived_at": "2026-07-25T05:16:46Z",
+  "metadata": {
+    "title": "Constellation",
+    "artist": "Sutekh Hexen",
+    "year": "2010",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 595,
+    "duration_human": "00:09:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Sutekh Hexen - The Calling",
+      "02 Sutekh Hexen - The Blessing"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/constellation_9a9ebf634370"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/00c7a989b83a82dbd3ea/Constellation.tar"
+    }
+  }
+}
