@@ -1,0 +1,28 @@
+{
+  "id": "ordo-adversarial_41b3b8a90062",
+  "fingerprint": "41b3b8a90062c2d91eeeebef85ce1eaf92af3237e861cb0e2ea2b2822df6d250",
+  "archived_at": "2026-07-25T06:26:37Z",
+  "metadata": {
+    "title": "Ordo Adversarial",
+    "artist": "Sutekh Hexen",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 600,
+    "duration_human": "00:10:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sutekh Hexen - Bled Thy Likeness",
+      "02 Sutekh Hexen - Murmur"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ordo-adversarial_41b3b8a90062"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/239a9f1acaaa1935d183/Ordo_Adversarial.tar"
+    }
+  }
+}

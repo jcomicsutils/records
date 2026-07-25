@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Ordo Adversarial](ordo-adversarial_41b3b8a90062/ordo-adversarial_41b3b8a90062.md) | 2010 | FLAC | 00:10:00 | [IA](https://archive.org/details/ordo-adversarial_41b3b8a90062) [FileDitch](https://fileditchfiles.st/beta17/239a9f1acaaa1935d183/Ordo_Adversarial.tar) |
 | [Alters](alters_e3e56f5ea992/alters_e3e56f5ea992.md) | 2010 | MP3 | 00:10:01 | [IA](https://archive.org/details/alters_e3e56f5ea992) [FileDitch](https://fileditchfiles.st/beta17/b9e7dd6095e3c491533b/Alters.tar) |
 | [Constellation](constellation_9a9ebf634370/constellation_9a9ebf634370.md) | 2010 | MP3 | 00:09:55 | [IA](https://archive.org/details/constellation_9a9ebf634370) [FileDitch](https://fileditchfiles.st/beta17/00c7a989b83a82dbd3ea/Constellation.tar) |
 | [Daemons](daemons_df99227325db/daemons_df99227325db.md) | 2011 | MP3 | 00:09:57 | [IA](https://archive.org/details/daemons_df99227325db) [FileDitch](https://fileditchfiles.st/beta17/0330b6df4af5a4ed4230/Daemons.tar) |
