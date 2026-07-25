@@ -1,0 +1,28 @@
+{
+  "id": "sutekh-hexen-blsphm_11ce772057b9",
+  "fingerprint": "11ce772057b9e0e20e3d3f280fabfb7648fad87ce7653099018c391c127fff9b",
+  "archived_at": "2026-07-25T07:09:53Z",
+  "metadata": {
+    "title": "Sutekh Hexen / BLSPHM",
+    "artist": "Sutekh Hexen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 611,
+    "duration_human": "00:10:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sutekh Hexen - Azure Graal",
+      "02 BLSPHM - Abyss 3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sutekh-hexen-blsphm_11ce772057b9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/12417f15e6af718b3072/Sutekh_Hexen_-_BLSPHM.tar"
+    }
+  }
+}
