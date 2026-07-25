@@ -1,0 +1,32 @@
+{
+  "id": "salem_1f0f4484ffa6",
+  "fingerprint": "1f0f4484ffa681493f178fa52ae3e463e936dc4b355b5d259a5652e38830839d",
+  "archived_at": "2026-07-25T06:51:02Z",
+  "metadata": {
+    "title": "Salem",
+    "artist": "Sutekh Hexen",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1744,
+    "duration_human": "00:29:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sutekh Hexen - Black Mirror",
+      "02 Sutekh Hexen - Visitor",
+      "03 Sutekh Hexen - A Nameless Knot",
+      "04 Sutekh Hexen - Acceptance (Praxis)",
+      "05 Sutekh Hexen - To Reveal",
+      "06 Sutekh Hexen - To Conceal"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/salem_1f0f4484ffa6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/6e8cf9def91dfce30efb/Salem.tar"
+    }
+  }
+}
