@@ -1,0 +1,36 @@
+{
+  "id": "sutekh-hexen_5bfc287f9c36",
+  "fingerprint": "5bfc287f9c36de5e2c74b37f8de9046d1e63c6857a54f0481d522afa2f9c94c7",
+  "archived_at": "2026-07-25T07:08:38Z",
+  "metadata": {
+    "title": "Sutekh Hexen",
+    "artist": "Sutekh Hexen",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3223,
+    "duration_human": "00:53:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sutekh Hexen - Descent",
+      "02 Sutekh Hexen - Eye of the Quill",
+      "03 Sutekh Hexen - Segue I: Ouroborus",
+      "04 Sutekh Hexen - SubStratus",
+      "05 Sutekh Hexen - Segue II: Xirang",
+      "06 Sutekh Hexen - Elemental Uproar",
+      "07 Sutekh Hexen - E Siel Enna Lehcim",
+      "08 Sutekh Hexen - Torrential",
+      "09 Sutekh Hexen - Segue III: Ascent",
+      "10 Sutekh Hexen - Pangea Ultima"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sutekh-hexen_5bfc287f9c36"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/fe59f3e32dc789e0cd4d/Sutekh_Hexen.tar"
+    }
+  }
+}
