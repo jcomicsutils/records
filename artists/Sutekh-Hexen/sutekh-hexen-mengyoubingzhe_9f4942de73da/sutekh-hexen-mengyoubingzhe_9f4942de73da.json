@@ -1,0 +1,28 @@
+{
+  "id": "sutekh-hexen-mengyoubingzhe_9f4942de73da",
+  "fingerprint": "9f4942de73dadabf4d91c5300793a11551a9cfed883564d751f39b8f6259df32",
+  "archived_at": "2026-07-25T07:13:06Z",
+  "metadata": {
+    "title": "Sutekh Hexen / 夢遊病者",
+    "artist": "Sutekh Hexen",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 593,
+    "duration_human": "00:09:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sutekh Hexen - ནག་པ་",
+      "02 夢遊病者 - 37.8227537-122.2505281"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sutekh-hexen-mengyoubingzhe_9f4942de73da"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/bf1a1c0c37629ba2fc00/Sutekh_Hexen.tar"
+    }
+  }
+}
