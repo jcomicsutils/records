@@ -1,0 +1,28 @@
+{
+  "id": "sutekh-hexen-hissing_7a332c1ae6c1",
+  "fingerprint": "7a332c1ae6c16002f29141afdfc0f5e2b64aae738ef3f098361f26d5e7121238",
+  "archived_at": "2026-07-25T07:11:42Z",
+  "metadata": {
+    "title": "Sutekh Hexen / Hissing",
+    "artist": "Sutekh Hexen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1726,
+    "duration_human": "00:28:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sutekh Hexen - Pareidolian",
+      "02 Hissing - Deserted Veins"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sutekh-hexen-hissing_7a332c1ae6c1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/5e3ace1360614ec04ef6/Sutekh_Hexen_-_Hissing.tar"
+    }
+  }
+}
