@@ -1,0 +1,33 @@
+{
+  "id": "constellation-ritualistic-altars-demons_08224c5d8980",
+  "fingerprint": "08224c5d8980db22a39b84dffbc58dda4d1a5990d85cfd6adb83c7ea41646250",
+  "archived_at": "2026-07-25T05:28:03Z",
+  "metadata": {
+    "title": "Constellation Ritualistic Altars : Demo(n)s",
+    "artist": "Sutekh Hexen",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2106,
+    "duration_human": "00:35:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sutekh Hexen - The Calling",
+      "02 Sutekh Hexen - The Blessing",
+      "03 Sutekh Hexen - Cursed Burial",
+      "04 Sutekh Hexen - Order of Nine",
+      "05 Sutekh Hexen - Equinox",
+      "06 Sutekh Hexen - Forest Witch",
+      "07 Sutekh Hexen - Obsidian Dawn"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/constellation-ritualistic-altars-demons_08224c5d8980"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/75e01f1683be0640c935/Constellation_Ritualistic_Altars_Demo_n_s.tar"
+    }
+  }
+}
