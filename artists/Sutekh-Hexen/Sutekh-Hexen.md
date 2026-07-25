@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Ritualistic](ritualistic_b0441c3a082b/ritualistic_b0441c3a082b.md) | 2010 | MP3 | 00:10:00 | [IA](https://archive.org/details/ritualistic_b0441c3a082b) [FileDitch](https://fileditchfiles.st/beta17/11748e267feff8cb50e2/Ritualistic.tar) |
 | [Ordo Adversarial](ordo-adversarial_41b3b8a90062/ordo-adversarial_41b3b8a90062.md) | 2010 | FLAC | 00:10:00 | [IA](https://archive.org/details/ordo-adversarial_41b3b8a90062) [FileDitch](https://fileditchfiles.st/beta17/239a9f1acaaa1935d183/Ordo_Adversarial.tar) |
 | [Alters](alters_e3e56f5ea992/alters_e3e56f5ea992.md) | 2010 | MP3 | 00:10:01 | [IA](https://archive.org/details/alters_e3e56f5ea992) [FileDitch](https://fileditchfiles.st/beta17/b9e7dd6095e3c491533b/Alters.tar) |
 | [Constellation](constellation_9a9ebf634370/constellation_9a9ebf634370.md) | 2010 | MP3 | 00:09:55 | [IA](https://archive.org/details/constellation_9a9ebf634370) [FileDitch](https://fileditchfiles.st/beta17/00c7a989b83a82dbd3ea/Constellation.tar) |

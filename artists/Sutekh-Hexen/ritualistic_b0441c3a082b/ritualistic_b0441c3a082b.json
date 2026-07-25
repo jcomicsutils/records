@@ -1,0 +1,28 @@
+{
+  "id": "ritualistic_b0441c3a082b",
+  "fingerprint": "b0441c3a082bc465e341b2095bfe54306841d7bf3d27d290f828f11e802df575",
+  "archived_at": "2026-07-25T06:48:42Z",
+  "metadata": {
+    "title": "Ritualistic",
+    "artist": "Sutekh Hexen",
+    "year": "2010",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 600,
+    "duration_human": "00:10:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Sutekh Hexen - Cursed Burial",
+      "02 Sutekh Hexen - Equinox"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ritualistic_b0441c3a082b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/11748e267feff8cb50e2/Ritualistic.tar"
+    }
+  }
+}
