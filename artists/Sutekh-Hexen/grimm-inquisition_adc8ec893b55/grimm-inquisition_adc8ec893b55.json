@@ -1,0 +1,27 @@
+{
+  "id": "grimm-inquisition_adc8ec893b55",
+  "fingerprint": "adc8ec893b552efd2ecc17b079d73dd990f8772d424b70e339c7d514c46fb219",
+  "archived_at": "2026-07-25T05:44:50Z",
+  "metadata": {
+    "title": "Grimm Inquisition",
+    "artist": "Sutekh Hexen",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1874,
+    "duration_human": "00:31:14",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sutekh Hexen - Grimm Inquisition"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/grimm-inquisition_adc8ec893b55"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/e4861f2ed673a897c2cd/Grimm_Inquisition.tar"
+    }
+  }
+}
