@@ -1,0 +1,27 @@
+{
+  "id": "yule-xv_cf2393817cce",
+  "fingerprint": "cf2393817cce4ad4953da4b6742621789cfb994bc130d3c0eb64c6a1a518e303",
+  "archived_at": "2026-07-25T07:18:58Z",
+  "metadata": {
+    "title": "Yule XV",
+    "artist": "Sutekh Hexen",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1702,
+    "duration_human": "00:28:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Sutekh Hexen - Yule XV"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/yule-xv_cf2393817cce"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/0033940097e0d81648fa/Yule_XV.tar"
+    }
+  }
+}
