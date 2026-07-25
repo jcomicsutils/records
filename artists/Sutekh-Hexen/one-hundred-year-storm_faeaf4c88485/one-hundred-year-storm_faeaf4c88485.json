@@ -1,0 +1,30 @@
+{
+  "id": "one-hundred-year-storm_faeaf4c88485",
+  "fingerprint": "faeaf4c8848585a947559095a769d75ebfc69301f3079fc5b28cda5bb1169c7f",
+  "archived_at": "2026-07-25T06:24:33Z",
+  "metadata": {
+    "title": "One Hundred Year Storm",
+    "artist": "Sutekh Hexen",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3424,
+    "duration_human": "00:57:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "1-01 Trepaneringsritualen & Sutekh Hexen - [untitled]",
+      "1-02 Trepaneringsritualen & Sutekh Hexen - [untitled]",
+      "2-01 Trepaneringsritualen & Sutekh Hexen - [untitled]",
+      "2-02 Trepaneringsritualen & Sutekh Hexen - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/one-hundred-year-storm_faeaf4c88485"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/a4adc4ce0fee2db7d240/One_Hundred_Year_Storm.tar"
+    }
+  }
+}
