@@ -1,0 +1,29 @@
+{
+  "id": "larvae_ba617697364a",
+  "fingerprint": "ba617697364a074f7951cd9c04504e71e290d107d4f6536ccadc2f5699219a7c",
+  "archived_at": "2026-07-25T05:50:47Z",
+  "metadata": {
+    "title": "Larvae",
+    "artist": "Sutekh Hexen",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1807,
+    "duration_human": "00:30:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sutekh Hexen - Isvar Savasana",
+      "02 Sutekh Hexen - Lead Us in Warfare",
+      "03 Sutekh Hexen - La Det Bli Lys"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/larvae_ba617697364a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/7390a570d7838743addc/Larvae.tar"
+    }
+  }
+}
