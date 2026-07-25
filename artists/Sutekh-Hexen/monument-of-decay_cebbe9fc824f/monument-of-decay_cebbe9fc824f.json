@@ -1,0 +1,30 @@
+{
+  "id": "monument-of-decay_cebbe9fc824f",
+  "fingerprint": "cebbe9fc824fd4f1558ed6e0ad91719d802333f70c17e543d885fce6c17d9419",
+  "archived_at": "2026-07-25T06:03:26Z",
+  "metadata": {
+    "title": "Monument of Decay",
+    "artist": "Sutekh Hexen",
+    "year": "2013",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1208,
+    "duration_human": "00:20:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Sutekh Hexen - Lastness",
+      "02 Sutekh Hexen - ...of Emanation",
+      "03 Sutekh Hexen - धूमवती बुभुक्षा",
+      "04 Sutekh Hexen - ل خــعــه"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/monument-of-decay_cebbe9fc824f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/66773e2f682d1e3ae7cb/Monument_of_Decay.tar"
+    }
+  }
+}
