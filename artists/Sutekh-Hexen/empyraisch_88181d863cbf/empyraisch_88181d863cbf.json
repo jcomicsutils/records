@@ -1,0 +1,32 @@
+{
+  "id": "empyraisch_88181d863cbf",
+  "fingerprint": "88181d863cbfbd144de49ada0fbbcc01e24453b59034b9fee2bc8dcfde6b01aa",
+  "archived_at": "2026-07-25T05:33:28Z",
+  "metadata": {
+    "title": "Empyräisch",
+    "artist": "Sutekh Hexen",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2590,
+    "duration_human": "00:43:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sutekh Hexen - Bled Thy Likeness",
+      "02 Sutekh Hexen - Murmur",
+      "03 Sutekh Hexen - Haunted",
+      "04 Sutekh Hexen - Haunting",
+      "05 Sutekh Hexen - Have You Seen Your Mother, Baby, Standing in the Shadows?",
+      "06 Sutekh Hexen - Live at Terminal / Oakland, CA November 9, 2010"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/empyraisch_88181d863cbf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/29333d962e67a0f09e3f/Empyr_isch.tar"
+    }
+  }
+}
