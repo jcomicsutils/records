@@ -1,0 +1,34 @@
+{
+  "id": "primeval_2028be4300ea",
+  "fingerprint": "2028be4300ea9823b4fccb5b1f74680c1c5b8b6c7b024f62aea1ada57d702708",
+  "archived_at": "2026-07-25T06:36:04Z",
+  "metadata": {
+    "title": "Primeval",
+    "artist": "Sutekh Hexen",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2165,
+    "duration_human": "00:36:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sutekh Hexen - Malediction",
+      "02 Sutekh Hexen - Severed & Sealed",
+      "03 Sutekh Hexen - River of Shadows",
+      "04 Sutekh Hexen - Moss Skull",
+      "05 Sutekh Hexen - Pyre",
+      "06 Sutekh Hexen - Orædjinn",
+      "07 Sutekh Hexen - Cavern Rite",
+      "08 Sutekh Hexen - The Clarion Call"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/primeval_2028be4300ea"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/10eba7dec497d14856a3/Primeval.tar"
+    }
+  }
+}
