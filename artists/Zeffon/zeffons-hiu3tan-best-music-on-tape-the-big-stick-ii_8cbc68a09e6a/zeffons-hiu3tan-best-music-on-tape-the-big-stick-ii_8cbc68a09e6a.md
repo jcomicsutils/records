@@ -1,0 +1,59 @@
+# Zeffon — Zeffon's 䖀3攤 Best Music on Tape (The Big Stick II) (2018)
+
+![Cover](https://archive.org/download/zeffons-hiu3tan-best-music-on-tape-the-big-stick-ii_8cbc68a09e6a/__ia_thumb.jpg)
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | 44.1kHz |
+| Bit Depth | 16-bit |
+| Tracks | 35 |
+| Duration | 16:00:54 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/zeffons-hiu3tan-best-music-on-tape-the-big-stick-ii_8cbc68a09e6a)
+- FileDitch: [Part 1](https://fileditchfiles.st/beta17/94f285891445300fc219/Zeffon_s_3_Best_Music_on_Tape_The_Big_Stick_II.part001.tar) [Part 2](https://fileditchfiles.st/beta17/cbafcf25fb827d0166b2/Zeffon_s_3_Best_Music_on_Tape_The_Big_Stick_II.part002.tar)
+
+## Tracklist
+
+```
+01 Zeffon - February Spring (I Am Strong)
+02 Zeffon - Keep Moving (Guin Orillanaum Viu Bones)
+03 Zeffon - Backwards the You (Edge Forest)
+04 Zeffon - Perfection Achieved in Karl Tube (Dia Not)
+05 Zeffon - Lo Prometheium (Bhdhâô)
+06 Zeffon - A Misunderstood Sulka (Ytred Purpleâôii Mandre)
+07 Zeffon - Mandarin (My Flute and My Orange Fruit)
+08 Zeffon - Goruwa (Frosty Permafrost)
+09 Zeffon - Huscale (Perpau)
+10 Zeffon - Mediator in Businoopaa (Stall Sapphire)
+11 Zeffon - The Swords Used to Slash Away the Vines (Subway)
+12 Zeffon - Hoo Cynopeion Freak (Owl That Flies In)
+13 Zeffon - Echoes in the Dimension (Wiy Did Yòôhu Go Away)
+14 Zeffon - Retry (Why Did You Go Away)
+15 Zeffon - Lite Oganesson Tube (The Hands that ╙╙╙╙╚ Show Whiteness 12)
+16 Zeffon - Darkness Autumn (A Mood)
+17 Zeffon - tHE tREK tHRØØGH THE dIMENSIØØN (Ancestors Reclaimed)
+18 Zeffon - Evolve Into Dissonance (Aloof Though Strange Son)
+19 Zeffon - The Stabbing of the Cardboard Man (Ocwsi)
+20 Zeffon - The Stabbing of Meyga, the Dragon (Ménzhàyágǔ-kǎiménménbiézhàkǎiménbiéguòzhàkǎizhàménzhàkǎikǎi-zhàmén)
+21 Zeffon - December Spring (To Travel on Breath / 儲儽䳾䳴㢯㤤㤭㤷㣎㚐埖埼埢堁㨂㨵㩖)
+22 Zeffon - Muroa Zopgras Ion (Made in Renton)
+23 Zeffon - Advocate (Nonsens-3)
+24 Zeffon - Psychological Warfare (Piscodemon)
+25 Zeffon - Superviolet Tru Holow (Glumoz, Part 1)
+26 Zeffon - Kularrmatra in the Experiment (Glkum)
+27 Zeffon - Indigo-Colored Snow (Glurekzma)
+28 Zeffon - The Stabbing of the Cardboard Advisor (Lkzma)
+29 Zeffon - I Du Not C.U. (Strata)
+30 Zeffon - Orange Peel (Glkoomza)
+31 Zeffon - Trapped in a House with Wallpaper (Addre)
+32 Zeffon - Jettison the Boosters (Telgkum Gra)
+33 Zeffon - Winter (Keroglkum, Part 2)
+34 Zeffon - Land of the Lost (Keroglkum, Part 1)
+35 Zeffon - The Tower (Keroglkum, Part 3)
+```
+
+---
+*Archived: 2026-07-25*
