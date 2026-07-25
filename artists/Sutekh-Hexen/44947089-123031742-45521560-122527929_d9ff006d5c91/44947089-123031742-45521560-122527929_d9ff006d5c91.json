@@ -1,0 +1,28 @@
+{
+  "id": "44947089-123031742-45521560-122527929_d9ff006d5c91",
+  "fingerprint": "d9ff006d5c91fc79de820387c4af6106c9016aa0d36cf09f48864419722933f2",
+  "archived_at": "2026-07-25T04:58:36Z",
+  "metadata": {
+    "title": "(44.947089, -123.031742) (45.521560, -122.527929)",
+    "artist": "Sutekh Hexen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 9425,
+    "duration_human": "02:37:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sutekh Hexen - ]A[",
+      "02 Sutekh Hexen - ]B["
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/44947089-123031742-45521560-122527929_d9ff006d5c91"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/ebb78e84a8abd9d97b5f/44.947089_-123.031742_45.521560_-122.527929.tar"
+    }
+  }
+}

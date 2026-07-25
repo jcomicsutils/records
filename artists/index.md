@@ -184,6 +184,7 @@
 - [Strawberry Hospital](Strawberry-Hospital/Strawberry-Hospital.md)
 - [Sugar Wounds](Sugar-Wounds/Sugar-Wounds.md)
 - [Sunn O\)\)\)](Sunn-O%29%29%29/Sunn-O%29%29%29.md)
+- [Sutekh Hexen](Sutekh-Hexen/Sutekh-Hexen.md)
 - [Tai Gostei](Tai-Gostei/Tai-Gostei.md)
 - [Tanya Tagaq](Tanya-Tagaq/Tanya-Tagaq.md)
 - [Tardigrada](Tardigrada/Tardigrada.md)
