@@ -1,0 +1,28 @@
+{
+  "id": "shadows_5aa528588dc7",
+  "fingerprint": "5aa528588dc7121875b9915a682988e234729059b25f349846e4f14143a27190",
+  "archived_at": "2026-07-25T06:52:52Z",
+  "metadata": {
+    "title": "Shadows",
+    "artist": "Sutekh Hexen",
+    "year": "2011",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 335,
+    "duration_human": "00:05:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Sutekh Hexen - Shadows",
+      "02 Sutekh Hexen - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/shadows_5aa528588dc7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/ca42821458a4aab27de3/Shadows.tar"
+    }
+  }
+}
