@@ -1,0 +1,27 @@
+{
+  "id": "the-power-to-condemn_759fd9f69561",
+  "fingerprint": "759fd9f695617219351b62dbbbd371820a4327e28646a02a24e316aa5197a38d",
+  "archived_at": "2026-07-25T07:17:13Z",
+  "metadata": {
+    "title": "The Power to Condemn",
+    "artist": "Sutekh Hexen",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1196,
+    "duration_human": "00:19:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sutekh Hexen - The Power to Condemn"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-power-to-condemn_759fd9f69561"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/269e94f9a38614a77d78/The_Power_to_Condemn.tar"
+    }
+  }
+}
