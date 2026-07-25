@@ -1,0 +1,28 @@
+{
+  "id": "shhs_49e2ee90f1c4",
+  "fingerprint": "49e2ee90f1c41664b3323340eba11c750b7f2a12b2874c044c9d10bcd634e103",
+  "archived_at": "2026-07-25T06:58:17Z",
+  "metadata": {
+    "title": "SH:HS",
+    "artist": "Sutekh Hexen",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1782,
+    "duration_human": "00:29:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sutekh Hexen, Hissing - 101817_LAX",
+      "02 Sutekh Hexen, Hissing - 060119_SEA"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/shhs_49e2ee90f1c4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/eb82be34e171f7dd65f2/SHHS.tar"
+    }
+  }
+}
