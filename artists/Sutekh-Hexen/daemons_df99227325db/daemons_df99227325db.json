@@ -1,0 +1,28 @@
+{
+  "id": "daemons_df99227325db",
+  "fingerprint": "df99227325db9bd4e632a24f9d1b6181155d5b5848ff9cd779e31e2b76215734",
+  "archived_at": "2026-07-25T05:29:31Z",
+  "metadata": {
+    "title": "Daemons",
+    "artist": "Sutekh Hexen",
+    "year": "2011",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 597,
+    "duration_human": "00:09:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Sutekh Hexen - Haunted",
+      "02 Sutekh Hexen - Haunting"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/daemons_df99227325db"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/0330b6df4af5a4ed4230/Daemons.tar"
+    }
+  }
+}
