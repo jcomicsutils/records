@@ -1,0 +1,27 @@
+{
+  "id": "laek_1c903c52e5d3",
+  "fingerprint": "1c903c52e5d3ab6ee830cf9e38e9d882430da83c09a9446e0043cc98f0309335",
+  "archived_at": "2026-07-25T05:46:55Z",
+  "metadata": {
+    "title": "LÆK¬",
+    "artist": "Sutekh Hexen",
+    "year": "2019",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 932,
+    "duration_human": "00:15:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Sutekh Hexen - LÆK¬"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/laek_1c903c52e5d3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/19383018d05f395346e4/L_K.tar"
+    }
+  }
+}
