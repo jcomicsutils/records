@@ -1,0 +1,28 @@
+{
+  "id": "behind-the-throne_fa6fa58fee44",
+  "fingerprint": "fa6fa58fee448e4094de30d8ccbc982f8baa89137e7596604d8038a4926f392c",
+  "archived_at": "2026-07-25T05:13:32Z",
+  "metadata": {
+    "title": "Behind the Throne",
+    "artist": "Sutekh Hexen",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1804,
+    "duration_human": "00:30:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sutekh Hexen - Part I",
+      "02 Sutekh Hexen - Part II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/behind-the-throne_fa6fa58fee44"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/82215af86c45c925ab9b/Behind_the_Throne.tar"
+    }
+  }
+}
