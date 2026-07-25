@@ -1,0 +1,28 @@
+{
+  "id": "alters_e3e56f5ea992",
+  "fingerprint": "e3e56f5ea992ac12f71b6fe7ec26a7966e8416af009f3b0d1303fc703838a5e7",
+  "archived_at": "2026-07-25T04:59:37Z",
+  "metadata": {
+    "title": "Alters",
+    "artist": "Sutekh Hexen",
+    "year": "2010",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 601,
+    "duration_human": "00:10:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Sutekh Hexen - Forest Witch",
+      "02 Sutekh Hexen - Obsidian Dawn"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/alters_e3e56f5ea992"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/b9e7dd6095e3c491533b/Alters.tar"
+    }
+  }
+}
