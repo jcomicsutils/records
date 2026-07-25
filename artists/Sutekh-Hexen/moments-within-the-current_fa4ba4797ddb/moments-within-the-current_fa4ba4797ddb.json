@@ -1,0 +1,30 @@
+{
+  "id": "moments-within-the-current_fa4ba4797ddb",
+  "fingerprint": "fa4ba4797ddb02ffebfc9fe4c01b78fc573ea38d764343eeda85207a23ae8098",
+  "archived_at": "2026-07-25T06:02:34Z",
+  "metadata": {
+    "title": "Moments Within the Current",
+    "artist": "Sutekh Hexen",
+    "year": "2013",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1195,
+    "duration_human": "00:19:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Sutekh Hexen - There Were Others Like You",
+      "02 Sutekh Hexen - And the Rest Bore No Resemblance",
+      "03 Sutekh Hexen - So We Did Bid Farewell to the Kindred",
+      "04 Sutekh Hexen - And Laid Amongst Their Thorns"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/moments-within-the-current_fa4ba4797ddb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta17/69367ffaf38143085f06/Moments_Within_the_Current.tar"
+    }
+  }
+}
