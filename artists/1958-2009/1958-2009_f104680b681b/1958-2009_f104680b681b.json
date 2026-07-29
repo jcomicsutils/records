@@ -1,0 +1,28 @@
+{
+  "id": "1958-2009_f104680b681b",
+  "fingerprint": "f104680b681bf69161fc2e9e5f70fa4b776300606bd87de38c2e43729f857049",
+  "archived_at": "2026-07-29T23:01:49Z",
+  "metadata": {
+    "title": "1958-2009",
+    "artist": "1958-2009",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2357,
+    "duration_human": "00:39:17",
+    "sampling_rate": "96kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 1958-2009 - [untitled]",
+      "02 1958-2009 - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1958-2009_f104680b681b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta18/0296153c6a0774845cb9/1958-2009_2011.tar"
+    }
+  }
+}
