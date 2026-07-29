@@ -1,0 +1,28 @@
+{
+  "id": "live_b16824739b65",
+  "fingerprint": "b16824739b6519fa39b8f11561bf706188a393c55005af329946ae8f8f150ae0",
+  "archived_at": "2026-07-29T23:11:28Z",
+  "metadata": {
+    "title": "Live",
+    "artist": "1958-2009",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1802,
+    "duration_human": "00:30:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "1-01 1958-2009 - [untitled]",
+      "2-01 1958-2009 - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live_b16824739b65"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta18/ac905c5c7c7ea4f64522/Live.tar"
+    }
+  }
+}
