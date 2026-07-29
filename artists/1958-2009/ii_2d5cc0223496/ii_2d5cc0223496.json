@@ -1,0 +1,29 @@
+{
+  "id": "ii_2d5cc0223496",
+  "fingerprint": "2d5cc0223496792901dee34a0d65f8b38290ae6d414e1345db1a8163361ffe31",
+  "archived_at": "2026-07-29T23:06:24Z",
+  "metadata": {
+    "title": "II",
+    "artist": "1958-2009",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1793,
+    "duration_human": "00:29:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 1958-2009 - [untitled]",
+      "02 1958-2009 - [untitled]",
+      "03 1958-2009 - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ii_2d5cc0223496"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta18/860661a665cf74721081/II.tar"
+    }
+  }
+}
