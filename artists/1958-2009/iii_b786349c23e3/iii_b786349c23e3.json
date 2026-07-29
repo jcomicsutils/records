@@ -1,0 +1,28 @@
+{
+  "id": "iii_b786349c23e3",
+  "fingerprint": "b786349c23e35cd63a1a132b979816b327bce78b5a2bd762fa5c7b6b08054678",
+  "archived_at": "2026-07-29T23:07:31Z",
+  "metadata": {
+    "title": "III",
+    "artist": "1958-2009",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1671,
+    "duration_human": "00:27:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 1958-2009 - [untitled]",
+      "02 1958-2009 - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/iii_b786349c23e3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta18/7ee4a10ded2d36d56944/III.tar"
+    }
+  }
+}
