@@ -1,0 +1,32 @@
+{
+  "id": "seja-bem-vindo-ao-terreo_3ba340164b96",
+  "fingerprint": "3ba340164b9612f1f6b7b93027149c9e0399e24314955ec7071e43461cbef55d",
+  "archived_at": "2026-07-31T04:46:37Z",
+  "metadata": {
+    "title": "SEJA BEM-VINDO AO TÉRREO",
+    "artist": "DATAMAFIA",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 806,
+    "duration_human": "00:13:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 DATAMAFIA - Odisseia Urbana",
+      "02 DATAMAFIA - Símbolos Bióticos",
+      "03 DATAMAFIA - Sobreviventes...",
+      "04 DATAMAFIA - Casualidades da Expressão Cósmica",
+      "05 DATAMAFIA - Café Expresso/Nome aos Poemas",
+      "06 DATAMAFIA - Imersos no Avidya"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/seja-bem-vindo-ao-terreo_3ba340164b96"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha21/6f49b4f7d939b64be81b/SEJA_BEM-VINDO_AO_T_RREO.tar"
+    }
+  }
+}
