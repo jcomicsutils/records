@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [A](a_0790eabb3f33/a_0790eabb3f33.md) | 2025 | FLAC | 00:09:26 | [IA](https://archive.org/details/a_0790eabb3f33) [FileDitch](https://fileditchfiles.st/beta19/8a2d623043a688bd9d8b/A.tar) |
 | [1937](1937_5363486fb15e/1937_5363486fb15e.md) | 2025 | FLAC | 00:09:25 | [IA](https://archive.org/details/1937_5363486fb15e) [FileDitch](https://fileditchfiles.st/beta19/51576af32b30b882dde1/1937.tar) |
 | [?](5bab61eb5317_70166f803995/5bab61eb5317_70166f803995.md) | 2025 | FLAC | 00:05:53 | [IA](https://archive.org/details/5bab61eb5317_70166f803995) [FileDitch](https://fileditchfiles.st/beta19/261e7c5cb8cb88820bc3/-.tar) |
 | [#seringasusadas!\(#meu.pulso.e.uma.coleção.de.traumas..\)](seringasusadasmeupulsoeumacolecaodetraumas_7a1a0fe688c2/seringasusadasmeupulsoeumacolecaodetraumas_7a1a0fe688c2.md) | 2026 | FLAC | 00:01:46 | [IA](https://archive.org/details/seringasusadasmeupulsoeumacolecaodetraumas_7a1a0fe688c2) [FileDitch](https://fileditchfiles.st/beta19/abdd7f55c922dc49f3eb/seringasusadas_meu.pulso.e.uma.cole_o.de.traumas.tar) |

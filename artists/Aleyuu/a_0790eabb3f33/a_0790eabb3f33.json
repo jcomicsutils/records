@@ -1,0 +1,33 @@
+{
+  "id": "a_0790eabb3f33",
+  "fingerprint": "0790eabb3f3383b51b6cde4baeb52eaa970d841a14d7b9bd1d1f8bf4ccdc8fad",
+  "archived_at": "2026-08-01T19:05:41Z",
+  "metadata": {
+    "title": "A",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 566,
+    "duration_human": "00:09:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Aleyuu - sentimentos ainda vão me matar",
+      "02 Aleyuu - afirmações falsas",
+      "03 Aleyuu - umbral",
+      "04 Aleyuu - o suicida na ansia de matar a dor, acaba matando a vida",
+      "05 Aleyuu - sinto mais nostalgia do que o amor",
+      "06 Aleyuu - tudo acabou ficando no passado",
+      "07 Aleyuu - ignorantes"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a_0790eabb3f33"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/8a2d623043a688bd9d8b/A.tar"
+    }
+  }
+}
