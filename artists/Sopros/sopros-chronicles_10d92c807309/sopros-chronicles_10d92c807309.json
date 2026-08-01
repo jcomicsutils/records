@@ -1,0 +1,34 @@
+{
+  "id": "sopros-chronicles_10d92c807309",
+  "fingerprint": "10d92c80730937af5417743c2b6de5a1bd0f2347844d700ea5a5969501ff4346",
+  "archived_at": "2026-08-01T04:32:33Z",
+  "metadata": {
+    "title": "Sopros Chronicles",
+    "artist": "Sopros",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 726,
+    "duration_human": "00:12:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sopros - eu não quero mais",
+      "02 Sopros - esquecida",
+      "03 Sopros - breaking bad",
+      "04 Sopros - cabulando aula",
+      "05 Sopros - pq não tenta se abrir? :",
+      "06 Sopros - marte",
+      "07 Sopros - dona morte",
+      "08 Sopros - enchendo o saco (remix) - faixa bônus"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sopros-chronicles_10d92c807309"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/1a9700cb75c5c429b2da/Sopros_Chronicles.tar"
+    }
+  }
+}
