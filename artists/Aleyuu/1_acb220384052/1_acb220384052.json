@@ -1,0 +1,31 @@
+{
+  "id": "1_acb220384052",
+  "fingerprint": "acb2203840527f20d75b8f11b79d651b4db9020d3528cba58e52f3ec106ac6e3",
+  "archived_at": "2026-08-01T19:01:42Z",
+  "metadata": {
+    "title": "1",
+    "artist": "Aleyuu",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 434,
+    "duration_human": "00:07:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aleyuu - porque você não olha mais pra mim?",
+      "02 Aleyuu - você só me ve como amigo.",
+      "03 Aleyuu - quero cuidar dos seus machucados",
+      "04 Aleyuu - sentados na escada",
+      "05 Aleyuu - eu não me sinto bem em lugar algum"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1_acb220384052"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/8136837490e2de8fb508/1.tar"
+    }
+  }
+}
