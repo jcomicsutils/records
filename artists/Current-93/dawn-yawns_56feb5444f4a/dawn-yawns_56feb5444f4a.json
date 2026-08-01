@@ -1,0 +1,28 @@
+{
+  "id": "dawn-yawns_56feb5444f4a",
+  "fingerprint": "56feb5444f4a78406cfb61cc259e0ee84530f632087f04de1067bb46e16146ee",
+  "archived_at": "2026-08-01T18:37:10Z",
+  "metadata": {
+    "title": "Dawn Yawns",
+    "artist": "Current 93",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1972,
+    "duration_human": "00:32:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Current 93 - Dawn Yawns",
+      "02 Current 93 - Dawn Yawns"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dawn-yawns_56feb5444f4a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/5b62dc2e323cad76f63f/Dawn_Yawns.tar"
+    }
+  }
+}
