@@ -16,6 +16,7 @@
 - [Alcest](Alcest/Alcest.md)
 - [Alexander Gregory Kent](Alexander-Gregory-Kent/Alexander-Gregory-Kent.md)
 - [Alexander Panos](Alexander-Panos/Alexander-Panos.md)
+- [Aleyuu](Aleyuu/Aleyuu.md)
 - [Algebra Suicide](Algebra-Suicide/Algebra-Suicide.md)
 - [Amnesia Scanner](Amnesia-Scanner/Amnesia-Scanner.md)
 - [Amor Muere](Amor-Muere/Amor-Muere.md)

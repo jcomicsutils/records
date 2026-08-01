@@ -1,0 +1,30 @@
+{
+  "id": "5bab61eb5317_70166f803995",
+  "fingerprint": "70166f803995c440f7bf25ebff0d1658fd5b811c531395c6dac5325840a60c6f",
+  "archived_at": "2026-08-01T18:58:53Z",
+  "metadata": {
+    "title": "?",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 353,
+    "duration_human": "00:05:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Aleyuu - AMIGOS",
+      "02 Aleyuu - WHAT",
+      "03 Aleyuu - BAIXO ASTRAL",
+      "04 Aleyuu - Alyssa e James"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/5bab61eb5317_70166f803995"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/261e7c5cb8cb88820bc3/-.tar"
+    }
+  }
+}
