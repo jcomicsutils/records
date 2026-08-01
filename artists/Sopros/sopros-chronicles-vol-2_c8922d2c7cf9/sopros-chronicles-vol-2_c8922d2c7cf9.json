@@ -1,0 +1,45 @@
+{
+  "id": "sopros-chronicles-vol-2_c8922d2c7cf9",
+  "fingerprint": "c8922d2c7cf99ad1e436ab47711d450dd5d1bbe2870d364f509ac5cf2af83b30",
+  "archived_at": "2026-08-01T04:51:08Z",
+  "metadata": {
+    "title": "Sopros Chronicles, Vol. 2",
+    "artist": "Sopros",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 19,
+    "duration_seconds": 2170,
+    "duration_human": "00:36:10",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Sopros - morrer sozinho",
+      "02 Sopros - agora é tudo tão novo",
+      "03 Sopros - em cima do altar",
+      "04 Sopros - divertida",
+      "05 Sopros - alguem mais interessante",
+      "06 Sopros - quis saber",
+      "07 Sopros - maniaco",
+      "08 Sopros - ice cream scoops",
+      "09 Sopros - nenhuma delas",
+      "10 Sopros - persistir",
+      "11 Sopros - diadema jerk",
+      "12 Sopros - não vem me olhar freestyle",
+      "13 Sopros - sobpressão",
+      "14 Sopros - juggs",
+      "15 Sopros - tanto (p2)",
+      "16 Sopros - marte (remake)",
+      "17 Sopros - se isso for real eu quero que me levem logo v2",
+      "18 Sopros - bitcrush (remake)",
+      "19 Sopros - NA RLK DO FREE JAYDES PRA COMEMORAR A LIBERDADE DO MITO (faixa bonus)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sopros-chronicles-vol-2_c8922d2c7cf9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/e2959cf0ce1055ed20ca/Sopros_Chronicles_Vol._2.tar"
+    }
+  }
+}
