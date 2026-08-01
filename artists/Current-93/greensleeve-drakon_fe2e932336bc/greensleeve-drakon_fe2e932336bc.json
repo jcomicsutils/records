@@ -1,0 +1,28 @@
+{
+  "id": "greensleeve-drakon_fe2e932336bc",
+  "fingerprint": "fe2e932336bca00184bba600ac0d4d30fce9884ac16a39f46eb0a54a106d1e9c",
+  "archived_at": "2026-08-01T18:38:28Z",
+  "metadata": {
+    "title": "GreenSleeve Drakōn",
+    "artist": "Current 93",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1578,
+    "duration_human": "00:26:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Current 93 - GreenSleeve Drakōn",
+      "02 Current 93 - GreenSleeve Drakōn"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/greensleeve-drakon_fe2e932336bc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/d5df0607daf04f79f51b/GreenSleeve_Drak_n.tar"
+    }
+  }
+}
