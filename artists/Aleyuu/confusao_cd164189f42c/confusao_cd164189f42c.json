@@ -1,0 +1,27 @@
+{
+  "id": "confusao_cd164189f42c",
+  "fingerprint": "cd164189f42ccebe265f8f63152d3100f3f825725a57b3de1da34139b95094c3",
+  "archived_at": "2026-08-01T19:39:57Z",
+  "metadata": {
+    "title": "Confusão",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 533,
+    "duration_human": "00:08:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aleyuu - Confusão"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/confusao_cd164189f42c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/f0ee293221073c6358b8/Confus_o.tar"
+    }
+  }
+}
