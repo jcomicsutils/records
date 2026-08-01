@@ -1,0 +1,28 @@
+{
+  "id": "as-real-as-scarecrows_18947b4b8b6a",
+  "fingerprint": "18947b4b8b6a25e7928643003374d61f21daa040912442d5df23af45d41c6e48",
+  "archived_at": "2026-08-01T18:34:48Z",
+  "metadata": {
+    "title": "As Real as ScareCrows",
+    "artist": "Current 93",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1578,
+    "duration_human": "00:26:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Current 93 - As Real as ScareCrows",
+      "02 Current 93 - As Real as ScareCrows"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/as-real-as-scarecrows_18947b4b8b6a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/775b5a224bd57c89f734/As_Real_as_ScareCrows.tar"
+    }
+  }
+}
