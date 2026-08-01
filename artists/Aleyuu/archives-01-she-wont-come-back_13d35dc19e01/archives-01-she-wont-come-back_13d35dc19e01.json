@@ -1,0 +1,28 @@
+{
+  "id": "archives-01-she-wont-come-back_13d35dc19e01",
+  "fingerprint": "13d35dc19e01d14779fc9dda3133da9925714c292c1f1dbea29e72e58db3ae7d",
+  "archived_at": "2026-08-01T19:22:37Z",
+  "metadata": {
+    "title": "Archives 01: she won't come back",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 210,
+    "duration_human": "00:03:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Aleyuu - não serei capaz",
+      "02 Aleyuu - diferente"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/archives-01-she-wont-come-back_13d35dc19e01"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/d1752d168fa5f40aef2e/Archives_01_she_won_t_come_back.tar"
+    }
+  }
+}
