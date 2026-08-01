@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [ALEYUU TAPES](aleyuu-tapes_db9adca42e00/aleyuu-tapes_db9adca42e00.md) | 2025 | FLAC | 00:22:06 | [IA](https://archive.org/details/aleyuu-tapes_db9adca42e00) [FileDitch](https://fileditchfiles.st/beta19/4731c3b6611355230ee2/ALEYUU_TAPES.tar) |
+| [BIPOLARITYUU](bipolarityuu_bf19c933c94c/bipolarityuu_bf19c933c94c.md) | 2025 | FLAC | 00:13:59 | [IA](https://archive.org/details/bipolarityuu_bf19c933c94c) [FileDitch](https://fileditchfiles.st/beta19/84fd83953074b560c25d/BIPOLARITYUU.tar) |
 | [after you left](after-you-left_929aa78dd11d/after-you-left_929aa78dd11d.md) | 2025 | FLAC | 00:06:44 | [IA](https://archive.org/details/after-you-left_929aa78dd11d) [FileDitch](https://fileditchfiles.st/beta19/75f46871afb3c960e044/after_you_left.tar) |
 | [aleyuuzip](aleyuuzip_e6b2f2203f46/aleyuuzip_e6b2f2203f46.md) | 2025 | FLAC | 00:29:43 | [IA](https://archive.org/details/aleyuuzip_e6b2f2203f46) [FileDitch](https://fileditchfiles.st/beta19/8bf3334c49c8531c9e91/aleyuuzip.tar) |
 | [aleyuu e um sentimento](aleyuu-e-um-sentimento_6d92692db024/aleyuu-e-um-sentimento_6d92692db024.md) | 2025 | FLAC | 00:07:22 | [IA](https://archive.org/details/aleyuu-e-um-sentimento_6d92692db024) [FileDitch](https://fileditchfiles.st/beta19/2e857ce1bbadac57eee8/aleyuu_e_um_sentimento.tar) |

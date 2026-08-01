@@ -1,0 +1,35 @@
+{
+  "id": "bipolarityuu_bf19c933c94c",
+  "fingerprint": "bf19c933c94ce9adc1976fe4021f2e9f13af2ad1c2a2b232f4ae10ee37ce8ead",
+  "archived_at": "2026-08-01T19:34:00Z",
+  "metadata": {
+    "title": "BIPOLARITYUU",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 839,
+    "duration_human": "00:13:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Aleyuu - BASE PEQUENA",
+      "02 Aleyuu - JAPÃO",
+      "03 Aleyuu - PENSAMENTOS",
+      "04 Aleyuu - MARGINAL",
+      "05 Aleyuu - GAROTA ZUMBI",
+      "06 Aleyuu - ELES TÃO DE OLHO",
+      "07 Aleyuu - CONTENÇÃO",
+      "08 Aleyuu - ESCOPETA",
+      "09 Aleyuu - GOVERNO"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bipolarityuu_bf19c933c94c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/84fd83953074b560c25d/BIPOLARITYUU.tar"
+    }
+  }
+}
