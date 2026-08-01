@@ -1,0 +1,32 @@
+{
+  "id": "aleyuu-e-um-sentimento_6d92692db024",
+  "fingerprint": "6d92692db024cd0573424513474bcc8bd2a7a9760cbd3c6c98f5267c21f47f3c",
+  "archived_at": "2026-08-01T19:13:29Z",
+  "metadata": {
+    "title": "aleyuu e um sentimento",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 442,
+    "duration_human": "00:07:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Aleyuu - imaginei um futuro pra gente",
+      "02 Aleyuu - estou piorando",
+      "03 Aleyuu - chateado",
+      "04 Aleyuu - acorde ruim",
+      "05 Aleyuu - caminho da perdição (remasterezida)",
+      "06 Aleyuu - oceano repleto de emoçoes"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/aleyuu-e-um-sentimento_6d92692db024"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/2e857ce1bbadac57eee8/aleyuu_e_um_sentimento.tar"
+    }
+  }
+}
