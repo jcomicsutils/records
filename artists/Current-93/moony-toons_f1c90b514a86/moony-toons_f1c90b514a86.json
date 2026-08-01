@@ -1,0 +1,28 @@
+{
+  "id": "moony-toons_f1c90b514a86",
+  "fingerprint": "f1c90b514a864d4e64e6eed77b761c02ed675bb38982709589d822252d298687",
+  "archived_at": "2026-08-01T18:41:12Z",
+  "metadata": {
+    "title": "Moony Toons",
+    "artist": "Current 93",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2429,
+    "duration_human": "00:40:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Current 93 - Moony Toons",
+      "02 Current 93 - Moony Toons"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/moony-toons_f1c90b514a86"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/c775122fdb66741a8612/Moony_Toons.tar"
+    }
+  }
+}
