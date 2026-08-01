@@ -1,0 +1,32 @@
+{
+  "id": "after-you-left_929aa78dd11d",
+  "fingerprint": "929aa78dd11dc37edc0adfa599a3314ae7325ea6ca1d98c8a350286576805523",
+  "archived_at": "2026-08-01T19:10:48Z",
+  "metadata": {
+    "title": "after you left",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 404,
+    "duration_human": "00:06:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Aleyuu - vc sabe como vai acabar",
+      "02 Aleyuu - fantasmas",
+      "03 Aleyuu - Insuficiente",
+      "04 Aleyuu - Saudades",
+      "05 Aleyuu - suas fotos",
+      "06 Aleyuu - paranoias"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/after-you-left_929aa78dd11d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/75f46871afb3c960e044/after_you_left.tar"
+    }
+  }
+}
