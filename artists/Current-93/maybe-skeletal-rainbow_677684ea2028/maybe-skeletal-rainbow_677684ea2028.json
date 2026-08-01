@@ -1,0 +1,28 @@
+{
+  "id": "maybe-skeletal-rainbow_677684ea2028",
+  "fingerprint": "677684ea20286ce973632a76a9f2c792f14c53f6bfbd8173445e34f0f2b0e8c4",
+  "archived_at": "2026-08-01T18:39:30Z",
+  "metadata": {
+    "title": "MayBe Skeletal RainBow",
+    "artist": "Current 93",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1578,
+    "duration_human": "00:26:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Current 93 - MayBe Skeletal RainBow",
+      "02 Current 93 - MayBe Skeletal RainBow"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/maybe-skeletal-rainbow_677684ea2028"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/819fc59ea8342086f166/MayBe_Skeletal_RainBow.tar"
+    }
+  }
+}
