@@ -1,0 +1,27 @@
+{
+  "id": "casaco-de-couro_703cb336ad65",
+  "fingerprint": "703cb336ad650d66152b7d8cbeee6eb46657e57a4cc93c4fe44fc5c44afc5096",
+  "archived_at": "2026-08-01T19:35:57Z",
+  "metadata": {
+    "title": "casaco de couro",
+    "artist": "Aleyuu",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 106,
+    "duration_human": "00:01:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aleyuu, yurichan - casaco de couro"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/casaco-de-couro_703cb336ad65"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/9f9abd62c5e8a481ada8/casaco_de_couro.tar"
+    }
+  }
+}
