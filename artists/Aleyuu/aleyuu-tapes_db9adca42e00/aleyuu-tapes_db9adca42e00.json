@@ -1,0 +1,36 @@
+{
+  "id": "aleyuu-tapes_db9adca42e00",
+  "fingerprint": "db9adca42e00bdfccdcc35ae09dbba475a6b4afb320685ded63b621c54bfcbde",
+  "archived_at": "2026-08-01T19:16:34Z",
+  "metadata": {
+    "title": "ALEYUU TAPES",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 1326,
+    "duration_human": "00:22:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Aleyuu - Liguei a webcam :",
+      "02 Aleyuu - ＞＞＞eu sei que minha ausência vai te machucar me desculpa!＜＜＜",
+      "03 Aleyuu - do que vale essa raiva e toda essa revolta??",
+      "04 Aleyuu - FrankOcean TypeBeat",
+      "05 Aleyuu - casal (im)perfeito ♡ ♡ ♡ ♡",
+      "06 Aleyuu - busque pela chave do jardim",
+      "07 Aleyuu - penso em morrer em fins de sábados",
+      "08 Aleyuu - eu cuido de vc! <3 (eu tento ser normal.)",
+      "09 Aleyuu - garotas bobinhas querem algo serio",
+      "10 Aleyuu - desliga o computador"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/aleyuu-tapes_db9adca42e00"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/4731c3b6611355230ee2/ALEYUU_TAPES.tar"
+    }
+  }
+}
