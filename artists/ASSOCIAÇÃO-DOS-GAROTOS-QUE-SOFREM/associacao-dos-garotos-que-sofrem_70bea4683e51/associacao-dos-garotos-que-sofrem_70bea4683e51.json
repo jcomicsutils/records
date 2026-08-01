@@ -1,0 +1,32 @@
+{
+  "id": "associacao-dos-garotos-que-sofrem_70bea4683e51",
+  "fingerprint": "70bea4683e512950aa03fcef495112a92bc8e79899f57252403cb52391abf7b0",
+  "archived_at": "2026-08-01T04:28:29Z",
+  "metadata": {
+    "title": "ASSOCIAÇÃO DOS GAROTOS QUE SOFREM",
+    "artist": "ASSOCIAÇÃO DOS GAROTOS QUE SOFREM",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 704,
+    "duration_human": "00:11:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 ASSOCIAÇÃO DOS GAROTOS QUE SOFREM - ultragaz",
+      "02 ASSOCIAÇÃO DOS GAROTOS QUE SOFREM - eu não tenho opção",
+      "03 ASSOCIAÇÃO DOS GAROTOS QUE SOFREM - mentiras do meu dia",
+      "04 ASSOCIAÇÃO DOS GAROTOS QUE SOFREM - isso me confunde e eu não suporto mais",
+      "05 ASSOCIAÇÃO DOS GAROTOS QUE SOFREM - me ligue amanhã",
+      "06 ASSOCIAÇÃO DOS GAROTOS QUE SOFREM - imperfeito"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/associacao-dos-garotos-que-sofrem_70bea4683e51"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/d286129a26325f889d9d/ASSOCIA_O_DOS_GAROTOS_QUE_SOFREM.tar"
+    }
+  }
+}
