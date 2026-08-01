@@ -1,0 +1,27 @@
+{
+  "id": "coisas-nao-pude-esclarecer_7c7ee07d88af",
+  "fingerprint": "7c7ee07d88af602f71c8a0535b66b94c314902e4eff1aac5f9746cb203e7a3b5",
+  "archived_at": "2026-08-01T19:36:42Z",
+  "metadata": {
+    "title": "coisas não pude esclarecer",
+    "artist": "Aleyuu",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 145,
+    "duration_human": "00:02:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aleyuu, Sopros - coisas não pude esclarecer"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/coisas-nao-pude-esclarecer_7c7ee07d88af"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/1702c29cb0bc34db50f0/coisas_n_o_pude_esclarecer.tar"
+    }
+  }
+}
