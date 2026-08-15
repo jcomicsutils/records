@@ -21,6 +21,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.st/beta22/cc0185c59c4fda2c9121/Shining_Threshold.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/shining-threshold_ee9a23704df1"
     }
   }
 }
