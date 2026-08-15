@@ -1,0 +1,26 @@
+{
+  "id": "shining-threshold_ee9a23704df1",
+  "fingerprint": "ee9a23704df165567d0a4aa75c6a9f37a3537beddad756acbca861768c1762bd",
+  "archived_at": "2026-08-15T18:31:03Z",
+  "metadata": {
+    "title": "Shining Threshold",
+    "artist": "Celestial Key",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 875,
+    "duration_human": "00:14:35",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Celestial Key - Channeling Archaic Starlight",
+      "02 Celestial Key - The Smiling Curtain",
+      "03 Celestial Key - Timeworn Gates of Awakening"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/cc0185c59c4fda2c9121/Shining_Threshold.tar"
+    }
+  }
+}

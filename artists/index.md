@@ -54,6 +54,7 @@
 - [Burning Witch](Burning-Witch/Burning-Witch.md)
 - [Cadu Tenório](Cadu-Tenório/Cadu-Tenório.md)
 - [Ceeys](Ceeys/Ceeys.md)
+- [Celestial Key](Celestial-Key/Celestial-Key.md)
 - [Chaos Royale](Chaos-Royale/Chaos-Royale.md)
 - [Chas Smith](Chas-Smith/Chas-Smith.md)
 - [Chino Amobi](Chino-Amobi/Chino-Amobi.md)
