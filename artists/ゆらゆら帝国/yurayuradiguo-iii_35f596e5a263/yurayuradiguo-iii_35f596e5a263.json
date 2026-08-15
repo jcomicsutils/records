@@ -1,0 +1,36 @@
+{
+  "id": "yurayuradiguo-iii_35f596e5a263",
+  "fingerprint": "35f596e5a2636f3d72d36f538ff7b5b61eae48915325542208d17b59a9921c8a",
+  "archived_at": "2026-08-03T21:27:20Z",
+  "metadata": {
+    "title": "ゆらゆら帝国 III",
+    "artist": "ゆらゆら帝国",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2965,
+    "duration_human": "00:49:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 ゆらゆら帝国 - Dekkai Question Mark",
+      "02 ゆらゆら帝国 - Lame No Pantaloons",
+      "03 ゆらゆら帝国 - Yurei No Kekkonshiki",
+      "04 ゆらゆら帝国 - Machibito",
+      "05 ゆらゆら帝国 - Yura Yura Teikoku De Kangaechu (Album Version)",
+      "06 ゆらゆら帝国 - Otoko Wa Fuantei",
+      "07 ゆらゆら帝国 - Suna No Oshiro",
+      "08 ゆらゆら帝国 - Atama Ijo Nashi",
+      "09 ゆらゆら帝国 - Atama Tansan",
+      "10 ゆらゆら帝国 - Shonen Wa Yume No Naka"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/yurayuradiguo-iii_35f596e5a263"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/fa6152a462ee7fb045f0/III.tar"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "lagrimas-de-2002_49e4a096662e",
+  "fingerprint": "49e4a096662e6c56bfa9f3ce1698848fbf24c53c994261013b987ccee6181be2",
+  "archived_at": "2026-08-02T00:52:28Z",
+  "metadata": {
+    "title": "LÁGRIMAS DE 2002",
+    "artist": "Aleyuu",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 126,
+    "duration_human": "00:02:06",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sopros, Aleyuu - LÁGRIMAS DE 2002"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lagrimas-de-2002_49e4a096662e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/10664ad7b39a8e56e9f2/L_GRIMAS_DE_2002.tar"
+    }
+  }
+}

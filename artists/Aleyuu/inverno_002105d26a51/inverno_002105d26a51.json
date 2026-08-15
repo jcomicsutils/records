@@ -1,0 +1,27 @@
+{
+  "id": "inverno_002105d26a51",
+  "fingerprint": "002105d26a510ac97ada18f5b1a0bb613c19b87d31ae3ba25b5fd7883d5b3987",
+  "archived_at": "2026-08-02T00:48:41Z",
+  "metadata": {
+    "title": "inverno",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 130,
+    "duration_human": "00:02:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aleyuu, Sopros - inverno"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/inverno_002105d26a51"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/9f282b56e1c2dabfbd0b/inverno.tar"
+    }
+  }
+}

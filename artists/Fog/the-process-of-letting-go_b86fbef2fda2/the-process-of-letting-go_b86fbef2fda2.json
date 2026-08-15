@@ -1,0 +1,27 @@
+{
+  "id": "the-process-of-letting-go_b86fbef2fda2",
+  "fingerprint": "b86fbef2fda2fafbaa14af616161e258a0210cfde3720c5aff89087f5734ef06",
+  "archived_at": "2026-08-05T03:19:06Z",
+  "metadata": {
+    "title": "The Process of Letting Go",
+    "artist": "Fog",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 660,
+    "duration_human": "00:11:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "00 Fog - The Process of Letting Go"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-process-of-letting-go_b86fbef2fda2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/303da2d2a04ea64a0e32/The_Process_of_Letting_Go.tar"
+    }
+  }
+}

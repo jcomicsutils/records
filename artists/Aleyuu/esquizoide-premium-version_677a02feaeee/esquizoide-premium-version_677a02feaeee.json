@@ -1,0 +1,28 @@
+{
+  "id": "esquizoide-premium-version_677a02feaeee",
+  "fingerprint": "677a02feaeeefccfffa6e3098cf9abd0574de084d519b38c493701e8ca669e06",
+  "archived_at": "2026-08-02T00:28:43Z",
+  "metadata": {
+    "title": "ESQUIZOIDE (PREMIUM VERSION)",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 209,
+    "duration_human": "00:03:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aleyuu - você prova que eu sou cheirador de pó (BAD VERSION)",
+      "02 Aleyuu - ESQUIZOIDE (DELUXE VERSION)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/esquizoide-premium-version_677a02feaeee"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/afaed5911e3de648da1f/ESQUIZOIDE_PREMIUM_VERSION.tar"
+    }
+  }
+}

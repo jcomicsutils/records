@@ -1,0 +1,28 @@
+{
+  "id": "rlyeh_fab5bac457c0",
+  "fingerprint": "fab5bac457c06dbfae387288f4007726ff234ff76577cea95fc328efa802acc7",
+  "archived_at": "2026-08-08T07:42:00Z",
+  "metadata": {
+    "title": "R'lyeh",
+    "artist": "Omniman",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 670,
+    "duration_human": "00:11:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Omniman II - R'lyeh (Deep Time)",
+      "02 YSMHB - R'lyeh (City of Cthulhu)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rlyeh_fab5bac457c0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta20/8c8ddd5af3a6809e638f/R_lyeh_2014_2.tar"
+    }
+  }
+}

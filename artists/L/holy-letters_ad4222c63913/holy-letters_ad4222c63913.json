@@ -1,0 +1,40 @@
+{
+  "id": "holy-letters_ad4222c63913",
+  "fingerprint": "ad4222c6391337e14c807036dd8339d20da18dfcd7aef08b0db7db2d50d8123f",
+  "archived_at": "2026-08-02T02:39:40Z",
+  "metadata": {
+    "title": "Holy Letters",
+    "artist": "L",
+    "year": "1994",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 4141,
+    "duration_human": "01:09:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 L - Cold Was The Ground",
+      "02 L - Blues Trip #1",
+      "03 L - Blues Trip #2",
+      "04 L - Blues Trip #3",
+      "05 L - Utusimi",
+      "06 L - Holy Letter",
+      "07 L - Benares Blue",
+      "08 L - Blues Trip #4",
+      "09 L - Troll",
+      "10 L - Blues Trip #5",
+      "11 L - Kiev",
+      "12 L - Azrini",
+      "13 L - Harvest",
+      "14 L - Troll (Alternate)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/holy-letters_ad4222c63913"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/42a5c8b14ab51661144f/Holy_Letters.tar"
+    }
+  }
+}

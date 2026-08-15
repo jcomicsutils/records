@@ -1,0 +1,41 @@
+{
+  "id": "atoms-and-realities_e81456285899",
+  "fingerprint": "e814562858994e16cda8d2b1b85000d8c6408fb8a48959acde0f0e8b6d386c1d",
+  "archived_at": "2026-08-08T07:07:18Z",
+  "metadata": {
+    "title": "Atoms and Realities",
+    "artist": "Omniman",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 4206,
+    "duration_human": "01:10:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Omniman II - Neuron",
+      "02 Omniman - Samadhi Orbwolves",
+      "03 Omniman II - 2,000 Years",
+      "04 Omniman - Not Liked",
+      "05 Omniman II - Before the Stars",
+      "06 Omniman II - Cultural Synthesis Spoken Word",
+      "07 Omniman II - The Thoughts of the Maa",
+      "08 Omniman - The Karmic Brainseed Wheel",
+      "09 Omniman - & I'm a Professor Too",
+      "10 Omniman - Never Liked",
+      "11 Omniman II - R'lyeh (Deep Time)",
+      "12 Omniman - Omniform",
+      "13 Omniman II - Theology Never Holds Itself Apart From Mysticism",
+      "14 Omniman II - Astral Solar Systems",
+      "15 Omniman - Experimusica Decomposure (Profusion to Dismaterialized Genitilia) '92"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/atoms-and-realities_e81456285899"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta20/e6ddac66ad5b4c202670/Atoms_and_Realities.tar"
+    }
+  }
+}

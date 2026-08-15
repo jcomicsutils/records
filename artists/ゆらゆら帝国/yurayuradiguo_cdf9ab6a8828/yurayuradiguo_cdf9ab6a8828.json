@@ -1,0 +1,33 @@
+{
+  "id": "yurayuradiguo_cdf9ab6a8828",
+  "fingerprint": "cdf9ab6a882842331ee774ec995be755057f093e9b573c675b2ec726a5073192",
+  "archived_at": "2026-08-03T21:20:41Z",
+  "metadata": {
+    "title": "ゆらゆら帝国",
+    "artist": "ゆらゆら帝国",
+    "year": "1994",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2980,
+    "duration_human": "00:49:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 ゆらゆら帝国 - 人間やめときな",
+      "02 ゆらゆら帝国 - 魚ちゃん",
+      "03 ゆらゆら帝国 - 壁のない部屋",
+      "04 ゆらゆら帝国 - バカのふり",
+      "05 ゆらゆら帝国 - 心は半分",
+      "06 ゆらゆら帝国 - 奴隷と神様",
+      "07 ゆらゆら帝国 - 夜中の果実"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/yurayuradiguo_cdf9ab6a8828"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/f098a0967cd79b5843de/1994.tar"
+    }
+  }
+}

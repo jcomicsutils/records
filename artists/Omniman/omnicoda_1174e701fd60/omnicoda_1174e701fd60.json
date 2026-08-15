@@ -1,0 +1,27 @@
+{
+  "id": "omnicoda_1174e701fd60",
+  "fingerprint": "1174e701fd60ddf3ceb236b1c4a810c4eacf9441a79923a6fec8f317e4984f33",
+  "archived_at": "2026-08-08T07:35:49Z",
+  "metadata": {
+    "title": "Omnicoda",
+    "artist": "Omniman",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 456,
+    "duration_human": "00:07:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Omniman - Omnicoda"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/omnicoda_1174e701fd60"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta20/6526593c65901af2fcc6/Omnicoda.tar"
+    }
+  }
+}

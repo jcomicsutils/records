@@ -1,0 +1,27 @@
+{
+  "id": "quero-nao-quero_d6236d2949fa",
+  "fingerprint": "d6236d2949fa3c05ff1543b5e1d29c7d7ef374b6e00f62192106155aaa6bbaf7",
+  "archived_at": "2026-08-02T00:58:43Z",
+  "metadata": {
+    "title": "quero, não quero",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 112,
+    "duration_human": "00:01:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 carinha triste, Aleyuu - quero, não quero"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/quero-nao-quero_d6236d2949fa"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/66c85092cc4c1ab3917a/quero_n_o_quero.tar"
+    }
+  }
+}

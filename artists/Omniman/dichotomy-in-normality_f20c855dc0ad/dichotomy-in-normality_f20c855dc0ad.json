@@ -1,0 +1,29 @@
+{
+  "id": "dichotomy-in-normality_f20c855dc0ad",
+  "fingerprint": "f20c855dc0ad4757e2d1e8a3636e75275a76efb841530f433a10e392c523d332",
+  "archived_at": "2026-08-08T07:11:02Z",
+  "metadata": {
+    "title": "Dichotomy in Normality",
+    "artist": "Omniman",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 975,
+    "duration_human": "00:16:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Omniman - Dichotomy in Normality (All Over the Place Mix)",
+      "02 Omniman - Dichotomy in Normality (Kaossilator - Bare Mix)",
+      "03 Omniman - Dichotomy of/In Normality (When I Stub My Toe Mix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dichotomy-in-normality_f20c855dc0ad"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta20/06bd90814c991b563ef1/Dichotomy_in_Normality.tar"
+    }
+  }
+}

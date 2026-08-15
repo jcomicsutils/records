@@ -1,0 +1,27 @@
+{
+  "id": "kaleidoscopic-cultural-synthesis_8c4eb5a1f76f",
+  "fingerprint": "8c4eb5a1f76f639b48f42eff47655fd3e70366d3e62fe688a6423160480e32c1",
+  "archived_at": "2026-08-08T07:11:52Z",
+  "metadata": {
+    "title": "Kaleidoscopic Cultural Synthesis",
+    "artist": "Omniman",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 290,
+    "duration_human": "00:04:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Omniman - Kaleidoscopic Cultural Synthesis & Its Influence on Modern Life"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kaleidoscopic-cultural-synthesis_8c4eb5a1f76f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta20/6da3a8d51809112b06e1/Kaleidoscopic_Cultural_Synthesis.tar"
+    }
+  }
+}

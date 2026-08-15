@@ -1,0 +1,27 @@
+{
+  "id": "doidao_622ee344f9c9",
+  "fingerprint": "622ee344f9c906f2c03bbdd4d4fc49fb94c222916bfec00e982f0177ae0dbce3",
+  "archived_at": "2026-08-02T00:22:32Z",
+  "metadata": {
+    "title": "Doidão",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 91,
+    "duration_human": "00:01:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aleyuu - Doidão"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/doidao_622ee344f9c9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/9527727b400c3d725ec7/Doid_o.tar"
+    }
+  }
+}

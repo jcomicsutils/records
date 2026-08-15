@@ -1,0 +1,27 @@
+{
+  "id": "hoe_d3cae6f48906",
+  "fingerprint": "d3cae6f4890690e68baed0c098225b2dfb10d0ba5338909061a7b72e6e36a22d",
+  "archived_at": "2026-08-02T00:47:27Z",
+  "metadata": {
+    "title": "Hoe",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 106,
+    "duration_human": "00:01:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aleyuu, yungDankidd - Hoe"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hoe_d3cae6f48906"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/0653d1b6915a4b0eefd5/Hoe.tar"
+    }
+  }
+}

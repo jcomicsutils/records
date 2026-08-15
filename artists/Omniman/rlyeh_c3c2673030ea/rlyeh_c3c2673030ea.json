@@ -1,0 +1,34 @@
+{
+  "id": "rlyeh_c3c2673030ea",
+  "fingerprint": "c3c2673030ea22e43bd325bc449b2932d80909a80fad2338a93c8c39c4303bc4",
+  "archived_at": "2026-08-08T07:40:46Z",
+  "metadata": {
+    "title": "R'lyeh",
+    "artist": "Omniman",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2604,
+    "duration_human": "00:43:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Omniman - A Brief Imaginary Excursion Through Jakarta to Candi Borobudur",
+      "02 YSMHB - Inner Most Abyss Includes Western Star",
+      "03 Omniman - The Reek of Madness",
+      "04 YSMHB - It Emanates for That is Its Nature",
+      "05 Omniman II - Kaleidoscopic Cultural Synthesis (Alternate Version)",
+      "06 YSMHB - Outermost Abyss",
+      "07 Omniman II - R'lyeh (Deep Time)",
+      "08 YSMHB - R'lyeh (City of Cthulhu)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rlyeh_c3c2673030ea"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta20/5248d8ec43d78642fbb7/R_lyeh_2014_1.tar"
+    }
+  }
+}

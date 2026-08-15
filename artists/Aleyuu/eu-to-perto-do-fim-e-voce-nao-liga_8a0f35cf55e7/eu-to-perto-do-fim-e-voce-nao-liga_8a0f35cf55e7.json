@@ -1,0 +1,27 @@
+{
+  "id": "eu-to-perto-do-fim-e-voce-nao-liga_8a0f35cf55e7",
+  "fingerprint": "8a0f35cf55e7725f9f749cead70fa6178d864e84f653238fc8ac086935472833",
+  "archived_at": "2026-08-02T00:34:11Z",
+  "metadata": {
+    "title": "eu to perto do fim, é você não liga!",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 77,
+    "duration_human": "00:01:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aleyuu - eu to perto do fim, é você não liga!"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/eu-to-perto-do-fim-e-voce-nao-liga_8a0f35cf55e7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/3f387df9975a0d1b7f68/eu_to_perto_do_fim_voc_n_o_liga.tar"
+    }
+  }
+}

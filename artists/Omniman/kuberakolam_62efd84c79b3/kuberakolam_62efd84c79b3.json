@@ -1,0 +1,31 @@
+{
+  "id": "kuberakolam_62efd84c79b3",
+  "fingerprint": "62efd84c79b330364a77667f31898c247273a0b9515da1c0c7e8cf95c43105e8",
+  "archived_at": "2026-08-08T07:31:08Z",
+  "metadata": {
+    "title": "Kuberakolam",
+    "artist": "Omniman",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3201,
+    "duration_human": "00:53:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Omniman II - Archipelago of Stars in Neurological Heavens",
+      "02 Omniman II - Before the Stars [Alternate Version]",
+      "03 Omniman II - Pathology of Nerve Storms",
+      "04 Omniman II - Moral Familiars",
+      "05 Omniman II - Emanating Petrichor"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kuberakolam_62efd84c79b3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta20/be0e12dc42f50d3ee2e2/Kuberakolam.tar"
+    }
+  }
+}

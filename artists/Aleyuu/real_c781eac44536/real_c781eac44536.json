@@ -1,0 +1,30 @@
+{
+  "id": "real_c781eac44536",
+  "fingerprint": "c781eac4453683327a2eeb4ab441f1ad965213605b8bf0d1afd1810542e687c9",
+  "archived_at": "2026-08-02T00:59:50Z",
+  "metadata": {
+    "title": "Real",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 276,
+    "duration_human": "00:04:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aleyuu - Setealém",
+      "02 Aleyuu - Cinzeiro",
+      "03 Aleyuu - Falhas",
+      "04 Aleyuu - persistência"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/real_c781eac44536"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/608b67b16d7e2c8ad6a0/Real.tar"
+    }
+  }
+}

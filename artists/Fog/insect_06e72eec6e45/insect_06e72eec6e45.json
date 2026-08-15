@@ -1,0 +1,30 @@
+{
+  "id": "insect_06e72eec6e45",
+  "fingerprint": "06e72eec6e45a17261429b6b8affe7dafdf14cf03aa60d9872246a293f1940f2",
+  "archived_at": "2026-08-05T02:50:49Z",
+  "metadata": {
+    "title": "Insect",
+    "artist": "Fog",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1984,
+    "duration_human": "00:33:04",
+    "sampling_rate": "96kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Fog - Insect",
+      "02 Fog - Between",
+      "03 Fog - Whale",
+      "04 Fog - Tcesni"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/insect_06e72eec6e45"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/c637f9b99383ad566946/Insect.tar"
+    }
+  }
+}

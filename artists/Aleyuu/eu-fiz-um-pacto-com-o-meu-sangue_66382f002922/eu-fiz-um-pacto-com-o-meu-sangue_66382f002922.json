@@ -1,0 +1,27 @@
+{
+  "id": "eu-fiz-um-pacto-com-o-meu-sangue_66382f002922",
+  "fingerprint": "66382f0029220935a70b723cc5f23ef15212c1b8bc15fc17f02500c0f1e14355",
+  "archived_at": "2026-08-02T00:32:02Z",
+  "metadata": {
+    "title": "EU FIZ UM PACTO COM O MEU SANGUE",
+    "artist": "Aleyuu",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 204,
+    "duration_human": "00:03:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 STASHXX, Aleyuu - EU FIZ UM PACTO COM O MEU SANGUE"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/eu-fiz-um-pacto-com-o-meu-sangue_66382f002922"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/27a4cce9397598ea7665/EU_FIZ_UM_PACTO_COM_O_MEU_SANGUE.tar"
+    }
+  }
+}

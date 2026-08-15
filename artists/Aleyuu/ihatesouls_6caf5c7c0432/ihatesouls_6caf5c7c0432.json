@@ -1,0 +1,27 @@
+{
+  "id": "ihatesouls_6caf5c7c0432",
+  "fingerprint": "6caf5c7c043289701c0ca3432ef6e730232f472dae8f8fdb7bf83e1579bb3862",
+  "archived_at": "2026-08-02T00:48:08Z",
+  "metadata": {
+    "title": "IHATESOULS",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 116,
+    "duration_human": "00:01:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aleyuu - IHATESOULS"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ihatesouls_6caf5c7c0432"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/f7156f67a855d6858202/IHATESOULS.tar"
+    }
+  }
+}

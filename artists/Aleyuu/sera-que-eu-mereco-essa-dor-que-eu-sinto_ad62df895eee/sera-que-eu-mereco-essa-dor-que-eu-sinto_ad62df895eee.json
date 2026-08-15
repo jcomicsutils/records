@@ -1,0 +1,27 @@
+{
+  "id": "sera-que-eu-mereco-essa-dor-que-eu-sinto_ad62df895eee",
+  "fingerprint": "ad62df895eee7b1e30cdaa7be622d030e2403a21d6f9a1fd9fb6cced0550dec1",
+  "archived_at": "2026-08-02T01:07:13Z",
+  "metadata": {
+    "title": "será que eu mereço essa dor que eu sinto?",
+    "artist": "Aleyuu",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 91,
+    "duration_human": "00:01:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aleyuu - será que eu mereço essa dor que eu sinto?"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sera-que-eu-mereco-essa-dor-que-eu-sinto_ad62df895eee"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/2a34cbf2efefed3c3332/ser_que_eu_mere_o_essa_dor_que_eu_sinto.tar"
+    }
+  }
+}

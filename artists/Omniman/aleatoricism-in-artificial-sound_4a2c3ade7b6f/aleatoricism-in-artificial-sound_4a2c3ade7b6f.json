@@ -1,0 +1,39 @@
+{
+  "id": "aleatoricism-in-artificial-sound_4a2c3ade7b6f",
+  "fingerprint": "4a2c3ade7b6f72590216fee493df622fc261c8b7fbad26972db14dc7d913ecf4",
+  "archived_at": "2026-08-08T06:38:32Z",
+  "metadata": {
+    "title": "Aleatoricism in Artificial Sound",
+    "artist": "Omniman",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 1341,
+    "duration_human": "00:22:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Omniman - Sterilized",
+      "02 Omniman - Tap the Sky",
+      "03 Omniman - You Look Great Alone",
+      "04 Omniman - The Reek of Madness",
+      "05 Omniman - Naminmo",
+      "06 Omniman - Our Places Amongst the Infinities",
+      "07 Omniman - Shadows of a Memory",
+      "08 Omniman - Oxytocin - Vasopressin Receptors",
+      "09 Omniman - Untitled (aka the Keyboard Track)",
+      "10 Omniman - Bhangmeter",
+      "11 Omniman - Feedback",
+      "12 Omniman - An Analysis of Our Difficulties",
+      "13 Omniman - Pathogens Scorch for the Late Great Omniman"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/aleatoricism-in-artificial-sound_4a2c3ade7b6f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta20/d943d7bece90d8175dea/Aleatoricism_in_Artificial_Sound.tar"
+    }
+  }
+}

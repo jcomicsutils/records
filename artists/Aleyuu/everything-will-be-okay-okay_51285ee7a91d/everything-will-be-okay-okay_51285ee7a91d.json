@@ -1,0 +1,30 @@
+{
+  "id": "everything-will-be-okay-okay_51285ee7a91d",
+  "fingerprint": "51285ee7a91d50c505b210b0ab34b656bede81974d18b1f9ce9ed146958eb320",
+  "archived_at": "2026-08-02T00:40:05Z",
+  "metadata": {
+    "title": "everything will be okay, okay?",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 326,
+    "duration_human": "00:05:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Aleyuu - eu tava bloqueado :/",
+      "02 Aleyuu - o lado que nunca viram",
+      "03 Aleyuu - você ainda me ama?",
+      "04 Aleyuu - melhoras"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/everything-will-be-okay-okay_51285ee7a91d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/3ec9a89e612b6ddb440b/everything_will_be_okay_okay.tar"
+    }
+  }
+}

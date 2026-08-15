@@ -1,0 +1,27 @@
+{
+  "id": "jeweled-throne_14740bdf83a5",
+  "fingerprint": "14740bdf83a5b229936ab87fc18dbd0908bb636dff6818c71de67f21523aacfa",
+  "archived_at": "2026-08-05T02:58:09Z",
+  "metadata": {
+    "title": "Jeweled Throne",
+    "artist": "Fog",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 900,
+    "duration_human": "00:15:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "00 Fog - Jeweled Throne"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/jeweled-throne_14740bdf83a5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/5f59294db6dd6e5df834/Jeweled_Throne.tar"
+    }
+  }
+}

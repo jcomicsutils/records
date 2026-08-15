@@ -1,0 +1,27 @@
+{
+  "id": "desconhecidos-em-um-dia-qualquer_0a7db0c8e2da",
+  "fingerprint": "0a7db0c8e2da2bfddf428d7d8ac9158363f582dbe2148abe08c32f41b8bbc14f",
+  "archived_at": "2026-08-02T00:21:11Z",
+  "metadata": {
+    "title": "Desconhecidos em um dia qualquer",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 45,
+    "duration_human": "00:00:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aleyuu - Desconhecidos em um dia qualquer"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/desconhecidos-em-um-dia-qualquer_0a7db0c8e2da"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/a8e58daedc9cb1eedbad/Desconhecidos_em_um_dia_qualquer.tar"
+    }
+  }
+}

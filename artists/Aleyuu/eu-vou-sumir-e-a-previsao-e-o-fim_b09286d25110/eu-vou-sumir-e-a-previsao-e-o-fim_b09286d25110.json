@@ -1,0 +1,27 @@
+{
+  "id": "eu-vou-sumir-e-a-previsao-e-o-fim_b09286d25110",
+  "fingerprint": "b09286d25110c2d20395247ab7f921244fa2392215edf6c9f90964a57433e37f",
+  "archived_at": "2026-08-02T00:35:07Z",
+  "metadata": {
+    "title": "eu vou sumir e a previsão e o fim",
+    "artist": "Aleyuu",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 120,
+    "duration_human": "00:02:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aleyuu - eu vou sumir e a previsão e o fim"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/eu-vou-sumir-e-a-previsao-e-o-fim_b09286d25110"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/1fc157b74bb68f0a3f78/eu_vou_sumir_e_a_previs_o_e_o_fim.tar"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "omniman_cb9414413f06",
+  "fingerprint": "cb9414413f06e5005b52fc6a83f34534df0aace21fd65157a4e99c5d31ea3f5b",
+  "archived_at": "2026-08-08T07:38:07Z",
+  "metadata": {
+    "title": "Omniman",
+    "artist": "Omniman",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1691,
+    "duration_human": "00:28:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Omniman - Commencement to the Abra Melin Operation",
+      "02 Omniman - Stratajam",
+      "03 Omniman - Omnitone",
+      "04 Omniman - Restore Vision to Blind People - Sleepwalking Into Orwellian Society",
+      "05 Omniman - A Brief Imaginary Excursion Through Jakarta to Candi Borobudur in Central Java - A Canadian Perspective (Instrumental)",
+      "06 Omniman - Kaleidoscopic Cultural Synthesis & Its Influence on Modern Life"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/omniman_cb9414413f06"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta20/c958e46bf83c2d11e4ec/Omniman.tar"
+    }
+  }
+}

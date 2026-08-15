@@ -1,0 +1,36 @@
+{
+  "id": "thirty-three-recurring_13486760302d",
+  "fingerprint": "13486760302d48132df29721c7f6e014357f11c50f21bf007c4571615e6dec19",
+  "archived_at": "2026-08-05T03:23:29Z",
+  "metadata": {
+    "title": "Thirty Three, Recurring",
+    "artist": "Fog",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 4032,
+    "duration_human": "01:07:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Fog - Tall Shadows of the Wind",
+      "02 Fog - Dancer",
+      "03 Fog - Moire",
+      "04 Fog - Esther",
+      "05 Fog - Happy Ending Problem",
+      "06 Fog - A Brief Foray Into Contrivance",
+      "07 Fog - Thirty Three, Recurring",
+      "08 Fog - Apothem",
+      "09 Fog - Of Collatz",
+      "10 Fog - Epilogue"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/thirty-three-recurring_13486760302d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/abd262485568f0f4ca85/Thirty_Three_Recurring.tar"
+    }
+  }
+}

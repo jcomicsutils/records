@@ -1,0 +1,30 @@
+{
+  "id": "meishii_58a0e30cd693",
+  "fingerprint": "58a0e30cd6939c4e116056c6a82ffc497585c317c55bab87a0aebbc3c619a29a",
+  "archived_at": "2026-08-03T21:58:48Z",
+  "metadata": {
+    "title": "美しい",
+    "artist": "ゆらゆら帝国",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1352,
+    "duration_human": "00:22:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 ゆらゆら帝国 - Beautiful",
+      "02 ゆらゆら帝国 - Nantonaku Yumeo",
+      "03 ゆらゆら帝国 - Nasakenai&Hazukashii",
+      "04 ゆらゆら帝国 - Fune"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/meishii_58a0e30cd693"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/2556af1b6253025dab21/%E7%BE%8E%E3%81%97%E3%81%84.tar"
+    }
+  }
+}

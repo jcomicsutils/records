@@ -1,0 +1,27 @@
+{
+  "id": "eu-sonhei-com-a-morte-a-garota-que-eu-gostava-se-matou_d7d80224902b",
+  "fingerprint": "d7d80224902b534090e9364dcbcddf6facb144ad3b481dcb43176641f7459c29",
+  "archived_at": "2026-08-02T00:33:39Z",
+  "metadata": {
+    "title": "eu sonhei com a morte (a garota que eu gostava se matou)",
+    "artist": "Aleyuu",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 98,
+    "duration_human": "00:01:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aleyuu - eu sonhei com a morte (a garota que eu gostava se matou)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/eu-sonhei-com-a-morte-a-garota-que-eu-gostava-se-matou_d7d80224902b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/c658b5c305f784df7a23/eu_sonhei_com_a_morte_a_garota_que_eu_gostava_se_matou.tar"
+    }
+  }
+}

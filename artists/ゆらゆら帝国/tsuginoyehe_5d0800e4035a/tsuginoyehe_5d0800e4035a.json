@@ -1,0 +1,28 @@
+{
+  "id": "tsuginoyehe_5d0800e4035a",
+  "fingerprint": "5d0800e4035a518b9ea80bc4b280ec029c232bdb43d2deec2c98734c6aacea44",
+  "archived_at": "2026-08-03T20:37:05Z",
+  "metadata": {
+    "title": "つぎの夜へ",
+    "artist": "ゆらゆら帝国",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1065,
+    "duration_human": "00:17:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 ゆらゆら帝国 - Into the Next Night",
+      "02 ゆらゆら帝国 - You Can't Fight Fate"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tsuginoyehe_5d0800e4035a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/0d82c37cbc0096199e92/%E3%81%A4%E3%81%8E%E3%81%AE%E5%A4%9C%E3%81%B8.tar"
+    }
+  }
+}

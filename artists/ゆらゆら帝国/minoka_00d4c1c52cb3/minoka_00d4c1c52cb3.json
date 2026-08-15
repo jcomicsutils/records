@@ -1,0 +1,38 @@
+{
+  "id": "minoka_00d4c1c52cb3",
+  "fingerprint": "00d4c1c52cb305d674a6dd734a45cba6d76ce23506dd0e81f364c40956308643",
+  "archived_at": "2026-08-03T21:05:12Z",
+  "metadata": {
+    "title": "ミーのカー",
+    "artist": "ゆらゆら帝国",
+    "year": "1999",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 4314,
+    "duration_human": "01:11:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 ゆらゆら帝国 - Uso Ga Honto Ni",
+      "02 ゆらゆら帝国 - Zukku Ni Rock",
+      "03 ゆらゆら帝国 - Almond No Chocolate",
+      "04 ゆらゆら帝国 - Gozen Sanji No Fuzz Guitar",
+      "05 ゆらゆら帝国 - Bones",
+      "06 ゆらゆら帝国 - Ningen Yametokina '99",
+      "07 ゆらゆら帝国 - Hachi to Mitsu",
+      "08 ゆらゆら帝国 - Akuma Ga Boku Wo",
+      "09 ゆらゆら帝国 - Taiyo No Usotsuki",
+      "10 ゆらゆら帝国 - Hoshi Futatsu",
+      "11 ゆらゆら帝国 - 19 Ka 20",
+      "12 ゆらゆら帝国 - Me No Car (Long Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/minoka_00d4c1c52cb3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/e7caee3121fcc2539d5a/%E3%83%9F%E3%83%BC%E3%81%AE%E3%82%AB%E3%83%BC.tar"
+    }
+  }
+}

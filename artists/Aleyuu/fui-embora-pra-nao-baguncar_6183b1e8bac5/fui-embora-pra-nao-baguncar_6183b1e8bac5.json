@@ -1,0 +1,27 @@
+{
+  "id": "fui-embora-pra-nao-baguncar_6183b1e8bac5",
+  "fingerprint": "6183b1e8bac5734c8faaf0de51a3b56a9315d490da9eadcc7bf720ec93bcbe5d",
+  "archived_at": "2026-08-02T00:45:42Z",
+  "metadata": {
+    "title": "fui embora pra não bagunçar",
+    "artist": "Aleyuu",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 84,
+    "duration_human": "00:01:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aleyuu - fui embora pra não bagunçar"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fui-embora-pra-nao-baguncar_6183b1e8bac5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/6ba233aa5c01d8cd1bdb/fui_embora_pra_n_o_bagun_ar.tar"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "idle-hands_0f3aa9cd3c3d",
+  "fingerprint": "0f3aa9cd3c3d55671bb8be88a14a4c2b27688727828adc2d344dca92020f51a8",
+  "archived_at": "2026-08-05T02:48:46Z",
+  "metadata": {
+    "title": "Idle Hands",
+    "artist": "Fog",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2680,
+    "duration_human": "00:44:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Fog - Popping Balloon Animals",
+      "02 Fog - Little Lamb",
+      "03 Fog - Painted Dogs",
+      "04 Fog - Time is Running Out",
+      "05 Fog - Idle Hands",
+      "06 Fog - The Magic Chord",
+      "07 Fog - Infinite Love",
+      "08 Fog - Hors D'oeuvres Are Served"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/idle-hands_0f3aa9cd3c3d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/3a9839a3af398f191d35/Idle_Hands.tar"
+    }
+  }
+}

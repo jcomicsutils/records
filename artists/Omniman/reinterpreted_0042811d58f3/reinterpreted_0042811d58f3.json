@@ -1,0 +1,36 @@
+{
+  "id": "reinterpreted_0042811d58f3",
+  "fingerprint": "0042811d58f35b530f4e0065f4ea44102f75ac592121e396001cf180fcab4a37",
+  "archived_at": "2026-08-08T07:48:16Z",
+  "metadata": {
+    "title": "Reinterpreted",
+    "artist": "Omniman",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3629,
+    "duration_human": "01:00:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Omniman - Semiotiks (Semantically-Enhanced Information Extraction for Improved Knowledge Superiority)",
+      "02 Omniman - Abramelin the Mage",
+      "03 Omniman - Chärchän Man and the Witches of Subeshi Aka Keyboard Track",
+      "04 Omniman - Sterile (Microbial Environment)",
+      "05 Omniman - Erom on NaminmO)))",
+      "06 Omniman - Omnitone (The Cyborg Harpies)",
+      "07 Omniman - Knock on the Sky (And Listen to the Sound)",
+      "08 Omniman - Excursion to Candi Borobudur",
+      "09 Omniman - Bhangmeter - Slower Texture Experiment",
+      "10 Omniman - Kaleidoscopic Synthesis Ov Modern Life"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/reinterpreted_0042811d58f3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta20/7963548fc3fda02438f3/Reinterpreted.tar"
+    }
+  }
+}

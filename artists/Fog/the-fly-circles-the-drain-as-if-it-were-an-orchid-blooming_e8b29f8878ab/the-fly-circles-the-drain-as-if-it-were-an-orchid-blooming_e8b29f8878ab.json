@@ -1,0 +1,37 @@
+{
+  "id": "the-fly-circles-the-drain-as-if-it-were-an-orchid-blooming_e8b29f8878ab",
+  "fingerprint": "e8b29f8878abe73b4d108b88120d9aa66ffeb9f27956bcfa75076056f4f5ab62",
+  "archived_at": "2026-08-05T03:12:53Z",
+  "metadata": {
+    "title": "The Fly Circles the Drain as if It Were an Orchid Blooming",
+    "artist": "Fog",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 6157,
+    "duration_human": "01:42:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Fog - The Fly Circles the Drain as if It Were an Orchid Blooming",
+      "02 Fog - Tumors",
+      "03 Fog - It Doesn't Feel Good Anymore",
+      "04 Fog - The Process of Letting Go",
+      "05 Fog - Asbestosis",
+      "06 Fog - End-Stage Liver Disease",
+      "07 Fog - Threnody for Hernán Cortés",
+      "08 Fog - May 30, 1431, Rouen, France",
+      "09 Fog - Sodium Pentobarbital",
+      "10 Fog - Ab Aeterno",
+      "11 Fog - You'll Hang for This"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-fly-circles-the-drain-as-if-it-were-an-orchid-blooming_e8b29f8878ab"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/3939446405053d5ed7c0/The_Fly_Circles_the_Drain_as_if_It_Were_an_Orchid_Blooming.tar"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "pensamentos-impuros_7b6dbdf0467c",
+  "fingerprint": "7b6dbdf0467c4b805d0fb6c2f9ace6bf9e353c509c07d79ba0086627cf186c55",
+  "archived_at": "2026-08-02T00:54:39Z",
+  "metadata": {
+    "title": "pensamentos impuros",
+    "artist": "Aleyuu",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 128,
+    "duration_human": "00:02:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aleyuu, storgonofe - pensamentos impuros"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pensamentos-impuros_7b6dbdf0467c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/a4874c3ceb89362b1f31/pensamentos_impuros.tar"
+    }
+  }
+}

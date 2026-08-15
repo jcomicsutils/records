@@ -1,0 +1,27 @@
+{
+  "id": "exxtasy_a2381325b3d2",
+  "fingerprint": "a2381325b3d2301e64f35cdc94ce04a6d05b6f6b1bd04f56e3fd651996839cc9",
+  "archived_at": "2026-08-02T00:44:45Z",
+  "metadata": {
+    "title": "EXXTASY",
+    "artist": "Aleyuu",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 140,
+    "duration_human": "00:02:20",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sopros, Aleyuu - EXXTASY"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/exxtasy_a2381325b3d2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/6e070b35a577131f8806/EXXTASY.tar"
+    }
+  }
+}

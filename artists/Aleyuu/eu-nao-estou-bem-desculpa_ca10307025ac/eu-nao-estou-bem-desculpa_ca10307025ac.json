@@ -1,0 +1,27 @@
+{
+  "id": "eu-nao-estou-bem-desculpa_ca10307025ac",
+  "fingerprint": "ca10307025ac1fafb08efebf71ff7ecc7e193cacbddd55c80851168a6faca2b7",
+  "archived_at": "2026-08-02T00:32:33Z",
+  "metadata": {
+    "title": "eu não estou bem, desculpa!",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 68,
+    "duration_human": "00:01:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Aleyuu - eu não estou bem, desculpa!"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/eu-nao-estou-bem-desculpa_ca10307025ac"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/3307ac630600beacad73/eu_n_o_estou_bem_desculpa.tar"
+    }
+  }
+}

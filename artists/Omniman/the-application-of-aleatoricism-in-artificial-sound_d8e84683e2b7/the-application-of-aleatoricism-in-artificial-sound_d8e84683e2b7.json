@@ -1,0 +1,27 @@
+{
+  "id": "the-application-of-aleatoricism-in-artificial-sound_d8e84683e2b7",
+  "fingerprint": "d8e84683e2b7d13195480bb9a451d43e8f518ac3f49a2da172c505d5f61f2fcf",
+  "archived_at": "2026-08-08T07:56:54Z",
+  "metadata": {
+    "title": "The Application of Aleatoricism in Artificial Sound",
+    "artist": "Omniman",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1310,
+    "duration_human": "00:21:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Omniman - The Application of Aleatoricism in Artificial Sound"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-application-of-aleatoricism-in-artificial-sound_d8e84683e2b7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta20/c9768fc6e0dddf2fc6a4/The_Application_of_Aleatoricism_in_Artificial_Sound_2012_2.tar"
+    }
+  }
+}

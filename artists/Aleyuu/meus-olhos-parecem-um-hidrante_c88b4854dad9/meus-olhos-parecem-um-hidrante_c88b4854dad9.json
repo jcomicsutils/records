@@ -1,0 +1,27 @@
+{
+  "id": "meus-olhos-parecem-um-hidrante_c88b4854dad9",
+  "fingerprint": "c88b4854dad92f405923d8213052f51d738625454b9759aa3325e146daf6b107",
+  "archived_at": "2026-08-02T00:53:28Z",
+  "metadata": {
+    "title": "meus olhos parecem um hidrante",
+    "artist": "Aleyuu",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 89,
+    "duration_human": "00:01:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aleyuu, rosswei - meus olhos parecem um hidrante"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/meus-olhos-parecem-um-hidrante_c88b4854dad9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/6ed6ed548609c75e0c4d/meus_olhos_parecem_um_hidrante.tar"
+    }
+  }
+}

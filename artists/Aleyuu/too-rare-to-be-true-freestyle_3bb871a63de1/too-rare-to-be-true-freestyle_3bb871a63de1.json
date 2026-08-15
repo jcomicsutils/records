@@ -1,0 +1,27 @@
+{
+  "id": "too-rare-to-be-true-freestyle_3bb871a63de1",
+  "fingerprint": "3bb871a63de14a067469727b755d50c4e12bee1a77c6ceb22f89d91882fe735e",
+  "archived_at": "2026-08-02T01:08:19Z",
+  "metadata": {
+    "title": "TOO RARE TO BE TRUE FREESTYLE",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 110,
+    "duration_human": "00:01:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aleyuu - TOO RARE TO BE TRUE FREESTYLE"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/too-rare-to-be-true-freestyle_3bb871a63de1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/494115d7cdf8d74a2977/TOO_RARE_TO_BE_TRUE_FREESTYLE.tar"
+    }
+  }
+}

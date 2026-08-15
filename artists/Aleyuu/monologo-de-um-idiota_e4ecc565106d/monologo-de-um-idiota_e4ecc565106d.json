@@ -1,0 +1,27 @@
+{
+  "id": "monologo-de-um-idiota_e4ecc565106d",
+  "fingerprint": "e4ecc565106d62385dee6de96cf79e5a3d886381e04f4f0880b9e2b708e5ef67",
+  "archived_at": "2026-08-02T00:54:01Z",
+  "metadata": {
+    "title": "monólogo de um idiota",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 94,
+    "duration_human": "00:01:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aleyuu - monólogo de um idiota"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/monologo-de-um-idiota_e4ecc565106d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/3ab0b8d3660fa95988a7/mon_logo_de_um_idiota.tar"
+    }
+  }
+}

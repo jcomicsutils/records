@@ -1,0 +1,36 @@
+{
+  "id": "sweet-spot_c90f08b04127",
+  "fingerprint": "c90f08b04127b7ccbb369df5ca6cdbc607f571756e315c6955dc95c082e71eb0",
+  "archived_at": "2026-08-03T20:32:36Z",
+  "metadata": {
+    "title": "Sweet Spot",
+    "artist": "ゆらゆら帝国",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2848,
+    "duration_human": "00:47:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 ゆらゆら帝国 - 2005nensekairyokou",
+      "02 ゆらゆら帝国 - The Communication",
+      "03 ゆらゆら帝国 - Robot Deshita",
+      "04 ゆらゆら帝国 - Kyusho",
+      "05 ゆらゆら帝国 - Tacomonogatari",
+      "06 ゆらゆら帝国 - Hate Ningenha?",
+      "07 ゆらゆら帝国 - Kantsumae",
+      "08 ゆらゆら帝国 - Sweet Spot",
+      "09 ゆらゆら帝国 - Soft Ni Shindeiru",
+      "10 ゆらゆら帝国 - Utyujin No Hikkoshi"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sweet-spot_c90f08b04127"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/7a676b5661cb9d346036/Sweet_Spot.tar"
+    }
+  }
+}

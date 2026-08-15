@@ -1,0 +1,37 @@
+{
+  "id": "333_621d9ac95002",
+  "fingerprint": "621d9ac95002da136b5a18babab40f9169c8cbeae2d4f69a1d4a27d1b9ad21d8",
+  "archived_at": "2026-08-03T19:27:06Z",
+  "metadata": {
+    "title": "3×3×3",
+    "artist": "ゆらゆら帝国",
+    "year": "1998",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 3037,
+    "duration_human": "00:50:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 ゆらゆら帝国 - Wakatte Hoshii",
+      "02 ゆらゆら帝国 - Konchu Rock",
+      "03 ゆらゆら帝国 - Yura Yura Ugoku",
+      "04 ゆらゆら帝国 - Dock 'N' Doll",
+      "05 ゆらゆら帝国 - Hakkotai",
+      "06 ゆらゆら帝国 - Tsukinuketa",
+      "07 ゆらゆら帝国 - Aitsu No Theme",
+      "08 ゆらゆら帝国 - 3x3x3",
+      "09 ゆらゆら帝国 - Turtle Talk",
+      "10 ゆらゆら帝国 - Evil Car",
+      "11 ゆらゆら帝国 - Party Wa Yaranai"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/333_621d9ac95002"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/332781aeedb7b21c11f3/3_3_3.tar"
+    }
+  }
+}

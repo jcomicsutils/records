@@ -1,0 +1,35 @@
+{
+  "id": "ellipse-my-depression_4606e067457a",
+  "fingerprint": "4606e067457acf7e0a7556fcce7eb8dc0404888e3d51e9e56fb0617b768d0e9f",
+  "archived_at": "2026-08-08T06:34:13Z",
+  "metadata": {
+    "title": "Ellipse My Depression",
+    "artist": "Harold",
+    "year": "1993",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2442,
+    "duration_human": "00:40:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Harold - Pyrogenics",
+      "02 Harold - Ecstasies",
+      "03 Harold - Crust of Dawn (Ancient Journey)",
+      "04 Harold - Above the Below",
+      "05 Harold - Thinner",
+      "06 Harold - Implanted",
+      "07 Harold - The Leprechaun",
+      "08 Harold - Ecstasies",
+      "09 Harold - Born in the 70s"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ellipse-my-depression_4606e067457a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta20/ffe2390a0b849dd3e955/Ellipse_My_Depression.tar"
+    }
+  }
+}

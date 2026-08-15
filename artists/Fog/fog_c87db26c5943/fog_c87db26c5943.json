@@ -1,0 +1,31 @@
+{
+  "id": "fog_c87db26c5943",
+  "fingerprint": "c87db26c5943007b9cf992ae0201a8134d5f80fa87b135869e8815852e31a438",
+  "archived_at": "2026-08-05T02:38:51Z",
+  "metadata": {
+    "title": "Fog",
+    "artist": "Fog",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1517,
+    "duration_human": "00:25:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Fog - Lord Please Help Me",
+      "02 Fog - Limp Like a Newborn Deer",
+      "03 Fog - Lycurgus Cup",
+      "04 Fog - Life in a Jar",
+      "05 Fog - Fog"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fog_c87db26c5943"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/37d04f1fb98bd4c16bd8/Fog.tar"
+    }
+  }
+}

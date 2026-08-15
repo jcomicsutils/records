@@ -1,0 +1,27 @@
+{
+  "id": "covarde_5a75861a88e4",
+  "fingerprint": "5a75861a88e4635df97b53aecb72be7ec6af0d51c118c27bccfa9419350103f1",
+  "archived_at": "2026-08-02T00:16:22Z",
+  "metadata": {
+    "title": "covarde",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 131,
+    "duration_human": "00:02:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Aleyuu - covarde"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/covarde_5a75861a88e4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/ea1f5f96dceb50ae19f4/covarde.tar"
+    }
+  }
+}

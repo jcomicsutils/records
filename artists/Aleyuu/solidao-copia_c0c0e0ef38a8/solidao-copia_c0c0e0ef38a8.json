@@ -1,0 +1,27 @@
+{
+  "id": "solidao-copia_c0c0e0ef38a8",
+  "fingerprint": "c0c0e0ef38a89fdc916d3b0c0bcac7ae467f4278f6d522cb08386b7424a81b0a",
+  "archived_at": "2026-08-02T01:07:47Z",
+  "metadata": {
+    "title": "Solidão, Cópia.",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 72,
+    "duration_human": "00:01:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aleyuu - Solidão, Cópia."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/solidao-copia_c0c0e0ef38a8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/582c0f909e490f928eb9/Solid_o_C_pia.tar"
+    }
+  }
+}

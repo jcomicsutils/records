@@ -1,0 +1,31 @@
+{
+  "id": "armillaria_7130530f0ff8",
+  "fingerprint": "7130530f0ff876dc06c642d6e94aa25cd6f9dfe6994a6726670127a07a2c4cb4",
+  "archived_at": "2026-08-08T06:44:15Z",
+  "metadata": {
+    "title": "Armillaria",
+    "artist": "Omniman",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2179,
+    "duration_human": "00:36:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Omniman II - Sensational Clearance Blowout Sale!",
+      "02 Omniman II - Shift in Ohm",
+      "03 Omniman II - Atoms and Realities",
+      "04 Omniman II - No Magick",
+      "05 Omniman II - Theoretical Wholesale"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/armillaria_7130530f0ff8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta20/bc8585927f5821f51e9e/Armillaria.tar"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "disforico_619214315dba",
+  "fingerprint": "619214315dbae3af14bf92216bb9638cfeaf8506205f1a9492a5eddf45b64f7f",
+  "archived_at": "2026-08-02T00:21:54Z",
+  "metadata": {
+    "title": "disfórico",
+    "artist": "Aleyuu",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 275,
+    "duration_human": "00:04:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aleyuu - confesso",
+      "02 Aleyuu - tento te achar em um outro alguem",
+      "03 Aleyuu - seus olhos vão me assombrar pra sempre"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/disforico_619214315dba"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/1fc22dd72ed73ff2cc99/disf_rico.tar"
+    }
+  }
+}

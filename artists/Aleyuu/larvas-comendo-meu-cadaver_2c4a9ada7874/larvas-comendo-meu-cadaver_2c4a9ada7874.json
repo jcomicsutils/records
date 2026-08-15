@@ -1,0 +1,27 @@
+{
+  "id": "larvas-comendo-meu-cadaver_2c4a9ada7874",
+  "fingerprint": "2c4a9ada78742833538c1777dda75699dad8c9b7e43eccff297c301d27dc202a",
+  "archived_at": "2026-08-02T00:52:59Z",
+  "metadata": {
+    "title": "larvas comendo meu cadaver",
+    "artist": "Aleyuu",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 79,
+    "duration_human": "00:01:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sopros, Aleyuu - larvas comendo meu cadaver"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/larvas-comendo-meu-cadaver_2c4a9ada7874"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta19/d2b23223d95a2a032ceb/larvas_comendo_meu_cadaver.tar"
+    }
+  }
+}
