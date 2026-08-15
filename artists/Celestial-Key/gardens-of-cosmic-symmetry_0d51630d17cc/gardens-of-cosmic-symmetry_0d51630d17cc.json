@@ -21,6 +21,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.st/beta22/ac3e2d704e2f358c1c30/Gardens_of_Cosmic_Symmetry.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/gardens-of-cosmic-symmetry_0d51630d17cc"
     }
   }
 }
