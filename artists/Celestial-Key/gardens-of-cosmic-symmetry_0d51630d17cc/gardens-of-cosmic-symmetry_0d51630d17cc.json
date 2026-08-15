@@ -1,0 +1,26 @@
+{
+  "id": "gardens-of-cosmic-symmetry_0d51630d17cc",
+  "fingerprint": "0d51630d17cc9f6244e03ca4be8fe8c380ef1fbb0d472821a5a831029f963801",
+  "archived_at": "2026-08-15T18:33:03Z",
+  "metadata": {
+    "title": "Gardens of Cosmic Symmetry",
+    "artist": "Celestial Key",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 964,
+    "duration_human": "00:16:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Celestial Key - Walls of Perception",
+      "02 Celestial Key - Final Closure",
+      "03 Celestial Key - The Blaze of Dawn"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/ac3e2d704e2f358c1c30/Gardens_of_Cosmic_Symmetry.tar"
+    }
+  }
+}
