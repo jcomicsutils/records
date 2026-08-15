@@ -23,6 +23,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.st/beta22/039c2d84ffc769563cbc/Immortal_Crown.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/immortal-crown_b5a8f7a06789"
     }
   }
 }

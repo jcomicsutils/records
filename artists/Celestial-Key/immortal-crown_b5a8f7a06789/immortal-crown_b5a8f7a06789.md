@@ -1,5 +1,7 @@
 # Celestial Key — Immortal Crown (2021)
 
+![Cover](https://archive.org/download/immortal-crown_b5a8f7a06789/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | ALAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.st/beta22/039c2d84ffc769563cbc/Immortal_Crown.tar)
+- [Archive.org](https://archive.org/details/immortal-crown_b5a8f7a06789)
 
 ## Tracklist
 
