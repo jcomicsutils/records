@@ -1,0 +1,27 @@
+{
+  "id": "build-a-bear-burial-sites_62e1f6a6a4c7",
+  "fingerprint": "62e1f6a6a4c7d353fd5514eae230dcd5fbe19775bcf2501ba0bd7a5521c7b82a",
+  "archived_at": "2026-08-17T20:38:09Z",
+  "metadata": {
+    "title": "Build-A-Bear Burial Sites",
+    "artist": "Finally Happy",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 100,
+    "duration_human": "00:01:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Finally Happy - Build-A-Bear Burial Sites"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/build-a-bear-burial-sites_62e1f6a6a4c7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/90946a7c6b9508922109/Build-A-Bear_Burial_Sites.tar"
+    }
+  }
+}
