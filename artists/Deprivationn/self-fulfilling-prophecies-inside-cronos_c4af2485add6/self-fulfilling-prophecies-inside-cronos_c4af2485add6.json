@@ -1,0 +1,32 @@
+{
+  "id": "self-fulfilling-prophecies-inside-cronos_c4af2485add6",
+  "fingerprint": "c4af2485add6e1b9c760213fec160d9f6c5220c5dcdb9d2850d727dfaeff47e4",
+  "archived_at": "2026-08-17T23:50:57Z",
+  "metadata": {
+    "title": "Self-Fulfilling Prophecies Inside Cronos",
+    "artist": "Deprivationn",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 2561,
+    "duration_human": "00:42:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Deprivationn - Skeletal Structures of a Dying Will",
+      "02 Deprivationn - Swallowed (Should've Been)",
+      "03 Deprivationn - Self-Proclaimed",
+      "04 Deprivationn - Deceptive Tactics",
+      "05 Deprivationn - Acid Burns",
+      "06 Deprivationn - Journey Into the River"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/self-fulfilling-prophecies-inside-cronos_c4af2485add6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/c4aea9d2a5414550c0e0/Self-Fulfilling_Prophecies_Inside_Cronos.tar"
+    }
+  }
+}
