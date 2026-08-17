@@ -1,0 +1,27 @@
+{
+  "id": "the-ground-is-gonna-open-up_91db201c59a3",
+  "fingerprint": "91db201c59a3156821be15c0e78ebda5181ca09f46c5df02ee4f9c250e0b102c",
+  "archived_at": "2026-08-17T20:49:25Z",
+  "metadata": {
+    "title": "The Ground is Gonna Open Up",
+    "artist": "Finally Happy",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 106,
+    "duration_human": "00:01:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Finally Happy - The Ground is Gonna Open Up"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-ground-is-gonna-open-up_91db201c59a3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/25eddca86ac697a4054a/The_Ground_is_Gonna_Open_Up.tar"
+    }
+  }
+}
