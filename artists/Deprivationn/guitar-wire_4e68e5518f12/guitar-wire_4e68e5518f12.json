@@ -1,0 +1,27 @@
+{
+  "id": "guitar-wire_4e68e5518f12",
+  "fingerprint": "4e68e5518f12cb54210a05e34b70ed3ade8fff6077c97c9eb2e481ffa8ec49ce",
+  "archived_at": "2026-08-17T22:16:51Z",
+  "metadata": {
+    "title": "Guitar Wire",
+    "artist": "Deprivationn",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 283,
+    "duration_human": "00:04:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deprivationn - Guitar Wires"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/guitar-wire_4e68e5518f12"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/fde3cbc8c562211eebc0/Guitar_Wire.tar"
+    }
+  }
+}
