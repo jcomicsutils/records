@@ -1,0 +1,35 @@
+{
+  "id": "chiaroscuro_431eac387beb",
+  "fingerprint": "431eac387beb97b7004eb945db9c98c584b29b8b058197ab33f1ca74d90208a9",
+  "archived_at": "2026-08-17T21:41:55Z",
+  "metadata": {
+    "title": "Chiaroscuro",
+    "artist": "Deprivationn",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1591,
+    "duration_human": "00:26:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 etternal sunnshine - Massacre",
+      "02 etternal sunnshine - Moth",
+      "03 El Doliente - Sin Ojos",
+      "04 El Doliente - Sin Voz",
+      "05 empty memories - Forever Friends",
+      "06 Deprivationn - The Thread of Life is Just One Big Jumble",
+      "07 Deprivationn - Self-Righteousness is a Curse",
+      "08 El Doliente - Pesadilla",
+      "09 El Doliente - Desde Afuera"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chiaroscuro_431eac387beb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/da2f4fff1fff9be2100f/Chiaroscuro.tar"
+    }
+  }
+}
