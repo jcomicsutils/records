@@ -1,0 +1,27 @@
+{
+  "id": "judgment-by-minoss-hand_c48860fc2311",
+  "fingerprint": "c48860fc2311f99b45b7b769cced86cdeeb971a764dd12fc869b64c3e2b785c2",
+  "archived_at": "2026-08-17T22:39:45Z",
+  "metadata": {
+    "title": "Judgment by Minos's Hand",
+    "artist": "Deprivationn",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 151,
+    "duration_human": "00:02:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deprivationn - Judgment by Minos's Hand"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/judgment-by-minoss-hand_c48860fc2311"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/1f357e15cc63aa57996a/Judgment_by_Minos_s_Hand.tar"
+    }
+  }
+}
