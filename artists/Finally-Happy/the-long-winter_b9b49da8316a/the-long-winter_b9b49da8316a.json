@@ -1,0 +1,33 @@
+{
+  "id": "the-long-winter_b9b49da8316a",
+  "fingerprint": "b9b49da8316a8e0a9c6ba792e100c39dbef0350ddf1b4752619ba078698d2c7d",
+  "archived_at": "2026-08-17T20:50:36Z",
+  "metadata": {
+    "title": "The Long Winter",
+    "artist": "Finally Happy",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1325,
+    "duration_human": "00:22:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Finally Happy - Snow Angels",
+      "02 Finally Happy - A Razor Blade Won't Help You Anymore",
+      "03 Finally Happy - Finally Happy",
+      "04 Finally Happy - Bile and Blood",
+      "05 Finally Happy - Drinking on a Sunday",
+      "06 Finally Happy - The Day I Die",
+      "07 Finally Happy - Birthday Burden"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-long-winter_b9b49da8316a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/c8b6704e06ffdd914709/The_Long_Winter.tar"
+    }
+  }
+}
