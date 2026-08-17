@@ -1,0 +1,33 @@
+{
+  "id": "hellfire-and-brimstone-the-calm-before-the-storm_ba5b7ea9739a",
+  "fingerprint": "ba5b7ea9739a5fdc5f22960021b3e50b20d5978c7ec65ed72976345e0c7d1150",
+  "archived_at": "2026-08-17T22:36:17Z",
+  "metadata": {
+    "title": "Hellfire and Brimstone: The Calm Before the Storm",
+    "artist": "Deprivationn",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2170,
+    "duration_human": "00:36:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Deprivationn - Ward Blues",
+      "02 Deprivationn - Piggies",
+      "03 Deprivationn - The Sludge",
+      "04 Deprivationn - Face Down (Interlude)",
+      "05 Deprivationn - In the Sand",
+      "06 Deprivationn - Scream (Black Flag Cover)",
+      "07 Deprivationn - Hellfire and Brimstone"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hellfire-and-brimstone-the-calm-before-the-storm_ba5b7ea9739a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/9e145f02e81a588badb6/Hellfire_and_Brimstone_The_Calm_Before_the_Storm.tar"
+    }
+  }
+}

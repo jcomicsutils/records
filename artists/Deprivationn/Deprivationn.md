@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Hellfire and Brimstone: The Calm Before the Storm](hellfire-and-brimstone-the-calm-before-the-storm_ba5b7ea9739a/hellfire-and-brimstone-the-calm-before-the-storm_ba5b7ea9739a.md) | 2023 | FLAC | 00:36:10 | [IA](https://archive.org/details/hellfire-and-brimstone-the-calm-before-the-storm_ba5b7ea9739a) [FileDitch](https://fileditchfiles.st/beta22/9e145f02e81a588badb6/Hellfire_and_Brimstone_The_Calm_Before_the_Storm.tar) |
 | [Deprived Butterflies \(Deprivationn Side\)](deprived-butterflies-deprivationn-side_7433c26eeba3/deprived-butterflies-deprivationn-side_7433c26eeba3.md) | 2023 | FLAC | 00:10:11 | [IA](https://archive.org/details/deprived-butterflies-deprivationn-side_7433c26eeba3) [FileDitch](https://fileditchfiles.st/beta22/283fa5bcdd43a76a3800/Deprived_Butterflies_Deprivationn_Side.tar) |
 | [Dreams of Death](dreams-of-death_a83dc00d5bd3/dreams-of-death_a83dc00d5bd3.md) | 2024 | FLAC | 00:57:29 | [IA](https://archive.org/details/dreams-of-death_a83dc00d5bd3) [FileDitch](https://fileditchfiles.st/beta22/79030088629652101cb3/Dreams_of_Death.tar) |
 | [Animosity in Doses \(A Step Closer to Serenity\)](animosity-in-doses-a-step-closer-to-serenity_a1b2f206962c/animosity-in-doses-a-step-closer-to-serenity_a1b2f206962c.md) | 2024 | FLAC | 00:06:02 | [IA](https://archive.org/details/animosity-in-doses-a-step-closer-to-serenity_a1b2f206962c) [FileDitch](https://fileditchfiles.st/beta22/fa9d8a3de458f1635d80/Animosity_in_Doses_A_Step_Closer_to_Serenity.tar) |
