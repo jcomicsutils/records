@@ -1,0 +1,27 @@
+{
+  "id": "drug-queen_9a1d89aa784c",
+  "fingerprint": "9a1d89aa784c8fe370074a95958e801c0c6c0607553dc96850acc4d3c00fdf55",
+  "archived_at": "2026-08-17T20:40:21Z",
+  "metadata": {
+    "title": "Drug Queen",
+    "artist": "Finally Happy",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 419,
+    "duration_human": "00:06:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Finally Happy - Drug Queen"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/drug-queen_9a1d89aa784c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/f0667a503b3d1e30ff81/Drug_Queen.tar"
+    }
+  }
+}
