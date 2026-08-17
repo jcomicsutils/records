@@ -1,0 +1,29 @@
+{
+  "id": "aquatic-apathy_8aeaa82eb772",
+  "fingerprint": "8aeaa82eb77281233903f4b2891c9b93fa268b9640a6730393dcf416ff2acec8",
+  "archived_at": "2026-08-17T21:14:08Z",
+  "metadata": {
+    "title": "Aquatic Apathy",
+    "artist": "Deprivationn",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1688,
+    "duration_human": "00:28:08",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Deprivationn & El Doliente - Hypertension, Mass Undertow (Part I)",
+      "02 Deprivationn & El Doliente - Swept Away, Mass Current (Part II)",
+      "03 Deprivationn & El Doliente - Hydrostatic Pressure, the Bends and the End (Part III)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/aquatic-apathy_8aeaa82eb772"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/0384123cb512b3b05422/Aquatic_Apathy.tar"
+    }
+  }
+}
