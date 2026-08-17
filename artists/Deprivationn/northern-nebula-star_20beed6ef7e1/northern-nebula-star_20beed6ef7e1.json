@@ -1,0 +1,31 @@
+{
+  "id": "northern-nebula-star_20beed6ef7e1",
+  "fingerprint": "20beed6ef7e1424763aba958416c6f4f99904044b706977af9cb7c077ecd38a7",
+  "archived_at": "2026-08-17T23:17:35Z",
+  "metadata": {
+    "title": "Northern Nebula Star",
+    "artist": "Deprivationn",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2244,
+    "duration_human": "00:37:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Deprivationn - I Have No Mouth and I Must Scream (Urlfest Version)",
+      "02 Deprivationn - Killer (Urlfest Version)",
+      "03 Deprivationn - Come Taste the Reaper’s Scythe (Demo)",
+      "04 Deprivationn - Doomstar of the North",
+      "05 Deprivationn - A Blissful Fall Through the Barrier of Hell"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/northern-nebula-star_20beed6ef7e1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/52988e8790a4cc29ec30/Northern_Nebula_Star.tar"
+    }
+  }
+}
