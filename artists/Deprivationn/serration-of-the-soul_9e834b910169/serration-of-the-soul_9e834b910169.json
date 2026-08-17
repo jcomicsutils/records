@@ -1,0 +1,30 @@
+{
+  "id": "serration-of-the-soul_9e834b910169",
+  "fingerprint": "9e834b9101691984a789a336ce7005e71d964dcbc6dc92bdc8f8ee36006cd7a5",
+  "archived_at": "2026-08-17T23:53:00Z",
+  "metadata": {
+    "title": "Serration of the Soul",
+    "artist": "Deprivationn",
+    "year": "2024",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 3687,
+    "duration_human": "01:01:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Deprivationn - Suite for Derivation of Pain, Pts. I-VI (STOP THE VIOLENCE)",
+      "02 Macabre Sauna - Fuck the Fucking Cops I Fucking Hate the Fucking Cops",
+      "03 Macabre Sauna - Self Lobotomy Kit",
+      "04 Macabre Sauna - Free Palestine"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/serration-of-the-soul_9e834b910169"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/7f383a1a3cc80d1f878c/Serration_of_the_Soul.tar"
+    }
+  }
+}
