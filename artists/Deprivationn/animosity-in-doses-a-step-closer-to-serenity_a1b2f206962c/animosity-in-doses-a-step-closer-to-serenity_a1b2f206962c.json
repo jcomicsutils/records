@@ -1,0 +1,27 @@
+{
+  "id": "animosity-in-doses-a-step-closer-to-serenity_a1b2f206962c",
+  "fingerprint": "a1b2f206962c08e1dc36703dd4458a83614357fdf44ede2a678e859c43e6da12",
+  "archived_at": "2026-08-17T20:55:28Z",
+  "metadata": {
+    "title": "Animosity in Doses (A Step Closer to Serenity)",
+    "artist": "Deprivationn",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 362,
+    "duration_human": "00:06:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deprivationn - Animosity in Doses (A Step Closer to Serenity)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/animosity-in-doses-a-step-closer-to-serenity_a1b2f206962c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/fa9d8a3de458f1635d80/Animosity_in_Doses_A_Step_Closer_to_Serenity.tar"
+    }
+  }
+}
