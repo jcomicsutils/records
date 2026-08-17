@@ -1,0 +1,28 @@
+{
+  "id": "nightcrawlers-utopia_081663ff0a3d",
+  "fingerprint": "081663ff0a3d0e89167a859d2ced173e55656166373530a3b50bc47aa09efd1c",
+  "archived_at": "2026-08-17T23:06:35Z",
+  "metadata": {
+    "title": "Nightcrawler's Utopia",
+    "artist": "Deprivationn",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 900,
+    "duration_human": "00:15:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deprivationn - Dreadnought (Dawn of the Nihilist, Or, Simply Put, a Nightcrawler's Utopia)",
+      "02 Deprivationn - Vrcq3s"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nightcrawlers-utopia_081663ff0a3d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/37059dead239ce8171fa/Nightcrawler_s_Utopia.tar"
+    }
+  }
+}
