@@ -1,0 +1,28 @@
+{
+  "id": "these-are-the-best-years-of-your-life_b63f34aa1738",
+  "fingerprint": "b63f34aa1738e7abf4ec66a18537157872a3042cd2e2d394134061871f5f4e83",
+  "archived_at": "2026-08-17T20:52:43Z",
+  "metadata": {
+    "title": "These Are the Best Years of Your Life",
+    "artist": "Finally Happy",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 300,
+    "duration_human": "00:05:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Finally Happy - A Mistake Dressed Up Like a Miracle",
+      "02 Finally Happy - Anica"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/these-are-the-best-years-of-your-life_b63f34aa1738"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/3e59fa10e80d45c1c42e/These_Are_the_Best_Years_of_Your_Life.tar"
+    }
+  }
+}
