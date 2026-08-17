@@ -1,0 +1,33 @@
+{
+  "id": "hells-contempt_16ec29253202",
+  "fingerprint": "16ec29253202a46b88e47ccb74db74c1351d6845d6ad27e53c529268b28044a8",
+  "archived_at": "2026-08-17T22:29:14Z",
+  "metadata": {
+    "title": "Hell’s Contempt",
+    "artist": "Deprivationn",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3356,
+    "duration_human": "00:55:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lotophage - A Plea for Forgiveness",
+      "02 Lotophage - Mechanically Non-Inclined in a Mechanical Future",
+      "03 Lotophage - Failure is Bound Like a Carnal Fixation to the Psyche",
+      "04 Lotophage - Dirge Triumphant",
+      "05 Lotophage - Armageddon Within",
+      "06 Lotophage - Seance for the Living",
+      "07 Lotophage - A Mental Shrine Requited (With Teeth)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hells-contempt_16ec29253202"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/c3475b0e83cb691d6b3c/Hell_s_Contempt.tar"
+    }
+  }
+}
