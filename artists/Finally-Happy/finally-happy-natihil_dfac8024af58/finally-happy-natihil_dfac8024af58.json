@@ -1,0 +1,33 @@
+{
+  "id": "finally-happy-natihil_dfac8024af58",
+  "fingerprint": "dfac8024af585a6c0cb9442ecf71b33816a83fb158f1c1de5f287678c1f57b4c",
+  "archived_at": "2026-08-17T20:42:48Z",
+  "metadata": {
+    "title": "Finally Happy / Natihil",
+    "artist": "Finally Happy",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 680,
+    "duration_human": "00:11:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Finally Happy - A Summer Song",
+      "02 Finally Happy - Isolation",
+      "03 Finally Happy - When I Am Gone",
+      "04 Natihil - Grain Silo",
+      "05 Natihil - Wasps in the Attic",
+      "06 Natihil - Means to an End",
+      "07 Natihil - I Tried Again"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/finally-happy-natihil_dfac8024af58"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/57ae034a676cfb0eb8c4/Finally_Happy_-_Natihil.tar"
+    }
+  }
+}
