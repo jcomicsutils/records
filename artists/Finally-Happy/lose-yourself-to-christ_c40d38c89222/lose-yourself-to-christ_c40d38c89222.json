@@ -1,0 +1,33 @@
+{
+  "id": "lose-yourself-to-christ_c40d38c89222",
+  "fingerprint": "c40d38c89222ceec47eeaab94bc6e2e9cddc155a5be67e7aa043247396a72509",
+  "archived_at": "2026-08-17T20:47:04Z",
+  "metadata": {
+    "title": "Lose Yourself to Christ",
+    "artist": "Finally Happy",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1261,
+    "duration_human": "00:21:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Finally Happy - Another Day",
+      "02 Finally Happy - Funeral Flowers",
+      "03 Finally Happy - Steppenwolf",
+      "04 Finally Happy - Jaybird (Embarrassing Middle School Demo)",
+      "05 Finally Happy - You'll Never See the Sun",
+      "06 Finally Happy - The Moon Was a Pale Mirror in the Sky",
+      "07 Finally Happy - God Does Not Love"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lose-yourself-to-christ_c40d38c89222"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/08d9fff9cdffa3c34bc7/Lose_Yourself_to_Christ.tar"
+    }
+  }
+}
