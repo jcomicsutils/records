@@ -87,6 +87,7 @@
 - [Exploring Jezebel](Exploring-Jezebel/Exploring-Jezebel.md)
 - [Father Noark](Father-Noark/Father-Noark.md)
 - [Federico Durand](Federico-Durand/Federico-Durand.md)
+- [Finally Happy](Finally-Happy/Finally-Happy.md)
 - [Fire on Fire](Fire-on-Fire/Fire-on-Fire.md)
 - [Flexy Gang](Flexy-Gang/Flexy-Gang.md)
 - [Fog](Fog/Fog.md)

@@ -1,0 +1,24 @@
+{
+  "id": "another-day_abb2256239f8",
+  "fingerprint": "abb2256239f8ced53b526603ec934a3d45153a3d888d792c28449c8ec9568c38",
+  "archived_at": "2026-08-17T01:00:55Z",
+  "metadata": {
+    "title": "Another Day",
+    "artist": "Finally Happy",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 185,
+    "duration_human": "00:03:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Finally Happy - Another Day"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/5c59b0b6e5cb7e68bcf2/Another_Day.tar"
+    }
+  }
+}
