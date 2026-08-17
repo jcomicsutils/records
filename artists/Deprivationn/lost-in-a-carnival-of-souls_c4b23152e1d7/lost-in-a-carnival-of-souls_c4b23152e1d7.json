@@ -1,0 +1,27 @@
+{
+  "id": "lost-in-a-carnival-of-souls_c4b23152e1d7",
+  "fingerprint": "c4b23152e1d7e68354dcaac44c06915635abdad300621c3fa6d2228cb064485e",
+  "archived_at": "2026-08-17T22:57:25Z",
+  "metadata": {
+    "title": "Lost in a Carnival of Souls",
+    "artist": "Deprivationn",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 464,
+    "duration_human": "00:07:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deprivationn - Lost in a Carnival of Souls"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lost-in-a-carnival-of-souls_c4b23152e1d7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/f08ef36295e83822319c/Lost_in_a_Carnival_of_Souls.tar"
+    }
+  }
+}
