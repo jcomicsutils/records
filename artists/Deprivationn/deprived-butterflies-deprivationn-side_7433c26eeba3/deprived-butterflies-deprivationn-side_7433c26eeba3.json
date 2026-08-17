@@ -1,0 +1,28 @@
+{
+  "id": "deprived-butterflies-deprivationn-side_7433c26eeba3",
+  "fingerprint": "7433c26eeba3fb158a6abcf95710848ba9d12c47065bbf3ec46cf6a10eb141ae",
+  "archived_at": "2026-08-17T21:46:17Z",
+  "metadata": {
+    "title": "Deprived Butterflies (Deprivationn Side)",
+    "artist": "Deprivationn",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 611,
+    "duration_human": "00:10:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deprivationn - Wither",
+      "02 Deprivationn - Condemned to the Flames"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/deprived-butterflies-deprivationn-side_7433c26eeba3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/283fa5bcdd43a76a3800/Deprived_Butterflies_Deprivationn_Side.tar"
+    }
+  }
+}
