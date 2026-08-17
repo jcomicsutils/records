@@ -1,0 +1,29 @@
+{
+  "id": "hatred_2b82dc0894d7",
+  "fingerprint": "2b82dc0894d76463f3a5693a80be357971b0615d0b61a3643e035fdc0bec0be1",
+  "archived_at": "2026-08-17T20:45:18Z",
+  "metadata": {
+    "title": "Hatred",
+    "artist": "Finally Happy",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 421,
+    "duration_human": "00:07:01",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Finally Happy - Completely Human (I Will Never Be)",
+      "02 Finally Happy - Thinking About You, and Other Things That Aren't There",
+      "03 Finally Happy - Cold Spots"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hatred_2b82dc0894d7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/38eb5b341e7f7c37d7e2/Hatred.tar"
+    }
+  }
+}
