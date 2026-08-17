@@ -1,0 +1,27 @@
+{
+  "id": "scream-black-flag-cover_5cf4489ff7e6",
+  "fingerprint": "5cf4489ff7e632df7a871ec061b91b991135d5473879a32ed3a7582a45faf87c",
+  "archived_at": "2026-08-17T23:40:57Z",
+  "metadata": {
+    "title": "Scream (Black Flag Cover)",
+    "artist": "Deprivationn",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 359,
+    "duration_human": "00:05:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deprivationn - Scream (Black Flag Cover)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/scream-black-flag-cover_5cf4489ff7e6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/e72c8c8491cf763df3ad/Scream_Black_Flag_Cover.tar"
+    }
+  }
+}
