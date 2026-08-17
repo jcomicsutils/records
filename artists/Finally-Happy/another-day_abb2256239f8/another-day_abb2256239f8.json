@@ -19,6 +19,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.st/beta22/5c59b0b6e5cb7e68bcf2/Another_Day.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/another-day_abb2256239f8"
     }
   }
 }

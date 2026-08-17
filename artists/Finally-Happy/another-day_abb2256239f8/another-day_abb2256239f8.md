@@ -1,5 +1,7 @@
 # Finally Happy — Another Day (2022)
 
+![Cover](https://archive.org/download/another-day_abb2256239f8/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.st/beta22/5c59b0b6e5cb7e68bcf2/Another_Day.tar)
+- [Archive.org](https://archive.org/details/another-day_abb2256239f8)
 
 ## Tracklist
 
