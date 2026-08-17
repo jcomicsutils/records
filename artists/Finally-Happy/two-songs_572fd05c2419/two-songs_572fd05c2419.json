@@ -1,0 +1,28 @@
+{
+  "id": "two-songs_572fd05c2419",
+  "fingerprint": "572fd05c2419008d60c3c618aea7e6407c9b996b6540595978965185c20ddfc0",
+  "archived_at": "2026-08-17T20:54:00Z",
+  "metadata": {
+    "title": "Two Songs",
+    "artist": "Finally Happy",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 326,
+    "duration_human": "00:05:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Finally Happy - Only in My Dreams",
+      "02 Lobsterfight - The Restaurant"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/two-songs_572fd05c2419"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/ec115d8b2621691f79c1/Two_Songs.tar"
+    }
+  }
+}
