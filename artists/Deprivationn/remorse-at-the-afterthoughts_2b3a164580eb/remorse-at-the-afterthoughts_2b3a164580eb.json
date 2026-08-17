@@ -1,0 +1,35 @@
+{
+  "id": "remorse-at-the-afterthoughts_2b3a164580eb",
+  "fingerprint": "2b3a164580eb37a62b9c87011a76134ebef1b3d812ec36315d8627ac54bf840b",
+  "archived_at": "2026-08-17T23:36:44Z",
+  "metadata": {
+    "title": "Remorse at the Afterthought(s)",
+    "artist": "Deprivationn",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1527,
+    "duration_human": "00:25:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Deprivationn - An End to a Mire Caught in the Razorblades of Reality",
+      "02 Deprivationn - Faulty Wires",
+      "03 Deprivationn - Intermission Before the Fall Ends",
+      "04 Deprivationn - Die in a Fire",
+      "05 Deprivationn - Final Thoughts",
+      "06 Deprivationn - Judgment by Minos's Hand",
+      "07 Deprivationn - Breaker Fluid / Nervous Breakdown",
+      "08 Deprivationn - Gravitational Waves",
+      "09 Deprivationn - Final Thoughts (Alternate Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/remorse-at-the-afterthoughts_2b3a164580eb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/002e68ba0a7fd6b4ccff/Remorse_at_the_Afterthought_s.tar"
+    }
+  }
+}
