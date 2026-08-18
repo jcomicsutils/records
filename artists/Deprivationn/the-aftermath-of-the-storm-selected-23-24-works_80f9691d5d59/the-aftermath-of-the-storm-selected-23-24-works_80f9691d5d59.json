@@ -1,0 +1,41 @@
+{
+  "id": "the-aftermath-of-the-storm-selected-23-24-works_80f9691d5d59",
+  "fingerprint": "80f9691d5d59ad0851716a4e08e9558914fbdc2a4b2e53062d0e924c88f80f61",
+  "archived_at": "2026-08-17T23:57:25Z",
+  "metadata": {
+    "title": "The Aftermath of the Storm: Selected 23'-24' Works",
+    "artist": "Deprivationn",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 4544,
+    "duration_human": "01:15:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Deprivationn - Ward Blues",
+      "02 Deprivationn - Piggies",
+      "03 Deprivationn - The Sludge",
+      "04 Deprivationn - Face Down (Interlude)",
+      "05 Deprivationn - In the Sand",
+      "06 Deprivationn - Scream (Black Flag Cover)",
+      "07 Deprivationn - Hellfire and Brimstone",
+      "08 Deprivationn - Wither",
+      "09 Deprivationn - Condemned to the Flames",
+      "10 Deprivationn - Animosity in Doses (A Step Closer to Serenity)",
+      "11 Deprivationn - Rest in Piss John Money 2006",
+      "12 Deprivationn - Absolutism in the Brightest Void, or Hellhole",
+      "13 Deprivationn - In the Sand (Troileuk Reimagining)",
+      "14 Deprivationn - Scream (Klarigon [And Me] Reimagining)",
+      "15 Deprivationn - Ward Blues (Unit Productions Reimagining)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-aftermath-of-the-storm-selected-23-24-works_80f9691d5d59"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/c0df8773fbedbbcb6e1f/The_Aftermath_of_the_Storm_Selected_23_-24_Works.tar"
+    }
+  }
+}
