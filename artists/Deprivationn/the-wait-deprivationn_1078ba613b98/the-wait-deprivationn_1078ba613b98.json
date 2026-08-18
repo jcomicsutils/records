@@ -1,0 +1,31 @@
+{
+  "id": "the-wait-deprivationn_1078ba613b98",
+  "fingerprint": "1078ba613b9800af7268c36e4ae9ae7c825d01769731fc7c2efb625411e04643",
+  "archived_at": "2026-08-18T00:05:36Z",
+  "metadata": {
+    "title": "The Wait / Deprivationn",
+    "artist": "Deprivationn",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1050,
+    "duration_human": "00:17:30",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 The Wait - A Life",
+      "02 The Wait - Natural Pause",
+      "03 The Wait - City Site",
+      "04 Deprivationn - Revelation (Interlude)",
+      "05 Deprivationn - No Devour and Delude"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-wait-deprivationn_1078ba613b98"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta22/3598556ba618197c3fbe/The_Wait_-_Deprivationn.tar"
+    }
+  }
+}
