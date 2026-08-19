@@ -1,0 +1,29 @@
+{
+  "id": "ermis_ee1b19bbc440",
+  "fingerprint": "ee1b19bbc4409b3368046e6cbdf58a62e051ed5ef021b3383157bcdc4226bbd3",
+  "archived_at": "2026-08-19T02:51:54Z",
+  "metadata": {
+    "title": "Ερμης",
+    "artist": "Βάκχεια Νεράϊδα",
+    "year": "1997",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 740,
+    "duration_human": "00:12:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Βάκχεια Νεράϊδα - Ερμης",
+      "02 Βάκχεια Νεράϊδα - Κιρκη",
+      "03 Βάκχεια Νεράϊδα - Κισσοφορος βακχειος"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ermis_ee1b19bbc440"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta23/ab4d134875d02e43dc09/%CE%95%CF%81%CE%BC%CE%B7%CF%82.tar"
+    }
+  }
+}
