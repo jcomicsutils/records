@@ -1,0 +1,36 @@
+{
+  "id": "wuyuan_de9bd9ab059a",
+  "fingerprint": "de9bd9ab059a1e536a1381f4f0948a6ba69e196a49f1f43a08e554ef3002ef9b",
+  "archived_at": "2026-08-19T02:31:10Z",
+  "metadata": {
+    "title": "巫怨",
+    "artist": "怨",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3173,
+    "duration_human": "00:52:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 怨 - Intro - 怨 Enmity",
+      "02 怨 - 母源-發-死河 Source of the Dead River",
+      "03 怨 - 瀆經-憶哭惘 Blaspheme Lection-Sad Memory",
+      "04 怨 - 呼魂-惡根 Evocat-Original Evil",
+      "05 怨 - 葬萬念-咒 Despair-Chants",
+      "06 怨 - 鏡,水-喪子鐘 Mirror,Water-Bell of the Dead Son",
+      "07 怨 - 舊煌-怒陵 Ancient Brilliant-Angry Mausoleum",
+      "08 怨 - Outro 仇 Hatred",
+      "09 怨 - 母源-發-死河 (Demo Version)",
+      "10 怨 - 瀆經-憶哭惘 (Demo Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wuyuan_de9bd9ab059a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta23/0a91b728f13c9d37e21e/%E5%B7%AB%E6%80%A8.tar"
+    }
+  }
+}
