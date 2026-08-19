@@ -1,0 +1,31 @@
+{
+  "id": "zhurong-yuan_c6deea76d8be",
+  "fingerprint": "c6deea76d8be6d7d15842d8cfda1c7d8ec1f5ed83d924cedbc1b05e7e2fa90c8",
+  "archived_at": "2026-08-19T02:38:20Z",
+  "metadata": {
+    "title": "祝融 / 怨",
+    "artist": "怨",
+    "year": "2004",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 1661,
+    "duration_human": "00:27:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 祝融 & 怨 - 征程 - 祝融",
+      "02 祝融 & 怨 - 伐 - 祝融",
+      "03 祝融 & 怨 - 渎经 - 怨",
+      "04 祝融 & 怨 - 呼魂 - 怨",
+      "05 祝融 & 怨 - 怨 - 怨"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zhurong-yuan_c6deea76d8be"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta23/3dbefe40b0fd0a437efd/%E7%A5%9D%E8%9E%8D_-_%E6%80%A8.tar"
+    }
+  }
+}
