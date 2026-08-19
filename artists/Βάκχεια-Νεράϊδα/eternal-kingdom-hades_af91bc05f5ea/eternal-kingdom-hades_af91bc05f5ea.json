@@ -1,0 +1,32 @@
+{
+  "id": "eternal-kingdom-hades_af91bc05f5ea",
+  "fingerprint": "af91bc05f5ead4acfe063c288c3fa0b3743dce279c2c8e55853d82b558f5807c",
+  "archived_at": "2026-08-19T02:40:28Z",
+  "metadata": {
+    "title": "Eternal Kingdom Hades",
+    "artist": "Βάκχεια Νεράϊδα",
+    "year": "2000",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 1076,
+    "duration_human": "00:17:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Βάκχεια Νεράϊδα - Wolf's Dirge",
+      "02 Βάκχεια Νεράϊδα - Imperium Gaia",
+      "03 Βάκχεια Νεράϊδα - Ades Zoferos",
+      "04 Βάκχεια Νεράϊδα - Hellenic Triumphant",
+      "05 Βάκχεια Νεράϊδα - The Golden Aurora",
+      "06 Βάκχεια Νεράϊδα - Eternal Kingdom Hades"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/eternal-kingdom-hades_af91bc05f5ea"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta23/f568de5123f69ff8c6ff/Eternal_Kingdom_Hades.tar"
+    }
+  }
+}
