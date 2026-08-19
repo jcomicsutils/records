@@ -1,0 +1,37 @@
+{
+  "id": "dionysos_f4d5f62921db",
+  "fingerprint": "f4d5f62921dbda290bed26ffc6cf78eb7e6747f9c546df8be640e20456132d83",
+  "archived_at": "2026-08-19T02:45:52Z",
+  "metadata": {
+    "title": "Διόνυσος",
+    "artist": "Βάκχεια Νεράϊδα",
+    "year": "1997",
+    "codec": "MP3",
+    "num_tracks": 11,
+    "duration_seconds": 2735,
+    "duration_human": "00:45:35",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Βάκχεια Νεράϊδα - Βακχαναλια",
+      "02 Βάκχεια Νεράϊδα - Σατυρος",
+      "03 Βάκχεια Νεράϊδα - Νυξ",
+      "04 Βάκχεια Νεράϊδα - Πανας",
+      "05 Βάκχεια Νεράϊδα - Νυμφες",
+      "06 Βάκχεια Νεράϊδα - Καβειρια",
+      "07 Βάκχεια Νεράϊδα - Διονυσος",
+      "08 Βάκχεια Νεράϊδα - Χαρων",
+      "09 Βάκχεια Νεράϊδα - Αδης",
+      "10 Βάκχεια Νεράϊδα - Εσπεριδες",
+      "11 Βάκχεια Νεράϊδα - Μαιναδες"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dionysos_f4d5f62921db"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta23/666eea1338a1b0c6858f/%CE%94%CE%B9%CF%8C%CE%BD%CF%85%CF%83%CE%BF%CF%82.tar"
+    }
+  }
+}
