@@ -1,0 +1,32 @@
+{
+  "id": "enemite-kfr_901d9cb0df23",
+  "fingerprint": "901d9cb0df23f4474169dd371e09b17097a0c30697263b5b549dd7e70d901ada",
+  "archived_at": "2026-08-19T02:24:45Z",
+  "metadata": {
+    "title": "Enemite / K.F.R",
+    "artist": "怨",
+    "year": "2015",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 2216,
+    "duration_human": "00:36:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Enemite - 母源-发-死河",
+      "02 Enemite - 渎经-忆哭惘",
+      "03 K.F.R - The Possession",
+      "04 K.F.R - Šayṭān",
+      "05 K.F.R - Devil's Experiment + Ending",
+      "06 K.F.R - My Torments Part II Nihilum Satanae"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/enemite-kfr_901d9cb0df23"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta23/1f2c23143828afba43a7/Enemite_-_K.F.R.tar"
+    }
+  }
+}
