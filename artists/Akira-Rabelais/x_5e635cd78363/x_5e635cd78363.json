@@ -1,0 +1,28 @@
+{
+  "id": "x_5e635cd78363",
+  "fingerprint": "5e635cd78363f6ce1c6d6a7f2c5461c72ae74f1e728da3da4c51aabd8b8b3552",
+  "archived_at": "2026-08-23T20:02:35Z",
+  "metadata": {
+    "title": "X",
+    "artist": "Akira Rabelais",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 3620,
+    "duration_human": "01:00:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Akira Rabelais - Side A",
+      "02 Akira Rabelais - Side B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/x_5e635cd78363"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/b60d8bfdcae70732f4f9/X.tar"
+    }
+  }
+}
