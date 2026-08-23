@@ -1,0 +1,33 @@
+{
+  "id": "common-feeling_f1575ae2a070",
+  "fingerprint": "f1575ae2a070ac243b1be1b8972a4da442ae9324500b975d0375fe15e709a309",
+  "archived_at": "2026-08-23T20:14:29Z",
+  "metadata": {
+    "title": "Common Feeling",
+    "artist": "Human Tetris",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1964,
+    "duration_human": "00:32:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Human Tetris - Closer",
+      "02 Human Tetris - Waves",
+      "03 Human Tetris - Letter",
+      "04 Human Tetris - Home",
+      "05 Human Tetris - City",
+      "06 Human Tetris - Your Laugh",
+      "07 Human Tetris - Light Room"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/common-feeling_f1575ae2a070"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/57abf02f1017fa0e75b7/Common_Feeling.tar"
+    }
+  }
+}
