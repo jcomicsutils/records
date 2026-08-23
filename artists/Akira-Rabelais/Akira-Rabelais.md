@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Elongated Pentagonal Pyramid](elongated-pentagonal-pyramid_534f45defd33/elongated-pentagonal-pyramid_534f45defd33.md) | 1999 | FLAC | 00:38:49 | [IA](https://archive.org/details/elongated-pentagonal-pyramid_534f45defd33) [FileDitch](https://fileditchfiles.st/beta24/0947fef0698931496df0/Elongated_Pentagonal_Pyramid.tar) |
 | [Eisoptrophobia](eisoptrophobia_5fb009d64c6e/eisoptrophobia_5fb009d64c6e.md) | 2001 | FLAC | 00:59:28 | [IA](https://archive.org/details/eisoptrophobia_5fb009d64c6e) [FileDitch](https://fileditchfiles.st/beta24/d1a2f0d65466012a8918/Eisoptrophobia.tar) |
 | [...Bénédiction, Draw](benediction-draw_819e9b5b5000/benediction-draw_819e9b5b5000.md) | 2003 | FLAC | 01:11:15 | [IA](https://archive.org/details/benediction-draw_819e9b5b5000) [FileDitch](https://fileditchfiles.st/beta24/950610b692b2a88ce369/B_n_diction_Draw.tar) |
 | [A.M. Station](am-station_4cb845560de5/am-station_4cb845560de5.md) | 2005 | MP3 | 00:32:30 | [IA](https://archive.org/details/am-station_4cb845560de5) [FileDitch](https://fileditchfiles.st/beta24/2b34d9e51ea1135d7d74/A.M._Station.tar) |

@@ -1,0 +1,38 @@
+{
+  "id": "elongated-pentagonal-pyramid_534f45defd33",
+  "fingerprint": "534f45defd33e2c4a107acd42dd08cb729a271f92abbb531ab8d1ab24168e6ef",
+  "archived_at": "2026-08-23T19:12:36Z",
+  "metadata": {
+    "title": "Elongated Pentagonal Pyramid",
+    "artist": "Akira Rabelais",
+    "year": "1999",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2329,
+    "duration_human": "00:38:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Akira Rabelais - 3 of 15",
+      "02 Akira Rabelais - A La Recherche Du Temps Perdu",
+      "03 Akira Rabelais - Palinode I",
+      "04 Akira Rabelais - 1318663, 1318697, 1318699 …",
+      "05 Akira Rabelais - Instructi Politic",
+      "06 Akira Rabelais - 4 (Edit III)",
+      "07 Akira Rabelais - Ic3",
+      "08 Akira Rabelais - Cnámv Cáca - V",
+      "09 Akira Rabelais - 577-dD (1318661)",
+      "10 Akira Rabelais - Catalan Solids",
+      "11 Akira Rabelais - Palinode II",
+      "12 Akira Rabelais - Chronosynclastic"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/elongated-pentagonal-pyramid_534f45defd33"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/0947fef0698931496df0/Elongated_Pentagonal_Pyramid.tar"
+    }
+  }
+}
