@@ -1,0 +1,32 @@
+{
+  "id": "river-pt-1_4a35aaa29762",
+  "fingerprint": "4a35aaa297628427de5d18718c6b783d7011ffa535e8c524fb8620983e179585",
+  "archived_at": "2026-08-23T20:41:44Z",
+  "metadata": {
+    "title": "River Pt. 1",
+    "artist": "Human Tetris",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1073,
+    "duration_human": "00:17:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Human Tetris - Runaway",
+      "02 Human Tetris - Random Connections",
+      "03 Human Tetris - Blind",
+      "04 Human Tetris - Bravery",
+      "05 Human Tetris - Shadows",
+      "06 Human Tetris - Last Forever"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/river-pt-1_4a35aaa29762"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/1971cf2d10b2f6afe385/River_Pt._1.tar"
+    }
+  }
+}
