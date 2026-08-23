@@ -1,0 +1,30 @@
+{
+  "id": "mada-kokoni-iru-original-soundtrack-recomposed_6f4253d152ac",
+  "fingerprint": "6f4253d152ac840820a1fda6251648a0cb7ebc32a1f7e866eb6a81080a497781",
+  "archived_at": "2026-08-23T19:34:09Z",
+  "metadata": {
+    "title": "Mada Kokoni Iru Original Soundtrack Recomposed",
+    "artist": "Akira Rabelais",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1365,
+    "duration_human": "00:22:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Félicia Atkinson - The Rain",
+      "02 Takuma Watanabe - Particle",
+      "03 Akira Rabelais & Takuma Watanabe - Sono Jikanni Kakehashiga Umareru",
+      "04 Takuma Watanabe - Mada Kokoni Iru"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mada-kokoni-iru-original-soundtrack-recomposed_6f4253d152ac"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/b276884d48eada8870ea/Mada_Kokoni_Iru_Original_Soundtrack_Recomposed.tar"
+    }
+  }
+}
