@@ -1,0 +1,31 @@
+{
+  "id": "soldiers_a65f4f66b9a9",
+  "fingerprint": "a65f4f66b9a9fd5082dae5d2409258fb5585a329b182cca9524deda5a0b235a2",
+  "archived_at": "2026-08-23T20:59:49Z",
+  "metadata": {
+    "title": "Soldiers",
+    "artist": "Human Tetris",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1019,
+    "duration_human": "00:16:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Human Tetris - Machine",
+      "02 Human Tetris - Kings & Queens",
+      "03 Human Tetris - Soldiers",
+      "04 Human Tetris - Stenciled Views",
+      "05 Human Tetris - Changes"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/soldiers_a65f4f66b9a9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/e174e1eb902376ffe491/Soldiers.tar"
+    }
+  }
+}
