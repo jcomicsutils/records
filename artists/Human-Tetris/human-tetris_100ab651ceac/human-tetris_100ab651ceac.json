@@ -1,0 +1,31 @@
+{
+  "id": "human-tetris_100ab651ceac",
+  "fingerprint": "100ab651ceac6f690d27b3bcd6888dbbbe0ea1a14d7b0a4e6002ce10a3c16746",
+  "archived_at": "2026-08-23T20:25:34Z",
+  "metadata": {
+    "title": "Human Tetris",
+    "artist": "Human Tetris",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1107,
+    "duration_human": "00:18:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Human Tetris - People",
+      "02 Human Tetris - Our Love Ends",
+      "03 Human Tetris - Baltic Sea",
+      "04 Human Tetris - My Story",
+      "05 Human Tetris - No One"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/human-tetris_100ab651ceac"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/e1d4861b6e96d916a989/Human_Tetris.tar"
+    }
+  }
+}
