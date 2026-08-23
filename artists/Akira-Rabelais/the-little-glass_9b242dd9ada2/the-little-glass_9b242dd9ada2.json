@@ -1,0 +1,31 @@
+{
+  "id": "the-little-glass_9b242dd9ada2",
+  "fingerprint": "9b242dd9ada29f8781d0ab75fbaaa53d3296a89e790c2a3edff81002b090dc3f",
+  "archived_at": "2026-08-23T19:54:50Z",
+  "metadata": {
+    "title": "The Little Glass",
+    "artist": "Akira Rabelais",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 7814,
+    "duration_human": "02:10:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "1-01 Akira Rabelais - I",
+      "1-02 Akira Rabelais - II",
+      "1-03 Akira Rabelais - III",
+      "1-04 Akira Rabelais - IV",
+      "2-01 Akira Rabelais - V"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-little-glass_9b242dd9ada2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/f1b1f445386faf91387a/The_Little_Glass.tar"
+    }
+  }
+}
