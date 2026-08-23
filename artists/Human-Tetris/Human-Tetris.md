@@ -9,3 +9,4 @@
 | [Pictures / Ruins](pictures-ruins_54f13544587e/pictures-ruins_54f13544587e.md) | 2017 | FLAC | 00:08:14 | [IA](https://archive.org/details/pictures-ruins_54f13544587e) [FileDitch](https://fileditchfiles.st/beta24/31a465ef9f1f45ceeaf4/Pictures_-_Ruins.tar) |
 | [Memorabilia](memorabilia_9f5f465a4449/memorabilia_9f5f465a4449.md) | 2018 | FLAC | 00:23:20 | [IA](https://archive.org/details/memorabilia_9f5f465a4449) [FileDitch](https://fileditchfiles.st/beta24/35db8112b181db33a443/Memorabilia.tar) |
 | [Common Feeling](common-feeling_f1575ae2a070/common-feeling_f1575ae2a070.md) | 2025 | FLAC | 00:32:44 | [IA](https://archive.org/details/common-feeling_f1575ae2a070) [FileDitch](https://fileditchfiles.st/beta24/57abf02f1017fa0e75b7/Common_Feeling.tar) |
+| [Side](side_e261cb59ef9b/side_e261cb59ef9b.md) | 2026 | FLAC | 00:44:01 | [IA](https://archive.org/details/side_e261cb59ef9b) [FileDitch](https://fileditchfiles.st/beta24/09b9fc05b1d3091e90d4/Side.tar) |

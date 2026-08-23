@@ -1,0 +1,33 @@
+{
+  "id": "side_e261cb59ef9b",
+  "fingerprint": "e261cb59ef9bc69e54b70f4bd3bf247615f9146278edb441587cf309ef368528",
+  "archived_at": "2026-08-23T20:50:35Z",
+  "metadata": {
+    "title": "Side",
+    "artist": "Human Tetris",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2641,
+    "duration_human": "00:44:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Human Tetris - Salty Waterfall",
+      "02 Human Tetris - Separated",
+      "03 Human Tetris - Side",
+      "04 Human Tetris - Weak",
+      "05 Human Tetris - Reverie",
+      "06 Human Tetris - Fragments",
+      "07 Human Tetris - Fear"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/side_e261cb59ef9b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/09b9fc05b1d3091e90d4/Side.tar"
+    }
+  }
+}
