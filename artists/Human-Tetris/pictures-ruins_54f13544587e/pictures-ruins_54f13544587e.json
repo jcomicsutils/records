@@ -1,0 +1,28 @@
+{
+  "id": "pictures-ruins_54f13544587e",
+  "fingerprint": "54f13544587eee3e55b497db79375df4c1010bc1210545cde6be78ac3df9802d",
+  "archived_at": "2026-08-23T20:35:44Z",
+  "metadata": {
+    "title": "Pictures / Ruins",
+    "artist": "Human Tetris",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 494,
+    "duration_human": "00:08:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Human Tetris - Pictures",
+      "02 Human Tetris - Ruins"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pictures-ruins_54f13544587e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/31a465ef9f1f45ceeaf4/Pictures_-_Ruins.tar"
+    }
+  }
+}
