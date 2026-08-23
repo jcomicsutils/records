@@ -12,6 +12,7 @@
 - [Accident Prone Records](Accident-Prone-Records/Accident-Prone-Records.md)
 - [Agriculture](Agriculture/Agriculture.md)
 - [Ak'chamel](Ak'chamel/Ak'chamel.md)
+- [Akira Rabelais](Akira-Rabelais/Akira-Rabelais.md)
 - [Akkajee](Akkajee/Akkajee.md)
 - [Alcest](Alcest/Alcest.md)
 - [Alexander Gregory Kent](Alexander-Gregory-Kent/Alexander-Gregory-Kent.md)
