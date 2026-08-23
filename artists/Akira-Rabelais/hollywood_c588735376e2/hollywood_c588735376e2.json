@@ -1,0 +1,27 @@
+{
+  "id": "hollywood_c588735376e2",
+  "fingerprint": "c588735376e2746f0784360733d0ce27ed1b17268062bd57741ef91cac31564a",
+  "archived_at": "2026-08-23T19:28:17Z",
+  "metadata": {
+    "title": "Hollywood",
+    "artist": "Akira Rabelais",
+    "year": "2008",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 4008,
+    "duration_human": "01:06:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Akira Rabelais - Hollywood"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hollywood_c588735376e2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/140a0a962e8c17827f84/Hollywood.tar"
+    }
+  }
+}
