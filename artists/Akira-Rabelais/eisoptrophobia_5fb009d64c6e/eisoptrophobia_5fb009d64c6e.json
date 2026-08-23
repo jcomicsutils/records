@@ -1,0 +1,46 @@
+{
+  "id": "eisoptrophobia_5fb009d64c6e",
+  "fingerprint": "5fb009d64c6e959086496a913d68a9d7bf69e8011073505ff9c0076a294f51c9",
+  "archived_at": "2026-08-23T19:03:26Z",
+  "metadata": {
+    "title": "Eisoptrophobia",
+    "artist": "Akira Rabelais",
+    "year": "2001",
+    "codec": "FLAC",
+    "num_tracks": 20,
+    "duration_seconds": 3568,
+    "duration_human": "00:59:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Akira Rabelais - Notturno",
+      "02 Akira Rabelais - Trisieme Gnossienne",
+      "03 Akira Rabelais - Aphorisming, Second",
+      "04 Akira Rabelais - Rhytme Bulgare",
+      "05 Akira Rabelais - Aposiopesis",
+      "06 Akira Rabelais - Gymnopedie No.1",
+      "07 Akira Rabelais - Gymnopedie No.2",
+      "08 Akira Rabelais - Gymnopedie No.3",
+      "09 Akira Rabelais - Mas Broken & Together",
+      "10 Akira Rabelais - Cinquieme Gnossienne",
+      "11 Akira Rabelais - Premiere Gnossienne",
+      "12 Akira Rabelais - Aphorisming, First",
+      "13 Akira Rabelais - Notturno (Loverly Remix)",
+      "14 Akira Rabelais - Berceuse",
+      "15 Akira Rabelais - Buciumeana",
+      "16 Akira Rabelais - Quatrieme Gnossienne",
+      "17 Akira Rabelais - Aphorisming, Third",
+      "18 Akira Rabelais - M25 M75 (Fragmented)",
+      "19 Akira Rabelais - Pe loc",
+      "20 Akira Rabelais - Sarabande No.2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/eisoptrophobia_5fb009d64c6e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/d1a2f0d65466012a8918/Eisoptrophobia.tar"
+    }
+  }
+}
