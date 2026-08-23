@@ -1,0 +1,28 @@
+{
+  "id": "am-station_4cb845560de5",
+  "fingerprint": "4cb845560de5b6944d3645c7d64d1eb5703df7793f3ccaff8302d2e94d9ac23b",
+  "archived_at": "2026-08-23T17:56:54Z",
+  "metadata": {
+    "title": "A.M. Station",
+    "artist": "Akira Rabelais",
+    "year": "2005",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1950,
+    "duration_human": "00:32:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Akira Rabelais - A.M. Station Austin",
+      "02 Akira Rabelais - A.M. Station Los Angeles"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/am-station_4cb845560de5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/2b34d9e51ea1135d7d74/A.M._Station.tar"
+    }
+  }
+}
