@@ -1,0 +1,30 @@
+{
+  "id": "cxvi_70e0e74ca9c4",
+  "fingerprint": "70e0e74ca9c42f0fbde83b5ec6e13d4418c4abc5a5d7b0d0007f008a672bd96d",
+  "archived_at": "2026-08-23T18:55:52Z",
+  "metadata": {
+    "title": "CXVI",
+    "artist": "Akira Rabelais",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4704,
+    "duration_human": "01:18:24",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Akira Rabelais - Which Alters When It Alteration Finds",
+      "02 Akira Rabelais - Star to Every Wandring Worth's Unknown",
+      "03 Akira Rabelais - Within Bending Sickle's Compass Come",
+      "04 Akira Rabelais - If Error and Upon Me Proved"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cxvi_70e0e74ca9c4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/b6e5f75c8ab418ff7bad/CXVI.tar"
+    }
+  }
+}
