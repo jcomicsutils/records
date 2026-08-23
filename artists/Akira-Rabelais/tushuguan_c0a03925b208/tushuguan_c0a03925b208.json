@@ -1,0 +1,30 @@
+{
+  "id": "tushuguan_c0a03925b208",
+  "fingerprint": "c0a03925b2080cf26230eac46c2fc35e29673414e689a68d0a2fb24ebcc04ab0",
+  "archived_at": "2026-08-23T20:09:25Z",
+  "metadata": {
+    "title": "図書館",
+    "artist": "Akira Rabelais",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4777,
+    "duration_human": "01:19:37",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Akira Rabelais - 幽霊が正しい言葉かどうかはわかりませんが、それは間違いなくこの世界のものではありません",
+      "02 Akira Rabelais - 暖かく満足のいく記憶の中で失われました",
+      "03 Akira Rabelais - 時間は拡大し、次に縮小し、すべて心臓のかき混ぜと調和します",
+      "04 Akira Rabelais - 胸郭の後ろで黙って 私の暖かい心は私の意志とは無関係に伸縮します-何度も何度も"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tushuguan_c0a03925b208"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/bef4993111450d852545/%E5%9B%B3%E6%9B%B8%E9%A4%A8.tar"
+    }
+  }
+}
