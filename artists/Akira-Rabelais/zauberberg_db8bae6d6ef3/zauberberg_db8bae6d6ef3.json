@@ -1,0 +1,27 @@
+{
+  "id": "zauberberg_db8bae6d6ef3",
+  "fingerprint": "db8bae6d6ef31945a59599b9fb1ec10d8e71162de39c817e46b0431370bf379d",
+  "archived_at": "2026-08-23T20:05:45Z",
+  "metadata": {
+    "title": "Zauberberg",
+    "artist": "Akira Rabelais",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2970,
+    "duration_human": "00:49:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kassel Jaeger - Zauberberg"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zauberberg_db8bae6d6ef3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/e445f97f493cd8ceef2e/Zauberberg.tar"
+    }
+  }
+}
