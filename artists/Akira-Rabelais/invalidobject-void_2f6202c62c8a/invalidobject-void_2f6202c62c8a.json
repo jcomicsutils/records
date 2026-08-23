@@ -1,0 +1,41 @@
+{
+  "id": "invalidobject-void_2f6202c62c8a",
+  "fingerprint": "2f6202c62c8a6ea944b5d1bdc0a5e26c222c32417895771978acf255e9f726bd",
+  "archived_at": "2026-08-23T19:32:09Z",
+  "metadata": {
+    "title": "InvalidObject (Void)",
+    "artist": "Akira Rabelais",
+    "year": "2000",
+    "codec": "MP3",
+    "num_tracks": 15,
+    "duration_seconds": 905,
+    "duration_human": "00:15:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Akira Rabelais - (void) 01",
+      "02 Akira Rabelais - (void) 02",
+      "03 Akira Rabelais - (void) 03",
+      "04 Akira Rabelais - (void) 04",
+      "05 Akira Rabelais - (void) 05",
+      "06 Akira Rabelais - (void) 06",
+      "07 Akira Rabelais - (void) 07",
+      "08 Akira Rabelais - (void) 08",
+      "09 Akira Rabelais - (void) 09",
+      "10 Akira Rabelais - (void) 10",
+      "11 Akira Rabelais - (void) 11",
+      "12 Akira Rabelais - (void) 12",
+      "13 Akira Rabelais - (void) 13",
+      "14 Akira Rabelais - (void) 14",
+      "15 Akira Rabelais - (void) 15"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/invalidobject-void_2f6202c62c8a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/55ff8e2e2db124ac00cc/InvalidObject_Void.tar"
+    }
+  }
+}
