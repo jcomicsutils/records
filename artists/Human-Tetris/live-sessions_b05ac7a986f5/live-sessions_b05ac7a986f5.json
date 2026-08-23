@@ -1,0 +1,29 @@
+{
+  "id": "live-sessions_b05ac7a986f5",
+  "fingerprint": "b05ac7a986f534e839811784b5fad8e1efdcfe5fd2db98ada195e7193c96eb2e",
+  "archived_at": "2026-08-23T20:28:06Z",
+  "metadata": {
+    "title": "Live Sessions",
+    "artist": "Human Tetris",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 798,
+    "duration_human": "00:13:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Human Tetris - Some Things Are Gone Forever",
+      "02 Human Tetris - Turquoise Dress",
+      "03 Human Tetris - Village"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-sessions_b05ac7a986f5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/96ac3e9dd32e7f5290e1/Live_Sessions.tar"
+    }
+  }
+}
