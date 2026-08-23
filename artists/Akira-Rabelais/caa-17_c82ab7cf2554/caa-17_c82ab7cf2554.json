@@ -1,0 +1,28 @@
+{
+  "id": "caa-17_c82ab7cf2554",
+  "fingerprint": "c82ab7cf2554411bbde622e86524fc9ab471a4a9f9d2e7719751448c67cf4e25",
+  "archived_at": "2026-08-23T18:29:53Z",
+  "metadata": {
+    "title": "CAA-17",
+    "artist": "Akira Rabelais",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 645,
+    "duration_human": "00:10:45",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Akira Rabelais - Да: проинтегрировать грандиозное вселенское уравнение",
+      "02 Akira Rabelais - Да: разогнуть дикую кривую, выпрямить ее по касательной — асимптоме — по прямой"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/caa-17_c82ab7cf2554"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/3d43263414e91a4be0fc/CAA-17.tar"
+    }
+  }
+}
