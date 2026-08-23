@@ -1,0 +1,33 @@
+{
+  "id": "two-rooms_6a1f049a1e84",
+  "fingerprint": "6a1f049a1e8469bac188219f1b29eb688e2c29d9b1c6a4489409606cf2193701",
+  "archived_at": "2026-08-23T21:07:09Z",
+  "metadata": {
+    "title": "Two Rooms",
+    "artist": "Human Tetris",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1762,
+    "duration_human": "00:29:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Human Tetris - Fade",
+      "02 Human Tetris - Horizon",
+      "03 Human Tetris - Silhouette",
+      "04 Human Tetris - The Hardest Feeling",
+      "05 Human Tetris - I Follow You",
+      "06 Human Tetris - Day and Night",
+      "07 Human Tetris - Reminder"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/two-rooms_6a1f049a1e84"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/6362214ab683d6c706a6/Two_Rooms.tar"
+    }
+  }
+}
