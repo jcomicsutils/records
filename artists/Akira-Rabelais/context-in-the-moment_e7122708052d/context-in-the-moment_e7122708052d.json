@@ -1,0 +1,28 @@
+{
+  "id": "context-in-the-moment_e7122708052d",
+  "fingerprint": "e7122708052dad946e3a1608b38cecc0175172bbe34740ccb2c25745b5bab231",
+  "archived_at": "2026-08-23T18:36:16Z",
+  "metadata": {
+    "title": "Context in the Moment",
+    "artist": "Akira Rabelais",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 3617,
+    "duration_human": "01:00:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "00 Akira Rabelais - [untitled]",
+      "00 Akira Rabelais - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/context-in-the-moment_e7122708052d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/37642329e8e7b493c023/Context_in_the_Moment.tar"
+    }
+  }
+}
