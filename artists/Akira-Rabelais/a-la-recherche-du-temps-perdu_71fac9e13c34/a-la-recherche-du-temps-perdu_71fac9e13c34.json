@@ -1,0 +1,39 @@
+{
+  "id": "a-la-recherche-du-temps-perdu_71fac9e13c34",
+  "fingerprint": "71fac9e13c34ca07154b4d6613ad034c17ec0965614a56c0255d90b52892eba4",
+  "archived_at": "2026-08-23T18:07:45Z",
+  "metadata": {
+    "title": "À la recherche du temps perdu",
+    "artist": "Akira Rabelais",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 17866,
+    "duration_human": "04:57:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Akira Rabelais - Du côté de chez Swann - Il y a bien des années... dans le silence du soir",
+      "02 Akira Rabelais - Du côté de chez Swann - Les lieux... comme les années",
+      "03 Akira Rabelais - À l'ombre des jeunes filles en fleurs - Nos désirs vont... qui l’avait réclamé",
+      "04 Akira Rabelais - À l'ombre des jeunes filles en fleurs - Car il était celui... il navigue",
+      "05 Akira Rabelais - Le Côté de Guermantes - Mais, dans les autres... la princesse de Guermantes",
+      "06 Akira Rabelais - Le Côté de Guermantes - Mais ça m’amuse... des goûts flatteurs pour elle",
+      "07 Akira Rabelais - Sodome et Gomorrhe - C’était une femme charmante... menaçant",
+      "08 Akira Rabelais - Sodome et Gomorrhe - Et ce mouvement gracieux... me recevoir",
+      "09 Akira Rabelais - La Prisonnière - Ma jalousie s’apaisait... avec moi",
+      "10 Akira Rabelais - La Fugitive - Parfois, au crépuscule... sur ce passé",
+      "11 Akira Rabelais - Le Temps retrouvé - Si je m’étais toujours... le Temps perdu",
+      "12 Akira Rabelais - Le Temps retrouvé - À ce moment même... avec moi",
+      "13 Akira Rabelais - Addenda - Il avait eu envie de réentendre certains quatuors de Beethoven"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-la-recherche-du-temps-perdu_71fac9e13c34"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/c0fcd62772545274a1fc/A_la_recherche_du_temps_perdu.tar"
+    }
+  }
+}
