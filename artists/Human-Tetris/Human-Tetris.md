@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Human Tetris](human-tetris_100ab651ceac/human-tetris_100ab651ceac.md) | 2009 | FLAC | 00:18:27 | [IA](https://archive.org/details/human-tetris_100ab651ceac) [FileDitch](https://fileditchfiles.st/beta24/e1d4861b6e96d916a989/Human_Tetris.tar) |
+| [Things I Don't Need](things-i-dont-need_2349bf048532/things-i-dont-need_2349bf048532.md) | 2010 | FLAC | 00:04:04 | [IA](https://archive.org/details/things-i-dont-need_2349bf048532) [FileDitch](https://fileditchfiles.st/beta24/da99b7fa9f43a3c3a6c4/Things_I_Don_t_Need.tar) |
 | [Soldiers](soldiers_a65f4f66b9a9/soldiers_a65f4f66b9a9.md) | 2010 | FLAC | 00:16:59 | [IA](https://archive.org/details/soldiers_a65f4f66b9a9) [FileDitch](https://fileditchfiles.st/beta24/e174e1eb902376ffe491/Soldiers.tar) |
 | [Live Sessions](live-sessions_b05ac7a986f5/live-sessions_b05ac7a986f5.md) | 2010 | FLAC | 00:13:18 | [IA](https://archive.org/details/live-sessions_b05ac7a986f5) [FileDitch](https://fileditchfiles.st/beta24/96ac3e9dd32e7f5290e1/Live_Sessions.tar) |
 | [Happy Way in the Maze of Rebirth](happy-way-in-the-maze-of-rebirth_9b88a90c24b3/happy-way-in-the-maze-of-rebirth_9b88a90c24b3.md) | 2012 | FLAC | 00:41:38 | [IA](https://archive.org/details/happy-way-in-the-maze-of-rebirth_9b88a90c24b3) [FileDitch](https://fileditchfiles.st/beta24/1befa5250d95aff3e6a9/Happy_Way_in_the_Maze_of_Rebirth.tar) |

@@ -1,0 +1,27 @@
+{
+  "id": "things-i-dont-need_2349bf048532",
+  "fingerprint": "2349bf04853298ccaea495a677a6e118993ff3638becc6177f9612e14ddbc856",
+  "archived_at": "2026-08-23T21:03:27Z",
+  "metadata": {
+    "title": "Things I Don't Need",
+    "artist": "Human Tetris",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 244,
+    "duration_human": "00:04:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Human Tetris - Things I Don't Need"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/things-i-dont-need_2349bf048532"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/da99b7fa9f43a3c3a6c4/Things_I_Don_t_Need.tar"
+    }
+  }
+}
