@@ -1,0 +1,36 @@
+{
+  "id": "happy-way-in-the-maze-of-rebirth_9b88a90c24b3",
+  "fingerprint": "9b88a90c24b3d996836fbdcbda824dfbe0e0102787743fced7eed8facf890c44",
+  "archived_at": "2026-08-23T20:20:35Z",
+  "metadata": {
+    "title": "Happy Way in the Maze of Rebirth",
+    "artist": "Human Tetris",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2498,
+    "duration_human": "00:41:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Human Tetris - Morning",
+      "02 Human Tetris - Summer in Crimea",
+      "03 Human Tetris - Cold Wind",
+      "04 Human Tetris - Angel",
+      "05 Human Tetris - Insanity",
+      "06 Human Tetris - Sailor",
+      "07 Human Tetris - Dreamland",
+      "08 Human Tetris - Spread Your Wings",
+      "09 Human Tetris - Silver Tears",
+      "10 Human Tetris - Brotherhood"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/happy-way-in-the-maze-of-rebirth_9b88a90c24b3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/1befa5250d95aff3e6a9/Happy_Way_in_the_Maze_of_Rebirth.tar"
+    }
+  }
+}
