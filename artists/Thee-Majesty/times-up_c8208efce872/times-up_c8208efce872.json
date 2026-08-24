@@ -1,0 +1,37 @@
+{
+  "id": "times-up_c8208efce872",
+  "fingerprint": "c8208efce8726a542f997633421a8abcfba64bac87eadba20d6cc7cdcdfe42d9",
+  "archived_at": "2026-08-24T22:57:39Z",
+  "metadata": {
+    "title": "Time's Up",
+    "artist": "Thee Majesty",
+    "year": "1999",
+    "codec": "MP3",
+    "num_tracks": 11,
+    "duration_seconds": 2945,
+    "duration_human": "00:49:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Thee Majesty - Eshu Yes You",
+      "02 Thee Majesty - I.T.",
+      "03 Thee Majesty - Source Are Rare",
+      "04 Thee Majesty - Wisdom",
+      "05 Thee Majesty - Flowering Pain Give Space",
+      "06 Thee Majesty - Kreeme Horne",
+      "07 Thee Majesty - When I Was Young",
+      "08 Thee Majesty - All Beauty is Our Enemy",
+      "09 Thee Majesty - Possession (A Perfect Restraint)",
+      "10 Thee Majesty - The Truth",
+      "11 Thee Majesty - I Don’t Remember His Name"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/times-up_c8208efce872"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/0d6c04901f1328f7e0c4/Time_s_Up.tar"
+    }
+  }
+}
