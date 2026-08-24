@@ -1,0 +1,29 @@
+{
+  "id": "present-brion-gysins-dreamachine_85da9fbd9642",
+  "fingerprint": "85da9fbd96421722bead7387c769e0cc2ab8fc9a4ae21294378b6b4eb04af546",
+  "archived_at": "2026-08-24T03:09:32Z",
+  "metadata": {
+    "title": "Present Brion Gysin's Dreamachine",
+    "artist": "Thee Temple ov Psychick Youth",
+    "year": "1989",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4109,
+    "duration_human": "01:08:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Hafler Trio & Thee Temple ov Psychick Youth - Part One",
+      "02 The Hafler Trio & Thee Temple ov Psychick Youth - Part Two",
+      "03 The Hafler Trio & Thee Temple ov Psychick Youth - Part Three"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/present-brion-gysins-dreamachine_85da9fbd9642"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/019ed6f3c3f4dcb1a933/Present_Brion_Gysin_s_Dreamachine.tar"
+    }
+  }
+}

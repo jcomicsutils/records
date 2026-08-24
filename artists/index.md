@@ -214,6 +214,7 @@
 - [The No-Neck Blues Band](The-No-Neck-Blues-Band/The-No-Neck-Blues-Band.md)
 - [The Runners From 1984](The-Runners-From-1984/The-Runners-From-1984.md)
 - [The Sleeping Moustache](The-Sleeping-Moustache/The-Sleeping-Moustache.md)
+- [Thee Temple ov Psychick Youth](Thee-Temple-ov-Psychick-Youth/Thee-Temple-ov-Psychick-Youth.md)
 - [Thinking Fellers Union Local 282](Thinking-Fellers-Union-Local-282/Thinking-Fellers-Union-Local-282.md)
 - [This Immortal Coil](This-Immortal-Coil/This-Immortal-Coil.md)
 - [Thorjn](Thorjn/Thorjn.md)
