@@ -1,0 +1,39 @@
+{
+  "id": "thee-fractured-garden_1584a8f79776",
+  "fingerprint": "1584a8f79776b1849367de02b7cabc968c3c68e2923b52138cc44454ab9beaad",
+  "archived_at": "2026-08-24T22:54:09Z",
+  "metadata": {
+    "title": "Thee Fractured Garden",
+    "artist": "Thee Majesty",
+    "year": "1995",
+    "codec": "MP3",
+    "num_tracks": 13,
+    "duration_seconds": 4515,
+    "duration_human": "01:15:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Thee Majesty - Thee Decaying Matter Ov Family Love",
+      "02 Thee Majesty - A Debris Ov Murder",
+      "03 Thee Majesty - Avatar",
+      "04 Thee Majesty - Freedom is a Sickness",
+      "05 Thee Majesty - Maybe Who E Am",
+      "06 Thee Majesty - Thee Seeding Ship",
+      "07 Thee Majesty - On Thee Way to Thee Garden A: Thee Desert Ov Dark Skies",
+      "08 Thee Majesty - On Thee Way to Thee Garden B: E Was a Mirage",
+      "09 Thee Majesty - On Thee Way to Thee Garden C: Thee Fractured Garden",
+      "10 Thee Majesty - On Thee Way to Thee Garden D: Cathedral Engine",
+      "11 Thee Majesty - On Thee Way to Thee Garden E: When Fire Cleanses",
+      "12 Thee Majesty - On Thee Way to Thee Garden F: Does 'MIND\" Leave?",
+      "13 Thee Majesty - On Thee Way to Thee Garden G: Cortex Ov Light"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/thee-fractured-garden_1584a8f79776"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/5adca9714914f2dab1d5/Thee_Fractured_Garden.tar"
+    }
+  }
+}
