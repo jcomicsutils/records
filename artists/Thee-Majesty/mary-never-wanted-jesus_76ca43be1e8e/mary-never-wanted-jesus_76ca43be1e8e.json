@@ -1,0 +1,36 @@
+{
+  "id": "mary-never-wanted-jesus_76ca43be1e8e",
+  "fingerprint": "76ca43be1e8e942d518a3ce344ba4d8c1f22a8d5386950c0f6b04c8d7d88bd45",
+  "archived_at": "2026-08-24T22:38:15Z",
+  "metadata": {
+    "title": "Mary Never Wanted Jesus",
+    "artist": "Thee Majesty",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3072,
+    "duration_human": "00:51:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Genesis P-Orridge & Thee Majesty - I Like Thee Holidays (A Disquietingly Silent Night Mix)",
+      "02 Genesis P-Orridge & Thee Majesty - Always is Always (All New Perfecti Mix)",
+      "03 Genesis P-Orridge & Thee Majesty - White Nights (Digitally Remastered)",
+      "04 Genesis P-Orridge & Thee Majesty - Snowflake (Digitally Remastered & Remixed)",
+      "05 Genesis P-Orridge & Thee Majesty - Rudolf (Satanis Cocainis Mix)",
+      "06 Genesis P-Orridge & Thee Majesty - Mary Never Wanted Jesus (Magdelene Marriage)",
+      "07 Genesis P-Orridge & Thee Majesty - Have Mercy on Me (All New Bethlehem 2004 Mix)",
+      "08 Genesis P-Orridge & Thee Majesty - Call Me Blues (Delta Mix)",
+      "09 Genesis P-Orridge & Thee Majesty - Have Mercy (Digitally Remastered Argentum Astrum Mix)",
+      "10 Genesis P-Orridge & Thee Majesty - Filthier Than Thou (All New Unclean Villa Magica Mix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mary-never-wanted-jesus_76ca43be1e8e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/de6e9bc77239f6618966/Mary_Never_Wanted_Jesus.tar"
+    }
+  }
+}
