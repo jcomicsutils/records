@@ -215,6 +215,7 @@
 - [The Runners From 1984](The-Runners-From-1984/The-Runners-From-1984.md)
 - [The Sleeping Moustache](The-Sleeping-Moustache/The-Sleeping-Moustache.md)
 - [Thee Angels ov Light Meet Thee Angry Love Orchestra](Thee-Angels-ov-Light-Meet-Thee-Angry-Love-Orchestra/Thee-Angels-ov-Light-Meet-Thee-Angry-Love-Orchestra.md)
+- [Thee Majesty](Thee-Majesty/Thee-Majesty.md)
 - [Thee Temple ov Psychick Youth](Thee-Temple-ov-Psychick-Youth/Thee-Temple-ov-Psychick-Youth.md)
 - [Thinking Fellers Union Local 282](Thinking-Fellers-Union-Local-282/Thinking-Fellers-Union-Local-282.md)
 - [This Immortal Coil](This-Immortal-Coil/This-Immortal-Coil.md)

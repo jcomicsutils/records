@@ -1,0 +1,27 @@
+{
+  "id": "a-hollow-cost_2851b59604a1",
+  "fingerprint": "2851b59604a16dcc24fc37869d01ce2479f44e961fd3ee6ad5655919582fce93",
+  "archived_at": "2026-08-24T22:28:17Z",
+  "metadata": {
+    "title": "A Hollow Cost",
+    "artist": "Thee Majesty",
+    "year": "1994",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4577,
+    "duration_human": "01:16:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Thee Majesty - A Hollow Cost"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-hollow-cost_2851b59604a1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/ce29d25ae4dbb5d44764/A_Hollow_Cost.tar"
+    }
+  }
+}
