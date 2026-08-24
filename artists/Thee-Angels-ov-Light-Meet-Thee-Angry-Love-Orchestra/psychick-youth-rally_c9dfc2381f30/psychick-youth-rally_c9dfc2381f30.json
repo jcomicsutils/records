@@ -1,0 +1,35 @@
+{
+  "id": "psychick-youth-rally_c9dfc2381f30",
+  "fingerprint": "c9dfc2381f307de445e981e3e540422f1c47b9db602d2f32f0af165105c2b835",
+  "archived_at": "2026-08-24T03:17:43Z",
+  "metadata": {
+    "title": "Psychick Youth Rally",
+    "artist": "Thee Angels ov Light Meet Thee Angry Love Orchestra",
+    "year": "1995",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3556,
+    "duration_human": "00:59:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Thee Angels ov Light Meet Thee Angry Love Orchestra - I",
+      "02 Thee Angels ov Light Meet Thee Angry Love Orchestra - II",
+      "03 Thee Angels ov Light Meet Thee Angry Love Orchestra - III",
+      "04 Thee Angels ov Light Meet Thee Angry Love Orchestra - IV",
+      "05 Thee Angels ov Light Meet Thee Angry Love Orchestra - V",
+      "06 Thee Angels ov Light Meet Thee Angry Love Orchestra - VI",
+      "07 Thee Angels ov Light Meet Thee Angry Love Orchestra - VII",
+      "08 Thee Angels ov Light Meet Thee Angry Love Orchestra - VIII",
+      "09 Thee Angels ov Light Meet Thee Angry Love Orchestra - IX"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/psychick-youth-rally_c9dfc2381f30"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/9861c6f49e840d9ba7dc/Psychick_Youth_Rally.tar"
+    }
+  }
+}
