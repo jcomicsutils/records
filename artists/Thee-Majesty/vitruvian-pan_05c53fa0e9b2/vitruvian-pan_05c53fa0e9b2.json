@@ -1,0 +1,36 @@
+{
+  "id": "vitruvian-pan_05c53fa0e9b2",
+  "fingerprint": "05c53fa0e9b23db1e9e0381b9bae24e1e3bd3a52c9f26edbb68f57f69498b209",
+  "archived_at": "2026-08-24T23:02:56Z",
+  "metadata": {
+    "title": "Vitruvian Pan",
+    "artist": "Thee Majesty",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2962,
+    "duration_human": "00:49:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Thee Majesty - [untitled]",
+      "02 Thee Majesty - Hey Baby!",
+      "03 Thee Majesty - Embrace Thee Holy",
+      "04 Thee Majesty - Thee Nature Ov Control",
+      "05 Thee Majesty - Thee Traveller (4Th Sign of the Apocalypse Mix)",
+      "06 Thee Majesty - Oh Yeah You Do!",
+      "07 Thee Majesty - Bee My Honey Bee",
+      "08 Thee Majesty - Save Their Souls",
+      "09 Thee Majesty - Feel Strange",
+      "10 Thee Majesty - Thee Land Ov Do Do (A Cautionary Tail)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vitruvian-pan_05c53fa0e9b2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/f44c1df6ae9daa52a702/Vitruvian_Pan.tar"
+    }
+  }
+}
