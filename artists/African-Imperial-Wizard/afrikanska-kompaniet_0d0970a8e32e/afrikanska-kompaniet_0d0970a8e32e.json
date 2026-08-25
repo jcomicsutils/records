@@ -1,0 +1,28 @@
+{
+  "id": "afrikanska-kompaniet_0d0970a8e32e",
+  "fingerprint": "0d0970a8e32e02c489f2a1df0efe9a8cfa19365e7807d68afc3d5c9576ab4c3e",
+  "archived_at": "2026-08-25T04:39:20Z",
+  "metadata": {
+    "title": "Afrikanska Kompaniet",
+    "artist": "African Imperial Wizard",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 763,
+    "duration_human": "00:12:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 African Imperial Wizard - Chingunji",
+      "02 African Imperial Wizard - Ogre De Berengo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/afrikanska-kompaniet_0d0970a8e32e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/25300cda7f55f3bab652/Afrikanska_Kompaniet.tar"
+    }
+  }
+}
