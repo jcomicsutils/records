@@ -1,0 +1,27 @@
+{
+  "id": "ndongo_08ed4c83b427",
+  "fingerprint": "08ed4c83b427e99ac7f65da5b89af4535fa315c96e3497fc006bf3dc250d0f2c",
+  "archived_at": "2026-08-25T05:19:17Z",
+  "metadata": {
+    "title": "Ndongo",
+    "artist": "African Imperial Wizard",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2388,
+    "duration_human": "00:39:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 African Imperial Wizard - Ndongo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ndongo_08ed4c83b427"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/47706a1cfb6d626cad72/Ndongo.tar"
+    }
+  }
+}

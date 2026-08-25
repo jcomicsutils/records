@@ -7,3 +7,4 @@
 | [BeHanZin](behanzin_7e6b03809a1b/behanzin_7e6b03809a1b.md) | 2021 | FLAC | 00:58:09 | [IA](https://archive.org/details/behanzin_7e6b03809a1b) [FileDitch](https://fileditchfiles.st/beta24/28eee643e12ab0af9572/BeHanZin.tar) |
 | [Mbuya Nehanda](mbuya-nehanda_8ab1ea8978ff/mbuya-nehanda_8ab1ea8978ff.md) | 2024 | FLAC | 00:41:07 | [IA](https://archive.org/details/mbuya-nehanda_8ab1ea8978ff) [FileDitch](https://fileditchfiles.st/beta24/83c008ba35a9519a964c/Mbuya_Nehanda.tar) |
 | [Afrikanska Kompaniet](afrikanska-kompaniet_0d0970a8e32e/afrikanska-kompaniet_0d0970a8e32e.md) | 2024 | FLAC | 00:12:43 | [IA](https://archive.org/details/afrikanska-kompaniet_0d0970a8e32e) [FileDitch](https://fileditchfiles.st/beta24/25300cda7f55f3bab652/Afrikanska_Kompaniet.tar) |
+| [Ndongo](ndongo_08ed4c83b427/ndongo_08ed4c83b427.md) | 2024 | FLAC | 00:39:48 | [IA](https://archive.org/details/ndongo_08ed4c83b427) [FileDitch](https://fileditchfiles.st/beta24/47706a1cfb6d626cad72/Ndongo.tar) |
