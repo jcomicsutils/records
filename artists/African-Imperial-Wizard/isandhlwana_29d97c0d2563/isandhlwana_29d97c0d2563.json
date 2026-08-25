@@ -1,0 +1,34 @@
+{
+  "id": "isandhlwana_29d97c0d2563",
+  "fingerprint": "29d97c0d2563bd6411647d56e44c937f99c5eece92cd253af30136b20bb62050",
+  "archived_at": "2026-08-25T05:02:17Z",
+  "metadata": {
+    "title": "Isandhlwana",
+    "artist": "African Imperial Wizard",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2677,
+    "duration_human": "00:44:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 African Imperial Wizard - Opoku Waré",
+      "02 African Imperial Wizard - Hanni-Baalbarca",
+      "03 African Imperial Wizard - Almamysuluku",
+      "04 African Imperial Wizard - Hangbè",
+      "05 African Imperial Wizard - Béhanzinhossubowelle",
+      "06 African Imperial Wizard - N’nonmiton",
+      "07 African Imperial Wizard - Ezana Of Aksum",
+      "08 African Imperial Wizard - Zulu Kamalandela"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/isandhlwana_29d97c0d2563"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/767db04c5ba34975da81/Isandhlwana.tar"
+    }
+  }
+}
