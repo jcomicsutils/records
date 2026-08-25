@@ -1,0 +1,37 @@
+{
+  "id": "behanzin_7e6b03809a1b",
+  "fingerprint": "7e6b03809a1be6318b6ca77e490a7bd14351376d330f169816889e2a17ae699b",
+  "archived_at": "2026-08-25T04:48:27Z",
+  "metadata": {
+    "title": "BeHanZin",
+    "artist": "African Imperial Wizard",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 3489,
+    "duration_human": "00:58:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 African Imperial Wizard - Cetshwayo kaMpande",
+      "02 African Imperial Wizard - Opoku Ware",
+      "03 African Imperial Wizard - Alī ibn Idrīs",
+      "04 African Imperial Wizard - Hanni-baal Barca",
+      "05 African Imperial Wizard - Almamy Suluku",
+      "06 African Imperial Wizard - Mansa Moussa",
+      "07 African Imperial Wizard - Behanzin Hossu Bowelle",
+      "08 African Imperial Wizard - Hangbè",
+      "09 African Imperial Wizard - N’Nonmiton",
+      "10 African Imperial Wizard - Zulu kaMalandela",
+      "11 African Imperial Wizard - Ezana d’Aksum"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/behanzin_7e6b03809a1b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/28eee643e12ab0af9572/BeHanZin.tar"
+    }
+  }
+}
