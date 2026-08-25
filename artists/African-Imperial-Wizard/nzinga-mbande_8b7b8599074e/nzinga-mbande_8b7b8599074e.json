@@ -1,0 +1,34 @@
+{
+  "id": "nzinga-mbande_8b7b8599074e",
+  "fingerprint": "8b7b8599074ef991116e1e3c2124e1f956374cc2a07e756e63736fff9e783672",
+  "archived_at": "2026-08-25T05:24:19Z",
+  "metadata": {
+    "title": "Nzinga Mbande",
+    "artist": "African Imperial Wizard",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2782,
+    "duration_human": "00:46:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 African Imperial Wizard - Sundjata",
+      "02 African Imperial Wizard - Shaka Kasenzangakhc",
+      "03 African Imperial Wizard - Kaocen Ag Geda",
+      "04 African Imperial Wizard - Ekang Nna",
+      "05 African Imperial Wizard - Sarraounia",
+      "06 African Imperial Wizard - N´Diadian n`Diaye",
+      "07 African Imperial Wizard - Maharero Katjamuaha",
+      "08 African Imperial Wizard - Samori Ture"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nzinga-mbande_8b7b8599074e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/d5d93d5eeb5601599311/Nzinga_Mbande.tar"
+    }
+  }
+}
