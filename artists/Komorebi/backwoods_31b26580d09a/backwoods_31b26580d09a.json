@@ -1,0 +1,30 @@
+{
+  "id": "backwoods_31b26580d09a",
+  "fingerprint": "31b26580d09ad98ae633cb59bd1d7140b8dde1899d147e8fef259731574fdc0f",
+  "archived_at": "2026-08-26T04:40:57Z",
+  "metadata": {
+    "title": "Backwoods",
+    "artist": "Komorebi",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 7899,
+    "duration_human": "02:11:39",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Komorebi - A Morning Without You",
+      "02 Komorebi - And the Absence of Smiles",
+      "03 Komorebi - With My Soul Flying",
+      "04 Komorebi - In the Sky, Soaring..."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/backwoods_31b26580d09a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/b6d67d08c9c16312230e/Backwoods.tar"
+    }
+  }
+}
