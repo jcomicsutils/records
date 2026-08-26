@@ -1,0 +1,47 @@
+{
+  "id": "i-never-see-my-pal_a5fa07d1ebf5",
+  "fingerprint": "a5fa07d1ebf52f3a3bc1055b16e38b28c905a33799b7f213578a2692019d1049",
+  "archived_at": "2026-08-26T05:18:16Z",
+  "metadata": {
+    "title": "I Never See My Pal",
+    "artist": "Russell Walker",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 21,
+    "duration_seconds": 2774,
+    "duration_human": "00:46:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Russell Walker - Suck My Kiss # 1",
+      "02 Russell Walker - The PonyTail Club",
+      "03 Russell Walker - Suck My Kiss # 2",
+      "04 Russell Walker - I Spy Digestive Biccy",
+      "05 Russell Walker - Willow Sesh # 1",
+      "06 Russell Walker - Return to Life Pod",
+      "07 Russell Walker - Willow Sesh # 2",
+      "08 Russell Walker - DoubleGrad",
+      "09 Russell Walker - Beale's No Hipster",
+      "10 Russell Walker - Mug or Muppet?",
+      "11 Russell Walker - Suck My Kiss # 3",
+      "12 Russell Walker - Willow Sesh # 3",
+      "13 Russell Walker - Social Pilot",
+      "14 Russell Walker - Weeping in Hammock",
+      "15 Russell Walker - The World is Being Naughty",
+      "16 Russell Walker - Bud Zippo",
+      "17 Russell Walker - A Mad Year for the Band",
+      "18 Russell Walker - I Just Rock Up",
+      "19 Russell Walker - The Thwartee",
+      "20 Russell Walker - Corden Blue",
+      "21 Russell Walker - The Plunger"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-never-see-my-pal_a5fa07d1ebf5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/b4637adbfa247c6db8fd/I_Never_See_My_Pal.tar"
+    }
+  }
+}
