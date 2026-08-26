@@ -3,3 +3,4 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Back to the Womb](back-to-the-womb_2e55dcf26bb7/back-to-the-womb_2e55dcf26bb7.md) | 2025 | FLAC | 00:40:59 | [IA](https://archive.org/details/back-to-the-womb_2e55dcf26bb7) [FileDitch](https://fileditchfiles.st/beta24/8c57bd34f2cc1fbb826b/Back_to_the_Womb.tar) |
+| [He Ain't Heavy](he-aint-heavy_bb68106ba5bf/he-aint-heavy_bb68106ba5bf.md) | 2026 | MP3 | 00:28:52 | [IA](https://archive.org/details/he-aint-heavy_bb68106ba5bf) [FileDitch](https://fileditchfiles.st/beta24/3481705248581eb75aa3/He_Ain_t_Heavy.tar) |

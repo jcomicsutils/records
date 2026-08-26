@@ -1,0 +1,28 @@
+{
+  "id": "he-aint-heavy_bb68106ba5bf",
+  "fingerprint": "bb68106ba5bf809bd98da73c396a9656d61c9a44b956110ae715c6d18e9771b6",
+  "archived_at": "2026-08-26T05:11:09Z",
+  "metadata": {
+    "title": "He Ain't Heavy",
+    "artist": "Russell Walker",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1732,
+    "duration_human": "00:28:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Russell Walker - Limbo Land",
+      "02 Russell Walker - Catnip Dolly"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/he-aint-heavy_bb68106ba5bf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/3481705248581eb75aa3/He_Ain_t_Heavy.tar"
+    }
+  }
+}
