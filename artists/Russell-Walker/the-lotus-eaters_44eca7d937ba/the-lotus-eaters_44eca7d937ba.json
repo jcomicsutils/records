@@ -1,0 +1,28 @@
+{
+  "id": "the-lotus-eaters_44eca7d937ba",
+  "fingerprint": "44eca7d937ba32219997bd70bb0cc7471dcfc525b7d1a3ea9b389070d32feaa5",
+  "archived_at": "2026-08-26T06:12:59Z",
+  "metadata": {
+    "title": "The Lotus Eaters",
+    "artist": "Russell Walker",
+    "year": "2021",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 2135,
+    "duration_human": "00:35:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Russell Walker - The Pips",
+      "02 Russell Walker - Tomorrow We Form the Penney Gang"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-lotus-eaters_44eca7d937ba"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/60e688891aa3a59c6e04/The_Lotus_Eaters.tar"
+    }
+  }
+}
