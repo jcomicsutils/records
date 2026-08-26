@@ -1,0 +1,39 @@
+{
+  "id": "in-durham_77bc0429a24b",
+  "fingerprint": "77bc0429a24bd6e2c68623c425dda5eb82bb7dc966d01039fe3430ee5d83b85f",
+  "archived_at": "2026-08-26T05:22:12Z",
+  "metadata": {
+    "title": "In Durham",
+    "artist": "Russell Walker",
+    "year": "2015",
+    "codec": "MP3",
+    "num_tracks": 13,
+    "duration_seconds": 2369,
+    "duration_human": "00:39:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Dan Melchior & Russell Walker - Middle Cass Flannel",
+      "02 Dan Melchior & Russell Walker - Black Squirrels",
+      "03 Dan Melchior & Russell Walker - Giving You the Slip",
+      "04 Dan Melchior & Russell Walker - I've Already Taken Revenge",
+      "05 Dan Melchior & Russell Walker - 'The Dismissals'",
+      "06 Dan Melchior & Russell Walker - Ifluenced by Cash",
+      "07 Dan Melchior & Russell Walker - New Slob Kitchen",
+      "08 Dan Melchior & Russell Walker - Match Me Sidney",
+      "09 Dan Melchior & Russell Walker - Make Me Sad",
+      "10 Dan Melchior & Russell Walker - Tangled Animals",
+      "11 Dan Melchior & Russell Walker - Neighbours",
+      "12 Dan Melchior & Russell Walker - Flower Day",
+      "13 Dan Melchior & Russell Walker - Too Thin-Skinned for Rock and Roll"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/in-durham_77bc0429a24b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/c0c8d93629f346f788db/In_Durham.tar"
+    }
+  }
+}
