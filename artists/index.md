@@ -182,6 +182,7 @@
 - [Richard Dawson](Richard-Dawson/Richard-Dawson.md)
 - [Roel Meelkop](Roel-Meelkop/Roel-Meelkop.md)
 - [Ruf-Neck Piano](Ruf-Neck-Piano/Ruf-Neck-Piano.md)
+- [Russell Walker](Russell-Walker/Russell-Walker.md)
 - [Rắn Cạp Đuôi](Rắn-Cạp-Đuôi/Rắn-Cạp-Đuôi.md)
 - [Sarin](Sarin/Sarin.md)
 - [Serpentmouth](Serpentmouth/Serpentmouth.md)
