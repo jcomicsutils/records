@@ -1,0 +1,28 @@
+{
+  "id": "the-tear-system_7a4d213d3b0f",
+  "fingerprint": "7a4d213d3b0fde14f48227476bc396c0f620e6cff4083e06834800659e5108c9",
+  "archived_at": "2026-08-26T06:26:38Z",
+  "metadata": {
+    "title": "The Tear System",
+    "artist": "Russell Walker",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1854,
+    "duration_human": "00:30:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Russell Walker & Henry Holmes - Side A",
+      "02 Russell Walker & Henry Holmes - Side B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-tear-system_7a4d213d3b0f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/0410261467f02f435061/The_Tear_System.tar"
+    }
+  }
+}
