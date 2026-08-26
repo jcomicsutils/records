@@ -1,0 +1,28 @@
+{
+  "id": "soothers_9233b75b67b4",
+  "fingerprint": "9233b75b67b44c0f81e41d0af00ff24025b618fec377fe4b19caff32043e1723",
+  "archived_at": "2026-08-26T06:02:09Z",
+  "metadata": {
+    "title": "Soothers",
+    "artist": "Russell Walker",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3128,
+    "duration_human": "00:52:08",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Russell Walker & Malvern Brume - It'll Be Fine, Rob",
+      "02 Russell Walker & Rowan Walker - Live at Leigh Folk Festival"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/soothers_9233b75b67b4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/fe51d8c33d8bb0536806/Soothers.tar"
+    }
+  }
+}
