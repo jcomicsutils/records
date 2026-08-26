@@ -1,0 +1,37 @@
+{
+  "id": "this-moreish-life_7a9ae95442fb",
+  "fingerprint": "7a9ae95442fb42a415939d4cf2b46864e941eb8a2c0f6251b2d8670fda0f65cd",
+  "archived_at": "2026-08-26T06:30:30Z",
+  "metadata": {
+    "title": "This Moreish Life",
+    "artist": "Russell Walker",
+    "year": "2025",
+    "codec": "MP3",
+    "num_tracks": 11,
+    "duration_seconds": 1107,
+    "duration_human": "00:18:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Russell Walker - Can You Be Cancelled on a Saturday?",
+      "02 Russell Walker - The Man With No Future (Or Past)",
+      "03 Russell Walker - Cyberdog Awareness Workshop",
+      "04 Russell Walker - God’s Physio",
+      "05 Russell Walker - I Keep Upping the Ante",
+      "06 Russell Walker - I Regale Uber",
+      "07 Russell Walker - (I Am) the Divorcee’s Divorcee",
+      "08 Russell Walker - Shut That Door",
+      "09 Russell Walker - Nine",
+      "10 Russell Walker - It Still Rankles",
+      "11 Russell Walker - Vicars, Tarts"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/this-moreish-life_7a9ae95442fb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/0a3e7ff0b54936e62aa5/This_Moreish_Life.tar"
+    }
+  }
+}
