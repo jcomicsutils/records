@@ -1,0 +1,32 @@
+{
+  "id": "lambkin-walker-harrison_44ba5f109831",
+  "fingerprint": "44ba5f1098318eb879cc74057c6e104abae17a2023c5611ec8c179b334100d66",
+  "archived_at": "2026-08-26T05:25:33Z",
+  "metadata": {
+    "title": "Lambkin / Walker / Harrison",
+    "artist": "Russell Walker",
+    "year": "2023",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 1030,
+    "duration_human": "00:17:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Graham Lambkin - Harmonica Study With Breath",
+      "02 Graham Lambkin - Preparation for Concrete Voice",
+      "03 Duncan Harrison - Bristolian Pathways",
+      "04 Duncan Harrison - Brightonian Vistas",
+      "05 Russell Walker - Born to Be Employed",
+      "06 Russell Walker - AA Jumper"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lambkin-walker-harrison_44ba5f109831"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta24/3eb2072bf8a8971d497c/Lambkin_-_Walker_-_Harrison.tar"
+    }
+  }
+}
