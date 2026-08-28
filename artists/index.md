@@ -86,6 +86,7 @@
 - [Ensemble Pearl](Ensemble-Pearl/Ensemble-Pearl.md)
 - [Espers](Espers/Espers.md)
 - [Ever Present Orchestra](Ever-Present-Orchestra/Ever-Present-Orchestra.md)
+- [Exhibit A](Exhibit-A/Exhibit-A.md)
 - [Exit Sense](Exit-Sense/Exit-Sense.md)
 - [Exploring Jezebel](Exploring-Jezebel/Exploring-Jezebel.md)
 - [Father Noark](Father-Noark/Father-Noark.md)
