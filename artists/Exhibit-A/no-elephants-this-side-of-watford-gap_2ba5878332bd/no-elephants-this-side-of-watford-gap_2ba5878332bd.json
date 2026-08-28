@@ -1,0 +1,30 @@
+{
+  "id": "no-elephants-this-side-of-watford-gap_2ba5878332bd",
+  "fingerprint": "2ba5878332bd769bc67c4f37f50b2e8f78e5c8d074beb6468899de5404cf4b54",
+  "archived_at": "2026-08-28T21:01:50Z",
+  "metadata": {
+    "title": "No Elephants This Side of Watford Gap",
+    "artist": "Exhibit A",
+    "year": "1979",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 677,
+    "duration_human": "00:11:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Exhibit A - In the Night",
+      "02 Exhibit A - Fame and Fortune",
+      "03 Exhibit A - Digital Age",
+      "04 Exhibit A - Maniac Garden"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/no-elephants-this-side-of-watford-gap_2ba5878332bd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta26/76b7c783e277fd5d629a/No_Elephants_This_Side_of_Watford_Gap.tar"
+    }
+  }
+}
