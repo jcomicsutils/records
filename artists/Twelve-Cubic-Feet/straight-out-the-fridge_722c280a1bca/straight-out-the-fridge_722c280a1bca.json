@@ -1,0 +1,33 @@
+{
+  "id": "straight-out-the-fridge_722c280a1bca",
+  "fingerprint": "722c280a1bca7c3c718739b476c61349fb8f717e4b08bb1799d28e618f260825",
+  "archived_at": "2026-08-28T21:29:15Z",
+  "metadata": {
+    "title": "Straight Out the Fridge",
+    "artist": "Twelve Cubic Feet",
+    "year": "1982",
+    "codec": "MP3",
+    "num_tracks": 7,
+    "duration_seconds": 1348,
+    "duration_human": "00:22:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Twelve Cubic Feet - Blob",
+      "02 Twelve Cubic Feet - Evercare",
+      "03 Twelve Cubic Feet - The Almhouse",
+      "04 Twelve Cubic Feet - Mary’s Got the Bug",
+      "05 Twelve Cubic Feet - Escaping Again",
+      "06 Twelve Cubic Feet - Hello Howard",
+      "07 Twelve Cubic Feet - Tuesday Afternoon"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/straight-out-the-fridge_722c280a1bca"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta26/447582f44cd2f9ad6dc7/Straight_Out_the_Fridge.tar"
+    }
+  }
+}
