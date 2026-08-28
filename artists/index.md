@@ -230,6 +230,7 @@
 - [Tokyo 77](Tokyo-77/Tokyo-77.md)
 - [Trasgo](Trasgo/Trasgo.md)
 - [Trouble Salad](Trouble-Salad/Trouble-Salad.md)
+- [Twelve Cubic Feet](Twelve-Cubic-Feet/Twelve-Cubic-Feet.md)
 - [Ursus Wallis](Ursus-Wallis/Ursus-Wallis.md)
 - [Various Artists](Various-Artists/Various-Artists.md)
 - [Vesuvio](Vesuvio/Vesuvio.md)
