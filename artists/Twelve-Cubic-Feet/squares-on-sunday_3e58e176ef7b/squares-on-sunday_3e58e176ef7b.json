@@ -1,0 +1,35 @@
+{
+  "id": "squares-on-sunday_3e58e176ef7b",
+  "fingerprint": "3e58e176ef7b24ab978c0413c42f7ffd1ef0341cf8f17d5a3be56be67fa84c9c",
+  "archived_at": "2026-08-28T21:26:02Z",
+  "metadata": {
+    "title": "Squares on Sunday",
+    "artist": "Twelve Cubic Feet",
+    "year": "1982",
+    "codec": "MP3",
+    "num_tracks": 9,
+    "duration_seconds": 2252,
+    "duration_human": "00:37:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Twelve Cubic Feet - Track 1",
+      "02 Twelve Cubic Feet - Track 2",
+      "03 Twelve Cubic Feet - Track 3",
+      "04 Twelve Cubic Feet - Track 4",
+      "05 Twelve Cubic Feet - Track 5",
+      "06 Twelve Cubic Feet - Track 6",
+      "07 Twelve Cubic Feet - Track 7",
+      "08 Twelve Cubic Feet - Track 8",
+      "09 Twelve Cubic Feet - Track 9"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/squares-on-sunday_3e58e176ef7b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta26/dd9f8449eba4108fb079/Squares_on_Sunday.tar"
+    }
+  }
+}
