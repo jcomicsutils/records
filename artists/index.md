@@ -75,6 +75,7 @@
 - [Death Ambient](Death-Ambient/Death-Ambient.md)
 - [Deerhoof](Deerhoof/Deerhoof.md)
 - [Deerhunter](Deerhunter/Deerhunter.md)
+- [Delambres](Delambres/Delambres.md)
 - [Delia Detritus](Delia-Detritus/Delia-Detritus.md)
 - [Deprivationn](Deprivationn/Deprivationn.md)
 - [Dirty Three](Dirty-Three/Dirty-Three.md)
