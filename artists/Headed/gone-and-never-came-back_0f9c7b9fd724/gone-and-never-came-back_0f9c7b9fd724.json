@@ -1,0 +1,29 @@
+{
+  "id": "gone-and-never-came-back_0f9c7b9fd724",
+  "fingerprint": "0f9c7b9fd7240caf634eb24785b2031a94a992742c057597dbbde9c686e74cef",
+  "archived_at": "2026-08-29T18:10:31Z",
+  "metadata": {
+    "title": "Gone... And Never Came Back",
+    "artist": "Headed",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 511,
+    "duration_human": "00:08:31",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Headed - Rain Flashbacks: The Mind",
+      "02 Headed - Delight: You Got It First",
+      "03 Headed - Intense: Suffering"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/gone-and-never-came-back_0f9c7b9fd724"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha11/cdd649ac9a10b1a298a5/Gone..._And_Never_Came_Back.tar"
+    }
+  }
+}
