@@ -1,0 +1,32 @@
+{
+  "id": "demo_ad16237baa01",
+  "fingerprint": "ad16237baa01dcfcd98f6f5798a33a9c8ac869cb073523866400db245d69a618",
+  "archived_at": "2026-08-29T18:35:34Z",
+  "metadata": {
+    "title": "Demo",
+    "artist": "To Remember the Days Gone Past",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 323,
+    "duration_human": "00:05:23",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 To Remember the Days Gone Past - 1",
+      "02 To Remember the Days Gone Past - 2",
+      "03 To Remember the Days Gone Past - 3",
+      "04 To Remember the Days Gone Past - 4",
+      "05 To Remember the Days Gone Past - 5",
+      "06 To Remember the Days Gone Past - 6"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/demo_ad16237baa01"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha11/0f7a91d31e195a04599d/Demo.tar"
+    }
+  }
+}
