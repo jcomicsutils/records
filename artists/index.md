@@ -55,6 +55,7 @@
 - [Brueder Selke](Brueder-Selke/Brueder-Selke.md)
 - [Burning Witch](Burning-Witch/Burning-Witch.md)
 - [Cadu Tenório](Cadu-Tenório/Cadu-Tenório.md)
+- [Cannabis Rose](Cannabis-Rose/Cannabis-Rose.md)
 - [Ceeys](Ceeys/Ceeys.md)
 - [Celestial Key](Celestial-Key/Celestial-Key.md)
 - [Chaos Royale](Chaos-Royale/Chaos-Royale.md)
