@@ -1,0 +1,29 @@
+{
+  "id": "exposure_e7bab76528e5",
+  "fingerprint": "e7bab76528e59bddb5ca4463615092fcaee757c9f14c34ce97dc0246426b6722",
+  "archived_at": "2026-08-29T18:08:18Z",
+  "metadata": {
+    "title": "Exposure",
+    "artist": "Headed",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 534,
+    "duration_human": "00:08:54",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Headed - Formula",
+      "02 Headed - Aggressive Now and Forever",
+      "03 Headed - Mellow Nights"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/exposure_e7bab76528e5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha11/d4c03acc709d881dea83/Exposure.tar"
+    }
+  }
+}
