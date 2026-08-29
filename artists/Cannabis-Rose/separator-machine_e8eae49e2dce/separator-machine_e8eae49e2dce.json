@@ -1,0 +1,29 @@
+{
+  "id": "separator-machine_e8eae49e2dce",
+  "fingerprint": "e8eae49e2dce8ef3daaad78069826901c1ae079240ab3777ec69066fbb4d4def",
+  "archived_at": "2026-08-29T17:07:26Z",
+  "metadata": {
+    "title": "Separator Machine",
+    "artist": "Cannabis Rose",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 129,
+    "duration_human": "00:02:09",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cannabis Rose - TA-KI-NO",
+      "02 Cannabis Rose - MMMATs",
+      "03 Cannabis Rose - Grafx-CD"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/separator-machine_e8eae49e2dce"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha11/09271d5f3ec964749bd1/Separator_Machine.tar"
+    }
+  }
+}
