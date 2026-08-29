@@ -1,0 +1,36 @@
+{
+  "id": "museum_2a9990b2b087",
+  "fingerprint": "2a9990b2b0873ddb2a9db9dbaaa3214b0cf28dd1a940b149b928fb1152287f3a",
+  "archived_at": "2026-08-29T18:13:55Z",
+  "metadata": {
+    "title": "Museum",
+    "artist": "Headed",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2081,
+    "duration_human": "00:34:41",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Headed - Fuck Up",
+      "02 Headed - The First Time I Was Conscious",
+      "03 Headed - Analyzed You",
+      "04 Headed - Had the Opportunity to Dance",
+      "05 Headed - Everywhere at Once",
+      "06 Headed - Got Shot",
+      "07 Headed - Accompany Me in the Eternal Emptiness",
+      "08 Headed - Four",
+      "09 Headed - I'm the Furthest From Where I Came From and I Still Remember You",
+      "10 Headed - Inaccurate Gaze"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/museum_2a9990b2b087"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha11/d96bc9a859564256684c/Museum.tar"
+    }
+  }
+}
