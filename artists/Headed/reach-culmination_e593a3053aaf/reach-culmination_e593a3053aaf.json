@@ -1,0 +1,38 @@
+{
+  "id": "reach-culmination_e593a3053aaf",
+  "fingerprint": "e593a3053aaf0af64b5c89b8f2197d6cb653f297482e0d9b6d20cd60fb74df0b",
+  "archived_at": "2026-08-29T18:28:53Z",
+  "metadata": {
+    "title": "Reach / Culmination",
+    "artist": "Headed",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3015,
+    "duration_human": "00:50:15",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Headed - The Sing Song",
+      "02 Headed - Worry and the Forest Spirit",
+      "03 Headed - Get to the Edge",
+      "04 Headed - Silence",
+      "05 Headed - The Soft Song",
+      "06 Headed - Cinder and the Catastrophe",
+      "07 Headed - This Wonderful Era",
+      "08 Headed - Harm Innocuous",
+      "09 Headed - Wandering Circle of Reality",
+      "10 Headed - My House",
+      "11 Headed - Reach",
+      "12 Headed - Culmination"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/reach-culmination_e593a3053aaf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha11/089409c0e81c9527033b/Reach_-_Culmination.tar"
+    }
+  }
+}
