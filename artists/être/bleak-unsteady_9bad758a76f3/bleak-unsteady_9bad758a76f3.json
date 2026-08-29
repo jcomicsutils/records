@@ -1,0 +1,35 @@
+{
+  "id": "bleak-unsteady_9bad758a76f3",
+  "fingerprint": "9bad758a76f395793b7a627085f6a95b355640c6a796eb561decb8c0a4336e41",
+  "archived_at": "2026-08-29T17:31:23Z",
+  "metadata": {
+    "title": "Bleak, Unsteady",
+    "artist": "être",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2544,
+    "duration_human": "00:42:24",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 être - Nonexistence",
+      "02 être - Closer...",
+      "03 être - The Sound of Uncertainty",
+      "04 être - Near...",
+      "05 être - The Tone",
+      "06 être - My Last Recordings... Before I Die Remember Everything We Could Have Done",
+      "07 être - I Know, You Are There",
+      "08 être - A Present for Those Who Endure",
+      "09 être - Bleak, Unsteady"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bleak-unsteady_9bad758a76f3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha11/87d0565152c4731dcdd9/Bleak_Unsteady.tar"
+    }
+  }
+}

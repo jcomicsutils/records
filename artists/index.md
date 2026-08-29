@@ -266,6 +266,7 @@
 - [vogsma](vogsma/vogsma.md)
 - [ÄÄNIPÄÄ](ÄÄNIPÄÄ/ÄÄNIPÄÄ.md)
 - [Æthenor](Æthenor/Æthenor.md)
+- [être](être/être.md)
 - [čuljak](čuljak/čuljak.md)
 - [Širom](Širom/Širom.md)
 - [Βάκχεια Νεράϊδα](Βάκχεια-Νεράϊδα/Βάκχεια-Νεράϊδα.md)
