@@ -7,4 +7,5 @@
 | [Bleak, Unsteady](bleak-unsteady_9bad758a76f3/bleak-unsteady_9bad758a76f3.md) | 2023 | FLAC | 00:42:24 | [IA](https://archive.org/details/bleak-unsteady_9bad758a76f3) [FileDitch](https://fileditchfiles.st/balpha11/87d0565152c4731dcdd9/Bleak_Unsteady.tar) |
 | [The Gloom](the-gloom_f83194e5cd4d/the-gloom_f83194e5cd4d.md) | 2023 | MP3 | 00:50:24 | [IA](https://archive.org/details/the-gloom_f83194e5cd4d) [FileDitch](https://fileditchfiles.st/balpha11/8b9c29cf68f4d3bd68a3/The_Gloom.tar) |
 | [Surrealism V](surrealism-v_c717852c8f7a/surrealism-v_c717852c8f7a.md) | 2023 | FLAC | 00:45:41 | [IA](https://archive.org/details/surrealism-v_c717852c8f7a) [FileDitch](https://fileditchfiles.st/balpha11/45df989fb15e56610749/Surrealism_V.tar) |
+| [Venus](venus_9cbf0c47fee0/venus_9cbf0c47fee0.md) | 2024 | MP3 | 00:58:25 | [IA](https://archive.org/details/venus_9cbf0c47fee0) [FileDitch](https://fileditchfiles.st/balpha11/73bcd74608b34162e0de/Venus.tar) |
 | [KILY](kily_1c4ba29e2e49/kily_1c4ba29e2e49.md) | 2025 | FLAC | 00:43:53 | [IA](https://archive.org/details/kily_1c4ba29e2e49) [FileDitch](https://fileditchfiles.st/balpha11/596c019f3515aea765c3/KILY.tar) |

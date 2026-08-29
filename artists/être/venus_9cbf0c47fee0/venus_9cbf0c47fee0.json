@@ -1,0 +1,30 @@
+{
+  "id": "venus_9cbf0c47fee0",
+  "fingerprint": "9cbf0c47fee0e5d9e1fffc79b851f8f9fa6dcc72db44c577c7474dcb7ee63eba",
+  "archived_at": "2026-08-29T18:04:33Z",
+  "metadata": {
+    "title": "Venus",
+    "artist": "être",
+    "year": "2024",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 3505,
+    "duration_human": "00:58:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 être - Our Point of Intersection",
+      "02 être - Cataclysm Was Her",
+      "03 être - All My Dreams Are Yr Face",
+      "04 être - August"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/venus_9cbf0c47fee0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha11/73bcd74608b34162e0de/Venus.tar"
+    }
+  }
+}
