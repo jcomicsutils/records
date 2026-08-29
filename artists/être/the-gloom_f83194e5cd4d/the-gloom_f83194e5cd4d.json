@@ -1,0 +1,32 @@
+{
+  "id": "the-gloom_f83194e5cd4d",
+  "fingerprint": "f83194e5cd4d52251369f82f29950f606151c99943a178b27e45986f47d634c4",
+  "archived_at": "2026-08-29T18:00:17Z",
+  "metadata": {
+    "title": "The Gloom",
+    "artist": "être",
+    "year": "2023",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 3024,
+    "duration_human": "00:50:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 être - January",
+      "02 être - Gloom / Shine",
+      "03 être - What Would Happen After Life?",
+      "04 être - Arise to Heaven",
+      "05 être - The Path",
+      "06 être - Hyperbole"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-gloom_f83194e5cd4d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha11/8b9c29cf68f4d3bd68a3/The_Gloom.tar"
+    }
+  }
+}
