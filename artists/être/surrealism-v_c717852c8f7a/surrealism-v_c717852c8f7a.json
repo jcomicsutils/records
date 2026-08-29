@@ -1,0 +1,30 @@
+{
+  "id": "surrealism-v_c717852c8f7a",
+  "fingerprint": "c717852c8f7a91f134df9186dc7b4e955cb4da9c598173ac8ea6f2acba30d447",
+  "archived_at": "2026-08-29T17:50:36Z",
+  "metadata": {
+    "title": "Surrealism V",
+    "artist": "être",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2741,
+    "duration_human": "00:45:41",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 être - Delaying",
+      "02 être - Observing",
+      "03 être - Grinding",
+      "04 être - Searing"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/surrealism-v_c717852c8f7a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha11/45df989fb15e56610749/Surrealism_V.tar"
+    }
+  }
+}
