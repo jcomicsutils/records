@@ -1,0 +1,50 @@
+# To Remember the Days Gone Past — True Love is Dead Scream (2025)
+
+![Cover](https://archive.org/download/true-love-is-dead-scream_972a42683c29/__ia_thumb.jpg)
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | 48kHz |
+| Bit Depth | 16-bit |
+| Tracks | 26 |
+| Duration | 00:55:11 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/true-love-is-dead-scream_972a42683c29)
+- [FileDitch](https://fileditchfiles.st/balpha11/24a3af1c19b30fccd4d3/True_Love_is_Dead_Scream.tar)
+
+## Tracklist
+
+```
+01 To Remember the Days Gone Past - A Well Known Chess Player Just Killed Himself
+02 To Remember the Days Gone Past - Boys Want Destruction Now and Forever...
+03 To Remember the Days Gone Past - Crescendo to Motivate a Massacre
+04 To Remember the Days Gone Past - Death Right Next Door Left Hand Room Dead or Door Next Death Right Room Left Dead Hand
+05 To Remember the Days Gone Past - Epic is What They Call It, but Not for Me
+06 To Remember the Days Gone Past - Fuckers, Scream Scream Scream!
+07 To Remember the Days Gone Past - Great... And Now She Loves Me
+08 To Remember the Days Gone Past - Hypothetical Ending Just in Case She Doesn't Love Me
+09 To Remember the Days Gone Past - Inside View of the Brain Must Be Hell
+10 To Remember the Days Gone Past - July Was Truly a Month for Me
+11 To Remember the Days Gone Past - Kill Thousands of Myself
+12 To Remember the Days Gone Past - Last Time Music Sounded Like This
+13 To Remember the Days Gone Past - Most Liar Most Liar MOST LIAR MOST LIAR
+14 To Remember the Days Gone Past - Not Afraid of the Ghost Ship of Tombigbee
+15 To Remember the Days Gone Past - Opioids Pop Song of the Summer
+16 To Remember the Days Gone Past - Photo of a Friend Who Betrayed Us
+17 To Remember the Days Gone Past - Quadricentenary of the Ascension
+18 To Remember the Days Gone Past - Rare Master Track of "From the Basement"
+19 To Remember the Days Gone Past - Seminar for This Kind of Music
+20 To Remember the Days Gone Past - Torture is Not Fun
+21 To Remember the Days Gone Past - Unknown Version of Me, But...
+22 To Remember the Days Gone Past - Vulnerable, That's How I Am
+23 To Remember the Days Gone Past - Wayback Machine
+24 To Remember the Days Gone Past - Xenon Lights My Body
+25 To Remember the Days Gone Past - You, Dear, I Love U More
+26 To Remember the Days Gone Past - Zayonara
+```
+
+---
+*Archived: 2026-08-29*
