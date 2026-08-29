@@ -1,0 +1,31 @@
+{
+  "id": "the-biosphere-keeps-me-safe-from-what-i-may-come-to-consider-danger_a37198b5c019",
+  "fingerprint": "a37198b5c0192df006051be92b6d873dbebeb97b1e21e37895e94b0d511983ac",
+  "archived_at": "2026-08-29T17:57:09Z",
+  "metadata": {
+    "title": "The Biosphere Keeps Me Safe From What I May Come to Consider Danger",
+    "artist": "être",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 914,
+    "duration_human": "00:15:14",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 être - [untitled]",
+      "02 être - [untitled]",
+      "03 être - [untitled]",
+      "04 être - [untitled]",
+      "05 être - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-biosphere-keeps-me-safe-from-what-i-may-come-to-consider-danger_a37198b5c019"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha11/cf4ab8f4a40d81ab15a8/The_Biosphere_Keeps_Me_Safe_From_What_I_May_Come_to_Consider_Danger.tar"
+    }
+  }
+}
