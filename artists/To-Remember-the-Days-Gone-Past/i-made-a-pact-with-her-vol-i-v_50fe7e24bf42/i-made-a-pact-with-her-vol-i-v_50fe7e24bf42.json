@@ -1,0 +1,31 @@
+{
+  "id": "i-made-a-pact-with-her-vol-i-v_50fe7e24bf42",
+  "fingerprint": "50fe7e24bf42ea29e5d23ead128eebdb10f18b6a81c9c08afddd38ae3ef1be58",
+  "archived_at": "2026-08-29T18:51:16Z",
+  "metadata": {
+    "title": "I Made a Pact With Her Vol. I-V",
+    "artist": "To Remember the Days Gone Past",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 4050,
+    "duration_human": "01:07:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 To Remember the Days Gone Past - I: Irreplaceable",
+      "02 To Remember the Days Gone Past - II: Forever",
+      "03 To Remember the Days Gone Past - III: Letter",
+      "04 To Remember the Days Gone Past - IV: Skin",
+      "05 To Remember the Days Gone Past - V: Memorabilia"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-made-a-pact-with-her-vol-i-v_50fe7e24bf42"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha11/02976eb66ebbc034cebf/I_Made_a_Pact_With_Her_Vol._I-V.tar"
+    }
+  }
+}
