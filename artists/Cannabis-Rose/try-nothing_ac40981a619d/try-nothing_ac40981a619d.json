@@ -1,0 +1,35 @@
+{
+  "id": "try-nothing_ac40981a619d",
+  "fingerprint": "ac40981a619d05cea58f3385c4cf00023c651adce4c4ce95347c56f11fff60bf",
+  "archived_at": "2026-08-29T17:09:31Z",
+  "metadata": {
+    "title": "Try Nothing",
+    "artist": "Cannabis Rose",
+    "year": "2024",
+    "codec": "MP3",
+    "num_tracks": 9,
+    "duration_seconds": 7186,
+    "duration_human": "01:59:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Cannabis Rose - Quokka",
+      "02 Cannabis Rose - Hanunim",
+      "03 Cannabis Rose - Sauna",
+      "04 Cannabis Rose - Axelrod",
+      "05 Cannabis Rose - Tengri",
+      "06 Cannabis Rose - Neorealisma",
+      "07 Cannabis Rose - Sautras of Resound",
+      "08 Cannabis Rose - Bound to Laps",
+      "09 Cannabis Rose - Try Nothing"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/try-nothing_ac40981a619d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha11/ca0a56d421a6a7bbb915/Try_Nothing.tar"
+    }
+  }
+}
