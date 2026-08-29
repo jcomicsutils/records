@@ -108,6 +108,7 @@
 - [Happy Halloween](Happy-Halloween/Happy-Halloween.md)
 - [Harakiri for the Sky](Harakiri-for-the-Sky/Harakiri-for-the-Sky.md)
 - [Harold](Harold/Harold.md)
+- [Headed](Headed/Headed.md)
 - [Hermanos Gutiérrez](Hermanos-Gutiérrez/Hermanos-Gutiérrez.md)
 - [House of Low Culture](House-of-Low-Culture/House-of-Low-Culture.md)
 - [Human Tetris](Human-Tetris/Human-Tetris.md)

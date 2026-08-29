@@ -1,0 +1,29 @@
+{
+  "id": "chambers_6f56cf8d45ef",
+  "fingerprint": "6f56cf8d45ef6c32fd9258938e1effda8aa25d2fd744b149ece0b70b5b5437af",
+  "archived_at": "2026-08-29T18:06:50Z",
+  "metadata": {
+    "title": "Chambers",
+    "artist": "Headed",
+    "year": "2023",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 885,
+    "duration_human": "00:14:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Headed - Nunca Ouvi Algo Assim",
+      "02 Headed - Kaleidoscope",
+      "03 Headed - City Soundtrack / Protocolo Jaco"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chambers_6f56cf8d45ef"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha11/60f7076c30d0c73315e4/Chambers.tar"
+    }
+  }
+}
