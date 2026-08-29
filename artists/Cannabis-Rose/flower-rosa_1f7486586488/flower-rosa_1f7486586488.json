@@ -1,0 +1,33 @@
+{
+  "id": "flower-rosa_1f7486586488",
+  "fingerprint": "1f7486586488eb08627f932d1006d046724ddc28843b4cc64cd8924780447411",
+  "archived_at": "2026-08-29T17:01:26Z",
+  "metadata": {
+    "title": "Flower Rosa",
+    "artist": "Cannabis Rose",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 474,
+    "duration_human": "00:07:54",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cannabis Rose - Unfold/Open",
+      "02 Cannabis Rose - Mistronica",
+      "03 Cannabis Rose - Offfffffensive",
+      "04 Cannabis Rose - Glint",
+      "05 Cannabis Rose - Downside, Sound",
+      "06 Cannabis Rose - Upside, Sound",
+      "07 Cannabis Rose - Blowzy!"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/flower-rosa_1f7486586488"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha11/6fbdc05c1c6fad370bca/Flower_Rosa.tar"
+    }
+  }
+}
