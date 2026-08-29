@@ -1,0 +1,32 @@
+{
+  "id": "liverish_34d6630c75b3",
+  "fingerprint": "34d6630c75b37bcb48eb05e61662e99db0ac1621c7e9ed3f3ef2cdc75c8fcf17",
+  "archived_at": "2026-08-29T17:46:23Z",
+  "metadata": {
+    "title": "Liverish",
+    "artist": "être",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2152,
+    "duration_human": "00:35:52",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 être - Dimness Plus Sombre",
+      "02 être - Damn You! Slow Cursed Period",
+      "03 être - Above All Years...",
+      "04 être - Woods, Woods, Woods!",
+      "05 être - Conterminous Experimental Skill of Living With Cold",
+      "06 être - Goodbyart"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/liverish_34d6630c75b3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha11/c53fbdad5cc3383a0e70/Liverish.tar"
+    }
+  }
+}
