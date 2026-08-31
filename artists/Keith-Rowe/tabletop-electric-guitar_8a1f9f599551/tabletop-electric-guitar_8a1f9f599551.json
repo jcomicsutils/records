@@ -1,0 +1,25 @@
+{
+  "id": "tabletop-electric-guitar_8a1f9f599551",
+  "fingerprint": "8a1f9f599551e0953a11d9b5404ca7b170227715247b6d14e0e5d34c8474351f",
+  "archived_at": "2026-08-31T02:28:43Z",
+  "metadata": {
+    "title": "Tabletop Electric Guitar",
+    "artist": "Keith Rowe",
+    "year": "2012",
+    "codec": "H264 (640x480)",
+    "num_tracks": 1,
+    "duration_seconds": 2888,
+    "duration_human": "00:48:08",
+    "sampling_rate": "",
+    "bit_depth": null,
+    "tracklist": []
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tabletop-electric-guitar_8a1f9f599551"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta27/2cf4db585ca69eb390c8/Tabletop_Electric_Guitar.tar"
+    }
+  }
+}

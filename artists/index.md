@@ -123,6 +123,7 @@
 - [Kammerflimmer Kollektief](Kammerflimmer-Kollektief/Kammerflimmer-Kollektief.md)
 - [Karjalan Sissit](Karjalan-Sissit/Karjalan-Sissit.md)
 - [Kashshapu](Kashshapu/Kashshapu.md)
+- [Keith Rowe](Keith-Rowe/Keith-Rowe.md)
 - [Khanate](Khanate/Khanate.md)
 - [Killing Joke](Killing-Joke/Killing-Joke.md)
 - [Kim Myhr](Kim-Myhr/Kim-Myhr.md)
