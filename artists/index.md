@@ -175,6 +175,7 @@
 - [Olhava](Olhava/Olhava.md)
 - [Omniman](Omniman/Omniman.md)
 - [Operation Cleansweep](Operation-Cleansweep/Operation-Cleansweep.md)
+- [Ordo Equilibrio](Ordo-Equilibrio/Ordo-Equilibrio.md)
 - [Peace & Freedom](Peace-&-Freedom/Peace-&-Freedom.md)
 - [Pentemple](Pentemple/Pentemple.md)
 - [Pink Siifu](Pink-Siifu/Pink-Siifu.md)
