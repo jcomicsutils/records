@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Apocalips](apocalips_29f5136bf6c3/apocalips_29f5136bf6c3.md) | 2012 | FLAC | 01:11:34 | [IA](https://archive.org/details/apocalips_29f5136bf6c3) [FileDitch](https://fileditchfiles.st/balpha12/5587dfbde228b8b60807/Apocalips.tar) |
 | [4Play](4play_22c4acd384e0/4play_22c4acd384e0.md) | 2013 | FLAC | 00:17:38 | [IA](https://archive.org/details/4play_22c4acd384e0) [FileDitch](https://fileditchfiles.st/balpha12/9671dffe72973026839f/4Play.tar) |
 | [\[Vision:Libertine\] - The Hangman's Triad](visionlibertine-the-hangmans-triad_7d6826de1960/visionlibertine-the-hangmans-triad_7d6826de1960.md) | 2016 | FLAC | 01:09:25 | [IA](https://archive.org/details/visionlibertine-the-hangmans-triad_7d6826de1960) [FileDitch](https://fileditchfiles.st/balpha12/d5833b80a16685d0a794/VisionLibertine_-_The_Hangman_s_Triad.tar) |
 | [17 Gospels \(& the Sweet Taste of Apocalips Kisses\)](17-gospels-the-sweet-taste-of-apocalips-kisses_647ce2b28d82/17-gospels-the-sweet-taste-of-apocalips-kisses_647ce2b28d82.md) | 2019 | FLAC | 01:18:48 | [IA](https://archive.org/details/17-gospels-the-sweet-taste-of-apocalips-kisses_647ce2b28d82) [FileDitch](https://fileditchfiles.st/balpha12/cd8732182de0bba7cb84/17_Gospels_the_Sweet_Taste_of_Apocalips_Kisses.tar) |
