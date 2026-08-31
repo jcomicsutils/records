@@ -1,0 +1,37 @@
+# Ordo Rosarius Equilibrio — Let's Play [Two Girls & A Goat] (2019)
+
+![Cover](https://archive.org/download/lets-play-two-girls-a-goat_7b35ade2a86e/__ia_thumb.jpg)
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | 44.1kHz |
+| Bit Depth | 16-bit |
+| Tracks | 13 |
+| Duration | 00:59:33 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/lets-play-two-girls-a-goat_7b35ade2a86e)
+- [FileDitch](https://fileditchfiles.st/balpha12/1d7ea2cfb606c967a957/Let_s_Play_Two_Girls_A_Goat.tar)
+
+## Tracklist
+
+```
+01 Ordo Rosarius Equilibrio - Forty Years After Null (There's No Answer to the Riddle)
+02 Ordo Rosarius Equilibrio - Two Girls and a Goat (I Never Knew...)
+03 Ordo Rosarius Equilibrio - Evil Wears a Mask With Your Name
+04 Ordo Rosarius Equilibrio - I Met Jesus in a Dream (Till Illusions Fall Apart)
+05 Ordo Rosarius Equilibrio - Let's Play Said the Rose to the Goat
+06 Ordo Rosarius Equilibrio - This is Life This is War (Let's Play and Make Believe)
+07 Ordo Rosarius Equilibrio - This Knife Will Steal Your Heart - Let's Waken the Judas in You
+08 Ordo Rosarius Equilibrio - There's No Pride Love is Dead (Kiss My Eyes and Crush My Head)
+09 Ordo Rosarius Equilibrio - Anoint Me With Vomit, and Desecrate My Beliefs
+10 Ordo Rosarius Equilibrio - There's a Chalice With My Semen (And Another With My Blood)
+11 Ordo Rosarius Equilibrio - [Social Darwinist Contortion] Who is Born to Rule the World?
+12 Ordo Rosarius Equilibrio - Ménage À Trois - There is Nothing to Regret
+13 Ordo Rosarius Equilibrio - The Hierophant & the Devil (You Taste Like Innocence, and Broken Dreams)
+```
+
+---
+*Archived: 2026-08-31*
