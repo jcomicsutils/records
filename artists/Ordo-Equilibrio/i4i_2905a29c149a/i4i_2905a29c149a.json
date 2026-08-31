@@ -1,0 +1,28 @@
+{
+  "id": "i4i_2905a29c149a",
+  "fingerprint": "2905a29c149a33a58ef855947d5bf7dcba9d702f402d60371829a3359be50f47",
+  "archived_at": "2026-08-31T16:15:58Z",
+  "metadata": {
+    "title": "I4I",
+    "artist": "Ordo Equilibrio",
+    "year": "1997",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 523,
+    "duration_human": "00:08:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Ordo Equilibrio - Nature Seeking Equilibrium / War for the Principle of Balance",
+      "02 Ordo Equilibrio - In the Grassy Fields Where the World Goes to Sleep (We Kissed This World Goodbye)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i4i_2905a29c149a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha12/882b0e4868d085c178a8/I4I.tar"
+    }
+  }
+}
