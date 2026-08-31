@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Make Love, and War: The Wedlock of Roses](make-love-and-war-the-wedlock-of-roses_952b1c81e62d/make-love-and-war-the-wedlock-of-roses_952b1c81e62d.md) | 2000 | FLAC | 00:38:10 | [IA](https://archive.org/details/make-love-and-war-the-wedlock-of-roses_952b1c81e62d) [FileDitch](https://fileditchfiles.st/balpha12/4f85f6cea08cdb47332d/Make_Love_and_War_The_Wedlock_of_Roses.tar) |
 | [Make Love, and War: The Wedlock of Equilibrium](make-love-and-war-the-wedlock-of-equilibrium_85e9f997eaad/make-love-and-war-the-wedlock-of-equilibrium_85e9f997eaad.md) | 2001 | FLAC | 00:38:35 | [IA](https://archive.org/details/make-love-and-war-the-wedlock-of-equilibrium_85e9f997eaad) [FileDitch](https://fileditchfiles.st/balpha12/f673cc55b1812b6efa6d/Make_Love_and_War_The_Wedlock_of_Equilibrium.tar) |
 | [Four](four_3379d55b2900/four_3379d55b2900.md) | 2007 | FLAC | 00:16:23 | [IA](https://archive.org/details/four_3379d55b2900) [FileDitch](https://fileditchfiles.st/balpha12/cab0c1eba027db0ddbd3/Four.tar) |
 | [Do Angels Never Cry, and Heaven Never Fall?](do-angels-never-cry-and-heaven-never-fall_4707d2b26f42/do-angels-never-cry-and-heaven-never-fall_4707d2b26f42.md) | 2010 | FLAC | 00:19:43 | [IA](https://archive.org/details/do-angels-never-cry-and-heaven-never-fall_4707d2b26f42) [FileDitch](https://fileditchfiles.st/balpha12/432ba06de47ea6abcd8e/Do_Angels_Never_Cry_and_Heaven_Never_Fall.tar) |
