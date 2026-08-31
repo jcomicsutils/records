@@ -1,0 +1,30 @@
+{
+  "id": "menage-a-quatre_3f512905c9c5",
+  "fingerprint": "3f512905c9c532d32c68c66cbd9d2050122041346e54fad7bc96f048297cc254",
+  "archived_at": "2026-08-31T21:28:09Z",
+  "metadata": {
+    "title": "Ménage à Quatre",
+    "artist": "Ordo Rosarius Equilibrio",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 980,
+    "duration_human": "00:16:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Ordo Rosarius Equilibrio - Ménage À Trois - There is Nothing to Regret",
+      "02 Ordo Rosarius Equilibrio - Believe in Me [We Are ONE]",
+      "03 Ordo Rosarius Equilibrio - Kiss Me Now [And I'll Be Silent Just 4 You]",
+      "04 Ordo Rosarius Equilibrio - 4 All Our Scissor Sisters"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/menage-a-quatre_3f512905c9c5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha12/da2106b0813ee3e3230c/M_nage_Quatre.tar"
+    }
+  }
+}
