@@ -1,0 +1,30 @@
+{
+  "id": "4play_22c4acd384e0",
+  "fingerprint": "22c4acd384e0ef02986b7455c02afe3d6bd2f447f050f6e83056196308248a99",
+  "archived_at": "2026-08-31T20:07:40Z",
+  "metadata": {
+    "title": "4Play",
+    "artist": "Ordo Rosarius Equilibrio",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1058,
+    "duration_human": "00:17:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Ordo Rosarius Equilibrio - From Copenhagen With Love",
+      "02 Ordo Rosarius Equilibrio - First Death (Every Man is a Moth to the Flame)",
+      "03 Ordo Rosarius Equilibrio - I AM the Sweetest of Devils",
+      "04 Ordo Rosarius Equilibrio - A Man Without War, is a Man Without Peace"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/4play_22c4acd384e0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha12/9671dffe72973026839f/4Play.tar"
+    }
+  }
+}
