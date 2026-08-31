@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Four](four_3379d55b2900/four_3379d55b2900.md) | 2007 | FLAC | 00:16:23 | [IA](https://archive.org/details/four_3379d55b2900) [FileDitch](https://fileditchfiles.st/balpha12/cab0c1eba027db0ddbd3/Four.tar) |
 | [Do Angels Never Cry, and Heaven Never Fall?](do-angels-never-cry-and-heaven-never-fall_4707d2b26f42/do-angels-never-cry-and-heaven-never-fall_4707d2b26f42.md) | 2010 | FLAC | 00:19:43 | [IA](https://archive.org/details/do-angels-never-cry-and-heaven-never-fall_4707d2b26f42) [FileDitch](https://fileditchfiles.st/balpha12/432ba06de47ea6abcd8e/Do_Angels_Never_Cry_and_Heaven_Never_Fall.tar) |
 | [Apocalips](apocalips_29f5136bf6c3/apocalips_29f5136bf6c3.md) | 2012 | FLAC | 01:11:34 | [IA](https://archive.org/details/apocalips_29f5136bf6c3) [FileDitch](https://fileditchfiles.st/balpha12/5587dfbde228b8b60807/Apocalips.tar) |
 | [Cocktails, Carnage, Crucifixion and Pornography](cocktails-carnage-crucifixion-and-pornography_682a961ab44b/cocktails-carnage-crucifixion-and-pornography_682a961ab44b.md) | 2012 | FLAC | 01:12:57 | [IA](https://archive.org/details/cocktails-carnage-crucifixion-and-pornography_682a961ab44b) [FileDitch](https://fileditchfiles.st/balpha12/5e800ab2f56f6e5a982d/Cocktails_Carnage_Crucifixion_and_Pornography.tar) |

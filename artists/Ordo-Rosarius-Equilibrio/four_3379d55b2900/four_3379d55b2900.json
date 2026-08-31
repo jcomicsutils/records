@@ -1,0 +1,30 @@
+{
+  "id": "four_3379d55b2900",
+  "fingerprint": "3379d55b290092269dcec3bc0bf972ea0fc994af0092e7afdc06ead0b94c3b1f",
+  "archived_at": "2026-08-31T21:02:45Z",
+  "metadata": {
+    "title": "Four",
+    "artist": "Ordo Rosarius Equilibrio",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 983,
+    "duration_human": "00:16:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Ordo Rosarius Equilibrio - Singing for the Angel of the East (Reclaiming That Which is Ours)",
+      "02 Ordo Rosarius Equilibrio - Which Word Confines the Truth? Dancing for Love and War",
+      "03 Ordo Rosarius Equilibrio - The Future Was Today",
+      "04 Ordo Rosarius Equilibrio - I Am the Sun (Anus Dei)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/four_3379d55b2900"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha12/cab0c1eba027db0ddbd3/Four.tar"
+    }
+  }
+}
