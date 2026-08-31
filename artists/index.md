@@ -176,6 +176,7 @@
 - [Omniman](Omniman/Omniman.md)
 - [Operation Cleansweep](Operation-Cleansweep/Operation-Cleansweep.md)
 - [Ordo Equilibrio](Ordo-Equilibrio/Ordo-Equilibrio.md)
+- [Ordo Rosarius Equilibrio](Ordo-Rosarius-Equilibrio/Ordo-Rosarius-Equilibrio.md)
 - [Peace & Freedom](Peace-&-Freedom/Peace-&-Freedom.md)
 - [Pentemple](Pentemple/Pentemple.md)
 - [Pink Siifu](Pink-Siifu/Pink-Siifu.md)
