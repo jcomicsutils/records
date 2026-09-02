@@ -1,0 +1,32 @@
+{
+  "id": "flautas-del-chiguire_d63fc18b7644",
+  "fingerprint": "d63fc18b764411d8bef535ad4caa4cb836e47e52a657e1c56901ff1925542a64",
+  "archived_at": "2026-09-02T18:55:35Z",
+  "metadata": {
+    "title": "Flautas del chigüire",
+    "artist": "Flautas del chigüire",
+    "year": "2007",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 1751,
+    "duration_human": "00:29:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Flautas del chigüire - Va a llover",
+      "02 Flautas del chigüire - Aullido del chiguire",
+      "03 Flautas del chigüire - II",
+      "04 Flautas del chigüire - Pajaros",
+      "05 Flautas del chigüire - Fantasia universal",
+      "06 Flautas del chigüire - El ultimo dia de los chiguires"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/flautas-del-chiguire_d63fc18b7644"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta29/a58f5454f412ff5bbb86/Flautas_del_chig_ire.tar"
+    }
+  }
+}
