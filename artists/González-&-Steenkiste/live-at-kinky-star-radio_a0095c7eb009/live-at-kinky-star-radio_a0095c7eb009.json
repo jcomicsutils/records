@@ -1,0 +1,27 @@
+{
+  "id": "live-at-kinky-star-radio_a0095c7eb009",
+  "fingerprint": "a0095c7eb0098e35285bfdc479ce683f5e9ef88a8e6dccbb48f7a63e6cee6e2b",
+  "archived_at": "2026-09-03T17:43:41Z",
+  "metadata": {
+    "title": "Live at Kinky Star Radio",
+    "artist": "González & Steenkiste",
+    "year": "2013",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 2077,
+    "duration_human": "00:34:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 González & Steenkiste - Moving to Colorado"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-at-kinky-star-radio_a0095c7eb009"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta29/40ecce0c8d266f0bda7e/Live_at_Kinky_Star_Radio.tar"
+    }
+  }
+}
