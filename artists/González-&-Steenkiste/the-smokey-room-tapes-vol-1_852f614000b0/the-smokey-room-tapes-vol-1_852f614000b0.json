@@ -1,0 +1,30 @@
+{
+  "id": "the-smokey-room-tapes-vol-1_852f614000b0",
+  "fingerprint": "852f614000b0116ae2473b25fc60697294f2b2a10e0e91672f32c0752f7206a5",
+  "archived_at": "2026-09-03T17:50:36Z",
+  "metadata": {
+    "title": "The Smokey Room Tapes Vol. 1",
+    "artist": "González & Steenkiste",
+    "year": "2013",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 2927,
+    "duration_human": "00:48:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 González & Steenkiste - Meditation for the Golden Cat",
+      "02 González & Steenkiste - Down the North Fork",
+      "03 González & Steenkiste - Gammalaan",
+      "04 González & Steenkiste - Of Norther Winds & White Nights"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-smokey-room-tapes-vol-1_852f614000b0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta29/b95b53db2fcc01babe62/The_Smokey_Room_Tapes_Vol._1.tar"
+    }
+  }
+}
