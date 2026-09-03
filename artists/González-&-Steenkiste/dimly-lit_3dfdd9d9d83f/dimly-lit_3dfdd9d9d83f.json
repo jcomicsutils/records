@@ -1,0 +1,30 @@
+{
+  "id": "dimly-lit_3dfdd9d9d83f",
+  "fingerprint": "3dfdd9d9d83fe2a92cc08fc97dfd6e55c827dacd5aa316c4894a7168ef660a11",
+  "archived_at": "2026-09-03T17:39:25Z",
+  "metadata": {
+    "title": "Dimly Lit",
+    "artist": "González & Steenkiste",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2466,
+    "duration_human": "00:41:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 González & Steenkiste - Path of the Beam",
+      "02 González & Steenkiste - Rest (The Path Knows No End)",
+      "03 González & Steenkiste - At Uncertainty's Pace",
+      "04 González & Steenkiste - Thinner Than Air"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dimly-lit_3dfdd9d9d83f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta29/3288901ba3b37e3c2788/Dimly_Lit.tar"
+    }
+  }
+}

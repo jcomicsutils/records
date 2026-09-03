@@ -103,6 +103,7 @@
 - [Fungal Hex](Fungal-Hex/Fungal-Hex.md)
 - [Generated Missiân ZFN](Generated-Missiân-ZFN/Generated-Missiân-ZFN.md)
 - [Generated Missiân ZFN / Serpentmouth / Zeffon](Generated-Missiân-ZFN-Serpentmouth-Zeffon/Generated-Missiân-ZFN-Serpentmouth-Zeffon.md)
+- [González & Steenkiste](González-&-Steenkiste/González-&-Steenkiste.md)
 - [Gravetemple](Gravetemple/Gravetemple.md)
 - [Grim](Grim/Grim.md)
 - [Hanging Stars](Hanging-Stars/Hanging-Stars.md)
