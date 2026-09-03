@@ -1,0 +1,29 @@
+{
+  "id": "stuffed-with-the-down-of-the-eider_afd9a1087362",
+  "fingerprint": "afd9a10873627e12a6ab598fc9921103d2edb6dd21c80a4e59c9c6aab3eda897",
+  "archived_at": "2026-09-03T17:47:16Z",
+  "metadata": {
+    "title": "Stuffed With the Down of the Eider",
+    "artist": "González & Steenkiste",
+    "year": "2012",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 2169,
+    "duration_human": "00:36:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 González & Steenkiste - An Evening at Sloow's",
+      "02 González & Steenkiste - Front Porch Rumbling",
+      "03 González & Steenkiste - Paradise"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stuffed-with-the-down-of-the-eider_afd9a1087362"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta29/02f3ee04e37f4e49bfe4/Stuffed_With_the_Down_of_the_Eider.tar"
+    }
+  }
+}
