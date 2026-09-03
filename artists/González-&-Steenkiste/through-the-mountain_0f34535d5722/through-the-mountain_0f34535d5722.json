@@ -1,0 +1,30 @@
+{
+  "id": "through-the-mountain_0f34535d5722",
+  "fingerprint": "0f34535d57227320307deeddaebd2c1b0e9edfe0e5c83001238971f8ffb4d8e0",
+  "archived_at": "2026-09-03T17:54:05Z",
+  "metadata": {
+    "title": "Through the Mountain",
+    "artist": "González & Steenkiste",
+    "year": "2012",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 2512,
+    "duration_human": "00:41:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 González & Steenkiste - The Foot",
+      "02 González & Steenkiste - The Belly",
+      "03 González & Steenkiste - The Chest",
+      "04 González & Steenkiste - The Eye"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/through-the-mountain_0f34535d5722"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta29/22a1bf37fbb2c2e2201a/Through_the_Mountain.tar"
+    }
+  }
+}
