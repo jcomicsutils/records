@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Thole](thole_cdbf3ceac944/thole_cdbf3ceac944.md) | 2007 | FLAC | 00:18:23 | [IA](https://archive.org/details/thole_cdbf3ceac944) [FileDitch](https://fileditchfiles.st/beta32/aa3b53cc8b56c38dde8e/Thole.tar) |
 | [sC](sc_d2afab9a85fd/sc_d2afab9a85fd.md) | 2007 | MP3 | 00:23:26 | [IA](https://archive.org/details/sc_d2afab9a85fd) [FileDitch](https://fileditchfiles.st/beta32/6a92e6627c9a4cadaebb/sC.tar) |
 | [Drawn](drawn_ad6c15bea9bd/drawn_ad6c15bea9bd.md) | 2008 | FLAC | 00:24:23 | [IA](https://archive.org/details/drawn_ad6c15bea9bd) [FileDitch](https://fileditchfiles.st/beta32/f4c6b09731218e81040c/Drawn.tar) |
 | [Redrawn](redrawn_00c338b21b6e/redrawn_00c338b21b6e.md) | 2009 | FLAC | 01:18:35 | [IA](https://archive.org/details/redrawn_00c338b21b6e) [FileDitch](https://fileditchfiles.st/beta32/9db33f8c051b385785e8/Redrawn.tar) |

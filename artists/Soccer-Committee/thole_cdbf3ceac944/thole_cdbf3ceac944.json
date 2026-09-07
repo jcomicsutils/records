@@ -1,0 +1,27 @@
+{
+  "id": "thole_cdbf3ceac944",
+  "fingerprint": "cdbf3ceac9444cc2587a985f325ceb3aa3da1fc9458423cb20df330098df7347",
+  "archived_at": "2026-09-07T12:12:35Z",
+  "metadata": {
+    "title": "Thole",
+    "artist": "Soccer Committee",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1103,
+    "duration_human": "00:18:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Machinefabriek & Soccer Committee - Thole"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/thole_cdbf3ceac944"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta32/aa3b53cc8b56c38dde8e/Thole.tar"
+    }
+  }
+}
