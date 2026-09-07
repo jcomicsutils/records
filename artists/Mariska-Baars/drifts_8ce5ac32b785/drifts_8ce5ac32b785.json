@@ -1,0 +1,29 @@
+{
+  "id": "drifts_8ce5ac32b785",
+  "fingerprint": "8ce5ac32b78588f36c13430354c54d850c3913254fe7c5c688c13c81abf3f57c",
+  "archived_at": "2026-09-07T10:48:58Z",
+  "metadata": {
+    "title": "Drifts",
+    "artist": "Mariska Baars",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2830,
+    "duration_human": "00:47:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 L / M / R / W - Birthday",
+      "02 L / M / R / W - Clay",
+      "03 L / M / R / W - Tegendraads"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/drifts_8ce5ac32b785"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta32/79ae820496ce61e9f501/Drifts.tar"
+    }
+  }
+}

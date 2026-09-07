@@ -1,0 +1,27 @@
+# Mariska Baars — Drifts (2010)
+
+![Cover](https://archive.org/download/drifts_8ce5ac32b785/__ia_thumb.jpg)
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | 44.1kHz |
+| Bit Depth | 16-bit |
+| Tracks | 3 |
+| Duration | 00:47:10 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/drifts_8ce5ac32b785)
+- [FileDitch](https://fileditchfiles.st/beta32/79ae820496ce61e9f501/Drifts.tar)
+
+## Tracklist
+
+```
+01 L / M / R / W - Birthday
+02 L / M / R / W - Clay
+03 L / M / R / W - Tegendraads
+```
+
+---
+*Archived: 2026-09-07*
