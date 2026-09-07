@@ -1,0 +1,27 @@
+{
+  "id": "zeeg_a917633b838a",
+  "fingerprint": "a917633b838a0e3eef95d60143e2f3084a8a37523b4005405019a223a7c8f815",
+  "archived_at": "2026-09-07T11:05:50Z",
+  "metadata": {
+    "title": "Zeeg",
+    "artist": "Mariska Baars",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2227,
+    "duration_human": "00:37:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mariska Baars / Wouter van Veldhoven / Rutger Zuydervelt - Zeeg"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zeeg_a917633b838a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta32/d930c81f2083f9c8a9ba/Zeeg.tar"
+    }
+  }
+}
