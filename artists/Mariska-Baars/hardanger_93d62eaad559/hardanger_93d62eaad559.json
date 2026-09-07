@@ -1,0 +1,28 @@
+{
+  "id": "hardanger_93d62eaad559",
+  "fingerprint": "93d62eaad559af358ff397fedad25ed858b6b1d7b89f8d4d9111eef15a104971",
+  "archived_at": "2026-09-07T11:02:32Z",
+  "metadata": {
+    "title": "Hardanger",
+    "artist": "Mariska Baars",
+    "year": "2024",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 2072,
+    "duration_human": "00:34:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Mariska Baars, Niki Jansen & Rutger Zuydervelt - Hardanger I",
+      "02 Mariska Baars, Niki Jansen & Rutger Zuydervelt - Hardanger II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hardanger_93d62eaad559"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta32/6a0cf048c1ae513fdab5/Hardanger.tar"
+    }
+  }
+}
