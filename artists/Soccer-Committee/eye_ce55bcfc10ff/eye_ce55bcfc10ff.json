@@ -1,0 +1,34 @@
+{
+  "id": "eye_ce55bcfc10ff",
+  "fingerprint": "ce55bcfc10ff5700f4470560c83a0b3d42ca6276378f3e909a35a8f320159344",
+  "archived_at": "2026-09-07T11:39:27Z",
+  "metadata": {
+    "title": "Eye",
+    "artist": "Soccer Committee",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1417,
+    "duration_human": "00:23:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Soccer Committee - Into",
+      "02 Soccer Committee - Here",
+      "03 Soccer Committee - Little Sorrow",
+      "04 Soccer Committee - Pretty Little Foxes",
+      "05 Soccer Committee - Unrequited Love",
+      "06 Soccer Committee - Sparrow's Chest",
+      "07 Soccer Committee - Horseclatter",
+      "08 Soccer Committee - Frozen Tide"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/eye_ce55bcfc10ff"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta32/2f55036a75f5992a1740/Eye.tar"
+    }
+  }
+}
