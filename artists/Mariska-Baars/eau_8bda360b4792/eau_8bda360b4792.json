@@ -1,0 +1,27 @@
+{
+  "id": "eau_8bda360b4792",
+  "fingerprint": "8bda360b47929b125d9c4b9ae4c025200d02c9c3d0e5dc8e80f7a03a1413522c",
+  "archived_at": "2026-09-07T10:53:44Z",
+  "metadata": {
+    "title": "eau",
+    "artist": "Mariska Baars",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1810,
+    "duration_human": "00:30:10",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Mariska Baars / Rutger Zuydervelt - eau"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/eau_8bda360b4792"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta32/2bc2744cefc5f1b952ee/eau.tar"
+    }
+  }
+}
