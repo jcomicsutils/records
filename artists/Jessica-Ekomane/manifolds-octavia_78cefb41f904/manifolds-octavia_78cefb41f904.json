@@ -1,0 +1,28 @@
+{
+  "id": "manifolds-octavia_78cefb41f904",
+  "fingerprint": "78cefb41f90458bb9aa4777e22e95d6e87095807d1e3ad273483c530001891c0",
+  "archived_at": "2026-09-07T08:47:19Z",
+  "metadata": {
+    "title": "Manifolds / Octavia",
+    "artist": "Jessica Ekomane",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2326,
+    "duration_human": "00:38:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Jessica Ekomane - Manifolds",
+      "02 Laurel Halo - Octavia"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/manifolds-octavia_78cefb41f904"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta32/91355f8563bd6b4ab595/Manifolds_-_Octavia.tar"
+    }
+  }
+}
