@@ -1,0 +1,31 @@
+{
+  "id": "hearts-lamb_d38f05d6c8da",
+  "fingerprint": "d38f05d6c8da0685a4bf0cd7b8de723af23befdc7be11d6325c30f9fa23db3d3",
+  "archived_at": "2026-09-07T11:28:38Z",
+  "metadata": {
+    "title": "♥ / Lamb",
+    "artist": "Soccer Committee",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1372,
+    "duration_human": "00:22:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Soccer Committee - No Turn to Harm",
+      "02 Soccer Committee - Reaching",
+      "03 Soccer Committee - Aride Afar",
+      "04 Soccer Committee - Imagining You in the Room",
+      "05 Soccer Committee - Way Ensemble"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hearts-lamb_d38f05d6c8da"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta32/cad1a577c3e19fd2f57a/-_Lamb.tar"
+    }
+  }
+}

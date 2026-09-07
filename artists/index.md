@@ -202,6 +202,7 @@
 - [Sexo Explícito](Sexo-Explícito/Sexo-Explícito.md)
 - [Show Me a Dinosaur](Show-Me-a-Dinosaur/Show-Me-a-Dinosaur.md)
 - [Siouxsie and The Banshees](Siouxsie-and-The-Banshees/Siouxsie-and-The-Banshees.md)
+- [Soccer Committee](Soccer-Committee/Soccer-Committee.md)
 - [Sokushinbutsu](Sokushinbutsu/Sokushinbutsu.md)
 - [Solomon Solomon](Solomon-Solomon/Solomon-Solomon.md)
 - [Sopros](Sopros/Sopros.md)
