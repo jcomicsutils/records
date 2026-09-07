@@ -1,0 +1,34 @@
+{
+  "id": "tell-from-the-grass_67539527ea66",
+  "fingerprint": "67539527ea666be65e23a88d7704b9912575695f4de810c34a1ab77a367780dc",
+  "archived_at": "2026-09-07T12:03:37Z",
+  "metadata": {
+    "title": "Tell From the Grass",
+    "artist": "Soccer Committee",
+    "year": "2021",
+    "codec": "MP3",
+    "num_tracks": 8,
+    "duration_seconds": 857,
+    "duration_human": "00:14:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Soccer Committee - To a Poem",
+      "02 Soccer Committee - Interstellar",
+      "03 Soccer Committee - While You're in the World",
+      "04 Soccer Committee - Interlude",
+      "05 Soccer Committee - Hazy",
+      "06 Soccer Committee - Song for Staying",
+      "07 Soccer Committee - Song to Travel With the Soul",
+      "08 Soccer Committee - So Gefällt"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tell-from-the-grass_67539527ea66"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta32/8b3f074b936a0ebb8807/Tell_From_the_Grass.tar"
+    }
+  }
+}
