@@ -1,0 +1,34 @@
+{
+  "id": "sc_d2afab9a85fd",
+  "fingerprint": "d2afab9a85fd9110856d3090f9c46aa5a3904da8a98b22db18781a23a855dd02",
+  "archived_at": "2026-09-07T11:57:41Z",
+  "metadata": {
+    "title": "sC",
+    "artist": "Soccer Committee",
+    "year": "2007",
+    "codec": "MP3",
+    "num_tracks": 8,
+    "duration_seconds": 1406,
+    "duration_human": "00:23:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Soccer Committee - Carps",
+      "02 Soccer Committee - Blessed",
+      "03 Soccer Committee - Flock",
+      "04 Soccer Committee - Here I Go Again",
+      "05 Soccer Committee - Carriage",
+      "06 Soccer Committee - True",
+      "07 Soccer Committee - Stripping the Nude",
+      "08 Soccer Committee - White Stone"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sc_d2afab9a85fd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta32/6a92e6627c9a4cadaebb/sC.tar"
+    }
+  }
+}
