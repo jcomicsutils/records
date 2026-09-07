@@ -1,0 +1,32 @@
+{
+  "id": "lent-or-ink-on_9e9293d45b06",
+  "fingerprint": "9e9293d45b06364edbb1726bc92b35021d4c726595ed56579cf162de98579622",
+  "archived_at": "2026-09-07T08:36:20Z",
+  "metadata": {
+    "title": "Lent, Or, Ink On",
+    "artist": "Solomon Solomon",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2017,
+    "duration_human": "00:33:37",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Solomon Solomon - A Being Creates Itself",
+      "02 Solomon Solomon - Through the Gaze of Looking In",
+      "03 Solomon Solomon - The Nerve of the Nerve of the Nerve",
+      "04 Solomon Solomon - Nereid Demonstrates",
+      "05 Solomon Solomon - Philia",
+      "06 Solomon Solomon - To Do Term in a Constant Mentality"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lent-or-ink-on_9e9293d45b06"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta32/44d192a9604ebe84911f/Lent_Or_Ink_On.tar"
+    }
+  }
+}
