@@ -1,0 +1,36 @@
+{
+  "id": "drawn_ad6c15bea9bd",
+  "fingerprint": "ad6c15bea9bde8dcfe63fff42b729ba0673bcc89ed00d0accf2a954e09c4059a",
+  "archived_at": "2026-09-07T11:33:18Z",
+  "metadata": {
+    "title": "Drawn",
+    "artist": "Soccer Committee",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 1463,
+    "duration_human": "00:24:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Soccer Committee & Machinefabriek - High Pitched Drone",
+      "02 Soccer Committee & Machinefabriek - Very Well Drawn",
+      "03 Soccer Committee & Machinefabriek - Mees",
+      "04 Soccer Committee & Machinefabriek - For I Have None",
+      "05 Soccer Committee & Machinefabriek - Magpie",
+      "06 Soccer Committee & Machinefabriek - Thole I",
+      "07 Soccer Committee & Machinefabriek - Klauwier",
+      "08 Soccer Committee & Machinefabriek - Di-O-Day",
+      "09 Soccer Committee & Machinefabriek - Cristopher (For Suzanne)",
+      "10 Soccer Committee & Machinefabriek - High Pitched Drone II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/drawn_ad6c15bea9bd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta32/f4c6b09731218e81040c/Drawn.tar"
+    }
+  }
+}
