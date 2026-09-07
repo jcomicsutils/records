@@ -201,6 +201,7 @@
 - [Show Me a Dinosaur](Show-Me-a-Dinosaur/Show-Me-a-Dinosaur.md)
 - [Siouxsie and The Banshees](Siouxsie-and-The-Banshees/Siouxsie-and-The-Banshees.md)
 - [Sokushinbutsu](Sokushinbutsu/Sokushinbutsu.md)
+- [Solomon Solomon](Solomon-Solomon/Solomon-Solomon.md)
 - [Sopros](Sopros/Sopros.md)
 - [Splashgirl / Huntsville](Splashgirl-Huntsville/Splashgirl-Huntsville.md)
 - [St. Francis Duo](St.-Francis-Duo/St.-Francis-Duo.md)
