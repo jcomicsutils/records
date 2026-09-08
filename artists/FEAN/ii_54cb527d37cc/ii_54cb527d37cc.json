@@ -1,0 +1,31 @@
+{
+  "id": "ii_54cb527d37cc",
+  "fingerprint": "54cb527d37cc9b6f70089f42f844ae43fe9dd6b5a4bc5b632cd38581ee918467",
+  "archived_at": "2026-09-08T03:21:13Z",
+  "metadata": {
+    "title": "II",
+    "artist": "FEAN",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2248,
+    "duration_human": "00:37:28",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 FEAN - Soere Molke",
+      "02 FEAN - Swellen",
+      "03 FEAN - Ferbaarnde Boeken",
+      "04 FEAN - In Bytsje Libben",
+      "05 FEAN - Ferjit Alles Om Dy Hinne"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ii_54cb527d37cc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta32/71fe9d4090b5a8014d1b/II.tar"
+    }
+  }
+}
