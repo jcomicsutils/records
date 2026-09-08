@@ -1,0 +1,35 @@
+{
+  "id": "fean_71d9d1cf634c",
+  "fingerprint": "71d9d1cf634c0d2c8507ef060f48e7c318e9b32cde91b5c7170bef7a658f63ad",
+  "archived_at": "2026-09-08T03:11:41Z",
+  "metadata": {
+    "title": "FEAN",
+    "artist": "FEAN",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3684,
+    "duration_human": "01:01:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 FEAN - Ketlik I",
+      "02 FEAN - Peaoffer",
+      "03 FEAN - Ketlik II",
+      "04 FEAN - Oardeis",
+      "05 FEAN - Ketlik III",
+      "06 FEAN - Lytse Poel",
+      "07 FEAN - Ketlik IV",
+      "08 FEAN - Ketlik V",
+      "09 FEAN - Wetterreid"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fean_71d9d1cf634c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta32/1bf0c81c44e5a726ed08/FEAN.tar"
+    }
+  }
+}
