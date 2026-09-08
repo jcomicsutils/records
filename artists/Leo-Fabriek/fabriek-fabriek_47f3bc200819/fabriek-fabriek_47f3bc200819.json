@@ -1,0 +1,31 @@
+{
+  "id": "fabriek-fabriek_47f3bc200819",
+  "fingerprint": "47f3bc20081948d0b6dd13d4e73d30c25b73f300a377f6336ffcd85dbdf9a727",
+  "archived_at": "2026-09-08T02:27:53Z",
+  "metadata": {
+    "title": "Fabriek + Fabriek",
+    "artist": "Leo Fabriek",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2349,
+    "duration_human": "00:39:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Machinefabriek & Leo Fabriek - Het Waait Over",
+      "02 Machinefabriek & Leo Fabriek - Polderlicht",
+      "03 Machinefabriek & Leo Fabriek - Wolken Boven Cronesteyn",
+      "04 Machinefabriek & Leo Fabriek - Pluimen",
+      "05 Machinefabriek & Leo Fabriek - Karrewiel"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fabriek-fabriek_47f3bc200819"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta32/0313fc22943fb50aed97/Fabriek_Fabriek.tar"
+    }
+  }
+}
