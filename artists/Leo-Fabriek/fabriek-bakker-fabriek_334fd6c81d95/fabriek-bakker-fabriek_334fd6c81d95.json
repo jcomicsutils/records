@@ -1,0 +1,27 @@
+{
+  "id": "fabriek-bakker-fabriek_334fd6c81d95",
+  "fingerprint": "334fd6c81d950cf434015b02cb4844dc8a0f6128c46959bbb69e80706a919ee5",
+  "archived_at": "2026-09-08T02:42:34Z",
+  "metadata": {
+    "title": "Fabriek Bakker Fabriek",
+    "artist": "Leo Fabriek",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1193,
+    "duration_human": "00:19:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Fabriek Bakker Fabriek - Fabriek Bakker Fabriek"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fabriek-bakker-fabriek_334fd6c81d95"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta32/d8d0850f5f18d162e8c7/Fabriek_Bakker_Fabriek.tar"
+    }
+  }
+}
