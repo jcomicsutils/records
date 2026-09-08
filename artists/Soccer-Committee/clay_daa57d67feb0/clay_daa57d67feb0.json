@@ -1,0 +1,27 @@
+{
+  "id": "clay_daa57d67feb0",
+  "fingerprint": "daa57d67feb0de61984aad0bdf3690f22eed1faef5c67ca83c27cbc31dc31f46",
+  "archived_at": "2026-09-08T02:09:10Z",
+  "metadata": {
+    "title": "Clay",
+    "artist": "Soccer Committee",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1044,
+    "duration_human": "00:17:24",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Soccer Committee & Machinefabriek - Clay"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/clay_daa57d67feb0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta32/26ab6811275bc9fe13fd/Clay.tar"
+    }
+  }
+}
