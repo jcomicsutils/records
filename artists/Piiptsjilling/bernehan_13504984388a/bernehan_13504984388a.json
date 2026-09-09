@@ -1,0 +1,27 @@
+{
+  "id": "bernehan_13504984388a",
+  "fingerprint": "13504984388ac1dc28356c0907bf5ecdc073c5178936a41ff152e0e1f3931382",
+  "archived_at": "2026-09-09T05:39:58Z",
+  "metadata": {
+    "title": "Bernehân",
+    "artist": "Piiptsjilling",
+    "year": "2014",
+    "codec": "AAC",
+    "num_tracks": 1,
+    "duration_seconds": 556,
+    "duration_human": "00:09:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Piiptsjilling - Bernehân"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bernehan_13504984388a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta33/7edb9ec8233fd10ef7f0/Berneh_n.tar"
+    }
+  }
+}

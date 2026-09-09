@@ -186,6 +186,7 @@
 - [Ordo Rosarius Equilibrio](Ordo-Rosarius-Equilibrio/Ordo-Rosarius-Equilibrio.md)
 - [Peace & Freedom](Peace-&-Freedom/Peace-&-Freedom.md)
 - [Pentemple](Pentemple/Pentemple.md)
+- [Piiptsjilling](Piiptsjilling/Piiptsjilling.md)
 - [Pink Siifu](Pink-Siifu/Pink-Siifu.md)
 - [Psycodrama](Psycodrama/Psycodrama.md)
 - [Rabit](Rabit/Rabit.md)
