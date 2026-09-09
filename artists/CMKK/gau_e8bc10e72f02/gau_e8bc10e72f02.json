@@ -1,0 +1,27 @@
+{
+  "id": "gau_e8bc10e72f02",
+  "fingerprint": "e8bc10e72f02f6b6de5ac80e477cf22a020a658a47efb634c65a1c6e0382df84",
+  "archived_at": "2026-09-09T04:22:30Z",
+  "metadata": {
+    "title": "Gau",
+    "artist": "CMKK",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2859,
+    "duration_human": "00:47:39",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 CMKK - Gau"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/gau_e8bc10e72f02"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta33/9497af1cccfe960cd3f7/Gau.tar"
+    }
+  }
+}
