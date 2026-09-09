@@ -1,0 +1,27 @@
+{
+  "id": "slieperswaar_773627dbfeca",
+  "fingerprint": "773627dbfeca583dbf7b9dd5a271d924cd14b6bac42a30a892692ebfb7c3862f",
+  "archived_at": "2026-09-09T22:29:10Z",
+  "metadata": {
+    "title": "Slieperswaar",
+    "artist": "Piiptsjilling",
+    "year": "2015",
+    "codec": "AAC",
+    "num_tracks": 1,
+    "duration_seconds": 1176,
+    "duration_human": "00:19:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Piiptsjilling - Slieperswaar"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/slieperswaar_773627dbfeca"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta33/f6aed3deffcbdc46eea5/Slieperswaar.tar"
+    }
+  }
+}
