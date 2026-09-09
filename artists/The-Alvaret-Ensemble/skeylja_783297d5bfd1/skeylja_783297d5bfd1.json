@@ -1,0 +1,34 @@
+{
+  "id": "skeylja_783297d5bfd1",
+  "fingerprint": "783297d5bfd19773b77084489787d7c63a764a19c73680b8c9a101f68aa8d01e",
+  "archived_at": "2026-09-09T05:25:42Z",
+  "metadata": {
+    "title": "Skeylja",
+    "artist": "The Alvaret Ensemble",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2475,
+    "duration_human": "00:41:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Alvaret Ensemble - Hoarn",
+      "02 The Alvaret Ensemble - Aaster",
+      "03 The Alvaret Ensemble - Sjouw",
+      "04 The Alvaret Ensemble - Duunt",
+      "05 The Alvaret Ensemble - Kleifarvatn",
+      "06 The Alvaret Ensemble - Selvatn",
+      "07 The Alvaret Ensemble - Hafravatn",
+      "08 The Alvaret Ensemble - Borgarvatn"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/skeylja_783297d5bfd1"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta33/e2898361bed7113eb8ac/Skeylja.tar"
+    }
+  }
+}
