@@ -1,0 +1,30 @@
+{
+  "id": "moarntiids_bb9530e8f6ef",
+  "fingerprint": "bb9530e8f6efc527be165f42ddf8576ec1c4669b6c32c61b50e89d5f350d30c0",
+  "archived_at": "2026-09-09T22:13:36Z",
+  "metadata": {
+    "title": "Moarntiids",
+    "artist": "Piiptsjilling",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2665,
+    "duration_human": "00:44:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piiptsjilling - Flinter djippe see",
+      "02 Piiptsjilling - Kobbeswerk",
+      "03 Piiptsjilling - Slykklauwers",
+      "04 Piiptsjilling - Sûnder wyn nea itselde"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/moarntiids_bb9530e8f6ef"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta33/f3f2ad544fe57b9cfd28/Moarntiids.tar"
+    }
+  }
+}
