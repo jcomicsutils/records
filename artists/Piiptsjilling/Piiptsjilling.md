@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Piiptsjilling](piiptsjilling_379cd3106737/piiptsjilling_379cd3106737.md) | 2008 | FLAC | 00:31:53 | [IA](https://archive.org/details/piiptsjilling_379cd3106737) [FileDitch](https://fileditchfiles.st/beta33/10f5708e7f8bc06747f3/Piiptsjilling.tar) |
+| [Wurdskrieme](wurdskrieme_e9ab59c009c5/wurdskrieme_e9ab59c009c5.md) | 2010 | FLAC | 00:40:04 | [IA](https://archive.org/details/wurdskrieme_e9ab59c009c5) [FileDitch](https://fileditchfiles.st/beta33/0495dc46553ab802fd78/Wurdskrieme.tar) |
 | [Seeljocht](seeljocht_1788992896/seeljocht_1788992896.md) | 2011 | FLAC | 00:48:17 | [IA](https://archive.org/details/seeljocht_1778543121) [Catbox ×2](seeljocht_1788992896/seeljocht_1788992896.md) [FileDitch](https://fileditchfiles.me/file.php?f=/beta1/055f480c3e5fd807514d/Seeljocht.tar) |
 | [Bernehân](bernehan_13504984388a/bernehan_13504984388a.md) | 2014 | AAC | 00:09:16 | [IA](https://archive.org/details/bernehan_13504984388a) [FileDitch](https://fileditchfiles.st/beta33/7edb9ec8233fd10ef7f0/Berneh_n.tar) |
 | [Molkedrippen](molkedrippen_a21bc1160082/molkedrippen_a21bc1160082.md) | 2014 | FLAC | 00:47:42 | [IA](https://archive.org/details/molkedrippen_a21bc1160082) [FileDitch](https://fileditchfiles.st/beta33/f4dfb7797be520e7b9b6/Molkedrippen.tar) |

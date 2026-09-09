@@ -1,0 +1,32 @@
+{
+  "id": "wurdskrieme_e9ab59c009c5",
+  "fingerprint": "e9ab59c009c521b48b117d436118ae661ae45a2cd64160acb68944aeef547750",
+  "archived_at": "2026-09-09T22:32:13Z",
+  "metadata": {
+    "title": "Wurdskrieme",
+    "artist": "Piiptsjilling",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2404,
+    "duration_human": "00:40:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piiptsjilling - Unkrûd (Ill Weeds)",
+      "02 Piiptsjilling - Tsjustere Leaten (Sombre Shoots)",
+      "03 Piiptsjilling - Sangerjende Wyn (Lilting Wind)",
+      "04 Piiptsjilling - Utsakke Bui",
+      "05 Piiptsjilling - Wurch Ljocht (Tired Light)",
+      "06 Piiptsjilling - Ferware (Worn Down)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wurdskrieme_e9ab59c009c5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta33/0495dc46553ab802fd78/Wurdskrieme.tar"
+    }
+  }
+}
