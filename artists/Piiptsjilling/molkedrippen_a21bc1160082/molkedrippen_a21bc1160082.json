@@ -1,0 +1,33 @@
+{
+  "id": "molkedrippen_a21bc1160082",
+  "fingerprint": "a21bc1160082062fdc6cbe85e5cb362eea7babdeb62cebb9a9fe58510605d1c4",
+  "archived_at": "2026-09-09T22:22:31Z",
+  "metadata": {
+    "title": "Molkedrippen",
+    "artist": "Piiptsjilling",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2862,
+    "duration_human": "00:47:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piiptsjilling - Drôvige tûken",
+      "02 Piiptsjilling - Wintersied",
+      "03 Piiptsjilling - Hongerlûd",
+      "04 Piiptsjilling - Dyn laits gau omsletten",
+      "05 Piiptsjilling - Ferlieding sil moarn in fernske wêze",
+      "06 Piiptsjilling - Mûle fol snie",
+      "07 Piiptsjilling - Sketsboek fan de weakens"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/molkedrippen_a21bc1160082"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta33/f4dfb7797be520e7b9b6/Molkedrippen.tar"
+    }
+  }
+}
