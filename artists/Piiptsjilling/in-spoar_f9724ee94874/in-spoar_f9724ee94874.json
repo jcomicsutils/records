@@ -1,0 +1,33 @@
+{
+  "id": "in-spoar_f9724ee94874",
+  "fingerprint": "f9724ee94874c81ccdfd8f697ac4aa07f53e275ea7537adc82089a2ca6e520cc",
+  "archived_at": "2026-09-09T22:00:04Z",
+  "metadata": {
+    "title": "In Spoar",
+    "artist": "Piiptsjilling",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2880,
+    "duration_human": "00:48:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Piiptsjilling - It swalkjen",
+      "02 Piiptsjilling - Blaustirnzen",
+      "03 Piiptsjilling - In Spoar",
+      "04 Piiptsjilling - Moarntiidsreagen",
+      "05 Piiptsjilling - Wynstile dagen",
+      "06 Piiptsjilling - Tagelyk deagean",
+      "07 Piiptsjilling - As droech reid"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/in-spoar_f9724ee94874"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta33/46873c61af83f7ea8e1b/In_Spoar.tar"
+    }
+  }
+}
