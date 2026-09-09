@@ -1,0 +1,27 @@
+{
+  "id": "kjeld_547141592f15",
+  "fingerprint": "547141592f15043075930ae0280de1eecdb797af83fff5def00ffb861e04004a",
+  "archived_at": "2026-09-09T22:10:55Z",
+  "metadata": {
+    "title": "Kjeld",
+    "artist": "Piiptsjilling",
+    "year": "2017",
+    "codec": "AAC",
+    "num_tracks": 1,
+    "duration_seconds": 1200,
+    "duration_human": "00:20:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Piiptsjilling - Kjeld"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kjeld_547141592f15"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta33/4fb0dc031a32ce7f87d6/Kjeld.tar"
+    }
+  }
+}
