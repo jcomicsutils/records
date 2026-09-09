@@ -1,0 +1,27 @@
+{
+  "id": "piiptsjilling_379cd3106737",
+  "fingerprint": "379cd310673736f7344711ea2dd2f55022c7aaf0fc93ba685d808b0e5f94828c",
+  "archived_at": "2026-09-09T22:26:31Z",
+  "metadata": {
+    "title": "Piiptsjilling",
+    "artist": "Piiptsjilling",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1913,
+    "duration_human": "00:31:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Machinefabriek & Jan Kleefstra - Piiptsjilling"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/piiptsjilling_379cd3106737"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta33/10f5708e7f8bc06747f3/Piiptsjilling.tar"
+    }
+  }
+}
