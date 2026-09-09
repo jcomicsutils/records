@@ -1,0 +1,36 @@
+{
+  "id": "the-alvaret-ensemble_30a1bab91ff8",
+  "fingerprint": "30a1bab91ff8e50fdb71153506032d05e098a585bb40f54fbf3e204365286526",
+  "archived_at": "2026-09-09T05:33:40Z",
+  "metadata": {
+    "title": "The Alvaret Ensemble",
+    "artist": "The Alvaret Ensemble",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 5095,
+    "duration_human": "01:24:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Alvaret Ensemble - Byd",
+      "02 The Alvaret Ensemble - Eac",
+      "03 The Alvaret Ensemble - Dde",
+      "04 The Alvaret Ensemble - Ulc",
+      "05 The Alvaret Ensemble - Ond",
+      "06 The Alvaret Ensemble - Ysj",
+      "07 The Alvaret Ensemble - Teq",
+      "08 The Alvaret Ensemble - Muo",
+      "09 The Alvaret Ensemble - Wju",
+      "10 The Alvaret Ensemble - Ggi"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-alvaret-ensemble_30a1bab91ff8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta33/e4e3e0463ac40fbc0848/The_Alvaret_Ensemble.tar"
+    }
+  }
+}
