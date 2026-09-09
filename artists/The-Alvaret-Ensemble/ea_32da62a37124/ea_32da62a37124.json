@@ -1,0 +1,35 @@
+{
+  "id": "ea_32da62a37124",
+  "fingerprint": "32da62a37124f89d8c66e16e8a17e995d7b6d8c47a1115a5b5ec9cc9eef85ec6",
+  "archived_at": "2026-09-09T05:19:09Z",
+  "metadata": {
+    "title": "Ea",
+    "artist": "The Alvaret Ensemble",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3368,
+    "duration_human": "00:56:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Alvaret Ensemble - In Meagere Nekke",
+      "02 The Alvaret Ensemble - Blau Gers",
+      "03 The Alvaret Ensemble - Ast",
+      "04 The Alvaret Ensemble - ea",
+      "05 The Alvaret Ensemble - Wylst",
+      "06 The Alvaret Ensemble - Harkje",
+      "07 The Alvaret Ensemble - Modder",
+      "08 The Alvaret Ensemble - Wiete Wylgen",
+      "09 The Alvaret Ensemble - In Leave Rein"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ea_32da62a37124"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta33/a4d2bc46092646624f46/Ea.tar"
+    }
+  }
+}
