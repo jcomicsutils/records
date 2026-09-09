@@ -1,0 +1,40 @@
+{
+  "id": "seeljocht_1788992896",
+  "fingerprint": "396c595070f2057f3aa3300b01ff2181c1c019be07a3fcbb49f5802897051cec",
+  "archived_at": "2026-09-09T22:28:16Z",
+  "metadata": {
+    "title": "Seeljocht",
+    "artist": "Piiptsjilling",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2897,
+    "duration_human": "00:48:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Greg Haines with Mariska Baars and Sytze Pruiksma - You Know How",
+      "02 Piiptsjilling - Skobbetreden",
+      "03 Heather Woods Broderick and Nils Frahm - Westeynde"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/seeljocht_1778543121"
+    },
+    "catbox": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://files.catbox.moe/n4rs31.tar"
+        },
+        {
+          "url": "https://files.catbox.moe/3u4gsn.tar"
+        }
+      ]
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.me/file.php?f=/beta1/055f480c3e5fd807514d/Seeljocht.tar"
+    }
+  }
+}
