@@ -1,0 +1,36 @@
+{
+  "id": "ornitofagia_af02e98a3d30",
+  "fingerprint": "af02e98a3d301d6ca480c371b1dab16a9e663b02aff0af129f5701c78022fe18",
+  "archived_at": "2026-09-09T21:51:44Z",
+  "metadata": {
+    "title": "Ornitofagia",
+    "artist": "DJ Urutau",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 1674,
+    "duration_human": "00:27:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 DJ Urutau - MC Uirapuru",
+      "02 DJ Urutau - Conversión",
+      "03 DJ Urutau - Baile das Calopsitas",
+      "04 DJ Urutau - Pólen",
+      "05 DJ Urutau - Planeta Aves",
+      "06 DJ Urutau - Olhos Mágicos",
+      "07 DJ Urutau - Sabiá-feiticeira",
+      "08 DJ Urutau - Garganta (Oferenda para Tetê)",
+      "09 DJ Urutau - Elixir Encantador de Urutau",
+      "10 DJ Urutau - Engoli um Bem-te-vi (Na Onda do El Niño)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ornitofagia_af02e98a3d30"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta33/61314915d1bf1950ac58/Ornitofagia.tar"
+    }
+  }
+}
