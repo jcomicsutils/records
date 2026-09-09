@@ -1,0 +1,33 @@
+{
+  "id": "fiif_37d48c41507d",
+  "fingerprint": "37d48c41507d383ded8197ddf95f5192cc73e4de45f87df66427f2312791c135",
+  "archived_at": "2026-09-09T06:08:38Z",
+  "metadata": {
+    "title": "Fiif",
+    "artist": "Piiptsjilling",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2883,
+    "duration_human": "00:48:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Piiptsjilling - Each yn each mei de see",
+      "02 Piiptsjilling - Winterrude",
+      "03 Piiptsjilling - Fiskersbloed",
+      "04 Piiptsjilling - Delstrutsen",
+      "05 Piiptsjilling - Smjunt",
+      "06 Piiptsjilling - Lykmoedigens",
+      "07 Piiptsjilling - Storein"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fiif_37d48c41507d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta33/123f96b0775b4dfb78b4/Fiif.tar"
+    }
+  }
+}
