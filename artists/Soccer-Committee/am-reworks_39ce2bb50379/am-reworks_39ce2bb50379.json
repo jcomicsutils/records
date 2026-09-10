@@ -1,0 +1,33 @@
+{
+  "id": "am-reworks_39ce2bb50379",
+  "fingerprint": "39ce2bb50379f04b2eb4f487dd2809c8c49e046dfdc0a4bf1f2e9e1d02c42d18",
+  "archived_at": "2026-09-10T23:16:29Z",
+  "metadata": {
+    "title": "AM Reworks",
+    "artist": "Soccer Committee",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1148,
+    "duration_human": "00:19:08",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Soccer Committee - Life So Right",
+      "02 Soccer Committee - Kaleidoscope",
+      "03 Soccer Committee - Moi et mon coeur",
+      "04 Soccer Committee - Blessed",
+      "05 Soccer Committee - No Turn to Harm",
+      "06 Soccer Committee - Unrequited Love",
+      "07 Soccer Committee - So Gefällt"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/am-reworks_39ce2bb50379"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta34/84844a19894832573aaa/AM_Reworks.tar"
+    }
+  }
+}

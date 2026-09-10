@@ -11,3 +11,4 @@
 | [Soccer Committee](soccer-committee_03bed15e94bd/soccer-committee_03bed15e94bd.md) | 2022 | MP3 | 00:35:34 | [IA](https://archive.org/details/soccer-committee_03bed15e94bd) [FileDitch](https://fileditchfiles.st/beta32/d6062c6eb6a7ddb11603/Soccer_Committee.tar) |
 | [♥ / Lamb](hearts-lamb_d38f05d6c8da/hearts-lamb_d38f05d6c8da.md) | 2023 | FLAC | 00:22:52 | [IA](https://archive.org/details/hearts-lamb_d38f05d6c8da) [FileDitch](https://fileditchfiles.st/beta32/cad1a577c3e19fd2f57a/-_Lamb.tar) |
 | [Eye](eye_ce55bcfc10ff/eye_ce55bcfc10ff.md) | 2025 | FLAC | 00:23:37 | [IA](https://archive.org/details/eye_ce55bcfc10ff) [FileDitch](https://fileditchfiles.st/beta32/2f55036a75f5992a1740/Eye.tar) |
+| [AM Reworks](am-reworks_39ce2bb50379/am-reworks_39ce2bb50379.md) | 2026 | FLAC | 00:19:08 | [IA](https://archive.org/details/am-reworks_39ce2bb50379) [FileDitch](https://fileditchfiles.st/beta34/84844a19894832573aaa/AM_Reworks.tar) |
