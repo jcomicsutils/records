@@ -25,6 +25,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.st/delta0/a8d188e9c015f5d12324/guas.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/aguas_5d8178d58a55"
     }
   }
 }
