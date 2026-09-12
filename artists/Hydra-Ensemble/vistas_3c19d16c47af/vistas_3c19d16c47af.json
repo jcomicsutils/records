@@ -1,0 +1,28 @@
+{
+  "id": "vistas_3c19d16c47af",
+  "fingerprint": "3c19d16c47af8b2259c0a284ef2f4b86fc02c7cfafbea1dd2f692fe3657f0a20",
+  "archived_at": "2026-09-12T10:15:53Z",
+  "metadata": {
+    "title": "Vistas",
+    "artist": "Hydra Ensemble",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2973,
+    "duration_human": "00:49:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Hydra Ensemble - Vista I",
+      "02 Hydra Ensemble - Vista II",
+      "03 Hydra Ensemble - Vista III",
+      "04 Hydra Ensemble - Vista IV",
+      "05 Hydra Ensemble - Vista V"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/76bf66fbf33bc1559ff6/Vistas.tar"
+    }
+  }
+}

@@ -30,6 +30,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.st/delta0/ec27480d0c0c8d6eef0a/Associated_Sine_Tone_Services.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/associated-sine-tone-services_cc9bfd2c77d8"
     }
   }
 }

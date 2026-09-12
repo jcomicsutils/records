@@ -1,5 +1,7 @@
 # Associated Sine Tone Services — Associated Sine Tone Services (2024)
 
+![Cover](https://archive.org/download/associated-sine-tone-services_cc9bfd2c77d8/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.st/delta0/ec27480d0c0c8d6eef0a/Associated_Sine_Tone_Services.tar)
+- [Archive.org](https://archive.org/details/associated-sine-tone-services_cc9bfd2c77d8)
 
 ## Tracklist
 
