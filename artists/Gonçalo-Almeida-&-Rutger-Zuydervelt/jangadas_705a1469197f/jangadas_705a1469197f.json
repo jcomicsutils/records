@@ -1,0 +1,27 @@
+{
+  "id": "jangadas_705a1469197f",
+  "fingerprint": "705a1469197fa9ecff6b8e6dba0f7f5aeb00bd7897ead31b2c0bc5284cb2611e",
+  "archived_at": "2026-09-12T09:43:39Z",
+  "metadata": {
+    "title": "Jangadas",
+    "artist": "Gonçalo Almeida & Rutger Zuydervelt",
+    "year": "2016",
+    "codec": "AAC",
+    "num_tracks": 1,
+    "duration_seconds": 1200,
+    "duration_human": "00:20:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Gonçalo Almeida & Rutger Zuydervelt - Jangadas"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/jangadas_705a1469197f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/66f3b61fdabd79bc729e/Jangadas.tar"
+    }
+  }
+}
