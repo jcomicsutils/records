@@ -1,0 +1,27 @@
+{
+  "id": "001-404_b5f888604b14",
+  "fingerprint": "b5f888604b1426feae9d24ba47e6326b8d2b1d8a13d3df8800e1f0007c3dbc5b",
+  "archived_at": "2026-09-12T08:05:50Z",
+  "metadata": {
+    "title": "#001: 404",
+    "artist": "Body 13",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2404,
+    "duration_human": "00:40:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 404"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/001-404_b5f888604b14"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/56b7f629f9c76d86b545/001_404.tar"
+    }
+  }
+}
