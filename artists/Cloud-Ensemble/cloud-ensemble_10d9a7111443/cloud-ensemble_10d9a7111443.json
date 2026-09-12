@@ -1,0 +1,29 @@
+{
+  "id": "cloud-ensemble_10d9a7111443",
+  "fingerprint": "10d9a7111443638b945362336c74455b33f034c0f330b18d5280133a5f871573",
+  "archived_at": "2026-09-12T09:14:30Z",
+  "metadata": {
+    "title": "Cloud Ensemble",
+    "artist": "Cloud Ensemble",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1192,
+    "duration_human": "00:19:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Cloud Ensemble - Here and There",
+      "02 Cloud Ensemble - Hide and Seek",
+      "03 Cloud Ensemble - Silent World"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cloud-ensemble_10d9a7111443"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/983d7873f9a736cd61e9/Cloud_Ensemble.tar"
+    }
+  }
+}

@@ -66,6 +66,7 @@
 - [Chino Amobi](Chino-Amobi/Chino-Amobi.md)
 - [Chuquimamani-Condori](Chuquimamani-Condori/Chuquimamani-Condori.md)
 - [Clinical trails](Clinical-trails/Clinical-trails.md)
+- [Cloud Ensemble](Cloud-Ensemble/Cloud-Ensemble.md)
 - [Club Rialto](Club-Rialto/Club-Rialto.md)
 - [Coffret de Bijoux](Coffret-de-Bijoux/Coffret-de-Bijoux.md)
 - [Concepción Huerta](Concepción-Huerta/Concepción-Huerta.md)
