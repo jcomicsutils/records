@@ -35,6 +35,7 @@
 - [Armand Hammer](Armand-Hammer/Armand-Hammer.md)
 - [Armchair Migraine Journey](Armchair-Migraine-Journey/Armchair-Migraine-Journey.md)
 - [Arthur Russell](Arthur-Russell/Arthur-Russell.md)
+- [Associated Sine Tone Services](Associated-Sine-Tone-Services/Associated-Sine-Tone-Services.md)
 - [Austere](Austere/Austere.md)
 - [BLARF](BLARF/BLARF.md)
 - [BLUE NOISE](BLUE-NOISE/BLUE-NOISE.md)
