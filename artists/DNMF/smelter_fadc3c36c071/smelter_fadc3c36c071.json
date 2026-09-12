@@ -1,0 +1,24 @@
+{
+  "id": "smelter_fadc3c36c071",
+  "fingerprint": "fadc3c36c071649df02be0010eeb573a8919fc6b3b5f263a1451e13916170a51",
+  "archived_at": "2026-09-12T10:08:09Z",
+  "metadata": {
+    "title": "Smelter",
+    "artist": "DNMF",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2340,
+    "duration_human": "00:39:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 DNMF - Smelter"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/9da098ac549c06a81fdb/Smelter.tar"
+    }
+  }
+}
