@@ -20,6 +20,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.st/delta0/5ebe92d3dab85c6e47c4/DNMF.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/dnmf_318dab46207a"
     }
   }
 }
