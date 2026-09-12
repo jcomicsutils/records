@@ -19,6 +19,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.st/delta0/9da098ac549c06a81fdb/Smelter.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/smelter_fadc3c36c071"
     }
   }
 }
