@@ -1,0 +1,38 @@
+{
+  "id": "doze-ruinas_3519a0b44654",
+  "fingerprint": "3519a0b44654fe40d99459c07487f7bc51a4f80f1e8b2b3556014cacdbf8fde7",
+  "archived_at": "2026-09-12T09:33:43Z",
+  "metadata": {
+    "title": "Doze Ruínas",
+    "artist": "Gonçalo Almeida & Rutger Zuydervelt",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 1074,
+    "duration_human": "00:17:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Gonçalo Almeida & Rutger Zuydervelt - Ruína 1",
+      "02 Gonçalo Almeida & Rutger Zuydervelt - Ruína 2",
+      "03 Gonçalo Almeida & Rutger Zuydervelt - Ruína 3",
+      "04 Gonçalo Almeida & Rutger Zuydervelt - Ruína 4",
+      "05 Gonçalo Almeida & Rutger Zuydervelt - Ruína 5",
+      "06 Gonçalo Almeida & Rutger Zuydervelt - Ruína 6",
+      "07 Gonçalo Almeida & Rutger Zuydervelt - Ruína 7",
+      "08 Gonçalo Almeida & Rutger Zuydervelt - Ruína 8",
+      "09 Gonçalo Almeida & Rutger Zuydervelt - Ruína 9",
+      "10 Gonçalo Almeida & Rutger Zuydervelt - Ruína 10",
+      "11 Gonçalo Almeida & Rutger Zuydervelt - Ruína 11",
+      "12 Gonçalo Almeida & Rutger Zuydervelt - Ruína 12"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/doze-ruinas_3519a0b44654"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/495c9accf68fba59dbf1/Doze_Rui_nas.tar"
+    }
+  }
+}
