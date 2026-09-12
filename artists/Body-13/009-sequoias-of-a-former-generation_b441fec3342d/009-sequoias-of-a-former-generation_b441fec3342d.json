@@ -1,0 +1,27 @@
+{
+  "id": "009-sequoias-of-a-former-generation_b441fec3342d",
+  "fingerprint": "b441fec3342daef4e6240f7a05eb94d8ed2f7b364a5abaa2917ceab87ef9caaa",
+  "archived_at": "2026-09-12T23:57:00Z",
+  "metadata": {
+    "title": "#009: Sequoias of a Former Generation",
+    "artist": "Body 13",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 150,
+    "duration_human": "00:02:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Sequoias of a Former Generation"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/009-sequoias-of-a-former-generation_b441fec3342d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/835fdb6fe60257710677/009_Sequoias_of_a_Former_Generation.tar"
+    }
+  }
+}
