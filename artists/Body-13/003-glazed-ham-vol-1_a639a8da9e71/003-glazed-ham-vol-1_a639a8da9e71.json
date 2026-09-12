@@ -1,0 +1,33 @@
+{
+  "id": "003-glazed-ham-vol-1_a639a8da9e71",
+  "fingerprint": "a639a8da9e71fb0af2ac2fedacf3e26e2e0fec58db8db76718064f2fef536b96",
+  "archived_at": "2026-09-12T08:12:00Z",
+  "metadata": {
+    "title": "#003: Glazed Ham, Vol. 1",
+    "artist": "Body 13",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1395,
+    "duration_human": "00:23:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Glazed Ham, Pt. 1",
+      "02 Body 13 - Glazed Ham, Pt. 2",
+      "03 Body 13 - Glazed Ham, Pt. 3",
+      "04 Body 13 - Glazed Ham, Pt. 4",
+      "05 Body 13 - Glazed Ham, Pt. 5",
+      "06 Body 13 - Glazed Ham, Pt. 6",
+      "07 Body 13 - Glazed Ham, Pt. 7"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/003-glazed-ham-vol-1_a639a8da9e71"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/de1c4c64367696db9ccd/003_Glazed_Ham_Vol._1.tar"
+    }
+  }
+}
