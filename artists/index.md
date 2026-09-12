@@ -75,6 +75,7 @@
 - [Current 93](Current-93/Current-93.md)
 - [DATAMAFIA](DATAMAFIA/DATAMAFIA.md)
 - [DJ Urutau](DJ-Urutau/DJ-Urutau.md)
+- [DNMF](DNMF/DNMF.md)
 - [De Mannen Broeders](De-Mannen-Broeders/De-Mannen-Broeders.md)
 - [Deafheaven](Deafheaven/Deafheaven.md)
 - [Death Ambient](Death-Ambient/Death-Ambient.md)

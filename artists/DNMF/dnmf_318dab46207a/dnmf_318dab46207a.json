@@ -1,0 +1,25 @@
+{
+  "id": "dnmf_318dab46207a",
+  "fingerprint": "318dab46207abbb53f8fa5fa98e9aa440b161ddff1e0e4ef931c6b8eb9cdabd7",
+  "archived_at": "2026-09-12T10:04:04Z",
+  "metadata": {
+    "title": "DNMF",
+    "artist": "DNMF",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2211,
+    "duration_human": "00:36:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 DNMF - The Thing on the Doorstep",
+      "02 DNMF - The Colour Out of Space"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/5ebe92d3dab85c6e47c4/DNMF.tar"
+    }
+  }
+}
