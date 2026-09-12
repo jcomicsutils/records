@@ -21,6 +21,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.st/delta0/3650474be4d975123e62/008_The_Endeavour_to_Garrotte.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/008-the-endeavour-to-garrotte_9291cc3e241e"
     }
   }
 }

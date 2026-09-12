@@ -1,5 +1,7 @@
 # Body 13 — #008: The Endeavour to Garrotte (2012)
 
+![Cover](https://archive.org/download/008-the-endeavour-to-garrotte_9291cc3e241e/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.st/delta0/3650474be4d975123e62/008_The_Endeavour_to_Garrotte.tar)
+- [Archive.org](https://archive.org/details/008-the-endeavour-to-garrotte_9291cc3e241e)
 
 ## Tracklist
 
