@@ -1,0 +1,26 @@
+{
+  "id": "008-the-endeavour-to-garrotte_9291cc3e241e",
+  "fingerprint": "9291cc3e241e3a8d304c80b674ab17fe2cecaf74d1641be2769c48ac474dcac5",
+  "archived_at": "2026-09-12T09:46:12Z",
+  "metadata": {
+    "title": "#008: The Endeavour to Garrotte",
+    "artist": "Body 13",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 28609,
+    "duration_human": "07:56:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - The Endeavour to Garrotte (Part 1)",
+      "02 Body 13 - The Endeavour to Garrotte (Part 2)",
+      "03 Body 13 - The Endeavour to Garrotte (Part 3)"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/3650474be4d975123e62/008_The_Endeavour_to_Garrotte.tar"
+    }
+  }
+}

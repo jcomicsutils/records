@@ -122,6 +122,7 @@
 - [House of Low Culture](House-of-Low-Culture/House-of-Low-Culture.md)
 - [Human Tetris](Human-Tetris/Human-Tetris.md)
 - [Huntsville](Huntsville/Huntsville.md)
+- [Hydra Ensemble](Hydra-Ensemble/Hydra-Ensemble.md)
 - [If-Then-Else](If-Then-Else/If-Then-Else.md)
 - [Jack O' the Clock](Jack-O'-the-Clock/Jack-O'-the-Clock.md)
 - [Jack Rose](Jack-Rose/Jack-Rose.md)

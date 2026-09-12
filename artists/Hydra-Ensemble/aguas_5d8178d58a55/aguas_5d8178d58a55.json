@@ -1,0 +1,30 @@
+{
+  "id": "aguas_5d8178d58a55",
+  "fingerprint": "5d8178d58a5535c60b89620f3de80bfc3318b6dc974235b7dcb8a5aa3c4715c2",
+  "archived_at": "2026-09-12T09:46:49Z",
+  "metadata": {
+    "title": "Águas",
+    "artist": "Hydra Ensemble",
+    "year": "2023",
+    "codec": "MP3",
+    "num_tracks": 7,
+    "duration_seconds": 2777,
+    "duration_human": "00:46:17",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Hydra Ensemble - I",
+      "02 Hydra Ensemble - II",
+      "03 Hydra Ensemble - III",
+      "04 Hydra Ensemble - IV",
+      "05 Hydra Ensemble - V",
+      "06 Hydra Ensemble - VI",
+      "07 Hydra Ensemble - VII"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/a8d188e9c015f5d12324/guas.tar"
+    }
+  }
+}
