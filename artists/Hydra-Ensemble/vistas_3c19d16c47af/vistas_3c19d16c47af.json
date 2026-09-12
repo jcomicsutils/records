@@ -23,6 +23,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.st/delta0/76bf66fbf33bc1559ff6/Vistas.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/vistas_3c19d16c47af"
     }
   }
 }

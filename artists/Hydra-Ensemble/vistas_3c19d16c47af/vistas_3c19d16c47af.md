@@ -1,5 +1,7 @@
 # Hydra Ensemble — Vistas (2022)
 
+![Cover](https://archive.org/download/vistas_3c19d16c47af/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [FileDitch](https://fileditchfiles.st/delta0/76bf66fbf33bc1559ff6/Vistas.tar)
+- [Archive.org](https://archive.org/details/vistas_3c19d16c47af)
 
 ## Tracklist
 
