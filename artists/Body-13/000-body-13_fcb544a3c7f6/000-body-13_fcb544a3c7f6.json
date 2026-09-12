@@ -1,0 +1,27 @@
+{
+  "id": "000-body-13_fcb544a3c7f6",
+  "fingerprint": "fcb544a3c7f68fccd981d8c9e77ce402d0870308e3e6daa70ed5ba8e7d764d2a",
+  "archived_at": "2026-09-12T08:04:33Z",
+  "metadata": {
+    "title": "#000: Body 13",
+    "artist": "Body 13",
+    "year": "1942",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 60,
+    "duration_human": "00:01:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - -"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/000-body-13_fcb544a3c7f6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/143ce65992879468a63d/000_Body_13.tar"
+    }
+  }
+}
