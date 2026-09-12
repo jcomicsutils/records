@@ -1,0 +1,27 @@
+{
+  "id": "005-zarathustra-or-song-for-zarathus_d50b6a6760fa",
+  "fingerprint": "d50b6a6760fa1f8fec74d22b3e10dbc6895849b936a622c996ecbb122784eb74",
+  "archived_at": "2026-09-12T08:42:39Z",
+  "metadata": {
+    "title": "#005: Zaraϑuštra (Or; Song for Zarathus)",
+    "artist": "Body 13",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1219,
+    "duration_human": "00:20:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Zaraϑuštra (Or; Song for Zarathus)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/005-zarathustra-or-song-for-zarathus_d50b6a6760fa"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/57d61f8d3e316a462d3d/005_Zara_u_tra_Or_Song_for_Zarathus.tar"
+    }
+  }
+}
