@@ -1,0 +1,32 @@
+{
+  "id": "shivers_76fe031f505f",
+  "fingerprint": "76fe031f505f7bb0b113216a696d64172883201fa395fb807d9e945cd27ddc9b",
+  "archived_at": "2026-09-12T17:16:23Z",
+  "metadata": {
+    "title": "Shivers",
+    "artist": "Shivers",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2154,
+    "duration_human": "00:35:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Shivers - Ash",
+      "02 Shivers - Otomo",
+      "03 Shivers - Rabid",
+      "04 Shivers - Brood",
+      "05 Shivers - Spacek",
+      "06 Shivers - Replicant"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/shivers_76fe031f505f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/8393c4f0ed64fc4a2898/Shivers.tar"
+    }
+  }
+}
