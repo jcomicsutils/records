@@ -1,0 +1,27 @@
+{
+  "id": "004-a-quaint-night_a05ccccbfab0",
+  "fingerprint": "a05ccccbfab0a2bbae6a170db59343b296cc5976272c239bab342e89e21e0efe",
+  "archived_at": "2026-09-12T08:29:31Z",
+  "metadata": {
+    "title": "#004: A Quaint Night",
+    "artist": "Body 13",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 811,
+    "duration_human": "00:13:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - A Quaint Night"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/004-a-quaint-night_a05ccccbfab0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/1bbd547ee970f7c20b28/004_A_Quaint_Night.tar"
+    }
+  }
+}
