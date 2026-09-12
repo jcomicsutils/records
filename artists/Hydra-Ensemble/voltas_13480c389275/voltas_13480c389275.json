@@ -1,0 +1,32 @@
+{
+  "id": "voltas_13480c389275",
+  "fingerprint": "13480c389275b25274bc23f5b7d9691392d04b7d8c8a0d9286b4087ee2b637fb",
+  "archived_at": "2026-09-12T17:04:49Z",
+  "metadata": {
+    "title": "Voltas",
+    "artist": "Hydra Ensemble",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2708,
+    "duration_human": "00:45:08",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Hydra Ensemble - I",
+      "02 Hydra Ensemble - II",
+      "03 Hydra Ensemble - III",
+      "04 Hydra Ensemble - IV",
+      "05 Hydra Ensemble - V",
+      "06 Hydra Ensemble - VI"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/voltas_13480c389275"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/bc1199827e13613b0490/Voltas.tar"
+    }
+  }
+}
