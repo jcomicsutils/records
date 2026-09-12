@@ -1,0 +1,35 @@
+{
+  "id": "trillavelt_80534f089f55",
+  "fingerprint": "80534f089f550f878db659854a87c7336399257debd466cd1b3c473d0c633582",
+  "archived_at": "2026-09-12T17:21:36Z",
+  "metadata": {
+    "title": "TrillaVelt",
+    "artist": "TrillaVelt",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 842,
+    "duration_human": "00:14:02",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 TrillaVelt - Música Pop",
+      "02 TrillaVelt - Silbar I",
+      "03 TrillaVelt - Travesura",
+      "04 TrillaVelt - Un Poco Raro",
+      "05 TrillaVelt - Golpeando",
+      "06 TrillaVelt - Infierno",
+      "07 TrillaVelt - Carrusel",
+      "08 TrillaVelt - Silbar II",
+      "09 TrillaVelt - Giro Dramático"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/trillavelt_80534f089f55"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/725055c1b8c1004b28d6/TrillaVelt.tar"
+    }
+  }
+}
