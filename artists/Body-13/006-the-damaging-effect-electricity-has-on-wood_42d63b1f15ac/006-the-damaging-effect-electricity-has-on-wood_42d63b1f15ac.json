@@ -1,0 +1,27 @@
+{
+  "id": "006-the-damaging-effect-electricity-has-on-wood_42d63b1f15ac",
+  "fingerprint": "42d63b1f15ac99be3af469d1ec57aca9a0b535526ff5525a81cc50ce5b513d7d",
+  "archived_at": "2026-09-12T08:45:00Z",
+  "metadata": {
+    "title": "#006: The Damaging Effect Electricity Has on Wood",
+    "artist": "Body 13",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4780,
+    "duration_human": "01:19:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - The Damaging Effect Electricity Has on Wood"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/006-the-damaging-effect-electricity-has-on-wood_42d63b1f15ac"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/a0c92ab3f3a3c44dfa14/006_The_Damaging_Effect_Electricity_Has_on_Wood.tar"
+    }
+  }
+}
