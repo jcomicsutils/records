@@ -1,0 +1,27 @@
+{
+  "id": "eventual_077f4067d8fc",
+  "fingerprint": "077f4067d8fcc18bb0ff5de9891dea5a4d8066d1a5396923f338f19e725c899c",
+  "archived_at": "2026-09-12T09:39:14Z",
+  "metadata": {
+    "title": "Eventual",
+    "artist": "Gonçalo Almeida & Rutger Zuydervelt",
+    "year": "2024",
+    "codec": "AAC",
+    "num_tracks": 1,
+    "duration_seconds": 1929,
+    "duration_human": "00:32:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Gonçalo Almeida & Rutger Zuydervelt - Eventual"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/eventual_077f4067d8fc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/9e20821bb62d377313c6/Eventual.tar"
+    }
+  }
+}
