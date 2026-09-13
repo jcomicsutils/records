@@ -1,0 +1,27 @@
+{
+  "id": "023-now-to-the-main-the-burning-sun-descends_6a8b8fe572d8",
+  "fingerprint": "6a8b8fe572d87c4e8484d35c3aaf1a97a683934181ee30e7dec72a57bad10061",
+  "archived_at": "2026-09-13T02:36:48Z",
+  "metadata": {
+    "title": "#023: Now to the Main the Burning Sun Descends",
+    "artist": "Body 13",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 5310,
+    "duration_human": "01:28:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Now to the Main the Burning Sun Descends"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/023-now-to-the-main-the-burning-sun-descends_6a8b8fe572d8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/51ea874094fd1590a5d2/023_Now_to_the_Main_the_Burning_Sun_Descends.tar"
+    }
+  }
+}
