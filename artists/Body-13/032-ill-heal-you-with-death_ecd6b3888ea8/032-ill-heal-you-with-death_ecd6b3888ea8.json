@@ -1,0 +1,27 @@
+{
+  "id": "032-ill-heal-you-with-death_ecd6b3888ea8",
+  "fingerprint": "ecd6b3888ea8734f4f4ccf3db50d24910265baccc22e75507593b0eaa2bd25e9",
+  "archived_at": "2026-09-13T07:16:49Z",
+  "metadata": {
+    "title": "#032: I'll Heal You With Death",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 910,
+    "duration_human": "00:15:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - I'll Heal You With Death"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/032-ill-heal-you-with-death_ecd6b3888ea8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/39a2fdef4a2d676752e2/032_I_ll_Heal_You_With_Death.tar"
+    }
+  }
+}
