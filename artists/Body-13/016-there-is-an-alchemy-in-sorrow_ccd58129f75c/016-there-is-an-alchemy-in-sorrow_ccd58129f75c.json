@@ -1,0 +1,27 @@
+{
+  "id": "016-there-is-an-alchemy-in-sorrow_ccd58129f75c",
+  "fingerprint": "ccd58129f75c7f375d884d19f580ac32486e3745d690d61a1c9e5e9a659ba9fc",
+  "archived_at": "2026-09-13T01:32:25Z",
+  "metadata": {
+    "title": "#016: There is an Alchemy in Sorrow",
+    "artist": "Body 13",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2784,
+    "duration_human": "00:46:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - There is an Alchemy in Sorrow"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/016-there-is-an-alchemy-in-sorrow_ccd58129f75c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/2a71db691d5878387575/016_There_is_an_Alchemy_in_Sorrow.tar"
+    }
+  }
+}
