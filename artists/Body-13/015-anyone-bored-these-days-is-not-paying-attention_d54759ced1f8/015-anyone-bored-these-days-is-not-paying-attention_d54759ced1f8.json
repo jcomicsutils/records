@@ -1,0 +1,27 @@
+{
+  "id": "015-anyone-bored-these-days-is-not-paying-attention_d54759ced1f8",
+  "fingerprint": "d54759ced1f8ca7852da57a2e9e5268af1e5bab6b4c201a1351a0dbbc8262a7f",
+  "archived_at": "2026-09-13T01:29:22Z",
+  "metadata": {
+    "title": "#015: Anyone Bored These Days Is Not Paying Attention",
+    "artist": "Body 13",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1018,
+    "duration_human": "00:16:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Anyone Bored These Days is Not Paying Attention"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/015-anyone-bored-these-days-is-not-paying-attention_d54759ced1f8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/7f00eeda0982f07f686c/015_Anyone_Bored_These_Days_Is_Not_Paying_Attention.tar"
+    }
+  }
+}
