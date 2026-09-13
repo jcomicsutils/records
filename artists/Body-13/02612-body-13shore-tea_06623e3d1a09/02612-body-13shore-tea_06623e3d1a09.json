@@ -1,0 +1,28 @@
+{
+  "id": "02612-body-13shore-tea_06623e3d1a09",
+  "fingerprint": "06623e3d1a095e24e60bfc561222cd481660f1210bba5b282811b1512876e93f",
+  "archived_at": "2026-09-13T06:24:19Z",
+  "metadata": {
+    "title": "#026.12: Body 13/Shore Tea",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1649,
+    "duration_human": "00:27:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Blood Spatters Will Paint Your Walls Red (Shore Tea Remix)",
+      "02 Shore Tea - Jasmine (Body 13 Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/02612-body-13shore-tea_06623e3d1a09"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/f818889dc00b67454f5e/026.12_Body_13_-_Shore_Tea.tar"
+    }
+  }
+}
