@@ -1,0 +1,28 @@
+{
+  "id": "02609-body-13bedawang_2bf0a491514b",
+  "fingerprint": "2bf0a491514b745586684eb1e2cc25e39fad20d057db5bad51c033192692c8a9",
+  "archived_at": "2026-09-13T05:50:24Z",
+  "metadata": {
+    "title": "#026.09: Body 13/Bedawang",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2006,
+    "duration_human": "00:33:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Veins Will Be Ripped Through Your Bare Skin (Bedawang Remix)",
+      "02 Bedawang - Mercy... She Said (Body 13 Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/02609-body-13bedawang_2bf0a491514b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/49de05555a545e29a2fc/026.09_Body_13_-_Bedawang.tar"
+    }
+  }
+}
