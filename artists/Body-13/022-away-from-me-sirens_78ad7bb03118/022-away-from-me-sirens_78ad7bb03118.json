@@ -1,0 +1,24 @@
+{
+  "id": "022-away-from-me-sirens_78ad7bb03118",
+  "fingerprint": "78ad7bb031180a5fb2f301eb3e7f94d3f07c5ebee30dcfac8519ed3fbdfc63bd",
+  "archived_at": "2026-09-13T02:28:58Z",
+  "metadata": {
+    "title": "#022: Away From Me, Sirens!",
+    "artist": "Body 13",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 9383,
+    "duration_human": "02:36:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Away From Me, Sirens!"
+    ]
+  },
+  "hosts": {
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/9bb02939c1d6d20f3eef/022_Away_From_Me_Sirens.tar"
+    }
+  }
+}
