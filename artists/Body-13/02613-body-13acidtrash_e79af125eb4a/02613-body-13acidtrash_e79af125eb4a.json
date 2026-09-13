@@ -1,0 +1,28 @@
+{
+  "id": "02613-body-13acidtrash_e79af125eb4a",
+  "fingerprint": "e79af125eb4a58b0582960c8baac94e36f8096b29ef6ecf2485b818c50519710",
+  "archived_at": "2026-09-13T06:28:01Z",
+  "metadata": {
+    "title": "#026.13: Body 13/AcidTrasH",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2256,
+    "duration_human": "00:37:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Try Breathing Through Crushed Lungs (AcidTrasH Remix)",
+      "02 AcidTrasH - iAmShlum (Body 13 Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/02613-body-13acidtrash_e79af125eb4a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/ae2e43537724277cbd81/026.13_Body_13_-_AcidTrasH.tar"
+    }
+  }
+}
