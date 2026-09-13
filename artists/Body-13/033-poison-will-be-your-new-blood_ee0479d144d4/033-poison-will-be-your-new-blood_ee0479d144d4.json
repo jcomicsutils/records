@@ -1,0 +1,27 @@
+{
+  "id": "033-poison-will-be-your-new-blood_ee0479d144d4",
+  "fingerprint": "ee0479d144d4b2f0525ccb524bd95ecc927163827e0734921925790047e75887",
+  "archived_at": "2026-09-13T07:22:31Z",
+  "metadata": {
+    "title": "#033: Poison Will Be Your New Blood",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 836,
+    "duration_human": "00:13:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Poison Will Be Your New Blood"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/033-poison-will-be-your-new-blood_ee0479d144d4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/db460981b7739c3d7232/033_Poison_Will_Be_Your_New_Blood.tar"
+    }
+  }
+}
