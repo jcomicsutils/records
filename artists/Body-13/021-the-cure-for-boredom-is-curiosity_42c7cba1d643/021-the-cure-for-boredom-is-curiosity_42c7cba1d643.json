@@ -1,0 +1,27 @@
+{
+  "id": "021-the-cure-for-boredom-is-curiosity_42c7cba1d643",
+  "fingerprint": "42c7cba1d64379ffb6baba1292a559308aee926c35ae93302ee57eb80e1dbcb2",
+  "archived_at": "2026-09-13T02:11:53Z",
+  "metadata": {
+    "title": "#021: The Cure for Boredom is Curiosity",
+    "artist": "Body 13",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3922,
+    "duration_human": "01:05:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - The Cure for Boredom is Curiosity"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/021-the-cure-for-boredom-is-curiosity_42c7cba1d643"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/2d94023fed6d7b4516e0/021_The_Cure_for_Boredom_is_Curiosity.tar"
+    }
+  }
+}
