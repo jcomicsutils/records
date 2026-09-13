@@ -1,0 +1,27 @@
+{
+  "id": "030-ill-make-my-blade-the-last-thing-you-ever-see_af5666f46e75",
+  "fingerprint": "af5666f46e75498a5ccb386201a7353f4cd48c84af83d753b1a2d9fa7d6ff078",
+  "archived_at": "2026-09-13T06:59:34Z",
+  "metadata": {
+    "title": "#030: I'll Make My Blade the Last Thing You Ever See",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 542,
+    "duration_human": "00:09:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - I'll Make My Blade the Last Thing You Ever See"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/030-ill-make-my-blade-the-last-thing-you-ever-see_af5666f46e75"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/5b89985c3991dee3dc13/030_I_ll_Make_My_Blade_the_Last_Thing_You_Ever_See.tar"
+    }
+  }
+}
