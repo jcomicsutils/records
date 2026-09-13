@@ -1,0 +1,28 @@
+{
+  "id": "02603-body-13phantasm-nocturnes_8c6c0d246aaf",
+  "fingerprint": "8c6c0d246aaf2ed0f9ae56d1b946f8c8d48ec2ae5d6bef348d0a65a1546891c2",
+  "archived_at": "2026-09-13T04:52:41Z",
+  "metadata": {
+    "title": "#026.03: Body 13/Phantasm Nocturnes",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2522,
+    "duration_human": "00:42:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - I'll Set Fire to Your Home and Watch You Crawl Out, Ablaze (Phantasm Nocturnes Remix)",
+      "02 Phantasm Nocturnes - FrankenNoise (Body 13 Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/02603-body-13phantasm-nocturnes_8c6c0d246aaf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/e2826f5afb74744a5e3e/026.03_Body_13_-_Phantasm_Nocturnes.tar"
+    }
+  }
+}
