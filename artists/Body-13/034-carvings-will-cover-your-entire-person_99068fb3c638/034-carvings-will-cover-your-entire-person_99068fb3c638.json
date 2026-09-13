@@ -1,0 +1,27 @@
+{
+  "id": "034-carvings-will-cover-your-entire-person_99068fb3c638",
+  "fingerprint": "99068fb3c63845218bb6d24fbd090f646fc9a86ed558bb136e11fc5bedc891de",
+  "archived_at": "2026-09-13T07:24:40Z",
+  "metadata": {
+    "title": "#034: Carvings Will Cover Your Entire Person",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 901,
+    "duration_human": "00:15:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Carvings Will Cover Your Entire Person"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/034-carvings-will-cover-your-entire-person_99068fb3c638"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/9eff4a66092f5a0535a9/034_Carvings_Will_Cover_Your_Entire_Person.tar"
+    }
+  }
+}
