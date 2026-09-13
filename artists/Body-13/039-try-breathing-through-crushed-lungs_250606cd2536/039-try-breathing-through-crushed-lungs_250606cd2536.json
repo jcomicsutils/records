@@ -1,0 +1,27 @@
+{
+  "id": "039-try-breathing-through-crushed-lungs_250606cd2536",
+  "fingerprint": "250606cd2536daa69c86a3cdb4846ec9dc1ef4be120716f030e3e4f7dcfe7d95",
+  "archived_at": "2026-09-13T07:56:18Z",
+  "metadata": {
+    "title": "#039: Try Breathing Through Crushed Lungs",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 766,
+    "duration_human": "00:12:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Try Breathing Through Crushed Lungs"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/039-try-breathing-through-crushed-lungs_250606cd2536"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/94cca052b1caceefcb8a/039_Try_Breathing_Through_Crushed_Lungs.tar"
+    }
+  }
+}
