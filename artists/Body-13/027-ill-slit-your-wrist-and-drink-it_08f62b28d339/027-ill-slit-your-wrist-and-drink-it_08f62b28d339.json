@@ -1,0 +1,27 @@
+{
+  "id": "027-ill-slit-your-wrist-and-drink-it_08f62b28d339",
+  "fingerprint": "08f62b28d339973b724be4464e458ba9a5413958ba2db9a7d17dcaeb4cf9bd76",
+  "archived_at": "2026-09-13T06:34:31Z",
+  "metadata": {
+    "title": "#027: I'll Slit Your Wrist and Drink It",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1058,
+    "duration_human": "00:17:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - I'll Slit Your Wrist and Drink It"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/027-ill-slit-your-wrist-and-drink-it_08f62b28d339"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/1dc317c53e5d841b4e1f/027_I_ll_Slit_Your_Wrist_and_Drink_It.tar"
+    }
+  }
+}
