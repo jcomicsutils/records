@@ -1,0 +1,28 @@
+{
+  "id": "02611-body-13qwzczcciizxc_8615081f3261",
+  "fingerprint": "8615081f32612c7d093c49a3afcaf739fad276c5f190e3c1bba50d1952696a1b",
+  "archived_at": "2026-09-13T06:13:47Z",
+  "metadata": {
+    "title": "#026.11: Body 13/qwzczcciizxc",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2252,
+    "duration_human": "00:37:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Viscera Will Be All That's Left (qwzczcciizxc Remix)",
+      "02 qwzczcciizxc - iieqrtyu (Body 13 Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/02611-body-13qwzczcciizxc_8615081f3261"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/7bdd34e6ff121d65282c/026.11_Body_13_-_qwzczcciizxc.tar"
+    }
+  }
+}
