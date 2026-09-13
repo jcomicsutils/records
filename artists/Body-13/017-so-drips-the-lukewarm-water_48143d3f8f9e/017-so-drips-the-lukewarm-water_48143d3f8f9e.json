@@ -1,0 +1,27 @@
+{
+  "id": "017-so-drips-the-lukewarm-water_48143d3f8f9e",
+  "fingerprint": "48143d3f8f9e121e4e5db02acb2e7d387de4dbaca26b0a3104c4b7b44ed4954b",
+  "archived_at": "2026-09-13T01:43:23Z",
+  "metadata": {
+    "title": "#017: So Drips the Lukewarm Water",
+    "artist": "Body 13",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1835,
+    "duration_human": "00:30:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - So Drips the Lukewarm Water"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/017-so-drips-the-lukewarm-water_48143d3f8f9e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/91f6dd7df63b5d6f7115/017_So_Drips_the_Lukewarm_Water.tar"
+    }
+  }
+}
