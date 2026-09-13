@@ -1,0 +1,28 @@
+{
+  "id": "02607-body-13metek_7ab88ce8dbad",
+  "fingerprint": "7ab88ce8dbaddf61fec548bcefbeecbc880e995a50b335239e1b98d23e382e97",
+  "archived_at": "2026-09-13T05:37:21Z",
+  "metadata": {
+    "title": "#026.07: Body 13/Metek",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1758,
+    "duration_human": "00:29:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Poison Will Be Your New Blood (Metek Remix)",
+      "02 Metek - Friendly Fire Part 1 (Body 13 Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/02607-body-13metek_7ab88ce8dbad"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/193f006098f0382d55c6/026.07_Body_13_-_Metek.tar"
+    }
+  }
+}
