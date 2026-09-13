@@ -1,0 +1,27 @@
+{
+  "id": "036-nothing-will-stop-my-rampage_81be6348dd32",
+  "fingerprint": "81be6348dd3239a548d23889d76f76976d497cc333d4ddd76eb9460d0ec0e08f",
+  "archived_at": "2026-09-13T07:33:04Z",
+  "metadata": {
+    "title": "#036: Nothing Will Stop My Rampage",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 970,
+    "duration_human": "00:16:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Nothing Will Stop My Rampage"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/036-nothing-will-stop-my-rampage_81be6348dd32"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/69e5df72616278fa9ee1/036_Nothing_Will_Stop_My_Rampage.tar"
+    }
+  }
+}
