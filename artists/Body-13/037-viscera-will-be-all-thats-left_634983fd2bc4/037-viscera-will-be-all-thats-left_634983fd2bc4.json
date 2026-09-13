@@ -1,0 +1,27 @@
+{
+  "id": "037-viscera-will-be-all-thats-left_634983fd2bc4",
+  "fingerprint": "634983fd2bc4c329293ac38e38015acaf295f443571ff7467439c56a332133c3",
+  "archived_at": "2026-09-13T07:37:24Z",
+  "metadata": {
+    "title": "#037: Viscera Will Be All That's Left",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1204,
+    "duration_human": "00:20:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Viscera Will Be All That's Left"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/037-viscera-will-be-all-thats-left_634983fd2bc4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/f60d382a60e0c63b65c4/037_Viscera_Will_Be_All_That_s_Left.tar"
+    }
+  }
+}
