@@ -1,0 +1,28 @@
+{
+  "id": "02604-body-13kostoglotov_b26b50d206b0",
+  "fingerprint": "b26b50d206b0ecba8f2f12c41b9c528282f709e63943f4e1965db446e0df2d6f",
+  "archived_at": "2026-09-13T05:08:46Z",
+  "metadata": {
+    "title": "#026.04: Body 13/Kostoglotov",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2644,
+    "duration_human": "00:44:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - I'll Make My Blade the Last Thing You Ever See (Kostoglotov Remix)",
+      "02 Kostoglotov - Dicko Toki Will Live Forever (Body 13 Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/02604-body-13kostoglotov_b26b50d206b0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/a20df9de8c0babc51233/026.04_Body_13_-_Kostoglotov.tar"
+    }
+  }
+}
