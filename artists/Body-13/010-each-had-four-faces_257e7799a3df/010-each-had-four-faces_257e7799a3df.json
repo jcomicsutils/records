@@ -1,0 +1,30 @@
+{
+  "id": "010-each-had-four-faces_257e7799a3df",
+  "fingerprint": "257e7799a3dfbcc0dd38bc9146f73bb323f343534f7bf8764ab3014e1ae81ff0",
+  "archived_at": "2026-09-13T00:18:13Z",
+  "metadata": {
+    "title": "#010: Each Had Four Faces",
+    "artist": "Body 13",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4228,
+    "duration_human": "01:10:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Each Had Four Faces (First Face)",
+      "02 Body 13 - Each Had Four Faces (Second Face)",
+      "03 Body 13 - Each Had Four Faces (Third Face)",
+      "04 Body 13 - Each Had Four Faces (Fourth Face)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/010-each-had-four-faces_257e7799a3df"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/707467b0f50433fc3ed2/010_Each_Had_Four_Faces.tar"
+    }
+  }
+}
