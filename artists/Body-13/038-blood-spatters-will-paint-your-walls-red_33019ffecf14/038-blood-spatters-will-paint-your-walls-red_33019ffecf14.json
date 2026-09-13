@@ -1,0 +1,27 @@
+{
+  "id": "038-blood-spatters-will-paint-your-walls-red_33019ffecf14",
+  "fingerprint": "33019ffecf147dfcd8ae48c34184c6879c122f78c3cf6c781dd7499857097e32",
+  "archived_at": "2026-09-13T07:54:06Z",
+  "metadata": {
+    "title": "#038: Blood Spatters Will Paint Your Walls Red",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1403,
+    "duration_human": "00:23:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Blood Spatters Will Paint Your Walls Red"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/038-blood-spatters-will-paint-your-walls-red_33019ffecf14"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/d30186fd70a0c2fe75b0/038_Blood_Spatters_Will_Paint_Your_Walls_Red.tar"
+    }
+  }
+}
