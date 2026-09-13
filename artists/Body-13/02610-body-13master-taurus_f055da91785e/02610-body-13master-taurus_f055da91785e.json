@@ -1,0 +1,28 @@
+{
+  "id": "02610-body-13master-taurus_f055da91785e",
+  "fingerprint": "f055da91785e71ac8386103b9d706a6fcb4c661c9131dcdfae45785a4f0842e8",
+  "archived_at": "2026-09-13T05:57:15Z",
+  "metadata": {
+    "title": "#026.10: Body 13/Master Taurus",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2502,
+    "duration_human": "00:41:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Nothing Will Stop My Rampage (Master Taurus Remix)",
+      "02 Master Taurus - Flying Blind 200 Years Later (Body 13 Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/02610-body-13master-taurus_f055da91785e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/a6a883f9da23b0d8ef70/026.10_Body_13_-_Master_Taurus.tar"
+    }
+  }
+}
