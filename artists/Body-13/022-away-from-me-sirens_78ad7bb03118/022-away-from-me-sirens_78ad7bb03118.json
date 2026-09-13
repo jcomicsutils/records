@@ -19,6 +19,9 @@
   "hosts": {
     "fileditch": {
       "url": "https://fileditchfiles.st/delta0/9bb02939c1d6d20f3eef/022_Away_From_Me_Sirens.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/022-away-from-me-sirens_78ad7bb03118"
     }
   }
 }
