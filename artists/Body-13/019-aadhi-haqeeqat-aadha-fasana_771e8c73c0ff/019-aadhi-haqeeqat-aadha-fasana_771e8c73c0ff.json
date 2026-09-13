@@ -1,0 +1,31 @@
+{
+  "id": "019-aadhi-haqeeqat-aadha-fasana_771e8c73c0ff",
+  "fingerprint": "771e8c73c0ffb6fe4f6657eb954f62470b53d6ccf93288252b26ea6c7e1ffab5",
+  "archived_at": "2026-09-13T01:50:22Z",
+  "metadata": {
+    "title": "#019: Aadhi Haqeeqat, Aadha Fasana",
+    "artist": "Body 13",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 824,
+    "duration_human": "00:13:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Briefings in Bioinformatics",
+      "02 Body 13 - Ballarat Associated Schools",
+      "03 Body 13 - Sally Mulready",
+      "04 Body 13 - 5266 Rauch",
+      "05 Body 13 - Institut Geologii Arktiki Rocks"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/019-aadhi-haqeeqat-aadha-fasana_771e8c73c0ff"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/30ee2521748447ae618a/019_Aadhi_Haqeeqat_Aadha_Fasana.tar"
+    }
+  }
+}
