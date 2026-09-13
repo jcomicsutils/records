@@ -1,0 +1,28 @@
+{
+  "id": "02608-body-13abre-ojos_131fd0f2533a",
+  "fingerprint": "131fd0f2533a28f912d6140b86b3fd44e04a6dcd2f72c2a4948cde14e25b96fe",
+  "archived_at": "2026-09-13T05:47:52Z",
+  "metadata": {
+    "title": "#026.08: Body 13/Abre Ojos",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1550,
+    "duration_human": "00:25:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Carvings Will Cover Your Entire Person (Abre Ojos Remix)",
+      "02 Abre Ojos - Synodic Period (Body 13 Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/02608-body-13abre-ojos_131fd0f2533a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta0/4fed5e787b774db6efe9/026.08_Body_13_-_Abre_Ojos.tar"
+    }
+  }
+}
