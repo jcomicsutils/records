@@ -1,0 +1,27 @@
+{
+  "id": "123-has-the-swallow-come-the-harbringer-of-spring_7ab02230cdf0",
+  "fingerprint": "7ab02230cdf016b123787b7dbe299c5a73916e80c83d0d378d567e2808adf525",
+  "archived_at": "2026-09-14T22:21:45Z",
+  "metadata": {
+    "title": "#123: Has the Swallow Come, the Harbringer of Spring?",
+    "artist": "Body 13",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3470,
+    "duration_human": "00:57:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Has the Swallow Come, the Harbringer of Spring?"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/123-has-the-swallow-come-the-harbringer-of-spring_7ab02230cdf0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha29/a1d59b9e6b8dadaeba08/123_Has_the_Swallow_Come_the_Harbringer_of_Spring.tar"
+    }
+  }
+}
