@@ -1,0 +1,27 @@
+{
+  "id": "110-be-a-lightning-rod-than-a-seismograph_8e2d67c22359",
+  "fingerprint": "8e2d67c22359fd01d8b2f2b45974683bb95994f3d43de0dc828f8de3bc8af197",
+  "archived_at": "2026-09-14T20:33:18Z",
+  "metadata": {
+    "title": "#110: Be a Lightning Rod Than a Seismograph",
+    "artist": "Body 13",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1018,
+    "duration_human": "00:16:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Be a Lightning Rod Than a Seismograph"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/110-be-a-lightning-rod-than-a-seismograph_8e2d67c22359"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha29/04b85cf65a84b392f472/110_Be_a_Lightning_Rod_Than_a_Seismograph.tar"
+    }
+  }
+}
