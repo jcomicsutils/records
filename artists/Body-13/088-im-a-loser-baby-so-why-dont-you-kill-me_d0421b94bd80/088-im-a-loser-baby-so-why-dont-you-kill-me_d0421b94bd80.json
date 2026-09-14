@@ -1,0 +1,30 @@
+{
+  "id": "088-im-a-loser-baby-so-why-dont-you-kill-me_d0421b94bd80",
+  "fingerprint": "d0421b94bd803315465de69fee9638d3fa1a0fe62e3c3f9e2d3a130430269f49",
+  "archived_at": "2026-09-14T12:49:39Z",
+  "metadata": {
+    "title": "#088: I'm a Loser Baby (So Why Don't You Kill Me?)",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1812,
+    "duration_human": "00:30:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Placenta Rising/More Than One Seamstress",
+      "02 Body 13 - 98 Groove (Body 13 Remix)",
+      "03 Body 13 - 4001 (Body 13 Remix)",
+      "04 Body 13 - On the Wing (Body 13 Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/088-im-a-loser-baby-so-why-dont-you-kill-me_d0421b94bd80"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/4c6e234e06fcb6538881/088_I_m_a_Loser_Baby_So_Why_Don_t_You_Kill_Me.tar"
+    }
+  }
+}
