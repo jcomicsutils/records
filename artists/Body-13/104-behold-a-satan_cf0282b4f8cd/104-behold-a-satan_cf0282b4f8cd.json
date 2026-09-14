@@ -1,0 +1,27 @@
+{
+  "id": "104-behold-a-satan_cf0282b4f8cd",
+  "fingerprint": "cf0282b4f8cdc173a16ee5f6842faf4830148c491c7a61c7ad4b39f307626666",
+  "archived_at": "2026-09-14T19:51:06Z",
+  "metadata": {
+    "title": "#104: Behold, a Satan!",
+    "artist": "Body 13",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1291,
+    "duration_human": "00:21:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Behold, a Satan!"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/104-behold-a-satan_cf0282b4f8cd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha29/30b65099d3956d770bbd/104_Behold_a_Satan.tar"
+    }
+  }
+}
