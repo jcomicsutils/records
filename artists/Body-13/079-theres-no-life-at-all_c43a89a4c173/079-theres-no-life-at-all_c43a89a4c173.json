@@ -1,0 +1,27 @@
+{
+  "id": "079-theres-no-life-at-all_c43a89a4c173",
+  "fingerprint": "c43a89a4c1739a4d64efb4b2076705dc81bf7cc9bac5ebfdec2c0f38c3ec85e5",
+  "archived_at": "2026-09-14T11:36:36Z",
+  "metadata": {
+    "title": "#079: There's No Life at All",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3257,
+    "duration_human": "00:54:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - There's No Life at All"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/079-theres-no-life-at-all_c43a89a4c173"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/282b874971d06ea23974/079_There_s_No_Life_at_All.tar"
+    }
+  }
+}
