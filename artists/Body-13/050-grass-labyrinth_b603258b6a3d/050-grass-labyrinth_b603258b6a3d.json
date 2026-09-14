@@ -1,0 +1,27 @@
+{
+  "id": "050-grass-labyrinth_b603258b6a3d",
+  "fingerprint": "b603258b6a3dd4b81718f1c114bec305cf7187174e538bfa5098f089c07b2313",
+  "archived_at": "2026-09-14T07:01:37Z",
+  "metadata": {
+    "title": "#050: Grass Labyrinth",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2720,
+    "duration_human": "00:45:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Grass Labyrinth"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/050-grass-labyrinth_b603258b6a3d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/910d7e062eace145cdd1/050_Grass_Labyrinth.tar"
+    }
+  }
+}
