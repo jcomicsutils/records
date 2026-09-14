@@ -1,0 +1,27 @@
+{
+  "id": "120-when-youre-dead-you-might-still-go-on-hurting_cfcc068e809c",
+  "fingerprint": "cfcc068e809cd5f8ed750b8f8295b1a5d828e95540dbc49c6521dfa05d445d49",
+  "archived_at": "2026-09-14T21:49:56Z",
+  "metadata": {
+    "title": "#120: When You're Dead You Might Still Go on Hurting",
+    "artist": "Body 13",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1406,
+    "duration_human": "00:23:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - When You're Dead You Might Still Go on Hurting"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/120-when-youre-dead-you-might-still-go-on-hurting_cfcc068e809c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha29/155c2b6815b3773b703c/120_When_You_re_Dead_You_Might_Still_Go_on_Hurting.tar"
+    }
+  }
+}
