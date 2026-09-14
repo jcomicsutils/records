@@ -1,0 +1,27 @@
+{
+  "id": "117-sometimes-all-the-freedom-one-ever-has_7d45532c3aee",
+  "fingerprint": "7d45532c3aeec08e942d9d7c24eb3e7ade62bc6326f11711caf3cb2590b26e0d",
+  "archived_at": "2026-09-14T21:35:01Z",
+  "metadata": {
+    "title": "#117: Sometimes All the Freedom One Ever Has",
+    "artist": "Body 13",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1216,
+    "duration_human": "00:20:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Sometimes All the Freedom One Ever Has"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/117-sometimes-all-the-freedom-one-ever-has_7d45532c3aee"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha29/38c82dafa6ec9b1d35be/117_Sometimes_All_the_Freedom_One_Ever_Has.tar"
+    }
+  }
+}
