@@ -1,0 +1,27 @@
+{
+  "id": "111-their-hope-will-become-a-dying-gasp_f24a5df75429",
+  "fingerprint": "f24a5df75429d5134eacd559e512310a8a7dee9c3f716efaefa2c950a9514754",
+  "archived_at": "2026-09-14T20:36:47Z",
+  "metadata": {
+    "title": "#111: Their Hope Will Become a Dying Gasp",
+    "artist": "Body 13",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1920,
+    "duration_human": "00:32:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Their Hope Will Become a Dying Gasp"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/111-their-hope-will-become-a-dying-gasp_f24a5df75429"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha29/ab9ed7f9dc82b18f4c17/111_Their_Hope_Will_Become_a_Dying_Gasp.tar"
+    }
+  }
+}
