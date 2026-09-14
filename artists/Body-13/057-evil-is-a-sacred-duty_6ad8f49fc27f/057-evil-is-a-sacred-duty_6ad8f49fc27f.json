@@ -1,0 +1,30 @@
+{
+  "id": "057-evil-is-a-sacred-duty_6ad8f49fc27f",
+  "fingerprint": "6ad8f49fc27f704e396850ab21e36e217f372c28e123a8e4aab7804771bdf054",
+  "archived_at": "2026-09-14T07:53:36Z",
+  "metadata": {
+    "title": "#057: Evil is a Sacred Duty",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1167,
+    "duration_human": "00:19:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Hell is Empty, and All the Devils Are Here",
+      "02 Body 13 - Another Gets the Shade",
+      "03 Body 13 - My Brain and My Heart Are My Temples",
+      "04 Body 13 - Reality is a Crutch"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/057-evil-is-a-sacred-duty_6ad8f49fc27f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/c2932c12eaa03591b8ff/057_Evil_is_a_Sacred_Duty.tar"
+    }
+  }
+}
