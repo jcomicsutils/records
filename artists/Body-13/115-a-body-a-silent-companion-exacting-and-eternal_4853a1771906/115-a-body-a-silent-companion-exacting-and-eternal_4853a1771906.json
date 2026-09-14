@@ -1,0 +1,29 @@
+{
+  "id": "115-a-body-a-silent-companion-exacting-and-eternal_4853a1771906",
+  "fingerprint": "4853a17719062bfee776b4cf4b5dae10106d4d1bf7219fea117ba92402f3ea5b",
+  "archived_at": "2026-09-14T21:08:28Z",
+  "metadata": {
+    "title": "#115: A Body, a Silent Companion, Exacting and Eternal",
+    "artist": "Body 13",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 22754,
+    "duration_human": "06:19:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - A Body, a Silent Companion, Exacting and Eternal (Part 1)",
+      "02 Body 13 - A Body, a Silent Companion, Exacting and Eternal (Part 2)",
+      "03 Body 13 - A Body, a Silent Companion, Exacting and Eternal (Part 3)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/115-a-body-a-silent-companion-exacting-and-eternal_4853a1771906"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha29/7a16b46662ddb06e1ffa/115_A_Body_a_Silent_Companion_Exacting_and_Eternal.tar"
+    }
+  }
+}
