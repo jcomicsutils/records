@@ -1,0 +1,27 @@
+{
+  "id": "056-studies-in-doom-and-gloom_8bf2e5a6f532",
+  "fingerprint": "8bf2e5a6f5325dfdf8da7f1a36fac121a63b3d57a8482903180f3782d3647705",
+  "archived_at": "2026-09-14T07:47:57Z",
+  "metadata": {
+    "title": "#056: Studies in Doom and Gloom",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1179,
+    "duration_human": "00:19:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Studies in Doom and Gloom"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/056-studies-in-doom-and-gloom_8bf2e5a6f532"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/cc357cf3bd95c5e016cd/056_Studies_in_Doom_and_Gloom.tar"
+    }
+  }
+}
