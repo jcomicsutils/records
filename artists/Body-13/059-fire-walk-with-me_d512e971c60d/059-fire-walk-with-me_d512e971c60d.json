@@ -1,0 +1,33 @@
+{
+  "id": "059-fire-walk-with-me_d512e971c60d",
+  "fingerprint": "d512e971c60d0768599f72e858dbf981c07635e62c55e4245cd34dff947365c4",
+  "archived_at": "2026-09-14T08:04:27Z",
+  "metadata": {
+    "title": "#059: Fire Walk With Me",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1501,
+    "duration_human": "00:25:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - One Woman Can Make You Fly Like an Eagle",
+      "02 Body 13 - Things You Can't Get in Books",
+      "03 Body 13 - A Trout's Leap in the Moonlight",
+      "04 Body 13 - I Had a Dog",
+      "05 Body 13 - Sometimes My Arms Bend Back",
+      "06 Body 13 - Fire Walk With Me",
+      "07 Body 13 - Jelly Donuts?"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/059-fire-walk-with-me_d512e971c60d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/15677ea550bfc866d42d/059_Fire_Walk_With_Me.tar"
+    }
+  }
+}
