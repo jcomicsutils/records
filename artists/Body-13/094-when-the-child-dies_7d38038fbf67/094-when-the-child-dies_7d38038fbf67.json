@@ -1,0 +1,27 @@
+{
+  "id": "094-when-the-child-dies_7d38038fbf67",
+  "fingerprint": "7d38038fbf67b2fef21b131122c5ee99dc81f5b0691e9a5805331a400f01addd",
+  "archived_at": "2026-09-14T13:29:07Z",
+  "metadata": {
+    "title": "#094: When the Child Dies",
+    "artist": "Body 13",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 828,
+    "duration_human": "00:13:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - When the Child Dies"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/094-when-the-child-dies_7d38038fbf67"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/60769196374f53feec57/094_When_the_Child_Dies.tar"
+    }
+  }
+}
