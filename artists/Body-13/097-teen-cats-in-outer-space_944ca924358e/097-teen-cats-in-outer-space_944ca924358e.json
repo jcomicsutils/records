@@ -1,0 +1,27 @@
+{
+  "id": "097-teen-cats-in-outer-space_944ca924358e",
+  "fingerprint": "944ca924358ebca801074b940b41968836438d8eda030aeae09683d20422ee26",
+  "archived_at": "2026-09-14T13:52:54Z",
+  "metadata": {
+    "title": "#097: Teen Cats in Outer Space",
+    "artist": "Body 13",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2479,
+    "duration_human": "00:41:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Teen Cats in Outer Space"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/097-teen-cats-in-outer-space_944ca924358e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/ae8305e099345011d88f/097_Teen_Cats_in_Outer_Space.tar"
+    }
+  }
+}
