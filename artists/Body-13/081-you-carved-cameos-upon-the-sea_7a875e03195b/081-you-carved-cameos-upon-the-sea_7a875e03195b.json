@@ -1,0 +1,27 @@
+{
+  "id": "081-you-carved-cameos-upon-the-sea_7a875e03195b",
+  "fingerprint": "7a875e03195b18e26342867a62b58aa54bd9c2181cfdb0fe26d081b7d2ea1876",
+  "archived_at": "2026-09-14T11:51:17Z",
+  "metadata": {
+    "title": "#081: You Carved Cameos Upon the Sea",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3231,
+    "duration_human": "00:53:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - You Carved Cameos Upon the Sea"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/081-you-carved-cameos-upon-the-sea_7a875e03195b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/465ae700db61bea9323d/081_You_Carved_Cameos_Upon_the_Sea.tar"
+    }
+  }
+}
