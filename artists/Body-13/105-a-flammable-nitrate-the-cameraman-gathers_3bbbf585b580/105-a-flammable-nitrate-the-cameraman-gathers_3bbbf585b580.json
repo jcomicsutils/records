@@ -1,0 +1,28 @@
+{
+  "id": "105-a-flammable-nitrate-the-cameraman-gathers_3bbbf585b580",
+  "fingerprint": "3bbbf585b5801124605d3ccabc8791dca649bd8e078d9baa8444fd2b46185f54",
+  "archived_at": "2026-09-14T19:58:50Z",
+  "metadata": {
+    "title": "#105: A Flammable Nitrate the Cameraman Gathers",
+    "artist": "Body 13",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 8630,
+    "duration_human": "02:23:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - A Flammable Nitrate the Cameraman Gathers (Pt. 1)",
+      "02 Body 13 - A Flammable Nitrate the Cameraman Gathers (Pt. 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/105-a-flammable-nitrate-the-cameraman-gathers_3bbbf585b580"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha29/71b7c671c1c9b99eda19/105_A_Flammable_Nitrate_the_Cameraman_Gathers.tar"
+    }
+  }
+}
