@@ -1,0 +1,28 @@
+{
+  "id": "102-introoutro_5d8bb31eca21",
+  "fingerprint": "5d8bb31eca21a9dcd6291c1a7b195688485233da7d478792b1d17392703e3f59",
+  "archived_at": "2026-09-14T19:36:27Z",
+  "metadata": {
+    "title": "#102: Intro/Outro",
+    "artist": "Body 13",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 8341,
+    "duration_human": "02:19:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Intro",
+      "02 Body 13 - Outro"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/102-introoutro_5d8bb31eca21"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha29/b5c29c1b0ca3a7973662/102_Intro_-_Outro.tar"
+    }
+  }
+}
