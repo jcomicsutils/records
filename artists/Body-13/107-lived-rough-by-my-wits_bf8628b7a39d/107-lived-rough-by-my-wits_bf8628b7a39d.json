@@ -1,0 +1,27 @@
+{
+  "id": "107-lived-rough-by-my-wits_bf8628b7a39d",
+  "fingerprint": "bf8628b7a39d7d5292404a09ab946af604204b90dad7b42a94703115e0934841",
+  "archived_at": "2026-09-14T20:19:59Z",
+  "metadata": {
+    "title": "#107: Lived Rough By My Wits",
+    "artist": "Body 13",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2764,
+    "duration_human": "00:46:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Lived Rough By My Wits"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/107-lived-rough-by-my-wits_bf8628b7a39d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha29/740ce9cc765c98771cd8/107_Lived_Rough_By_My_Wits.tar"
+    }
+  }
+}
