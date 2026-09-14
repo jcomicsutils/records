@@ -1,0 +1,27 @@
+{
+  "id": "096-dont-worry-its-just-sardonicism_879972d9e025",
+  "fingerprint": "879972d9e025f30846f9ea648d5fecbb2932f632ed0ffe8a7efca2106748c210",
+  "archived_at": "2026-09-14T13:40:19Z",
+  "metadata": {
+    "title": "#096: Don't Worry, it's Just Sardonicism",
+    "artist": "Body 13",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 558,
+    "duration_human": "00:09:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Don't Worry, it's Just Sardonicism"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/096-dont-worry-its-just-sardonicism_879972d9e025"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/862d8f961b79dfe8b7df/096_Don_t_Worry_it_s_Just_Sardonicism.tar"
+    }
+  }
+}
