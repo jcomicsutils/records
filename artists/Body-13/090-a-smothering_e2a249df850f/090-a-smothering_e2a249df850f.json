@@ -1,0 +1,27 @@
+{
+  "id": "090-a-smothering_e2a249df850f",
+  "fingerprint": "e2a249df850ffb6c13db85bc9283b203fad6ea78078f7f118f5c1c384072224d",
+  "archived_at": "2026-09-14T13:02:42Z",
+  "metadata": {
+    "title": "#090: A Smothering",
+    "artist": "Body 13",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2787,
+    "duration_human": "00:46:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - A Smothering"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/090-a-smothering_e2a249df850f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/3fa0cb1d9d960929adba/090_A_Smothering.tar"
+    }
+  }
+}
