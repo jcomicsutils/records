@@ -1,0 +1,38 @@
+{
+  "id": "089-resurrection-of-the-salamander_9f9b927a7f8d",
+  "fingerprint": "9f9b927a7f8dd78ce873f674cbe5cedb0d76b451621024bb2eec3e653a613ec4",
+  "archived_at": "2026-09-14T12:56:11Z",
+  "metadata": {
+    "title": "#089: Resurrection of the Salamander",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 4745,
+    "duration_human": "01:19:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Death of the Salamander (General January Remix)",
+      "02 Body 13 - Death of the Salamander (General February Remix)",
+      "03 Body 13 - Death of the Salamander (General March Remix)",
+      "04 Body 13 - Death of the Salamander (General April Remix)",
+      "05 Body 13 - Death of the Salamander (General May Remix)",
+      "06 Body 13 - Death of the Salamander (General June Remix)",
+      "07 Body 13 - Death of the Salamander (General July Remix)",
+      "08 Body 13 - Death of the Salamander (General August Remix)",
+      "09 Body 13 - Death of the Salamander (General September Remix)",
+      "10 Body 13 - Death of the Salamander (General October Remix)",
+      "11 Body 13 - Death of the Salamander (General November Remix)",
+      "12 Body 13 - Death of the Salamander (General December Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/089-resurrection-of-the-salamander_9f9b927a7f8d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/abe4545d408d085e3e38/089_Resurrection_of_the_Salamander.tar"
+    }
+  }
+}
