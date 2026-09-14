@@ -1,0 +1,62 @@
+# Body 13 — #101: Sacred Cows (2014)
+
+![Cover](https://archive.org/download/101-sacred-cows_9e628f94add5/__ia_thumb.jpg)
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | 44.1kHz |
+| Bit Depth | 16-bit |
+| Tracks | 38 |
+| Duration | 42:00:00 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/101-sacred-cows_9e628f94add5)
+- FileDitch: [Part 1](https://fileditchfiles.st/alpha29/a3e213d7641dd4d0af74/101_Sacred_Cows.part001.tar) [Part 2](https://fileditchfiles.st/alpha29/9e56d23587f2f46a4f5e/101_Sacred_Cows.part002.tar)
+
+## Tracklist
+
+```
+01 Body 13 - Weed Problem
+02 Body 13 - Its Bones Are Soft
+03 Body 13 - Lions on a Banner
+04 Body 13 - A Foot in Place of a Foot
+05 Body 13 - In All Creatures Are Lust and Hunger
+06 Body 13 - Return of Ghost Sheriff (Werewolves Are Chasing Me)
+07 Body 13 - Inflame Thyself in Praying, Pt. 2
+08 Body 13 - The End of the World Must Be Coming
+09 Body 13 - A Great Fire-Red Dragon With Seven Heads and Ten Horns
+10 Body 13 - The Long Count
+11 Body 13 - I'm Not Here Anymore
+12 Body 13 - The Chosen Priest and Apostle of Infinite Space (Part 1)
+13 Body 13 - The Chosen Priest and Apostle of Infinite Space (Part 2)
+14 Body 13 - The Chosen Priest and Apostle of Infinite Space (Part 3)
+15 Body 13 - The Chosen Priest and Apostle of Infinite Space (Part 4)
+16 Body 13 - The Chosen Priest and Apostle of Infinite Space (Part 5)
+17 Body 13 - The Chosen Priest and Apostle of Infinite Space (Part 6)
+18 Body 13 - The Chosen Priest and Apostle of Infinite Space (Part 7)
+19 Body 13 - The Chosen Priest and Apostle of Infinite Space (Part 8)
+20 Body 13 - The White Ivy
+21 Body 13 - You Feel a Stillness All Around You, Caressing Your Face
+22 Body 13 - Qualia and the Dynamic Core
+23 Body 13 - Fairer Yet Through Sorrow and Separation
+24 Body 13 - Regrets Take the Place of Dreams (Part 1)
+25 Body 13 - Regrets Take the Place of Dreams (Part 2)
+26 Body 13 - Buried in a Deep Pit, in a Doorless House
+27 Body 13 - From the Threshing Floor? From the Winepress?
+28 Body 13 - May God Deal With Me, Be it Ever So Severely
+29 Body 13 - I Watched You Enter Your Home From Inside a Dumpster
+30 Body 13 - The Mongols Were Pagan, Neither Moslem Nor Christian
+31 Body 13 - Szeretlek, Te Mocskos Kis Kurva!
+32 Body 13 - Pitiless Light Over the Stony Landscape
+33 Body 13 - lcm(2,3,5,7)
+34 Body 13 - lcm(2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,53,59,61,67,71)
+35 Body 13 - Internet Handle for a Thirteen Year Old Girl
+36 Body 13 - Whispering to Myself Delicious, Terrible Things
+37 Body 13 - CALCULOR
+38 Body 13 - Two-Legged Tigers and Crocodiles
+```
+
+---
+*Archived: 2026-09-14*
