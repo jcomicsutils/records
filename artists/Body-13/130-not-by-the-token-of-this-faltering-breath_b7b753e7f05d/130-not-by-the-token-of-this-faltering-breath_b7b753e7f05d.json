@@ -1,0 +1,27 @@
+{
+  "id": "130-not-by-the-token-of-this-faltering-breath_b7b753e7f05d",
+  "fingerprint": "b7b753e7f05d754d8cd976ac608cbe3afcf83c04bd01ebfeb240230bf21b92e3",
+  "archived_at": "2026-09-14T23:20:25Z",
+  "metadata": {
+    "title": "#130: Not By the Token of This Faltering Breath",
+    "artist": "Body 13",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 160,
+    "duration_human": "00:02:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Not By the Token of This Faltering Breath"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/130-not-by-the-token-of-this-faltering-breath_b7b753e7f05d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha29/d9b2078a89482837cc52/130_Not_By_the_Token_of_This_Faltering_Breath.tar"
+    }
+  }
+}
