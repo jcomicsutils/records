@@ -1,0 +1,27 @@
+{
+  "id": "128-remember-that-all-men-are-strange_6928545993b2",
+  "fingerprint": "6928545993b2f1379ca70747003013b362389b12f0ab6df14e5d7b6bdf1264c4",
+  "archived_at": "2026-09-14T23:12:21Z",
+  "metadata": {
+    "title": "#128: Remember That All Men Are Strange",
+    "artist": "Body 13",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1878,
+    "duration_human": "00:31:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Remember That All Men Are Strange"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/128-remember-that-all-men-are-strange_6928545993b2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha29/462cd23f8f2b4ff17f05/128_Remember_That_All_Men_Are_Strange.tar"
+    }
+  }
+}
