@@ -1,0 +1,27 @@
+{
+  "id": "052-there-will-never-be-a-requiem-for-a-dream_3194410db914",
+  "fingerprint": "3194410db914d793d4dd382e089a03c84782639975019ebc7ff8e9478f12c4bc",
+  "archived_at": "2026-09-14T07:29:10Z",
+  "metadata": {
+    "title": "#052: There Will Never Be a Requiem for a Dream",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 736,
+    "duration_human": "00:12:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - There Will Never Be a Requiem for a Dream"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/052-there-will-never-be-a-requiem-for-a-dream_3194410db914"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/c30af4f274b47d8bb3f6/052_There_Will_Never_Be_a_Requiem_for_a_Dream.tar"
+    }
+  }
+}
