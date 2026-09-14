@@ -1,0 +1,27 @@
+{
+  "id": "074-he-who-eats-pears_e73fb97325bf",
+  "fingerprint": "e73fb97325bf9b3cd8e61468628dc6578f5ab7dde3ab7fddd182a18fdb21f2d0",
+  "archived_at": "2026-09-14T10:43:04Z",
+  "metadata": {
+    "title": "#074: He Who Eats Pears",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1210,
+    "duration_human": "00:20:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - He Who Eats Pears"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/074-he-who-eats-pears_e73fb97325bf"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/1410e459d11c7c109c40/074_He_Who_Eats_Pears.tar"
+    }
+  }
+}
