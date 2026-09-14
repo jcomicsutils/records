@@ -1,0 +1,27 @@
+{
+  "id": "108-dirt-pavements-and-poverty_6d3739c7ad5c",
+  "fingerprint": "6d3739c7ad5c1a098d73329fd1d743f55da48818a59c634a38ebd4e68a7c6cc0",
+  "archived_at": "2026-09-14T20:22:40Z",
+  "metadata": {
+    "title": "#108: Dirt Pavements and Poverty",
+    "artist": "Body 13",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1240,
+    "duration_human": "00:20:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Dirt Pavements and Poverty"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/108-dirt-pavements-and-poverty_6d3739c7ad5c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha29/0db11877afdf3f843d23/108_Dirt_Pavements_and_Poverty.tar"
+    }
+  }
+}
