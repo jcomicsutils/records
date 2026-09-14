@@ -1,0 +1,27 @@
+{
+  "id": "051-sing-to-the-one-who-rides-across-the-ancient-heavens_eb5b56923a1c",
+  "fingerprint": "eb5b56923a1c6a74e449cc794fb6e756e3c054b58b531c62d138c7e87d6cbccf",
+  "archived_at": "2026-09-14T07:24:45Z",
+  "metadata": {
+    "title": "#051: Sing to the One Who Rides Across the Ancient Heavens",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 5378,
+    "duration_human": "01:29:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Sing to the One Who Rides Across the Ancient Heavens"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/051-sing-to-the-one-who-rides-across-the-ancient-heavens_eb5b56923a1c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/83eb811ce1c4ba8e1280/051_Sing_to_the_One_Who_Rides_Across_the_Ancient_Heavens.tar"
+    }
+  }
+}
