@@ -1,0 +1,27 @@
+{
+  "id": "076-arresting-the-human-intelligence_d71427fb6fda",
+  "fingerprint": "d71427fb6fda0dedff33b5dea9ee1eb6a86f00d58d1ef21c746bf85249ca033a",
+  "archived_at": "2026-09-14T10:57:11Z",
+  "metadata": {
+    "title": "#076: Arresting the Human Intelligence",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2154,
+    "duration_human": "00:35:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Arresting the Human Intelligence"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/076-arresting-the-human-intelligence_d71427fb6fda"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/d1ec1b501728bef510cb/076_Arresting_the_Human_Intelligence.tar"
+    }
+  }
+}
