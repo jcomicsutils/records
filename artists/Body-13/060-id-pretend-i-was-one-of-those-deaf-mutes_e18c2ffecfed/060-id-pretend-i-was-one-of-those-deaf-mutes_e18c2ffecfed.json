@@ -1,0 +1,27 @@
+{
+  "id": "060-id-pretend-i-was-one-of-those-deaf-mutes_e18c2ffecfed",
+  "fingerprint": "e18c2ffecfed87bdec272463f6010f6a63d3a7db827cbb8bee45685dc149912d",
+  "archived_at": "2026-09-14T08:07:52Z",
+  "metadata": {
+    "title": "#060: I'd Pretend I Was One of Those Deaf-Mutes",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3829,
+    "duration_human": "01:03:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - I'd Pretend I Was One of Those Deaf-Mutes"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/060-id-pretend-i-was-one-of-those-deaf-mutes_e18c2ffecfed"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/09b8174fcd5abb87120a/060_I_d_Pretend_I_Was_One_of_Those_Deaf-Mutes.tar"
+    }
+  }
+}
