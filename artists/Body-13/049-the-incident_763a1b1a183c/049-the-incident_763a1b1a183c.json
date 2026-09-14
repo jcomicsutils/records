@@ -1,0 +1,27 @@
+{
+  "id": "049-the-incident_763a1b1a183c",
+  "fingerprint": "763a1b1a183c5ad68cac0d7f1076017066267239d20ba73c1be9b09ca6c0ef5f",
+  "archived_at": "2026-09-14T06:57:02Z",
+  "metadata": {
+    "title": "#049: The Incident",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3946,
+    "duration_human": "01:05:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - The Incident"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/049-the-incident_763a1b1a183c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/5e4a81852dcc5bc3733e/049_The_Incident.tar"
+    }
+  }
+}
