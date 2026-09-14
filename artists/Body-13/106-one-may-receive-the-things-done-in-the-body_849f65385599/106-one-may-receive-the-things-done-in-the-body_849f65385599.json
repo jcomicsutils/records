@@ -1,0 +1,27 @@
+{
+  "id": "106-one-may-receive-the-things-done-in-the-body_849f65385599",
+  "fingerprint": "849f65385599486d168a067cc396ef5e8108efe017e3d39566521f28046daa19",
+  "archived_at": "2026-09-14T20:11:14Z",
+  "metadata": {
+    "title": "#106: One May Receive the Things Done in the Body",
+    "artist": "Body 13",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 5534,
+    "duration_human": "01:32:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - One May Receive the Things Done in the Body"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/106-one-may-receive-the-things-done-in-the-body_849f65385599"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha29/0ee8e1479249ca1be57d/106_One_May_Receive_the_Things_Done_in_the_Body.tar"
+    }
+  }
+}
