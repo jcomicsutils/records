@@ -1,0 +1,29 @@
+{
+  "id": "116-salt-in-the-bible_71fbf55e244f",
+  "fingerprint": "71fbf55e244fd0f27b1e77b2f8f4a6f6fccba84980ec44b81c81d2f1d52995e3",
+  "archived_at": "2026-09-14T21:25:36Z",
+  "metadata": {
+    "title": "#116: Salt in the Bible",
+    "artist": "Body 13",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1934,
+    "duration_human": "00:32:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Salt in the Bible (Part 1)",
+      "02 Body 13 - Salt in the Bible (Part 2)",
+      "03 Body 13 - Salt in the Bible (Part 3)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/116-salt-in-the-bible_71fbf55e244f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha29/a5a1d68f55bea497be32/116_Salt_in_the_Bible.tar"
+    }
+  }
+}
