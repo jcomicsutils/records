@@ -1,0 +1,27 @@
+{
+  "id": "109-lend-me-a-pale-whisper_a8af93a4494f",
+  "fingerprint": "a8af93a4494f0e307e99441308ad13e9dc5f2c6dc56f8e032ea66af77641c4b2",
+  "archived_at": "2026-09-14T20:26:22Z",
+  "metadata": {
+    "title": "#109: Lend Me a Pale Whisper",
+    "artist": "Body 13",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3924,
+    "duration_human": "01:05:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Lend Me a Pale Whisper"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/109-lend-me-a-pale-whisper_a8af93a4494f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha29/72ef83a4b83ebbd84058/109_Lend_Me_a_Pale_Whisper.tar"
+    }
+  }
+}
