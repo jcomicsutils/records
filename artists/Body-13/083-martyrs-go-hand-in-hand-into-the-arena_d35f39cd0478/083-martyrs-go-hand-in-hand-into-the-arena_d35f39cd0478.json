@@ -1,0 +1,27 @@
+{
+  "id": "083-martyrs-go-hand-in-hand-into-the-arena_d35f39cd0478",
+  "fingerprint": "d35f39cd0478791090dbd02f1fe219f28cd3cbdf91c75a3a7a3ce5e57bf45acf",
+  "archived_at": "2026-09-14T11:57:38Z",
+  "metadata": {
+    "title": "#083: Martyrs Go Hand in Hand Into the Arena",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1491,
+    "duration_human": "00:24:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Martyrs Go Hand in Hand Into the Arena"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/083-martyrs-go-hand-in-hand-into-the-arena_d35f39cd0478"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/c5b1e590d346b3913220/083_Martyrs_Go_Hand_in_Hand_Into_the_Arena.tar"
+    }
+  }
+}
