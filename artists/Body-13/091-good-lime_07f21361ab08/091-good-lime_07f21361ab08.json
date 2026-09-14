@@ -1,0 +1,27 @@
+{
+  "id": "091-good-lime_07f21361ab08",
+  "fingerprint": "07f21361ab08bfbfa154a19c9f776d0097ce7900f378c251173c7a69737981c9",
+  "archived_at": "2026-09-14T13:06:01Z",
+  "metadata": {
+    "title": "#091: Good Lime",
+    "artist": "Body 13",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 759,
+    "duration_human": "00:12:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Good Lime"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/091-good-lime_07f21361ab08"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/2d37756317cdd95090ad/091_Good_Lime.tar"
+    }
+  }
+}
