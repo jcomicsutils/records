@@ -1,0 +1,27 @@
+{
+  "id": "098-cant-you-see-its-foggy-outside_5e2e5863b4ea",
+  "fingerprint": "5e2e5863b4eafd536296ff222212e39e7784151a590e8bf499e70fd70b7f2f7c",
+  "archived_at": "2026-09-14T13:56:29Z",
+  "metadata": {
+    "title": "#098: Can't You See it's Foggy Outside?",
+    "artist": "Body 13",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 569,
+    "duration_human": "00:09:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Can't You See it's Foggy Outside?"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/098-cant-you-see-its-foggy-outside_5e2e5863b4ea"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/8567a6e52a815cc1e9ee/098_Can_t_You_See_it_s_Foggy_Outside.tar"
+    }
+  }
+}
