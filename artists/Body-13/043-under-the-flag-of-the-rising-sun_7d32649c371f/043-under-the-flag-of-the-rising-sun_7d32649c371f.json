@@ -1,0 +1,27 @@
+{
+  "id": "043-under-the-flag-of-the-rising-sun_7d32649c371f",
+  "fingerprint": "7d32649c371faccc2d1bb8227a48e2f16f55fc9f7c65bc7d80f8730f8922ef2e",
+  "archived_at": "2026-09-14T05:51:48Z",
+  "metadata": {
+    "title": "#043: Under the Flag of the Rising Sun",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3428,
+    "duration_human": "00:57:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Under the Flag of the Rising Sun"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/043-under-the-flag-of-the-rising-sun_7d32649c371f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/fd421e5bc538af67a327/043_Under_the_Flag_of_the_Rising_Sun.tar"
+    }
+  }
+}
