@@ -1,0 +1,27 @@
+{
+  "id": "093-love-in-time-of-overdose_197bc9519351",
+  "fingerprint": "197bc9519351ade200ae6083a6bc14afee14f848ed01d270d850740c8032cd7d",
+  "archived_at": "2026-09-14T13:26:38Z",
+  "metadata": {
+    "title": "#093: Love in Time of Overdose",
+    "artist": "Body 13",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1357,
+    "duration_human": "00:22:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Love in Time of Overdose"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/093-love-in-time-of-overdose_197bc9519351"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/fb08b2e77faf19e76a45/093_Love_in_Time_of_Overdose.tar"
+    }
+  }
+}
