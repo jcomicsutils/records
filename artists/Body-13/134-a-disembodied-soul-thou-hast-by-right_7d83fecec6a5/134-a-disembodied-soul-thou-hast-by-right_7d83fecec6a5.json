@@ -1,0 +1,27 @@
+{
+  "id": "134-a-disembodied-soul-thou-hast-by-right_7d83fecec6a5",
+  "fingerprint": "7d83fecec6a5d949e81d9598fd43fbbd46861e33a548bd2c3be9a6bb8115843e",
+  "archived_at": "2026-09-14T23:31:39Z",
+  "metadata": {
+    "title": "#134: A Disembodied Soul, Thou Hast By Right",
+    "artist": "Body 13",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2566,
+    "duration_human": "00:42:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - A Disembodied Soul, Thou Hast By Right"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/134-a-disembodied-soul-thou-hast-by-right_7d83fecec6a5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta1/3bc51653e4accdfb0908/134_A_Disembodied_Soul_Thou_Hast_By_Right.tar"
+    }
+  }
+}
