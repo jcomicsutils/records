@@ -1,0 +1,27 @@
+{
+  "id": "055-you-dont-even-know-your-own-name_fa556e62e0c9",
+  "fingerprint": "fa556e62e0c943f3a00a8603733669dd5b86c2e1cba928da29b0853e72f39714",
+  "archived_at": "2026-09-14T07:42:17Z",
+  "metadata": {
+    "title": "#055: You Don't Even Know Your Own Name",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1608,
+    "duration_human": "00:26:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - You Don't Even Know Your Own Name"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/055-you-dont-even-know-your-own-name_fa556e62e0c9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/dd11bc79c5208d15006a/055_You_Don_t_Even_Know_Your_Own_Name.tar"
+    }
+  }
+}
