@@ -1,0 +1,31 @@
+{
+  "id": "070-certain-shades-of-limelight_f6f6ba84c78f",
+  "fingerprint": "f6f6ba84c78fc2cbe91bf40796dba5561f6364093f2a7670720609091ba3461b",
+  "archived_at": "2026-09-14T10:05:35Z",
+  "metadata": {
+    "title": "#070: Certain Shades of Limelight",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1490,
+    "duration_human": "00:24:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Joe Had Been a Regular Pot Smoker for Fifteen Years",
+      "02 Body 13 - What a Child Doesn't Receive",
+      "03 Body 13 - Modern Music is As Dangerous As Cocaine",
+      "04 Body 13 - Sadly We Don't Speak Bird",
+      "05 Body 13 - You Have Some Queer Friends, Dorothy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/070-certain-shades-of-limelight_f6f6ba84c78f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/e3e8448723bf9abddd55/070_Certain_Shades_of_Limelight.tar"
+    }
+  }
+}
