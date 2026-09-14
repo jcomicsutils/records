@@ -1,0 +1,27 @@
+{
+  "id": "095-like-chinese-water-torture_4c800a1521c3",
+  "fingerprint": "4c800a1521c316632f8c628a24438ca8b07a16310eaa246bb040fc717b4768a5",
+  "archived_at": "2026-09-14T13:34:44Z",
+  "metadata": {
+    "title": "#095: Like Chinese Water Torture",
+    "artist": "Body 13",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3277,
+    "duration_human": "00:54:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Like Chinese Water Torture"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/095-like-chinese-water-torture_4c800a1521c3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/333b390a3f82b1564aa9/095_Like_Chinese_Water_Torture.tar"
+    }
+  }
+}
