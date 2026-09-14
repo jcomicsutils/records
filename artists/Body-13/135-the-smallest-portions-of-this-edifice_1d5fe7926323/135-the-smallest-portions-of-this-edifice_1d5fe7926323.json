@@ -1,0 +1,27 @@
+{
+  "id": "135-the-smallest-portions-of-this-edifice_1d5fe7926323",
+  "fingerprint": "1d5fe79263233211e8d673bc09d821ed50c493730a629186c1a6b9911a68f273",
+  "archived_at": "2026-09-14T23:46:20Z",
+  "metadata": {
+    "title": "#135: The Smallest Portions of This Edifice",
+    "artist": "Body 13",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 5132,
+    "duration_human": "01:25:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - The Smallest Portions of This Edifice"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/135-the-smallest-portions-of-this-edifice_1d5fe7926323"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta1/3f6670fb2160f72bab38/135_The_Smallest_Portions_of_This_Edifice.tar"
+    }
+  }
+}
