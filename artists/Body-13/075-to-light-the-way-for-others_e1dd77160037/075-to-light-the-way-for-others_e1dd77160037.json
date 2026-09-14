@@ -1,0 +1,32 @@
+{
+  "id": "075-to-light-the-way-for-others_e1dd77160037",
+  "fingerprint": "e1dd771600373c5dcc2c29572961f086e041e0525748e038fbf94f82334bb0f2",
+  "archived_at": "2026-09-14T10:52:13Z",
+  "metadata": {
+    "title": "#075: To Light the Way for Others",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2783,
+    "duration_human": "00:46:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Draconian Manslaughter (or; Song for Dradgien)",
+      "02 Body 13 - Living Under a Rock (The Story of One Lizard and His Boulder)",
+      "03 Body 13 - Sometimes Falling Feels Like Flying",
+      "04 Body 13 - Static Creature (or; Second Song for Zarathus)",
+      "05 Body 13 - Due Yesterday or My Money Back",
+      "06 Body 13 - Draconian Manslaughter (or; Song for Dradgien) (Ver. 1)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/075-to-light-the-way-for-others_e1dd77160037"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/7359fec124a624f16684/075_To_Light_the_Way_for_Others.tar"
+    }
+  }
+}
