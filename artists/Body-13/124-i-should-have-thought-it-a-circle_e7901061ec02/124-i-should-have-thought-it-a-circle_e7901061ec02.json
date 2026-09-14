@@ -1,0 +1,28 @@
+{
+  "id": "124-i-should-have-thought-it-a-circle_e7901061ec02",
+  "fingerprint": "e7901061ec025456ea78b9895d959092d22372d2a7b82b84162468ff229a0ab7",
+  "archived_at": "2026-09-14T22:47:15Z",
+  "metadata": {
+    "title": "#124: I Should Have Thought it a Circle",
+    "artist": "Body 13",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 7264,
+    "duration_human": "02:01:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - I Should Have Thought it a Circle (Part 1)",
+      "02 Body 13 - I Should Have Thought it a Circle (Part 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/124-i-should-have-thought-it-a-circle_e7901061ec02"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha29/5bea44808b5eece4b8de/124_I_Should_Have_Thought_it_a_Circle.tar"
+    }
+  }
+}
