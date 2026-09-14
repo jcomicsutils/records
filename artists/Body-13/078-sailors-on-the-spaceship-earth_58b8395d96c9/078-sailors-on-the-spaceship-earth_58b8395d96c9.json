@@ -1,0 +1,31 @@
+{
+  "id": "078-sailors-on-the-spaceship-earth_58b8395d96c9",
+  "fingerprint": "58b8395d96c9bd80d20b81cf0dbcc5a1665df825f9a93b2910a0d6bf482342db",
+  "archived_at": "2026-09-14T11:19:41Z",
+  "metadata": {
+    "title": "#078: Sailors on the Spaceship Earth",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3508,
+    "duration_human": "00:58:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Behind the Crooked Cross",
+      "02 Body 13 - It Seemed Like Forever Ago",
+      "03 Body 13 - Tempesion, the Universe",
+      "04 Body 13 - Several Species of Small Furry Animals Gathered Together in a Cave and Grooving With a Pict",
+      "05 Body 13 - Hurting Each Other"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/078-sailors-on-the-spaceship-earth_58b8395d96c9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/9d8851c03e760b5f936d/078_Sailors_on_the_Spaceship_Earth.tar"
+    }
+  }
+}
