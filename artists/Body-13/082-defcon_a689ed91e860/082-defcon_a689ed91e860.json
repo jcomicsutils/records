@@ -1,0 +1,27 @@
+{
+  "id": "082-defcon_a689ed91e860",
+  "fingerprint": "a689ed91e860b913e405484c4680ea39a3c7d9cf2a443707146fd8dab3e5ec1b",
+  "archived_at": "2026-09-14T11:55:08Z",
+  "metadata": {
+    "title": "#082: Defcon",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1418,
+    "duration_human": "00:23:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Defcon"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/082-defcon_a689ed91e860"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/1e770beceb3975b4fb66/082_Defcon.tar"
+    }
+  }
+}
