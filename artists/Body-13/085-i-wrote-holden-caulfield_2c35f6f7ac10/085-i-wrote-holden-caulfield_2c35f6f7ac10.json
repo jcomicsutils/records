@@ -1,0 +1,35 @@
+{
+  "id": "085-i-wrote-holden-caulfield_2c35f6f7ac10",
+  "fingerprint": "2c35f6f7ac107b9379daba82c13e6da538a9a1ee5f0c2f8707bb2770e39f1ec9",
+  "archived_at": "2026-09-14T12:31:27Z",
+  "metadata": {
+    "title": "#085: I Wrote Holden Caulfield",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3912,
+    "duration_human": "01:05:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - If You Really Want to Hear About It",
+      "02 Body 13 - The First Thing You'll Probably Want to Know",
+      "03 Body 13 - Is Where I Was Born",
+      "04 Body 13 - And What My Lousy Childhood Was Like",
+      "05 Body 13 - And How My Parents Were Occupied",
+      "06 Body 13 - And All Before They Had Me",
+      "07 Body 13 - And All That David Copperfield Kind of Crap",
+      "08 Body 13 - But I Don't Feel Like Going Into It",
+      "09 Body 13 - If You Want to Know the Truth"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/085-i-wrote-holden-caulfield_2c35f6f7ac10"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/b6819b33b96a5dccab43/085_I_Wrote_Holden_Caulfield.tar"
+    }
+  }
+}
