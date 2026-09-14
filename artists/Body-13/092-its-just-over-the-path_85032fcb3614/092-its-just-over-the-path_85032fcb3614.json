@@ -1,0 +1,27 @@
+{
+  "id": "092-its-just-over-the-path_85032fcb3614",
+  "fingerprint": "85032fcb361451329cb8f3d07d8fcdff41597cfb9be785b8acd0421eff3428a5",
+  "archived_at": "2026-09-14T13:18:53Z",
+  "metadata": {
+    "title": "#092: It's Just Over the Path",
+    "artist": "Body 13",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3800,
+    "duration_human": "01:03:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - It's Just Over the Path"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/092-its-just-over-the-path_85032fcb3614"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/552c323870d96a37d61d/092_It_s_Just_Over_the_Path.tar"
+    }
+  }
+}
