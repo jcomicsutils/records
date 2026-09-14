@@ -1,0 +1,27 @@
+{
+  "id": "040-death-of-the-salamander_ca40338ee27a",
+  "fingerprint": "ca40338ee27a4ba6a5ff536c614b67087d36b0f138814acf092c07bf47e44186",
+  "archived_at": "2026-09-14T05:28:07Z",
+  "metadata": {
+    "title": "#040: Death of the Salamander",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4067,
+    "duration_human": "01:07:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Death of the Salamander"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/040-death-of-the-salamander_ca40338ee27a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/638e56c7af406ebc97ad/040_Death_of_the_Salamander.tar"
+    }
+  }
+}
