@@ -1,0 +1,30 @@
+{
+  "id": "084-outside-of-this-ark-all-is-deluge_7e1c14b11b2e",
+  "fingerprint": "7e1c14b11b2e066f69c6aa7efce3ba9f39147870d96ffe76f7a1e5be0fc0d86a",
+  "archived_at": "2026-09-14T12:11:04Z",
+  "metadata": {
+    "title": "#084: Outside of This Ark All is Deluge",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2092,
+    "duration_human": "00:34:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Merely for an Excuse",
+      "02 Body 13 - And the Knights Come Down on Them, Faceless Men Clad in All Steel",
+      "03 Body 13 - Sour, You Are Scraping Chairs",
+      "04 Body 13 - Knelt in Closets of Coats"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/084-outside-of-this-ark-all-is-deluge_7e1c14b11b2e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/8f3828d37c34a60b4091/084_Outside_of_This_Ark_All_is_Deluge.tar"
+    }
+  }
+}
