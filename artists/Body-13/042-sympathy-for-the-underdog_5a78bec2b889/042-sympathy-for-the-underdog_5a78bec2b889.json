@@ -1,0 +1,27 @@
+{
+  "id": "042-sympathy-for-the-underdog_5a78bec2b889",
+  "fingerprint": "5a78bec2b889ca0b49685c2dbcddc51d7be5fdf5fb94fa0579aebc63e2787644",
+  "archived_at": "2026-09-14T05:47:23Z",
+  "metadata": {
+    "title": "#042: Sympathy for the Underdog",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3028,
+    "duration_human": "00:50:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Sympathy for the Underdog"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/042-sympathy-for-the-underdog_5a78bec2b889"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/8ccee74a32dac54982cb/042_Sympathy_for_the_Underdog.tar"
+    }
+  }
+}
