@@ -1,0 +1,27 @@
+{
+  "id": "044-battles-without-honor-and-humanity_5cf241578c5c",
+  "fingerprint": "5cf241578c5c93e0f5a7820ef8c0506f7aae9d6c2715487eba7fb14eb5150545",
+  "archived_at": "2026-09-14T05:55:03Z",
+  "metadata": {
+    "title": "#044: Battles Without Honor and Humanity",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2772,
+    "duration_human": "00:46:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Battles Without Honor and Humanity"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/044-battles-without-honor-and-humanity_5cf241578c5c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/2746295d798478cbccdf/044_Battles_Without_Honor_and_Humanity.tar"
+    }
+  }
+}
