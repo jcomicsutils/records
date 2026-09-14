@@ -1,0 +1,27 @@
+{
+  "id": "133-all-has-been-darkness-since-i-left-the-earth_28eac045e89d",
+  "fingerprint": "28eac045e89d026b44a58e83c94dd2b7d4789911ce2c8b8f6feeddd0b5ec328a",
+  "archived_at": "2026-09-14T23:24:31Z",
+  "metadata": {
+    "title": "#133: All Has Been Darkness Since I Left the Earth",
+    "artist": "Body 13",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1283,
+    "duration_human": "00:21:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - All Has Been Darkness Since I Left the Earth"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/133-all-has-been-darkness-since-i-left-the-earth_28eac045e89d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha29/8217c2a510853636adc2/133_All_Has_Been_Darkness_Since_I_Left_the_Earth.tar"
+    }
+  }
+}
