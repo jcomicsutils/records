@@ -1,0 +1,27 @@
+{
+  "id": "058-where-fear-is_95c125f9e49f",
+  "fingerprint": "95c125f9e49f3fe871e286a8bb912c7569def00f0d66fdf80b1c712e95142345",
+  "archived_at": "2026-09-14T08:00:22Z",
+  "metadata": {
+    "title": "#058: Where Fear Is",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1338,
+    "duration_human": "00:22:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Where Fear Is"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/058-where-fear-is_95c125f9e49f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/690abaf00f144275bf70/058_Where_Fear_Is.tar"
+    }
+  }
+}
