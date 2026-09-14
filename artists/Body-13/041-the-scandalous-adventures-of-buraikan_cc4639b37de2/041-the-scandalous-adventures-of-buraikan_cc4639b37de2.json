@@ -1,0 +1,27 @@
+{
+  "id": "041-the-scandalous-adventures-of-buraikan_cc4639b37de2",
+  "fingerprint": "cc4639b37de2ca95aab918df6141f22c1c6e546434a5037140fdbaff17d2d8ac",
+  "archived_at": "2026-09-14T05:43:30Z",
+  "metadata": {
+    "title": "#041: The Scandalous Adventures of Buraikan",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3230,
+    "duration_human": "00:53:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - The Scandalous Adventures of Buraikan"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/041-the-scandalous-adventures-of-buraikan_cc4639b37de2"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/f5fe0b37cfc0ae9bb890/041_The_Scandalous_Adventures_of_Buraikan.tar"
+    }
+  }
+}
