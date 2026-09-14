@@ -1,0 +1,27 @@
+{
+  "id": "103-live-forever-or-die-in-the-attempt_3539910f91b4",
+  "fingerprint": "3539910f91b412a1726f8dedbe5660b69a99b50ab6862a243259ea7338a174e0",
+  "archived_at": "2026-09-14T19:47:33Z",
+  "metadata": {
+    "title": "#103: Live Forever or Die in the Attempt",
+    "artist": "Body 13",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 536,
+    "duration_human": "00:08:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Live Forever or Die in the Attempt"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/103-live-forever-or-die-in-the-attempt_3539910f91b4"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha29/c8b68501f53b2dffaaab/103_Live_Forever_or_Die_in_the_Attempt.tar"
+    }
+  }
+}
