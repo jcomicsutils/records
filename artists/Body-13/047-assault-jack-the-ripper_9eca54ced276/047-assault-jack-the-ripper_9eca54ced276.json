@@ -1,0 +1,27 @@
+{
+  "id": "047-assault-jack-the-ripper_9eca54ced276",
+  "fingerprint": "9eca54ced2760deef169d52803b4a461435fee0ab571e3cca2e47a2ab53dc6dd",
+  "archived_at": "2026-09-14T06:32:16Z",
+  "metadata": {
+    "title": "#047: Assault! Jack the Ripper",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3137,
+    "duration_human": "00:52:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Assault! Jack the Ripper"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/047-assault-jack-the-ripper_9eca54ced276"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/cc40f85282974cf22dc4/047_Assault_Jack_the_Ripper.tar"
+    }
+  }
+}
