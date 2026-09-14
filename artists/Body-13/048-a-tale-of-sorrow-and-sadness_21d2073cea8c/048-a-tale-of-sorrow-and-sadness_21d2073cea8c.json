@@ -1,0 +1,27 @@
+{
+  "id": "048-a-tale-of-sorrow-and-sadness_21d2073cea8c",
+  "fingerprint": "21d2073cea8cbbbbd84d39d8c585a69a4e799736db705317ba749548fdff4707",
+  "archived_at": "2026-09-14T06:35:57Z",
+  "metadata": {
+    "title": "#048: A Tale of Sorrow and Sadness",
+    "artist": "Body 13",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4678,
+    "duration_human": "01:17:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - A Tale of Sorrow and Sadness"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/048-a-tale-of-sorrow-and-sadness_21d2073cea8c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/balpha19/fa535671d38e42aecc51/048_A_Tale_of_Sorrow_and_Sadness.tar"
+    }
+  }
+}
