@@ -1,0 +1,27 @@
+{
+  "id": "171-living-on-candy-bars-and-watching-the-pigeons-in-a-back-alley-with-a-french-name_6cd69c18c53b",
+  "fingerprint": "6cd69c18c53b9d77d53f66bfb2f02a0f6bfe5e3842985484db5fbd44888f464e",
+  "archived_at": "2026-09-15T15:04:13Z",
+  "metadata": {
+    "title": "#171: Living on Candy Bars and Watching the Pigeons in a Back Alley With a French Name",
+    "artist": "Body 13",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2013,
+    "duration_human": "00:33:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Living on Candy Bars and Watching the Pigeons in a Back Alley With a French Name"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/171-living-on-candy-bars-and-watching-the-pigeons-in-a-back-alley-with-a-french-name_6cd69c18c53b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha29/ab9ad30f03df97014882/171_Living_on_Candy_Bars_and_Watching_the_Pigeons_in_a_Back_Alley_With_a_French_Name.tar"
+    }
+  }
+}
