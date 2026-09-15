@@ -1,0 +1,27 @@
+{
+  "id": "144-among-my-perishing-fellow-creatures_8538df2d0070",
+  "fingerprint": "8538df2d00709d647163f9e2933874c9cb8a5f5d7f2d3a37c695c0e795259e88",
+  "archived_at": "2026-09-15T07:17:37Z",
+  "metadata": {
+    "title": "#144: Among My Perishing Fellow-Creatures",
+    "artist": "Body 13",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1433,
+    "duration_human": "00:23:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Among My Perishing Fellow-Creatures"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/144-among-my-perishing-fellow-creatures_8538df2d0070"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta1/84e96a2552e276fbc89c/144_Among_My_Perishing_Fellow-Creatures.tar"
+    }
+  }
+}
