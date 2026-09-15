@@ -1,0 +1,29 @@
+{
+  "id": "200-three-cheers-for-heroin_9e3fb9102417",
+  "fingerprint": "9e3fb91024178256dc78fb0b94588ad5a0454f0923b5ba93dab1c2152b22155f",
+  "archived_at": "2026-09-15T21:54:19Z",
+  "metadata": {
+    "title": "#200: Three Cheers for Heroin!",
+    "artist": "Body 13",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 5160,
+    "duration_human": "01:26:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - First Cheer: \"Not Thirst in the Brain Black-Bitten, in the Soul More Sorely Smitten\"",
+      "02 Body 13 - Second Cheer: \"Beyond the Raging and Raving, Hell of the Physical Craving\"",
+      "03 Body 13 - Third Cheer: \"Lies, in the Brain Benumbed, an Abyss, Unmeasured, Unplumbed\""
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/200-three-cheers-for-heroin_9e3fb9102417"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/d7ca25b159c4af1cef47/200_Three_Cheers_for_Heroin.tar"
+    }
+  }
+}
