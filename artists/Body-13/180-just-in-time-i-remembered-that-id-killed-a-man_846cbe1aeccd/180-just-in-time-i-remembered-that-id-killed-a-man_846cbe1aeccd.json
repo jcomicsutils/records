@@ -1,0 +1,27 @@
+{
+  "id": "180-just-in-time-i-remembered-that-id-killed-a-man_846cbe1aeccd",
+  "fingerprint": "846cbe1aeccdec86fdc61dc96921dfc3fe17531ae755d0656ab951ba825d480e",
+  "archived_at": "2026-09-15T16:54:38Z",
+  "metadata": {
+    "title": "#180: Just in Time I Remembered That I'd Killed a Man",
+    "artist": "Body 13",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 5520,
+    "duration_human": "01:32:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Just in Time I Remembered That I'd Killed a Man"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/180-just-in-time-i-remembered-that-id-killed-a-man_846cbe1aeccd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/6a4dff68cb6926c99600/180_Just_in_Time_I_Remembered_That_I_d_Killed_a_Man.tar"
+    }
+  }
+}
