@@ -1,0 +1,27 @@
+{
+  "id": "166-this-is-where-the-stricken-bagpipes-blow_74d71c4e57d8",
+  "fingerprint": "74d71c4e57d85278f7dbfdc1008e42511c393277bb6608dd3bd2a7d2808d951d",
+  "archived_at": "2026-09-15T14:23:05Z",
+  "metadata": {
+    "title": "#166: This is Where the Stricken Bagpipes Blow",
+    "artist": "Body 13",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 5400,
+    "duration_human": "01:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - This is Where the Stricken Bagpipes Blow"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/166-this-is-where-the-stricken-bagpipes-blow_74d71c4e57d8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha29/01b1fe5c89265e221897/166_This_is_Where_the_Stricken_Bagpipes_Blow.tar"
+    }
+  }
+}
