@@ -1,0 +1,27 @@
+{
+  "id": "174-it-smells-like-a-bag-of-dead-cats_c0cc03554c9c",
+  "fingerprint": "c0cc03554c9cd7e48222dbc1861f48d0ccfcadc3af1bf22000fcffbf4ba2a806",
+  "archived_at": "2026-09-15T15:27:16Z",
+  "metadata": {
+    "title": "#174: It Smells Like a Bag of Dead Cats",
+    "artist": "Body 13",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3840,
+    "duration_human": "01:04:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - It Smells Like a Bag of Dead Cats"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/174-it-smells-like-a-bag-of-dead-cats_c0cc03554c9c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha29/70c9f3d8ea7f7971cd3d/174_It_Smells_Like_a_Bag_of_Dead_Cats.tar"
+    }
+  }
+}
