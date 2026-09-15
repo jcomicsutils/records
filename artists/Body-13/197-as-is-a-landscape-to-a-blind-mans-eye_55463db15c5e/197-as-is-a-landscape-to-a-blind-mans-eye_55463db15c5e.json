@@ -1,0 +1,28 @@
+{
+  "id": "197-as-is-a-landscape-to-a-blind-mans-eye_55463db15c5e",
+  "fingerprint": "55463db15c5e9b9e325422d8ede0368a5d4d0a63020964b384401e749205b1ed",
+  "archived_at": "2026-09-15T20:31:52Z",
+  "metadata": {
+    "title": "#197: As is a Landscape to a Blind Man's Eye",
+    "artist": "Body 13",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 8420,
+    "duration_human": "02:20:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - As is a Landscape to a Blind Man's Eye (Part 1)",
+      "02 Body 13 - As is a Landscape to a Blind Man's Eye (Part 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/197-as-is-a-landscape-to-a-blind-mans-eye_55463db15c5e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/ea48f9ec5ef76793456f/197_As_is_a_Landscape_to_a_Blind_Man_s_Eye.tar"
+    }
+  }
+}
