@@ -1,0 +1,32 @@
+{
+  "id": "138-like-beasts-of-prey-who-caged-within-their-bars_864bf70b83b8",
+  "fingerprint": "864bf70b83b8d2bf705ae912e86db3dd51b5c34137a9a5da8d06f5420a03b978",
+  "archived_at": "2026-09-15T02:03:19Z",
+  "metadata": {
+    "title": "#138: Like Beasts of Prey, Who, Caged Within Their Bars",
+    "artist": "Body 13",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 41062,
+    "duration_human": "11:24:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Like Beasts of Prey, Who, Caged Within Their Bars (Part 1)",
+      "02 Body 13 - Like Beasts of Prey, Who, Caged Within Their Bars (Part 2)",
+      "03 Body 13 - Like Beasts of Prey, Who, Caged Within Their Bars (Part 3)",
+      "04 Body 13 - Like Beasts of Prey, Who, Caged Within Their Bars (Part 4)",
+      "05 Body 13 - Like Beasts of Prey, Who, Caged Within Their Bars (Part 5)",
+      "06 Body 13 - Like Beasts of Prey, Who, Caged Within Their Bars (Part 6)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/138-like-beasts-of-prey-who-caged-within-their-bars_864bf70b83b8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta1/94d66121887f15bb95c7/138_Like_Beasts_of_Prey_Who_Caged_Within_Their_Bars.tar"
+    }
+  }
+}
