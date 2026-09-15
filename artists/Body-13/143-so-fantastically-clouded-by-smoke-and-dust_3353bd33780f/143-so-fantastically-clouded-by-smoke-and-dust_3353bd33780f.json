@@ -1,0 +1,28 @@
+{
+  "id": "143-so-fantastically-clouded-by-smoke-and-dust_3353bd33780f",
+  "fingerprint": "3353bd33780fd0f6e04d7a44cb86772497da24e903a8acd04514b3ed24608aff",
+  "archived_at": "2026-09-15T07:05:22Z",
+  "metadata": {
+    "title": "#143: So Fantastically Clouded By Smoke and Dust",
+    "artist": "Body 13",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 6951,
+    "duration_human": "01:55:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - So Fantastically Clouded By Smoke and Dust (Part 1)",
+      "02 Body 13 - So Fantastically Clouded By Smoke and Dust (Part 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/143-so-fantastically-clouded-by-smoke-and-dust_3353bd33780f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta1/95b8e72af184bd817049/143_So_Fantastically_Clouded_By_Smoke_and_Dust.tar"
+    }
+  }
+}
