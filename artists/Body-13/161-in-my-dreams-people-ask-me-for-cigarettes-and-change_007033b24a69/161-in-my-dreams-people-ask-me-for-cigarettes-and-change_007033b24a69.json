@@ -1,0 +1,27 @@
+{
+  "id": "161-in-my-dreams-people-ask-me-for-cigarettes-and-change_007033b24a69",
+  "fingerprint": "007033b24a69cc953a9b0b69791027dc9c7d35135e76bc9fc96ab000ee273258",
+  "archived_at": "2026-09-15T13:36:52Z",
+  "metadata": {
+    "title": "#161: In My Dreams, People Ask Me for Cigarettes and Change",
+    "artist": "Body 13",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1046,
+    "duration_human": "00:17:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - In My Dreams, People Ask Me for Cigarettes and Change"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/161-in-my-dreams-people-ask-me-for-cigarettes-and-change_007033b24a69"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta1/cf3935cc46ffd9e46e52/161_In_My_Dreams_People_Ask_Me_for_Cigarettes_and_Change.tar"
+    }
+  }
+}
