@@ -1,0 +1,33 @@
+{
+  "id": "160-writhing-in-groves-where-flowers-have-fallen-into_62f643770195",
+  "fingerprint": "62f64377019514463204ea98847f97ebb48941e7265872b4a706281a00510900",
+  "archived_at": "2026-09-15T13:18:00Z",
+  "metadata": {
+    "title": "#160: Writhing in Groves Where Flowers Have Fallen Into",
+    "artist": "Body 13",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 18867,
+    "duration_human": "05:14:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Writhing in Groves Where Flowers Have Fallen Into (Part 1)",
+      "02 Body 13 - Writhing in Groves Where Flowers Have Fallen Into (Part 2)",
+      "03 Body 13 - Writhing in Groves Where Flowers Have Fallen Into (Part 3)",
+      "04 Body 13 - Writhing in Groves Where Flowers Have Fallen Into (Part 4)",
+      "05 Body 13 - Writhing in Groves Where Flowers Have Fallen Into (Part 5)",
+      "06 Body 13 - Writhing in Groves Where Flowers Have Fallen Into (Part 6)",
+      "07 Body 13 - Writhing in Groves Where Flowers Have Fallen Into (Part 7)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/160-writhing-in-groves-where-flowers-have-fallen-into_62f643770195"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta1/5c06288fb6242b57cd82/160_Writhing_in_Groves_Where_Flowers_Have_Fallen_Into.tar"
+    }
+  }
+}
