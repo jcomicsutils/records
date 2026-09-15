@@ -1,0 +1,27 @@
+{
+  "id": "172-i-seem-to-remember-being-unable-to-do-anything-at-all-but-think_6bf1491f1b04",
+  "fingerprint": "6bf1491f1b04df7e3863df1605a0240ade6f82fab3ce8b452da6500c2bdbde8b",
+  "archived_at": "2026-09-15T15:07:27Z",
+  "metadata": {
+    "title": "#172: I Seem to Remember Being Unable to Do Anything at All But Think",
+    "artist": "Body 13",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3145,
+    "duration_human": "00:52:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - I Seem to Remember Being Unable to Do Anything at All But Think"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/172-i-seem-to-remember-being-unable-to-do-anything-at-all-but-think_6bf1491f1b04"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha29/ac64cba07f106b2eab0e/172_I_Seem_to_Remember_Being_Unable_to_Do_Anything_at_All_But_Think.tar"
+    }
+  }
+}
