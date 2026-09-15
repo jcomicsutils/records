@@ -1,0 +1,28 @@
+{
+  "id": "178-same-time-next-year-i-guess_094740f76156",
+  "fingerprint": "094740f761562dfbeff1cae6e7ddfe4d198ade5b0bdd57c7d9c41516e2766a74",
+  "archived_at": "2026-09-15T16:38:28Z",
+  "metadata": {
+    "title": "#178: Same Time Next Year I Guess",
+    "artist": "Body 13",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 11220,
+    "duration_human": "03:07:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Same Time Next Year I Guess (Part 1)",
+      "02 Body 13 - Same Time Next Year I Guess (Part 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/178-same-time-next-year-i-guess_094740f76156"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/8cb0aaf90ab8fe0c5755/178_Same_Time_Next_Year_I_Guess.tar"
+    }
+  }
+}
