@@ -1,0 +1,27 @@
+{
+  "id": "145-they-are-all-people-who-are-in-trouble-about-something_ec526c07fa17",
+  "fingerprint": "ec526c07fa17530d0fda6bc689539e5363be67855a4b7f4cd369084ab49336a4",
+  "archived_at": "2026-09-15T07:44:43Z",
+  "metadata": {
+    "title": "#145: They Are All People Who Are in Trouble About Something",
+    "artist": "Body 13",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3412,
+    "duration_human": "00:56:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - They Are All People Who Are in Trouble About Something"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/145-they-are-all-people-who-are-in-trouble-about-something_ec526c07fa17"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta1/da9ee4b7e4f0c78d4f49/145_They_Are_All_People_Who_Are_in_Trouble_About_Something.tar"
+    }
+  }
+}
