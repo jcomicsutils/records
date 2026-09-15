@@ -1,0 +1,27 @@
+{
+  "id": "154-receive-the-supplication-of-a-dead-mans-hand_5d7c81d6d5f9",
+  "fingerprint": "5d7c81d6d5f93db5e2ca19cc5532154ef7c72c5b63736a7f29f382a451cc26ed",
+  "archived_at": "2026-09-15T10:29:57Z",
+  "metadata": {
+    "title": "#154: Receive the Supplication of a Dead Man's Hand",
+    "artist": "Body 13",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1986,
+    "duration_human": "00:33:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Receive the Supplication of a Dead Man's Hand"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/154-receive-the-supplication-of-a-dead-mans-hand_5d7c81d6d5f9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta1/5b0083d500a71d15fc1f/154_Receive_the_Supplication_of_a_Dead_Man_s_Hand.tar"
+    }
+  }
+}
