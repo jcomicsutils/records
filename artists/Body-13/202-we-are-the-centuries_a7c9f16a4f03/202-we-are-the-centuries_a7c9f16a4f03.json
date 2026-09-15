@@ -1,0 +1,27 @@
+{
+  "id": "202-we-are-the-centuries_a7c9f16a4f03",
+  "fingerprint": "a7c9f16a4f03d17c1b7106d6046218d0182c59fa6e232da97472492bd0899a9b",
+  "archived_at": "2026-09-15T22:05:06Z",
+  "metadata": {
+    "title": "#202: We Are the Centuries",
+    "artist": "Body 13",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 9420,
+    "duration_human": "02:37:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - We Are the Centuries"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/202-we-are-the-centuries_a7c9f16a4f03"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/1a6a9f7c397d6c331921/202_We_Are_the_Centuries.tar"
+    }
+  }
+}
