@@ -1,0 +1,28 @@
+{
+  "id": "206-we-have-your-bloody-hatchets-and-your-hiroshimas_f87b22700a41",
+  "fingerprint": "f87b22700a41e99b068e3f05884fe50cc3a146bcc6c8d68fa3221a9ef9d8cac2",
+  "archived_at": "2026-09-15T23:18:39Z",
+  "metadata": {
+    "title": "#206: We Have Your Bloody Hatchets and Your Hiroshimas",
+    "artist": "Body 13",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 10800,
+    "duration_human": "03:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - We Have Your Bloody Hatchets and Your Hiroshimas (Part 1)",
+      "02 Body 13 - We Have Your Bloody Hatchets and Your Hiroshimas (Part 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/206-we-have-your-bloody-hatchets-and-your-hiroshimas_f87b22700a41"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/36ed8a3821daa116f2b7/206_We_Have_Your_Bloody_Hatchets_and_Your_Hiroshimas.tar"
+    }
+  }
+}
