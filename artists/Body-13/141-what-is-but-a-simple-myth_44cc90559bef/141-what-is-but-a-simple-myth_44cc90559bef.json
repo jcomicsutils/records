@@ -1,0 +1,27 @@
+{
+  "id": "141-what-is-but-a-simple-myth_44cc90559bef",
+  "fingerprint": "44cc90559bef204b4cadd714e378071ffe7549cc82f5c895c222d598efd16abf",
+  "archived_at": "2026-09-15T05:36:00Z",
+  "metadata": {
+    "title": "#141: What is But a Simple Myth?",
+    "artist": "Body 13",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3466,
+    "duration_human": "00:57:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - What is But a Simple Myth?"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/141-what-is-but-a-simple-myth_44cc90559bef"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta1/ff3f8b4744c04c2471ac/141_What_is_But_a_Simple_Myth.tar"
+    }
+  }
+}
