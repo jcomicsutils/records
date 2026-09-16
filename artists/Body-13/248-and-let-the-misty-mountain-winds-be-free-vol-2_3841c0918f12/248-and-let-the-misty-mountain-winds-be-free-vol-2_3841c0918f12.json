@@ -1,0 +1,28 @@
+{
+  "id": "248-and-let-the-misty-mountain-winds-be-free-vol-2_3841c0918f12",
+  "fingerprint": "3841c0918f120b8fed3320afb24e3326e15e1c24eef6e5167f08c4ef33b2f321",
+  "archived_at": "2026-09-16T13:58:32Z",
+  "metadata": {
+    "title": "#248: And Let the Misty Mountain​-​Winds Be Free, Vol. 2",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1426,
+    "duration_human": "00:23:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - And Let the Misty Mountain​-​Winds Be Free (Again)",
+      "02 Body 13 - And Let the Misty Mountain​-​Winds Be Free (Forever)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/248-and-let-the-misty-mountain-winds-be-free-vol-2_3841c0918f12"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/0689f0ea3ea0ff2b6fb1/248_And_Let_the_Misty_Mountain_-_Winds_Be_Free_Vol._2.tar"
+    }
+  }
+}
