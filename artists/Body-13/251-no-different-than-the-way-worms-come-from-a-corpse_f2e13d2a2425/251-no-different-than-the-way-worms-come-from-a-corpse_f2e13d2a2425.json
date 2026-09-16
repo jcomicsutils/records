@@ -1,0 +1,27 @@
+{
+  "id": "251-no-different-than-the-way-worms-come-from-a-corpse_f2e13d2a2425",
+  "fingerprint": "f2e13d2a242577c366db52e3676ef13e01ceb74e53e84295ad0d4bd053dc86fc",
+  "archived_at": "2026-09-16T14:34:29Z",
+  "metadata": {
+    "title": "#251: No Different Than the Way Worms Come From a Corpse",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2223,
+    "duration_human": "00:37:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - No Different Than the Way Worms Come From a Corpse"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/251-no-different-than-the-way-worms-come-from-a-corpse_f2e13d2a2425"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/7224e9a7e072473d68c5/251_No_Different_Than_the_Way_Worms_Come_From_a_Corpse.tar"
+    }
+  }
+}
