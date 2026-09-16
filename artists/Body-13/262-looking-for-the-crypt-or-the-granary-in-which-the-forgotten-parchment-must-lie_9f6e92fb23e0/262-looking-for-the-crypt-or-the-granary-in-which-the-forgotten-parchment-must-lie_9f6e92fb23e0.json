@@ -1,0 +1,28 @@
+{
+  "id": "262-looking-for-the-crypt-or-the-granary-in-which-the-forgotten-parchment-must-lie_9f6e92fb23e0",
+  "fingerprint": "9f6e92fb23e0a523614b1cc64e1a17cb7d66ae72befa83b960105e192c90f17f",
+  "archived_at": "2026-09-16T18:57:41Z",
+  "metadata": {
+    "title": "#262: Looking for the Crypt or the Granary in Which the Forgotten Parchment Must Lie",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 11063,
+    "duration_human": "03:04:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Looking for the Crypt or the Granary in Which the Forgotten Parchment Must Lie (Part 1)",
+      "02 Body 13 - Looking for the Crypt or the Granary in Which the Forgotten Parchment Must Lie (Part 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/262-looking-for-the-crypt-or-the-granary-in-which-the-forgotten-parchment-must-lie_9f6e92fb23e0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/565fbfcc1290ca28b1dd/262_Looking_for_the_Crypt_or_the_Granary_in_Which_the_Forgotten_Parchment_Must_Lie.tar"
+    }
+  }
+}
