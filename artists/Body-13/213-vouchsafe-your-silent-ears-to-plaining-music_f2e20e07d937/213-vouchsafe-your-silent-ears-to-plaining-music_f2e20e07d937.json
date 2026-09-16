@@ -1,0 +1,27 @@
+{
+  "id": "213-vouchsafe-your-silent-ears-to-plaining-music_f2e20e07d937",
+  "fingerprint": "f2e20e07d937dc11d530c6f1c5994e33e29329b0f832a27d23ff88cae1569e8d",
+  "archived_at": "2026-09-16T01:26:32Z",
+  "metadata": {
+    "title": "#213: Vouchsafe Your Silent Ears to Plaining Music",
+    "artist": "Body 13",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4627,
+    "duration_human": "01:17:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Vouchsafe Your Silent Ears to Plaining Music"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/213-vouchsafe-your-silent-ears-to-plaining-music_f2e20e07d937"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/5d9ba0d62cb675762115/213_Vouchsafe_Your_Silent_Ears_to_Plaining_Music.tar"
+    }
+  }
+}
