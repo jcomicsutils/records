@@ -1,0 +1,27 @@
+{
+  "id": "233-a-slice-of-pickle-which-was-not-flyspecked-but-looked-it_513f91535338",
+  "fingerprint": "513f9153533846d11c908f08131a7c3813d6b3e888de0b49917b7347238d0a27",
+  "archived_at": "2026-09-16T10:46:39Z",
+  "metadata": {
+    "title": "#233: A Slice of Pickle Which Was Not Flyspecked But Looked It",
+    "artist": "Body 13",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 6360,
+    "duration_human": "01:46:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - A Slice of Pickle Which Was Not Flyspecked But Looked It"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/233-a-slice-of-pickle-which-was-not-flyspecked-but-looked-it_513f91535338"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/41e015e6982a27df862f/233_A_Slice_of_Pickle_Which_Was_Not_Flyspecked_But_Looked_It.tar"
+    }
+  }
+}
