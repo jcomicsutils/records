@@ -1,0 +1,27 @@
+{
+  "id": "217-and-still-where-many-a-garden-flower-grows-wild_610a46023a1d",
+  "fingerprint": "610a46023a1d2fceb0f06947826adff00a3757b1589c5dd14595082d0ba48a58",
+  "archived_at": "2026-09-16T01:53:28Z",
+  "metadata": {
+    "title": "#217: And Still Where Many a Garden Flower Grows Wild",
+    "artist": "Body 13",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4627,
+    "duration_human": "01:17:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - And Still Where Many a Garden Flower Grows Wild"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/217-and-still-where-many-a-garden-flower-grows-wild_610a46023a1d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/ccb4a887737391c61d10/217_And_Still_Where_Many_a_Garden_Flower_Grows_Wild.tar"
+    }
+  }
+}
