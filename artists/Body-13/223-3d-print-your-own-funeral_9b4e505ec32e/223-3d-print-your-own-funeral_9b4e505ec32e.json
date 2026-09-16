@@ -1,0 +1,32 @@
+{
+  "id": "223-3d-print-your-own-funeral_9b4e505ec32e",
+  "fingerprint": "9b4e505ec32e3e3e6b4ffebe4913d955c9cbcfa9d0f07b3eadc7351c2c75dcd8",
+  "archived_at": "2026-09-16T06:38:19Z",
+  "metadata": {
+    "title": "#223: 3D Print Your Own Funeral",
+    "artist": "Body 13",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 41000,
+    "duration_human": "11:23:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 3D Print Your Own Funeral (Part 1)",
+      "02 Body 13 - 3D Print Your Own Funeral (Part 2)",
+      "03 Body 13 - 3D Print Your Own Funeral (Part 3)",
+      "04 Body 13 - 3D Print Your Own Funeral (Part 4)",
+      "05 Body 13 - 3D Print Your Own Funeral (Part 5)",
+      "06 Body 13 - 3D Print Your Own Funeral (Part 6)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/223-3d-print-your-own-funeral_9b4e505ec32e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/3cbc3d9500d08aa1035a/223_3D_Print_Your_Own_Funeral.tar"
+    }
+  }
+}
