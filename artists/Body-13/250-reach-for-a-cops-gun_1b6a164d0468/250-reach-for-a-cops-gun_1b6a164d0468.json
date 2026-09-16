@@ -1,0 +1,30 @@
+{
+  "id": "250-reach-for-a-cops-gun_1b6a164d0468",
+  "fingerprint": "1b6a164d0468fe5071d93138e26da57208a8a8860ba83c7003335786ca48b729",
+  "archived_at": "2026-09-16T14:15:17Z",
+  "metadata": {
+    "title": "#250: Reach for a Cop's Gun",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3117,
+    "duration_human": "00:51:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Reach for a Cop's Gun I",
+      "02 Body 13 - Reach for a Cop's Gun II",
+      "03 Body 13 - Reach for a Cop's Gun III",
+      "04 Body 13 - Reach for a Cop's Gun IV"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/250-reach-for-a-cops-gun_1b6a164d0468"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/5a3a048f594a1842c0d9/250_Reach_for_a_Cop_s_Gun.tar"
+    }
+  }
+}
