@@ -1,0 +1,32 @@
+{
+  "id": "259-this-strange-island-of-bitter-wind-and-blighted-blueberries_fc55e7ba05ff",
+  "fingerprint": "fc55e7ba05ff3f965d1bfb8394271cd1c9148b81a745ead5e08c71c825f1d19b",
+  "archived_at": "2026-09-16T16:48:54Z",
+  "metadata": {
+    "title": "#259: This Strange Island of Bitter Wind and Blighted Blueberries",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 40980,
+    "duration_human": "11:23:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - This Strange Island of Bitter Wind and Blighted Blueberries (Part 1)",
+      "02 Body 13 - This Strange Island of Bitter Wind and Blighted Blueberries (Part 2)",
+      "03 Body 13 - This Strange Island of Bitter Wind and Blighted Blueberries (Part 3)",
+      "04 Body 13 - This Strange Island of Bitter Wind and Blighted Blueberries (Part 4)",
+      "05 Body 13 - This Strange Island of Bitter Wind and Blighted Blueberries (Part 5)",
+      "06 Body 13 - This Strange Island of Bitter Wind and Blighted Blueberries (Part 6)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/259-this-strange-island-of-bitter-wind-and-blighted-blueberries_fc55e7ba05ff"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/7c2d96ca445aa159d0e5/259_This_Strange_Island_of_Bitter_Wind_and_Blighted_Blueberries.tar"
+    }
+  }
+}
