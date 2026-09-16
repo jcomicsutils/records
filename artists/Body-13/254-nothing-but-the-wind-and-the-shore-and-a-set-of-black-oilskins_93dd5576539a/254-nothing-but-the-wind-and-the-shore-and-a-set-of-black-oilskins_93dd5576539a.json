@@ -1,0 +1,27 @@
+{
+  "id": "254-nothing-but-the-wind-and-the-shore-and-a-set-of-black-oilskins_93dd5576539a",
+  "fingerprint": "93dd5576539adc44af658fbf888f2bb0ffa9a755f00f332324ef54397c8f9b2e",
+  "archived_at": "2026-09-16T14:52:25Z",
+  "metadata": {
+    "title": "#254: Nothing But the Wind and the Shore and a Set of Black Oilskins",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2253,
+    "duration_human": "00:37:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Nothing But the Wind and the Shore and a Set of Black Oilskins"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/254-nothing-but-the-wind-and-the-shore-and-a-set-of-black-oilskins_93dd5576539a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/a6a3a2ce8169a98b32e6/254_Nothing_But_the_Wind_and_the_Shore_and_a_Set_of_Black_Oilskins.tar"
+    }
+  }
+}
