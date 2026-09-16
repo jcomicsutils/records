@@ -1,0 +1,27 @@
+{
+  "id": "221-johnny-nogood-no-relation_4ce91353ab7b",
+  "fingerprint": "4ce91353ab7b0cd561ced7feb1804598523a003cdf284dc8e0f2b5c3b9ea71d1",
+  "archived_at": "2026-09-16T02:56:17Z",
+  "metadata": {
+    "title": "#221: Johnny Nogood (No Relation)",
+    "artist": "Body 13",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2640,
+    "duration_human": "00:44:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Johnny Nogood (No Relation)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/221-johnny-nogood-no-relation_4ce91353ab7b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/43d8670fa6f65e029410/221_Johnny_Nogood_No_Relation.tar"
+    }
+  }
+}
