@@ -1,0 +1,27 @@
+{
+  "id": "261-the-earth-has-the-odor-of-mushrooms_5a201017043f",
+  "fingerprint": "5a201017043fbd69bc5b088167a3bb488fade7b27a7ba82513bd8121bbde4e26",
+  "archived_at": "2026-09-16T18:07:51Z",
+  "metadata": {
+    "title": "#261: The Earth Has the Odor of Mushrooms",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 7486,
+    "duration_human": "02:04:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - The Earth Has the Odor of Mushrooms"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/261-the-earth-has-the-odor-of-mushrooms_5a201017043f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/6d243da655236f9d55f6/261_The_Earth_Has_the_Odor_of_Mushrooms.tar"
+    }
+  }
+}
