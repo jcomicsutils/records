@@ -1,0 +1,27 @@
+{
+  "id": "218-the-fog-comes-on-little-cat-feet_269d69b7746d",
+  "fingerprint": "269d69b7746db5eda16644765bdbaf89580aae41c2195a8b7e3485e7dcfbff44",
+  "archived_at": "2026-09-16T01:59:49Z",
+  "metadata": {
+    "title": "#218: The Fog Comes on Little Cat Feet",
+    "artist": "Body 13",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2684,
+    "duration_human": "00:44:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - The Fog Comes on Little Cat Feet"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/218-the-fog-comes-on-little-cat-feet_269d69b7746d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/aae429d9277f13454f90/218_The_Fog_Comes_on_Little_Cat_Feet.tar"
+    }
+  }
+}
