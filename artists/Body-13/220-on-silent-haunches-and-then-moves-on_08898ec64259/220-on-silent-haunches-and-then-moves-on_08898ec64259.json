@@ -1,0 +1,28 @@
+{
+  "id": "220-on-silent-haunches-and-then-moves-on_08898ec64259",
+  "fingerprint": "08898ec6425926b7aba1cd35fbdac343dc478e4eb1bf3d2e80f244b01699cbd2",
+  "archived_at": "2026-09-16T02:47:55Z",
+  "metadata": {
+    "title": "#220: On Silent Haunches and Then Moves On",
+    "artist": "Body 13",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 12813,
+    "duration_human": "03:33:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - On Silent Haunches and Then Moves On (Part 1)",
+      "02 Body 13 - On Silent Haunches and Then Moves On (Part 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/220-on-silent-haunches-and-then-moves-on_08898ec64259"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/ae2a02af32a4cde385c3/220_On_Silent_Haunches_and_Then_Moves_On.tar"
+    }
+  }
+}
