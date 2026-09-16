@@ -1,0 +1,28 @@
+{
+  "id": "230-there-was-something-pleasant-and-brazen-in-the-twinkle_9314914a00bc",
+  "fingerprint": "9314914a00bc2ddb71843e80bc01eedfbf12bd2829a28b6ebd373b1451eed1a5",
+  "archived_at": "2026-09-16T10:00:13Z",
+  "metadata": {
+    "title": "#230: There Was Something Pleasant and Brazen in the Twinkle",
+    "artist": "Body 13",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3005,
+    "duration_human": "00:50:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Ages Ago When I Felt a Cold Touch Like Spittle on My Lids",
+      "02 Body 13 - Opening My Eyes Had Seen a Man Like a Tree Surrounded By Other Trees Walking Away"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/230-there-was-something-pleasant-and-brazen-in-the-twinkle_9314914a00bc"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/f5378d0914a25d364958/230_There_Was_Something_Pleasant_and_Brazen_in_the_Twinkle.tar"
+    }
+  }
+}
