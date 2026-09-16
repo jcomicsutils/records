@@ -1,0 +1,28 @@
+{
+  "id": "236-no-vendor-in-the-black-hovel-beyond-the-bulb_1483533ac3ce",
+  "fingerprint": "1483533ac3ce142ee4d49dda360a3bba10de70c596f0bbce5b000e6455c7c8da",
+  "archived_at": "2026-09-16T11:45:45Z",
+  "metadata": {
+    "title": "#236: No Vendor in the Black Hovel Beyond the Bulb",
+    "artist": "Body 13",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 11288,
+    "duration_human": "03:08:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - No Vendor in the Black Hovel Beyond the Bulb (Part 1)",
+      "02 Body 13 - No Vendor in the Black Hovel Beyond the Bulb (Part 2)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/236-no-vendor-in-the-black-hovel-beyond-the-bulb_1483533ac3ce"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/80afbeb18ff99a53da4d/236_No_Vendor_in_the_Black_Hovel_Beyond_the_Bulb.tar"
+    }
+  }
+}
