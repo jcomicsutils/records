@@ -1,0 +1,27 @@
+{
+  "id": "225-i-love-you-dad-and-im-glad-youre-in-my-life_fb7d3248ab2e",
+  "fingerprint": "fb7d3248ab2e496925c85aa66a90fa6d84d79936f33f22e83a510756cd2c1a10",
+  "archived_at": "2026-09-16T07:58:18Z",
+  "metadata": {
+    "title": "#225: I Love You Dad and I'm Glad You're in My Life",
+    "artist": "Body 13",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1566,
+    "duration_human": "00:26:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - I Love You Dad and I'm Glad You're in My Life"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/225-i-love-you-dad-and-im-glad-youre-in-my-life_fb7d3248ab2e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/2e1dc4c52de8a0d04581/225_I_Love_You_Dad_and_I_m_Glad_You_re_in_My_Life.tar"
+    }
+  }
+}
