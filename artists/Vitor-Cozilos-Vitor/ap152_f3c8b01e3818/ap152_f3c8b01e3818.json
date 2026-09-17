@@ -1,0 +1,31 @@
+{
+  "id": "ap152_f3c8b01e3818",
+  "fingerprint": "f3c8b01e3818eb7846a3c93359c0a7798933d53103b0f19b3c62112643cd24d7",
+  "archived_at": "2026-09-17T21:03:41Z",
+  "metadata": {
+    "title": "Ap152",
+    "artist": "Vitor Cozilos Vitor",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 996,
+    "duration_human": "00:16:36",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Vitor Cozilos Vitor - O bandido da luz negra (2009)",
+      "02 Vitor Cozilos Vitor - Sorte",
+      "03 Vitor Cozilos Vitor - For Tweeny",
+      "04 Vitor Cozilos Vitor - National acrobata",
+      "05 Vitor Cozilos Vitor - Tudo bem (2009)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ap152_f3c8b01e3818"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/5301ea5dc1903059a5e2/Ap152.tar"
+    }
+  }
+}
