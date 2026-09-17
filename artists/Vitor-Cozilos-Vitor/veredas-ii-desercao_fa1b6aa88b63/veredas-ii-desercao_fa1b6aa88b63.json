@@ -1,0 +1,33 @@
+{
+  "id": "veredas-ii-desercao_fa1b6aa88b63",
+  "fingerprint": "fa1b6aa88b63348b78a609121e25a93f55539ba738a4c616edfcd5b9554d67dc",
+  "archived_at": "2026-09-17T22:45:15Z",
+  "metadata": {
+    "title": "Veredas II: Deserção",
+    "artist": "Vitor Cozilos Vitor",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2096,
+    "duration_human": "00:34:56",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Vitor Cozilos Vitor - Abandono de lugar que se frequentava por compromisso ou afinidade",
+      "02 Vitor Cozilos Vitor - Extinção dos habitantes",
+      "03 Vitor Cozilos Vitor - O homem público nº1",
+      "04 Vitor Cozilos Vitor - Contribuição para uma definição situacionista de jogo",
+      "05 Vitor Cozilos Vitor - Glenn mantra",
+      "06 Vitor Cozilos Vitor - Tudo que podia ter sido",
+      "07 Vitor Cozilos Vitor - Despovoação"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/veredas-ii-desercao_fa1b6aa88b63"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/3853a1de37a0ed99fb69/Veredas_II_Deser_o.tar"
+    }
+  }
+}
