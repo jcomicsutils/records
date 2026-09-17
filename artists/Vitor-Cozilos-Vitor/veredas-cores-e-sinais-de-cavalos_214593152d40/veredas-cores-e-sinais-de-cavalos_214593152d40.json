@@ -1,0 +1,35 @@
+{
+  "id": "veredas-cores-e-sinais-de-cavalos_214593152d40",
+  "fingerprint": "214593152d4012fb0db21521112477c866d5de0745d4888598ff3c3db3a13624",
+  "archived_at": "2026-09-17T22:41:29Z",
+  "metadata": {
+    "title": "Veredas: Cores e sinais de cavalos",
+    "artist": "Vitor Cozilos Vitor",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2634,
+    "duration_human": "00:43:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Vitor Cozilos Vitor - Isabel (Ou A ocupação solitária de lugares públicos vazios)",
+      "02 Vitor Cozilos Vitor - Baio (Ou Cavalo cor de ouro desmaiado)",
+      "03 Vitor Cozilos Vitor - Mil-flores (Ou Miniredemoinhos de folhas secas na rua deserta aos domingos)",
+      "04 Vitor Cozilos Vitor - Morzelo (Ou cavalo da cor de amora)",
+      "05 Vitor Cozilos Vitor - Estrelado (Ou São como aves de arribação)",
+      "06 Vitor Cozilos Vitor - Nevado (Ou A vampiresca)",
+      "07 Vitor Cozilos Vitor - (Entreatos) - Melanócomo",
+      "08 Vitor Cozilos Vitor - Lobuno (Ou Lua cheia em peixes)",
+      "09 Vitor Cozilos Vitor - Mascarado (Ou Muito cuidado ao lavar o cabo de uma faca de dois gumes)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/veredas-cores-e-sinais-de-cavalos_214593152d40"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/8b41d04d3da6a6530b45/Veredas_Cores_e_sinais_de_cavalos.tar"
+    }
+  }
+}
