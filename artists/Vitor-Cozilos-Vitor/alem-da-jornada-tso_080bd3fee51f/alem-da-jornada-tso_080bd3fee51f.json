@@ -1,0 +1,32 @@
+{
+  "id": "alem-da-jornada-tso_080bd3fee51f",
+  "fingerprint": "080bd3fee51f7e4c5f22d0d7515bbcc14deacfa25f24b2548c57d0b703ffcf0d",
+  "archived_at": "2026-09-17T20:53:33Z",
+  "metadata": {
+    "title": "Além da jornada (TSO)",
+    "artist": "Vitor Cozilos Vitor",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1578,
+    "duration_human": "00:26:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Vitor Cozilos Vitor - O elevador",
+      "02 Vitor Cozilos Vitor - A chaveira",
+      "03 Vitor Cozilos Vitor - O vampiro japonês",
+      "04 Vitor Cozilos Vitor - O prédio",
+      "05 Vitor Cozilos Vitor - A náusea",
+      "06 Vitor Cozilos Vitor - Sequência final"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/alem-da-jornada-tso_080bd3fee51f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/770fd6af1c91b39ba573/Al_m_da_jornada_TSO.tar"
+    }
+  }
+}
