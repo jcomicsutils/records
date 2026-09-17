@@ -1,0 +1,34 @@
+{
+  "id": "saboteur_329876699150",
+  "fingerprint": "32987669915037a1de6cbcbe6fb668af2e812ac0cbcfc3038e9bce678f402b46",
+  "archived_at": "2026-09-17T22:35:23Z",
+  "metadata": {
+    "title": "Saboteur",
+    "artist": "Vitor Cozilos Vitor",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2663,
+    "duration_human": "00:44:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Vitor Cozilos Vitor - Promessa",
+      "02 Vitor Cozilos Vitor - Jane",
+      "03 Vitor Cozilos Vitor - Agreste",
+      "04 Vitor Cozilos Vitor - Lauro Lee",
+      "05 Vitor Cozilos Vitor - O bandido da luz negra",
+      "06 Vitor Cozilos Vitor - Tudo bem",
+      "07 Vitor Cozilos Vitor - Traquitana",
+      "08 Vitor Cozilos Vitor - Agreste II (Faixa bônus)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/saboteur_329876699150"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/f14e9af460fb03f548e2/Saboteur.tar"
+    }
+  }
+}
