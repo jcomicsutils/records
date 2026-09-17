@@ -1,0 +1,34 @@
+{
+  "id": "operacao-camanducaia-tso_796e24e1d007",
+  "fingerprint": "796e24e1d0077f3e064d60218a6263deca70d1f0867874ddabbf464672f6a408",
+  "archived_at": "2026-09-17T22:03:14Z",
+  "metadata": {
+    "title": "Operação camanducaia (TSO)",
+    "artist": "Vitor Cozilos Vitor",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1171,
+    "duration_human": "00:19:31",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Vitor Cozilos Vitor - Depois da chuva",
+      "02 Vitor Cozilos Vitor - Espelho partido",
+      "03 Vitor Cozilos Vitor - Brumas",
+      "04 Vitor Cozilos Vitor - O quarto vazio",
+      "05 Vitor Cozilos Vitor - A roda",
+      "06 Vitor Cozilos Vitor - Chegada e partida",
+      "07 Vitor Cozilos Vitor - Neste lugar",
+      "08 Vitor Cozilos Vitor - Vestígios"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/operacao-camanducaia-tso_796e24e1d007"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/7e2507a382b135f4a08a/Opera_o_camanducaia_TSO.tar"
+    }
+  }
+}
