@@ -1,0 +1,39 @@
+{
+  "id": "pajeu-tso_e1a01c292af0",
+  "fingerprint": "e1a01c292af01161c36d59f1d53cce29c71bd6f61734f9bfa30dff9d02690a76",
+  "archived_at": "2026-09-17T22:12:03Z",
+  "metadata": {
+    "title": "Pajeú (TSO)",
+    "artist": "Vitor Cozilos Vitor",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 1719,
+    "duration_human": "00:28:39",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Vitor Cozilos Vitor - Pajeú I",
+      "02 Vitor Cozilos Vitor - Pajeú II",
+      "03 Vitor Cozilos Vitor - I",
+      "04 Vitor Cozilos Vitor - II",
+      "05 Vitor Cozilos Vitor - III",
+      "06 Vitor Cozilos Vitor - IV",
+      "07 Vitor Cozilos Vitor - Excerto I - Discurso Sônia Guajajara",
+      "08 Vitor Cozilos Vitor - Os deuses são ruidosos",
+      "09 Vitor Cozilos Vitor - Apagamento",
+      "10 Vitor Cozilos Vitor - Excerto II - Conversa Serginho E Maristela",
+      "11 Vitor Cozilos Vitor - Nictografia",
+      "12 Vitor Cozilos Vitor - Excerto III - Terapia Sonora Ananda Kaur",
+      "13 Vitor Cozilos Vitor - Poço da draga"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pajeu-tso_e1a01c292af0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/cdecb320a12e143e081f/Paje_TSO.tar"
+    }
+  }
+}
