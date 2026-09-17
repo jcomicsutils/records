@@ -1,0 +1,31 @@
+{
+  "id": "273-derision-there-was-still-the-plunge-into-the-well_b68cca1d7fb3",
+  "fingerprint": "b68cca1d7fb3afe62f7e72e09a846801b8375e3b6a8a27a9723bd349ce12254f",
+  "archived_at": "2026-09-17T01:24:16Z",
+  "metadata": {
+    "title": "#273: Derision! There Was Still the Plunge Into the Well",
+    "artist": "Body 13",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 29663,
+    "duration_human": "08:14:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Derision! There Was Still the Plunge Into the Well (Part 1)",
+      "02 Body 13 - Derision! There Was Still the Plunge Into the Well (Part 2)",
+      "03 Body 13 - Derision! There Was Still the Plunge Into the Well (Part 3)",
+      "04 Body 13 - Derision! There Was Still the Plunge Into the Well (Part 4)",
+      "05 Body 13 - Derision! There Was Still the Plunge Into the Well (Part 5)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/273-derision-there-was-still-the-plunge-into-the-well_b68cca1d7fb3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/94333f3cd93a39cd1dde/273_Derision_There_Was_Still_the_Plunge_Into_the_Well.tar"
+    }
+  }
+}
