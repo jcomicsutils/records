@@ -1,0 +1,31 @@
+{
+  "id": "trilha-sonora-do-filme-nunca_5dd571068382",
+  "fingerprint": "5dd571068382bd947f0def50d21ee83091e3c2617edf5e22cb5719163f2b6f14",
+  "archived_at": "2026-09-17T20:44:36Z",
+  "metadata": {
+    "title": "(Trilha sonora do filme nunca)",
+    "artist": "Vitor Cozilos Vitor",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1347,
+    "duration_human": "00:22:27",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Vitor Cozilos Vitor - Câmeras de segurança",
+      "02 Vitor Cozilos Vitor - O presente está fora de controle",
+      "03 Vitor Cozilos Vitor - Fotossensores",
+      "04 Vitor Cozilos Vitor - Com que frequência você desaparece?",
+      "05 Vitor Cozilos Vitor - Arruamento"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/trilha-sonora-do-filme-nunca_5dd571068382"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/6077f2cffcd182cbc080/Trilha_sonora_do_filme_nunca.tar"
+    }
+  }
+}

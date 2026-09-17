@@ -261,6 +261,7 @@
 - [Ursus Wallis](Ursus-Wallis/Ursus-Wallis.md)
 - [Various Artists](Various-Artists/Various-Artists.md)
 - [Vesuvio](Vesuvio/Vesuvio.md)
+- [Vitor Cozilos Vitor](Vitor-Cozilos-Vitor/Vitor-Cozilos-Vitor.md)
 - [Vomit-Self](Vomit-Self/Vomit-Self.md)
 - [XIU XIU](XIU-XIU/XIU-XIU.md)
 - [XXL](XXL/XXL.md)
