@@ -1,0 +1,33 @@
+{
+  "id": "nomeesobrenome-ou-arruar_720a41a5e37f",
+  "fingerprint": "720a41a5e37f4c23a6daca51bc68ea7709935f819bcbf5a985a1cd0dc63b830c",
+  "archived_at": "2026-09-17T21:59:07Z",
+  "metadata": {
+    "title": "NOMEeSOBRENOME (Ou ARRUAR)",
+    "artist": "Vitor Cozilos Vitor",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2197,
+    "duration_human": "00:36:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Vitor Cozilos Vitor - foiGOLPEsim",
+      "02 Vitor Cozilos Vitor - lembrançaREPENTINA",
+      "03 Vitor Cozilos Vitor - centroDEfortaleza",
+      "04 Vitor Cozilos Vitor - Eletricidades",
+      "05 Vitor Cozilos Vitor - Afaca",
+      "06 Vitor Cozilos Vitor - Abismeu",
+      "07 Vitor Cozilos Vitor - arRUAmento"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nomeesobrenome-ou-arruar_720a41a5e37f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/c82fb03de62c36c63dfc/NOMEeSOBRENOME_Ou_ARRUAR.tar"
+    }
+  }
+}
