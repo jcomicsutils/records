@@ -1,0 +1,34 @@
+{
+  "id": "rouco-exposto-fragil-cru_acbee4ca1629",
+  "fingerprint": "acbee4ca162939a3858fe026cc5b49bd5816a7aad743d1af3e30bf1770af5347",
+  "archived_at": "2026-09-17T22:25:46Z",
+  "metadata": {
+    "title": "Rouco, exposto, frágil, cru",
+    "artist": "Vitor Cozilos Vitor",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1863,
+    "duration_human": "00:31:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Vitor Cozilos Vitor - Lembrança repentina",
+      "02 Vitor Cozilos Vitor - O silêncio é o espaço vazio entre as bocas",
+      "03 Vitor Cozilos Vitor - Portentosa",
+      "04 Vitor Cozilos Vitor - Postit",
+      "05 Vitor Cozilos Vitor - A faca",
+      "06 Vitor Cozilos Vitor - Jardim suspenso",
+      "07 Vitor Cozilos Vitor - Vermelho azulzim",
+      "08 Vitor Cozilos Vitor - Promessa"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rouco-exposto-fragil-cru_acbee4ca1629"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/4462c41edbc5a175b670/Rouco_exposto_fr_gil_cru.tar"
+    }
+  }
+}
