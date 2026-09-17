@@ -1,0 +1,34 @@
+{
+  "id": "musica-alheia_c3d6c3ecf049",
+  "fingerprint": "c3d6c3ecf0492e3c52d18dcb5f00a36af538555a58833bdc0a26056872ff41fc",
+  "archived_at": "2026-09-17T21:50:58Z",
+  "metadata": {
+    "title": "Música alheia",
+    "artist": "Vitor Cozilos Vitor",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2069,
+    "duration_human": "00:34:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Vitor Cozilos Vitor - À Vontade (Ilya)",
+      "02 Vitor Cozilos Vitor - Velocidade (Vitoriano e seu conjunto)",
+      "03 Vitor Cozilos Vitor - Do harlem a cajazeiras (Mateus Fazeno Rock)",
+      "04 Vitor Cozilos Vitor - Outros sóis (Daniel medina)",
+      "05 Vitor Cozilos Vitor - Eco ao fundo da canção mórbida (Dronedeus)",
+      "06 Vitor Cozilos Vitor - Maus hábitos (Maquinas)",
+      "07 Vitor Cozilos Vitor - Mas... (Groove)",
+      "08 Vitor Cozilos Vitor - Quero te guardar nesse lugar bonito que é o mundo (Clau Aniz)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/musica-alheia_c3d6c3ecf049"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/e4bb5368269c7c96265c/M_sica_alheia.tar"
+    }
+  }
+}
