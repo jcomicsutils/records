@@ -1,0 +1,27 @@
+{
+  "id": "agresteexp-instlsnr01_833eabde6829",
+  "fingerprint": "833eabde682974e90523bf58dad277650a6f69b241e14358d06b8531ac63043f",
+  "archived_at": "2026-09-17T20:47:47Z",
+  "metadata": {
+    "title": "AgrESTE.EXP_INSTLSNR01",
+    "artist": "Vitor Cozilos Vitor",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 300,
+    "duration_human": "00:05:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Vitor Cozilos Vitor - agrESTE.EXP_INSTLSNR01"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/agresteexp-instlsnr01_833eabde6829"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/18c5d39dd3be2c77d926/AgrESTE.EXP_INSTLSNR01.tar"
+    }
+  }
+}
