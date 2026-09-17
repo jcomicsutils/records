@@ -1,0 +1,34 @@
+{
+  "id": "fotografia-de-rachadura_4fa46c1c1a6b",
+  "fingerprint": "4fa46c1c1a6b3b50b24d6410d952632c56786d96ad666ee69cc7f07dd17440bb",
+  "archived_at": "2026-09-17T21:46:11Z",
+  "metadata": {
+    "title": "Fotografia de rachadura",
+    "artist": "Vitor Cozilos Vitor",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1962,
+    "duration_human": "00:32:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Vitor Cozilos Vitor - Memorando",
+      "02 Vitor Cozilos Vitor - Tempestades tropicais",
+      "03 Vitor Cozilos Vitor - Nictografia",
+      "04 Vitor Cozilos Vitor - Fugere",
+      "05 Vitor Cozilos Vitor - Ecdise",
+      "06 Vitor Cozilos Vitor - Antessala",
+      "07 Vitor Cozilos Vitor - Do refluxo",
+      "08 Vitor Cozilos Vitor - Epílogo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fotografia-de-rachadura_4fa46c1c1a6b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/cb6d5e20320d8127eef6/Fotografia_de_rachadura.tar"
+    }
+  }
+}
