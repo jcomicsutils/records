@@ -1,0 +1,27 @@
+{
+  "id": "286-that-no-human-word-would-ever-reach-me_ebe9e585df78",
+  "fingerprint": "ebe9e585df78da49249e2bc3f81fdc7251f9ba2f0ecb53afb5432e4785ec89e4",
+  "archived_at": "2026-09-17T05:32:40Z",
+  "metadata": {
+    "title": "#286: That No Human Word Would Ever Reach Me",
+    "artist": "Body 13",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2708,
+    "duration_human": "00:45:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - That No Human Word Would Ever Reach Me"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/286-that-no-human-word-would-ever-reach-me_ebe9e585df78"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/36b2bdfa988c081b5fb9/286_That_No_Human_Word_Would_Ever_Reach_Me.tar"
+    }
+  }
+}
