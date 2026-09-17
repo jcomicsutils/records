@@ -1,0 +1,37 @@
+{
+  "id": "cancao_a26f92f94d2f",
+  "fingerprint": "a26f92f94d2fce62da3be9e2c78be69e3fb66df2e074341ef8b07fd64e03870f",
+  "archived_at": "2026-09-17T21:20:02Z",
+  "metadata": {
+    "title": "Cancão",
+    "artist": "Vitor Cozilos Vitor",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2466,
+    "duration_human": "00:41:06",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Vitor Cozilos Vitor - Tempestade",
+      "02 Vitor Cozilos Vitor - Azul de Led",
+      "03 Vitor Cozilos Vitor - Chão de cartas",
+      "04 Vitor Cozilos Vitor - Repouso para cancões",
+      "05 Vitor Cozilos Vitor - Meu choro",
+      "06 Vitor Cozilos Vitor - Ruína",
+      "07 Vitor Cozilos Vitor - Estranha alquimia",
+      "08 Vitor Cozilos Vitor - Lágrima Seca",
+      "09 Vitor Cozilos Vitor - Vale dos cancões mortos",
+      "10 Vitor Cozilos Vitor - Troféu ilusão 2",
+      "11 Vitor Cozilos Vitor - Incelência (Mestra naninha do crato)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cancao_a26f92f94d2f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/5ddb84f2e0e350dbc467/Canc_o.tar"
+    }
+  }
+}
