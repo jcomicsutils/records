@@ -1,0 +1,31 @@
+{
+  "id": "arruamento_9963013d9d8c",
+  "fingerprint": "9963013d9d8c7d0ee0c80953d3043239f5db1ff33fa1772fde365f69f23d3669",
+  "archived_at": "2026-09-17T21:08:25Z",
+  "metadata": {
+    "title": "Arruamento",
+    "artist": "Vitor Cozilos Vitor",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2188,
+    "duration_human": "00:36:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Vitor Cozilos Vitor - Constituição",
+      "02 Vitor Cozilos Vitor - Extensões Urbanas",
+      "03 Vitor Cozilos Vitor - A faca",
+      "04 Vitor Cozilos Vitor - Escaravelho",
+      "05 Vitor Cozilos Vitor - Arruamento"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/arruamento_9963013d9d8c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/271ad284d0cc27f3c380/Arruamento.tar"
+    }
+  }
+}
