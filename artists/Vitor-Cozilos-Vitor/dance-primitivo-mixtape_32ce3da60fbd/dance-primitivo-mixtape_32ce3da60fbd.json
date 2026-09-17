@@ -1,0 +1,32 @@
+{
+  "id": "dance-primitivo-mixtape_32ce3da60fbd",
+  "fingerprint": "32ce3da60fbdc8f44f15de18590c5d64c9e4998ea92382ee52810421112fc963",
+  "archived_at": "2026-09-17T21:32:54Z",
+  "metadata": {
+    "title": "Dance primitivo (Mixtape)",
+    "artist": "Vitor Cozilos Vitor",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1478,
+    "duration_human": "00:24:38",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Vitor Cozilos Vitor - Acordão I",
+      "02 Vitor Cozilos Vitor - Dance primitivo",
+      "03 Vitor Cozilos Vitor - Micropolítica do medo",
+      "04 Vitor Cozilos Vitor - Monopólio da violência",
+      "05 Vitor Cozilos Vitor - Messejana 11",
+      "06 Vitor Cozilos Vitor - Acordão II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dance-primitivo-mixtape_32ce3da60fbd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/b956f9226cea092f85f4/Dance_primitivo_Mixtape.tar"
+    }
+  }
+}
