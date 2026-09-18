@@ -1,0 +1,36 @@
+{
+  "id": "microtopia-original-game-score_4c014aeda8fb",
+  "fingerprint": "4c014aeda8fb4f1323623d68275f893ede9834639630bde75d944a875bafcb70",
+  "archived_at": "2026-09-18T09:01:31Z",
+  "metadata": {
+    "title": "Microtopia (Original Game Score)",
+    "artist": "Rutger Zuydervelt",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2856,
+    "duration_human": "00:47:36",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt - Menu Music",
+      "02 Rutger Zuydervelt - Blue Meadows",
+      "03 Rutger Zuydervelt - Tech Tree",
+      "04 Rutger Zuydervelt - Scrahara Desert",
+      "05 Rutger Zuydervelt - Nuptial Flight",
+      "06 Rutger Zuydervelt - Toxi Wasteland",
+      "07 Rutger Zuydervelt - Credits",
+      "08 Rutger Zuydervelt - Concrete Fields",
+      "09 Rutger Zuydervelt - Map Mode",
+      "10 Rutger Zuydervelt - Static Jungle"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/microtopia-original-game-score_4c014aeda8fb"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/1fa4d959cf40d60ebdae/Microtopia_Original_Game_Score.tar"
+    }
+  }
+}
