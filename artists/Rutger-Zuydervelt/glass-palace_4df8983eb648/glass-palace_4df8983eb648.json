@@ -1,0 +1,27 @@
+{
+  "id": "glass-palace_4df8983eb648",
+  "fingerprint": "4df8983eb648b19a984229c9352c10df2761cfb47e115d9d68d889749e066f66",
+  "archived_at": "2026-09-18T07:40:44Z",
+  "metadata": {
+    "title": "Glass Palace",
+    "artist": "Rutger Zuydervelt",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2055,
+    "duration_human": "00:34:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 René Aquarius & Rutger Zuydervelt - Glass Palace"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/glass-palace_4df8983eb648"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/3bea595b728cd7edb28d/Glass_Palace.tar"
+    }
+  }
+}
