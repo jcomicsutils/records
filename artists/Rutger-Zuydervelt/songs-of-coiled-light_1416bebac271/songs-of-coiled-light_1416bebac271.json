@@ -1,0 +1,32 @@
+{
+  "id": "songs-of-coiled-light_1416bebac271",
+  "fingerprint": "1416bebac271cb6d7353241043556d2b48a952ef601e0e816577f7a342687d5f",
+  "archived_at": "2026-09-18T10:00:10Z",
+  "metadata": {
+    "title": "Songs of Coiled Light",
+    "artist": "Rutger Zuydervelt",
+    "year": "2024",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 2128,
+    "duration_human": "00:35:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Colin Riley / Gareth Davis / Rutger Zuydervelt - The Wind Became an Anger I Walked Into Trying to Remember Her Voice",
+      "02 Colin Riley / Gareth Davis / Rutger Zuydervelt - Intrigued by the Possibilities of Her Own Place She Had Told Me Her Dreams",
+      "03 Colin Riley / Gareth Davis / Rutger Zuydervelt - Of the Visible History of the Air Around Us",
+      "04 Colin Riley / Gareth Davis / Rutger Zuydervelt - Of Stairways Covered With Centuries of Sleep",
+      "05 Colin Riley / Gareth Davis / Rutger Zuydervelt - Of Birds With Songs of Coiled Light",
+      "06 Colin Riley / Gareth Davis / Rutger Zuydervelt - Secrets Only I Believed"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/songs-of-coiled-light_1416bebac271"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/a925d51f5886da23dbd4/Songs_of_Coiled_Light.tar"
+    }
+  }
+}
