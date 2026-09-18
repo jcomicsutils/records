@@ -1,0 +1,27 @@
+{
+  "id": "buoyant-live_60ba6caebfda",
+  "fingerprint": "60ba6caebfdae39c139416590eaf22ead614cea5db2bee5821d954a13ee8aaf7",
+  "archived_at": "2026-09-18T06:43:45Z",
+  "metadata": {
+    "title": "Buoyant Live",
+    "artist": "Rutger Zuydervelt",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2893,
+    "duration_human": "00:48:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Dirk Serries + Rutger Zuydervelt - Buoyant Live"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/buoyant-live_60ba6caebfda"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/085a701bd7e7e04c19f6/Buoyant_Live.tar"
+    }
+  }
+}
