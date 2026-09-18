@@ -1,0 +1,27 @@
+{
+  "id": "the-sounds-outside_af30f9e05e78",
+  "fingerprint": "af30f9e05e78c52debe279390953545cbfe392329f9571626aafcadfd5f98f93",
+  "archived_at": "2026-09-18T10:19:43Z",
+  "metadata": {
+    "title": "The Sounds Outside",
+    "artist": "Rutger Zuydervelt",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1214,
+    "duration_human": "00:20:14",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Chantal Acda & Rutger Zuydervelt - The Sounds Outside"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-sounds-outside_af30f9e05e78"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/0242c0a3f12a5424e3d3/The_Sounds_Outside.tar"
+    }
+  }
+}
