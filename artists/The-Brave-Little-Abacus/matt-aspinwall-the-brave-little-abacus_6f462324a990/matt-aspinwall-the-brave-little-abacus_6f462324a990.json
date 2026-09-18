@@ -1,0 +1,36 @@
+{
+  "id": "matt-aspinwall-the-brave-little-abacus_6f462324a990",
+  "fingerprint": "6f462324a9903f0bf7173a534eb419dde764d3a62c8e5a8f014a25d01b98f4ab",
+  "archived_at": "2026-09-18T03:40:55Z",
+  "metadata": {
+    "title": "Matt Aspinwall / The Brave Little Abacus",
+    "artist": "The Brave Little Abacus",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2965,
+    "duration_human": "00:49:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Matt Aspinwall - I",
+      "02 Matt Aspinwall - II",
+      "03 Matt Aspinwall - III",
+      "04 Matt Aspinwall - IV",
+      "05 Matt Aspinwall - V",
+      "06 The Brave Little Abacus - Sol",
+      "07 The Brave Little Abacus - (Yes, He Did Help Overthrow Fulgencio Batista, But​,​) Che Guevara Didn't Wear His Own T​-​shirts",
+      "08 The Brave Little Abacus - Good Atmosphere",
+      "09 The Brave Little Abacus - Untitled",
+      "10 The Brave Little Abacus - El Capitano (Different Mix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/matt-aspinwall-the-brave-little-abacus_6f462324a990"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/2b2d2723016008398a33/Matt_Aspinwall_-_The_Brave_Little_Abacus.tar"
+    }
+  }
+}
