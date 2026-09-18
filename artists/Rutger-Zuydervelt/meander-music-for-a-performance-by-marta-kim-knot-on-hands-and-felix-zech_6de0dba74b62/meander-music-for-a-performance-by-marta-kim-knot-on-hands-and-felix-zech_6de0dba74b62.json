@@ -1,0 +1,33 @@
+{
+  "id": "meander-music-for-a-performance-by-marta-kim-knot-on-hands-and-felix-zech_6de0dba74b62",
+  "fingerprint": "6de0dba74b62a5fc2eaa1313171a1dacc74a47e86b0a53d1f08aad27fd75311d",
+  "archived_at": "2026-09-18T08:58:03Z",
+  "metadata": {
+    "title": "Meander (Music for a Performance by Marta & Kim, Knot on Hands and Felix Zech)",
+    "artist": "Rutger Zuydervelt",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2882,
+    "duration_human": "00:48:02",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt - Rafting",
+      "02 Rutger Zuydervelt - Trio / Duo / Solo",
+      "03 Rutger Zuydervelt - Kim & Tijs / Lightbulb Creature",
+      "04 Rutger Zuydervelt - Strandbeest",
+      "05 Rutger Zuydervelt - Tijs & Britt / Yes Phrase",
+      "06 Rutger Zuydervelt - Droplets",
+      "07 Rutger Zuydervelt - Blooming"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/meander-music-for-a-performance-by-marta-kim-knot-on-hands-and-felix-zech_6de0dba74b62"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/db46e7b016ee33dcb574/Meander_Music_for_a_Performance_by_Marta_Kim_Knot_on_Hands_a.tar"
+    }
+  }
+}
