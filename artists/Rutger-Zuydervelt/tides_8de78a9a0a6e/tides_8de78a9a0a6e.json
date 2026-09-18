@@ -1,0 +1,27 @@
+{
+  "id": "tides_8de78a9a0a6e",
+  "fingerprint": "8de78a9a0a6e3010fc4ae60eccb430288ba698f0f222d958974e176f9233e301",
+  "archived_at": "2026-09-18T10:25:26Z",
+  "metadata": {
+    "title": "Tides",
+    "artist": "Rutger Zuydervelt",
+    "year": "2015",
+    "codec": "AAC",
+    "num_tracks": 1,
+    "duration_seconds": 2281,
+    "duration_human": "00:38:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Neil Welch & Rutger Zuydervelt - Tides"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tides_8de78a9a0a6e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/4e856839302229db751e/Tides.tar"
+    }
+  }
+}
