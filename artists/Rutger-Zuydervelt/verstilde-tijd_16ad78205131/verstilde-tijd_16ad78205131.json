@@ -1,0 +1,27 @@
+{
+  "id": "verstilde-tijd_16ad78205131",
+  "fingerprint": "16ad78205131f75c219d5588ad1bcfdadd95f341dded022484bfd8845159d8b7",
+  "archived_at": "2026-09-18T10:28:12Z",
+  "metadata": {
+    "title": "Verstilde Tijd",
+    "artist": "Rutger Zuydervelt",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3355,
+    "duration_human": "00:55:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt - Verstilde Tijd"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/verstilde-tijd_16ad78205131"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/66010e3bb67340c0493b/Verstilde_Tijd.tar"
+    }
+  }
+}
