@@ -1,0 +1,33 @@
+{
+  "id": "kites-music-for-a-performance-by-roshanak-morrowatian_7cc1de11dfc6",
+  "fingerprint": "7cc1de11dfc67586d8202b27dd1df0d062bf113127c67e83b967f6b7ce4fdbd1",
+  "archived_at": "2026-09-18T08:43:53Z",
+  "metadata": {
+    "title": "Kites (Music for a Performance by Roshanak Morrowatian)",
+    "artist": "Rutger Zuydervelt",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2582,
+    "duration_human": "00:43:02",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt - Bags",
+      "02 Rutger Zuydervelt - Places",
+      "03 Rutger Zuydervelt - Hops & Places",
+      "04 Rutger Zuydervelt - Traces",
+      "05 Rutger Zuydervelt - Obsolete Veil",
+      "06 Rutger Zuydervelt - Breath",
+      "07 Rutger Zuydervelt - Landscaping"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kites-music-for-a-performance-by-roshanak-morrowatian_7cc1de11dfc6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/e6130e301270c960d444/Kites_Music_for_a_Performance_by_Roshanak_Morrowatian.tar"
+    }
+  }
+}
