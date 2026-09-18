@@ -1,0 +1,28 @@
+{
+  "id": "berg-music-for-a-film-by-joke-olthaar_3da99ae454ec",
+  "fingerprint": "3da99ae454ecfee638a6920384eb6ac9bb9cfd294eb1218907f43ba5a5bcbcd3",
+  "archived_at": "2026-09-18T06:23:50Z",
+  "metadata": {
+    "title": "BERG (Music for a Film by Joke Olthaar)",
+    "artist": "Rutger Zuydervelt",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3730,
+    "duration_human": "01:02:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt / Hugo Dijkstal - BERG (Album Edit)",
+      "02 Rutger Zuydervelt / Peter Hollo - BERG (Score Sketch)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/berg-music-for-a-film-by-joke-olthaar_3da99ae454ec"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/ad523f1c8a5fbbdd92f7/BERG_Music_for_a_Film_by_Joke_Olthaar.tar"
+    }
+  }
+}
