@@ -1,0 +1,27 @@
+{
+  "id": "pierdrie_ad1721458916",
+  "fingerprint": "ad1721458916c4173c5734ef554e1ea0d787660d7d56f6485156b4224ce85ce2",
+  "archived_at": "2026-09-18T09:34:45Z",
+  "metadata": {
+    "title": "Pierdrie",
+    "artist": "Rutger Zuydervelt",
+    "year": "2012",
+    "codec": "AAC",
+    "num_tracks": 1,
+    "duration_seconds": 1082,
+    "duration_human": "00:18:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Marco Douma, Roel Meelkop & Rutger Zuydervelt - Pierdrie"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pierdrie_ad1721458916"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/9c8ca2d8e37bd855699c/Pierdrie.tar"
+    }
+  }
+}
