@@ -1,0 +1,27 @@
+{
+  "id": "edge-of-oblivion_84191e6f5908",
+  "fingerprint": "84191e6f5908c449a16d18c2c8fea9e5807b1b118d81bd32ccbd60b2c79c20ac",
+  "archived_at": "2026-09-18T07:13:47Z",
+  "metadata": {
+    "title": "Edge of Oblivion",
+    "artist": "Rutger Zuydervelt",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2160,
+    "duration_human": "00:36:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Bruno Duplant & Rutger Zuydervelt - Edge of Oblivion"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/edge-of-oblivion_84191e6f5908"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/3c7197ef380c904be9e6/Edge_of_Oblivion.tar"
+    }
+  }
+}
