@@ -1,0 +1,27 @@
+{
+  "id": "stay-tuned_ae028dd61a75",
+  "fingerprint": "ae028dd61a751c2fc1a8e580f960dad3410756150d3b5ff6603c2aef65cf2f9b",
+  "archived_at": "2026-09-18T10:01:25Z",
+  "metadata": {
+    "title": "Stay Tuned",
+    "artist": "Rutger Zuydervelt",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2999,
+    "duration_human": "00:49:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt - Stay Tuned"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stay-tuned_ae028dd61a75"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/f34f46ca9727108ef16d/Stay_Tuned.tar"
+    }
+  }
+}
