@@ -1,0 +1,44 @@
+{
+  "id": "the-cold-and-the-quiet_7a5e46fa6db5",
+  "fingerprint": "7a5e46fa6db537e9042992bc653c7a8abb8571f0d0f71259e4aff4c5e50b9093",
+  "archived_at": "2026-09-18T10:14:33Z",
+  "metadata": {
+    "title": "The Cold and the Quiet",
+    "artist": "Rutger Zuydervelt",
+    "year": "2015",
+    "codec": "AAC",
+    "num_tracks": 18,
+    "duration_seconds": 2388,
+    "duration_human": "00:39:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Rutger Zuydervelt - Emma",
+      "02 Rutger Zuydervelt - Alone",
+      "03 Rutger Zuydervelt - Leaving",
+      "04 Rutger Zuydervelt - Night Fall",
+      "05 Rutger Zuydervelt - Search",
+      "06 Rutger Zuydervelt - William",
+      "07 Rutger Zuydervelt - Basement",
+      "08 Rutger Zuydervelt - Tannenbaum",
+      "09 Rutger Zuydervelt - Pathetic / Broken Bulb",
+      "10 Rutger Zuydervelt - Cigarettes",
+      "11 Rutger Zuydervelt - Drive",
+      "12 Rutger Zuydervelt - Perfect / Visions",
+      "13 Rutger Zuydervelt - Sketching",
+      "14 Rutger Zuydervelt - Peace",
+      "15 Rutger Zuydervelt - Bath",
+      "16 Rutger Zuydervelt - Losers I'm Home / Joy",
+      "17 Rutger Zuydervelt - Freak",
+      "18 Rutger Zuydervelt - Chrissy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-cold-and-the-quiet_7a5e46fa6db5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/d8707df149fd385238c5/The_Cold_and_the_Quiet.tar"
+    }
+  }
+}
