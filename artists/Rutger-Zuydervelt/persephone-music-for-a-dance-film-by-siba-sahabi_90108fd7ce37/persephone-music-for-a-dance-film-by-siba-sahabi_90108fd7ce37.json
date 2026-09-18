@@ -1,0 +1,27 @@
+{
+  "id": "persephone-music-for-a-dance-film-by-siba-sahabi_90108fd7ce37",
+  "fingerprint": "90108fd7ce37c672d1f5527222285b7de4b5799578fdba1327e2afb8c5f04f91",
+  "archived_at": "2026-09-18T09:34:00Z",
+  "metadata": {
+    "title": "Persephone (Music for a Dance Film by Siba Sahabi)",
+    "artist": "Rutger Zuydervelt",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 584,
+    "duration_human": "00:09:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt - Persephone (Music for a Dance Film by Siba Sahabi)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/persephone-music-for-a-dance-film-by-siba-sahabi_90108fd7ce37"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/65aef04347b960bfc1af/Persephone_Music_for_a_Dance_Film_by_Siba_Sahabi.tar"
+    }
+  }
+}
