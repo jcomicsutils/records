@@ -1,0 +1,27 @@
+{
+  "id": "curve-music-for-an-installation-by-cocky-eek-and-schweigman_4e70f4f3a381",
+  "fingerprint": "4e70f4f3a3813e5700de9f20f516efe794f22e97780fb4d8dff45dd4c6f95b40",
+  "archived_at": "2026-09-18T07:02:56Z",
+  "metadata": {
+    "title": "Curve (Music for an Installation by Cocky Eek and Schweigman)",
+    "artist": "Rutger Zuydervelt",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1230,
+    "duration_human": "00:20:30",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt - Curve (Music for an Installation by Cocky Eek and Schweigman)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/curve-music-for-an-installation-by-cocky-eek-and-schweigman_4e70f4f3a381"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/2dae454c9e7b977326a2/Curve_Music_for_an_Installation_by_Cocky_Eek_and_Schweigman.tar"
+    }
+  }
+}
