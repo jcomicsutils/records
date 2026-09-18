@@ -1,0 +1,29 @@
+{
+  "id": "epitaph-live-at-roadburn-redux-2021_e823aba2107a",
+  "fingerprint": "e823aba2107a95e40cb0425b225e2c61a277a3562e6475a3375d9dce56b959c6",
+  "archived_at": "2026-09-18T07:15:34Z",
+  "metadata": {
+    "title": "Epitaph. Live at Roadburn Redux 2021",
+    "artist": "Rutger Zuydervelt",
+    "year": "2022",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 3175,
+    "duration_human": "00:52:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Dirk Serries with Tom Malmendier & Rutger Zuydervelt - Part One",
+      "02 Dirk Serries with Tom Malmendier & Rutger Zuydervelt - Part Two",
+      "03 Dirk Serries with Tom Malmendier & Rutger Zuydervelt - Part Three"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/epitaph-live-at-roadburn-redux-2021_e823aba2107a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/8bfedf48a9b6f85fe3f0/Epitaph._Live_at_Roadburn_Redux_2021.tar"
+    }
+  }
+}
