@@ -1,0 +1,38 @@
+{
+  "id": "just-got-back-from-the-discomfort-were-alright_5a8d68d28bec",
+  "fingerprint": "5a8d68d28becd3079857d26e3538f45e5544c383813a8491c29e0ace0e769c6f",
+  "archived_at": "2026-09-18T03:10:49Z",
+  "metadata": {
+    "title": "Just Got Back From the Discomfort - We're Alright",
+    "artist": "The Brave Little Abacus",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2699,
+    "duration_human": "00:44:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Brave Little Abacus - Pile! No Pile! Pile!",
+      "02 The Brave Little Abacus - Please Don't Cry, They Stopped Hours Ago.",
+      "03 The Brave Little Abacus - Boy's Theme",
+      "04 The Brave Little Abacus - A Highway Got Paved Over My Future, I Drive It Getting to School",
+      "05 The Brave Little Abacus - The Blah Blah Blahs",
+      "06 The Brave Little Abacus - Can't Run Away",
+      "07 The Brave Little Abacus - Untitled (Cont.)",
+      "08 The Brave Little Abacus - Aubade (Morning Love Song)",
+      "09 The Brave Little Abacus - It's Not What You Think It Is",
+      "10 The Brave Little Abacus - Allston, Massachusetts December 2009—January 2010",
+      "11 The Brave Little Abacus - Bug-Infested Floorboards—Can We Please Just Leave This Place, Now",
+      "12 The Brave Little Abacus - Orange, Blue With Stripes"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/just-got-back-from-the-discomfort-were-alright_5a8d68d28bec"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/be3b1c73d69cc0556081/Just_Got_Back_From_the_Discomfort_-_We_re_Alright.tar"
+    }
+  }
+}
