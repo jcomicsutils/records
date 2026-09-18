@@ -1,0 +1,38 @@
+{
+  "id": "flux-music-for-a-performance-by-still-still-marta-kim_024f0bd3c31f",
+  "fingerprint": "024f0bd3c31f51ebff570a3458ab38b2ff065f969a036e975fe1f25b32025159",
+  "archived_at": "2026-09-18T07:26:58Z",
+  "metadata": {
+    "title": "FLUX (Music for a Performance by Still Still / Marta & Kim)",
+    "artist": "Rutger Zuydervelt",
+    "year": "2025",
+    "codec": "MP3",
+    "num_tracks": 12,
+    "duration_seconds": 3762,
+    "duration_human": "01:02:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Rutger Zuydervelt and Lucija Gregov - (Not) Not Three High",
+      "02 Rutger Zuydervelt and Lucija Gregov - Troyka",
+      "03 Rutger Zuydervelt and Lucija Gregov - Vertigo",
+      "04 Rutger Zuydervelt and Lucija Gregov - Corridors and Memories",
+      "05 Rutger Zuydervelt and Lucija Gregov - Marie's Memory",
+      "06 Rutger Zuydervelt and Lucija Gregov - Carry Kim",
+      "07 Rutger Zuydervelt and Lucija Gregov - Lava Lamp",
+      "08 Rutger Zuydervelt and Lucija Gregov - Conversation",
+      "09 Rutger Zuydervelt and Lucija Gregov - Mandala",
+      "10 Rutger Zuydervelt and Lucija Gregov - Spinning Dress",
+      "11 Rutger Zuydervelt and Lucija Gregov - Drone (Outtake)",
+      "12 Rutger Zuydervelt and Lucija Gregov - Euphoria (Outtake)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/flux-music-for-a-performance-by-still-still-marta-kim_024f0bd3c31f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/32ccdd49033c44618bfc/FLUX_Music_for_a_Performance_by_Still_Still_-_Marta_Kim.tar"
+    }
+  }
+}
