@@ -1,0 +1,30 @@
+{
+  "id": "buoyant_09c08390ecd6",
+  "fingerprint": "09c08390ecd689e6b057460ee8292364da4306f7282bd91ca7f2804f7f67a261",
+  "archived_at": "2026-09-18T06:29:58Z",
+  "metadata": {
+    "title": "Buoyant",
+    "artist": "Rutger Zuydervelt",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2782,
+    "duration_human": "00:46:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Dirk Serries + Rutger Zuydervelt - Buoyant One: Lost Trail",
+      "02 Dirk Serries + Rutger Zuydervelt - Buoyant Two: The Whispering Scale",
+      "03 Dirk Serries + Rutger Zuydervelt - Buoyant Three: Unraveled Blanket",
+      "04 Dirk Serries + Rutger Zuydervelt - Buoyant Four: The Dissection"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/buoyant_09c08390ecd6"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/09f9c3ffc31f920aa4fd/Buoyant.tar"
+    }
+  }
+}
