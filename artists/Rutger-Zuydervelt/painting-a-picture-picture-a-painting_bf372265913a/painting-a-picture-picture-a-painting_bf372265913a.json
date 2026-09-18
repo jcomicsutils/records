@@ -1,0 +1,28 @@
+{
+  "id": "painting-a-picture-picture-a-painting_bf372265913a",
+  "fingerprint": "bf372265913a7d3c051b9a9d4f60222df90df25c7d32ce278a99c8e6d59f8ecf",
+  "archived_at": "2026-09-18T09:30:47Z",
+  "metadata": {
+    "title": "Painting a Picture / Picture a Painting",
+    "artist": "Rutger Zuydervelt",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1856,
+    "duration_human": "00:30:56",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Giovanni Di Domenico & Rutger Zuydervelt - Painting a Picture",
+      "02 Giovanni Di Domenico & Rutger Zuydervelt - Picture a Painting"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/painting-a-picture-picture-a-painting_bf372265913a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/ce5aca10966239a308f3/Painting_a_Picture_-_Picture_a_Painting.tar"
+    }
+  }
+}
