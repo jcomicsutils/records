@@ -1,0 +1,28 @@
+{
+  "id": "what-it-seems-to-be_7367e49d0ae0",
+  "fingerprint": "7367e49d0ae0860a2524a5238e88ce87ea2de2918a23cf1ab6ab0e2c7c4905e7",
+  "archived_at": "2026-09-18T10:46:19Z",
+  "metadata": {
+    "title": "What It Seems to Be",
+    "artist": "Rutger Zuydervelt",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2659,
+    "duration_human": "00:44:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sarah Payton & Rutger Zuydervelt - What is Seems to Be",
+      "02 Sarah Payton & Rutger Zuydervelt - What It Seems to Be (Instrumental)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/what-it-seems-to-be_7367e49d0ae0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/15776192c9a6610752d4/What_It_Seems_to_Be.tar"
+    }
+  }
+}
