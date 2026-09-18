@@ -1,0 +1,32 @@
+{
+  "id": "tuimelval_b0bf929ad720",
+  "fingerprint": "b0bf929ad720cf6aca7245625a27697bff23370f4e451050e945ddd4a4f1cc37",
+  "archived_at": "2026-09-18T10:26:59Z",
+  "metadata": {
+    "title": "Tuimelval",
+    "artist": "Rutger Zuydervelt",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 981,
+    "duration_human": "00:16:21",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt - Tuimelval 1",
+      "02 Rutger Zuydervelt - Tuimelval 2",
+      "03 Rutger Zuydervelt - Tuimelval 3",
+      "04 Rutger Zuydervelt - Tuimelval 4",
+      "05 Rutger Zuydervelt - Tuimelval 5",
+      "06 Rutger Zuydervelt - Tuimelval 6"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tuimelval_b0bf929ad720"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/7a1f4428425d974cc29a/Tuimelval.tar"
+    }
+  }
+}
