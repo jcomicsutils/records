@@ -1,0 +1,28 @@
+{
+  "id": "fog-drops_1140acf2f221",
+  "fingerprint": "1140acf2f221f414adf3e144e8300890a6b1c027e190ba790706ff6804cec48e",
+  "archived_at": "2026-09-18T07:28:37Z",
+  "metadata": {
+    "title": "Fog / Drops",
+    "artist": "Rutger Zuydervelt",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 2468,
+    "duration_human": "00:41:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Rutger Zuydervelt - Fog",
+      "02 Rutger Zuydervelt - Drops"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fog-drops_1140acf2f221"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/c45de8c60cf73d3e4238/Fog_-_Drops.tar"
+    }
+  }
+}
