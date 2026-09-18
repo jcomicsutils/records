@@ -1,0 +1,33 @@
+{
+  "id": "kadans_c696cbc4d21a",
+  "fingerprint": "c696cbc4d21a446571618e875860ef8757e705c2d62432c3889d3ef586a81eb6",
+  "archived_at": "2026-09-18T08:33:41Z",
+  "metadata": {
+    "title": "Kadans",
+    "artist": "Rutger Zuydervelt",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1084,
+    "duration_human": "00:18:04",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt - Kadans 1",
+      "02 Rutger Zuydervelt - Kadans 2",
+      "03 Rutger Zuydervelt - Kadans 3",
+      "04 Rutger Zuydervelt - Kadans 4",
+      "05 Rutger Zuydervelt - Kadans 5",
+      "06 Rutger Zuydervelt - Kadans 6",
+      "07 Rutger Zuydervelt - Kadans 7"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kadans_c696cbc4d21a"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/6bd02a24471b8bcd70e0/Kadans.tar"
+    }
+  }
+}
