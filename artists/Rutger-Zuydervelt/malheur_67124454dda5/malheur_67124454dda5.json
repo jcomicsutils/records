@@ -1,0 +1,33 @@
+{
+  "id": "malheur_67124454dda5",
+  "fingerprint": "67124454dda5cb57bfe92ac45de20c69a6e16de2b08e843b7e3a95010c6e80a1",
+  "archived_at": "2026-09-18T08:51:38Z",
+  "metadata": {
+    "title": "Malheur",
+    "artist": "Rutger Zuydervelt",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1195,
+    "duration_human": "00:19:55",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt - Malheur 1",
+      "02 Rutger Zuydervelt - Malheur 2",
+      "03 Rutger Zuydervelt - Malheur 3",
+      "04 Rutger Zuydervelt - Malheur 4",
+      "05 Rutger Zuydervelt - Malheur 5",
+      "06 Rutger Zuydervelt - Malheur 6",
+      "07 Rutger Zuydervelt - Malheur 7"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/malheur_67124454dda5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/e07ab97eef33cd686618/Malheur.tar"
+    }
+  }
+}
