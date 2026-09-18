@@ -1,0 +1,30 @@
+{
+  "id": "kaleiding-music-for-a-performance-by-lily-janick_82bc94e28c19",
+  "fingerprint": "82bc94e28c19601de4de6be0cdd15bd25b1fe42e6149e02ff8b8eaa147d2a6a7",
+  "archived_at": "2026-09-18T08:40:44Z",
+  "metadata": {
+    "title": "Kaleiding (Music for a Performance by Lily & Janick)",
+    "artist": "Rutger Zuydervelt",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2759,
+    "duration_human": "00:45:59",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt - Part 1 - Utopia",
+      "02 Rutger Zuydervelt - Part 2 - Escallation",
+      "03 Rutger Zuydervelt - Part 3 - Dystopia",
+      "04 Rutger Zuydervelt - Part 4 - Point of No Return"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kaleiding-music-for-a-performance-by-lily-janick_82bc94e28c19"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/6c863b2dc0eada0c41fe/Kaleiding_Music_for_a_Performance_by_Lily_Janick.tar"
+    }
+  }
+}
