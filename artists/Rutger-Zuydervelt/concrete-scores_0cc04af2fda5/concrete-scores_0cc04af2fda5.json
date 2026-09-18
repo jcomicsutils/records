@@ -1,0 +1,28 @@
+{
+  "id": "concrete-scores_0cc04af2fda5",
+  "fingerprint": "0cc04af2fda5dbc3625ed784b13c86b6b01f077bf91ea7a43933827b23a2c1af",
+  "archived_at": "2026-09-18T07:00:54Z",
+  "metadata": {
+    "title": "Concrete Scores",
+    "artist": "Rutger Zuydervelt",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3250,
+    "duration_human": "00:54:10",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt - Cinéma Concret (Film Score)",
+      "02 Rutger Zuydervelt - Cinéma Concret (Installation Score)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/concrete-scores_0cc04af2fda5"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/f5cc1a2b75d20c20454b/Concrete_Scores.tar"
+    }
+  }
+}
