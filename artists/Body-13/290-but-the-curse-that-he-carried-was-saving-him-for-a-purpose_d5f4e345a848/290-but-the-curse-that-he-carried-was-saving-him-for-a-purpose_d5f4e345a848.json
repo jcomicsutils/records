@@ -1,0 +1,46 @@
+{
+  "id": "290-but-the-curse-that-he-carried-was-saving-him-for-a-purpose_d5f4e345a848",
+  "fingerprint": "d5f4e345a8480773459de3f47e31263637edf9eff177d6690e98e7aaa639a311",
+  "archived_at": "2026-09-18T16:09:07Z",
+  "metadata": {
+    "title": "#290: But the Curse That He Carried Was Saving Him for a Purpose",
+    "artist": "Body 13",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 117974,
+    "duration_human": "32:46:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - But the Curse That He Carried Was Saving Him for a Purpose (Part 1)",
+      "02 Body 13 - But the Curse That He Carried Was Saving Him for a Purpose (Part 2)",
+      "03 Body 13 - But the Curse That He Carried Was Saving Him for a Purpose (Part 3)",
+      "04 Body 13 - But the Curse That He Carried Was Saving Him for a Purpose (Part 4)",
+      "05 Body 13 - But the Curse That He Carried Was Saving Him for a Purpose (Part 5)",
+      "06 Body 13 - But the Curse That He Carried Was Saving Him for a Purpose (Part 6)",
+      "07 Body 13 - But the Curse That He Carried Was Saving Him for a Purpose (Part 7)",
+      "08 Body 13 - But the Curse That He Carried Was Saving Him for a Purpose (Part 8)",
+      "09 Body 13 - But the Curse That He Carried Was Saving Him for a Purpose (Part 9)",
+      "10 Body 13 - But the Curse That He Carried Was Saving Him for a Purpose (Part 10)",
+      "11 Body 13 - But the Curse That He Carried Was Saving Him for a Purpose (Part 11)",
+      "12 Body 13 - But the Curse That He Carried Was Saving Him for a Purpose (Part 12)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/290-but-the-curse-that-he-carried-was-saving-him-for-a-purpose_d5f4e345a848"
+    },
+    "fileditch": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://fileditchfiles.st/alpha30/8c45aec242a60c7087a5/290_But_the_Curse_That_He_Carried_Was_Saving_Him_for_a_Purpose.part001.tar"
+        },
+        {
+          "url": "https://fileditchfiles.st/alpha30/74711ed65b066d3ef68d/290_But_the_Curse_That_He_Carried_Was_Saving_Him_for_a_Purpose.part002.tar"
+        }
+      ]
+    }
+  }
+}
