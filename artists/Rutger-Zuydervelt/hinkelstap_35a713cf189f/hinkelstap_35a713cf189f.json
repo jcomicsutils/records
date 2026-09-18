@@ -1,0 +1,32 @@
+{
+  "id": "hinkelstap_35a713cf189f",
+  "fingerprint": "35a713cf189fd7b9d8f4ade31b33d0047b7332b163254d0ab77812e9fed08249",
+  "archived_at": "2026-09-18T08:06:41Z",
+  "metadata": {
+    "title": "Hinkelstap",
+    "artist": "Rutger Zuydervelt",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 936,
+    "duration_human": "00:15:36",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt - Hinkelstap 1",
+      "02 Rutger Zuydervelt - Hinkelstap 2",
+      "03 Rutger Zuydervelt - Hinkelstap 3",
+      "04 Rutger Zuydervelt - Hinkelstap 4",
+      "05 Rutger Zuydervelt - Hinkelstap 5",
+      "06 Rutger Zuydervelt - Hinkelstap 6"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hinkelstap_35a713cf189f"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/69e8f8ae19e1b17a873d/Hinkelstap.tar"
+    }
+  }
+}
