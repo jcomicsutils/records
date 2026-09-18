@@ -1,0 +1,30 @@
+{
+  "id": "recollecting_0fe38ea761d8",
+  "fingerprint": "0fe38ea761d86130b5d11d5eaa3483854bcdb6777c9f18ea2c829a4643d40735",
+  "archived_at": "2026-09-18T09:47:56Z",
+  "metadata": {
+    "title": "Re:collecting",
+    "artist": "Rutger Zuydervelt",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1929,
+    "duration_human": "00:32:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 SR Hess + RM Zuydervelt - Auroral",
+      "02 SR Hess + RM Zuydervelt - Re:collection",
+      "03 SR Hess + RM Zuydervelt - Evenfall",
+      "04 SR Hess + RM Zuydervelt - Delusion"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/recollecting_0fe38ea761d8"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/42400740a5067c2b0b2c/Recollecting.tar"
+    }
+  }
+}
