@@ -1,0 +1,27 @@
+{
+  "id": "sneeuwstorm_7eb272ea4ecd",
+  "fingerprint": "7eb272ea4ecd1036fe3fdd5b7697efed014967f1487d0ad9571ddfa64888428a",
+  "archived_at": "2026-09-18T09:55:47Z",
+  "metadata": {
+    "title": "Sneeuwstorm",
+    "artist": "Rutger Zuydervelt",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1865,
+    "duration_human": "00:31:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt - Sneeuwstorm"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sneeuwstorm_7eb272ea4ecd"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/feb8679a1ee7e817f1d8/Sneeuwstorm.tar"
+    }
+  }
+}
