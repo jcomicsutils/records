@@ -1,0 +1,27 @@
+{
+  "id": "ijstijd_a5f7cc024df3",
+  "fingerprint": "a5f7cc024df3e62a692297b3055b2af1e11d82883184ebd1e384a513b285fb9b",
+  "archived_at": "2026-09-18T08:29:02Z",
+  "metadata": {
+    "title": "IJstijd",
+    "artist": "Rutger Zuydervelt",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 599,
+    "duration_human": "00:09:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt with Gareth Davis and Enrico Malatesta - IJstijd"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ijstijd_a5f7cc024df3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/20f457a95cb37480c09e/IJstijd.tar"
+    }
+  }
+}
