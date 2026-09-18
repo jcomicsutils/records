@@ -1,0 +1,36 @@
+{
+  "id": "house-of-strength_f58b6f301428",
+  "fingerprint": "f58b6f30142857eafd8134069f910bbea68988e3d5c27622bd15fb5970187f39",
+  "archived_at": "2026-09-18T08:19:52Z",
+  "metadata": {
+    "title": "House of Strength",
+    "artist": "Rutger Zuydervelt",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3526,
+    "duration_human": "00:58:46",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt - Humming",
+      "02 Rutger Zuydervelt - House of Strength",
+      "03 Rutger Zuydervelt - Angelic",
+      "04 Rutger Zuydervelt - Choreo",
+      "05 Rutger Zuydervelt - Arise",
+      "06 Rutger Zuydervelt - Reza's Solo",
+      "07 Rutger Zuydervelt - Vain's Solo",
+      "08 Rutger Zuydervelt - Voorbij",
+      "09 Rutger Zuydervelt - Scatter (Outtake)",
+      "10 Rutger Zuydervelt - Lori Line (Outtake)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/house-of-strength_f58b6f301428"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/207ac7b6127b7d9981db/House_of_Strength.tar"
+    }
+  }
+}
