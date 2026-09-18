@@ -1,0 +1,49 @@
+{
+  "id": "291-picking-at-a-clay-pot-full-of-rice-pudding-that-the-soldiers-left-outside_e870fa5d77e8",
+  "fingerprint": "e870fa5d77e8a608623806cafaa8ca05d7e77dceff2a675e97fe1601b1bd9a03",
+  "archived_at": "2026-09-18T19:47:15Z",
+  "metadata": {
+    "title": "#291: Picking at a Clay Pot Full of Rice Pudding That the Soldiers Left Outside",
+    "artist": "Body 13",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 107423,
+    "duration_human": "29:50:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Picking at a Clay Pot Full of Rice Pudding That the Soldiers Left Outside (Part 1)",
+      "02 Body 13 - Picking at a Clay Pot Full of Rice Pudding That the Soldiers Left Outside (Part 2)",
+      "03 Body 13 - Picking at a Clay Pot Full of Rice Pudding That the Soldiers Left Outside (Part 3)",
+      "04 Body 13 - Picking at a Clay Pot Full of Rice Pudding That the Soldiers Left Outside (Part 4)",
+      "05 Body 13 - Picking at a Clay Pot Full of Rice Pudding That the Soldiers Left Outside (Part 5)",
+      "06 Body 13 - Picking at a Clay Pot Full of Rice Pudding That the Soldiers Left Outside (Part 6)",
+      "07 Body 13 - Picking at a Clay Pot Full of Rice Pudding That the Soldiers Left Outside (Part 7)",
+      "08 Body 13 - Picking at a Clay Pot Full of Rice Pudding That the Soldiers Left Outside (Part 8)",
+      "09 Body 13 - Picking at a Clay Pot Full of Rice Pudding That the Soldiers Left Outside (Part 9)",
+      "10 Body 13 - Picking at a Clay Pot Full of Rice Pudding That the Soldiers Left Outside (Part 10)",
+      "11 Body 13 - Picking at a Clay Pot Full of Rice Pudding That the Soldiers Left Outside (Part 11)",
+      "12 Body 13 - Picking at a Clay Pot Full of Rice Pudding That the Soldiers Left Outside (Part 12)",
+      "13 Body 13 - Picking at a Clay Pot Full of Rice Pudding That the Soldiers Left Outside (Part 13)",
+      "14 Body 13 - Picking at a Clay Pot Full of Rice Pudding That the Soldiers Left Outside (Part 14)",
+      "15 Body 13 - Picking at a Clay Pot Full of Rice Pudding That the Soldiers Left Outside (Part 15)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/291-picking-at-a-clay-pot-full-of-rice-pudding-that-the-soldiers-left-outside_e870fa5d77e8"
+    },
+    "fileditch": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://fileditchfiles.st/alpha30/aa71e7719842ed7ba39b/291_Picking_at_a_Clay_Pot_Full_of_Rice_Pudding_That_the_Soldiers_Left_Outside.part001.tar"
+        },
+        {
+          "url": "https://fileditchfiles.st/alpha30/f093663169e66463c058/291_Picking_at_a_Clay_Pot_Full_of_Rice_Pudding_That_the_Soldiers_Left_Outside.part002.tar"
+        }
+      ]
+    }
+  }
+}
