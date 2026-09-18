@@ -1,0 +1,27 @@
+{
+  "id": "hallucine_ee72ced2828c",
+  "fingerprint": "ee72ced2828cf1467d4cc9ddd025cc5969e14215fb362d7978aa405c85c2329d",
+  "archived_at": "2026-09-18T08:03:46Z",
+  "metadata": {
+    "title": "Hallucine",
+    "artist": "Rutger Zuydervelt",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2013,
+    "duration_human": "00:33:33",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Anne Bakker | René Aquarius | Rutger Zuydervelt - Hallucine"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hallucine_ee72ced2828c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/450b8e46b4c00dd3c444/Hallucine.tar"
+    }
+  }
+}
