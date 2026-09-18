@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Beginner's Luck](beginners-luck_76408d6e5845/beginners-luck_76408d6e5845.md) | 2015 | AAC | 00:23:08 | [IA](https://archive.org/details/beginners-luck_76408d6e5845) [FileDitch](https://fileditchfiles.st/beta35/e244d774fecb41df99f1/Beginner_s_Luck.tar) |
 | [Astroneer \(Original Game Soundtrack\)](astroneer-original-game-soundtrack_3d5b5ac4a0f7/astroneer-original-game-soundtrack_3d5b5ac4a0f7.md) | 2016 | FLAC | 01:08:08 | [IA](https://archive.org/details/astroneer-original-game-soundtrack_3d5b5ac4a0f7) [FileDitch](https://fileditchfiles.st/beta35/1ca62e88dbca97f363bc/Astroneer_Original_Game_Soundtrack.tar) |
 | [Atlas](atlas_676e1fed2881/atlas_676e1fed2881.md) | 2017 | MP3 | 00:48:37 | [IA](https://archive.org/details/atlas_676e1fed2881) [FileDitch](https://fileditchfiles.st/beta35/303571780a4998155ace/Atlas.tar) |
 | [Astroneer \(Original Game Soundtrack\), Volume 2](astroneer-original-game-soundtrack-volume-2_0e008fd0510f/astroneer-original-game-soundtrack-volume-2_0e008fd0510f.md) | 2017 | FLAC | 00:51:58 | [IA](https://archive.org/details/astroneer-original-game-soundtrack-volume-2_0e008fd0510f) [FileDitch](https://fileditchfiles.st/beta35/a01b49034aeed9b31caa/Astroneer_Original_Game_Soundtrack_Volume_2.tar) |

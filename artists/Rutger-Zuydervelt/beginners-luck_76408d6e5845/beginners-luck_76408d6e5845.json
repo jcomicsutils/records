@@ -1,0 +1,28 @@
+{
+  "id": "beginners-luck_76408d6e5845",
+  "fingerprint": "76408d6e5845b3e6f1693d0795b9d2a7ae628a8767a6ac2f97409d46013dc65e",
+  "archived_at": "2026-09-18T06:13:55Z",
+  "metadata": {
+    "title": "Beginner's Luck",
+    "artist": "Rutger Zuydervelt",
+    "year": "2015",
+    "codec": "AAC",
+    "num_tracks": 2,
+    "duration_seconds": 1388,
+    "duration_human": "00:23:08",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Sergey Kostyrko & Rutger Zuydervelt - Beginner's Luck Part I",
+      "02 Sergey Kostyrko & Rutger Zuydervelt - Beginner's Luck Part II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/beginners-luck_76408d6e5845"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/e244d774fecb41df99f1/Beginner_s_Luck.tar"
+    }
+  }
+}
