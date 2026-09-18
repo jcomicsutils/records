@@ -1,0 +1,37 @@
+{
+  "id": "atlas_676e1fed2881",
+  "fingerprint": "676e1fed28813dc0fc0a1bf0c390c502a4e8d6b4b91b06bfb4cdd5b2e324464b",
+  "archived_at": "2026-09-18T06:06:28Z",
+  "metadata": {
+    "title": "Atlas",
+    "artist": "Rutger Zuydervelt",
+    "year": "2017",
+    "codec": "MP3",
+    "num_tracks": 11,
+    "duration_seconds": 2917,
+    "duration_human": "00:48:37",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Rutger Zuydervelt - Vogelflug",
+      "02 Rutger Zuydervelt - Wirksam",
+      "03 Rutger Zuydervelt - Leere",
+      "04 Rutger Zuydervelt - Funkeln",
+      "05 Rutger Zuydervelt - Unruhe",
+      "06 Rutger Zuydervelt - Bahnhof",
+      "07 Rutger Zuydervelt - Übergang",
+      "08 Rutger Zuydervelt - Anfall",
+      "09 Rutger Zuydervelt - Weltreise",
+      "10 Rutger Zuydervelt - Hegemonie",
+      "11 Rutger Zuydervelt - Abspann"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/atlas_676e1fed2881"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/303571780a4998155ace/Atlas.tar"
+    }
+  }
+}
