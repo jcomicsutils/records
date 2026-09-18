@@ -1,0 +1,37 @@
+{
+  "id": "movements-of-dust_e427a32d1f3c",
+  "fingerprint": "e427a32d1f3ccee3918cfa5c46df895684ea0aa87be9238612b8f2ed9a2169f4",
+  "archived_at": "2026-09-18T09:03:58Z",
+  "metadata": {
+    "title": "Movements of Dust",
+    "artist": "Rutger Zuydervelt",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2496,
+    "duration_human": "00:41:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt & Bill Seaman - Dust",
+      "02 Rutger Zuydervelt & Bill Seaman - Walk",
+      "03 Rutger Zuydervelt & Bill Seaman - Pull",
+      "04 Rutger Zuydervelt & Bill Seaman - Stir",
+      "05 Rutger Zuydervelt & Bill Seaman - Bits",
+      "06 Rutger Zuydervelt & Bill Seaman - Bolt",
+      "07 Rutger Zuydervelt & Bill Seaman - Sink",
+      "08 Rutger Zuydervelt & Bill Seaman - Lope",
+      "09 Rutger Zuydervelt & Bill Seaman - Merc",
+      "10 Rutger Zuydervelt & Bill Seaman - Wash",
+      "11 Rutger Zuydervelt & Bill Seaman - Haze"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/movements-of-dust_e427a32d1f3c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/ed632b1c8228f7e1649c/Movements_of_Dust.tar"
+    }
+  }
+}
