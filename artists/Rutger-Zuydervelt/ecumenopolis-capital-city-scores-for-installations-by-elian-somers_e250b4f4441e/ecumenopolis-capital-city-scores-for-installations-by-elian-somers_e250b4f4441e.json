@@ -1,0 +1,28 @@
+{
+  "id": "ecumenopolis-capital-city-scores-for-installations-by-elian-somers_e250b4f4441e",
+  "fingerprint": "e250b4f4441e28d8e69ec2582597d876fa0d546cafc081a3b471648df4bd0d83",
+  "archived_at": "2026-09-18T07:11:48Z",
+  "metadata": {
+    "title": "Ecumenopolis / Capital City (Scores for Installations by Elian Somers)",
+    "artist": "Rutger Zuydervelt",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1812,
+    "duration_human": "00:30:12",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt - Ecumenopolis",
+      "02 Rutger Zuydervelt - Capital City"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ecumenopolis-capital-city-scores-for-installations-by-elian-somers_e250b4f4441e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/3a3ac7a660f9d1b80ec9/Ecumenopolis_-_Capital_City_Scores_for_Installations_by_Elian_S.tar"
+    }
+  }
+}
