@@ -1,0 +1,27 @@
+{
+  "id": "synchronicite_4c5e40cd72b3",
+  "fingerprint": "4c5e40cd72b3316f45228586dcaa8752363a78703a3783c3802b614c89fc704d",
+  "archived_at": "2026-09-18T10:11:31Z",
+  "metadata": {
+    "title": "Synchronicité",
+    "artist": "Rutger Zuydervelt",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3000,
+    "duration_human": "00:50:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bruno Duplant & Rutger Zuydervelt - Synchronicité"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/synchronicite_4c5e40cd72b3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/ca0159b0eb04f4fe8d71/Synchronicit.tar"
+    }
+  }
+}
