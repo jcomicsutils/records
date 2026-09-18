@@ -1,0 +1,35 @@
+{
+  "id": "banzo-music-for-a-film-by-margarida-cardoso_e217bec4d049",
+  "fingerprint": "e217bec4d049651d296cdab18ce10cb054faf087aaf03309827366350d5d8ed6",
+  "archived_at": "2026-09-18T06:09:03Z",
+  "metadata": {
+    "title": "Banzo (Music for a Film by Margarida Cardoso)",
+    "artist": "Rutger Zuydervelt",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2110,
+    "duration_human": "00:35:10",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt - At Sea I",
+      "02 Rutger Zuydervelt - Arrival",
+      "03 Rutger Zuydervelt - Dawn",
+      "04 Rutger Zuydervelt - Nostalgia",
+      "05 Rutger Zuydervelt - Father",
+      "06 Rutger Zuydervelt - Dark Forest",
+      "07 Rutger Zuydervelt - Inwards",
+      "08 Rutger Zuydervelt - Hands",
+      "09 Rutger Zuydervelt - At Sea II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/banzo-music-for-a-film-by-margarida-cardoso_e217bec4d049"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/f3be39c08bf84110f7ad/Banzo_Music_for_a_Film_by_Margarida_Cardoso.tar"
+    }
+  }
+}
