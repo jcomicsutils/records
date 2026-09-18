@@ -1,0 +1,31 @@
+{
+  "id": "stillness_0212015f69f9",
+  "fingerprint": "0212015f69f951bcdb4e7b82e3178f4e58706b1061102252cff63e3d26dc01db",
+  "archived_at": "2026-09-18T10:07:03Z",
+  "metadata": {
+    "title": "Stillness",
+    "artist": "Rutger Zuydervelt",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2034,
+    "duration_human": "00:33:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Esther Kokmeijer & Rutger Zuydervelt - Stillness #1",
+      "02 Esther Kokmeijer & Rutger Zuydervelt - Stillness #2",
+      "03 Esther Kokmeijer & Rutger Zuydervelt - Stillness #3",
+      "04 Esther Kokmeijer & Rutger Zuydervelt - Stillness #4",
+      "05 Esther Kokmeijer & Rutger Zuydervelt - Stillness #5"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stillness_0212015f69f9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/8d864e992e0458adca2f/Stillness.tar"
+    }
+  }
+}
