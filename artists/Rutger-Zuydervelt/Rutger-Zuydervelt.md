@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Feberdröm](feberdrom_bb9fd2374a58/feberdrom_bb9fd2374a58.md) | 2007 | AAC | 00:24:07 | [IA](https://archive.org/details/feberdrom_bb9fd2374a58) [FileDitch](https://fileditchfiles.st/beta35/5083f611f49aad197ac3/Feberdr_m.tar) |
+| [Vintermusik](vintermusik_db61af602d6b/vintermusik_db61af602d6b.md) | 2007 | ALAC | 00:50:52 | [IA](https://archive.org/details/vintermusik_db61af602d6b) [FileDitch](https://fileditchfiles.st/alpha30/10b74fc661b51c98f3ce/Vintermusik.tar) |
 | [Pierdrie](pierdrie_ad1721458916/pierdrie_ad1721458916.md) | 2012 | AAC | 00:18:02 | [IA](https://archive.org/details/pierdrie_ad1721458916) [FileDitch](https://fileditchfiles.st/alpha30/9c8ca2d8e37bd855699c/Pierdrie.tar) |
 | [Stillness](stillness_0212015f69f9/stillness_0212015f69f9.md) | 2013 | FLAC | 00:33:54 | [IA](https://archive.org/details/stillness_0212015f69f9) [FileDitch](https://fileditchfiles.st/alpha30/8d864e992e0458adca2f/Stillness.tar) |
 | [Verstilde Tijd](verstilde-tijd_16ad78205131/verstilde-tijd_16ad78205131.md) | 2013 | FLAC | 00:55:55 | [IA](https://archive.org/details/verstilde-tijd_16ad78205131) [FileDitch](https://fileditchfiles.st/alpha30/66010e3bb67340c0493b/Verstilde_Tijd.tar) |

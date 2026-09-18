@@ -1,0 +1,32 @@
+{
+  "id": "vintermusik_db61af602d6b",
+  "fingerprint": "db61af602d6bad3c46e57fa18307a2c510b756ae1bb78a39dd772230caa8d6dd",
+  "archived_at": "2026-09-18T10:39:58Z",
+  "metadata": {
+    "title": "Vintermusik",
+    "artist": "Rutger Zuydervelt",
+    "year": "2007",
+    "codec": "ALAC",
+    "num_tracks": 6,
+    "duration_seconds": 3052,
+    "duration_human": "00:50:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Dag Rosenqvist & Rutger Zuydervelt - Frost / Vries",
+      "02 Dag Rosenqvist & Rutger Zuydervelt - Gräs som bryts och går av / Gras dat knakt en breekt",
+      "03 Dag Rosenqvist & Rutger Zuydervelt - Blåsa Rök / Rook Blazen",
+      "04 Dag Rosenqvist & Rutger Zuydervelt - Ljus i november / Licht in november",
+      "05 Dag Rosenqvist & Rutger Zuydervelt - Tappad Vante / Verloren Want",
+      "06 Dag Rosenqvist & Rutger Zuydervelt - Islossning / Ijsbreken"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vintermusik_db61af602d6b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/10b74fc661b51c98f3ce/Vintermusik.tar"
+    }
+  }
+}
