@@ -1,0 +1,27 @@
+{
+  "id": "feberdrom_bb9fd2374a58",
+  "fingerprint": "bb9fd2374a5889e21713a27b8381ed58e928b89b777f21d826d680c9a332ba7c",
+  "archived_at": "2026-09-18T07:16:17Z",
+  "metadata": {
+    "title": "Feberdröm",
+    "artist": "Rutger Zuydervelt",
+    "year": "2007",
+    "codec": "AAC",
+    "num_tracks": 1,
+    "duration_seconds": 1447,
+    "duration_human": "00:24:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Dag Rosenqvist & Rutger Zuydervelt - Feberdröm"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/feberdrom_bb9fd2374a58"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/5083f611f49aad197ac3/Feberdr_m.tar"
+    }
+  }
+}
