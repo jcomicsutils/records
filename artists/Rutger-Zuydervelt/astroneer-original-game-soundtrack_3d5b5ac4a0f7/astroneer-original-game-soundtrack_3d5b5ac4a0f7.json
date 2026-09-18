@@ -1,0 +1,52 @@
+{
+  "id": "astroneer-original-game-soundtrack_3d5b5ac4a0f7",
+  "fingerprint": "3d5b5ac4a0f74fdfce6cd1b8da397f6f6360d7dcf2e4b0b141213f76998d53fc",
+  "archived_at": "2026-09-18T05:51:03Z",
+  "metadata": {
+    "title": "Astroneer (Original Game Soundtrack)",
+    "artist": "Rutger Zuydervelt",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 26,
+    "duration_seconds": 4088,
+    "duration_human": "01:08:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Rutger Zuydervelt - Main Menu",
+      "02 Rutger Zuydervelt - Gameplay 1",
+      "03 Rutger Zuydervelt - Gameplay 2",
+      "04 Rutger Zuydervelt - Danger 1",
+      "05 Rutger Zuydervelt - Danger 2",
+      "06 Rutger Zuydervelt - Exploration 1",
+      "07 Rutger Zuydervelt - Exploration 2",
+      "08 Rutger Zuydervelt - Exploration 3",
+      "09 Rutger Zuydervelt - Stinger",
+      "10 Rutger Zuydervelt - Gathering 1",
+      "11 Rutger Zuydervelt - Gathering 2",
+      "12 Rutger Zuydervelt - Gathering 3",
+      "13 Rutger Zuydervelt - Building",
+      "14 Rutger Zuydervelt - Gameplay 3",
+      "15 Rutger Zuydervelt - Gameplay 4",
+      "16 Rutger Zuydervelt - Gameplay 5",
+      "17 Rutger Zuydervelt - Trailer Track",
+      "18 Rutger Zuydervelt - Exploration 4",
+      "19 Rutger Zuydervelt - Exploration 5",
+      "20 Rutger Zuydervelt - Exploration 6",
+      "21 Rutger Zuydervelt - Gameplay 6",
+      "22 Rutger Zuydervelt - Gameplay 7",
+      "23 Rutger Zuydervelt - Mineral Music",
+      "24 Rutger Zuydervelt - Gathering 4",
+      "25 Rutger Zuydervelt - Gathering 5",
+      "26 Rutger Zuydervelt - Starting Scene"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/astroneer-original-game-soundtrack_3d5b5ac4a0f7"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/1ca62e88dbca97f363bc/Astroneer_Original_Game_Soundtrack.tar"
+    }
+  }
+}
