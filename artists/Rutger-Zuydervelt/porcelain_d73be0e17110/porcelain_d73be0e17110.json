@@ -1,0 +1,48 @@
+{
+  "id": "porcelain_d73be0e17110",
+  "fingerprint": "d73be0e17110a2bb5fd7cffa9c055cd52ba44c046803c27a0ab85f764f60b8ea",
+  "archived_at": "2026-09-18T09:37:53Z",
+  "metadata": {
+    "title": "Porcelain",
+    "artist": "Rutger Zuydervelt",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 22,
+    "duration_seconds": 2049,
+    "duration_human": "00:34:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt - Entry Drone",
+      "02 Rutger Zuydervelt - Mirror",
+      "03 Rutger Zuydervelt - Night Music 1",
+      "04 Rutger Zuydervelt - First Goodbye",
+      "05 Rutger Zuydervelt - Lipstick Painting",
+      "06 Rutger Zuydervelt - Outside",
+      "07 Rutger Zuydervelt - Awakening",
+      "08 Rutger Zuydervelt - Forest Drone",
+      "09 Rutger Zuydervelt - Night Music 2",
+      "10 Rutger Zuydervelt - Last Goodbye",
+      "11 Rutger Zuydervelt - Meadows",
+      "12 Rutger Zuydervelt - Organ Drone",
+      "13 Rutger Zuydervelt - Laser Game",
+      "14 Rutger Zuydervelt - Warmth",
+      "15 Rutger Zuydervelt - Night Music 3",
+      "16 Rutger Zuydervelt - Tender Spider",
+      "17 Rutger Zuydervelt - Another Goodbye",
+      "18 Rutger Zuydervelt - Panick Attack",
+      "19 Rutger Zuydervelt - Night Music 4",
+      "20 Rutger Zuydervelt - Night Music 5",
+      "21 Rutger Zuydervelt - Cello Drone",
+      "22 Rutger Zuydervelt - Newfound"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/porcelain_d73be0e17110"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/ac8681bc91f90b8ca0f4/Porcelain.tar"
+    }
+  }
+}
