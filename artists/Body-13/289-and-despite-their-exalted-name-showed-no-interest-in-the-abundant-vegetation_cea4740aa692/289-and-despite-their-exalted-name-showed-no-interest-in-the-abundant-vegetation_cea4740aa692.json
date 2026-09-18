@@ -1,0 +1,49 @@
+{
+  "id": "289-and-despite-their-exalted-name-showed-no-interest-in-the-abundant-vegetation_cea4740aa692",
+  "fingerprint": "cea4740aa6929925f11d79d231bccc14f2c81e48056900563a23acc072b4121e",
+  "archived_at": "2026-09-18T12:02:27Z",
+  "metadata": {
+    "title": "#289: And Despite Their Exalted Name Showed No Interest in the Abundant Vegetation",
+    "artist": "Body 13",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 159646,
+    "duration_human": "44:20:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - And Despite Their Exalted Name Showed No Interest in the Abundant Vegetation (Part 1)",
+      "02 Body 13 - And Despite Their Exalted Name Showed No Interest in the Abundant Vegetation (Part 2)",
+      "03 Body 13 - And Despite Their Exalted Name Showed No Interest in the Abundant Vegetation (Part 3)",
+      "04 Body 13 - And Despite Their Exalted Name Showed No Interest in the Abundant Vegetation (Part 4)",
+      "05 Body 13 - And Despite Their Exalted Name Showed No Interest in the Abundant Vegetation (Part 5)",
+      "06 Body 13 - And Despite Their Exalted Name Showed No Interest in the Abundant Vegetation (Part 6)",
+      "07 Body 13 - And Despite Their Exalted Name Showed No Interest in the Abundant Vegetation (Part 7)",
+      "08 Body 13 - And Despite Their Exalted Name Showed No Interest in the Abundant Vegetation (Part 8)",
+      "09 Body 13 - And Despite Their Exalted Name Showed No Interest in the Abundant Vegetation (Part 9)",
+      "10 Body 13 - And Despite Their Exalted Name Showed No Interest in the Abundant Vegetation (Part 10)",
+      "11 Body 13 - And Despite Their Exalted Name Showed No Interest in the Abundant Vegetation (Part 11)",
+      "12 Body 13 - And Despite Their Exalted Name Showed No Interest in the Abundant Vegetation (Part 12)",
+      "13 Body 13 - And Despite Their Exalted Name Showed No Interest in the Abundant Vegetation (Part 13)",
+      "14 Body 13 - And Despite Their Exalted Name Showed No Interest in the Abundant Vegetation (Part 14)",
+      "15 Body 13 - And Despite Their Exalted Name Showed No Interest in the Abundant Vegetation (Part 15)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/289-and-despite-their-exalted-name-showed-no-interest-in-the-abundant-vegetation_cea4740aa692"
+    },
+    "fileditch": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://fileditchfiles.st/alpha30/6d8428574c2a1a6a0200/289_And_Despite_Their_Exalted_Name_Showed_No_Interest_in_the_Abundant_Vegetation.part001.tar"
+        },
+        {
+          "url": "https://fileditchfiles.st/alpha30/5d1856b34ac8a78c55dc/289_And_Despite_Their_Exalted_Name_Showed_No_Interest_in_the_Abundant_Vegetation.part002.tar"
+        }
+      ]
+    }
+  }
+}
