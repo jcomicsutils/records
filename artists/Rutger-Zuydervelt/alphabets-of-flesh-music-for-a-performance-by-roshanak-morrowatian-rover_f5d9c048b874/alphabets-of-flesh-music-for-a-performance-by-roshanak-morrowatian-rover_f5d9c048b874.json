@@ -1,0 +1,30 @@
+{
+  "id": "alphabets-of-flesh-music-for-a-performance-by-roshanak-morrowatian-rover_f5d9c048b874",
+  "fingerprint": "f5d9c048b874c5bd922d15f9370ff9d2d9627a470f2b09611bdbfa18525857b6",
+  "archived_at": "2026-09-18T05:34:28Z",
+  "metadata": {
+    "title": "Alphabets of Flesh (Music for a Performance by Roshanak Morrowatian / Rover)",
+    "artist": "Rutger Zuydervelt",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1204,
+    "duration_human": "00:20:04",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt - Dragged Duet",
+      "02 Rutger Zuydervelt - Mami's Solo",
+      "03 Rutger Zuydervelt - Baking Bread",
+      "04 Rutger Zuydervelt - Not Good Enough"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/alphabets-of-flesh-music-for-a-performance-by-roshanak-morrowatian-rover_f5d9c048b874"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/5c87eb6d2993a38d59a7/Alphabets_of_Flesh_Music_for_a_Performance_by_Roshanak_Morrowatian_-_Rover.tar"
+    }
+  }
+}

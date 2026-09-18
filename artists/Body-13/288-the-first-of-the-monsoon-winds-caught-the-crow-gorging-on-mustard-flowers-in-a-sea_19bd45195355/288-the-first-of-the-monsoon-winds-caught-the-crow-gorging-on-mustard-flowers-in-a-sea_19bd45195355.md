@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/288-the-first-of-the-monsoon-winds-caught-the-crow-gorging-on-mustard-flowers-in-a-sea_19bd45195355)
+- FileDitch: [Part 1](https://fileditchfiles.st/beta35/7b22e45dcfd736a9071e/288_The_First_of_the_Monsoon_Winds_Caught_the_Crow_Gorging_on_Mustard_Flowers_in_a_Sea_of_Exploding_Yellows.part001.tar) [Part 2](https://fileditchfiles.st/beta35/8c4c002e0dd4f78b35a1/288_The_First_of_the_Monsoon_Winds_Caught_the_Crow_Gorging_on_Mustard_Flowers_in_a_Sea_of_Exploding_Yellows.part002.tar) [Part 3](https://fileditchfiles.st/beta35/6e70397b322ff50c2a7c/288_The_First_of_the_Monsoon_Winds_Caught_the_Crow_Gorging_on_Mustard_Flowers_in_a_Sea_of_Exploding_Yellows.part003.tar)
 
 ## Tracklist
 
