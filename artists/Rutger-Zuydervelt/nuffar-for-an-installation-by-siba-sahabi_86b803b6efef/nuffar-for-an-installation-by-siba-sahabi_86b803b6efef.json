@@ -1,0 +1,27 @@
+{
+  "id": "nuffar-for-an-installation-by-siba-sahabi_86b803b6efef",
+  "fingerprint": "86b803b6efefac814e1532da3f264032cd6a7f93bf5bb146e5ff84b0b91be242",
+  "archived_at": "2026-09-18T09:04:59Z",
+  "metadata": {
+    "title": "Nuffar (For an Installation by Siba Sahabi)",
+    "artist": "Rutger Zuydervelt",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 219,
+    "duration_human": "00:03:39",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt - Nuffar (For an Installation by Siba Sahabi)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nuffar-for-an-installation-by-siba-sahabi_86b803b6efef"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/2ae2422981d39b8210b2/Nuffar_For_an_Installation_by_Siba_Sahabi.tar"
+    }
+  }
+}
