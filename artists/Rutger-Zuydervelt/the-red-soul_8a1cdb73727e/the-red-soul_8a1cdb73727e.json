@@ -1,0 +1,40 @@
+{
+  "id": "the-red-soul_8a1cdb73727e",
+  "fingerprint": "8a1cdb73727e7abb9ef250532439ddf41367ee64162a7ca6e68396bc78f4b5a9",
+  "archived_at": "2026-09-18T10:18:16Z",
+  "metadata": {
+    "title": "The Red Soul",
+    "artist": "Rutger Zuydervelt",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 2062,
+    "duration_human": "00:34:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt with Ilia Belorukov and René Aquarius - Flowers",
+      "02 Rutger Zuydervelt with Ilia Belorukov and René Aquarius - Graveyard",
+      "03 Rutger Zuydervelt with Ilia Belorukov and René Aquarius - Photograph",
+      "04 Rutger Zuydervelt with Ilia Belorukov and René Aquarius - Recollection",
+      "05 Rutger Zuydervelt with Ilia Belorukov and René Aquarius - Subway",
+      "06 Rutger Zuydervelt with Ilia Belorukov and René Aquarius - Painting",
+      "07 Rutger Zuydervelt with Ilia Belorukov and René Aquarius - Archive",
+      "08 Rutger Zuydervelt with Ilia Belorukov and René Aquarius - Bones I",
+      "09 Rutger Zuydervelt with Ilia Belorukov and René Aquarius - Factory",
+      "10 Rutger Zuydervelt with Ilia Belorukov and René Aquarius - Guards",
+      "11 Rutger Zuydervelt with Ilia Belorukov and René Aquarius - Train",
+      "12 Rutger Zuydervelt with Ilia Belorukov and René Aquarius - Dacha",
+      "13 Rutger Zuydervelt with Ilia Belorukov and René Aquarius - Bones II",
+      "14 Rutger Zuydervelt with Ilia Belorukov and René Aquarius - Credits"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-red-soul_8a1cdb73727e"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/65072744f0eb88a11371/The_Red_Soul.tar"
+    }
+  }
+}
