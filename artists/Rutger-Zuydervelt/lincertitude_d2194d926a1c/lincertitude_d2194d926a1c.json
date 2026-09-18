@@ -1,0 +1,28 @@
+{
+  "id": "lincertitude_d2194d926a1c",
+  "fingerprint": "d2194d926a1ce4c70f2057dae95e6ff7fd8b3d9c6c69800f3f4fe437e4ada891",
+  "archived_at": "2026-09-18T08:45:35Z",
+  "metadata": {
+    "title": "L'incertitude",
+    "artist": "Rutger Zuydervelt",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 2780,
+    "duration_human": "00:46:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Rutger Zuydervelt & Bruno Duplant - Le doute",
+      "02 Rutger Zuydervelt & Bruno Duplant - L'espoir"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lincertitude_d2194d926a1c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/845122c70e1d83f8f1d9/L_incertitude.tar"
+    }
+  }
+}
