@@ -1,0 +1,27 @@
+{
+  "id": "sileen-ii_8e82417d683c",
+  "fingerprint": "8e82417d683c884a6f2715af5a5da032ec60acc5b28596ac24f899842d4366f8",
+  "archived_at": "2026-09-18T09:54:48Z",
+  "metadata": {
+    "title": "Sileen II",
+    "artist": "Rutger Zuydervelt",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3000,
+    "duration_human": "00:50:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rutger Zuydervelt / Gareth Davis - Sileen II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sileen-ii_8e82417d683c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha30/669bcb532a888d2766fb/Sileen_II.tar"
+    }
+  }
+}
