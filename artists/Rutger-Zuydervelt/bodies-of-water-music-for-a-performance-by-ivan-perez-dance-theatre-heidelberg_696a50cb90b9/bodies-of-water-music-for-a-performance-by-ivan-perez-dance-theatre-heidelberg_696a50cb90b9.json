@@ -1,0 +1,33 @@
+{
+  "id": "bodies-of-water-music-for-a-performance-by-ivan-perez-dance-theatre-heidelberg_696a50cb90b9",
+  "fingerprint": "696a50cb90b9921d2b7fef8ed96d2753e67a26547bd8af933fc00d1c0110772a",
+  "archived_at": "2026-09-18T06:25:46Z",
+  "metadata": {
+    "title": "Bodies of Water (Music for a Performance by Iván Pérez / Dance Theatre Heidelberg)",
+    "artist": "Rutger Zuydervelt",
+    "year": "2026",
+    "codec": "MP3",
+    "num_tracks": 7,
+    "duration_seconds": 3197,
+    "duration_human": "00:53:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Rutger Zuydervelt - Dark Waters",
+      "02 Rutger Zuydervelt - Submerge",
+      "03 Rutger Zuydervelt - Utopian Seas",
+      "04 Rutger Zuydervelt - Crushing Waves",
+      "05 Rutger Zuydervelt - Tsunami",
+      "06 Rutger Zuydervelt - Gas",
+      "07 Rutger Zuydervelt - Ice Age"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bodies-of-water-music-for-a-performance-by-ivan-perez-dance-theatre-heidelberg_696a50cb90b9"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/9bb4e9e45d5b04b59e50/Bodies_of_Water_Music_for_a_Performance_by_Iv_n_P_rez_-_Dance_T.tar"
+    }
+  }
+}
