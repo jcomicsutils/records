@@ -1,0 +1,30 @@
+{
+  "id": "okumay_285a3feecd40",
+  "fingerprint": "285a3feecd40813813a3c5301003c96637e690072bef7ebcdde95504bac4a109",
+  "archived_at": "2026-09-18T03:52:31Z",
+  "metadata": {
+    "title": "Okumay",
+    "artist": "The Brave Little Abacus",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 889,
+    "duration_human": "00:14:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Brave Little Abacus - For geOn (For Colin)",
+      "02 The Brave Little Abacus - 45 Minutes From \"Somewhere Out There\"",
+      "03 The Brave Little Abacus - Don't Come Around Here No More (Please)",
+      "04 The Brave Little Abacus - Introducing Morrissey"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/okumay_285a3feecd40"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/ce82ae3e58e5467e2fe2/Okumay.tar"
+    }
+  }
+}
