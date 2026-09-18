@@ -1,0 +1,36 @@
+{
+  "id": "masked-dancers-concern-in-so-many-things-you-forget-where-you-are_01a8acdb4c7c",
+  "fingerprint": "01a8acdb4c7cd63b0707744d4c35b8f917039c54b13bd45ceef50c558c3deae9",
+  "archived_at": "2026-09-18T03:29:30Z",
+  "metadata": {
+    "title": "Masked Dancers: Concern in So Many Things You Forget Where You Are",
+    "artist": "The Brave Little Abacus",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2968,
+    "duration_human": "00:49:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Brave Little Abacus - I See It Too.",
+      "02 The Brave Little Abacus - \"But I Won't Always Be on the Receiving End!\"",
+      "03 The Brave Little Abacus - A Map of the Stars",
+      "04 The Brave Little Abacus - Waiting for Your Return, Like Running Backwards",
+      "05 The Brave Little Abacus - (Through Hallways)",
+      "06 The Brave Little Abacus - \"He Never Existed in the First Place\"",
+      "07 The Brave Little Abacus - Born Again So Many Times You Forget You Are",
+      "08 The Brave Little Abacus - (Underground)",
+      "09 The Brave Little Abacus - Remember to Wave (When Looking Down From the Clouds)",
+      "10 The Brave Little Abacus - It's a Lot. It's Seamless."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/masked-dancers-concern-in-so-many-things-you-forget-where-you-are_01a8acdb4c7c"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/6cf6cc733d21da74ce13/Masked_Dancers_Concern_in_So_Many_Things_You_Forget_Where_You_Are.tar"
+    }
+  }
+}
