@@ -1,0 +1,30 @@
+{
+  "id": "demo_54d60d3f28ef",
+  "fingerprint": "54d60d3f28ef6795216db5d94fdb683d986ccaad1c6453b3666d6e56700acab8",
+  "archived_at": "2026-09-18T03:04:46Z",
+  "metadata": {
+    "title": "Demo?",
+    "artist": "The Brave Little Abacus",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1282,
+    "duration_human": "00:21:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Brave Little Abacus - The Buffalo",
+      "02 The Brave Little Abacus - You're Not Me but Neither Am I",
+      "03 The Brave Little Abacus - Imaginary Peaks, Imaginary Beasts",
+      "04 The Brave Little Abacus - El Capitano"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/demo_54d60d3f28ef"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta35/883d7d083a4eceecdce4/Demo.tar"
+    }
+  }
+}

@@ -237,6 +237,7 @@
 - [Text of Light](Text-of-Light/Text-of-Light.md)
 - [The 365 Project](The-365-Project/The-365-Project.md)
 - [The Alvaret Ensemble](The-Alvaret-Ensemble/The-Alvaret-Ensemble.md)
+- [The Brave Little Abacus](The-Brave-Little-Abacus/The-Brave-Little-Abacus.md)
 - [The Dwarfs of East Agouza](The-Dwarfs-of-East-Agouza/The-Dwarfs-of-East-Agouza.md)
 - [The Jim Yoshii Pile-Up / Xiu Xiu](The-Jim-Yoshii-Pile-Up-Xiu-Xiu/The-Jim-Yoshii-Pile-Up-Xiu-Xiu.md)
 - [The Mystic Revelation of Teppo Repo](The-Mystic-Revelation-of-Teppo-Repo/The-Mystic-Revelation-of-Teppo-Repo.md)
