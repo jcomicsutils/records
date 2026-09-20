@@ -11,6 +11,7 @@
 | [Discography](discography_14085e299bb4/discography_14085e299bb4.md) | 2002 | FLAC | 00:25:50 | [IA](https://archive.org/details/discography_14085e299bb4) |
 | [Dropdead / Totalitär](dropdead-totalitar_84c05f68ecc0/dropdead-totalitar_84c05f68ecc0.md) | 2002 | FLAC | 00:09:07 | [IA](https://archive.org/details/dropdead-totalitar_84c05f68ecc0) |
 | [Dropdead / Unholy Grave](dropdead-unholy-grave_541e03700ed4/dropdead-unholy-grave_541e03700ed4.md) | 2003 | FLAC | 00:10:53 | [IA](https://archive.org/details/dropdead-unholy-grave_541e03700ed4) |
+| [Live AJZ Wermelskirchen 1998](live-ajz-wermelskirchen-1998_2267ea2d8bd8/live-ajz-wermelskirchen-1998_2267ea2d8bd8.md) | 2003 | FLAC | 00:25:52 | [IA](https://archive.org/details/live-ajz-wermelskirchen-1998_2267ea2d8bd8) |
 | [Dropdead/Look Back and Laugh](dropdeadlook-back-and-laugh_5b3ca6ec1e61/dropdeadlook-back-and-laugh_5b3ca6ec1e61.md) | 2004 | FLAC | 00:06:25 | [IA](https://archive.org/details/dropdeadlook-back-and-laugh_5b3ca6ec1e61) |
 | [Converge / Dropdead](converge-dropdead_52fb0b565480/converge-dropdead_52fb0b565480.md) | 2011 | FLAC | 00:03:40 | [IA](https://archive.org/details/converge-dropdead_52fb0b565480) |
 | [Fighting for Life](fighting-for-life_e9dd5dadb1df/fighting-for-life_e9dd5dadb1df.md) | 2013 | FLAC | 00:06:18 | [IA](https://archive.org/details/fighting-for-life_e9dd5dadb1df) |
