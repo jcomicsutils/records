@@ -1,0 +1,24 @@
+{
+  "id": "niao_1d4f5bbe50d8",
+  "fingerprint": "1d4f5bbe50d86f3c9877b25ffa344e4151f568433561a169081d1357bbe88f05",
+  "archived_at": "2026-09-20T16:48:01Z",
+  "metadata": {
+    "title": "尿",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2983,
+    "duration_human": "00:49:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 尿"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/niao_1d4f5bbe50d8"
+    }
+  }
+}
