@@ -1,0 +1,24 @@
+{
+  "id": "qi_0d0af7ccc897",
+  "fingerprint": "0d0af7ccc89787729435f028f1f3d9e47a19766e4ca8b4a79e39b0db387ac403",
+  "archived_at": "2026-09-20T17:35:23Z",
+  "metadata": {
+    "title": "欺",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4554,
+    "duration_human": "01:15:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 欺"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/qi_0d0af7ccc897"
+    }
+  }
+}
