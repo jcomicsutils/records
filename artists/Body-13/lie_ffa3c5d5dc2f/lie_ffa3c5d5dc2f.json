@@ -1,0 +1,24 @@
+{
+  "id": "lie_ffa3c5d5dc2f",
+  "fingerprint": "ffa3c5d5dc2f16a450bce626ae23b8832d174a936afd27702541e10512c6dde1",
+  "archived_at": "2026-09-20T19:17:30Z",
+  "metadata": {
+    "title": "裂",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2494,
+    "duration_human": "00:41:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 裂"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lie_ffa3c5d5dc2f"
+    }
+  }
+}
