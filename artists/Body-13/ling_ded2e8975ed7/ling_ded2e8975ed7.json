@@ -1,0 +1,24 @@
+{
+  "id": "ling_ded2e8975ed7",
+  "fingerprint": "ded2e8975ed7636052639c69e4196015c628fa6fd29b48a5aed4188383ae9804",
+  "archived_at": "2026-09-20T19:41:50Z",
+  "metadata": {
+    "title": "零",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3092,
+    "duration_human": "00:51:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 零"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ling_ded2e8975ed7"
+    }
+  }
+}

@@ -289,6 +289,7 @@
 | [#258: Cankerous Little Bloodshot Rooster Pecking Away at the Dawn in the Empty Yard of Some Dead Fisherman](258-cankerous-little-bloodshot-rooster-pecking-away-at-the-dawn-in-the-empty-yard-of-so_ea05e1763976/258-cankerous-little-bloodshot-rooster-pecking-away-at-the-dawn-in-the-empty-yard-of-so_ea05e1763976.md) | 2022 | FLAC | 00:47:00 | [IA](https://archive.org/details/258-cankerous-little-bloodshot-rooster-pecking-away-at-the-dawn-in-the-empty-yard-of-so_ea05e1763976) [FileDitch](https://fileditchfiles.st/beta35/8303741f7b8769712e8c/258_Cankerous_Little_Bloodshot_Rooster_Pecking_Away_at_the_Dawn_in_the_Empty_Yard_of_Some_Dead_Fisherman.tar) |
 | [仇](chou_44b330a8709a/chou_44b330a8709a.md) | 2022 | FLAC | 00:46:50 | [IA](https://archive.org/details/chou_44b330a8709a) |
 | [荒](huang_a941e8f11823/huang_a941e8f11823.md) | 2022 | FLAC | 01:04:32 | [IA](https://archive.org/details/huang_a941e8f11823) |
+| [零](ling_ded2e8975ed7/ling_ded2e8975ed7.md) | 2022 | FLAC | 00:51:32 | [IA](https://archive.org/details/ling_ded2e8975ed7) |
 | [刀](dao_eb9871237bfc/dao_eb9871237bfc.md) | 2022 | FLAC | 01:29:18 | [IA](https://archive.org/details/dao_eb9871237bfc) |
 | [胆](dan_41e0f37b0df1/dan_41e0f37b0df1.md) | 2022 | FLAC | 00:32:02 | [IA](https://archive.org/details/dan_41e0f37b0df1) |
 | [羞](xiu_92312fa9afa7/xiu_92312fa9afa7.md) | 2022 | FLAC | 00:34:28 | [IA](https://archive.org/details/xiu_92312fa9afa7) |
