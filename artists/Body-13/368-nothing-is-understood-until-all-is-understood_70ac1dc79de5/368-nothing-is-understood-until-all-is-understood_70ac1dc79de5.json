@@ -1,0 +1,32 @@
+{
+  "id": "368-nothing-is-understood-until-all-is-understood_70ac1dc79de5",
+  "fingerprint": "70ac1dc79de582223e847a6716f20ae5efb4294e64b7f7e6019b04013fc6e683",
+  "archived_at": "2026-09-20T13:57:00Z",
+  "metadata": {
+    "title": "#368: Nothing is Understood Until All is Understood",
+    "artist": "Body 13",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 65898,
+    "duration_human": "18:18:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Nothing is Understood Until All is Understood (Part 1)",
+      "02 Body 13 - Nothing is Understood Until All is Understood (Part 2)",
+      "03 Body 13 - Nothing is Understood Until All is Understood (Part 3)",
+      "04 Body 13 - Nothing is Understood Until All is Understood (Part 4)",
+      "05 Body 13 - Nothing is Understood Until All is Understood (Part 5)",
+      "06 Body 13 - Nothing is Understood Until All is Understood (Part 6)",
+      "07 Body 13 - Nothing is Understood Until All is Understood (Part 7)",
+      "08 Body 13 - Nothing is Understood Until All is Understood (Part 8)",
+      "09 Body 13 - Nothing is Understood Until All is Understood (Part 9)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/368-nothing-is-understood-until-all-is-understood_70ac1dc79de5"
+    }
+  }
+}
