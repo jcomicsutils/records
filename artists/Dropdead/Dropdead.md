@@ -12,6 +12,7 @@
 | [Dropdead / Unholy Grave](dropdead-unholy-grave_541e03700ed4/dropdead-unholy-grave_541e03700ed4.md) | 2003 | FLAC | 00:10:53 | [IA](https://archive.org/details/dropdead-unholy-grave_541e03700ed4) |
 | [Dropdead/Look Back and Laugh](dropdeadlook-back-and-laugh_5b3ca6ec1e61/dropdeadlook-back-and-laugh_5b3ca6ec1e61.md) | 2004 | FLAC | 00:06:25 | [IA](https://archive.org/details/dropdeadlook-back-and-laugh_5b3ca6ec1e61) |
 | [Converge / Dropdead](converge-dropdead_52fb0b565480/converge-dropdead_52fb0b565480.md) | 2011 | FLAC | 00:03:40 | [IA](https://archive.org/details/converge-dropdead_52fb0b565480) |
+| [Fighting for Life](fighting-for-life_e9dd5dadb1df/fighting-for-life_e9dd5dadb1df.md) | 2013 | FLAC | 00:06:18 | [IA](https://archive.org/details/fighting-for-life_e9dd5dadb1df) |
 | [Dropdead / Ruidosa Inmundicia](dropdead-ruidosa-inmundicia_30c6fc5819aa/dropdead-ruidosa-inmundicia_30c6fc5819aa.md) | 2013 | FLAC | 00:04:53 | [IA](https://archive.org/details/dropdead-ruidosa-inmundicia_30c6fc5819aa) |
 | [Dropdead / Brainoil](dropdead-brainoil_78ff72a11543/dropdead-brainoil_78ff72a11543.md) | 2015 | FLAC | 00:06:23 | [IA](https://archive.org/details/dropdead-brainoil_78ff72a11543) |
 | [Arms Race](arms-race_01075335377d/arms-race_01075335377d.md) | 2018 | MP3 | 00:01:40 | [IA](https://archive.org/details/arms-race_01075335377d) |

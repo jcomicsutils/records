@@ -1,0 +1,27 @@
+{
+  "id": "fighting-for-life_e9dd5dadb1df",
+  "fingerprint": "e9dd5dadb1dfbbc80a6e959f04ee1e24e8050eb78834d142a3b5bb52b76a9b82",
+  "archived_at": "2026-09-20T23:44:24Z",
+  "metadata": {
+    "title": "Fighting for Life",
+    "artist": "Dropdead",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 378,
+    "duration_human": "00:06:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Dropdead - Foundation",
+      "02 Dropdead - The Final Chapter",
+      "03 Systematic Death - 筋/Suji",
+      "04 Systematic Death - Dashing"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fighting-for-life_e9dd5dadb1df"
+    }
+  }
+}
