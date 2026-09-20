@@ -1,0 +1,24 @@
+{
+  "id": "ti_622f1d6fe42c",
+  "fingerprint": "622f1d6fe42c7dba8828a355d34fd5cbbcfcce42a4e341f695a9100de17f71dc",
+  "archived_at": "2026-09-20T19:23:49Z",
+  "metadata": {
+    "title": "踢",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 978,
+    "duration_human": "00:16:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 踢"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ti_622f1d6fe42c"
+    }
+  }
+}
