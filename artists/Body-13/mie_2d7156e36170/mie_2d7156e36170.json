@@ -1,0 +1,24 @@
+{
+  "id": "mie_2d7156e36170",
+  "fingerprint": "2d7156e36170291cbfc31f824b3e72f0c66cd2a25f76cda58711934de8d6b9de",
+  "archived_at": "2026-09-20T18:03:43Z",
+  "metadata": {
+    "title": "灭",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 7956,
+    "duration_human": "02:12:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 灭"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mie_2d7156e36170"
+    }
+  }
+}
