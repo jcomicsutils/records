@@ -1,0 +1,33 @@
+{
+  "id": "dropdead-crossed-out_976a6e15dda3",
+  "fingerprint": "976a6e15dda3d13aac8aaff15c16d77a5b816f832e07c66c66eef5753599f5df",
+  "archived_at": "2026-09-20T23:09:02Z",
+  "metadata": {
+    "title": "Dropdead / Crossed Out",
+    "artist": "Dropdead",
+    "year": "1993",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 289,
+    "duration_human": "00:04:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Dropdead - New World Slaughter",
+      "02 Dropdead - Sheep",
+      "03 Dropdead - Belly Full of Lies",
+      "04 Dropdead - Requiem",
+      "05 Dropdead - Bosnia",
+      "06 Dropdead - Nazi Atrocities",
+      "07 Crossed Out - Supremacy",
+      "08 Crossed Out - Selfselve",
+      "09 Crossed Out - Neglect",
+      "10 Crossed Out - Suffocate"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dropdead-crossed-out_976a6e15dda3"
+    }
+  }
+}
