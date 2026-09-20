@@ -1,0 +1,24 @@
+{
+  "id": "hui_fa6fe7ca5752",
+  "fingerprint": "fa6fe7ca5752d6fa0b2aeae85ffd7184bf1dde37e0281edffac85d5ee96b64eb",
+  "archived_at": "2026-09-20T17:50:39Z",
+  "metadata": {
+    "title": "毁",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 6457,
+    "duration_human": "01:47:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 毁"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hui_fa6fe7ca5752"
+    }
+  }
+}
