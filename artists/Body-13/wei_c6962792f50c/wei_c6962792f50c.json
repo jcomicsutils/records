@@ -1,0 +1,24 @@
+{
+  "id": "wei_c6962792f50c",
+  "fingerprint": "c6962792f50cafff392f91fc4ed0b87dc6d8a48bda917b835be10940ab3b0530",
+  "archived_at": "2026-09-20T16:42:35Z",
+  "metadata": {
+    "title": "尉",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 5290,
+    "duration_human": "01:28:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 尉"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wei_c6962792f50c"
+    }
+  }
+}
