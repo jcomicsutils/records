@@ -1,0 +1,41 @@
+{
+  "id": "dropdead-1998_f997f95932c5",
+  "fingerprint": "f997f95932c508a51ecbacfeee5583f38968860308afb6dc1698f4d56ae138aa",
+  "archived_at": "2026-09-20T23:32:55Z",
+  "metadata": {
+    "title": "Dropdead 1998",
+    "artist": "Dropdead",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 18,
+    "duration_seconds": 1046,
+    "duration_human": "00:17:26",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Dropdead - Superior",
+      "02 Dropdead - Bitterfruit",
+      "03 Dropdead - Those Who We Deny",
+      "04 Dropdead - Tied Down for Survival",
+      "05 Dropdead - Clay",
+      "06 Dropdead - Idiot Icon",
+      "07 Dropdead - Part Two",
+      "08 Dropdead - Witch Hunt",
+      "09 Dropdead - Nothing Less Than Lost",
+      "10 Dropdead - Stone",
+      "11 Dropdead - Us and Them",
+      "12 Dropdead - One Inside One-Hundred",
+      "13 Dropdead - Justify Your Violence",
+      "14 Dropdead - Spirit Lies Broken",
+      "15 Dropdead - Dead Inside",
+      "16 Dropdead - Life Disease",
+      "17 Dropdead - I Will Stand",
+      "18 Dropdead - What Once Was Life"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dropdead-1998_f997f95932c5"
+    }
+  }
+}
