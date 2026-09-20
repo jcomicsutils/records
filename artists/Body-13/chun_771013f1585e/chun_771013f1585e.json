@@ -1,0 +1,24 @@
+{
+  "id": "chun_771013f1585e",
+  "fingerprint": "771013f1585e8f8cb2c38fdea42dafb1b206fbd873d53a0e21e475e322d8a83f",
+  "archived_at": "2026-09-20T18:36:37Z",
+  "metadata": {
+    "title": "纯",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3335,
+    "duration_human": "00:55:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 纯"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chun_771013f1585e"
+    }
+  }
+}
