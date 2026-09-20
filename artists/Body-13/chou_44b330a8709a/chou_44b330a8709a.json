@@ -1,0 +1,24 @@
+{
+  "id": "chou_44b330a8709a",
+  "fingerprint": "44b330a8709a4cfedcfa1ede866df2dbe5db5f683dd0c30e8340cd5328233e26",
+  "archived_at": "2026-09-20T15:35:32Z",
+  "metadata": {
+    "title": "仇",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2810,
+    "duration_human": "00:46:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 仇"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chou_44b330a8709a"
+    }
+  }
+}
