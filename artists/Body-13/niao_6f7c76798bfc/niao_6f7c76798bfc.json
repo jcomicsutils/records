@@ -1,0 +1,24 @@
+{
+  "id": "niao_6f7c76798bfc",
+  "fingerprint": "6f7c76798bfcadc68c9a332461f8df82264e3a86023a3dffaa8e7c9fba9cdcb9",
+  "archived_at": "2026-09-20T19:52:09Z",
+  "metadata": {
+    "title": "鸟",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1983,
+    "duration_human": "00:33:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 鸟"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/niao_6f7c76798bfc"
+    }
+  }
+}
