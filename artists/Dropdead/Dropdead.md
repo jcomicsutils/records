@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Dropdead](dropdead_075fd0a7356c/dropdead_075fd0a7356c.md) | 1992 | MP3 | 00:11:17 | [IA](https://archive.org/details/dropdead_075fd0a7356c) |
 | [Drop on - The Bootleg](drop-on-the-bootleg_b23545e96714/drop-on-the-bootleg_b23545e96714.md) | 1996 | FLAC | 00:15:06 | [IA](https://archive.org/details/drop-on-the-bootleg_b23545e96714) |
 | [Discography](discography_14085e299bb4/discography_14085e299bb4.md) | 2002 | FLAC | 00:25:50 | [IA](https://archive.org/details/discography_14085e299bb4) |
 | [Converge / Dropdead](converge-dropdead_52fb0b565480/converge-dropdead_52fb0b565480.md) | 2011 | FLAC | 00:03:40 | [IA](https://archive.org/details/converge-dropdead_52fb0b565480) |

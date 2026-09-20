@@ -1,0 +1,38 @@
+{
+  "id": "dropdead_075fd0a7356c",
+  "fingerprint": "075fd0a7356cfaeee2b4fa75775ff3afee242bf95c4f95dc9136d3e532668973",
+  "archived_at": "2026-09-20T23:05:09Z",
+  "metadata": {
+    "title": "Dropdead",
+    "artist": "Dropdead",
+    "year": "1992",
+    "codec": "MP3",
+    "num_tracks": 15,
+    "duration_seconds": 677,
+    "duration_human": "00:11:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Dropdead - Unjustified Murder",
+      "02 Dropdead - Doorway to Extinction",
+      "03 Dropdead - Strength in Your Conviction",
+      "04 Dropdead - Protest",
+      "05 Dropdead - At the Cost of an Animal",
+      "06 Dropdead - Direct Action",
+      "07 Dropdead - Power",
+      "08 Dropdead - Chosen Path",
+      "09 Dropdead - Survival",
+      "10 Dropdead - Bullshit Tradition",
+      "11 Dropdead - Wound Runs Deep",
+      "12 Dropdead - Do You Choose Life?",
+      "13 Dropdead - Ignorant",
+      "14 Dropdead - Only a Fool",
+      "15 Dropdead - You Have a Voice"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dropdead_075fd0a7356c"
+    }
+  }
+}
