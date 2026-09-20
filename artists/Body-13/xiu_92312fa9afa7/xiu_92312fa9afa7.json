@@ -1,0 +1,24 @@
+{
+  "id": "xiu_92312fa9afa7",
+  "fingerprint": "92312fa9afa763bac459e2effe0a97e15108efab58d3cbdca928f7edde790709",
+  "archived_at": "2026-09-20T18:46:51Z",
+  "metadata": {
+    "title": "羞",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2068,
+    "duration_human": "00:34:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 羞"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xiu_92312fa9afa7"
+    }
+  }
+}
