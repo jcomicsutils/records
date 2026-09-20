@@ -1,0 +1,24 @@
+{
+  "id": "qiao_ba34c8c2292e",
+  "fingerprint": "ba34c8c2292ed2beddd90d7236e266b81ade40fa455f6435930a9a107524699d",
+  "archived_at": "2026-09-20T17:18:48Z",
+  "metadata": {
+    "title": "敲",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 566,
+    "duration_human": "00:09:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 敲"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/qiao_ba34c8c2292e"
+    }
+  }
+}
