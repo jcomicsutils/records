@@ -1,0 +1,25 @@
+{
+  "id": "arms-race_01075335377d",
+  "fingerprint": "01075335377d8ee22420edc01a40705984c26a832cfa0591dff16a33ebf033cd",
+  "archived_at": "2026-09-20T22:28:41Z",
+  "metadata": {
+    "title": "Arms Race",
+    "artist": "Dropdead",
+    "year": "2018",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 100,
+    "duration_human": "00:01:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Dropdead - Arms Race",
+      "02 Dropdead - Give It Up"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/arms-race_01075335377d"
+    }
+  }
+}
