@@ -1,0 +1,24 @@
+{
+  "id": "can_98fe9e5dcaac",
+  "fingerprint": "98fe9e5dcaac558e1ebadae2304fd1254928c0b5393d7bd5efae265f65761d96",
+  "archived_at": "2026-09-20T17:16:32Z",
+  "metadata": {
+    "title": "惨",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2314,
+    "duration_human": "00:38:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 惨"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/can_98fe9e5dcaac"
+    }
+  }
+}
