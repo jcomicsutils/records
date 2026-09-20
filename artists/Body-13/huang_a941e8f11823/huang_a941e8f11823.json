@@ -1,0 +1,24 @@
+{
+  "id": "huang_a941e8f11823",
+  "fingerprint": "a941e8f11823c991262d6afc9b72b35f9aa9aab3d356e5511af9d0527a9a21bc",
+  "archived_at": "2026-09-20T19:09:22Z",
+  "metadata": {
+    "title": "荒",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3872,
+    "duration_human": "01:04:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 荒"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/huang_a941e8f11823"
+    }
+  }
+}
