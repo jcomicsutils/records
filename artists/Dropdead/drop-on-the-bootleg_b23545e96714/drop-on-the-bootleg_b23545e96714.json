@@ -1,0 +1,39 @@
+{
+  "id": "drop-on-the-bootleg_b23545e96714",
+  "fingerprint": "b23545e96714d95066d448b6dd846ce62c22213bff569fdb312922a71118ad4b",
+  "archived_at": "2026-09-20T23:00:49Z",
+  "metadata": {
+    "title": "Drop on - The Bootleg",
+    "artist": "Dropdead",
+    "year": "1996",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_seconds": 906,
+    "duration_human": "00:15:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Dropdead - Bullshit Tradition",
+      "02 Dropdead - Unjustified Murder",
+      "03 Dropdead - At the Cost of an Animal",
+      "04 Dropdead - Sheep",
+      "05 Dropdead - Requiem",
+      "06 Dropdead - No Glory",
+      "07 Dropdead - Max",
+      "08 Dropdead - Control",
+      "09 Dropdead - New World Slaughter",
+      "10 Dropdead - Hopeless",
+      "11 Dropdead - Herd",
+      "12 Dropdead - Washed Away",
+      "13 Dropdead - I Will Defy",
+      "14 Dropdead - Army of Hate",
+      "15 Dropdead - Life in Chains",
+      "16 Dropdead - The Circle Complete"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/drop-on-the-bootleg_b23545e96714"
+    }
+  }
+}
