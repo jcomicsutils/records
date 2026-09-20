@@ -1,0 +1,24 @@
+{
+  "id": "zan_60ca75e09459",
+  "fingerprint": "60ca75e09459a30724eabdb84a0502bb5249fc31f8f1564df9ea0d5e5dd04179",
+  "archived_at": "2026-09-20T17:25:52Z",
+  "metadata": {
+    "title": "暂",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 5036,
+    "duration_human": "01:23:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 暂"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zan_60ca75e09459"
+    }
+  }
+}
