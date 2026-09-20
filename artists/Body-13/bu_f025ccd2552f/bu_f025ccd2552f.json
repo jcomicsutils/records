@@ -1,0 +1,24 @@
+{
+  "id": "bu_f025ccd2552f",
+  "fingerprint": "f025ccd2552fd400cfea3086832c7fb7d6933d88dd3e77dc54fcc59bbe62cbb5",
+  "archived_at": "2026-09-20T17:06:52Z",
+  "metadata": {
+    "title": "怖",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 5608,
+    "duration_human": "01:33:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 怖"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bu_f025ccd2552f"
+    }
+  }
+}
