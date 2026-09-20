@@ -1,0 +1,24 @@
+{
+  "id": "hen_1941682a8389",
+  "fingerprint": "1941682a83892f1ac4fae42c02ce2104021f3363902a59b454dfb9d63ddba61b",
+  "archived_at": "2026-09-20T18:32:03Z",
+  "metadata": {
+    "title": "痕",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2740,
+    "duration_human": "00:45:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 痕"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hen_1941682a8389"
+    }
+  }
+}
