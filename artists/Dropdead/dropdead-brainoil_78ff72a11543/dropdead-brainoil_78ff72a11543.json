@@ -1,0 +1,26 @@
+{
+  "id": "dropdead-brainoil_78ff72a11543",
+  "fingerprint": "78ff72a115432fa5b30d1b80773d950bc8499b88d1d3f5be63cd8103234b6799",
+  "archived_at": "2026-09-20T23:06:27Z",
+  "metadata": {
+    "title": "Dropdead / Brainoil",
+    "artist": "Dropdead",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 383,
+    "duration_human": "00:06:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Dropdead - Harvest",
+      "02 Dropdead - Indoctrination",
+      "03 Brainoil - Inherit the Reflection of Stasis"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dropdead-brainoil_78ff72a11543"
+    }
+  }
+}
