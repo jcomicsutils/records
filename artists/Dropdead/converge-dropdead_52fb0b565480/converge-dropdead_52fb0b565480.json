@@ -1,0 +1,25 @@
+{
+  "id": "converge-dropdead_52fb0b565480",
+  "fingerprint": "52fb0b565480e5a8617cab36d918f818c4caa1394ce1e8a713a68970c3be0617",
+  "archived_at": "2026-09-20T22:29:38Z",
+  "metadata": {
+    "title": "Converge / Dropdead",
+    "artist": "Dropdead",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 220,
+    "duration_human": "00:03:40",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Converge - Runaway",
+      "02 Dropdead - Paths of Glory"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/converge-dropdead_52fb0b565480"
+    }
+  }
+}
