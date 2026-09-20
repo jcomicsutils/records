@@ -1,0 +1,24 @@
+{
+  "id": "dan_41e0f37b0df1",
+  "fingerprint": "41e0f37b0df1e49c35466483394948241af5a0e53bc99ddea40eb81975b8109c",
+  "archived_at": "2026-09-20T18:55:16Z",
+  "metadata": {
+    "title": "胆",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1922,
+    "duration_human": "00:32:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 胆"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dan_41e0f37b0df1"
+    }
+  }
+}
