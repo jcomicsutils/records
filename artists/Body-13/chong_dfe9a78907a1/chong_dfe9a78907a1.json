@@ -1,0 +1,24 @@
+{
+  "id": "chong_dfe9a78907a1",
+  "fingerprint": "dfe9a78907a1554eaeeadcc86f737eca8c9f38812cf7a620cbf0f561f58348f6",
+  "archived_at": "2026-09-20T19:13:45Z",
+  "metadata": {
+    "title": "虫",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2603,
+    "duration_human": "00:43:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 虫"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chong_dfe9a78907a1"
+    }
+  }
+}
