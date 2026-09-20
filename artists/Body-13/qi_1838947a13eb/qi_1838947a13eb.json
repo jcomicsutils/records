@@ -1,0 +1,24 @@
+{
+  "id": "qi_1838947a13eb",
+  "fingerprint": "1838947a13ebc2301c0225d963f3529d8b119b75c4dc2020b1a099d99819657e",
+  "archived_at": "2026-09-20T17:58:53Z",
+  "metadata": {
+    "title": "汽",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1708,
+    "duration_human": "00:28:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 汽"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/qi_1838947a13eb"
+    }
+  }
+}
