@@ -1,0 +1,24 @@
+{
+  "id": "lie_6a4bae9ae415",
+  "fingerprint": "6a4bae9ae41507905ad4e913a69e4acf58fc5a2a391d33eae1aefcc684a57bcb",
+  "archived_at": "2026-09-20T18:22:31Z",
+  "metadata": {
+    "title": "猎",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 8076,
+    "duration_human": "02:14:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 猎"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lie_6a4bae9ae415"
+    }
+  }
+}
