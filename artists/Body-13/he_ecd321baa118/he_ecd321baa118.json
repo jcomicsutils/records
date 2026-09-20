@@ -1,0 +1,24 @@
+{
+  "id": "he_ecd321baa118",
+  "fingerprint": "ecd321baa11824bb0e66682be87039b5369235dc725d1a23ae806fc4d955acdb",
+  "archived_at": "2026-09-20T17:31:34Z",
+  "metadata": {
+    "title": "核",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2796,
+    "duration_human": "00:46:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 核"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/he_ecd321baa118"
+    }
+  }
+}
