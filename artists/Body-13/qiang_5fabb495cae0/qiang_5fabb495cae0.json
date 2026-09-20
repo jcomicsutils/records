@@ -1,0 +1,24 @@
+{
+  "id": "qiang_5fabb495cae0",
+  "fingerprint": "5fabb495cae05d93d7404aa33a7c0421741e43b3dcbf97b07708f02311be9de5",
+  "archived_at": "2026-09-20T16:33:44Z",
+  "metadata": {
+    "title": "墙",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2678,
+    "duration_human": "00:44:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 墙"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/qiang_5fabb495cae0"
+    }
+  }
+}
