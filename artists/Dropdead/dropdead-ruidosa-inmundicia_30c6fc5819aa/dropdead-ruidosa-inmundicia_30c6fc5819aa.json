@@ -1,0 +1,28 @@
+{
+  "id": "dropdead-ruidosa-inmundicia_30c6fc5819aa",
+  "fingerprint": "30c6fc5819aa8f8e396e6ac30a35c3b822a96c79d712eef22e9ee05133ea7277",
+  "archived_at": "2026-09-20T23:13:19Z",
+  "metadata": {
+    "title": "Dropdead / Ruidosa Inmundicia",
+    "artist": "Dropdead",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 293,
+    "duration_human": "00:04:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Dropdead - A Fall of Empires",
+      "02 Dropdead - Last Breath",
+      "03 Ruidosa Inmundicia - Asco",
+      "04 Ruidosa Inmundicia - Donde Esta La Solucion",
+      "05 Ruidosa Inmundicia - Blanco Y Negro"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dropdead-ruidosa-inmundicia_30c6fc5819aa"
+    }
+  }
+}

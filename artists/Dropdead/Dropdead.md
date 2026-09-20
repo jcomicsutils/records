@@ -8,6 +8,7 @@
 | [Discography](discography_14085e299bb4/discography_14085e299bb4.md) | 2002 | FLAC | 00:25:50 | [IA](https://archive.org/details/discography_14085e299bb4) |
 | [Dropdead/Look Back and Laugh](dropdeadlook-back-and-laugh_5b3ca6ec1e61/dropdeadlook-back-and-laugh_5b3ca6ec1e61.md) | 2004 | FLAC | 00:06:25 | [IA](https://archive.org/details/dropdeadlook-back-and-laugh_5b3ca6ec1e61) |
 | [Converge / Dropdead](converge-dropdead_52fb0b565480/converge-dropdead_52fb0b565480.md) | 2011 | FLAC | 00:03:40 | [IA](https://archive.org/details/converge-dropdead_52fb0b565480) |
+| [Dropdead / Ruidosa Inmundicia](dropdead-ruidosa-inmundicia_30c6fc5819aa/dropdead-ruidosa-inmundicia_30c6fc5819aa.md) | 2013 | FLAC | 00:04:53 | [IA](https://archive.org/details/dropdead-ruidosa-inmundicia_30c6fc5819aa) |
 | [Dropdead / Brainoil](dropdead-brainoil_78ff72a11543/dropdead-brainoil_78ff72a11543.md) | 2015 | FLAC | 00:06:23 | [IA](https://archive.org/details/dropdead-brainoil_78ff72a11543) |
 | [Arms Race](arms-race_01075335377d/arms-race_01075335377d.md) | 2018 | MP3 | 00:01:40 | [IA](https://archive.org/details/arms-race_01075335377d) |
 | [Demo 2019](demo-2019_dc74cd4f161c/demo-2019_dc74cd4f161c.md) | 2019 | FLAC | 00:11:32 | [IA](https://archive.org/details/demo-2019_dc74cd4f161c) |
