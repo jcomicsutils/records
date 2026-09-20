@@ -1,0 +1,32 @@
+{
+  "id": "dropdeadlook-back-and-laugh_5b3ca6ec1e61",
+  "fingerprint": "5b3ca6ec1e61bb553ae6fff179f754248e18dcb29e9e4f1d0dc74f2704d243e3",
+  "archived_at": "2026-09-20T23:10:57Z",
+  "metadata": {
+    "title": "Dropdead/Look Back and Laugh",
+    "artist": "Dropdead",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 385,
+    "duration_human": "00:06:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Dropdead - What Could Be",
+      "02 Dropdead - Boxed In",
+      "03 Dropdead - Brick by Brick",
+      "04 Dropdead - A Final Question",
+      "05 Dropdead - Words of Truth",
+      "06 Dropdead - Another Stone",
+      "07 Look Back and Laugh - Fuel the Conquest",
+      "08 Look Back and Laugh - Hero's Salute",
+      "09 Look Back and Laugh - Kick the Chair"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dropdeadlook-back-and-laugh_5b3ca6ec1e61"
+    }
+  }
+}
