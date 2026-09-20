@@ -1,0 +1,24 @@
+{
+  "id": "jiu_af66abb752d3",
+  "fingerprint": "af66abb752d3a763c741a664317eddfd638ddf47601be5bf1d8eaaf9cd6cf0d7",
+  "archived_at": "2026-09-20T17:21:26Z",
+  "metadata": {
+    "title": "旧",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2593,
+    "duration_human": "00:43:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 旧"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/jiu_af66abb752d3"
+    }
+  }
+}
