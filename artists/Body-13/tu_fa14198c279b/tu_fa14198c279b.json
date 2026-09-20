@@ -1,0 +1,24 @@
+{
+  "id": "tu_fa14198c279b",
+  "fingerprint": "fa14198c279b886e19e6c9aa5a5e6a5a20153bb8bdf8256f4ea18c4598c41bf3",
+  "archived_at": "2026-09-20T16:10:47Z",
+  "metadata": {
+    "title": "吐",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 6184,
+    "duration_human": "01:43:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 吐"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tu_fa14198c279b"
+    }
+  }
+}
