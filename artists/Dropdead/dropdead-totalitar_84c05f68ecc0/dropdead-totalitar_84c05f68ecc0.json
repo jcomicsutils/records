@@ -1,0 +1,32 @@
+{
+  "id": "dropdead-totalitar_84c05f68ecc0",
+  "fingerprint": "84c05f68ecc0a938495d827b0085df8b0844b50548d782d702d3dcc11b850000",
+  "archived_at": "2026-09-20T23:18:42Z",
+  "metadata": {
+    "title": "Dropdead / Totalitär",
+    "artist": "Dropdead",
+    "year": "2002",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 547,
+    "duration_human": "00:09:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Dropdead - The Truth Will Remain",
+      "02 Dropdead - Empire of Bone",
+      "03 Dropdead - At the End of Days",
+      "04 Dropdead - A Disease Called Man",
+      "05 Dropdead - Scream at the Wall",
+      "06 Dropdead - Awaken Sleeper",
+      "07 Totalitär - Hur Orkar VI",
+      "08 Totalitär - Nu Går Jag",
+      "09 Totalitär - Du Är Status Du"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dropdead-totalitar_84c05f68ecc0"
+    }
+  }
+}
