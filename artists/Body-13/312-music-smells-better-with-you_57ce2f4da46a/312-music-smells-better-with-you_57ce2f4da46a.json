@@ -1,0 +1,24 @@
+{
+  "id": "312-music-smells-better-with-you_57ce2f4da46a",
+  "fingerprint": "57ce2f4da46a33aeca8a5229bf461fac62d86e4f90324c8423f639f6c9e25688",
+  "archived_at": "2026-09-20T02:08:54Z",
+  "metadata": {
+    "title": "#312: Music Smells Better With You",
+    "artist": "Body 13",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1710,
+    "duration_human": "00:28:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - Music Smells Better With You"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/312-music-smells-better-with-you_57ce2f4da46a"
+    }
+  }
+}
