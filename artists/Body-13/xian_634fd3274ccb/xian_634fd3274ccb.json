@@ -1,0 +1,24 @@
+{
+  "id": "xian_634fd3274ccb",
+  "fingerprint": "634fd3274ccb93fb2e6e83c742c4a2b8f618578c9b5be5e8cd32382232bf95f1",
+  "archived_at": "2026-09-20T16:39:28Z",
+  "metadata": {
+    "title": "嫌",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2024,
+    "duration_human": "00:33:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 嫌"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xian_634fd3274ccb"
+    }
+  }
+}
