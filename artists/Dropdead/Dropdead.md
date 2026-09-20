@@ -6,6 +6,7 @@
 | [Dropdead / Crossed Out](dropdead-crossed-out_976a6e15dda3/dropdead-crossed-out_976a6e15dda3.md) | 1993 | FLAC | 00:04:49 | [IA](https://archive.org/details/dropdead-crossed-out_976a6e15dda3) |
 | [Dropdead / Rupture](dropdead-rupture_1789946061/dropdead-rupture_1789946061.md) | 1993 | MP3 | 00:18:18 | [IA](https://archive.org/details/dropdead-rupture_1789946061) |
 | [Dropdead 1993](dropdead-1993_d90b31710b45/dropdead-1993_d90b31710b45.md) | 1993 | FLAC | 00:32:20 | [IA](https://archive.org/details/dropdead-1993_d90b31710b45) |
+| [Hostile](hostile_38b2d9b3a5a7/hostile_38b2d9b3a5a7.md) | 1996 | MP3 | 00:04:46 | [IA](https://archive.org/details/hostile_38b2d9b3a5a7) |
 | [Drop on - The Bootleg](drop-on-the-bootleg_b23545e96714/drop-on-the-bootleg_b23545e96714.md) | 1996 | FLAC | 00:15:06 | [IA](https://archive.org/details/drop-on-the-bootleg_b23545e96714) |
 | [Discography](discography_14085e299bb4/discography_14085e299bb4.md) | 2002 | FLAC | 00:25:50 | [IA](https://archive.org/details/discography_14085e299bb4) |
 | [Dropdead / Totalitär](dropdead-totalitar_84c05f68ecc0/dropdead-totalitar_84c05f68ecc0.md) | 2002 | FLAC | 00:09:07 | [IA](https://archive.org/details/dropdead-totalitar_84c05f68ecc0) |

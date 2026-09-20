@@ -1,0 +1,29 @@
+{
+  "id": "hostile_38b2d9b3a5a7",
+  "fingerprint": "38b2d9b3a5a762231f425cc5d4319ee941aa37435d5111d753c9e8969815695b",
+  "archived_at": "2026-09-20T23:47:21Z",
+  "metadata": {
+    "title": "Hostile",
+    "artist": "Dropdead",
+    "year": "1996",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 286,
+    "duration_human": "00:04:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Dropdead - Witch Hunt",
+      "02 Dropdead - Spirit Lies Broken",
+      "03 Dropdead - Fade",
+      "04 Dropdead - Those Who We Deny",
+      "05 Dropdead - Prison",
+      "06 Dropdead - Hope Is an Option"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hostile_38b2d9b3a5a7"
+    }
+  }
+}
