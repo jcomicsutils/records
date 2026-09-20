@@ -1,0 +1,24 @@
+{
+  "id": "jian_2197e943af27",
+  "fingerprint": "2197e943af2770f66eb1643e38fc2b6f1d416c9c49b20ade4273e4fe884508ea",
+  "archived_at": "2026-09-20T16:00:21Z",
+  "metadata": {
+    "title": "剪",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2742,
+    "duration_human": "00:45:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 剪"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/jian_2197e943af27"
+    }
+  }
+}
