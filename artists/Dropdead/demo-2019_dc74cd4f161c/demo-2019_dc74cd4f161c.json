@@ -1,0 +1,33 @@
+{
+  "id": "demo-2019_dc74cd4f161c",
+  "fingerprint": "dc74cd4f161c734853d5d5bf2b55b66c73016e4590125e05ba8cf80f33a6da6c",
+  "archived_at": "2026-09-20T22:33:30Z",
+  "metadata": {
+    "title": "Demo 2019",
+    "artist": "Dropdead",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 692,
+    "duration_human": "00:11:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Dropdead - Intro",
+      "02 Dropdead - Torches",
+      "03 Dropdead - Only Victims",
+      "04 Dropdead - Warfare State",
+      "05 Dropdead - Vultures",
+      "06 Dropdead - Stoking the Flame",
+      "07 Dropdead - Bodies",
+      "08 Dropdead - Stripped by the Knife",
+      "09 Dropdead - Hail to the Emperor",
+      "10 Dropdead - Book of Hate"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/demo-2019_dc74cd4f161c"
+    }
+  }
+}
