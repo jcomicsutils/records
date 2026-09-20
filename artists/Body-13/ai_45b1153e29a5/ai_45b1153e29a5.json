@@ -1,0 +1,24 @@
+{
+  "id": "ai_45b1153e29a5",
+  "fingerprint": "45b1153e29a5efbc407b5d1884d98154d41ea65e503dc221ecf3528b012fe7c4",
+  "archived_at": "2026-09-20T16:24:29Z",
+  "metadata": {
+    "title": "埃",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 8196,
+    "duration_human": "02:16:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 埃"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ai_45b1153e29a5"
+    }
+  }
+}
