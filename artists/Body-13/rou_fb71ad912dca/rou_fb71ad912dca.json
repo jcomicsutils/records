@@ -1,0 +1,24 @@
+{
+  "id": "rou_fb71ad912dca",
+  "fingerprint": "fb71ad912dca2706a2ee16420bf514ab347be1373839969b2bfa9c49b1366369",
+  "archived_at": "2026-09-20T18:50:08Z",
+  "metadata": {
+    "title": "肉",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2132,
+    "duration_human": "00:35:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 肉"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rou_fb71ad912dca"
+    }
+  }
+}
