@@ -1,0 +1,24 @@
+{
+  "id": "fa_18a18ef90f76",
+  "fingerprint": "18a18ef90f76d17a8e2a5ab0b77149f076be0a21a248ed0496c7ad6dfea49549",
+  "archived_at": "2026-09-20T18:42:17Z",
+  "metadata": {
+    "title": "罚",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2582,
+    "duration_human": "00:43:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 罚"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fa_18a18ef90f76"
+    }
+  }
+}
