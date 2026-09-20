@@ -1,0 +1,24 @@
+{
+  "id": "hui_5e707e501ef6",
+  "fingerprint": "5e707e501ef69732b2c780386e6d49f1e63b032596df4eb6c271b40b0571b01a",
+  "archived_at": "2026-09-20T18:13:16Z",
+  "metadata": {
+    "title": "灰",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 7356,
+    "duration_human": "02:02:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 灰"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hui_5e707e501ef6"
+    }
+  }
+}
