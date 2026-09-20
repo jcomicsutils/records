@@ -1,0 +1,24 @@
+{
+  "id": "qin_b9c60639d96e",
+  "fingerprint": "b9c60639d96e9a982a323a710f2a36e4ea431e6c69f058e8b3494ae9417c41bc",
+  "archived_at": "2026-09-20T15:38:53Z",
+  "metadata": {
+    "title": "侵",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1788,
+    "duration_human": "00:29:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 侵"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/qin_b9c60639d96e"
+    }
+  }
+}
