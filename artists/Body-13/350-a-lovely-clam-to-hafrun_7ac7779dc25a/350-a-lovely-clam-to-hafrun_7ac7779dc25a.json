@@ -1,0 +1,29 @@
+{
+  "id": "350-a-lovely-clam-to-hafrun_7ac7779dc25a",
+  "fingerprint": "7ac7779dc25a18f57e8557159375276dcfdc635b312b9e63db2e0a4a2c0a098f",
+  "archived_at": "2026-09-20T09:09:54Z",
+  "metadata": {
+    "title": "#350: A Lovely Clam (To Hafrún)",
+    "artist": "Body 13",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 30420,
+    "duration_human": "08:27:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - A Lovely Clam (To Hafrún) (Part 1)",
+      "02 Body 13 - A Lovely Clam (To Hafrún) (Part 2)",
+      "03 Body 13 - A Lovely Clam (To Hafrún) (Part 3)",
+      "04 Body 13 - A Lovely Clam (To Hafrún) (Part 4)",
+      "05 Body 13 - A Lovely Clam (To Hafrún) (Part 5)",
+      "06 Body 13 - A Lovely Clam (To Hafrún) (Part 6)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/350-a-lovely-clam-to-hafrun_7ac7779dc25a"
+    }
+  }
+}
