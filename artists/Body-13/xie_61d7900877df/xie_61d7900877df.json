@@ -1,0 +1,24 @@
+{
+  "id": "xie_61d7900877df",
+  "fingerprint": "61d7900877df75a59b901d35a578f6d083d94cf80a3259dabc25a97e99cb8851",
+  "archived_at": "2026-09-20T19:26:38Z",
+  "metadata": {
+    "title": "邪",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3196,
+    "duration_human": "00:53:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 邪"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xie_61d7900877df"
+    }
+  }
+}
