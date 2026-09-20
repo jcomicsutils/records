@@ -1,0 +1,24 @@
+{
+  "id": "huang_7fe25ee44e6c",
+  "fingerprint": "7fe25ee44e6c6c328a372ea58a93901d24c886fa2d281675d1076d4a1f93587f",
+  "archived_at": "2026-09-20T19:55:53Z",
+  "metadata": {
+    "title": "黄",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 5155,
+    "duration_human": "01:25:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 黄"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/huang_7fe25ee44e6c"
+    }
+  }
+}
