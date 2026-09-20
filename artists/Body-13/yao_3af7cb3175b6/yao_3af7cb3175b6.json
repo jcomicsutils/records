@@ -1,0 +1,24 @@
+{
+  "id": "yao_3af7cb3175b6",
+  "fingerprint": "3af7cb3175b6b77846a50c5ceddc02950ed8036a26a306a8d465f6571bccebcd",
+  "archived_at": "2026-09-20T16:18:12Z",
+  "metadata": {
+    "title": "咬",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2526,
+    "duration_human": "00:42:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 咬"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/yao_3af7cb3175b6"
+    }
+  }
+}
