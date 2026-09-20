@@ -1,0 +1,24 @@
+{
+  "id": "xiao_a96338cc796b",
+  "fingerprint": "a96338cc796b380ccd647504056b6e39ec170d778769fb6152ed643a92f7e3c5",
+  "archived_at": "2026-09-20T19:34:36Z",
+  "metadata": {
+    "title": "销",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2518,
+    "duration_human": "00:41:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 销"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xiao_a96338cc796b"
+    }
+  }
+}
