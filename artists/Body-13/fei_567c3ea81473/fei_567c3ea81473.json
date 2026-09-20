@@ -1,0 +1,24 @@
+{
+  "id": "fei_567c3ea81473",
+  "fingerprint": "567c3ea81473e1edac1639f4d30ba28bf2f2474da40396cf027472166ea1a0c3",
+  "archived_at": "2026-09-20T16:52:49Z",
+  "metadata": {
+    "title": "废",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4706,
+    "duration_human": "01:18:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 废"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fei_567c3ea81473"
+    }
+  }
+}
