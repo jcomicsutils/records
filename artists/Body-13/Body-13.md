@@ -319,6 +319,7 @@
 | [邪](xie_61d7900877df/xie_61d7900877df.md) | 2022 | FLAC | 00:53:16 | [IA](https://archive.org/details/xie_61d7900877df) |
 | [#256: Great Brown Dripping Box of the Lutheran Church Bereft of Sour Souls](256-great-brown-dripping-box-of-the-lutheran-church-bereft-of-sour-souls_6677cdb1739d/256-great-brown-dripping-box-of-the-lutheran-church-bereft-of-sour-souls_6677cdb1739d.md) | 2022 | FLAC | 01:02:34 | [IA](https://archive.org/details/256-great-brown-dripping-box-of-the-lutheran-church-bereft-of-sour-souls_6677cdb1739d) [FileDitch](https://fileditchfiles.st/beta35/05bf1a26b7592f1a8310/256_Great_Brown_Dripping_Box_of_the_Lutheran_Church_Bereft_of_Sour_Souls.tar) |
 | [臭](chou_d4d044e9db99/chou_d4d044e9db99.md) | 2022 | FLAC | 01:27:42 | [IA](https://archive.org/details/chou_d4d044e9db99) |
+| [魂](hun_f697a631a68c/hun_f697a631a68c.md) | 2022 | FLAC | 01:16:44 | [IA](https://archive.org/details/hun_f697a631a68c) |
 | [#250: Reach for a Cop's Gun](250-reach-for-a-cops-gun_1b6a164d0468/250-reach-for-a-cops-gun_1b6a164d0468.md) | 2022 | FLAC | 00:51:57 | [IA](https://archive.org/details/250-reach-for-a-cops-gun_1b6a164d0468) [FileDitch](https://fileditchfiles.st/beta35/5a3a048f594a1842c0d9/250_Reach_for_a_Cop_s_Gun.tar) |
 | [旧](jiu_af66abb752d3/jiu_af66abb752d3.md) | 2022 | FLAC | 00:43:13 | [IA](https://archive.org/details/jiu_af66abb752d3) |
 | [惨](can_98fe9e5dcaac/can_98fe9e5dcaac.md) | 2022 | FLAC | 00:38:34 | [IA](https://archive.org/details/can_98fe9e5dcaac) |
