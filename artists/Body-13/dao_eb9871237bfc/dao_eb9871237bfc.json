@@ -1,0 +1,24 @@
+{
+  "id": "dao_eb9871237bfc",
+  "fingerprint": "eb9871237bfcb24a638256f435af91499ecd8941ca191f08f39f9fff52782f06",
+  "archived_at": "2026-09-20T15:45:55Z",
+  "metadata": {
+    "title": "刀",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 5358,
+    "duration_human": "01:29:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 刀"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dao_eb9871237bfc"
+    }
+  }
+}
