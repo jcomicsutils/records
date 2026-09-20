@@ -1,0 +1,24 @@
+{
+  "id": "xie_e6123182eda5",
+  "fingerprint": "e6123182eda52ba7b066328cb3582d2c0e0874e59ac44547764072bf83b9ed9e",
+  "archived_at": "2026-09-20T18:52:36Z",
+  "metadata": {
+    "title": "胁",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 840,
+    "duration_human": "00:14:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 胁"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xie_e6123182eda5"
+    }
+  }
+}
