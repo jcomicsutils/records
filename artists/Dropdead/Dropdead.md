@@ -4,6 +4,7 @@
 |-------|------|-------|----------|-------|
 | [Dropdead](dropdead_075fd0a7356c/dropdead_075fd0a7356c.md) | 1992 | MP3 | 00:11:17 | [IA](https://archive.org/details/dropdead_075fd0a7356c) |
 | [Dropdead / Crossed Out](dropdead-crossed-out_976a6e15dda3/dropdead-crossed-out_976a6e15dda3.md) | 1993 | FLAC | 00:04:49 | [IA](https://archive.org/details/dropdead-crossed-out_976a6e15dda3) |
+| [Dropdead / Rupture](dropdead-rupture_1789946061/dropdead-rupture_1789946061.md) | 1993 | MP3 | 00:18:18 | [IA](https://archive.org/details/dropdead-rupture_1789946061) |
 | [Drop on - The Bootleg](drop-on-the-bootleg_b23545e96714/drop-on-the-bootleg_b23545e96714.md) | 1996 | FLAC | 00:15:06 | [IA](https://archive.org/details/drop-on-the-bootleg_b23545e96714) |
 | [Discography](discography_14085e299bb4/discography_14085e299bb4.md) | 2002 | FLAC | 00:25:50 | [IA](https://archive.org/details/discography_14085e299bb4) |
 | [Dropdead/Look Back and Laugh](dropdeadlook-back-and-laugh_5b3ca6ec1e61/dropdeadlook-back-and-laugh_5b3ca6ec1e61.md) | 2004 | FLAC | 00:06:25 | [IA](https://archive.org/details/dropdeadlook-back-and-laugh_5b3ca6ec1e61) |
