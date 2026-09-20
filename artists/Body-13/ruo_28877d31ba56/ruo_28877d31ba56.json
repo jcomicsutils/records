@@ -1,0 +1,24 @@
+{
+  "id": "ruo_28877d31ba56",
+  "fingerprint": "28877d31ba56843b9c5adfb29d00e5c24d2f3c91757bc7c3b1eb7722d9158834",
+  "archived_at": "2026-09-20T17:01:12Z",
+  "metadata": {
+    "title": "弱",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1381,
+    "duration_human": "00:23:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 弱"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ruo_28877d31ba56"
+    }
+  }
+}
