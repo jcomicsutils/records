@@ -1,0 +1,24 @@
+{
+  "id": "shou_67f793a0dcbe",
+  "fingerprint": "67f793a0dcbe615edbd45824e3d89342624ad8626ff28b0fca144fe5d3d8ae6b",
+  "archived_at": "2026-09-20T15:42:16Z",
+  "metadata": {
+    "title": "兽",
+    "artist": "Body 13",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2001,
+    "duration_human": "00:33:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - 兽"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/shou_67f793a0dcbe"
+    }
+  }
+}
