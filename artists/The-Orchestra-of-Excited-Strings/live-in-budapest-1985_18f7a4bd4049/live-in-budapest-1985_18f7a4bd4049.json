@@ -1,0 +1,29 @@
+{
+  "id": "live-in-budapest-1985_18f7a4bd4049",
+  "fingerprint": "18f7a4bd404906cc71807942a6d04b3f63a51efa06aec640f8ed93962adbf366",
+  "archived_at": "2026-09-21T04:27:39Z",
+  "metadata": {
+    "title": "Live in Budapest 1985",
+    "artist": "The Orchestra of Excited Strings",
+    "year": "1985",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 3015,
+    "duration_human": "00:50:15",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Arnold Dreyblatt & The Orchestra of Excited Strings - Harmonics",
+      "02 Arnold Dreyblatt & The Orchestra of Excited Strings - Odd & Even",
+      "03 Arnold Dreyblatt & The Orchestra of Excited Strings - Solo for Snare Drum",
+      "04 Arnold Dreyblatt & The Orchestra of Excited Strings - Bowing",
+      "05 Arnold Dreyblatt & The Orchestra of Excited Strings - Pedal Tone Dance",
+      "06 Arnold Dreyblatt & The Orchestra of Excited Strings - Propellers in Love"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-in-budapest-1985_18f7a4bd4049"
+    }
+  }
+}
