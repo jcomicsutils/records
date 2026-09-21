@@ -1,0 +1,28 @@
+{
+  "id": "second-thoughts_18bc7a9d88ea",
+  "fingerprint": "18bc7a9d88ea35f1828cf37bb802a4b99b499bb8ee2e8cb22eb96cf7125bc0cb",
+  "archived_at": "2026-09-21T22:48:31Z",
+  "metadata": {
+    "title": "Second Thoughts",
+    "artist": "Cages",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 788,
+    "duration_human": "00:13:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cages - How Quickly We Forget",
+      "02 Cages - A Sight for Sore Eyes",
+      "03 Cages - Every Dog Has Its Day",
+      "04 Cages - Someone Who's Working Really Hard on Being Somenone",
+      "05 Cages - Sleepwalking in Potemkin Cities"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/second-thoughts_18bc7a9d88ea"
+    }
+  }
+}
