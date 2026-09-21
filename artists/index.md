@@ -6,6 +6,7 @@
 - [7038634357](7038634357/7038634357.md)
 - [A Cackle or a Coughing Fit](A-Cackle-or-a-Coughing-Fit/A-Cackle-or-a-Coughing-Fit.md)
 - [A Small Good Thing](A-Small-Good-Thing/A-Small-Good-Thing.md)
+- [A Sunny Day in Glasgow](A-Sunny-Day-in-Glasgow/A-Sunny-Day-in-Glasgow.md)
 - [A. Yólotl / Abriction](A.-Yólotl-Abriction/A.-Yólotl-Abriction.md)
 - [ASSOCIAÇÃO DOS GAROTOS QUE SOFREM](ASSOCIAÇÃO-DOS-GAROTOS-QUE-SOFREM/ASSOCIAÇÃO-DOS-GAROTOS-QUE-SOFREM.md)
 - [Absolute Controlled Clinical Maniacs](Absolute-Controlled-Clinical-Maniacs/Absolute-Controlled-Clinical-Maniacs.md)
