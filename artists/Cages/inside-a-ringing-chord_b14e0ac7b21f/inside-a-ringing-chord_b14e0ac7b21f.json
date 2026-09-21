@@ -1,0 +1,29 @@
+{
+  "id": "inside-a-ringing-chord_b14e0ac7b21f",
+  "fingerprint": "b14e0ac7b21f806478570fce4ae98e34bb49ec1eea51f4d09c657270c7d2deb8",
+  "archived_at": "2026-09-21T21:39:51Z",
+  "metadata": {
+    "title": "Inside a Ringing Chord",
+    "artist": "Cages",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 4784,
+    "duration_human": "01:19:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cages - Savasana",
+      "02 Cages - D.I.E.?",
+      "03 Cages - Disappearing Wall",
+      "04 Cages - Something to Carry in the Dark",
+      "05 Cages - Sufferer",
+      "06 Cages - Devil"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/inside-a-ringing-chord_b14e0ac7b21f"
+    }
+  }
+}
