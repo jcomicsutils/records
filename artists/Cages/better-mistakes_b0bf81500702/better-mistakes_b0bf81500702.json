@@ -1,0 +1,29 @@
+{
+  "id": "better-mistakes_b0bf81500702",
+  "fingerprint": "b0bf81500702ddeccf61b659ee93a1fa2727ced59d60ee09d0f3095d4651faf7",
+  "archived_at": "2026-09-21T22:44:07Z",
+  "metadata": {
+    "title": "Better Mistakes",
+    "artist": "Cages",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 970,
+    "duration_human": "00:16:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cages - Masters of the Universe",
+      "02 Cages - There's No Laughter in a Clown-School",
+      "03 Cages - Don't Thank the Academy, Yet",
+      "04 Cages - The Metaphysics of Losing a Friend",
+      "05 Cages - My Wristwatch Tells Me When to Sleep",
+      "06 Cages - Let's Not Keep Our Hopes Up"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/better-mistakes_b0bf81500702"
+    }
+  }
+}

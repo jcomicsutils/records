@@ -10,3 +10,4 @@
 | [Inside a Ringing Chord](inside-a-ringing-chord_b14e0ac7b21f/inside-a-ringing-chord_b14e0ac7b21f.md) | 2018 | FLAC | 01:19:44 | [IA](https://archive.org/details/inside-a-ringing-chord_b14e0ac7b21f) |
 | [Kunzhi Namshe](kunzhi-namshe_3f13c3326202/kunzhi-namshe_3f13c3326202.md) | 2019 | FLAC | 04:56:32 | [IA](https://archive.org/details/kunzhi-namshe_3f13c3326202) |
 | [A World in Song](a-world-in-song_5c79343383e7/a-world-in-song_5c79343383e7.md) | 2020 | FLAC | 00:48:46 | [IA](https://archive.org/details/a-world-in-song_5c79343383e7) |
+| [Better Mistakes](better-mistakes_b0bf81500702/better-mistakes_b0bf81500702.md) | 2025 | FLAC | 00:16:10 | [IA](https://archive.org/details/better-mistakes_b0bf81500702) |
