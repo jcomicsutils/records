@@ -246,6 +246,7 @@
 - [The Lost Jockey](The-Lost-Jockey/The-Lost-Jockey.md)
 - [The Mystic Revelation of Teppo Repo](The-Mystic-Revelation-of-Teppo-Repo/The-Mystic-Revelation-of-Teppo-Repo.md)
 - [The No-Neck Blues Band](The-No-Neck-Blues-Band/The-No-Neck-Blues-Band.md)
+- [The Orchestra of Excited Strings](The-Orchestra-of-Excited-Strings/The-Orchestra-of-Excited-Strings.md)
 - [The Runners From 1984](The-Runners-From-1984/The-Runners-From-1984.md)
 - [The Sleeping Moustache](The-Sleeping-Moustache/The-Sleeping-Moustache.md)
 - [Thee Angels ov Light Meet Thee Angry Love Orchestra](Thee-Angels-ov-Light-Meet-Thee-Angry-Love-Orchestra/Thee-Angels-ov-Light-Meet-Thee-Angry-Love-Orchestra.md)

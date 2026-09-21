@@ -1,0 +1,5 @@
+# The Orchestra of Excited Strings
+
+| Album | Year | Codec | Duration | Hosts |
+|-------|------|-------|----------|-------|
+| [Animal Magnetism](animal-magnetism_03b4c45be2e7/animal-magnetism_03b4c45be2e7.md) | 1995 | FLAC | 00:36:21 | [IA](https://archive.org/details/animal-magnetism_03b4c45be2e7) |
