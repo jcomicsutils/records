@@ -1,0 +1,28 @@
+{
+  "id": "immovable-object_7262fc3266cf",
+  "fingerprint": "7262fc3266cf66c918334c44cee5c588a60bec8fa75e3ba2b505e3e75fdedb6a",
+  "archived_at": "2026-09-21T21:34:14Z",
+  "metadata": {
+    "title": "Immovable Object",
+    "artist": "Cages",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2611,
+    "duration_human": "00:43:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cages - Approaching White Light",
+      "02 Cages - Dying",
+      "03 Cages - On Dawn's Side",
+      "04 Cages - Dirty Lungs",
+      "05 Cages - Dying (Alternate)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/immovable-object_7262fc3266cf"
+    }
+  }
+}
