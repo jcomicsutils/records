@@ -1,0 +1,30 @@
+{
+  "id": "propellers-in-love_b49336788559",
+  "fingerprint": "b493367885598e9646f3cdbf87180c4e46d450038c0a3bf8afcf1318914396dd",
+  "archived_at": "2026-09-21T04:36:52Z",
+  "metadata": {
+    "title": "Propellers in Love",
+    "artist": "The Orchestra of Excited Strings",
+    "year": "1988",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3136,
+    "duration_human": "00:52:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Arnold Dreyblatt & The Orchestra of Excited Strings - Harmonics",
+      "02 Arnold Dreyblatt & The Orchestra of Excited Strings - Odd & Even",
+      "03 Arnold Dreyblatt & The Orchestra of Excited Strings - Bowing",
+      "04 Arnold Dreyblatt & The Orchestra of Excited Strings - Pedal Tone Dance",
+      "05 Arnold Dreyblatt & The Orchestra of Excited Strings - Propellers in Love",
+      "06 Arnold Dreyblatt & The Orchestra of Excited Strings - Lucky Strike",
+      "07 Arnold Dreyblatt & The Orchestra of Excited Strings - High Life: 7 High Life (1988)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/propellers-in-love_b49336788559"
+    }
+  }
+}
