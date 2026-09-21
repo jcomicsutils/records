@@ -1,0 +1,24 @@
+{
+  "id": "agressivo-desgracado_ae3069a6707e",
+  "fingerprint": "ae3069a6707eed37e84d2a39530367de7ec04e09b4a9a588b48c93b160dd256f",
+  "archived_at": "2026-09-21T23:04:09Z",
+  "metadata": {
+    "title": "Agressivo Desgraçado",
+    "artist": "d.silvestre",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 180,
+    "duration_human": "00:03:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 d.silvestre, MC DENADAI - Agressivo Desgraçado"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/agressivo-desgracado_ae3069a6707e"
+    }
+  }
+}
