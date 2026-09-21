@@ -1,0 +1,30 @@
+{
+  "id": "anti-realist_4494e24665d7",
+  "fingerprint": "4494e24665d77b6431f49e285190da4d013e2fe3f2d4264ae3da2c0394cbcc4f",
+  "archived_at": "2026-09-21T21:07:43Z",
+  "metadata": {
+    "title": "Anti Realist",
+    "artist": "Cages",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2682,
+    "duration_human": "00:44:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cages - Tidal Forces",
+      "02 Cages - Lost Lipids",
+      "03 Cages - Psalm to Mother",
+      "04 Cages - Untitled",
+      "05 Cages - The Corpse of Space",
+      "06 Cages - Burial",
+      "07 Cages - Cavern"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/anti-realist_4494e24665d7"
+    }
+  }
+}
