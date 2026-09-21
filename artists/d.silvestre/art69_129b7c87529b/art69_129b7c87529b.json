@@ -1,0 +1,29 @@
+{
+  "id": "art69_129b7c87529b",
+  "fingerprint": "129b7c87529b93dd9b408982504afa7cae55484a91a7028002747b3e0c5723ca",
+  "archived_at": "2026-09-21T23:06:53Z",
+  "metadata": {
+    "title": "Art.69",
+    "artist": "d.silvestre",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1062,
+    "duration_human": "00:17:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 d.silvestre, MC DENADAI - Agudo Supremo Terror dos Tímpanos",
+      "02 d.silvestre, MC DENADAI - Pau no C* dos Gringos",
+      "03 d.silvestre, MC DENADAI - Vou Te Gravar no Beco",
+      "04 d.silvestre, MC DENADAI - Interlúdio Arrebatador",
+      "05 d.silvestre, MC DENADAI - Tuin Radioativo",
+      "06 d.silvestre, MC DENADAI - Gangue da Fumaça"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/art69_129b7c87529b"
+    }
+  }
+}
