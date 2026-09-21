@@ -1,0 +1,26 @@
+{
+  "id": "professor-slack_08c09228b75e",
+  "fingerprint": "08c09228b75e7ae5cf69054834dc7bd783b6c36b03d314a6d3d5a6ab9caeae88",
+  "archived_at": "2026-09-21T04:12:10Z",
+  "metadata": {
+    "title": "Professor Slack",
+    "artist": "The Lost Jockey",
+    "year": "1982",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 1118,
+    "duration_human": "00:18:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The Lost Jockey - Professor Slack",
+      "02 The Lost Jockey - Rise & Fall",
+      "03 The Lost Jockey - Animal Behaviour & Crude Din"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/professor-slack_08c09228b75e"
+    }
+  }
+}
