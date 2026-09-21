@@ -1,0 +1,31 @@
+{
+  "id": "nodal-excitation_17566d504476",
+  "fingerprint": "17566d50447663713860b0198825c592b8650846f53e2e749fd24a5d635a5fee",
+  "archived_at": "2026-09-21T04:31:17Z",
+  "metadata": {
+    "title": "Nodal Excitation",
+    "artist": "The Orchestra of Excited Strings",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2295,
+    "duration_human": "00:38:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Arnold Dreyblatt & The Orchestra of Excited Strings - Harmonics",
+      "02 Arnold Dreyblatt & The Orchestra of Excited Strings - Addition",
+      "03 Arnold Dreyblatt & The Orchestra of Excited Strings - Slow Changes I",
+      "04 Arnold Dreyblatt & The Orchestra of Excited Strings - Slow Changes II",
+      "05 Arnold Dreyblatt & The Orchestra of Excited Strings - Nodal Excitation",
+      "06 Arnold Dreyblatt & The Orchestra of Excited Strings - Formation",
+      "07 Arnold Dreyblatt & The Orchestra of Excited Strings - Bow and Arrow",
+      "08 Arnold Dreyblatt & The Orchestra of Excited Strings - Lucky Strike"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nodal-excitation_17566d504476"
+    }
+  }
+}
