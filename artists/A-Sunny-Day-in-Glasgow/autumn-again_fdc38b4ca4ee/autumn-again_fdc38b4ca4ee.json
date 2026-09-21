@@ -1,0 +1,34 @@
+{
+  "id": "autumn-again_fdc38b4ca4ee",
+  "fingerprint": "fdc38b4ca4ee587c8a1123097d3a120c72fa75d7e5947204903187a9283d1b23",
+  "archived_at": "2026-09-21T20:00:32Z",
+  "metadata": {
+    "title": "Autumn, Again",
+    "artist": "A Sunny Day in Glasgow",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2023,
+    "duration_human": "00:33:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 A Sunny Day in Glasgow - Autumn, Again",
+      "02 A Sunny Day in Glasgow - Fall in Love",
+      "03 A Sunny Day in Glasgow - Petition to Refrain From Repetition",
+      "04 A Sunny Day in Glasgow - Sigh, Inhibitionist (Come All Day With Me)",
+      "05 A Sunny Day in Glasgow - Moments on the Lawn",
+      "06 A Sunny Day in Glasgow - Drink Drank Drunk",
+      "07 A Sunny Day in Glasgow - Violet Mary Haunts Me OR Loss of Forgetfulness on Renfrew Street",
+      "08 A Sunny Day in Glasgow - How Does Somebody Say When They Like You?",
+      "09 A Sunny Day in Glasgow - Calling It Love Isn't Love (Don't Fall in Love)",
+      "10 A Sunny Day in Glasgow - This Assclown Eats Ambien OR Nobody Likes You (No Art)",
+      "11 A Sunny Day in Glasgow - 100/0 (Snowdays Forever)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/autumn-again_fdc38b4ca4ee"
+    }
+  }
+}
