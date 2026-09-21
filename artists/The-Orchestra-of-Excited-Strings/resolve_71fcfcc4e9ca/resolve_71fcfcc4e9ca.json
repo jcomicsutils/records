@@ -1,0 +1,27 @@
+{
+  "id": "resolve_71fcfcc4e9ca",
+  "fingerprint": "71fcfcc4e9caed7dfc638bc8e893e9fe9b60cbad81889466f6df8f69982e9828",
+  "archived_at": "2026-09-21T04:41:31Z",
+  "metadata": {
+    "title": "Resolve",
+    "artist": "The Orchestra of Excited Strings",
+    "year": "2023",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 2154,
+    "duration_human": "00:35:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Arnold Dreyblatt & The Orchestra of Excited Strings - Container",
+      "02 Arnold Dreyblatt & The Orchestra of Excited Strings - Shuffle Effect",
+      "03 Arnold Dreyblatt & The Orchestra of Excited Strings - Flight Path",
+      "04 Arnold Dreyblatt & The Orchestra of Excited Strings - Auditoria"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/resolve_71fcfcc4e9ca"
+    }
+  }
+}
