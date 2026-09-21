@@ -1,0 +1,28 @@
+{
+  "id": "complaint-and-riots-we-should-leave-to-cats_31351348bb15",
+  "fingerprint": "31351348bb15be27147ed2f9603fd10883cfa5c7d044a1632acf209b5fd6368b",
+  "archived_at": "2026-09-21T21:15:44Z",
+  "metadata": {
+    "title": "Complaint and Riots We Should Leave to Cats",
+    "artist": "Cages",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2442,
+    "duration_human": "00:40:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cages - Devil's Gun",
+      "02 Cages - Approaching White Light",
+      "03 Cages - If It Flies, It Dies",
+      "04 Cages - Cavern",
+      "05 Cages - I Saw the Light"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/complaint-and-riots-we-should-leave-to-cats_31351348bb15"
+    }
+  }
+}
