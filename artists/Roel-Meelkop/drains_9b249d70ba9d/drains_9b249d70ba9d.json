@@ -1,0 +1,30 @@
+{
+  "id": "drains_9b249d70ba9d",
+  "fingerprint": "9b249d70ba9d3b64c71d6c32de9005a565bbecbd48280b3cfb01ea8418310459",
+  "archived_at": "2026-09-21T04:04:14Z",
+  "metadata": {
+    "title": "Drains",
+    "artist": "Roel Meelkop",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3842,
+    "duration_human": "01:04:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Roel Meelkop - drains_1",
+      "02 Roel Meelkop - drains_2",
+      "03 Roel Meelkop - drains_3",
+      "04 Roel Meelkop - drains_4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/drains_9b249d70ba9d"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/delta2/37db65f5dae87fc2e701/Drains.tar"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "oavette-lp_bd3a372f91fe",
+  "fingerprint": "bd3a372f91fef9dc127b65d24287460160f79ebbbc26a7173a2020241b437bfe",
+  "archived_at": "2026-09-21T04:04:17Z",
+  "metadata": {
+    "title": "Oavette LP",
+    "artist": "Oavette",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2283,
+    "duration_human": "00:38:03",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Oavette - SUA",
+      "02 Oavette - TROODON",
+      "03 Oavette - GREETING",
+      "04 Oavette - ANIG",
+      "05 Oavette - ZF",
+      "06 Oavette - NEUS",
+      "07 Oavette - QUET",
+      "08 Oavette - JAVV"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/oavette-lp_bd3a372f91fe"
+    }
+  }
+}

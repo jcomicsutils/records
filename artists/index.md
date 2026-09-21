@@ -187,6 +187,7 @@
 - [North Eurasia Found Tapes](North-Eurasia-Found-Tapes/North-Eurasia-Found-Tapes.md)
 - [Não ao Futebol Moderno](Não-ao-Futebol-Moderno/Não-ao-Futebol-Moderno.md)
 - [Oathbreaker](Oathbreaker/Oathbreaker.md)
+- [Oavette](Oavette/Oavette.md)
 - [Olhava](Olhava/Olhava.md)
 - [Omniman](Omniman/Omniman.md)
 - [Operation Cleansweep](Operation-Cleansweep/Operation-Cleansweep.md)
