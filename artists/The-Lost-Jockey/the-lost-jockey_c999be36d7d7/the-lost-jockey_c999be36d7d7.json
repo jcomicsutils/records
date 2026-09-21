@@ -1,0 +1,27 @@
+{
+  "id": "the-lost-jockey_c999be36d7d7",
+  "fingerprint": "c999be36d7d719fc0194395a2121aca6dea86e3cb067f7849a3f5c4747e08fb1",
+  "archived_at": "2026-09-21T04:19:30Z",
+  "metadata": {
+    "title": "The Lost Jockey",
+    "artist": "The Lost Jockey",
+    "year": "1983",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 3787,
+    "duration_human": "01:03:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 The Lost Jockey - Beauty Bizniz",
+      "02 The Lost Jockey - Lean Do",
+      "03 The Lost Jockey - Blind Alley",
+      "04 The Lost Jockey - Buzz Buzz Buzz Went the Honey Bee"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-lost-jockey_c999be36d7d7"
+    }
+  }
+}
