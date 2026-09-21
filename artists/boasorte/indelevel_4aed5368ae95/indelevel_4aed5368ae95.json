@@ -1,0 +1,33 @@
+{
+  "id": "indelevel_4aed5368ae95",
+  "fingerprint": "4aed5368ae9590d6589d305bb3f6eaa6a02be46ee40788b15b5691e909e91a05",
+  "archived_at": "2026-09-21T20:47:15Z",
+  "metadata": {
+    "title": "Indelével",
+    "artist": "boasorte",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 1997,
+    "duration_human": "00:33:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 boasorte - Indelével",
+      "02 boasorte - Incêndios/Indícios",
+      "03 boasorte - Cidade caos",
+      "04 boasorte - Cinza",
+      "05 boasorte - Eu não ligo mais a tv",
+      "06 boasorte - Laranja",
+      "07 boasorte - Fod3",
+      "08 boasorte - Sal",
+      "09 boasorte - Ensaios sobre vinho e fumaça",
+      "10 boasorte - Se der sdd"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/indelevel_4aed5368ae95"
+    }
+  }
+}

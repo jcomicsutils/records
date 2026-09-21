@@ -286,6 +286,7 @@
 - [arai tasuku](arai-tasuku/arai-tasuku.md)
 - [Black Magick SS](black-magick-ss/black-magick-ss.md)
 - [blue noise](blue-noise/blue-noise.md)
+- [boasorte](boasorte/boasorte.md)
 - [fushigi na niwa](fushigi-na-niwa/fushigi-na-niwa.md)
 - [](item/item.md)
 - [many tiny boxes](many-tiny-boxes/many-tiny-boxes.md)
