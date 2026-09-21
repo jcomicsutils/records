@@ -1,0 +1,24 @@
+{
+  "id": "a-brisa-ta-legal-2_48a5d908a7af",
+  "fingerprint": "48a5d908a7afd971c9253580d1911014fe87391753211f251a39797ed52914f6",
+  "archived_at": "2026-09-21T22:51:53Z",
+  "metadata": {
+    "title": "A Brisa ta Legal 2",
+    "artist": "d.silvestre",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 164,
+    "duration_human": "00:02:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Vitinho Montagem, d.silvestre, MC Vitinho Zs, MC DENADAI - A Brisa ta Legal 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-brisa-ta-legal-2_48a5d908a7af"
+    }
+  }
+}
