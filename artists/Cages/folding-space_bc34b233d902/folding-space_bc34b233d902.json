@@ -1,0 +1,32 @@
+{
+  "id": "folding-space_bc34b233d902",
+  "fingerprint": "bc34b233d90228dde28b82887c209c91f2cd2acade9a9ca50aac8d3b3e398bfe",
+  "archived_at": "2026-09-21T21:23:53Z",
+  "metadata": {
+    "title": "Folding Space",
+    "artist": "Cages",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2959,
+    "duration_human": "00:49:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cages - Dying",
+      "02 Cages - If It Flies, It Dies",
+      "03 Cages - Cavern",
+      "04 Cages - Dream Dip Sailor",
+      "05 Cages - Psalm To Mother",
+      "06 Cages - Lost Lipids",
+      "07 Cages - Prisons Of Light",
+      "08 Cages - The New Forever",
+      "09 Cages - Approaching White Light"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/folding-space_bc34b233d902"
+    }
+  }
+}
