@@ -1,0 +1,30 @@
+{
+  "id": "nitetime-rainbows_e2387a8b4513",
+  "fingerprint": "e2387a8b451393178f114e5a628dd294af7774f3877926d1e6965b5a0414e3c0",
+  "archived_at": "2026-09-21T20:09:12Z",
+  "metadata": {
+    "title": "Nitetime Rainbows",
+    "artist": "A Sunny Day in Glasgow",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1885,
+    "duration_human": "00:31:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 A Sunny Day in Glasgow - Nitetime Rainbows",
+      "02 A Sunny Day in Glasgow - Daytime Rainbows",
+      "03 A Sunny Day in Glasgow - So Bloody, So Tight",
+      "04 A Sunny Day in Glasgow - Piano Lessons",
+      "05 A Sunny Day in Glasgow - Nitetime Rainbows (The Buddy System Remix)",
+      "06 A Sunny Day in Glasgow - Nitetime Rainbows (Acid Wash Edit by Benoît Pioulard)",
+      "07 A Sunny Day in Glasgow - Nitetime Rainbows (Ezekiel Honig Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nitetime-rainbows_e2387a8b4513"
+    }
+  }
+}
