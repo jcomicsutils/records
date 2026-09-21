@@ -1,0 +1,28 @@
+{
+  "id": "the-lost-jockey_c0fae65e6f39",
+  "fingerprint": "c0fae65e6f394c80d136b143822c46348d0a7f72a81c13923df0f602b28ec90f",
+  "archived_at": "2026-09-21T04:14:23Z",
+  "metadata": {
+    "title": "The Lost Jockey",
+    "artist": "The Lost Jockey",
+    "year": "1982",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3389,
+    "duration_human": "00:56:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Lost Jockey - Cadenza",
+      "02 The Lost Jockey - Phrase Book",
+      "03 The Lost Jockey - Matters of Theory",
+      "04 The Lost Jockey - The Lost Jockey (Hoovering the Beach I)",
+      "05 The Lost Jockey - The Lost Jockey (Hoovering the Beach II)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-lost-jockey_c0fae65e6f39"
+    }
+  }
+}
