@@ -1,0 +1,34 @@
+{
+  "id": "sea-when-absent_9a05393c172f",
+  "fingerprint": "9a05393c172f0c971d27aa9f3e3a79f47d405d5743730022c41885fa693b0001",
+  "archived_at": "2026-09-21T20:33:54Z",
+  "metadata": {
+    "title": "Sea When Absent",
+    "artist": "A Sunny Day in Glasgow",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2826,
+    "duration_human": "00:47:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 A Sunny Day in Glasgow - Bye Bye Big Ocean (The End)",
+      "02 A Sunny Day in Glasgow - In Love With Useless (The Timless Geometry in the Tradition of Passing)",
+      "03 A Sunny Day in Glasgow - Crushin'",
+      "04 A Sunny Day in Glasgow - MTLOV (Minor Keys)",
+      "05 A Sunny Day in Glasgow - The Things They Do to Me",
+      "06 A Sunny Day in Glasgow - Boys Turn Into Girls (Initiation Rites)",
+      "07 A Sunny Day in Glasgow - Never Nothing (It's Alright) [It's Ok]",
+      "08 A Sunny Day in Glasgow - Double Dutch",
+      "09 A Sunny Day in Glasgow - The Body, It Bends (ペルセポネが帰ってきた!)",
+      "10 A Sunny Day in Glasgow - Oh, I'm a Wrecker (What to Say to Crazy People)",
+      "11 A Sunny Day in Glasgow - Golden Waves"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sea-when-absent_9a05393c172f"
+    }
+  }
+}
