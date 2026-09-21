@@ -59,6 +59,7 @@
 - [Burning Witch](Burning-Witch/Burning-Witch.md)
 - [CMKK](CMKK/CMKK.md)
 - [Cadu Tenório](Cadu-Tenório/Cadu-Tenório.md)
+- [Cages](Cages/Cages.md)
 - [Cannabis Rose](Cannabis-Rose/Cannabis-Rose.md)
 - [Ceeys](Ceeys/Ceeys.md)
 - [Celestial Key](Celestial-Key/Celestial-Key.md)

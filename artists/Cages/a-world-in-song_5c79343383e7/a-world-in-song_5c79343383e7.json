@@ -1,0 +1,25 @@
+{
+  "id": "a-world-in-song_5c79343383e7",
+  "fingerprint": "5c79343383e79e1631478af80b2d6175d676396c6364cebf9d8e305ab4cd4872",
+  "archived_at": "2026-09-21T20:57:26Z",
+  "metadata": {
+    "title": "A World in Song",
+    "artist": "Cages",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2926,
+    "duration_human": "00:48:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cages - Tun",
+      "02 Cages - God & Devil"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-world-in-song_5c79343383e7"
+    }
+  }
+}
