@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Scribble Mural Comic Journal](scribble-mural-comic-journal_377847cd8c60/scribble-mural-comic-journal_377847cd8c60.md) | 2007 | FLAC | 00:54:09 | [IA](https://archive.org/details/scribble-mural-comic-journal_377847cd8c60) |
+| [Tout New Age](tout-new-age_9a2364adc4a6/tout-new-age_9a2364adc4a6.md) | 2007 | FLAC | 00:31:14 | [IA](https://archive.org/details/tout-new-age_9a2364adc4a6) |
 | [Searching for the Now, Vol. 3](searching-for-the-now-vol-3_e4987ba45e92/searching-for-the-now-vol-3_e4987ba45e92.md) | 2008 | FLAC | 00:07:02 | [IA](https://archive.org/details/searching-for-the-now-vol-3_e4987ba45e92) |
 | [Ashes Grammar](ashes-grammar_82afe7723156/ashes-grammar_82afe7723156.md) | 2009 | FLAC | 01:03:17 | [IA](https://archive.org/details/ashes-grammar_82afe7723156) |
 | [Nitetime Rainbows](nitetime-rainbows_e2387a8b4513/nitetime-rainbows_e2387a8b4513.md) | 2010 | FLAC | 00:31:25 | [IA](https://archive.org/details/nitetime-rainbows_e2387a8b4513) |

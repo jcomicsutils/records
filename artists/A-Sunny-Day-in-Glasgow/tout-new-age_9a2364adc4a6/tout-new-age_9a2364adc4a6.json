@@ -1,0 +1,31 @@
+{
+  "id": "tout-new-age_9a2364adc4a6",
+  "fingerprint": "9a2364adc4a62b101ac0d59f3d2e7735c0ae491d6c92d3d08d197b12a9228760",
+  "archived_at": "2026-09-21T20:41:50Z",
+  "metadata": {
+    "title": "Tout New Age",
+    "artist": "A Sunny Day in Glasgow",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1874,
+    "duration_human": "00:31:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 A Sunny Day in Glasgow - They Made My Baby Care About Things That Didn't Matter",
+      "02 A Sunny Day in Glasgow - Laughter (Victims)",
+      "03 A Sunny Day in Glasgow - Summerlong Silences",
+      "04 A Sunny Day in Glasgow - The Ossifrage (Tout New Age)",
+      "05 A Sunny Day in Glasgow - Take Care of Yourself (Our Next Breath Will Be Our Last)",
+      "06 A Sunny Day in Glasgow - Yellow",
+      "07 A Sunny Day in Glasgow - Shame, Who Wouldn't Think It's Evil? (Let's Get Beat-Up)",
+      "08 A Sunny Day in Glasgow - Hugs & Kisses (Theme From A Sunny Day in Glasgow)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tout-new-age_9a2364adc4a6"
+    }
+  }
+}
