@@ -1,0 +1,27 @@
+{
+  "id": "new-christmas-classics_941b1f6fc603",
+  "fingerprint": "941b1f6fc60379553d3094c5e4124edbb21ec66d8f23252885032603ce8beb56",
+  "archived_at": "2026-09-21T20:05:19Z",
+  "metadata": {
+    "title": "New Christmas Classics",
+    "artist": "A Sunny Day in Glasgow",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 818,
+    "duration_human": "00:13:38",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 A Sunny Day in Glasgow - Shut Your Mouth, It's Christmas",
+      "02 A Sunny Day in Glasgow - Saturn Pulls Me Apart (Death of the Unconquerable Night)",
+      "03 A Sunny Day in Glasgow - Fantasia on Xmas (From Vaughan Williams)",
+      "04 A Sunny Day in Glasgow - The Strange Presents of Idols (Merry Christmas​!​)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/new-christmas-classics_941b1f6fc603"
+    }
+  }
+}
