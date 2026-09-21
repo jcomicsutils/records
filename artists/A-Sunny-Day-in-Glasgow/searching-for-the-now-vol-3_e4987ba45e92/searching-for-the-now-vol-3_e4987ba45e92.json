@@ -1,0 +1,25 @@
+{
+  "id": "searching-for-the-now-vol-3_e4987ba45e92",
+  "fingerprint": "e4987ba45e92f9bf8a318f9b2d4045f4ddba6e71039c3169742b329888bd708a",
+  "archived_at": "2026-09-21T20:39:00Z",
+  "metadata": {
+    "title": "Searching for the Now, Vol. 3",
+    "artist": "A Sunny Day in Glasgow",
+    "year": "2008",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 422,
+    "duration_human": "00:07:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 A Sunny Day in Glasgow / The Sunny Street - Sometimes I Think About You",
+      "02 A Sunny Day in Glasgow / The Sunny Street - Pottery & Glass"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/searching-for-the-now-vol-3_e4987ba45e92"
+    }
+  }
+}
