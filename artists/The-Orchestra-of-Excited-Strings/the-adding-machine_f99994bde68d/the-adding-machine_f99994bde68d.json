@@ -1,0 +1,28 @@
+{
+  "id": "the-adding-machine_f99994bde68d",
+  "fingerprint": "f99994bde68db3b2e87a880dc9ebc512fcfe6ffc02acea828b7314fa0cd4a157",
+  "archived_at": "2026-09-21T04:45:52Z",
+  "metadata": {
+    "title": "The Adding Machine",
+    "artist": "The Orchestra of Excited Strings",
+    "year": "2002",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2604,
+    "duration_human": "00:43:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Arnold Dreyblatt & The Orchestra of Excited Strings - International Dateline",
+      "02 Arnold Dreyblatt & The Orchestra of Excited Strings - The Adding Machine",
+      "03 Arnold Dreyblatt & The Orchestra of Excited Strings - Lapse",
+      "04 Arnold Dreyblatt & The Orchestra of Excited Strings - House of Twang",
+      "05 Arnold Dreyblatt & The Orchestra of Excited Strings - Meantime"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-adding-machine_f99994bde68d"
+    }
+  }
+}
