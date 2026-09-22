@@ -1,0 +1,24 @@
+{
+  "id": "vem-dando-bucetada_1a78e90b8979",
+  "fingerprint": "1a78e90b8979a63b5cbe1471980a54a3ee2db94397faf7d2d88cb18362b20307",
+  "archived_at": "2026-09-22T19:34:30Z",
+  "metadata": {
+    "title": "Vem Dando Bucetada",
+    "artist": "d.silvestre",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 163,
+    "duration_human": "00:02:43",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 d.silvestre, MC DENADAI, MC Vitinho Zs - Vem Dando Bucetada"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vem-dando-bucetada_1a78e90b8979"
+    }
+  }
+}
