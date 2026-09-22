@@ -48,6 +48,7 @@
 | [O Inimigo Agora É Outro, Vol. 2](o-inimigo-agora-e-outro-vol-2_f8801a54da81/o-inimigo-agora-e-outro-vol-2_f8801a54da81.md) | 2024 | FLAC | 00:31:04 | [IA](https://archive.org/details/o-inimigo-agora-e-outro-vol-2_f8801a54da81) |
 | [Bon Appétit](bon-appetit_9cfcab5aff8e/bon-appetit_9cfcab5aff8e.md) | 2024 | FLAC | 00:03:46 | [IA](https://archive.org/details/bon-appetit_9cfcab5aff8e) |
 | [Eu Amo O Cabaré](eu-amo-o-cabare_8d5b90533c05/eu-amo-o-cabare_8d5b90533c05.md) | 2024 | FLAC | 00:01:36 | [IA](https://archive.org/details/eu-amo-o-cabare_8d5b90533c05) |
+| [Panelada Do Gw](panelada-do-gw_0771065a057f/panelada-do-gw_0771065a057f.md) | 2024 | FLAC | 00:02:17 | [IA](https://archive.org/details/panelada-do-gw_0771065a057f) |
 | [Metralhada Slowed](metralhada-slowed_9634b79e4b83/metralhada-slowed_9634b79e4b83.md) | 2024 | FLAC | 00:03:52 | [IA](https://archive.org/details/metralhada-slowed_9634b79e4b83) |
 | [JUNÇÃO IMPOSSÍVEL SLOWED](juncao-impossivel-slowed_36f2eb68ab1d/juncao-impossivel-slowed_36f2eb68ab1d.md) | 2024 | FLAC | 00:03:48 | [IA](https://archive.org/details/juncao-impossivel-slowed_36f2eb68ab1d) |
 | [Beat Instigante Slowed V2](beat-instigante-slowed-v2_09b8071fbc6a/beat-instigante-slowed-v2_09b8071fbc6a.md) | 2024 | FLAC | 00:03:09 | [IA](https://archive.org/details/beat-instigante-slowed-v2_09b8071fbc6a) |

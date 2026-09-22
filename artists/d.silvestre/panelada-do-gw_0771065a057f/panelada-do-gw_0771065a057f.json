@@ -1,0 +1,24 @@
+{
+  "id": "panelada-do-gw_0771065a057f",
+  "fingerprint": "0771065a057f0319ef06285aba88c57346bdb1fe2875a58fe4daf7484c028add",
+  "archived_at": "2026-09-22T19:14:57Z",
+  "metadata": {
+    "title": "Panelada Do Gw",
+    "artist": "d.silvestre",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 137,
+    "duration_human": "00:02:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 DJ KHASSYO VHYNICIUS, Mc GW, d.silvestre - Panelada Do Gw"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/panelada-do-gw_0771065a057f"
+    }
+  }
+}
