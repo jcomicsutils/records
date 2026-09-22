@@ -28,6 +28,7 @@
 | [Explode Helipa](explode-helipa_7e901ae28d19/explode-helipa_7e901ae28d19.md) | 2023 | FLAC | 00:02:36 | [IA](https://archive.org/details/explode-helipa_7e901ae28d19) |
 | [ESPANTA GRINGO](espanta-gringo_9bda1f020b6e/espanta-gringo_9bda1f020b6e.md) | 2023 | FLAC | 00:22:04 | [IA](https://archive.org/details/espanta-gringo_9bda1f020b6e) |
 | [Berimbau do Desacato](berimbau-do-desacato_9527dfdeabde/berimbau-do-desacato_9527dfdeabde.md) | 2023 | FLAC | 00:02:52 | [IA](https://archive.org/details/berimbau-do-desacato_9527dfdeabde) |
+| [Montagem Relaxa Capeta - Slowed](montagem-relaxa-capeta-slowed_8645486de364/montagem-relaxa-capeta-slowed_8645486de364.md) | 2023 | FLAC | 00:03:06 | [IA](https://archive.org/details/montagem-relaxa-capeta-slowed_8645486de364) |
 | [Metralhada](metralhada_8089b9b0775a/metralhada_8089b9b0775a.md) | 2023 | FLAC | 00:02:54 | [IA](https://archive.org/details/metralhada_8089b9b0775a) |
 | [Automotivo Pesadelo](automotivo-pesadelo_def88088e71b/automotivo-pesadelo_def88088e71b.md) | 2023 | FLAC | 00:02:56 | [IA](https://archive.org/details/automotivo-pesadelo_def88088e71b) |
 | [Beat Torres Gemeas](beat-torres-gemeas_b284b968171b/beat-torres-gemeas_b284b968171b.md) | 2023 | FLAC | 00:01:49 | [IA](https://archive.org/details/beat-torres-gemeas_b284b968171b) |
