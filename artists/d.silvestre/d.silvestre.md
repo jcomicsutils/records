@@ -57,6 +57,7 @@
 | [Panelada Do Gw](panelada-do-gw_0771065a057f/panelada-do-gw_0771065a057f.md) | 2024 | FLAC | 00:02:17 | [IA](https://archive.org/details/panelada-do-gw_0771065a057f) |
 | [Metralhada Slowed](metralhada-slowed_9634b79e4b83/metralhada-slowed_9634b79e4b83.md) | 2024 | FLAC | 00:03:52 | [IA](https://archive.org/details/metralhada-slowed_9634b79e4b83) |
 | [Tralha da Fac](tralha-da-fac_f6e6ae8980e0/tralha-da-fac_f6e6ae8980e0.md) | 2024 | FLAC | 00:02:03 | [IA](https://archive.org/details/tralha-da-fac_f6e6ae8980e0) |
+| [TUIN ACORDA TIØ PAULØ 1.0](tuin-acorda-tio-paulo-10_f733f9f5a0ba/tuin-acorda-tio-paulo-10_f733f9f5a0ba.md) | 2024 | FLAC | 00:01:41 | [IA](https://archive.org/details/tuin-acorda-tio-paulo-10_f733f9f5a0ba) |
 | [Tip Toe Funk](tip-toe-funk_102f32d69be4/tip-toe-funk_102f32d69be4.md) | 2024 | FLAC | 00:01:26 | [IA](https://archive.org/details/tip-toe-funk_102f32d69be4) |
 | [JUNÇÃO IMPOSSÍVEL SLOWED](juncao-impossivel-slowed_36f2eb68ab1d/juncao-impossivel-slowed_36f2eb68ab1d.md) | 2024 | FLAC | 00:03:48 | [IA](https://archive.org/details/juncao-impossivel-slowed_36f2eb68ab1d) |
 | [Beat Instigante Slowed V2](beat-instigante-slowed-v2_09b8071fbc6a/beat-instigante-slowed-v2_09b8071fbc6a.md) | 2024 | FLAC | 00:03:09 | [IA](https://archive.org/details/beat-instigante-slowed-v2_09b8071fbc6a) |
