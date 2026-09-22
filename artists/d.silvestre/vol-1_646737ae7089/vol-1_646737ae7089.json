@@ -1,0 +1,34 @@
+{
+  "id": "vol-1_646737ae7089",
+  "fingerprint": "646737ae7089e8675c8baaa333d6e332ac844fe75e7fb335d604d62177dbeb1c",
+  "archived_at": "2026-09-22T19:40:12Z",
+  "metadata": {
+    "title": "Vol. 1",
+    "artist": "d.silvestre",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 1619,
+    "duration_human": "00:26:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 d.silvestre - Rock do Mc Gw",
+      "02 d.silvestre - Empurra na Filha da Puta",
+      "03 d.silvestre - To Com Piru Desgovernado (Rock Insano)",
+      "04 d.silvestre - Batida Indecifrável 1",
+      "05 d.silvestre - Batida Indecifrável 2",
+      "06 d.silvestre - Montagem Fode Fode 2033",
+      "07 d.silvestre - Batida Agonizante (Torturador de Noia)",
+      "08 d.silvestre - A Última Trombeta (O Fim Está Próximo)",
+      "09 d.silvestre - Junção Impossível 8",
+      "10 d.silvestre - Phonk É o Caralho",
+      "11 d.silvestre - Batidas Mágicas"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vol-1_646737ae7089"
+    }
+  }
+}
