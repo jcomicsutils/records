@@ -1,0 +1,24 @@
+{
+  "id": "metralhada-slowed_9634b79e4b83",
+  "fingerprint": "9634b79e4b83131b9dc159fee9607354ccd6d1b2cb48e4b0c9fa667ddc1e183b",
+  "archived_at": "2026-09-22T18:45:40Z",
+  "metadata": {
+    "title": "Metralhada Slowed",
+    "artist": "d.silvestre",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 232,
+    "duration_human": "00:03:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 DJ KHASSYO VHYNICIUS, d.silvestre - Metralhada Slowed"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/metralhada-slowed_9634b79e4b83"
+    }
+  }
+}
