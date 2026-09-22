@@ -1,0 +1,32 @@
+{
+  "id": "songs-from-the-hydrogen-jukebox_3494fe78de39",
+  "fingerprint": "3494fe78de3923f8cd400a73b6f0a2f038db09e20021aeb108f41c5c6461234e",
+  "archived_at": "2026-09-22T16:24:41Z",
+  "metadata": {
+    "title": "Songs From the Hydrogen Jukebox",
+    "artist": "Third Ear Band",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3045,
+    "duration_human": "00:50:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Third Ear Band - Kingdom of the Brave",
+      "02 Third Ear Band - Life Is an Art",
+      "03 Third Ear Band - Chrysalis the Man",
+      "04 Third Ear Band - Ab Ra Ka Dab Ra",
+      "05 Third Ear Band - Behind the Pyramids",
+      "06 Third Ear Band - Prophecies",
+      "07 Third Ear Band - Dances With Dolphins",
+      "08 Third Ear Band - Water Into Wine",
+      "09 Third Ear Band - To Be Continued"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/songs-from-the-hydrogen-jukebox_3494fe78de39"
+    }
+  }
+}
