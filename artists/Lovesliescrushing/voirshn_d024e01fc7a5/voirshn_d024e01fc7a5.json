@@ -1,0 +1,33 @@
+{
+  "id": "voirshn_d024e01fc7a5",
+  "fingerprint": "d024e01fc7a52c6559136f076e4639a9ec4416fdfab118a5846c98f68f98893d",
+  "archived_at": "2026-09-22T22:46:23Z",
+  "metadata": {
+    "title": "Voirshn",
+    "artist": "Lovesliescrushing",
+    "year": "2002",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3313,
+    "duration_human": "00:55:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lovesliescrushing - Glixen",
+      "02 Lovesliescrushing - Riuj",
+      "03 Lovesliescrushing - Sovfx",
+      "04 Lovesliescrushing - Teguei",
+      "05 Lovesliescrushing - Ckaif",
+      "06 Lovesliescrushing - Juhl",
+      "07 Lovesliescrushing - Onovi",
+      "08 Lovesliescrushing - Shivon",
+      "09 Lovesliescrushing - Ronea",
+      "10 Lovesliescrushing - Vihygen"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/voirshn_d024e01fc7a5"
+    }
+  }
+}
