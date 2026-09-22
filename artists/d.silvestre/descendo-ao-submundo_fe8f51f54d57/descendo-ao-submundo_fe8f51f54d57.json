@@ -1,0 +1,31 @@
+{
+  "id": "descendo-ao-submundo_fe8f51f54d57",
+  "fingerprint": "fe8f51f54d5782ad05c376e819338238d57e1b9de2e80b99c064638cf5ca81d4",
+  "archived_at": "2026-09-22T18:11:44Z",
+  "metadata": {
+    "title": "Descendo ao Submundo",
+    "artist": "d.silvestre",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1402,
+    "duration_human": "00:23:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 MC Mauricio da V.I, d.silvestre - Montagem da Silva (Slowed + Reverb)",
+      "02 MC Mauricio da V.I, d.silvestre - Montagem da Silva (Super Slowed + Reverb)",
+      "03 MC Mauricio da V.I, d.silvestre - Montagem da Silva (Speed + Reverb)",
+      "04 MC Mauricio da V.I, d.silvestre - Montagem da Silva (Super Speed + Reverb)",
+      "05 MC Mauricio da V.I, d.silvestre - Beat Instigante (Slowed + Reverb)",
+      "06 MC Mauricio da V.I, d.silvestre - Beat Instigante (Super Slowed + Reverb)",
+      "07 MC Mauricio da V.I, d.silvestre - Beat Instigante (Speed + Reverb)",
+      "08 MC Mauricio da V.I, d.silvestre - Beat Instigante (Super Speed + Reverb)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/descendo-ao-submundo_fe8f51f54d57"
+    }
+  }
+}
