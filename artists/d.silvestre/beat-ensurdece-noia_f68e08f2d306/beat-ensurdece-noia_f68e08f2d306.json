@@ -1,0 +1,24 @@
+{
+  "id": "beat-ensurdece-noia_f68e08f2d306",
+  "fingerprint": "f68e08f2d306cce5fdfee838b74c12038bb03e24e4991e307353d2e75bf42fa1",
+  "archived_at": "2026-09-22T17:42:23Z",
+  "metadata": {
+    "title": "Beat Ensurdece Nóia",
+    "artist": "d.silvestre",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 112,
+    "duration_human": "00:01:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 DJ Ferrari Do Ts, d.silvestre, DJ ALEX NTC - Beat Ensurdece Nóia"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/beat-ensurdece-noia_f68e08f2d306"
+    }
+  }
+}
