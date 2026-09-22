@@ -1,0 +1,28 @@
+{
+  "id": "automaginary_3b1bf68bb56e",
+  "fingerprint": "3b1bf68bb56eba8d5cb2bbce3da68e35af440b172e6c30b43ab59bb4bd77c23a",
+  "archived_at": "2026-09-22T23:12:26Z",
+  "metadata": {
+    "title": "Automaginary",
+    "artist": "Natural Information Society",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2498,
+    "duration_human": "00:41:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Natural Information Society & Bitchin Bajas - On No Fade",
+      "02 Natural Information Society & Bitchin Bajas - Anemometer",
+      "03 Natural Information Society & Bitchin Bajas - Tricks Me My Mind",
+      "04 Natural Information Society & Bitchin Bajas - Sign Spinners",
+      "05 Natural Information Society & Bitchin Bajas - Automaginary"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/automaginary_3b1bf68bb56e"
+    }
+  }
+}
