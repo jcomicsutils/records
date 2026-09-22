@@ -23,6 +23,7 @@
 | [Like](like_445dcc5c5763/like_445dcc5c5763.md) | 2022 | FLAC | 00:02:28 | [IA](https://archive.org/details/like_445dcc5c5763) |
 | [Codinome Diferente](codinome-diferente_4b9b745cc59b/codinome-diferente_4b9b745cc59b.md) | 2022 | FLAC | 00:03:51 | [IA](https://archive.org/details/codinome-diferente_4b9b745cc59b) |
 | [Mata Rato do Casarão 1.0](mata-rato-do-casarao-10_80ee953add83/mata-rato-do-casarao-10_80ee953add83.md) | 2023 | FLAC | 00:02:33 | [IA](https://archive.org/details/mata-rato-do-casarao-10_80ee953add83) |
+| [Montagem Relaxa Capeta](montagem-relaxa-capeta_7e22f11f45f7/montagem-relaxa-capeta_7e22f11f45f7.md) | 2023 | FLAC | 00:02:42 | [IA](https://archive.org/details/montagem-relaxa-capeta_7e22f11f45f7) |
 | [Melodia Babalu](melodia-babalu_b9006ddf79be/melodia-babalu_b9006ddf79be.md) | 2023 | FLAC | 00:02:01 | [IA](https://archive.org/details/melodia-babalu_b9006ddf79be) |
 | [Explode Helipa](explode-helipa_7e901ae28d19/explode-helipa_7e901ae28d19.md) | 2023 | FLAC | 00:02:36 | [IA](https://archive.org/details/explode-helipa_7e901ae28d19) |
 | [ESPANTA GRINGO](espanta-gringo_9bda1f020b6e/espanta-gringo_9bda1f020b6e.md) | 2023 | FLAC | 00:22:04 | [IA](https://archive.org/details/espanta-gringo_9bda1f020b6e) |

@@ -1,0 +1,24 @@
+{
+  "id": "montagem-relaxa-capeta_7e22f11f45f7",
+  "fingerprint": "7e22f11f45f726f641de9d0aca1eb7cce1da5c936addaf97916b007ce5f5c175",
+  "archived_at": "2026-09-22T18:53:48Z",
+  "metadata": {
+    "title": "Montagem Relaxa Capeta",
+    "artist": "d.silvestre",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 162,
+    "duration_human": "00:02:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 d.silvestre, MC DENADAI, MC PH77 - Montagem Relaxa Capeta"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/montagem-relaxa-capeta_7e22f11f45f7"
+    }
+  }
+}
