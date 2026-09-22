@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Beat dos Alterna](beat-dos-alterna_aaab5ba4b394/beat-dos-alterna_aaab5ba4b394.md) | 2022 | FLAC | 00:02:35 | [IA](https://archive.org/details/beat-dos-alterna_aaab5ba4b394) |
+| [Cartão Clonado](cartao-clonado_6f4c4c90d91f/cartao-clonado_6f4c4c90d91f.md) | 2022 | FLAC | 00:02:27 | [IA](https://archive.org/details/cartao-clonado_6f4c4c90d91f) |
 | [A Magia Proibida](a-magia-proibida_a4d70a9e7c3e/a-magia-proibida_a4d70a9e7c3e.md) | 2022 | FLAC | 00:22:44 | [IA](https://archive.org/details/a-magia-proibida_a4d70a9e7c3e) |
 | [A Brisa ta Legal 2](a-brisa-ta-legal-2_48a5d908a7af/a-brisa-ta-legal-2_48a5d908a7af.md) | 2022 | FLAC | 00:02:44 | [IA](https://archive.org/details/a-brisa-ta-legal-2_48a5d908a7af) |
 | [Assovio Assombração da 69](assovio-assombracao-da-69_ed19963bb074/assovio-assombracao-da-69_ed19963bb074.md) | 2022 | FLAC | 00:02:30 | [IA](https://archive.org/details/assovio-assombracao-da-69_ed19963bb074) |

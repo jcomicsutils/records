@@ -1,0 +1,24 @@
+{
+  "id": "cartao-clonado_6f4c4c90d91f",
+  "fingerprint": "6f4c4c90d91fe69c560891d4e109214da07607efc4c61f6b889823993909135e",
+  "archived_at": "2026-09-22T17:57:04Z",
+  "metadata": {
+    "title": "Cartão Clonado",
+    "artist": "d.silvestre",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 147,
+    "duration_human": "00:02:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 d.silvestre - Cartão Clonado"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cartao-clonado_6f4c4c90d91f"
+    }
+  }
+}
