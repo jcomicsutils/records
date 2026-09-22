@@ -8,6 +8,7 @@
 | [Radio Session](radio-session_9188da7cc389/radio-session_9188da7cc389.md) | 1994 | MP3 | 00:21:42 | [IA](https://archive.org/details/radio-session_9188da7cc389) |
 | [Abelard and Heloise](abelard-and-heloise_c3cb6b6448b1/abelard-and-heloise_c3cb6b6448b1.md) | 1998 | FLAC | 00:36:53 | [IA](https://archive.org/details/abelard-and-heloise_c3cb6b6448b1) |
 | [Alchemy \(2019 Remastered & Expanded Edition\)](alchemy-2019-remastered-expanded-edition_d5ef31616177/alchemy-2019-remastered-expanded-edition_d5ef31616177.md) | 2004 | FLAC | 02:02:19 | [IA](https://archive.org/details/alchemy-2019-remastered-expanded-edition_d5ef31616177) |
+| [The Magus](the-magus_d87519bae5c1/the-magus_d87519bae5c1.md) | 2004 | FLAC | 00:38:42 | [IA](https://archive.org/details/the-magus_d87519bae5c1) |
 | [Magic Music](magic-music_4e64fef893df/magic-music_4e64fef893df.md) | 2012 | FLAC | 00:35:40 | [IA](https://archive.org/details/magic-music_4e64fef893df) |
 | [Songs From the Hydrogen Jukebox](songs-from-the-hydrogen-jukebox_3494fe78de39/songs-from-the-hydrogen-jukebox_3494fe78de39.md) | 2012 | FLAC | 00:50:45 | [IA](https://archive.org/details/songs-from-the-hydrogen-jukebox_3494fe78de39) |
 | [Live \(Live\)](live-live_4841a1c86117/live-live_4841a1c86117.md) | 2013 | FLAC | 01:08:44 | [IA](https://archive.org/details/live-live_4841a1c86117) |

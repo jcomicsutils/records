@@ -1,0 +1,30 @@
+{
+  "id": "the-magus_d87519bae5c1",
+  "fingerprint": "d87519bae5c1026755f4ee0411e65a5a3fbb944de03fb59b2654f49f0d33deac",
+  "archived_at": "2026-09-22T16:49:23Z",
+  "metadata": {
+    "title": "The Magus",
+    "artist": "Third Ear Band",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2322,
+    "duration_human": "00:38:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Third Ear Band - I the Key",
+      "02 Third Ear Band - Cosmic Wheel",
+      "03 Third Ear Band - The Hierophant",
+      "04 Third Ear Band - The Magus",
+      "05 Third Ear Band - New Horizon",
+      "06 Third Ear Band - The Phoenix",
+      "07 Third Ear Band - Kozmik Wheel"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-magus_d87519bae5c1"
+    }
+  }
+}
