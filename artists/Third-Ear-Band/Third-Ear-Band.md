@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Music From Macbeth \(2019 Remastered & Expanded Edition\)](music-from-macbeth-2019-remastered-expanded-edition_545196c2392b/music-from-macbeth-2019-remastered-expanded-edition_545196c2392b.md) | 1972 | FLAC | 00:55:26 | [IA](https://archive.org/details/music-from-macbeth-2019-remastered-expanded-edition_545196c2392b) |
 | [Experiences](experiences_bdf1696690c8/experiences_bdf1696690c8.md) | 1976 | MP3 | 00:43:52 | [IA](https://archive.org/details/experiences_bdf1696690c8) |
 | [Live Ghosts](live-ghosts_08929b7c2722/live-ghosts_08929b7c2722.md) | 1989 | FLAC | 00:56:17 | [IA](https://archive.org/details/live-ghosts_08929b7c2722) |
 | [Abelard and Heloise](abelard-and-heloise_c3cb6b6448b1/abelard-and-heloise_c3cb6b6448b1.md) | 1998 | FLAC | 00:36:53 | [IA](https://archive.org/details/abelard-and-heloise_c3cb6b6448b1) |

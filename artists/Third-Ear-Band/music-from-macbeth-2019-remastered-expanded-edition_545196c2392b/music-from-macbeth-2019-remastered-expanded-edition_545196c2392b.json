@@ -1,0 +1,42 @@
+{
+  "id": "music-from-macbeth-2019-remastered-expanded-edition_545196c2392b",
+  "fingerprint": "545196c2392b946a66a2ffcd1cda7c37e99bf1268cb1f5208f7c46a2f734282d",
+  "archived_at": "2026-09-22T16:00:43Z",
+  "metadata": {
+    "title": "Music From Macbeth (2019 Remastered & Expanded Edition)",
+    "artist": "Third Ear Band",
+    "year": "1972",
+    "codec": "FLAC",
+    "num_tracks": 19,
+    "duration_seconds": 3326,
+    "duration_human": "00:55:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Third Ear Band - Overture (2019 Remaster)",
+      "02 Third Ear Band - The Beach (2019 Remaster)",
+      "03 Third Ear Band - Lady Macbeth (2019 Remaster)",
+      "04 Third Ear Band - Inverness: Macbeth's Return / The Preparation / Fanfare / Duncan's Arrival (2019 Remaster)",
+      "05 Third Ear Band - The Banquet (2019 Remaster)",
+      "06 Third Ear Band - Dagger and Death (2019 Remaster)",
+      "07 Third Ear Band - At the Well / The Princes' Escape / Coronation / Come Sealing Night (2019 Remaster)",
+      "08 Third Ear Band - Court Dance (2019 Remaster)",
+      "09 Third Ear Band - Fleance (2019 Remaster)",
+      "10 Third Ear Band - Groom's Dance (2019 Remaster)",
+      "11 Third Ear Band - Bear Baiting (2019 Remaster)",
+      "12 Third Ear Band - Ambush / Banquo's Ghost (2019 Remaster)",
+      "13 Third Ear Band - Going to Bed / Blind Man's Buff / Requiscant / Sere and Yellow Leaf (2019 Remaster)",
+      "14 Third Ear Band - The Cauldron (2019 Remaster)",
+      "15 Third Ear Band - Prophecies (2019 Remaster)",
+      "16 Third Ear Band - Wicca Way (2019 Remaster)",
+      "17 Third Ear Band - Court Dance (First Version)",
+      "18 Third Ear Band - Groom's Dance (First Version)",
+      "19 Third Ear Band - Fleance (First Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/music-from-macbeth-2019-remastered-expanded-edition_545196c2392b"
+    }
+  }
+}
