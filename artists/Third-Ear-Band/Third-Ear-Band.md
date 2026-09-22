@@ -17,4 +17,5 @@
 | [Brain Waves](brain-waves_427acc3af641/brain-waves_427acc3af641.md) | 2017 | FLAC | 00:59:06 | [IA](https://archive.org/details/brain-waves_427acc3af641) |
 | [The Dragon Wakes](the-dragon-wakes_5984fa2ee412/the-dragon-wakes_5984fa2ee412.md) | 2020 | FLAC | 00:28:31 | [IA](https://archive.org/details/the-dragon-wakes_5984fa2ee412) |
 | [Druid One \(Live, Essen, 1970\)](druid-one-live-essen-1970_50e9196a7574/druid-one-live-essen-1970_50e9196a7574.md) | 2024 | FLAC | 00:40:30 | [IA](https://archive.org/details/druid-one-live-essen-1970_50e9196a7574) |
+| [Third Ear Band - Elements 1970-71 \(2018 Remastered & Expanded\)](third-ear-band-elements-1970-71-2018-remastered-expanded_623faa0f943d/third-ear-band-elements-1970-71-2018-remastered-expanded_623faa0f943d.md) | 2024 | FLAC | 03:09:16 | [IA](https://archive.org/details/third-ear-band-elements-1970-71-2018-remastered-expanded_623faa0f943d) |
 | [Mystics & Rituals](mystics-rituals_97ec27bfbb10/mystics-rituals_97ec27bfbb10.md) | 2026 | FLAC | 00:15:42 | [IA](https://archive.org/details/mystics-rituals_97ec27bfbb10) |
