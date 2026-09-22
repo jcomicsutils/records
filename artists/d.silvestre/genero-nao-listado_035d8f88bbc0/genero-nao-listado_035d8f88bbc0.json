@@ -1,0 +1,24 @@
+{
+  "id": "genero-nao-listado_035d8f88bbc0",
+  "fingerprint": "035d8f88bbc03c0feb2bb013fbedf344547ab9c0c523dce36955d52e57171814",
+  "archived_at": "2026-09-22T18:27:58Z",
+  "metadata": {
+    "title": "GÊNERO NÃO LISTADO",
+    "artist": "d.silvestre",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 140,
+    "duration_human": "00:02:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 cossta music, Mc Du Red, d.silvestre - GÊNERO NÃO LISTADO"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/genero-nao-listado_035d8f88bbc0"
+    }
+  }
+}
