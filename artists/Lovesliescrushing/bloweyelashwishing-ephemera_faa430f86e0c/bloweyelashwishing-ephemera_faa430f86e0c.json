@@ -1,0 +1,27 @@
+{
+  "id": "bloweyelashwishing-ephemera_faa430f86e0c",
+  "fingerprint": "faa430f86e0ce5e2ac8da8147bab41442db1d0df40ccacfc36f6f3f7428445c0",
+  "archived_at": "2026-09-22T21:37:11Z",
+  "metadata": {
+    "title": "Bloweyelashwishing (Ephemera)",
+    "artist": "Lovesliescrushing",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1055,
+    "duration_human": "00:17:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lovesliescrushing - Babysbreathblushed",
+      "02 Lovesliescrushing - Precious (Jessica Bailiff Remix)",
+      "03 Lovesliescrushing - Your Eyes Immaculate (Spacer Mix)",
+      "04 Lovesliescrushing - Moina Wallflowering"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bloweyelashwishing-ephemera_faa430f86e0c"
+    }
+  }
+}
