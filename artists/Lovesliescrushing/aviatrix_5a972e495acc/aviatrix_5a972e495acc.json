@@ -1,0 +1,38 @@
+{
+  "id": "aviatrix_5a972e495acc",
+  "fingerprint": "5a972e495acc9fb962d4030ac26038753120068eb62774ab67287bd8a3c0db2b",
+  "archived_at": "2026-09-22T21:25:26Z",
+  "metadata": {
+    "title": "Aviatrix",
+    "artist": "Lovesliescrushing",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 3780,
+    "duration_human": "01:03:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lovesliescrushing - Birdlikeblasted",
+      "02 Lovesliescrushing - Orphan Comet",
+      "03 Lovesliescrushing - Horse Strstreaked",
+      "04 Lovesliescrushing - Frfly RFL RVR",
+      "05 Lovesliescrushing - Quilcuril",
+      "06 Lovesliescrushing - Fourth of July",
+      "07 Lovesliescrushing - Slowship",
+      "08 Lovesliescrushing - Lastblueray",
+      "09 Lovesliescrushing - Ghostblush",
+      "10 Lovesliescrushing - Weathervanes",
+      "11 Lovesliescrushing - Kirkbrightformat",
+      "12 Lovesliescrushing - Whitevaportrails",
+      "13 Lovesliescrushing - Siamese",
+      "14 Lovesliescrushing - Snowflecked, Flatlight Sector Whiteout",
+      "15 Lovesliescrushing - Frozen Lake"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/aviatrix_5a972e495acc"
+    }
+  }
+}
