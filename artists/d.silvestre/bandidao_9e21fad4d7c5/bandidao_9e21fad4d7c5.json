@@ -1,0 +1,24 @@
+{
+  "id": "bandidao_9e21fad4d7c5",
+  "fingerprint": "9e21fad4d7c5d2dbd185870681c33a822f45dd175e9fb3be9d840f03e1cfe705",
+  "archived_at": "2026-09-22T17:38:56Z",
+  "metadata": {
+    "title": "Bandidão",
+    "artist": "d.silvestre",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 163,
+    "duration_human": "00:02:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 d.silvestre, MC DENADAI - Bandidão"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bandidao_9e21fad4d7c5"
+    }
+  }
+}
