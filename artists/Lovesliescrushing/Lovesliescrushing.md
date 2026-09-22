@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Bloweyelashwish](bloweyelashwish_f54fb853e97d/bloweyelashwish_f54fb853e97d.md) | 1993 | FLAC | 00:55:06 | [IA](https://archive.org/details/bloweyelashwish_f54fb853e97d) |
+| [Xuvetyn](xuvetyn_404d46ff7212/xuvetyn_404d46ff7212.md) | 1996 | FLAC | 01:16:12 | [IA](https://archive.org/details/xuvetyn_404d46ff7212) |
 | [Global and Available](global-and-available_63e1cf61cfab/global-and-available_63e1cf61cfab.md) | 2001 | FLAC | 00:42:22 | [IA](https://archive.org/details/global-and-available_63e1cf61cfab) |
 | [Glissceule](glissceule_cf6a8e53684b/glissceule_cf6a8e53684b.md) | 2002 | FLAC | 01:17:13 | [IA](https://archive.org/details/glissceule_cf6a8e53684b) |
 | [Voirshn](voirshn_d024e01fc7a5/voirshn_d024e01fc7a5.md) | 2002 | FLAC | 00:55:13 | [IA](https://archive.org/details/voirshn_d024e01fc7a5) |
