@@ -1,0 +1,24 @@
+{
+  "id": "sem-titulo-1_2cc04e10f0eb",
+  "fingerprint": "2cc04e10f0eb6c0ac87e3b4a03c40d05836250c01e4d4222102a64fb02738f91",
+  "archived_at": "2026-09-22T19:21:38Z",
+  "metadata": {
+    "title": "Sem Titulo 1",
+    "artist": "d.silvestre",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 125,
+    "duration_human": "00:02:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 d.silvestre, MC Nem Jm - Sem Titulo 1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sem-titulo-1_2cc04e10f0eb"
+    }
+  }
+}
