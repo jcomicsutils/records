@@ -1,0 +1,31 @@
+{
+  "id": "amusettes-pour-hobbits_cfe90bc205c3",
+  "fingerprint": "cfe90bc205c3cda854a1510323adb87bc38f3e1c24465613b08514f47ebb8662",
+  "archived_at": "2026-09-22T19:50:08Z",
+  "metadata": {
+    "title": "Amusettes pour hobbits",
+    "artist": "Ithildin",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 876,
+    "duration_human": "00:14:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Ithildin - Les joues rouges et la bouche toute prête au rire, au manger et au boire",
+      "02 Ithildin - Les premiers fumeurs de l'herbe à pipe",
+      "03 Ithildin - Une demeure encombrée de mathoms",
+      "04 Ithildin - La paix, la tranquillité et une terre bien cultivée",
+      "05 Ithildin - Les machines dont la complication dépasse celle d'un soufflet de forge",
+      "06 Ithildin - Des bottes de nains par temps boueux",
+      "07 Ithildin - Ils ont tendance à l'embonpoint et ne se pressent pas sans nécessité",
+      "08 Ithildin - Rôdeurs, magiciens et vagabonds"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/amusettes-pour-hobbits_cfe90bc205c3"
+    }
+  }
+}
