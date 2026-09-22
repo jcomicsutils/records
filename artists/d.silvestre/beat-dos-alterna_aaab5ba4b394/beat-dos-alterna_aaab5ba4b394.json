@@ -1,0 +1,24 @@
+{
+  "id": "beat-dos-alterna_aaab5ba4b394",
+  "fingerprint": "aaab5ba4b394d93501df9a5bc631a3d79e771aab82e8dd8af351d632f8674024",
+  "archived_at": "2026-09-22T17:40:30Z",
+  "metadata": {
+    "title": "Beat dos Alterna",
+    "artist": "d.silvestre",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 155,
+    "duration_human": "00:02:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 d.silvestre - Beat dos Alterna"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/beat-dos-alterna_aaab5ba4b394"
+    }
+  }
+}
