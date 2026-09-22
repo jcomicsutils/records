@@ -1,0 +1,29 @@
+{
+  "id": "mizuno-mixtape_6dd17bd3ce4b",
+  "fingerprint": "6dd17bd3ce4bad8766cb154196dd5cd3b29fa527787dff975c3ad8c8d1487f8e",
+  "archived_at": "2026-09-22T18:49:55Z",
+  "metadata": {
+    "title": "Mizuno Mixtape",
+    "artist": "d.silvestre",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 853,
+    "duration_human": "00:14:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 d.silvestre - Umbrella pro Alto",
+      "02 d.silvestre - Beat dos Mandrakes 1",
+      "03 d.silvestre - Montagem Turco Agressivo (Vem pra Dz7)",
+      "04 d.silvestre - Automotivo Maligno Irrita Coordenação",
+      "05 d.silvestre - Comer e Tacar P@U!",
+      "06 d.silvestre - Medley Menor da Q7"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mizuno-mixtape_6dd17bd3ce4b"
+    }
+  }
+}
