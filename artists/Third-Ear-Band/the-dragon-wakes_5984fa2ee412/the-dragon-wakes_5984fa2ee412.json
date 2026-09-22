@@ -1,0 +1,29 @@
+{
+  "id": "the-dragon-wakes_5984fa2ee412",
+  "fingerprint": "5984fa2ee412d06e06feba795db830594c9f0214e3b32ded71c0b1d21a26f4eb",
+  "archived_at": "2026-09-22T16:43:08Z",
+  "metadata": {
+    "title": "The Dragon Wakes",
+    "artist": "Third Ear Band",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1711,
+    "duration_human": "00:28:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Third Ear Band - Mammatus (Electric Air)",
+      "02 Third Ear Band - Sulis Stirs",
+      "03 Third Ear Band - Druid One",
+      "04 Third Ear Band - Hexagonal Wheel",
+      "05 Third Ear Band - Tellus, The Earth",
+      "06 Third Ear Band - The Rising Seed"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-dragon-wakes_5984fa2ee412"
+    }
+  }
+}

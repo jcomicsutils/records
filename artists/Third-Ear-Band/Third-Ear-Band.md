@@ -14,5 +14,6 @@
 | [New Forecasts From the Third Ear Almanac](new-forecasts-from-the-third-ear-almanac_94f521cd2208/new-forecasts-from-the-third-ear-almanac_94f521cd2208.md) | 2015 | FLAC | 00:46:57 | [IA](https://archive.org/details/new-forecasts-from-the-third-ear-almanac_94f521cd2208) |
 | [Spirits: Live at Circolo Tuxedo, Italy, 1989](spirits-live-at-circolo-tuxedo-italy-1989_7d7dd6576937/spirits-live-at-circolo-tuxedo-italy-1989_7d7dd6576937.md) | 2017 | FLAC | 00:49:10 | [IA](https://archive.org/details/spirits-live-at-circolo-tuxedo-italy-1989_7d7dd6576937) |
 | [Brain Waves](brain-waves_427acc3af641/brain-waves_427acc3af641.md) | 2017 | FLAC | 00:59:06 | [IA](https://archive.org/details/brain-waves_427acc3af641) |
+| [The Dragon Wakes](the-dragon-wakes_5984fa2ee412/the-dragon-wakes_5984fa2ee412.md) | 2020 | FLAC | 00:28:31 | [IA](https://archive.org/details/the-dragon-wakes_5984fa2ee412) |
 | [Druid One \(Live, Essen, 1970\)](druid-one-live-essen-1970_50e9196a7574/druid-one-live-essen-1970_50e9196a7574.md) | 2024 | FLAC | 00:40:30 | [IA](https://archive.org/details/druid-one-live-essen-1970_50e9196a7574) |
 | [Mystics & Rituals](mystics-rituals_97ec27bfbb10/mystics-rituals_97ec27bfbb10.md) | 2026 | FLAC | 00:15:42 | [IA](https://archive.org/details/mystics-rituals_97ec27bfbb10) |
