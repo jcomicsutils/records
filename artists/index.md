@@ -128,6 +128,7 @@
 - [Huntsville](Huntsville/Huntsville.md)
 - [Hydra Ensemble](Hydra-Ensemble/Hydra-Ensemble.md)
 - [If-Then-Else](If-Then-Else/If-Then-Else.md)
+- [Ithildin](Ithildin/Ithildin.md)
 - [Jack O' the Clock](Jack-O'-the-Clock/Jack-O'-the-Clock.md)
 - [Jack Rose](Jack-Rose/Jack-Rose.md)
 - [Jacken Elswyth](Jacken-Elswyth/Jacken-Elswyth.md)

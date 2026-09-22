@@ -1,0 +1,33 @@
+{
+  "id": "a-long-expected-party_f25f69bf7035",
+  "fingerprint": "f25f69bf70355f6cb430ff44b0780d98cd01eb9e1eb6de693bb9516d870739b4",
+  "archived_at": "2026-09-22T19:46:18Z",
+  "metadata": {
+    "title": "A Long​-​Expected Party",
+    "artist": "Ithildin",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 1964,
+    "duration_human": "00:32:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Ithildin - Full of Tunnels Stuffed with Treasure",
+      "02 Ithildin - A Very Nice Well-Spoken Gentlehobbit",
+      "03 Ithildin - An Old Grey Man, Bent and Troubled",
+      "04 Ithildin - (Apparently) Perpetual Youth As Well As [Reputedly] Inexhaustible Wealth",
+      "05 Ithildin - There Were Green Trees with Trunks of Dark Smoke",
+      "06 Ithildin - His Cloaked Figure Quickly Vanished into the Twilight",
+      "07 Ithildin - Shadowfax",
+      "08 Ithildin - Dwellers of the Ettenmoors",
+      "09 Ithildin - Sitting in the Dark, Deep in Thought",
+      "10 Ithildin - The Shire, with Woods and Fields and Little Rivers"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-long-expected-party_f25f69bf7035"
+    }
+  }
+}
