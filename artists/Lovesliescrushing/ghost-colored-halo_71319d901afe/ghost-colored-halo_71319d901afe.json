@@ -1,0 +1,30 @@
+{
+  "id": "ghost-colored-halo_71319d901afe",
+  "fingerprint": "71319d901afebae3f420ad4b4fde025dc916c8afa99c32b7642d2d724a457cc1",
+  "archived_at": "2026-09-22T21:57:14Z",
+  "metadata": {
+    "title": "Ghost Colored Halo",
+    "artist": "Lovesliescrushing",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2965,
+    "duration_human": "00:49:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lovesliescrushing - Blemished Sunspot",
+      "02 Lovesliescrushing - The Tiger Hunts Alone",
+      "03 Lovesliescrushing - Darklit and Crow",
+      "04 Lovesliescrushing - The Wounds That Won't Heal",
+      "05 Lovesliescrushing - Whitening Glos",
+      "06 Lovesliescrushing - Ghost Colored",
+      "07 Lovesliescrushing - Blacklight Thundering Halo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ghost-colored-halo_71319d901afe"
+    }
+  }
+}

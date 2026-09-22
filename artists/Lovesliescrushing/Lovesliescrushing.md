@@ -8,4 +8,5 @@
 | [Avianium \(Microphona Magnetica\)](avianium-microphona-magnetica_0cd8df4ad5e8/avianium-microphona-magnetica_0cd8df4ad5e8.md) | 2010 | FLAC | 00:59:53 | [IA](https://archive.org/details/avianium-microphona-magnetica_0cd8df4ad5e8) |
 | [Chorus + 3](chorus-3_3d2387d0636a/chorus-3_3d2387d0636a.md) | 2010 | FLAC | 01:27:34 | [IA](https://archive.org/details/chorus-3_3d2387d0636a) |
 | [Bloweyelashwishing \(Ephemera\)](bloweyelashwishing-ephemera_faa430f86e0c/bloweyelashwishing-ephemera_faa430f86e0c.md) | 2011 | FLAC | 00:17:35 | [IA](https://archive.org/details/bloweyelashwishing-ephemera_faa430f86e0c) |
+| [Ghost Colored Halo](ghost-colored-halo_71319d901afe/ghost-colored-halo_71319d901afe.md) | 2013 | FLAC | 00:49:25 | [IA](https://archive.org/details/ghost-colored-halo_71319d901afe) |
 | [Extrañas letanías](extranas-letanias_b1fb63899c07/extranas-letanias_b1fb63899c07.md) | 2020 | MP3 | 00:53:16 | [IA](https://archive.org/details/extranas-letanias_b1fb63899c07) |
