@@ -1,0 +1,30 @@
+{
+  "id": "global-and-available_63e1cf61cfab",
+  "fingerprint": "63e1cf61cfabe301be3ebbe0e905f5edf4604bd48ad54842c9914f8eb2a9077b",
+  "archived_at": "2026-09-22T22:27:26Z",
+  "metadata": {
+    "title": "Global and Available",
+    "artist": "Lovesliescrushing",
+    "year": "2001",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2542,
+    "duration_human": "00:42:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Freezing Butterfly - Introduction",
+      "02 Freezing Butterfly - Switched",
+      "03 Freezing Butterfly - In You I Met My Match",
+      "04 Freezing Butterfly & Lovesliescrushing - Global and Available",
+      "05 Lovesliescrushing - 07m47s",
+      "06 Lovesliescrushing - 04m34s",
+      "07 Lovesliescrushing - Outroduction"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/global-and-available_63e1cf61cfab"
+    }
+  }
+}
