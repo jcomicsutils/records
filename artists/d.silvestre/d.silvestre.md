@@ -22,6 +22,7 @@
 | [Meu Jogo](meu-jogo_f0e096ca83f0/meu-jogo_f0e096ca83f0.md) | 2022 | FLAC | 00:02:41 | [IA](https://archive.org/details/meu-jogo_f0e096ca83f0) |
 | [Like](like_445dcc5c5763/like_445dcc5c5763.md) | 2022 | FLAC | 00:02:28 | [IA](https://archive.org/details/like_445dcc5c5763) |
 | [Codinome Diferente](codinome-diferente_4b9b745cc59b/codinome-diferente_4b9b745cc59b.md) | 2022 | FLAC | 00:03:51 | [IA](https://archive.org/details/codinome-diferente_4b9b745cc59b) |
+| [Pra Ficar Comigo](pra-ficar-comigo_adf0339a2c00/pra-ficar-comigo_adf0339a2c00.md) | 2022 | FLAC | 00:02:32 | [IA](https://archive.org/details/pra-ficar-comigo_adf0339a2c00) |
 | [Mata Rato do Casarão 1.0](mata-rato-do-casarao-10_80ee953add83/mata-rato-do-casarao-10_80ee953add83.md) | 2023 | FLAC | 00:02:33 | [IA](https://archive.org/details/mata-rato-do-casarao-10_80ee953add83) |
 | [Montagem Relaxa Capeta](montagem-relaxa-capeta_7e22f11f45f7/montagem-relaxa-capeta_7e22f11f45f7.md) | 2023 | FLAC | 00:02:42 | [IA](https://archive.org/details/montagem-relaxa-capeta_7e22f11f45f7) |
 | [Melodia Babalu](melodia-babalu_b9006ddf79be/melodia-babalu_b9006ddf79be.md) | 2023 | FLAC | 00:02:01 | [IA](https://archive.org/details/melodia-babalu_b9006ddf79be) |

@@ -1,0 +1,24 @@
+{
+  "id": "pra-ficar-comigo_adf0339a2c00",
+  "fingerprint": "adf0339a2c00a8dea6865f8e583b693eced238530785149a9e8d99d816615a1c",
+  "archived_at": "2026-09-22T19:18:42Z",
+  "metadata": {
+    "title": "Pra Ficar Comigo",
+    "artist": "d.silvestre",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 152,
+    "duration_human": "00:02:32",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 d.silvestre, MC DENADAI - Pra Ficar Comigo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pra-ficar-comigo_adf0339a2c00"
+    }
+  }
+}
