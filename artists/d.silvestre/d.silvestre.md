@@ -29,6 +29,7 @@
 | [Pra Ficar Comigo](pra-ficar-comigo_adf0339a2c00/pra-ficar-comigo_adf0339a2c00.md) | 2022 | FLAC | 00:02:32 | [IA](https://archive.org/details/pra-ficar-comigo_adf0339a2c00) |
 | [Mata Rato do Casarão 1.0](mata-rato-do-casarao-10_80ee953add83/mata-rato-do-casarao-10_80ee953add83.md) | 2023 | FLAC | 00:02:33 | [IA](https://archive.org/details/mata-rato-do-casarao-10_80ee953add83) |
 | [Montagem Relaxa Capeta](montagem-relaxa-capeta_7e22f11f45f7/montagem-relaxa-capeta_7e22f11f45f7.md) | 2023 | FLAC | 00:02:42 | [IA](https://archive.org/details/montagem-relaxa-capeta_7e22f11f45f7) |
+| [Vou Ti Fuder nas Trevas 80](vou-ti-fuder-nas-trevas-80_7ce91bbbdb69/vou-ti-fuder-nas-trevas-80_7ce91bbbdb69.md) | 2023 | FLAC | 00:02:33 | [IA](https://archive.org/details/vou-ti-fuder-nas-trevas-80_7ce91bbbdb69) |
 | [Melodia Babalu](melodia-babalu_b9006ddf79be/melodia-babalu_b9006ddf79be.md) | 2023 | FLAC | 00:02:01 | [IA](https://archive.org/details/melodia-babalu_b9006ddf79be) |
 | [Violino Psicótico do Inferno](violino-psicotico-do-inferno_dbd450d2f543/violino-psicotico-do-inferno_dbd450d2f543.md) | 2023 | FLAC | 00:02:14 | [IA](https://archive.org/details/violino-psicotico-do-inferno_dbd450d2f543) |
 | [Onlyfans \(Remix\)](onlyfans-remix_c28e3d8a8d62/onlyfans-remix_c28e3d8a8d62.md) | 2023 | FLAC | 00:03:15 | [IA](https://archive.org/details/onlyfans-remix_c28e3d8a8d62) |
