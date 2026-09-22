@@ -1,0 +1,37 @@
+{
+  "id": "extranas-letanias_b1fb63899c07",
+  "fingerprint": "b1fb63899c0738fe4559d6dcd3889eea6f34b29908807886c490f7ddace0aaf7",
+  "archived_at": "2026-09-22T21:54:23Z",
+  "metadata": {
+    "title": "Extrañas letanías",
+    "artist": "Lovesliescrushing",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 14,
+    "duration_seconds": 3196,
+    "duration_human": "00:53:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Lovesliescrushing - Letany 1",
+      "02 Lovesliescrushing - Letany 2",
+      "03 Lovesliescrushing - Letany 3",
+      "04 Lovesliescrushing - Letany 4",
+      "05 Lovesliescrushing - Letany 5",
+      "06 Lovesliescrushing - Letany 6",
+      "07 Lovesliescrushing & Fiorella16 - New Bridge",
+      "08 Fiorella16 - Bardo",
+      "09 Fiorella16 - Calle Panteón",
+      "10 Fiorella16 - Canción De Cuna Para Abortos",
+      "11 Fiorella16 - Las Willis",
+      "12 Fiorella16 - En El Juego De La Lógica",
+      "13 Fiorella16 - Gloomy Sunday",
+      "14 Fiorella16 - Es para siempre (Última letanía)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/extranas-letanias_b1fb63899c07"
+    }
+  }
+}
