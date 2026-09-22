@@ -1,0 +1,24 @@
+{
+  "id": "tip-toe-funk_102f32d69be4",
+  "fingerprint": "102f32d69be4ad3fda167be399fdde3b5aa24f167ebb969caa510c0c4a4ea15f",
+  "archived_at": "2026-09-22T19:26:39Z",
+  "metadata": {
+    "title": "Tip Toe Funk",
+    "artist": "d.silvestre",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 86,
+    "duration_human": "00:01:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 d.silvestre, MC CARLOS DG - Tip Toe Funk"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tip-toe-funk_102f32d69be4"
+    }
+  }
+}
