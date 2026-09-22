@@ -1,0 +1,24 @@
+{
+  "id": "automotivo-estratosferico_e44fa3efc54b",
+  "fingerprint": "e44fa3efc54b0e2ab8cb597154447c5ac05c8f77266c7bcb67002be80d354a0d",
+  "archived_at": "2026-09-22T17:33:36Z",
+  "metadata": {
+    "title": "Automotivo Estratosférico",
+    "artist": "d.silvestre",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 151,
+    "duration_human": "00:02:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 d.silvestre, Vitinho Montagem, MC DENADAI, MC Mauricio da V.I - Automotivo Estratosférico"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/automotivo-estratosferico_e44fa3efc54b"
+    }
+  }
+}

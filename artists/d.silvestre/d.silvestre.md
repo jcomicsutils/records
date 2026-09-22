@@ -7,3 +7,4 @@
 | [Assovio Assombração da 69](assovio-assombracao-da-69_ed19963bb074/assovio-assombracao-da-69_ed19963bb074.md) | 2022 | FLAC | 00:02:30 | [IA](https://archive.org/details/assovio-assombracao-da-69_ed19963bb074) |
 | [Art.69](art69_129b7c87529b/art69_129b7c87529b.md) | 2022 | FLAC | 00:17:42 | [IA](https://archive.org/details/art69_129b7c87529b) |
 | [Agressivo Desgraçado](agressivo-desgracado_ae3069a6707e/agressivo-desgracado_ae3069a6707e.md) | 2022 | FLAC | 00:03:00 | [IA](https://archive.org/details/agressivo-desgracado_ae3069a6707e) |
+| [Automotivo Estratosférico](automotivo-estratosferico_e44fa3efc54b/automotivo-estratosferico_e44fa3efc54b.md) | 2023 | FLAC | 00:02:31 | [IA](https://archive.org/details/automotivo-estratosferico_e44fa3efc54b) |
