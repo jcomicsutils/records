@@ -1,0 +1,24 @@
+{
+  "id": "cade-o-scooby-doo-2_69ab123e9d4a",
+  "fingerprint": "69ab123e9d4aa9930b13eac1b56ea5527e2eac59b936f5c977a9f4ea0756d3a2",
+  "archived_at": "2026-09-22T17:55:55Z",
+  "metadata": {
+    "title": "Cadê o Scooby Doo 2",
+    "artist": "d.silvestre",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 167,
+    "duration_human": "00:02:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 MC FREITAS ZS, d.silvestre, DJ HM ZL, DJ ODIIN Zs - Cadê o Scooby Doo 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cade-o-scooby-doo-2_69ab123e9d4a"
+    }
+  }
+}
