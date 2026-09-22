@@ -1,0 +1,24 @@
+{
+  "id": "mp40-automotivo_860945cc4b39",
+  "fingerprint": "860945cc4b39205c68c01b325a2602d06e072d1f0938c5a0508fbf8688cb9119",
+  "archived_at": "2026-09-22T18:55:57Z",
+  "metadata": {
+    "title": "MP40 Automotivo",
+    "artist": "d.silvestre",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 140,
+    "duration_human": "00:02:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 DJ MAU MAU GORILA MUTANTE, MP40, d.silvestre - MP40 Automotivo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mp40-automotivo_860945cc4b39"
+    }
+  }
+}
