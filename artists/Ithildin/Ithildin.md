@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [The Hidden Door To Dwarrowdelf](the-hidden-door-to-dwarrowdelf_2fd217080b8c/the-hidden-door-to-dwarrowdelf_2fd217080b8c.md) | 2021 | FLAC | 00:15:17 | [IA](https://archive.org/details/the-hidden-door-to-dwarrowdelf_2fd217080b8c) |
 | [A Long​-​Expected Party](a-long-expected-party_f25f69bf7035/a-long-expected-party_f25f69bf7035.md) | 2021 | FLAC | 00:32:44 | [IA](https://archive.org/details/a-long-expected-party_f25f69bf7035) |
 | [Arda's Herbarium: A Musical Guide to the Mystical Garden of Middle-earth and Stranger Places - Vol. III](ardas-herbarium-a-musical-guide-to-the-mystical-garden-of-middle-earth-and-stranger-pla_4a634e556472/ardas-herbarium-a-musical-guide-to-the-mystical-garden-of-middle-earth-and-stranger-pla_4a634e556472.md) | 2022 | FLAC | 00:35:37 | [IA](https://archive.org/details/ardas-herbarium-a-musical-guide-to-the-mystical-garden-of-middle-earth-and-stranger-pla_4a634e556472) |
 | [Arda's Herbarium: A Musical Guide to the Mystical Garden of Middle-earth and Stranger Places - Vol. II](ardas-herbarium-a-musical-guide-to-the-mystical-garden-of-middle-earth-and-stranger-pla_3bad8b6ec11a/ardas-herbarium-a-musical-guide-to-the-mystical-garden-of-middle-earth-and-stranger-pla_3bad8b6ec11a.md) | 2022 | FLAC | 00:31:29 | [IA](https://archive.org/details/ardas-herbarium-a-musical-guide-to-the-mystical-garden-of-middle-earth-and-stranger-pla_3bad8b6ec11a) |

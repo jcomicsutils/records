@@ -1,0 +1,26 @@
+{
+  "id": "the-hidden-door-to-dwarrowdelf_2fd217080b8c",
+  "fingerprint": "2fd217080b8c76593a3e00fbe8cdcd7535dfa45eca58f85f442663d5d64ac694",
+  "archived_at": "2026-09-22T20:58:31Z",
+  "metadata": {
+    "title": "The Hidden Door To Dwarrowdelf",
+    "artist": "Ithildin",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 917,
+    "duration_human": "00:15:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Ithildin - The Hidden Door To Dwarrowdelf",
+      "02 Ithildin - Kheled-zâram",
+      "03 Ithildin - Deep Places Beneath the Earth"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-hidden-door-to-dwarrowdelf_2fd217080b8c"
+    }
+  }
+}
