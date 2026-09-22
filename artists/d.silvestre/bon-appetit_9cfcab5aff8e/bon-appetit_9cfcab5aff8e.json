@@ -1,0 +1,24 @@
+{
+  "id": "bon-appetit_9cfcab5aff8e",
+  "fingerprint": "9cfcab5aff8ed663c4601bd8f733728417b03d3788eab72ebe2da7778165166b",
+  "archived_at": "2026-09-22T17:52:45Z",
+  "metadata": {
+    "title": "Bon Appétit",
+    "artist": "d.silvestre",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 226,
+    "duration_human": "00:03:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Excomungado, d.silvestre - Bon Appétit"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bon-appetit_9cfcab5aff8e"
+    }
+  }
+}
