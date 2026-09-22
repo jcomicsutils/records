@@ -28,6 +28,7 @@
 | [Envolvido Com Business](envolvido-com-business_dcc451fc30c7/envolvido-com-business_dcc451fc30c7.md) | 2024 | FLAC | 00:02:41 | [IA](https://archive.org/details/envolvido-com-business_dcc451fc30c7) |
 | [Beat Muito Burro Slowed V2](beat-muito-burro-slowed-v2_a53571afc297/beat-muito-burro-slowed-v2_a53571afc297.md) | 2024 | FLAC | 00:02:48 | [IA](https://archive.org/details/beat-muito-burro-slowed-v2_a53571afc297) |
 | [Bon Appétit](bon-appetit_9cfcab5aff8e/bon-appetit_9cfcab5aff8e.md) | 2024 | FLAC | 00:03:46 | [IA](https://archive.org/details/bon-appetit_9cfcab5aff8e) |
+| [Eu Amo O Cabaré](eu-amo-o-cabare_8d5b90533c05/eu-amo-o-cabare_8d5b90533c05.md) | 2024 | FLAC | 00:01:36 | [IA](https://archive.org/details/eu-amo-o-cabare_8d5b90533c05) |
 | [Beat Instigante Slowed V2](beat-instigante-slowed-v2_09b8071fbc6a/beat-instigante-slowed-v2_09b8071fbc6a.md) | 2024 | FLAC | 00:03:09 | [IA](https://archive.org/details/beat-instigante-slowed-v2_09b8071fbc6a) |
 | [Cadê o Scooby Doo 2](cade-o-scooby-doo-2_69ab123e9d4a/cade-o-scooby-doo-2_69ab123e9d4a.md) | 2024 | FLAC | 00:02:47 | [IA](https://archive.org/details/cade-o-scooby-doo-2_69ab123e9d4a) |
 | [Descendo ao Submundo](descendo-ao-submundo_fe8f51f54d57/descendo-ao-submundo_fe8f51f54d57.md) | 2025 | FLAC | 00:23:22 | [IA](https://archive.org/details/descendo-ao-submundo_fe8f51f54d57) |

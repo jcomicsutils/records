@@ -1,0 +1,24 @@
+{
+  "id": "eu-amo-o-cabare_8d5b90533c05",
+  "fingerprint": "8d5b90533c053617d509356bdd16a6605c08ac6b2847bf4449552875336ebc9a",
+  "archived_at": "2026-09-22T18:23:55Z",
+  "metadata": {
+    "title": "Eu Amo O Cabaré",
+    "artist": "d.silvestre",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 96,
+    "duration_human": "00:01:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mc Lv Da Zo, d.silvestre - Eu Amo O Cabaré"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/eu-amo-o-cabare_8d5b90533c05"
+    }
+  }
+}
