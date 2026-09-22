@@ -1,0 +1,24 @@
+{
+  "id": "meu-jogo_f0e096ca83f0",
+  "fingerprint": "f0e096ca83f084821d3279f7245afb40a42f6b04b505e36f8f58b6f7b3ade832",
+  "archived_at": "2026-09-22T18:47:03Z",
+  "metadata": {
+    "title": "Meu Jogo",
+    "artist": "d.silvestre",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 161,
+    "duration_human": "00:02:41",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Magni, d.silvestre - Meu Jogo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/meu-jogo_f0e096ca83f0"
+    }
+  }
+}
