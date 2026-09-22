@@ -1,0 +1,27 @@
+{
+  "id": "new-forecasts-from-the-third-ear-almanac_94f521cd2208",
+  "fingerprint": "94f521cd2208ce1071b62af2168230790b0cc84d55260aff65cc2f06da4ee1a1",
+  "archived_at": "2026-09-22T16:16:13Z",
+  "metadata": {
+    "title": "New Forecasts From the Third Ear Almanac",
+    "artist": "Third Ear Band",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2817,
+    "duration_human": "00:46:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Third Ear Band - New Forecasts From the Third Ear Almanac",
+      "02 Third Ear Band - Third Ear Raga",
+      "03 Third Ear Band - Live Ghosts",
+      "04 Third Ear Band - Witches Dance"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/new-forecasts-from-the-third-ear-almanac_94f521cd2208"
+    }
+  }
+}
