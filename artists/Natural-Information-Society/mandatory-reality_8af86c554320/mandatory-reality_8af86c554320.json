@@ -1,0 +1,27 @@
+{
+  "id": "mandatory-reality_8af86c554320",
+  "fingerprint": "8af86c554320eb1142a610317a7c323576ab926de0ff87717ccec9cae9c416e0",
+  "archived_at": "2026-09-22T23:38:26Z",
+  "metadata": {
+    "title": "Mandatory Reality",
+    "artist": "Natural Information Society",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4901,
+    "duration_human": "01:21:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "1-01 Joshua Abrams & Natural Information Society - In Memory's Prism",
+      "1-02 Joshua Abrams & Natural Information Society - Finite",
+      "2-01 Joshua Abrams & Natural Information Society - Shadow Conductor",
+      "2-02 Joshua Abrams & Natural Information Society - Agree"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mandatory-reality_8af86c554320"
+    }
+  }
+}
