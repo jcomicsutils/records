@@ -1,0 +1,33 @@
+{
+  "id": "the-shadow-of-the-past_4948e4f34e9e",
+  "fingerprint": "4948e4f34e9e308fc44a4d549a41ddcd0eca06288f557f03fc61394a9b092dbe",
+  "archived_at": "2026-09-22T21:10:49Z",
+  "metadata": {
+    "title": "The Shadow of the Past",
+    "artist": "Ithildin",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2120,
+    "duration_human": "00:35:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Ithildin - He Hated Dark, But He Hated Light More",
+      "02 Ithildin - Strange Visions of Mountains that he had Never Seen Came into his Dreams",
+      "03 Ithildin - Frodo Gazed Fixedly at the Red Embers on the Hearth",
+      "04 Ithildin - Far From Home, Walking in the Hills and Woods under the Starlight",
+      "05 Ithildin - When You Go, Go As Mr. Underhill",
+      "06 Ithildin - He Tunneled into Green Mounds",
+      "07 Ithildin - The Sun Could Not Watch Me There",
+      "08 Ithildin - The Wood Was Full of the Rumor of Him",
+      "09 Ithildin - The Dark Pools Amid the Gladden Fields",
+      "10 Ithildin - Elven-Ship Set Sail, Never to Return"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-shadow-of-the-past_4948e4f34e9e"
+    }
+  }
+}
