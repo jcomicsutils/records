@@ -1,0 +1,38 @@
+{
+  "id": "avianium-microphona-magnetica_0cd8df4ad5e8",
+  "fingerprint": "0cd8df4ad5e8f82b8009b55734f449d69093c6a4cc5ae9b45c79c3814091afdb",
+  "archived_at": "2026-09-22T21:19:16Z",
+  "metadata": {
+    "title": "Avianium (Microphona Magnetica)",
+    "artist": "Lovesliescrushing",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 15,
+    "duration_seconds": 3593,
+    "duration_human": "00:59:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lovesliescrushing - Birdlike Licht",
+      "02 Lovesliescrushing - Orphan Comet Tails",
+      "03 Lovesliescrushing - Horse & Starstreak Twilight",
+      "04 Lovesliescrushing - Firefly Rifle River",
+      "05 Lovesliescrushing - Quilcurial",
+      "06 Lovesliescrushing - Fourth of July Sky",
+      "07 Lovesliescrushing - Slow Ship Giant Vessel",
+      "08 Lovesliescrushing - Last Blue Ray",
+      "09 Lovesliescrushing - Ghost Blush Rainbows",
+      "10 Lovesliescrushing - Desert Train & Weathervanes, Distant Horizon Shimmer",
+      "11 Lovesliescrushing - Kirkbright Collossal",
+      "12 Lovesliescrushing - Deep Red, White Vaportrails",
+      "13 Lovesliescrushing - Siamese Summer Echo",
+      "14 Lovesliescrushing - Snowflecked",
+      "15 Lovesliescrushing - Frozen Lake, Warm Sun Gilted Glow"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/avianium-microphona-magnetica_0cd8df4ad5e8"
+    }
+  }
+}
