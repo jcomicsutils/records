@@ -1,0 +1,30 @@
+{
+  "id": "druid-one-live-essen-1970_50e9196a7574",
+  "fingerprint": "50e9196a757421dad8b1d5e5ac7000c065d5271e11cc3dd14f88f1b0d5cbed1a",
+  "archived_at": "2026-09-22T15:19:40Z",
+  "metadata": {
+    "title": "Druid One (Live, Essen, 1970)",
+    "artist": "Third Ear Band",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2430,
+    "duration_human": "00:40:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Third Ear Band - Water (Live, Essen, 1970)",
+      "02 Third Ear Band - Abelard & Heloise (Part 3) (Live, Essen, 1970)",
+      "03 Third Ear Band - Mosaic (Live, Essen, 1970)",
+      "04 Third Ear Band - Area Three (Live, Essen, 1970)",
+      "05 Third Ear Band - Druid One (Live, Essen, 1970)",
+      "06 Third Ear Band - Ghetto Raga (Live, Essen, 1970)",
+      "07 Third Ear Band - Earth (Live, Essen, 1970)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/druid-one-live-essen-1970_50e9196a7574"
+    }
+  }
+}
