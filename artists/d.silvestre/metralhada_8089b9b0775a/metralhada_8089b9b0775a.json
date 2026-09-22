@@ -1,0 +1,24 @@
+{
+  "id": "metralhada_8089b9b0775a",
+  "fingerprint": "8089b9b0775a53302ce77a1df239fbacf3270fe8ea5046ed5c0d5a110bd65824",
+  "archived_at": "2026-09-22T18:44:28Z",
+  "metadata": {
+    "title": "Metralhada",
+    "artist": "d.silvestre",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 174,
+    "duration_human": "00:02:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 MALEA MAFRE, d.silvestre - Metralhada"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/metralhada_8089b9b0775a"
+    }
+  }
+}
