@@ -1,0 +1,35 @@
+{
+  "id": "crwth-chorus-redux_5c942b6d47bf",
+  "fingerprint": "5c942b6d47bf21ef6a1f6bb4614645129bcad0b5324af6e5bae19735dbdfb193",
+  "archived_at": "2026-09-22T21:49:40Z",
+  "metadata": {
+    "title": "CRWTH (Chorus Redux)",
+    "artist": "Lovesliescrushing",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 4193,
+    "duration_human": "01:09:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lovesliescrushing - DZAI",
+      "02 Lovesliescrushing - GLNKQ",
+      "03 Lovesliescrushing - ZRENE",
+      "04 Lovesliescrushing - QLINGLO",
+      "05 Lovesliescrushing - VRHHU",
+      "06 Lovesliescrushing - LAUJL VFX",
+      "07 Lovesliescrushing - RHVR",
+      "08 Lovesliescrushing - SOLH",
+      "09 Lovesliescrushing - NAUV",
+      "10 Lovesliescrushing - SHEMERR",
+      "11 Lovesliescrushing - FLRM",
+      "12 Lovesliescrushing - VIAUX"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/crwth-chorus-redux_5c942b6d47bf"
+    }
+  }
+}
