@@ -18,6 +18,7 @@
 | [Berimbau Sagrado](berimbau-sagrado_95dfcbaf94f2/berimbau-sagrado_95dfcbaf94f2.md) | 2022 | FLAC | 00:02:51 | [IA](https://archive.org/details/berimbau-sagrado_95dfcbaf94f2) |
 | [Baile do Beira](baile-do-beira_44e6f50e6971/baile-do-beira_44e6f50e6971.md) | 2022 | FLAC | 00:03:22 | [IA](https://archive.org/details/baile-do-beira_44e6f50e6971) |
 | [Agressivo Desgraçado](agressivo-desgracado_ae3069a6707e/agressivo-desgracado_ae3069a6707e.md) | 2022 | FLAC | 00:03:00 | [IA](https://archive.org/details/agressivo-desgracado_ae3069a6707e) |
+| [Like](like_445dcc5c5763/like_445dcc5c5763.md) | 2022 | FLAC | 00:02:28 | [IA](https://archive.org/details/like_445dcc5c5763) |
 | [Codinome Diferente](codinome-diferente_4b9b745cc59b/codinome-diferente_4b9b745cc59b.md) | 2022 | FLAC | 00:03:51 | [IA](https://archive.org/details/codinome-diferente_4b9b745cc59b) |
 | [Explode Helipa](explode-helipa_7e901ae28d19/explode-helipa_7e901ae28d19.md) | 2023 | FLAC | 00:02:36 | [IA](https://archive.org/details/explode-helipa_7e901ae28d19) |
 | [ESPANTA GRINGO](espanta-gringo_9bda1f020b6e/espanta-gringo_9bda1f020b6e.md) | 2023 | FLAC | 00:22:04 | [IA](https://archive.org/details/espanta-gringo_9bda1f020b6e) |

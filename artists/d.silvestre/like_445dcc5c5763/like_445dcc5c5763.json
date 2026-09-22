@@ -1,0 +1,24 @@
+{
+  "id": "like_445dcc5c5763",
+  "fingerprint": "445dcc5c57636b107e51cc422287693a837ae8d680207bf2d8d0a199cbca83e2",
+  "archived_at": "2026-09-22T18:31:51Z",
+  "metadata": {
+    "title": "Like",
+    "artist": "d.silvestre",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 148,
+    "duration_human": "00:02:28",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Magni, d.silvestre - Like"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/like_445dcc5c5763"
+    }
+  }
+}
