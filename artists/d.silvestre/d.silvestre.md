@@ -40,3 +40,4 @@
 | [Cadê o Scooby Doo 2](cade-o-scooby-doo-2_69ab123e9d4a/cade-o-scooby-doo-2_69ab123e9d4a.md) | 2024 | FLAC | 00:02:47 | [IA](https://archive.org/details/cade-o-scooby-doo-2_69ab123e9d4a) |
 | [GÊNERO NÃO LISTADO](genero-nao-listado_035d8f88bbc0/genero-nao-listado_035d8f88bbc0.md) | 2025 | FLAC | 00:02:20 | [IA](https://archive.org/details/genero-nao-listado_035d8f88bbc0) |
 | [Descendo ao Submundo](descendo-ao-submundo_fe8f51f54d57/descendo-ao-submundo_fe8f51f54d57.md) | 2025 | FLAC | 00:23:22 | [IA](https://archive.org/details/descendo-ao-submundo_fe8f51f54d57) |
+| [Melaço](melaco_42d709d40b5e/melaco_42d709d40b5e.md) | 2026 | FLAC | 00:04:10 | [IA](https://archive.org/details/melaco_42d709d40b5e) |
