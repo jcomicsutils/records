@@ -1,0 +1,24 @@
+{
+  "id": "baile-do-beira_44e6f50e6971",
+  "fingerprint": "44e6f50e697147fb22979143846a089c4fa59bba4a88bcaaee6abf50486d511e",
+  "archived_at": "2026-09-22T17:36:51Z",
+  "metadata": {
+    "title": "Baile do Beira",
+    "artist": "d.silvestre",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 202,
+    "duration_human": "00:03:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 d.silvestre, MC DENADAI - Baile do Beira"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/baile-do-beira_44e6f50e6971"
+    }
+  }
+}
