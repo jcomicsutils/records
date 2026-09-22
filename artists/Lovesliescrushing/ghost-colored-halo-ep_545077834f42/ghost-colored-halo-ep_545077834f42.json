@@ -1,0 +1,28 @@
+{
+  "id": "ghost-colored-halo-ep_545077834f42",
+  "fingerprint": "545077834f42bf04b945875f9214f35bf913d34182e7b32e0d761f4b62e59ef0",
+  "archived_at": "2026-09-22T22:02:06Z",
+  "metadata": {
+    "title": "Ghost Colored Halo EP",
+    "artist": "Lovesliescrushing",
+    "year": "2011",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1881,
+    "duration_human": "00:31:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lovesliescrushing - Blemished Sunspot Halo",
+      "02 Lovesliescrushing - Tiger Hunts Alone",
+      "03 Lovesliescrushing - Darklit and Crow",
+      "04 Lovesliescrushing - The Wounds That Won't Heal",
+      "05 Lovesliescrushing - Ghost Colored"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ghost-colored-halo-ep_545077834f42"
+    }
+  }
+}
