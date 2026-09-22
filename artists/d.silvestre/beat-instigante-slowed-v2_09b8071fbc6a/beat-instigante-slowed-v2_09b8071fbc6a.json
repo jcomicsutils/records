@@ -1,0 +1,24 @@
+{
+  "id": "beat-instigante-slowed-v2_09b8071fbc6a",
+  "fingerprint": "09b8071fbc6a1656c255dbed4d2d7b1d52e10c4c7cb16c7030fb0260522b25ff",
+  "archived_at": "2026-09-22T17:43:31Z",
+  "metadata": {
+    "title": "Beat Instigante Slowed V2",
+    "artist": "d.silvestre",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 189,
+    "duration_human": "00:03:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 DJ KHASSYO VHYNICIUS, d.silvestre, MC Mauricio da V.I - Beat Instigante Slowed V2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/beat-instigante-slowed-v2_09b8071fbc6a"
+    }
+  }
+}
