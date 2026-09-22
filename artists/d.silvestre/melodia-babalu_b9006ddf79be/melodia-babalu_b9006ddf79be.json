@@ -1,0 +1,24 @@
+{
+  "id": "melodia-babalu_b9006ddf79be",
+  "fingerprint": "b9006ddf79be5db41c0844efd4ba451b517cb30a2fab087281f11ff0081586c6",
+  "archived_at": "2026-09-22T18:39:27Z",
+  "metadata": {
+    "title": "Melodia Babalu",
+    "artist": "d.silvestre",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 121,
+    "duration_human": "00:02:01",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 d.silvestre, Magni - Melodia Babalu"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/melodia-babalu_b9006ddf79be"
+    }
+  }
+}
