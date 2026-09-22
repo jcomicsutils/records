@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Experiences](experiences_bdf1696690c8/experiences_bdf1696690c8.md) | 1976 | MP3 | 00:43:52 | [IA](https://archive.org/details/experiences_bdf1696690c8) |
+| [Live Ghosts](live-ghosts_08929b7c2722/live-ghosts_08929b7c2722.md) | 1989 | FLAC | 00:56:17 | [IA](https://archive.org/details/live-ghosts_08929b7c2722) |
 | [Abelard and Heloise](abelard-and-heloise_c3cb6b6448b1/abelard-and-heloise_c3cb6b6448b1.md) | 1998 | FLAC | 00:36:53 | [IA](https://archive.org/details/abelard-and-heloise_c3cb6b6448b1) |
 | [Alchemy \(2019 Remastered & Expanded Edition\)](alchemy-2019-remastered-expanded-edition_d5ef31616177/alchemy-2019-remastered-expanded-edition_d5ef31616177.md) | 2004 | FLAC | 02:02:19 | [IA](https://archive.org/details/alchemy-2019-remastered-expanded-edition_d5ef31616177) |
 | [Live \(Live\)](live-live_4841a1c86117/live-live_4841a1c86117.md) | 2013 | FLAC | 01:08:44 | [IA](https://archive.org/details/live-live_4841a1c86117) |

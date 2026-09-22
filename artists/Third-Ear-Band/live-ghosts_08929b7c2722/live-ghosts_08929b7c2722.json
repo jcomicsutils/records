@@ -1,0 +1,28 @@
+{
+  "id": "live-ghosts_08929b7c2722",
+  "fingerprint": "08929b7c2722539ddf319432a14345f638be8fff5336c76e8a5afbc0a2ecfd57",
+  "archived_at": "2026-09-22T15:44:41Z",
+  "metadata": {
+    "title": "Live Ghosts",
+    "artist": "Third Ear Band",
+    "year": "1989",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3377,
+    "duration_human": "00:56:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Third Ear Band - More Mosaic",
+      "02 Third Ear Band - Ghetto Raga",
+      "03 Third Ear Band - Druid Three",
+      "04 Third Ear Band - Live Ghosts",
+      "05 Third Ear Band - Extra Track: Necromanticus"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-ghosts_08929b7c2722"
+    }
+  }
+}
