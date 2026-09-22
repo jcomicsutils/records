@@ -1,0 +1,24 @@
+{
+  "id": "teu-joguinho_1047c81f07bb",
+  "fingerprint": "1047c81f07bbcd7eb1e0efeb9e2e941ffa37b0539802cfd84129e43edc878e6c",
+  "archived_at": "2026-09-22T19:25:16Z",
+  "metadata": {
+    "title": "Teu Joguinho",
+    "artist": "d.silvestre",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 172,
+    "duration_human": "00:02:52",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Elida, d.silvestre - Teu Joguinho"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/teu-joguinho_1047c81f07bb"
+    }
+  }
+}
