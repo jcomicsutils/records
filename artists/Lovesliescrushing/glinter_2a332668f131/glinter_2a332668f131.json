@@ -1,0 +1,26 @@
+{
+  "id": "glinter_2a332668f131",
+  "fingerprint": "2a332668f131c213b8de86c8f70edc465fd17a1296ba96f8334e299e45278b9d",
+  "archived_at": "2026-09-22T22:14:01Z",
+  "metadata": {
+    "title": "Glinter",
+    "artist": "Lovesliescrushing",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3886,
+    "duration_human": "01:04:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lovesliescrushing - Broken Aureate Echo",
+      "02 Lovesliescrushing - She Is Above the Clouds",
+      "03 Lovesliescrushing - A Bird Flew to the Sun"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/glinter_2a332668f131"
+    }
+  }
+}
