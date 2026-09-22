@@ -1,0 +1,24 @@
+{
+  "id": "codinome-diferente_4b9b745cc59b",
+  "fingerprint": "4b9b745cc59be524d19f73f4a38666e29f6bba69da3272e87328c10d4f09e126",
+  "archived_at": "2026-09-22T17:58:49Z",
+  "metadata": {
+    "title": "Codinome Diferente",
+    "artist": "d.silvestre",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 231,
+    "duration_human": "00:03:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 MC DENADAI, MC NK, d.silvestre - Codinome Diferente"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/codinome-diferente_4b9b745cc59b"
+    }
+  }
+}
