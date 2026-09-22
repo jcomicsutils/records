@@ -1,0 +1,34 @@
+{
+  "id": "the-hobbit-at-the-gates-of-dawn_de00f911b233",
+  "fingerprint": "de00f911b23391c7aa2ead2b54a3dd9cc3ea9035342f508e8be7392e1bd1f577",
+  "archived_at": "2026-09-22T21:03:06Z",
+  "metadata": {
+    "title": "The Hobbit At The Gates Of Dawn",
+    "artist": "Ithildin",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 2241,
+    "duration_human": "00:37:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Ithildin - One Ring Only Domine",
+      "02 Ithildin - My Helper Sam",
+      "03 Ithildin - Belladonna Mother",
+      "04 Ithildin - Farming",
+      "05 Ithildin - Pow R. Took H.",
+      "06 Ithildin - Take Up Thy Carrots And Run",
+      "07 Ithildin - High-Pillared Overdrive",
+      "08 Ithildin - The Troll",
+      "09 Ithildin - Chapter 1",
+      "10 Ithildin - The Scarecrebain",
+      "11 Ithildin - Pony"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-hobbit-at-the-gates-of-dawn_de00f911b233"
+    }
+  }
+}
