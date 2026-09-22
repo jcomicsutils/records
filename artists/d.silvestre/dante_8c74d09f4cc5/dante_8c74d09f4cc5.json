@@ -1,0 +1,31 @@
+{
+  "id": "dante_8c74d09f4cc5",
+  "fingerprint": "8c74d09f4cc5efe604e64b4f11eb65b23d4ee2a33a28329053c61b6f322bc70f",
+  "archived_at": "2026-09-22T18:07:23Z",
+  "metadata": {
+    "title": "dante",
+    "artist": "d.silvestre",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1092,
+    "duration_human": "00:18:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 d.silvestre - @@@@@@@@@@@@@@@@@@@@",
+      "02 d.silvestre - beat torres gemeas",
+      "03 d.silvestre - homenagem ao pesadelo",
+      "04 d.silvestre - homenagem ao palhaço do mal",
+      "05 d.silvestre - montagem relaxa capeta",
+      "06 d.silvestre - montagem 666",
+      "07 d.silvestre - montagem michael myers",
+      "08 d.silvestre - a ultima camada do inferno"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dante_8c74d09f4cc5"
+    }
+  }
+}
