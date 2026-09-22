@@ -43,6 +43,7 @@
 | [Mizuno Mixtape](mizuno-mixtape_6dd17bd3ce4b/mizuno-mixtape_6dd17bd3ce4b.md) | 2023 | FLAC | 00:14:13 | [IA](https://archive.org/details/mizuno-mixtape_6dd17bd3ce4b) |
 | [Beat Ensurdece Nóia](beat-ensurdece-noia_f68e08f2d306/beat-ensurdece-noia_f68e08f2d306.md) | 2023 | FLAC | 00:01:52 | [IA](https://archive.org/details/beat-ensurdece-noia_f68e08f2d306) |
 | [dante](dante_8c74d09f4cc5/dante_8c74d09f4cc5.md) | 2023 | FLAC | 00:18:12 | [IA](https://archive.org/details/dante_8c74d09f4cc5) |
+| [Só Não Cag4 no Meu P4U](so-nao-cag4-no-meu-p4u_94a23e5908a8/so-nao-cag4-no-meu-p4u_94a23e5908a8.md) | 2024 | FLAC | 00:02:36 | [IA](https://archive.org/details/so-nao-cag4-no-meu-p4u_94a23e5908a8) |
 | [D.Silvestre](dsilvestre_20995a9d6ed8/dsilvestre_20995a9d6ed8.md) | 2024 | FLAC | 00:24:04 | [IA](https://archive.org/details/dsilvestre_20995a9d6ed8) |
 | [Envolvido Com Business](envolvido-com-business_dcc451fc30c7/envolvido-com-business_dcc451fc30c7.md) | 2024 | FLAC | 00:02:41 | [IA](https://archive.org/details/envolvido-com-business_dcc451fc30c7) |
 | [Beat Muito Burro Slowed V2](beat-muito-burro-slowed-v2_a53571afc297/beat-muito-burro-slowed-v2_a53571afc297.md) | 2024 | FLAC | 00:02:48 | [IA](https://archive.org/details/beat-muito-burro-slowed-v2_a53571afc297) |
