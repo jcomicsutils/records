@@ -1,0 +1,24 @@
+{
+  "id": "berimbau-sagrado_95dfcbaf94f2",
+  "fingerprint": "95dfcbaf94f21b9088dd4f28c739a7d320d2fc424592f1c24f3399d5b4044b1c",
+  "archived_at": "2026-09-22T17:51:03Z",
+  "metadata": {
+    "title": "Berimbau Sagrado",
+    "artist": "d.silvestre",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 171,
+    "duration_human": "00:02:51",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 d.silvestre, MC DENADAI - Berimbau Sagrado"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/berimbau-sagrado_95dfcbaf94f2"
+    }
+  }
+}
