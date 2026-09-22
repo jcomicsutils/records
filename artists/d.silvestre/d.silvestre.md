@@ -32,6 +32,7 @@
 | [Montagem Relaxa Capeta - Slowed](montagem-relaxa-capeta-slowed_8645486de364/montagem-relaxa-capeta-slowed_8645486de364.md) | 2023 | FLAC | 00:03:06 | [IA](https://archive.org/details/montagem-relaxa-capeta-slowed_8645486de364) |
 | [Metralhada](metralhada_8089b9b0775a/metralhada_8089b9b0775a.md) | 2023 | FLAC | 00:02:54 | [IA](https://archive.org/details/metralhada_8089b9b0775a) |
 | [Automotivo Pesadelo](automotivo-pesadelo_def88088e71b/automotivo-pesadelo_def88088e71b.md) | 2023 | FLAC | 00:02:56 | [IA](https://archive.org/details/automotivo-pesadelo_def88088e71b) |
+| [Phonk É o Car@Lho Slowed](phonk-e-o-carlho-slowed_33de875f2390/phonk-e-o-carlho-slowed_33de875f2390.md) | 2023 | FLAC | 00:02:39 | [IA](https://archive.org/details/phonk-e-o-carlho-slowed_33de875f2390) |
 | [Beat Torres Gemeas](beat-torres-gemeas_b284b968171b/beat-torres-gemeas_b284b968171b.md) | 2023 | FLAC | 00:01:49 | [IA](https://archive.org/details/beat-torres-gemeas_b284b968171b) |
 | [Automotivo Estratosférico](automotivo-estratosferico_e44fa3efc54b/automotivo-estratosferico_e44fa3efc54b.md) | 2023 | FLAC | 00:02:31 | [IA](https://archive.org/details/automotivo-estratosferico_e44fa3efc54b) |
 | [Melodia Transforma Noia \(Oitava Dimensão\)](melodia-transforma-noia-oitava-dimensao_1d528229d2cb/melodia-transforma-noia-oitava-dimensao_1d528229d2cb.md) | 2023 | FLAC | 00:02:35 | [IA](https://archive.org/details/melodia-transforma-noia-oitava-dimensao_1d528229d2cb) |
