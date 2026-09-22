@@ -1,0 +1,24 @@
+{
+  "id": "music-for-18-magicians-a-story-of-fairies-and-bugs_66d9daaf283f",
+  "fingerprint": "66d9daaf283f8d904522e71f5d8c5baf54c345d2c8b4bcd44fac13494ceea78a",
+  "archived_at": "2026-09-22T20:47:08Z",
+  "metadata": {
+    "title": "Music For 18 Magicians: A Story Of Fairies And Bugs",
+    "artist": "Ithildin",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2013,
+    "duration_human": "00:33:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Ithildin - Music For 18 Magicians: A Story Of Fairies And Bugs"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/music-for-18-magicians-a-story-of-fairies-and-bugs_66d9daaf283f"
+    }
+  }
+}
