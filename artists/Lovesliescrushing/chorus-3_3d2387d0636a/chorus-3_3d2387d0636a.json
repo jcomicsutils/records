@@ -1,0 +1,40 @@
+{
+  "id": "chorus-3_3d2387d0636a",
+  "fingerprint": "3d2387d0636ace03c6c18ed5cedbc3a47f243400ce08aac24d5d90b24c8b73c1",
+  "archived_at": "2026-09-22T21:42:14Z",
+  "metadata": {
+    "title": "Chorus + 3",
+    "artist": "Lovesliescrushing",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 17,
+    "duration_seconds": 5254,
+    "duration_human": "01:27:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lovesliescrushing - DSAI",
+      "02 Lovesliescrushing - GLINQ",
+      "03 Lovesliescrushing - ZRINT",
+      "04 Lovesliescrushing - QNGL",
+      "05 Lovesliescrushing - VUHR",
+      "06 Lovesliescrushing - JOMM",
+      "07 Lovesliescrushing - RHUV",
+      "08 Lovesliescrushing - LAUJL",
+      "09 Lovesliescrushing - HSLO",
+      "10 Lovesliescrushing - CYRZ",
+      "11 Lovesliescrushing - Auvn",
+      "12 Lovesliescrushing - MERR",
+      "13 Lovesliescrushing - FLRIUM",
+      "14 Lovesliescrushing - XVLA",
+      "15 Lovesliescrushing - LANGE",
+      "16 Lovesliescrushing - ZIMRE",
+      "17 Lovesliescrushing - DNGLAR"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chorus-3_3d2387d0636a"
+    }
+  }
+}
