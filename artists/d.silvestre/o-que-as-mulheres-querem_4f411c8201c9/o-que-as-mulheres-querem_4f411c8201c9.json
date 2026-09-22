@@ -1,0 +1,32 @@
+{
+  "id": "o-que-as-mulheres-querem_4f411c8201c9",
+  "fingerprint": "4f411c8201c903dae5cdb038505bbd1e1b176f47d84bd7ef7d471c3ad9bc0228",
+  "archived_at": "2026-09-22T19:06:43Z",
+  "metadata": {
+    "title": "O Que as Mulheres Querem",
+    "artist": "d.silvestre",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 1149,
+    "duration_human": "00:19:09",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 d.silvestre - Vem por Cima",
+      "02 d.silvestre - Sem Moralismo",
+      "03 d.silvestre - OQAMQ",
+      "04 d.silvestre - ELA TRAVA",
+      "05 d.silvestre - A Sacanagem Começou",
+      "06 d.silvestre - Olha o Tamanho Dessa Onda",
+      "07 d.silvestre - CORREDINOIS",
+      "08 d.silvestre - Dona Brisa",
+      "09 d.silvestre - Passa por Cima"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/o-que-as-mulheres-querem_4f411c8201c9"
+    }
+  }
+}
