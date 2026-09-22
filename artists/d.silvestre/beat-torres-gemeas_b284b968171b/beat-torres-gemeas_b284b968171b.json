@@ -1,0 +1,24 @@
+{
+  "id": "beat-torres-gemeas_b284b968171b",
+  "fingerprint": "b284b968171b86766211d81ec875b21ca4521f44c6003a54db2b6ab55d436100",
+  "archived_at": "2026-09-22T17:46:05Z",
+  "metadata": {
+    "title": "Beat Torres Gemeas",
+    "artist": "d.silvestre",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 109,
+    "duration_human": "00:01:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 d.silvestre, MC DENADAI, Magni - Beat Torres Gemeas"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/beat-torres-gemeas_b284b968171b"
+    }
+  }
+}

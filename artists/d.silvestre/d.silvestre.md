@@ -11,6 +11,7 @@
 | [Baile do Beira](baile-do-beira_44e6f50e6971/baile-do-beira_44e6f50e6971.md) | 2022 | FLAC | 00:03:22 | [IA](https://archive.org/details/baile-do-beira_44e6f50e6971) |
 | [Agressivo Desgraçado](agressivo-desgracado_ae3069a6707e/agressivo-desgracado_ae3069a6707e.md) | 2022 | FLAC | 00:03:00 | [IA](https://archive.org/details/agressivo-desgracado_ae3069a6707e) |
 | [Automotivo Pesadelo](automotivo-pesadelo_def88088e71b/automotivo-pesadelo_def88088e71b.md) | 2023 | FLAC | 00:02:56 | [IA](https://archive.org/details/automotivo-pesadelo_def88088e71b) |
+| [Beat Torres Gemeas](beat-torres-gemeas_b284b968171b/beat-torres-gemeas_b284b968171b.md) | 2023 | FLAC | 00:01:49 | [IA](https://archive.org/details/beat-torres-gemeas_b284b968171b) |
 | [Automotivo Estratosférico](automotivo-estratosferico_e44fa3efc54b/automotivo-estratosferico_e44fa3efc54b.md) | 2023 | FLAC | 00:02:31 | [IA](https://archive.org/details/automotivo-estratosferico_e44fa3efc54b) |
 | [Beat Ensurdece Nóia](beat-ensurdece-noia_f68e08f2d306/beat-ensurdece-noia_f68e08f2d306.md) | 2023 | FLAC | 00:01:52 | [IA](https://archive.org/details/beat-ensurdece-noia_f68e08f2d306) |
 | [Beat Muito Burro Slowed V2](beat-muito-burro-slowed-v2_a53571afc297/beat-muito-burro-slowed-v2_a53571afc297.md) | 2024 | FLAC | 00:02:48 | [IA](https://archive.org/details/beat-muito-burro-slowed-v2_a53571afc297) |
