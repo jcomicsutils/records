@@ -1,0 +1,24 @@
+{
+  "id": "explode-helipa_7e901ae28d19",
+  "fingerprint": "7e901ae28d19170dbc3e2e01b2c4b52d6b65e5c4873bdf480c2dd9c970fd0f95",
+  "archived_at": "2026-09-22T18:24:55Z",
+  "metadata": {
+    "title": "Explode Helipa",
+    "artist": "d.silvestre",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 156,
+    "duration_human": "00:02:36",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 d.silvestre, MC DENADAI - Explode Helipa"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/explode-helipa_7e901ae28d19"
+    }
+  }
+}
