@@ -62,6 +62,7 @@
 | [Tip Toe Funk](tip-toe-funk_102f32d69be4/tip-toe-funk_102f32d69be4.md) | 2024 | FLAC | 00:01:26 | [IA](https://archive.org/details/tip-toe-funk_102f32d69be4) |
 | [JUNÇÃO IMPOSSÍVEL SLOWED](juncao-impossivel-slowed_36f2eb68ab1d/juncao-impossivel-slowed_36f2eb68ab1d.md) | 2024 | FLAC | 00:03:48 | [IA](https://archive.org/details/juncao-impossivel-slowed_36f2eb68ab1d) |
 | [Beat Instigante Slowed V2](beat-instigante-slowed-v2_09b8071fbc6a/beat-instigante-slowed-v2_09b8071fbc6a.md) | 2024 | FLAC | 00:03:09 | [IA](https://archive.org/details/beat-instigante-slowed-v2_09b8071fbc6a) |
+| [VAI TER QUE SENTAR X TRALHA DA FAC](vai-ter-que-sentar-x-tralha-da-fac_6e8d98b44326/vai-ter-que-sentar-x-tralha-da-fac_6e8d98b44326.md) | 2024 | FLAC | 00:03:09 | [IA](https://archive.org/details/vai-ter-que-sentar-x-tralha-da-fac_6e8d98b44326) |
 | [Cadê o Scooby Doo 2](cade-o-scooby-doo-2_69ab123e9d4a/cade-o-scooby-doo-2_69ab123e9d4a.md) | 2024 | FLAC | 00:02:47 | [IA](https://archive.org/details/cade-o-scooby-doo-2_69ab123e9d4a) |
 | [GÊNERO NÃO LISTADO](genero-nao-listado_035d8f88bbc0/genero-nao-listado_035d8f88bbc0.md) | 2025 | FLAC | 00:02:20 | [IA](https://archive.org/details/genero-nao-listado_035d8f88bbc0) |
 | [Descendo ao Submundo](descendo-ao-submundo_fe8f51f54d57/descendo-ao-submundo_fe8f51f54d57.md) | 2025 | FLAC | 00:23:22 | [IA](https://archive.org/details/descendo-ao-submundo_fe8f51f54d57) |
