@@ -16,6 +16,7 @@
 | [Berimbau Indiano](berimbau-indiano_90fda2e3672c/berimbau-indiano_90fda2e3672c.md) | 2022 | FLAC | 00:03:10 | [IA](https://archive.org/details/berimbau-indiano_90fda2e3672c) |
 | [Bandidão](bandidao_9e21fad4d7c5/bandidao_9e21fad4d7c5.md) | 2022 | FLAC | 00:02:43 | [IA](https://archive.org/details/bandidao_9e21fad4d7c5) |
 | [Berimbau Sagrado](berimbau-sagrado_95dfcbaf94f2/berimbau-sagrado_95dfcbaf94f2.md) | 2022 | FLAC | 00:02:51 | [IA](https://archive.org/details/berimbau-sagrado_95dfcbaf94f2) |
+| [Melodia Cósmica](melodia-cosmica_0c20cf08866b/melodia-cosmica_0c20cf08866b.md) | 2022 | FLAC | 00:03:12 | [IA](https://archive.org/details/melodia-cosmica_0c20cf08866b) |
 | [Baile do Beira](baile-do-beira_44e6f50e6971/baile-do-beira_44e6f50e6971.md) | 2022 | FLAC | 00:03:22 | [IA](https://archive.org/details/baile-do-beira_44e6f50e6971) |
 | [Agressivo Desgraçado](agressivo-desgracado_ae3069a6707e/agressivo-desgracado_ae3069a6707e.md) | 2022 | FLAC | 00:03:00 | [IA](https://archive.org/details/agressivo-desgracado_ae3069a6707e) |
 | [Like](like_445dcc5c5763/like_445dcc5c5763.md) | 2022 | FLAC | 00:02:28 | [IA](https://archive.org/details/like_445dcc5c5763) |

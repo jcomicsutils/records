@@ -1,0 +1,24 @@
+{
+  "id": "melodia-cosmica_0c20cf08866b",
+  "fingerprint": "0c20cf08866be702d564653ae0fcbacfbc95c5bae44ec2d36ced9c153e795c69",
+  "archived_at": "2026-09-22T18:41:09Z",
+  "metadata": {
+    "title": "Melodia Cósmica",
+    "artist": "d.silvestre",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 192,
+    "duration_human": "00:03:12",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 d.silvestre, MC DENADAI - Melodia Cósmica"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/melodia-cosmica_0c20cf08866b"
+    }
+  }
+}
