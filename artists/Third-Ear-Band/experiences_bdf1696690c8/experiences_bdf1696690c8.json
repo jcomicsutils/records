@@ -1,0 +1,30 @@
+{
+  "id": "experiences_bdf1696690c8",
+  "fingerprint": "bdf1696690c8826321e2ad659c843fda5a2f44a826ed0c253fc17174b7557d1b",
+  "archived_at": "2026-09-22T15:27:37Z",
+  "metadata": {
+    "title": "Experiences",
+    "artist": "Third Ear Band",
+    "year": "1976",
+    "codec": "MP3",
+    "num_tracks": 7,
+    "duration_seconds": 2632,
+    "duration_human": "00:43:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Third Ear Band - Ghetto Raga",
+      "02 Third Ear Band - Stone Circle",
+      "03 Third Ear Band - Area III",
+      "04 Third Ear Band - Earth",
+      "05 Third Ear Band - Overture / The Beach",
+      "06 Third Ear Band - Groom's Dance",
+      "07 Third Ear Band - The Cauldron"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/experiences_bdf1696690c8"
+    }
+  }
+}
