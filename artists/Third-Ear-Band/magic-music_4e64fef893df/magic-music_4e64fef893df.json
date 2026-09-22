@@ -1,0 +1,28 @@
+{
+  "id": "magic-music_4e64fef893df",
+  "fingerprint": "4e64fef893df8bb3892ed9a5cdaf1d40491b9412a58fc096f6f4af9474933aa9",
+  "archived_at": "2026-09-22T15:53:05Z",
+  "metadata": {
+    "title": "Magic Music",
+    "artist": "Third Ear Band",
+    "year": "2012",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2140,
+    "duration_human": "00:35:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Third Ear Band - Gog and Magog",
+      "02 Third Ear Band - Flight of the Coven",
+      "03 Third Ear Band - Dance of the Elves",
+      "04 Third Ear Band - Atlantis Rising",
+      "05 Third Ear Band - Midnight on Mars"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/magic-music_4e64fef893df"
+    }
+  }
+}
