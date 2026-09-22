@@ -1,0 +1,24 @@
+{
+  "id": "rave-phonk_664ecb5264ec",
+  "fingerprint": "664ecb5264ecec8ba21ce35aff58655b7c5266ac620130ba4dba39ffa4d8d881",
+  "archived_at": "2026-09-22T19:20:11Z",
+  "metadata": {
+    "title": "Rave Phonk",
+    "artist": "d.silvestre",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 163,
+    "duration_human": "00:02:43",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 d.silvestre, MC DENADAI - Rave Phonk"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rave-phonk_664ecb5264ec"
+    }
+  }
+}
