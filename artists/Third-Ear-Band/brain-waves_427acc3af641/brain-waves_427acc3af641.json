@@ -1,0 +1,31 @@
+{
+  "id": "brain-waves_427acc3af641",
+  "fingerprint": "427acc3af64112ddb1c5b54ba60a58b79e8e7f67ec9595d9fb564c6d2cdfa3ed",
+  "archived_at": "2026-09-22T15:08:11Z",
+  "metadata": {
+    "title": "Brain Waves",
+    "artist": "Third Ear Band",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 3546,
+    "duration_human": "00:59:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Third Ear Band - Sirocco Song",
+      "02 Third Ear Band - Midnight Drums",
+      "03 Third Ear Band - Spell of the Voodoo",
+      "04 Third Ear Band - Dances With Dolphins",
+      "05 Third Ear Band - Water Into Wine",
+      "06 Third Ear Band - Alchemical Raja",
+      "07 Third Ear Band - Psychedelic Trance Dance",
+      "08 Third Ear Band - Raja of the Wind (1991)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/brain-waves_427acc3af641"
+    }
+  }
+}
