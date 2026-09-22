@@ -1,0 +1,25 @@
+{
+  "id": "radio-session_9188da7cc389",
+  "fingerprint": "9188da7cc3896307683efb8d06477e09aa6a080b1a04f654e360754f2ee367c5",
+  "archived_at": "2026-09-22T16:21:36Z",
+  "metadata": {
+    "title": "Radio Session",
+    "artist": "Third Ear Band",
+    "year": "1994",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1302,
+    "duration_human": "00:21:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Third Ear Band - Raga la Luna",
+      "02 Third Ear Band - Spirits"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/radio-session_9188da7cc389"
+    }
+  }
+}
