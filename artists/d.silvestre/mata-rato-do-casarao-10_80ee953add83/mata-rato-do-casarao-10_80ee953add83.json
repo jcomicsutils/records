@@ -1,0 +1,24 @@
+{
+  "id": "mata-rato-do-casarao-10_80ee953add83",
+  "fingerprint": "80ee953add83a230df9a43d2f3d6f4ab2f213e2cf1721497a9900af4c2b6671e",
+  "archived_at": "2026-09-22T18:33:19Z",
+  "metadata": {
+    "title": "Mata Rato do Casarão 1.0",
+    "artist": "d.silvestre",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 153,
+    "duration_human": "00:02:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 d.silvestre, MC DENADAI - Mata Rato do Casarão 1.0"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mata-rato-do-casarao-10_80ee953add83"
+    }
+  }
+}
