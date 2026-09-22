@@ -1,0 +1,24 @@
+{
+  "id": "violino-psicotico-do-inferno_dbd450d2f543",
+  "fingerprint": "dbd450d2f543aeb2c011c343cc71d00581f58d061fa02cde4b9194936389b1d5",
+  "archived_at": "2026-09-22T19:35:56Z",
+  "metadata": {
+    "title": "Violino Psicótico do Inferno",
+    "artist": "d.silvestre",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 134,
+    "duration_human": "00:02:14",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 d.silvestre, MC DENADAI - Violino Psicótico do Inferno"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/violino-psicotico-do-inferno_dbd450d2f543"
+    }
+  }
+}
