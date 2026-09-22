@@ -11,3 +11,4 @@
 | [Live \(Live\)](live-live_4841a1c86117/live-live_4841a1c86117.md) | 2013 | FLAC | 01:08:44 | [IA](https://archive.org/details/live-live_4841a1c86117) |
 | [Brain Waves](brain-waves_427acc3af641/brain-waves_427acc3af641.md) | 2017 | FLAC | 00:59:06 | [IA](https://archive.org/details/brain-waves_427acc3af641) |
 | [Druid One \(Live, Essen, 1970\)](druid-one-live-essen-1970_50e9196a7574/druid-one-live-essen-1970_50e9196a7574.md) | 2024 | FLAC | 00:40:30 | [IA](https://archive.org/details/druid-one-live-essen-1970_50e9196a7574) |
+| [Mystics & Rituals](mystics-rituals_97ec27bfbb10/mystics-rituals_97ec27bfbb10.md) | 2026 | FLAC | 00:15:42 | [IA](https://archive.org/details/mystics-rituals_97ec27bfbb10) |

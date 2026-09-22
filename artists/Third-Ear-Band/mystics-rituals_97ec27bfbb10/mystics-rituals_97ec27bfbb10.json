@@ -1,0 +1,26 @@
+{
+  "id": "mystics-rituals_97ec27bfbb10",
+  "fingerprint": "97ec27bfbb105cd2fb91f8b34861aef014f229af1aaef40c88b4a869f9863a36",
+  "archived_at": "2026-09-22T16:10:00Z",
+  "metadata": {
+    "title": "Mystics & Rituals",
+    "artist": "Third Ear Band",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 942,
+    "duration_human": "00:15:42",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Third Ear Band - Cosmic Trip",
+      "02 Third Ear Band - Jason's Trip",
+      "03 Third Ear Band - Devil Weed"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mystics-rituals_97ec27bfbb10"
+    }
+  }
+}
