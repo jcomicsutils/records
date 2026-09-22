@@ -13,6 +13,7 @@
 | [Bloweyelashwishing \(Ephemera\)](bloweyelashwishing-ephemera_faa430f86e0c/bloweyelashwishing-ephemera_faa430f86e0c.md) | 2011 | FLAC | 00:17:35 | [IA](https://archive.org/details/bloweyelashwishing-ephemera_faa430f86e0c) |
 | [Ghost Colored Halo EP](ghost-colored-halo-ep_545077834f42/ghost-colored-halo-ep_545077834f42.md) | 2011 | FLAC | 00:31:21 | [IA](https://archive.org/details/ghost-colored-halo-ep_545077834f42) |
 | [Glinter](glinter_2a332668f131/glinter_2a332668f131.md) | 2012 | FLAC | 01:04:46 | [IA](https://archive.org/details/glinter_2a332668f131) |
+| [Shiny Tiny Stars](shiny-tiny-stars_0f365ab64ffe/shiny-tiny-stars_0f365ab64ffe.md) | 2013 | FLAC | 01:07:53 | [IA](https://archive.org/details/shiny-tiny-stars_0f365ab64ffe) |
 | [Ghost Colored Halo](ghost-colored-halo_71319d901afe/ghost-colored-halo_71319d901afe.md) | 2013 | FLAC | 00:49:25 | [IA](https://archive.org/details/ghost-colored-halo_71319d901afe) |
 | [Extrañas letanías](extranas-letanias_b1fb63899c07/extranas-letanias_b1fb63899c07.md) | 2020 | MP3 | 00:53:16 | [IA](https://archive.org/details/extranas-letanias_b1fb63899c07) |
 | [Psalms](psalms_2d7fb45add88/psalms_2d7fb45add88.md) | 2022 | FLAC | 00:18:24 | [IA](https://archive.org/details/psalms_2d7fb45add88) |
