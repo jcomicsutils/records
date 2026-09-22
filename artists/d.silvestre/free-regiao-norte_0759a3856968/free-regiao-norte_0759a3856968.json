@@ -1,0 +1,24 @@
+{
+  "id": "free-regiao-norte_0759a3856968",
+  "fingerprint": "0759a38569686cec28b049a79d5ea5508a9f28daefc3480ad45f79238a04e11f",
+  "archived_at": "2026-09-22T18:26:28Z",
+  "metadata": {
+    "title": "Free Região Norte",
+    "artist": "d.silvestre",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 109,
+    "duration_human": "00:01:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 d.silvestre - Free Região Norte"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/free-regiao-norte_0759a3856968"
+    }
+  }
+}
