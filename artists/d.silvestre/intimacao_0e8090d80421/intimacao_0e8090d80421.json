@@ -1,0 +1,24 @@
+{
+  "id": "intimacao_0e8090d80421",
+  "fingerprint": "0e8090d804214e6eeb5884ab1b1a6bf3cc169d4e97cf3d8dbd4fca31a273f91b",
+  "archived_at": "2026-09-22T18:29:05Z",
+  "metadata": {
+    "title": "Intimação",
+    "artist": "d.silvestre",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 135,
+    "duration_human": "00:02:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 d.silvestre, MC DENADAI - Intimação"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/intimacao_0e8090d80421"
+    }
+  }
+}
