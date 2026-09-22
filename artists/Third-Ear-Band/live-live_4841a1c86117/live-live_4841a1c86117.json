@@ -1,0 +1,29 @@
+{
+  "id": "live-live_4841a1c86117",
+  "fingerprint": "4841a1c8611716f229b31c7041d217ecf8c46ba34dc4c08b338659d8fb6f84fc",
+  "archived_at": "2026-09-22T15:32:44Z",
+  "metadata": {
+    "title": "Live (Live)",
+    "artist": "Third Ear Band",
+    "year": "2013",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 4124,
+    "duration_human": "01:08:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Third Ear Band - Hymn to the Sphynx (Live)",
+      "02 Third Ear Band - Sun Ra Raga (Live)",
+      "03 Third Ear Band - Third Ear Raga (Live)",
+      "04 Third Ear Band - Live Ghosts (Live)",
+      "05 Third Ear Band - Pyramid Song (Live)",
+      "06 Third Ear Band - Egyptian Book of the Dead (Live)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-live_4841a1c86117"
+    }
+  }
+}
