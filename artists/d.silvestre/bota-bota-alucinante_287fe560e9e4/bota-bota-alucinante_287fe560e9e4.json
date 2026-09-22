@@ -1,0 +1,24 @@
+{
+  "id": "bota-bota-alucinante_287fe560e9e4",
+  "fingerprint": "287fe560e9e4929db3c38fb713f1fac2db1c2cbaec63d0316caab07a4ae3b765",
+  "archived_at": "2026-09-22T17:54:07Z",
+  "metadata": {
+    "title": "BOTA BOTA ALUCINANTE",
+    "artist": "d.silvestre",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 151,
+    "duration_human": "00:02:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 d.silvestre, MC DENADAI - BOTA BOTA ALUCINANTE"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bota-bota-alucinante_287fe560e9e4"
+    }
+  }
+}
