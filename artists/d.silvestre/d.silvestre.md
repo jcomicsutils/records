@@ -20,6 +20,7 @@
 | [Melodia Cósmica](melodia-cosmica_0c20cf08866b/melodia-cosmica_0c20cf08866b.md) | 2022 | FLAC | 00:03:12 | [IA](https://archive.org/details/melodia-cosmica_0c20cf08866b) |
 | [Baile do Beira](baile-do-beira_44e6f50e6971/baile-do-beira_44e6f50e6971.md) | 2022 | FLAC | 00:03:22 | [IA](https://archive.org/details/baile-do-beira_44e6f50e6971) |
 | [Agressivo Desgraçado](agressivo-desgracado_ae3069a6707e/agressivo-desgracado_ae3069a6707e.md) | 2022 | FLAC | 00:03:00 | [IA](https://archive.org/details/agressivo-desgracado_ae3069a6707e) |
+| [Você Foi Útil](voce-foi-util_9fb1ca337b4d/voce-foi-util_9fb1ca337b4d.md) | 2022 | FLAC | 00:02:13 | [IA](https://archive.org/details/voce-foi-util_9fb1ca337b4d) |
 | [Meu Jogo](meu-jogo_f0e096ca83f0/meu-jogo_f0e096ca83f0.md) | 2022 | FLAC | 00:02:41 | [IA](https://archive.org/details/meu-jogo_f0e096ca83f0) |
 | [Like](like_445dcc5c5763/like_445dcc5c5763.md) | 2022 | FLAC | 00:02:28 | [IA](https://archive.org/details/like_445dcc5c5763) |
 | [Teu Joguinho](teu-joguinho_1047c81f07bb/teu-joguinho_1047c81f07bb.md) | 2022 | FLAC | 00:02:52 | [IA](https://archive.org/details/teu-joguinho_1047c81f07bb) |
