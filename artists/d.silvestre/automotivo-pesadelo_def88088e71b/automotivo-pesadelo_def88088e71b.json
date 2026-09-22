@@ -1,0 +1,24 @@
+{
+  "id": "automotivo-pesadelo_def88088e71b",
+  "fingerprint": "def88088e71bfeedbd546188d9905cbc37a41b04feadb0deab34c64c744c696f",
+  "archived_at": "2026-09-22T17:35:26Z",
+  "metadata": {
+    "title": "Automotivo Pesadelo",
+    "artist": "d.silvestre",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 176,
+    "duration_human": "00:02:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mc GW, d.silvestre - Automotivo Pesadelo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/automotivo-pesadelo_def88088e71b"
+    }
+  }
+}
