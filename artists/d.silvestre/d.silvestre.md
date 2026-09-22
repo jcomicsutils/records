@@ -61,6 +61,7 @@
 | [Descendo ao Submundo](descendo-ao-submundo_fe8f51f54d57/descendo-ao-submundo_fe8f51f54d57.md) | 2025 | FLAC | 00:23:22 | [IA](https://archive.org/details/descendo-ao-submundo_fe8f51f54d57) |
 | [NA ONDA DA BOLHA \(d.silvestre Remix\)](na-onda-da-bolha-dsilvestre-remix_52bb4f066d18/na-onda-da-bolha-dsilvestre-remix_52bb4f066d18.md) | 2025 | FLAC | 00:02:20 | [IA](https://archive.org/details/na-onda-da-bolha-dsilvestre-remix_52bb4f066d18) |
 | [O Que as Mulheres Querem](o-que-as-mulheres-querem_4f411c8201c9/o-que-as-mulheres-querem_4f411c8201c9.md) | 2025 | FLAC | 00:19:09 | [IA](https://archive.org/details/o-que-as-mulheres-querem_4f411c8201c9) |
+| [SENTE A MAGIA](sente-a-magia_5e34237e9dc7/sente-a-magia_5e34237e9dc7.md) | 2025 | FLAC | 00:02:28 | [IA](https://archive.org/details/sente-a-magia_5e34237e9dc7) |
 | [Olha o Tamanho Dessa Onda](olha-o-tamanho-dessa-onda_c8adf572e66c/olha-o-tamanho-dessa-onda_c8adf572e66c.md) | 2025 | FLAC | 00:01:43 | [IA](https://archive.org/details/olha-o-tamanho-dessa-onda_c8adf572e66c) |
 | [Melaço](melaco_42d709d40b5e/melaco_42d709d40b5e.md) | 2026 | FLAC | 00:04:10 | [IA](https://archive.org/details/melaco_42d709d40b5e) |
 | [Pica de Trem \(LUCAS KID & d.silvestre Remix\)](pica-de-trem-lucas-kid-dsilvestre-remix_d7ef9921ef67/pica-de-trem-lucas-kid-dsilvestre-remix_d7ef9921ef67.md) | 2026 | FLAC | 00:02:48 | [IA](https://archive.org/details/pica-de-trem-lucas-kid-dsilvestre-remix_d7ef9921ef67) |

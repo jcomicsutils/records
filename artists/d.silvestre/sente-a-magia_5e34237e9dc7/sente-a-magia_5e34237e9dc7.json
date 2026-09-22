@@ -1,0 +1,24 @@
+{
+  "id": "sente-a-magia_5e34237e9dc7",
+  "fingerprint": "5e34237e9dc73a25cb156bf9d71ca128b6a95b3559a788e19f2aacd2c51ca7a6",
+  "archived_at": "2026-09-22T19:22:37Z",
+  "metadata": {
+    "title": "SENTE A MAGIA",
+    "artist": "d.silvestre",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 148,
+    "duration_human": "00:02:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 DJ Caio Prince, Dj Thiago Martins, d.silvestre, MU540, MC Santt - SENTE A MAGIA"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sente-a-magia_5e34237e9dc7"
+    }
+  }
+}
