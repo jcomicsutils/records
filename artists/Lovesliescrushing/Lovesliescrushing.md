@@ -15,3 +15,4 @@
 | [Glinter](glinter_2a332668f131/glinter_2a332668f131.md) | 2012 | FLAC | 01:04:46 | [IA](https://archive.org/details/glinter_2a332668f131) |
 | [Ghost Colored Halo](ghost-colored-halo_71319d901afe/ghost-colored-halo_71319d901afe.md) | 2013 | FLAC | 00:49:25 | [IA](https://archive.org/details/ghost-colored-halo_71319d901afe) |
 | [Extrañas letanías](extranas-letanias_b1fb63899c07/extranas-letanias_b1fb63899c07.md) | 2020 | MP3 | 00:53:16 | [IA](https://archive.org/details/extranas-letanias_b1fb63899c07) |
+| [Psalms](psalms_2d7fb45add88/psalms_2d7fb45add88.md) | 2022 | FLAC | 00:18:24 | [IA](https://archive.org/details/psalms_2d7fb45add88) |

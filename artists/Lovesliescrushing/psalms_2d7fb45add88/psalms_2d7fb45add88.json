@@ -1,0 +1,25 @@
+{
+  "id": "psalms_2d7fb45add88",
+  "fingerprint": "2d7fb45add88f8efcbca5b25681a705f69a8ccc385cca3dcc1e9570e6ae679c8",
+  "archived_at": "2026-09-22T22:32:27Z",
+  "metadata": {
+    "title": "Psalms",
+    "artist": "Lovesliescrushing",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1104,
+    "duration_human": "00:18:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lovesliescrushing - Below and Above",
+      "02 Lovesliescrushing - Do You Know How to Waltz"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/psalms_2d7fb45add88"
+    }
+  }
+}
