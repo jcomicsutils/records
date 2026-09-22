@@ -32,6 +32,7 @@
 | [Beat Torres Gemeas](beat-torres-gemeas_b284b968171b/beat-torres-gemeas_b284b968171b.md) | 2023 | FLAC | 00:01:49 | [IA](https://archive.org/details/beat-torres-gemeas_b284b968171b) |
 | [Automotivo Estratosférico](automotivo-estratosferico_e44fa3efc54b/automotivo-estratosferico_e44fa3efc54b.md) | 2023 | FLAC | 00:02:31 | [IA](https://archive.org/details/automotivo-estratosferico_e44fa3efc54b) |
 | [Melodia Transforma Noia \(Oitava Dimensão\)](melodia-transforma-noia-oitava-dimensao_1d528229d2cb/melodia-transforma-noia-oitava-dimensao_1d528229d2cb.md) | 2023 | FLAC | 00:02:35 | [IA](https://archive.org/details/melodia-transforma-noia-oitava-dimensao_1d528229d2cb) |
+| [Montagem Minigame Do Mau](montagem-minigame-do-mau_564f08660a15/montagem-minigame-do-mau_564f08660a15.md) | 2023 | FLAC | 00:02:11 | [IA](https://archive.org/details/montagem-minigame-do-mau_564f08660a15) |
 | [Mizuno Mixtape](mizuno-mixtape_6dd17bd3ce4b/mizuno-mixtape_6dd17bd3ce4b.md) | 2023 | FLAC | 00:14:13 | [IA](https://archive.org/details/mizuno-mixtape_6dd17bd3ce4b) |
 | [Beat Ensurdece Nóia](beat-ensurdece-noia_f68e08f2d306/beat-ensurdece-noia_f68e08f2d306.md) | 2023 | FLAC | 00:01:52 | [IA](https://archive.org/details/beat-ensurdece-noia_f68e08f2d306) |
 | [dante](dante_8c74d09f4cc5/dante_8c74d09f4cc5.md) | 2023 | FLAC | 00:18:12 | [IA](https://archive.org/details/dante_8c74d09f4cc5) |
