@@ -1,0 +1,24 @@
+{
+  "id": "tuin-levanta-cadaver-10_51796ac2777f",
+  "fingerprint": "51796ac2777f0e91351cb7d4b97c441266676c4cf17c58cca9033e24c01ad77e",
+  "archived_at": "2026-09-22T19:29:59Z",
+  "metadata": {
+    "title": "Tuin Levanta Cadáver 1.0",
+    "artist": "d.silvestre",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 147,
+    "duration_human": "00:02:27",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 d.silvestre, MC DENADAI, MC Mauricio da V.I - Tuin Levanta Cadáver 1.0"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tuin-levanta-cadaver-10_51796ac2777f"
+    }
+  }
+}
