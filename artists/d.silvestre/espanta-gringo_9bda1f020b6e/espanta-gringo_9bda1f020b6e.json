@@ -1,0 +1,31 @@
+{
+  "id": "espanta-gringo_9bda1f020b6e",
+  "fingerprint": "9bda1f020b6ed23781ca0ceeda127cbad0025eaa8216648c791db1ad1f47cfb7",
+  "archived_at": "2026-09-22T18:20:59Z",
+  "metadata": {
+    "title": "ESPANTA GRINGO",
+    "artist": "d.silvestre",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1324,
+    "duration_human": "00:22:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 d.silvestre - Tuin Infarta Idosa",
+      "02 d.silvestre - Oakley Oakley Oakley",
+      "03 d.silvestre - Mini-Set Debochado",
+      "04 d.silvestre - Mega Arruina Ouvidos",
+      "05 d.silvestre - Ensurdece Nóia",
+      "06 d.silvestre - Montagem Alucinante Psicótica",
+      "07 d.silvestre - Viagem Intercerebrál",
+      "08 d.silvestre - Set Estragado 1.0"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/espanta-gringo_9bda1f020b6e"
+    }
+  }
+}
