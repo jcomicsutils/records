@@ -1,0 +1,29 @@
+{
+  "id": "abelard-and-heloise_c3cb6b6448b1",
+  "fingerprint": "c3cb6b6448b108272f0562caad22beb7c8dd40aeef47319f90f9f6381015057a",
+  "archived_at": "2026-09-22T14:40:52Z",
+  "metadata": {
+    "title": "Abelard and Heloise",
+    "artist": "Third Ear Band",
+    "year": "1998",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2213,
+    "duration_human": "00:36:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Third Ear Band - Part I",
+      "02 Third Ear Band - Part II",
+      "03 Third Ear Band - Part III",
+      "04 Third Ear Band - Part IV",
+      "05 Third Ear Band - Part V",
+      "06 Third Ear Band - Part VI"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/abelard-and-heloise_c3cb6b6448b1"
+    }
+  }
+}

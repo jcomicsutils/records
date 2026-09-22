@@ -255,6 +255,7 @@
 - [Thee Majesty](Thee-Majesty/Thee-Majesty.md)
 - [Thee Temple ov Psychick Youth](Thee-Temple-ov-Psychick-Youth/Thee-Temple-ov-Psychick-Youth.md)
 - [Thinking Fellers Union Local 282](Thinking-Fellers-Union-Local-282/Thinking-Fellers-Union-Local-282.md)
+- [Third Ear Band](Third-Ear-Band/Third-Ear-Band.md)
 - [This Immortal Coil](This-Immortal-Coil/This-Immortal-Coil.md)
 - [Thorjn](Thorjn/Thorjn.md)
 - [Thorr's Hammer](Thorr's-Hammer/Thorr's-Hammer.md)
