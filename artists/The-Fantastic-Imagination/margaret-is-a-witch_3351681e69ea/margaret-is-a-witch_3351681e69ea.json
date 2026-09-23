@@ -1,0 +1,25 @@
+{
+  "id": "margaret-is-a-witch_3351681e69ea",
+  "fingerprint": "3351681e69eaaf6aeb9b1b6bab25f46885fc6fb4761549d3a8e9ef24c2804324",
+  "archived_at": "2026-09-23T03:00:14Z",
+  "metadata": {
+    "title": "Margaret Is a Witch",
+    "artist": "The Fantastic Imagination",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1408,
+    "duration_human": "00:23:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Fantastic Imagination - Margaret Is a Witch",
+      "02 The Fantastic Imagination - Steve Is a Boy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/margaret-is-a-witch_3351681e69ea"
+    }
+  }
+}
