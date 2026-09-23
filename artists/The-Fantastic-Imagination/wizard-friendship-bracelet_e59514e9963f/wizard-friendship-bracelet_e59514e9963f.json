@@ -1,0 +1,25 @@
+{
+  "id": "wizard-friendship-bracelet_e59514e9963f",
+  "fingerprint": "e59514e9963fa3391ea98aac4fd4890dc65657571772119958d5c318bc089c0c",
+  "archived_at": "2026-09-23T03:18:17Z",
+  "metadata": {
+    "title": "Wizard Friendship Bracelet",
+    "artist": "The Fantastic Imagination",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2463,
+    "duration_human": "00:41:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Fantastic Imagination - Friendship",
+      "02 The Fantastic Imagination - Protection"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wizard-friendship-bracelet_e59514e9963f"
+    }
+  }
+}
