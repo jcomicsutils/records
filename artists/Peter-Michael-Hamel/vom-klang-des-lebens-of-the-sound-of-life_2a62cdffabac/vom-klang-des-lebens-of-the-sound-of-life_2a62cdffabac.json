@@ -1,0 +1,35 @@
+{
+  "id": "vom-klang-des-lebens-of-the-sound-of-life_2a62cdffabac",
+  "fingerprint": "2a62cdffabac5b100fd3012f4e8dfcb4548a859103fc574c9338a5738a721888",
+  "archived_at": "2026-09-23T20:01:30Z",
+  "metadata": {
+    "title": "Vom Klang des Lebens (Of the Sound of Life)",
+    "artist": "Peter Michael Hamel",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3617,
+    "duration_human": "01:00:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Roger Woodward - I. Departure / Abreise: In memoriam John Cage",
+      "02 Roger Woodward - II. In memoriam Alfred A. Tomatis",
+      "03 Roger Woodward - III. Milestone for Miles Davis",
+      "04 Roger Woodward - IV. In memoriam Morton Feldman",
+      "05 Roger Woodward - V. In memoriam Walter Bachauer",
+      "06 Roger Woodward - VI. In memoriam Dane Rudhyar",
+      "07 Roger Woodward - VII. In memoriam Pandit Patekar",
+      "08 Roger Woodward - VIII. In memoriam Olivier Messiaen",
+      "09 Roger Woodward - IX. In memoriam Giacinto Scelsi",
+      "10 Roger Woodward - X. In memoriam Iannis Xenakis",
+      "11 Roger Woodward - XI. For Johann David Antonin *21.10.1992",
+      "12 Roger Woodward - XII. Arrival / Ankunft: In memoriam John Cage"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vom-klang-des-lebens-of-the-sound-of-life_2a62cdffabac"
+    }
+  }
+}

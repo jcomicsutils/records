@@ -11,6 +11,7 @@
 | [Organum](organum_3a3eadea8215/organum_3a3eadea8215.md) | 1986 | FLAC | 00:57:12 | [IA](https://archive.org/details/organum_3a3eadea8215) |
 | [Nada](nada_a776302e7cb5/nada_a776302e7cb5.md) | 1994 | FLAC | 00:40:34 | [IA](https://archive.org/details/nada_a776302e7cb5) |
 | [De Visione Dei \(Nach Nikolaus Cusanus\)](de-visione-dei-nach-nikolaus-cusanus_ddab91e0cb10/de-visione-dei-nach-nikolaus-cusanus_ddab91e0cb10.md) | 2001 | FLAC | 01:09:25 | [IA](https://archive.org/details/de-visione-dei-nach-nikolaus-cusanus_ddab91e0cb10) |
+| [Vom Klang des Lebens \(Of the Sound of Life\)](vom-klang-des-lebens-of-the-sound-of-life_2a62cdffabac/vom-klang-des-lebens-of-the-sound-of-life_2a62cdffabac.md) | 2007 | FLAC | 01:00:17 | [IA](https://archive.org/details/vom-klang-des-lebens-of-the-sound-of-life_2a62cdffabac) |
 | [String Quartet No. 3, String Quartet No. 4, String Trio](string-quartet-no-3-string-quartet-no-4-string-trio_6f40e0db47bd/string-quartet-no-3-string-quartet-no-4-string-trio_6f40e0db47bd.md) | 2007 | FLAC | 01:17:30 | [IA](https://archive.org/details/string-quartet-no-3-string-quartet-no-4-string-trio_6f40e0db47bd) |
 | [Coincidence](coincidence_38f5a872cf12/coincidence_38f5a872cf12.md) | 2014 | FLAC | 01:03:48 | [IA](https://archive.org/details/coincidence_38f5a872cf12) |
 | [Colours of Time Re-interpreted](colours-of-time-re-interpreted_f80d07ef553c/colours-of-time-re-interpreted_f80d07ef553c.md) | 2016 | FLAC | 00:39:34 | [IA](https://archive.org/details/colours-of-time-re-interpreted_f80d07ef553c) |
