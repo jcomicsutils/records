@@ -1,0 +1,31 @@
+{
+  "id": "since-time-is-gravity_9fcccba387fb",
+  "fingerprint": "9fcccba387fb921d970c618773a7dc99ed72acabc8562ad9f1f381d338b3fc83",
+  "archived_at": "2026-09-23T01:09:19Z",
+  "metadata": {
+    "title": "Since Time Is Gravity",
+    "artist": "Natural Information Society",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 4405,
+    "duration_human": "01:13:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Natural Information Society - Moontide Chorus",
+      "02 Natural Information Society - Is",
+      "03 Natural Information Society - Murmuration",
+      "04 Natural Information Society - Wane",
+      "05 Natural Information Society - Stigmergy",
+      "06 Natural Information Society - Immemorial",
+      "07 Natural Information Society - Wax",
+      "08 Natural Information Society - Gravity"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/since-time-is-gravity_9fcccba387fb"
+    }
+  }
+}
