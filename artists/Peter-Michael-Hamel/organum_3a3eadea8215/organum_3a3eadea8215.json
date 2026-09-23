@@ -1,0 +1,27 @@
+{
+  "id": "organum_3a3eadea8215",
+  "fingerprint": "3a3eadea8215a15b3ad283cc9fb689d0d9aa0bcf6f681874b429b6ce70f75960",
+  "archived_at": "2026-09-23T19:41:15Z",
+  "metadata": {
+    "title": "Organum",
+    "artist": "Peter Michael Hamel",
+    "year": "1986",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3432,
+    "duration_human": "00:57:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Peter Michael Hamel - Organum: Part 1",
+      "02 Peter Michael Hamel - Organum: Part 2",
+      "03 Peter Michael Hamel - Organum: Part 3",
+      "04 Peter Michael Hamel - Organum: Part 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/organum_3a3eadea8215"
+    }
+  }
+}
