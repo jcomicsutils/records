@@ -1,0 +1,29 @@
+{
+  "id": "live-in-pori-1984_b168ae591ed3",
+  "fingerprint": "b168ae591ed3083ced267018c80e7398a5d6300ccf66a476f1f0541e26e7fdb9",
+  "archived_at": "2026-09-23T17:38:06Z",
+  "metadata": {
+    "title": "Live in Pori 1984",
+    "artist": "Urban Sax",
+    "year": "2016",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 2358,
+    "duration_human": "00:39:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Urban Sax - Possible Prologue",
+      "02 Urban Sax - Carillon",
+      "03 Urban Sax - Urban Sax Part 1",
+      "04 Urban Sax - Perchman aux oreilles mouvantes",
+      "05 Urban Sax - 5.5.8",
+      "06 Urban Sax - Fraction sur le temps part 3, 5 et 6"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-in-pori-1984_b168ae591ed3"
+    }
+  }
+}
