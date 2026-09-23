@@ -1,0 +1,31 @@
+{
+  "id": "manual-del-usuario_f8ea42458d54",
+  "fingerprint": "f8ea42458d54e9344dfd36025b66b2d41b0418e7858f3915103e9658ffaca58b",
+  "archived_at": "2026-09-23T01:51:05Z",
+  "metadata": {
+    "title": "Manual del usuario",
+    "artist": "Orquesta de las Nubes",
+    "year": "1987",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2712,
+    "duration_human": "00:45:12",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Orquesta de las Nubes - El corredor",
+      "02 Orquesta de las Nubes - Vendrán lluvias suaves",
+      "03 Orquesta de las Nubes - Ella no lleva gafas",
+      "04 Orquesta de las Nubes - Conversaciones entre una china y un ogro",
+      "05 Orquesta de las Nubes - Tiempo de espera",
+      "06 Orquesta de las Nubes - Dum? (Reprise)",
+      "07 Orquesta de las Nubes - Como un guante",
+      "08 Orquesta de las Nubes - Un diente en el bolsillo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/manual-del-usuario_f8ea42458d54"
+    }
+  }
+}
