@@ -1,0 +1,25 @@
+{
+  "id": "mantra-stabat-mater_44297a821ae0",
+  "fingerprint": "44297a821ae079de8f36c29c888e6548d96dbe038ffe38d857690b5d1a5c7d51",
+  "archived_at": "2026-09-23T18:29:33Z",
+  "metadata": {
+    "title": "Mantra / Stabat Mater",
+    "artist": "佐藤聰明",
+    "year": "1988",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3399,
+    "duration_human": "00:56:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Somei Satoh - Mantra",
+      "02 Somei Satoh - Stabat Mater"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mantra-stabat-mater_44297a821ae0"
+    }
+  }
+}
