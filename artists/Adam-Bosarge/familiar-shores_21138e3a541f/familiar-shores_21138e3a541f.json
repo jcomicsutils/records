@@ -1,0 +1,24 @@
+{
+  "id": "familiar-shores_21138e3a541f",
+  "fingerprint": "21138e3a541f9c41783acab5f7316596668a206b118a88b1b7e3164ad5d04067",
+  "archived_at": "2026-09-23T21:17:23Z",
+  "metadata": {
+    "title": "Familiar Shores",
+    "artist": "Adam Bosarge",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1632,
+    "duration_human": "00:27:12",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Adam Bosarge - Familiar Shores"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/familiar-shores_21138e3a541f"
+    }
+  }
+}

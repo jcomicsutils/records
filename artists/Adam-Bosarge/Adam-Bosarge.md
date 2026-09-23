@@ -11,4 +11,5 @@
 | [Clear, Bright, Dark of Night, Vol. 6](clear-bright-dark-of-night-vol-6_5cb065026d64/clear-bright-dark-of-night-vol-6_5cb065026d64.md) | 2019 | FLAC | 00:38:37 | [IA](https://archive.org/details/clear-bright-dark-of-night-vol-6_5cb065026d64) |
 | [Clear, Bright, Dark of Night, Vol. 8](clear-bright-dark-of-night-vol-8_868ca4ed30cc/clear-bright-dark-of-night-vol-8_868ca4ed30cc.md) | 2020 | FLAC | 00:36:01 | [IA](https://archive.org/details/clear-bright-dark-of-night-vol-8_868ca4ed30cc) |
 | [A Bent Wing on Curved Light](a-bent-wing-on-curved-light_e7bccf814655/a-bent-wing-on-curved-light_e7bccf814655.md) | 2024 | FLAC | 00:44:52 | [IA](https://archive.org/details/a-bent-wing-on-curved-light_e7bccf814655) |
+| [Familiar Shores](familiar-shores_21138e3a541f/familiar-shores_21138e3a541f.md) | 2024 | FLAC | 00:27:12 | [IA](https://archive.org/details/familiar-shores_21138e3a541f) |
 | [A Thousand Blue Thousand White](a-thousand-blue-thousand-white_d21657fa0ee5/a-thousand-blue-thousand-white_d21657fa0ee5.md) | 2025 | FLAC | 00:22:06 | [IA](https://archive.org/details/a-thousand-blue-thousand-white_d21657fa0ee5) |
