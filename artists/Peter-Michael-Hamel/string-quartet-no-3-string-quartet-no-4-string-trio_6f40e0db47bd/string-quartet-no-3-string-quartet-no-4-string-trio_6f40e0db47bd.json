@@ -1,0 +1,35 @@
+{
+  "id": "string-quartet-no-3-string-quartet-no-4-string-trio_6f40e0db47bd",
+  "fingerprint": "6f40e0db47bd58c90601147e2f6c6bea1fa6ce24482d0a5b1a199439a3024aca",
+  "archived_at": "2026-09-23T19:47:44Z",
+  "metadata": {
+    "title": "String Quartet No. 3, String Quartet No. 4, String Trio",
+    "artist": "Peter Michael Hamel",
+    "year": "2007",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 4650,
+    "duration_human": "01:17:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Alexander String Quartet - String Quartet No. 3: I. Hyang-ak",
+      "02 Alexander String Quartet - String Quartet No. 3: II. Mu-ak",
+      "03 Alexander String Quartet - String Quartet No. 3: III. A-ak",
+      "04 Alexander String Quartet - String Quartet No. 4, \"Nächklange\" (Echoes)",
+      "05 Alexander String Quartet - String Quartet No. 4, \"Nächklange\" (Echoes)",
+      "06 Alexander String Quartet - String Quartet No. 4, \"Nächklange\" (Echoes)",
+      "07 Alexander String Quartet - String Quartet No. 4, \"Nächklange\" (Echoes)",
+      "08 Alexander String Quartet - String Quartet No. 4, \"Nächklange\" (Echoes)",
+      "09 Alexander String Quartet - String Trio: I. Largo",
+      "10 Alexander String Quartet - String Trio: II. Vivace",
+      "11 Alexander String Quartet - String Trio: III. Scherzo",
+      "12 Alexander String Quartet - String Trio: IV. Adagio"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/string-quartet-no-3-string-quartet-no-4-string-trio_6f40e0db47bd"
+    }
+  }
+}
