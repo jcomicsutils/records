@@ -1,0 +1,27 @@
+{
+  "id": "perseverance-flow_4754df6ab491",
+  "fingerprint": "4754df6ab4919841de417a913e94e23a39b15e4243726c8ac088a5edfe709576",
+  "archived_at": "2026-09-23T00:41:48Z",
+  "metadata": {
+    "title": "Perseverance Flow",
+    "artist": "Natural Information Society",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2890,
+    "duration_human": "00:48:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Natural Information Society - Perseverance Flow (Jump Rope Edit)",
+      "02 Natural Information Society - Perseverance Flow",
+      "03 Natural Information Society - Perseverance Flow (Rally Guts & Humors Edit)",
+      "04 Natural Information Society - Perseverance Flow (Slo-Mo Edit)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/perseverance-flow_4754df6ab491"
+    }
+  }
+}
