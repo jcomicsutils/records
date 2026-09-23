@@ -1,0 +1,31 @@
+{
+  "id": "momentum_ac0e0dae8c10",
+  "fingerprint": "ac0e0dae8c10ba4602992eaa948070d6a655cb184b731cd2b4d0dd16e58f06b0",
+  "archived_at": "2026-09-23T00:22:34Z",
+  "metadata": {
+    "title": "Momentum",
+    "artist": "Natural Information Society",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 4970,
+    "duration_human": "01:22:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Natural Information Society - Sound Talisman",
+      "02 Natural Information Society - Sideways Fall",
+      "03 Natural Information Society - Broom",
+      "04 Natural Information Society - Is",
+      "05 Natural Information Society - Abide in Sunset",
+      "06 Natural Information Society - Descension (Out of Our Constrictions) II",
+      "07 Natural Information Society - Gravity",
+      "08 Natural Information Society - Sideways Fall (Momentum Edit)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/momentum_ac0e0dae8c10"
+    }
+  }
+}
