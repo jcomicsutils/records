@@ -1,0 +1,35 @@
+{
+  "id": "el-orden-del-azar_f68af4372670",
+  "fingerprint": "f68af437267022148940d66588a55f0fd0435f84a54199f275f40c82c78f6d34",
+  "archived_at": "2026-09-23T01:43:24Z",
+  "metadata": {
+    "title": "El orden del azar",
+    "artist": "Orquesta de las Nubes",
+    "year": "1985",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2541,
+    "duration_human": "00:42:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Orquesta de las Nubes - Basura del coral",
+      "02 Orquesta de las Nubes - Sobredosis de pasión",
+      "03 Orquesta de las Nubes - Solo uno",
+      "04 Orquesta de las Nubes - Cama diarmonica",
+      "05 Orquesta de las Nubes - Solo dos",
+      "06 Orquesta de las Nubes - Dedo en el ojo",
+      "07 Orquesta de las Nubes - Estabilizador del sueño",
+      "08 Orquesta de las Nubes - Ell orden del azar",
+      "09 Orquesta de las Nubes - Solo tres",
+      "10 Orquesta de las Nubes - Cavando en el arco iris",
+      "11 Orquesta de las Nubes - Ludion",
+      "12 Orquesta de las Nubes - Cadaver exquisito"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/el-orden-del-azar_f68af4372670"
+    }
+  }
+}
