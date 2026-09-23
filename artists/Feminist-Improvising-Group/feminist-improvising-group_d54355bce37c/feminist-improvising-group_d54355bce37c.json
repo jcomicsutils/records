@@ -1,0 +1,30 @@
+{
+  "id": "feminist-improvising-group_d54355bce37c",
+  "fingerprint": "d54355bce37c67318e7770fd3b63830ea76f9828b9176086ed0637d6fcb68e92",
+  "archived_at": "2026-09-23T03:49:28Z",
+  "metadata": {
+    "title": "Feminist Improvising Group",
+    "artist": "Feminist Improvising Group",
+    "year": "1979",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3595,
+    "duration_human": "00:59:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Feminist Improvising Group - Copenhagen - International Women's Music Festival - 29th April '78",
+      "02 Feminist Improvising Group - Stockholm - Women's Festival - 20th August '78",
+      "03 Feminist Improvising Group - Stockholm - Continued",
+      "04 Feminist Improvising Group - Reykjavík -18th November '78",
+      "05 Feminist Improvising Group - Reykjavík -19th November '78",
+      "06 Feminist Improvising Group - Reykjavík -19th November '78",
+      "07 Feminist Improvising Group - Reykjavík -19th November '78"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/feminist-improvising-group_d54355bce37c"
+    }
+  }
+}
