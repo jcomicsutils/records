@@ -1,0 +1,26 @@
+{
+  "id": "the-voice-of-silence_ab3af7b9b68e",
+  "fingerprint": "ab3af7b9b68e789f43604d2870e4354eba935c555cc3d9de0958a5c7561c700e",
+  "archived_at": "2026-09-23T19:52:14Z",
+  "metadata": {
+    "title": "The Voice of Silence",
+    "artist": "Peter Michael Hamel",
+    "year": "1973",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 2710,
+    "duration_human": "00:45:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Peter Michael Hamel - Panta Tantra",
+      "02 Peter Michael Hamel - The Voice of Silence",
+      "03 Peter Michael Hamel - Ego-Loss (Let the Red Buddha Amithaba Sweep You Along)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-voice-of-silence_ab3af7b9b68e"
+    }
+  }
+}
