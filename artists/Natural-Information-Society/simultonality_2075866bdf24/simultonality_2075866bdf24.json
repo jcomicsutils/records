@@ -1,0 +1,28 @@
+{
+  "id": "simultonality_2075866bdf24",
+  "fingerprint": "2075866bdf24a8ca8c2ab85a1f19bdd2681aeddd2eeae276983f6167e9d744a8",
+  "archived_at": "2026-09-23T00:58:32Z",
+  "metadata": {
+    "title": "Simultonality",
+    "artist": "Natural Information Society",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2538,
+    "duration_human": "00:42:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Joshua Abrams & Natural Information Society - Maroon Dune",
+      "02 Joshua Abrams & Natural Information Society - Ophiuchus",
+      "03 Joshua Abrams & Natural Information Society - St. Cloud",
+      "04 Joshua Abrams & Natural Information Society - Sideways Fall",
+      "05 Joshua Abrams & Natural Information Society - 2128½"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/simultonality_2075866bdf24"
+    }
+  }
+}
