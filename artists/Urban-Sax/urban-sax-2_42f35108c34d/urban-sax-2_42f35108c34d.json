@@ -1,0 +1,25 @@
+{
+  "id": "urban-sax-2_42f35108c34d",
+  "fingerprint": "42f35108c34d2712d5b8f64cd986b7716b8fba3f78cdbefae77828af154e4d81",
+  "archived_at": "2026-09-23T18:03:06Z",
+  "metadata": {
+    "title": "Urban Sax 2",
+    "artist": "Urban Sax",
+    "year": "1978",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2135,
+    "duration_human": "00:35:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Urban Sax - Part 3 in E-Flat Minor",
+      "02 Urban Sax - Part 4 in E-Flat Minor"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/urban-sax-2_42f35108c34d"
+    }
+  }
+}
