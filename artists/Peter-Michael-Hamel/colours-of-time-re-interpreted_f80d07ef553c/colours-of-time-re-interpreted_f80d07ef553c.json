@@ -1,0 +1,25 @@
+{
+  "id": "colours-of-time-re-interpreted_f80d07ef553c",
+  "fingerprint": "f80d07ef553c6aec906766c480e47067e5a2c9f8d990ec6adf3028ba515434c7",
+  "archived_at": "2026-09-23T19:15:10Z",
+  "metadata": {
+    "title": "Colours of Time Re-interpreted",
+    "artist": "Peter Michael Hamel",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2374,
+    "duration_human": "00:39:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Peter Michael Hamel - Wolfgang's Neokraut Trip",
+      "02 Peter Michael Hamel - Deepchord's Carolina Forest Mix"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/colours-of-time-re-interpreted_f80d07ef553c"
+    }
+  }
+}
