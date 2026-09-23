@@ -1,0 +1,31 @@
+{
+  "id": "spiral_f9c52f51b317",
+  "fingerprint": "f9c52f51b31748abb34cdcc8b8810500c1b80e99aa983f041b2e3f851420dfd2",
+  "archived_at": "2026-09-23T17:55:02Z",
+  "metadata": {
+    "title": "Spiral",
+    "artist": "Urban Sax",
+    "year": "1991",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2846,
+    "duration_human": "00:47:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Urban Sax - Prologue Improbable in E-Flat Minor",
+      "02 Urban Sax - Cuve au miroir in B-Flat Minor",
+      "03 Urban Sax - Perchman aux oreilles mouvantes in E-Flat Minor",
+      "04 Urban Sax - Glauquerie in E-Flat Minor",
+      "05 Urban Sax - Slow-Turn Around Mevlana in E-Flat Minor",
+      "06 Urban Sax - On the Time in E-Flat Minor",
+      "07 Urban Sax - Travelling to Professor Velvosky in B-Flat Minor",
+      "08 Urban Sax - Possible Prologue in E-Flat"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/spiral_f9c52f51b317"
+    }
+  }
+}
