@@ -1,0 +1,31 @@
+{
+  "id": "paradise-lost_4df6046f175f",
+  "fingerprint": "4df6046f175f9e08c6700277d3d87127bad41a9637c3916b024d1e78ece9ed4e",
+  "archived_at": "2026-09-23T17:44:19Z",
+  "metadata": {
+    "title": "Paradise Lost",
+    "artist": "Urban Sax",
+    "year": "1982",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2885,
+    "duration_human": "00:48:05",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Henry & Urban Sax - Paradise Lost",
+      "02 Henry & Urban Sax - Limbo",
+      "03 Henry & Urban Sax - Pandemonium",
+      "04 Henry & Urban Sax - Chaos",
+      "05 Henry & Urban Sax - Paradise of Fools",
+      "06 Henry & Urban Sax - Eden",
+      "07 Henry & Urban Sax - Fight",
+      "08 Henry & Urban Sax - Gate of Paradise"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/paradise-lost_4df6046f175f"
+    }
+  }
+}
