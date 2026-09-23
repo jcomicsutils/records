@@ -1,0 +1,26 @@
+{
+  "id": "toward-the-night_d1731c0c1dea",
+  "fingerprint": "d1731c0c1dea0fc97f116d19b7800d087aef58e525e62e87bf33951ded675c57",
+  "archived_at": "2026-09-23T18:36:04Z",
+  "metadata": {
+    "title": "Toward the Night",
+    "artist": "佐藤聰明",
+    "year": "1993",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2981,
+    "duration_human": "00:49:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Somei Satoh - Ruika (1990)",
+      "02 Somei Satoh - Toward the Night (1991)",
+      "03 Somei Satoh - Homa (1988)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/toward-the-night_d1731c0c1dea"
+    }
+  }
+}
