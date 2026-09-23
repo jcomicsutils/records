@@ -11,6 +11,7 @@
 - [ASSOCIAÇÃO DOS GAROTOS QUE SOFREM](ASSOCIAÇÃO-DOS-GAROTOS-QUE-SOFREM/ASSOCIAÇÃO-DOS-GAROTOS-QUE-SOFREM.md)
 - [Absolute Controlled Clinical Maniacs](Absolute-Controlled-Clinical-Maniacs/Absolute-Controlled-Clinical-Maniacs.md)
 - [Accident Prone Records](Accident-Prone-Records/Accident-Prone-Records.md)
+- [Adam Bosarge](Adam-Bosarge/Adam-Bosarge.md)
 - [African Imperial Wizard](African-Imperial-Wizard/African-Imperial-Wizard.md)
 - [Agriculture](Agriculture/Agriculture.md)
 - [Ak'chamel](Ak'chamel/Ak'chamel.md)
