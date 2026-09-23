@@ -1,0 +1,27 @@
+{
+  "id": "totality_b0c0707ea3d1",
+  "fingerprint": "b0c0707ea3d1f0a625c7287cf08e09c218028a40b7f55deb6cfe62bee2654a86",
+  "archived_at": "2026-09-23T01:25:35Z",
+  "metadata": {
+    "title": "Totality",
+    "artist": "Natural Information Society",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2594,
+    "duration_human": "00:43:14",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Natural Information Society & Bitchin Bajas - Totality",
+      "02 Natural Information Society & Bitchin Bajas - Nothing Does Not Show",
+      "03 Natural Information Society & Bitchin Bajas - Always 9 Seconds Away",
+      "04 Natural Information Society & Bitchin Bajas - Clock No Clock"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/totality_b0c0707ea3d1"
+    }
+  }
+}
