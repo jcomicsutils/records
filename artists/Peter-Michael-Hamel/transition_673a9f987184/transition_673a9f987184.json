@@ -1,0 +1,28 @@
+{
+  "id": "transition_673a9f987184",
+  "fingerprint": "673a9f987184856a9d8df9f2dd322725d5e9a5c64fd206ead542c0a7976fefec",
+  "archived_at": "2026-09-23T19:55:32Z",
+  "metadata": {
+    "title": "Transition",
+    "artist": "Peter Michael Hamel",
+    "year": "1983",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 5240,
+    "duration_human": "01:27:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "1-01 Peter Michael Hamel - Transition",
+      "1-02 Peter Michael Hamel - Mandala",
+      "2-01 Peter Michael Hamel - Let It Play",
+      "2-02 Peter Michael Hamel - Transpersonal",
+      "2-03 Peter Michael Hamel - Apotheosis"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/transition_673a9f987184"
+    }
+  }
+}
