@@ -1,0 +1,32 @@
+{
+  "id": "hamel_99a7bccb892b",
+  "fingerprint": "99a7bccb892b1080613211ad3ab1944c0ffe7ea75cbd4a4eca411018330baa24",
+  "archived_at": "2026-09-23T19:26:11Z",
+  "metadata": {
+    "title": "Hamel",
+    "artist": "Peter Michael Hamel",
+    "year": "1972",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 4720,
+    "duration_human": "01:18:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Peter Michael Hamel - Storm Over Asia and Calm",
+      "02 Peter Michael Hamel - Baliava I",
+      "03 Peter Michael Hamel - Baliava II",
+      "04 Peter Michael Hamel - Fire of Holy Eyes",
+      "05 Peter Michael Hamel - Song of the Dolphins",
+      "06 Peter Michael Hamel - Sinking Sangsara",
+      "07 Peter Michael Hamel - Aura",
+      "08 Peter Michael Hamel - Gomorrhaga",
+      "09 Peter Michael Hamel - Cathedral on C"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hamel_99a7bccb892b"
+    }
+  }
+}
