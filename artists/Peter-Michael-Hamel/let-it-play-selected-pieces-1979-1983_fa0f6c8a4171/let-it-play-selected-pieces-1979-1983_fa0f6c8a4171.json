@@ -1,0 +1,31 @@
+{
+  "id": "let-it-play-selected-pieces-1979-1983_fa0f6c8a4171",
+  "fingerprint": "fa0f6c8a417177cfa7e41960b91ac25b39f0ca5e438134252de16aa12d794dbc",
+  "archived_at": "2026-09-23T19:32:57Z",
+  "metadata": {
+    "title": "Let It Play, Selected Pieces 1979-1983",
+    "artist": "Peter Michael Hamel",
+    "year": "1979",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 4378,
+    "duration_human": "01:12:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Peter Michael Hamel - Mandala, Opening",
+      "02 Peter Michael Hamel - Let It Play, Part 1",
+      "03 Peter Michael Hamel - The Yellow Sound",
+      "04 Peter Michael Hamel - Colours of Time, Part 2",
+      "05 Peter Michael Hamel - Bardo",
+      "06 Peter Michael Hamel - Einklang",
+      "07 Peter Michael Hamel - Let It Play, Part 2",
+      "08 Peter Michael Hamel - Mandala, Closing"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/let-it-play-selected-pieces-1979-1983_fa0f6c8a4171"
+    }
+  }
+}
