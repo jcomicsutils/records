@@ -1,0 +1,32 @@
+{
+  "id": "8-petites-pieces-de-variete_2ed58e219ac9",
+  "fingerprint": "2ed58e219ac992db401e81ab72f3c4992b640de86fec60946d3094663b88c83c",
+  "archived_at": "2026-09-23T04:35:25Z",
+  "metadata": {
+    "title": "8 petites pièces de variété",
+    "artist": "Urbi Flat",
+    "year": "2018",
+    "codec": "MP3",
+    "num_tracks": 9,
+    "duration_seconds": 3061,
+    "duration_human": "00:51:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Urbi Flat - Le pipeau javanais",
+      "02 Urbi Flat - Le gourou de Garges-les-Gonesses",
+      "03 Urbi Flat - Return to Livarot",
+      "04 Urbi Flat - Pourquoi viens-tu sitar",
+      "05 Urbi Flat - Non lo so",
+      "06 Urbi Flat - À isodore zouzou",
+      "07 Urbi Flat - Nirvana juste en dessous de chez vous",
+      "08 Urbi Flat - Précipice",
+      "09 Urbi Flat - Précipice ouaté"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/8-petites-pieces-de-variete_2ed58e219ac9"
+    }
+  }
+}
