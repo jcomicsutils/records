@@ -1,0 +1,26 @@
+{
+  "id": "sun-moon_e95102415f7f",
+  "fingerprint": "e95102415f7f259e71e1a52028bd5e3086b78d69bc197c56197d3ebee8ca0a5a",
+  "archived_at": "2026-09-23T18:33:14Z",
+  "metadata": {
+    "title": "Sun - Moon",
+    "artist": "佐藤聰明",
+    "year": "1994",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2633,
+    "duration_human": "00:43:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Somei Satoh - Moon",
+      "02 Somei Satoh - Sun",
+      "03 Somei Satoh - Wind"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sun-moon_e95102415f7f"
+    }
+  }
+}
