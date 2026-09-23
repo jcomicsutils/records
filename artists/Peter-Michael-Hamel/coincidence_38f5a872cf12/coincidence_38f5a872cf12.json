@@ -1,0 +1,35 @@
+{
+  "id": "coincidence_38f5a872cf12",
+  "fingerprint": "38f5a872cf12697a68d5e2634f31dfc5e4d9368c4627fc7e6dd588fecfbb8426",
+  "archived_at": "2026-09-23T19:04:58Z",
+  "metadata": {
+    "title": "Coincidence",
+    "artist": "Peter Michael Hamel",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3828,
+    "duration_human": "01:03:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Hamel - Gundermann - Ashwalk",
+      "02 Hamel - Gundermann - Andernorts",
+      "03 Hamel - Gundermann - Zeitfarben",
+      "04 Hamel - Gundermann - Pascha Pashu",
+      "05 Hamel - Gundermann - Christian",
+      "06 Hamel - Gundermann - Moonlady",
+      "07 Hamel - Gundermann - Einklang",
+      "08 Hamel - Gundermann - Lakulisha",
+      "09 Hamel - Gundermann - Coincidence",
+      "10 Hamel - Gundermann - Was bleibt",
+      "11 Hamel - Gundermann - Anverwandlungen",
+      "12 Hamel - Gundermann - Hymne der Aissawa"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/coincidence_38f5a872cf12"
+    }
+  }
+}
