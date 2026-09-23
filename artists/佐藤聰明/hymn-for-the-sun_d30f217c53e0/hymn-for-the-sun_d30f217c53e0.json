@@ -1,0 +1,26 @@
+{
+  "id": "hymn-for-the-sun_d30f217c53e0",
+  "fingerprint": "d30f217c53e006f19c1fd17f2201716d5a373e25b8a4004640bbc31735fa337f",
+  "archived_at": "2026-09-23T18:11:44Z",
+  "metadata": {
+    "title": "Hymn for the Sun",
+    "artist": "佐藤聰明",
+    "year": "1976",
+    "codec": "ALAC",
+    "num_tracks": 3,
+    "duration_seconds": 3106,
+    "duration_human": "00:51:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Somei Satoh - Litania (1973)",
+      "02 Somei Satoh - Mirror (1975)",
+      "03 Somei Satoh - Hymn for the Sun (1973)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hymn-for-the-sun_d30f217c53e0"
+    }
+  }
+}
