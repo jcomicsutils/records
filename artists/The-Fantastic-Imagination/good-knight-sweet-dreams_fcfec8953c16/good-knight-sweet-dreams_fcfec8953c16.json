@@ -1,0 +1,25 @@
+{
+  "id": "good-knight-sweet-dreams_fcfec8953c16",
+  "fingerprint": "fcfec8953c161a53ffe23df030caafd0a04eee535ca4c1feab391260fdf5b19f",
+  "archived_at": "2026-09-23T02:54:02Z",
+  "metadata": {
+    "title": "Good Knight, Sweet Dreams",
+    "artist": "The Fantastic Imagination",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1704,
+    "duration_human": "00:28:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Fantastic Imagination - Good Knight",
+      "02 The Fantastic Imagination - Sweet Dreams"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/good-knight-sweet-dreams_fcfec8953c16"
+    }
+  }
+}
