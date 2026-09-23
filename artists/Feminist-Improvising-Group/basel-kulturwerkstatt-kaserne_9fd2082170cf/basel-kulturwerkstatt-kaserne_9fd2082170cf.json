@@ -1,0 +1,29 @@
+{
+  "id": "basel-kulturwerkstatt-kaserne_9fd2082170cf",
+  "fingerprint": "9fd2082170cf15cfa37d7b4bfc3850d3451f1997348d7e2c275f1fb8035c4feb",
+  "archived_at": "2026-09-23T03:29:20Z",
+  "metadata": {
+    "title": "Basel, Kulturwerkstatt Kaserne",
+    "artist": "Feminist Improvising Group",
+    "year": "1981",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 7462,
+    "duration_human": "02:04:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Feminist Improvising Group - Spur 3",
+      "02 Feminist Improvising Group - Spur 4",
+      "03 Feminist Improvising Group - Spur 1",
+      "04 Feminist Improvising Group - Spur 2",
+      "05 Feminist Improvising Group - Spur 3",
+      "06 Feminist Improvising Group - Spur 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/basel-kulturwerkstatt-kaserne_9fd2082170cf"
+    }
+  }
+}
