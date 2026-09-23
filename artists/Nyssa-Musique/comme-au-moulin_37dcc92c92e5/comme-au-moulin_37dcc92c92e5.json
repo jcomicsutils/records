@@ -1,0 +1,31 @@
+{
+  "id": "comme-au-moulin_37dcc92c92e5",
+  "fingerprint": "37dcc92c92e5df93f2d51e88ffdc05d896db71cd9f83645d822c522457825c9c",
+  "archived_at": "2026-09-23T17:12:19Z",
+  "metadata": {
+    "title": "Comme au moulin",
+    "artist": "Nyssa Musique",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2406,
+    "duration_human": "00:40:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nyssa Musique - Rienne",
+      "02 Nyssa Musique - Route de sumatra",
+      "03 Nyssa Musique - Biside",
+      "04 Nyssa Musique - Comme au moulin",
+      "05 Nyssa Musique - Lacustre",
+      "06 Nyssa Musique - Vol d'ibis",
+      "07 Nyssa Musique - Oued",
+      "08 Nyssa Musique - Sargasses"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/comme-au-moulin_37dcc92c92e5"
+    }
+  }
+}
