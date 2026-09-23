@@ -1,0 +1,33 @@
+{
+  "id": "quad-sax_f3fd1ccc6082",
+  "fingerprint": "f3fd1ccc60823243dfd4d978a58e594cdbeaad9595e00db96b785610594f943f",
+  "archived_at": "2026-09-23T04:31:47Z",
+  "metadata": {
+    "title": "Quad Sax",
+    "artist": "Quad Sax",
+    "year": "2018",
+    "codec": "MP3",
+    "num_tracks": 10,
+    "duration_seconds": 2416,
+    "duration_human": "00:40:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Quad Sax - Les carillonneurs",
+      "02 Quad Sax - Résonance sur le temps",
+      "03 Quad Sax - Petite valse moyennement speed",
+      "04 Quad Sax - Prologue incertain",
+      "05 Quad Sax - En eau trouble",
+      "06 Quad Sax - Petite souris sucrée",
+      "07 Quad Sax - Perchman aux oreilles blindées",
+      "08 Quad Sax - Tangage",
+      "09 Quad Sax - Crème fouettée",
+      "10 Quad Sax - Les frigos 5h58"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/quad-sax_f3fd1ccc6082"
+    }
+  }
+}
