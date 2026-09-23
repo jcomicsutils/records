@@ -13,6 +13,7 @@
 | [Songs From the Hydrogen Jukebox](songs-from-the-hydrogen-jukebox_3494fe78de39/songs-from-the-hydrogen-jukebox_3494fe78de39.md) | 2012 | FLAC | 00:50:45 | [IA](https://archive.org/details/songs-from-the-hydrogen-jukebox_3494fe78de39) |
 | [Live \(Live\)](live-live_4841a1c86117/live-live_4841a1c86117.md) | 2013 | FLAC | 01:08:44 | [IA](https://archive.org/details/live-live_4841a1c86117) |
 | [New Forecasts From the Third Ear Almanac](new-forecasts-from-the-third-ear-almanac_94f521cd2208/new-forecasts-from-the-third-ear-almanac_94f521cd2208.md) | 2015 | FLAC | 00:46:57 | [IA](https://archive.org/details/new-forecasts-from-the-third-ear-almanac_94f521cd2208) |
+| [Exorcisms](exorcisms_f10cb0ebe38b/exorcisms_f10cb0ebe38b.md) | 2016 | FLAC | 01:09:22 | [IA](https://archive.org/details/exorcisms_f10cb0ebe38b) |
 | [Spirits: Live at Circolo Tuxedo, Italy, 1989](spirits-live-at-circolo-tuxedo-italy-1989_7d7dd6576937/spirits-live-at-circolo-tuxedo-italy-1989_7d7dd6576937.md) | 2017 | FLAC | 00:49:10 | [IA](https://archive.org/details/spirits-live-at-circolo-tuxedo-italy-1989_7d7dd6576937) |
 | [Brain Waves](brain-waves_427acc3af641/brain-waves_427acc3af641.md) | 2017 | FLAC | 00:59:06 | [IA](https://archive.org/details/brain-waves_427acc3af641) |
 | [The Dragon Wakes](the-dragon-wakes_5984fa2ee412/the-dragon-wakes_5984fa2ee412.md) | 2020 | FLAC | 00:28:31 | [IA](https://archive.org/details/the-dragon-wakes_5984fa2ee412) |

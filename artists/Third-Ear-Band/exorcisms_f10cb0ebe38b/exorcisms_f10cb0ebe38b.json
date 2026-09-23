@@ -1,0 +1,31 @@
+{
+  "id": "exorcisms_f10cb0ebe38b",
+  "fingerprint": "f10cb0ebe38b242d9e6111cddac39837b07329ace1d57a944460f18c31c0d214",
+  "archived_at": "2026-09-23T18:41:20Z",
+  "metadata": {
+    "title": "Exorcisms",
+    "artist": "Third Ear Band",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 4162,
+    "duration_human": "01:09:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Third Ear Band - Druid Three",
+      "02 Third Ear Band - Egyptian Book of the Dead",
+      "03 Third Ear Band - Live Ghosts",
+      "04 Third Ear Band - Reading the Runes",
+      "05 Third Ear Band - Exorcism",
+      "06 Third Ear Band - Behind the Pyramids",
+      "07 Third Ear Band - New Age Raga",
+      "08 Third Ear Band - Witches Dance"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/exorcisms_f10cb0ebe38b"
+    }
+  }
+}
