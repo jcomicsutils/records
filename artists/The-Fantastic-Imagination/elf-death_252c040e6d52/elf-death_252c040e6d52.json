@@ -1,0 +1,34 @@
+{
+  "id": "elf-death_252c040e6d52",
+  "fingerprint": "252c040e6d52e3e44999f50d00260713890e921105275cb5c6d9aab7c1c82b0f",
+  "archived_at": "2026-09-23T02:21:26Z",
+  "metadata": {
+    "title": "Elf Death",
+    "artist": "The Fantastic Imagination",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 3298,
+    "duration_human": "00:54:58",
+    "sampling_rate": "96kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 The Fantastic Imagination - In Ollion",
+      "02 The Fantastic Imagination - I'll Take You With Me",
+      "03 The Fantastic Imagination - Leave It Behind",
+      "04 The Fantastic Imagination - The Path of Broken Stars",
+      "05 The Fantastic Imagination - Voice of the Star",
+      "06 The Fantastic Imagination - The Star Is Izanne",
+      "07 The Fantastic Imagination - Flight",
+      "08 The Fantastic Imagination - Live",
+      "09 The Fantastic Imagination - I Don't Want to Die, I Dont Want to Live",
+      "10 The Fantastic Imagination - Choose",
+      "11 The Fantastic Imagination - Death"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/elf-death_252c040e6d52"
+    }
+  }
+}

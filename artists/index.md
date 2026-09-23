@@ -248,6 +248,7 @@
 - [The Alvaret Ensemble](The-Alvaret-Ensemble/The-Alvaret-Ensemble.md)
 - [The Brave Little Abacus](The-Brave-Little-Abacus/The-Brave-Little-Abacus.md)
 - [The Dwarfs of East Agouza](The-Dwarfs-of-East-Agouza/The-Dwarfs-of-East-Agouza.md)
+- [The Fantastic Imagination](The-Fantastic-Imagination/The-Fantastic-Imagination.md)
 - [The Jim Yoshii Pile-Up / Xiu Xiu](The-Jim-Yoshii-Pile-Up-Xiu-Xiu/The-Jim-Yoshii-Pile-Up-Xiu-Xiu.md)
 - [The Lost Jockey](The-Lost-Jockey/The-Lost-Jockey.md)
 - [The Mystic Revelation of Teppo Repo](The-Mystic-Revelation-of-Teppo-Repo/The-Mystic-Revelation-of-Teppo-Repo.md)
