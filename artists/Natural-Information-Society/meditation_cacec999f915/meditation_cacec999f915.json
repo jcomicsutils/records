@@ -1,0 +1,30 @@
+{
+  "id": "meditation_cacec999f915",
+  "fingerprint": "cacec999f91560b7a860d7a695e0edf2abb15f44b35458983c3ddb2cee88be8f",
+  "archived_at": "2026-09-23T00:08:46Z",
+  "metadata": {
+    "title": "Meditation",
+    "artist": "Natural Information Society",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 4324,
+    "duration_human": "01:12:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Natural Information Society - In Memory's Prism",
+      "02 Natural Information Society - St Cloud",
+      "03 Natural Information Society - Lore",
+      "04 Natural Information Society - Stigmergy",
+      "05 Natural Information Society - Moon Hunger",
+      "06 Natural Information Society - The Ladder",
+      "07 Natural Information Society - In Memory's Prism (Meditation Edit)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/meditation_cacec999f915"
+    }
+  }
+}
