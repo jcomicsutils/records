@@ -182,6 +182,7 @@
 - [Modest Mouse](Modest-Mouse/Modest-Mouse.md)
 - [Muybridge](Muybridge/Muybridge.md)
 - [Mão Morta](Mão-Morta/Mão-Morta.md)
+- [Nadavati](Nadavati/Nadavati.md)
 - [Nanashade](Nanashade/Nanashade.md)
 - [Nathan Salsburg](Nathan-Salsburg/Nathan-Salsburg.md)
 - [Natural Information Society](Natural-Information-Society/Natural-Information-Society.md)
