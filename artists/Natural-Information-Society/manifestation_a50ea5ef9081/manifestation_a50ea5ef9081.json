@@ -1,0 +1,28 @@
+{
+  "id": "manifestation_a50ea5ef9081",
+  "fingerprint": "a50ea5ef9081578e3b702ee0545294991c460d84a36a4322caaedc64363a5282",
+  "archived_at": "2026-09-22T23:54:02Z",
+  "metadata": {
+    "title": "Manifestation",
+    "artist": "Natural Information Society",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 4875,
+    "duration_human": "01:21:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Natural Information Society - By Way of Odesa",
+      "02 Natural Information Society - The Ba",
+      "03 Natural Information Society - Finite",
+      "04 Natural Information Society - Murmuration",
+      "05 Natural Information Society - By Way of Odesa (Manifestation Edit)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/manifestation_a50ea5ef9081"
+    }
+  }
+}
