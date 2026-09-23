@@ -1,0 +1,25 @@
+{
+  "id": "bardo_6d5843bf62bb",
+  "fingerprint": "6d5843bf62bb5c87e559ddcd9c526b4472e927e13ed97200bb2c52778eb4b1c2",
+  "archived_at": "2026-09-23T18:58:40Z",
+  "metadata": {
+    "title": "Bardo",
+    "artist": "Peter Michael Hamel",
+    "year": "1981",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2901,
+    "duration_human": "00:48:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Peter Michael Hamel - Bardo",
+      "02 Peter Michael Hamel - Dorian Dervishes"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bardo_6d5843bf62bb"
+    }
+  }
+}

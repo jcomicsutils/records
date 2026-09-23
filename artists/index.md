@@ -204,6 +204,7 @@
 - [Orquesta de las Nubes](Orquesta-de-las-Nubes/Orquesta-de-las-Nubes.md)
 - [Peace & Freedom](Peace-&-Freedom/Peace-&-Freedom.md)
 - [Pentemple](Pentemple/Pentemple.md)
+- [Peter Michael Hamel](Peter-Michael-Hamel/Peter-Michael-Hamel.md)
 - [Piiptsjilling](Piiptsjilling/Piiptsjilling.md)
 - [Pink Siifu](Pink-Siifu/Pink-Siifu.md)
 - [Psycodrama](Psycodrama/Psycodrama.md)
