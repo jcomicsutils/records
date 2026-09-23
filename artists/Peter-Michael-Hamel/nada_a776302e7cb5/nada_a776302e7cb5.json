@@ -1,0 +1,27 @@
+{
+  "id": "nada_a776302e7cb5",
+  "fingerprint": "a776302e7cb5a0d826a3ffbe6c24641b04bf49eb7958c55b19bf3f00a8702acb",
+  "archived_at": "2026-09-23T19:37:19Z",
+  "metadata": {
+    "title": "Nada",
+    "artist": "Peter Michael Hamel",
+    "year": "1994",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2434,
+    "duration_human": "00:40:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Peter Michael Hamel - Nada",
+      "02 Peter Michael Hamel - Silence",
+      "03 Peter Michael Hamel - Slow Motion",
+      "04 Peter Michael Hamel - Beyond the Wall of Sleep"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nada_a776302e7cb5"
+    }
+  }
+}
