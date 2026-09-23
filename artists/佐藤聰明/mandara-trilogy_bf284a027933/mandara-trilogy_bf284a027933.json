@@ -1,0 +1,26 @@
+{
+  "id": "mandara-trilogy_bf284a027933",
+  "fingerprint": "bf284a027933cef1e1c16381ce9bd4750db4b8c9a3a57498ead7daf75361e79a",
+  "archived_at": "2026-09-23T18:24:34Z",
+  "metadata": {
+    "title": "Mandara Trilogy",
+    "artist": "佐藤聰明",
+    "year": "1998",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3923,
+    "duration_human": "01:05:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Somei Satoh - Mandara",
+      "02 Somei Satoh - Mantra",
+      "03 Somei Satoh - Tantra"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mandara-trilogy_bf284a027933"
+    }
+  }
+}
