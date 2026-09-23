@@ -1,0 +1,25 @@
+{
+  "id": "moon-phases-volume-1_cf2589d8c48e",
+  "fingerprint": "cf2589d8c48e8618e40302932bb008244463505f62cae7d13de81915274f82fd",
+  "archived_at": "2026-09-23T03:06:18Z",
+  "metadata": {
+    "title": "Moon Phases Volume 1",
+    "artist": "The Fantastic Imagination",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1972,
+    "duration_human": "00:32:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Fantastic Imagination - Wax",
+      "02 The Fantastic Imagination - Wane"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/moon-phases-volume-1_cf2589d8c48e"
+    }
+  }
+}
