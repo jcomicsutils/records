@@ -1,0 +1,25 @@
+{
+  "id": "emerald-tablet-echoes_6f06d7447efa",
+  "fingerprint": "6f06d7447efa9f720e02d52a2591ba5663b04a7dfeebe1849a05c2cd79f1a76f",
+  "archived_at": "2026-09-23T18:06:53Z",
+  "metadata": {
+    "title": "Emerald Tablet / Echoes",
+    "artist": "佐藤聰明",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3440,
+    "duration_human": "00:57:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Somei Satoh - Emerald Tablet",
+      "02 Somei Satoh - Echoes"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/emerald-tablet-echoes_6f06d7447efa"
+    }
+  }
+}
