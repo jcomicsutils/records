@@ -1,0 +1,28 @@
+{
+  "id": "live-in-hamburg-ndr-funkhaus-studio-10_3a113ef9e86b",
+  "fingerprint": "3a113ef9e86b3781e0b71f4794b35a824e71fcda15b925cfe406131147ec4422",
+  "archived_at": "2026-09-23T04:01:56Z",
+  "metadata": {
+    "title": "Live in Hamburg (NDR Funkhaus Studio 10)",
+    "artist": "Feminist Improvising Group",
+    "year": "1980",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2777,
+    "duration_human": "00:46:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Feminist Improvising Group - Radio Introduction",
+      "02 Feminist Improvising Group - The Seventh Kiss",
+      "03 Feminist Improvising Group - Any Trouble",
+      "04 Feminist Improvising Group - New Sonata",
+      "05 Feminist Improvising Group - Here We Are Again"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-in-hamburg-ndr-funkhaus-studio-10_3a113ef9e86b"
+    }
+  }
+}
