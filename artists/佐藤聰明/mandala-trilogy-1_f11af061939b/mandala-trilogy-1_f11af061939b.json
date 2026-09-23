@@ -1,0 +1,27 @@
+{
+  "id": "mandala-trilogy-1_f11af061939b",
+  "fingerprint": "f11af061939b06729c94a68d37af6ee67b4da928b584921d5e554c87957e27c8",
+  "archived_at": "2026-09-23T18:17:33Z",
+  "metadata": {
+    "title": "Mandala Trilogy +1",
+    "artist": "佐藤聰明",
+    "year": "1998",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 5109,
+    "duration_human": "01:25:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Somei Satoh - Mandala",
+      "02 Somei Satoh - Mantra",
+      "03 Somei Satoh - Tantra",
+      "04 Somei Satoh - Mai"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mandala-trilogy-1_f11af061939b"
+    }
+  }
+}
