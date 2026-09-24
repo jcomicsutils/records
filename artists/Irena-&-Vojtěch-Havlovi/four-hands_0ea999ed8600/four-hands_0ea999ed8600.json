@@ -1,0 +1,42 @@
+{
+  "id": "four-hands_0ea999ed8600",
+  "fingerprint": "0ea999ed86009ec173e1412dc7698c3d2a5c33d58020cea5db70ef0b5e2bec67",
+  "archived_at": "2026-09-24T20:55:25Z",
+  "metadata": {
+    "title": "Four Hands",
+    "artist": "Irena & Vojtěch Havlovi",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 19,
+    "duration_seconds": 4604,
+    "duration_human": "01:16:44",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Irena & Vojtěch Havlovi - Four Hands Piano 1",
+      "02 Irena & Vojtěch Havlovi - Four Hands Piano 2",
+      "03 Irena & Vojtěch Havlovi - Four Hands Piano 3",
+      "04 Irena & Vojtěch Havlovi - Four Hands Piano 4",
+      "05 Irena & Vojtěch Havlovi - Four Hands Piano 5",
+      "06 Irena & Vojtěch Havlovi - Four Hands Piano 6",
+      "07 Irena & Vojtěch Havlovi - Four Hands Piano 7",
+      "08 Irena & Vojtěch Havlovi - Four Hands Piano 8",
+      "09 Irena & Vojtěch Havlovi - Four Hands Piano 9",
+      "10 Irena & Vojtěch Havlovi - Four Hands Piano 10",
+      "11 Irena & Vojtěch Havlovi - Four Hands Piano 11",
+      "12 Irena & Vojtěch Havlovi - Four Hands Organ 12",
+      "13 Irena & Vojtěch Havlovi - Four Hands Organ 13",
+      "14 Irena & Vojtěch Havlovi - Four Hands Organ 14",
+      "15 Irena & Vojtěch Havlovi - Four Hands Organ 15",
+      "16 Irena & Vojtěch Havlovi - Four Hands Piano & Organ 16",
+      "17 Irena & Vojtěch Havlovi - Four Hands Piano & Organ 17",
+      "18 Irena & Vojtěch Havlovi - Four Hands Piano & Organ 18",
+      "19 Irena & Vojtěch Havlovi - Four Hands Piano & Organ 19"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/four-hands_0ea999ed8600"
+    }
+  }
+}
