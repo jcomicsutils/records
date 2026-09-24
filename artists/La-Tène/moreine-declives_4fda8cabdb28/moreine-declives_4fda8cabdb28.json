@@ -1,0 +1,25 @@
+{
+  "id": "moreine-declives_4fda8cabdb28",
+  "fingerprint": "4fda8cabdb2820de7f1a0c7574a719695029c2b61d9e386866924399ec687158",
+  "archived_at": "2026-09-24T23:12:01Z",
+  "metadata": {
+    "title": "Moreïne / Déclives",
+    "artist": "La Tène",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1965,
+    "duration_human": "00:32:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 La Tène - Moreïne",
+      "02 La Tène - Les déclives"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/moreine-declives_4fda8cabdb28"
+    }
+  }
+}
