@@ -1,0 +1,26 @@
+{
+  "id": "music-of-silence_7279a1d10010",
+  "fingerprint": "7279a1d10010356a5061ec4c89fa99ec11040c443f4ea565aa0bffcd50060381",
+  "archived_at": "2026-09-24T21:48:58Z",
+  "metadata": {
+    "title": "Music of Silence",
+    "artist": "Irena & Vojtěch Havlovi",
+    "year": "1992",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4271,
+    "duration_human": "01:11:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Irena & Vojtěch Havlovi - Down With Silent Night",
+      "02 Irena & Vojtěch Havlovi - Velvet Wings of Lull",
+      "03 Irena & Vojtěch Havlovi - Frosting Beat of Honey"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/music-of-silence_7279a1d10010"
+    }
+  }
+}

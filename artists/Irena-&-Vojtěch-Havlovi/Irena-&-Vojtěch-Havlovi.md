@@ -4,6 +4,7 @@
 |-------|------|-------|----------|-------|
 | [Cesty 15](cesty-15_b051af1e30bb/cesty-15_b051af1e30bb.md) | 1989 | MP3 | 00:13:53 | [IA](https://archive.org/details/cesty-15_b051af1e30bb) |
 | [Little Blue Nothing](little-blue-nothing_77a81608a3a1/little-blue-nothing_77a81608a3a1.md) | 1991 | FLAC | 00:56:27 | [IA](https://archive.org/details/little-blue-nothing_77a81608a3a1) |
+| [Music of Silence](music-of-silence_7279a1d10010/music-of-silence_7279a1d10010.md) | 1992 | FLAC | 01:11:11 | [IA](https://archive.org/details/music-of-silence_7279a1d10010) |
 | [Hata H.](hata-h_ea913b540ebc/hata-h_ea913b540ebc.md) | 1992 | FLAC | 00:51:03 | [IA](https://archive.org/details/hata-h_ea913b540ebc) |
 | [Agni](agni_2f28541474e6/agni_2f28541474e6.md) | 1995 | FLAC | 00:53:44 | [IA](https://archive.org/details/agni_2f28541474e6) |
 | [Lines of Shadow](lines-of-shadow_3a54277b518c/lines-of-shadow_3a54277b518c.md) | 1996 | FLAC | 00:30:25 | [IA](https://archive.org/details/lines-of-shadow_3a54277b518c) |
