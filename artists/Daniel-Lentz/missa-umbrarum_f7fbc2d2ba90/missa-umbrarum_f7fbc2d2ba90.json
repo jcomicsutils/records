@@ -1,0 +1,27 @@
+{
+  "id": "missa-umbrarum_f7fbc2d2ba90",
+  "fingerprint": "f7fbc2d2ba90405ddce8aa061bf41581e328359ea731b25d6a4e69141107d8ed",
+  "archived_at": "2026-09-24T18:45:04Z",
+  "metadata": {
+    "title": "Missa Umbrarum",
+    "artist": "Daniel Lentz",
+    "year": "1985",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3244,
+    "duration_human": "00:54:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Daniel Lentz - O-Ke-Wa",
+      "02 Daniel Lentz - Missa Umbrarum",
+      "03 Daniel Lentz - Postludium",
+      "04 Daniel Lentz - Lascaux"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/missa-umbrarum_f7fbc2d2ba90"
+    }
+  }
+}
