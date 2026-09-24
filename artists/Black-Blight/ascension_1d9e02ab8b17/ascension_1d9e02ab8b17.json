@@ -1,0 +1,32 @@
+{
+  "id": "ascension_1d9e02ab8b17",
+  "fingerprint": "1d9e02ab8b17c36676af7f48ea3a8ef080b19ee4457751cb43ee83fc3fd2761f",
+  "archived_at": "2026-09-24T03:32:19Z",
+  "metadata": {
+    "title": "Ascension",
+    "artist": "Black Blight",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3506,
+    "duration_human": "00:58:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Black Blight - Ashbeast",
+      "02 Black Blight - We Gazed Upon the Beaming Face of God's Greed",
+      "03 Black Blight - Our Self-Imposed Demise",
+      "04 Black Blight - Failure to Thrive",
+      "05 Black Blight - Two Thousand Irrelevant Enlightenments",
+      "06 Black Blight - Collapse of Consciousness",
+      "07 Black Blight - Egodeath",
+      "08 Black Blight - The Crushing Weight of Acceptance",
+      "09 Black Blight - Silent Glory"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ascension_1d9e02ab8b17"
+    }
+  }
+}
