@@ -1,0 +1,35 @@
+{
+  "id": "towering-black-spires_3b91a7b6869f",
+  "fingerprint": "3b91a7b6869f0a1953e432467ae5cc91f6c08e2c29d218fa8fa5ed553e1a981c",
+  "archived_at": "2026-09-24T05:37:33Z",
+  "metadata": {
+    "title": "Towering Black Spires",
+    "artist": "Black Blight",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2977,
+    "duration_human": "00:49:37",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Black Blight - Artificer",
+      "02 Black Blight - Diabolations",
+      "03 Black Blight - Storm Archon",
+      "04 Black Blight - Ululations",
+      "05 Black Blight - Luciferous",
+      "06 Black Blight - Oro",
+      "07 Black Blight - Curious Curvature",
+      "08 Black Blight - Apotheosis",
+      "09 Black Blight - Murmurings",
+      "10 Black Blight - Isolated Again",
+      "11 Black Blight - Contrition",
+      "12 Black Blight - Yaldabaoth's Fleshreaver"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/towering-black-spires_3b91a7b6869f"
+    }
+  }
+}
