@@ -12,3 +12,4 @@
 | [Towering Black Spires](towering-black-spires_3b91a7b6869f/towering-black-spires_3b91a7b6869f.md) | 2017 | FLAC | 00:49:37 | [IA](https://archive.org/details/towering-black-spires_3b91a7b6869f) |
 | [Gundahar](gundahar_4fa7b81d3645/gundahar_4fa7b81d3645.md) | 2019 | FLAC | 02:56:51 | [IA](https://archive.org/details/gundahar_4fa7b81d3645) |
 | [Devouring](devouring_c3bd195c6b1b/devouring_c3bd195c6b1b.md) | 2021 | FLAC | 04:53:22 | [IA](https://archive.org/details/devouring_c3bd195c6b1b) |
+| [Voids or Pronoia](voids-or-pronoia_74a4a2d4fd91/voids-or-pronoia_74a4a2d4fd91.md) | 2021 | FLAC | 01:38:35 | [IA](https://archive.org/details/voids-or-pronoia_74a4a2d4fd91) |

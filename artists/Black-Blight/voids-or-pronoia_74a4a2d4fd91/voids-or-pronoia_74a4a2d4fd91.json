@@ -1,0 +1,31 @@
+{
+  "id": "voids-or-pronoia_74a4a2d4fd91",
+  "fingerprint": "74a4a2d4fd91fbe6dce77c20deb522e4ce93d1be296cf921915111cc25a59fe5",
+  "archived_at": "2026-09-24T05:49:27Z",
+  "metadata": {
+    "title": "Voids or Pronoia",
+    "artist": "Black Blight",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 5915,
+    "duration_human": "01:38:35",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Black Blight - The Gates of Aum",
+      "02 Black Blight - A Light Step on Stones Crumbling",
+      "03 Black Blight - Dark Passages",
+      "04 Black Blight - Solemnities",
+      "05 Black Blight - Muttering Voids",
+      "06 Black Blight - A Figure Without Form",
+      "07 Black Blight - Wisdom's Garland",
+      "08 Black Blight - Further Into Buer's Abyss"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/voids-or-pronoia_74a4a2d4fd91"
+    }
+  }
+}
