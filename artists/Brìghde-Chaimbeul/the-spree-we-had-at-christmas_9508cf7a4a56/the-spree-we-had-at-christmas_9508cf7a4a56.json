@@ -1,0 +1,24 @@
+{
+  "id": "the-spree-we-had-at-christmas_9508cf7a4a56",
+  "fingerprint": "9508cf7a4a569fbdce9976fed4e31a487b25938784a4d8418dd8091e50e04c76",
+  "archived_at": "2026-09-24T17:51:28Z",
+  "metadata": {
+    "title": "The Spree We Had at Christmas",
+    "artist": "Brìghde Chaimbeul",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 243,
+    "duration_human": "00:04:03",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Brìghde Chaimbeul - The Spree We Had at Christmas"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-spree-we-had-at-christmas_9508cf7a4a56"
+    }
+  }
+}
