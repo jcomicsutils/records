@@ -1,0 +1,24 @@
+{
+  "id": "cycli-infini_e135592c045a",
+  "fingerprint": "e135592c045aca85bd15199e79d0fb8b95c370dbd8b2cc01864293a1a93716e2",
+  "archived_at": "2026-09-24T19:41:28Z",
+  "metadata": {
+    "title": "Cycli infini",
+    "artist": "Felbm",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2285,
+    "duration_human": "00:38:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Felbm - Cycli infini"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cycli-infini_e135592c045a"
+    }
+  }
+}
