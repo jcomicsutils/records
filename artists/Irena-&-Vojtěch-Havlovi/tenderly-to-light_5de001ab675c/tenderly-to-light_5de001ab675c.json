@@ -1,0 +1,49 @@
+{
+  "id": "tenderly-to-light_5de001ab675c",
+  "fingerprint": "5de001ab675c1ba4a6b438a60c3e1e24264642fc5c256615744541a4e734bad0",
+  "archived_at": "2026-09-24T22:15:34Z",
+  "metadata": {
+    "title": "Tenderly to Light",
+    "artist": "Irena & Vojtěch Havlovi",
+    "year": "1994",
+    "codec": "FLAC",
+    "num_tracks": 26,
+    "duration_seconds": 3317,
+    "duration_human": "00:55:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Irena & Vojtěch Havlovi - V Úsvitu Rosy",
+      "02 Irena & Vojtěch Havlovi - Neboj Se Mi",
+      "03 Irena & Vojtěch Havlovi - Do Ticha",
+      "04 Irena & Vojtěch Havlovi - A Pouhým Dotykem",
+      "05 Irena & Vojtěch Havlovi - Motýl",
+      "06 Irena & Vojtěch Havlovi - Anděl",
+      "07 Irena & Vojtěch Havlovi - Vlci",
+      "08 Irena & Vojtěch Havlovi - Meloun",
+      "09 Irena & Vojtěch Havlovi - Něžně ke Světlu",
+      "10 Irena & Vojtěch Havlovi - Tma Uklouzla",
+      "11 Irena & Vojtěch Havlovi - Neslyšně Mlha",
+      "12 Irena & Vojtěch Havlovi - Medvěd Míša",
+      "13 Irena & Vojtěch Havlovi - Kroky",
+      "14 Irena & Vojtěch Havlovi - Prší",
+      "15 Irena & Vojtěch Havlovi - Višňové Panenky",
+      "16 Irena & Vojtěch Havlovi - Včela v Tiše",
+      "17 Irena & Vojtěch Havlovi - Něco v Nás",
+      "18 Irena & Vojtěch Havlovi - Slůně",
+      "19 Irena & Vojtěch Havlovi - Jako Dým",
+      "20 Irena & Vojtěch Havlovi - Liškavlesekvětina",
+      "21 Irena & Vojtěch Havlovi - Pyšniška o Višni",
+      "22 Irena & Vojtěch Havlovi - Po Větru Lehce",
+      "23 Irena & Vojtěch Havlovi - Ukolébavka",
+      "24 Irena & Vojtěch Havlovi - To Třpytivé Tě",
+      "25 Irena & Vojtěch Havlovi - Horká Koupel",
+      "26 Irena & Vojtěch Havlovi - Tuším že Stín"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tenderly-to-light_5de001ab675c"
+    }
+  }
+}

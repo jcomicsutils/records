@@ -7,6 +7,7 @@
 | [Mysterious Gamelanland](mysterious-gamelanland_a41c3ae39b4c/mysterious-gamelanland_a41c3ae39b4c.md) | 1992 | FLAC | 00:55:38 | [IA](https://archive.org/details/mysterious-gamelanland_a41c3ae39b4c) |
 | [Music of Silence](music-of-silence_7279a1d10010/music-of-silence_7279a1d10010.md) | 1992 | FLAC | 01:11:11 | [IA](https://archive.org/details/music-of-silence_7279a1d10010) |
 | [Hata H.](hata-h_ea913b540ebc/hata-h_ea913b540ebc.md) | 1992 | FLAC | 00:51:03 | [IA](https://archive.org/details/hata-h_ea913b540ebc) |
+| [Tenderly to Light](tenderly-to-light_5de001ab675c/tenderly-to-light_5de001ab675c.md) | 1994 | FLAC | 00:55:17 | [IA](https://archive.org/details/tenderly-to-light_5de001ab675c) |
 | [Agni](agni_2f28541474e6/agni_2f28541474e6.md) | 1995 | FLAC | 00:53:44 | [IA](https://archive.org/details/agni_2f28541474e6) |
 | [Lines of Shadow](lines-of-shadow_3a54277b518c/lines-of-shadow_3a54277b518c.md) | 1996 | FLAC | 00:30:25 | [IA](https://archive.org/details/lines-of-shadow_3a54277b518c) |
 | [Mezi Vlnami](mezi-vlnami_128d58f6718a/mezi-vlnami_128d58f6718a.md) | 1996 | FLAC | 00:52:21 | [IA](https://archive.org/details/mezi-vlnami_128d58f6718a) |
