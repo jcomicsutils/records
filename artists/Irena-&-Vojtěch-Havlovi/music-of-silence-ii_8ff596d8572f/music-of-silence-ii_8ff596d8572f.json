@@ -1,0 +1,25 @@
+{
+  "id": "music-of-silence-ii_8ff596d8572f",
+  "fingerprint": "8ff596d8572fcebba6123d5cdf3df5aa181a73529666b616454e69f82c9c6e13",
+  "archived_at": "2026-09-24T21:53:57Z",
+  "metadata": {
+    "title": "Music of Silence II",
+    "artist": "Irena & Vojtěch Havlovi",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3456,
+    "duration_human": "00:57:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Irena & Vojtěch Havlovi With Jan Kotulan - Down With Silent Night",
+      "02 Irena & Vojtěch Havlovi With Jan Kotulan - Velvet Wings of Lull"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/music-of-silence-ii_8ff596d8572f"
+    }
+  }
+}
