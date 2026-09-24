@@ -1,0 +1,31 @@
+{
+  "id": "tape-2_0586dd6460b3",
+  "fingerprint": "0586dd6460b3ff51df29a5a7ac08d428a681a790d73e07e9e1ad4de666968278",
+  "archived_at": "2026-09-24T20:05:50Z",
+  "metadata": {
+    "title": "Tape 2",
+    "artist": "Felbm",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1266,
+    "duration_human": "00:21:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Felbm - Tandem",
+      "02 Felbm - Anderstein",
+      "03 Felbm - Birkach",
+      "04 Felbm - Herfstzon",
+      "05 Felbm - Maktene",
+      "06 Felbm - When It Rains",
+      "07 Felbm - Samensmelten",
+      "08 Felbm - Takumi"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tape-2_0586dd6460b3"
+    }
+  }
+}
