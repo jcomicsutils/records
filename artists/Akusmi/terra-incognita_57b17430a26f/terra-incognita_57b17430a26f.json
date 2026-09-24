@@ -1,0 +1,30 @@
+{
+  "id": "terra-incognita_57b17430a26f",
+  "fingerprint": "57b17430a26f50c8645806b90c0d6ec59673e5ab5d41d41d4a554eafe0d8f8d1",
+  "archived_at": "2026-09-24T03:22:38Z",
+  "metadata": {
+    "title": "Terra Incognita",
+    "artist": "Akusmi",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2866,
+    "duration_human": "00:47:46",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Akusmi - A Waking Dream",
+      "02 Akusmi - Anima",
+      "03 Akusmi - Club Subterranea",
+      "04 Akusmi - Pleine Lune",
+      "05 Akusmi - Drongo's Flute",
+      "06 Akusmi - Rain Dance",
+      "07 Akusmi - Dawning Dusk"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/terra-incognita_57b17430a26f"
+    }
+  }
+}
