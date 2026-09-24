@@ -10,5 +10,6 @@
 | [Los tigres de marte](los-tigres-de-marte_7854a1a1e3c4/los-tigres-de-marte_7854a1a1e3c4.md) | 2004 | FLAC | 00:15:02 | [IA](https://archive.org/details/los-tigres-de-marte_7854a1a1e3c4) |
 | [On the Leopard Altar](on-the-leopard-altar_6dd94643d19b/on-the-leopard-altar_6dd94643d19b.md) | 2006 | FLAC | 00:36:16 | [IA](https://archive.org/details/on-the-leopard-altar_6dd94643d19b) |
 | [In the Sea of Ionia](in-the-sea-of-ionia_dac78aa2bc02/in-the-sea-of-ionia_dac78aa2bc02.md) | 2015 | MP3 | 01:05:14 | [IA](https://archive.org/details/in-the-sea-of-ionia_dac78aa2bc02) |
+| [River of 1,000 Streams](river-of-1000-streams_509a3f3da76c/river-of-1000-streams_509a3f3da76c.md) | 2017 | FLAC | 00:28:23 | [IA](https://archive.org/details/river-of-1000-streams_509a3f3da76c) |
 | [FRKWYS Vol. 16: In a Word](frkwys-vol-16-in-a-word_628216a93a22/frkwys-vol-16-in-a-word_628216a93a22.md) | 2020 | FLAC | 00:43:00 | [IA](https://archive.org/details/frkwys-vol-16-in-a-word_628216a93a22) |
 | [Lips](lips_8f72a255d8c1/lips_8f72a255d8c1.md) | 2024 | FLAC | 01:30:52 | [IA](https://archive.org/details/lips_8f72a255d8c1) |
