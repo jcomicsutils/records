@@ -1,0 +1,28 @@
+{
+  "id": "lines_b53626b06c2a",
+  "fingerprint": "b53626b06c2a6d39c19d78e61496646a68b03f077a00e643e5869a2cb014575b",
+  "archived_at": "2026-09-24T03:13:23Z",
+  "metadata": {
+    "title": "Lines",
+    "artist": "Akusmi",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1344,
+    "duration_human": "00:22:24",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Akusmi - Secant",
+      "02 Akusmi - Oblique I",
+      "03 Akusmi - Oblique II",
+      "04 Akusmi - Parallel",
+      "05 Akusmi - Tangent"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lines_b53626b06c2a"
+    }
+  }
+}
