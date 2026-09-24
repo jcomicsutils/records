@@ -17,6 +17,7 @@
 - [Ak'chamel](Ak'chamel/Ak'chamel.md)
 - [Akira Rabelais](Akira-Rabelais/Akira-Rabelais.md)
 - [Akkajee](Akkajee/Akkajee.md)
+- [Akusmi](Akusmi/Akusmi.md)
 - [Alcest](Alcest/Alcest.md)
 - [Alexander Gregory Kent](Alexander-Gregory-Kent/Alexander-Gregory-Kent.md)
 - [Alexander Panos](Alexander-Panos/Alexander-Panos.md)

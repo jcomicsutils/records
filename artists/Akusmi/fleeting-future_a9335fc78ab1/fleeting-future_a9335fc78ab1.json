@@ -1,0 +1,31 @@
+{
+  "id": "fleeting-future_a9335fc78ab1",
+  "fingerprint": "a9335fc78ab1e8fbf910eb224049b55fe4ba9c6887fe935b96264b317c3eef9c",
+  "archived_at": "2026-09-24T03:04:18Z",
+  "metadata": {
+    "title": "Fleeting Future",
+    "artist": "Akusmi",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2572,
+    "duration_human": "00:42:52",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Akusmi - Fleeting Future",
+      "02 Akusmi - Sarinbuana",
+      "03 Akusmi - Divine Moments of Truth",
+      "04 Akusmi - Neo Tokyo",
+      "05 Akusmi - Longing for Tomorrow",
+      "06 Akusmi - Cogito",
+      "07 Akusmi - Concrescence",
+      "08 Akusmi - Yurikamome"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fleeting-future_a9335fc78ab1"
+    }
+  }
+}
