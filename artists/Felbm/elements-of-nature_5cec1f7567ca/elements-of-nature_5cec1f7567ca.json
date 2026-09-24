@@ -1,0 +1,43 @@
+{
+  "id": "elements-of-nature_5cec1f7567ca",
+  "fingerprint": "5cec1f7567ca5068ab5d3a4b007de1c6fcfe79a0c4647157e96bca60a8eb90cd",
+  "archived_at": "2026-09-24T19:48:30Z",
+  "metadata": {
+    "title": "Elements of Nature",
+    "artist": "Felbm",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 20,
+    "duration_seconds": 2919,
+    "duration_human": "00:48:39",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Felbm - Soil",
+      "02 Felbm - Root",
+      "03 Felbm - Métaux",
+      "04 Felbm - Cycli",
+      "05 Felbm - Release",
+      "06 Felbm - Florissant",
+      "07 Felbm - Reflections",
+      "08 Felbm - Fall",
+      "09 Felbm - Tsuyu",
+      "10 Felbm - Timber",
+      "11 Felbm - Reveille",
+      "12 Felbm - Rise",
+      "13 Felbm - Fruit",
+      "14 Felbm - Sustain",
+      "15 Felbm - Attack",
+      "16 Felbm - Phi",
+      "17 Felbm - Wood/Wind",
+      "18 Felbm - Quartz",
+      "19 Felbm - Psi",
+      "20 Felbm - Decay"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/elements-of-nature_5cec1f7567ca"
+    }
+  }
+}
