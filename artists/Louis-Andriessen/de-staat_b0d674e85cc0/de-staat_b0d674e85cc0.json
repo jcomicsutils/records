@@ -1,0 +1,24 @@
+{
+  "id": "de-staat_b0d674e85cc0",
+  "fingerprint": "b0d674e85cc02e7210c5af174df69f6372b6bb4e628215802ec9390a3393821e",
+  "archived_at": "2026-09-24T23:32:00Z",
+  "metadata": {
+    "title": "De Staat",
+    "artist": "Louis Andriessen",
+    "year": "1990",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2124,
+    "duration_human": "00:35:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Louis Andriessen - De Staat"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/de-staat_b0d674e85cc0"
+    }
+  }
+}
