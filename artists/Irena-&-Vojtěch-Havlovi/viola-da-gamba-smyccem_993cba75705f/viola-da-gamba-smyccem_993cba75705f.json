@@ -1,0 +1,37 @@
+{
+  "id": "viola-da-gamba-smyccem_993cba75705f",
+  "fingerprint": "993cba75705fc025c7556dffd39e0bb48c13b2dddfdbb6854200d6556d3af12d",
+  "archived_at": "2026-09-24T22:31:21Z",
+  "metadata": {
+    "title": "Viola Da Gamba (Smyčcem)",
+    "artist": "Irena & Vojtěch Havlovi",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 3631,
+    "duration_human": "01:00:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Irena & Vojtěch Havlovi - Viola Da Gamba I.",
+      "02 Irena & Vojtěch Havlovi - Sound of Fire",
+      "03 Irena & Vojtěch Havlovi - Sound of Snow",
+      "04 Irena & Vojtěch Havlovi - Sound of Wind",
+      "05 Irena & Vojtěch Havlovi - Sound of Sea",
+      "06 Irena & Vojtěch Havlovi - Sound of the Sun",
+      "07 Irena & Vojtěch Havlovi - Sound of Light",
+      "08 Irena & Vojtěch Havlovi - Sound of Rain",
+      "09 Irena & Vojtěch Havlovi - Sound of Shadows",
+      "10 Irena & Vojtěch Havlovi - Sound of Silence",
+      "11 Irena & Vojtěch Havlovi - Sound of Fog",
+      "12 Irena & Vojtěch Havlovi - Sound of Echo",
+      "13 Irena & Vojtěch Havlovi - Viola Da Gamba II.",
+      "14 Irena & Vojtěch Havlovi - Sound With Tenderness"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/viola-da-gamba-smyccem_993cba75705f"
+    }
+  }
+}
