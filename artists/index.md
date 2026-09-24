@@ -59,6 +59,7 @@
 - [Body 13](Body-13/Body-13.md)
 - [Borbetomagus](Borbetomagus/Borbetomagus.md)
 - [Brueder Selke](Brueder-Selke/Brueder-Selke.md)
+- [Brìghde Chaimbeul](Brìghde-Chaimbeul/Brìghde-Chaimbeul.md)
 - [Burning Witch](Burning-Witch/Burning-Witch.md)
 - [CMKK](CMKK/CMKK.md)
 - [Cadu Tenório](Cadu-Tenório/Cadu-Tenório.md)

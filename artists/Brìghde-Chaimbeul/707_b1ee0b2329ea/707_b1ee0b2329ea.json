@@ -1,0 +1,24 @@
+{
+  "id": "707_b1ee0b2329ea",
+  "fingerprint": "b1ee0b2329ea81977910910b01f6bca62edcce824613c74505a9c42d0cbefcc6",
+  "archived_at": "2026-09-24T05:58:30Z",
+  "metadata": {
+    "title": "707",
+    "artist": "Brìghde Chaimbeul",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 124,
+    "duration_human": "00:02:04",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Brìghde Chaimbeul - 707"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/707_b1ee0b2329ea"
+    }
+  }
+}
