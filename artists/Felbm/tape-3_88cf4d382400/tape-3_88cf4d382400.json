@@ -1,0 +1,30 @@
+{
+  "id": "tape-3_88cf4d382400",
+  "fingerprint": "88cf4d38240059fa90b80ea84a61c40b9b5acdefe85a43b05b0f44ec73bec0b1",
+  "archived_at": "2026-09-24T20:09:17Z",
+  "metadata": {
+    "title": "Tape 3",
+    "artist": "Felbm",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1116,
+    "duration_human": "00:18:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Felbm - Filatelie",
+      "02 Felbm - Tartufai",
+      "03 Felbm - Tiquetonne",
+      "04 Felbm - Veluwe",
+      "05 Felbm - Herausweh",
+      "06 Felbm - Talmen",
+      "07 Felbm - Heisei"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tape-3_88cf4d382400"
+    }
+  }
+}
