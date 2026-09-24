@@ -1,0 +1,31 @@
+{
+  "id": "all-the-light-in-the-world_f1073328c236",
+  "fingerprint": "f1073328c2361cb00b86e59b88156d1395948ddfdb1cd1a7c093d02d1daadfc3",
+  "archived_at": "2026-09-24T16:57:50Z",
+  "metadata": {
+    "title": "All the Light in the World",
+    "artist": "Brìghde Chaimbeul",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2690,
+    "duration_human": "00:44:50",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Colin Stetson & Brìghde Chaimbeul - To Me, My Love",
+      "02 Colin Stetson & Brìghde Chaimbeul - Dirt Dance",
+      "03 Colin Stetson & Brìghde Chaimbeul - Seamount",
+      "04 Colin Stetson & Brìghde Chaimbeul - Even Though the Frost Is Harsh",
+      "05 Colin Stetson & Brìghde Chaimbeul - Snowfall",
+      "06 Colin Stetson & Brìghde Chaimbeul - New Moon of the Age",
+      "07 Colin Stetson & Brìghde Chaimbeul - All the Light in the World",
+      "08 Colin Stetson & Brìghde Chaimbeul - Time and Absence"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/all-the-light-in-the-world_f1073328c236"
+    }
+  }
+}
