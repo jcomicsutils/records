@@ -1,0 +1,33 @@
+{
+  "id": "melodies-in-the-sand_95d8893a2aa0",
+  "fingerprint": "95d8893a2aa061c05dbf78fa540c74c14d4e7a161e498dee4e7067ec1c77f8fd",
+  "archived_at": "2026-09-24T21:37:54Z",
+  "metadata": {
+    "title": "Melodies in the Sand",
+    "artist": "Irena & Vojtěch Havlovi",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2463,
+    "duration_human": "00:41:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Irena & Vojtěch Havlovi - Into Silence",
+      "02 Irena & Vojtěch Havlovi - That Which Glitters",
+      "03 Irena & Vojtěch Havlovi - Velvet Wings of Serenity",
+      "04 Irena & Vojtěch Havlovi - She Is Dissolving",
+      "05 Irena & Vojtěch Havlovi - Ruzenka",
+      "06 Irena & Vojtěch Havlovi - Vanity of Wings",
+      "07 Irena & Vojtěch Havlovi - Light Circles",
+      "08 Irena & Vojtěch Havlovi - White Andalusia",
+      "09 Irena & Vojtěch Havlovi - In the Garden",
+      "10 Irena & Vojtěch Havlovi - Tenderly Blue"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/melodies-in-the-sand_95d8893a2aa0"
+    }
+  }
+}

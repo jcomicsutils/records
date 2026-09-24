@@ -11,5 +11,6 @@
 | [Like a Butterfly on Your Palm](like-a-butterfly-on-your-palm_3558578af001/like-a-butterfly-on-your-palm_3558578af001.md) | 1999 | FLAC | 01:13:45 | [IA](https://archive.org/details/like-a-butterfly-on-your-palm_3558578af001) |
 | [Christmas Star](christmas-star_97921b65cf02/christmas-star_97921b65cf02.md) | 2001 | FLAC | 00:39:56 | [IA](https://archive.org/details/christmas-star_97921b65cf02) |
 | [Light Circles](light-circles_7df788963d4e/light-circles_7df788963d4e.md) | 2005 | FLAC | 01:09:52 | [IA](https://archive.org/details/light-circles_7df788963d4e) |
+| [Melodies in the Sand](melodies-in-the-sand_95d8893a2aa0/melodies-in-the-sand_95d8893a2aa0.md) | 2021 | FLAC | 00:41:03 | [IA](https://archive.org/details/melodies-in-the-sand_95d8893a2aa0) |
 | [Four Hands](four-hands_0ea999ed8600/four-hands_0ea999ed8600.md) | 2024 | FLAC | 01:16:44 | [IA](https://archive.org/details/four-hands_0ea999ed8600) |
 | [Excursin Animato](excursin-animato_8cb00f2773ec/excursin-animato_8cb00f2773ec.md) | 2025 | FLAC | 01:05:11 | [IA](https://archive.org/details/excursin-animato_8cb00f2773ec) |
