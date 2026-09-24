@@ -1,0 +1,32 @@
+{
+  "id": "frkwys-vol-16-in-a-word_628216a93a22",
+  "fingerprint": "628216a93a22aed4c771c5735b46648166f39289668e86f6154016092957671f",
+  "archived_at": "2026-09-24T18:04:20Z",
+  "metadata": {
+    "title": "FRKWYS Vol. 16: In a Word",
+    "artist": "Daniel Lentz",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2580,
+    "duration_human": "00:43:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Ian William Craig, Daniel Lentz - Tasteful Gloss",
+      "02 Ian William Craig, Daniel Lentz - Joyce",
+      "03 Ian William Craig, Daniel Lentz - Aphrodite",
+      "04 Ian William Craig, Daniel Lentz - Erebus",
+      "05 Ian William Craig, Daniel Lentz - Up Up Up Stay",
+      "06 Ian William Craig, Daniel Lentz - A Pair of Pears",
+      "07 Ian William Craig, Daniel Lentz - Fragrance",
+      "08 Ian William Craig, Daniel Lentz - Stöltzle",
+      "09 Ian William Craig, Daniel Lentz - Poire"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/frkwys-vol-16-in-a-word_628216a93a22"
+    }
+  }
+}
