@@ -1,0 +1,27 @@
+{
+  "id": "wild-turkeys_387d5bf7f62d",
+  "fingerprint": "387d5bf7f62d573d4f4775d0903d6693c32ed1ef83b9f9a417ee3a234f5a41bb",
+  "archived_at": "2026-09-24T19:28:56Z",
+  "metadata": {
+    "title": "Wild Turkeys",
+    "artist": "Daniel Lentz",
+    "year": "2000",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3524,
+    "duration_human": "00:58:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Daniel Lentz - Is It Love",
+      "02 Daniel Lentz - The Crack in the Bell",
+      "03 Daniel Lentz - Wild Turkeys",
+      "04 Daniel Lentz - Wolf Is Dead...."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wild-turkeys_387d5bf7f62d"
+    }
+  }
+}
