@@ -6,6 +6,7 @@
 | [Missa Umbrarum](missa-umbrarum_f7fbc2d2ba90/missa-umbrarum_f7fbc2d2ba90.md) | 1985 | FLAC | 00:54:04 | [IA](https://archive.org/details/missa-umbrarum_f7fbc2d2ba90) |
 | [The Crack in the Bell](the-crack-in-the-bell_9695c687740c/the-crack-in-the-bell_9695c687740c.md) | 1987 | FLAC | 00:52:57 | [IA](https://archive.org/details/the-crack-in-the-bell_9695c687740c) |
 | [Music for Three Pianos](music-for-three-pianos_fe9482054028/music-for-three-pianos_fe9482054028.md) | 1992 | FLAC | 00:21:49 | [IA](https://archive.org/details/music-for-three-pianos_fe9482054028) |
+| [Walk Into My Voice \(American Beat Poetry\)](walk-into-my-voice-american-beat-poetry_34b721db7451/walk-into-my-voice-american-beat-poetry_34b721db7451.md) | 1996 | FLAC | 00:50:45 | [IA](https://archive.org/details/walk-into-my-voice-american-beat-poetry_34b721db7451) |
 | [Apologetica](apologetica_10ba6f0d220e/apologetica_10ba6f0d220e.md) | 1997 | FLAC | 00:50:23 | [IA](https://archive.org/details/apologetica_10ba6f0d220e) |
 | [Voices](voices_dee2f1948ff2/voices_dee2f1948ff2.md) | 2000 | FLAC | 00:57:36 | [IA](https://archive.org/details/voices_dee2f1948ff2) |
 | [Huit Ou Neuf Pieces Dorees a Point](huit-ou-neuf-pieces-dorees-a-point_da9ad05fa7fe/huit-ou-neuf-pieces-dorees-a-point_da9ad05fa7fe.md) | 2000 | FLAC | 00:32:24 | [IA](https://archive.org/details/huit-ou-neuf-pieces-dorees-a-point_da9ad05fa7fe) |

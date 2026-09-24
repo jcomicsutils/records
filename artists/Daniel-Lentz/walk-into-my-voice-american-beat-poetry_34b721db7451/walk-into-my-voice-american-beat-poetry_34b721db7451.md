@@ -1,0 +1,56 @@
+# Daniel Lentz — Walk Into My Voice (American Beat Poetry) (1996)
+
+![Cover](https://archive.org/download/walk-into-my-voice-american-beat-poetry_34b721db7451/__ia_thumb.jpg)
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | 44.1kHz |
+| Bit Depth | 16-bit |
+| Tracks | 33 |
+| Duration | 00:50:45 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/walk-into-my-voice-american-beat-poetry_34b721db7451)
+
+## Tracklist
+
+```
+01 Harold Budd, Daniel Lentz, Jessica Karraker - Radiant Opal (Poem by Philip Lamantia)
+02 Harold Budd, Daniel Lentz, Jessica Karraker - Becoming Visible (Poem by Philip Lamantia)
+03 Harold Budd, Daniel Lentz, Jessica Karraker - Beyond the Veil of Crystal Rails (Poem by Philip Lamantia)
+04 Harold Budd, Daniel Lentz, Jessica Karraker - To Begin Then Not Now (Poem by Philip Lamantia)
+05 Harold Budd, Daniel Lentz, Jessica Karraker - Interlude 1 (Instrumental)
+06 Harold Budd, Daniel Lentz, Jessica Karraker - Harlow and the Kid (Poem by Michael McClure)
+07 Harold Budd, Daniel Lentz, Jessica Karraker - Kiss (Poem by Michael McClure)
+08 Harold Budd, Daniel Lentz, Jessica Karraker - Revelation (Poem by Michael McClure)
+09 Harold Budd, Daniel Lentz, Jessica Karraker - Note (Poem by Michael McClure)
+10 Harold Budd, Daniel Lentz, Jessica Karraker - Sparrow (Poem by Michael McClure)
+11 Harold Budd, Daniel Lentz, Jessica Karraker - Interlude 2 (Instrumental)
+12 Harold Budd, Daniel Lentz, Jessica Karraker - Do I Not Deal With Angels (Poem by Kenneth Patchen)
+13 Harold Budd, Daniel Lentz, Jessica Karraker - Be Music, Night (Poem by Kenneth Patchen)
+14 Harold Budd, Daniel Lentz, Jessica Karraker - The Sea Is Awash With Roses (Poem by Kenneth Patchen)
+15 Harold Budd, Daniel Lentz, Jessica Karraker - This Room Has Mystery Like a Trance (Poem by Kenneth Patchen)
+16 Harold Budd, Daniel Lentz, Jessica Karraker - Fall of the Evening Star (Poem by Kenneth Patchen)
+17 Harold Budd, Daniel Lentz, Jessica Karraker - Beautiful You Are (Poem by Kenneth Patchen)
+18 Harold Budd, Daniel Lentz, Jessica Karraker - Interlude 3 (Instrumental)
+19 Harold Budd, Daniel Lentz, Jessica Karraker - Neon Thunder Dreams (For Philip Lamantia)
+20 Harold Budd, Daniel Lentz, Jessica Karraker - Interlude 4 (Instrumental)
+21 Harold Budd, Daniel Lentz, Jessica Karraker - Cancion (Poem by Denise Levertov)
+22 Harold Budd, Daniel Lentz, Jessica Karraker - Talk in the Dark (Poem by Denise Levertov)
+23 Harold Budd, Daniel Lentz, Jessica Karraker - Postcard (Poem by Denise Levertov)
+24 Harold Budd, Daniel Lentz, Jessica Karraker - Interlude 5 (Instrumental)
+25 Harold Budd, Daniel Lentz, Jessica Karraker - Dove Sta Amore (Poem by Lawrence Ferlinghetti)
+26 Harold Budd, Daniel Lentz, Jessica Karraker - Peacocks Walked (Poem by Lawrence Ferlinghetti)
+27 Harold Budd, Daniel Lentz, Jessica Karraker - The Wounded Wilderness of Morris Graves (Poem by Lawrence Ferlinghetti)
+28 Harold Budd, Daniel Lentz, Jessica Karraker - Interlude 6 (Instrumental)
+29 Harold Budd, Daniel Lentz, Jessica Karraker - Long-Stemmed (Poem by Diane Wakoski)
+30 Harold Budd, Daniel Lentz, Jessica Karraker - Amaryllis (Poem by Diane Wakoski)
+31 Harold Budd, Daniel Lentz, Jessica Karraker - Interlude 7 (Instrumental)
+32 Harold Budd, Daniel Lentz, Jessica Karraker - To Begin Then Not Now (Reprise - Alternate Mix)
+33 Harold Budd, Daniel Lentz, Jessica Karraker - Postlude (Instrumental)
+```
+
+---
+*Archived: 2026-09-24*
