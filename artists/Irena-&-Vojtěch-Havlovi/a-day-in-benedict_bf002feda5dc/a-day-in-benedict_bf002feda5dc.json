@@ -1,0 +1,33 @@
+{
+  "id": "a-day-in-benedict_bf002feda5dc",
+  "fingerprint": "bf002feda5dc120f732eebcb1acbce039d7decb3703f1179e8527388a3077a00",
+  "archived_at": "2026-09-24T20:25:11Z",
+  "metadata": {
+    "title": "A Day in Benedict",
+    "artist": "Irena & Vojtěch Havlovi",
+    "year": "1997",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2728,
+    "duration_human": "00:45:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Irena & Vojtěch Havlovi - Group Improvisation 1",
+      "02 Irena & Vojtěch Havlovi - Group Improvisation 2",
+      "03 Irena & Vojtěch Havlovi - Group Improvisation 3",
+      "04 Irena & Vojtěch Havlovi - Group Improvisation 4",
+      "05 Irena & Vojtěch Havlovi - Group Improvisation 5",
+      "06 Irena & Vojtěch Havlovi - Group Improvisation 6",
+      "07 Irena & Vojtěch Havlovi - Group Improvisation 7",
+      "08 Irena & Vojtěch Havlovi - Group Improvisation 8",
+      "09 Irena & Vojtěch Havlovi - Group Improvisation 9",
+      "10 Irena & Vojtěch Havlovi - Group Improvisation 10"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-day-in-benedict_bf002feda5dc"
+    }
+  }
+}
