@@ -1,0 +1,24 @@
+{
+  "id": "death-of-the-black-wizard_661acd623d2c",
+  "fingerprint": "661acd623d2cd754666829a205aff5741a5ca5a66bbf5dff994e982f8a98bf54",
+  "archived_at": "2026-09-24T03:51:48Z",
+  "metadata": {
+    "title": "Death of the Black Wizard",
+    "artist": "Black Blight",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1235,
+    "duration_human": "00:20:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Black Blight - Buried Early"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/death-of-the-black-wizard_661acd623d2c"
+    }
+  }
+}
