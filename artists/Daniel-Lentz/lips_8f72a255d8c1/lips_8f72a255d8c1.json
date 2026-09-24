@@ -1,0 +1,34 @@
+{
+  "id": "lips_8f72a255d8c1",
+  "fingerprint": "8f72a255d8c19e1222159cd24e58453202b618539f54dbe1bbd538a0a9348fdc",
+  "archived_at": "2026-09-24T18:26:15Z",
+  "metadata": {
+    "title": "Lips",
+    "artist": "Daniel Lentz",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 5452,
+    "duration_human": "01:30:52",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Daniel Lentz - North American Eclipse",
+      "02 Daniel Lentz - Song(s) of the Sirens",
+      "03 Daniel Lentz - Fünke",
+      "04 Daniel Lentz - Talk Radio",
+      "05 Daniel Lentz - Uitoto",
+      "06 Daniel Lentz - Requiem, in Memoriam Wolfgang Stoerchle – Songs in a Medieval Manner: Requiem",
+      "07 Daniel Lentz - Requiem, in Memoriam Wolfgang Stoerchle – Songs in a Medieval Manner: Kyrie",
+      "08 Daniel Lentz - Requiem, in Memoriam Wolfgang Stoerchle – Songs in a Medieval Manner: Dies Irae",
+      "09 Daniel Lentz - Requiem, in Memoriam Wolfgang Stoerchle – Songs in a Medieval Manner: Liber Scriptus",
+      "10 Daniel Lentz - Requiem, in Memoriam Wolfgang Stoerchle – Songs in a Medieval Manner: Recordare",
+      "11 Daniel Lentz - Requiem, in Memoriam Wolfgang Stoerchle – Songs in a Medieval Manner: Lacrymosa"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lips_8f72a255d8c1"
+    }
+  }
+}
