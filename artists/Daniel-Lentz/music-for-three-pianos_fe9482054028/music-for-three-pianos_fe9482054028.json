@@ -1,0 +1,29 @@
+{
+  "id": "music-for-three-pianos_fe9482054028",
+  "fingerprint": "fe948205402852e06f9dede88c771a44da83c9211ebd442766ca0ab79af2be66",
+  "archived_at": "2026-09-24T18:51:16Z",
+  "metadata": {
+    "title": "Music for Three Pianos",
+    "artist": "Daniel Lentz",
+    "year": "1992",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1309,
+    "duration_human": "00:21:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Harold Budd, Ruben Garcia, Daniel Lentz - Pulse Pause Repeat",
+      "02 Harold Budd, Ruben Garcia, Daniel Lentz - La Muchacha De Los Suenos Dorados",
+      "03 Harold Budd, Ruben Garcia, Daniel Lentz - Iris",
+      "04 Harold Budd, Ruben Garcia, Daniel Lentz - Somos Tres",
+      "05 Harold Budd, Ruben Garcia, Daniel Lentz - The Messenger",
+      "06 Harold Budd, Ruben Garcia, Daniel Lentz - La Casa Bruja"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/music-for-three-pianos_fe9482054028"
+    }
+  }
+}
