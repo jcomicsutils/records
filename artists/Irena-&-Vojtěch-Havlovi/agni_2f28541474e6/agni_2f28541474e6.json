@@ -1,0 +1,39 @@
+{
+  "id": "agni_2f28541474e6",
+  "fingerprint": "2f28541474e6be6c9913dbd102bb8dadaf922586009c9305c1b74c2da6bcf872",
+  "archived_at": "2026-09-24T20:30:40Z",
+  "metadata": {
+    "title": "Agni",
+    "artist": "Irena & Vojtěch Havlovi",
+    "year": "1995",
+    "codec": "FLAC",
+    "num_tracks": 16,
+    "duration_seconds": 3224,
+    "duration_human": "00:53:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Irena & Vojtěch Havlovi - Rajasthan, Pt. 1",
+      "02 Irena & Vojtěch Havlovi - Rajasthan, Pt. 2",
+      "03 Irena & Vojtěch Havlovi - Rajasthan, Pt. 3",
+      "04 Irena & Vojtěch Havlovi - Rajasthan, Pt. 4",
+      "05 Irena & Vojtěch Havlovi - Rajasthan, Pt. 5",
+      "06 Irena & Vojtěch Havlovi - Rajasthan, Pt. 6",
+      "07 Irena & Vojtěch Havlovi - Rajasthan, Pt. 7",
+      "08 Irena & Vojtěch Havlovi - Rajasthan, Pt. 8",
+      "09 Irena & Vojtěch Havlovi - Rajasthan, Pt. 9",
+      "10 Irena & Vojtěch Havlovi - Rajasthan, Pt. 10",
+      "11 Irena & Vojtěch Havlovi - Rajasthan, Pt. 11",
+      "12 Irena & Vojtěch Havlovi - Rajasthan, Pt. 12",
+      "13 Irena & Vojtěch Havlovi - Rajasthan, Pt. 13",
+      "14 Irena & Vojtěch Havlovi - Rajasthan, Pt. 14",
+      "15 Irena & Vojtěch Havlovi - Rajasthan, Pt. 15",
+      "16 Irena & Vojtěch Havlovi - Rajasthan, Pt. 16"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/agni_2f28541474e6"
+    }
+  }
+}
