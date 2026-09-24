@@ -1,0 +1,28 @@
+{
+  "id": "cesty-15_b051af1e30bb",
+  "fingerprint": "b051af1e30bbd1702139d58f87626384eb3eb6688567314f0d32f79b120cd75b",
+  "archived_at": "2026-09-24T20:34:39Z",
+  "metadata": {
+    "title": "Cesty 15",
+    "artist": "Irena & Vojtěch Havlovi",
+    "year": "1989",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 833,
+    "duration_human": "00:13:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Irena & Vojtěch Havlovi - Ozářený Sluncem, Mrakem Zastíněný",
+      "02 Irena & Vojtěch Havlovi - Skalní Město I",
+      "03 Irena & Vojtěch Havlovi - Skalní Město II",
+      "04 Irena & Vojtěch Havlovi - Mezi Vlnami",
+      "05 Irena & Vojtěch Havlovi - Dny Zimy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cesty-15_b051af1e30bb"
+    }
+  }
+}
