@@ -1,0 +1,26 @@
+{
+  "id": "vouerca-fahy_2de53d52b39c",
+  "fingerprint": "2de53d52b39c87814bcd72eb3463841d4d382936dab3b0e079c1ed3c0fcc84cf",
+  "archived_at": "2026-09-24T23:25:08Z",
+  "metadata": {
+    "title": "Vouerca / Fahy",
+    "artist": "La Tène",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3167,
+    "duration_human": "00:52:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 La Tène - Danse de vouerca",
+      "02 La Tène - Marche de fahy",
+      "03 La Tène - La thouraz di sopra"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vouerca-fahy_2de53d52b39c"
+    }
+  }
+}
