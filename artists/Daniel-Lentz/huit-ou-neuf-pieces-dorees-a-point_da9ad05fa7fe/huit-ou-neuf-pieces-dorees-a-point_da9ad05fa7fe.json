@@ -1,0 +1,31 @@
+{
+  "id": "huit-ou-neuf-pieces-dorees-a-point_da9ad05fa7fe",
+  "fingerprint": "da9ad05fa7fee668c05cbd358a521e994de44ebad8fd6c2f5513484cf5cd0a02",
+  "archived_at": "2026-09-24T18:12:20Z",
+  "metadata": {
+    "title": "Huit Ou Neuf Pieces Dorees a Point",
+    "artist": "Daniel Lentz",
+    "year": "2000",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1944,
+    "duration_human": "00:32:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Daniel Lentz - Sorbet De Vin Rouge a Canelle",
+      "02 Daniel Lentz - Boudin De Homard a La Nage",
+      "03 Daniel Lentz - Creme De Potiron Aux Petite Lardons Et Girolles",
+      "04 Daniel Lentz - Feuillete Au Roquefort",
+      "05 Daniel Lentz - Canard Apicius..........",
+      "06 Daniel Lentz - Salade Maraichere Aux Truffes Fraiches",
+      "07 Daniel Lentz - Turbot Cuit a L'Arete...........................",
+      "08 Daniel Lentz - Raviole Aux Morilles Et Fondue De Poireaux/Mille-Feulles Vanille"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/huit-ou-neuf-pieces-dorees-a-point_da9ad05fa7fe"
+    }
+  }
+}
