@@ -1,0 +1,28 @@
+{
+  "id": "city-of-light_50ae3387c9d6",
+  "fingerprint": "50ae3387c9d646a99a5705f7b6d412e01f50bba5339c96112a6e76741329215a",
+  "archived_at": "2026-09-24T03:40:02Z",
+  "metadata": {
+    "title": "City of Light",
+    "artist": "Black Blight",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1046,
+    "duration_human": "00:17:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Black Blight - Morning Hymnal",
+      "02 Black Blight - Mechanical Heart",
+      "03 Black Blight - Gundahar's Grief",
+      "04 Black Blight - Patience and Regret",
+      "05 Black Blight - Soulspark"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/city-of-light_50ae3387c9d6"
+    }
+  }
+}
