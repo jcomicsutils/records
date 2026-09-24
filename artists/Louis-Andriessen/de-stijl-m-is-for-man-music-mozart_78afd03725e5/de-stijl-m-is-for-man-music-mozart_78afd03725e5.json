@@ -1,0 +1,31 @@
+{
+  "id": "de-stijl-m-is-for-man-music-mozart_78afd03725e5",
+  "fingerprint": "78afd03725e5dc5f2d6bf50933ca62c00cc332921cd9306938f8c08430f055a5",
+  "archived_at": "2026-09-24T23:37:28Z",
+  "metadata": {
+    "title": "De Stijl; M Is for Man, Music, Mozart",
+    "artist": "Louis Andriessen",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 3248,
+    "duration_human": "00:54:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Louis Andriessen - De Stijl",
+      "02 Louis Andriessen - M Is for Man, Music, Mozart: The Alphabet Song",
+      "03 Louis Andriessen - M Is for Man, Music, Mozart: Instrumental I",
+      "04 Louis Andriessen - M Is for Man, Music, Mozart: The Vesalius Song",
+      "05 Louis Andriessen - M Is for Man, Music, Mozart: Instrumental II",
+      "06 Louis Andriessen - M Is for Man, Music, Mozart: The Schultz Song",
+      "07 Louis Andriessen - M Is for Man, Music, Mozart: Instrumental III",
+      "08 Louis Andriessen - M Is for Man, Music, Mozart: The Eisenstein Song"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/de-stijl-m-is-for-man-music-mozart_78afd03725e5"
+    }
+  }
+}
