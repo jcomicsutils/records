@@ -1,0 +1,27 @@
+{
+  "id": "g-a-d_0b7356a83253",
+  "fingerprint": "0b7356a832530d47e033ed690e045f3fb4c273d09c26fe273afe531adcbc005f",
+  "archived_at": "2026-09-24T19:57:53Z",
+  "metadata": {
+    "title": "G, A & D",
+    "artist": "Felbm",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1990,
+    "duration_human": "00:33:10",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Felbm & Louis Reith - G",
+      "02 Felbm & Louis Reith - A",
+      "03 Felbm & Louis Reith - &",
+      "04 Felbm & Louis Reith - D"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/g-a-d_0b7356a83253"
+    }
+  }
+}
