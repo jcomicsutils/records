@@ -1,0 +1,28 @@
+{
+  "id": "the-crack-in-the-bell_9695c687740c",
+  "fingerprint": "9695c687740cac1121264eb9a38c8f483355835f6e65b3f3ca7bee306ba7e871",
+  "archived_at": "2026-09-24T19:07:16Z",
+  "metadata": {
+    "title": "The Crack in the Bell",
+    "artist": "Daniel Lentz",
+    "year": "1987",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3177,
+    "duration_human": "00:52:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Daniel Lentz - The Crack in the Bell",
+      "02 Daniel Lentz - Wild Turkeys",
+      "03 Daniel Lentz - The Dream King",
+      "04 Daniel Lentz - Lullaby",
+      "05 Daniel Lentz - Adieu"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-crack-in-the-bell_9695c687740c"
+    }
+  }
+}
