@@ -14,6 +14,7 @@
 | [A Day in Benedict](a-day-in-benedict_bf002feda5dc/a-day-in-benedict_bf002feda5dc.md) | 1997 | FLAC | 00:45:28 | [IA](https://archive.org/details/a-day-in-benedict_bf002feda5dc) |
 | [Like a Butterfly on Your Palm](like-a-butterfly-on-your-palm_3558578af001/like-a-butterfly-on-your-palm_3558578af001.md) | 1999 | FLAC | 01:13:45 | [IA](https://archive.org/details/like-a-butterfly-on-your-palm_3558578af001) |
 | [Christmas Star](christmas-star_97921b65cf02/christmas-star_97921b65cf02.md) | 2001 | FLAC | 00:39:56 | [IA](https://archive.org/details/christmas-star_97921b65cf02) |
+| [Your Golden Boat](your-golden-boat_93793e1f0cbd/your-golden-boat_93793e1f0cbd.md) | 2003 | FLAC | 01:02:22 | [IA](https://archive.org/details/your-golden-boat_93793e1f0cbd) |
 | [The Moon in the Sky](the-moon-in-the-sky_9bd665dfcb91/the-moon-in-the-sky_9bd665dfcb91.md) | 2004 | FLAC | 00:43:49 | [IA](https://archive.org/details/the-moon-in-the-sky_9bd665dfcb91) |
 | [Light Circles](light-circles_7df788963d4e/light-circles_7df788963d4e.md) | 2005 | FLAC | 01:09:52 | [IA](https://archive.org/details/light-circles_7df788963d4e) |
 | [On the Wind Softly](on-the-wind-softly_ab1d443994af/on-the-wind-softly_ab1d443994af.md) | 2009 | FLAC | 01:03:47 | [IA](https://archive.org/details/on-the-wind-softly_ab1d443994af) |
