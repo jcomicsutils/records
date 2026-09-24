@@ -1,0 +1,32 @@
+{
+  "id": "tulaci-v-zrcadlovem-sale_70c4366af902",
+  "fingerprint": "70c4366af90282ae3a5bf055df6d150865fd3f0ec81793c1fd3d1c82f1807234",
+  "archived_at": "2026-09-24T22:25:43Z",
+  "metadata": {
+    "title": "Tuláci V Zrcadlovém Sále",
+    "artist": "Irena & Vojtěch Havlovi",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2632,
+    "duration_human": "00:43:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Irena & Vojtěch Havlovi - Odtékám",
+      "02 Irena & Vojtěch Havlovi - Jaro Tvé Ruce",
+      "03 Irena & Vojtěch Havlovi - Křehká Tajemná Samička",
+      "04 Irena & Vojtěch Havlovi - Seděli Jsme Na Náměstí",
+      "05 Irena & Vojtěch Havlovi - Tuláci V Zrcadlovém Sále",
+      "06 Irena & Vojtěch Havlovi - Po Dni Na Porážkové Lince",
+      "07 Irena & Vojtěch Havlovi - Rozvzpomeň Se",
+      "08 Irena & Vojtěch Havlovi - Tma Zmizela Ve Tmě",
+      "09 Irena & Vojtěch Havlovi - Ta Chodba"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tulaci-v-zrcadlovem-sale_70c4366af902"
+    }
+  }
+}
