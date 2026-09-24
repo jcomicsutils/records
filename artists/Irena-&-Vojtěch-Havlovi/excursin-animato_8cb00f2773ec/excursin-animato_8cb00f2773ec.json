@@ -1,0 +1,31 @@
+{
+  "id": "excursin-animato_8cb00f2773ec",
+  "fingerprint": "8cb00f2773ec8acd8a84f5ba7693b1407522f8d41e9229ba88974fae707f25a7",
+  "archived_at": "2026-09-24T20:42:17Z",
+  "metadata": {
+    "title": "Excursin Animato",
+    "artist": "Irena & Vojtěch Havlovi",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 3911,
+    "duration_human": "01:05:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Irena & Vojtěch Havlovi / Kora et le Mechanix - Hammaguir",
+      "02 Irena & Vojtěch Havlovi / Kora et le Mechanix - Pleseck",
+      "03 Irena & Vojtěch Havlovi / Kora et le Mechanix - Vandenberg",
+      "04 Irena & Vojtěch Havlovi / Kora et le Mechanix - Tjuratam",
+      "05 Irena & Vojtěch Havlovi / Kora et le Mechanix - Kagoshima",
+      "06 Irena & Vojtěch Havlovi / Kora et le Mechanix - Kourou",
+      "07 Irena & Vojtěch Havlovi / Kora et le Mechanix - Frosting Beat of Honey",
+      "08 Irena & Vojtěch Havlovi / Kora et le Mechanix - Stancija Volgograd"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/excursin-animato_8cb00f2773ec"
+    }
+  }
+}
