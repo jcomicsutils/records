@@ -1,0 +1,30 @@
+{
+  "id": "in-the-sea-of-ionia_dac78aa2bc02",
+  "fingerprint": "dac78aa2bc02536f82f81a10c0a54ce6523cf517d41c26aca70a4466c0739791",
+  "archived_at": "2026-09-24T18:15:57Z",
+  "metadata": {
+    "title": "In the Sea of Ionia",
+    "artist": "Daniel Lentz",
+    "year": "2015",
+    "codec": "MP3",
+    "num_tracks": 7,
+    "duration_seconds": 3914,
+    "duration_human": "01:05:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Daniel Lentz - 51 Nocturnes",
+      "02 Daniel Lentz - Pacific Coast Highway",
+      "03 Daniel Lentz - Dorchester Tropes: Messatossec",
+      "04 Daniel Lentz - Dorchester Tropes: Ponkapoag Bog",
+      "05 Daniel Lentz - Dorchester Tropes: Moswetuset",
+      "06 Daniel Lentz - Dorchester Tropes: Pocapawnet",
+      "07 Daniel Lentz - In the Sea of Ionia"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/in-the-sea-of-ionia_dac78aa2bc02"
+    }
+  }
+}
