@@ -1,0 +1,28 @@
+{
+  "id": "on-the-leopard-altar_6dd94643d19b",
+  "fingerprint": "6dd94643d19b83409b11761307376ddb2bed8d997e8856788ec58d8bf91c6c94",
+  "archived_at": "2026-09-24T18:55:46Z",
+  "metadata": {
+    "title": "On the Leopard Altar",
+    "artist": "Daniel Lentz",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2176,
+    "duration_human": "00:36:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Daniel Lentz - Is It Love",
+      "02 Daniel Lentz - Lascaux \"Chumash Tombs\"",
+      "03 Daniel Lentz - On the Leopard Altar \"Aztec Altar\"",
+      "04 Daniel Lentz - Wolf Is Dead",
+      "05 Daniel Lentz - Requiem"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/on-the-leopard-altar_6dd94643d19b"
+    }
+  }
+}
