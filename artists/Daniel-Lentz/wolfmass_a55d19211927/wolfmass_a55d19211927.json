@@ -1,0 +1,29 @@
+{
+  "id": "wolfmass_a55d19211927",
+  "fingerprint": "a55d19211927238dc9545a3814488836cff46139faf49f2fe68c7e5353b94ddf",
+  "archived_at": "2026-09-24T19:35:50Z",
+  "metadata": {
+    "title": "Wolfmass",
+    "artist": "Daniel Lentz",
+    "year": "2000",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3317,
+    "duration_human": "00:55:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Daniel Lentz - Preludium",
+      "02 Daniel Lentz - WolfKYRIE",
+      "03 Daniel Lentz - BearGLORIA",
+      "04 Daniel Lentz - EagleCREDO",
+      "05 Daniel Lentz - CougarSANCTUS",
+      "06 Daniel Lentz - ManAGNUS DEI"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wolfmass_a55d19211927"
+    }
+  }
+}
