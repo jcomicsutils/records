@@ -1,0 +1,24 @@
+{
+  "id": "in-the-bleak-midwinter_a895ccd009bc",
+  "fingerprint": "a895ccd009bca7e4ffb0ba20970168d5f3020baca87d884a260cc85c7f3870d5",
+  "archived_at": "2026-09-24T17:20:08Z",
+  "metadata": {
+    "title": "In the Bleak Midwinter",
+    "artist": "Brìghde Chaimbeul",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 227,
+    "duration_human": "00:03:47",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Brìghde Chaimbeul - In the Bleak Midwinter"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/in-the-bleak-midwinter_a895ccd009bc"
+    }
+  }
+}
