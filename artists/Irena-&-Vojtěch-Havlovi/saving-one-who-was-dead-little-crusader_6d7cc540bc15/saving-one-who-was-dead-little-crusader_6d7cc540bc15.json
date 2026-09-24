@@ -1,0 +1,29 @@
+{
+  "id": "saving-one-who-was-dead-little-crusader_6d7cc540bc15",
+  "fingerprint": "6d7cc540bc156f0d8c90b72a82ca67ebcfe534e9e3ece74b52f2d7648543a002",
+  "archived_at": "2026-09-24T22:09:28Z",
+  "metadata": {
+    "title": "Saving One Who Was Dead / Little Crusader",
+    "artist": "Irena & Vojtěch Havlovi",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2636,
+    "duration_human": "00:43:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Irena & Vojtěch Havlovi - Saving One Who Was Dead",
+      "02 Irena & Vojtěch Havlovi - Intervals of Waiting",
+      "03 Irena & Vojtěch Havlovi - Words Into Distance",
+      "04 Irena & Vojtěch Havlovi - Little Crusader",
+      "05 Irena & Vojtěch Havlovi - A Father's Quest",
+      "06 Irena & Vojtěch Havlovi - Absence of the Loved One"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/saving-one-who-was-dead-little-crusader_6d7cc540bc15"
+    }
+  }
+}

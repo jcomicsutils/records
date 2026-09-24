@@ -17,5 +17,6 @@
 | [On the Wind Softly](on-the-wind-softly_ab1d443994af/on-the-wind-softly_ab1d443994af.md) | 2009 | FLAC | 01:03:47 | [IA](https://archive.org/details/on-the-wind-softly_ab1d443994af) |
 | [Music of Silence II](music-of-silence-ii_8ff596d8572f/music-of-silence-ii_8ff596d8572f.md) | 2021 | FLAC | 00:57:36 | [IA](https://archive.org/details/music-of-silence-ii_8ff596d8572f) |
 | [Melodies in the Sand](melodies-in-the-sand_95d8893a2aa0/melodies-in-the-sand_95d8893a2aa0.md) | 2021 | FLAC | 00:41:03 | [IA](https://archive.org/details/melodies-in-the-sand_95d8893a2aa0) |
+| [Saving One Who Was Dead / Little Crusader](saving-one-who-was-dead-little-crusader_6d7cc540bc15/saving-one-who-was-dead-little-crusader_6d7cc540bc15.md) | 2022 | FLAC | 00:43:56 | [IA](https://archive.org/details/saving-one-who-was-dead-little-crusader_6d7cc540bc15) |
 | [Four Hands](four-hands_0ea999ed8600/four-hands_0ea999ed8600.md) | 2024 | FLAC | 01:16:44 | [IA](https://archive.org/details/four-hands_0ea999ed8600) |
 | [Excursin Animato](excursin-animato_8cb00f2773ec/excursin-animato_8cb00f2773ec.md) | 2025 | FLAC | 01:05:11 | [IA](https://archive.org/details/excursin-animato_8cb00f2773ec) |
