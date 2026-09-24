@@ -1,0 +1,27 @@
+{
+  "id": "way-through-the-bleak-woods_8fa2a49c812a",
+  "fingerprint": "8fa2a49c812a86bde9353f75a027a9c19821446ac187ea2a47fc3156afd5e2d1",
+  "archived_at": "2026-09-24T22:36:39Z",
+  "metadata": {
+    "title": "Way Through the Bleak Woods",
+    "artist": "Irena & Vojtěch Havlovi",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1799,
+    "duration_human": "00:29:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Irena & Vojtěch Havlovi - Part 1",
+      "02 Irena & Vojtěch Havlovi - Part 2",
+      "03 Irena & Vojtěch Havlovi - Part 3",
+      "04 Irena & Vojtěch Havlovi - Song From the Movie"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/way-through-the-bleak-woods_8fa2a49c812a"
+    }
+  }
+}

@@ -23,4 +23,5 @@
 | [Melodies in the Sand](melodies-in-the-sand_95d8893a2aa0/melodies-in-the-sand_95d8893a2aa0.md) | 2021 | FLAC | 00:41:03 | [IA](https://archive.org/details/melodies-in-the-sand_95d8893a2aa0) |
 | [Saving One Who Was Dead / Little Crusader](saving-one-who-was-dead-little-crusader_6d7cc540bc15/saving-one-who-was-dead-little-crusader_6d7cc540bc15.md) | 2022 | FLAC | 00:43:56 | [IA](https://archive.org/details/saving-one-who-was-dead-little-crusader_6d7cc540bc15) |
 | [Four Hands](four-hands_0ea999ed8600/four-hands_0ea999ed8600.md) | 2024 | FLAC | 01:16:44 | [IA](https://archive.org/details/four-hands_0ea999ed8600) |
+| [Way Through the Bleak Woods](way-through-the-bleak-woods_8fa2a49c812a/way-through-the-bleak-woods_8fa2a49c812a.md) | 2024 | FLAC | 00:29:59 | [IA](https://archive.org/details/way-through-the-bleak-woods_8fa2a49c812a) |
 | [Excursin Animato](excursin-animato_8cb00f2773ec/excursin-animato_8cb00f2773ec.md) | 2025 | FLAC | 01:05:11 | [IA](https://archive.org/details/excursin-animato_8cb00f2773ec) |
