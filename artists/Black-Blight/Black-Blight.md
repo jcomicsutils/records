@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Stone Forest](stone-forest_9a67e58683c0/stone-forest_9a67e58683c0.md) | 2014 | FLAC | 00:41:00 | [IA](https://archive.org/details/stone-forest_9a67e58683c0) |
 | [Death of the Black Wizard](death-of-the-black-wizard_661acd623d2c/death-of-the-black-wizard_661acd623d2c.md) | 2014 | FLAC | 00:20:35 | [IA](https://archive.org/details/death-of-the-black-wizard_661acd623d2c) |
 | [Imprisoning Exile](imprisoning-exile_765ba6f10a54/imprisoning-exile_765ba6f10a54.md) | 2015 | FLAC | 00:45:22 | [IA](https://archive.org/details/imprisoning-exile_765ba6f10a54) |
 | [City of Light](city-of-light_50ae3387c9d6/city-of-light_50ae3387c9d6.md) | 2015 | FLAC | 00:17:26 | [IA](https://archive.org/details/city-of-light_50ae3387c9d6) |

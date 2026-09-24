@@ -1,0 +1,29 @@
+{
+  "id": "stone-forest_9a67e58683c0",
+  "fingerprint": "9a67e58683c03ffb74550c55669b60931a88f6e1cedbce40056173a7b0475c1f",
+  "archived_at": "2026-09-24T05:28:17Z",
+  "metadata": {
+    "title": "Stone Forest",
+    "artist": "Black Blight",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2460,
+    "duration_human": "00:41:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Black Blight - Black Blight",
+      "02 Black Blight - Flesh Turned Stone",
+      "03 Black Blight - Afraid and Ashamed, We Left Our Homes",
+      "04 Black Blight - Onyx Towers",
+      "05 Black Blight - Bloodmoon",
+      "06 Black Blight - Forgotten Hunter"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stone-forest_9a67e58683c0"
+    }
+  }
+}
