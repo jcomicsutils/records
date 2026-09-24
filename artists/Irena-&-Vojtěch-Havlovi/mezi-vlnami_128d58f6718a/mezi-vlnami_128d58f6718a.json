@@ -1,0 +1,35 @@
+{
+  "id": "mezi-vlnami_128d58f6718a",
+  "fingerprint": "128d58f6718a0c7a88a7e35d207b9bf57d2f114a7adf4868fd9659942de12ff1",
+  "archived_at": "2026-09-24T21:42:47Z",
+  "metadata": {
+    "title": "Mezi Vlnami",
+    "artist": "Irena & Vojtěch Havlovi",
+    "year": "1996",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3141,
+    "duration_human": "00:52:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Irena & Vojtěch Havlovi - Rybářská Síť",
+      "02 Irena & Vojtěch Havlovi - Poník",
+      "03 Irena & Vojtěch Havlovi - Křusky",
+      "04 Irena & Vojtěch Havlovi - V Hlubinách Lesa",
+      "05 Irena & Vojtěch Havlovi - Pastýři",
+      "06 Irena & Vojtěch Havlovi - Obrácený Vodotrysk",
+      "07 Irena & Vojtěch Havlovi - Náměstí Míru",
+      "08 Irena & Vojtěch Havlovi - Vzácný Motýl",
+      "09 Irena & Vojtěch Havlovi - Vteřinou Proměny (Rovinou Kameny)",
+      "10 Irena & Vojtěch Havlovi - Mezi Vlnami",
+      "11 Irena & Vojtěch Havlovi - Milý Malý Zajíc",
+      "12 Irena & Vojtěch Havlovi - Tyrkysové Ráno"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mezi-vlnami_128d58f6718a"
+    }
+  }
+}
