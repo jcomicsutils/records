@@ -1,0 +1,37 @@
+{
+  "id": "apologetica_10ba6f0d220e",
+  "fingerprint": "10ba6f0d220e2fd4d9a2d091fadfd0072b4d6c038498ac2e330f6abe1fb626f7",
+  "archived_at": "2026-09-24T17:57:38Z",
+  "metadata": {
+    "title": "Apologetica",
+    "artist": "Daniel Lentz",
+    "year": "1997",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 3023,
+    "duration_human": "00:50:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Daniel Lentz - In Chains",
+      "02 Daniel Lentz - The Passing of the Plumeria",
+      "03 Daniel Lentz - Totoka",
+      "04 Daniel Lentz - Instumental Interlude #1",
+      "05 Daniel Lentz - Lovely Bird",
+      "06 Daniel Lentz - Katun End",
+      "07 Daniel Lentz - Instrumental Interlude #2",
+      "08 Daniel Lentz - The Quetzal",
+      "09 Daniel Lentz - The Sea Shall Burn",
+      "10 Daniel Lentz - Instrumental Interlude #3",
+      "11 Daniel Lentz - The Breath",
+      "12 Daniel Lentz - Instrumental Interlude #4",
+      "13 Daniel Lentz - No Sin",
+      "14 Daniel Lentz - Apologetica"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/apologetica_10ba6f0d220e"
+    }
+  }
+}
