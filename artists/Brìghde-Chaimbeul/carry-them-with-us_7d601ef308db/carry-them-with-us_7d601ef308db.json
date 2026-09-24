@@ -1,0 +1,32 @@
+{
+  "id": "carry-them-with-us_7d601ef308db",
+  "fingerprint": "7d601ef308dbe3f92b5669a4226e5a8ce823bcc6155d84c782e8775ed9500c0a",
+  "archived_at": "2026-09-24T17:10:25Z",
+  "metadata": {
+    "title": "Carry Them With Us",
+    "artist": "Brìghde Chaimbeul",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2127,
+    "duration_human": "00:35:27",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Brìghde Chaimbeul - Pilliù (The Call of the Redshank)",
+      "02 Brìghde Chaimbeul - Tha Fonn Gun Bhi Trom (I Am Disposed of Mirth)",
+      "03 Brìghde Chaimbeul - Banish the Giant of Doubt & Despair",
+      "04 Brìghde Chaimbeul - Crònan (i)",
+      "05 Brìghde Chaimbeul - Uguviu (ii)",
+      "06 Brìghde Chaimbeul - Pìobaireachd nan Eun (The Birds)",
+      "07 Brìghde Chaimbeul - Òran an Eich-Uisge (Song of the Waterhorse)",
+      "08 Brìghde Chaimbeul - 'S Mi Gabhail an Rathaid (I Take the Road)",
+      "09 Brìghde Chaimbeul - Bonn Beinn Eadarra (The Haunting)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/carry-them-with-us_7d601ef308db"
+    }
+  }
+}
