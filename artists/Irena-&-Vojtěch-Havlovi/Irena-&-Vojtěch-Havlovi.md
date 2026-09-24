@@ -14,6 +14,7 @@
 | [Like a Butterfly on Your Palm](like-a-butterfly-on-your-palm_3558578af001/like-a-butterfly-on-your-palm_3558578af001.md) | 1999 | FLAC | 01:13:45 | [IA](https://archive.org/details/like-a-butterfly-on-your-palm_3558578af001) |
 | [Christmas Star](christmas-star_97921b65cf02/christmas-star_97921b65cf02.md) | 2001 | FLAC | 00:39:56 | [IA](https://archive.org/details/christmas-star_97921b65cf02) |
 | [Light Circles](light-circles_7df788963d4e/light-circles_7df788963d4e.md) | 2005 | FLAC | 01:09:52 | [IA](https://archive.org/details/light-circles_7df788963d4e) |
+| [On the Wind Softly](on-the-wind-softly_ab1d443994af/on-the-wind-softly_ab1d443994af.md) | 2009 | FLAC | 01:03:47 | [IA](https://archive.org/details/on-the-wind-softly_ab1d443994af) |
 | [Music of Silence II](music-of-silence-ii_8ff596d8572f/music-of-silence-ii_8ff596d8572f.md) | 2021 | FLAC | 00:57:36 | [IA](https://archive.org/details/music-of-silence-ii_8ff596d8572f) |
 | [Melodies in the Sand](melodies-in-the-sand_95d8893a2aa0/melodies-in-the-sand_95d8893a2aa0.md) | 2021 | FLAC | 00:41:03 | [IA](https://archive.org/details/melodies-in-the-sand_95d8893a2aa0) |
 | [Four Hands](four-hands_0ea999ed8600/four-hands_0ea999ed8600.md) | 2024 | FLAC | 01:16:44 | [IA](https://archive.org/details/four-hands_0ea999ed8600) |

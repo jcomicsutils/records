@@ -1,0 +1,25 @@
+{
+  "id": "on-the-wind-softly_ab1d443994af",
+  "fingerprint": "ab1d443994afcb027ce972ae68dbce26ea9e2709f967b403f1a951bfe95ff312",
+  "archived_at": "2026-09-24T22:04:00Z",
+  "metadata": {
+    "title": "On the Wind Softly",
+    "artist": "Irena & Vojtěch Havlovi",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3827,
+    "duration_human": "01:03:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Irena & Vojtěch Havlovi / Jan Kotulán / Petr Korbelář - On the Wind Softly I",
+      "02 Irena & Vojtěch Havlovi / Jan Kotulán / Petr Korbelář - On the Wind Softly II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/on-the-wind-softly_ab1d443994af"
+    }
+  }
+}
