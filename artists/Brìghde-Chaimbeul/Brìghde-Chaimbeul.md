@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Las](las_7da46803fc0b/las_7da46803fc0b.md) | 2022 | FLAC | 00:51:25 | [IA](https://archive.org/details/las_7da46803fc0b) |
 | [Carry Them With Us](carry-them-with-us_7d601ef308db/carry-them-with-us_7d601ef308db.md) | 2023 | FLAC | 00:35:27 | [IA](https://archive.org/details/carry-them-with-us_7d601ef308db) |
 | [In the Bleak Midwinter](in-the-bleak-midwinter_a895ccd009bc/in-the-bleak-midwinter_a895ccd009bc.md) | 2025 | FLAC | 00:03:47 | [IA](https://archive.org/details/in-the-bleak-midwinter_a895ccd009bc) |
 | [707](707_b1ee0b2329ea/707_b1ee0b2329ea.md) | 2025 | FLAC | 00:02:04 | [IA](https://archive.org/details/707_b1ee0b2329ea) |

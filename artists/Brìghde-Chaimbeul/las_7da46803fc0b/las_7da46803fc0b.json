@@ -1,0 +1,33 @@
+{
+  "id": "las_7da46803fc0b",
+  "fingerprint": "7da46803fc0b182e4745064f3b8e67955f59d2c6e800c104bbe8c6ba177c2042",
+  "archived_at": "2026-09-24T17:26:59Z",
+  "metadata": {
+    "title": "Las",
+    "artist": "Brìghde Chaimbeul",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3085,
+    "duration_human": "00:51:25",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Brìghde Chaimbeul, Ross Ainslie & Steven Byrnes - Green Light Set",
+      "02 Brìghde Chaimbeul, Ross Ainslie & Steven Byrnes - Bulgarian",
+      "03 Brìghde Chaimbeul, Ross Ainslie & Steven Byrnes - The Badger & the Weasel",
+      "04 Brìghde Chaimbeul, Ross Ainslie & Steven Byrnes - Gavotte Pourlet",
+      "05 Brìghde Chaimbeul, Ross Ainslie & Steven Byrnes - John Patterson's Mare",
+      "06 Brìghde Chaimbeul, Ross Ainslie & Steven Byrnes - Dod's",
+      "07 Brìghde Chaimbeul, Ross Ainslie & Steven Byrnes - Strathspeys and Reels",
+      "08 Brìghde Chaimbeul, Ross Ainslie & Steven Byrnes - Lichko Lio",
+      "09 Brìghde Chaimbeul, Ross Ainslie & Steven Byrnes - Irish",
+      "10 Brìghde Chaimbeul, Ross Ainslie & Steven Byrnes - Susi and Ben's"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/las_7da46803fc0b"
+    }
+  }
+}
