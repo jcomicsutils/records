@@ -1,0 +1,37 @@
+{
+  "id": "the-moon-in-the-sky_9bd665dfcb91",
+  "fingerprint": "9bd665dfcb91bf0ad1c27b7a322142d34d00e1ad7e58b0e54497109263ec7114",
+  "archived_at": "2026-09-24T22:21:02Z",
+  "metadata": {
+    "title": "The Moon in the Sky",
+    "artist": "Irena & Vojtěch Havlovi",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 2629,
+    "duration_human": "00:43:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Irena & Vojtěch Havlovi - Na Nebi Měsíc",
+      "02 Irena & Vojtěch Havlovi - Jako laň",
+      "03 Irena & Vojtěch Havlovi - Delhi I",
+      "04 Irena & Vojtěch Havlovi - Delhi II",
+      "05 Irena & Vojtěch Havlovi - Stín Listů",
+      "06 Irena & Vojtěch Havlovi - Červený Racek",
+      "07 Irena & Vojtěch Havlovi - Delhi III",
+      "08 Irena & Vojtěch Havlovi - Delhi IV",
+      "09 Irena & Vojtěch Havlovi - Otočím Se",
+      "10 Irena & Vojtěch Havlovi - Až Zase v Zimě",
+      "11 Irena & Vojtěch Havlovi - Na Vrchol Himaláje",
+      "12 Irena & Vojtěch Havlovi - Delhi V",
+      "13 Irena & Vojtěch Havlovi - Na Nebi Měsíc II",
+      "14 Irena & Vojtěch Havlovi - Delhi VI"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-moon-in-the-sky_9bd665dfcb91"
+    }
+  }
+}
