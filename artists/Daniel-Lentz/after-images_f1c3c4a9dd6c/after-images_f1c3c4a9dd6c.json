@@ -1,0 +1,27 @@
+{
+  "id": "after-images_f1c3c4a9dd6c",
+  "fingerprint": "f1c3c4a9dd6c0bbfeeff31ba790e6eed0af0fa39cd3ccdedff20201bb7b38cb7",
+  "archived_at": "2026-09-24T17:54:30Z",
+  "metadata": {
+    "title": "After Images",
+    "artist": "Daniel Lentz",
+    "year": "1981",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1458,
+    "duration_human": "00:24:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Daniel Lentz - Slow Motion Mirror",
+      "02 Daniel Lentz - Midnight White",
+      "03 Daniel Lentz - Solar Cadence",
+      "04 Daniel Lentz - Dancing on the Sun"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/after-images_f1c3c4a9dd6c"
+    }
+  }
+}

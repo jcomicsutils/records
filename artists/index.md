@@ -82,6 +82,7 @@
 - [DATAMAFIA](DATAMAFIA/DATAMAFIA.md)
 - [DJ Urutau](DJ-Urutau/DJ-Urutau.md)
 - [DNMF](DNMF/DNMF.md)
+- [Daniel Lentz](Daniel-Lentz/Daniel-Lentz.md)
 - [De Mannen Broeders](De-Mannen-Broeders/De-Mannen-Broeders.md)
 - [Deafheaven](Deafheaven/Deafheaven.md)
 - [Death Ambient](Death-Ambient/Death-Ambient.md)
