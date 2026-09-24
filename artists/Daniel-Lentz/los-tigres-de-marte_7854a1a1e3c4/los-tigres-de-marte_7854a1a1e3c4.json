@@ -1,0 +1,24 @@
+{
+  "id": "los-tigres-de-marte_7854a1a1e3c4",
+  "fingerprint": "7854a1a1e3c448507f7f2f20c9fcf73a8a268a3a0ffa2c4810b8805def36a23d",
+  "archived_at": "2026-09-24T18:40:35Z",
+  "metadata": {
+    "title": "Los tigres de marte",
+    "artist": "Daniel Lentz",
+    "year": "2004",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 902,
+    "duration_human": "00:15:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Daniel Lentz - Los Tigres De Marte"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/los-tigres-de-marte_7854a1a1e3c4"
+    }
+  }
+}
