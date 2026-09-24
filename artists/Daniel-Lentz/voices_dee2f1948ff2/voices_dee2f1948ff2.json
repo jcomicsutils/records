@@ -1,0 +1,30 @@
+{
+  "id": "voices_dee2f1948ff2",
+  "fingerprint": "dee2f1948ff24f14301bc868ddb1c5ed329c99492e1b309c897170f5de7e6d5d",
+  "archived_at": "2026-09-24T19:14:38Z",
+  "metadata": {
+    "title": "Voices",
+    "artist": "Daniel Lentz",
+    "year": "2000",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3456,
+    "duration_human": "00:57:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Daniel Lentz - A Tiger in the Garden",
+      "02 Daniel Lentz - Talk Radio",
+      "03 Daniel Lentz - Abalone",
+      "04 Daniel Lentz - Prelude/Instrumental",
+      "05 Daniel Lentz - Temple of Lament-Yono Naku No",
+      "06 Daniel Lentz - Temple of Lament-Otomera Ga",
+      "07 Daniel Lentz - Temple of Lament-Masurao No"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/voices_dee2f1948ff2"
+    }
+  }
+}
