@@ -1,0 +1,50 @@
+# Irena & Vojtěch Havlovi — Like a Butterfly on Your Palm (1999)
+
+![Cover](https://archive.org/download/like-a-butterfly-on-your-palm_3558578af001/__ia_thumb.jpg)
+
+| Field | Value |
+|-------|-------|
+| Codec | FLAC |
+| Sampling Rate | 44.1kHz |
+| Bit Depth | 16-bit |
+| Tracks | 27 |
+| Duration | 01:13:45 |
+
+## Hosts
+
+- [Archive.org](https://archive.org/details/like-a-butterfly-on-your-palm_3558578af001)
+
+## Tracklist
+
+```
+01 Irena & Vojtěch Havlovi - Piano & Violoncello 1
+02 Irena & Vojtěch Havlovi - Piano & Violoncello 2
+03 Irena & Vojtěch Havlovi - Piano & Violoncello 3
+04 Irena & Vojtěch Havlovi - Piano & Violoncello 4
+05 Irena & Vojtěch Havlovi - Piano & Violoncello 5
+06 Irena & Vojtěch Havlovi - Piano & Violoncello 6
+07 Irena & Vojtěch Havlovi - Piano & Violoncello 7
+08 Irena & Vojtěch Havlovi - Piano & Violoncello 8
+09 Irena & Vojtěch Havlovi - Piano & Violoncello 9
+10 Irena & Vojtěch Havlovi - Piano & Violoncello 10
+11 Irena & Vojtěch Havlovi - Piano & Violoncello 11
+12 Irena & Vojtěch Havlovi - Piano & Violoncello 12
+13 Irena & Vojtěch Havlovi - Piano & Violoncello 13
+14 Irena & Vojtěch Havlovi - Piano & Violoncello 14
+15 Irena & Vojtěch Havlovi - Piano & Violoncello 15
+16 Irena & Vojtěch Havlovi - Piano & Violoncello 16
+17 Irena & Vojtěch Havlovi - Piano & Violoncello 17
+18 Irena & Vojtěch Havlovi - Piano & Violoncello 18
+19 Irena & Vojtěch Havlovi - Piano & Violoncello 19
+20 Irena & Vojtěch Havlovi - Piano & Violoncello 20
+21 Irena & Vojtěch Havlovi - Piano & Violoncello 21
+22 Irena & Vojtěch Havlovi - Piano & Violoncello 22
+23 Irena & Vojtěch Havlovi - Piano & Violoncello 23
+24 Irena & Vojtěch Havlovi - Piano & Violoncello 24
+25 Irena & Vojtěch Havlovi - Piano & Violoncello 25
+26 Irena & Vojtěch Havlovi - Piano & Violoncello 26
+27 Irena & Vojtěch Havlovi - Piano & Violoncello 27
+```
+
+---
+*Archived: 2026-09-24*
