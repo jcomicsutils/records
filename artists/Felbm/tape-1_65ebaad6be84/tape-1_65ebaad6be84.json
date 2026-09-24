@@ -1,0 +1,30 @@
+{
+  "id": "tape-1_65ebaad6be84",
+  "fingerprint": "65ebaad6be84d5013ed0d75d59929d4e74b54b9de274648376f1da9631b73aa3",
+  "archived_at": "2026-09-24T20:01:50Z",
+  "metadata": {
+    "title": "Tape 1",
+    "artist": "Felbm",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1018,
+    "duration_human": "00:16:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Felbm - Birkelunden",
+      "02 Felbm - Funicular",
+      "03 Felbm - Monolocale",
+      "04 Felbm - Sternenhimmel",
+      "05 Felbm - Bladerdek",
+      "06 Felbm - Memoirists",
+      "07 Felbm - Sakura"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tape-1_65ebaad6be84"
+    }
+  }
+}
