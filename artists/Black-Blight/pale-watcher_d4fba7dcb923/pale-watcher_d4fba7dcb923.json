@@ -1,0 +1,31 @@
+{
+  "id": "pale-watcher_d4fba7dcb923",
+  "fingerprint": "d4fba7dcb923f27b484d22dbfd7e420686f21f4b874a1905341295f86d3aafc0",
+  "archived_at": "2026-09-24T05:21:21Z",
+  "metadata": {
+    "title": "Pale Watcher",
+    "artist": "Black Blight",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1791,
+    "duration_human": "00:29:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Black Blight - Chronomancer",
+      "02 Black Blight - The Third Temple",
+      "03 Black Blight - Eternal Dreamer",
+      "04 Black Blight - Astral Observer",
+      "05 Black Blight - Azure Skies",
+      "06 Black Blight - Necromancer",
+      "07 Black Blight - Glowing Orbs",
+      "08 Black Blight - The Vizier's Tomb"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pale-watcher_d4fba7dcb923"
+    }
+  }
+}
