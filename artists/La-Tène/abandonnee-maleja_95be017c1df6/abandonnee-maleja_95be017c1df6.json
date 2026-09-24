@@ -1,0 +1,27 @@
+{
+  "id": "abandonnee-maleja_95be017c1df6",
+  "fingerprint": "95be017c1df61bbcf3de5bffaf1b078b8bca2e76f4f261948977a969efe88406",
+  "archived_at": "2026-09-24T22:54:58Z",
+  "metadata": {
+    "title": "Abandonnée / Maléja",
+    "artist": "La Tène",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4918,
+    "duration_human": "01:21:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 La Tène - L'abandonnée",
+      "02 La Tène - Parade du soliat",
+      "03 La Tène - La maléja",
+      "04 La Tène - Danse de l'ortha"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/abandonnee-maleja_95be017c1df6"
+    }
+  }
+}
