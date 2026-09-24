@@ -1,0 +1,24 @@
+{
+  "id": "hout_15577d6eba5f",
+  "fingerprint": "15577d6eba5f41e869a25a32511cd77d810c131950106bac4514b96e104a1648",
+  "archived_at": "2026-09-24T23:49:08Z",
+  "metadata": {
+    "title": "Hout",
+    "artist": "Louis Andriessen",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 342,
+    "duration_human": "00:05:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Het Muziek, Louis Andriessen - Hout"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hout_15577d6eba5f"
+    }
+  }
+}
