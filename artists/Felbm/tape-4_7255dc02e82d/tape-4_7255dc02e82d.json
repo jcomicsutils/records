@@ -1,0 +1,30 @@
+{
+  "id": "tape-4_7255dc02e82d",
+  "fingerprint": "7255dc02e82dd2ce376bc00c7a52821d8c93da0f3e793fea75deeb0564a81a89",
+  "archived_at": "2026-09-24T20:12:10Z",
+  "metadata": {
+    "title": "Tape 4",
+    "artist": "Felbm",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1248,
+    "duration_human": "00:20:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Felbm - Brunnengasse",
+      "02 Felbm - Colorists",
+      "03 Felbm - Langeweile",
+      "04 Felbm - Beaufort",
+      "05 Felbm - Somnambulant",
+      "06 Felbm - Regtur",
+      "07 Felbm - Midori"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tape-4_7255dc02e82d"
+    }
+  }
+}
