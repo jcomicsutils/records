@@ -1,0 +1,25 @@
+{
+  "id": "tardive-issime_765839818455",
+  "fingerprint": "765839818455c02bac77c0f99f2959850956cfd2109aefb37c43661fe0f81c22",
+  "archived_at": "2026-09-24T23:18:16Z",
+  "metadata": {
+    "title": "Tardive / Issime",
+    "artist": "La Tène",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1896,
+    "duration_human": "00:31:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 La Tène - La tardive",
+      "02 La Tène - Pa di issime"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tardive-issime_765839818455"
+    }
+  }
+}
