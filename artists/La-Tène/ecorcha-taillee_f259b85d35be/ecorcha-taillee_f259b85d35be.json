@@ -1,0 +1,25 @@
+{
+  "id": "ecorcha-taillee_f259b85d35be",
+  "fingerprint": "f259b85d35be4d6788f570e494e80168c623576f911349265fe12bff7e3b12f3",
+  "archived_at": "2026-09-24T23:05:13Z",
+  "metadata": {
+    "title": "Ecorcha / Taillée",
+    "artist": "La Tène",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1980,
+    "duration_human": "00:33:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 La Tène - L'ecorcha",
+      "02 La Tène - La taillée"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ecorcha-taillee_f259b85d35be"
+    }
+  }
+}
