@@ -1,0 +1,26 @@
+{
+  "id": "goshen_06f983a53d64",
+  "fingerprint": "06f983a53d641a6cc4e6af37ccfdcd9e088442f6a6dc8831d1b1ca99f06306b1",
+  "archived_at": "2026-09-25T01:38:45Z",
+  "metadata": {
+    "title": "Goshen",
+    "artist": "Super Parquet",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1261,
+    "duration_human": "00:21:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Super Parquet - Ubac",
+      "02 Super Parquet - Passe de Goshen",
+      "03 Super Parquet - Norska"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/goshen_06f983a53d64"
+    }
+  }
+}
