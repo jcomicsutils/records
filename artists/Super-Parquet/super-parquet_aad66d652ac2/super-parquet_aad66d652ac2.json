@@ -1,0 +1,27 @@
+{
+  "id": "super-parquet_aad66d652ac2",
+  "fingerprint": "aad66d652ac2a2cd7d403715c87082be49f460730a62e5f03ce8d7c27d106447",
+  "archived_at": "2026-09-25T01:48:35Z",
+  "metadata": {
+    "title": "Super Parquet",
+    "artist": "Super Parquet",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2599,
+    "duration_human": "00:43:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Super Parquet - Vendredi morue",
+      "02 Super Parquet - Le libertin",
+      "03 Super Parquet - M'en revenant des noces",
+      "04 Super Parquet - Bourrée à solomagne"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/super-parquet_aad66d652ac2"
+    }
+  }
+}
