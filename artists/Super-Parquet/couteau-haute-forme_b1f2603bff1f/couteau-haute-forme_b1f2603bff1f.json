@@ -1,0 +1,29 @@
+{
+  "id": "couteau-haute-forme_b1f2603bff1f",
+  "fingerprint": "b1f2603bff1f1b30eb12563163f7d4bc8fe51c8ba7f58b9c1d70eefed63279d2",
+  "archived_at": "2026-09-25T01:31:11Z",
+  "metadata": {
+    "title": "Couteau / Haute Forme",
+    "artist": "Super Parquet",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3980,
+    "duration_human": "01:06:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "1-01 Super Parquet - Couteau",
+      "1-02 Super Parquet - Douze mois",
+      "1-03 Super Parquet - Sumatra",
+      "1-04 Super Parquet - Privas",
+      "2-01 Super Parquet - Haute forme A",
+      "2-02 Super Parquet - Haute forme B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/couteau-haute-forme_b1f2603bff1f"
+    }
+  }
+}
