@@ -1,0 +1,30 @@
+{
+  "id": "chessboxing-volume-one_9c6cb23e6b46",
+  "fingerprint": "9c6cb23e6b4687cb4db82b62d9036346de9384427797cd1ac11f21dee95c66c3",
+  "archived_at": "2026-09-25T01:23:48Z",
+  "metadata": {
+    "title": "Chessboxing Volume One",
+    "artist": "Sha's Banryu",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3384,
+    "duration_human": "00:56:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sha's Banryu - 012",
+      "02 Sha's Banryu - 050",
+      "03 Sha's Banryu - 030",
+      "04 Sha's Banryu - 042",
+      "05 Sha's Banryu - 031",
+      "06 Sha's Banryu - 044",
+      "07 Sha's Banryu - 045"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chessboxing-volume-one_9c6cb23e6b46"
+    }
+  }
+}
