@@ -220,6 +220,7 @@
 - [Psycodrama](Psycodrama/Psycodrama.md)
 - [Quad Sax](Quad-Sax/Quad-Sax.md)
 - [Rabit](Rabit/Rabit.md)
+- [Resina](Resina/Resina.md)
 - [Respire](Respire/Respire.md)
 - [Revenence](Revenence/Revenence.md)
 - [Revenence / Argon Beams / Serpentmouth](Revenence-Argon-Beams-Serpentmouth/Revenence-Argon-Beams-Serpentmouth.md)

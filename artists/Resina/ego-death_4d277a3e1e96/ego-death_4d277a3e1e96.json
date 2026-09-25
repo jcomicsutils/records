@@ -1,0 +1,32 @@
+{
+  "id": "ego-death_4d277a3e1e96",
+  "fingerprint": "4d277a3e1e96afc0c0daf3c5f267ee711ad9d257b775732660ba9e87d1ec8c52",
+  "archived_at": "2026-09-25T00:44:28Z",
+  "metadata": {
+    "title": "Ego Death",
+    "artist": "Resina",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3015,
+    "duration_human": "00:50:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aho Ssan, Resina - Egress I., Pt. 1",
+      "02 Aho Ssan, Resina - Egress I., Pt. 2",
+      "03 Aho Ssan, Resina - Egress II",
+      "04 Aho Ssan, Resina - Egress III",
+      "05 Aho Ssan, Resina - Egress IV",
+      "06 Aho Ssan, Resina - Egress V",
+      "07 Aho Ssan, Resina - Egress VI",
+      "08 Aho Ssan, Resina - Egress VII",
+      "09 Aho Ssan, Resina - Egress VIII"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ego-death_4d277a3e1e96"
+    }
+  }
+}
