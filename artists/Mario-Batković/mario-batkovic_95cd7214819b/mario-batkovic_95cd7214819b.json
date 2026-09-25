@@ -1,0 +1,32 @@
+{
+  "id": "mario-batkovic_95cd7214819b",
+  "fingerprint": "95cd7214819b96e74c9bfa1df7cb903285c1fe6d8c2d3d27382166b02ec46a27",
+  "archived_at": "2026-09-25T00:32:17Z",
+  "metadata": {
+    "title": "Mario Batkovic",
+    "artist": "Mario Batković",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3419,
+    "duration_human": "00:56:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mario Batkovic - Quatere",
+      "02 Mario Batkovic - Gravis",
+      "03 Mario Batkovic - Semper",
+      "04 Mario Batkovic - Restrictus",
+      "05 Mario Batkovic - Ineunte",
+      "06 Mario Batkovic - Desiderii Patriae",
+      "07 Mario Batkovic - Eloquens",
+      "08 Mario Batkovic - Machina",
+      "09 Mario Batkovic - Somnium"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mario-batkovic_95cd7214819b"
+    }
+  }
+}
