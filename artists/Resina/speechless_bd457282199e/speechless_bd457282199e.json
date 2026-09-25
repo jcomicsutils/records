@@ -1,0 +1,32 @@
+{
+  "id": "speechless_bd457282199e",
+  "fingerprint": "bd457282199e04f09581eb37fb5201896bdcc201a45f20d19ae09553d23197b7",
+  "archived_at": "2026-09-25T00:56:21Z",
+  "metadata": {
+    "title": "Speechless",
+    "artist": "Resina",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2419,
+    "duration_human": "00:40:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Resina - Mercury Immersion",
+      "02 Resina - Horse Tail",
+      "03 Resina - Failed Myth Simulation",
+      "04 Resina - Darwin's Finches",
+      "05 Resina - Unveiling",
+      "06 Resina - Manic",
+      "07 Resina - Hajstra",
+      "08 Resina - A Crooked God",
+      "09 Resina - Recall"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/speechless_bd457282199e"
+    }
+  }
+}
