@@ -1,0 +1,28 @@
+{
+  "id": "traces-remixes_3320c1994b09",
+  "fingerprint": "3320c1994b091c16f2590b6ef0cfe9ee9ccdd20bac9f3ebef17a98fa275d3fe0",
+  "archived_at": "2026-09-25T01:16:58Z",
+  "metadata": {
+    "title": "Traces - Remixes",
+    "artist": "Resina",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1827,
+    "duration_human": "00:30:27",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Resina - Trigger",
+      "02 Resina - In In (Ben Frost Remix)",
+      "03 Resina - In (Ian William Craig Remix)",
+      "04 Resina - In In (Lotic Remix)",
+      "05 Resina - Trigger (Abul Mogard Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/traces-remixes_3320c1994b09"
+    }
+  }
+}
