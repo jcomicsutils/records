@@ -1,0 +1,25 @@
+{
+  "id": "melodie-symphonie-voor-losse-snaren_801c3795909e",
+  "fingerprint": "801c3795909e67d177ee15aac51738c3ebd975e289ff345c20e30c4de38b5028",
+  "archived_at": "2026-09-25T00:02:29Z",
+  "metadata": {
+    "title": "Melodie; Symphonie Voor Losse Snaren",
+    "artist": "Louis Andriessen",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3249,
+    "duration_human": "00:54:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Frans Brüggen, Louis Andriessen, Caecilia Consort, Ed Spanjaard - Melodie",
+      "02 Frans Brüggen, Louis Andriessen, Caecilia Consort, Ed Spanjaard - Symphonie Voor Losse Snaren"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/melodie-symphonie-voor-losse-snaren_801c3795909e"
+    }
+  }
+}
