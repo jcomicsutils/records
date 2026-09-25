@@ -1,0 +1,27 @@
+{
+  "id": "urban-sax-a-jakarta_3f45a22a20ab",
+  "fingerprint": "3f45a22a20aba20cdd7ab0bd055d2b9abdd9bcf4935b3287dc263d8581ab4c67",
+  "archived_at": "2026-09-25T01:53:51Z",
+  "metadata": {
+    "title": "Urban Sax à Jakarta",
+    "artist": "Urban Sax",
+    "year": "1995",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1076,
+    "duration_human": "00:17:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Urban Sax - Possible Prologue",
+      "02 Urban Sax - Paduan Suara - Part 1",
+      "03 Urban Sax - Paduan Suara - Part 2",
+      "04 Urban Sax - Paduan Suara - Part 3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/urban-sax-a-jakarta_3f45a22a20ab"
+    }
+  }
+}
