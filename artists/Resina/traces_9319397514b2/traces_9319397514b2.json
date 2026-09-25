@@ -1,0 +1,32 @@
+{
+  "id": "traces_9319397514b2",
+  "fingerprint": "9319397514b2a99cc4fa7f68486514901d1041d582e55ffbbe7c9f227196d0bb",
+  "archived_at": "2026-09-25T01:06:06Z",
+  "metadata": {
+    "title": "Traces",
+    "artist": "Resina",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2806,
+    "duration_human": "00:46:46",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Resina - In",
+      "02 Resina - Procession",
+      "03 Resina - Resin",
+      "04 Resina - Surface",
+      "05 Resina - Glimmer",
+      "06 Resina - In In",
+      "07 Resina - Trigger",
+      "08 Resina - Leftover",
+      "09 Resina - Lethe"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/traces_9319397514b2"
+    }
+  }
+}
