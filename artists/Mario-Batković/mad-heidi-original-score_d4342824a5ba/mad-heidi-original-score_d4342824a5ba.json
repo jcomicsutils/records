@@ -1,0 +1,36 @@
+{
+  "id": "mad-heidi-original-score_d4342824a5ba",
+  "fingerprint": "d4342824a5bab4be8d8ca60b1bc5d54f717c34c94fb566c4bbc0eed107f7b14c",
+  "archived_at": "2026-09-25T00:24:11Z",
+  "metadata": {
+    "title": "Mad Heidi (Original Score)",
+    "artist": "Mario Batković",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 2802,
+    "duration_human": "00:46:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Mario Batkovic - The New Order",
+      "02 Mario Batkovic - Heidi & Goat Peter",
+      "03 Mario Batkovic - Kommandant Knorr",
+      "04 Mario Batkovic - Mad Heidi Main Theme",
+      "05 Mario Batkovic - The Neutralizer",
+      "06 Mario Batkovic - Heidi's Resurrection Sonata in Three Parts",
+      "07 Mario Batkovic - Prison Bars Routine",
+      "08 Mario Batkovic - Sunset at Matterhorn",
+      "09 Mario Batkovic - Vreneli ab em guggisberg",
+      "10 Mario Batkovic - Death to the Fatherland",
+      "11 Mario Batkovic - Alpöhi's Tragedy",
+      "12 Mario Batkovic - Cheese Factory",
+      "13 Mario Batkovic - President Ultra Swiss"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mad-heidi-original-score_d4342824a5ba"
+    }
+  }
+}
