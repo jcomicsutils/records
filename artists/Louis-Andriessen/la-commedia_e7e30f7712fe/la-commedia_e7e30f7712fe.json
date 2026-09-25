@@ -1,0 +1,28 @@
+{
+  "id": "la-commedia_e7e30f7712fe",
+  "fingerprint": "e7e30f7712fe48dcc01afe7bb00c368f2bb36dc3f3ce8aaa599a201369181c48",
+  "archived_at": "2026-09-24T23:53:08Z",
+  "metadata": {
+    "title": "La Commedia",
+    "artist": "Louis Andriessen",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 6243,
+    "duration_human": "01:44:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "1-01 Louis Andriessen - Part I: The City of Dis, or the Ship of Fools",
+      "1-02 Louis Andriessen - Part II: Racconto dall'inferno",
+      "1-03 Louis Andriessen - Part III: Lucifer",
+      "2-01 Louis Andriessen - Part IV: The Garden of Earthly Delights",
+      "2-02 Louis Andriessen - Part V: Luce Etterna"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/la-commedia_e7e30f7712fe"
+    }
+  }
+}
