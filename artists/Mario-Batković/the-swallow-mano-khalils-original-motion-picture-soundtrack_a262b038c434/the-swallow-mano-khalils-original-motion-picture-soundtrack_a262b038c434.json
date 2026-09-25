@@ -1,0 +1,33 @@
+{
+  "id": "the-swallow-mano-khalils-original-motion-picture-soundtrack_a262b038c434",
+  "fingerprint": "a262b038c4343eac29efe1531609e336ff24e2f89d09a2a1fde4b3f40eba04bc",
+  "archived_at": "2026-09-25T00:39:06Z",
+  "metadata": {
+    "title": "The Swallow (Mano Khalil's Original Motion Picture Soundtrack)",
+    "artist": "Mario Batković",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2461,
+    "duration_human": "00:41:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mario Batkovic - Ostium Hirundo",
+      "02 Mario Batkovic - Consilium",
+      "03 Mario Batkovic - Dulcamara",
+      "04 Mario Batkovic - Hirundo Saltatio",
+      "05 Mario Batkovic - In Itinere",
+      "06 Mario Batkovic - Amitti",
+      "07 Mario Batkovic - Pluvia",
+      "08 Mario Batkovic - Padre",
+      "09 Mario Batkovic - Paulum Spei",
+      "10 Mario Batkovic - Hêlîna MI Hêlîna Ti"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-swallow-mano-khalils-original-motion-picture-soundtrack_a262b038c434"
+    }
+  }
+}
