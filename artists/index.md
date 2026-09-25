@@ -179,6 +179,7 @@
 - [Makers](Makers/Makers.md)
 - [Mapeto](Mapeto/Mapeto.md)
 - [Mare immobile](Mare-immobile/Mare-immobile.md)
+- [Mario Batković](Mario-Batković/Mario-Batković.md)
 - [Mariska Baars](Mariska-Baars/Mariska-Baars.md)
 - [Matias Zaborchik](Matias-Zaborchik/Matias-Zaborchik.md)
 - [Mats Eilertsen](Mats-Eilertsen/Mats-Eilertsen.md)

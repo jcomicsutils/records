@@ -1,0 +1,29 @@
+{
+  "id": "introspectio_f251635cf9ec",
+  "fingerprint": "f251635cf9ec8a224a7b6f267a83366d7446d80228bf47687fa28e6ad4bdff30",
+  "archived_at": "2026-09-25T00:17:39Z",
+  "metadata": {
+    "title": "Introspectio",
+    "artist": "Mario Batković",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2156,
+    "duration_human": "00:35:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Mario Batkovic - Sanatio",
+      "02 Mario Batkovic - Repertio",
+      "03 Mario Batkovic - Chorea Duplex",
+      "04 Mario Batkovic - Quis Est Quis",
+      "05 Mario Batkovic - Surrogatum",
+      "06 Mario Batkovic - Primordium Finale"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/introspectio_f251635cf9ec"
+    }
+  }
+}
