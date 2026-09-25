@@ -1,0 +1,30 @@
+{
+  "id": "resina_1f34a9846608",
+  "fingerprint": "1f34a98466085ac38d5b8605fb602155f5bd8a7cfb364b9be5decf0e2c2c647f",
+  "archived_at": "2026-09-25T00:51:03Z",
+  "metadata": {
+    "title": "Resina",
+    "artist": "Resina",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2311,
+    "duration_human": "00:38:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Resina - Tatry I",
+      "02 Resina - Flock",
+      "03 Resina - Tatry II",
+      "04 Resina - Nightjar",
+      "05 Resina - Dark Sky White Water",
+      "06 Resina - Afterimage",
+      "07 Resina - Not Here"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/resina_1f34a9846608"
+    }
+  }
+}
