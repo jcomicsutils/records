@@ -1,0 +1,24 @@
+{
+  "id": "live-at-kk6_02e2defbaa2c",
+  "fingerprint": "02e2defbaa2c02ad285b5e655ac4d0330bc4fbec3dda682d960058f1af7ea841",
+  "archived_at": "2026-09-27T23:27:58Z",
+  "metadata": {
+    "title": "Live at KK6",
+    "artist": "Nikita Bondarev",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1568,
+    "duration_human": "00:26:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nikita Bondarev - Live at KK6"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-at-kk6_02e2defbaa2c"
+    }
+  }
+}
