@@ -1,0 +1,25 @@
+{
+  "id": "siberian-ruins_da0b4168d969",
+  "fingerprint": "da0b4168d96943395c0e181375e1377f28af91167fd5c0a3009400309a4bd174",
+  "archived_at": "2026-09-27T23:36:39Z",
+  "metadata": {
+    "title": "Siberian Ruins",
+    "artist": "Nikita Bondarev",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2394,
+    "duration_human": "00:39:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nikita Bondarev - Siberian Ruins, Part I",
+      "02 Nikita Bondarev - Siberian Ruins, Part II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/siberian-ruins_da0b4168d969"
+    }
+  }
+}
