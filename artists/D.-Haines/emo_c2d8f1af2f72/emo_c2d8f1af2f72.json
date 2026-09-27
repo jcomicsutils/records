@@ -1,0 +1,26 @@
+{
+  "id": "emo_c2d8f1af2f72",
+  "fingerprint": "c2d8f1af2f72594e3699f49104eb2e50f9f82c4471cedc448d48374a47baf473",
+  "archived_at": "2026-09-27T23:48:41Z",
+  "metadata": {
+    "title": "Emo",
+    "artist": "D. Haines",
+    "year": "2000",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3573,
+    "duration_human": "00:59:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 D. Haines - Kosciousko",
+      "02 D. Haines - Peak Communism",
+      "03 D. Haines - Gibralter"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/emo_c2d8f1af2f72"
+    }
+  }
+}
