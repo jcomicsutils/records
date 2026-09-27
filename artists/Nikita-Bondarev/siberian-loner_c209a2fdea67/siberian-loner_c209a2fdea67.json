@@ -1,0 +1,30 @@
+{
+  "id": "siberian-loner_c209a2fdea67",
+  "fingerprint": "c209a2fdea674a8c854943bad2c8c537aaeb10363588c050696da7f3cc14ff0f",
+  "archived_at": "2026-09-27T23:33:49Z",
+  "metadata": {
+    "title": "Siberian Loner",
+    "artist": "Nikita Bondarev",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1986,
+    "duration_human": "00:33:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nikita Bondarev - I Swear I Will",
+      "02 Nikita Bondarev - Years Without Summer",
+      "03 Nikita Bondarev - The Place I Love So Dearly",
+      "04 Nikita Bondarev - Afterall",
+      "05 Nikita Bondarev - Siberian Loner",
+      "06 Nikita Bondarev - We Can Only Suffer",
+      "07 Nikita Bondarev - Nothing's Wrong, You Are Alone"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/siberian-loner_c209a2fdea67"
+    }
+  }
+}
