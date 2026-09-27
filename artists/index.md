@@ -79,6 +79,7 @@
 - [Constellatia](Constellatia/Constellatia.md)
 - [Crying Motherfuckers](Crying-Motherfuckers/Crying-Motherfuckers.md)
 - [Current 93](Current-93/Current-93.md)
+- [D. Haines](D.-Haines/D.-Haines.md)
 - [DATAMAFIA](DATAMAFIA/DATAMAFIA.md)
 - [DJ Urutau](DJ-Urutau/DJ-Urutau.md)
 - [DNMF](DNMF/DNMF.md)

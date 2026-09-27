@@ -1,0 +1,33 @@
+{
+  "id": "blither_cbd2b1f615d5",
+  "fingerprint": "cbd2b1f615d528168007c8647d43e277a4ec40b5c830f65d108b0f9d71a64fd7",
+  "archived_at": "2026-09-27T23:44:47Z",
+  "metadata": {
+    "title": "Blither",
+    "artist": "D. Haines",
+    "year": "1999",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3122,
+    "duration_human": "00:52:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 D. Haines - [untitled]",
+      "02 D. Haines - [untitled]",
+      "03 D. Haines - [untitled]",
+      "04 D. Haines - [untitled]",
+      "05 D. Haines - [untitled]",
+      "06 D. Haines - [untitled]",
+      "07 D. Haines - [untitled]",
+      "08 D. Haines - [untitled]",
+      "09 D. Haines - [untitled]",
+      "10 D. Haines - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/blither_cbd2b1f615d5"
+    }
+  }
+}
