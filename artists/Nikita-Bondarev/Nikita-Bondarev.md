@@ -3,3 +3,4 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Live at KK6](live-at-kk6_02e2defbaa2c/live-at-kk6_02e2defbaa2c.md) | 2019 | FLAC | 00:26:08 | [IA](https://archive.org/details/live-at-kk6_02e2defbaa2c) |
+| [Maslyanino](maslyanino_ffea0e1ed8fc/maslyanino_ffea0e1ed8fc.md) | 2020 | FLAC | 00:26:58 | [IA](https://archive.org/details/maslyanino_ffea0e1ed8fc) |

@@ -1,0 +1,24 @@
+{
+  "id": "maslyanino_ffea0e1ed8fc",
+  "fingerprint": "ffea0e1ed8fcba025271d197d4ff7c6b4687147326ba91ed09ba3f43380e4b5f",
+  "archived_at": "2026-09-27T23:30:30Z",
+  "metadata": {
+    "title": "Maslyanino",
+    "artist": "Nikita Bondarev",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1618,
+    "duration_human": "00:26:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nikita Bondarev - Maslyanino"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/maslyanino_ffea0e1ed8fc"
+    }
+  }
+}
