@@ -1,0 +1,28 @@
+{
+  "id": "untitled-the-last-before-falling-split_bddc300e62d6",
+  "fingerprint": "bddc300e62d6bbad6335888bd00dec1e3e9b6e4b54f4027a43c9711c921facd3",
+  "archived_at": "2026-09-27T23:40:20Z",
+  "metadata": {
+    "title": "Untitled / The Last Before Falling Split",
+    "artist": "Nikita Bondarev",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2060,
+    "duration_human": "00:34:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Untitled - Ice",
+      "02 Untitled - Snow",
+      "03 Untitled - Cold",
+      "04 Untitled - Fractions (Emery Cover)",
+      "05 The Last Before Falling - Treachery"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/untitled-the-last-before-falling-split_bddc300e62d6"
+    }
+  }
+}
