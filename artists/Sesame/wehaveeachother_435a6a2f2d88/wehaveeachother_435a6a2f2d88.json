@@ -1,0 +1,24 @@
+{
+  "id": "wehaveeachother_435a6a2f2d88",
+  "fingerprint": "435a6a2f2d88baa026ce28c7ff495fb178bdbc29519a0de7ce97e8f010e267f9",
+  "archived_at": "2026-09-28T06:26:51Z",
+  "metadata": {
+    "title": "Wehaveeachother",
+    "artist": "Sesame",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 274,
+    "duration_human": "00:04:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sesame - Wehaveeachother"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wehaveeachother_435a6a2f2d88"
+    }
+  }
+}
