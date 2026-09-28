@@ -1,0 +1,32 @@
+{
+  "id": "zena-sa-bradom-patuljak-idiot_e655f65e2940",
+  "fingerprint": "e655f65e2940020c92471f3c12f8bd5f82d1f8f4220984bc5154bf31103bf3b3",
+  "archived_at": "2026-09-28T02:24:31Z",
+  "metadata": {
+    "title": "Zena sa bradom, patuljak, idiot",
+    "artist": "Virvel",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2396,
+    "duration_human": "00:39:56",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Virvel - U Svet",
+      "02 Virvel - Sacuvaj Iskru",
+      "03 Virvel - Poslednji Svedok",
+      "04 Virvel - Neobicna Banda",
+      "05 Virvel - Valcer",
+      "06 Virvel - Nove Godine",
+      "07 Virvel - Dani",
+      "08 Virvel - Ostrvo",
+      "09 Virvel - Da Li Sad Shvatas?"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zena-sa-bradom-patuljak-idiot_e655f65e2940"
+    }
+  }
+}
