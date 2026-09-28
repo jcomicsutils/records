@@ -1,0 +1,31 @@
+{
+  "id": "entre-quatro-paredes_d922001ea99d",
+  "fingerprint": "d922001ea99d1e9f97a269b276edbff16c7d0e1ad5eef8293cc2455c3dc186c8",
+  "archived_at": "2026-09-28T08:30:36Z",
+  "metadata": {
+    "title": "Entre quatro paredes",
+    "artist": "Nigeria Futebol Clube",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 3161,
+    "duration_human": "00:52:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nigeria Futebol Clube - Agradecimentos (Não existe capitalismo sem racismo)",
+      "02 Nigeria Futebol Clube - Ambiência vol. I",
+      "03 Nigeria Futebol Clube - Lurdes",
+      "04 Nigeria Futebol Clube - Preto mídia",
+      "05 Nigeria Futebol Clube - Nerds/Punks",
+      "06 Nigeria Futebol Clube - Nou",
+      "07 Nigeria Futebol Clube - 18h52",
+      "08 Nigeria Futebol Clube - Nigeria escalade club"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/entre-quatro-paredes_d922001ea99d"
+    }
+  }
+}
