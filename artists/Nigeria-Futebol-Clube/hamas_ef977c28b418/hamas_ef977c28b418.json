@@ -1,0 +1,30 @@
+{
+  "id": "hamas_ef977c28b418",
+  "fingerprint": "ef977c28b4182be51c185b52130c091bcc5a1dfdcb4b7764811b15532c867ec9",
+  "archived_at": "2026-09-28T08:40:53Z",
+  "metadata": {
+    "title": "Hamas",
+    "artist": "Nigeria Futebol Clube",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2934,
+    "duration_human": "00:48:54",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nigeria Futebol Clube - Preto mídia (Ao vivo na porta maldita)",
+      "02 Nigeria Futebol Clube - Lurdes (Ao vivo na porta maldita)",
+      "03 Nigeria Futebol Clube - Jurupari (Ao vivo na porta maldita)",
+      "04 Nigeria Futebol Clube - Ambiência vol. I (Ao vivo na porta maldita)",
+      "05 Nigeria Futebol Clube - Nerds (Ao vivo na porta maldita)",
+      "06 Nigeria Futebol Clube - 18h52 (Ao vivo na porta maldita)",
+      "07 Nigeria Futebol Clube - Punks (Ao vivo na porta maldita)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hamas_ef977c28b418"
+    }
+  }
+}
