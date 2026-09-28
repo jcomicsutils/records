@@ -1,0 +1,29 @@
+{
+  "id": "untitled_ee79c0bc7a12",
+  "fingerprint": "ee79c0bc7a12292e2631a42891e44396dd5c2fc327f336e232081b82e1b9ab68",
+  "archived_at": "2026-09-28T00:26:55Z",
+  "metadata": {
+    "title": "[untitled]",
+    "artist": "Nikita Bondarev",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 15197,
+    "duration_human": "04:13:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Untitled - Tape 1 Side A",
+      "02 Untitled - Tape 1 Side B",
+      "03 Untitled - Tape 2 Side A",
+      "04 Untitled - Tape 2 Side B",
+      "05 Untitled - Tape 3 Side A",
+      "06 Untitled - Tape 3 Side B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/untitled_ee79c0bc7a12"
+    }
+  }
+}
