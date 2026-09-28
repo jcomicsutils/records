@@ -1,0 +1,27 @@
+{
+  "id": "vreme-posle_02f7e541c524",
+  "fingerprint": "02f7e541c5248778de9f02956ff034a733a8f4e309a3fc49c869f1abaf7c07c1",
+  "archived_at": "2026-09-28T02:15:55Z",
+  "metadata": {
+    "title": "Vreme Posle",
+    "artist": "Virvel",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1155,
+    "duration_human": "00:19:15",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Virvel - Kijev. Vreme Posle",
+      "02 Virvel - Vestice",
+      "03 Virvel - Nemirna",
+      "04 Virvel - Uprkos Svemu"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vreme-posle_02f7e541c524"
+    }
+  }
+}
