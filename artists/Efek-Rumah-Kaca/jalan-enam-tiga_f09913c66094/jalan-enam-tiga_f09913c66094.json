@@ -1,0 +1,27 @@
+{
+  "id": "jalan-enam-tiga_f09913c66094",
+  "fingerprint": "f09913c66094cc13824b9139ed4a47ce02ff0fd4fa84562ec933185e3046cfc6",
+  "archived_at": "2026-09-28T09:07:46Z",
+  "metadata": {
+    "title": "Jalan Enam Tiga",
+    "artist": "Efek Rumah Kaca",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 956,
+    "duration_human": "00:15:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Efek Rumah Kaca - Tiba-Tiba Batu",
+      "02 Efek Rumah Kaca - Normal Yang Baru",
+      "03 Efek Rumah Kaca - Jalan Enam Tiga",
+      "04 Efek Rumah Kaca - Palung Mariana"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/jalan-enam-tiga_f09913c66094"
+    }
+  }
+}
