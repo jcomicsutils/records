@@ -248,6 +248,7 @@
 - [Sopros](Sopros/Sopros.md)
 - [Splashgirl / Huntsville](Splashgirl-Huntsville/Splashgirl-Huntsville.md)
 - [St. Francis Duo](St.-Francis-Duo/St.-Francis-Duo.md)
+- [State River Widening](State-River-Widening/State-River-Widening.md)
 - [Steinbrüchel](Steinbrüchel/Steinbrüchel.md)
 - [Stephen O'Malley](Stephen-O'Malley/Stephen-O'Malley.md)
 - [Stillife](Stillife/Stillife.md)
