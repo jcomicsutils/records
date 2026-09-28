@@ -1,0 +1,27 @@
+{
+  "id": "sibir_f5f6aadaf66e",
+  "fingerprint": "f5f6aadaf66ebc97931ead797800c2b6f80c446508cf26d0d3b7d87860b208f4",
+  "archived_at": "2026-09-28T02:01:29Z",
+  "metadata": {
+    "title": "Sibir",
+    "artist": "Virvel",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1177,
+    "duration_human": "00:19:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Virvel - A sve neki fini svet",
+      "02 Virvel - Dragi kolega, ako ste mislili da sam zaboravio..",
+      "03 Virvel - Iz Sibira",
+      "04 Virvel - Nemacki Stim"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sibir_f5f6aadaf66e"
+    }
+  }
+}
