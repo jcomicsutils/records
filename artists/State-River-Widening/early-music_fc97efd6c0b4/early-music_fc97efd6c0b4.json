@@ -1,0 +1,30 @@
+{
+  "id": "early-music_fc97efd6c0b4",
+  "fingerprint": "fc97efd6c0b453a3b81a0d13217a25bcbe6dfc850d5e1757a766542fae024129",
+  "archived_at": "2026-09-28T03:04:03Z",
+  "metadata": {
+    "title": "Early Music",
+    "artist": "State River Widening",
+    "year": "2003",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2511,
+    "duration_human": "00:41:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 State River Widening - New Title",
+      "02 State River Widening - For Hessen",
+      "03 State River Widening - Early Music",
+      "04 State River Widening - Zaanse Schans",
+      "05 State River Widening - Highest Point on the Island",
+      "06 State River Widening - Blindness for a Sky",
+      "07 State River Widening - Softscene"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/early-music_fc97efd6c0b4"
+    }
+  }
+}
