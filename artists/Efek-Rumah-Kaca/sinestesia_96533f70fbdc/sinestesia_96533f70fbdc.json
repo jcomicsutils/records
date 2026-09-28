@@ -1,0 +1,29 @@
+{
+  "id": "sinestesia_96533f70fbdc",
+  "fingerprint": "96533f70fbdc8ad78496182184cfae8d6a39c095d054b3d3d0b33d9484da3e9f",
+  "archived_at": "2026-09-28T09:27:48Z",
+  "metadata": {
+    "title": "Sinestesia",
+    "artist": "Efek Rumah Kaca",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3871,
+    "duration_human": "01:04:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Efek Rumah Kaca - Merah",
+      "02 Efek Rumah Kaca - Biru",
+      "03 Efek Rumah Kaca - Jingga",
+      "04 Efek Rumah Kaca - Hijau",
+      "05 Efek Rumah Kaca - Putih",
+      "06 Efek Rumah Kaca - Kuning"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sinestesia_96533f70fbdc"
+    }
+  }
+}
