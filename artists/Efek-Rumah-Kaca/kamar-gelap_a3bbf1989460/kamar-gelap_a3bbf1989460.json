@@ -1,0 +1,35 @@
+{
+  "id": "kamar-gelap_a3bbf1989460",
+  "fingerprint": "a3bbf19894605335402fff8ac845732b68a7d4dd59accae8b800e1a7514e1db4",
+  "archived_at": "2026-09-28T09:12:34Z",
+  "metadata": {
+    "title": "Kamar Gelap",
+    "artist": "Efek Rumah Kaca",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3318,
+    "duration_human": "00:55:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Efek Rumah Kaca - Tubuhmu Membiru...Tragis",
+      "02 Efek Rumah Kaca - Kau dan Aku Menuju Ruang Hampa",
+      "03 Efek Rumah Kaca - Mosi Tidak Percaya",
+      "04 Efek Rumah Kaca - Lagu Kesepian",
+      "05 Efek Rumah Kaca - Hujan Jangan Marah",
+      "06 Efek Rumah Kaca - Kenakalan Remaja di Era Informatika",
+      "07 Efek Rumah Kaca - Menjadi Indonesia",
+      "08 Efek Rumah Kaca - Kamar Gelap",
+      "09 Efek Rumah Kaca - Jangan Bakar Buku",
+      "10 Efek Rumah Kaca - Banyak Asap di Sana",
+      "11 Efek Rumah Kaca - Laki-Laki Pemalu",
+      "12 Efek Rumah Kaca - Balerina"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kamar-gelap_a3bbf1989460"
+    }
+  }
+}
