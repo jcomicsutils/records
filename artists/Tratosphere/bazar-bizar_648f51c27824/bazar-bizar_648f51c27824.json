@@ -1,0 +1,33 @@
+{
+  "id": "bazar-bizar_648f51c27824",
+  "fingerprint": "648f51c27824aa8b0a2a8aea074da1a692e4fc3a0010a5269407474f28a045a5",
+  "archived_at": "2026-09-28T16:17:58Z",
+  "metadata": {
+    "title": "Bazar Bizar",
+    "artist": "Tratosphere",
+    "year": "2005",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 4399,
+    "duration_human": "01:13:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tratosphere - Polarluft",
+      "02 Tratosphere - Traveller",
+      "03 Tratosphere - Paprika Market",
+      "04 Tratosphere - Obsidian",
+      "05 Tratosphere - Oslolulu",
+      "06 Tratosphere - Budragar",
+      "07 Tratosphere - Banana Boat",
+      "08 Tratosphere - Dr. Specht",
+      "09 Tratosphere - Neptun's World",
+      "10 Tratosphere - Tratomic"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bazar-bizar_648f51c27824"
+    }
+  }
+}
