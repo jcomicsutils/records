@@ -5,5 +5,6 @@
 | [Efek Rumah Kaca](efek-rumah-kaca_24caf52d7fdf/efek-rumah-kaca_24caf52d7fdf.md) | 2007 | FLAC | 00:54:53 | [IA](https://archive.org/details/efek-rumah-kaca_24caf52d7fdf) |
 | [Sinestesia](sinestesia_96533f70fbdc/sinestesia_96533f70fbdc.md) | 2015 | FLAC | 01:04:31 | [IA](https://archive.org/details/sinestesia_96533f70fbdc) |
 | [Kamar Gelap](kamar-gelap_a3bbf1989460/kamar-gelap_a3bbf1989460.md) | 2016 | FLAC | 00:55:18 | [IA](https://archive.org/details/kamar-gelap_a3bbf1989460) |
+| [Together Whatever Sessions Present Efek Rumah Kaca](together-whatever-sessions-present-efek-rumah-kaca_1889391f80ef/together-whatever-sessions-present-efek-rumah-kaca_1889391f80ef.md) | 2018 | FLAC | 00:54:59 | [IA](https://archive.org/details/together-whatever-sessions-present-efek-rumah-kaca_1889391f80ef) |
 | [Jalan Enam Tiga](jalan-enam-tiga_f09913c66094/jalan-enam-tiga_f09913c66094.md) | 2020 | FLAC | 00:15:56 | [IA](https://archive.org/details/jalan-enam-tiga_f09913c66094) |
 | [Rimpang](rimpang_3545f6b5c821/rimpang_3545f6b5c821.md) | 2023 | FLAC | 00:45:03 | [IA](https://archive.org/details/rimpang_3545f6b5c821) |
