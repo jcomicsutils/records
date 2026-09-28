@@ -1,0 +1,32 @@
+{
+  "id": "monolith_1859c6afd0cf",
+  "fingerprint": "1859c6afd0cffe4b0656fb8a799d59ac56f020f8ff9a2e3fdc8e059cf75a3930",
+  "archived_at": "2026-09-28T06:32:36Z",
+  "metadata": {
+    "title": "Monolith",
+    "artist": "Echorift",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3036,
+    "duration_human": "00:50:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Echorift - Constellations' Theme",
+      "02 Echorift - Monolith",
+      "03 Echorift - 59 Below",
+      "04 Echorift - An Eye in the Sandstone",
+      "05 Echorift - Death Upon Impact",
+      "06 Echorift - The Skull's Mouth",
+      "07 Echorift - Cave Song",
+      "08 Echorift - Labyrinth",
+      "09 Echorift - My Jaundiced Room"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/monolith_1859c6afd0cf"
+    }
+  }
+}

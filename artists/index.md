@@ -98,6 +98,7 @@
 - [Dropdead](Dropdead/Dropdead.md)
 - [Durvena Cabina](Durvena-Cabina/Durvena-Cabina.md)
 - [E+E](E+E/E+E.md)
+- [Echorift](Echorift/Echorift.md)
 - [Egor Klochikhin](Egor-Klochikhin/Egor-Klochikhin.md)
 - [Ein Sof](Ein-Sof/Ein-Sof.md)
 - [Ensemble Pearl](Ensemble-Pearl/Ensemble-Pearl.md)
