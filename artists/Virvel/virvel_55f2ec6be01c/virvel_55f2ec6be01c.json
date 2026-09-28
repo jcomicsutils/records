@@ -1,0 +1,33 @@
+{
+  "id": "virvel_55f2ec6be01c",
+  "fingerprint": "55f2ec6be01cf85b4d58350cb95c6a4a207ce0ce03e71abb4bf50ab7514761a5",
+  "archived_at": "2026-09-28T02:07:36Z",
+  "metadata": {
+    "title": "Virvel",
+    "artist": "Virvel",
+    "year": "2001",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3191,
+    "duration_human": "00:53:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Virvel - Lisabon 210801",
+      "02 Virvel - Hodamo",
+      "03 Virvel - Priča tihe sobe",
+      "04 Virvel - Oblačni prijatelj",
+      "05 Virvel - Postoji druga mogućnost",
+      "06 Virvel - Tiše za Martu",
+      "07 Virvel - Idemo u kraću šetnju, moramo da razgovaramo",
+      "08 Virvel - 4 meseca 2 dana",
+      "09 Virvel - Kao, na primer",
+      "10 Virvel - Žurka"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/virvel_55f2ec6be01c"
+    }
+  }
+}
