@@ -1,0 +1,27 @@
+{
+  "id": "puls_8c6213c2684d",
+  "fingerprint": "8c6213c2684d874a60c6d62ee84a7591e543dfdd910d51f6064c25340ce84bf5",
+  "archived_at": "2026-09-28T16:36:57Z",
+  "metadata": {
+    "title": "Puls",
+    "artist": "Tratosphere",
+    "year": "2001",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3766,
+    "duration_human": "01:02:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tratosphere - Pilz",
+      "02 Tratosphere - Elefant",
+      "03 Tratosphere - Strichcode",
+      "04 Tratosphere - Luna"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/puls_8c6213c2684d"
+    }
+  }
+}
