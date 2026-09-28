@@ -1,0 +1,32 @@
+{
+  "id": "live-in-lucerne-2012-live_ec7b301540fd",
+  "fingerprint": "ec7b301540fd1c5167e91b03cedcc235b23ebff084d3f4abcb2dee31934c52a2",
+  "archived_at": "2026-09-28T16:27:25Z",
+  "metadata": {
+    "title": "Live in Lucerne 2012 (Live)",
+    "artist": "Tratosphere",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3993,
+    "duration_human": "01:06:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tratosphere - No Nid Intro (Live)",
+      "02 Tratosphere - No Nid (Live)",
+      "03 Tratosphere - Paprika Market (Live)",
+      "04 Tratosphere - The Archer (Live)",
+      "05 Tratosphere - Bitu Man (Live)",
+      "06 Tratosphere - Giannini (Live)",
+      "07 Tratosphere - NP2 (Live)",
+      "08 Tratosphere - Banana Boat (Live)",
+      "09 Tratosphere - Goja (Live)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-in-lucerne-2012-live_ec7b301540fd"
+    }
+  }
+}
