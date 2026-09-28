@@ -1,0 +1,32 @@
+{
+  "id": "tea-time_494ac537610e",
+  "fingerprint": "494ac537610eb437937a3dd8613316a4c090b6a40126e5c44e36f992db3079fb",
+  "archived_at": "2026-09-28T16:47:52Z",
+  "metadata": {
+    "title": "Tea Time",
+    "artist": "Tratosphere",
+    "year": "2010",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 4121,
+    "duration_human": "01:08:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tratosphere - Climber",
+      "02 Tratosphere - TeaTime",
+      "03 Tratosphere - Bitu Man",
+      "04 Tratosphere - NP1",
+      "05 Tratosphere - NP2",
+      "06 Tratosphere - Wooden Rain",
+      "07 Tratosphere - Abendglory",
+      "08 Tratosphere - Ponyteil",
+      "09 Tratosphere - Mord im Bootshaus"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tea-time_494ac537610e"
+    }
+  }
+}
