@@ -1,0 +1,32 @@
+{
+  "id": "state-river-widening_f9ab0792bdd1",
+  "fingerprint": "f9ab0792bdd1f701cf37033bd3c3f7fb3037876c02a486af3c513c7ffb8d0bb5",
+  "archived_at": "2026-09-28T03:09:24Z",
+  "metadata": {
+    "title": "State River Widening",
+    "artist": "State River Widening",
+    "year": "1999",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2570,
+    "duration_human": "00:42:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 State River Widening - Amsterdam Green",
+      "02 State River Widening - Peach Republic",
+      "03 State River Widening - Le Mars",
+      "04 State River Widening - Drift Brake",
+      "05 State River Widening - Cable Car",
+      "06 State River Widening - Charmfield",
+      "07 State River Widening - Interlaken",
+      "08 State River Widening - Among the Corn Rose",
+      "09 State River Widening - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/state-river-widening_f9ab0792bdd1"
+    }
+  }
+}
