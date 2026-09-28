@@ -1,0 +1,33 @@
+{
+  "id": "rimpang_3545f6b5c821",
+  "fingerprint": "3545f6b5c8219f2e92513e1963eab9beef33b099c94570297915cf422bbb2976",
+  "archived_at": "2026-09-28T09:19:43Z",
+  "metadata": {
+    "title": "Rimpang",
+    "artist": "Efek Rumah Kaca",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2703,
+    "duration_human": "00:45:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Efek Rumah Kaca - Fun Kaya Fun",
+      "02 Efek Rumah Kaca - Bergeming",
+      "03 Efek Rumah Kaca - Heroik (Album)",
+      "04 Efek Rumah Kaca - Tetaplah Terlelap",
+      "05 Efek Rumah Kaca - Sondang",
+      "06 Efek Rumah Kaca - Kita Yang Purba",
+      "07 Efek Rumah Kaca - Ternak Digembala",
+      "08 Efek Rumah Kaca - Rimpang",
+      "09 Efek Rumah Kaca - Bersemi Sekebun",
+      "10 Efek Rumah Kaca - Manifesto"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rimpang_3545f6b5c821"
+    }
+  }
+}
