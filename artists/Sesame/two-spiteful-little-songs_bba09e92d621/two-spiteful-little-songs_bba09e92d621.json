@@ -1,0 +1,25 @@
+{
+  "id": "two-spiteful-little-songs_bba09e92d621",
+  "fingerprint": "bba09e92d621c2981d84bedbbc72027ca3094e3a21772be329a1dd5015c88408",
+  "archived_at": "2026-09-28T06:23:32Z",
+  "metadata": {
+    "title": "Two Spiteful Little Songs",
+    "artist": "Sesame",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 427,
+    "duration_human": "00:07:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sesame - I Don't Give (A Fuck Anymore)",
+      "02 Sesame - Favorite Fish"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/two-spiteful-little-songs_bba09e92d621"
+    }
+  }
+}
