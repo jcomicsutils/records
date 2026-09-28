@@ -1,0 +1,29 @@
+{
+  "id": "i-will-turn-i-will-i-will_9d240b13780c",
+  "fingerprint": "9d240b13780cc6c2908deb25b77f09cf7061d40f8c91460b83612abef2e2e861",
+  "archived_at": "2026-09-28T06:17:19Z",
+  "metadata": {
+    "title": "I Will Turn, I Will, I Will",
+    "artist": "Sesame",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2047,
+    "duration_human": "00:34:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sesame - I Will Turn, I Will, I Will",
+      "02 Sesame - Ends",
+      "03 Sesame - Soon Again (Why'd We Let It Go?)",
+      "04 Sesame - Always Wrong, Open Wide",
+      "05 Sesame - Life Will Be Better in Philly",
+      "06 Sesame - Do as I Say, Not as I Do"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-will-turn-i-will-i-will_9d240b13780c"
+    }
+  }
+}
