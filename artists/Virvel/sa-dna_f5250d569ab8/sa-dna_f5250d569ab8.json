@@ -1,0 +1,32 @@
+{
+  "id": "sa-dna_f5250d569ab8",
+  "fingerprint": "f5250d569ab88d1758802dc8ae87e2004c069cfeb0a01a013eca70be72f8809b",
+  "archived_at": "2026-09-28T01:56:32Z",
+  "metadata": {
+    "title": "Sa dna",
+    "artist": "Virvel",
+    "year": "2006",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3025,
+    "duration_human": "00:50:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Virvel - Brzi svemir",
+      "02 Virvel - Opet jutro",
+      "03 Virvel - ...i tu se stvar zakomplikovala",
+      "04 Virvel - Charade",
+      "05 Virvel - Isto kao sto je uvek i bilo",
+      "06 Virvel - Das Boot",
+      "07 Virvel - Tezak dan",
+      "08 Virvel - Za kraj",
+      "09 Virvel - Uspavanka"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sa-dna_f5250d569ab8"
+    }
+  }
+}
