@@ -199,6 +199,7 @@
 - [Nathan Salsburg](Nathan-Salsburg/Nathan-Salsburg.md)
 - [Natural Information Society](Natural-Information-Society/Natural-Information-Society.md)
 - [Neutral Milk Hotel](Neutral-Milk-Hotel/Neutral-Milk-Hotel.md)
+- [Nigeria Futebol Clube](Nigeria-Futebol-Clube/Nigeria-Futebol-Clube.md)
 - [Nikita Bondarev](Nikita-Bondarev/Nikita-Bondarev.md)
 - [Nils Frahm](Nils-Frahm/Nils-Frahm.md)
 - [Nocturnal Depression](Nocturnal-Depression/Nocturnal-Depression.md)

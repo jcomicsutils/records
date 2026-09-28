@@ -1,0 +1,33 @@
+{
+  "id": "ambiente-jazz_5d9692286ee4",
+  "fingerprint": "5d9692286ee4caed865dc64c9b0e7c3daa09e19033ac5c16702f355bcb39fc3a",
+  "archived_at": "2026-09-28T08:11:52Z",
+  "metadata": {
+    "title": "Ambiente jazz",
+    "artist": "Nigeria Futebol Clube",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 11337,
+    "duration_human": "03:08:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Nigeria Futebol Clube - Ambiência vol. II - Do Manoel feio até a vila madalena",
+      "02 Nigeria Futebol Clube - Ambiência vol. III - A sensação de ver o sol nascendo na estação do brás depois de virar a noite nas ruas",
+      "03 Nigeria Futebol Clube - Ambiência vol. IV - Ritmo circadiano de uma caixa preta",
+      "04 Nigeria Futebol Clube - Ambiência vol. V - Abaixo do nível das ruas: O encontro dos devedores",
+      "05 Nigeria Futebol Clube - Ambiência vol. VI - Pedras preciosas & jóias raras™",
+      "06 Nigeria Futebol Clube - Ambiência vol. VII - Dylan Raider",
+      "07 Nigeria Futebol Clube - Ambiência vol. VIII - Motel Paris",
+      "08 Nigeria Futebol Clube - Ambiência vol. IX - Araxá/Shuí",
+      "09 Nigeria Futebol Clube - Ambiência vol. X - Lâmpada amarela",
+      "10 Nigeria Futebol Clube - Ambiência vol. XI - Marguerita"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ambiente-jazz_5d9692286ee4"
+    }
+  }
+}
