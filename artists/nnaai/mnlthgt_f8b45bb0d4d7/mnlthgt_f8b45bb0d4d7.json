@@ -1,0 +1,24 @@
+{
+  "id": "mnlthgt_f8b45bb0d4d7",
+  "fingerprint": "f8b45bb0d4d795aaeee39d2c73b7896cbbc870b50167c47a35858d5ccb2e7f48",
+  "archived_at": "2026-09-29T22:24:09Z",
+  "metadata": {
+    "title": "mnlthgt",
+    "artist": "nnaai",
+    "year": "2015",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 600,
+    "duration_human": "00:10:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 nnaai - mnlthgt"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mnlthgt_f8b45bb0d4d7"
+    }
+  }
+}
