@@ -1,0 +1,25 @@
+{
+  "id": "stasimormoraonda_fb1db07d8664",
+  "fingerprint": "fb1db07d8664844d474d8c2cb740d6d60310af6ba232a3d3ccdc821855960508",
+  "archived_at": "2026-09-29T23:43:19Z",
+  "metadata": {
+    "title": "stasimormoraonda",
+    "artist": "nnaai",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 7200,
+    "duration_human": "02:00:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 nnaai - stasimormoraonda 1",
+      "02 nnaai - stasimormoraonda 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stasimormoraonda_fb1db07d8664"
+    }
+  }
+}
