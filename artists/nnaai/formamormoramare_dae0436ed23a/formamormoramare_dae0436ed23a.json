@@ -1,0 +1,25 @@
+{
+  "id": "formamormoramare_dae0436ed23a",
+  "fingerprint": "dae0436ed23a039bca97c65d1b86c4c184d60c4d0fdf22dc9c0e4fd2859cf2a3",
+  "archived_at": "2026-09-29T22:09:48Z",
+  "metadata": {
+    "title": "formamormoramare",
+    "artist": "nnaai",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 7200,
+    "duration_human": "02:00:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 nnaai - formamormoramare 1",
+      "02 nnaai - formamormoramare 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/formamormoramare_dae0436ed23a"
+    }
+  }
+}
