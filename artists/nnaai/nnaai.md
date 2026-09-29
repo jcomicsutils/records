@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [plsmwll](plsmwll_702797a287c9/plsmwll_702797a287c9.md) | 2014 | FLAC | 00:38:39 | [IA](https://archive.org/details/plsmwll_702797a287c9) |
 | [kjspll](kjspll_107408f29290/kjspll_107408f29290.md) | 2014 | FLAC | 00:36:27 | [IA](https://archive.org/details/kjspll_107408f29290) |
 | [hdphnswrshp](hdphnswrshp_37fac94570ee/hdphnswrshp_37fac94570ee.md) | 2014 | FLAC | 00:31:07 | [IA](https://archive.org/details/hdphnswrshp_37fac94570ee) |
 | [mnlthgt](mnlthgt_f8b45bb0d4d7/mnlthgt_f8b45bb0d4d7.md) | 2015 | FLAC | 00:10:00 | [IA](https://archive.org/details/mnlthgt_f8b45bb0d4d7) |

@@ -1,0 +1,24 @@
+{
+  "id": "plsmwll_702797a287c9",
+  "fingerprint": "702797a287c9e5b67af86ab066a76962cb0e8251d196e682eb3695519c90dd0a",
+  "archived_at": "2026-09-29T22:50:02Z",
+  "metadata": {
+    "title": "plsmwll",
+    "artist": "nnaai",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2319,
+    "duration_human": "00:38:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 nnaai - plsmwll"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/plsmwll_702797a287c9"
+    }
+  }
+}
