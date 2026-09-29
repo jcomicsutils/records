@@ -1,0 +1,28 @@
+{
+  "id": "capitalocene_b21e4490b917",
+  "fingerprint": "b21e4490b9179d43816af43cff05c15719e937ef8df50651f0f099523cafb2d7",
+  "archived_at": "2026-09-29T21:45:43Z",
+  "metadata": {
+    "title": "CAPITALOCENE",
+    "artist": "nnaai",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3882,
+    "duration_human": "01:04:42",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 nnaai - CAPITALOCENE I",
+      "02 nnaai - CAPITALOCENE II",
+      "03 nnaai - COLLASSO",
+      "04 nnaai - tesi databending",
+      "05 nnaai - DESERTO"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/capitalocene_b21e4490b917"
+    }
+  }
+}
