@@ -1,0 +1,25 @@
+{
+  "id": "hdphnswrshp_37fac94570ee",
+  "fingerprint": "37fac94570ee837039aebe6bf19a41d27236af7a6b16161a1dbedb8c14a549e7",
+  "archived_at": "2026-09-29T22:16:59Z",
+  "metadata": {
+    "title": "hdphnswrshp",
+    "artist": "nnaai",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1867,
+    "duration_human": "00:31:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 nnaai - hdphnswrshp 1",
+      "02 nnaai - hdphnswrshp 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hdphnswrshp_37fac94570ee"
+    }
+  }
+}
