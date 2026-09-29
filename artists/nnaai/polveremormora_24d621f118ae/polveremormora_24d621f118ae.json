@@ -1,0 +1,25 @@
+{
+  "id": "polveremormora_24d621f118ae",
+  "fingerprint": "24d621f118ae64a8b53218412a60748d3c7a179c852911a8bf5a6da47f20b9a5",
+  "archived_at": "2026-09-29T22:56:13Z",
+  "metadata": {
+    "title": "polveremormora",
+    "artist": "nnaai",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 nnaai - polveremormora 1",
+      "02 nnaai - polveremormora 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/polveremormora_24d621f118ae"
+    }
+  }
+}
