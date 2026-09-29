@@ -1,0 +1,24 @@
+{
+  "id": "mormoramuromare_9c6e64bd9562",
+  "fingerprint": "9c6e64bd9562267e27ebd688628e971485bec6749fbecbf42fc1998891dc70e6",
+  "archived_at": "2026-09-29T22:36:07Z",
+  "metadata": {
+    "title": "mormoramuromare",
+    "artist": "nnaai",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3479,
+    "duration_human": "00:57:59",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 nnaai - mormoramuromare"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mormoramuromare_9c6e64bd9562"
+    }
+  }
+}
