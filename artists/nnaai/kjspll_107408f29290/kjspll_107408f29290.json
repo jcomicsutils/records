@@ -1,0 +1,24 @@
+{
+  "id": "kjspll_107408f29290",
+  "fingerprint": "107408f292908b3dfa51cd4593991604a3b19b464a5b661b91229f1d45c032cb",
+  "archived_at": "2026-09-29T22:19:40Z",
+  "metadata": {
+    "title": "kjspll",
+    "artist": "nnaai",
+    "year": "2014",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2187,
+    "duration_human": "00:36:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 nnaai - kjspll"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kjspll_107408f29290"
+    }
+  }
+}
