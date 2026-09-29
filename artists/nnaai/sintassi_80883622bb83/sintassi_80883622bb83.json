@@ -1,0 +1,25 @@
+{
+  "id": "sintassi_80883622bb83",
+  "fingerprint": "80883622bb838b4462351c3f9999540ecbc6fbcf16c5c63f14b78083c16e65be",
+  "archived_at": "2026-09-29T23:30:20Z",
+  "metadata": {
+    "title": "sintassi",
+    "artist": "nnaai",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3999,
+    "duration_human": "01:06:39",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 nnaai - sintassi 1",
+      "02 nnaai - sintassi 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sintassi_80883622bb83"
+    }
+  }
+}
