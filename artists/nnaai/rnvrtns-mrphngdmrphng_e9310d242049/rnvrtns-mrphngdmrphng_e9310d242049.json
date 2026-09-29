@@ -1,0 +1,27 @@
+{
+  "id": "rnvrtns-mrphngdmrphng_e9310d242049",
+  "fingerprint": "e9310d24204985ad42c1b4f360632f59106c81c7668e619b7c35a0e59ec5ccfb",
+  "archived_at": "2026-09-29T23:05:05Z",
+  "metadata": {
+    "title": "rnvrtns mrphngdmrphng",
+    "artist": "nnaai",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4944,
+    "duration_human": "01:22:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 nnaai - mrphngdmrphng 1",
+      "02 nnaai - mrphngdmrphng 2",
+      "03 nnaai - mrphngdmrphng 3",
+      "04 nnaai - mrphngdmrphng 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rnvrtns-mrphngdmrphng_e9310d242049"
+    }
+  }
+}
