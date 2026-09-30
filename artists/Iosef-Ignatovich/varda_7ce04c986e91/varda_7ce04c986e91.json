@@ -1,0 +1,24 @@
+{
+  "id": "varda_7ce04c986e91",
+  "fingerprint": "7ce04c986e916127c3ea93723024d5dafc6234ece0423ae193f6151760dd054a",
+  "archived_at": "2026-09-30T00:14:04Z",
+  "metadata": {
+    "title": "Varda",
+    "artist": "Iosef Ignatovich",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1053,
+    "duration_human": "00:17:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Iosef Ignatovich - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/varda_7ce04c986e91"
+    }
+  }
+}
