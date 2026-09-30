@@ -1,0 +1,27 @@
+{
+  "id": "sarcoma_68832dabf015",
+  "fingerprint": "68832dabf0154e293a300d952fe732677f82aba0de6f0d9bd7e785c0657e6df9",
+  "archived_at": "2026-09-30T04:40:28Z",
+  "metadata": {
+    "title": "Sarcoma",
+    "artist": "Kafka Semyavin",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4701,
+    "duration_human": "01:18:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kafka Semyavin - 7/24/22",
+      "02 Kafka Semyavin - I Wanna Be Sedated (Ramones Cover)",
+      "03 Kafka Semyavin - 7/18/22",
+      "04 Kafka Semyavin - Eskimo Rapist"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sarcoma_68832dabf015"
+    }
+  }
+}

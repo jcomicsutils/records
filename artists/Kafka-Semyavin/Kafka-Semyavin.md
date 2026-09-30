@@ -4,6 +4,7 @@
 |-------|------|-------|----------|-------|
 | [High Desert](high-desert_6fc6dfa96d7d/high-desert_6fc6dfa96d7d.md) | 2022 | FLAC | 01:19:24 | [IA](https://archive.org/details/high-desert_6fc6dfa96d7d) |
 | [Jane Doe 1990](jane-doe-1990_ef5a292b2e17/jane-doe-1990_ef5a292b2e17.md) | 2022 | FLAC | 00:39:31 | [IA](https://archive.org/details/jane-doe-1990_ef5a292b2e17) |
+| [Sarcoma](sarcoma_68832dabf015/sarcoma_68832dabf015.md) | 2022 | FLAC | 01:18:21 | [IA](https://archive.org/details/sarcoma_68832dabf015) |
 | [Fanged Noumena](fanged-noumena_31d98461199c/fanged-noumena_31d98461199c.md) | 2022 | FLAC | 01:07:19 | [IA](https://archive.org/details/fanged-noumena_31d98461199c) |
 | [God's Ego Death](gods-ego-death_6618f2d3a1fe/gods-ego-death_6618f2d3a1fe.md) | 2022 | FLAC | 00:21:40 | [IA](https://archive.org/details/gods-ego-death_6618f2d3a1fe) |
 | [Morgan le Fay](morgan-le-fay_048bf9140cf8/morgan-le-fay_048bf9140cf8.md) | 2023 | FLAC | 00:58:18 | [IA](https://archive.org/details/morgan-le-fay_048bf9140cf8) |
