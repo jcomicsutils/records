@@ -1,0 +1,28 @@
+{
+  "id": "until-i-say-its-over_38ccdb06a9d1",
+  "fingerprint": "38ccdb06a9d12b8b09f7fd9a7d42a69444c39745bd0b1fa750998beaee0fce30",
+  "archived_at": "2026-09-30T05:47:42Z",
+  "metadata": {
+    "title": "Until I Say It's Over",
+    "artist": "Kafka Semyavin",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 5894,
+    "duration_human": "01:38:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kafka Semyavin - I've Abandoned Myself",
+      "02 Kafka Semyavin - Yesterday Was for Empathy, but Now You're Starting to Piss Me Off",
+      "03 Kafka Semyavin - Spare Me Your Confessional Song Titles, Because It'll Take More Than Poetry to Prove Your Sincerity",
+      "04 Kafka Semyavin - And I'll Be the First Thing You See When You Wake Up",
+      "05 Kafka Semyavin - I'm Leaving You With a Sad Memory. But in the Depths of My Heart, I'm Happy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/until-i-say-its-over_38ccdb06a9d1"
+    }
+  }
+}
