@@ -1,0 +1,26 @@
+{
+  "id": "silver-dove-kafka-semyavin_bcc883157ae1",
+  "fingerprint": "bcc883157ae189d8b5fd9095e18a1c41ba84eccec2c9e3fbe981f3cf63906e5c",
+  "archived_at": "2026-09-30T05:03:46Z",
+  "metadata": {
+    "title": "Silver Dove & Kafka Semyavin",
+    "artist": "Kafka Semyavin",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2271,
+    "duration_human": "00:37:51",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Silver Dove & Kafka Semyavin - Flesh Prison",
+      "02 Silver Dove & Kafka Semyavin - Jamais vu",
+      "03 Silver Dove & Kafka Semyavin - Leech Farm"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/silver-dove-kafka-semyavin_bcc883157ae1"
+    }
+  }
+}
