@@ -1,0 +1,26 @@
+{
+  "id": "january-april-2024_732baca40973",
+  "fingerprint": "732baca40973b098c7299228c211075dcd0fe0a20d051ce91f7eff83163cc608",
+  "archived_at": "2026-09-30T00:00:12Z",
+  "metadata": {
+    "title": "January - April 2024",
+    "artist": "Iosef Ignatovich",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2043,
+    "duration_human": "00:34:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Iosef Ignatovich - [untitled]",
+      "02 Iosef Ignatovich - [untitled]",
+      "03 Iosef Ignatovich - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/january-april-2024_732baca40973"
+    }
+  }
+}
