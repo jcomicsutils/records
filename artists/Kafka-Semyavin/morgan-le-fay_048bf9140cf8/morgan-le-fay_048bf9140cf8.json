@@ -1,0 +1,27 @@
+{
+  "id": "morgan-le-fay_048bf9140cf8",
+  "fingerprint": "048bf9140cf8379692a05e4512c5b7ca4845098e566a064088d22c7b6f6c4495",
+  "archived_at": "2026-09-30T02:16:04Z",
+  "metadata": {
+    "title": "Morgan le Fay",
+    "artist": "Kafka Semyavin",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3498,
+    "duration_human": "00:58:18",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kafka Semyavin - [untitled]",
+      "02 Kafka Semyavin - [untitled]",
+      "03 Kafka Semyavin - [untitled]",
+      "04 Kafka Semyavin - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/morgan-le-fay_048bf9140cf8"
+    }
+  }
+}
