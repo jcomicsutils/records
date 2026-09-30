@@ -1,0 +1,24 @@
+{
+  "id": "new-birth_8cb9a258e8e0",
+  "fingerprint": "8cb9a258e8e0402f4fbe4cd4b95ec27ffc4068ddb265352cac3b584ead1b7f4a",
+  "archived_at": "2026-09-30T00:03:32Z",
+  "metadata": {
+    "title": "New Birth",
+    "artist": "Iosef Ignatovich",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2741,
+    "duration_human": "00:45:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Iosef Ignatovich - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/new-birth_8cb9a258e8e0"
+    }
+  }
+}
