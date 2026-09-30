@@ -1,0 +1,27 @@
+{
+  "id": "faux-christ_fcdcd2eb7350",
+  "fingerprint": "fcdcd2eb735085732c663ff15c9d95d39c2ca0c08d58661703aa794a4bfb4fb6",
+  "archived_at": "2026-09-30T01:04:35Z",
+  "metadata": {
+    "title": "Faux Christ",
+    "artist": "Kafka Semyavin",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4189,
+    "duration_human": "01:09:49",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kafka Semyavin - 1.29.23",
+      "02 Kafka Semyavin - Rat Man",
+      "03 Kafka Semyavin - The Cure for Insomnia",
+      "04 Kafka Semyavin - Die in the Process"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/faux-christ_fcdcd2eb7350"
+    }
+  }
+}
