@@ -1,0 +1,27 @@
+{
+  "id": "high-desert_6fc6dfa96d7d",
+  "fingerprint": "6fc6dfa96d7d47db108f4a1932ec2ce233b6313de767a8e7a4227a45418ffc6a",
+  "archived_at": "2026-09-30T01:32:22Z",
+  "metadata": {
+    "title": "High Desert",
+    "artist": "Kafka Semyavin",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4764,
+    "duration_human": "01:19:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kafka Semyavin - Creating the Primordial Soup in My Kiddie Pool",
+      "02 Kafka Semyavin - Headless Fish",
+      "03 Kafka Semyavin - Recruiting Nazi's Through Craigslist",
+      "04 Kafka Semyavin - I Remember You From the Days We Used to Bully Autistic Kids"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/high-desert_6fc6dfa96d7d"
+    }
+  }
+}
