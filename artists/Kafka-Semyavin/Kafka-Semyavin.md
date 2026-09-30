@@ -7,6 +7,7 @@
 | [Sarcoma](sarcoma_68832dabf015/sarcoma_68832dabf015.md) | 2022 | FLAC | 01:18:21 | [IA](https://archive.org/details/sarcoma_68832dabf015) |
 | [Fanged Noumena](fanged-noumena_31d98461199c/fanged-noumena_31d98461199c.md) | 2022 | FLAC | 01:07:19 | [IA](https://archive.org/details/fanged-noumena_31d98461199c) |
 | [God's Ego Death](gods-ego-death_6618f2d3a1fe/gods-ego-death_6618f2d3a1fe.md) | 2022 | FLAC | 00:21:40 | [IA](https://archive.org/details/gods-ego-death_6618f2d3a1fe) |
+| [Sketches & Abandoned Tracks](sketches-abandoned-tracks_199b57ddd3c0/sketches-abandoned-tracks_199b57ddd3c0.md) | 2023 | FLAC | 01:19:49 | [IA](https://archive.org/details/sketches-abandoned-tracks_199b57ddd3c0) |
 | [Morgan le Fay](morgan-le-fay_048bf9140cf8/morgan-le-fay_048bf9140cf8.md) | 2023 | FLAC | 00:58:18 | [IA](https://archive.org/details/morgan-le-fay_048bf9140cf8) |
 | [Syringes and Anorexia](syringes-and-anorexia_84d9038a7774/syringes-and-anorexia_84d9038a7774.md) | 2023 | FLAC | 01:11:09 | [IA](https://archive.org/details/syringes-and-anorexia_84d9038a7774) |
 | [Faux Christ](faux-christ_fcdcd2eb7350/faux-christ_fcdcd2eb7350.md) | 2023 | FLAC | 01:09:49 | [IA](https://archive.org/details/faux-christ_fcdcd2eb7350) |

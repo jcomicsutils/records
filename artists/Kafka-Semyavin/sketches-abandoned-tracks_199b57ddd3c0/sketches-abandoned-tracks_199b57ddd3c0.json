@@ -1,0 +1,27 @@
+{
+  "id": "sketches-abandoned-tracks_199b57ddd3c0",
+  "fingerprint": "199b57ddd3c0c49c78e23a46469599bd01d9649d0f22b5193a34a9a9bf2ef845",
+  "archived_at": "2026-09-30T06:29:22Z",
+  "metadata": {
+    "title": "Sketches & Abandoned Tracks",
+    "artist": "Kafka Semyavin",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4789,
+    "duration_human": "01:19:49",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kafka Semyavin - November 5th - December 12th",
+      "02 Kafka Semyavin - October 10th",
+      "03 Kafka Semyavin - December 8th",
+      "04 Kafka Semyavin - July 3rd"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sketches-abandoned-tracks_199b57ddd3c0"
+    }
+  }
+}
