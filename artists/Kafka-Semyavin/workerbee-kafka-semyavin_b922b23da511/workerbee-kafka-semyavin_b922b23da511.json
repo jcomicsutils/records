@@ -1,0 +1,25 @@
+{
+  "id": "workerbee-kafka-semyavin_b922b23da511",
+  "fingerprint": "b922b23da511388a8e319d1febb13f2951f843cd1a1b57c692a9b1d95d386176",
+  "archived_at": "2026-09-30T06:10:54Z",
+  "metadata": {
+    "title": "Workerbee / Kafka Semyavin",
+    "artist": "Kafka Semyavin",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3483,
+    "duration_human": "00:58:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Workerbee - How I Learned to Digest Glass",
+      "02 Kafka Semyavin - An Experiment in Nihilism"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/workerbee-kafka-semyavin_b922b23da511"
+    }
+  }
+}
