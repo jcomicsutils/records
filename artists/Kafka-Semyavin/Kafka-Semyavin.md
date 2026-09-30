@@ -14,6 +14,7 @@
 | [Silver Dove & Kafka Semyavin](silver-dove-kafka-semyavin_bcc883157ae1/silver-dove-kafka-semyavin_bcc883157ae1.md) | 2023 | FLAC | 00:37:51 | [IA](https://archive.org/details/silver-dove-kafka-semyavin_bcc883157ae1) |
 | [A Step by Step Guide to Immortality](a-step-by-step-guide-to-immortality_5f881170a318/a-step-by-step-guide-to-immortality_5f881170a318.md) | 2023 | FLAC | 01:42:43 | [IA](https://archive.org/details/a-step-by-step-guide-to-immortality_5f881170a318) |
 | [Workerbee / Kafka Semyavin](workerbee-kafka-semyavin_b922b23da511/workerbee-kafka-semyavin_b922b23da511.md) | 2024 | FLAC | 00:58:03 | [IA](https://archive.org/details/workerbee-kafka-semyavin_b922b23da511) |
+| [Anhedonia](anhedonia_04a01207fd5a/anhedonia_04a01207fd5a.md) | 2024 | FLAC | 01:55:44 | [IA](https://archive.org/details/anhedonia_04a01207fd5a) |
 | [Pale Hunter Wing](pale-hunter-wing_07589d3dfacf/pale-hunter-wing_07589d3dfacf.md) | 2024 | FLAC | 08:50:08 | [IA](https://archive.org/details/pale-hunter-wing_07589d3dfacf) |
 | [Kafka Semyavin / Olion](kafka-semyavin-olion_5fead3fec4ea/kafka-semyavin-olion_5fead3fec4ea.md) | 2024 | FLAC | 00:58:11 | [IA](https://archive.org/details/kafka-semyavin-olion_5fead3fec4ea) |
 | [Olion / Kafka Semyavin](olion-kafka-semyavin_f7f2d931cf76/olion-kafka-semyavin_f7f2d931cf76.md) | 2024 | FLAC | 01:14:43 | [IA](https://archive.org/details/olion-kafka-semyavin_f7f2d931cf76) |

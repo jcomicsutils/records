@@ -1,0 +1,30 @@
+{
+  "id": "anhedonia_04a01207fd5a",
+  "fingerprint": "04a01207fd5adbfd018ce2d3ea9911f6f607404955367c34e00c583d6ec3f429",
+  "archived_at": "2026-09-30T06:59:28Z",
+  "metadata": {
+    "title": "Anhedonia",
+    "artist": "Kafka Semyavin",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 6944,
+    "duration_human": "01:55:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kafka Semyavin - Unable to Imagine Sisyphus Happy",
+      "02 Kafka Semyavin - A Critique of Shared Intentionality",
+      "03 Kafka Semyavin - Emily's Illness",
+      "04 Kafka Semyavin - Symptom",
+      "05 Kafka Semyavin - Armchair Psychologist",
+      "06 Kafka Semyavin - Hatred of Language",
+      "07 Kafka Semyavin - And You Knew All Along"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/anhedonia_04a01207fd5a"
+    }
+  }
+}
