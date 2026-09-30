@@ -1,0 +1,25 @@
+{
+  "id": "kafka-semyavin-olion_5fead3fec4ea",
+  "fingerprint": "5fead3fec4eaba7c1f23854b06b3811ae641866fc6e4551160dc412f50f3491f",
+  "archived_at": "2026-09-30T02:02:16Z",
+  "metadata": {
+    "title": "Kafka Semyavin / Olion",
+    "artist": "Kafka Semyavin",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3491,
+    "duration_human": "00:58:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Olion - Swift Journey",
+      "02 Kafka Semyavin - RX J1242−11"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kafka-semyavin-olion_5fead3fec4ea"
+    }
+  }
+}
