@@ -1,0 +1,25 @@
+{
+  "id": "the-burden-of-memory_b88254769025",
+  "fingerprint": "b8825476902520060763415bc90b9fbedc5087bdb903796001fa30cb23895a03",
+  "archived_at": "2026-09-30T00:10:55Z",
+  "metadata": {
+    "title": "The Burden of Memory",
+    "artist": "Iosef Ignatovich",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2127,
+    "duration_human": "00:35:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Iosef Ignatovich - [untitled]",
+      "02 Iosef Ignatovich - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-burden-of-memory_b88254769025"
+    }
+  }
+}
