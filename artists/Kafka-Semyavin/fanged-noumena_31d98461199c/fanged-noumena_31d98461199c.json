@@ -1,0 +1,27 @@
+{
+  "id": "fanged-noumena_31d98461199c",
+  "fingerprint": "31d98461199cb0de73b63467c93fa93a852ec69177f9e94e6791b48658bd2e54",
+  "archived_at": "2026-09-30T00:55:59Z",
+  "metadata": {
+    "title": "Fanged Noumena",
+    "artist": "Kafka Semyavin",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4039,
+    "duration_human": "01:07:19",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kafka Semyavin - Intro",
+      "02 Kafka Semyavin - King Heroin",
+      "03 Kafka Semyavin - Vision After the Sermon",
+      "04 Kafka Semyavin - For Lillian"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fanged-noumena_31d98461199c"
+    }
+  }
+}
