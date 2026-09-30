@@ -1,0 +1,26 @@
+{
+  "id": "syringes-and-anorexia_84d9038a7774",
+  "fingerprint": "84d9038a7774e6e0c4d1290ddee9a042e66398bcb540e102ca20fab0cd9adb10",
+  "archived_at": "2026-09-30T05:19:52Z",
+  "metadata": {
+    "title": "Syringes and Anorexia",
+    "artist": "Kafka Semyavin",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4269,
+    "duration_human": "01:11:09",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kafka Semyavin - [untitled]",
+      "02 Kafka Semyavin - [untitled]",
+      "03 Kafka Semyavin - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/syringes-and-anorexia_84d9038a7774"
+    }
+  }
+}
