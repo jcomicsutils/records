@@ -1,0 +1,25 @@
+{
+  "id": "olion-kafka-semyavin_f7f2d931cf76",
+  "fingerprint": "f7f2d931cf7660609eb7a16379acf6e0384f34505921c3a88bae572b25132830",
+  "archived_at": "2026-09-30T02:43:03Z",
+  "metadata": {
+    "title": "Olion / Kafka Semyavin",
+    "artist": "Kafka Semyavin",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4483,
+    "duration_human": "01:14:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Olion, Kafka Samyavin - [untitled]",
+      "02 D.LUND - Destruction of Untitled"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/olion-kafka-semyavin_f7f2d931cf76"
+    }
+  }
+}
