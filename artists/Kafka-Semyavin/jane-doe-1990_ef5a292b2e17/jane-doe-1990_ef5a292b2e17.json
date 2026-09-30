@@ -1,0 +1,25 @@
+{
+  "id": "jane-doe-1990_ef5a292b2e17",
+  "fingerprint": "ef5a292b2e17c407379ee116630fb84d013f4ce98333fd0b3931d38819385d00",
+  "archived_at": "2026-09-30T01:43:50Z",
+  "metadata": {
+    "title": "Jane Doe 1990",
+    "artist": "Kafka Semyavin",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2371,
+    "duration_human": "00:39:31",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kafka Semyavin - [untitled]",
+      "02 Kafka Semyavin - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/jane-doe-1990_ef5a292b2e17"
+    }
+  }
+}
