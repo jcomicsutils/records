@@ -1,0 +1,35 @@
+{
+  "id": "2026-07-18-substation-melbourne-australia_40ba48475c70",
+  "fingerprint": "40ba48475c70ff5112d177150604a40bbef3879c3170e6d66ba6ecc4f6da39fa",
+  "archived_at": "2026-10-01T22:50:54Z",
+  "metadata": {
+    "title": "2026-07-18 Substation, Melbourne, Australia",
+    "artist": "Claire Rousay",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 2360,
+    "duration_human": "00:39:20",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 claire rousay - [intro]",
+      "02 claire rousay - 4pm",
+      "03 claire rousay - Head",
+      "04 claire rousay - Asking for It",
+      "05 claire rousay - [ambient 1]",
+      "06 claire rousay - [ambient 2]",
+      "07 claire rousay - [ambient 3]",
+      "08 claire rousay - [ambient 4]",
+      "09 claire rousay - [ambient 5]",
+      "10 claire rousay - [ambient 6]",
+      "11 claire rousay - Lover's Spit Plays in the Background",
+      "12 claire rousay - [outro]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/2026-07-18-substation-melbourne-australia_40ba48475c70"
+    }
+  }
+}
