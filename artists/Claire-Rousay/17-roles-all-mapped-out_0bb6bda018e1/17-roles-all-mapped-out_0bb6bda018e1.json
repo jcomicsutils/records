@@ -1,0 +1,26 @@
+{
+  "id": "17-roles-all-mapped-out_0bb6bda018e1",
+  "fingerprint": "0bb6bda018e156c22a7d827118889949801c1dc73375ed18d517431091bb2bce",
+  "archived_at": "2026-10-01T22:38:42Z",
+  "metadata": {
+    "title": "17 Roles (All Mapped Out)",
+    "artist": "Claire Rousay",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1464,
+    "duration_human": "00:24:24",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 claire rousay - 17 Roles (All Mapped Out) - Movement I",
+      "02 claire rousay - 17 Roles (All Mapped Out) - Movement II",
+      "03 claire rousay - 17 Roles (All Mapped Out) - Movement III"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/17-roles-all-mapped-out_0bb6bda018e1"
+    }
+  }
+}
