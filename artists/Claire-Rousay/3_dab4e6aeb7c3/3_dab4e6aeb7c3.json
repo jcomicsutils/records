@@ -1,0 +1,28 @@
+{
+  "id": "3_dab4e6aeb7c3",
+  "fingerprint": "dab4e6aeb7c3f54c3afebcc9ebf43ea7ff6039b9512eba4bb79d8fd9d8c740aa",
+  "archived_at": "2026-10-01T22:34:57Z",
+  "metadata": {
+    "title": "</3",
+    "artist": "Claire Rousay",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 5,
+    "duration_seconds": 892,
+    "duration_human": "00:14:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 More Eaze & Claire Rousay - Wall",
+      "02 More Eaze & Claire Rousay - Couch",
+      "03 More Eaze & Claire Rousay - Floor",
+      "04 More Eaze & Claire Rousay - Bed",
+      "05 More Eaze & Claire Rousay - Porch"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/3_dab4e6aeb7c3"
+    }
+  }
+}
