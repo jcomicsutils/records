@@ -1,0 +1,31 @@
+{
+  "id": "a-heavenly-touch_17b629036d35",
+  "fingerprint": "17b629036d350f0463c6bad9ea26b188bd25ab2c34d7d085872aa8d66802f443",
+  "archived_at": "2026-10-01T23:44:57Z",
+  "metadata": {
+    "title": "A Heavenly Touch",
+    "artist": "Claire Rousay",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 claire rousay - Faking It",
+      "02 claire rousay - Tenderly",
+      "03 claire rousay - Going Home",
+      "04 claire rousay - Loose Light",
+      "05 claire rousay - Swipe",
+      "06 claire rousay - Dice in Santa Fe",
+      "07 claire rousay - Taxi Ride",
+      "08 claire rousay - Last Date"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-heavenly-touch_17b629036d35"
+    }
+  }
+}
