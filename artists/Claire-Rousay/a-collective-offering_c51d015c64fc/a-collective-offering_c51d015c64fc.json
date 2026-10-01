@@ -1,0 +1,25 @@
+{
+  "id": "a-collective-offering_c51d015c64fc",
+  "fingerprint": "c51d015c64fc33ca164b34e3392c7b4dac067f18dd95f21678a3297d5afc537e",
+  "archived_at": "2026-10-01T23:39:22Z",
+  "metadata": {
+    "title": "A Collective Offering",
+    "artist": "Claire Rousay",
+    "year": "2025",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 2520,
+    "duration_human": "00:42:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 claire rousay - Any Sort of Comfort",
+      "02 claire rousay - Small, Loving Conflicts"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-collective-offering_c51d015c64fc"
+    }
+  }
+}
