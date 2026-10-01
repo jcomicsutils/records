@@ -1,0 +1,36 @@
+{
+  "id": "a-collection_c470c100bec6",
+  "fingerprint": "c470c100bec61bda2bb4b192f80c3455f58f517e6fad1f17e75a1887adeef695",
+  "archived_at": "2026-10-01T23:10:46Z",
+  "metadata": {
+    "title": "A Collection",
+    "artist": "Claire Rousay",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 8220,
+    "duration_human": "02:17:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 claire rousay - All",
+      "02 claire rousay - Tusk",
+      "03 claire rousay - Good Set",
+      "04 claire rousay - Virulence",
+      "05 claire rousay - Clocked",
+      "06 claire rousay - Neuter",
+      "07 claire rousay - It Is Just",
+      "08 claire rousay - So Much More Difficult",
+      "09 claire rousay - Things I Doubt You'd Care About",
+      "10 claire rousay - For Theo, Erik, Meghan, Alex",
+      "11 claire rousay - A Moment in St. Louis",
+      "12 claire rousay - October 3rd",
+      "13 claire rousay - I'm Not a Bad Person"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-collection_c470c100bec6"
+    }
+  }
+}
