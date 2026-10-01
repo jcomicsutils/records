@@ -1,0 +1,31 @@
+{
+  "id": "a-little-death_e1116d8213cb",
+  "fingerprint": "e1116d8213cbf9551b320086635d80d302af8e0b006fb00ed3ab2a363b047692",
+  "archived_at": "2026-10-01T23:51:29Z",
+  "metadata": {
+    "title": "A Little Death",
+    "artist": "Claire Rousay",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1869,
+    "duration_human": "00:31:09",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 claire rousay - I Couldn't Find the Light",
+      "02 claire rousay - Conditional Love",
+      "03 claire rousay - Just",
+      "04 claire rousay - Somehow",
+      "05 claire rousay - Night One",
+      "06 claire rousay - Doubt",
+      "07 claire rousay - Somewhat Burdensome",
+      "08 claire rousay - A Little Death"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-little-death_e1116d8213cb"
+    }
+  }
+}
