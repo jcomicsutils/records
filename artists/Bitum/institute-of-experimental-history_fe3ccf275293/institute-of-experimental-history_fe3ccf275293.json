@@ -1,0 +1,25 @@
+{
+  "id": "institute-of-experimental-history_fe3ccf275293",
+  "fingerprint": "fe3ccf275293bd9bb1d6e3a2010e0265789306eaf988ca50bf27481ece79a80c",
+  "archived_at": "2026-10-02T17:46:00Z",
+  "metadata": {
+    "title": "Institute of Experimental History",
+    "artist": "Bitum",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2400,
+    "duration_human": "00:40:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bitum - First Part",
+      "02 Bitum - Second Part"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/institute-of-experimental-history_fe3ccf275293"
+    }
+  }
+}
