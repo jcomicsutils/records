@@ -1,0 +1,26 @@
+{
+  "id": "rehearsal-improvisations_ac7692ab6d99",
+  "fingerprint": "ac7692ab6d995363a735e4f1acf7a4e54c167281acbb263af95f0e6a4082fd21",
+  "archived_at": "2026-10-02T20:29:37Z",
+  "metadata": {
+    "title": "Rehearsal / Improvisations",
+    "artist": "Claire Rousay",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3459,
+    "duration_human": "00:57:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 claire rousay - Rehearsal",
+      "02 claire rousay - Improvisation One",
+      "03 claire rousay - Improvisation Two"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rehearsal-improvisations_ac7692ab6d99"
+    }
+  }
+}
