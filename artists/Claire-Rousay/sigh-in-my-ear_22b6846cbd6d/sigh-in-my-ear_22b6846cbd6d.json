@@ -1,0 +1,25 @@
+{
+  "id": "sigh-in-my-ear_22b6846cbd6d",
+  "fingerprint": "22b6846cbd6d9f1498d7579b3740e15269b0d5c0857f6a8e8e8ff3fdac43733a",
+  "archived_at": "2026-10-02T21:00:02Z",
+  "metadata": {
+    "title": "Sigh in My Ear",
+    "artist": "Claire Rousay",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 586,
+    "duration_human": "00:09:46",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 claire rousay - Sigh in My Ear",
+      "02 claire rousay - Your First Armadillo"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sigh-in-my-ear_22b6846cbd6d"
+    }
+  }
+}

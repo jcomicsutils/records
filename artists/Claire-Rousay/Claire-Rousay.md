@@ -45,6 +45,7 @@
 | [Everything Perfect Is Already Here](everything-perfect-is-already-here_5b79a9921d85/everything-perfect-is-already-here_5b79a9921d85.md) | 2022 | FLAC | 00:30:16 | [IA](https://archive.org/details/everything-perfect-is-already-here_5b79a9921d85) |
 | [Demos, Experiments, Extras](demos-experiments-extras_90dcf551957e/demos-experiments-extras_90dcf551957e.md) | 2022 | MP3 | 00:24:17 | [IA](https://archive.org/details/demos-experiments-extras_90dcf551957e) |
 | [Deceiver](deceiver_3924c63a5538/deceiver_3924c63a5538.md) | 2023 | FLAC | 00:03:44 | [IA](https://archive.org/details/deceiver_3924c63a5538) |
+| [Sigh in My Ear](sigh-in-my-ear_22b6846cbd6d/sigh-in-my-ear_22b6846cbd6d.md) | 2023 | FLAC | 00:09:46 | [IA](https://archive.org/details/sigh-in-my-ear_22b6846cbd6d) |
 | [Claire Rousay on Audiotree Live \(Audiotree Live Version\)](claire-rousay-on-audiotree-live-audiotree-live-version_0efa8c8e6bea/claire-rousay-on-audiotree-live-audiotree-live-version_0efa8c8e6bea.md) | 2024 | FLAC | 00:21:44 | [IA](https://archive.org/details/claire-rousay-on-audiotree-live-audiotree-live-version_0efa8c8e6bea) |
 | [Sentiment](sentiment_17f61110d980/sentiment_17f61110d980.md) | 2024 | FLAC | 00:37:32 | [IA](https://archive.org/details/sentiment_17f61110d980) |
 | [Sentiment Remix](sentiment-remix_bba64b89fe30/sentiment-remix_bba64b89fe30.md) | 2024 | FLAC | 00:32:22 | [IA](https://archive.org/details/sentiment-remix_bba64b89fe30) |
