@@ -1,0 +1,29 @@
+{
+  "id": "integral_5de553b32a7a",
+  "fingerprint": "5de553b32a7abfd27a33bf729bb603ad0c8ac21229d6225a0bba48731c6bee2b",
+  "archived_at": "2026-10-02T17:50:05Z",
+  "metadata": {
+    "title": "Integral",
+    "artist": "Bitum",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 5400,
+    "duration_human": "01:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bitum - Green Wall",
+      "02 Bitum - D-503",
+      "03 Bitum - 0-90",
+      "04 Bitum - R-13",
+      "05 Bitum - I-330",
+      "06 Bitum - Great Operation"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/integral_5de553b32a7a"
+    }
+  }
+}
