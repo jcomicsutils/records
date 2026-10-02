@@ -1,0 +1,33 @@
+{
+  "id": "sentiment_17f61110d980",
+  "fingerprint": "17f61110d98097ee8734d5aead65d96744f47c41c4381d939bea453e06a9e3e7",
+  "archived_at": "2026-10-02T20:48:09Z",
+  "metadata": {
+    "title": "Sentiment",
+    "artist": "Claire Rousay",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2252,
+    "duration_human": "00:37:32",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 claire rousay - 4pm",
+      "02 claire rousay - Head",
+      "03 claire rousay - It Could Be Anything",
+      "04 claire rousay - Askin for It",
+      "05 claire rousay - III",
+      "06 claire rousay - Lover's Spit Plays in the Background",
+      "07 claire rousay - Sycamore Skylight",
+      "08 claire rousay - Please 5 More Minutes",
+      "09 claire rousay - W Sunset Blvd",
+      "10 claire rousay - ily2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sentiment_17f61110d980"
+    }
+  }
+}
