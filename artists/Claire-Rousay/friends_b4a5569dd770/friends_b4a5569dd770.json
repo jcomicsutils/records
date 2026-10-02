@@ -1,0 +1,25 @@
+{
+  "id": "friends_b4a5569dd770",
+  "fingerprint": "b4a5569dd770e5841fc72f9e5c673c860ed75a8541afdd61bb03e30d3d5f7d13",
+  "archived_at": "2026-10-02T18:58:57Z",
+  "metadata": {
+    "title": "Friends",
+    "artist": "Claire Rousay",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1979,
+    "duration_human": "00:32:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 claire rousay - For Theo, Erik, Meghan, Alex",
+      "02 claire rousay - For Marcus, Michaela, Samantha, Jen"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/friends_b4a5569dd770"
+    }
+  }
+}
