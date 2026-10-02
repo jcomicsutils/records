@@ -14,6 +14,7 @@
 | [A Softer Focus](a-softer-focus_d62c22366abf/a-softer-focus_d62c22366abf.md) | 2021 | FLAC | 00:33:23 | [IA](https://archive.org/details/a-softer-focus_d62c22366abf) |
 | [An Afternoon Whine](an-afternoon-whine_923488cfe1e1/an-afternoon-whine_923488cfe1e1.md) | 2021 | FLAC | 00:30:14 | [IA](https://archive.org/details/an-afternoon-whine_923488cfe1e1) |
 | [A Collection](a-collection_c470c100bec6/a-collection_c470c100bec6.md) | 2021 | FLAC | 02:17:00 | [IA](https://archive.org/details/a-collection_c470c100bec6) |
+| [Distance Therapy](distance-therapy_2d257cf1940b/distance-therapy_2d257cf1940b.md) | 2022 | FLAC | 00:19:59 | [IA](https://archive.org/details/distance-therapy_2d257cf1940b) |
 | [Anything You Can Do...](anything-you-can-do_5eba0bd4c8e3/anything-you-can-do_5eba0bd4c8e3.md) | 2022 | FLAC | 00:39:30 | [IA](https://archive.org/details/anything-you-can-do_5eba0bd4c8e3) |
 | [17 Roles \(All Mapped Out\)](17-roles-all-mapped-out_0bb6bda018e1/17-roles-all-mapped-out_0bb6bda018e1.md) | 2022 | FLAC | 00:24:24 | [IA](https://archive.org/details/17-roles-all-mapped-out_0bb6bda018e1) |
 | [Demos, Experiments, Extras](demos-experiments-extras_90dcf551957e/demos-experiments-extras_90dcf551957e.md) | 2022 | MP3 | 00:24:17 | [IA](https://archive.org/details/demos-experiments-extras_90dcf551957e) |

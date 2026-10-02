@@ -1,0 +1,24 @@
+{
+  "id": "distance-therapy_2d257cf1940b",
+  "fingerprint": "2d257cf1940b01f7ddffe4ad15aa9c67a18ec8ba60d607fb6bca773a60a1793e",
+  "archived_at": "2026-10-02T01:43:19Z",
+  "metadata": {
+    "title": "Distance Therapy",
+    "artist": "Claire Rousay",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1199,
+    "duration_human": "00:19:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 claire rousay & E Fishpool - Distance Therapy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/distance-therapy_2d257cf1940b"
+    }
+  }
+}
