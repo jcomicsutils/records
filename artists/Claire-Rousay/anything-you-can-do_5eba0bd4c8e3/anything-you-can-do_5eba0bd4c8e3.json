@@ -1,0 +1,25 @@
+{
+  "id": "anything-you-can-do_5eba0bd4c8e3",
+  "fingerprint": "5eba0bd4c8e35f6c579bdd8b412eaa4163a642c45ac8ed438ec5c90efd344906",
+  "archived_at": "2026-10-02T00:48:39Z",
+  "metadata": {
+    "title": "Anything You Can Do...",
+    "artist": "Claire Rousay",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2370,
+    "duration_human": "00:39:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 claire rousay & Jacob Wick - But Please Don't",
+      "02 claire rousay & Jacob Wick - Anything You Say (I Can Say Softer)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/anything-you-can-do_5eba0bd4c8e3"
+    }
+  }
+}
