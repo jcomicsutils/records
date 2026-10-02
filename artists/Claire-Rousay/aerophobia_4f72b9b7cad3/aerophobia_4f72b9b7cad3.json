@@ -1,0 +1,29 @@
+{
+  "id": "aerophobia_4f72b9b7cad3",
+  "fingerprint": "4f72b9b7cad3b44125bf24e4a8943e78cca2f1bf6a94b37d1429045762a0efe9",
+  "archived_at": "2026-10-02T00:21:10Z",
+  "metadata": {
+    "title": "Aerophobia",
+    "artist": "Claire Rousay",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2114,
+    "duration_human": "00:35:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 claire rousay - Good Set",
+      "02 claire rousay - You Were Definitely Not Invited",
+      "03 claire rousay - Shaving the Face Until It Is Bleeding",
+      "04 claire rousay - Cows in the Field",
+      "05 claire rousay - Tribute to the Spot and Paul's World Renowned Hospitality",
+      "06 claire rousay - When Gods Become Friends"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/aerophobia_4f72b9b7cad3"
+    }
+  }
+}
