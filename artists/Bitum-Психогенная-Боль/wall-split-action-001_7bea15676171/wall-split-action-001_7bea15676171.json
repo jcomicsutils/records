@@ -1,0 +1,25 @@
+{
+  "id": "wall-split-action-001_7bea15676171",
+  "fingerprint": "7bea15676171f33624cc341fc991e4e1fe23e75841f3fe68b2695c5cc7111374",
+  "archived_at": "2026-10-02T18:37:46Z",
+  "metadata": {
+    "title": "Wall Split Action 001",
+    "artist": "Bitum / Психогенная Боль",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3235,
+    "duration_human": "00:53:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bitum - Cleg",
+      "02 Психогенная Боль - Машины Лучше Людей"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wall-split-action-001_7bea15676171"
+    }
+  }
+}
