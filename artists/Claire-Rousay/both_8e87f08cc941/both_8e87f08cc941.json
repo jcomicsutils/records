@@ -1,0 +1,25 @@
+{
+  "id": "both_8e87f08cc941",
+  "fingerprint": "8e87f08cc941791f398619aba78c5b27a71e8accbf441f4bab86ffa97e0ea967",
+  "archived_at": "2026-10-02T01:04:57Z",
+  "metadata": {
+    "title": "Both",
+    "artist": "Claire Rousay",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2064,
+    "duration_human": "00:34:24",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 claire rousay - Library",
+      "02 claire rousay - Two Things"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/both_8e87f08cc941"
+    }
+  }
+}
