@@ -1,0 +1,24 @@
+{
+  "id": "deceiver_3924c63a5538",
+  "fingerprint": "3924c63a553859ebb37f1ef955039c4c162a2a376dc3fd3008903333258825a8",
+  "archived_at": "2026-10-02T01:36:33Z",
+  "metadata": {
+    "title": "Deceiver",
+    "artist": "Claire Rousay",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 224,
+    "duration_human": "00:03:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 claire rousay & Helena Deland - Deceiver"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/deceiver_3924c63a5538"
+    }
+  }
+}
