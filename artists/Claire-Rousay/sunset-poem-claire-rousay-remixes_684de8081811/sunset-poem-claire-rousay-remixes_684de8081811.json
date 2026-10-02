@@ -1,0 +1,26 @@
+{
+  "id": "sunset-poem-claire-rousay-remixes_684de8081811",
+  "fingerprint": "684de80818113473c0991ee9365c8611feb9e57ee6399ad023c5a92cf8512744",
+  "archived_at": "2026-10-02T21:10:03Z",
+  "metadata": {
+    "title": "Sunset Poem (Claire Rousay Remixes)",
+    "artist": "Claire Rousay",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 676,
+    "duration_human": "00:11:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Circuit des Yeux - Vanishing (Claire Rousay Remix)",
+      "02 Circuit des Yeux - Sculpting the Exodus (Claire Rousay Remix)",
+      "03 Circuit des Yeux - Argument (Claire Rousay Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sunset-poem-claire-rousay-remixes_684de8081811"
+    }
+  }
+}
