@@ -1,0 +1,27 @@
+{
+  "id": "of-siri_fad26590a5e2",
+  "fingerprint": "fad26590a5e27fab9d8e6e3bded0fa9549509dc8e790add0e6d240ef05d514b1",
+  "archived_at": "2026-10-02T20:21:34Z",
+  "metadata": {
+    "title": "Of Siri",
+    "artist": "Claire Rousay",
+    "year": "2018",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 1123,
+    "duration_human": "00:18:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 claire rousay - Inception of Siri",
+      "02 claire rousay - Life of Siri",
+      "03 claire rousay - Decay of Siri",
+      "04 claire rousay - Afterlife of Siri"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/of-siri_fad26590a5e2"
+    }
+  }
+}
