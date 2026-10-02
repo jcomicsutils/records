@@ -1,0 +1,24 @@
+{
+  "id": "hey_06c951c20883",
+  "fingerprint": "06c951c2088328e6251ef5fe47fb430a9b042d7aeb5ac94317e0b5c67778a5a9",
+  "archived_at": "2026-10-02T19:00:35Z",
+  "metadata": {
+    "title": "Hey",
+    "artist": "Claire Rousay",
+    "year": "2019",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 752,
+    "duration_human": "00:12:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 claire rousay - Hey"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hey_06c951c20883"
+    }
+  }
+}

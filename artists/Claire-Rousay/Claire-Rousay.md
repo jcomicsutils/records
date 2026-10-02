@@ -6,6 +6,7 @@
 | [Divide](divide_ca9bdab6f5af/divide_ca9bdab6f5af.md) | 2018 | FLAC | 00:25:14 | [IA](https://archive.org/details/divide_ca9bdab6f5af) |
 | [Friends](friends_b4a5569dd770/friends_b4a5569dd770.md) | 2019 | FLAC | 00:32:59 | [IA](https://archive.org/details/friends_b4a5569dd770) |
 | [Braesview](braesview_a92d5297404a/braesview_a92d5297404a.md) | 2019 | FLAC | 00:10:46 | [IA](https://archive.org/details/braesview_a92d5297404a) |
+| [Hey](hey_06c951c20883/hey_06c951c20883.md) | 2019 | MP3 | 00:12:32 | [IA](https://archive.org/details/hey_06c951c20883) |
 | [Aerophobia](aerophobia_4f72b9b7cad3/aerophobia_4f72b9b7cad3.md) | 2019 | FLAC | 00:35:14 | [IA](https://archive.org/details/aerophobia_4f72b9b7cad3) |
 | [</3](3_dab4e6aeb7c3/3_dab4e6aeb7c3.md) | 2020 | MP3 | 00:14:52 | [IA](https://archive.org/details/3_dab4e6aeb7c3) |
 | [Alcohol](alcohol_aef653b5814b/alcohol_aef653b5814b.md) | 2020 | FLAC | 00:21:48 | [IA](https://archive.org/details/alcohol_aef653b5814b) |
