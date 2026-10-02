@@ -4,6 +4,7 @@
 |-------|------|-------|----------|-------|
 | [Aerophobia](aerophobia_4f72b9b7cad3/aerophobia_4f72b9b7cad3.md) | 2019 | FLAC | 00:35:14 | [IA](https://archive.org/details/aerophobia_4f72b9b7cad3) |
 | [</3](3_dab4e6aeb7c3/3_dab4e6aeb7c3.md) | 2020 | MP3 | 00:14:52 | [IA](https://archive.org/details/3_dab4e6aeb7c3) |
+| [Alcohol](alcohol_aef653b5814b/alcohol_aef653b5814b.md) | 2020 | FLAC | 00:21:48 | [IA](https://archive.org/details/alcohol_aef653b5814b) |
 | [A Heavenly Touch](a-heavenly-touch_17b629036d35/a-heavenly-touch_17b629036d35.md) | 2020 | FLAC | 00:30:00 | [IA](https://archive.org/details/a-heavenly-touch_17b629036d35) |
 | [A Moment in St Louis and a Moment at the Beach](a-moment-in-st-louis-and-a-moment-at-the-beach_742d57eeb8d7/a-moment-in-st-louis-and-a-moment-at-the-beach_742d57eeb8d7.md) | 2021 | ALAC | 00:22:37 | [IA](https://archive.org/details/a-moment-in-st-louis-and-a-moment-at-the-beach_742d57eeb8d7) |
 | [A Softer Focus](a-softer-focus_d62c22366abf/a-softer-focus_d62c22366abf.md) | 2021 | FLAC | 00:33:23 | [IA](https://archive.org/details/a-softer-focus_d62c22366abf) |

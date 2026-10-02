@@ -1,0 +1,24 @@
+{
+  "id": "alcohol_aef653b5814b",
+  "fingerprint": "aef653b5814b6809c993246591b5187734fec51ffd48a1a5edfd2197d5d829f2",
+  "archived_at": "2026-10-02T00:28:53Z",
+  "metadata": {
+    "title": "Alcohol",
+    "artist": "Claire Rousay",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1308,
+    "duration_human": "00:21:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Jen Hill & claire rousay - Alcohol"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/alcohol_aef653b5814b"
+    }
+  }
+}
