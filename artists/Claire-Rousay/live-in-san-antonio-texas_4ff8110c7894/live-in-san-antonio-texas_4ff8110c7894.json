@@ -1,0 +1,24 @@
+{
+  "id": "live-in-san-antonio-texas_4ff8110c7894",
+  "fingerprint": "4ff8110c7894acfe77812109d61cec994fda1b2c85cced78a4d91226708c715f",
+  "archived_at": "2026-10-02T20:03:31Z",
+  "metadata": {
+    "title": "Live in San Antonio, Texas",
+    "artist": "Claire Rousay",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 980,
+    "duration_human": "00:16:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 claire rousay - Live in San Antonio, Texas"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-in-san-antonio-texas_4ff8110c7894"
+    }
+  }
+}

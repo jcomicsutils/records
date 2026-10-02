@@ -13,6 +13,7 @@
 | [Aerophobia](aerophobia_4f72b9b7cad3/aerophobia_4f72b9b7cad3.md) | 2019 | FLAC | 00:35:14 | [IA](https://archive.org/details/aerophobia_4f72b9b7cad3) |
 | [It Was Always Worth It](it-was-always-worth-it_f36db4e8fb11/it-was-always-worth-it_f36db4e8fb11.md) | 2020 | FLAC | 00:20:12 | [IA](https://archive.org/details/it-was-always-worth-it_f36db4e8fb11) |
 | [If I Don't Let Myself Be Happy Now Then When?](if-i-dont-let-myself-be-happy-now-then-when_37a910517aea/if-i-dont-let-myself-be-happy-now-then-when_37a910517aea.md) | 2020 | FLAC | 00:34:49 | [IA](https://archive.org/details/if-i-dont-let-myself-be-happy-now-then-when_37a910517aea) |
+| [Live in San Antonio, Texas](live-in-san-antonio-texas_4ff8110c7894/live-in-san-antonio-texas_4ff8110c7894.md) | 2020 | FLAC | 00:16:20 | [IA](https://archive.org/details/live-in-san-antonio-texas_4ff8110c7894) |
 | [Live at Elastic Arts](live-at-elastic-arts_a2d05c9cb1d7/live-at-elastic-arts_a2d05c9cb1d7.md) | 2020 | MP3 | 00:27:50 | [IA](https://archive.org/details/live-at-elastic-arts_a2d05c9cb1d7) |
 | [I Let a Song Go Out of My Heart](i-let-a-song-go-out-of-my-heart_85314c6d46f5/i-let-a-song-go-out-of-my-heart_85314c6d46f5.md) | 2020 | FLAC | 00:38:39 | [IA](https://archive.org/details/i-let-a-song-go-out-of-my-heart_85314c6d46f5) |
 | [I'll Give You All of My Love](ill-give-you-all-of-my-love_ad2052161cd4/ill-give-you-all-of-my-love_ad2052161cd4.md) | 2020 | FLAC | 00:33:58 | [IA](https://archive.org/details/ill-give-you-all-of-my-love_ad2052161cd4) |
