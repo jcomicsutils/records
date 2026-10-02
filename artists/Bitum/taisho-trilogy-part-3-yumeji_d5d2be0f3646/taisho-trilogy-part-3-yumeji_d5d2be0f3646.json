@@ -1,0 +1,25 @@
+{
+  "id": "taisho-trilogy-part-3-yumeji_d5d2be0f3646",
+  "fingerprint": "d5d2be0f3646f9b3bff75920064a8e5bf3029b5a8f02fd390d9cb49f92beecd5",
+  "archived_at": "2026-10-02T18:33:41Z",
+  "metadata": {
+    "title": "Taisho Trilogy. Part 3 - Yumeji",
+    "artist": "Bitum",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bitum - Yumeji 1",
+      "02 Bitum - Yumeji 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/taisho-trilogy-part-3-yumeji_d5d2be0f3646"
+    }
+  }
+}
