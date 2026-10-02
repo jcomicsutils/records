@@ -1,0 +1,25 @@
+{
+  "id": "t4t_5bc8b933a479",
+  "fingerprint": "5bc8b933a4795e750c92a95bff768a803815a9d3a4e96519160338a817e26669",
+  "archived_at": "2026-10-02T21:13:59Z",
+  "metadata": {
+    "title": "t4t",
+    "artist": "Claire Rousay",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1856,
+    "duration_human": "00:30:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 claire rousay - Things You've Said You Like",
+      "02 claire rousay - Things I Doubt You'd Care About"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/t4t_5bc8b933a479"
+    }
+  }
+}
