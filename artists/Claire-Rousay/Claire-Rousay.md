@@ -40,6 +40,7 @@
 | [An Afternoon Whine](an-afternoon-whine_923488cfe1e1/an-afternoon-whine_923488cfe1e1.md) | 2021 | FLAC | 00:30:14 | [IA](https://archive.org/details/an-afternoon-whine_923488cfe1e1) |
 | [Gno](gno_5c13b2cd7193/gno_5c13b2cd7193.md) | 2021 | MP3 | 00:20:20 | [IA](https://archive.org/details/gno_5c13b2cd7193) |
 | [Live](live_2804fa8d0469/live_2804fa8d0469.md) | 2021 | FLAC | 00:24:40 | [IA](https://archive.org/details/live_2804fa8d0469) |
+| [Twin Bed EP](twin-bed-ep_33bd0e35ac4a/twin-bed-ep_33bd0e35ac4a.md) | 2021 | ALAC | 00:22:05 | [IA](https://archive.org/details/twin-bed-ep_33bd0e35ac4a) |
 | [A Collection](a-collection_c470c100bec6/a-collection_c470c100bec6.md) | 2021 | FLAC | 02:17:00 | [IA](https://archive.org/details/a-collection_c470c100bec6) |
 | [Distance Therapy](distance-therapy_2d257cf1940b/distance-therapy_2d257cf1940b.md) | 2022 | FLAC | 00:19:59 | [IA](https://archive.org/details/distance-therapy_2d257cf1940b) |
 | [Never Stop Texting Me](never-stop-texting-me_3205874c30c2/never-stop-texting-me_3205874c30c2.md) | 2022 | FLAC | 00:30:29 | [IA](https://archive.org/details/never-stop-texting-me_3205874c30c2) |

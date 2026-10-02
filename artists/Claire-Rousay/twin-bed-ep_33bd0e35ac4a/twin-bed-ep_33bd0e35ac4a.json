@@ -1,0 +1,27 @@
+{
+  "id": "twin-bed-ep_33bd0e35ac4a",
+  "fingerprint": "33bd0e35ac4a1bb67bd35a1c84712dfacbca3705d9f3225e926f4506af485414",
+  "archived_at": "2026-10-02T21:24:31Z",
+  "metadata": {
+    "title": "Twin Bed EP",
+    "artist": "Claire Rousay",
+    "year": "2021",
+    "codec": "ALAC",
+    "num_tracks": 4,
+    "duration_seconds": 1325,
+    "duration_human": "00:22:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 claire rousay - Twin Bed",
+      "02 claire rousay - You Sent Me Kink in the Mail",
+      "03 claire rousay - Trip 1",
+      "04 claire rousay - Trip 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/twin-bed-ep_33bd0e35ac4a"
+    }
+  }
+}
