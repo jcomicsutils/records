@@ -27,4 +27,5 @@
 | [Claire Rousay on Audiotree Live \(Audiotree Live Version\)](claire-rousay-on-audiotree-live-audiotree-live-version_0efa8c8e6bea/claire-rousay-on-audiotree-live-audiotree-live-version_0efa8c8e6bea.md) | 2024 | FLAC | 00:21:44 | [IA](https://archive.org/details/claire-rousay-on-audiotree-live-audiotree-live-version_0efa8c8e6bea) |
 | [A Collective Offering](a-collective-offering_c51d015c64fc/a-collective-offering_c51d015c64fc.md) | 2025 | MP3 | 00:42:00 | [IA](https://archive.org/details/a-collective-offering_c51d015c64fc) |
 | [A Little Death](a-little-death_e1116d8213cb/a-little-death_e1116d8213cb.md) | 2025 | FLAC | 00:31:09 | [IA](https://archive.org/details/a-little-death_e1116d8213cb) |
+| [Hotel Room](hotel-room_d385f1df39a0/hotel-room_d385f1df39a0.md) | 2026 | FLAC | 00:43:29 | [IA](https://archive.org/details/hotel-room_d385f1df39a0) |
 | [2026-07-18 Substation, Melbourne, Australia](2026-07-18-substation-melbourne-australia_40ba48475c70/2026-07-18-substation-melbourne-australia_40ba48475c70.md) | 2026 | FLAC | 00:39:20 | [IA](https://archive.org/details/2026-07-18-substation-melbourne-australia_40ba48475c70) |

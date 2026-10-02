@@ -1,0 +1,29 @@
+{
+  "id": "hotel-room_d385f1df39a0",
+  "fingerprint": "d385f1df39a05ed919575f29a3f8d81e1d3ab4db7a13498428b052c17dafb7ef",
+  "archived_at": "2026-10-02T19:03:12Z",
+  "metadata": {
+    "title": "Hotel Room",
+    "artist": "Claire Rousay",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2609,
+    "duration_human": "00:43:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 claire rousay & Martyna Basta - Zoom",
+      "02 claire rousay & Martyna Basta - The Single Pure Thing Left",
+      "03 claire rousay & Martyna Basta - Lost and Found",
+      "04 claire rousay & Martyna Basta - Denim",
+      "05 claire rousay & Martyna Basta - Where Are You Now",
+      "06 claire rousay & Martyna Basta - Cool Girls Go to Heaven"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hotel-room_d385f1df39a0"
+    }
+  }
+}
