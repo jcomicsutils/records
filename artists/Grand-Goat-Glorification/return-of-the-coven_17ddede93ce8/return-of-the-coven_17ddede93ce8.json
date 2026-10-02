@@ -1,0 +1,25 @@
+{
+  "id": "return-of-the-coven_17ddede93ce8",
+  "fingerprint": "17ddede93ce82ed6467ecd85d1889e800280bdb67917defd22ddd35f99795bb5",
+  "archived_at": "2026-10-02T22:55:27Z",
+  "metadata": {
+    "title": "Return of the Coven",
+    "artist": "Grand Goat Glorification",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Grand Goat Glorification - Untitled A",
+      "02 Grand Goat Glorification - Untitled B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/return-of-the-coven_17ddede93ce8"
+    }
+  }
+}
