@@ -1,0 +1,29 @@
+{
+  "id": "harara-raamma_da14ef98d657",
+  "fingerprint": "da14ef98d657a18b4051dcab3cc142feac1cb2f706409fdc74843074cbecd9ed",
+  "archived_at": "2026-10-02T23:02:17Z",
+  "metadata": {
+    "title": "Harara / Raamma",
+    "artist": "Harara / Raamma",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 5203,
+    "duration_human": "01:26:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Harara - Untitled A",
+      "02 Harara - Untitled B",
+      "03 Raamma - Pierced Septum",
+      "04 Raamma - Ear Tunnel Repair",
+      "05 Raamma - Eyeball Tattoo",
+      "06 Raamma - Society Reaction"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/harara-raamma_da14ef98d657"
+    }
+  }
+}

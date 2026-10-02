@@ -140,6 +140,7 @@
 - [Hanging Stars](Hanging-Stars/Hanging-Stars.md)
 - [Happy Halloween](Happy-Halloween/Happy-Halloween.md)
 - [Harakiri for the Sky](Harakiri-for-the-Sky/Harakiri-for-the-Sky.md)
+- [Harara / Raamma](Harara-Raamma/Harara-Raamma.md)
 - [Harold](Harold/Harold.md)
 - [Headed](Headed/Headed.md)
 - [Hermanos Gutiérrez](Hermanos-Gutiérrez/Hermanos-Gutiérrez.md)
