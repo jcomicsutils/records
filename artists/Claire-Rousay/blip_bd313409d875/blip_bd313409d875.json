@@ -1,0 +1,31 @@
+{
+  "id": "blip_bd313409d875",
+  "fingerprint": "bd313409d875f2143eba839382f27c47d308dcad5265d44a14c723f7d1c6c49c",
+  "archived_at": "2026-10-02T00:57:11Z",
+  "metadata": {
+    "title": "Blip",
+    "artist": "Claire Rousay",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1670,
+    "duration_human": "00:27:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 claire rousay - Blade",
+      "02 claire rousay - Petiole",
+      "03 claire rousay - All",
+      "04 claire rousay - Mimic",
+      "05 claire rousay - Tusk",
+      "06 claire rousay - Clear",
+      "07 claire rousay - Most Broad",
+      "08 claire rousay - Blip"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/blip_bd313409d875"
+    }
+  }
+}

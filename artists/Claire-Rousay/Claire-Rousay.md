@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Blip](blip_bd313409d875/blip_bd313409d875.md) | 2017 | FLAC | 00:27:50 | [IA](https://archive.org/details/blip_bd313409d875) |
 | [Aerophobia](aerophobia_4f72b9b7cad3/aerophobia_4f72b9b7cad3.md) | 2019 | FLAC | 00:35:14 | [IA](https://archive.org/details/aerophobia_4f72b9b7cad3) |
 | [</3](3_dab4e6aeb7c3/3_dab4e6aeb7c3.md) | 2020 | MP3 | 00:14:52 | [IA](https://archive.org/details/3_dab4e6aeb7c3) |
 | [Alcohol](alcohol_aef653b5814b/alcohol_aef653b5814b.md) | 2020 | FLAC | 00:21:48 | [IA](https://archive.org/details/alcohol_aef653b5814b) |
