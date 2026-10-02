@@ -9,6 +9,7 @@
 | [Hey](hey_06c951c20883/hey_06c951c20883.md) | 2019 | MP3 | 00:12:32 | [IA](https://archive.org/details/hey_06c951c20883) |
 | [Aerophobia](aerophobia_4f72b9b7cad3/aerophobia_4f72b9b7cad3.md) | 2019 | FLAC | 00:35:14 | [IA](https://archive.org/details/aerophobia_4f72b9b7cad3) |
 | [I Let a Song Go Out of My Heart](i-let-a-song-go-out-of-my-heart_85314c6d46f5/i-let-a-song-go-out-of-my-heart_85314c6d46f5.md) | 2020 | FLAC | 00:38:39 | [IA](https://archive.org/details/i-let-a-song-go-out-of-my-heart_85314c6d46f5) |
+| [I'll Give You All of My Love](ill-give-you-all-of-my-love_ad2052161cd4/ill-give-you-all-of-my-love_ad2052161cd4.md) | 2020 | FLAC | 00:33:58 | [IA](https://archive.org/details/ill-give-you-all-of-my-love_ad2052161cd4) |
 | [</3](3_dab4e6aeb7c3/3_dab4e6aeb7c3.md) | 2020 | MP3 | 00:14:52 | [IA](https://archive.org/details/3_dab4e6aeb7c3) |
 | [Alcohol](alcohol_aef653b5814b/alcohol_aef653b5814b.md) | 2020 | FLAC | 00:21:48 | [IA](https://archive.org/details/alcohol_aef653b5814b) |
 | [A Heavenly Touch](a-heavenly-touch_17b629036d35/a-heavenly-touch_17b629036d35.md) | 2020 | FLAC | 00:30:00 | [IA](https://archive.org/details/a-heavenly-touch_17b629036d35) |

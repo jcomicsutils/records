@@ -1,0 +1,25 @@
+{
+  "id": "ill-give-you-all-of-my-love_ad2052161cd4",
+  "fingerprint": "ad2052161cd4fcc49d0759312c15c9d345ee721a2f00d1e0af3ea014e2574466",
+  "archived_at": "2026-10-02T19:15:50Z",
+  "metadata": {
+    "title": "I'll Give You All of My Love",
+    "artist": "Claire Rousay",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2038,
+    "duration_human": "00:33:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 claire rousay - October 3rd",
+      "02 claire rousay - Buy My Blessing"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ill-give-you-all-of-my-love_ad2052161cd4"
+    }
+  }
+}
