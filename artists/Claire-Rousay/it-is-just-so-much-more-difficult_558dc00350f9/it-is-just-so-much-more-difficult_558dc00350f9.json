@@ -1,0 +1,25 @@
+{
+  "id": "it-is-just-so-much-more-difficult_558dc00350f9",
+  "fingerprint": "558dc00350f9044c2a1e7f62a2ae5bc11e2eed2f00443fdb4e43378c40d4ae38",
+  "archived_at": "2026-10-02T19:36:42Z",
+  "metadata": {
+    "title": "It Is Just So Much More Difficult",
+    "artist": "Claire Rousay",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1766,
+    "duration_human": "00:29:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 claire rousay - It Is Just",
+      "02 claire rousay - So Much More Difficult"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/it-is-just-so-much-more-difficult_558dc00350f9"
+    }
+  }
+}

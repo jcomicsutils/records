@@ -8,6 +8,7 @@
 | [Friends](friends_b4a5569dd770/friends_b4a5569dd770.md) | 2019 | FLAC | 00:32:59 | [IA](https://archive.org/details/friends_b4a5569dd770) |
 | [Braesview](braesview_a92d5297404a/braesview_a92d5297404a.md) | 2019 | FLAC | 00:10:46 | [IA](https://archive.org/details/braesview_a92d5297404a) |
 | [Hey](hey_06c951c20883/hey_06c951c20883.md) | 2019 | MP3 | 00:12:32 | [IA](https://archive.org/details/hey_06c951c20883) |
+| [It Is Just So Much More Difficult](it-is-just-so-much-more-difficult_558dc00350f9/it-is-just-so-much-more-difficult_558dc00350f9.md) | 2019 | FLAC | 00:29:26 | [IA](https://archive.org/details/it-is-just-so-much-more-difficult_558dc00350f9) |
 | [Aerophobia](aerophobia_4f72b9b7cad3/aerophobia_4f72b9b7cad3.md) | 2019 | FLAC | 00:35:14 | [IA](https://archive.org/details/aerophobia_4f72b9b7cad3) |
 | [If I Don't Let Myself Be Happy Now Then When?](if-i-dont-let-myself-be-happy-now-then-when_37a910517aea/if-i-dont-let-myself-be-happy-now-then-when_37a910517aea.md) | 2020 | FLAC | 00:34:49 | [IA](https://archive.org/details/if-i-dont-let-myself-be-happy-now-then-when_37a910517aea) |
 | [I Let a Song Go Out of My Heart](i-let-a-song-go-out-of-my-heart_85314c6d46f5/i-let-a-song-go-out-of-my-heart_85314c6d46f5.md) | 2020 | FLAC | 00:38:39 | [IA](https://archive.org/details/i-let-a-song-go-out-of-my-heart_85314c6d46f5) |
