@@ -112,6 +112,7 @@
 - [Ein Sof](Ein-Sof/Ein-Sof.md)
 - [Ensemble Pearl](Ensemble-Pearl/Ensemble-Pearl.md)
 - [Espers](Espers/Espers.md)
+- [Eurymedon](Eurymedon/Eurymedon.md)
 - [Ever Present Orchestra](Ever-Present-Orchestra/Ever-Present-Orchestra.md)
 - [Exhibit A](Exhibit-A/Exhibit-A.md)
 - [Exit Sense](Exit-Sense/Exit-Sense.md)

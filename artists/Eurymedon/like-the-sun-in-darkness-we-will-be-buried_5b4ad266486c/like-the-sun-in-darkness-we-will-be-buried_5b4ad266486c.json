@@ -1,0 +1,24 @@
+{
+  "id": "like-the-sun-in-darkness-we-will-be-buried_5b4ad266486c",
+  "fingerprint": "5b4ad266486ce22208a89a6ff44381c8e814f3ab508db6da7bdbf3c328c8849e",
+  "archived_at": "2026-10-02T22:09:11Z",
+  "metadata": {
+    "title": "Like the Sun, in Darkness We Will Be Buried",
+    "artist": "Eurymedon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2400,
+    "duration_human": "00:40:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Eurymedon - Like the Sun, in Darkness We Will Be Buried"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/like-the-sun-in-darkness-we-will-be-buried_5b4ad266486c"
+    }
+  }
+}
