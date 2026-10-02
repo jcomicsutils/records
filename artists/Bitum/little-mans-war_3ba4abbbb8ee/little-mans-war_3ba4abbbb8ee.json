@@ -1,0 +1,29 @@
+{
+  "id": "little-mans-war_3ba4abbbb8ee",
+  "fingerprint": "3ba4abbbb8ee310340626281d1b0f8e7e5030fa97bf94ba03c34be988bab6361",
+  "archived_at": "2026-10-02T18:05:56Z",
+  "metadata": {
+    "title": "Little Man's War",
+    "artist": "Bitum",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 9034,
+    "duration_human": "02:30:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bitum - Untitled 1",
+      "02 Bitum - Untitled 2",
+      "03 Bitum - Untitled 3",
+      "04 Bitum - Untitled 4",
+      "05 Bitum - Untitled 5",
+      "06 Bitum - Untitled 6"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/little-mans-war_3ba4abbbb8ee"
+    }
+  }
+}
