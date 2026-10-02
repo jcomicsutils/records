@@ -1,0 +1,27 @@
+{
+  "id": "intermediator_b86d7619bd52",
+  "fingerprint": "b86d7619bd52d21460dac46adb9a7ea01f5cd5d00eb557cbd8b65b30970f8826",
+  "archived_at": "2026-10-02T17:57:46Z",
+  "metadata": {
+    "title": "Intermediator",
+    "artist": "Bitum",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 7200,
+    "duration_human": "02:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bitum - Sphere",
+      "02 Bitum - Angle and Triangle",
+      "03 Bitum - Absorption",
+      "04 Bitum - Intermediator"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/intermediator_b86d7619bd52"
+    }
+  }
+}
