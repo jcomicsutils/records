@@ -1,0 +1,33 @@
+{
+  "id": "demos-experiments-extras_90dcf551957e",
+  "fingerprint": "90dcf551957ed439a76cf9d51211a899be8e75c245afda8eca0923775dd777c5",
+  "archived_at": "2026-10-02T01:39:18Z",
+  "metadata": {
+    "title": "Demos, Experiments, Extras",
+    "artist": "Claire Rousay",
+    "year": "2022",
+    "codec": "MP3",
+    "num_tracks": 10,
+    "duration_seconds": 1457,
+    "duration_human": "00:24:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 claire rousay - Fors Plus Field Rec",
+      "02 claire rousay - January 2",
+      "03 claire rousay - January 3",
+      "04 claire rousay - January 5",
+      "05 claire rousay - January 4",
+      "06 claire rousay - January 6",
+      "07 claire rousay - January 7",
+      "08 claire rousay - January 8",
+      "09 claire rousay - ily2",
+      "10 claire rousay - Drunk Uber Driver in Philly"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/demos-experiments-extras_90dcf551957e"
+    }
+  }
+}
