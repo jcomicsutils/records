@@ -1,0 +1,25 @@
+{
+  "id": "imp-env_e19a3700dba3",
+  "fingerprint": "e19a3700dba339e15534620b62b7fc7c25a58ed86a93f0afa67b9d4ede3b2ef9",
+  "archived_at": "2026-10-02T19:32:59Z",
+  "metadata": {
+    "title": "Imp / Env",
+    "artist": "Claire Rousay",
+    "year": "2018",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1317,
+    "duration_human": "00:21:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Dane Rousay - Imp",
+      "02 Dane Rousay - Env"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/imp-env_e19a3700dba3"
+    }
+  }
+}
