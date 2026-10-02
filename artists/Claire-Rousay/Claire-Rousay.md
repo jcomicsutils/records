@@ -26,6 +26,7 @@
 | [A Heavenly Touch](a-heavenly-touch_17b629036d35/a-heavenly-touch_17b629036d35.md) | 2020 | FLAC | 00:30:00 | [IA](https://archive.org/details/a-heavenly-touch_17b629036d35) |
 | [claire rousay & more eaze / Wind Tide](claire-rousay-more-eaze-wind-tide_73f6267d24f5/claire-rousay-more-eaze-wind-tide_73f6267d24f5.md) | 2020 | FLAC | 00:29:09 | [IA](https://archive.org/details/claire-rousay-more-eaze-wind-tide_73f6267d24f5) |
 | [Both](both_8e87f08cc941/both_8e87f08cc941.md) | 2020 | FLAC | 00:34:24 | [IA](https://archive.org/details/both_8e87f08cc941) |
+| [Santa Fe Live \(Theodore Cale Schafer Remix\)](santa-fe-live-theodore-cale-schafer-remix_40a75246bfe3/santa-fe-live-theodore-cale-schafer-remix_40a75246bfe3.md) | 2020 | ALAC | 01:14:53 | [IA](https://archive.org/details/santa-fe-live-theodore-cale-schafer-remix_40a75246bfe3) |
 | [Live at CMC Multilocation](live-at-cmc-multilocation_2e5463274904/live-at-cmc-multilocation_2e5463274904.md) | 2021 | MP3 | 00:21:58 | [IA](https://archive.org/details/live-at-cmc-multilocation_2e5463274904) |
 | [Now Am Found](now-am-found_847a13837b8c/now-am-found_847a13837b8c.md) | 2021 | ALAC | 00:34:17 | [IA](https://archive.org/details/now-am-found_847a13837b8c) |
 | [ilysm](ilysm_819c91f89067/ilysm_819c91f89067.md) | 2021 | FLAC | 00:20:10 | [IA](https://archive.org/details/ilysm_819c91f89067) |
