@@ -1,0 +1,24 @@
+{
+  "id": "live-at-cmc-multilocation_2e5463274904",
+  "fingerprint": "2e54632749046f9fa2aae17ecb45c93a5bb5bc114393f75721a284e5abf42a79",
+  "archived_at": "2026-10-02T19:49:03Z",
+  "metadata": {
+    "title": "Live at CMC Multilocation",
+    "artist": "Claire Rousay",
+    "year": "2021",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1318,
+    "duration_human": "00:21:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 claire rousay - Live at CMC Multilocation"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-at-cmc-multilocation_2e5463274904"
+    }
+  }
+}
