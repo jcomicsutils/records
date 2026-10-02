@@ -33,6 +33,7 @@
 | [ilysm](ilysm_819c91f89067/ilysm_819c91f89067.md) | 2021 | FLAC | 00:20:10 | [IA](https://archive.org/details/ilysm_819c91f89067) |
 | [A Moment in St Louis and a Moment at the Beach](a-moment-in-st-louis-and-a-moment-at-the-beach_742d57eeb8d7/a-moment-in-st-louis-and-a-moment-at-the-beach_742d57eeb8d7.md) | 2021 | ALAC | 00:22:37 | [IA](https://archive.org/details/a-moment-in-st-louis-and-a-moment-at-the-beach_742d57eeb8d7) |
 | [A Softer Focus](a-softer-focus_d62c22366abf/a-softer-focus_d62c22366abf.md) | 2021 | FLAC | 00:33:23 | [IA](https://archive.org/details/a-softer-focus_d62c22366abf) |
+| [Several Erasures](several-erasures_b01019c185c5/several-erasures_b01019c185c5.md) | 2021 | FLAC | 00:36:51 | [IA](https://archive.org/details/several-erasures_b01019c185c5) |
 | [An Afternoon Whine](an-afternoon-whine_923488cfe1e1/an-afternoon-whine_923488cfe1e1.md) | 2021 | FLAC | 00:30:14 | [IA](https://archive.org/details/an-afternoon-whine_923488cfe1e1) |
 | [Gno](gno_5c13b2cd7193/gno_5c13b2cd7193.md) | 2021 | MP3 | 00:20:20 | [IA](https://archive.org/details/gno_5c13b2cd7193) |
 | [Live](live_2804fa8d0469/live_2804fa8d0469.md) | 2021 | FLAC | 00:24:40 | [IA](https://archive.org/details/live_2804fa8d0469) |

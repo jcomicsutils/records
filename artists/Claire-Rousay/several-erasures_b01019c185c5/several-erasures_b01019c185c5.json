@@ -1,0 +1,27 @@
+{
+  "id": "several-erasures_b01019c185c5",
+  "fingerprint": "b01019c185c5f0a1516b3adc444ad42f1c54ad503e0578e5fdb9195dee8c50d3",
+  "archived_at": "2026-10-02T20:56:19Z",
+  "metadata": {
+    "title": "Several Erasures",
+    "artist": "Claire Rousay",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2211,
+    "duration_human": "00:36:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 claire rousay - Clocked",
+      "02 claire rousay - Shadow",
+      "03 claire rousay - Several Erasures",
+      "04 claire rousay - For Jacob"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/several-erasures_b01019c185c5"
+    }
+  }
+}
