@@ -1,0 +1,24 @@
+{
+  "id": "it-was-always-worth-it_f36db4e8fb11",
+  "fingerprint": "f36db4e8fb11a70a304a33f104f0fb62688046f31c26bf9000fcf5ea8af4d0d1",
+  "archived_at": "2026-10-02T19:41:21Z",
+  "metadata": {
+    "title": "It Was Always Worth It",
+    "artist": "Claire Rousay",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1212,
+    "duration_human": "00:20:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 claire rousay - It Was Always Worth It"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/it-was-always-worth-it_f36db4e8fb11"
+    }
+  }
+}
