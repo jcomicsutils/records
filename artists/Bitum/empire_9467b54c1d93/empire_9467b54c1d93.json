@@ -1,0 +1,25 @@
+{
+  "id": "empire_9467b54c1d93",
+  "fingerprint": "9467b54c1d934ab17f1727bb462e1f941c3f06ac30e7c0956380d720d639d8a9",
+  "archived_at": "2026-10-02T17:42:44Z",
+  "metadata": {
+    "title": "Empire",
+    "artist": "Bitum",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3428,
+    "duration_human": "00:57:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bitum - Empire I",
+      "02 Bitum - Empire II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/empire_9467b54c1d93"
+    }
+  }
+}
