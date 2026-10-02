@@ -6,6 +6,7 @@
 | [Imp / Env](imp-env_e19a3700dba3/imp-env_e19a3700dba3.md) | 2018 | MP3 | 00:21:57 | [IA](https://archive.org/details/imp-env_e19a3700dba3) |
 | [Divide](divide_ca9bdab6f5af/divide_ca9bdab6f5af.md) | 2018 | FLAC | 00:25:14 | [IA](https://archive.org/details/divide_ca9bdab6f5af) |
 | [Friends](friends_b4a5569dd770/friends_b4a5569dd770.md) | 2019 | FLAC | 00:32:59 | [IA](https://archive.org/details/friends_b4a5569dd770) |
+| [Live at Cafe Fixe](live-at-cafe-fixe_2604ab1abcbe/live-at-cafe-fixe_2604ab1abcbe.md) | 2019 | MP3 | 00:29:00 | [IA](https://archive.org/details/live-at-cafe-fixe_2604ab1abcbe) |
 | [Braesview](braesview_a92d5297404a/braesview_a92d5297404a.md) | 2019 | FLAC | 00:10:46 | [IA](https://archive.org/details/braesview_a92d5297404a) |
 | [Hey](hey_06c951c20883/hey_06c951c20883.md) | 2019 | MP3 | 00:12:32 | [IA](https://archive.org/details/hey_06c951c20883) |
 | [It Is Just So Much More Difficult](it-is-just-so-much-more-difficult_558dc00350f9/it-is-just-so-much-more-difficult_558dc00350f9.md) | 2019 | FLAC | 00:29:26 | [IA](https://archive.org/details/it-is-just-so-much-more-difficult_558dc00350f9) |

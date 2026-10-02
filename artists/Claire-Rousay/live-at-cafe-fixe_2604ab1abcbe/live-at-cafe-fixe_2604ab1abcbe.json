@@ -1,0 +1,25 @@
+{
+  "id": "live-at-cafe-fixe_2604ab1abcbe",
+  "fingerprint": "2604ab1abcbeb3b0fb1e5313b0541231ad45d99747c304d541187c33aed67506",
+  "archived_at": "2026-10-02T19:46:33Z",
+  "metadata": {
+    "title": "Live at Cafe Fixe",
+    "artist": "Claire Rousay",
+    "year": "2019",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1740,
+    "duration_human": "00:29:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 claire rousay - Sim Was Here but Is Now in Texas",
+      "02 claire rousay - Trans Femme Eye Contact at the Gig"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-at-cafe-fixe_2604ab1abcbe"
+    }
+  }
+}
