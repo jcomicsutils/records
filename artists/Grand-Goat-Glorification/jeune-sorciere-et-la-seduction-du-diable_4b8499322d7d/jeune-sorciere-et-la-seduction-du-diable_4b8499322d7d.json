@@ -1,0 +1,25 @@
+{
+  "id": "jeune-sorciere-et-la-seduction-du-diable_4b8499322d7d",
+  "fingerprint": "4b8499322d7dbd77ae84ee26152e2858dfb4b59ea5b416cbe53a11aef2b4846d",
+  "archived_at": "2026-10-02T22:27:08Z",
+  "metadata": {
+    "title": "Jeune sorcière et la séduction du diable",
+    "artist": "Grand Goat Glorification",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3517,
+    "duration_human": "00:58:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Grand Goat Glorification - A",
+      "02 Grand Goat Glorification - B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/jeune-sorciere-et-la-seduction-du-diable_4b8499322d7d"
+    }
+  }
+}
