@@ -1,0 +1,25 @@
+{
+  "id": "everything-perfect-is-already-here_5b79a9921d85",
+  "fingerprint": "5b79a9921d85a71823b330d1ce3a76171b2fc22a440138fe05b3f40d12fd2da4",
+  "archived_at": "2026-10-02T01:58:50Z",
+  "metadata": {
+    "title": "Everything Perfect Is Already Here",
+    "artist": "Claire Rousay",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1816,
+    "duration_human": "00:30:16",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 claire rousay - It Feels Foolish to Care",
+      "02 claire rousay - Everything Perfect Is Already Here"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/everything-perfect-is-already-here_5b79a9921d85"
+    }
+  }
+}
