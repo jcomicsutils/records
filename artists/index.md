@@ -158,6 +158,7 @@
 - [Jacken Elswyth](Jacken-Elswyth/Jacken-Elswyth.md)
 - [Jessica Ekomane](Jessica-Ekomane/Jessica-Ekomane.md)
 - [Jo David Meyer Lysne](Jo-David-Meyer-Lysne/Jo-David-Meyer-Lysne.md)
+- [Jord Eitur](Jord-Eitur/Jord-Eitur.md)
 - [KTL](KTL/KTL.md)
 - [Kaatayra](Kaatayra/Kaatayra.md)
 - [Kafka Semyavin](Kafka-Semyavin/Kafka-Semyavin.md)
