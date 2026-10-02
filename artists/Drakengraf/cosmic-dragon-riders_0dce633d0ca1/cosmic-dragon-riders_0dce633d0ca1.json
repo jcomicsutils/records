@@ -1,0 +1,24 @@
+{
+  "id": "cosmic-dragon-riders_0dce633d0ca1",
+  "fingerprint": "0dce633d0ca1a51cde320eb07085adb64a82e8c04d67a6b436088ca946683536",
+  "archived_at": "2026-10-02T21:32:26Z",
+  "metadata": {
+    "title": "Cosmic Dragon Riders",
+    "artist": "Drakengraf",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2323,
+    "duration_human": "00:38:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Drakengraf - Cosmic Dragon Riders"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cosmic-dragon-riders_0dce633d0ca1"
+    }
+  }
+}
