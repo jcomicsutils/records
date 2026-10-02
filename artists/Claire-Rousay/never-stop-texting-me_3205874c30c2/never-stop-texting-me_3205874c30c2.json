@@ -1,0 +1,33 @@
+{
+  "id": "never-stop-texting-me_3205874c30c2",
+  "fingerprint": "3205874c30c2c289accb3f99b44a7b4544370f89ef742ef05ccf3f100c131c80",
+  "archived_at": "2026-10-02T20:11:11Z",
+  "metadata": {
+    "title": "Never Stop Texting Me",
+    "artist": "Claire Rousay",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 1829,
+    "duration_human": "00:30:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 claire rousay & more eaze - Same",
+      "02 claire rousay & more eaze - Hands",
+      "03 claire rousay & more eaze - Kyle",
+      "04 claire rousay & more eaze - Iphone2",
+      "05 claire rousay & more eaze - Stairs",
+      "06 claire rousay & more eaze - Camille",
+      "07 claire rousay & more eaze - Missed",
+      "08 claire rousay & more eaze - Art",
+      "09 claire rousay & more eaze - Arms",
+      "10 claire rousay & more eaze - Floor Pt. 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/never-stop-texting-me_3205874c30c2"
+    }
+  }
+}
