@@ -1,0 +1,25 @@
+{
+  "id": "live-at-elastic-arts_a2d05c9cb1d7",
+  "fingerprint": "a2d05c9cb1d7a31393c967c9faf3c950e409121628335a9297898b4213ff63aa",
+  "archived_at": "2026-10-02T19:52:59Z",
+  "metadata": {
+    "title": "Live at Elastic Arts",
+    "artist": "Claire Rousay",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 1670,
+    "duration_human": "00:27:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Carol Genetti & Claire Rousay - 1",
+      "02 Carol Genetti & Claire Rousay - 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-at-elastic-arts_a2d05c9cb1d7"
+    }
+  }
+}
