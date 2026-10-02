@@ -10,6 +10,7 @@
 - [A. Yólotl / Abriction](A.-Yólotl-Abriction/A.-Yólotl-Abriction.md)
 - [ASSOCIAÇÃO DOS GAROTOS QUE SOFREM](ASSOCIAÇÃO-DOS-GAROTOS-QUE-SOFREM/ASSOCIAÇÃO-DOS-GAROTOS-QUE-SOFREM.md)
 - [Absolute Controlled Clinical Maniacs](Absolute-Controlled-Clinical-Maniacs/Absolute-Controlled-Clinical-Maniacs.md)
+- [Abstrakta](Abstrakta/Abstrakta.md)
 - [Accident Prone Records](Accident-Prone-Records/Accident-Prone-Records.md)
 - [Adam Bosarge](Adam-Bosarge/Adam-Bosarge.md)
 - [African Imperial Wizard](African-Imperial-Wizard/African-Imperial-Wizard.md)
