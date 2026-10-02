@@ -1,0 +1,25 @@
+{
+  "id": "claire-rousay-more-eaze-wind-tide_73f6267d24f5",
+  "fingerprint": "73f6267d24f586f226aa3287434b74bdeb64c22c41541af126d41c26286c89b4",
+  "archived_at": "2026-10-02T01:20:53Z",
+  "metadata": {
+    "title": "claire rousay & more eaze / Wind Tide",
+    "artist": "Claire Rousay",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1749,
+    "duration_human": "00:29:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 claire rousay & more eaze - She's Literally Fine",
+      "02 Wind Tide - Room Tone Piece"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/claire-rousay-more-eaze-wind-tide_73f6267d24f5"
+    }
+  }
+}
