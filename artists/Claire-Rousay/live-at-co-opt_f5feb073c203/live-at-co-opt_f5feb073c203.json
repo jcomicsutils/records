@@ -1,0 +1,24 @@
+{
+  "id": "live-at-co-opt_f5feb073c203",
+  "fingerprint": "f5feb073c203bdf2e18a5d2d4492dfcaaf2d7b6374e886e2ab1dcde91279173a",
+  "archived_at": "2026-10-02T19:50:44Z",
+  "metadata": {
+    "title": "Live at CO-OPt",
+    "artist": "Claire Rousay",
+    "year": "2020",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1705,
+    "duration_human": "00:28:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 claire rousay & Andrew Weathers - Live at CO-OPt"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-at-co-opt_f5feb073c203"
+    }
+  }
+}

@@ -16,6 +16,7 @@
 | [I Let a Song Go Out of My Heart](i-let-a-song-go-out-of-my-heart_85314c6d46f5/i-let-a-song-go-out-of-my-heart_85314c6d46f5.md) | 2020 | FLAC | 00:38:39 | [IA](https://archive.org/details/i-let-a-song-go-out-of-my-heart_85314c6d46f5) |
 | [I'll Give You All of My Love](ill-give-you-all-of-my-love_ad2052161cd4/ill-give-you-all-of-my-love_ad2052161cd4.md) | 2020 | FLAC | 00:33:58 | [IA](https://archive.org/details/ill-give-you-all-of-my-love_ad2052161cd4) |
 | [</3](3_dab4e6aeb7c3/3_dab4e6aeb7c3.md) | 2020 | MP3 | 00:14:52 | [IA](https://archive.org/details/3_dab4e6aeb7c3) |
+| [Live at CO-OPt](live-at-co-opt_f5feb073c203/live-at-co-opt_f5feb073c203.md) | 2020 | MP3 | 00:28:25 | [IA](https://archive.org/details/live-at-co-opt_f5feb073c203) |
 | [Alcohol](alcohol_aef653b5814b/alcohol_aef653b5814b.md) | 2020 | FLAC | 00:21:48 | [IA](https://archive.org/details/alcohol_aef653b5814b) |
 | [A Heavenly Touch](a-heavenly-touch_17b629036d35/a-heavenly-touch_17b629036d35.md) | 2020 | FLAC | 00:30:00 | [IA](https://archive.org/details/a-heavenly-touch_17b629036d35) |
 | [claire rousay & more eaze / Wind Tide](claire-rousay-more-eaze-wind-tide_73f6267d24f5/claire-rousay-more-eaze-wind-tide_73f6267d24f5.md) | 2020 | FLAC | 00:29:09 | [IA](https://archive.org/details/claire-rousay-more-eaze-wind-tide_73f6267d24f5) |
