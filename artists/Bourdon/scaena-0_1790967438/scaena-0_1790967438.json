@@ -1,0 +1,27 @@
+{
+  "id": "scaena-0_1790967438",
+  "fingerprint": "b8702767c27bedd78aad13742796018136471b82d99e931db8304472c3a69304",
+  "archived_at": "2026-10-02T18:57:18Z",
+  "metadata": {
+    "title": "Scaena 0",
+    "artist": "Bourdon",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2999,
+    "duration_human": "00:49:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bourdon - Scaena 0"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/061-sleep-harbinger_b8702767c27b"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/beta14/bdaa9cd00c07e81b345e/061_Sleep_Harbinger.tar"
+    }
+  }
+}
