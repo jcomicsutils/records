@@ -1,0 +1,24 @@
+{
+  "id": "south-pasadena-california-usa-06252025-125pm_9d459cc71ae8",
+  "fingerprint": "9d459cc71ae87b5c8b99986da3d9f11a7a643075f0e0fdbcc33bc46fb5fc0362",
+  "archived_at": "2026-10-02T21:02:16Z",
+  "metadata": {
+    "title": "South Pasadena, California (USA), 06/25/2025, 1.25pm",
+    "artist": "Claire Rousay",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1484,
+    "duration_human": "00:24:44",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 claire rousay - South Pasadena, California (USA), 06/25/2025, 1.25pm"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/south-pasadena-california-usa-06252025-125pm_9d459cc71ae8"
+    }
+  }
+}

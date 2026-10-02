@@ -52,5 +52,6 @@
 | [A Collective Offering](a-collective-offering_c51d015c64fc/a-collective-offering_c51d015c64fc.md) | 2025 | MP3 | 00:42:00 | [IA](https://archive.org/details/a-collective-offering_c51d015c64fc) |
 | [A Little Death](a-little-death_e1116d8213cb/a-little-death_e1116d8213cb.md) | 2025 | FLAC | 00:31:09 | [IA](https://archive.org/details/a-little-death_e1116d8213cb) |
 | [Quilted Lament](quilted-lament_f041a2db4fc6/quilted-lament_f041a2db4fc6.md) | 2025 | FLAC | 00:28:54 | [IA](https://archive.org/details/quilted-lament_f041a2db4fc6) |
+| [South Pasadena, California \(USA\), 06/25/2025, 1.25pm](south-pasadena-california-usa-06252025-125pm_9d459cc71ae8/south-pasadena-california-usa-06252025-125pm_9d459cc71ae8.md) | 2025 | FLAC | 00:24:44 | [IA](https://archive.org/details/south-pasadena-california-usa-06252025-125pm_9d459cc71ae8) |
 | [Hotel Room](hotel-room_d385f1df39a0/hotel-room_d385f1df39a0.md) | 2026 | FLAC | 00:43:29 | [IA](https://archive.org/details/hotel-room_d385f1df39a0) |
 | [2026-07-18 Substation, Melbourne, Australia](2026-07-18-substation-melbourne-australia_40ba48475c70/2026-07-18-substation-melbourne-australia_40ba48475c70.md) | 2026 | FLAC | 00:39:20 | [IA](https://archive.org/details/2026-07-18-substation-melbourne-australia_40ba48475c70) |
