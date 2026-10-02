@@ -8,6 +8,7 @@
 | [A Heavenly Touch](a-heavenly-touch_17b629036d35/a-heavenly-touch_17b629036d35.md) | 2020 | FLAC | 00:30:00 | [IA](https://archive.org/details/a-heavenly-touch_17b629036d35) |
 | [A Moment in St Louis and a Moment at the Beach](a-moment-in-st-louis-and-a-moment-at-the-beach_742d57eeb8d7/a-moment-in-st-louis-and-a-moment-at-the-beach_742d57eeb8d7.md) | 2021 | ALAC | 00:22:37 | [IA](https://archive.org/details/a-moment-in-st-louis-and-a-moment-at-the-beach_742d57eeb8d7) |
 | [A Softer Focus](a-softer-focus_d62c22366abf/a-softer-focus_d62c22366abf.md) | 2021 | FLAC | 00:33:23 | [IA](https://archive.org/details/a-softer-focus_d62c22366abf) |
+| [An Afternoon Whine](an-afternoon-whine_923488cfe1e1/an-afternoon-whine_923488cfe1e1.md) | 2021 | FLAC | 00:30:14 | [IA](https://archive.org/details/an-afternoon-whine_923488cfe1e1) |
 | [A Collection](a-collection_c470c100bec6/a-collection_c470c100bec6.md) | 2021 | FLAC | 02:17:00 | [IA](https://archive.org/details/a-collection_c470c100bec6) |
 | [17 Roles \(All Mapped Out\)](17-roles-all-mapped-out_0bb6bda018e1/17-roles-all-mapped-out_0bb6bda018e1.md) | 2022 | FLAC | 00:24:24 | [IA](https://archive.org/details/17-roles-all-mapped-out_0bb6bda018e1) |
 | [A Collective Offering](a-collective-offering_c51d015c64fc/a-collective-offering_c51d015c64fc.md) | 2025 | MP3 | 00:42:00 | [IA](https://archive.org/details/a-collective-offering_c51d015c64fc) |

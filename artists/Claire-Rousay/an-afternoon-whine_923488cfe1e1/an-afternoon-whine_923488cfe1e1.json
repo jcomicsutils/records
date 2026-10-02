@@ -1,0 +1,28 @@
+{
+  "id": "an-afternoon-whine_923488cfe1e1",
+  "fingerprint": "923488cfe1e1070be6437c2ba6c1f2eef5a500876433ee682d2ad7f2a8b51137",
+  "archived_at": "2026-10-02T00:35:11Z",
+  "metadata": {
+    "title": "An Afternoon Whine",
+    "artist": "Claire Rousay",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1814,
+    "duration_human": "00:30:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 claire rousay & more eaze - Great Song",
+      "02 claire rousay & more eaze - Floor PT 3",
+      "03 claire rousay & more eaze - 21 Cents Flat and Yearning",
+      "04 claire rousay & more eaze - Smaller Pools",
+      "05 claire rousay & more eaze - Songs for a Tuned Guitar"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/an-afternoon-whine_923488cfe1e1"
+    }
+  }
+}
