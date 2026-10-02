@@ -1,0 +1,28 @@
+{
+  "id": "now-am-found_847a13837b8c",
+  "fingerprint": "847a13837b8c5efaecc298f2e01379cf4c41c44c837728485f147cc747b99bf3",
+  "archived_at": "2026-10-02T20:15:43Z",
+  "metadata": {
+    "title": "Now Am Found",
+    "artist": "Claire Rousay",
+    "year": "2021",
+    "codec": "ALAC",
+    "num_tracks": 5,
+    "duration_seconds": 2057,
+    "duration_human": "00:34:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 claire rousay & Patrick Shiroishi - Spring Dawn House",
+      "02 claire rousay & Patrick Shiroishi - I Remember What It Was Like",
+      "03 claire rousay & Patrick Shiroishi - Last of Many Times Over",
+      "04 claire rousay & Patrick Shiroishi - Silent Moon",
+      "05 claire rousay & Patrick Shiroishi - Brushed Too Hard"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/now-am-found_847a13837b8c"
+    }
+  }
+}
