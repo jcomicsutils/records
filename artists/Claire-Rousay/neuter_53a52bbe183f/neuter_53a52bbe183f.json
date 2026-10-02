@@ -1,0 +1,25 @@
+{
+  "id": "neuter_53a52bbe183f",
+  "fingerprint": "53a52bbe183f02a06a9ec97c693c14449419b9918e19c61777bad6d4a5d9c028",
+  "archived_at": "2026-10-02T20:06:54Z",
+  "metadata": {
+    "title": "Neuter",
+    "artist": "Claire Rousay",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1220,
+    "duration_human": "00:20:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 claire rousay - Neuter",
+      "02 claire rousay - Larger Than Others of Its Kind"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/neuter_53a52bbe183f"
+    }
+  }
+}
