@@ -1,0 +1,25 @@
+{
+  "id": "taisho-trilogy-part-1-tsigoineruwaizen_8758741c2a69",
+  "fingerprint": "8758741c2a69631a154c5cff9ba7608b3dcb24ca71e8ac0f5494f34063ac3720",
+  "archived_at": "2026-10-02T18:25:22Z",
+  "metadata": {
+    "title": "Taisho Trilogy. Part 1 - Tsigoineruwaizen",
+    "artist": "Bitum",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bitum - Tsigoineruwaizen 1",
+      "02 Bitum - Tsigoineruwaizen 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/taisho-trilogy-part-1-tsigoineruwaizen_8758741c2a69"
+    }
+  }
+}
