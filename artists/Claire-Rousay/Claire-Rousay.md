@@ -46,6 +46,7 @@
 | [Deceiver](deceiver_3924c63a5538/deceiver_3924c63a5538.md) | 2023 | FLAC | 00:03:44 | [IA](https://archive.org/details/deceiver_3924c63a5538) |
 | [Claire Rousay on Audiotree Live \(Audiotree Live Version\)](claire-rousay-on-audiotree-live-audiotree-live-version_0efa8c8e6bea/claire-rousay-on-audiotree-live-audiotree-live-version_0efa8c8e6bea.md) | 2024 | FLAC | 00:21:44 | [IA](https://archive.org/details/claire-rousay-on-audiotree-live-audiotree-live-version_0efa8c8e6bea) |
 | [Sentiment](sentiment_17f61110d980/sentiment_17f61110d980.md) | 2024 | FLAC | 00:37:32 | [IA](https://archive.org/details/sentiment_17f61110d980) |
+| [Sentiment Remix](sentiment-remix_bba64b89fe30/sentiment-remix_bba64b89fe30.md) | 2024 | FLAC | 00:32:22 | [IA](https://archive.org/details/sentiment-remix_bba64b89fe30) |
 | [A Collective Offering](a-collective-offering_c51d015c64fc/a-collective-offering_c51d015c64fc.md) | 2025 | MP3 | 00:42:00 | [IA](https://archive.org/details/a-collective-offering_c51d015c64fc) |
 | [A Little Death](a-little-death_e1116d8213cb/a-little-death_e1116d8213cb.md) | 2025 | FLAC | 00:31:09 | [IA](https://archive.org/details/a-little-death_e1116d8213cb) |
 | [Quilted Lament](quilted-lament_f041a2db4fc6/quilted-lament_f041a2db4fc6.md) | 2025 | FLAC | 00:28:54 | [IA](https://archive.org/details/quilted-lament_f041a2db4fc6) |

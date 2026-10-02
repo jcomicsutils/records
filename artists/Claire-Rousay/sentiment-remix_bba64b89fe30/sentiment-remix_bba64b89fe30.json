@@ -1,0 +1,30 @@
+{
+  "id": "sentiment-remix_bba64b89fe30",
+  "fingerprint": "bba64b89fe302576ca0408f2f37babd515e1d82fe18cbe2a02a4c3bcb1ab32bd",
+  "archived_at": "2026-10-02T20:52:29Z",
+  "metadata": {
+    "title": "Sentiment Remix",
+    "artist": "Claire Rousay",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1942,
+    "duration_human": "00:32:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 claire rousay - Listening to Every Vocal Track on Sentiment (Andrew Weathers Remix)",
+      "02 claire rousay - It Could Be Anything (Patrick Shiroishi Remix)",
+      "03 claire rousay - ily2 (Maral Remix)",
+      "04 claire rousay - Asking for It (Gretchen Korsmo Remix)",
+      "05 claire rousay - Sycamore Skylight (More Eaze Remix)",
+      "06 claire rousay - Head (AMULETS Remix)",
+      "07 claire rousay - Lover's Spit Plays in the Background (M Sage Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sentiment-remix_bba64b89fe30"
+    }
+  }
+}
