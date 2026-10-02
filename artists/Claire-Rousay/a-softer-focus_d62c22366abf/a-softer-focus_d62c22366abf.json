@@ -1,0 +1,29 @@
+{
+  "id": "a-softer-focus_d62c22366abf",
+  "fingerprint": "d62c22366abfef4489fb590b14fbdc672b4551c3b2b0fc0686d5e92be99b40a9",
+  "archived_at": "2026-10-02T00:06:07Z",
+  "metadata": {
+    "title": "A Softer Focus",
+    "artist": "Claire Rousay",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2003,
+    "duration_human": "00:33:23",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 claire rousay - Preston Ave",
+      "02 claire rousay - Discrete (The Market)",
+      "03 claire rousay - Peak Chroma",
+      "04 claire rousay - Diluted Dreams",
+      "05 claire rousay - Stoned Gesture",
+      "06 claire rousay - A Kind of Promise"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-softer-focus_d62c22366abf"
+    }
+  }
+}
