@@ -1,0 +1,27 @@
+{
+  "id": "claire-rousay-on-audiotree-live-audiotree-live-version_0efa8c8e6bea",
+  "fingerprint": "0efa8c8e6bea59b9d287d02f58db2fcd67dbf39e53ecea888d9892db8c70e426",
+  "archived_at": "2026-10-02T01:27:53Z",
+  "metadata": {
+    "title": "Claire Rousay on Audiotree Live (Audiotree Live Version)",
+    "artist": "Claire Rousay",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1304,
+    "duration_human": "00:21:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 claire rousay - 4pm (Audiotree Live Version)",
+      "02 claire rousay - Head (Audiotree Live Version)",
+      "03 claire rousay - Please 5 More Minutes (Audiotree Live Version)",
+      "04 claire rousay - Lover's Spit Plays in the Background (Audiotree Live Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/claire-rousay-on-audiotree-live-audiotree-live-version_0efa8c8e6bea"
+    }
+  }
+}
