@@ -1,0 +1,24 @@
+{
+  "id": "live_2804fa8d0469",
+  "fingerprint": "2804fa8d0469b66f1300f5016a157b2402f8870b8ab7654b06a0b1329f442910",
+  "archived_at": "2026-10-02T19:43:58Z",
+  "metadata": {
+    "title": "Live",
+    "artist": "Claire Rousay",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1480,
+    "duration_human": "00:24:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 claire rousay - Untitled 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live_2804fa8d0469"
+    }
+  }
+}
