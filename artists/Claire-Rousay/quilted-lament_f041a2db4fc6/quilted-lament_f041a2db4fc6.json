@@ -1,0 +1,30 @@
+{
+  "id": "quilted-lament_f041a2db4fc6",
+  "fingerprint": "f041a2db4fc63712eebcb43bc4947264d4ae1539ce8c07fa42e0939517d66f51",
+  "archived_at": "2026-10-02T20:24:39Z",
+  "metadata": {
+    "title": "Quilted Lament",
+    "artist": "Claire Rousay",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1734,
+    "duration_human": "00:28:54",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 claire rousay & Gretchen Korsmo - Find Yourself in a Hole on the Beach",
+      "02 claire rousay & Gretchen Korsmo - Thick Walls, Thin Walls",
+      "03 claire rousay & Gretchen Korsmo - Nothing to Dread",
+      "04 claire rousay & Gretchen Korsmo - Kitchen Duet",
+      "05 claire rousay & Gretchen Korsmo - Human Imperfection",
+      "06 claire rousay & Gretchen Korsmo - Sunday Morning",
+      "07 claire rousay & Gretchen Korsmo - Spiral Branches"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/quilted-lament_f041a2db4fc6"
+    }
+  }
+}
