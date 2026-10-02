@@ -1,0 +1,26 @@
+{
+  "id": "untitled-4_ed3b244baf7a",
+  "fingerprint": "ed3b244baf7a9898db22ad252080379d16af95da4f65c6d3632c4286761009a3",
+  "archived_at": "2026-10-02T23:41:03Z",
+  "metadata": {
+    "title": "Untitled 4",
+    "artist": "Harara",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2622,
+    "duration_human": "00:43:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Harara - Untitled A",
+      "02 Harara - Untitled B",
+      "03 Harara - Untitled C"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/untitled-4_ed3b244baf7a"
+    }
+  }
+}
