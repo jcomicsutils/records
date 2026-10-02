@@ -1,0 +1,25 @@
+{
+  "id": "bourdon-stimmenwald_ad208c2d79aa",
+  "fingerprint": "ad208c2d79aaac07ed7cdc97d4ca01e3eb24de75f92c988ad1eb8ce4e3e02175",
+  "archived_at": "2026-10-02T18:50:35Z",
+  "metadata": {
+    "title": "Bourdon / Stimmenwald",
+    "artist": "Bourdon/Stimmenwald",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4884,
+    "duration_human": "01:21:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bourdon - Sonata Vibranticus",
+      "02 Stimmenwald - Ghost in the Machine"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bourdon-stimmenwald_ad208c2d79aa"
+    }
+  }
+}
