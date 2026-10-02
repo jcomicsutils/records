@@ -1,0 +1,26 @@
+{
+  "id": "wouldnt-have-to-hurt_32da6a94f8bc",
+  "fingerprint": "32da6a94f8bc96bf1f9356b6d5de72c4d62f32f2a447f87099a816fae91e7da9",
+  "archived_at": "2026-10-02T21:28:49Z",
+  "metadata": {
+    "title": "Wouldn't Have to Hurt",
+    "artist": "Claire Rousay",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2048,
+    "duration_human": "00:34:08",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 claire rousay - Beth",
+      "02 claire rousay - Soft as I Can",
+      "03 claire rousay - Wouldn't Have to Hurt"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wouldnt-have-to-hurt_32da6a94f8bc"
+    }
+  }
+}
