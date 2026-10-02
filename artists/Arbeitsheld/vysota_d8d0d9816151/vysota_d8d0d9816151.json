@@ -1,0 +1,26 @@
+{
+  "id": "vysota_d8d0d9816151",
+  "fingerprint": "d8d0d9816151e48fcda1e74518ee0dd4c8b2421645423718f6c6326b5acc072b",
+  "archived_at": "2026-10-02T05:04:45Z",
+  "metadata": {
+    "title": "Vysota",
+    "artist": "Arbeitsheld",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3612,
+    "duration_human": "01:00:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Arbeitsheld - My Own Street",
+      "02 Arbeitsheld - Hope",
+      "03 Arbeitsheld - Homeland and Life"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vysota_d8d0d9816151"
+    }
+  }
+}
