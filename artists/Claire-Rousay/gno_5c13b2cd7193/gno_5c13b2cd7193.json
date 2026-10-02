@@ -1,0 +1,24 @@
+{
+  "id": "gno_5c13b2cd7193",
+  "fingerprint": "5c13b2cd7193e3cb54e6bbd3908928babf8cb547da587e3318a25d903081fbd8",
+  "archived_at": "2026-10-02T18:59:57Z",
+  "metadata": {
+    "title": "Gno",
+    "artist": "Claire Rousay",
+    "year": "2021",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 1220,
+    "duration_human": "00:20:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 claire rousay - Gno"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/gno_5c13b2cd7193"
+    }
+  }
+}
