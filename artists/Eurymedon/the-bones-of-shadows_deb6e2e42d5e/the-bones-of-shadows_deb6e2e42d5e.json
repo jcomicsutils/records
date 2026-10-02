@@ -1,0 +1,24 @@
+{
+  "id": "the-bones-of-shadows_deb6e2e42d5e",
+  "fingerprint": "deb6e2e42d5eb1781a2206b5fa9ea2e9d7398944e6730036755ad072c2681fa9",
+  "archived_at": "2026-10-02T22:12:25Z",
+  "metadata": {
+    "title": "The Bones of Shadows",
+    "artist": "Eurymedon",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2536,
+    "duration_human": "00:42:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Eurymedon - The Bones of Shadows"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-bones-of-shadows_deb6e2e42d5e"
+    }
+  }
+}
