@@ -1,0 +1,27 @@
+{
+  "id": "i-let-a-song-go-out-of-my-heart_85314c6d46f5",
+  "fingerprint": "85314c6d46f5047e9b00f2723f74c359974debd17221228c6a40a0fdbd3b690f",
+  "archived_at": "2026-10-02T19:11:56Z",
+  "metadata": {
+    "title": "I Let a Song Go Out of My Heart",
+    "artist": "Claire Rousay",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2319,
+    "duration_human": "00:38:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jacob Wick & claire rousay - Larry's",
+      "02 Jacob Wick & claire rousay - Sancho's",
+      "03 Jacob Wick & claire rousay - The Friendly Bar",
+      "04 Jacob Wick & claire rousay - One for Kevin Killian"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/i-let-a-song-go-out-of-my-heart_85314c6d46f5"
+    }
+  }
+}
