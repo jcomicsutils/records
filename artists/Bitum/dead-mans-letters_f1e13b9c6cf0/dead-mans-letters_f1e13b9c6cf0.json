@@ -1,0 +1,27 @@
+{
+  "id": "dead-mans-letters_f1e13b9c6cf0",
+  "fingerprint": "f1e13b9c6cf096a77b549f683794af768ced5621e004269ea8d4fa4826e83582",
+  "archived_at": "2026-10-02T17:36:00Z",
+  "metadata": {
+    "title": "Dead Man's Letters",
+    "artist": "Bitum",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3275,
+    "duration_human": "00:54:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bitum - First Letter",
+      "02 Bitum - Second Letter",
+      "03 Bitum - Third Letter",
+      "04 Bitum - Fourth Letter"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dead-mans-letters_f1e13b9c6cf0"
+    }
+  }
+}

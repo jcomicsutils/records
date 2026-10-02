@@ -54,6 +54,7 @@
 - [Big Blood](Big-Blood/Big-Blood.md)
 - [Big Blood & Visitations](Big-Blood-&-Visitations/Big-Blood-&-Visitations.md)
 - [Bird Violence](Bird-Violence/Bird-Violence.md)
+- [Bitum](Bitum/Bitum.md)
 - [Black Blight](Black-Blight/Black-Blight.md)
 - [Blackhaine](Blackhaine/Blackhaine.md)
 - [Blood of a Pomegranate](Blood-of-a-Pomegranate/Blood-of-a-Pomegranate.md)
