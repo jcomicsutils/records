@@ -1,0 +1,25 @@
+{
+  "id": "live-sketches-june-4-5-2022_4d48ee5ca8b1",
+  "fingerprint": "4d48ee5ca8b16bd7b178c60dd30a6fe899122beb59ec061b67ccbdaaa42ac22a",
+  "archived_at": "2026-10-02T04:07:46Z",
+  "metadata": {
+    "title": "Live Sketches June 4-5, 2022",
+    "artist": "Abstrakta",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5557,
+    "duration_human": "01:32:37",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Abstrakta - June 4, 2022",
+      "02 Abstrakta - June 5, 2022"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-sketches-june-4-5-2022_4d48ee5ca8b1"
+    }
+  }
+}
