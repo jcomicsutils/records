@@ -1,0 +1,33 @@
+{
+  "id": "braesview_a92d5297404a",
+  "fingerprint": "a92d5297404a3c8211aa940aa546d003fac6d44fb388ecef059a35642d2e5e4f",
+  "archived_at": "2026-10-02T01:18:43Z",
+  "metadata": {
+    "title": "Braesview",
+    "artist": "Claire Rousay",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 646,
+    "duration_human": "00:10:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 claire rousay - Braesview 1",
+      "02 claire rousay - Braesview 2",
+      "03 claire rousay - Braesview 3",
+      "04 claire rousay - Braesview 4",
+      "05 claire rousay - Braesview 5",
+      "06 claire rousay - Braesview 6",
+      "07 claire rousay - Braesview 7",
+      "08 claire rousay - Braesview 8",
+      "09 claire rousay - Braesview 9",
+      "10 claire rousay - Braesview 10"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/braesview_a92d5297404a"
+    }
+  }
+}
