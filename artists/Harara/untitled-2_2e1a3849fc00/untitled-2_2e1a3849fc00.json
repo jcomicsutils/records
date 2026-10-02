@@ -1,0 +1,26 @@
+{
+  "id": "untitled-2_2e1a3849fc00",
+  "fingerprint": "2e1a3849fc0044d4f94b2ef9085cc1d439a4e9d5c94b5939ee3d1159f42a2bc8",
+  "archived_at": "2026-10-02T23:22:42Z",
+  "metadata": {
+    "title": "Untitled 2",
+    "artist": "Harara",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3754,
+    "duration_human": "01:02:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Harara - Untitled A",
+      "02 Harara - Untitled B",
+      "03 Harara - Untitled C"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/untitled-2_2e1a3849fc00"
+    }
+  }
+}
