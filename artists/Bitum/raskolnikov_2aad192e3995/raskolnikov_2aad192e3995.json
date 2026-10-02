@@ -1,0 +1,28 @@
+{
+  "id": "raskolnikov_2aad192e3995",
+  "fingerprint": "2aad192e3995198c6b348f71230bda441b2fd739417b4f2524b785fe33c4fdf8",
+  "archived_at": "2026-10-02T18:15:17Z",
+  "metadata": {
+    "title": "Raskolnikov",
+    "artist": "Bitum",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 8820,
+    "duration_human": "02:27:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bitum - Part I",
+      "02 Bitum - Part II",
+      "03 Bitum - Part III",
+      "04 Bitum - Part IV",
+      "05 Bitum - Punishment"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/raskolnikov_2aad192e3995"
+    }
+  }
+}
