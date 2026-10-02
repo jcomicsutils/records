@@ -1,0 +1,29 @@
+{
+  "id": "divide_ca9bdab6f5af",
+  "fingerprint": "ca9bdab6f5af3eea9858e2c50309033c96a4072eb971668ee245068e154f5469",
+  "archived_at": "2026-10-02T01:52:23Z",
+  "metadata": {
+    "title": "Divide",
+    "artist": "Claire Rousay",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1514,
+    "duration_human": "00:25:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 claire rousay - Quality",
+      "02 claire rousay - Rise",
+      "03 claire rousay - Birth",
+      "04 claire rousay - Definitive Attributes",
+      "05 claire rousay - Virulence",
+      "06 claire rousay - Obsolete"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/divide_ca9bdab6f5af"
+    }
+  }
+}

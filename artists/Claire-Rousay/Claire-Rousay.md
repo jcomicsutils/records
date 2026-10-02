@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Blip](blip_bd313409d875/blip_bd313409d875.md) | 2017 | FLAC | 00:27:50 | [IA](https://archive.org/details/blip_bd313409d875) |
+| [Divide](divide_ca9bdab6f5af/divide_ca9bdab6f5af.md) | 2018 | FLAC | 00:25:14 | [IA](https://archive.org/details/divide_ca9bdab6f5af) |
 | [Braesview](braesview_a92d5297404a/braesview_a92d5297404a.md) | 2019 | FLAC | 00:10:46 | [IA](https://archive.org/details/braesview_a92d5297404a) |
 | [Aerophobia](aerophobia_4f72b9b7cad3/aerophobia_4f72b9b7cad3.md) | 2019 | FLAC | 00:35:14 | [IA](https://archive.org/details/aerophobia_4f72b9b7cad3) |
 | [</3](3_dab4e6aeb7c3/3_dab4e6aeb7c3.md) | 2020 | MP3 | 00:14:52 | [IA](https://archive.org/details/3_dab4e6aeb7c3) |
