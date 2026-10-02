@@ -1,0 +1,25 @@
+{
+  "id": "a-moment-in-st-louis-and-a-moment-at-the-beach_742d57eeb8d7",
+  "fingerprint": "742d57eeb8d72ef25ece7f37196dba8eed17d15f858a20de9dfd1db46709fe2c",
+  "archived_at": "2026-10-01T23:59:34Z",
+  "metadata": {
+    "title": "A Moment in St Louis and a Moment at the Beach",
+    "artist": "Claire Rousay",
+    "year": "2021",
+    "codec": "ALAC",
+    "num_tracks": 2,
+    "duration_seconds": 1357,
+    "duration_human": "00:22:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 claire rousay - A Moment in St. Louis",
+      "02 claire rousay - A Moment at the Beach"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-moment-in-st-louis-and-a-moment-at-the-beach_742d57eeb8d7"
+    }
+  }
+}
