@@ -1,0 +1,24 @@
+{
+  "id": "the-mists-of-nothingness-clean-version_6415f23e84c1",
+  "fingerprint": "6415f23e84c1d068b8f793008875c05455ff77ebc0816432ff231ff1a23f8b04",
+  "archived_at": "2026-10-02T23:53:55Z",
+  "metadata": {
+    "title": "The Mists of Nothingness (Clean Version)",
+    "artist": "Jord Eitur",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2367,
+    "duration_human": "00:39:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Jord Eitur - The Mists of Nothingness (Clean Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-mists-of-nothingness-clean-version_6415f23e84c1"
+    }
+  }
+}
