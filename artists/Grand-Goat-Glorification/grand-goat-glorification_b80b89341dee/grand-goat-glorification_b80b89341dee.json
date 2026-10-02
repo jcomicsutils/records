@@ -1,0 +1,25 @@
+{
+  "id": "grand-goat-glorification_b80b89341dee",
+  "fingerprint": "b80b89341deecbaa100765de09305e76c860a02eb57a5eb28f4a3c59ba387136",
+  "archived_at": "2026-10-02T22:18:42Z",
+  "metadata": {
+    "title": "Grand Goat Glorification",
+    "artist": "Grand Goat Glorification",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Grand Goat Glorification - Grand Goat Glorification I",
+      "02 Grand Goat Glorification - Grand Goat Glorification II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/grand-goat-glorification_b80b89341dee"
+    }
+  }
+}
