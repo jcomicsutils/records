@@ -1,0 +1,24 @@
+{
+  "id": "live-in-nyc_fd2bd717b3ac",
+  "fingerprint": "fd2bd717b3ac6f133b103e9a291e8b5bb04d60a3bd6bd2365bb151824988b6a9",
+  "archived_at": "2026-10-02T19:57:17Z",
+  "metadata": {
+    "title": "Live in NYC",
+    "artist": "claire rousay",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2148,
+    "duration_human": "00:35:48",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 claire rousay - Live in NYC"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/live-in-nyc_fd2bd717b3ac"
+    }
+  }
+}
