@@ -1,0 +1,27 @@
+{
+  "id": "specifically-the-water_cfe0f7c65569",
+  "fingerprint": "cfe0f7c65569fe20bc53af7dcff9d0da5f5f4e32402ccbf4c3a390b921f57e80",
+  "archived_at": "2026-10-02T21:05:33Z",
+  "metadata": {
+    "title": "Specifically the Water",
+    "artist": "Claire Rousay",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3049,
+    "duration_human": "00:50:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Alex Cunningham\\Claire Rousay - Tasked",
+      "02 Alex Cunningham\\Claire Rousay - We Should",
+      "03 Alex Cunningham\\Claire Rousay - Pressure Event",
+      "04 Alex Cunningham\\Claire Rousay - Social Capital Where I Grew Up"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/specifically-the-water_cfe0f7c65569"
+    }
+  }
+}
