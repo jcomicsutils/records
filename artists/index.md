@@ -288,6 +288,7 @@
 - [Stillife](Stillife/Stillife.md)
 - [Stilluppsteypa](Stilluppsteypa/Stilluppsteypa.md)
 - [Strawberry Hospital](Strawberry-Hospital/Strawberry-Hospital.md)
+- [Stvar](Stvar/Stvar.md)
 - [Sugar Wounds](Sugar-Wounds/Sugar-Wounds.md)
 - [Sunn O\)\)\)](Sunn-O%29%29%29/Sunn-O%29%29%29.md)
 - [Super Parquet](Super-Parquet/Super-Parquet.md)
