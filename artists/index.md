@@ -65,6 +65,7 @@
 - [Bourdon](Bourdon/Bourdon.md)
 - [Bourdon/Stimmenwald](BourdonStimmenwald/BourdonStimmenwald.md)
 - [Brueder Selke](Brueder-Selke/Brueder-Selke.md)
+- [Bruising Pattern/N0123NOISE/Train Cemetery](Bruising-PatternN0123NOISETrain-Cemetery/Bruising-PatternN0123NOISETrain-Cemetery.md)
 - [Brìghde Chaimbeul](Brìghde-Chaimbeul/Brìghde-Chaimbeul.md)
 - [Burning Witch](Burning-Witch/Burning-Witch.md)
 - [CMKK](CMKK/CMKK.md)

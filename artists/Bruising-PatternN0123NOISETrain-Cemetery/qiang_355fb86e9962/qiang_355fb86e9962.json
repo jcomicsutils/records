@@ -1,0 +1,29 @@
+{
+  "id": "qiang_355fb86e9962",
+  "fingerprint": "355fb86e99623ef86a462e44b018383bcae642687b03e79974b51f3cb6e946e4",
+  "archived_at": "2026-10-03T22:45:26Z",
+  "metadata": {
+    "title": "錆",
+    "artist": "Bruising Pattern/N0123NOISE/Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3589,
+    "duration_human": "00:59:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Bruising Pattern - Stone Figurines",
+      "02 Bruising Pattern - Stone Figurines II",
+      "03 N0123NOISE - Desperately Safe",
+      "04 N0123NOISE - Resting Comfortably",
+      "05 Train Cemetery - Misfaith I",
+      "06 Train Cemetery - Misfaith II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/qiang_355fb86e9962"
+    }
+  }
+}
