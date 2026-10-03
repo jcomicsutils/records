@@ -1,0 +1,25 @@
+{
+  "id": "mertvotsvet_a6e33c27e12f",
+  "fingerprint": "a6e33c27e12f50c9aa194de28c58c7b1d31f13d12f637bab9efaeba10e24fe66",
+  "archived_at": "2026-10-03T22:58:00Z",
+  "metadata": {
+    "title": "Мертвоцвет",
+    "artist": "Чернограй",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 6870,
+    "duration_human": "01:54:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Чернограй - Часть 1",
+      "02 Чернограй - Часть 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mertvotsvet_a6e33c27e12f"
+    }
+  }
+}
