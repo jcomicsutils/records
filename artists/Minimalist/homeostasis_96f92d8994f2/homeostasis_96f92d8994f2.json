@@ -1,0 +1,33 @@
+{
+  "id": "homeostasis_96f92d8994f2",
+  "fingerprint": "96f92d8994f28d07cfa1087bcd3ae25976728f46d9d74d94bb189a993762e36f",
+  "archived_at": "2026-10-03T05:33:20Z",
+  "metadata": {
+    "title": "Homeostasis",
+    "artist": "Minimalist",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3000,
+    "duration_human": "00:50:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Minimalist - 01",
+      "02 Minimalist - 02",
+      "03 Minimalist - 03",
+      "04 Minimalist - 04",
+      "05 Minimalist - 05",
+      "06 Minimalist - 06",
+      "07 Minimalist - 07",
+      "08 Minimalist - 08",
+      "09 Minimalist - 09",
+      "10 Minimalist - 10"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/homeostasis_96f92d8994f2"
+    }
+  }
+}
