@@ -9,6 +9,7 @@
 | [Quiet](quiet_a0d66b576063/quiet_a0d66b576063.md) | 2017 | FLAC | 00:44:00 | [IA](https://archive.org/details/quiet_a0d66b576063) |
 | [Heart Outside](heart-outside_2e562e4f7c38/heart-outside_2e562e4f7c38.md) | 2017 | FLAC | 00:19:00 | [IA](https://archive.org/details/heart-outside_2e562e4f7c38) |
 | [Oro](oro_534824757d28/oro_534824757d28.md) | 2017 | FLAC | 01:22:05 | [IA](https://archive.org/details/oro_534824757d28) |
+| [Dead Amongst the Dead](dead-amongst-the-dead_1791068525/dead-amongst-the-dead_1791068525.md) | 2017 | FLAC | 00:45:39 | [IA](https://archive.org/details/dead-amongst-the-dead_198cc35174e8) |
 | [Spite](spite_1915b2974d91/spite_1915b2974d91.md) | 2017 | FLAC | 06:00:35 | [IA](https://archive.org/details/spite_1915b2974d91) |
 | [Slough](slough_c9685b475871/slough_c9685b475871.md) | 2017 | FLAC | 00:59:06 | [IA](https://archive.org/details/slough_c9685b475871) |
 | [Aught](aught_dc3d0b1a12ab/aught_dc3d0b1a12ab.md) | 2017 | FLAC | 00:18:40 | [IA](https://archive.org/details/aught_dc3d0b1a12ab) |
