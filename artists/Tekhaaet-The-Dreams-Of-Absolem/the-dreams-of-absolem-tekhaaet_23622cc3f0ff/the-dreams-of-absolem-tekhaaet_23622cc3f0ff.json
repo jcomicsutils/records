@@ -1,0 +1,26 @@
+{
+  "id": "the-dreams-of-absolem-tekhaaet_23622cc3f0ff",
+  "fingerprint": "23622cc3f0ff5443dad81d9adbdca815cd0f352700a07842e3f5604fbd0cce3d",
+  "archived_at": "2026-10-03T11:49:03Z",
+  "metadata": {
+    "title": "The Dreams of Absolem / Tekhaaet",
+    "artist": "Tekhaaet / The Dreams Of Absolem",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3232,
+    "duration_human": "00:53:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Dreams of Absolem - Plasma Black",
+      "02 Tekhaaet - The Red Supergiant Rises",
+      "03 Tekhaaet - Dead Transmissions"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-dreams-of-absolem-tekhaaet_23622cc3f0ff"
+    }
+  }
+}
