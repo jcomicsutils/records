@@ -1,0 +1,29 @@
+{
+  "id": "murum_75e5fe491e6f",
+  "fingerprint": "75e5fe491e6fc5cfae890b405d63d152d650ce086fe9da89d802a6a061fff808",
+  "archived_at": "2026-10-03T17:00:57Z",
+  "metadata": {
+    "title": "Murum",
+    "artist": "Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 5401,
+    "duration_human": "01:30:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Train Cemetery - Murum I",
+      "02 Train Cemetery - Murum II",
+      "03 Train Cemetery - Murum III",
+      "04 Train Cemetery - Murum IV",
+      "05 Train Cemetery - Murum V",
+      "06 Train Cemetery - Murum VI"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/murum_75e5fe491e6f"
+    }
+  }
+}
