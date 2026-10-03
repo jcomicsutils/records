@@ -247,6 +247,7 @@
 - [Pink Siifu](Pink-Siifu/Pink-Siifu.md)
 - [Psycodrama](Psycodrama/Psycodrama.md)
 - [Quad Sax](Quad-Sax/Quad-Sax.md)
+- [RED KOSMOS](RED-KOSMOS/RED-KOSMOS.md)
 - [Rabit](Rabit/Rabit.md)
 - [Resina](Resina/Resina.md)
 - [Respire](Respire/Respire.md)

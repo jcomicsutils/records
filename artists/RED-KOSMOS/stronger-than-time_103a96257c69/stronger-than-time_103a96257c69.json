@@ -1,0 +1,25 @@
+{
+  "id": "stronger-than-time_103a96257c69",
+  "fingerprint": "103a96257c6995e06ad97b6623cbdfcb5da11867f16f9dfc068a07443f2993e2",
+  "archived_at": "2026-10-03T06:43:26Z",
+  "metadata": {
+    "title": "Stronger Than Time",
+    "artist": "RED KOSMOS",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4927,
+    "duration_human": "01:22:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Red Kosmos - Stronger Than Time Part 1",
+      "02 Red Kosmos - Stronger Than Time Part 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stronger-than-time_103a96257c69"
+    }
+  }
+}
