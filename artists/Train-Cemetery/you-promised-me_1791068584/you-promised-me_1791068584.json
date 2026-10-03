@@ -1,0 +1,25 @@
+{
+  "id": "you-promised-me_1791068584",
+  "fingerprint": "5b5be77ca4da072358b8c855ea54501ecfd29f50b0e4dc359dc94d068fbc0f36",
+  "archived_at": "2026-10-03T23:03:04Z",
+  "metadata": {
+    "title": "You Promised Me",
+    "artist": "Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3604,
+    "duration_human": "01:00:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - Red Pyramid Thing",
+      "02 N0123NOISE - Promise Me James"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/you-promised-me_5b5be77ca4da"
+    }
+  }
+}
