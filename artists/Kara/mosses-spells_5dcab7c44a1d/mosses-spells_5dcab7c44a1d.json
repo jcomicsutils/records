@@ -1,0 +1,27 @@
+{
+  "id": "mosses-spells_5dcab7c44a1d",
+  "fingerprint": "5dcab7c44a1da4f4419af01ec343dde02e4b870ef049fe666d6173195c3c8e65",
+  "archived_at": "2026-10-03T01:14:01Z",
+  "metadata": {
+    "title": "Mosses Spells",
+    "artist": "Kara",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 7200,
+    "duration_human": "02:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kara - Mosses Spells №1",
+      "02 Kara - Mosses Spells №2",
+      "03 Kara - Mosses Spells №3",
+      "04 Kara - Mosses Spells №4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mosses-spells_5dcab7c44a1d"
+    }
+  }
+}
