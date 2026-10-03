@@ -1,0 +1,25 @@
+{
+  "id": "leiche-43-leiche-44_4054243f3496",
+  "fingerprint": "4054243f349671673d12d135e169dc8af35e73693a632a31799892d5ba96391b",
+  "archived_at": "2026-10-03T03:33:28Z",
+  "metadata": {
+    "title": "Leiche 43 / Leiche 44",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 43",
+      "02 Leichen - Leiche 44"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-43-leiche-44_4054243f3496"
+    }
+  }
+}
