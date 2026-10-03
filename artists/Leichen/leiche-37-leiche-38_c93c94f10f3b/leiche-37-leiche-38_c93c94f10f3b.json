@@ -1,0 +1,25 @@
+{
+  "id": "leiche-37-leiche-38_c93c94f10f3b",
+  "fingerprint": "c93c94f10f3b0a843c8c943be64e9bf846b414a88fed4fd39d38032986744777",
+  "archived_at": "2026-10-03T03:24:10Z",
+  "metadata": {
+    "title": "Leiche 37 / Leiche 38",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 37",
+      "02 Leichen - Leiche 38"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-37-leiche-38_c93c94f10f3b"
+    }
+  }
+}
