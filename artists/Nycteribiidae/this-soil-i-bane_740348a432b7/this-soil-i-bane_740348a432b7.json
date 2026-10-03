@@ -1,0 +1,25 @@
+{
+  "id": "this-soil-i-bane_740348a432b7",
+  "fingerprint": "740348a432b7361165ae970f757f1854efc8399182b6b71d0c8576128d2d8b3d",
+  "archived_at": "2026-10-03T06:17:40Z",
+  "metadata": {
+    "title": "This Soil I Bane",
+    "artist": "Nycteribiidae",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3660,
+    "duration_human": "01:01:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nycteribiidae - Dead Spores",
+      "02 Nycteribiidae - Hardwood Skin"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/this-soil-i-bane_740348a432b7"
+    }
+  }
+}
