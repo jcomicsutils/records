@@ -21,6 +21,7 @@
 | [Ossa](ossa_3caf1e85fe19/ossa_3caf1e85fe19.md) | 2017 | FLAC | 03:14:26 | [IA](https://archive.org/details/ossa_3caf1e85fe19) |
 | [χάος](chaos_3ac3673a7720/chaos_3ac3673a7720.md) | 2017 | FLAC | 02:00:00 | [IA](https://archive.org/details/chaos_3ac3673a7720) |
 | [Murum](murum_75e5fe491e6f/murum_75e5fe491e6f.md) | 2017 | FLAC | 01:30:01 | [IA](https://archive.org/details/murum_75e5fe491e6f) |
+| [Vomir / Valvan / Dosis Letalis / Train Cemetery / Richard Ramirez](vomir-valvan-dosis-letalis-train-cemetery-richard-ramirez_1791068581/vomir-valvan-dosis-letalis-train-cemetery-richard-ramirez_1791068581.md) | 2017 | FLAC | 04:33:36 | [IA](https://archive.org/details/vomir-valvan-dosis-letalis-train-cemetery-richard-ramirez_7e7fcba40141) |
 | [DHNW / Train Cemetery](dhnw-train-cemetery_1791068528/dhnw-train-cemetery_1791068528.md) | 2017 | FLAC | 00:49:45 | [IA](https://archive.org/details/dhnw-train-cemetery_94c7ba96a43f) |
 | [Caecare Religiosus](caecare-religiosus_1791068515/caecare-religiosus_1791068515.md) | 2017 | FLAC | 00:29:49 | [IA](https://archive.org/details/caecare-religiosus_898f208e3f0f) |
 | [Shadow Figures / Train Cemetery](shadow-figures-train-cemetery_1791068557/shadow-figures-train-cemetery_1791068557.md) | 2017 | FLAC | 00:22:03 | [IA](https://archive.org/details/shadow-figures-train-cemetery_06c9b799b2ed) |

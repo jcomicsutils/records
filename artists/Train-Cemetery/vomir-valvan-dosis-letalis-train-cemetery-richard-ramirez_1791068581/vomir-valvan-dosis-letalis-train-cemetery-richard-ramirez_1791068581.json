@@ -1,0 +1,28 @@
+{
+  "id": "vomir-valvan-dosis-letalis-train-cemetery-richard-ramirez_1791068581",
+  "fingerprint": "7e7fcba40141b55e807e573b18a60ef459c248696e16ded66c8cb5da7b9b5f7a",
+  "archived_at": "2026-10-03T23:03:01Z",
+  "metadata": {
+    "title": "Vomir / Valvan / Dosis Letalis / Train Cemetery / Richard Ramirez",
+    "artist": "Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 16416,
+    "duration_human": "04:33:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Vomir - [untitled]",
+      "02 Valvan - Menticide",
+      "03 Dosis Letalis - Unknown",
+      "04 Train Cemetery - Mental Cancer",
+      "05 Richard Ramirez - Ballet Down the Highway"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vomir-valvan-dosis-letalis-train-cemetery-richard-ramirez_7e7fcba40141"
+    }
+  }
+}
