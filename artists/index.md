@@ -271,6 +271,7 @@
 - [Rutger Zuydervelt](Rutger-Zuydervelt/Rutger-Zuydervelt.md)
 - [Rắn Cạp Đuôi](Rắn-Cạp-Đuôi/Rắn-Cạp-Đuôi.md)
 - [Sarin](Sarin/Sarin.md)
+- [Secretum Omega / Train Cemetery](Secretum-Omega-Train-Cemetery/Secretum-Omega-Train-Cemetery.md)
 - [Sergey Pakhomov](Sergey-Pakhomov/Sergey-Pakhomov.md)
 - [Serp](Serp/Serp.md)
 - [Serpentmouth](Serpentmouth/Serpentmouth.md)
