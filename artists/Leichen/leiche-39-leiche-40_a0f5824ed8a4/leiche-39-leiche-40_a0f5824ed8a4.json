@@ -1,0 +1,25 @@
+{
+  "id": "leiche-39-leiche-40_a0f5824ed8a4",
+  "fingerprint": "a0f5824ed8a43e3bdd473d89a8b428c4ed1fa6747bceecc5321c265e5832a9ce",
+  "archived_at": "2026-10-03T03:27:44Z",
+  "metadata": {
+    "title": "Leiche 39 / Leiche 40",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 39",
+      "02 Leichen - Leiche 40"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-39-leiche-40_a0f5824ed8a4"
+    }
+  }
+}
