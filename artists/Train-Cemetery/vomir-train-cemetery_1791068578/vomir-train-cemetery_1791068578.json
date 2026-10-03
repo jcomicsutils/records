@@ -1,0 +1,25 @@
+{
+  "id": "vomir-train-cemetery_1791068578",
+  "fingerprint": "0d07787e5a2942b102ba7dd73d3b6d7b25476b01d57f5dd3d4e8f7c2f92ada4b",
+  "archived_at": "2026-10-03T23:02:58Z",
+  "metadata": {
+    "title": "Vomir / Train Cemetery",
+    "artist": "Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5408,
+    "duration_human": "01:30:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Vomir - [untitled]",
+      "02 Train Cemetery - Scaur"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vomir-train-cemetery_0d07787e5a29"
+    }
+  }
+}
