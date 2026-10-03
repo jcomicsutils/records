@@ -1,0 +1,26 @@
+{
+  "id": "janma_42fd46f87010",
+  "fingerprint": "42fd46f87010abad976d46acb56ae472c7e4b0bdc0a05d442cc46ae388aa9333",
+  "archived_at": "2026-10-03T12:34:00Z",
+  "metadata": {
+    "title": "Janma",
+    "artist": "Tibetan Funeral",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4392,
+    "duration_human": "01:13:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tibetan Funeral - Untitled A",
+      "02 Tibetan Funeral - Untitled B",
+      "03 Tibetan Funeral - Untitled C"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/janma_42fd46f87010"
+    }
+  }
+}
