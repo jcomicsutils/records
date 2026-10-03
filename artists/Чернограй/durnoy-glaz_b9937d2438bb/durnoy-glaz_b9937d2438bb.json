@@ -1,0 +1,25 @@
+{
+  "id": "durnoy-glaz_b9937d2438bb",
+  "fingerprint": "b9937d2438bbd738523264b334089b8233514f44fd2c4a8c545d3d532d602af6",
+  "archived_at": "2026-10-03T22:52:27Z",
+  "metadata": {
+    "title": "Дурной Глаз",
+    "artist": "Чернограй",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3632,
+    "duration_human": "01:00:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Чернограй - Костьми",
+      "02 Чернограй - Кровь Стылая"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/durnoy-glaz_b9937d2438bb"
+    }
+  }
+}
