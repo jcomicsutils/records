@@ -1,0 +1,26 @@
+{
+  "id": "raksasa-greva_a38f3e2394f0",
+  "fingerprint": "a38f3e2394f064648e222152525ce74f7463a4433a68a9d85ca39e1261f85952",
+  "archived_at": "2026-10-03T12:44:50Z",
+  "metadata": {
+    "title": "Raksasa Greva",
+    "artist": "Tibetan Funeral",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3161,
+    "duration_human": "00:52:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tibetan Funeral - Raksasa Greva 1",
+      "02 Tibetan Funeral - Raksasa Greva 2",
+      "03 Tibetan Funeral - Raksasa Greva 3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/raksasa-greva_a38f3e2394f0"
+    }
+  }
+}
