@@ -4,6 +4,7 @@
 |-------|------|-------|----------|-------|
 | [Dismay](dismay_c1d83680dcbf/dismay_c1d83680dcbf.md) | 2017 | FLAC | 04:56:02 | [IA](https://archive.org/details/dismay_c1d83680dcbf) |
 | [Beneath the Roots](beneath-the-roots_7a0c9c99c32f/beneath-the-roots_7a0c9c99c32f.md) | 2017 | FLAC | 01:30:00 | [IA](https://archive.org/details/beneath-the-roots_7a0c9c99c32f) |
+| [Quiet](quiet_a0d66b576063/quiet_a0d66b576063.md) | 2017 | FLAC | 00:44:00 | [IA](https://archive.org/details/quiet_a0d66b576063) |
 | [Heart Outside](heart-outside_2e562e4f7c38/heart-outside_2e562e4f7c38.md) | 2017 | FLAC | 00:19:00 | [IA](https://archive.org/details/heart-outside_2e562e4f7c38) |
 | [Oro](oro_534824757d28/oro_534824757d28.md) | 2017 | FLAC | 01:22:05 | [IA](https://archive.org/details/oro_534824757d28) |
 | [Aught](aught_dc3d0b1a12ab/aught_dc3d0b1a12ab.md) | 2017 | FLAC | 00:18:40 | [IA](https://archive.org/details/aught_dc3d0b1a12ab) |

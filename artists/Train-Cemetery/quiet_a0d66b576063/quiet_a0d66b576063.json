@@ -1,0 +1,25 @@
+{
+  "id": "quiet_a0d66b576063",
+  "fingerprint": "a0d66b576063fa4b041282c15bb5228f1a131b401b0156be768d6835d3821001",
+  "archived_at": "2026-10-03T18:36:15Z",
+  "metadata": {
+    "title": "Quiet",
+    "artist": "Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2640,
+    "duration_human": "00:44:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - Quiet I",
+      "02 Train Cemetery - Quiet II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/quiet_a0d66b576063"
+    }
+  }
+}
