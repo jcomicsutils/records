@@ -1,0 +1,27 @@
+{
+  "id": "harshstyle_8d661bd4c83c",
+  "fingerprint": "8d661bd4c83c5d5e1d78804724bce789f2e6942e3e7190853741b7828548884e",
+  "archived_at": "2026-10-03T08:32:22Z",
+  "metadata": {
+    "title": "Harshstyle",
+    "artist": "Stena",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2471,
+    "duration_human": "00:41:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Stena - Stena 1",
+      "02 Stena - Stena 2",
+      "03 Stena - Stena 3",
+      "04 Stena - Stena 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/harshstyle_8d661bd4c83c"
+    }
+  }
+}
