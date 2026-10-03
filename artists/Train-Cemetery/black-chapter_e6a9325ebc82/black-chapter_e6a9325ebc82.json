@@ -1,0 +1,27 @@
+{
+  "id": "black-chapter_e6a9325ebc82",
+  "fingerprint": "e6a9325ebc82caab9d1c75ab302008fd3933978da7ef4628ad072c35ac3bdec9",
+  "archived_at": "2026-10-03T13:47:02Z",
+  "metadata": {
+    "title": "Black Chapter",
+    "artist": "Train Cemetery",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4800,
+    "duration_human": "01:20:00",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Train Cemetery - I",
+      "02 Train Cemetery - II",
+      "03 Train Cemetery - III",
+      "04 Train Cemetery - IV"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/black-chapter_e6a9325ebc82"
+    }
+  }
+}
