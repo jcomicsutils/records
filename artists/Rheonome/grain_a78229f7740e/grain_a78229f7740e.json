@@ -1,0 +1,26 @@
+{
+  "id": "grain_a78229f7740e",
+  "fingerprint": "a78229f7740ef4558979f1053875eb144cc0966858dfca697b7034418d391f1e",
+  "archived_at": "2026-10-03T07:03:19Z",
+  "metadata": {
+    "title": "Grain",
+    "artist": "Rheonome",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4500,
+    "duration_human": "01:15:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rheonome - Untitled 1",
+      "02 Rheonome - Untitled 2",
+      "03 Rheonome - Untitled 3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/grain_a78229f7740e"
+    }
+  }
+}
