@@ -1,0 +1,25 @@
+{
+  "id": "93-98_4adbe96f808f",
+  "fingerprint": "4adbe96f808f4d72369de0fd003aa45d68303fbaeb83b02c063d5c888d2e8f6e",
+  "archived_at": "2026-10-03T01:56:07Z",
+  "metadata": {
+    "title": "93 - 98",
+    "artist": "Leichen",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5400,
+    "duration_human": "01:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 93/94/95",
+      "02 Leichen - Leiche 96/97/98"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/93-98_4adbe96f808f"
+    }
+  }
+}
