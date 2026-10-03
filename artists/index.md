@@ -304,6 +304,7 @@
 - [The 365 Project](The-365-Project/The-365-Project.md)
 - [The Alvaret Ensemble](The-Alvaret-Ensemble/The-Alvaret-Ensemble.md)
 - [The Brave Little Abacus](The-Brave-Little-Abacus/The-Brave-Little-Abacus.md)
+- [The Dreams Of Absolem](The-Dreams-Of-Absolem/The-Dreams-Of-Absolem.md)
 - [The Dwarfs of East Agouza](The-Dwarfs-of-East-Agouza/The-Dwarfs-of-East-Agouza.md)
 - [The Fantastic Imagination](The-Fantastic-Imagination/The-Fantastic-Imagination.md)
 - [The Jim Yoshii Pile-Up / Xiu Xiu](The-Jim-Yoshii-Pile-Up-Xiu-Xiu/The-Jim-Yoshii-Pile-Up-Xiu-Xiu.md)

@@ -1,0 +1,24 @@
+{
+  "id": "alien-mines_f7a0097ba3b0",
+  "fingerprint": "f7a0097ba3b0297dcb6f62963ae6afbb0d9a55a9359a5e70ba248c1b92bd6fee",
+  "archived_at": "2026-10-03T09:02:44Z",
+  "metadata": {
+    "title": "Alien Mines",
+    "artist": "The Dreams Of Absolem",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3013,
+    "duration_human": "00:50:13",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Dreams of Absolem - Alien Mines"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/alien-mines_f7a0097ba3b0"
+    }
+  }
+}
