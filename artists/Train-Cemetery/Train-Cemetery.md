@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Nichilismo e Misantropia](nichilismo-e-misantropia_1791068543/nichilismo-e-misantropia_1791068543.md) |  | MP3 | 00:30:00 | [IA](https://archive.org/details/nichilismo-e-misantropia_8fa930a2d8ff) |
 | [Dismay](dismay_c1d83680dcbf/dismay_c1d83680dcbf.md) | 2017 | FLAC | 04:56:02 | [IA](https://archive.org/details/dismay_c1d83680dcbf) |
 | [Verbo](verbo_159714bba605/verbo_159714bba605.md) | 2017 | FLAC | 01:30:24 | [IA](https://archive.org/details/verbo_159714bba605) |
 | [Beneath the Roots](beneath-the-roots_7a0c9c99c32f/beneath-the-roots_7a0c9c99c32f.md) | 2017 | FLAC | 01:30:00 | [IA](https://archive.org/details/beneath-the-roots_7a0c9c99c32f) |
