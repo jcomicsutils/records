@@ -8,6 +8,7 @@
 | [Cyberstar Malfunction](cyberstar-malfunction_3f7564dcc5ad/cyberstar-malfunction_3f7564dcc5ad.md) | 2020 | FLAC | 01:00:10 | [IA](https://archive.org/details/cyberstar-malfunction_3f7564dcc5ad) |
 | [Plague Starship](plague-starship_dbd66e2aba9d/plague-starship_dbd66e2aba9d.md) | 2021 | FLAC | 01:12:32 | [IA](https://archive.org/details/plague-starship_dbd66e2aba9d) |
 | [Big Bang Rehearsal](big-bang-rehearsal_015d89a2f72b/big-bang-rehearsal_015d89a2f72b.md) | 2021 | FLAC | 01:16:13 | [IA](https://archive.org/details/big-bang-rehearsal_015d89a2f72b) |
+| [Poliworks](poliworks_17bf4c80eb70/poliworks_17bf4c80eb70.md) | 2021 | FLAC | 01:02:06 | [IA](https://archive.org/details/poliworks_17bf4c80eb70) |
 | [Making Noise in Subspace](making-noise-in-subspace_87dbe9995d76/making-noise-in-subspace_87dbe9995d76.md) | 2021 | FLAC | 00:42:39 | [IA](https://archive.org/details/making-noise-in-subspace_87dbe9995d76) |
 | [Neutron Cocoon](neutron-cocoon_174ebb7fea1f/neutron-cocoon_174ebb7fea1f.md) | 2023 | FLAC | 01:36:45 | [IA](https://archive.org/details/neutron-cocoon_174ebb7fea1f) |
 | [Never Ending Odyssey](never-ending-odyssey_bdc3cd6cf22b/never-ending-odyssey_bdc3cd6cf22b.md) | 2023 | FLAC | 01:00:38 | [IA](https://archive.org/details/never-ending-odyssey_bdc3cd6cf22b) |
