@@ -1,0 +1,25 @@
+{
+  "id": "steelmaker_b989ddadb1a4",
+  "fingerprint": "b989ddadb1a467e0c559498a8ed4a95539c25777b49bcca5e16aca2e6a61b9c9",
+  "archived_at": "2026-10-03T07:17:33Z",
+  "metadata": {
+    "title": "Steelmaker",
+    "artist": "Rheonome",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3127,
+    "duration_human": "00:52:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rheonome - Untitled A",
+      "02 Rheonome - Untitled B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/steelmaker_b989ddadb1a4"
+    }
+  }
+}
