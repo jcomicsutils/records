@@ -1,0 +1,25 @@
+{
+  "id": "leiche-45-leiche-46_bf4617e16af0",
+  "fingerprint": "bf4617e16af034770a2f456dcbfc6e7a4c764be2233be85cf81bd9d0811eb139",
+  "archived_at": "2026-10-03T03:35:57Z",
+  "metadata": {
+    "title": "Leiche 45 / Leiche 46",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 45",
+      "02 Leichen - Leiche 46"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-45-leiche-46_bf4617e16af0"
+    }
+  }
+}
