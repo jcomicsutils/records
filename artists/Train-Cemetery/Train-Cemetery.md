@@ -18,6 +18,7 @@
 | [April Town. Mood Series # 3](april-town-mood-series-3_517584a15442/april-town-mood-series-3_517584a15442.md) | 2017 | FLAC | 01:08:51 | [IA](https://archive.org/details/april-town-mood-series-3_517584a15442) |
 | [July. Mood Series #1](july-mood-series-1_738356e01daf/july-mood-series-1_738356e01daf.md) | 2017 | FLAC | 00:50:57 | [IA](https://archive.org/details/july-mood-series-1_738356e01daf) |
 | [Gist](gist_0e6966775fd9/gist_0e6966775fd9.md) | 2017 | FLAC | 09:49:50 | [IA](https://archive.org/details/gist_0e6966775fd9) |
+| [Yerba. Mood Series#2](yerba-mood-series2_9e4069d44fc2/yerba-mood-series2_9e4069d44fc2.md) | 2017 | FLAC | 01:17:32 | [IA](https://archive.org/details/yerba-mood-series2_9e4069d44fc2) |
 | [Pessimist](pessimist_37c5d59d4c0c/pessimist_37c5d59d4c0c.md) | 2018 | FLAC | 01:00:00 | [IA](https://archive.org/details/pessimist_37c5d59d4c0c) |
 | [Damno](damno_469d52f41495/damno_469d52f41495.md) | 2018 | FLAC | 00:39:44 | [IA](https://archive.org/details/damno_469d52f41495) |
 | [Drowning in the Wall](drowning-in-the-wall_7532558d591f/drowning-in-the-wall_7532558d591f.md) | 2019 | FLAC | 01:00:00 | [IA](https://archive.org/details/drowning-in-the-wall_7532558d591f) |

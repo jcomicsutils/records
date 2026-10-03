@@ -1,0 +1,25 @@
+{
+  "id": "yerba-mood-series2_9e4069d44fc2",
+  "fingerprint": "9e4069d44fc2df9b4521a14d792b8ed95585d16818b5f0737d684ba8db44d1a5",
+  "archived_at": "2026-10-03T22:10:24Z",
+  "metadata": {
+    "title": "Yerba. Mood Series#2",
+    "artist": "Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4652,
+    "duration_human": "01:17:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - Yerba",
+      "02 Train Cemetery - Yerba (Version)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/yerba-mood-series2_9e4069d44fc2"
+    }
+  }
+}
