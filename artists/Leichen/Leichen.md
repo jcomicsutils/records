@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Leiche 27 / Leiche 28](leiche-27-leiche-28_fa1c4ff2f468/leiche-27-leiche-28_fa1c4ff2f468.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-27-leiche-28_fa1c4ff2f468) |
 | [Leiche 23 / Leiche 24](leiche-23-leiche-24_d27ea9fb410f/leiche-23-leiche-24_d27ea9fb410f.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-23-leiche-24_d27ea9fb410f) |
 | [Leiche 25 / Leiche 26](leiche-25-leiche-26_d82f48e8defc/leiche-25-leiche-26_d82f48e8defc.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-25-leiche-26_d82f48e8defc) |
 | [Leiche 21 / Leiche 22](leiche-21-leiche-22_8bb334c57b3a/leiche-21-leiche-22_8bb334c57b3a.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-21-leiche-22_8bb334c57b3a) |

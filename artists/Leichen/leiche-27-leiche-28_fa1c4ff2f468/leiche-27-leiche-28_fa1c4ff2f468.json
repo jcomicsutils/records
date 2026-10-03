@@ -1,0 +1,25 @@
+{
+  "id": "leiche-27-leiche-28_fa1c4ff2f468",
+  "fingerprint": "fa1c4ff2f4687bdaf88df5cb6457c5ed04665112878213e67a34d70731219e40",
+  "archived_at": "2026-10-03T03:05:54Z",
+  "metadata": {
+    "title": "Leiche 27 / Leiche 28",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 27",
+      "02 Leichen - Leiche 28"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-27-leiche-28_fa1c4ff2f468"
+    }
+  }
+}
