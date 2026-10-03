@@ -1,0 +1,24 @@
+{
+  "id": "asteroid-song_cbc286c6eaf4",
+  "fingerprint": "cbc286c6eaf404215461f3fe63a1d67d4b892ea2f65a0721a6a0f786b39f469e",
+  "archived_at": "2026-10-03T09:19:56Z",
+  "metadata": {
+    "title": "Asteroid Song",
+    "artist": "The Dreams Of Absolem",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2684,
+    "duration_human": "00:44:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Dreams of Absolem - Asteroid Song"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/asteroid-song_cbc286c6eaf4"
+    }
+  }
+}
