@@ -1,0 +1,25 @@
+{
+  "id": "1_4bd1a8eb96b2",
+  "fingerprint": "4bd1a8eb96b2e6dc8133706766d399b800c8aa853ad0d2c488736c8b3d6232c3",
+  "archived_at": "2026-10-03T08:01:40Z",
+  "metadata": {
+    "title": "1",
+    "artist": "Shishanote",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Shishanote - Track №1",
+      "02 Shishanote - Track №2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/1_4bd1a8eb96b2"
+    }
+  }
+}
