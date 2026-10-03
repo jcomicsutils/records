@@ -1,0 +1,24 @@
+{
+  "id": "never-ending-odyssey_bdc3cd6cf22b",
+  "fingerprint": "bdc3cd6cf22b1e5ef736353f440fb8cedf245be15d00226dde8afbe5e07ec5af",
+  "archived_at": "2026-10-03T10:25:19Z",
+  "metadata": {
+    "title": "Never Ending Odyssey",
+    "artist": "The Dreams Of Absolem",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3638,
+    "duration_human": "01:00:38",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Dreams of Absolem - Never Ending Odyssey"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/never-ending-odyssey_bdc3cd6cf22b"
+    }
+  }
+}
