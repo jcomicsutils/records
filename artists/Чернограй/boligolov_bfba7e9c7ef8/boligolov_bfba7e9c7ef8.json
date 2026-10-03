@@ -1,0 +1,25 @@
+{
+  "id": "boligolov_bfba7e9c7ef8",
+  "fingerprint": "bfba7e9c7ef80180512e115a7715516ac2ca64bdc09fe373e4aab491a6338e52",
+  "archived_at": "2026-10-03T22:50:30Z",
+  "metadata": {
+    "title": "Болиголов",
+    "artist": "Чернограй",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 6113,
+    "duration_human": "01:41:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Чернограй - Болиголов. Часть 1",
+      "02 Чернограй - Болиголов. Часть 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/boligolov_bfba7e9c7ef8"
+    }
+  }
+}
