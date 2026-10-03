@@ -1,0 +1,25 @@
+{
+  "id": "leiche-47-leiche-48_6f7c266be9d6",
+  "fingerprint": "6f7c266be9d60878773e3e5357805a07c089da5c9e48e0c6f5aa2dfe14f429f1",
+  "archived_at": "2026-10-03T03:38:52Z",
+  "metadata": {
+    "title": "Leiche 47 / Leiche 48",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 47",
+      "02 Leichen - Leiche 48"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-47-leiche-48_6f7c266be9d6"
+    }
+  }
+}
