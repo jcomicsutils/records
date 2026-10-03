@@ -1,0 +1,25 @@
+{
+  "id": "valvan-leichen_ed0d88d0a64f",
+  "fingerprint": "ed0d88d0a64fbc3b9dbc3f0e6e665f76c705e37b7deb5cb5f7251890f4dcf17e",
+  "archived_at": "2026-10-03T04:19:38Z",
+  "metadata": {
+    "title": "Valvan / Leichen",
+    "artist": "Valvan / Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3642,
+    "duration_human": "01:00:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Valvan / Leichen - Basement",
+      "02 Valvan / Leichen - Grau Leiche 7"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/valvan-leichen_ed0d88d0a64f"
+    }
+  }
+}
