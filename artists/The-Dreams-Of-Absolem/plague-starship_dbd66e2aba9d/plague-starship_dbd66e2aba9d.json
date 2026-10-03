@@ -1,0 +1,25 @@
+{
+  "id": "plague-starship_dbd66e2aba9d",
+  "fingerprint": "dbd66e2aba9d90790ed321ee3e17900b4cbc86c89d19cdfe31405eae58252f61",
+  "archived_at": "2026-10-03T10:32:09Z",
+  "metadata": {
+    "title": "Plague Starship",
+    "artist": "The Dreams Of Absolem",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4352,
+    "duration_human": "01:12:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Dreams of Absolem - Plague Starship I",
+      "02 The Dreams of Absolem - Plague Starship II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/plague-starship_dbd66e2aba9d"
+    }
+  }
+}
