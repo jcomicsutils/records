@@ -1,0 +1,25 @@
+{
+  "id": "train-cemetery-moyogash_1791068570",
+  "fingerprint": "3f07d8fd8631922eb159f563a5c89e660314bbc3c9c570524c0ad76c3b06a366",
+  "archived_at": "2026-10-03T23:02:50Z",
+  "metadata": {
+    "title": "Train Cemetery / MOYOGASH",
+    "artist": "Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3614,
+    "duration_human": "01:00:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - Eurymedon",
+      "02 MOYOGASH - We All Become Numb in the Face of Toon Town"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/train-cemetery-moyogash_3f07d8fd8631"
+    }
+  }
+}

@@ -6,6 +6,7 @@
 | [Secretum Omega / Train Cemetery](secretum-omega-train-cemetery_1791068554/secretum-omega-train-cemetery_1791068554.md) | 2017 | FLAC | 01:03:01 | [IA](https://archive.org/details/secretum-omega-train-cemetery_1098d2b29036) |
 | [Dismay](dismay_c1d83680dcbf/dismay_c1d83680dcbf.md) | 2017 | FLAC | 04:56:02 | [IA](https://archive.org/details/dismay_c1d83680dcbf) |
 | [Verbo](verbo_159714bba605/verbo_159714bba605.md) | 2017 | FLAC | 01:30:24 | [IA](https://archive.org/details/verbo_159714bba605) |
+| [Train Cemetery / MOYOGASH](train-cemetery-moyogash_1791068570/train-cemetery-moyogash_1791068570.md) | 2017 | FLAC | 01:00:14 | [IA](https://archive.org/details/train-cemetery-moyogash_3f07d8fd8631) |
 | [Beneath the Roots](beneath-the-roots_7a0c9c99c32f/beneath-the-roots_7a0c9c99c32f.md) | 2017 | FLAC | 01:30:00 | [IA](https://archive.org/details/beneath-the-roots_7a0c9c99c32f) |
 | [Rigid](rigid_88ea5383524c/rigid_88ea5383524c.md) | 2017 | FLAC | 04:51:29 | [IA](https://archive.org/details/rigid_88ea5383524c) |
 | [Quiet](quiet_a0d66b576063/quiet_a0d66b576063.md) | 2017 | FLAC | 00:44:00 | [IA](https://archive.org/details/quiet_a0d66b576063) |
