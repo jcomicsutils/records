@@ -1,0 +1,25 @@
+{
+  "id": "leiche-73-leiche-74_c65d6180eea3",
+  "fingerprint": "c65d6180eea370b82d01cf4308eef0fb0f361b3cebc6bae8eb3bc5350c14a46a",
+  "archived_at": "2026-10-03T04:13:44Z",
+  "metadata": {
+    "title": "Leiche 73 / Leiche 74",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 73",
+      "02 Leichen - Leiche 74"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-73-leiche-74_c65d6180eea3"
+    }
+  }
+}
