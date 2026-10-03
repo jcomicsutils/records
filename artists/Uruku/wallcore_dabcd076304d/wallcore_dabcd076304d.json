@@ -1,0 +1,33 @@
+{
+  "id": "wallcore_dabcd076304d",
+  "fingerprint": "dabcd076304d34a2989f0c2ec0e48e12e05de48d593ce84bcf54cea06fc118f7",
+  "archived_at": "2026-10-03T22:47:23Z",
+  "metadata": {
+    "title": "Wallcore",
+    "artist": "Uruku",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 1199,
+    "duration_human": "00:19:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Uruku - Introduction - Untitled",
+      "02 Uruku - Introduction",
+      "03 Uruku - [untitled]",
+      "04 Uruku - [untitled]",
+      "05 Uruku - [untitled]",
+      "06 Uruku - Introduction",
+      "07 Uruku - [untitled]",
+      "08 Uruku - Introduction",
+      "09 Uruku - [untitled]",
+      "10 Uruku - Untitled - Ending"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wallcore_dabcd076304d"
+    }
+  }
+}
