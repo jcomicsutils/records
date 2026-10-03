@@ -1,0 +1,25 @@
+{
+  "id": "floor-to-wall-fistpumping-hit-the-wall_ba2f3c21dc07",
+  "fingerprint": "ba2f3c21dc078b1c77a8b67f6c6e00d40e31232393b60d24bccdc3df2da5c286",
+  "archived_at": "2026-10-03T08:26:34Z",
+  "metadata": {
+    "title": "Floor to Wall Fistpumping / Hit the Wall",
+    "artist": "Shear Mania 94/Stena",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1472,
+    "duration_human": "00:24:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Shear Mania 94 - Floor to Wall Fistpumping",
+      "02 Stena - Hit the Wall"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/floor-to-wall-fistpumping-hit-the-wall_ba2f3c21dc07"
+    }
+  }
+}
