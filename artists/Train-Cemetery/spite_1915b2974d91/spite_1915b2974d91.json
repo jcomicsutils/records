@@ -1,0 +1,32 @@
+{
+  "id": "spite_1915b2974d91",
+  "fingerprint": "1915b2974d91c65294c54f4c52bd8cadf793a9bcf65704eb1c030dbc90b1eb68",
+  "archived_at": "2026-10-03T19:45:12Z",
+  "metadata": {
+    "title": "Spite",
+    "artist": "Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 21635,
+    "duration_human": "06:00:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Train Cemetery - Spite I",
+      "02 Train Cemetery - Spite II",
+      "03 Train Cemetery - Spite III",
+      "04 Train Cemetery - Spite IV",
+      "05 Train Cemetery - Spite V",
+      "06 Train Cemetery - Spite VI",
+      "07 Train Cemetery - Spite VII",
+      "08 Train Cemetery - Spite VIII",
+      "09 Train Cemetery - Spite IX"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/spite_1915b2974d91"
+    }
+  }
+}
