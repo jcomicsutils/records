@@ -1,0 +1,25 @@
+{
+  "id": "spacetime-grinder_3df16023802e",
+  "fingerprint": "3df16023802e2ab98706a225d11774bcf2b58d90079dfec2ebf69c5c11adb585",
+  "archived_at": "2026-10-03T10:58:24Z",
+  "metadata": {
+    "title": "Spacetime Grinder",
+    "artist": "The Dreams Of Absolem",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3990,
+    "duration_human": "01:06:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Dreams of Absolem - Spacetime Grinder I",
+      "02 The Dreams of Absolem - Spacetime Grinder II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/spacetime-grinder_3df16023802e"
+    }
+  }
+}
