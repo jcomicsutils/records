@@ -19,6 +19,7 @@
 | [Leiche 15 / Leiche 16](leiche-15-leiche-16_23a03cfb0111/leiche-15-leiche-16_23a03cfb0111.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-15-leiche-16_23a03cfb0111) |
 | [Leiche 31 / Leiche 32](leiche-31-leiche-32_b1060eabfd28/leiche-31-leiche-32_b1060eabfd28.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-31-leiche-32_b1060eabfd28) |
 | [Grau Leichen 1](grau-leichen-1_cc28b244dfad/grau-leichen-1_cc28b244dfad.md) | 2017 | FLAC | 06:00:00 | [IA](https://archive.org/details/grau-leichen-1_cc28b244dfad) |
+| [Leiche 55 / Leiche 56](leiche-55-leiche-56_d50138cd229a/leiche-55-leiche-56_d50138cd229a.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-55-leiche-56_d50138cd229a) |
 | [Leiche 13 / Leiche 14](leiche-13-leiche-14_13f8fc7e05e7/leiche-13-leiche-14_13f8fc7e05e7.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-13-leiche-14_13f8fc7e05e7) |
 | [Leiche 29 / Leiche 30](leiche-29-leiche-30_80344cfde5fc/leiche-29-leiche-30_80344cfde5fc.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-29-leiche-30_80344cfde5fc) |
 | [Leiche 3 / Leiche 4](leiche-3-leiche-4_099e22e272ac/leiche-3-leiche-4_099e22e272ac.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-3-leiche-4_099e22e272ac) |

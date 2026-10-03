@@ -1,0 +1,25 @@
+{
+  "id": "leiche-55-leiche-56_d50138cd229a",
+  "fingerprint": "d50138cd229ab9c450da56e51335ffbf3e0edfb165819ee0cbc2e3a603be77a5",
+  "archived_at": "2026-10-03T03:49:40Z",
+  "metadata": {
+    "title": "Leiche 55 / Leiche 56",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 55",
+      "02 Leichen - Leiche 56"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-55-leiche-56_d50138cd229a"
+    }
+  }
+}
