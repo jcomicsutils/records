@@ -1,0 +1,25 @@
+{
+  "id": "train-cemetery-extreme-kindness_1791068568",
+  "fingerprint": "830ef728ca84a50e2738f29eea9835044a9c3d18d1ebaef4134846d072bf2f9e",
+  "archived_at": "2026-10-03T23:02:48Z",
+  "metadata": {
+    "title": "Train Cemetery / Extreme Kindness",
+    "artist": "Train Cemetery",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3005,
+    "duration_human": "00:50:05",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - Expected Clouding of Reason",
+      "02 Extreme Kindness - Chest Breach"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/train-cemetery-extreme-kindness_830ef728ca84"
+    }
+  }
+}
