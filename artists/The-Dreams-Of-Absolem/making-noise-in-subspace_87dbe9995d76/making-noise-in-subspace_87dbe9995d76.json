@@ -1,0 +1,26 @@
+{
+  "id": "making-noise-in-subspace_87dbe9995d76",
+  "fingerprint": "87dbe9995d766e56372df349df8145536cec30cbd177a109cef7ee55098f3ff7",
+  "archived_at": "2026-10-03T10:07:19Z",
+  "metadata": {
+    "title": "Making Noise in Subspace",
+    "artist": "The Dreams Of Absolem",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2559,
+    "duration_human": "00:42:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Dreams of Absolem - First Noise",
+      "02 The Dreams of Absolem - Second Noise",
+      "03 The Dreams of Absolem - Third Noise"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/making-noise-in-subspace_87dbe9995d76"
+    }
+  }
+}
