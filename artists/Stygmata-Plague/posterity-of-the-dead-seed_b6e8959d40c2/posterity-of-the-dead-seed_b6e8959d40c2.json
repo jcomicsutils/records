@@ -1,0 +1,29 @@
+{
+  "id": "posterity-of-the-dead-seed_b6e8959d40c2",
+  "fingerprint": "b6e8959d40c268ec870d7f383e9d9eff6c3d1b7c6f4c2e6733ab15dbef3093c6",
+  "archived_at": "2026-10-03T08:58:58Z",
+  "metadata": {
+    "title": "Posterity of the Dead Seed",
+    "artist": "Stygmata Plague",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1419,
+    "duration_human": "00:23:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Stygmata Plague - Blackbone Hen / Isfagan Towers",
+      "02 Stygmata Plague - Travel With No Candle",
+      "03 Stygmata Plague - Posterity of the Dead Seed",
+      "04 Stygmata Plague - Mindfall Stranglehold",
+      "05 Stygmata Plague - Sapros Christus",
+      "06 Stygmata Plague - When I Was Old..."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/posterity-of-the-dead-seed_b6e8959d40c2"
+    }
+  }
+}
