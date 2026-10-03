@@ -1,0 +1,25 @@
+{
+  "id": "leiche-33-leiche-34_2f2fe412a860",
+  "fingerprint": "2f2fe412a860c3f31a62c7a5132896989a804f492b00e3a0238f159475aaa0e9",
+  "archived_at": "2026-10-03T03:18:10Z",
+  "metadata": {
+    "title": "Leiche 33 / Leiche 34",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 33",
+      "02 Leichen - Leiche 34"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-33-leiche-34_2f2fe412a860"
+    }
+  }
+}
