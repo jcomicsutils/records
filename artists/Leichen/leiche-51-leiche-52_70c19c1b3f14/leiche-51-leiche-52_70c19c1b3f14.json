@@ -1,0 +1,25 @@
+{
+  "id": "leiche-51-leiche-52_70c19c1b3f14",
+  "fingerprint": "70c19c1b3f146959f041c7caaf3ecd8f07f06c2a11b926b8745184109bbbca34",
+  "archived_at": "2026-10-03T03:44:38Z",
+  "metadata": {
+    "title": "Leiche 51 / Leiche 52",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 51",
+      "02 Leichen - Leiche 52"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-51-leiche-52_70c19c1b3f14"
+    }
+  }
+}
