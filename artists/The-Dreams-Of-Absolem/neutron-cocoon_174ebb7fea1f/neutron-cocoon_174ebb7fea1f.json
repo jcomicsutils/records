@@ -1,0 +1,26 @@
+{
+  "id": "neutron-cocoon_174ebb7fea1f",
+  "fingerprint": "174ebb7fea1f80695cc0abdbd5cb29b88c2fc2d44d4de9f864ce956b53f2e324",
+  "archived_at": "2026-10-03T10:17:13Z",
+  "metadata": {
+    "title": "Neutron Cocoon",
+    "artist": "The Dreams Of Absolem",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 5805,
+    "duration_human": "01:36:45",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Dreams of Absolem - Part I",
+      "02 The Dreams of Absolem - Part II",
+      "03 The Dreams of Absolem - Part III"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/neutron-cocoon_174ebb7fea1f"
+    }
+  }
+}
