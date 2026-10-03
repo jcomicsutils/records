@@ -1,0 +1,25 @@
+{
+  "id": "leiche-31-leiche-32_b1060eabfd28",
+  "fingerprint": "b1060eabfd28fa3734594d58c8194d33e9ea97ba1bad6a94af9fe1475792d9cf",
+  "archived_at": "2026-10-03T03:15:37Z",
+  "metadata": {
+    "title": "Leiche 31 / Leiche 32",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 31",
+      "02 Leichen - Leiche 32"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-31-leiche-32_b1060eabfd28"
+    }
+  }
+}
