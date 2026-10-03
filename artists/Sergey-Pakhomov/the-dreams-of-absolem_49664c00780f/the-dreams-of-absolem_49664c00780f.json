@@ -1,0 +1,24 @@
+{
+  "id": "the-dreams-of-absolem_49664c00780f",
+  "fingerprint": "49664c00780f97f0ee176a3887b08656c7530b96062bd2a3514a38e8b4e08c6e",
+  "archived_at": "2026-10-03T11:41:10Z",
+  "metadata": {
+    "title": "The Dreams of Absolem",
+    "artist": "Sergey Pakhomov",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3734,
+    "duration_human": "01:02:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - The Dreams of Absolem"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-dreams-of-absolem_49664c00780f"
+    }
+  }
+}
