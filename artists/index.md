@@ -343,6 +343,7 @@
 - [Train Cemetery](Train-Cemetery/Train-Cemetery.md)
 - [Train Cemetery & How I met Lauren \(with See Through Buildings & Bonechurch\)](Train-Cemetery-&-How-I-met-Lauren-%28with-See-Through-Buildings-&-Bonechurch%29/Train-Cemetery-&-How-I-met-Lauren-%28with-See-Through-Buildings-&-Bonechurch%29.md)
 - [Train Cemetery & Raw Sun Of Endless Dust Valley](Train-Cemetery-&-Raw-Sun-Of-Endless-Dust-Valley/Train-Cemetery-&-Raw-Sun-Of-Endless-Dust-Valley.md)
+- [Train Cemetery / Danshoku Dino](Train-Cemetery-Danshoku-Dino/Train-Cemetery-Danshoku-Dino.md)
 - [Trasgo](Trasgo/Trasgo.md)
 - [Tratosphere](Tratosphere/Tratosphere.md)
 - [TrillaVelt](TrillaVelt/TrillaVelt.md)
