@@ -1,0 +1,29 @@
+{
+  "id": "darkness-pulsates_802a4a102227",
+  "fingerprint": "802a4a102227a0b0a2727f747717c3397172323b06cef5488c4e14d2a78de70d",
+  "archived_at": "2026-10-03T00:36:07Z",
+  "metadata": {
+    "title": "Darkness Pulsates",
+    "artist": "Kara",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 25200,
+    "duration_human": "07:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kara - Darkness Pulsates №1",
+      "02 Kara - Darkness Pulsates №2",
+      "03 Kara - Darkness Pulsates №3",
+      "04 Kara - Darkness Pulsates №4",
+      "05 Kara - Darkness Pulsates №5",
+      "06 Kara - Darkness Pulsates №6"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/darkness-pulsates_802a4a102227"
+    }
+  }
+}
