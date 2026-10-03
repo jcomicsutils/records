@@ -1,0 +1,25 @@
+{
+  "id": "the-witches-of-betelgeuse_05e3a2f7a2e4",
+  "fingerprint": "05e3a2f7a2e41cc8261966c8e8192709d23fdc5d37bc8d84eef725385277f24d",
+  "archived_at": "2026-10-03T12:09:46Z",
+  "metadata": {
+    "title": "The Witches of Betelgeuse",
+    "artist": "The Dreams Of Absolem",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4855,
+    "duration_human": "01:20:55",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Dreams of Absolem - Part I",
+      "02 The Dreams of Absolem - Part II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-witches-of-betelgeuse_05e3a2f7a2e4"
+    }
+  }
+}
