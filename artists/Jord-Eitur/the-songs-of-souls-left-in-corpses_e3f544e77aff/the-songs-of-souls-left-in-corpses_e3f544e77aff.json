@@ -1,0 +1,25 @@
+{
+  "id": "the-songs-of-souls-left-in-corpses_e3f544e77aff",
+  "fingerprint": "e3f544e77aff39e49e08a6628531cfa6b71fd76d6980a30324a5af204c1a09dd",
+  "archived_at": "2026-10-03T00:01:33Z",
+  "metadata": {
+    "title": "The Songs of Souls Left in Corpses",
+    "artist": "Jord Eitur",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2748,
+    "duration_human": "00:45:48",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Jord Eitur - Part I",
+      "02 Jord Eitur - Part II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-songs-of-souls-left-in-corpses_e3f544e77aff"
+    }
+  }
+}
