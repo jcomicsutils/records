@@ -1,0 +1,25 @@
+{
+  "id": "griphana_cde1898f7e3d",
+  "fingerprint": "cde1898f7e3dc3644f8eaa70ba3b968b664db29fcf8bcbe1cf16e40c3abedc94",
+  "archived_at": "2026-10-03T12:19:39Z",
+  "metadata": {
+    "title": "Griphana",
+    "artist": "Tibetan Funeral",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3013,
+    "duration_human": "00:50:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tibetan Funeral - Untitled A",
+      "02 Tibetan Funeral - Untitled B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/griphana_cde1898f7e3d"
+    }
+  }
+}

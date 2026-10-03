@@ -325,6 +325,7 @@
 - [This Immortal Coil](This-Immortal-Coil/This-Immortal-Coil.md)
 - [Thorjn](Thorjn/Thorjn.md)
 - [Thorr's Hammer](Thorr's-Hammer/Thorr's-Hammer.md)
+- [Tibetan Funeral](Tibetan-Funeral/Tibetan-Funeral.md)
 - [To Be Gentle](To-Be-Gentle/To-Be-Gentle.md)
 - [To Remember the Days Gone Past](To-Remember-the-Days-Gone-Past/To-Remember-the-Days-Gone-Past.md)
 - [Together to the Stars](Together-to-the-Stars/Together-to-the-Stars.md)
