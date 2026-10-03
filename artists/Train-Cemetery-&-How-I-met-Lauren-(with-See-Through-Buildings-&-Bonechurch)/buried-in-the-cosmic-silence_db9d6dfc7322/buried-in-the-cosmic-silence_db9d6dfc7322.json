@@ -1,0 +1,27 @@
+{
+  "id": "buried-in-the-cosmic-silence_db9d6dfc7322",
+  "fingerprint": "db9d6dfc732202c385850225a828c0e4035d907d22e1a8c5c02b71f9d3c5ec8b",
+  "archived_at": "2026-10-03T14:16:26Z",
+  "metadata": {
+    "title": "Buried in the Cosmic Silence",
+    "artist": "Train Cemetery & How I met Lauren (with See Through Buildings & Bonechurch)",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 10636,
+    "duration_human": "02:57:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - Thirsty Heart of the Galaxy",
+      "02 See Through Buildings - Eaten by Stars",
+      "03 How I Met Lauren - Every Sun Has Died",
+      "04 Bonechurch - Gravitational Collapse"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/buried-in-the-cosmic-silence_db9d6dfc7322"
+    }
+  }
+}
