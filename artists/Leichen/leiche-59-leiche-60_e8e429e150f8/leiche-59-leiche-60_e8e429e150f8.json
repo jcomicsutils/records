@@ -1,0 +1,25 @@
+{
+  "id": "leiche-59-leiche-60_e8e429e150f8",
+  "fingerprint": "e8e429e150f839aefb4a619f8bec14012e7b0311725d62ce7d610c21c64cc1b1",
+  "archived_at": "2026-10-03T03:55:02Z",
+  "metadata": {
+    "title": "Leiche 59 / Leiche 60",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 59",
+      "02 Leichen - Leiche 60"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-59-leiche-60_e8e429e150f8"
+    }
+  }
+}
