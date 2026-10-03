@@ -1,0 +1,24 @@
+{
+  "id": "twilight-of-the-void_45f2ef0f56af",
+  "fingerprint": "45f2ef0f56afb09d95915f2467fb75a7894da22f6f8d258fa22430283bc99a3b",
+  "archived_at": "2026-10-03T08:53:42Z",
+  "metadata": {
+    "title": "Twilight of the Void",
+    "artist": "Stvar",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2562,
+    "duration_human": "00:42:42",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Stvar - Twilight of the Void"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/twilight-of-the-void_45f2ef0f56af"
+    }
+  }
+}
