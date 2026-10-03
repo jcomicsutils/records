@@ -1,0 +1,24 @@
+{
+  "id": "caecare-religiosus_1791068515",
+  "fingerprint": "898f208e3f0f66529e2076a79f16332d9b94431546daf19f49c34b9525d26fc9",
+  "archived_at": "2026-10-03T23:01:55Z",
+  "metadata": {
+    "title": "Caecare Religiosus",
+    "artist": "Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1789,
+    "duration_human": "00:29:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Dosis Letalis & Train Cemetery - Caecare Religiosus"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/caecare-religiosus_898f208e3f0f"
+    }
+  }
+}
