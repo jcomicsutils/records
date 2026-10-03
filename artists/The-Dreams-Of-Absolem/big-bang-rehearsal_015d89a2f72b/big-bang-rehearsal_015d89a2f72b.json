@@ -1,0 +1,26 @@
+{
+  "id": "big-bang-rehearsal_015d89a2f72b",
+  "fingerprint": "015d89a2f72b1354dc3ebc636800fd74b899602edf8bec2c24b0da9b50735802",
+  "archived_at": "2026-10-03T09:25:11Z",
+  "metadata": {
+    "title": "Big Bang Rehearsal",
+    "artist": "The Dreams Of Absolem",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4573,
+    "duration_human": "01:16:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Dreams of Absolem - Rehearsal I",
+      "02 The Dreams of Absolem - Rehearsal II",
+      "03 The Dreams of Absolem - Rehearsal III"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/big-bang-rehearsal_015d89a2f72b"
+    }
+  }
+}
