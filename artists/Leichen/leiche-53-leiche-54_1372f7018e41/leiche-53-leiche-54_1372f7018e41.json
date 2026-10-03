@@ -1,0 +1,25 @@
+{
+  "id": "leiche-53-leiche-54_1372f7018e41",
+  "fingerprint": "1372f7018e416ae1b97e26aec870b2576b4cd1e06c63bab109bf7866ba8cdd5c",
+  "archived_at": "2026-10-03T03:47:03Z",
+  "metadata": {
+    "title": "Leiche 53 / Leiche 54",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 53",
+      "02 Leichen - Leiche 54"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-53-leiche-54_1372f7018e41"
+    }
+  }
+}
