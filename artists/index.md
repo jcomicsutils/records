@@ -367,6 +367,7 @@
 - [Virvel](Virvel/Virvel.md)
 - [Vitor Cozilos Vitor](Vitor-Cozilos-Vitor/Vitor-Cozilos-Vitor.md)
 - [Vomir / Train Cemetery](Vomir-Train-Cemetery/Vomir-Train-Cemetery.md)
+- [Vomir / Valvan / Dosis Letalis / Train Cemetery / Richard Ramirez](Vomir-Valvan-Dosis-Letalis-Train-Cemetery-Richard-Ramirez/Vomir-Valvan-Dosis-Letalis-Train-Cemetery-Richard-Ramirez.md)
 - [Vomit-Self](Vomit-Self/Vomit-Self.md)
 - [XIU XIU](XIU-XIU/XIU-XIU.md)
 - [XXL](XXL/XXL.md)
