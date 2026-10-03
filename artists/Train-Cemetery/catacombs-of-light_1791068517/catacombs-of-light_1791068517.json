@@ -1,0 +1,25 @@
+{
+  "id": "catacombs-of-light_1791068517",
+  "fingerprint": "790e1aee858c9396369df119e183bb1f9cc2648c82ff07670d31750cc734d34e",
+  "archived_at": "2026-10-03T23:01:57Z",
+  "metadata": {
+    "title": "Catacombs of Light",
+    "artist": "Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2402,
+    "duration_human": "00:40:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery & Raw Sun of Endless Dust Valley - Catacombs of Light",
+      "02 Train Cemetery & Raw Sun of Endless Dust Valley - Labyrinth of Skies"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/catacombs-of-light_790e1aee858c"
+    }
+  }
+}
