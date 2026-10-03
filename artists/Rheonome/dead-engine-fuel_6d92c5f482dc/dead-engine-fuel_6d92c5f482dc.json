@@ -1,0 +1,25 @@
+{
+  "id": "dead-engine-fuel_6d92c5f482dc",
+  "fingerprint": "6d92c5f482dcb99ee57d2a072d5fd68009af1386761f5c72b93ce9518e70661a",
+  "archived_at": "2026-10-03T06:50:10Z",
+  "metadata": {
+    "title": "Dead Engine Fuel",
+    "artist": "Rheonome",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5344,
+    "duration_human": "01:29:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rheonome - Side A.",
+      "02 Rheonome - Side B."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dead-engine-fuel_6d92c5f482dc"
+    }
+  }
+}
