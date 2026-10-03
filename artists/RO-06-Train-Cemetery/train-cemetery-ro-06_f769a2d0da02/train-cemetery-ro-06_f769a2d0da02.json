@@ -1,0 +1,25 @@
+{
+  "id": "train-cemetery-ro-06_f769a2d0da02",
+  "fingerprint": "f769a2d0da028bd34270d8d2fb5a25e2b42eb96ca0f4ab5d80d7097c29df0c3f",
+  "archived_at": "2026-10-03T21:13:55Z",
+  "metadata": {
+    "title": "Train Cemetery / RO-06",
+    "artist": "RO-06 / Train Cemetery",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2877,
+    "duration_human": "00:47:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - Internal Cranial Scraping",
+      "02 RO-06 - Перетяжка К Смерти"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/train-cemetery-ro-06_f769a2d0da02"
+    }
+  }
+}
