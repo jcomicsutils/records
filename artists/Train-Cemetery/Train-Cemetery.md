@@ -16,6 +16,7 @@
 | [Ossa](ossa_3caf1e85fe19/ossa_3caf1e85fe19.md) | 2017 | FLAC | 03:14:26 | [IA](https://archive.org/details/ossa_3caf1e85fe19) |
 | [χάος](chaos_3ac3673a7720/chaos_3ac3673a7720.md) | 2017 | FLAC | 02:00:00 | [IA](https://archive.org/details/chaos_3ac3673a7720) |
 | [Murum](murum_75e5fe491e6f/murum_75e5fe491e6f.md) | 2017 | FLAC | 01:30:01 | [IA](https://archive.org/details/murum_75e5fe491e6f) |
+| [Buried in the Cosmic Silence](buried-in-the-cosmic-silence_1791068512/buried-in-the-cosmic-silence_1791068512.md) | 2017 | FLAC | 02:57:16 | [IA](https://archive.org/details/buried-in-the-cosmic-silence_db9d6dfc7322) |
 | [April Town. Mood Series # 3](april-town-mood-series-3_517584a15442/april-town-mood-series-3_517584a15442.md) | 2017 | FLAC | 01:08:51 | [IA](https://archive.org/details/april-town-mood-series-3_517584a15442) |
 | [July. Mood Series #1](july-mood-series-1_738356e01daf/july-mood-series-1_738356e01daf.md) | 2017 | FLAC | 00:50:57 | [IA](https://archive.org/details/july-mood-series-1_738356e01daf) |
 | [Gist](gist_0e6966775fd9/gist_0e6966775fd9.md) | 2017 | FLAC | 09:49:50 | [IA](https://archive.org/details/gist_0e6966775fd9) |
