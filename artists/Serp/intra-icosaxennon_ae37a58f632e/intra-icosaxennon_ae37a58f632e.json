@@ -1,0 +1,24 @@
+{
+  "id": "intra-icosaxennon_ae37a58f632e",
+  "fingerprint": "ae37a58f632eeab42279286b609c5fff71d919676d6c5d60b97f0ffa776e47b4",
+  "archived_at": "2026-10-03T07:43:27Z",
+  "metadata": {
+    "title": "Intra Icosaxennon",
+    "artist": "Serp",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3387,
+    "duration_human": "00:56:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Serp - Intra Icosaxennon"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/intra-icosaxennon_ae37a58f632e"
+    }
+  }
+}
