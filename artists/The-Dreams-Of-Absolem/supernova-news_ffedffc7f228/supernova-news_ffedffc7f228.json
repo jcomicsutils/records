@@ -1,0 +1,24 @@
+{
+  "id": "supernova-news_ffedffc7f228",
+  "fingerprint": "ffedffc7f228d0b460298d97eef8e502052b3c95f8fe6315751ec3c65b6782c2",
+  "archived_at": "2026-10-03T11:17:42Z",
+  "metadata": {
+    "title": "Supernova News",
+    "artist": "The Dreams Of Absolem",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3742,
+    "duration_human": "01:02:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Dreams of Absolem - Supernova News"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/supernova-news_ffedffc7f228"
+    }
+  }
+}
