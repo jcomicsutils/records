@@ -14,6 +14,7 @@
 | [Big Bang Rehearsal](big-bang-rehearsal_015d89a2f72b/big-bang-rehearsal_015d89a2f72b.md) | 2021 | FLAC | 01:16:13 | [IA](https://archive.org/details/big-bang-rehearsal_015d89a2f72b) |
 | [Synth VRN WP-2020: Vitality Test](synth-vrn-wp-2020-vitality-test_2bf9644ee46a/synth-vrn-wp-2020-vitality-test_2bf9644ee46a.md) | 2021 | FLAC | 01:01:06 | [IA](https://archive.org/details/synth-vrn-wp-2020-vitality-test_2bf9644ee46a) |
 | [Poliworks](poliworks_17bf4c80eb70/poliworks_17bf4c80eb70.md) | 2021 | FLAC | 01:02:06 | [IA](https://archive.org/details/poliworks_17bf4c80eb70) |
+| [The Dreams of Absolem in Multiverse](the-dreams-of-absolem-in-multiverse_735c2e3b57e3/the-dreams-of-absolem-in-multiverse_735c2e3b57e3.md) | 2021 | FLAC | 01:10:29 | [IA](https://archive.org/details/the-dreams-of-absolem-in-multiverse_735c2e3b57e3) |
 | [Making Noise in Subspace](making-noise-in-subspace_87dbe9995d76/making-noise-in-subspace_87dbe9995d76.md) | 2021 | FLAC | 00:42:39 | [IA](https://archive.org/details/making-noise-in-subspace_87dbe9995d76) |
 | [Neutron Cocoon](neutron-cocoon_174ebb7fea1f/neutron-cocoon_174ebb7fea1f.md) | 2023 | FLAC | 01:36:45 | [IA](https://archive.org/details/neutron-cocoon_174ebb7fea1f) |
 | [Never Ending Odyssey](never-ending-odyssey_bdc3cd6cf22b/never-ending-odyssey_bdc3cd6cf22b.md) | 2023 | FLAC | 01:00:38 | [IA](https://archive.org/details/never-ending-odyssey_bdc3cd6cf22b) |
