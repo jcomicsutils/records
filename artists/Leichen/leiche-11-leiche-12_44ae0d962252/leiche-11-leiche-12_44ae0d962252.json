@@ -1,0 +1,25 @@
+{
+  "id": "leiche-11-leiche-12_44ae0d962252",
+  "fingerprint": "44ae0d9622525f54e5d9803d7957328927b627fcf89bd20b413e154aa3b5a204",
+  "archived_at": "2026-10-03T02:43:20Z",
+  "metadata": {
+    "title": "Leiche 11 / Leiche 12",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 11",
+      "02 Leichen - Leiche 12"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-11-leiche-12_44ae0d962252"
+    }
+  }
+}
