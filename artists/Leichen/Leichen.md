@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Leiche 61 / Leiche 62](leiche-61-leiche-62_c63bedc47a0c/leiche-61-leiche-62_c63bedc47a0c.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-61-leiche-62_c63bedc47a0c) |
+| [Leiche 71 / Leiche 72](leiche-71-leiche-72_1c3ee33f20f6/leiche-71-leiche-72_1c3ee33f20f6.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-71-leiche-72_1c3ee33f20f6) |
 | [Leiche 67 / Leiche 68](leiche-67-leiche-68_40ec0ade417c/leiche-67-leiche-68_40ec0ade417c.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-67-leiche-68_40ec0ade417c) |
 | [Leiche 27 / Leiche 28](leiche-27-leiche-28_fa1c4ff2f468/leiche-27-leiche-28_fa1c4ff2f468.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-27-leiche-28_fa1c4ff2f468) |
 | [Leiche 37 / Leiche 38](leiche-37-leiche-38_c93c94f10f3b/leiche-37-leiche-38_c93c94f10f3b.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-37-leiche-38_c93c94f10f3b) |

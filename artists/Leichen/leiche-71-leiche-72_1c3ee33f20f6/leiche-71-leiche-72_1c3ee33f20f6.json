@@ -1,0 +1,25 @@
+{
+  "id": "leiche-71-leiche-72_1c3ee33f20f6",
+  "fingerprint": "1c3ee33f20f6c70cf6c93fab2a85322d18afbd6af9f12d8ee73e39ff51496554",
+  "archived_at": "2026-10-03T04:11:23Z",
+  "metadata": {
+    "title": "Leiche 71 / Leiche 72",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 71",
+      "02 Leichen - Leiche 72"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-71-leiche-72_1c3ee33f20f6"
+    }
+  }
+}
