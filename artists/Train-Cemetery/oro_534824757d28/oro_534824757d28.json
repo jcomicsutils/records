@@ -1,0 +1,27 @@
+{
+  "id": "oro_534824757d28",
+  "fingerprint": "534824757d285592861bbaeb748913f0a898e66a5f822c8677444ab6e4e2053f",
+  "archived_at": "2026-10-03T17:36:16Z",
+  "metadata": {
+    "title": "Oro",
+    "artist": "Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4925,
+    "duration_human": "01:22:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - Oro I",
+      "02 Train Cemetery - Oro II",
+      "03 Train Cemetery - Oro III",
+      "04 Train Cemetery - Oro IV"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/oro_534824757d28"
+    }
+  }
+}
