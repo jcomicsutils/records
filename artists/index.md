@@ -318,6 +318,7 @@
 - [Urbi Flat](Urbi-Flat/Urbi-Flat.md)
 - [Ursus Wallis](Ursus-Wallis/Ursus-Wallis.md)
 - [Various Artists](Various-Artists/Various-Artists.md)
+- [Veil of Nature / Kara](Veil-of-Nature-Kara/Veil-of-Nature-Kara.md)
 - [Vesuvio](Vesuvio/Vesuvio.md)
 - [Virvel](Virvel/Virvel.md)
 - [Vitor Cozilos Vitor](Vitor-Cozilos-Vitor/Vitor-Cozilos-Vitor.md)

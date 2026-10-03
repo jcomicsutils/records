@@ -1,0 +1,25 @@
+{
+  "id": "veil-of-nature-kara_ea0aa7f99bf4",
+  "fingerprint": "ea0aa7f99bf4e78e503da9c3d2f4dc19a76457aec76eda18cbbc4b6c36c5ec99",
+  "archived_at": "2026-10-03T01:21:07Z",
+  "metadata": {
+    "title": "Veil of Nature / Kara",
+    "artist": "Veil of Nature / Kara",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4800,
+    "duration_human": "01:20:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Veil of Nature - Grayscale Image",
+      "02 Kara - Forms Decays"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/veil-of-nature-kara_ea0aa7f99bf4"
+    }
+  }
+}
