@@ -1,0 +1,25 @@
+{
+  "id": "leiche-5-leiche-6_d95d461e6347",
+  "fingerprint": "d95d461e6347eaa4c3c2aa0a255851f94726e55bf44280a6baa1624b6d4d524a",
+  "archived_at": "2026-10-03T02:35:04Z",
+  "metadata": {
+    "title": "Leiche 5 / Leiche 6",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 5",
+      "02 Leichen - Leiche 6"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-5-leiche-6_d95d461e6347"
+    }
+  }
+}
