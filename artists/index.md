@@ -145,6 +145,7 @@
 - [Harara / Raamma](Harara-Raamma/Harara-Raamma.md)
 - [Harold](Harold/Harold.md)
 - [Headed](Headed/Headed.md)
+- [Heksemøte / Tibetan Funeral](Heksemøte-Tibetan-Funeral/Heksemøte-Tibetan-Funeral.md)
 - [Hermanos Gutiérrez](Hermanos-Gutiérrez/Hermanos-Gutiérrez.md)
 - [House of Low Culture](House-of-Low-Culture/House-of-Low-Culture.md)
 - [Human Tetris](Human-Tetris/Human-Tetris.md)

@@ -1,0 +1,25 @@
+{
+  "id": "heksemote-tibetan-funeral_9fea754e4974",
+  "fingerprint": "9fea754e4974608e925b2c96f0ad02bc035695c2bd08549e4394daa37bd56924",
+  "archived_at": "2026-10-03T12:25:41Z",
+  "metadata": {
+    "title": "Heksemøte / Tibetan Funeral",
+    "artist": "Heksemøte / Tibetan Funeral",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Heksemøte - Bamo Sum",
+      "02 Tibetan Funeral - Jadugara"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/heksemote-tibetan-funeral_9fea754e4974"
+    }
+  }
+}
