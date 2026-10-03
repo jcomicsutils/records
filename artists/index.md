@@ -85,6 +85,7 @@
 - [Coffret de Bijoux](Coffret-de-Bijoux/Coffret-de-Bijoux.md)
 - [Concepción Huerta](Concepción-Huerta/Concepción-Huerta.md)
 - [Constellatia](Constellatia/Constellatia.md)
+- [Corpseincinerating Furnace / Train Cemetery](Corpseincinerating-Furnace-Train-Cemetery/Corpseincinerating-Furnace-Train-Cemetery.md)
 - [Crying Motherfuckers](Crying-Motherfuckers/Crying-Motherfuckers.md)
 - [Current 93](Current-93/Current-93.md)
 - [D. Haines](D.-Haines/D.-Haines.md)

@@ -1,0 +1,25 @@
+{
+  "id": "corpseincinerating-furnace-train-cemetery_60d0730a4402",
+  "fingerprint": "60d0730a44026720226a3e72b3d8f59aa7a0ab25db8429f5f086cf7384cee372",
+  "archived_at": "2026-10-03T14:34:52Z",
+  "metadata": {
+    "title": "Corpseincinerating Furnace / Train Cemetery",
+    "artist": "Corpseincinerating Furnace / Train Cemetery",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2107,
+    "duration_human": "00:35:07",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Corpseincinerating Furnace - Blood Wall in the Sectional Hall",
+      "02 Train Cemetery - The Dead Have a Home"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/corpseincinerating-furnace-train-cemetery_60d0730a4402"
+    }
+  }
+}
