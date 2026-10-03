@@ -1,0 +1,25 @@
+{
+  "id": "leiche-7-leiche-8_ff35d23fb050",
+  "fingerprint": "ff35d23fb0504d45df5f896c496af052327bc69343a4528395a70df829faaa18",
+  "archived_at": "2026-10-03T02:37:39Z",
+  "metadata": {
+    "title": "Leiche 7 / Leiche 8",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 7",
+      "02 Leichen - Leiche 8"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-7-leiche-8_ff35d23fb050"
+    }
+  }
+}
