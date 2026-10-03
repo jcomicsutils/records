@@ -8,3 +8,4 @@
 | [Big Bang Rehearsal](big-bang-rehearsal_015d89a2f72b/big-bang-rehearsal_015d89a2f72b.md) | 2021 | FLAC | 01:16:13 | [IA](https://archive.org/details/big-bang-rehearsal_015d89a2f72b) |
 | [Galactic Order of Primeval Theurgy](galactic-order-of-primeval-theurgy_3118fd4facd2/galactic-order-of-primeval-theurgy_3118fd4facd2.md) | 2024 | FLAC | 00:55:33 | [IA](https://archive.org/details/galactic-order-of-primeval-theurgy_3118fd4facd2) |
 | [Alien Mines](alien-mines_f7a0097ba3b0/alien-mines_f7a0097ba3b0.md) | 2026 | FLAC | 00:50:13 | [IA](https://archive.org/details/alien-mines_f7a0097ba3b0) |
+| [Know I Was There](know-i-was-there_ba93241eae1f/know-i-was-there_ba93241eae1f.md) | 2026 | FLAC | 00:47:07 | [IA](https://archive.org/details/know-i-was-there_ba93241eae1f) |

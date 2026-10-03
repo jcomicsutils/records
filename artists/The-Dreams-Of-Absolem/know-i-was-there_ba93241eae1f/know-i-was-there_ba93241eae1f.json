@@ -1,0 +1,24 @@
+{
+  "id": "know-i-was-there_ba93241eae1f",
+  "fingerprint": "ba93241eae1faed44ac60d8d2cd584b09dc0a0ffec18752c56a30b00206f2158",
+  "archived_at": "2026-10-03T09:58:44Z",
+  "metadata": {
+    "title": "Know I Was There",
+    "artist": "The Dreams Of Absolem",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2827,
+    "duration_human": "00:47:07",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Dreams of Absolem - Know I Was There"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/know-i-was-there_ba93241eae1f"
+    }
+  }
+}
