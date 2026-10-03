@@ -239,6 +239,7 @@
 - [Ordo Equilibrio](Ordo-Equilibrio/Ordo-Equilibrio.md)
 - [Ordo Rosarius Equilibrio](Ordo-Rosarius-Equilibrio/Ordo-Rosarius-Equilibrio.md)
 - [Orquesta de las Nubes](Orquesta-de-las-Nubes/Orquesta-de-las-Nubes.md)
+- [Parish Sacred Cathouse](Parish-Sacred-Cathouse/Parish-Sacred-Cathouse.md)
 - [Peace & Freedom](Peace-&-Freedom/Peace-&-Freedom.md)
 - [Pentemple](Pentemple/Pentemple.md)
 - [Peter Michael Hamel](Peter-Michael-Hamel/Peter-Michael-Hamel.md)
