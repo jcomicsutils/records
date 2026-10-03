@@ -1,0 +1,25 @@
+{
+  "id": "leiche-3-leiche-4_099e22e272ac",
+  "fingerprint": "099e22e272ac174d4a68d10c3b60210147cc79625bf53d2d91a100e605b993da",
+  "archived_at": "2026-10-03T02:31:49Z",
+  "metadata": {
+    "title": "Leiche 3 / Leiche 4",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 3",
+      "02 Leichen - Leiche 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-3-leiche-4_099e22e272ac"
+    }
+  }
+}
