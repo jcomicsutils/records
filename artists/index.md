@@ -282,6 +282,7 @@
 - [St. Francis Duo](St.-Francis-Duo/St.-Francis-Duo.md)
 - [State River Widening](State-River-Widening/State-River-Widening.md)
 - [Steinbrüchel](Steinbrüchel/Steinbrüchel.md)
+- [Stena](Stena/Stena.md)
 - [Stephen O'Malley](Stephen-O'Malley/Stephen-O'Malley.md)
 - [Stillife](Stillife/Stillife.md)
 - [Stilluppsteypa](Stilluppsteypa/Stilluppsteypa.md)

@@ -1,0 +1,24 @@
+{
+  "id": "dancing-plague_e4bbf4ecc94b",
+  "fingerprint": "e4bbf4ecc94bf78596ae430de1678367a01fab12fc09d642169a87a20be4b8ae",
+  "archived_at": "2026-10-03T08:23:06Z",
+  "metadata": {
+    "title": "Dancing Plague",
+    "artist": "Stena",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1544,
+    "duration_human": "00:25:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Stena - Untitled 1 / Untitled 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dancing-plague_e4bbf4ecc94b"
+    }
+  }
+}
