@@ -1,0 +1,25 @@
+{
+  "id": "leiche-65-leiche-66_11e76fd1a1ae",
+  "fingerprint": "11e76fd1a1aee8b81eadbd34c59d0de9b3e36022657c092b9668be0070705314",
+  "archived_at": "2026-10-03T04:03:13Z",
+  "metadata": {
+    "title": "Leiche 65 / Leiche 66",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 65",
+      "02 Leichen - Leiche 66"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-65-leiche-66_11e76fd1a1ae"
+    }
+  }
+}
