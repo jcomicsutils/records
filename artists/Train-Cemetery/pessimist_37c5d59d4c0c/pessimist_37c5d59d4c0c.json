@@ -1,0 +1,25 @@
+{
+  "id": "pessimist_37c5d59d4c0c",
+  "fingerprint": "37c5d59d4c0cf1f9aeb533324c406aced5702eb2af3f20d72aa306b05b9a0445",
+  "archived_at": "2026-10-03T18:22:07Z",
+  "metadata": {
+    "title": "Pessimist",
+    "artist": "Train Cemetery",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - Pessimist I",
+      "02 Train Cemetery - Pessimist II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pessimist_37c5d59d4c0c"
+    }
+  }
+}
