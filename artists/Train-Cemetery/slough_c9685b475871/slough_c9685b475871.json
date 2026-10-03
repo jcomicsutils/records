@@ -1,0 +1,27 @@
+{
+  "id": "slough_c9685b475871",
+  "fingerprint": "c9685b475871bd0e373e8958a63fec16df22a9222d71e985b9525bb7240c0893",
+  "archived_at": "2026-10-03T19:20:48Z",
+  "metadata": {
+    "title": "Slough",
+    "artist": "Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3546,
+    "duration_human": "00:59:06",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Train Cemetery - Slough I",
+      "02 Train Cemetery - Slough II",
+      "03 Train Cemetery - Slough III",
+      "04 Train Cemetery - Slough IV"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/slough_c9685b475871"
+    }
+  }
+}

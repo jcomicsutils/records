@@ -8,6 +8,7 @@
 | [Quiet](quiet_a0d66b576063/quiet_a0d66b576063.md) | 2017 | FLAC | 00:44:00 | [IA](https://archive.org/details/quiet_a0d66b576063) |
 | [Heart Outside](heart-outside_2e562e4f7c38/heart-outside_2e562e4f7c38.md) | 2017 | FLAC | 00:19:00 | [IA](https://archive.org/details/heart-outside_2e562e4f7c38) |
 | [Oro](oro_534824757d28/oro_534824757d28.md) | 2017 | FLAC | 01:22:05 | [IA](https://archive.org/details/oro_534824757d28) |
+| [Slough](slough_c9685b475871/slough_c9685b475871.md) | 2017 | FLAC | 00:59:06 | [IA](https://archive.org/details/slough_c9685b475871) |
 | [Aught](aught_dc3d0b1a12ab/aught_dc3d0b1a12ab.md) | 2017 | FLAC | 00:18:40 | [IA](https://archive.org/details/aught_dc3d0b1a12ab) |
 | [All Alone](all-alone_1a89bddd12a6/all-alone_1a89bddd12a6.md) | 2017 | FLAC | 01:00:00 | [IA](https://archive.org/details/all-alone_1a89bddd12a6) |
 | [Ossa](ossa_3caf1e85fe19/ossa_3caf1e85fe19.md) | 2017 | FLAC | 03:14:26 | [IA](https://archive.org/details/ossa_3caf1e85fe19) |
