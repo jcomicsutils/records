@@ -1,0 +1,25 @@
+{
+  "id": "2_3f7222fc857a",
+  "fingerprint": "3f7222fc857a0560b8213f9738b686fd6d9463f660185ae44a6718372325841f",
+  "archived_at": "2026-10-03T08:09:22Z",
+  "metadata": {
+    "title": "2",
+    "artist": "Shishanote",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Shishanote - Track №3",
+      "02 Shishanote - Track №4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/2_3f7222fc857a"
+    }
+  }
+}
