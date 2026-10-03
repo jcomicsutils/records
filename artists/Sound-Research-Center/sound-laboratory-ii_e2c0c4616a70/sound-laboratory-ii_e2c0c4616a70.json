@@ -1,0 +1,25 @@
+{
+  "id": "sound-laboratory-ii_e2c0c4616a70",
+  "fingerprint": "e2c0c4616a709ebc8310c689e53e85054c592d0bca6804b4c153928fb4328db9",
+  "archived_at": "2026-10-03T08:17:49Z",
+  "metadata": {
+    "title": "Sound Laboratory II",
+    "artist": "Sound Research Center",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 600,
+    "duration_human": "00:10:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sound Research Center - Part 2a",
+      "02 Sound Research Center - Part 2b"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sound-laboratory-ii_e2c0c4616a70"
+    }
+  }
+}
