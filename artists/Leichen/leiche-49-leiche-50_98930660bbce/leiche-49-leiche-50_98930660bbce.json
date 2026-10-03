@@ -1,0 +1,25 @@
+{
+  "id": "leiche-49-leiche-50_98930660bbce",
+  "fingerprint": "98930660bbceade0e04ffe4a72e16bde5ab12d790fb741d4b92ce5821a739ec0",
+  "archived_at": "2026-10-03T03:42:08Z",
+  "metadata": {
+    "title": "Leiche 49 / Leiche 50",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 49",
+      "02 Leichen - Leiche 50"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-49-leiche-50_98930660bbce"
+    }
+  }
+}
