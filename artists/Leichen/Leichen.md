@@ -9,6 +9,7 @@
 | [Leiche 37 / Leiche 38](leiche-37-leiche-38_c93c94f10f3b/leiche-37-leiche-38_c93c94f10f3b.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-37-leiche-38_c93c94f10f3b) |
 | [Leiche 57 / Leiche 58](leiche-57-leiche-58_fb10e08541ad/leiche-57-leiche-58_fb10e08541ad.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-57-leiche-58_fb10e08541ad) |
 | [Leiche 23 / Leiche 24](leiche-23-leiche-24_d27ea9fb410f/leiche-23-leiche-24_d27ea9fb410f.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-23-leiche-24_d27ea9fb410f) |
+| [Leiche 75 / Leiche 76](leiche-75-leiche-76_711b34a871be/leiche-75-leiche-76_711b34a871be.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-75-leiche-76_711b34a871be) |
 | [Leiche 25 / Leiche 26](leiche-25-leiche-26_d82f48e8defc/leiche-25-leiche-26_d82f48e8defc.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-25-leiche-26_d82f48e8defc) |
 | [Leiche 21 / Leiche 22](leiche-21-leiche-22_8bb334c57b3a/leiche-21-leiche-22_8bb334c57b3a.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-21-leiche-22_8bb334c57b3a) |
 | [Leiche 35 / Leiche 36](leiche-35-leiche-36_2471edc29d0f/leiche-35-leiche-36_2471edc29d0f.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-35-leiche-36_2471edc29d0f) |

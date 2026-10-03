@@ -1,0 +1,25 @@
+{
+  "id": "leiche-75-leiche-76_711b34a871be",
+  "fingerprint": "711b34a871be71f2c73c4d2a8ac3031512e7232976cf2b1f59142767fc3692f1",
+  "archived_at": "2026-10-03T04:16:13Z",
+  "metadata": {
+    "title": "Leiche 75 / Leiche 76",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 75",
+      "02 Leichen - Leiche 76"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-75-leiche-76_711b34a871be"
+    }
+  }
+}
