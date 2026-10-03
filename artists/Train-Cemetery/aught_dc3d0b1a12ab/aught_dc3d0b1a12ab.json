@@ -1,0 +1,25 @@
+{
+  "id": "aught_dc3d0b1a12ab",
+  "fingerprint": "dc3d0b1a12ab1085b20df40a89818cc2781c9f0823a354470e17a74c1c309b84",
+  "archived_at": "2026-10-03T13:16:14Z",
+  "metadata": {
+    "title": "Aught",
+    "artist": "Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1120,
+    "duration_human": "00:18:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - Aught I",
+      "02 Train Cemetery - Aught II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/aught_dc3d0b1a12ab"
+    }
+  }
+}
