@@ -1,0 +1,25 @@
+{
+  "id": "circle-of-shit-parish-sacred-cathouse_75763c5c8abc",
+  "fingerprint": "75763c5c8abc4ad085e6dc7fd6798228af7481786cae7a27796fa6d32e40694b",
+  "archived_at": "2026-10-03T06:23:22Z",
+  "metadata": {
+    "title": "Circle of Shit / Parish Sacred Cathouse",
+    "artist": "Circle of Shit / Parish Sacred Cathouse",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3400,
+    "duration_human": "00:56:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Circle of Shit - Orkesterialkusoitto 1812",
+      "02 Parish Sacred Cathouse - The Last Temptation of Choirboy"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/circle-of-shit-parish-sacred-cathouse_75763c5c8abc"
+    }
+  }
+}

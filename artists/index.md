@@ -77,6 +77,7 @@
 - [Chas Smith](Chas-Smith/Chas-Smith.md)
 - [Chino Amobi](Chino-Amobi/Chino-Amobi.md)
 - [Chuquimamani-Condori](Chuquimamani-Condori/Chuquimamani-Condori.md)
+- [Circle of Shit / Parish Sacred Cathouse](Circle-of-Shit-Parish-Sacred-Cathouse/Circle-of-Shit-Parish-Sacred-Cathouse.md)
 - [Claire Rousay](Claire-Rousay/Claire-Rousay.md)
 - [Clinical trails](Clinical-trails/Clinical-trails.md)
 - [Cloud Ensemble](Cloud-Ensemble/Cloud-Ensemble.md)
