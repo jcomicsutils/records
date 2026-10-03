@@ -1,0 +1,26 @@
+{
+  "id": "beneath-the-roots_7a0c9c99c32f",
+  "fingerprint": "7a0c9c99c32f9a512e3ad96575688afac0d74ffb93a6592849cc5253f8c8b4e1",
+  "archived_at": "2026-10-03T13:33:45Z",
+  "metadata": {
+    "title": "Beneath the Roots",
+    "artist": "Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 5400,
+    "duration_human": "01:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - Beneath the Roots I",
+      "02 Train Cemetery - Beneath the Roots II",
+      "03 Train Cemetery - Beneath the Roots III"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/beneath-the-roots_7a0c9c99c32f"
+    }
+  }
+}
