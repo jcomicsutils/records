@@ -1,0 +1,26 @@
+{
+  "id": "nuclear-pacemaker_497cbd54713f",
+  "fingerprint": "497cbd54713f29d59ac08ebd49935b89833b113c8e977c5692e90695f6dec1fd",
+  "archived_at": "2026-10-03T07:10:12Z",
+  "metadata": {
+    "title": "Nuclear Pacemaker",
+    "artist": "Rheonome",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3361,
+    "duration_human": "00:56:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rheonome - Gentle Electrostatics",
+      "02 Rheonome - Body Drone",
+      "03 Rheonome - Overheating Nuclear Pacemaker"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nuclear-pacemaker_497cbd54713f"
+    }
+  }
+}
