@@ -1,0 +1,25 @@
+{
+  "id": "leiche-69-leiche-70_4b1ab2414bb4",
+  "fingerprint": "4b1ab2414bb4372e876ed3b591bee8de58ee4abec57792da2158662ff25e1b7d",
+  "archived_at": "2026-10-03T04:07:51Z",
+  "metadata": {
+    "title": "Leiche 69 / Leiche 70",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 69",
+      "02 Leichen - Leiche 70"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-69-leiche-70_4b1ab2414bb4"
+    }
+  }
+}
