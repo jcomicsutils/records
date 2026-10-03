@@ -1,0 +1,24 @@
+{
+  "id": "ambient-noise-wall_df70600f5f0c",
+  "fingerprint": "df70600f5f0c1faf5a1bc87a88d8695080a46c69d4e994e9327cdc2c3e93790c",
+  "archived_at": "2026-10-03T12:57:02Z",
+  "metadata": {
+    "title": "Ambient Noise Wall",
+    "artist": "Train Cemetery",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 5400,
+    "duration_human": "01:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - Ambient Noise Wall"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ambient-noise-wall_df70600f5f0c"
+    }
+  }
+}
