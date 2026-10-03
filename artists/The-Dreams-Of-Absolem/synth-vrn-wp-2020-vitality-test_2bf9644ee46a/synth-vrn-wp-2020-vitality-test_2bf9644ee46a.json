@@ -1,0 +1,28 @@
+{
+  "id": "synth-vrn-wp-2020-vitality-test_2bf9644ee46a",
+  "fingerprint": "2bf9644ee46adc017d99e5df8637bbd9e05da7be4aaa9ba3f46ca796fd9df38c",
+  "archived_at": "2026-10-03T11:31:01Z",
+  "metadata": {
+    "title": "Synth VRN WP-2020: Vitality Test",
+    "artist": "The Dreams Of Absolem",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3666,
+    "duration_human": "01:01:06",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Dreams of Absolem - Test 1",
+      "02 The Dreams of Absolem - Test 2",
+      "03 The Dreams of Absolem - Test 3",
+      "04 The Dreams of Absolem - Test 4",
+      "05 The Dreams of Absolem - Test 5"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/synth-vrn-wp-2020-vitality-test_2bf9644ee46a"
+    }
+  }
+}

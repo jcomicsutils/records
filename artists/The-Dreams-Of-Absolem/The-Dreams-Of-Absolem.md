@@ -12,6 +12,7 @@
 | [Solar Machinist](solar-machinist_68489abd4448/solar-machinist_68489abd4448.md) | 2020 | FLAC | 01:39:48 | [IA](https://archive.org/details/solar-machinist_68489abd4448) |
 | [Plague Starship](plague-starship_dbd66e2aba9d/plague-starship_dbd66e2aba9d.md) | 2021 | FLAC | 01:12:32 | [IA](https://archive.org/details/plague-starship_dbd66e2aba9d) |
 | [Big Bang Rehearsal](big-bang-rehearsal_015d89a2f72b/big-bang-rehearsal_015d89a2f72b.md) | 2021 | FLAC | 01:16:13 | [IA](https://archive.org/details/big-bang-rehearsal_015d89a2f72b) |
+| [Synth VRN WP-2020: Vitality Test](synth-vrn-wp-2020-vitality-test_2bf9644ee46a/synth-vrn-wp-2020-vitality-test_2bf9644ee46a.md) | 2021 | FLAC | 01:01:06 | [IA](https://archive.org/details/synth-vrn-wp-2020-vitality-test_2bf9644ee46a) |
 | [Poliworks](poliworks_17bf4c80eb70/poliworks_17bf4c80eb70.md) | 2021 | FLAC | 01:02:06 | [IA](https://archive.org/details/poliworks_17bf4c80eb70) |
 | [Making Noise in Subspace](making-noise-in-subspace_87dbe9995d76/making-noise-in-subspace_87dbe9995d76.md) | 2021 | FLAC | 00:42:39 | [IA](https://archive.org/details/making-noise-in-subspace_87dbe9995d76) |
 | [Neutron Cocoon](neutron-cocoon_174ebb7fea1f/neutron-cocoon_174ebb7fea1f.md) | 2023 | FLAC | 01:36:45 | [IA](https://archive.org/details/neutron-cocoon_174ebb7fea1f) |
