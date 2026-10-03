@@ -1,0 +1,25 @@
+{
+  "id": "leiche-41-leiche-42_3ec2a73ef59d",
+  "fingerprint": "3ec2a73ef59d525dda0725ee6b6f8a4219996000ec57fec326ad9357da440ff0",
+  "archived_at": "2026-10-03T03:30:22Z",
+  "metadata": {
+    "title": "Leiche 41 / Leiche 42",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 41",
+      "02 Leichen - Leiche 42"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-41-leiche-42_3ec2a73ef59d"
+    }
+  }
+}

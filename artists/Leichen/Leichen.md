@@ -21,6 +21,7 @@
 | [Leiche 3 / Leiche 4](leiche-3-leiche-4_099e22e272ac/leiche-3-leiche-4_099e22e272ac.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-3-leiche-4_099e22e272ac) |
 | [Leiche 11 / Leiche 12](leiche-11-leiche-12_44ae0d962252/leiche-11-leiche-12_44ae0d962252.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-11-leiche-12_44ae0d962252) |
 | [Leiche 7 / Leiche 8](leiche-7-leiche-8_ff35d23fb050/leiche-7-leiche-8_ff35d23fb050.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-7-leiche-8_ff35d23fb050) |
+| [Leiche 41 / Leiche 42](leiche-41-leiche-42_3ec2a73ef59d/leiche-41-leiche-42_3ec2a73ef59d.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-41-leiche-42_3ec2a73ef59d) |
 | [Leiche 39 / Leiche 40](leiche-39-leiche-40_a0f5824ed8a4/leiche-39-leiche-40_a0f5824ed8a4.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-39-leiche-40_a0f5824ed8a4) |
 | [Leiche 1 / Leiche 2](leiche-1-leiche-2_c9068af3842d/leiche-1-leiche-2_c9068af3842d.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-1-leiche-2_c9068af3842d) |
 | [93 - 98](93-98_4adbe96f808f/93-98_4adbe96f808f.md) | 2018 | FLAC | 01:30:00 | [IA](https://archive.org/details/93-98_4adbe96f808f) |
