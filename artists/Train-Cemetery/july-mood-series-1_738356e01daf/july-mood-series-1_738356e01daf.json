@@ -1,0 +1,24 @@
+{
+  "id": "july-mood-series-1_738356e01daf",
+  "fingerprint": "738356e01daf547709b886db1b1f7b653b62e7c21858b7fed3de720caf446b36",
+  "archived_at": "2026-10-03T16:54:35Z",
+  "metadata": {
+    "title": "July. Mood Series #1",
+    "artist": "Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3057,
+    "duration_human": "00:50:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - July"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/july-mood-series-1_738356e01daf"
+    }
+  }
+}
