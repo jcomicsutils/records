@@ -33,4 +33,5 @@
 | [Nothing](nothing_4a65b07f0479/nothing_4a65b07f0479.md) | 2022 | FLAC | 01:20:00 | [IA](https://archive.org/details/nothing_4a65b07f0479) |
 | [The Last Turn of Samsara](the-last-turn-of-samsara_99c95c9e923f/the-last-turn-of-samsara_99c95c9e923f.md) | 2025 | FLAC | 00:40:00 | [IA](https://archive.org/details/the-last-turn-of-samsara_99c95c9e923f) |
 | [Black Chapter](black-chapter_e6a9325ebc82/black-chapter_e6a9325ebc82.md) | 2025 | FLAC | 01:20:00 | [IA](https://archive.org/details/black-chapter_e6a9325ebc82) |
+| [Corpseincinerating Furnace / Train Cemetery](corpseincinerating-furnace-train-cemetery_1791068520/corpseincinerating-furnace-train-cemetery_1791068520.md) | 2026 | FLAC | 00:35:07 | [IA](https://archive.org/details/corpseincinerating-furnace-train-cemetery_60d0730a4402) |
 | [Static Absence](static-absence_d645e238d6ba/static-absence_d645e238d6ba.md) | 2026 | FLAC | 03:00:00 | [IA](https://archive.org/details/static-absence_d645e238d6ba) |
