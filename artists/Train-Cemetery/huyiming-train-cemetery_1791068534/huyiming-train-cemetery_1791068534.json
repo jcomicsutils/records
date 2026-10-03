@@ -1,0 +1,25 @@
+{
+  "id": "huyiming-train-cemetery_1791068534",
+  "fingerprint": "a670b6898806e07322692c753e966576cf573340431731e97177620de1caebcb",
+  "archived_at": "2026-10-03T23:02:14Z",
+  "metadata": {
+    "title": "Huyiming / Train Cemetery",
+    "artist": "Train Cemetery",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2639,
+    "duration_human": "00:43:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Huyiming - Side A",
+      "02 Train Cemetery - Side B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/huyiming-train-cemetery_a670b6898806"
+    }
+  }
+}
