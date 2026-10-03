@@ -1,0 +1,25 @@
+{
+  "id": "damno_469d52f41495",
+  "fingerprint": "469d52f414958fd49d593443f05fbf523d460e70bea92faa123252057f01dd94",
+  "archived_at": "2026-10-03T14:52:40Z",
+  "metadata": {
+    "title": "Damno",
+    "artist": "Train Cemetery",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2384,
+    "duration_human": "00:39:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - Side A. Damno I",
+      "02 Train Cemetery - Side B. Damno II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/damno_469d52f41495"
+    }
+  }
+}
