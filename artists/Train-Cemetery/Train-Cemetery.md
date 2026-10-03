@@ -21,6 +21,7 @@
 | [Murum](murum_75e5fe491e6f/murum_75e5fe491e6f.md) | 2017 | FLAC | 01:30:01 | [IA](https://archive.org/details/murum_75e5fe491e6f) |
 | [DHNW / Train Cemetery](dhnw-train-cemetery_1791068528/dhnw-train-cemetery_1791068528.md) | 2017 | FLAC | 00:49:45 | [IA](https://archive.org/details/dhnw-train-cemetery_94c7ba96a43f) |
 | [Caecare Religiosus](caecare-religiosus_1791068515/caecare-religiosus_1791068515.md) | 2017 | FLAC | 00:29:49 | [IA](https://archive.org/details/caecare-religiosus_898f208e3f0f) |
+| [Shadow Figures / Train Cemetery](shadow-figures-train-cemetery_1791068557/shadow-figures-train-cemetery_1791068557.md) | 2017 | FLAC | 00:22:03 | [IA](https://archive.org/details/shadow-figures-train-cemetery_06c9b799b2ed) |
 | [Catacombs of Light](catacombs-of-light_1791068517/catacombs-of-light_1791068517.md) | 2017 | FLAC | 00:40:02 | [IA](https://archive.org/details/catacombs-of-light_790e1aee858c) |
 | [Buried in the Cosmic Silence](buried-in-the-cosmic-silence_1791068512/buried-in-the-cosmic-silence_1791068512.md) | 2017 | FLAC | 02:57:16 | [IA](https://archive.org/details/buried-in-the-cosmic-silence_db9d6dfc7322) |
 | [April Town. Mood Series # 3](april-town-mood-series-3_517584a15442/april-town-mood-series-3_517584a15442.md) | 2017 | FLAC | 01:08:51 | [IA](https://archive.org/details/april-town-mood-series-3_517584a15442) |
