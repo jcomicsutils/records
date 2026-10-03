@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Dismay](dismay_c1d83680dcbf/dismay_c1d83680dcbf.md) | 2017 | FLAC | 04:56:02 | [IA](https://archive.org/details/dismay_c1d83680dcbf) |
+| [Verbo](verbo_159714bba605/verbo_159714bba605.md) | 2017 | FLAC | 01:30:24 | [IA](https://archive.org/details/verbo_159714bba605) |
 | [Beneath the Roots](beneath-the-roots_7a0c9c99c32f/beneath-the-roots_7a0c9c99c32f.md) | 2017 | FLAC | 01:30:00 | [IA](https://archive.org/details/beneath-the-roots_7a0c9c99c32f) |
 | [Rigid](rigid_88ea5383524c/rigid_88ea5383524c.md) | 2017 | FLAC | 04:51:29 | [IA](https://archive.org/details/rigid_88ea5383524c) |
 | [Quiet](quiet_a0d66b576063/quiet_a0d66b576063.md) | 2017 | FLAC | 00:44:00 | [IA](https://archive.org/details/quiet_a0d66b576063) |

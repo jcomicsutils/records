@@ -1,0 +1,26 @@
+{
+  "id": "verbo_159714bba605",
+  "fingerprint": "159714bba6053cc05d5c64f636751fa6557a1878489434758f5bb9f2431c7f24",
+  "archived_at": "2026-10-03T21:32:20Z",
+  "metadata": {
+    "title": "Verbo",
+    "artist": "Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 5424,
+    "duration_human": "01:30:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - Verbo I",
+      "02 Train Cemetery - Verbo II",
+      "03 Train Cemetery - Verbo III"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/verbo_159714bba605"
+    }
+  }
+}
