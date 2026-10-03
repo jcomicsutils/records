@@ -1,0 +1,24 @@
+{
+  "id": "one-step-away-from-hatred_6289f430c08f",
+  "fingerprint": "6289f430c08fe0a8aa93f2b2c8c4b04da801430c08201203f4e91ca31c3e9e7c",
+  "archived_at": "2026-10-03T17:29:42Z",
+  "metadata": {
+    "title": "One Step Away From Hatred",
+    "artist": "Train Cemetery",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3661,
+    "duration_human": "01:01:01",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - One Step Away From Hatred"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/one-step-away-from-hatred_6289f430c08f"
+    }
+  }
+}
