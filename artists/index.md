@@ -280,6 +280,7 @@
 - [Sesame](Sesame/Sesame.md)
 - [Sexo Explícito](Sexo-Explícito/Sexo-Explícito.md)
 - [Sha's Banryu](Sha's-Banryu/Sha's-Banryu.md)
+- [Shadow Figures / Train Cemetery](Shadow-Figures-Train-Cemetery/Shadow-Figures-Train-Cemetery.md)
 - [Shear Mania 94/Stena](Shear-Mania-94Stena/Shear-Mania-94Stena.md)
 - [Shishanote](Shishanote/Shishanote.md)
 - [Shivers](Shivers/Shivers.md)

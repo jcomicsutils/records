@@ -1,0 +1,26 @@
+{
+  "id": "shadow-figures-train-cemetery_06c9b799b2ed",
+  "fingerprint": "06c9b799b2ed8986e880e26bbc43af1bab945065b8d01e88e8ca3ddb2a959f71",
+  "archived_at": "2026-10-03T19:15:48Z",
+  "metadata": {
+    "title": "Shadow Figures / Train Cemetery",
+    "artist": "Shadow Figures / Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1323,
+    "duration_human": "00:22:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Shadow Figures - Plagues VIII",
+      "02 Train Cemetery - Gleam",
+      "03 Shadow Figures & Train Cemetery - Joint"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/shadow-figures-train-cemetery_06c9b799b2ed"
+    }
+  }
+}
