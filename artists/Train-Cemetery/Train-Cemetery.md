@@ -8,6 +8,7 @@
 | [Oro](oro_534824757d28/oro_534824757d28.md) | 2017 | FLAC | 01:22:05 | [IA](https://archive.org/details/oro_534824757d28) |
 | [Aught](aught_dc3d0b1a12ab/aught_dc3d0b1a12ab.md) | 2017 | FLAC | 00:18:40 | [IA](https://archive.org/details/aught_dc3d0b1a12ab) |
 | [All Alone](all-alone_1a89bddd12a6/all-alone_1a89bddd12a6.md) | 2017 | FLAC | 01:00:00 | [IA](https://archive.org/details/all-alone_1a89bddd12a6) |
+| [Ossa](ossa_3caf1e85fe19/ossa_3caf1e85fe19.md) | 2017 | FLAC | 03:14:26 | [IA](https://archive.org/details/ossa_3caf1e85fe19) |
 | [Murum](murum_75e5fe491e6f/murum_75e5fe491e6f.md) | 2017 | FLAC | 01:30:01 | [IA](https://archive.org/details/murum_75e5fe491e6f) |
 | [April Town. Mood Series # 3](april-town-mood-series-3_517584a15442/april-town-mood-series-3_517584a15442.md) | 2017 | FLAC | 01:08:51 | [IA](https://archive.org/details/april-town-mood-series-3_517584a15442) |
 | [July. Mood Series #1](july-mood-series-1_738356e01daf/july-mood-series-1_738356e01daf.md) | 2017 | FLAC | 00:50:57 | [IA](https://archive.org/details/july-mood-series-1_738356e01daf) |

@@ -1,0 +1,33 @@
+{
+  "id": "ossa_3caf1e85fe19",
+  "fingerprint": "3caf1e85fe197c14379a77a171149d2ac31c002af0cca94518a055d671f717ac",
+  "archived_at": "2026-10-03T17:59:38Z",
+  "metadata": {
+    "title": "Ossa",
+    "artist": "Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 11666,
+    "duration_human": "03:14:26",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Train Cemetery - Ossa I",
+      "02 Train Cemetery - Ossa II",
+      "03 Train Cemetery - Ossa III",
+      "04 Train Cemetery - Ossa IV",
+      "05 Train Cemetery - Ossa V",
+      "06 Train Cemetery - Ossa VI",
+      "07 Train Cemetery - Ossa VII",
+      "08 Train Cemetery - Ossa VIII",
+      "09 Train Cemetery - Ossa IX",
+      "10 Train Cemetery - Ossa X"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ossa_3caf1e85fe19"
+    }
+  }
+}
