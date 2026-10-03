@@ -1,0 +1,25 @@
+{
+  "id": "improvisations-1-2_abe62b6f3ddb",
+  "fingerprint": "abe62b6f3ddba7b18bb511be599fbb1bf2b801c783fd295107b6560caeac49eb",
+  "archived_at": "2026-10-03T05:36:11Z",
+  "metadata": {
+    "title": "Improvisations 1 & 2",
+    "artist": "Minimalist",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2605,
+    "duration_human": "00:43:25",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Minimalist - Improvisation 1",
+      "02 Minimalist - Improvisation 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/improvisations-1-2_abe62b6f3ddb"
+    }
+  }
+}
