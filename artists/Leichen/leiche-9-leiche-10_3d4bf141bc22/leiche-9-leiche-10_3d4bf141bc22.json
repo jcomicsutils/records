@@ -1,0 +1,25 @@
+{
+  "id": "leiche-9-leiche-10_3d4bf141bc22",
+  "fingerprint": "3d4bf141bc2206194b3f41c4e62a9e902cc8eabfd8118d948829e14e1f0623f5",
+  "archived_at": "2026-10-03T02:40:23Z",
+  "metadata": {
+    "title": "Leiche 9 / Leiche 10",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 9",
+      "02 Leichen - Leiche 10"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-9-leiche-10_3d4bf141bc22"
+    }
+  }
+}
