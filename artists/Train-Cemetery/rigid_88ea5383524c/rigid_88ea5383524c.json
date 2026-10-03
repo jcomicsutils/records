@@ -1,0 +1,28 @@
+{
+  "id": "rigid_88ea5383524c",
+  "fingerprint": "88ea5383524c7b86c6b2f043e9995640ae8731c69dacec3eccbea63b1569082b",
+  "archived_at": "2026-10-03T18:44:12Z",
+  "metadata": {
+    "title": "Rigid",
+    "artist": "Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 17489,
+    "duration_human": "04:51:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - Rigid I",
+      "02 Train Cemetery - Rigid II",
+      "03 Train Cemetery - Rigid III",
+      "04 Train Cemetery - Rigid IV",
+      "05 Train Cemetery - Rigid V"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rigid_88ea5383524c"
+    }
+  }
+}
