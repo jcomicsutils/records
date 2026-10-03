@@ -1,0 +1,25 @@
+{
+  "id": "n0123noise-train-cemetery_1791068540",
+  "fingerprint": "4157c9431dcfe0ab11d918e04449cda7fbf032afa002d4c5b76d67f7db8c3170",
+  "archived_at": "2026-10-03T23:02:20Z",
+  "metadata": {
+    "title": "N0123NOISE / Train Cemetery",
+    "artist": "Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3507,
+    "duration_human": "00:58:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 N0123NOISE - ...Sorry",
+      "02 Train Cemetery - Dank"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/n0123noise-train-cemetery_4157c9431dcf"
+    }
+  }
+}
