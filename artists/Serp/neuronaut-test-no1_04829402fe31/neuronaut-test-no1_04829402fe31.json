@@ -1,0 +1,24 @@
+{
+  "id": "neuronaut-test-no1_04829402fe31",
+  "fingerprint": "04829402fe317e67ee8b6c00ea694d42dcfb556f1d0dca9f58b6248eeb5627e1",
+  "archived_at": "2026-10-03T07:48:04Z",
+  "metadata": {
+    "title": "Neuronaut. Test №1",
+    "artist": "Serp",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4354,
+    "duration_human": "01:12:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Serp - Neuronaut. Test №1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/neuronaut-test-no1_04829402fe31"
+    }
+  }
+}
