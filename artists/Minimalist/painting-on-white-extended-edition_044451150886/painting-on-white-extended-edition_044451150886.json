@@ -1,0 +1,26 @@
+{
+  "id": "painting-on-white-extended-edition_044451150886",
+  "fingerprint": "0444511508864d84dda42c2b1d04f96007e580f1d0c4f23509b3c2a640a1f0e9",
+  "archived_at": "2026-10-03T05:59:38Z",
+  "metadata": {
+    "title": "Painting on White (Extended Edition)",
+    "artist": "Minimalist",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 8333,
+    "duration_human": "02:18:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Minimalist - Painting on White",
+      "02 Minimalist - Painting on White 2",
+      "03 Minimalist - Painting on White 3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/painting-on-white-extended-edition_044451150886"
+    }
+  }
+}
