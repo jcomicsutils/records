@@ -1,0 +1,26 @@
+{
+  "id": "air-creaks_1242e55b618f",
+  "fingerprint": "1242e55b618f078bb3cdd7572ba652ae701a18a3ebbe7a25b6ef2119afee4f81",
+  "archived_at": "2026-10-03T00:16:13Z",
+  "metadata": {
+    "title": "Air Creaks",
+    "artist": "Kara",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 16200,
+    "duration_human": "04:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kara - Air Creaks №1",
+      "02 Kara - Air Creaks №2",
+      "03 Kara - Air Creaks №3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/air-creaks_1242e55b618f"
+    }
+  }
+}

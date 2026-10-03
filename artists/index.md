@@ -163,6 +163,7 @@
 - [Kaatayra](Kaatayra/Kaatayra.md)
 - [Kafka Semyavin](Kafka-Semyavin/Kafka-Semyavin.md)
 - [Kammerflimmer Kollektief](Kammerflimmer-Kollektief/Kammerflimmer-Kollektief.md)
+- [Kara](Kara/Kara.md)
 - [Karjalan Sissit](Karjalan-Sissit/Karjalan-Sissit.md)
 - [Kashshapu](Kashshapu/Kashshapu.md)
 - [Keith Rowe](Keith-Rowe/Keith-Rowe.md)
