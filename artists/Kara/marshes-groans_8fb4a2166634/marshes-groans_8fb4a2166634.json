@@ -1,0 +1,29 @@
+{
+  "id": "marshes-groans_8fb4a2166634",
+  "fingerprint": "8fb4a216663427f3d65a1f6bd9744e7ae60e117d065633bbfffe3f7b8fe9ed83",
+  "archived_at": "2026-10-03T01:03:04Z",
+  "metadata": {
+    "title": "Marshes Groans",
+    "artist": "Kara",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 18000,
+    "duration_human": "05:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kara - Marshes Groans №1",
+      "02 Kara - Marshes Groans №2",
+      "03 Kara - Marshes Groans №3",
+      "04 Kara - Marshes Groans №4",
+      "05 Kara - Marshes Groans №5",
+      "06 Kara - Marshes Groans №6"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/marshes-groans_8fb4a2166634"
+    }
+  }
+}
