@@ -1,0 +1,32 @@
+{
+  "id": "dismay_c1d83680dcbf",
+  "fingerprint": "c1d83680dcbf94832abd33864098520bade6ebd9ef80c989f256d0b3fb2a1b0a",
+  "archived_at": "2026-10-03T15:35:37Z",
+  "metadata": {
+    "title": "Dismay",
+    "artist": "Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 17762,
+    "duration_human": "04:56:02",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Train Cemetery - Dismay I",
+      "02 Train Cemetery - Dismay II",
+      "03 Train Cemetery - Dismay III",
+      "04 Train Cemetery - Dismay IV",
+      "05 Train Cemetery - Dismay V",
+      "06 Train Cemetery - Dismay VI",
+      "07 Train Cemetery - Dismay VII",
+      "08 Train Cemetery - Dismay VIII",
+      "09 Train Cemetery - Dismay IX"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dismay_c1d83680dcbf"
+    }
+  }
+}
