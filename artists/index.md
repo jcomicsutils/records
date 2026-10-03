@@ -183,6 +183,7 @@
 - [Lil Ugly Mane](Lil-Ugly-Mane/Lil-Ugly-Mane.md)
 - [Liminal Dream](Liminal-Dream/Liminal-Dream.md)
 - [Lonely Woman Goes To Kill](Lonely-Woman-Goes-To-Kill/Lonely-Woman-Goes-To-Kill.md)
+- [Lonely Woman Goes To Kill/Protomit](Lonely-Woman-Goes-To-KillProtomit/Lonely-Woman-Goes-To-KillProtomit.md)
 - [Loren Connors](Loren-Connors/Loren-Connors.md)
 - [Los Thuthanaka](Los-Thuthanaka/Los-Thuthanaka.md)
 - [Lost Salt Blood Purges](Lost-Salt-Blood-Purges/Lost-Salt-Blood-Purges.md)

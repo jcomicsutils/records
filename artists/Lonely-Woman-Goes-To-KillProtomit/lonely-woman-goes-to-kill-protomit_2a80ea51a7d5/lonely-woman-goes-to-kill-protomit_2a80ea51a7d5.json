@@ -1,0 +1,25 @@
+{
+  "id": "lonely-woman-goes-to-kill-protomit_2a80ea51a7d5",
+  "fingerprint": "2a80ea51a7d5742371fd9c5a0117aa101838aa688b58aee9cdd819a625ee75dc",
+  "archived_at": "2026-10-03T04:38:18Z",
+  "metadata": {
+    "title": "Lonely Woman Goes to Kill / Protomit",
+    "artist": "Lonely Woman Goes To Kill/Protomit",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3300,
+    "duration_human": "00:55:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lonely Woman Goes to Kill - [untitled]",
+      "02 Protomit - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lonely-woman-goes-to-kill-protomit_2a80ea51a7d5"
+    }
+  }
+}
