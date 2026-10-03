@@ -50,4 +50,5 @@
 | [Corpseincinerating Furnace / Train Cemetery](corpseincinerating-furnace-train-cemetery_1791068520/corpseincinerating-furnace-train-cemetery_1791068520.md) | 2026 | FLAC | 00:35:07 | [IA](https://archive.org/details/corpseincinerating-furnace-train-cemetery_60d0730a4402) |
 | [Train Cemetery / Extreme Kindness](train-cemetery-extreme-kindness_1791068568/train-cemetery-extreme-kindness_1791068568.md) | 2026 | FLAC | 00:50:05 | [IA](https://archive.org/details/train-cemetery-extreme-kindness_830ef728ca84) |
 | [Train Cemetery / RO-06](train-cemetery-ro-06_1791068573/train-cemetery-ro-06_1791068573.md) | 2026 | FLAC | 00:47:57 | [IA](https://archive.org/details/train-cemetery-ro-06_f769a2d0da02) |
+| [Train Cemetery / Sleep Column](train-cemetery-sleep-column_1791068575/train-cemetery-sleep-column_1791068575.md) | 2026 | FLAC | 02:00:00 | [IA](https://archive.org/details/train-cemetery-sleep-column_4a6bd170be84) |
 | [Static Absence](static-absence_d645e238d6ba/static-absence_d645e238d6ba.md) | 2026 | FLAC | 03:00:00 | [IA](https://archive.org/details/static-absence_d645e238d6ba) |

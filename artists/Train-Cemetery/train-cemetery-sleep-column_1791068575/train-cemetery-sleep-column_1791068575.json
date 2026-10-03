@@ -1,0 +1,25 @@
+{
+  "id": "train-cemetery-sleep-column_1791068575",
+  "fingerprint": "4a6bd170be84a559efd59183eb851afd68536b7fb1062e5dc56a219aefce27c8",
+  "archived_at": "2026-10-03T23:02:55Z",
+  "metadata": {
+    "title": "Train Cemetery / Sleep Column",
+    "artist": "Train Cemetery",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 7200,
+    "duration_human": "02:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - Apostasy",
+      "02 Sleep Column - Axilorma"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/train-cemetery-sleep-column_4a6bd170be84"
+    }
+  }
+}
