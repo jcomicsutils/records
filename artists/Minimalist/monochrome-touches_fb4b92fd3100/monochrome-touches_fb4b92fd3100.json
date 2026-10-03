@@ -1,0 +1,25 @@
+{
+  "id": "monochrome-touches_fb4b92fd3100",
+  "fingerprint": "fb4b92fd31001a160d136349b33c357b8beda507641ed16710c4695c21ad5679",
+  "archived_at": "2026-10-03T05:47:46Z",
+  "metadata": {
+    "title": "Monochrome Touches",
+    "artist": "Minimalist",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4948,
+    "duration_human": "01:22:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Minimalist - Black Touches",
+      "02 Minimalist - White Touches"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/monochrome-touches_fb4b92fd3100"
+    }
+  }
+}
