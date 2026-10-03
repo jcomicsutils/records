@@ -1,0 +1,25 @@
+{
+  "id": "leiche-15-leiche-16_23a03cfb0111",
+  "fingerprint": "23a03cfb01116d63f9a497e82d9ac9950ae4e415b2d6fae7d47b6ffcaccad55c",
+  "archived_at": "2026-10-03T02:48:48Z",
+  "metadata": {
+    "title": "Leiche 15 / Leiche 16",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 15",
+      "02 Leichen - Leiche 16"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-15-leiche-16_23a03cfb0111"
+    }
+  }
+}
