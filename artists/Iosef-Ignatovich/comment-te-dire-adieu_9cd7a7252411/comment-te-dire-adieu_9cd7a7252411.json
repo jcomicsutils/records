@@ -1,0 +1,24 @@
+{
+  "id": "comment-te-dire-adieu_9cd7a7252411",
+  "fingerprint": "9cd7a72524119c55355e4d528031fadd4aee9de810fc543ad60f227460116fed",
+  "archived_at": "2026-10-03T23:55:25Z",
+  "metadata": {
+    "title": "Comment te dire adieu",
+    "artist": "Iosef Ignatovich",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2487,
+    "duration_human": "00:41:27",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Iosef Ignatovich - untitled"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/comment-te-dire-adieu_9cd7a7252411"
+    }
+  }
+}
