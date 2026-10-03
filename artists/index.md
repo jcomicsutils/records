@@ -279,6 +279,7 @@
 - [Shivers](Shivers/Shivers.md)
 - [Show Me a Dinosaur](Show-Me-a-Dinosaur/Show-Me-a-Dinosaur.md)
 - [Siouxsie and The Banshees](Siouxsie-and-The-Banshees/Siouxsie-and-The-Banshees.md)
+- [Sleep Column & Train Cemetery](Sleep-Column-&-Train-Cemetery/Sleep-Column-&-Train-Cemetery.md)
 - [Soccer Committee](Soccer-Committee/Soccer-Committee.md)
 - [Sokushinbutsu](Sokushinbutsu/Sokushinbutsu.md)
 - [Solomon Solomon](Solomon-Solomon/Solomon-Solomon.md)

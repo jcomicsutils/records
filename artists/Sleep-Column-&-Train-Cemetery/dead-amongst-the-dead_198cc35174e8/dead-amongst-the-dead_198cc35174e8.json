@@ -1,0 +1,24 @@
+{
+  "id": "dead-amongst-the-dead_198cc35174e8",
+  "fingerprint": "198cc35174e8e5fd35f00fb86ccf1e517ab9797e9f2590023ed5bd655b02c416",
+  "archived_at": "2026-10-03T15:02:09Z",
+  "metadata": {
+    "title": "Dead Amongst the Dead",
+    "artist": "Sleep Column & Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2739,
+    "duration_human": "00:45:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sleep Column & Train Cemetery - Dead Amongst the Dead"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dead-amongst-the-dead_198cc35174e8"
+    }
+  }
+}
