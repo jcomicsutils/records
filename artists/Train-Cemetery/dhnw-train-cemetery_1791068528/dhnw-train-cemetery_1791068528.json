@@ -1,0 +1,25 @@
+{
+  "id": "dhnw-train-cemetery_1791068528",
+  "fingerprint": "94c7ba96a43fae495d047dd0b253614eb07da8831d6f960d49695cfdd06a86bc",
+  "archived_at": "2026-10-03T23:02:08Z",
+  "metadata": {
+    "title": "DHNW / Train Cemetery",
+    "artist": "Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2985,
+    "duration_human": "00:49:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 DHNW - Oppression",
+      "02 Train Cemetery - Vex"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dhnw-train-cemetery_94c7ba96a43f"
+    }
+  }
+}
