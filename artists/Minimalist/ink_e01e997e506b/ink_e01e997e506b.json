@@ -1,0 +1,24 @@
+{
+  "id": "ink_e01e997e506b",
+  "fingerprint": "e01e997e506b1d3b2d108394eca4bca2d293e64399a05a52e5e7359a66286a89",
+  "archived_at": "2026-10-03T05:42:29Z",
+  "metadata": {
+    "title": "Ink",
+    "artist": "Minimalist",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3300,
+    "duration_human": "00:55:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Minimalist - Ink"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ink_e01e997e506b"
+    }
+  }
+}
