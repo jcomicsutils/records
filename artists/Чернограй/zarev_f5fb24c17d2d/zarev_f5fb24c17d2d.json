@@ -1,0 +1,26 @@
+{
+  "id": "zarev_f5fb24c17d2d",
+  "fingerprint": "f5fb24c17d2d7eaadb8898598a26619109eb97eb864e8aceefc64573c5c8dcf1",
+  "archived_at": "2026-10-03T22:55:57Z",
+  "metadata": {
+    "title": "Зарев",
+    "artist": "Чернограй",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4500,
+    "duration_human": "01:15:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Чернограй - Зарев",
+      "02 Чернограй - Укрут",
+      "03 Чернограй - Ырка"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zarev_f5fb24c17d2d"
+    }
+  }
+}
