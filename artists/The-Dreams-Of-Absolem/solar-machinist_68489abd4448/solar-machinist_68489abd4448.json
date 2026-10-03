@@ -1,0 +1,25 @@
+{
+  "id": "solar-machinist_68489abd4448",
+  "fingerprint": "68489abd44487ab9d1a8f171ac7b629ef060088170a6856bd85550b2149e2c1c",
+  "archived_at": "2026-10-03T10:51:24Z",
+  "metadata": {
+    "title": "Solar Machinist",
+    "artist": "The Dreams Of Absolem",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5988,
+    "duration_human": "01:39:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Dreams of Absolem - Untitled 1",
+      "02 The Dreams of Absolem - Untitled 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/solar-machinist_68489abd4448"
+    }
+  }
+}

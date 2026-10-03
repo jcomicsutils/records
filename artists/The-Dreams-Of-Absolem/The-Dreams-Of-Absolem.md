@@ -6,6 +6,7 @@
 | [Doctors of the Universe](doctors-of-the-universe_8663c3b3a75b/doctors-of-the-universe_8663c3b3a75b.md) | 2020 | FLAC | 00:52:12 | [IA](https://archive.org/details/doctors-of-the-universe_8663c3b3a75b) |
 | [Nebula Engine](nebula-engine_ee230a3c953f/nebula-engine_ee230a3c953f.md) | 2020 | FLAC | 01:06:35 | [IA](https://archive.org/details/nebula-engine_ee230a3c953f) |
 | [Cyberstar Malfunction](cyberstar-malfunction_3f7564dcc5ad/cyberstar-malfunction_3f7564dcc5ad.md) | 2020 | FLAC | 01:00:10 | [IA](https://archive.org/details/cyberstar-malfunction_3f7564dcc5ad) |
+| [Solar Machinist](solar-machinist_68489abd4448/solar-machinist_68489abd4448.md) | 2020 | FLAC | 01:39:48 | [IA](https://archive.org/details/solar-machinist_68489abd4448) |
 | [Plague Starship](plague-starship_dbd66e2aba9d/plague-starship_dbd66e2aba9d.md) | 2021 | FLAC | 01:12:32 | [IA](https://archive.org/details/plague-starship_dbd66e2aba9d) |
 | [Big Bang Rehearsal](big-bang-rehearsal_015d89a2f72b/big-bang-rehearsal_015d89a2f72b.md) | 2021 | FLAC | 01:16:13 | [IA](https://archive.org/details/big-bang-rehearsal_015d89a2f72b) |
 | [Poliworks](poliworks_17bf4c80eb70/poliworks_17bf4c80eb70.md) | 2021 | FLAC | 01:02:06 | [IA](https://archive.org/details/poliworks_17bf4c80eb70) |
