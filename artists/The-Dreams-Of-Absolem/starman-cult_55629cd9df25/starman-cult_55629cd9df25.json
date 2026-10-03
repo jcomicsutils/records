@@ -1,0 +1,24 @@
+{
+  "id": "starman-cult_55629cd9df25",
+  "fingerprint": "55629cd9df25f9b77e87005e7ed29fb6f9a2360f9e9348c241cd38834857893b",
+  "archived_at": "2026-10-03T11:05:00Z",
+  "metadata": {
+    "title": "Starman Cult",
+    "artist": "The Dreams Of Absolem",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3309,
+    "duration_human": "00:55:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Dreams of Absolem - Starman Cult"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/starman-cult_55629cd9df25"
+    }
+  }
+}

@@ -4,6 +4,7 @@
 |-------|------|-------|----------|-------|
 | [Spacetime Grinder](spacetime-grinder_3df16023802e/spacetime-grinder_3df16023802e.md) | 2020 | FLAC | 01:06:30 | [IA](https://archive.org/details/spacetime-grinder_3df16023802e) |
 | [Asteroid Song](asteroid-song_cbc286c6eaf4/asteroid-song_cbc286c6eaf4.md) | 2020 | FLAC | 00:44:44 | [IA](https://archive.org/details/asteroid-song_cbc286c6eaf4) |
+| [Starman Cult](starman-cult_55629cd9df25/starman-cult_55629cd9df25.md) | 2020 | FLAC | 00:55:09 | [IA](https://archive.org/details/starman-cult_55629cd9df25) |
 | [Doctors of the Universe](doctors-of-the-universe_8663c3b3a75b/doctors-of-the-universe_8663c3b3a75b.md) | 2020 | FLAC | 00:52:12 | [IA](https://archive.org/details/doctors-of-the-universe_8663c3b3a75b) |
 | [Nebula Engine](nebula-engine_ee230a3c953f/nebula-engine_ee230a3c953f.md) | 2020 | FLAC | 01:06:35 | [IA](https://archive.org/details/nebula-engine_ee230a3c953f) |
 | [Cyberstar Malfunction](cyberstar-malfunction_3f7564dcc5ad/cyberstar-malfunction_3f7564dcc5ad.md) | 2020 | FLAC | 01:00:10 | [IA](https://archive.org/details/cyberstar-malfunction_3f7564dcc5ad) |
