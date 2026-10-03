@@ -1,0 +1,25 @@
+{
+  "id": "leiche-61-leiche-62_c63bedc47a0c",
+  "fingerprint": "c63bedc47a0cf197849ea1d7b5cb97212e7ae6917661711a1fa44af097d72238",
+  "archived_at": "2026-10-03T03:57:41Z",
+  "metadata": {
+    "title": "Leiche 61 / Leiche 62",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 61",
+      "02 Leichen - Leiche 62"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-61-leiche-62_c63bedc47a0c"
+    }
+  }
+}
