@@ -1,0 +1,27 @@
+{
+  "id": "detached_b82bd3f01adc",
+  "fingerprint": "b82bd3f01adca702cdd83a167c6242be734764e16a701533dfd48c7dd4c640da",
+  "archived_at": "2026-10-03T07:35:35Z",
+  "metadata": {
+    "title": "Detached",
+    "artist": "Serp",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 11181,
+    "duration_human": "03:06:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Serp - 90377 Sedna",
+      "02 Serp - 2004 XR190 Buffy",
+      "03 Serp - 2012 VP113",
+      "04 Serp - (148209) 2000 CR105"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/detached_b82bd3f01adc"
+    }
+  }
+}
