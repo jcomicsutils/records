@@ -1,0 +1,25 @@
+{
+  "id": "belated-answer-from-god_09a7d6c429b7",
+  "fingerprint": "09a7d6c429b7b95abc4c64184b281f7af6a9571db99221d0fa9ee174a0ad470d",
+  "archived_at": "2026-10-03T13:22:29Z",
+  "metadata": {
+    "title": "Belated Answer From God",
+    "artist": "Train Cemetery",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 7200,
+    "duration_human": "02:00:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - Untitled I",
+      "02 Train Cemetery - Untitled II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/belated-answer-from-god_09a7d6c429b7"
+    }
+  }
+}
