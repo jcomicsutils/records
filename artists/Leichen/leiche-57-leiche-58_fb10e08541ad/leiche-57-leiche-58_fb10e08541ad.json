@@ -1,0 +1,25 @@
+{
+  "id": "leiche-57-leiche-58_fb10e08541ad",
+  "fingerprint": "fb10e08541ad5bffa16c354ef025dca23a9e80eb23c9f2861a1160c8a65c5cd9",
+  "archived_at": "2026-10-03T03:52:31Z",
+  "metadata": {
+    "title": "Leiche 57 / Leiche 58",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 57",
+      "02 Leichen - Leiche 58"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-57-leiche-58_fb10e08541ad"
+    }
+  }
+}
