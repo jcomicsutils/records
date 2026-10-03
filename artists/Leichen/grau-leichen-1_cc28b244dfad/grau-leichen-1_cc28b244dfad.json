@@ -1,0 +1,29 @@
+{
+  "id": "grau-leichen-1_cc28b244dfad",
+  "fingerprint": "cc28b244dfada79f08344b18df15702857d240ab31206925c60c6e9daf1dc07e",
+  "archived_at": "2026-10-03T02:15:55Z",
+  "metadata": {
+    "title": "Grau Leichen 1",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 21600,
+    "duration_human": "06:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Grau Leiche 1",
+      "02 Leichen - Grau Leiche 2",
+      "03 Leichen - Grau Leiche 3",
+      "04 Leichen - Grau Leiche 4",
+      "05 Leichen - Grau Leiche 5",
+      "06 Leichen - Grau Leiche 6"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/grau-leichen-1_cc28b244dfad"
+    }
+  }
+}
