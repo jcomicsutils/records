@@ -1,0 +1,25 @@
+{
+  "id": "leiche-67-leiche-68_40ec0ade417c",
+  "fingerprint": "40ec0ade417cdf6fcccc5b2b39ca7392f49f0b37606419996befe965d146865c",
+  "archived_at": "2026-10-03T04:05:31Z",
+  "metadata": {
+    "title": "Leiche 67 / Leiche 68",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 67",
+      "02 Leichen - Leiche 68"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-67-leiche-68_40ec0ade417c"
+    }
+  }
+}
