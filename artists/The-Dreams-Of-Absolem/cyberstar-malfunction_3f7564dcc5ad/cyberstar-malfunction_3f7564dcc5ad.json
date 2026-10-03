@@ -1,0 +1,24 @@
+{
+  "id": "cyberstar-malfunction_3f7564dcc5ad",
+  "fingerprint": "3f7564dcc5adea2aada999a8da40fb529924a3002567186fe337337e959d221b",
+  "archived_at": "2026-10-03T09:34:57Z",
+  "metadata": {
+    "title": "Cyberstar Malfunction",
+    "artist": "The Dreams Of Absolem",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3610,
+    "duration_human": "01:00:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Dreams of Absolem - Cyberstar Malfunction"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cyberstar-malfunction_3f7564dcc5ad"
+    }
+  }
+}
