@@ -1,0 +1,24 @@
+{
+  "id": "heart-outside_2e562e4f7c38",
+  "fingerprint": "2e562e4f7c381e35fba8ba6d9ce01249d459c4db41977d7b46413b9ca07acdfd",
+  "archived_at": "2026-10-03T16:41:43Z",
+  "metadata": {
+    "title": "Heart Outside",
+    "artist": "Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1140,
+    "duration_human": "00:19:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - Heart Outside"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/heart-outside_2e562e4f7c38"
+    }
+  }
+}
