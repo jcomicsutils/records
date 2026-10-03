@@ -1,0 +1,25 @@
+{
+  "id": "leiche-13-leiche-14_13f8fc7e05e7",
+  "fingerprint": "13f8fc7e05e71ee5e3fee58d750d2f5d920fbbad774d5574f7fcc1465bfeb0ff",
+  "archived_at": "2026-10-03T02:46:05Z",
+  "metadata": {
+    "title": "Leiche 13 / Leiche 14",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 13",
+      "02 Leichen - Leiche 14"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-13-leiche-14_13f8fc7e05e7"
+    }
+  }
+}
