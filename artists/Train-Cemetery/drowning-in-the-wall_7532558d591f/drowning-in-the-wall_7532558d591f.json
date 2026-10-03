@@ -1,0 +1,24 @@
+{
+  "id": "drowning-in-the-wall_7532558d591f",
+  "fingerprint": "7532558d591f42790611f14f66a58107dcda91f80688a5a28d552b7488e124de",
+  "archived_at": "2026-10-03T15:58:12Z",
+  "metadata": {
+    "title": "Drowning in the Wall",
+    "artist": "Train Cemetery",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - Drowning in the Wall"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/drowning-in-the-wall_7532558d591f"
+    }
+  }
+}
