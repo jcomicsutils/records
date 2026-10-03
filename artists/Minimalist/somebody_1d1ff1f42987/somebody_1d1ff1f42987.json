@@ -1,0 +1,24 @@
+{
+  "id": "somebody_1d1ff1f42987",
+  "fingerprint": "1d1ff1f42987b19bcc42444fb7b319a1e5648c32ecbd92d137503063a46dd59d",
+  "archived_at": "2026-10-03T06:13:14Z",
+  "metadata": {
+    "title": "Somebody",
+    "artist": "Minimalist",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2476,
+    "duration_human": "00:41:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Minimalist - Somebody"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/somebody_1d1ff1f42987"
+    }
+  }
+}
