@@ -262,6 +262,7 @@
 - [Rutger Zuydervelt](Rutger-Zuydervelt/Rutger-Zuydervelt.md)
 - [Rắn Cạp Đuôi](Rắn-Cạp-Đuôi/Rắn-Cạp-Đuôi.md)
 - [Sarin](Sarin/Sarin.md)
+- [Serp](Serp/Serp.md)
 - [Serpentmouth](Serpentmouth/Serpentmouth.md)
 - [Serpentmouth / Generated Missiân ZFN](Serpentmouth-Generated-Missiân-ZFN/Serpentmouth-Generated-Missiân-ZFN.md)
 - [Serpentmouth / Generated Missiân ZFN / Argon Lo Curránt](Serpentmouth-Generated-Missiân-ZFN-Argon-Lo-Curránt/Serpentmouth-Generated-Missiân-ZFN-Argon-Lo-Curránt.md)
