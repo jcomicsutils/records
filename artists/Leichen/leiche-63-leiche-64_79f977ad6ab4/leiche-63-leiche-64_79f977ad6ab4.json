@@ -1,0 +1,25 @@
+{
+  "id": "leiche-63-leiche-64_79f977ad6ab4",
+  "fingerprint": "79f977ad6ab4293220df1fb9b20e136da63441d29e05e8b834c826c9dce9bf16",
+  "archived_at": "2026-10-03T04:00:25Z",
+  "metadata": {
+    "title": "Leiche 63 / Leiche 64",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 63",
+      "02 Leichen - Leiche 64"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-63-leiche-64_79f977ad6ab4"
+    }
+  }
+}
