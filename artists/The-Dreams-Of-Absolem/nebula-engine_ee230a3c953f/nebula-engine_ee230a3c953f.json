@@ -1,0 +1,24 @@
+{
+  "id": "nebula-engine_ee230a3c953f",
+  "fingerprint": "ee230a3c953f8e6821e27e75ce112c03fb8d279060ded16ba4f1db7de0df8ccc",
+  "archived_at": "2026-10-03T10:11:16Z",
+  "metadata": {
+    "title": "Nebula Engine",
+    "artist": "The Dreams Of Absolem",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3995,
+    "duration_human": "01:06:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Dreams of Absolem - Nebula Engine"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nebula-engine_ee230a3c953f"
+    }
+  }
+}
