@@ -1,0 +1,24 @@
+{
+  "id": "free-electricity_d65647689062",
+  "fingerprint": "d65647689062b65e5815a1588f1b7d06563e4ceffbb8e4c94c97f64a7e2993d9",
+  "archived_at": "2026-10-03T06:58:21Z",
+  "metadata": {
+    "title": "Free Electricity",
+    "artist": "Rheonome",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2961,
+    "duration_human": "00:49:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rheonome - Free Electricity"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/free-electricity_d65647689062"
+    }
+  }
+}
