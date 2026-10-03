@@ -15,6 +15,7 @@
 | [Spite](spite_1915b2974d91/spite_1915b2974d91.md) | 2017 | FLAC | 06:00:35 | [IA](https://archive.org/details/spite_1915b2974d91) |
 | [Slough](slough_c9685b475871/slough_c9685b475871.md) | 2017 | FLAC | 00:59:06 | [IA](https://archive.org/details/slough_c9685b475871) |
 | [Aught](aught_dc3d0b1a12ab/aught_dc3d0b1a12ab.md) | 2017 | FLAC | 00:18:40 | [IA](https://archive.org/details/aught_dc3d0b1a12ab) |
+| [The Terrifying Reality](the-terrifying-reality_1791068562/the-terrifying-reality_1791068562.md) | 2017 | FLAC | 00:50:00 | [IA](https://archive.org/details/the-terrifying-reality_e1978a53016b) |
 | [All Alone](all-alone_1a89bddd12a6/all-alone_1a89bddd12a6.md) | 2017 | FLAC | 01:00:00 | [IA](https://archive.org/details/all-alone_1a89bddd12a6) |
 | [Ossa](ossa_3caf1e85fe19/ossa_3caf1e85fe19.md) | 2017 | FLAC | 03:14:26 | [IA](https://archive.org/details/ossa_3caf1e85fe19) |
 | [χάος](chaos_3ac3673a7720/chaos_3ac3673a7720.md) | 2017 | FLAC | 02:00:00 | [IA](https://archive.org/details/chaos_3ac3673a7720) |
