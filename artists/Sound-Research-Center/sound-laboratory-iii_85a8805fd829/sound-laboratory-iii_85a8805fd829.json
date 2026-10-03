@@ -1,0 +1,25 @@
+{
+  "id": "sound-laboratory-iii_85a8805fd829",
+  "fingerprint": "85a8805fd82917593155e16ed90f2608f0942a82b1ed19c811c1634e198a722a",
+  "archived_at": "2026-10-03T08:20:23Z",
+  "metadata": {
+    "title": "Sound Laboratory III",
+    "artist": "Sound Research Center",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 600,
+    "duration_human": "00:10:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sound Research Center - Part 3a",
+      "02 Sound Research Center - Part 3b"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sound-laboratory-iii_85a8805fd829"
+    }
+  }
+}

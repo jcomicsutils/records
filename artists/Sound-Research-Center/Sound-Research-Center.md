@@ -4,3 +4,4 @@
 |-------|------|-------|----------|-------|
 | [Sound Laboratory I](sound-laboratory-i_6d786b839f07/sound-laboratory-i_6d786b839f07.md) | 2016 | FLAC | 00:10:00 | [IA](https://archive.org/details/sound-laboratory-i_6d786b839f07) |
 | [Sound Laboratory II](sound-laboratory-ii_e2c0c4616a70/sound-laboratory-ii_e2c0c4616a70.md) | 2016 | FLAC | 00:10:00 | [IA](https://archive.org/details/sound-laboratory-ii_e2c0c4616a70) |
+| [Sound Laboratory III](sound-laboratory-iii_85a8805fd829/sound-laboratory-iii_85a8805fd829.md) | 2017 | FLAC | 00:10:00 | [IA](https://archive.org/details/sound-laboratory-iii_85a8805fd829) |
