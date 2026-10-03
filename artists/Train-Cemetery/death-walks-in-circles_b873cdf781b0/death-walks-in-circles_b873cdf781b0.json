@@ -1,0 +1,24 @@
+{
+  "id": "death-walks-in-circles_b873cdf781b0",
+  "fingerprint": "b873cdf781b01de555a554fdbafbad0758f23d1e8b9dc7c4681097ec2af15fd9",
+  "archived_at": "2026-10-03T15:12:17Z",
+  "metadata": {
+    "title": "Death Walks in Circles",
+    "artist": "Train Cemetery",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - Death Walks in Circles"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/death-walks-in-circles_b873cdf781b0"
+    }
+  }
+}
