@@ -1,0 +1,27 @@
+{
+  "id": "coffin-nail_29afc1d87dfc",
+  "fingerprint": "29afc1d87dfc0aa2b67dfab83487c05f664d05a4bc7384832e92c257a42e8a12",
+  "archived_at": "2026-10-03T04:28:51Z",
+  "metadata": {
+    "title": "Coffin Nail",
+    "artist": "Lonely Woman Goes To Kill",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 10192,
+    "duration_human": "02:49:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lonely Woman Goes to Kill - Untitled 1",
+      "02 Lonely Woman Goes to Kill - Untitled 2",
+      "03 Lonely Woman Goes to Kill - Untitled 3",
+      "04 Lonely Woman Goes to Kill - Untitled 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/coffin-nail_29afc1d87dfc"
+    }
+  }
+}
