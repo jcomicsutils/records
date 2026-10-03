@@ -1,0 +1,25 @@
+{
+  "id": "kankala_acac5a95b458",
+  "fingerprint": "acac5a95b4582e1a0cc2e2d3bb9950c89c52174cea1ae37870bb05be1db94f9c",
+  "archived_at": "2026-10-03T12:38:38Z",
+  "metadata": {
+    "title": "Kankala",
+    "artist": "Tibetan Funeral",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3158,
+    "duration_human": "00:52:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Tibetan Funeral - Untitled A",
+      "02 Tibetan Funeral - Untitled B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kankala_acac5a95b458"
+    }
+  }
+}
