@@ -277,6 +277,7 @@
 - [Sokushinbutsu](Sokushinbutsu/Sokushinbutsu.md)
 - [Solomon Solomon](Solomon-Solomon/Solomon-Solomon.md)
 - [Sopros](Sopros/Sopros.md)
+- [Sound Research Center](Sound-Research-Center/Sound-Research-Center.md)
 - [Splashgirl / Huntsville](Splashgirl-Huntsville/Splashgirl-Huntsville.md)
 - [St. Francis Duo](St.-Francis-Duo/St.-Francis-Duo.md)
 - [State River Widening](State-River-Widening/State-River-Widening.md)
