@@ -1,0 +1,25 @@
+{
+  "id": "stray-bullet_bfe3331ff3ed",
+  "fingerprint": "bfe3331ff3ed04d49526de29e7a7bd87624870dbc5262eb53965e977fa1dcdc5",
+  "archived_at": "2026-10-03T04:44:02Z",
+  "metadata": {
+    "title": "Stray Bullet",
+    "artist": "Lonely Woman Goes To Kill",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5107,
+    "duration_human": "01:25:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Lonely Woman Goes to Kill - Untitled 1",
+      "02 Lonely Woman Goes to Kill - Untitled 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stray-bullet_bfe3331ff3ed"
+    }
+  }
+}
