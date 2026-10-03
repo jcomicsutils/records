@@ -1,0 +1,24 @@
+{
+  "id": "hoarfrost-chants_590d797d09dd",
+  "fingerprint": "590d797d09dd38c4a64c7881c967ea6ee81d1ad9fb3adcfd80f3e35d864ef342",
+  "archived_at": "2026-10-03T00:49:34Z",
+  "metadata": {
+    "title": "Hoarfrost Chants",
+    "artist": "Kara",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 10800,
+    "duration_human": "03:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kara - Hoarfrost Chants"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hoarfrost-chants_590d797d09dd"
+    }
+  }
+}
