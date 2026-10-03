@@ -1,0 +1,24 @@
+{
+  "id": "quasi_2774b98d714d",
+  "fingerprint": "2774b98d714dd292a951282d51be3275488741c4ba4f0e39b7283e3850574bb6",
+  "archived_at": "2026-10-03T07:55:43Z",
+  "metadata": {
+    "title": "Quasi",
+    "artist": "Serp",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3290,
+    "duration_human": "00:54:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Serp - Quasi"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/quasi_2774b98d714d"
+    }
+  }
+}
