@@ -7,6 +7,7 @@
 | [Aught](aught_dc3d0b1a12ab/aught_dc3d0b1a12ab.md) | 2017 | FLAC | 00:18:40 | [IA](https://archive.org/details/aught_dc3d0b1a12ab) |
 | [All Alone](all-alone_1a89bddd12a6/all-alone_1a89bddd12a6.md) | 2017 | FLAC | 01:00:00 | [IA](https://archive.org/details/all-alone_1a89bddd12a6) |
 | [April Town. Mood Series # 3](april-town-mood-series-3_517584a15442/april-town-mood-series-3_517584a15442.md) | 2017 | FLAC | 01:08:51 | [IA](https://archive.org/details/april-town-mood-series-3_517584a15442) |
+| [Gist](gist_0e6966775fd9/gist_0e6966775fd9.md) | 2017 | FLAC | 09:49:50 | [IA](https://archive.org/details/gist_0e6966775fd9) |
 | [Damno](damno_469d52f41495/damno_469d52f41495.md) | 2018 | FLAC | 00:39:44 | [IA](https://archive.org/details/damno_469d52f41495) |
 | [Drowning in the Wall](drowning-in-the-wall_7532558d591f/drowning-in-the-wall_7532558d591f.md) | 2019 | FLAC | 01:00:00 | [IA](https://archive.org/details/drowning-in-the-wall_7532558d591f) |
 | [Death Walks in Circles](death-walks-in-circles_b873cdf781b0/death-walks-in-circles_b873cdf781b0.md) | 2020 | FLAC | 01:00:00 | [IA](https://archive.org/details/death-walks-in-circles_b873cdf781b0) |
