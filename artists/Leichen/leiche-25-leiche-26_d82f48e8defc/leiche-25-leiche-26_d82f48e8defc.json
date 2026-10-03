@@ -1,0 +1,25 @@
+{
+  "id": "leiche-25-leiche-26_d82f48e8defc",
+  "fingerprint": "d82f48e8defccb4156903c6105cc6986f119c5df14858e8249ad8d29ad8e9c52",
+  "archived_at": "2026-10-03T03:03:13Z",
+  "metadata": {
+    "title": "Leiche 25 / Leiche 26",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 25",
+      "02 Leichen - Leiche 26"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-25-leiche-26_d82f48e8defc"
+    }
+  }
+}
