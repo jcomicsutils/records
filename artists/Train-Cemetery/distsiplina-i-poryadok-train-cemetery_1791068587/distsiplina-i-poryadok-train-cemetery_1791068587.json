@@ -1,0 +1,25 @@
+{
+  "id": "distsiplina-i-poryadok-train-cemetery_1791068587",
+  "fingerprint": "d6efb8aa6fc18932a4fa1aacb4534b49d45916f11a148370ab9547ecbf74d6f5",
+  "archived_at": "2026-10-03T23:03:07Z",
+  "metadata": {
+    "title": "Дисциплина И Порядок / Train Cemetery",
+    "artist": "Train Cemetery",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4806,
+    "duration_human": "01:20:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Дисциплина и Порядок - Жареное Мясо Мертвого Поросенка",
+      "02 Train Cemetery - Treif"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/distsiplina-i-poryadok-train-cemetery_d6efb8aa6fc1"
+    }
+  }
+}

@@ -19,6 +19,7 @@
 | [Aught](aught_dc3d0b1a12ab/aught_dc3d0b1a12ab.md) | 2017 | FLAC | 00:18:40 | [IA](https://archive.org/details/aught_dc3d0b1a12ab) |
 | [The Terrifying Reality](the-terrifying-reality_1791068562/the-terrifying-reality_1791068562.md) | 2017 | FLAC | 00:50:00 | [IA](https://archive.org/details/the-terrifying-reality_e1978a53016b) |
 | [All Alone](all-alone_1a89bddd12a6/all-alone_1a89bddd12a6.md) | 2017 | FLAC | 01:00:00 | [IA](https://archive.org/details/all-alone_1a89bddd12a6) |
+| [Дисциплина И Порядок / Train Cemetery](distsiplina-i-poryadok-train-cemetery_1791068587/distsiplina-i-poryadok-train-cemetery_1791068587.md) | 2017 | FLAC | 01:20:06 | [IA](https://archive.org/details/distsiplina-i-poryadok-train-cemetery_d6efb8aa6fc1) |
 | [Ossa](ossa_3caf1e85fe19/ossa_3caf1e85fe19.md) | 2017 | FLAC | 03:14:26 | [IA](https://archive.org/details/ossa_3caf1e85fe19) |
 | [χάος](chaos_3ac3673a7720/chaos_3ac3673a7720.md) | 2017 | FLAC | 02:00:00 | [IA](https://archive.org/details/chaos_3ac3673a7720) |
 | [Murum](murum_75e5fe491e6f/murum_75e5fe491e6f.md) | 2017 | FLAC | 01:30:01 | [IA](https://archive.org/details/murum_75e5fe491e6f) |
