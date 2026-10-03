@@ -1,0 +1,25 @@
+{
+  "id": "nothing_4a65b07f0479",
+  "fingerprint": "4a65b07f047986b095c0ae7b501992cfe51a583d0eb7082ae474f5c47bb573ff",
+  "archived_at": "2026-10-03T17:21:24Z",
+  "metadata": {
+    "title": "Nothing",
+    "artist": "Train Cemetery",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4800,
+    "duration_human": "01:20:00",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Train Cemetery - Untitled I",
+      "02 Train Cemetery - Untitled II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nothing_4a65b07f0479"
+    }
+  }
+}
