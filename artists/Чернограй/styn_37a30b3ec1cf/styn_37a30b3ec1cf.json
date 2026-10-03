@@ -1,0 +1,25 @@
+{
+  "id": "styn_37a30b3ec1cf",
+  "fingerprint": "37a30b3ec1cfcd065320a4cb0d5632877cd9895a69c5b8426e772aa80f4bb730",
+  "archived_at": "2026-10-03T23:00:55Z",
+  "metadata": {
+    "title": "Стынь",
+    "artist": "Чернограй",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3635,
+    "duration_human": "01:00:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Чернограй - Падера",
+      "02 Чернограй - Мерлый Дром"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/styn_37a30b3ec1cf"
+    }
+  }
+}
