@@ -1,0 +1,25 @@
+{
+  "id": "damien-de-coene-train-cemetery_1791068523",
+  "fingerprint": "e9154851bf25587d8768e916b1833fdee08a94c0bb951341feadeca8c980fe31",
+  "archived_at": "2026-10-03T23:02:03Z",
+  "metadata": {
+    "title": "Damien De Coene / Train Cemetery",
+    "artist": "Train Cemetery",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Damien De Coene - Wreckage",
+      "02 Train Cemetery - Stimulus"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/damien-de-coene-train-cemetery_e9154851bf25"
+    }
+  }
+}
