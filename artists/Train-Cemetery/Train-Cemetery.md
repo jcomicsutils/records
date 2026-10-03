@@ -28,6 +28,7 @@
 | [Gist](gist_0e6966775fd9/gist_0e6966775fd9.md) | 2017 | FLAC | 09:49:50 | [IA](https://archive.org/details/gist_0e6966775fd9) |
 | [N0123NOISE / Train Cemetery](n0123noise-train-cemetery_1791068540/n0123noise-train-cemetery_1791068540.md) | 2017 | FLAC | 00:58:27 | [IA](https://archive.org/details/n0123noise-train-cemetery_4157c9431dcf) |
 | [Yerba. Mood Series#2](yerba-mood-series2_9e4069d44fc2/yerba-mood-series2_9e4069d44fc2.md) | 2017 | FLAC | 01:17:32 | [IA](https://archive.org/details/yerba-mood-series2_9e4069d44fc2) |
+| [Plot in the Forest](plot-in-the-forest_1791068548/plot-in-the-forest_1791068548.md) | 2018 | FLAC | 01:00:26 | [IA](https://archive.org/details/plot-in-the-forest_e51ba5b5e616) |
 | [Huyiming / Train Cemetery](huyiming-train-cemetery_1791068534/huyiming-train-cemetery_1791068534.md) | 2018 | FLAC | 00:43:59 | [IA](https://archive.org/details/huyiming-train-cemetery_a670b6898806) |
 | [Pessimist](pessimist_37c5d59d4c0c/pessimist_37c5d59d4c0c.md) | 2018 | FLAC | 01:00:00 | [IA](https://archive.org/details/pessimist_37c5d59d4c0c) |
 | [Damno](damno_469d52f41495/damno_469d52f41495.md) | 2018 | FLAC | 00:39:44 | [IA](https://archive.org/details/damno_469d52f41495) |

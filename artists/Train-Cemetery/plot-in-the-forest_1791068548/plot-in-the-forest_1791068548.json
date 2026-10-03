@@ -1,0 +1,25 @@
+{
+  "id": "plot-in-the-forest_1791068548",
+  "fingerprint": "e51ba5b5e6166ef4a0daa60b59cf7bb7661914e11dd5109607149fae2f605c54",
+  "archived_at": "2026-10-03T23:02:28Z",
+  "metadata": {
+    "title": "Plot in the Forest",
+    "artist": "Train Cemetery",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3626,
+    "duration_human": "01:00:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Train Cemetery - Season of Death",
+      "02 Danshoku Dino - Viking Funeral"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/plot-in-the-forest_e51ba5b5e616"
+    }
+  }
+}
