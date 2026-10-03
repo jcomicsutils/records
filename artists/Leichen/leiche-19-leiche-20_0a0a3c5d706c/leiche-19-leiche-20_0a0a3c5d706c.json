@@ -1,0 +1,25 @@
+{
+  "id": "leiche-19-leiche-20_0a0a3c5d706c",
+  "fingerprint": "0a0a3c5d706c9c15bf4f0559dcb8f4337740f2934bdadd6873194ca546a57d2f",
+  "archived_at": "2026-10-03T02:54:21Z",
+  "metadata": {
+    "title": "Leiche 19 / Leiche 20",
+    "artist": "Leichen",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Leichen - Leiche 19",
+      "02 Leichen - Leiche 20"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/leiche-19-leiche-20_0a0a3c5d706c"
+    }
+  }
+}
