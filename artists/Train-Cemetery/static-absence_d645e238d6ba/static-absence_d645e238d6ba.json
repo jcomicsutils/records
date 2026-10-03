@@ -1,0 +1,26 @@
+{
+  "id": "static-absence_d645e238d6ba",
+  "fingerprint": "d645e238d6ba7c14c6681bb6853b0a4ea8e44fbd4b8a8c9eba11156c8f9d2aac",
+  "archived_at": "2026-10-03T20:12:58Z",
+  "metadata": {
+    "title": "Static Absence",
+    "artist": "Train Cemetery",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 10800,
+    "duration_human": "03:00:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - Absence I",
+      "02 Train Cemetery - Absence II",
+      "03 Train Cemetery - Absence III"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/static-absence_d645e238d6ba"
+    }
+  }
+}
