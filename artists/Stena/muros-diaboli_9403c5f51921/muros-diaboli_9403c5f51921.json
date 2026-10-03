@@ -1,0 +1,24 @@
+{
+  "id": "muros-diaboli_9403c5f51921",
+  "fingerprint": "9403c5f51921f25e9958687c7981698efa946009abbc6aa4c16fc41a9c8246a0",
+  "archived_at": "2026-10-03T08:42:57Z",
+  "metadata": {
+    "title": "Muros Diaboli",
+    "artist": "Stena",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2400,
+    "duration_human": "00:40:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Stena - Muros Diaboli"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/muros-diaboli_9403c5f51921"
+    }
+  }
+}
