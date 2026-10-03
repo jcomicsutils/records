@@ -1,0 +1,25 @@
+{
+  "id": "split_1b05e2caceff",
+  "fingerprint": "1b05e2caceff4e2d2aad57470a6a615822c2667c238bf78b6b03d7303c4758a0",
+  "archived_at": "2026-10-03T22:59:36Z",
+  "metadata": {
+    "title": "Сплит",
+    "artist": "Шумоизоляция / Чернограй",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3623,
+    "duration_human": "01:00:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Шумоизоляция - Без Названия",
+      "02 Чернограй - Верига"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/split_1b05e2caceff"
+    }
+  }
+}
