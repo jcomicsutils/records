@@ -25,5 +25,6 @@
 | [One Step Away From Hatred](one-step-away-from-hatred_6289f430c08f/one-step-away-from-hatred_6289f430c08f.md) | 2022 | FLAC | 01:01:01 | [IA](https://archive.org/details/one-step-away-from-hatred_6289f430c08f) |
 | [Belated Answer From God](belated-answer-from-god_09a7d6c429b7/belated-answer-from-god_09a7d6c429b7.md) | 2022 | FLAC | 02:00:00 | [IA](https://archive.org/details/belated-answer-from-god_09a7d6c429b7) |
 | [Nothing](nothing_4a65b07f0479/nothing_4a65b07f0479.md) | 2022 | FLAC | 01:20:00 | [IA](https://archive.org/details/nothing_4a65b07f0479) |
+| [The Last Turn of Samsara](the-last-turn-of-samsara_99c95c9e923f/the-last-turn-of-samsara_99c95c9e923f.md) | 2025 | FLAC | 00:40:00 | [IA](https://archive.org/details/the-last-turn-of-samsara_99c95c9e923f) |
 | [Black Chapter](black-chapter_e6a9325ebc82/black-chapter_e6a9325ebc82.md) | 2025 | FLAC | 01:20:00 | [IA](https://archive.org/details/black-chapter_e6a9325ebc82) |
 | [Static Absence](static-absence_d645e238d6ba/static-absence_d645e238d6ba.md) | 2026 | FLAC | 03:00:00 | [IA](https://archive.org/details/static-absence_d645e238d6ba) |

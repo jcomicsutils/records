@@ -1,0 +1,24 @@
+{
+  "id": "the-last-turn-of-samsara_99c95c9e923f",
+  "fingerprint": "99c95c9e923fac4360b56cb7b9ad88022d3db883f265ff19604c848dec6ee132",
+  "archived_at": "2026-10-03T20:23:43Z",
+  "metadata": {
+    "title": "The Last Turn of Samsara",
+    "artist": "Train Cemetery",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2400,
+    "duration_human": "00:40:00",
+    "sampling_rate": "96kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Train Cemetery - The Last Turn of Samsara"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-last-turn-of-samsara_99c95c9e923f"
+    }
+  }
+}
