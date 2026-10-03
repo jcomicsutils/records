@@ -1,0 +1,24 @@
+{
+  "id": "doctors-of-the-universe_8663c3b3a75b",
+  "fingerprint": "8663c3b3a75ba10004a27caa00a0a1c417de8ea304934d2c1e6e183a05f54ff0",
+  "archived_at": "2026-10-03T09:41:11Z",
+  "metadata": {
+    "title": "Doctors of the Universe",
+    "artist": "The Dreams Of Absolem",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3132,
+    "duration_human": "00:52:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Dreams of Absolem - Doctors of the Universe"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/doctors-of-the-universe_8663c3b3a75b"
+    }
+  }
+}
