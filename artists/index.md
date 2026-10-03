@@ -349,6 +349,7 @@
 - [Train Cemetery & Raw Sun Of Endless Dust Valley](Train-Cemetery-&-Raw-Sun-Of-Endless-Dust-Valley/Train-Cemetery-&-Raw-Sun-Of-Endless-Dust-Valley.md)
 - [Train Cemetery / Condo Horro / Rien / Uitgeschakeld / Dosis Letalis / Шумоизоляция](Train-Cemetery-Condo-Horro-Rien-Uitgeschakeld-Dosis-Letalis-Шумоизоляция/Train-Cemetery-Condo-Horro-Rien-Uitgeschakeld-Dosis-Letalis-Шумоизоляция.md)
 - [Train Cemetery / Danshoku Dino](Train-Cemetery-Danshoku-Dino/Train-Cemetery-Danshoku-Dino.md)
+- [Train Cemetery/ MOYOGASH](Train-Cemetery-MOYOGASH/Train-Cemetery-MOYOGASH.md)
 - [Train Cemetery / Unsignified Death](Train-Cemetery-Unsignified-Death/Train-Cemetery-Unsignified-Death.md)
 - [Trasgo](Trasgo/Trasgo.md)
 - [Tratosphere](Tratosphere/Tratosphere.md)
