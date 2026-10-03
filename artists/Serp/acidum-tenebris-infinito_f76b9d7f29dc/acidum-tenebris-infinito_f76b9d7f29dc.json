@@ -1,0 +1,24 @@
+{
+  "id": "acidum-tenebris-infinito_f76b9d7f29dc",
+  "fingerprint": "f76b9d7f29dc66e10f054c6521fcec24a451e94781495a3f7bcef0a19f4612f1",
+  "archived_at": "2026-10-03T07:28:29Z",
+  "metadata": {
+    "title": "Acidum Tenebris Infinito",
+    "artist": "Serp",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2809,
+    "duration_human": "00:46:49",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Serp - Acidum Tenebris Infinito"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/acidum-tenebris-infinito_f76b9d7f29dc"
+    }
+  }
+}
