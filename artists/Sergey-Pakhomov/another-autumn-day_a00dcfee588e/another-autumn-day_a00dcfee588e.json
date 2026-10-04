@@ -1,0 +1,47 @@
+{
+  "id": "another-autumn-day_a00dcfee588e",
+  "fingerprint": "a00dcfee588eb1a0921e97c412c2bea679514bba8300c3d7d6fcea959ec66e14",
+  "archived_at": "2026-10-04T03:05:34Z",
+  "metadata": {
+    "title": "Another Autumn Day",
+    "artist": "Sergey Pakhomov",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 24,
+    "duration_seconds": 86400,
+    "duration_human": "24:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 S.Pakhomov - 00'00 - 01'00",
+      "02 S.Pakhomov - 01'00 - 02'00",
+      "03 S.Pakhomov - 02'00 - 03'00",
+      "04 S.Pakhomov - 03'00 - 04'00",
+      "05 S.Pakhomov - 04'00 - 05'00",
+      "06 S.Pakhomov - 05'00 - 06'00",
+      "07 S.Pakhomov - 06'00 - 07'00",
+      "08 S.Pakhomov - 07'00 - 08'00",
+      "09 S.Pakhomov - 08'00 - 09'00",
+      "10 S.Pakhomov - 09'00 - 10'00",
+      "11 S.Pakhomov - 10'00 - 11'00",
+      "12 S.Pakhomov - 11'00 - 12'00",
+      "13 S.Pakhomov - 12'00 - 13'00",
+      "14 S.Pakhomov - 13'00 - 14'00",
+      "15 S.Pakhomov - 14'00 - 15'00",
+      "16 S.Pakhomov - 15'00 - 16'00",
+      "17 S.Pakhomov - 16'00 - 17'00",
+      "18 S.Pakhomov - 17'00 - 18'00",
+      "19 S.Pakhomov - 18'00 - 19'00",
+      "20 S.Pakhomov - 19'00 - 20'00",
+      "21 S.Pakhomov - 20'00 - 21'00",
+      "22 S.Pakhomov - 21'00 - 22'00",
+      "23 S.Pakhomov - 22'00 - 23'00",
+      "24 S.Pakhomov - 23'00 - 00'00"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/another-autumn-day_a00dcfee588e"
+    }
+  }
+}
