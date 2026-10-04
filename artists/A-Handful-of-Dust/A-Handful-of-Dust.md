@@ -10,5 +10,6 @@
 | [Now Gods, Stand Up for Bastards](now-gods-stand-up-for-bastards_f40a73fb58e9/now-gods-stand-up-for-bastards_f40a73fb58e9.md) | 1996 | MP3 | 01:09:49 | [IA](https://archive.org/details/now-gods-stand-up-for-bastards_f40a73fb58e9) |
 | [Jerusalem, Street of Graves](jerusalem-street-of-graves_bc08a4ac5bbc/jerusalem-street-of-graves_bc08a4ac5bbc.md) | 1998 | FLAC | 00:41:46 | [IA](https://archive.org/details/jerusalem-street-of-graves_bc08a4ac5bbc) |
 | [For Patti Smith](for-patti-smith_731ef4c9a529/for-patti-smith_731ef4c9a529.md) | 2002 | MP3 | 00:43:35 | [IA](https://archive.org/details/for-patti-smith_731ef4c9a529) |
+| [Panegyric](panegyric_78fd1900b05e/panegyric_78fd1900b05e.md) | 2009 | FLAC | 00:29:44 | [IA](https://archive.org/details/panegyric_78fd1900b05e) |
 | [Dragging Her Wings of Rusty Knives: Selected Recordings 1994-2016](dragging-her-wings-of-rusty-knives-selected-recordings-1994-2016_d308448255ce/dragging-her-wings-of-rusty-knives-selected-recordings-1994-2016_d308448255ce.md) | 2019 | FLAC | 01:23:53 | [IA](https://archive.org/details/dragging-her-wings-of-rusty-knives-selected-recordings-1994-2016_d308448255ce) |
 | [Dream Songs](dream-songs_d69b5c7c4fd1/dream-songs_d69b5c7c4fd1.md) | 2025 | MP3 | 01:10:26 | [IA](https://archive.org/details/dream-songs_d69b5c7c4fd1) |

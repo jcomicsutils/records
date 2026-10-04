@@ -1,0 +1,25 @@
+{
+  "id": "panegyric_78fd1900b05e",
+  "fingerprint": "78fd1900b05ea4c2ada4bd05fc08b13dc849b6a461e2e5260d39717dac2247e2",
+  "archived_at": "2026-10-04T05:53:48Z",
+  "metadata": {
+    "title": "Panegyric",
+    "artist": "A Handful of Dust",
+    "year": "2009",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1784,
+    "duration_human": "00:29:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 A Handful of Dust - The Bad Days Will End",
+      "02 A Handful of Dust - Hurlements en faveur de sade"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/panegyric_78fd1900b05e"
+    }
+  }
+}
