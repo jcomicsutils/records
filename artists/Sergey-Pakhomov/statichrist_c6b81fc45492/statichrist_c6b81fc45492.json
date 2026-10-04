@@ -1,0 +1,31 @@
+{
+  "id": "statichrist_c6b81fc45492",
+  "fingerprint": "c6b81fc454927ec62320cb03c4bc6812c4a822175e1174f022af9decefdbb863",
+  "archived_at": "2026-10-04T18:31:48Z",
+  "metadata": {
+    "title": "Statichrist",
+    "artist": "Sergey Pakhomov",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 14400,
+    "duration_human": "04:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - 1",
+      "02 Sergey Pakhomov - 2",
+      "03 Sergey Pakhomov - 3",
+      "04 Sergey Pakhomov - 4",
+      "05 Sergey Pakhomov - 5",
+      "06 Sergey Pakhomov - 6",
+      "07 Sergey Pakhomov - 7",
+      "08 Sergey Pakhomov - 8"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/statichrist_c6b81fc45492"
+    }
+  }
+}
