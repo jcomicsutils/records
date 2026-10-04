@@ -1,0 +1,24 @@
+{
+  "id": "unstable-variation_fe748e2bf90f",
+  "fingerprint": "fe748e2bf90face1eca02cb2b1846730efc005a7b4850034932416b043cf048e",
+  "archived_at": "2026-10-04T23:08:39Z",
+  "metadata": {
+    "title": "Unstable Variation",
+    "artist": "Sergey Pakhomov",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2935,
+    "duration_human": "00:48:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Unstable Variation"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/unstable-variation_fe748e2bf90f"
+    }
+  }
+}
