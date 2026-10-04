@@ -1,0 +1,24 @@
+{
+  "id": "spinning-spaces_2ad887351c34",
+  "fingerprint": "2ad887351c34a0ca048b05224e72a930a1bf0d2a694bd573af3bd7887000921c",
+  "archived_at": "2026-10-04T17:52:29Z",
+  "metadata": {
+    "title": "Spinning Spaces",
+    "artist": "Sergey Pakhomov",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2700,
+    "duration_human": "00:45:00",
+    "sampling_rate": "96kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Spinning Spaces"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/spinning-spaces_2ad887351c34"
+    }
+  }
+}

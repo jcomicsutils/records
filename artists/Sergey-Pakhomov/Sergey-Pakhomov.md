@@ -73,6 +73,7 @@
 | [Le Statique Modulaire](le-statique-modulaire_4e90533165ac/le-statique-modulaire_4e90533165ac.md) | 2024 | FLAC | 00:40:00 | [IA](https://archive.org/details/le-statique-modulaire_4e90533165ac) |
 | [Backward Movement](backward-movement_6afd07a81a94/backward-movement_6afd07a81a94.md) | 2024 | FLAC | 00:40:00 | [IA](https://archive.org/details/backward-movement_6afd07a81a94) |
 | [Almost an Adult. Earliest Works 1999-2001](almost-an-adult-earliest-works-1999-2001_cb77693159d0/almost-an-adult-earliest-works-1999-2001_cb77693159d0.md) | 2025 | FLAC | 02:59:14 | [IA](https://archive.org/details/almost-an-adult-earliest-works-1999-2001_cb77693159d0) |
+| [Spinning Spaces](spinning-spaces_2ad887351c34/spinning-spaces_2ad887351c34.md) | 2025 | FLAC | 00:45:00 | [IA](https://archive.org/details/spinning-spaces_2ad887351c34) |
 | [Past Continuous](past-continuous_7d6a0f528853/past-continuous_7d6a0f528853.md) | 2025 | FLAC | 01:20:00 | [IA](https://archive.org/details/past-continuous_7d6a0f528853) |
 | [Inner Nothing](inner-nothing_5df6761425d6/inner-nothing_5df6761425d6.md) | 2025 | FLAC | 00:46:52 | [IA](https://archive.org/details/inner-nothing_5df6761425d6) |
 | [Semi-Music, Semi-Noise](semi-music-semi-noise_ee291a2294e0/semi-music-semi-noise_ee291a2294e0.md) | 2025 | FLAC | 00:52:00 | [IA](https://archive.org/details/semi-music-semi-noise_ee291a2294e0) |
