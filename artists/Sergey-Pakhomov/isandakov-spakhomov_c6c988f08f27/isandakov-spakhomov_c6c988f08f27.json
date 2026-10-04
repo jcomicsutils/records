@@ -1,0 +1,25 @@
+{
+  "id": "isandakov-spakhomov_c6c988f08f27",
+  "fingerprint": "c6c988f08f27847631fa5c68690b9a1ba198ed480cbbce6a17dd0b4f106c6a84",
+  "archived_at": "2026-10-04T08:46:05Z",
+  "metadata": {
+    "title": "I.Sandakov / S.Pakhomov",
+    "artist": "Sergey Pakhomov",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3636,
+    "duration_human": "01:00:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 I.Sandakov - Nightmare Train",
+      "02 S.Pakhomov - Train Cemetery"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/isandakov-spakhomov_c6c988f08f27"
+    }
+  }
+}
