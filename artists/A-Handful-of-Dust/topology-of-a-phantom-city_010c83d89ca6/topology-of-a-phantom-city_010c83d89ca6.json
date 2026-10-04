@@ -1,0 +1,25 @@
+{
+  "id": "topology-of-a-phantom-city_010c83d89ca6",
+  "fingerprint": "010c83d89ca65e2464097d2422d887f63014cc6eee3c10fe0ae3f235130fd876",
+  "archived_at": "2026-10-04T06:17:42Z",
+  "metadata": {
+    "title": "Topology of a Phantom City",
+    "artist": "A Handful of Dust",
+    "year": "1996",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 2528,
+    "duration_human": "00:42:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 A Handful of Dust - The City of the Sun",
+      "02 A Handful of Dust - The City of God / Negative Jerusalem"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/topology-of-a-phantom-city_010c83d89ca6"
+    }
+  }
+}

@@ -11,6 +11,7 @@
 | [A Handful of Dust / Alan Licht](a-handful-of-dust-alan-licht_b48805aecf76/a-handful-of-dust-alan-licht_b48805aecf76.md) | 1994 | MP3 | 00:06:17 | [IA](https://archive.org/details/a-handful-of-dust-alan-licht_b48805aecf76) |
 | [The Eightness of Adam Qadmon](the-eightness-of-adam-qadmon_45edb43d271f/the-eightness-of-adam-qadmon_45edb43d271f.md) | 1994 | MP3 | 00:39:45 | [IA](https://archive.org/details/the-eightness-of-adam-qadmon_45edb43d271f) |
 | [Speed Kills](speed-kills_e1eeee4cbc90/speed-kills_e1eeee4cbc90.md) | 1995 | FLAC | 00:19:31 | [IA](https://archive.org/details/speed-kills_e1eeee4cbc90) |
+| [Topology of a Phantom City](topology-of-a-phantom-city_010c83d89ca6/topology-of-a-phantom-city_010c83d89ca6.md) | 1996 | MP3 | 00:42:08 | [IA](https://archive.org/details/topology-of-a-phantom-city_010c83d89ca6) |
 | [Now Gods, Stand Up for Bastards](now-gods-stand-up-for-bastards_f40a73fb58e9/now-gods-stand-up-for-bastards_f40a73fb58e9.md) | 1996 | MP3 | 01:09:49 | [IA](https://archive.org/details/now-gods-stand-up-for-bastards_f40a73fb58e9) |
 | [Jerusalem, Street of Graves](jerusalem-street-of-graves_bc08a4ac5bbc/jerusalem-street-of-graves_bc08a4ac5bbc.md) | 1998 | FLAC | 00:41:46 | [IA](https://archive.org/details/jerusalem-street-of-graves_bc08a4ac5bbc) |
 | [For Patti Smith](for-patti-smith_731ef4c9a529/for-patti-smith_731ef4c9a529.md) | 2002 | MP3 | 00:43:35 | [IA](https://archive.org/details/for-patti-smith_731ef4c9a529) |
