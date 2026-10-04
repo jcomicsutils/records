@@ -1,0 +1,24 @@
+{
+  "id": "tzar_4fe31df6a99b",
+  "fingerprint": "4fe31df6a99bdcbdb177ca673dc2997542a9efce36b10ae4f712dd03a917315c",
+  "archived_at": "2026-10-04T22:38:18Z",
+  "metadata": {
+    "title": "Tzar",
+    "artist": "Sergey Pakhomov",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Burn the Throne"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/tzar_4fe31df6a99b"
+    }
+  }
+}
