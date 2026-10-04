@@ -1,0 +1,25 @@
+{
+  "id": "uitgeschakeld-sp_43dd146532b8",
+  "fingerprint": "43dd146532b81ccefb7db618363d81707e97f8e1196ba7a69816ee968b7e351c",
+  "archived_at": "2026-10-04T22:48:59Z",
+  "metadata": {
+    "title": "Uitgeschakeld / SP",
+    "artist": "Sergey Pakhomov",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4608,
+    "duration_human": "01:16:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Uitgeschakeld - Leeg",
+      "02 SP - By the Nail"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/uitgeschakeld-sp_43dd146532b8"
+    }
+  }
+}
