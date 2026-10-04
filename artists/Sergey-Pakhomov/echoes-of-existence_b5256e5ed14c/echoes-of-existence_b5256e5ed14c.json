@@ -1,0 +1,24 @@
+{
+  "id": "echoes-of-existence_b5256e5ed14c",
+  "fingerprint": "b5256e5ed14c2c0400eef6e14bf961e3bef0a7360f854558e30d40ac3f53aa5d",
+  "archived_at": "2026-10-04T07:54:26Z",
+  "metadata": {
+    "title": "Echoes of Existence",
+    "artist": "Sergey Pakhomov",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2400,
+    "duration_human": "00:40:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Echoes of Existence"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/echoes-of-existence_b5256e5ed14c"
+    }
+  }
+}
