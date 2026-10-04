@@ -1,0 +1,28 @@
+{
+  "id": "negative-mass_6922763fb0aa",
+  "fingerprint": "6922763fb0aa28faf65f793c510c3ec22d2f305351952d755f2642b53bf40911",
+  "archived_at": "2026-10-04T11:13:22Z",
+  "metadata": {
+    "title": "Negative Mass",
+    "artist": "Sergey Pakhomov",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 4167,
+    "duration_human": "01:09:27",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Untitled 1",
+      "02 Sergey Pakhomov - Untitled 2",
+      "03 Sergey Pakhomov - Untitled 3",
+      "04 Sergey Pakhomov - Untitled 4",
+      "05 Sergey Pakhomov - Untitled 5"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/negative-mass_6922763fb0aa"
+    }
+  }
+}
