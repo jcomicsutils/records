@@ -1,0 +1,24 @@
+{
+  "id": "ghosts-of-noise_3063a0398a81",
+  "fingerprint": "3063a0398a81d7bb2f4f4264ae7a3df6932e1b413900d1a4f7855984bdeed96b",
+  "archived_at": "2026-10-04T08:07:28Z",
+  "metadata": {
+    "title": "Ghosts of Noise",
+    "artist": "Sergey Pakhomov",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Ghosts of Noise"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ghosts-of-noise_3063a0398a81"
+    }
+  }
+}
