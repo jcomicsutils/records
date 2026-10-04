@@ -1,0 +1,24 @@
+{
+  "id": "keeper-of-desolation_162957d3f9eb",
+  "fingerprint": "162957d3f9eb9ecb37989aaed314c84dd74961d2b27686adfe55f973dbbd796d",
+  "archived_at": "2026-10-04T09:54:20Z",
+  "metadata": {
+    "title": "Keeper of Desolation",
+    "artist": "Sergey Pakhomov",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Keeper of Desolation"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/keeper-of-desolation_162957d3f9eb"
+    }
+  }
+}

@@ -27,6 +27,7 @@
 | [The Dreams of Absolem](the-dreams-of-absolem_49664c00780f/the-dreams-of-absolem_49664c00780f.md) | 2020 | FLAC | 01:02:14 | [IA](https://archive.org/details/the-dreams-of-absolem_49664c00780f) |
 | [Brutalist](brutalist_5dd01139b41b/brutalist_5dd01139b41b.md) | 2021 | FLAC | 06:00:00 | [IA](https://archive.org/details/brutalist_5dd01139b41b) |
 | [Harsh Damaged](harsh-damaged_8bdf6fe73fcd/harsh-damaged_8bdf6fe73fcd.md) | 2021 | FLAC | 00:59:59 | [IA](https://archive.org/details/harsh-damaged_8bdf6fe73fcd) |
+| [Keeper of Desolation](keeper-of-desolation_162957d3f9eb/keeper-of-desolation_162957d3f9eb.md) | 2022 | FLAC | 01:00:00 | [IA](https://archive.org/details/keeper-of-desolation_162957d3f9eb) |
 | [Colors of Emptiness](colors-of-emptiness_2f5141617305/colors-of-emptiness_2f5141617305.md) | 2022 | FLAC | 03:00:00 | [IA](https://archive.org/details/colors-of-emptiness_2f5141617305) |
 | [Dead Level](dead-level_66e1935bd8d5/dead-level_66e1935bd8d5.md) | 2023 | FLAC | 01:30:00 | [IA](https://archive.org/details/dead-level_66e1935bd8d5) |
 | [Death Industrial Wall](death-industrial-wall_6b04ff4f6576/death-industrial-wall_6b04ff4f6576.md) | 2023 | FLAC | 01:20:00 | [IA](https://archive.org/details/death-industrial-wall_6b04ff4f6576) |
