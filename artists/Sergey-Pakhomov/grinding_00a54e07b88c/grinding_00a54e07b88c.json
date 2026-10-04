@@ -1,0 +1,25 @@
+{
+  "id": "grinding_00a54e07b88c",
+  "fingerprint": "00a54e07b88c052e22b4ae5afa881bc41203b24209eac37e4612532904196a4d",
+  "archived_at": "2026-10-04T08:14:59Z",
+  "metadata": {
+    "title": "Grinding",
+    "artist": "Sergey Pakhomov",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 21600,
+    "duration_human": "06:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 SP - Grinding. Section №1",
+      "02 SP - Grinding. Section №2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/grinding_00a54e07b88c"
+    }
+  }
+}

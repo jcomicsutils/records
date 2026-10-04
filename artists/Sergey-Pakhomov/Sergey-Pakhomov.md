@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Coal](coal_0bd5a7df8571/coal_0bd5a7df8571.md) | 2016 | FLAC | 02:00:00 | [IA](https://archive.org/details/coal_0bd5a7df8571) |
+| [Grinding](grinding_00a54e07b88c/grinding_00a54e07b88c.md) | 2017 | FLAC | 06:00:00 | [IA](https://archive.org/details/grinding_00a54e07b88c) |
 | [Color Confinement](color-confinement_6829308fd0d3/color-confinement_6829308fd0d3.md) | 2017 | FLAC | 01:20:00 | [IA](https://archive.org/details/color-confinement_6829308fd0d3) |
 | [Another Autumn Day](another-autumn-day_a00dcfee588e/another-autumn-day_a00dcfee588e.md) | 2017 | FLAC | 24:00:00 | [IA](https://archive.org/details/another-autumn-day_a00dcfee588e) |
 | [Act of Nothing](act-of-nothing_58c77e81d8b8/act-of-nothing_58c77e81d8b8.md) | 2018 | FLAC | 00:49:48 | [IA](https://archive.org/details/act-of-nothing_58c77e81d8b8) |
