@@ -1,0 +1,24 @@
+{
+  "id": "hearing-of-the-dead_6e3194e8ef7b",
+  "fingerprint": "6e3194e8ef7bda44179110d3fdf9431c7e950df1a2687c94cbb238fdd3c9b917",
+  "archived_at": "2026-10-04T08:32:24Z",
+  "metadata": {
+    "title": "Hearing of the Dead",
+    "artist": "Sergey Pakhomov",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2550,
+    "duration_human": "00:42:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Hearing of the Dead"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hearing-of-the-dead_6e3194e8ef7b"
+    }
+  }
+}
