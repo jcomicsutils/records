@@ -1,0 +1,25 @@
+{
+  "id": "random-arrangement-of-fixed-elements_6651820759ac",
+  "fingerprint": "6651820759ac3355d60f2ff83c4a4d874bfd6b8d799e384a52a3eab4aba13379",
+  "archived_at": "2026-10-04T15:57:37Z",
+  "metadata": {
+    "title": "Random Arrangement of Fixed Elements",
+    "artist": "Sergey Pakhomov",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5400,
+    "duration_human": "01:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Untitled 1",
+      "02 Sergey Pakhomov - Untitled 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/random-arrangement-of-fixed-elements_6651820759ac"
+    }
+  }
+}
