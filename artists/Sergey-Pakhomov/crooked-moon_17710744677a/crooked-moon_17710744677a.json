@@ -1,0 +1,27 @@
+{
+  "id": "crooked-moon_17710744677a",
+  "fingerprint": "17710744677a41e53c0bcafe58b9f669e84b421a5ef6fb33ae3c610c4731d881",
+  "archived_at": "2026-10-04T07:02:43Z",
+  "metadata": {
+    "title": "Crooked Moon",
+    "artist": "Sergey Pakhomov",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4800,
+    "duration_human": "01:20:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Phase I",
+      "02 Sergey Pakhomov - Phase II",
+      "03 Sergey Pakhomov - Phase III",
+      "04 Sergey Pakhomov - Phase IV"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/crooked-moon_17710744677a"
+    }
+  }
+}
