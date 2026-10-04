@@ -1,0 +1,27 @@
+{
+  "id": "speed-kills_e1eeee4cbc90",
+  "fingerprint": "e1eeee4cbc90b752382b18f95921830014ee1f3fe8eaac70273219224802dc90",
+  "archived_at": "2026-10-04T05:56:41Z",
+  "metadata": {
+    "title": "Speed Kills",
+    "artist": "A Handful of Dust",
+    "year": "1995",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1171,
+    "duration_human": "00:19:31",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Flying Saucer Attack - February 8th",
+      "02 Back Off Cupids - Sleds Behave",
+      "03 A Handful of Dust - A Sort of Saliva",
+      "04 Portastatic - Useless Switch"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/speed-kills_e1eeee4cbc90"
+    }
+  }
+}
