@@ -26,6 +26,7 @@
 | [Ice & Soot](ice-soot_74afb61c9bd0/ice-soot_74afb61c9bd0.md) | 2020 | FLAC | 00:45:00 | [IA](https://archive.org/details/ice-soot_74afb61c9bd0) |
 | [Breaking News](breaking-news_469e3aad85c5/breaking-news_469e3aad85c5.md) | 2020 | FLAC | 01:30:02 | [IA](https://archive.org/details/breaking-news_469e3aad85c5) |
 | [Dried](dried_6d622de61e5a/dried_6d622de61e5a.md) | 2020 | FLAC | 01:30:01 | [IA](https://archive.org/details/dried_6d622de61e5a) |
+| [Noisolation 1](noisolation-1_e58ec4afaa36/noisolation-1_e58ec4afaa36.md) | 2020 | FLAC | 00:45:00 | [IA](https://archive.org/details/noisolation-1_e58ec4afaa36) |
 | [Eight Untitled Tracks](eight-untitled-tracks_e3ca3ae1fab6/eight-untitled-tracks_e3ca3ae1fab6.md) | 2020 | FLAC | 01:19:59 | [IA](https://archive.org/details/eight-untitled-tracks_e3ca3ae1fab6) |
 | [Le Bruit Électromagnétique 2: Field Recordings](le-bruit-electromagnetique-2-field-recordings_903ef5245339/le-bruit-electromagnetique-2-field-recordings_903ef5245339.md) | 2020 | FLAC | 00:45:35 | [IA](https://archive.org/details/le-bruit-electromagnetique-2-field-recordings_903ef5245339) |
 | [Dehumanization of Sympathy](dehumanization-of-sympathy_31d515a1c668/dehumanization-of-sympathy_31d515a1c668.md) | 2020 | FLAC | 01:19:59 | [IA](https://archive.org/details/dehumanization-of-sympathy_31d515a1c668) |
