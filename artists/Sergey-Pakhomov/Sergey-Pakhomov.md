@@ -84,6 +84,7 @@
 | [Past Continuous](past-continuous_7d6a0f528853/past-continuous_7d6a0f528853.md) | 2025 | FLAC | 01:20:00 | [IA](https://archive.org/details/past-continuous_7d6a0f528853) |
 | [Inner Nothing](inner-nothing_5df6761425d6/inner-nothing_5df6761425d6.md) | 2025 | FLAC | 00:46:52 | [IA](https://archive.org/details/inner-nothing_5df6761425d6) |
 | [Semi-Music, Semi-Noise](semi-music-semi-noise_ee291a2294e0/semi-music-semi-noise_ee291a2294e0.md) | 2025 | FLAC | 00:52:00 | [IA](https://archive.org/details/semi-music-semi-noise_ee291a2294e0) |
+| [Superforms](superforms_cec2bdc971d1/superforms_cec2bdc971d1.md) | 2025 | FLAC | 00:42:00 | [IA](https://archive.org/details/superforms_cec2bdc971d1) |
 | [Echoes of Existence](echoes-of-existence_b5256e5ed14c/echoes-of-existence_b5256e5ed14c.md) | 2026 | FLAC | 00:40:00 | [IA](https://archive.org/details/echoes-of-existence_b5256e5ed14c) |
 | [Simplex](simplex_9bca5954e881/simplex_9bca5954e881.md) | 2026 | FLAC | 00:40:00 | [IA](https://archive.org/details/simplex_9bca5954e881) |
 | [Sound Nerd](sound-nerd_6b4171ee0ab1/sound-nerd_6b4171ee0ab1.md) | 2026 | FLAC | 00:45:10 | [IA](https://archive.org/details/sound-nerd_6b4171ee0ab1) |

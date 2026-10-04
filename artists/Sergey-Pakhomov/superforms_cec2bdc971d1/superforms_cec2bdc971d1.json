@@ -1,0 +1,25 @@
+{
+  "id": "superforms_cec2bdc971d1",
+  "fingerprint": "cec2bdc971d1cf0f4f067baed8d2c23940116256baa6727c1b5110af29cd9c50",
+  "archived_at": "2026-10-04T19:10:17Z",
+  "metadata": {
+    "title": "Superforms",
+    "artist": "Sergey Pakhomov",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2520,
+    "duration_human": "00:42:00",
+    "sampling_rate": "96kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Form 1",
+      "02 Sergey Pakhomov - Form 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/superforms_cec2bdc971d1"
+    }
+  }
+}
