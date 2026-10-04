@@ -10,6 +10,7 @@
 | [County Town Thunderstorm](county-town-thunderstorm_722280770833/county-town-thunderstorm_722280770833.md) | 2018 | FLAC | 01:03:05 | [IA](https://archive.org/details/county-town-thunderstorm_722280770833) |
 | [Cerebellum Massage](cerebellum-massage_bc0dd6ef4311/cerebellum-massage_bc0dd6ef4311.md) | 2019 | FLAC | 01:00:01 | [IA](https://archive.org/details/cerebellum-massage_bc0dd6ef4311) |
 | [Breaking News](breaking-news_469e3aad85c5/breaking-news_469e3aad85c5.md) | 2020 | FLAC | 01:30:02 | [IA](https://archive.org/details/breaking-news_469e3aad85c5) |
+| [Dehumanization of Sympathy](dehumanization-of-sympathy_31d515a1c668/dehumanization-of-sympathy_31d515a1c668.md) | 2020 | FLAC | 01:19:59 | [IA](https://archive.org/details/dehumanization-of-sympathy_31d515a1c668) |
 | [The Dreams of Absolem](the-dreams-of-absolem_49664c00780f/the-dreams-of-absolem_49664c00780f.md) | 2020 | FLAC | 01:02:14 | [IA](https://archive.org/details/the-dreams-of-absolem_49664c00780f) |
 | [Brutalist](brutalist_5dd01139b41b/brutalist_5dd01139b41b.md) | 2021 | FLAC | 06:00:00 | [IA](https://archive.org/details/brutalist_5dd01139b41b) |
 | [Colors of Emptiness](colors-of-emptiness_2f5141617305/colors-of-emptiness_2f5141617305.md) | 2022 | FLAC | 03:00:00 | [IA](https://archive.org/details/colors-of-emptiness_2f5141617305) |

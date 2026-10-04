@@ -1,0 +1,25 @@
+{
+  "id": "dehumanization-of-sympathy_31d515a1c668",
+  "fingerprint": "31d515a1c66860f5881a29995e17e0c30feea7db3c396878028875df5e1bd34c",
+  "archived_at": "2026-10-04T07:30:21Z",
+  "metadata": {
+    "title": "Dehumanization of Sympathy",
+    "artist": "Sergey Pakhomov",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4799,
+    "duration_human": "01:19:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Part I",
+      "02 Sergey Pakhomov - Part II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dehumanization-of-sympathy_31d515a1c668"
+    }
+  }
+}
