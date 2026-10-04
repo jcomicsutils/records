@@ -1,0 +1,26 @@
+{
+  "id": "untitled_112436e5505f",
+  "fingerprint": "112436e5505f5e933903e0fd10cc445eec34e3b591ed6d21c73fffabe8cfaee2",
+  "archived_at": "2026-10-04T23:12:38Z",
+  "metadata": {
+    "title": "Untitled",
+    "artist": "Sergey Pakhomov",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3274,
+    "duration_human": "00:54:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Alchba - Automated Reality",
+      "02 I.Sandakov - Prostyn' Poroha",
+      "03 S.Pakhomov - Samsara"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/untitled_112436e5505f"
+    }
+  }
+}
