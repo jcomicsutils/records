@@ -1,0 +1,24 @@
+{
+  "id": "backward-movement_6afd07a81a94",
+  "fingerprint": "6afd07a81a94f14fcc64acf2d9b5d7c0fec18f3c093e429c50121fbf69e0ddd9",
+  "archived_at": "2026-10-04T04:31:32Z",
+  "metadata": {
+    "title": "Backward Movement",
+    "artist": "Sergey Pakhomov",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2400,
+    "duration_human": "00:40:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Backward Movement"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/backward-movement_6afd07a81a94"
+    }
+  }
+}
