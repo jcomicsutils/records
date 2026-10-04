@@ -1,0 +1,24 @@
+{
+  "id": "ultrasonography_3ad4561788a2",
+  "fingerprint": "3ad4561788a2791ca0fedeb12e1d007017052f9242f108412e3aaaf6847218a9",
+  "archived_at": "2026-10-04T22:55:18Z",
+  "metadata": {
+    "title": "Ultrasonography",
+    "artist": "Sergey Pakhomov",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2995,
+    "duration_human": "00:49:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Ultrasonography"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ultrasonography_3ad4561788a2"
+    }
+  }
+}
