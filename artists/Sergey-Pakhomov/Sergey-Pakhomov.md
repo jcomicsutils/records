@@ -21,6 +21,7 @@
 | [Cherries in the Snow](cherries-in-the-snow_770f8e04d89a/cherries-in-the-snow_770f8e04d89a.md) | 2018 | FLAC | 00:45:00 | [IA](https://archive.org/details/cherries-in-the-snow_770f8e04d89a) |
 | [Painting the Ritual](painting-the-ritual_daef15e94f51/painting-the-ritual_daef15e94f51.md) | 2018 | FLAC | 00:51:35 | [IA](https://archive.org/details/painting-the-ritual_daef15e94f51) |
 | [County Town Thunderstorm](county-town-thunderstorm_722280770833/county-town-thunderstorm_722280770833.md) | 2018 | FLAC | 01:03:05 | [IA](https://archive.org/details/county-town-thunderstorm_722280770833) |
+| [Raining Black](raining-black_5366a2682e40/raining-black_5366a2682e40.md) | 2018 | FLAC | 00:50:00 | [IA](https://archive.org/details/raining-black_5366a2682e40) |
 | [Nikolic, Pakhomov & Van Der Veen](nikolic-pakhomov-van-der-veen_08e06b43c2bb/nikolic-pakhomov-van-der-veen_08e06b43c2bb.md) | 2018 | FLAC | 01:00:00 | [IA](https://archive.org/details/nikolic-pakhomov-van-der-veen_08e06b43c2bb) |
 | [Mind Cleansing](mind-cleansing_fadbd72dff02/mind-cleansing_fadbd72dff02.md) | 2018 | FLAC | 05:00:00 | [IA](https://archive.org/details/mind-cleansing_fadbd72dff02) |
 | [Hearing of the Dead Part 2](hearing-of-the-dead-part-2_4619113f923e/hearing-of-the-dead-part-2_4619113f923e.md) | 2018 | FLAC | 02:00:02 | [IA](https://archive.org/details/hearing-of-the-dead-part-2_4619113f923e) |

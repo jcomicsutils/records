@@ -1,0 +1,25 @@
+{
+  "id": "raining-black_5366a2682e40",
+  "fingerprint": "5366a2682e40d5522afbcd976118ad8e006cb9315545aaeb768a371d41ca9bc7",
+  "archived_at": "2026-10-04T15:53:20Z",
+  "metadata": {
+    "title": "Raining Black",
+    "artist": "Sergey Pakhomov",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3000,
+    "duration_human": "00:50:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 S. Pakhomov - Part 1",
+      "02 S. Pakhomov - Part 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/raining-black_5366a2682e40"
+    }
+  }
+}
