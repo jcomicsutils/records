@@ -1,0 +1,25 @@
+{
+  "id": "color-confinement_6829308fd0d3",
+  "fingerprint": "6829308fd0d3ae50e7dc6cdb9044b31c38ef6fed355a75e70fe82737b3e0a39f",
+  "archived_at": "2026-10-04T06:35:23Z",
+  "metadata": {
+    "title": "Color Confinement",
+    "artist": "Sergey Pakhomov",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4800,
+    "duration_human": "01:20:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Color Confinement I",
+      "02 Sergey Pakhomov - Color Confinement II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/color-confinement_6829308fd0d3"
+    }
+  }
+}
