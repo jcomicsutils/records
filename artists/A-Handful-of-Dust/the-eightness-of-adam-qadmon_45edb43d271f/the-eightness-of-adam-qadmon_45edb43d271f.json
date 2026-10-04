@@ -1,0 +1,31 @@
+{
+  "id": "the-eightness-of-adam-qadmon_45edb43d271f",
+  "fingerprint": "45edb43d271fa35aeec468940c8df98332b5676f571feff9b05177e8f6c3fbd2",
+  "archived_at": "2026-10-04T06:07:20Z",
+  "metadata": {
+    "title": "The Eightness of Adam Qadmon",
+    "artist": "A Handful of Dust",
+    "year": "1994",
+    "codec": "MP3",
+    "num_tracks": 8,
+    "duration_seconds": 2385,
+    "duration_human": "00:39:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 A Handful of Dust - The Oneness",
+      "02 A Handful of Dust - The Twoness",
+      "03 A Handful of Dust - The Threeness",
+      "04 A Handful of Dust - The Fourness",
+      "05 A Handful of Dust - The Fifthness",
+      "06 A Handful of Dust - The Sixthness",
+      "07 A Handful of Dust - The Seventhness",
+      "08 A Handful of Dust - The Eightness"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-eightness-of-adam-qadmon_45edb43d271f"
+    }
+  }
+}

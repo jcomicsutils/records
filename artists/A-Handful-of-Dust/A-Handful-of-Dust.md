@@ -8,6 +8,7 @@
 | [Musica Humana](musica-humana_eb53c1dfcce8/musica-humana_eb53c1dfcce8.md) | 1994 | MP3 | 00:55:00 | [IA](https://archive.org/details/musica-humana_eb53c1dfcce8) |
 | [In the House of Voluntary Poverty](in-the-house-of-voluntary-poverty_9684f63b2922/in-the-house-of-voluntary-poverty_9684f63b2922.md) | 1994 | MP3 | 00:12:11 | [IA](https://archive.org/details/in-the-house-of-voluntary-poverty_9684f63b2922) |
 | [A Handful of Dust / Alan Licht](a-handful-of-dust-alan-licht_b48805aecf76/a-handful-of-dust-alan-licht_b48805aecf76.md) | 1994 | MP3 | 00:06:17 | [IA](https://archive.org/details/a-handful-of-dust-alan-licht_b48805aecf76) |
+| [The Eightness of Adam Qadmon](the-eightness-of-adam-qadmon_45edb43d271f/the-eightness-of-adam-qadmon_45edb43d271f.md) | 1994 | MP3 | 00:39:45 | [IA](https://archive.org/details/the-eightness-of-adam-qadmon_45edb43d271f) |
 | [Speed Kills](speed-kills_e1eeee4cbc90/speed-kills_e1eeee4cbc90.md) | 1995 | FLAC | 00:19:31 | [IA](https://archive.org/details/speed-kills_e1eeee4cbc90) |
 | [Now Gods, Stand Up for Bastards](now-gods-stand-up-for-bastards_f40a73fb58e9/now-gods-stand-up-for-bastards_f40a73fb58e9.md) | 1996 | MP3 | 01:09:49 | [IA](https://archive.org/details/now-gods-stand-up-for-bastards_f40a73fb58e9) |
 | [Jerusalem, Street of Graves](jerusalem-street-of-graves_bc08a4ac5bbc/jerusalem-street-of-graves_bc08a4ac5bbc.md) | 1998 | FLAC | 00:41:46 | [IA](https://archive.org/details/jerusalem-street-of-graves_bc08a4ac5bbc) |
