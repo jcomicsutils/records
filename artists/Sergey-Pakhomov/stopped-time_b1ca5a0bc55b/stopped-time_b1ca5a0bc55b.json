@@ -1,0 +1,27 @@
+{
+  "id": "stopped-time_b1ca5a0bc55b",
+  "fingerprint": "b1ca5a0bc55b188052c1035c7879480368be83e8b17ab32fa5790a5186af9c87",
+  "archived_at": "2026-10-04T18:51:53Z",
+  "metadata": {
+    "title": "Stopped Time",
+    "artist": "Sergey Pakhomov",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 7200,
+    "duration_human": "02:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 S. Pakhomov - Untitled 1",
+      "02 S. Pakhomov - Untitled 2",
+      "03 S. Pakhomov - Untitled 3",
+      "04 S. Pakhomov - Untitled 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stopped-time_b1ca5a0bc55b"
+    }
+  }
+}
