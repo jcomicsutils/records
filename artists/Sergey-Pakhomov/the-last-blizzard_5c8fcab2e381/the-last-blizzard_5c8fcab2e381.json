@@ -1,0 +1,24 @@
+{
+  "id": "the-last-blizzard_5c8fcab2e381",
+  "fingerprint": "5c8fcab2e38174e93a1b9855986c92443f326c20880d717defcf7afee0d3a78f",
+  "archived_at": "2026-10-04T20:16:53Z",
+  "metadata": {
+    "title": "The Last Blizzard",
+    "artist": "Sergey Pakhomov",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 5400,
+    "duration_human": "01:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - The Last Blizzard"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-last-blizzard_5c8fcab2e381"
+    }
+  }
+}

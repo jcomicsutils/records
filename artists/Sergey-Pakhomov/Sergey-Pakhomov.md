@@ -57,6 +57,7 @@
 | [Inflexions](inflexions_375013894585/inflexions_375013894585.md) | 2020 | FLAC | 01:00:00 | [IA](https://archive.org/details/inflexions_375013894585) |
 | [The Dreams of Absolem](the-dreams-of-absolem_49664c00780f/the-dreams-of-absolem_49664c00780f.md) | 2020 | FLAC | 01:02:14 | [IA](https://archive.org/details/the-dreams-of-absolem_49664c00780f) |
 | [Brutalist](brutalist_5dd01139b41b/brutalist_5dd01139b41b.md) | 2021 | FLAC | 06:00:00 | [IA](https://archive.org/details/brutalist_5dd01139b41b) |
+| [The Last Blizzard](the-last-blizzard_5c8fcab2e381/the-last-blizzard_5c8fcab2e381.md) | 2021 | FLAC | 01:30:00 | [IA](https://archive.org/details/the-last-blizzard_5c8fcab2e381) |
 | [Random Arrangement of Fixed Elements](random-arrangement-of-fixed-elements_6651820759ac/random-arrangement-of-fixed-elements_6651820759ac.md) | 2021 | FLAC | 01:30:00 | [IA](https://archive.org/details/random-arrangement-of-fixed-elements_6651820759ac) |
 | [Noises to Play in the Dark](noises-to-play-in-the-dark_fa3deacf4f21/noises-to-play-in-the-dark_fa3deacf4f21.md) | 2021 | FLAC | 01:20:00 | [IA](https://archive.org/details/noises-to-play-in-the-dark_fa3deacf4f21) |
 | [Statichrist](statichrist_c6b81fc45492/statichrist_c6b81fc45492.md) | 2021 | FLAC | 04:00:00 | [IA](https://archive.org/details/statichrist_c6b81fc45492) |
