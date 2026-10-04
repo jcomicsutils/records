@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Spiritual Libertines](spiritual-libertines_cd799f667d2d/spiritual-libertines_cd799f667d2d.md) |  | MP3 | 01:08:34 | [IA](https://archive.org/details/spiritual-libertines_cd799f667d2d) |
 | [A Little Aesthetic Discourse](a-little-aesthetic-discourse_2dcfb29a29ae/a-little-aesthetic-discourse_2dcfb29a29ae.md) | 1992 | MP3 | 00:11:00 | [IA](https://archive.org/details/a-little-aesthetic-discourse_2dcfb29a29ae) |
 | [Concord](concord_8e171eac0620/concord_8e171eac0620.md) | 1993 | MP3 | 00:33:38 | [IA](https://archive.org/details/concord_8e171eac0620) |
 | [Musica Humana](musica-humana_eb53c1dfcce8/musica-humana_eb53c1dfcce8.md) | 1994 | MP3 | 00:55:00 | [IA](https://archive.org/details/musica-humana_eb53c1dfcce8) |
