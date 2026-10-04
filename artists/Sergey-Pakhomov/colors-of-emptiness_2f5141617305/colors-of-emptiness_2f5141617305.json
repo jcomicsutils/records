@@ -1,0 +1,29 @@
+{
+  "id": "colors-of-emptiness_2f5141617305",
+  "fingerprint": "2f51416173055d0e8d2960aaa7faaa3069031d325f049b97345b75f1d1dc3e44",
+  "archived_at": "2026-10-04T06:40:38Z",
+  "metadata": {
+    "title": "Colors of Emptiness",
+    "artist": "Sergey Pakhomov",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 10800,
+    "duration_human": "03:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Untitled I",
+      "02 Sergey Pakhomov - Untitled II",
+      "03 Sergey Pakhomov - Untitled III",
+      "04 Sergey Pakhomov - Untitled IV",
+      "05 Sergey Pakhomov - Untitled V",
+      "06 Sergey Pakhomov - Untitled VI"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/colors-of-emptiness_2f5141617305"
+    }
+  }
+}
