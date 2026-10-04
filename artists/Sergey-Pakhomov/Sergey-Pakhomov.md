@@ -20,6 +20,7 @@
 | [Dried](dried_6d622de61e5a/dried_6d622de61e5a.md) | 2020 | FLAC | 01:30:01 | [IA](https://archive.org/details/dried_6d622de61e5a) |
 | [Eight Untitled Tracks](eight-untitled-tracks_e3ca3ae1fab6/eight-untitled-tracks_e3ca3ae1fab6.md) | 2020 | FLAC | 01:19:59 | [IA](https://archive.org/details/eight-untitled-tracks_e3ca3ae1fab6) |
 | [Dehumanization of Sympathy](dehumanization-of-sympathy_31d515a1c668/dehumanization-of-sympathy_31d515a1c668.md) | 2020 | FLAC | 01:19:59 | [IA](https://archive.org/details/dehumanization-of-sympathy_31d515a1c668) |
+| [Inflexions](inflexions_375013894585/inflexions_375013894585.md) | 2020 | FLAC | 01:00:00 | [IA](https://archive.org/details/inflexions_375013894585) |
 | [The Dreams of Absolem](the-dreams-of-absolem_49664c00780f/the-dreams-of-absolem_49664c00780f.md) | 2020 | FLAC | 01:02:14 | [IA](https://archive.org/details/the-dreams-of-absolem_49664c00780f) |
 | [Brutalist](brutalist_5dd01139b41b/brutalist_5dd01139b41b.md) | 2021 | FLAC | 06:00:00 | [IA](https://archive.org/details/brutalist_5dd01139b41b) |
 | [Harsh Damaged](harsh-damaged_8bdf6fe73fcd/harsh-damaged_8bdf6fe73fcd.md) | 2021 | FLAC | 00:59:59 | [IA](https://archive.org/details/harsh-damaged_8bdf6fe73fcd) |

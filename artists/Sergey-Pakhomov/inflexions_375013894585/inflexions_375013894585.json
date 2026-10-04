@@ -1,0 +1,25 @@
+{
+  "id": "inflexions_375013894585",
+  "fingerprint": "375013894585609dd7ae692ce0cefdf32ccaa704236b7965f91b6d9b3e06a544",
+  "archived_at": "2026-10-04T09:14:18Z",
+  "metadata": {
+    "title": "Inflexions",
+    "artist": "Sergey Pakhomov",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - First Inflexion",
+      "02 Sergey Pakhomov - Second Inflexion"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/inflexions_375013894585"
+    }
+  }
+}
