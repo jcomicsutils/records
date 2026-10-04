@@ -1,0 +1,29 @@
+{
+  "id": "jerusalem-street-of-graves_bc08a4ac5bbc",
+  "fingerprint": "bc08a4ac5bbc9a3a9b30816349853f342a0005800568c7db24c8c09745fa5efb",
+  "archived_at": "2026-10-04T05:42:27Z",
+  "metadata": {
+    "title": "Jerusalem, Street of Graves",
+    "artist": "A Handful of Dust",
+    "year": "1998",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2506,
+    "duration_human": "00:41:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 A Handful of Dust - Unreal City I",
+      "02 A Handful of Dust - Unreal City II",
+      "03 A Handful of Dust - Unreal City III",
+      "04 A Handful of Dust - Unreal City IV",
+      "05 A Handful of Dust - The City of God / Negative Jerusalem",
+      "06 A Handful of Dust - I Had Not Thought Death Had Undone So Many"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/jerusalem-street-of-graves_bc08a4ac5bbc"
+    }
+  }
+}
