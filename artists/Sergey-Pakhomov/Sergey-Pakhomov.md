@@ -28,6 +28,7 @@
 | [Death Industrial Wall](death-industrial-wall_6b04ff4f6576/death-industrial-wall_6b04ff4f6576.md) | 2023 | FLAC | 01:20:00 | [IA](https://archive.org/details/death-industrial-wall_6b04ff4f6576) |
 | [Crooked Moon](crooked-moon_17710744677a/crooked-moon_17710744677a.md) | 2023 | FLAC | 01:20:00 | [IA](https://archive.org/details/crooked-moon_17710744677a) |
 | [Ghosts of Noise](ghosts-of-noise_3063a0398a81/ghosts-of-noise_3063a0398a81.md) | 2024 | FLAC | 01:00:00 | [IA](https://archive.org/details/ghosts-of-noise_3063a0398a81) |
+| [Indefinite State of an Object](indefinite-state-of-an-object_8f1c931f0d51/indefinite-state-of-an-object_8f1c931f0d51.md) | 2024 | FLAC | 01:00:00 | [IA](https://archive.org/details/indefinite-state-of-an-object_8f1c931f0d51) |
 | [Backward Movement](backward-movement_6afd07a81a94/backward-movement_6afd07a81a94.md) | 2024 | FLAC | 00:40:00 | [IA](https://archive.org/details/backward-movement_6afd07a81a94) |
 | [Almost an Adult. Earliest Works 1999-2001](almost-an-adult-earliest-works-1999-2001_cb77693159d0/almost-an-adult-earliest-works-1999-2001_cb77693159d0.md) | 2025 | FLAC | 02:59:14 | [IA](https://archive.org/details/almost-an-adult-earliest-works-1999-2001_cb77693159d0) |
 | [Echoes of Existence](echoes-of-existence_b5256e5ed14c/echoes-of-existence_b5256e5ed14c.md) | 2026 | FLAC | 00:40:00 | [IA](https://archive.org/details/echoes-of-existence_b5256e5ed14c) |

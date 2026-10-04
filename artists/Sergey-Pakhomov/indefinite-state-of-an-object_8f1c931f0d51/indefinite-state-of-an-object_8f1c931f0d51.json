@@ -1,0 +1,24 @@
+{
+  "id": "indefinite-state-of-an-object_8f1c931f0d51",
+  "fingerprint": "8f1c931f0d51eda9c140875943831dbd373edcd1c2390c65a89c1c33f5f06ad1",
+  "archived_at": "2026-10-04T09:07:53Z",
+  "metadata": {
+    "title": "Indefinite State of an Object",
+    "artist": "Sergey Pakhomov",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Indefinite State of an Object"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/indefinite-state-of-an-object_8f1c931f0d51"
+    }
+  }
+}
