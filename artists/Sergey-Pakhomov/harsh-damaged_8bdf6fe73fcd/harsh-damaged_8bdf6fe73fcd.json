@@ -1,0 +1,27 @@
+{
+  "id": "harsh-damaged_8bdf6fe73fcd",
+  "fingerprint": "8bdf6fe73fcd580a47582dd7bac94dde49115ff9b78217f2221a07f8b65bcc9e",
+  "archived_at": "2026-10-04T08:24:29Z",
+  "metadata": {
+    "title": "Harsh Damaged",
+    "artist": "Sergey Pakhomov",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3599,
+    "duration_human": "00:59:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 SP - Untitled 1",
+      "02 SP - Untitled 2",
+      "03 SP - Untitled 3",
+      "04 SP - Untitled 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/harsh-damaged_8bdf6fe73fcd"
+    }
+  }
+}
