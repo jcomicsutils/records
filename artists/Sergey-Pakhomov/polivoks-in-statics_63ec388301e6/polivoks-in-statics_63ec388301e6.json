@@ -1,0 +1,27 @@
+{
+  "id": "polivoks-in-statics_63ec388301e6",
+  "fingerprint": "63ec388301e6eb9d4bc1fec4065720793e3a57b7a87a3935eacf9eac246971c9",
+  "archived_at": "2026-10-04T15:34:35Z",
+  "metadata": {
+    "title": "Polivoks in Statics",
+    "artist": "Sergey Pakhomov",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 7200,
+    "duration_human": "02:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Sound 1",
+      "02 Sergey Pakhomov - Sound 2",
+      "03 Sergey Pakhomov - Sound 3",
+      "04 Sergey Pakhomov - Sound 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/polivoks-in-statics_63ec388301e6"
+    }
+  }
+}
