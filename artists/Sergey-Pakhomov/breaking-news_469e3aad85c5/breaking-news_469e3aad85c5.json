@@ -1,0 +1,25 @@
+{
+  "id": "breaking-news_469e3aad85c5",
+  "fingerprint": "469e3aad85c5ad9dc5fc3ba2487eee8e3bb6b9b33ddf490bc753c19d5ee93fb2",
+  "archived_at": "2026-10-04T04:38:54Z",
+  "metadata": {
+    "title": "Breaking News",
+    "artist": "Sergey Pakhomov",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5402,
+    "duration_human": "01:30:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 S. Pakhomov - Untitled A",
+      "02 S. Pakhomov - Untitled B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/breaking-news_469e3aad85c5"
+    }
+  }
+}
