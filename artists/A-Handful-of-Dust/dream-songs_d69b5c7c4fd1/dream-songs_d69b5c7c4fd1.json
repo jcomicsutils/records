@@ -1,0 +1,26 @@
+{
+  "id": "dream-songs_d69b5c7c4fd1",
+  "fingerprint": "d69b5c7c4fd114acfb7379e3217704bf1291ed072454220ee6654798db882f99",
+  "archived_at": "2026-10-04T05:34:56Z",
+  "metadata": {
+    "title": "Dream Songs",
+    "artist": "A Handful of Dust",
+    "year": "2025",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 4226,
+    "duration_human": "01:10:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 A Handful of Dust - Twelve Turns of the Rail",
+      "02 A Handful of Dust - In the Clear",
+      "03 A Handful of Dust - Taking Cover"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dream-songs_d69b5c7c4fd1"
+    }
+  }
+}
