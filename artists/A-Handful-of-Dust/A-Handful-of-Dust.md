@@ -5,6 +5,7 @@
 | [Spiritual Libertines](spiritual-libertines_cd799f667d2d/spiritual-libertines_cd799f667d2d.md) |  | MP3 | 01:08:34 | [IA](https://archive.org/details/spiritual-libertines_cd799f667d2d) |
 | [A Little Aesthetic Discourse](a-little-aesthetic-discourse_2dcfb29a29ae/a-little-aesthetic-discourse_2dcfb29a29ae.md) | 1992 | MP3 | 00:11:00 | [IA](https://archive.org/details/a-little-aesthetic-discourse_2dcfb29a29ae) |
 | [Concord](concord_8e171eac0620/concord_8e171eac0620.md) | 1993 | MP3 | 00:33:38 | [IA](https://archive.org/details/concord_8e171eac0620) |
+| [The Philosophick Mercury](the-philosophick-mercury_00f075fc0444/the-philosophick-mercury_00f075fc0444.md) | 1994 | FLAC | 00:59:14 | [IA](https://archive.org/details/the-philosophick-mercury_00f075fc0444) |
 | [Musica Humana](musica-humana_eb53c1dfcce8/musica-humana_eb53c1dfcce8.md) | 1994 | MP3 | 00:55:00 | [IA](https://archive.org/details/musica-humana_eb53c1dfcce8) |
 | [In the House of Voluntary Poverty](in-the-house-of-voluntary-poverty_9684f63b2922/in-the-house-of-voluntary-poverty_9684f63b2922.md) | 1994 | MP3 | 00:12:11 | [IA](https://archive.org/details/in-the-house-of-voluntary-poverty_9684f63b2922) |
 | [A Handful of Dust / Alan Licht](a-handful-of-dust-alan-licht_b48805aecf76/a-handful-of-dust-alan-licht_b48805aecf76.md) | 1994 | MP3 | 00:06:17 | [IA](https://archive.org/details/a-handful-of-dust-alan-licht_b48805aecf76) |

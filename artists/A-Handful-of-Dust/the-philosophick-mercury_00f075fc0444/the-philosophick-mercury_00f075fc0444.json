@@ -1,0 +1,25 @@
+{
+  "id": "the-philosophick-mercury_00f075fc0444",
+  "fingerprint": "00f075fc04449a8a08e9fad3ae9126dba1e567ad695f4a6a991b953240578132",
+  "archived_at": "2026-10-04T06:11:25Z",
+  "metadata": {
+    "title": "The Philosophick Mercury",
+    "artist": "A Handful of Dust",
+    "year": "1994",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3554,
+    "duration_human": "00:59:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 A Handful of Dust - Fama Fraternitatis",
+      "02 A Handful of Dust - God's Love to His People Israel"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-philosophick-mercury_00f075fc0444"
+    }
+  }
+}
