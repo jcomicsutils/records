@@ -1,0 +1,24 @@
+{
+  "id": "painting-the-ritual_daef15e94f51",
+  "fingerprint": "daef15e94f51480ead27adbc2d2f5aeeb78c09fa82a6238a2b57b763486933ef",
+  "archived_at": "2026-10-04T14:52:37Z",
+  "metadata": {
+    "title": "Painting the Ritual",
+    "artist": "Sergey Pakhomov",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3095,
+    "duration_human": "00:51:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Painting the Ritual"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/painting-the-ritual_daef15e94f51"
+    }
+  }
+}

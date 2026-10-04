@@ -17,6 +17,7 @@
 | [Hearing of the Dead](hearing-of-the-dead_6e3194e8ef7b/hearing-of-the-dead_6e3194e8ef7b.md) | 2018 | FLAC | 00:42:30 | [IA](https://archive.org/details/hearing-of-the-dead_6e3194e8ef7b) |
 | [Act of Nothing](act-of-nothing_58c77e81d8b8/act-of-nothing_58c77e81d8b8.md) | 2018 | FLAC | 00:49:48 | [IA](https://archive.org/details/act-of-nothing_58c77e81d8b8) |
 | [Cherries in the Snow](cherries-in-the-snow_770f8e04d89a/cherries-in-the-snow_770f8e04d89a.md) | 2018 | FLAC | 00:45:00 | [IA](https://archive.org/details/cherries-in-the-snow_770f8e04d89a) |
+| [Painting the Ritual](painting-the-ritual_daef15e94f51/painting-the-ritual_daef15e94f51.md) | 2018 | FLAC | 00:51:35 | [IA](https://archive.org/details/painting-the-ritual_daef15e94f51) |
 | [County Town Thunderstorm](county-town-thunderstorm_722280770833/county-town-thunderstorm_722280770833.md) | 2018 | FLAC | 01:03:05 | [IA](https://archive.org/details/county-town-thunderstorm_722280770833) |
 | [Nikolic, Pakhomov & Van Der Veen](nikolic-pakhomov-van-der-veen_08e06b43c2bb/nikolic-pakhomov-van-der-veen_08e06b43c2bb.md) | 2018 | FLAC | 01:00:00 | [IA](https://archive.org/details/nikolic-pakhomov-van-der-veen_08e06b43c2bb) |
 | [Mind Cleansing](mind-cleansing_fadbd72dff02/mind-cleansing_fadbd72dff02.md) | 2018 | FLAC | 05:00:00 | [IA](https://archive.org/details/mind-cleansing_fadbd72dff02) |
