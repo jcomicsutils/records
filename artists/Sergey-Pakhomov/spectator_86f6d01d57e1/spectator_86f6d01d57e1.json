@@ -1,0 +1,24 @@
+{
+  "id": "spectator_86f6d01d57e1",
+  "fingerprint": "86f6d01d57e1c6a61483b5b9e1d391c3f5807d997ecb5bf261d632602ba07d34",
+  "archived_at": "2026-10-04T17:24:03Z",
+  "metadata": {
+    "title": "Spectator",
+    "artist": "Sergey Pakhomov",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4500,
+    "duration_human": "01:15:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Spectator"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/spectator_86f6d01d57e1"
+    }
+  }
+}
