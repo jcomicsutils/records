@@ -1,0 +1,25 @@
+{
+  "id": "sergey-pakhomov-zachary-ledsinger_8e718dee09d1",
+  "fingerprint": "8e718dee09d10a3129708d1eb30aede64454cb9f2ae09cb944bd3944d69a98b2",
+  "archived_at": "2026-10-04T16:47:53Z",
+  "metadata": {
+    "title": "Sergey Pakhomov / Zachary Ledsinger",
+    "artist": "Sergey Pakhomov",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2398,
+    "duration_human": "00:39:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Graviton",
+      "02 Zachary Ledsinger - Below the Hope, Outside the Pain"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sergey-pakhomov-zachary-ledsinger_8e718dee09d1"
+    }
+  }
+}
