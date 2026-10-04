@@ -1,0 +1,29 @@
+{
+  "id": "now-gods-stand-up-for-bastards_f40a73fb58e9",
+  "fingerprint": "f40a73fb58e98106f871c67029eb04f4798bca9b607c335339c7e1c60ef19838",
+  "archived_at": "2026-10-04T05:50:28Z",
+  "metadata": {
+    "title": "Now Gods, Stand Up for Bastards",
+    "artist": "A Handful of Dust",
+    "year": "1996",
+    "codec": "MP3",
+    "num_tracks": 6,
+    "duration_seconds": 4189,
+    "duration_human": "01:09:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 A Handful of Dust - The Book Nature: Chapter the First",
+      "02 A Handful of Dust - Oration on the Dignity of Man",
+      "03 A Handful of Dust - The Expulsion of the Triumphant Beast",
+      "04 A Handful of Dust - The Lullian Art",
+      "05 A Handful of Dust - The Book Nature: Chapter the Second",
+      "06 A Handful of Dust - The Dark Lantern of Reason"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/now-gods-stand-up-for-bastards_f40a73fb58e9"
+    }
+  }
+}
