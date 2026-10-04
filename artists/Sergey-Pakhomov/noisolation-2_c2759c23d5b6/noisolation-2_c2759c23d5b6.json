@@ -1,0 +1,24 @@
+{
+  "id": "noisolation-2_c2759c23d5b6",
+  "fingerprint": "c2759c23d5b6ad0be193247c137f87a060c95583ec7eb4c49d87e3058fc384b9",
+  "archived_at": "2026-10-04T11:43:42Z",
+  "metadata": {
+    "title": "Noisolation 2",
+    "artist": "Sergey Pakhomov",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2700,
+    "duration_human": "00:45:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Noisolation 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/noisolation-2_c2759c23d5b6"
+    }
+  }
+}

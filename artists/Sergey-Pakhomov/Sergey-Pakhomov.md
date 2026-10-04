@@ -24,6 +24,7 @@
 | [Don't Touch Anything](dont-touch-anything_0047251f3d17/dont-touch-anything_0047251f3d17.md) | 2019 | FLAC | 01:30:00 | [IA](https://archive.org/details/dont-touch-anything_0047251f3d17) |
 | [Cerebellum Massage](cerebellum-massage_bc0dd6ef4311/cerebellum-massage_bc0dd6ef4311.md) | 2019 | FLAC | 01:00:01 | [IA](https://archive.org/details/cerebellum-massage_bc0dd6ef4311) |
 | [Ice & Soot](ice-soot_74afb61c9bd0/ice-soot_74afb61c9bd0.md) | 2020 | FLAC | 00:45:00 | [IA](https://archive.org/details/ice-soot_74afb61c9bd0) |
+| [Noisolation 2](noisolation-2_c2759c23d5b6/noisolation-2_c2759c23d5b6.md) | 2020 | FLAC | 00:45:00 | [IA](https://archive.org/details/noisolation-2_c2759c23d5b6) |
 | [Breaking News](breaking-news_469e3aad85c5/breaking-news_469e3aad85c5.md) | 2020 | FLAC | 01:30:02 | [IA](https://archive.org/details/breaking-news_469e3aad85c5) |
 | [Dried](dried_6d622de61e5a/dried_6d622de61e5a.md) | 2020 | FLAC | 01:30:01 | [IA](https://archive.org/details/dried_6d622de61e5a) |
 | [Noisolation 1](noisolation-1_e58ec4afaa36/noisolation-1_e58ec4afaa36.md) | 2020 | FLAC | 00:45:00 | [IA](https://archive.org/details/noisolation-1_e58ec4afaa36) |
