@@ -1,0 +1,24 @@
+{
+  "id": "le-bruit-electromagnetique-2-field-recordings_903ef5245339",
+  "fingerprint": "903ef5245339bcc633d530354dd78897dbd880f8cebca29da8bb4ad229a799e3",
+  "archived_at": "2026-10-04T10:06:05Z",
+  "metadata": {
+    "title": "Le Bruit Électromagnétique 2: Field Recordings",
+    "artist": "Sergey Pakhomov",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2735,
+    "duration_human": "00:45:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Le Bruit Électromagnétique 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/le-bruit-electromagnetique-2-field-recordings_903ef5245339"
+    }
+  }
+}
