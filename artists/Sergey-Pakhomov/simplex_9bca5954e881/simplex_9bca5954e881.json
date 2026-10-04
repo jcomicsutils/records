@@ -1,0 +1,24 @@
+{
+  "id": "simplex_9bca5954e881",
+  "fingerprint": "9bca5954e881751bec57aeae154c9eb0769faa6eede8e54e028515a2120ae5e5",
+  "archived_at": "2026-10-04T16:54:34Z",
+  "metadata": {
+    "title": "Simplex",
+    "artist": "Sergey Pakhomov",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2400,
+    "duration_human": "00:40:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Simplex"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/simplex_9bca5954e881"
+    }
+  }
+}

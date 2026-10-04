@@ -74,5 +74,6 @@
 | [Inner Nothing](inner-nothing_5df6761425d6/inner-nothing_5df6761425d6.md) | 2025 | FLAC | 00:46:52 | [IA](https://archive.org/details/inner-nothing_5df6761425d6) |
 | [Semi-Music, Semi-Noise](semi-music-semi-noise_ee291a2294e0/semi-music-semi-noise_ee291a2294e0.md) | 2025 | FLAC | 00:52:00 | [IA](https://archive.org/details/semi-music-semi-noise_ee291a2294e0) |
 | [Echoes of Existence](echoes-of-existence_b5256e5ed14c/echoes-of-existence_b5256e5ed14c.md) | 2026 | FLAC | 00:40:00 | [IA](https://archive.org/details/echoes-of-existence_b5256e5ed14c) |
+| [Simplex](simplex_9bca5954e881/simplex_9bca5954e881.md) | 2026 | FLAC | 00:40:00 | [IA](https://archive.org/details/simplex_9bca5954e881) |
 | [Morbus Mentis](morbus-mentis_81e5f81f8cea/morbus-mentis_81e5f81f8cea.md) | 2026 | FLAC | 01:12:19 | [IA](https://archive.org/details/morbus-mentis_81e5f81f8cea) |
 | [Complex](complex_a7509341a00a/complex_a7509341a00a.md) | 2026 | FLAC | 00:42:25 | [IA](https://archive.org/details/complex_a7509341a00a) |
