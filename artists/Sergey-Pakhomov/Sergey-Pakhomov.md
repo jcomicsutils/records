@@ -61,6 +61,7 @@
 | [Le Statique Modulaire](le-statique-modulaire_4e90533165ac/le-statique-modulaire_4e90533165ac.md) | 2024 | FLAC | 00:40:00 | [IA](https://archive.org/details/le-statique-modulaire_4e90533165ac) |
 | [Backward Movement](backward-movement_6afd07a81a94/backward-movement_6afd07a81a94.md) | 2024 | FLAC | 00:40:00 | [IA](https://archive.org/details/backward-movement_6afd07a81a94) |
 | [Almost an Adult. Earliest Works 1999-2001](almost-an-adult-earliest-works-1999-2001_cb77693159d0/almost-an-adult-earliest-works-1999-2001_cb77693159d0.md) | 2025 | FLAC | 02:59:14 | [IA](https://archive.org/details/almost-an-adult-earliest-works-1999-2001_cb77693159d0) |
+| [Past Continuous](past-continuous_7d6a0f528853/past-continuous_7d6a0f528853.md) | 2025 | FLAC | 01:20:00 | [IA](https://archive.org/details/past-continuous_7d6a0f528853) |
 | [Inner Nothing](inner-nothing_5df6761425d6/inner-nothing_5df6761425d6.md) | 2025 | FLAC | 00:46:52 | [IA](https://archive.org/details/inner-nothing_5df6761425d6) |
 | [Echoes of Existence](echoes-of-existence_b5256e5ed14c/echoes-of-existence_b5256e5ed14c.md) | 2026 | FLAC | 00:40:00 | [IA](https://archive.org/details/echoes-of-existence_b5256e5ed14c) |
 | [Morbus Mentis](morbus-mentis_81e5f81f8cea/morbus-mentis_81e5f81f8cea.md) | 2026 | FLAC | 01:12:19 | [IA](https://archive.org/details/morbus-mentis_81e5f81f8cea) |
