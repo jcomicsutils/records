@@ -15,6 +15,7 @@
 | [Self-Release](self-release_90a2186b5042/self-release_90a2186b5042.md) | 2017 | FLAC | 01:33:59 | [IA](https://archive.org/details/self-release_90a2186b5042) |
 | [Color Confinement](color-confinement_6829308fd0d3/color-confinement_6829308fd0d3.md) | 2017 | FLAC | 01:20:00 | [IA](https://archive.org/details/color-confinement_6829308fd0d3) |
 | [On Unknown Paths](on-unknown-paths_f9f4433ddfb7/on-unknown-paths_f9f4433ddfb7.md) | 2017 | FLAC | 00:42:18 | [IA](https://archive.org/details/on-unknown-paths_f9f4433ddfb7) |
+| [The Hum of the Earth](the-hum-of-the-earth_d8a7070b5c85/the-hum-of-the-earth_d8a7070b5c85.md) | 2017 | FLAC | 07:00:00 | [IA](https://archive.org/details/the-hum-of-the-earth_d8a7070b5c85) |
 | [Nocturnal Blizzards](nocturnal-blizzards_1bd30db29821/nocturnal-blizzards_1bd30db29821.md) | 2017 | FLAC | 01:01:19 | [IA](https://archive.org/details/nocturnal-blizzards_1bd30db29821) |
 | [Another Autumn Day](another-autumn-day_a00dcfee588e/another-autumn-day_a00dcfee588e.md) | 2017 | FLAC | 24:00:00 | [IA](https://archive.org/details/another-autumn-day_a00dcfee588e) |
 | [Powerhouse](powerhouse_44e15b5ce375/powerhouse_44e15b5ce375.md) | 2017 | FLAC | 00:59:54 | [IA](https://archive.org/details/powerhouse_44e15b5ce375) |

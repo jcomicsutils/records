@@ -1,0 +1,37 @@
+{
+  "id": "the-hum-of-the-earth_d8a7070b5c85",
+  "fingerprint": "d8a7070b5c85babb340f7620467d4091c6051669acac6cd45f1dbb8fc6f693ab",
+  "archived_at": "2026-10-04T20:01:50Z",
+  "metadata": {
+    "title": "The Hum of the Earth",
+    "artist": "Sergey Pakhomov",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 14,
+    "duration_seconds": 25200,
+    "duration_human": "07:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 S.Pakhomov - 01",
+      "02 S.Pakhomov - 02",
+      "03 S.Pakhomov - 03",
+      "04 S.Pakhomov - 04",
+      "05 S.Pakhomov - 05",
+      "06 S.Pakhomov - 06",
+      "07 S.Pakhomov - 07",
+      "08 S.Pakhomov - 08",
+      "09 S.Pakhomov - 09",
+      "10 S.Pakhomov - 10",
+      "11 S.Pakhomov - 11",
+      "12 S.Pakhomov - 12",
+      "13 S.Pakhomov - 13",
+      "14 S.Pakhomov - 14"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-hum-of-the-earth_d8a7070b5c85"
+    }
+  }
+}
