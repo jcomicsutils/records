@@ -1,0 +1,24 @@
+{
+  "id": "stringbient_4acb50091466",
+  "fingerprint": "4acb5009146636c03958556fc239aa19f4ad98c458a5eb085ad26981b3299760",
+  "archived_at": "2026-10-04T19:01:46Z",
+  "metadata": {
+    "title": "Stringbient",
+    "artist": "Sergey Pakhomov",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3300,
+    "duration_human": "00:55:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Stringbient"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/stringbient_4acb50091466"
+    }
+  }
+}
