@@ -7,6 +7,7 @@
 | [I.Sandakov / S.Pakhomov](isandakov-spakhomov_c6c988f08f27/isandakov-spakhomov_c6c988f08f27.md) | 2017 | FLAC | 01:00:36 | [IA](https://archive.org/details/isandakov-spakhomov_c6c988f08f27) |
 | [Color Confinement](color-confinement_6829308fd0d3/color-confinement_6829308fd0d3.md) | 2017 | FLAC | 01:20:00 | [IA](https://archive.org/details/color-confinement_6829308fd0d3) |
 | [Another Autumn Day](another-autumn-day_a00dcfee588e/another-autumn-day_a00dcfee588e.md) | 2017 | FLAC | 24:00:00 | [IA](https://archive.org/details/another-autumn-day_a00dcfee588e) |
+| [Icebreaker](icebreaker_5215c6139de1/icebreaker_5215c6139de1.md) | 2017 | FLAC | 02:00:00 | [IA](https://archive.org/details/icebreaker_5215c6139de1) |
 | [Hearing of the Dead](hearing-of-the-dead_6e3194e8ef7b/hearing-of-the-dead_6e3194e8ef7b.md) | 2018 | FLAC | 00:42:30 | [IA](https://archive.org/details/hearing-of-the-dead_6e3194e8ef7b) |
 | [Act of Nothing](act-of-nothing_58c77e81d8b8/act-of-nothing_58c77e81d8b8.md) | 2018 | FLAC | 00:49:48 | [IA](https://archive.org/details/act-of-nothing_58c77e81d8b8) |
 | [Cherries in the Snow](cherries-in-the-snow_770f8e04d89a/cherries-in-the-snow_770f8e04d89a.md) | 2018 | FLAC | 00:45:00 | [IA](https://archive.org/details/cherries-in-the-snow_770f8e04d89a) |

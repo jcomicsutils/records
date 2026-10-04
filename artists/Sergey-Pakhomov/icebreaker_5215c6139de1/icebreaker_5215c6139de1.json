@@ -1,0 +1,25 @@
+{
+  "id": "icebreaker_5215c6139de1",
+  "fingerprint": "5215c6139de1292e19e0be305de71b02a9edead4d318311413c2301c99f95bb2",
+  "archived_at": "2026-10-04T08:58:45Z",
+  "metadata": {
+    "title": "Icebreaker",
+    "artist": "Sergey Pakhomov",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 7200,
+    "duration_human": "02:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Course to the North",
+      "02 Sergey Pakhomov - Icy Silence"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/icebreaker_5215c6139de1"
+    }
+  }
+}
