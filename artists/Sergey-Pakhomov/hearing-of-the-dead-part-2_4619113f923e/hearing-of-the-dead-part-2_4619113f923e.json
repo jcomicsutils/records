@@ -1,0 +1,25 @@
+{
+  "id": "hearing-of-the-dead-part-2_4619113f923e",
+  "fingerprint": "4619113f923e5c176c5aa9226398c6db1c93b16dc4d2e35e46675b242e7cbc5c",
+  "archived_at": "2026-10-04T08:37:40Z",
+  "metadata": {
+    "title": "Hearing of the Dead Part 2",
+    "artist": "Sergey Pakhomov",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 7202,
+    "duration_human": "02:00:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Hearing of the Dead Part 2a",
+      "02 Sergey Pakhomov - Hearing of the Dead Part 2b"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/hearing-of-the-dead-part-2_4619113f923e"
+    }
+  }
+}
