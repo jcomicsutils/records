@@ -1,0 +1,24 @@
+{
+  "id": "semi-music-semi-noise_ee291a2294e0",
+  "fingerprint": "ee291a2294e024e2f6d6da92ef7e1ad7388b7d1c4c1513520855f5a05db1786c",
+  "archived_at": "2026-10-04T16:39:04Z",
+  "metadata": {
+    "title": "Semi-Music, Semi-Noise",
+    "artist": "Sergey Pakhomov",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3120,
+    "duration_human": "00:52:00",
+    "sampling_rate": "96kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Semi-Music, Semi-Noise"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/semi-music-semi-noise_ee291a2294e0"
+    }
+  }
+}
