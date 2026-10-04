@@ -1,0 +1,24 @@
+{
+  "id": "inner-nothing_5df6761425d6",
+  "fingerprint": "5df6761425d64490b23a480026b62f5920e9e9a74cb833b139111e8480740dd9",
+  "archived_at": "2026-10-04T09:17:55Z",
+  "metadata": {
+    "title": "Inner Nothing",
+    "artist": "Sergey Pakhomov",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2812,
+    "duration_human": "00:46:52",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Inner Nothing"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/inner-nothing_5df6761425d6"
+    }
+  }
+}
