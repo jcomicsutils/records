@@ -17,6 +17,7 @@
 | [On Unknown Paths](on-unknown-paths_f9f4433ddfb7/on-unknown-paths_f9f4433ddfb7.md) | 2017 | FLAC | 00:42:18 | [IA](https://archive.org/details/on-unknown-paths_f9f4433ddfb7) |
 | [The Hum of the Earth](the-hum-of-the-earth_d8a7070b5c85/the-hum-of-the-earth_d8a7070b5c85.md) | 2017 | FLAC | 07:00:00 | [IA](https://archive.org/details/the-hum-of-the-earth_d8a7070b5c85) |
 | [Nocturnal Blizzards](nocturnal-blizzards_1bd30db29821/nocturnal-blizzards_1bd30db29821.md) | 2017 | FLAC | 01:01:19 | [IA](https://archive.org/details/nocturnal-blizzards_1bd30db29821) |
+| [The Silmarillion by J.R.R.Tolkien](the-silmarillion-by-jrrtolkien_d0a35e1fda2f/the-silmarillion-by-jrrtolkien_d0a35e1fda2f.md) | 2017 | FLAC | 21:00:00 | [IA](https://archive.org/details/the-silmarillion-by-jrrtolkien_d0a35e1fda2f) |
 | [Another Autumn Day](another-autumn-day_a00dcfee588e/another-autumn-day_a00dcfee588e.md) | 2017 | FLAC | 24:00:00 | [IA](https://archive.org/details/another-autumn-day_a00dcfee588e) |
 | [Powerhouse](powerhouse_44e15b5ce375/powerhouse_44e15b5ce375.md) | 2017 | FLAC | 00:59:54 | [IA](https://archive.org/details/powerhouse_44e15b5ce375) |
 | [Lo-Fi](lo-fi_633de763a0ac/lo-fi_633de763a0ac.md) | 2017 | FLAC | 02:59:59 | [IA](https://archive.org/details/lo-fi_633de763a0ac) |
