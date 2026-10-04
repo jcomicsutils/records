@@ -1,0 +1,24 @@
+{
+  "id": "noistrings_131f163d8ded",
+  "fingerprint": "131f163d8deddf1da716f8035a1e2d037caa28135a0f35eb0918fbc8f806025b",
+  "archived_at": "2026-10-04T11:52:14Z",
+  "metadata": {
+    "title": "Noistrings",
+    "artist": "Sergey Pakhomov",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1049,
+    "duration_human": "00:17:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Noistrings"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/noistrings_131f163d8ded"
+    }
+  }
+}
