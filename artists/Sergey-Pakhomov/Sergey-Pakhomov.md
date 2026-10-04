@@ -43,6 +43,7 @@
 | [Colors of Emptiness](colors-of-emptiness_2f5141617305/colors-of-emptiness_2f5141617305.md) | 2022 | FLAC | 03:00:00 | [IA](https://archive.org/details/colors-of-emptiness_2f5141617305) |
 | [Dead Level](dead-level_66e1935bd8d5/dead-level_66e1935bd8d5.md) | 2023 | FLAC | 01:30:00 | [IA](https://archive.org/details/dead-level_66e1935bd8d5) |
 | [Death Industrial Wall](death-industrial-wall_6b04ff4f6576/death-industrial-wall_6b04ff4f6576.md) | 2023 | FLAC | 01:20:00 | [IA](https://archive.org/details/death-industrial-wall_6b04ff4f6576) |
+| [One Gear Experience 3](one-gear-experience-3_cd4e40a691bd/one-gear-experience-3_cd4e40a691bd.md) | 2023 | FLAC | 02:00:00 | [IA](https://archive.org/details/one-gear-experience-3_cd4e40a691bd) |
 | [One Gear Experience 2](one-gear-experience-2_364dd6f129b6/one-gear-experience-2_364dd6f129b6.md) | 2023 | FLAC | 02:00:00 | [IA](https://archive.org/details/one-gear-experience-2_364dd6f129b6) |
 | [Crooked Moon](crooked-moon_17710744677a/crooked-moon_17710744677a.md) | 2023 | FLAC | 01:20:00 | [IA](https://archive.org/details/crooked-moon_17710744677a) |
 | [One Gear Experience 1](one-gear-experience-1_1edc4f4bd3e7/one-gear-experience-1_1edc4f4bd3e7.md) | 2023 | FLAC | 02:00:00 | [IA](https://archive.org/details/one-gear-experience-1_1edc4f4bd3e7) |
