@@ -1,0 +1,31 @@
+{
+  "id": "eight-untitled-tracks_e3ca3ae1fab6",
+  "fingerprint": "e3ca3ae1fab6188cf6be27793e5921c46cb732c8670592bf16f61628d575aa71",
+  "archived_at": "2026-10-04T08:02:48Z",
+  "metadata": {
+    "title": "Eight Untitled Tracks",
+    "artist": "Sergey Pakhomov",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 4799,
+    "duration_human": "01:19:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - [untitled]",
+      "02 Sergey Pakhomov - [untitled]",
+      "03 Sergey Pakhomov - [untitled]",
+      "04 Sergey Pakhomov - [untitled]",
+      "05 Sergey Pakhomov - [untitled]",
+      "06 Sergey Pakhomov - [untitled]",
+      "07 Sergey Pakhomov - [untitled]",
+      "08 Sergey Pakhomov - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/eight-untitled-tracks_e3ca3ae1fab6"
+    }
+  }
+}
