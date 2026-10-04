@@ -1,0 +1,29 @@
+{
+  "id": "brutalist_5dd01139b41b",
+  "fingerprint": "5dd01139b41bf79e592d1aae10b4af030531773b8fb8ac90f6367c9dad447deb",
+  "archived_at": "2026-10-04T04:52:35Z",
+  "metadata": {
+    "title": "Brutalist",
+    "artist": "Sergey Pakhomov",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 21600,
+    "duration_human": "06:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Brutalist: Foreword Pt.1",
+      "02 Sergey Pakhomov - Brutalist: Foreword Pt.2",
+      "03 Sergey Pakhomov - Brutalist Pt.1",
+      "04 Sergey Pakhomov - Brutalist Pt.2",
+      "05 Sergey Pakhomov - Brutalist Pt.3",
+      "06 Sergey Pakhomov - Brutalist: Afterword"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/brutalist_5dd01139b41b"
+    }
+  }
+}
