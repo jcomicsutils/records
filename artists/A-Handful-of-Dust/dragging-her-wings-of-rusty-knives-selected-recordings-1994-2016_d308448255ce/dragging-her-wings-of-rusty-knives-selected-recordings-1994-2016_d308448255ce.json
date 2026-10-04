@@ -1,0 +1,33 @@
+{
+  "id": "dragging-her-wings-of-rusty-knives-selected-recordings-1994-2016_d308448255ce",
+  "fingerprint": "d308448255ceb04b78be5ee699822c80bcbbdf9e258e31c72a380046c7978573",
+  "archived_at": "2026-10-04T05:26:00Z",
+  "metadata": {
+    "title": "Dragging Her Wings of Rusty Knives: Selected Recordings 1994-2016",
+    "artist": "A Handful of Dust",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 5033,
+    "duration_human": "01:23:53",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 A Handful of Dust - The Mirror of Simple Souls",
+      "02 A Handful of Dust - Sefer Yetsirah: The Book of Creation",
+      "03 A Handful of Dust - The Ash-Wednesday",
+      "04 A Handful of Dust - The Bad Days Will End",
+      "05 A Handful of Dust - Building a Tower of Cinnamon",
+      "06 A Handful of Dust - Two Rivers of Granada (Tears and Blood)",
+      "07 A Handful of Dust - Dialouges With the Dead 1",
+      "08 A Handful of Dust - Dialouges With the Dead 2",
+      "09 A Handful of Dust - Dialouges With the Dead 3",
+      "10 A Handful of Dust - Dialouges With the Dead 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dragging-her-wings-of-rusty-knives-selected-recordings-1994-2016_d308448255ce"
+    }
+  }
+}
