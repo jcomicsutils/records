@@ -1,0 +1,26 @@
+{
+  "id": "springbient_ec4c8d0b1fa4",
+  "fingerprint": "ec4c8d0b1fa47948b3664059f14ef68e4bebe5d369f8e1ec71f4f9f64f71544e",
+  "archived_at": "2026-10-04T18:02:13Z",
+  "metadata": {
+    "title": "Springbient",
+    "artist": "Sergey Pakhomov",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 5697,
+    "duration_human": "01:34:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 S.P. - Untitled 1",
+      "02 S.P. - Untitled 2",
+      "03 S.P. - Untitled 3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/springbient_ec4c8d0b1fa4"
+    }
+  }
+}
