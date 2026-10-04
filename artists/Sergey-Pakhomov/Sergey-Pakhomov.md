@@ -55,6 +55,7 @@
 | [One Gear Experience 4](one-gear-experience-4_093c548a453d/one-gear-experience-4_093c548a453d.md) | 2023 | FLAC | 02:00:00 | [IA](https://archive.org/details/one-gear-experience-4_093c548a453d) |
 | [One Gear Experience 7](one-gear-experience-7_a1ac041e31b7/one-gear-experience-7_a1ac041e31b7.md) | 2023 | FLAC | 02:00:00 | [IA](https://archive.org/details/one-gear-experience-7_a1ac041e31b7) |
 | [One Gear Experience 8](one-gear-experience-8_28ba959a98b7/one-gear-experience-8_28ba959a98b7.md) | 2023 | FLAC | 02:00:00 | [IA](https://archive.org/details/one-gear-experience-8_28ba959a98b7) |
+| [Required Skills](required-skills_02ccfb8c3b3f/required-skills_02ccfb8c3b3f.md) | 2023 | FLAC | 03:00:00 | [IA](https://archive.org/details/required-skills_02ccfb8c3b3f) |
 | [One Gear Experience 3](one-gear-experience-3_cd4e40a691bd/one-gear-experience-3_cd4e40a691bd.md) | 2023 | FLAC | 02:00:00 | [IA](https://archive.org/details/one-gear-experience-3_cd4e40a691bd) |
 | [One Gear Experience 2](one-gear-experience-2_364dd6f129b6/one-gear-experience-2_364dd6f129b6.md) | 2023 | FLAC | 02:00:00 | [IA](https://archive.org/details/one-gear-experience-2_364dd6f129b6) |
 | [Crooked Moon](crooked-moon_17710744677a/crooked-moon_17710744677a.md) | 2023 | FLAC | 01:20:00 | [IA](https://archive.org/details/crooked-moon_17710744677a) |

@@ -1,0 +1,29 @@
+{
+  "id": "required-skills_02ccfb8c3b3f",
+  "fingerprint": "02ccfb8c3b3f48eed95a66f6e64f71dd13a0f3ae7e5e422f33707da12857c154",
+  "archived_at": "2026-10-04T16:11:46Z",
+  "metadata": {
+    "title": "Required Skills",
+    "artist": "Sergey Pakhomov",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 10800,
+    "duration_human": "03:00:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Untitled I",
+      "02 Sergey Pakhomov - Untitled II",
+      "03 Sergey Pakhomov - Untitled III",
+      "04 Sergey Pakhomov - Untitled IV-A",
+      "05 Sergey Pakhomov - Untitled IV-B",
+      "06 Sergey Pakhomov - Untitled IV-C"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/required-skills_02ccfb8c3b3f"
+    }
+  }
+}
