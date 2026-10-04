@@ -1,0 +1,25 @@
+{
+  "id": "a-little-aesthetic-discourse_2dcfb29a29ae",
+  "fingerprint": "2dcfb29a29aea5a7cc0f4dcca212f3b214dd8c7725f3042e6e23e1296d533369",
+  "archived_at": "2026-10-04T05:17:36Z",
+  "metadata": {
+    "title": "A Little Aesthetic Discourse",
+    "artist": "A Handful of Dust",
+    "year": "1992",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 660,
+    "duration_human": "00:11:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 A Handful of Dust - Logopandocy",
+      "02 A Handful of Dust - Titokowaru Said"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-little-aesthetic-discourse_2dcfb29a29ae"
+    }
+  }
+}
