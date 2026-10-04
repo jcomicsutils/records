@@ -1,0 +1,24 @@
+{
+  "id": "untitled_27c418c94ef3",
+  "fingerprint": "27c418c94ef34d80453e7d0e9e6348f948e4ea011deef7e654ee06487d78cc89",
+  "archived_at": "2026-10-04T23:23:18Z",
+  "metadata": {
+    "title": "Untitled",
+    "artist": "Sergey Pakhomov",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/untitled_27c418c94ef3"
+    }
+  }
+}
