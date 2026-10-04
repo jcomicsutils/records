@@ -1,0 +1,24 @@
+{
+  "id": "the-noise_8dac1f74356a",
+  "fingerprint": "8dac1f74356a211bd131cd8d8ea87197bac43a821dc9f1a9f6712900bb41942c",
+  "archived_at": "2026-10-04T20:26:15Z",
+  "metadata": {
+    "title": "The Noise",
+    "artist": "Sergey Pakhomov",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3661,
+    "duration_human": "01:01:01",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - The Noise"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-noise_8dac1f74356a"
+    }
+  }
+}
