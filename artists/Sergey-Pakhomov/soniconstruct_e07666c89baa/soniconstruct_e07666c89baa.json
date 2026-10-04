@@ -1,0 +1,24 @@
+{
+  "id": "soniconstruct_e07666c89baa",
+  "fingerprint": "e07666c89baa7b4cb2e5805992de876f9ec0df5ca7afc1b1a0cc5bcc52ea5554",
+  "archived_at": "2026-10-04T17:01:43Z",
+  "metadata": {
+    "title": "Soniconstruct",
+    "artist": "Sergey Pakhomov",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3300,
+    "duration_human": "00:55:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Soniconstruct"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/soniconstruct_e07666c89baa"
+    }
+  }
+}
