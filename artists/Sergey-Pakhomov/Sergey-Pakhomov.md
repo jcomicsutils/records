@@ -8,6 +8,7 @@
 | [I.Sandakov / S.Pakhomov](isandakov-spakhomov_c6c988f08f27/isandakov-spakhomov_c6c988f08f27.md) | 2017 | FLAC | 01:00:36 | [IA](https://archive.org/details/isandakov-spakhomov_c6c988f08f27) |
 | [Insect Cult](insect-cult_84c76e5232ba/insect-cult_84c76e5232ba.md) | 2017 | FLAC | 03:00:00 | [IA](https://archive.org/details/insect-cult_84c76e5232ba) |
 | [Color Confinement](color-confinement_6829308fd0d3/color-confinement_6829308fd0d3.md) | 2017 | FLAC | 01:20:00 | [IA](https://archive.org/details/color-confinement_6829308fd0d3) |
+| [On Unknown Paths](on-unknown-paths_f9f4433ddfb7/on-unknown-paths_f9f4433ddfb7.md) | 2017 | FLAC | 00:42:18 | [IA](https://archive.org/details/on-unknown-paths_f9f4433ddfb7) |
 | [Nocturnal Blizzards](nocturnal-blizzards_1bd30db29821/nocturnal-blizzards_1bd30db29821.md) | 2017 | FLAC | 01:01:19 | [IA](https://archive.org/details/nocturnal-blizzards_1bd30db29821) |
 | [Another Autumn Day](another-autumn-day_a00dcfee588e/another-autumn-day_a00dcfee588e.md) | 2017 | FLAC | 24:00:00 | [IA](https://archive.org/details/another-autumn-day_a00dcfee588e) |
 | [Lo-Fi](lo-fi_633de763a0ac/lo-fi_633de763a0ac.md) | 2017 | FLAC | 02:59:59 | [IA](https://archive.org/details/lo-fi_633de763a0ac) |

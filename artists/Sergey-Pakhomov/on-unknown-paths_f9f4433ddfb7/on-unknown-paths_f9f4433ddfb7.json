@@ -1,0 +1,26 @@
+{
+  "id": "on-unknown-paths_f9f4433ddfb7",
+  "fingerprint": "f9f4433ddfb7936ff768bae777b5a9bce60bc864e41dddd9af6205215353650d",
+  "archived_at": "2026-10-04T11:56:22Z",
+  "metadata": {
+    "title": "On Unknown Paths",
+    "artist": "Sergey Pakhomov",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2538,
+    "duration_human": "00:42:18",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 S.Pakhomov - Introduction",
+      "02 S.Pakhomov - Ravens Over the Trees",
+      "03 S.Pakhomov - On Unknown Paths"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/on-unknown-paths_f9f4433ddfb7"
+    }
+  }
+}
