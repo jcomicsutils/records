@@ -1,0 +1,24 @@
+{
+  "id": "county-town-thunderstorm_722280770833",
+  "fingerprint": "722280770833dcb85daf0b727b51bc3f4630560fdfab51c19138631bff322136",
+  "archived_at": "2026-10-04T06:55:28Z",
+  "metadata": {
+    "title": "County Town Thunderstorm",
+    "artist": "Sergey Pakhomov",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3785,
+    "duration_human": "01:03:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - County Town Thunderstorm"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/county-town-thunderstorm_722280770833"
+    }
+  }
+}
