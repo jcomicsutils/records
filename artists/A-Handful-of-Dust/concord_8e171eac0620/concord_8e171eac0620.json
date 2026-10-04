@@ -1,0 +1,27 @@
+{
+  "id": "concord_8e171eac0620",
+  "fingerprint": "8e171eac0620c8f96ed9a1b5957e79734af8203a2a69991805a65174c865558f",
+  "archived_at": "2026-10-04T05:19:07Z",
+  "metadata": {
+    "title": "Concord",
+    "artist": "A Handful of Dust",
+    "year": "1993",
+    "codec": "MP3",
+    "num_tracks": 4,
+    "duration_seconds": 2018,
+    "duration_human": "00:33:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 A Handful of Dust - Come, Breathe Upon These Slain, That They May Live",
+      "02 A Handful of Dust - Squeesing Parson Foster's Sponge",
+      "03 A Handful of Dust - Truth's Golden Harrow",
+      "04 A Handful of Dust - A Brief Apology (Washing Away & Cleansing the Stain of Suspicion & Infamy Applied to the Fraternity of the Rosy Cross With, as It Were, a Fludd of Truth"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/concord_8e171eac0620"
+    }
+  }
+}
