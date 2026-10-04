@@ -32,6 +32,7 @@
 | [Inflexions](inflexions_375013894585/inflexions_375013894585.md) | 2020 | FLAC | 01:00:00 | [IA](https://archive.org/details/inflexions_375013894585) |
 | [The Dreams of Absolem](the-dreams-of-absolem_49664c00780f/the-dreams-of-absolem_49664c00780f.md) | 2020 | FLAC | 01:02:14 | [IA](https://archive.org/details/the-dreams-of-absolem_49664c00780f) |
 | [Brutalist](brutalist_5dd01139b41b/brutalist_5dd01139b41b.md) | 2021 | FLAC | 06:00:00 | [IA](https://archive.org/details/brutalist_5dd01139b41b) |
+| [Noises to Play in the Dark](noises-to-play-in-the-dark_fa3deacf4f21/noises-to-play-in-the-dark_fa3deacf4f21.md) | 2021 | FLAC | 01:20:00 | [IA](https://archive.org/details/noises-to-play-in-the-dark_fa3deacf4f21) |
 | [Harsh Damaged](harsh-damaged_8bdf6fe73fcd/harsh-damaged_8bdf6fe73fcd.md) | 2021 | FLAC | 00:59:59 | [IA](https://archive.org/details/harsh-damaged_8bdf6fe73fcd) |
 | [Keeper of Desolation](keeper-of-desolation_162957d3f9eb/keeper-of-desolation_162957d3f9eb.md) | 2022 | FLAC | 01:00:00 | [IA](https://archive.org/details/keeper-of-desolation_162957d3f9eb) |
 | [Colors of Emptiness](colors-of-emptiness_2f5141617305/colors-of-emptiness_2f5141617305.md) | 2022 | FLAC | 03:00:00 | [IA](https://archive.org/details/colors-of-emptiness_2f5141617305) |
