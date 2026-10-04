@@ -63,6 +63,7 @@
 | [Dead Level](dead-level_66e1935bd8d5/dead-level_66e1935bd8d5.md) | 2023 | FLAC | 01:30:00 | [IA](https://archive.org/details/dead-level_66e1935bd8d5) |
 | [Death Industrial Wall](death-industrial-wall_6b04ff4f6576/death-industrial-wall_6b04ff4f6576.md) | 2023 | FLAC | 01:20:00 | [IA](https://archive.org/details/death-industrial-wall_6b04ff4f6576) |
 | [One Gear Experience 6](one-gear-experience-6_ed0b3eb5d235/one-gear-experience-6_ed0b3eb5d235.md) | 2023 | FLAC | 02:00:00 | [IA](https://archive.org/details/one-gear-experience-6_ed0b3eb5d235) |
+| [Taboo on Personality](taboo-on-personality_9c900415a3f0/taboo-on-personality_9c900415a3f0.md) | 2023 | FLAC | 01:00:00 | [IA](https://archive.org/details/taboo-on-personality_9c900415a3f0) |
 | [One Gear Experience 5](one-gear-experience-5_2c34dc98543a/one-gear-experience-5_2c34dc98543a.md) | 2023 | FLAC | 02:00:00 | [IA](https://archive.org/details/one-gear-experience-5_2c34dc98543a) |
 | [One Gear Experience 4](one-gear-experience-4_093c548a453d/one-gear-experience-4_093c548a453d.md) | 2023 | FLAC | 02:00:00 | [IA](https://archive.org/details/one-gear-experience-4_093c548a453d) |
 | [One Gear Experience 7](one-gear-experience-7_a1ac041e31b7/one-gear-experience-7_a1ac041e31b7.md) | 2023 | FLAC | 02:00:00 | [IA](https://archive.org/details/one-gear-experience-7_a1ac041e31b7) |

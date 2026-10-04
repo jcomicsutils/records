@@ -1,0 +1,26 @@
+{
+  "id": "taboo-on-personality_9c900415a3f0",
+  "fingerprint": "9c900415a3f051df7f6a8b2ab6b3c613b112027a1389ce07bba1f819f648c6b2",
+  "archived_at": "2026-10-04T19:25:20Z",
+  "metadata": {
+    "title": "Taboo on Personality",
+    "artist": "Sergey Pakhomov",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Untitled 1",
+      "02 Sergey Pakhomov - Untitled 2",
+      "03 Sergey Pakhomov - Untitled 3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/taboo-on-personality_9c900415a3f0"
+    }
+  }
+}
