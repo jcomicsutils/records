@@ -1,0 +1,27 @@
+{
+  "id": "dried_6d622de61e5a",
+  "fingerprint": "6d622de61e5ac6b2b2906c9721d392679889a3e1da5db2ac43f1e7057ad6b5ae",
+  "archived_at": "2026-10-04T07:46:59Z",
+  "metadata": {
+    "title": "Dried",
+    "artist": "Sergey Pakhomov",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 5401,
+    "duration_human": "01:30:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Prelude",
+      "02 Sergey Pakhomov - Part I",
+      "03 Sergey Pakhomov - Part II",
+      "04 Sergey Pakhomov - Finale"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dried_6d622de61e5a"
+    }
+  }
+}
