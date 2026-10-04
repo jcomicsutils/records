@@ -31,6 +31,7 @@
 | [Mind Cleansing](mind-cleansing_fadbd72dff02/mind-cleansing_fadbd72dff02.md) | 2018 | FLAC | 05:00:00 | [IA](https://archive.org/details/mind-cleansing_fadbd72dff02) |
 | [Hearing of the Dead Part 2](hearing-of-the-dead-part-2_4619113f923e/hearing-of-the-dead-part-2_4619113f923e.md) | 2018 | FLAC | 02:00:02 | [IA](https://archive.org/details/hearing-of-the-dead-part-2_4619113f923e) |
 | [Le Bruit Électromagnétique](le-bruit-electromagnetique_c7c57607df84/le-bruit-electromagnetique_c7c57607df84.md) | 2019 | FLAC | 00:37:39 | [IA](https://archive.org/details/le-bruit-electromagnetique_c7c57607df84) |
+| [The Entity Under My Floor](the-entity-under-my-floor_fdc5d6e9f0c9/the-entity-under-my-floor_fdc5d6e9f0c9.md) | 2019 | FLAC | 01:30:00 | [IA](https://archive.org/details/the-entity-under-my-floor_fdc5d6e9f0c9) |
 | [Kaleidoscopical Exfoliation](kaleidoscopical-exfoliation_b4488b062591/kaleidoscopical-exfoliation_b4488b062591.md) | 2019 | FLAC | 01:00:00 | [IA](https://archive.org/details/kaleidoscopical-exfoliation_b4488b062591) |
 | [Don't Touch Anything](dont-touch-anything_0047251f3d17/dont-touch-anything_0047251f3d17.md) | 2019 | FLAC | 01:30:00 | [IA](https://archive.org/details/dont-touch-anything_0047251f3d17) |
 | [Cerebellum Massage](cerebellum-massage_bc0dd6ef4311/cerebellum-massage_bc0dd6ef4311.md) | 2019 | FLAC | 01:00:01 | [IA](https://archive.org/details/cerebellum-massage_bc0dd6ef4311) |
