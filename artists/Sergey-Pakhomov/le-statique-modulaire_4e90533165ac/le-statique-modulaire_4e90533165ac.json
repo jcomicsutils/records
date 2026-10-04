@@ -1,0 +1,24 @@
+{
+  "id": "le-statique-modulaire_4e90533165ac",
+  "fingerprint": "4e90533165ac6b20aa53edf53327ec56861968ef16334b52755aa00d6ee3f7d9",
+  "archived_at": "2026-10-04T10:11:31Z",
+  "metadata": {
+    "title": "Le Statique Modulaire",
+    "artist": "Sergey Pakhomov",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2400,
+    "duration_human": "00:40:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Le Statique Modulaire"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/le-statique-modulaire_4e90533165ac"
+    }
+  }
+}
