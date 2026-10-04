@@ -1,0 +1,29 @@
+{
+  "id": "insect-cult_84c76e5232ba",
+  "fingerprint": "84c76e5232bafb9d847ba0ed73bc414a62e86fb25a99e016b8ff201da490c557",
+  "archived_at": "2026-10-04T09:25:51Z",
+  "metadata": {
+    "title": "Insect Cult",
+    "artist": "Sergey Pakhomov",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 10800,
+    "duration_human": "03:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 S. Pakhomov - 1",
+      "02 S. Pakhomov - 2",
+      "03 S. Pakhomov - 3",
+      "04 S. Pakhomov - 4",
+      "05 S. Pakhomov - 5",
+      "06 S. Pakhomov - 6"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/insect-cult_84c76e5232ba"
+    }
+  }
+}
