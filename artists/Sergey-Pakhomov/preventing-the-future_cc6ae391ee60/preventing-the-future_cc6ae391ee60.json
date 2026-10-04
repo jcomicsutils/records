@@ -1,0 +1,24 @@
+{
+  "id": "preventing-the-future_cc6ae391ee60",
+  "fingerprint": "cc6ae391ee60efb5d46ec815804a95f4b92c7c9f2dcc9ff3176ab2dbed76221c",
+  "archived_at": "2026-10-04T15:48:09Z",
+  "metadata": {
+    "title": "Preventing the Future",
+    "artist": "Sergey Pakhomov",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2597,
+    "duration_human": "00:43:17",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Preventing the Future"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/preventing-the-future_cc6ae391ee60"
+    }
+  }
+}
