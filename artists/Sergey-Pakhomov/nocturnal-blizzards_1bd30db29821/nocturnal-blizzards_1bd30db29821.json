@@ -1,0 +1,25 @@
+{
+  "id": "nocturnal-blizzards_1bd30db29821",
+  "fingerprint": "1bd30db298214a36d74dd01a8b042df0c3a60d93173bd1266ebdbbfcf72df018",
+  "archived_at": "2026-10-04T11:27:07Z",
+  "metadata": {
+    "title": "Nocturnal Blizzards",
+    "artist": "Sergey Pakhomov",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3679,
+    "duration_human": "01:01:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 I. Sandakov & S. Pakhomov - Januar Pusten",
+      "02 I. Sandakov & S. Pakhomov - Hvit Mørket"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nocturnal-blizzards_1bd30db29821"
+    }
+  }
+}
