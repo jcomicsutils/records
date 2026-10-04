@@ -12,6 +12,7 @@
 | [On Unknown Paths](on-unknown-paths_f9f4433ddfb7/on-unknown-paths_f9f4433ddfb7.md) | 2017 | FLAC | 00:42:18 | [IA](https://archive.org/details/on-unknown-paths_f9f4433ddfb7) |
 | [Nocturnal Blizzards](nocturnal-blizzards_1bd30db29821/nocturnal-blizzards_1bd30db29821.md) | 2017 | FLAC | 01:01:19 | [IA](https://archive.org/details/nocturnal-blizzards_1bd30db29821) |
 | [Another Autumn Day](another-autumn-day_a00dcfee588e/another-autumn-day_a00dcfee588e.md) | 2017 | FLAC | 24:00:00 | [IA](https://archive.org/details/another-autumn-day_a00dcfee588e) |
+| [Powerhouse](powerhouse_44e15b5ce375/powerhouse_44e15b5ce375.md) | 2017 | FLAC | 00:59:54 | [IA](https://archive.org/details/powerhouse_44e15b5ce375) |
 | [Lo-Fi](lo-fi_633de763a0ac/lo-fi_633de763a0ac.md) | 2017 | FLAC | 02:59:59 | [IA](https://archive.org/details/lo-fi_633de763a0ac) |
 | [Icebreaker](icebreaker_5215c6139de1/icebreaker_5215c6139de1.md) | 2017 | FLAC | 02:00:00 | [IA](https://archive.org/details/icebreaker_5215c6139de1) |
 | [Noistrings](noistrings_131f163d8ded/noistrings_131f163d8ded.md) | 2018 | FLAC | 00:17:29 | [IA](https://archive.org/details/noistrings_131f163d8ded) |

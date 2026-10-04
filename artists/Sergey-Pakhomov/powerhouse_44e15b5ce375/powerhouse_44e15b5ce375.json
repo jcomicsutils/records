@@ -1,0 +1,26 @@
+{
+  "id": "powerhouse_44e15b5ce375",
+  "fingerprint": "44e15b5ce375614a7b15266da1db407bf79fdee0ea6e299ac6028ca7e00c2615",
+  "archived_at": "2026-10-04T15:43:53Z",
+  "metadata": {
+    "title": "Powerhouse",
+    "artist": "Sergey Pakhomov",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3594,
+    "duration_human": "00:59:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 J. Shearman - I Never Sleep",
+      "02 I.Sandakov - Kamysh",
+      "03 S.Pakhomov - The Relay Is Out of Order"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/powerhouse_44e15b5ce375"
+    }
+  }
+}
