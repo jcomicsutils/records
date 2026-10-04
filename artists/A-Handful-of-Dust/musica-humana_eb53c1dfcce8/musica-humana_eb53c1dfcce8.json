@@ -1,0 +1,33 @@
+{
+  "id": "musica-humana_eb53c1dfcce8",
+  "fingerprint": "eb53c1dfcce8b94462cdec3465208847613abfae90cd4bc419a93ac01001822a",
+  "archived_at": "2026-10-04T05:46:14Z",
+  "metadata": {
+    "title": "Musica Humana",
+    "artist": "A Handful of Dust",
+    "year": "1994",
+    "codec": "MP3",
+    "num_tracks": 10,
+    "duration_seconds": 3300,
+    "duration_human": "00:55:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 A Handful of Dust - The Lonesome Death of Albert Ayler",
+      "02 A Handful of Dust - Logopandocy",
+      "03 A Handful of Dust - Masonic Inborn, Parts I & II",
+      "04 A Handful of Dust - Come, Breathe Upon These Slain, That They May Live",
+      "05 A Handful of Dust - Squeesing Parson Foster's Sponge",
+      "06 A Handful of Dust - Truth's Golden Harrow",
+      "07 A Handful of Dust - Eulogy for a Riley 4/72",
+      "08 A Handful of Dust - Titokowaru Said",
+      "09 A Handful of Dust - Calling Radio Ethiopia",
+      "10 A Handful of Dust - A Brief Apology (Washing Away & Cleansing the Stain of Suspicion & Infamy Applied to the Fraternity of the Rosy Cross With, as It Were, a Fludd of Truth)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/musica-humana_eb53c1dfcce8"
+    }
+  }
+}
