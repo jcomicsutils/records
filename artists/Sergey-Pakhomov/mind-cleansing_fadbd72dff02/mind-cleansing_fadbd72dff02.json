@@ -1,0 +1,27 @@
+{
+  "id": "mind-cleansing_fadbd72dff02",
+  "fingerprint": "fadbd72dff020a89e2e3a4cb8deba123797574d89e6be02ae04de42dff1b7d58",
+  "archived_at": "2026-10-04T10:40:11Z",
+  "metadata": {
+    "title": "Mind Cleansing",
+    "artist": "Sergey Pakhomov",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 18000,
+    "duration_human": "05:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Mind Cleansing I",
+      "02 Sergey Pakhomov - Mind Cleansing II",
+      "03 Sergey Pakhomov - Mind Cleansing III",
+      "04 Sergey Pakhomov - Mind Cleansing IV"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mind-cleansing_fadbd72dff02"
+    }
+  }
+}
