@@ -1,0 +1,25 @@
+{
+  "id": "act-of-nothing_58c77e81d8b8",
+  "fingerprint": "58c77e81d8b82efe978deb8c6e196b412306c4993237d3526e1bca2ea048b6d8",
+  "archived_at": "2026-10-04T01:36:23Z",
+  "metadata": {
+    "title": "Act of Nothing",
+    "artist": "Sergey Pakhomov",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2988,
+    "duration_human": "00:49:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - 1, 2, 3",
+      "02 Sergey Pakhomov - 4, 5"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/act-of-nothing_58c77e81d8b8"
+    }
+  }
+}
