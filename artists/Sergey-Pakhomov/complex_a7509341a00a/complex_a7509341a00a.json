@@ -1,0 +1,24 @@
+{
+  "id": "complex_a7509341a00a",
+  "fingerprint": "a7509341a00a9be6b250b87cf178ca5e0230d9aa974075cf2746f0097b531a93",
+  "archived_at": "2026-10-04T06:48:18Z",
+  "metadata": {
+    "title": "Complex",
+    "artist": "Sergey Pakhomov",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2545,
+    "duration_human": "00:42:25",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Complex"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/complex_a7509341a00a"
+    }
+  }
+}
