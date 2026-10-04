@@ -1,0 +1,26 @@
+{
+  "id": "symphony-of-crackles_89fb01a90d6a",
+  "fingerprint": "89fb01a90d6ae7222b5c2f3180ea00568a0eb02066f70a18ac3df3ddf6042e9f",
+  "archived_at": "2026-10-04T19:18:18Z",
+  "metadata": {
+    "title": "Symphony of Crackles",
+    "artist": "Sergey Pakhomov",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 5700,
+    "duration_human": "01:35:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Part I",
+      "02 Sergey Pakhomov - Part II",
+      "03 Sergey Pakhomov - Part III"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/symphony-of-crackles_89fb01a90d6a"
+    }
+  }
+}
