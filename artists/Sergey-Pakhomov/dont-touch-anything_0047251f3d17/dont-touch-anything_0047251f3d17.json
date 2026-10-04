@@ -1,0 +1,25 @@
+{
+  "id": "dont-touch-anything_0047251f3d17",
+  "fingerprint": "0047251f3d1737fb1aa3ea5a6471ec3395538c93a9b0c8cf2dbe470e16ebd277",
+  "archived_at": "2026-10-04T07:40:11Z",
+  "metadata": {
+    "title": "Don't Touch Anything",
+    "artist": "Sergey Pakhomov",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5400,
+    "duration_human": "01:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Don't Touch Anything 1",
+      "02 Sergey Pakhomov - Don't Touch Anything 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dont-touch-anything_0047251f3d17"
+    }
+  }
+}
