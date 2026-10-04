@@ -1,0 +1,26 @@
+{
+  "id": "the-blair-witch-trilogy_f2f5c3808c59",
+  "fingerprint": "f2f5c3808c594656a643009f78e6481052e912546e7ee14e950e65269c45681f",
+  "archived_at": "2026-10-04T19:37:26Z",
+  "metadata": {
+    "title": "The Blair Witch Trilogy",
+    "artist": "Sergey Pakhomov",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 5400,
+    "duration_human": "01:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Episode 1: Rustin Parr",
+      "02 Sergey Pakhomov - Episode 2: The Legend of Coffin Rock",
+      "03 Sergey Pakhomov - Episode 3: Elly Kedward Tale"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-blair-witch-trilogy_f2f5c3808c59"
+    }
+  }
+}

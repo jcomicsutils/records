@@ -34,6 +34,7 @@
 | [Kaleidoscopical Exfoliation](kaleidoscopical-exfoliation_b4488b062591/kaleidoscopical-exfoliation_b4488b062591.md) | 2019 | FLAC | 01:00:00 | [IA](https://archive.org/details/kaleidoscopical-exfoliation_b4488b062591) |
 | [Don't Touch Anything](dont-touch-anything_0047251f3d17/dont-touch-anything_0047251f3d17.md) | 2019 | FLAC | 01:30:00 | [IA](https://archive.org/details/dont-touch-anything_0047251f3d17) |
 | [Cerebellum Massage](cerebellum-massage_bc0dd6ef4311/cerebellum-massage_bc0dd6ef4311.md) | 2019 | FLAC | 01:00:01 | [IA](https://archive.org/details/cerebellum-massage_bc0dd6ef4311) |
+| [The Blair Witch Trilogy](the-blair-witch-trilogy_f2f5c3808c59/the-blair-witch-trilogy_f2f5c3808c59.md) | 2019 | FLAC | 01:30:00 | [IA](https://archive.org/details/the-blair-witch-trilogy_f2f5c3808c59) |
 | [Static Antistatic](static-antistatic_b0143641c2ee/static-antistatic_b0143641c2ee.md) | 2019 | FLAC | 00:38:23 | [IA](https://archive.org/details/static-antistatic_b0143641c2ee) |
 | [Noisolation 3](noisolation-3_6f53b69e9e85/noisolation-3_6f53b69e9e85.md) | 2020 | FLAC | 00:45:00 | [IA](https://archive.org/details/noisolation-3_6f53b69e9e85) |
 | [Stopped Time](stopped-time_b1ca5a0bc55b/stopped-time_b1ca5a0bc55b.md) | 2020 | FLAC | 02:00:00 | [IA](https://archive.org/details/stopped-time_b1ca5a0bc55b) |
