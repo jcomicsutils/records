@@ -1,0 +1,25 @@
+{
+  "id": "in-the-house-of-voluntary-poverty_9684f63b2922",
+  "fingerprint": "9684f63b2922884aeed745d851b37904fcfeb343412c309cfbe7ffc8ba3bdc0b",
+  "archived_at": "2026-10-04T05:40:10Z",
+  "metadata": {
+    "title": "In the House of Voluntary Poverty",
+    "artist": "A Handful of Dust",
+    "year": "1994",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 731,
+    "duration_human": "00:12:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 A Handful of Dust - In the House of Voluntary Poverty",
+      "02 A Handful of Dust - The Mirror of Simple Souls"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/in-the-house-of-voluntary-poverty_9684f63b2922"
+    }
+  }
+}

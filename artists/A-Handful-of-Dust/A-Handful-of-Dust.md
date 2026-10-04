@@ -4,6 +4,7 @@
 |-------|------|-------|----------|-------|
 | [A Little Aesthetic Discourse](a-little-aesthetic-discourse_2dcfb29a29ae/a-little-aesthetic-discourse_2dcfb29a29ae.md) | 1992 | MP3 | 00:11:00 | [IA](https://archive.org/details/a-little-aesthetic-discourse_2dcfb29a29ae) |
 | [Concord](concord_8e171eac0620/concord_8e171eac0620.md) | 1993 | MP3 | 00:33:38 | [IA](https://archive.org/details/concord_8e171eac0620) |
+| [In the House of Voluntary Poverty](in-the-house-of-voluntary-poverty_9684f63b2922/in-the-house-of-voluntary-poverty_9684f63b2922.md) | 1994 | MP3 | 00:12:11 | [IA](https://archive.org/details/in-the-house-of-voluntary-poverty_9684f63b2922) |
 | [A Handful of Dust / Alan Licht](a-handful-of-dust-alan-licht_b48805aecf76/a-handful-of-dust-alan-licht_b48805aecf76.md) | 1994 | MP3 | 00:06:17 | [IA](https://archive.org/details/a-handful-of-dust-alan-licht_b48805aecf76) |
 | [For Patti Smith](for-patti-smith_731ef4c9a529/for-patti-smith_731ef4c9a529.md) | 2002 | MP3 | 00:43:35 | [IA](https://archive.org/details/for-patti-smith_731ef4c9a529) |
 | [Dragging Her Wings of Rusty Knives: Selected Recordings 1994-2016](dragging-her-wings-of-rusty-knives-selected-recordings-1994-2016_d308448255ce/dragging-her-wings-of-rusty-knives-selected-recordings-1994-2016_d308448255ce.md) | 2019 | FLAC | 01:23:53 | [IA](https://archive.org/details/dragging-her-wings-of-rusty-knives-selected-recordings-1994-2016_d308448255ce) |
