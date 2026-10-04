@@ -1,0 +1,30 @@
+{
+  "id": "coal_0bd5a7df8571",
+  "fingerprint": "0bd5a7df857155c280806016af22e4ed26b97190c82353408629cb24f7be49b6",
+  "archived_at": "2026-10-04T06:26:42Z",
+  "metadata": {
+    "title": "Coal",
+    "artist": "Sergey Pakhomov",
+    "year": "2016",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 7200,
+    "duration_human": "02:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 S. Pakhomov - Going Down",
+      "02 S. Pakhomov - Brigade",
+      "03 S. Pakhomov - Piercing the Darkness",
+      "04 S. Pakhomov - Dust Breath",
+      "05 S. Pakhomov - Methane",
+      "06 S. Pakhomov - Burning Air",
+      "07 S. Pakhomov - Eternal Coalpit"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/coal_0bd5a7df8571"
+    }
+  }
+}
