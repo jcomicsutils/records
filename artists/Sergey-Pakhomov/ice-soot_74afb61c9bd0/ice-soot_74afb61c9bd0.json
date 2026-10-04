@@ -1,0 +1,24 @@
+{
+  "id": "ice-soot_74afb61c9bd0",
+  "fingerprint": "74afb61c9bd0d9dceaa71446a090f8c571422b33b21cbb7eead4104dfbf5d5fb",
+  "archived_at": "2026-10-04T08:54:09Z",
+  "metadata": {
+    "title": "Ice & Soot",
+    "artist": "Sergey Pakhomov",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2700,
+    "duration_human": "00:45:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Ice & Soot"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ice-soot_74afb61c9bd0"
+    }
+  }
+}

@@ -14,6 +14,7 @@
 | [Hearing of the Dead Part 2](hearing-of-the-dead-part-2_4619113f923e/hearing-of-the-dead-part-2_4619113f923e.md) | 2018 | FLAC | 02:00:02 | [IA](https://archive.org/details/hearing-of-the-dead-part-2_4619113f923e) |
 | [Don't Touch Anything](dont-touch-anything_0047251f3d17/dont-touch-anything_0047251f3d17.md) | 2019 | FLAC | 01:30:00 | [IA](https://archive.org/details/dont-touch-anything_0047251f3d17) |
 | [Cerebellum Massage](cerebellum-massage_bc0dd6ef4311/cerebellum-massage_bc0dd6ef4311.md) | 2019 | FLAC | 01:00:01 | [IA](https://archive.org/details/cerebellum-massage_bc0dd6ef4311) |
+| [Ice & Soot](ice-soot_74afb61c9bd0/ice-soot_74afb61c9bd0.md) | 2020 | FLAC | 00:45:00 | [IA](https://archive.org/details/ice-soot_74afb61c9bd0) |
 | [Breaking News](breaking-news_469e3aad85c5/breaking-news_469e3aad85c5.md) | 2020 | FLAC | 01:30:02 | [IA](https://archive.org/details/breaking-news_469e3aad85c5) |
 | [Dried](dried_6d622de61e5a/dried_6d622de61e5a.md) | 2020 | FLAC | 01:30:01 | [IA](https://archive.org/details/dried_6d622de61e5a) |
 | [Eight Untitled Tracks](eight-untitled-tracks_e3ca3ae1fab6/eight-untitled-tracks_e3ca3ae1fab6.md) | 2020 | FLAC | 01:19:59 | [IA](https://archive.org/details/eight-untitled-tracks_e3ca3ae1fab6) |
