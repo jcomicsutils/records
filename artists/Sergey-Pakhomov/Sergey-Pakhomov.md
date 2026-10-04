@@ -4,6 +4,7 @@
 |-------|------|-------|----------|-------|
 | [Coal](coal_0bd5a7df8571/coal_0bd5a7df8571.md) | 2016 | FLAC | 02:00:00 | [IA](https://archive.org/details/coal_0bd5a7df8571) |
 | [Grinding](grinding_00a54e07b88c/grinding_00a54e07b88c.md) | 2017 | FLAC | 06:00:00 | [IA](https://archive.org/details/grinding_00a54e07b88c) |
+| [Spin](spin_142ab2d14378/spin_142ab2d14378.md) | 2017 | FLAC | 02:19:38 | [IA](https://archive.org/details/spin_142ab2d14378) |
 | [Interment](interment_6a045adb8d32/interment_6a045adb8d32.md) | 2017 | FLAC | 02:00:00 | [IA](https://archive.org/details/interment_6a045adb8d32) |
 | [Sergey Pakhomov / Zachary Ledsinger](sergey-pakhomov-zachary-ledsinger_8e718dee09d1/sergey-pakhomov-zachary-ledsinger_8e718dee09d1.md) | 2017 | FLAC | 00:39:58 | [IA](https://archive.org/details/sergey-pakhomov-zachary-ledsinger_8e718dee09d1) |
 | [Plastic Session](plastic-session_9170819d4d8e/plastic-session_9170819d4d8e.md) | 2017 | FLAC | 01:30:00 | [IA](https://archive.org/details/plastic-session_9170819d4d8e) |

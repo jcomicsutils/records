@@ -1,0 +1,27 @@
+{
+  "id": "spin_142ab2d14378",
+  "fingerprint": "142ab2d143783a1041678f97da9e32592fe4eb81b1b09066984cc9e284391acc",
+  "archived_at": "2026-10-04T17:38:01Z",
+  "metadata": {
+    "title": "Spin",
+    "artist": "Sergey Pakhomov",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 8378,
+    "duration_human": "02:19:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 SP - Untitled 1",
+      "02 SP - Untitled 2",
+      "03 SP - Untitled 3",
+      "04 SP - Untitled 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/spin_142ab2d14378"
+    }
+  }
+}
