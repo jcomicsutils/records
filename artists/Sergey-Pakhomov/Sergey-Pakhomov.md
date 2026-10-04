@@ -70,6 +70,7 @@
 | [Statichrist](statichrist_c6b81fc45492/statichrist_c6b81fc45492.md) | 2021 | FLAC | 04:00:00 | [IA](https://archive.org/details/statichrist_c6b81fc45492) |
 | [Untitled](untitled_27c418c94ef3/untitled_27c418c94ef3.md) | 2021 | FLAC | 01:00:00 | [IA](https://archive.org/details/untitled_27c418c94ef3) |
 | [Harsh Damaged](harsh-damaged_8bdf6fe73fcd/harsh-damaged_8bdf6fe73fcd.md) | 2021 | FLAC | 00:59:59 | [IA](https://archive.org/details/harsh-damaged_8bdf6fe73fcd) |
+| [Untitled](untitled_c7f0f48e0b44/untitled_c7f0f48e0b44.md) | 2022 | FLAC | 02:00:00 | [IA](https://archive.org/details/untitled_c7f0f48e0b44) |
 | [Under the Bottom of Sleep](under-the-bottom-of-sleep_ecb03d82a950/under-the-bottom-of-sleep_ecb03d82a950.md) | 2022 | FLAC | 01:00:00 | [IA](https://archive.org/details/under-the-bottom-of-sleep_ecb03d82a950) |
 | [Keeper of Desolation](keeper-of-desolation_162957d3f9eb/keeper-of-desolation_162957d3f9eb.md) | 2022 | FLAC | 01:00:00 | [IA](https://archive.org/details/keeper-of-desolation_162957d3f9eb) |
 | [Colors of Emptiness](colors-of-emptiness_2f5141617305/colors-of-emptiness_2f5141617305.md) | 2022 | FLAC | 03:00:00 | [IA](https://archive.org/details/colors-of-emptiness_2f5141617305) |

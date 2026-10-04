@@ -1,0 +1,26 @@
+{
+  "id": "untitled_c7f0f48e0b44",
+  "fingerprint": "c7f0f48e0b44319d85770a6f8d11c06c58d1cd1819fab328441a25f220694919",
+  "archived_at": "2026-10-04T23:27:03Z",
+  "metadata": {
+    "title": "Untitled",
+    "artist": "Sergey Pakhomov",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 7200,
+    "duration_human": "02:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Untitled I",
+      "02 Sergey Pakhomov - Untitled II",
+      "03 Sergey Pakhomov - Untitled III"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/untitled_c7f0f48e0b44"
+    }
+  }
+}
