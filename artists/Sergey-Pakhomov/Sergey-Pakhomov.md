@@ -5,6 +5,7 @@
 | [Coal](coal_0bd5a7df8571/coal_0bd5a7df8571.md) | 2016 | FLAC | 02:00:00 | [IA](https://archive.org/details/coal_0bd5a7df8571) |
 | [Grinding](grinding_00a54e07b88c/grinding_00a54e07b88c.md) | 2017 | FLAC | 06:00:00 | [IA](https://archive.org/details/grinding_00a54e07b88c) |
 | [Interment](interment_6a045adb8d32/interment_6a045adb8d32.md) | 2017 | FLAC | 02:00:00 | [IA](https://archive.org/details/interment_6a045adb8d32) |
+| [Plastic Session](plastic-session_9170819d4d8e/plastic-session_9170819d4d8e.md) | 2017 | FLAC | 01:30:00 | [IA](https://archive.org/details/plastic-session_9170819d4d8e) |
 | [I.Sandakov / S.Pakhomov](isandakov-spakhomov_c6c988f08f27/isandakov-spakhomov_c6c988f08f27.md) | 2017 | FLAC | 01:00:36 | [IA](https://archive.org/details/isandakov-spakhomov_c6c988f08f27) |
 | [Insect Cult](insect-cult_84c76e5232ba/insect-cult_84c76e5232ba.md) | 2017 | FLAC | 03:00:00 | [IA](https://archive.org/details/insect-cult_84c76e5232ba) |
 | [Color Confinement](color-confinement_6829308fd0d3/color-confinement_6829308fd0d3.md) | 2017 | FLAC | 01:20:00 | [IA](https://archive.org/details/color-confinement_6829308fd0d3) |

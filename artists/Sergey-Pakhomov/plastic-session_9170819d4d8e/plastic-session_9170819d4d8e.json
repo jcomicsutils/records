@@ -1,0 +1,29 @@
+{
+  "id": "plastic-session_9170819d4d8e",
+  "fingerprint": "9170819d4d8eb9cae1e90358166f40cabc714dfe6e9609ee5614bf50d7d28741",
+  "archived_at": "2026-10-04T15:21:17Z",
+  "metadata": {
+    "title": "Plastic Session",
+    "artist": "Sergey Pakhomov",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 5400,
+    "duration_human": "01:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 S. Pakhomov - Untitled 1",
+      "02 S. Pakhomov - Untitled 2",
+      "03 S. Pakhomov - Untitled 3",
+      "04 S. Pakhomov - Untitled 4",
+      "05 S. Pakhomov - Untitled 5",
+      "06 S. Pakhomov - Untitled 6"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/plastic-session_9170819d4d8e"
+    }
+  }
+}
