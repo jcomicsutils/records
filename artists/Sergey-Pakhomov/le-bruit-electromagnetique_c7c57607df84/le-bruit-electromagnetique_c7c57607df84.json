@@ -1,0 +1,24 @@
+{
+  "id": "le-bruit-electromagnetique_c7c57607df84",
+  "fingerprint": "c7c57607df845880da336bfd121f1fd46b6e1ae20e5a23fb1e75939ea6c8a98f",
+  "archived_at": "2026-10-04T10:01:24Z",
+  "metadata": {
+    "title": "Le Bruit Électromagnétique",
+    "artist": "Sergey Pakhomov",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2259,
+    "duration_human": "00:37:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Le Bruit Électromagnétique"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/le-bruit-electromagnetique_c7c57607df84"
+    }
+  }
+}
