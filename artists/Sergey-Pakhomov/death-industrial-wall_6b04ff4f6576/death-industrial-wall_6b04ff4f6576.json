@@ -1,0 +1,27 @@
+{
+  "id": "death-industrial-wall_6b04ff4f6576",
+  "fingerprint": "6b04ff4f6576f85964280bd6b79e832099d3c2a10835fb7b625bf74ce968e7ea",
+  "archived_at": "2026-10-04T07:19:49Z",
+  "metadata": {
+    "title": "Death Industrial Wall",
+    "artist": "Sergey Pakhomov",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4800,
+    "duration_human": "01:20:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Untitled A",
+      "02 Sergey Pakhomov - Untitled B",
+      "03 Sergey Pakhomov - Untitled C",
+      "04 Sergey Pakhomov - Untitled D"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/death-industrial-wall_6b04ff4f6576"
+    }
+  }
+}
