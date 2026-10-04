@@ -15,6 +15,7 @@
 | [Cherries in the Snow](cherries-in-the-snow_770f8e04d89a/cherries-in-the-snow_770f8e04d89a.md) | 2018 | FLAC | 00:45:00 | [IA](https://archive.org/details/cherries-in-the-snow_770f8e04d89a) |
 | [County Town Thunderstorm](county-town-thunderstorm_722280770833/county-town-thunderstorm_722280770833.md) | 2018 | FLAC | 01:03:05 | [IA](https://archive.org/details/county-town-thunderstorm_722280770833) |
 | [Hearing of the Dead Part 2](hearing-of-the-dead-part-2_4619113f923e/hearing-of-the-dead-part-2_4619113f923e.md) | 2018 | FLAC | 02:00:02 | [IA](https://archive.org/details/hearing-of-the-dead-part-2_4619113f923e) |
+| [Kaleidoscopical Exfoliation](kaleidoscopical-exfoliation_b4488b062591/kaleidoscopical-exfoliation_b4488b062591.md) | 2019 | FLAC | 01:00:00 | [IA](https://archive.org/details/kaleidoscopical-exfoliation_b4488b062591) |
 | [Don't Touch Anything](dont-touch-anything_0047251f3d17/dont-touch-anything_0047251f3d17.md) | 2019 | FLAC | 01:30:00 | [IA](https://archive.org/details/dont-touch-anything_0047251f3d17) |
 | [Cerebellum Massage](cerebellum-massage_bc0dd6ef4311/cerebellum-massage_bc0dd6ef4311.md) | 2019 | FLAC | 01:00:01 | [IA](https://archive.org/details/cerebellum-massage_bc0dd6ef4311) |
 | [Ice & Soot](ice-soot_74afb61c9bd0/ice-soot_74afb61c9bd0.md) | 2020 | FLAC | 00:45:00 | [IA](https://archive.org/details/ice-soot_74afb61c9bd0) |

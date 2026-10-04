@@ -1,0 +1,25 @@
+{
+  "id": "kaleidoscopical-exfoliation_b4488b062591",
+  "fingerprint": "b4488b062591e67b3b2de5e2442fba6737dd64b6131665ac7571968213017ee0",
+  "archived_at": "2026-10-04T09:47:54Z",
+  "metadata": {
+    "title": "Kaleidoscopical Exfoliation",
+    "artist": "Sergey Pakhomov",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Untitled 1",
+      "02 Sergey Pakhomov - Untitled 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kaleidoscopical-exfoliation_b4488b062591"
+    }
+  }
+}
