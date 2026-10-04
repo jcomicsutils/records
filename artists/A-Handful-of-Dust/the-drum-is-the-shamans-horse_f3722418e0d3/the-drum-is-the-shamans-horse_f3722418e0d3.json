@@ -1,0 +1,26 @@
+{
+  "id": "the-drum-is-the-shamans-horse_f3722418e0d3",
+  "fingerprint": "f3722418e0d327ce9da6307995aace15bb0ffeb2ae09edb00160356d91072782",
+  "archived_at": "2026-10-04T06:02:47Z",
+  "metadata": {
+    "title": "The Drum Is the Shaman's Horse",
+    "artist": "A Handful of Dust",
+    "year": "2023",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 2413,
+    "duration_human": "00:40:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 A Handful of Dust - Duck and Sally Inside",
+      "02 A Handful of Dust - Consider Phlebas…",
+      "03 A Handful of Dust - Fighting in the Captain's Tower"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-drum-is-the-shamans-horse_f3722418e0d3"
+    }
+  }
+}
