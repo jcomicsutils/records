@@ -1,0 +1,24 @@
+{
+  "id": "static-antistatic_b0143641c2ee",
+  "fingerprint": "b0143641c2ee557fc498a48a4beb2828d42afdc0d4319f907abe571f44ea438a",
+  "archived_at": "2026-10-04T18:23:03Z",
+  "metadata": {
+    "title": "Static Antistatic",
+    "artist": "Sergey Pakhomov",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2303,
+    "duration_human": "00:38:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Static Antistatic"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/static-antistatic_b0143641c2ee"
+    }
+  }
+}
