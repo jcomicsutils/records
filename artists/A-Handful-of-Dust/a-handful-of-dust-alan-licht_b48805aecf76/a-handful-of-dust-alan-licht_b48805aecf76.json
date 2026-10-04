@@ -1,0 +1,26 @@
+{
+  "id": "a-handful-of-dust-alan-licht_b48805aecf76",
+  "fingerprint": "b48805aecf76e6e2565162c6e307e522a69d7d64127f4c14cdb8ea3b866aa343",
+  "archived_at": "2026-10-04T05:16:18Z",
+  "metadata": {
+    "title": "A Handful of Dust / Alan Licht",
+    "artist": "A Handful of Dust",
+    "year": "1994",
+    "codec": "MP3",
+    "num_tracks": 3,
+    "duration_seconds": 377,
+    "duration_human": "00:06:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 A Handful of Dust - Eulogy for a Riley",
+      "02 A Handful of Dust - Calling Radio Ethiopia",
+      "03 Alan Licht - The Protocols of the Elders of Zion"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-handful-of-dust-alan-licht_b48805aecf76"
+    }
+  }
+}

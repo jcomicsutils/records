@@ -1,0 +1,24 @@
+{
+  "id": "cherries-in-the-snow_770f8e04d89a",
+  "fingerprint": "770f8e04d89a308e4c26d69a0900bd9581f74cefd31cedac63f386da10a1cdb0",
+  "archived_at": "2026-10-04T05:09:38Z",
+  "metadata": {
+    "title": "Cherries in the Snow",
+    "artist": "Sergey Pakhomov",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2700,
+    "duration_human": "00:45:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 S. Pakhomov - Cherries in the Snow"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cherries-in-the-snow_770f8e04d89a"
+    }
+  }
+}
