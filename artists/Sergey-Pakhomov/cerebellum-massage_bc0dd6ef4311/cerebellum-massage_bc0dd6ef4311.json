@@ -1,0 +1,26 @@
+{
+  "id": "cerebellum-massage_bc0dd6ef4311",
+  "fingerprint": "bc0dd6ef43111ad603703c3556cb4fa93dc28645e87292b647bd1fc904dacca2",
+  "archived_at": "2026-10-04T05:03:37Z",
+  "metadata": {
+    "title": "Cerebellum Massage",
+    "artist": "Sergey Pakhomov",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3601,
+    "duration_human": "01:00:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - I",
+      "02 Sergey Pakhomov - II",
+      "03 Sergey Pakhomov - III"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cerebellum-massage_bc0dd6ef4311"
+    }
+  }
+}
