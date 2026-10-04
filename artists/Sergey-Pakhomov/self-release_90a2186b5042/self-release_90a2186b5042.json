@@ -1,0 +1,25 @@
+{
+  "id": "self-release_90a2186b5042",
+  "fingerprint": "90a2186b5042b9891bf1e93ff3a8c0d91fc5be8ba2b3069282528a188cd79966",
+  "archived_at": "2026-10-04T16:26:07Z",
+  "metadata": {
+    "title": "Self-Release",
+    "artist": "Sergey Pakhomov",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5639,
+    "duration_human": "01:33:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 SP - Untitled 1",
+      "02 SP - Untitled 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/self-release_90a2186b5042"
+    }
+  }
+}
