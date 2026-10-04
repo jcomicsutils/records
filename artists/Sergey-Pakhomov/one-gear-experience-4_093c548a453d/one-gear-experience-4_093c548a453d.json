@@ -1,0 +1,27 @@
+{
+  "id": "one-gear-experience-4_093c548a453d",
+  "fingerprint": "093c548a453d68e04eebc739dce358c0d7e9166c71070cc942dd3500443fbe56",
+  "archived_at": "2026-10-04T12:43:36Z",
+  "metadata": {
+    "title": "One Gear Experience 4",
+    "artist": "Sergey Pakhomov",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 7200,
+    "duration_human": "02:00:00",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Track 1",
+      "02 Sergey Pakhomov - Track 2",
+      "03 Sergey Pakhomov - Track 3",
+      "04 Sergey Pakhomov - Track 4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/one-gear-experience-4_093c548a453d"
+    }
+  }
+}
