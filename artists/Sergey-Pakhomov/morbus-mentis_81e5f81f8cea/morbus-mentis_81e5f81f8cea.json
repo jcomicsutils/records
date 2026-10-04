@@ -1,0 +1,26 @@
+{
+  "id": "morbus-mentis_81e5f81f8cea",
+  "fingerprint": "81e5f81f8cea657b63e5ebe4aba0474d02a516aa9c59abda47e8a382e3ca3911",
+  "archived_at": "2026-10-04T11:03:21Z",
+  "metadata": {
+    "title": "Morbus Mentis",
+    "artist": "Sergey Pakhomov",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4339,
+    "duration_human": "01:12:19",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Morbus Mentis I",
+      "02 Sergey Pakhomov - Morbus Mentis II",
+      "03 Sergey Pakhomov - Morbus Mentis III"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/morbus-mentis_81e5f81f8cea"
+    }
+  }
+}
