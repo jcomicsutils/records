@@ -1,0 +1,26 @@
+{
+  "id": "sound-nerd_6b4171ee0ab1",
+  "fingerprint": "6b4171ee0ab1b2ec0bc651bb355425d06437c70f771cd420cf466a59a055a108",
+  "archived_at": "2026-10-04T17:11:08Z",
+  "metadata": {
+    "title": "Sound Nerd",
+    "artist": "Sergey Pakhomov",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2710,
+    "duration_human": "00:45:10",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Sound I",
+      "02 Sergey Pakhomov - Sound II",
+      "03 Sergey Pakhomov - Sound III"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sound-nerd_6b4171ee0ab1"
+    }
+  }
+}
