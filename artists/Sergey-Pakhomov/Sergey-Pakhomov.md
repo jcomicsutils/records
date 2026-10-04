@@ -9,6 +9,7 @@
 | [Insect Cult](insect-cult_84c76e5232ba/insect-cult_84c76e5232ba.md) | 2017 | FLAC | 03:00:00 | [IA](https://archive.org/details/insect-cult_84c76e5232ba) |
 | [Color Confinement](color-confinement_6829308fd0d3/color-confinement_6829308fd0d3.md) | 2017 | FLAC | 01:20:00 | [IA](https://archive.org/details/color-confinement_6829308fd0d3) |
 | [Another Autumn Day](another-autumn-day_a00dcfee588e/another-autumn-day_a00dcfee588e.md) | 2017 | FLAC | 24:00:00 | [IA](https://archive.org/details/another-autumn-day_a00dcfee588e) |
+| [Lo-Fi](lo-fi_633de763a0ac/lo-fi_633de763a0ac.md) | 2017 | FLAC | 02:59:59 | [IA](https://archive.org/details/lo-fi_633de763a0ac) |
 | [Icebreaker](icebreaker_5215c6139de1/icebreaker_5215c6139de1.md) | 2017 | FLAC | 02:00:00 | [IA](https://archive.org/details/icebreaker_5215c6139de1) |
 | [Hearing of the Dead](hearing-of-the-dead_6e3194e8ef7b/hearing-of-the-dead_6e3194e8ef7b.md) | 2018 | FLAC | 00:42:30 | [IA](https://archive.org/details/hearing-of-the-dead_6e3194e8ef7b) |
 | [Act of Nothing](act-of-nothing_58c77e81d8b8/act-of-nothing_58c77e81d8b8.md) | 2018 | FLAC | 00:49:48 | [IA](https://archive.org/details/act-of-nothing_58c77e81d8b8) |

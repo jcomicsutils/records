@@ -1,0 +1,24 @@
+{
+  "id": "lo-fi_633de763a0ac",
+  "fingerprint": "633de763a0ac25d03505b7911e0229f3216089b0810bae1bbc8a3d4b883bb5bf",
+  "archived_at": "2026-10-04T10:18:10Z",
+  "metadata": {
+    "title": "Lo-Fi",
+    "artist": "Sergey Pakhomov",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 10799,
+    "duration_human": "02:59:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 S. Pakhomov - Lo-Fi"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lo-fi_633de763a0ac"
+    }
+  }
+}
