@@ -1,0 +1,24 @@
+{
+  "id": "dead-level_66e1935bd8d5",
+  "fingerprint": "66e1935bd8d58ac2481af6ceab04e1a7db76e4a38bacfabe7c0d1164307c817e",
+  "archived_at": "2026-10-04T07:12:37Z",
+  "metadata": {
+    "title": "Dead Level",
+    "artist": "Sergey Pakhomov",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 5400,
+    "duration_human": "01:30:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Dead Level"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dead-level_66e1935bd8d5"
+    }
+  }
+}
