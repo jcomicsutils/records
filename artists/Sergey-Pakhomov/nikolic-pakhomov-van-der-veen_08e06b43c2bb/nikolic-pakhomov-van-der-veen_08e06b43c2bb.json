@@ -1,0 +1,25 @@
+{
+  "id": "nikolic-pakhomov-van-der-veen_08e06b43c2bb",
+  "fingerprint": "08e06b43c2bb58948e241efb31063977d35185a3095578d6d1bbc08459af327f",
+  "archived_at": "2026-10-04T11:20:08Z",
+  "metadata": {
+    "title": "Nikolic, Pakhomov & Van Der Veen",
+    "artist": "Sergey Pakhomov",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Nikolic, Pakhomov & Van Der Veen - I",
+      "02 Nikolic, Pakhomov & Van Der Veen - II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nikolic-pakhomov-van-der-veen_08e06b43c2bb"
+    }
+  }
+}
