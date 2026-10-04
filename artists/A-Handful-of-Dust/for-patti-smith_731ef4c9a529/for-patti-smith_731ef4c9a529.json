@@ -1,0 +1,25 @@
+{
+  "id": "for-patti-smith_731ef4c9a529",
+  "fingerprint": "731ef4c9a529440038dc88cd04f540a23da3e0b49d4aa304be66b6f354302ae0",
+  "archived_at": "2026-10-04T05:37:41Z",
+  "metadata": {
+    "title": "For Patti Smith",
+    "artist": "A Handful of Dust",
+    "year": "2002",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 2615,
+    "duration_human": "00:43:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 A Handful of Dust - I Am God's Finger",
+      "02 A Handful of Dust - (From a Soundtrack To) Babelfield"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/for-patti-smith_731ef4c9a529"
+    }
+  }
+}
