@@ -40,6 +40,7 @@
 | [Noisolation 2](noisolation-2_c2759c23d5b6/noisolation-2_c2759c23d5b6.md) | 2020 | FLAC | 00:45:00 | [IA](https://archive.org/details/noisolation-2_c2759c23d5b6) |
 | [Spectator](spectator_86f6d01d57e1/spectator_86f6d01d57e1.md) | 2020 | FLAC | 01:15:00 | [IA](https://archive.org/details/spectator_86f6d01d57e1) |
 | [Breaking News](breaking-news_469e3aad85c5/breaking-news_469e3aad85c5.md) | 2020 | FLAC | 01:30:02 | [IA](https://archive.org/details/breaking-news_469e3aad85c5) |
+| [Stone / Metal / Vinyl](stone-metal-vinyl_89b9bc40c8ee/stone-metal-vinyl_89b9bc40c8ee.md) | 2020 | FLAC | 00:30:00 | [IA](https://archive.org/details/stone-metal-vinyl_89b9bc40c8ee) |
 | [Dried](dried_6d622de61e5a/dried_6d622de61e5a.md) | 2020 | FLAC | 01:30:01 | [IA](https://archive.org/details/dried_6d622de61e5a) |
 | [Ossa Mundi](ossa-mundi_e06bca7bd0d5/ossa-mundi_e06bca7bd0d5.md) | 2020 | FLAC | 01:00:00 | [IA](https://archive.org/details/ossa-mundi_e06bca7bd0d5) |
 | [Noisolation 1](noisolation-1_e58ec4afaa36/noisolation-1_e58ec4afaa36.md) | 2020 | FLAC | 00:45:00 | [IA](https://archive.org/details/noisolation-1_e58ec4afaa36) |
