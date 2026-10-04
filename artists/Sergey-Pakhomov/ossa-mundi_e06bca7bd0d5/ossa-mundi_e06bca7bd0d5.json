@@ -1,0 +1,24 @@
+{
+  "id": "ossa-mundi_e06bca7bd0d5",
+  "fingerprint": "e06bca7bd0d56e2499a8d8cd98fe1906c73424aa088361a2f83c0b74329e4e59",
+  "archived_at": "2026-10-04T14:46:11Z",
+  "metadata": {
+    "title": "Ossa Mundi",
+    "artist": "Sergey Pakhomov",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Ossa Mundi"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ossa-mundi_e06bca7bd0d5"
+    }
+  }
+}
