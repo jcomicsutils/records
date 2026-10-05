@@ -1,0 +1,24 @@
+{
+  "id": "symetry-never-happens-in-nature_456d81d8aaf1",
+  "fingerprint": "456d81d8aaf1bd6b513fe714f70839406b07ccb56467bb24a10ae203a91115ec",
+  "archived_at": "2026-10-05T01:01:20Z",
+  "metadata": {
+    "title": "Symetry Never Happens in Nature",
+    "artist": "Entrelacs",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1243,
+    "duration_human": "00:20:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Entrelacs - Symetry Never Happens in Nature"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/symetry-never-happens-in-nature_456d81d8aaf1"
+    }
+  }
+}
