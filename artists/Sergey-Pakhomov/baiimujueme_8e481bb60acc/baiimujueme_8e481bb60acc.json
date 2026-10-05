@@ -1,0 +1,25 @@
+{
+  "id": "baiimujueme_8e481bb60acc",
+  "fingerprint": "8e481bb60acc114748b570fd7ceae2d31f246cd02292452a7b10294a6cd165bf",
+  "archived_at": "2026-10-05T00:55:28Z",
+  "metadata": {
+    "title": "白い目覚め",
+    "artist": "Sergey Pakhomov",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3427,
+    "duration_human": "00:57:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Negative Gravity",
+      "02 Zachary Ledsinger - Awaken"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/baiimujueme_8e481bb60acc"
+    }
+  }
+}

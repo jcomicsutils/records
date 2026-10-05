@@ -32,6 +32,7 @@
 | [Water Experiment #1](water-experiment-1_a4ed9ce03cc5/water-experiment-1_a4ed9ce03cc5.md) | 2018 | FLAC | 00:09:39 | [IA](https://archive.org/details/water-experiment-1_a4ed9ce03cc5) |
 | [Hearing of the Dead](hearing-of-the-dead_6e3194e8ef7b/hearing-of-the-dead_6e3194e8ef7b.md) | 2018 | FLAC | 00:42:30 | [IA](https://archive.org/details/hearing-of-the-dead_6e3194e8ef7b) |
 | [Act of Nothing](act-of-nothing_58c77e81d8b8/act-of-nothing_58c77e81d8b8.md) | 2018 | FLAC | 00:49:48 | [IA](https://archive.org/details/act-of-nothing_58c77e81d8b8) |
+| [白い目覚め](baiimujueme_8e481bb60acc/baiimujueme_8e481bb60acc.md) | 2018 | FLAC | 00:57:07 | [IA](https://archive.org/details/baiimujueme_8e481bb60acc) |
 | [Cherries in the Snow](cherries-in-the-snow_770f8e04d89a/cherries-in-the-snow_770f8e04d89a.md) | 2018 | FLAC | 00:45:00 | [IA](https://archive.org/details/cherries-in-the-snow_770f8e04d89a) |
 | [Painting the Ritual](painting-the-ritual_daef15e94f51/painting-the-ritual_daef15e94f51.md) | 2018 | FLAC | 00:51:35 | [IA](https://archive.org/details/painting-the-ritual_daef15e94f51) |
 | [County Town Thunderstorm](county-town-thunderstorm_722280770833/county-town-thunderstorm_722280770833.md) | 2018 | FLAC | 01:03:05 | [IA](https://archive.org/details/county-town-thunderstorm_722280770833) |
