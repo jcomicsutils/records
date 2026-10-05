@@ -1,0 +1,25 @@
+{
+  "id": "cynorrodhon_d4b3ca22be78",
+  "fingerprint": "d4b3ca22be78d0315cb209b042ddede185b560c51cc6be9f85c2f95004d4ba41",
+  "archived_at": "2026-10-05T00:59:42Z",
+  "metadata": {
+    "title": "Cynorrodhon",
+    "artist": "Entrelacs",
+    "year": "2003",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 967,
+    "duration_human": "00:16:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Entrelacs - Cynorrodhon Eglantine",
+      "02 Entrelacs - Rosa Canina Aquilentum"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/cynorrodhon_d4b3ca22be78"
+    }
+  }
+}

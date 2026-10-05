@@ -118,6 +118,7 @@
 - [Egor Klochikhin](Egor-Klochikhin/Egor-Klochikhin.md)
 - [Ein Sof](Ein-Sof/Ein-Sof.md)
 - [Ensemble Pearl](Ensemble-Pearl/Ensemble-Pearl.md)
+- [Entrelacs](Entrelacs/Entrelacs.md)
 - [Espers](Espers/Espers.md)
 - [Eurymedon](Eurymedon/Eurymedon.md)
 - [Ever Present Orchestra](Ever-Present-Orchestra/Ever-Present-Orchestra.md)
