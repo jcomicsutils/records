@@ -1,0 +1,25 @@
+{
+  "id": "winter-triangle_1da061717d66",
+  "fingerprint": "1da061717d66b76719d2db558da1c53172afc22d6159026604f0b1df37a5f9c3",
+  "archived_at": "2026-10-05T00:43:36Z",
+  "metadata": {
+    "title": "Winter Triangle",
+    "artist": "Sergey Pakhomov",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3677,
+    "duration_human": "01:01:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Untitled I",
+      "02 Sergey Pakhomov - Untitled II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/winter-triangle_1da061717d66"
+    }
+  }
+}

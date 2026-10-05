@@ -64,6 +64,7 @@
 | [Noisolation 1](noisolation-1_e58ec4afaa36/noisolation-1_e58ec4afaa36.md) | 2020 | FLAC | 00:45:00 | [IA](https://archive.org/details/noisolation-1_e58ec4afaa36) |
 | [Eight Untitled Tracks](eight-untitled-tracks_e3ca3ae1fab6/eight-untitled-tracks_e3ca3ae1fab6.md) | 2020 | FLAC | 01:19:59 | [IA](https://archive.org/details/eight-untitled-tracks_e3ca3ae1fab6) |
 | [Le Bruit Électromagnétique 2: Field Recordings](le-bruit-electromagnetique-2-field-recordings_903ef5245339/le-bruit-electromagnetique-2-field-recordings_903ef5245339.md) | 2020 | FLAC | 00:45:35 | [IA](https://archive.org/details/le-bruit-electromagnetique-2-field-recordings_903ef5245339) |
+| [Winter Triangle](winter-triangle_1da061717d66/winter-triangle_1da061717d66.md) | 2020 | FLAC | 01:01:17 | [IA](https://archive.org/details/winter-triangle_1da061717d66) |
 | [Dehumanization of Sympathy](dehumanization-of-sympathy_31d515a1c668/dehumanization-of-sympathy_31d515a1c668.md) | 2020 | FLAC | 01:19:59 | [IA](https://archive.org/details/dehumanization-of-sympathy_31d515a1c668) |
 | [Polivoks in Statics](polivoks-in-statics_63ec388301e6/polivoks-in-statics_63ec388301e6.md) | 2020 | FLAC | 02:00:00 | [IA](https://archive.org/details/polivoks-in-statics_63ec388301e6) |
 | [Inflexions](inflexions_375013894585/inflexions_375013894585.md) | 2020 | FLAC | 01:00:00 | [IA](https://archive.org/details/inflexions_375013894585) |
