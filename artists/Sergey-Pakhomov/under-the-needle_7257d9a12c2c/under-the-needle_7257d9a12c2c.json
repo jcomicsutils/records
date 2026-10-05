@@ -1,0 +1,26 @@
+{
+  "id": "under-the-needle_7257d9a12c2c",
+  "fingerprint": "7257d9a12c2c652ac400e571da7c61d89b5ac533d925a1ecfaa996fbf378b4c6",
+  "archived_at": "2026-10-05T01:08:10Z",
+  "metadata": {
+    "title": "Under the Needle",
+    "artist": "Sergey Pakhomov",
+    "year": "2017",
+    "codec": "AAC",
+    "num_tracks": 3,
+    "duration_seconds": 4136,
+    "duration_human": "01:08:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 SP - Untitled #1",
+      "02 SP - Untitled #2",
+      "03 SP - Untitled #3"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/under-the-needle_7257d9a12c2c"
+    }
+  }
+}
