@@ -1,0 +1,25 @@
+{
+  "id": "wall-noise-action-013_3232d4349cc6",
+  "fingerprint": "3232d4349cc69fc463d90721378745046763a408b05ee2d3c212bd5603336c77",
+  "archived_at": "2026-10-05T00:15:03Z",
+  "metadata": {
+    "title": "Wall Noise Action 013",
+    "artist": "Sergey Pakhomov",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1254,
+    "duration_human": "00:20:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Uior - Eva 2",
+      "02 SP - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wall-noise-action-013_3232d4349cc6"
+    }
+  }
+}
