@@ -15,6 +15,7 @@
 | [Insect Cult](insect-cult_84c76e5232ba/insect-cult_84c76e5232ba.md) | 2017 | FLAC | 03:00:00 | [IA](https://archive.org/details/insect-cult_84c76e5232ba) |
 | [Self-Release](self-release_90a2186b5042/self-release_90a2186b5042.md) | 2017 | FLAC | 01:33:59 | [IA](https://archive.org/details/self-release_90a2186b5042) |
 | [Wall Noise Action 013](wall-noise-action-013_3232d4349cc6/wall-noise-action-013_3232d4349cc6.md) | 2017 | FLAC | 00:20:54 | [IA](https://archive.org/details/wall-noise-action-013_3232d4349cc6) |
+| [Winter Gift](winter-gift_3ee09e211451/winter-gift_3ee09e211451.md) | 2017 | FLAC | 00:51:00 | [IA](https://archive.org/details/winter-gift_3ee09e211451) |
 | [Color Confinement](color-confinement_6829308fd0d3/color-confinement_6829308fd0d3.md) | 2017 | FLAC | 01:20:00 | [IA](https://archive.org/details/color-confinement_6829308fd0d3) |
 | [On Unknown Paths](on-unknown-paths_f9f4433ddfb7/on-unknown-paths_f9f4433ddfb7.md) | 2017 | FLAC | 00:42:18 | [IA](https://archive.org/details/on-unknown-paths_f9f4433ddfb7) |
 | [The Hum of the Earth](the-hum-of-the-earth_d8a7070b5c85/the-hum-of-the-earth_d8a7070b5c85.md) | 2017 | FLAC | 07:00:00 | [IA](https://archive.org/details/the-hum-of-the-earth_d8a7070b5c85) |

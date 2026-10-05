@@ -1,0 +1,25 @@
+{
+  "id": "winter-gift_3ee09e211451",
+  "fingerprint": "3ee09e2114510abccc2ec22d3e9491d5098874ed15504607b77c474f13e17290",
+  "archived_at": "2026-10-05T00:36:51Z",
+  "metadata": {
+    "title": "Winter Gift",
+    "artist": "Sergey Pakhomov",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3060,
+    "duration_human": "00:51:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 S.Pakhomov - Untitled A",
+      "02 S.Pakhomov - Untitled B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/winter-gift_3ee09e211451"
+    }
+  }
+}
