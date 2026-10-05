@@ -1,0 +1,24 @@
+{
+  "id": "whaler_7fdfb954e8c4",
+  "fingerprint": "7fdfb954e8c46fc4f27b4dc68dbb0ac4693c770f33e0de675b29dbb6388387b3",
+  "archived_at": "2026-10-05T00:32:35Z",
+  "metadata": {
+    "title": "Whaler",
+    "artist": "Sergey Pakhomov",
+    "year": "2018",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 5400,
+    "duration_human": "01:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Sergey Pakhomov - Whaler"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/whaler_7fdfb954e8c4"
+    }
+  }
+}
