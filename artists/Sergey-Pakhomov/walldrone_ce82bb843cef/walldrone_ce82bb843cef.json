@@ -1,0 +1,25 @@
+{
+  "id": "walldrone_ce82bb843cef",
+  "fingerprint": "ce82bb843cef13ba19ef5cb54981af4b283df32d8581aac936ee8c13f0a48740",
+  "archived_at": "2026-10-05T00:21:23Z",
+  "metadata": {
+    "title": "Walldrone",
+    "artist": "Sergey Pakhomov",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 7200,
+    "duration_human": "02:00:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Drone I",
+      "02 Sergey Pakhomov - Drone II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/walldrone_ce82bb843cef"
+    }
+  }
+}
