@@ -1,0 +1,24 @@
+{
+  "id": "water-experiment-1_a4ed9ce03cc5",
+  "fingerprint": "a4ed9ce03cc5aa7e5955abb09826b8aee28ee6f647d46adc79ca8f501bc8a8ee",
+  "archived_at": "2026-10-05T00:30:13Z",
+  "metadata": {
+    "title": "Water Experiment #1",
+    "artist": "Sergey Pakhomov",
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 579,
+    "duration_human": "00:09:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Water Experiment #1"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/water-experiment-1_a4ed9ce03cc5"
+    }
+  }
+}
