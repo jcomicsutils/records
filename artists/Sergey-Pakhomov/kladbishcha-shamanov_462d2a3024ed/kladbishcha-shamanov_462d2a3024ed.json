@@ -1,0 +1,24 @@
+{
+  "id": "kladbishcha-shamanov_462d2a3024ed",
+  "fingerprint": "462d2a3024ed331af6b56fa2df72562894bae0a62bfa61286829cb32a054f145",
+  "archived_at": "2026-10-05T00:50:28Z",
+  "metadata": {
+    "title": "Кладбища Шаманов",
+    "artist": "Sergey Pakhomov",
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2667,
+    "duration_human": "00:44:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Сергей Пахомов - Кладбища Шаманов"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kladbishcha-shamanov_462d2a3024ed"
+    }
+  }
+}

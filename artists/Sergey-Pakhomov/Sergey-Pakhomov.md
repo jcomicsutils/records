@@ -18,6 +18,7 @@
 | [Winter Gift](winter-gift_3ee09e211451/winter-gift_3ee09e211451.md) | 2017 | FLAC | 00:51:00 | [IA](https://archive.org/details/winter-gift_3ee09e211451) |
 | [Color Confinement](color-confinement_6829308fd0d3/color-confinement_6829308fd0d3.md) | 2017 | FLAC | 01:20:00 | [IA](https://archive.org/details/color-confinement_6829308fd0d3) |
 | [On Unknown Paths](on-unknown-paths_f9f4433ddfb7/on-unknown-paths_f9f4433ddfb7.md) | 2017 | FLAC | 00:42:18 | [IA](https://archive.org/details/on-unknown-paths_f9f4433ddfb7) |
+| [Кладбища Шаманов](kladbishcha-shamanov_462d2a3024ed/kladbishcha-shamanov_462d2a3024ed.md) | 2017 | FLAC | 00:44:27 | [IA](https://archive.org/details/kladbishcha-shamanov_462d2a3024ed) |
 | [The Hum of the Earth](the-hum-of-the-earth_d8a7070b5c85/the-hum-of-the-earth_d8a7070b5c85.md) | 2017 | FLAC | 07:00:00 | [IA](https://archive.org/details/the-hum-of-the-earth_d8a7070b5c85) |
 | [Uitgeschakeld / SP](uitgeschakeld-sp_43dd146532b8/uitgeschakeld-sp_43dd146532b8.md) | 2017 | FLAC | 01:16:48 | [IA](https://archive.org/details/uitgeschakeld-sp_43dd146532b8) |
 | [Untitled](untitled_112436e5505f/untitled_112436e5505f.md) | 2017 | FLAC | 00:54:34 | [IA](https://archive.org/details/untitled_112436e5505f) |
