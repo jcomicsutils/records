@@ -1,0 +1,25 @@
+{
+  "id": "circle_9a6c6382d79e",
+  "fingerprint": "9a6c6382d79e2a9badb795f7c4e897af4810feefa8271c7d3ab904071ce089a0",
+  "archived_at": "2026-10-06T20:33:25Z",
+  "metadata": {
+    "title": "Circle",
+    "artist": "Sergey Pakhomov",
+    "year": "2018",
+    "codec": "MP3",
+    "num_tracks": 2,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Sergey Pakhomov - I",
+      "02 Sergey Pakhomov - II"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/circle_9a6c6382d79e"
+    }
+  }
+}
