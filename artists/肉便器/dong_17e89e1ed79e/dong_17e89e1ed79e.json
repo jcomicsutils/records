@@ -1,0 +1,24 @@
+{
+  "id": "dong_17e89e1ed79e",
+  "fingerprint": "17e89e1ed79e902a5f4d7039e6561f4900c8317a26f1584b7f9405db9f4ff892",
+  "archived_at": "2026-10-07T20:01:16Z",
+  "metadata": {
+    "title": "洞",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 660,
+    "duration_human": "00:11:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - 洞"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dong_17e89e1ed79e"
+    }
+  }
+}
