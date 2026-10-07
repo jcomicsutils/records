@@ -1,0 +1,24 @@
+{
+  "id": "kuraimatkusu_ccc5961f7154",
+  "fingerprint": "ccc5961f7154dd4812ea5abcfb930d09b5d91b409a21540d2497b3acf04390d9",
+  "archived_at": "2026-10-07T18:01:45Z",
+  "metadata": {
+    "title": "クライマックス！",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 696,
+    "duration_human": "00:11:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - クライマックス！"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kuraimatkusu_ccc5961f7154"
+    }
+  }
+}
