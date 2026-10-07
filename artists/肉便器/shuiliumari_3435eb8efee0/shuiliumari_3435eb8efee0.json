@@ -1,0 +1,27 @@
+{
+  "id": "shuiliumari_3435eb8efee0",
+  "fingerprint": "3435eb8efee0a9164b0673db9217221f09e57ecdbcdfbabf9f921c456f65e482",
+  "archived_at": "2026-10-07T19:55:07Z",
+  "metadata": {
+    "title": "水溜まり",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1370,
+    "duration_human": "00:22:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - A",
+      "02 肉便器 - B",
+      "03 肉便器 - C",
+      "04 肉便器 - D"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/shuiliumari_3435eb8efee0"
+    }
+  }
+}
