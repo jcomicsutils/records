@@ -1,0 +1,24 @@
+{
+  "id": "st_04d58d8af26a",
+  "fingerprint": "04d58d8af26a93edb5a52e6c098e4771961043cdc33c362dd6f4c76f76ada14f",
+  "archived_at": "2026-10-07T17:42:10Z",
+  "metadata": {
+    "title": "S/T",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 151,
+    "duration_human": "00:02:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - N/A"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/st_04d58d8af26a"
+    }
+  }
+}
