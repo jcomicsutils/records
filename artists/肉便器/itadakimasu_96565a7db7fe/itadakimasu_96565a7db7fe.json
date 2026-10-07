@@ -1,0 +1,25 @@
+{
+  "id": "itadakimasu_96565a7db7fe",
+  "fingerprint": "96565a7db7fe95aef28de3f71b3363bbbeac06aecf18ce9b8e8be4b4ba398bac",
+  "archived_at": "2026-10-07T17:47:34Z",
+  "metadata": {
+    "title": "いただきます",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 720,
+    "duration_human": "00:12:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - 01",
+      "02 肉便器 - 02"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/itadakimasu_96565a7db7fe"
+    }
+  }
+}
