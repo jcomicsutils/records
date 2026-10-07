@@ -1,0 +1,25 @@
+{
+  "id": "gongtianmiyuki_93256f35c029",
+  "fingerprint": "93256f35c029de3eaf2a33939ade4ab31b7e349f4c94e09107346cd339797f72",
+  "archived_at": "2026-10-07T19:32:17Z",
+  "metadata": {
+    "title": "宮田みゆき",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 870,
+    "duration_human": "00:14:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - 宮田",
+      "02 肉便器 - みゆき"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/gongtianmiyuki_93256f35c029"
+    }
+  }
+}
