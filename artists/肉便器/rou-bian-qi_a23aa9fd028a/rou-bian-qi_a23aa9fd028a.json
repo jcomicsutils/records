@@ -1,0 +1,25 @@
+{
+  "id": "rou-bian-qi_a23aa9fd028a",
+  "fingerprint": "a23aa9fd028aeaa23cd4d224649eaaf16c02f93907247b0d7d01fc1772c44ba5",
+  "archived_at": "2026-10-07T22:00:23Z",
+  "metadata": {
+    "title": "肉 便 器",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 477,
+    "duration_human": "00:07:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - Side A",
+      "02 肉便器 - Side B"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rou-bian-qi_a23aa9fd028a"
+    }
+  }
+}
