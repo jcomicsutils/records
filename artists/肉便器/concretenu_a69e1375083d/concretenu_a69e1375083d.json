@@ -1,0 +1,28 @@
+{
+  "id": "concretenu_a69e1375083d",
+  "fingerprint": "a69e1375083d3c6156d1cf9ad082798eed188026ebb010baf6e5aabcddd55acf",
+  "archived_at": "2026-10-07T17:28:57Z",
+  "metadata": {
+    "title": "Concrete女",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 108,
+    "duration_human": "00:01:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - Concrete女 #１",
+      "02 肉便器 - Concrete女 #２",
+      "03 肉便器 - Concrete女 #３",
+      "04 肉便器 - Concrete女 #４",
+      "05 肉便器 - Concrete女 #５"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/concretenu_a69e1375083d"
+    }
+  }
+}
