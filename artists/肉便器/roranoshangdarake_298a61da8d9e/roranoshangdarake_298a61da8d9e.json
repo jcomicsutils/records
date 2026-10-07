@@ -1,0 +1,25 @@
+{
+  "id": "roranoshangdarake_298a61da8d9e",
+  "fingerprint": "298a61da8d9e3902cbb6d1366baed56b2e6aece7453f1b360a8fa36aa42a1532",
+  "archived_at": "2026-10-07T18:30:35Z",
+  "metadata": {
+    "title": "ローラの傷だらけ",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 657,
+    "duration_human": "00:10:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - Take 01",
+      "02 肉便器 - Take 02"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/roranoshangdarake_298a61da8d9e"
+    }
+  }
+}
