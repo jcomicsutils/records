@@ -1,0 +1,25 @@
+{
+  "id": "zhenqianben_1f336041a412",
+  "fingerprint": "1f336041a412fef40b351cf35f00b17953401d19b4f24c23bb47d8668fbb8fca",
+  "archived_at": "2026-10-07T22:36:36Z",
+  "metadata": {
+    "title": "針千本",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 600,
+    "duration_human": "00:10:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - Part 01",
+      "02 肉便器 - Part 02"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zhenqianben_1f336041a412"
+    }
+  }
+}
