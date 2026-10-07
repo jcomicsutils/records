@@ -1,0 +1,25 @@
+{
+  "id": "douzo_03880bbd30bd",
+  "fingerprint": "03880bbd30bd830d97b848c04052f77f2cd1d9223525d6f56fbc6ae00bd94345",
+  "archived_at": "2026-10-07T18:11:08Z",
+  "metadata": {
+    "title": "どうぞ",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1172,
+    "duration_human": "00:19:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - どうぞ",
+      "02 肉便器 - よろしく"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/douzo_03880bbd30bd"
+    }
+  }
+}
