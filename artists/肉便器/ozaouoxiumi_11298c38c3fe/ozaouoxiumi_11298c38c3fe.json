@@ -1,0 +1,25 @@
+{
+  "id": "ozaouoxiumi_11298c38c3fe",
+  "fingerprint": "11298c38c3febcffce27c4196c7829e1a32bbf8bcbd156454a16da496c8ba184",
+  "archived_at": "2026-10-07T17:58:04Z",
+  "metadata": {
+    "title": "お早う/お休み",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1440,
+    "duration_human": "00:24:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - お早う",
+      "02 肉便器 - お休み"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ozaouoxiumi_11298c38c3fe"
+    }
+  }
+}
