@@ -1,0 +1,24 @@
+{
+  "id": "ep_f35fabd1fdce",
+  "fingerprint": "f35fabd1fdcef661dfc269d506bf7cf3dcdcab7f5750af2e7feabeec71ed9801",
+  "archived_at": "2026-10-07T17:29:57Z",
+  "metadata": {
+    "title": "EP",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 139,
+    "duration_human": "00:02:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - EP"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ep_f35fabd1fdce"
+    }
+  }
+}
