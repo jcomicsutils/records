@@ -1,0 +1,27 @@
+{
+  "id": "zhaodai_09ca0f6b0ecf",
+  "fingerprint": "09ca0f6b0ecf2b312889dcd967a5e3182ea1502a8f4279cf5ce40e5ce48c30e3",
+  "archived_at": "2026-10-07T19:43:40Z",
+  "metadata": {
+    "title": "招待",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1654,
+    "duration_human": "00:27:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - 招待 01",
+      "02 肉便器 - 招待 02",
+      "03 肉便器 - 招待 03",
+      "04 肉便器 - 招待 04"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zhaodai_09ca0f6b0ecf"
+    }
+  }
+}
