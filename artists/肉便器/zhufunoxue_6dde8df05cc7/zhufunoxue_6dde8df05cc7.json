@@ -1,0 +1,24 @@
+{
+  "id": "zhufunoxue_6dde8df05cc7",
+  "fingerprint": "6dde8df05cc7c1bf97a14f716ad3c9ec05668a9f928ca210670f2ca57b77569a",
+  "archived_at": "2026-10-07T18:38:13Z",
+  "metadata": {
+    "title": "主婦の穴",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 476,
+    "duration_human": "00:07:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - 主婦の穴"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zhufunoxue_6dde8df05cc7"
+    }
+  }
+}
