@@ -1,0 +1,24 @@
+{
+  "id": "pangtuo_306310174200",
+  "fingerprint": "306310174200c2f15a5bb765f76067b154327b327b24131baf8b3e806f45506c",
+  "archived_at": "2026-10-07T20:05:28Z",
+  "metadata": {
+    "title": "滂沱",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 620,
+    "duration_human": "00:10:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - 滂沱"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pangtuo_306310174200"
+    }
+  }
+}
