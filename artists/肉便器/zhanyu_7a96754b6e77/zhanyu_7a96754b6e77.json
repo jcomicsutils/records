@@ -1,0 +1,33 @@
+{
+  "id": "zhanyu_7a96754b6e77",
+  "fingerprint": "7a96754b6e773adceccb9161f2bea943155a4452fdb935f5fe1e4c73dc4231ca",
+  "archived_at": "2026-10-07T22:31:57Z",
+  "metadata": {
+    "title": "譫語",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 232,
+    "duration_human": "00:03:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - xxxxx",
+      "02 肉便器 - xxxxx",
+      "03 肉便器 - xxxxx",
+      "04 肉便器 - xxxxx",
+      "05 肉便器 - xxxxx",
+      "06 肉便器 - xxxxx",
+      "07 肉便器 - xxxxx",
+      "08 肉便器 - xxxxx",
+      "09 肉便器 - xxxxx",
+      "10 肉便器 - xxxxx"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zhanyu_7a96754b6e77"
+    }
+  }
+}
