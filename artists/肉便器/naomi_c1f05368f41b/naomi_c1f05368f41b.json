@@ -1,0 +1,24 @@
+{
+  "id": "naomi_c1f05368f41b",
+  "fingerprint": "c1f05368f41bddf7b5a370e6516f7ad125af46f72afee9e8b4315603adf6d8d4",
+  "archived_at": "2026-10-07T18:15:23Z",
+  "metadata": {
+    "title": "ナオミ",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 228,
+    "duration_human": "00:03:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - ナオミ （１－４）"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/naomi_c1f05368f41b"
+    }
+  }
+}
