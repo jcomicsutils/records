@@ -1,0 +1,26 @@
+{
+  "id": "23_2b1cf77d6834",
+  "fingerprint": "2b1cf77d683414ced0be2f1e1b17e51d4e710fb87275ccc904818b6f4405da2b",
+  "archived_at": "2026-10-07T02:14:43Z",
+  "metadata": {
+    "title": "#2/3",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - 第一問",
+      "02 肉便器 - 第二問",
+      "03 肉便器 - 第三問"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/23_2b1cf77d6834"
+    }
+  }
+}
