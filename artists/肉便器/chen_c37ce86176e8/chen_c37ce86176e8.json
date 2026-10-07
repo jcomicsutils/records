@@ -1,0 +1,31 @@
+{
+  "id": "chen_c37ce86176e8",
+  "fingerprint": "c37ce86176e89543f5d29fbce3635c6e8498ec30fc8268fce9f3537e55927a06",
+  "archived_at": "2026-10-07T19:12:49Z",
+  "metadata": {
+    "title": "塵",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1482,
+    "duration_human": "00:24:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - 塵 第一部",
+      "02 肉便器 - 塵 第二部",
+      "03 肉便器 - 塵 第三部",
+      "04 肉便器 - 塵 第四部",
+      "05 肉便器 - 塵 第五部",
+      "06 肉便器 - 塵 第六部",
+      "07 肉便器 - 塵 第七部",
+      "08 肉便器 - 塵 第八部"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chen_c37ce86176e8"
+    }
+  }
+}
