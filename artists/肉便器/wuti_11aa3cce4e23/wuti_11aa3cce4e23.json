@@ -1,0 +1,24 @@
+{
+  "id": "wuti_11aa3cce4e23",
+  "fingerprint": "11aa3cce4e2308a040a721141675ad863eebb62a3e9477d780daedaad21afd8a",
+  "archived_at": "2026-10-07T20:19:12Z",
+  "metadata": {
+    "title": "無題",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 964,
+    "duration_human": "00:16:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wuti_11aa3cce4e23"
+    }
+  }
+}
