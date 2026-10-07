@@ -1,0 +1,28 @@
+{
+  "id": "qianbei_dd462aa20715",
+  "fingerprint": "dd462aa20715667612530170ac6cc40bc8226163f273693bdab70a4739c5017e",
+  "archived_at": "2026-10-07T18:42:01Z",
+  "metadata": {
+    "title": "乾杯",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1166,
+    "duration_human": "00:19:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - 乾杯",
+      "02 肉便器 - 万歳",
+      "03 肉便器 - Bonus Track",
+      "04 肉便器 - Bonus Track",
+      "05 肉便器 - Bonus Track"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/qianbei_dd462aa20715"
+    }
+  }
+}
