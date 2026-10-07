@@ -1,0 +1,26 @@
+{
+  "id": "nikubenki_4cbcb5d3bb42",
+  "fingerprint": "4cbcb5d3bb42c5f14cabfc35d1c7fec870974b6209153500e6614420a31c43a4",
+  "archived_at": "2026-10-07T18:21:07Z",
+  "metadata": {
+    "title": "ニクベンキ",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1443,
+    "duration_human": "00:24:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - ニクベンキ 第一部",
+      "02 肉便器 - ニクベンキ 第二部",
+      "03 肉便器 - ニクベンキ 第三部"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nikubenki_4cbcb5d3bb42"
+    }
+  }
+}
