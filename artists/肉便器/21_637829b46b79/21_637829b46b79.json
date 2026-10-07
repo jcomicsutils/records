@@ -1,0 +1,28 @@
+{
+  "id": "21_637829b46b79",
+  "fingerprint": "637829b46b7961da6a9a09e3db1e43a2c12fb2e4560e237f5db41dc7133fa46e",
+  "archived_at": "2026-10-07T17:24:00Z",
+  "metadata": {
+    "title": "#21",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 202,
+    "duration_human": "00:03:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - 無題",
+      "02 肉便器 - 無題",
+      "03 肉便器 - 無題",
+      "04 肉便器 - 無題",
+      "05 肉便器 - 無題"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/21_637829b46b79"
+    }
+  }
+}
