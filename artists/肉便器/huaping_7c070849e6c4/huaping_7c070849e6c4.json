@@ -1,0 +1,33 @@
+{
+  "id": "huaping_7c070849e6c4",
+  "fingerprint": "7c070849e6c4f01a5309b7ef7848e7ba2f606606ba8bd01b192d3f142b087d93",
+  "archived_at": "2026-10-07T22:26:25Z",
+  "metadata": {
+    "title": "花瓶",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 4306,
+    "duration_human": "01:11:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - 花瓶 第一部",
+      "02 肉便器 - 花瓶 第二部",
+      "03 肉便器 - 花瓶 第三部",
+      "04 肉便器 - 花瓶 第四部",
+      "05 肉便器 - 花瓶 第五部",
+      "06 肉便器 - 花瓶 第六部",
+      "07 肉便器 - 花瓶 第七部",
+      "08 肉便器 - 花瓶 第八部",
+      "09 肉便器 - 花瓶 第九部",
+      "10 肉便器 - 花瓶 第十部"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/huaping_7c070849e6c4"
+    }
+  }
+}
