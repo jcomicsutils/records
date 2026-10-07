@@ -1,0 +1,24 @@
+{
+  "id": "shibafan_5cf3bd95000b",
+  "fingerprint": "5cf3bd95000b6d4a1b2ef5437888df39f1e37d63103327939a19855033918f4c",
+  "archived_at": "2026-10-07T18:59:12Z",
+  "metadata": {
+    "title": "十八番",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 600,
+    "duration_human": "00:10:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - 十八番"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/shibafan_5cf3bd95000b"
+    }
+  }
+}
