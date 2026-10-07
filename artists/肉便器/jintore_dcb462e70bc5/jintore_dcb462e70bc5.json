@@ -1,0 +1,25 @@
+{
+  "id": "jintore_dcb462e70bc5",
+  "fingerprint": "dcb462e70bc5e1a9d6050ef4cc1169d52bd7cb36a58aced7f1e0b8cd5069be34",
+  "archived_at": "2026-10-07T21:00:27Z",
+  "metadata": {
+    "title": "筋トレ",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1729,
+    "duration_human": "00:28:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - 筋トレ",
+      "02 肉便器 - 渋谷美穂"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/jintore_dcb462e70bc5"
+    }
+  }
+}
