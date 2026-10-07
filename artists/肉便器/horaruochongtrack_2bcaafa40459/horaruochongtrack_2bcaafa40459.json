@@ -1,0 +1,24 @@
+{
+  "id": "horaruochongtrack_2bcaafa40459",
+  "fingerprint": "2bcaafa4045912d7d9fd6618c403a78967d3dae19e2ac8fd983bd53fd0d3928f",
+  "archived_at": "2026-10-07T18:24:06Z",
+  "metadata": {
+    "title": "ほら！弱虫！(Track)",
+    "artist": "肉便器",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 28,
+    "duration_human": "00:00:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - ほら！弱虫！"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/horaruochongtrack_2bcaafa40459"
+    }
+  }
+}
