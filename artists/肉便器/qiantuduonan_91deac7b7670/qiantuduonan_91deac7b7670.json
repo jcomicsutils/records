@@ -1,0 +1,27 @@
+{
+  "id": "qiantuduonan_91deac7b7670",
+  "fingerprint": "91deac7b76702a0dc4cf9883744cbda70531e57dc41d3530bbc88e89bf756cc9",
+  "archived_at": "2026-10-07T18:49:01Z",
+  "metadata": {
+    "title": "前途多難",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1201,
+    "duration_human": "00:20:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - 前途多難 第一部",
+      "02 肉便器 - 前途多難 第二部",
+      "03 肉便器 - 前途多難 第三部",
+      "04 肉便器 - 前途多難 第四部"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/qiantuduonan_91deac7b7670"
+    }
+  }
+}
