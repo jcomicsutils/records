@@ -1,0 +1,25 @@
+{
+  "id": "bi_7a72a5eb04ec",
+  "fingerprint": "7a72a5eb04ec750d591de29bcf1a356a4c8356f077d5de0d06c461561236a12c",
+  "archived_at": "2026-10-07T19:24:14Z",
+  "metadata": {
+    "title": "壁",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 600,
+    "duration_human": "00:10:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - Part 01",
+      "02 肉便器 - Part 02"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bi_7a72a5eb04ec"
+    }
+  }
+}
