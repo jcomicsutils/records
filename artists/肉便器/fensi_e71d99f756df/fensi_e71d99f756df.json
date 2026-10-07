@@ -1,0 +1,36 @@
+{
+  "id": "fensi_e71d99f756df",
+  "fingerprint": "e71d99f756df9893fda0c9a5f0ceb3e08946fa2e30303b97eb9e17ae3046538c",
+  "archived_at": "2026-10-07T19:37:14Z",
+  "metadata": {
+    "title": "憤死",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 626,
+    "duration_human": "00:10:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - 第一部",
+      "02 肉便器 - 第二部",
+      "03 肉便器 - 第三部",
+      "04 肉便器 - 第四部",
+      "05 肉便器 - 第五部",
+      "06 肉便器 - 第六部",
+      "07 肉便器 - 第七部",
+      "08 肉便器 - 第八部",
+      "09 肉便器 - 第九部",
+      "10 肉便器 - 第十部",
+      "11 肉便器 - 第十一部",
+      "12 肉便器 - 第十二部",
+      "13 肉便器 - 第十三部"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/fensi_e71d99f756df"
+    }
+  }
+}
