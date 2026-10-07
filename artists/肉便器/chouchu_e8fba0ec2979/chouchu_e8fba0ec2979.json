@@ -1,0 +1,26 @@
+{
+  "id": "chouchu_e8fba0ec2979",
+  "fingerprint": "e8fba0ec2979f5cc3dc5a3341e26cea51cf9160719adb207f0b043887321d4aa",
+  "archived_at": "2026-10-07T22:33:58Z",
+  "metadata": {
+    "title": "躊躇",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1242,
+    "duration_human": "00:20:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - 躊 (Take 02)",
+      "02 肉便器 - 躇",
+      "03 肉便器 - 躊 (Take 01)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/chouchu_e8fba0ec2979"
+    }
+  }
+}
