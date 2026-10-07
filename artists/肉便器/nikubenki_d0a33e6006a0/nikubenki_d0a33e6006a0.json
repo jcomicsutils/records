@@ -1,0 +1,24 @@
+{
+  "id": "nikubenki_d0a33e6006a0",
+  "fingerprint": "d0a33e6006a091eeb9ffd18b4bc25adf3bd4aafa7a515c5472d6b6ecbd178e9d",
+  "archived_at": "2026-10-07T17:35:20Z",
+  "metadata": {
+    "title": "Nikubenki",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 765,
+    "duration_human": "00:12:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - ジョージア・ファッジ"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/nikubenki_d0a33e6006a0"
+    }
+  }
+}
