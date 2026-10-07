@@ -1,0 +1,29 @@
+{
+  "id": "outtakes-1_89d5c3fec906",
+  "fingerprint": "89d5c3fec906d82fd5b3d022338837f9f7daaa4756e5c82b87ff3f9ac718aeb7",
+  "archived_at": "2026-10-07T17:38:07Z",
+  "metadata": {
+    "title": "Outtakes #1",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 133,
+    "duration_human": "00:02:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - 鏡の買い物",
+      "02 肉便器 - 市井紗耶香ナショナリズム",
+      "03 肉便器 - #3 - A",
+      "04 肉便器 - #3 - B",
+      "05 肉便器 - #3 - C",
+      "06 肉便器 - Concrete女 - A"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/outtakes-1_89d5c3fec906"
+    }
+  }
+}
