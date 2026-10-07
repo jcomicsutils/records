@@ -1,0 +1,28 @@
+{
+  "id": "georgia_105671759af8",
+  "fingerprint": "105671759af84eaefb76e2a6e5ac09ed4e910a63e0e14e65dc619285caf19ed4",
+  "archived_at": "2026-10-07T17:31:59Z",
+  "metadata": {
+    "title": "Georgia",
+    "artist": "肉便器",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1721,
+    "duration_human": "00:28:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 肉便器 - [untitled]",
+      "02 肉便器 - [untitled]",
+      "03 肉便器 - [untitled]",
+      "04 肉便器 - [untitled]",
+      "05 肉便器 - [untitled]"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/georgia_105671759af8"
+    }
+  }
+}
