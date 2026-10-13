@@ -15,6 +15,7 @@
 | [Aerophobia](aerophobia_1791855767/aerophobia_1791855767.md) | 2019 | FLAC | 00:35:14 | [IA](https://archive.org/details/aerophobia_4f72b9b7cad3) |
 | [Friends](friends_1791855804/friends_1791855804.md) | 2019 | FLAC | 00:32:59 | [IA](https://archive.org/details/friends_b4a5569dd770) |
 | [I Let a Song Go Out of My Heart](i-let-a-song-go-out-of-my-heart_1791855815/i-let-a-song-go-out-of-my-heart_1791855815.md) | 2020 | FLAC | 00:38:39 | [IA](https://archive.org/details/i-let-a-song-go-out-of-my-heart_85314c6d46f5) |
+| [Santa Fe Live \(Theodore Cale Schafer Remix\)](santa-fe-live-theodore-cale-schafer-remix_1791855865/santa-fe-live-theodore-cale-schafer-remix_1791855865.md) | 2020 | ALAC | 01:14:53 | [IA](https://archive.org/details/santa-fe-live-theodore-cale-schafer-remix_40a75246bfe3) |
 | [Live at CO-OPt](live-at-co-opt_1791855839/live-at-co-opt_1791855839.md) | 2020 | MP3 | 00:28:25 | [IA](https://archive.org/details/live-at-co-opt_f5feb073c203) |
 | [If I Don't Let Myself Be Happy Now Then When?](if-i-dont-let-myself-be-happy-now-then-when_1791855820/if-i-dont-let-myself-be-happy-now-then-when_1791855820.md) | 2020 | FLAC | 00:34:49 | [IA](https://archive.org/details/if-i-dont-let-myself-be-happy-now-then-when_37a910517aea) |
 | [I'll Give You All of My Love](ill-give-you-all-of-my-love_1791855817/ill-give-you-all-of-my-love_1791855817.md) | 2020 | FLAC | 00:33:58 | [IA](https://archive.org/details/ill-give-you-all-of-my-love_ad2052161cd4) |
