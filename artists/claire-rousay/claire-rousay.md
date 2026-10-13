@@ -15,6 +15,7 @@
 | [It Is Just So Much More Difficult](it-is-just-so-much-more-difficult_1791855827/it-is-just-so-much-more-difficult_1791855827.md) | 2019 | FLAC | 00:29:26 | [IA](https://archive.org/details/it-is-just-so-much-more-difficult_558dc00350f9) |
 | [Aerophobia](aerophobia_1791855767/aerophobia_1791855767.md) | 2019 | FLAC | 00:35:14 | [IA](https://archive.org/details/aerophobia_4f72b9b7cad3) |
 | [Friends](friends_1791855804/friends_1791855804.md) | 2019 | FLAC | 00:32:59 | [IA](https://archive.org/details/friends_b4a5569dd770) |
+| [Tuufuhhoowaah / Bday Shots](tuufuhhoowaah-bday-shots_1791855895/tuufuhhoowaah-bday-shots_1791855895.md) | 2020 | FLAC | 00:07:38 | [IA](https://archive.org/details/tuufuhhoowaah-bday-shots_f8b441ee0fa8) |
 | [I Let a Song Go Out of My Heart](i-let-a-song-go-out-of-my-heart_1791855815/i-let-a-song-go-out-of-my-heart_1791855815.md) | 2020 | FLAC | 00:38:39 | [IA](https://archive.org/details/i-let-a-song-go-out-of-my-heart_85314c6d46f5) |
 | [Santa Fe Live \(Theodore Cale Schafer Remix\)](santa-fe-live-theodore-cale-schafer-remix_1791855865/santa-fe-live-theodore-cale-schafer-remix_1791855865.md) | 2020 | ALAC | 01:14:53 | [IA](https://archive.org/details/santa-fe-live-theodore-cale-schafer-remix_40a75246bfe3) |
 | [Scholes](scholes_1791855867/scholes_1791855867.md) | 2020 | FLAC | 00:30:00 | [IA](https://archive.org/details/scholes_452a749dabf8) |
