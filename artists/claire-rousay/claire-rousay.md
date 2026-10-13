@@ -7,6 +7,7 @@
 | [Aerophobia](aerophobia_1791855767/aerophobia_1791855767.md) | 2019 | FLAC | 00:35:14 | [IA](https://archive.org/details/aerophobia_4f72b9b7cad3) |
 | [Alcohol](alcohol_1791855769/alcohol_1791855769.md) | 2020 | FLAC | 00:21:48 | [IA](https://archive.org/details/alcohol_aef653b5814b) |
 | [A Heavenly Touch](a-heavenly-touch_1791855755/a-heavenly-touch_1791855755.md) | 2020 | FLAC | 00:30:00 | [IA](https://archive.org/details/a-heavenly-touch_17b629036d35) |
+| [claire rousay & more eaze / Wind Tide](claire-rousay-more-eaze-wind-tide_1791855785/claire-rousay-more-eaze-wind-tide_1791855785.md) | 2020 | FLAC | 00:29:09 | [IA](https://archive.org/details/claire-rousay-more-eaze-wind-tide_73f6267d24f5) |
 | [</3](3_1791855739/3_1791855739.md) | 2020 | MP3 | 00:14:52 | [IA](https://archive.org/details/3_dab4e6aeb7c3) |
 | [Both](both_1791855780/both_1791855780.md) | 2020 | FLAC | 00:34:24 | [IA](https://archive.org/details/both_8e87f08cc941) |
 | [A Collection](a-collection_1791855749/a-collection_1791855749.md) | 2021 | FLAC | 02:17:00 | [IA](https://archive.org/details/a-collection_c470c100bec6) |
