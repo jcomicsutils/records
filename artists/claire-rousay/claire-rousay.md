@@ -27,6 +27,7 @@
 | [A Collection](a-collection_1791855749/a-collection_1791855749.md) | 2021 | FLAC | 02:17:00 | [IA](https://archive.org/details/a-collection_c470c100bec6) |
 | [ilysm](ilysm_1791855822/ilysm_1791855822.md) | 2021 | FLAC | 00:20:10 | [IA](https://archive.org/details/ilysm_819c91f89067) |
 | [Gno](gno_1791855807/gno_1791855807.md) | 2021 | MP3 | 00:20:20 | [IA](https://archive.org/details/gno_5c13b2cd7193) |
+| [Now Am Found](now-am-found_1791855854/now-am-found_1791855854.md) | 2021 | ALAC | 00:34:17 | [IA](https://archive.org/details/now-am-found_847a13837b8c) |
 | [A Moment in St Louis and a Moment at the Beach](a-moment-in-st-louis-and-a-moment-at-the-beach_1791855761/a-moment-in-st-louis-and-a-moment-at-the-beach_1791855761.md) | 2021 | ALAC | 00:22:37 | [IA](https://archive.org/details/a-moment-in-st-louis-and-a-moment-at-the-beach_742d57eeb8d7) |
 | [Live](live_1791855832/live_1791855832.md) | 2021 | FLAC | 00:24:40 | [IA](https://archive.org/details/live_2804fa8d0469) |
 | [A Softer Focus](a-softer-focus_1791855764/a-softer-focus_1791855764.md) | 2021 | FLAC | 00:33:23 | [IA](https://archive.org/details/a-softer-focus_d62c22366abf) |
