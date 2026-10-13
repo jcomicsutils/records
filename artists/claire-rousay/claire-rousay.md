@@ -33,6 +33,7 @@
 | [Live at CMC Multilocation](live-at-cmc-multilocation_1791855837/live-at-cmc-multilocation_1791855837.md) | 2021 | MP3 | 00:21:58 | [IA](https://archive.org/details/live-at-cmc-multilocation_2e5463274904) |
 | [An Afternoon Whine](an-afternoon-whine_1791855772/an-afternoon-whine_1791855772.md) | 2021 | FLAC | 00:30:14 | [IA](https://archive.org/details/an-afternoon-whine_923488cfe1e1) |
 | [Demos, Experiments, Extras](demos-experiments-extras_1791855794/demos-experiments-extras_1791855794.md) | 2022 | MP3 | 00:24:17 | [IA](https://archive.org/details/demos-experiments-extras_90dcf551957e) |
+| [Never Stop Texting Me](never-stop-texting-me_1791855850/never-stop-texting-me_1791855850.md) | 2022 | FLAC | 00:30:29 | [IA](https://archive.org/details/never-stop-texting-me_3205874c30c2) |
 | [Everything Perfect Is Already Here](everything-perfect-is-already-here_1791855802/everything-perfect-is-already-here_1791855802.md) | 2022 | FLAC | 00:30:16 | [IA](https://archive.org/details/everything-perfect-is-already-here_5b79a9921d85) |
 | [17 Roles \(All Mapped Out\)](17-roles-all-mapped-out_1791855742/17-roles-all-mapped-out_1791855742.md) | 2022 | FLAC | 00:24:24 | [IA](https://archive.org/details/17-roles-all-mapped-out_0bb6bda018e1) |
 | [Anything You Can Do...](anything-you-can-do_1791855774/anything-you-can-do_1791855774.md) | 2022 | FLAC | 00:39:30 | [IA](https://archive.org/details/anything-you-can-do_5eba0bd4c8e3) |
