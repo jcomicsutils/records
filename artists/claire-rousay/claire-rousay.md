@@ -9,6 +9,7 @@
 | [Aerophobia](aerophobia_1791855767/aerophobia_1791855767.md) | 2019 | FLAC | 00:35:14 | [IA](https://archive.org/details/aerophobia_4f72b9b7cad3) |
 | [Friends](friends_1791855804/friends_1791855804.md) | 2019 | FLAC | 00:32:59 | [IA](https://archive.org/details/friends_b4a5569dd770) |
 | [I Let a Song Go Out of My Heart](i-let-a-song-go-out-of-my-heart_1791855815/i-let-a-song-go-out-of-my-heart_1791855815.md) | 2020 | FLAC | 00:38:39 | [IA](https://archive.org/details/i-let-a-song-go-out-of-my-heart_85314c6d46f5) |
+| [If I Don't Let Myself Be Happy Now Then When?](if-i-dont-let-myself-be-happy-now-then-when_1791855820/if-i-dont-let-myself-be-happy-now-then-when_1791855820.md) | 2020 | FLAC | 00:34:49 | [IA](https://archive.org/details/if-i-dont-let-myself-be-happy-now-then-when_37a910517aea) |
 | [I'll Give You All of My Love](ill-give-you-all-of-my-love_1791855817/ill-give-you-all-of-my-love_1791855817.md) | 2020 | FLAC | 00:33:58 | [IA](https://archive.org/details/ill-give-you-all-of-my-love_ad2052161cd4) |
 | [Alcohol](alcohol_1791855769/alcohol_1791855769.md) | 2020 | FLAC | 00:21:48 | [IA](https://archive.org/details/alcohol_aef653b5814b) |
 | [A Heavenly Touch](a-heavenly-touch_1791855755/a-heavenly-touch_1791855755.md) | 2020 | FLAC | 00:30:00 | [IA](https://archive.org/details/a-heavenly-touch_17b629036d35) |
