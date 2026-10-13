@@ -44,6 +44,7 @@
 | [17 Roles \(All Mapped Out\)](17-roles-all-mapped-out_1791855742/17-roles-all-mapped-out_1791855742.md) | 2022 | FLAC | 00:24:24 | [IA](https://archive.org/details/17-roles-all-mapped-out_0bb6bda018e1) |
 | [Anything You Can Do...](anything-you-can-do_1791855774/anything-you-can-do_1791855774.md) | 2022 | FLAC | 00:39:30 | [IA](https://archive.org/details/anything-you-can-do_5eba0bd4c8e3) |
 | [Distance Therapy](distance-therapy_1791855796/distance-therapy_1791855796.md) | 2022 | FLAC | 00:19:59 | [IA](https://archive.org/details/distance-therapy_2d257cf1940b) |
+| [Sigh in My Ear](sigh-in-my-ear_1791855879/sigh-in-my-ear_1791855879.md) | 2023 | FLAC | 00:09:46 | [IA](https://archive.org/details/sigh-in-my-ear_22b6846cbd6d) |
 | [Deceiver](deceiver_1791855791/deceiver_1791855791.md) | 2023 | FLAC | 00:03:44 | [IA](https://archive.org/details/deceiver_3924c63a5538) |
 | [Sentiment Remix](sentiment-remix_1791855874/sentiment-remix_1791855874.md) | 2024 | FLAC | 00:32:22 | [IA](https://archive.org/details/sentiment-remix_bba64b89fe30) |
 | [Sentiment](sentiment_1791855871/sentiment_1791855871.md) | 2024 | FLAC | 00:37:32 | [IA](https://archive.org/details/sentiment_17f61110d980) |
