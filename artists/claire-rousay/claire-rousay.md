@@ -7,6 +7,7 @@
 | [Imp / Env](imp-env_1791855825/imp-env_1791855825.md) | 2018 | MP3 | 00:21:57 | [IA](https://archive.org/details/imp-env_e19a3700dba3) |
 | [Neuter](neuter_1791855847/neuter_1791855847.md) | 2018 | FLAC | 00:20:20 | [IA](https://archive.org/details/neuter_53a52bbe183f) |
 | [Divide](divide_1791855799/divide_1791855799.md) | 2018 | FLAC | 00:25:14 | [IA](https://archive.org/details/divide_ca9bdab6f5af) |
+| [Rehearsal / Improvisations](rehearsal-improvisations_1791855862/rehearsal-improvisations_1791855862.md) | 2019 | FLAC | 00:57:39 | [IA](https://archive.org/details/rehearsal-improvisations_ac7692ab6d99) |
 | [Braesview](braesview_1791855783/braesview_1791855783.md) | 2019 | FLAC | 00:10:46 | [IA](https://archive.org/details/braesview_a92d5297404a) |
 | [Hey](hey_1791855809/hey_1791855809.md) | 2019 | MP3 | 00:12:32 | [IA](https://archive.org/details/hey_06c951c20883) |
 | [Live at Cafe Fixe](live-at-cafe-fixe_1791855835/live-at-cafe-fixe_1791855835.md) | 2019 | MP3 | 00:29:00 | [IA](https://archive.org/details/live-at-cafe-fixe_2604ab1abcbe) |
