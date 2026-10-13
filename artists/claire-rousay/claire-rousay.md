@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Blip](blip_1791855777/blip_1791855777.md) | 2017 | FLAC | 00:27:50 | [IA](https://archive.org/details/blip_bd313409d875) |
+| [Of Siri](of-siri_1791855857/of-siri_1791855857.md) | 2018 | MP3 | 00:18:43 | [IA](https://archive.org/details/of-siri_fad26590a5e2) |
 | [Imp / Env](imp-env_1791855825/imp-env_1791855825.md) | 2018 | MP3 | 00:21:57 | [IA](https://archive.org/details/imp-env_e19a3700dba3) |
 | [Neuter](neuter_1791855847/neuter_1791855847.md) | 2018 | FLAC | 00:20:20 | [IA](https://archive.org/details/neuter_53a52bbe183f) |
 | [Divide](divide_1791855799/divide_1791855799.md) | 2018 | FLAC | 00:25:14 | [IA](https://archive.org/details/divide_ca9bdab6f5af) |
