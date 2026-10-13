@@ -33,6 +33,7 @@
 | [Gno](gno_1791855807/gno_1791855807.md) | 2021 | MP3 | 00:20:20 | [IA](https://archive.org/details/gno_5c13b2cd7193) |
 | [Now Am Found](now-am-found_1791855854/now-am-found_1791855854.md) | 2021 | ALAC | 00:34:17 | [IA](https://archive.org/details/now-am-found_847a13837b8c) |
 | [A Moment in St Louis and a Moment at the Beach](a-moment-in-st-louis-and-a-moment-at-the-beach_1791855761/a-moment-in-st-louis-and-a-moment-at-the-beach_1791855761.md) | 2021 | ALAC | 00:22:37 | [IA](https://archive.org/details/a-moment-in-st-louis-and-a-moment-at-the-beach_742d57eeb8d7) |
+| [Several Erasures](several-erasures_1791855877/several-erasures_1791855877.md) | 2021 | FLAC | 00:36:51 | [IA](https://archive.org/details/several-erasures_b01019c185c5) |
 | [Live](live_1791855832/live_1791855832.md) | 2021 | FLAC | 00:24:40 | [IA](https://archive.org/details/live_2804fa8d0469) |
 | [A Softer Focus](a-softer-focus_1791855764/a-softer-focus_1791855764.md) | 2021 | FLAC | 00:33:23 | [IA](https://archive.org/details/a-softer-focus_d62c22366abf) |
 | [Live at CMC Multilocation](live-at-cmc-multilocation_1791855837/live-at-cmc-multilocation_1791855837.md) | 2021 | MP3 | 00:21:58 | [IA](https://archive.org/details/live-at-cmc-multilocation_2e5463274904) |
