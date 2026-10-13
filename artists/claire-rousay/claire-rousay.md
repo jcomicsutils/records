@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Blip](blip_1791855777/blip_1791855777.md) | 2017 | FLAC | 00:27:50 | [IA](https://archive.org/details/blip_bd313409d875) |
+| [Braesview](braesview_1791855783/braesview_1791855783.md) | 2019 | FLAC | 00:10:46 | [IA](https://archive.org/details/braesview_a92d5297404a) |
 | [Aerophobia](aerophobia_1791855767/aerophobia_1791855767.md) | 2019 | FLAC | 00:35:14 | [IA](https://archive.org/details/aerophobia_4f72b9b7cad3) |
 | [Alcohol](alcohol_1791855769/alcohol_1791855769.md) | 2020 | FLAC | 00:21:48 | [IA](https://archive.org/details/alcohol_aef653b5814b) |
 | [A Heavenly Touch](a-heavenly-touch_1791855755/a-heavenly-touch_1791855755.md) | 2020 | FLAC | 00:30:00 | [IA](https://archive.org/details/a-heavenly-touch_17b629036d35) |
