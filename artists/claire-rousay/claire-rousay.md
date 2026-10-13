@@ -13,6 +13,7 @@
 | [</3](3_1791855739/3_1791855739.md) | 2020 | MP3 | 00:14:52 | [IA](https://archive.org/details/3_dab4e6aeb7c3) |
 | [Both](both_1791855780/both_1791855780.md) | 2020 | FLAC | 00:34:24 | [IA](https://archive.org/details/both_8e87f08cc941) |
 | [A Collection](a-collection_1791855749/a-collection_1791855749.md) | 2021 | FLAC | 02:17:00 | [IA](https://archive.org/details/a-collection_c470c100bec6) |
+| [Gno](gno_1791855807/gno_1791855807.md) | 2021 | MP3 | 00:20:20 | [IA](https://archive.org/details/gno_5c13b2cd7193) |
 | [A Moment in St Louis and a Moment at the Beach](a-moment-in-st-louis-and-a-moment-at-the-beach_1791855761/a-moment-in-st-louis-and-a-moment-at-the-beach_1791855761.md) | 2021 | ALAC | 00:22:37 | [IA](https://archive.org/details/a-moment-in-st-louis-and-a-moment-at-the-beach_742d57eeb8d7) |
 | [A Softer Focus](a-softer-focus_1791855764/a-softer-focus_1791855764.md) | 2021 | FLAC | 00:33:23 | [IA](https://archive.org/details/a-softer-focus_d62c22366abf) |
 | [An Afternoon Whine](an-afternoon-whine_1791855772/an-afternoon-whine_1791855772.md) | 2021 | FLAC | 00:30:14 | [IA](https://archive.org/details/an-afternoon-whine_923488cfe1e1) |
