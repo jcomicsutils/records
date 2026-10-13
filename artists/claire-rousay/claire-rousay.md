@@ -17,6 +17,7 @@
 | [A Heavenly Touch](a-heavenly-touch_1791855755/a-heavenly-touch_1791855755.md) | 2020 | FLAC | 00:30:00 | [IA](https://archive.org/details/a-heavenly-touch_17b629036d35) |
 | [claire rousay & more eaze / Wind Tide](claire-rousay-more-eaze-wind-tide_1791855785/claire-rousay-more-eaze-wind-tide_1791855785.md) | 2020 | FLAC | 00:29:09 | [IA](https://archive.org/details/claire-rousay-more-eaze-wind-tide_73f6267d24f5) |
 | [</3](3_1791855739/3_1791855739.md) | 2020 | MP3 | 00:14:52 | [IA](https://archive.org/details/3_dab4e6aeb7c3) |
+| [It Was Always Worth It](it-was-always-worth-it_1791855830/it-was-always-worth-it_1791855830.md) | 2020 | FLAC | 00:20:12 | [IA](https://archive.org/details/it-was-always-worth-it_f36db4e8fb11) |
 | [Both](both_1791855780/both_1791855780.md) | 2020 | FLAC | 00:34:24 | [IA](https://archive.org/details/both_8e87f08cc941) |
 | [A Collection](a-collection_1791855749/a-collection_1791855749.md) | 2021 | FLAC | 02:17:00 | [IA](https://archive.org/details/a-collection_c470c100bec6) |
 | [ilysm](ilysm_1791855822/ilysm_1791855822.md) | 2021 | FLAC | 00:20:10 | [IA](https://archive.org/details/ilysm_819c91f89067) |
