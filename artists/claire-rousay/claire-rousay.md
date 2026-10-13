@@ -6,6 +6,7 @@
 | [Divide](divide_1791855799/divide_1791855799.md) | 2018 | FLAC | 00:25:14 | [IA](https://archive.org/details/divide_ca9bdab6f5af) |
 | [Braesview](braesview_1791855783/braesview_1791855783.md) | 2019 | FLAC | 00:10:46 | [IA](https://archive.org/details/braesview_a92d5297404a) |
 | [Aerophobia](aerophobia_1791855767/aerophobia_1791855767.md) | 2019 | FLAC | 00:35:14 | [IA](https://archive.org/details/aerophobia_4f72b9b7cad3) |
+| [Friends](friends_1791855804/friends_1791855804.md) | 2019 | FLAC | 00:32:59 | [IA](https://archive.org/details/friends_b4a5569dd770) |
 | [Alcohol](alcohol_1791855769/alcohol_1791855769.md) | 2020 | FLAC | 00:21:48 | [IA](https://archive.org/details/alcohol_aef653b5814b) |
 | [A Heavenly Touch](a-heavenly-touch_1791855755/a-heavenly-touch_1791855755.md) | 2020 | FLAC | 00:30:00 | [IA](https://archive.org/details/a-heavenly-touch_17b629036d35) |
 | [claire rousay & more eaze / Wind Tide](claire-rousay-more-eaze-wind-tide_1791855785/claire-rousay-more-eaze-wind-tide_1791855785.md) | 2020 | FLAC | 00:29:09 | [IA](https://archive.org/details/claire-rousay-more-eaze-wind-tide_73f6267d24f5) |
