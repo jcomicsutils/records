@@ -28,5 +28,6 @@
 | [A Little Death](a-little-death_1791855758/a-little-death_1791855758.md) | 2025 | FLAC | 00:31:09 | [IA](https://archive.org/details/a-little-death_e1116d8213cb) |
 | [No Floor](no-floor_9e6623e603ab/no-floor_9e6623e603ab.md) | 2025 | FLAC | 00:30:56 | [IA](https://archive.org/details/no-floor_9e6623e603ab) |
 | [A Collective Offering](a-collective-offering_1791855752/a-collective-offering_1791855752.md) | 2025 | MP3 | 00:42:00 | [IA](https://archive.org/details/a-collective-offering_c51d015c64fc) |
+| [Hotel Room](hotel-room_1791855812/hotel-room_1791855812.md) | 2026 | FLAC | 00:43:29 | [IA](https://archive.org/details/hotel-room_d385f1df39a0) |
 | [2026-07-18 Substation, Melbourne, Australia](2026-07-18-substation-melbourne-australia_1791855746/2026-07-18-substation-melbourne-australia_1791855746.md) | 2026 | FLAC | 00:39:20 | [IA](https://archive.org/details/2026-07-18-substation-melbourne-australia_40ba48475c70) |
 | [Live in NYC](live-in-nyc_fd2bd717b3ac/live-in-nyc_fd2bd717b3ac.md) | 2026 | FLAC | 00:35:48 | [IA](https://archive.org/details/live-in-nyc_fd2bd717b3ac) |
