@@ -16,6 +16,7 @@
 | [An Afternoon Whine](an-afternoon-whine_1791855772/an-afternoon-whine_1791855772.md) | 2021 | FLAC | 00:30:14 | [IA](https://archive.org/details/an-afternoon-whine_923488cfe1e1) |
 | [17 Roles \(All Mapped Out\)](17-roles-all-mapped-out_1791855742/17-roles-all-mapped-out_1791855742.md) | 2022 | FLAC | 00:24:24 | [IA](https://archive.org/details/17-roles-all-mapped-out_0bb6bda018e1) |
 | [Anything You Can Do...](anything-you-can-do_1791855774/anything-you-can-do_1791855774.md) | 2022 | FLAC | 00:39:30 | [IA](https://archive.org/details/anything-you-can-do_5eba0bd4c8e3) |
+| [Claire Rousay on Audiotree Live \(Audiotree Live Version\)](claire-rousay-on-audiotree-live-audiotree-live-version_1791855788/claire-rousay-on-audiotree-live-audiotree-live-version_1791855788.md) | 2024 | FLAC | 00:21:44 | [IA](https://archive.org/details/claire-rousay-on-audiotree-live-audiotree-live-version_0efa8c8e6bea) |
 | [A Little Death](a-little-death_1791855758/a-little-death_1791855758.md) | 2025 | FLAC | 00:31:09 | [IA](https://archive.org/details/a-little-death_e1116d8213cb) |
 | [No Floor](no-floor_9e6623e603ab/no-floor_9e6623e603ab.md) | 2025 | FLAC | 00:30:56 | [IA](https://archive.org/details/no-floor_9e6623e603ab) |
 | [A Collective Offering](a-collective-offering_1791855752/a-collective-offering_1791855752.md) | 2025 | MP3 | 00:42:00 | [IA](https://archive.org/details/a-collective-offering_c51d015c64fc) |
