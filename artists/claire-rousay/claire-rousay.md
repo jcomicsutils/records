@@ -16,6 +16,7 @@
 | [If I Don't Let Myself Be Happy Now Then When?](if-i-dont-let-myself-be-happy-now-then-when_1791855820/if-i-dont-let-myself-be-happy-now-then-when_1791855820.md) | 2020 | FLAC | 00:34:49 | [IA](https://archive.org/details/if-i-dont-let-myself-be-happy-now-then-when_37a910517aea) |
 | [I'll Give You All of My Love](ill-give-you-all-of-my-love_1791855817/ill-give-you-all-of-my-love_1791855817.md) | 2020 | FLAC | 00:33:58 | [IA](https://archive.org/details/ill-give-you-all-of-my-love_ad2052161cd4) |
 | [Alcohol](alcohol_1791855769/alcohol_1791855769.md) | 2020 | FLAC | 00:21:48 | [IA](https://archive.org/details/alcohol_aef653b5814b) |
+| [Live at Elastic Arts](live-at-elastic-arts_1791855842/live-at-elastic-arts_1791855842.md) | 2020 | MP3 | 00:27:50 | [IA](https://archive.org/details/live-at-elastic-arts_a2d05c9cb1d7) |
 | [A Heavenly Touch](a-heavenly-touch_1791855755/a-heavenly-touch_1791855755.md) | 2020 | FLAC | 00:30:00 | [IA](https://archive.org/details/a-heavenly-touch_17b629036d35) |
 | [claire rousay & more eaze / Wind Tide](claire-rousay-more-eaze-wind-tide_1791855785/claire-rousay-more-eaze-wind-tide_1791855785.md) | 2020 | FLAC | 00:29:09 | [IA](https://archive.org/details/claire-rousay-more-eaze-wind-tide_73f6267d24f5) |
 | [</3](3_1791855739/3_1791855739.md) | 2020 | MP3 | 00:14:52 | [IA](https://archive.org/details/3_dab4e6aeb7c3) |
