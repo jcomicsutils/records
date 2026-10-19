@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/astroneer-original-game-soundtrack_3d5b5ac4a0f7)
 - [FileDitch](https://fileditchfiles.st/beta35/1ca62e88dbca97f363bc/Astroneer_Original_Game_Soundtrack.tar)
+- [Pomf](https://pomf2.lain.la/f/1ihyogys.tar)
 
 ## Tracklist
 
