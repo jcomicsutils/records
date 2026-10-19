@@ -23,6 +23,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/city-of-light_50ae3387c9d6"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/9zwv20ij.tar"
     }
   }
 }
