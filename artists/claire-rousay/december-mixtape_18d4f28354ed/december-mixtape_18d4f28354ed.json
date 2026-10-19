@@ -1,0 +1,27 @@
+{
+  "id": "december-mixtape_18d4f28354ed",
+  "fingerprint": "18d4f28354ed311bcd03d1998958025d5f00e6a349dca60e851e077d83698a2c",
+  "archived_at": "2026-10-19T18:39:25Z",
+  "metadata": {
+    "title": "December Mixtape",
+    "artist": "claire rousay",
+    "year": "2024",
+    "codec": "ALAC",
+    "num_tracks": 1,
+    "duration_seconds": 850,
+    "duration_human": "00:14:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Claire Rousay - December Mixtape"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/december-mixtape_18d4f28354ed"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/vqonetr6.tar"
+    }
+  }
+}

@@ -57,6 +57,7 @@
 | [August Mixtape](august-mixtape_c62bec606ff9/august-mixtape_c62bec606ff9.md) | 2024 | AAC | 00:17:20 | [IA](https://archive.org/details/august-mixtape_c62bec606ff9) [Pomf](https://pomf2.lain.la/f/zh6ngblr.tar) |
 | [April Mixtape](april-mixtape_a5b572885aac/april-mixtape_a5b572885aac.md) | 2024 | AAC | 00:15:53 | [IA](https://archive.org/details/april-mixtape_a5b572885aac) [Pomf](https://pomf2.lain.la/f/dusv7g8h.tar) |
 | [The Bloody Lady](the-bloody-lady_1791855893/the-bloody-lady_1791855893.md) | 2024 | FLAC | 00:35:10 | [IA](https://archive.org/details/the-bloody-lady_b6ccaa17f2a9) |
+| [December Mixtape](december-mixtape_18d4f28354ed/december-mixtape_18d4f28354ed.md) | 2024 | ALAC | 00:14:10 | [IA](https://archive.org/details/december-mixtape_18d4f28354ed) [Pomf](https://pomf2.lain.la/f/vqonetr6.tar) |
 | [Sentiment Remix](sentiment-remix_1791855874/sentiment-remix_1791855874.md) | 2024 | FLAC | 00:32:22 | [IA](https://archive.org/details/sentiment-remix_bba64b89fe30) |
 | [Sentiment](sentiment_1791855871/sentiment_1791855871.md) | 2024 | FLAC | 00:37:32 | [IA](https://archive.org/details/sentiment_17f61110d980) |
 | [Claire Rousay on Audiotree Live \(Audiotree Live Version\)](claire-rousay-on-audiotree-live-audiotree-live-version_1791855788/claire-rousay-on-audiotree-live-audiotree-live-version_1791855788.md) | 2024 | FLAC | 00:21:44 | [IA](https://archive.org/details/claire-rousay-on-audiotree-live-audiotree-live-version_0efa8c8e6bea) |
