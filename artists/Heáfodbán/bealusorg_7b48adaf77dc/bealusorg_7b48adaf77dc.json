@@ -22,6 +22,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/bealusorg_7b48adaf77dc"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/iepbnpf8.tar"
     }
   }
 }
