@@ -27,6 +27,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/ascension_1d9e02ab8b17"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/2syjn7hi.tar"
     }
   }
 }

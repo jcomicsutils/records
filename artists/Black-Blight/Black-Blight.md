@@ -6,7 +6,7 @@
 | [Death of the Black Wizard](death-of-the-black-wizard_661acd623d2c/death-of-the-black-wizard_661acd623d2c.md) | 2014 | FLAC | 00:20:35 | [IA](https://archive.org/details/death-of-the-black-wizard_661acd623d2c) |
 | [Imprisoning Exile](imprisoning-exile_765ba6f10a54/imprisoning-exile_765ba6f10a54.md) | 2015 | FLAC | 00:45:22 | [IA](https://archive.org/details/imprisoning-exile_765ba6f10a54) |
 | [City of Light](city-of-light_50ae3387c9d6/city-of-light_50ae3387c9d6.md) | 2015 | FLAC | 00:17:26 | [IA](https://archive.org/details/city-of-light_50ae3387c9d6) |
-| [Ascension](ascension_1d9e02ab8b17/ascension_1d9e02ab8b17.md) | 2015 | FLAC | 00:58:26 | [IA](https://archive.org/details/ascension_1d9e02ab8b17) |
+| [Ascension](ascension_1d9e02ab8b17/ascension_1d9e02ab8b17.md) | 2015 | FLAC | 00:58:26 | [IA](https://archive.org/details/ascension_1d9e02ab8b17) [Pomf](https://pomf2.lain.la/f/2syjn7hi.tar) |
 | [Pale Watcher](pale-watcher_d4fba7dcb923/pale-watcher_d4fba7dcb923.md) | 2015 | FLAC | 00:29:51 | [IA](https://archive.org/details/pale-watcher_d4fba7dcb923) |
 | [Crimson Ghosts](crimson-ghosts_4bf9944929e2/crimson-ghosts_4bf9944929e2.md) | 2016 | FLAC | 00:36:56 | [IA](https://archive.org/details/crimson-ghosts_4bf9944929e2) |
 | [Towering Black Spires](towering-black-spires_3b91a7b6869f/towering-black-spires_3b91a7b6869f.md) | 2017 | FLAC | 00:49:37 | [IA](https://archive.org/details/towering-black-spires_3b91a7b6869f) |
