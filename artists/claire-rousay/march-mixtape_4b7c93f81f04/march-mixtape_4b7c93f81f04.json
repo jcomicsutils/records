@@ -1,0 +1,27 @@
+{
+  "id": "march-mixtape_4b7c93f81f04",
+  "fingerprint": "4b7c93f81f0427337e69ed6edde56ed049340b64f2c4fc6a2d00f85d787e551f",
+  "archived_at": "2026-10-19T18:52:45Z",
+  "metadata": {
+    "title": "March Mixtape",
+    "artist": "claire rousay",
+    "year": "2024",
+    "codec": "AAC",
+    "num_tracks": 1,
+    "duration_seconds": 1322,
+    "duration_human": "00:22:02",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Claire Rousay - March Mixtape"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/march-mixtape_4b7c93f81f04"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/byvhn595.tar"
+    }
+  }
+}
