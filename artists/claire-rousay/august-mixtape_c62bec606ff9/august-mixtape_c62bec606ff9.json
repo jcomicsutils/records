@@ -1,0 +1,27 @@
+{
+  "id": "august-mixtape_c62bec606ff9",
+  "fingerprint": "c62bec606ff98bbe4e463fc50cbfd8fd9b2fa7c4dfa1bebddf4eb9ba7a00271b",
+  "archived_at": "2026-10-19T18:36:43Z",
+  "metadata": {
+    "title": "August Mixtape",
+    "artist": "claire rousay",
+    "year": "2024",
+    "codec": "AAC",
+    "num_tracks": 1,
+    "duration_seconds": 1040,
+    "duration_human": "00:17:20",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Claire Rousay - August Mixtape"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/august-mixtape_c62bec606ff9"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/zh6ngblr.tar"
+    }
+  }
+}
