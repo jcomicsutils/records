@@ -1,0 +1,29 @@
+{
+  "id": "heafodban_2e9750e6c87a",
+  "fingerprint": "2e9750e6c87a192fdf21483444f1b4e152ea7b5f62272bba9dc322e3aba98ac7",
+  "archived_at": "2026-10-19T05:15:34Z",
+  "metadata": {
+    "title": "Heáfodbán",
+    "artist": "Heáfodbán",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1899,
+    "duration_human": "00:31:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Heáfodbán - Dead in Place",
+      "02 Heáfodbán - Urine Sun",
+      "03 Heáfodbán - Scalp Altar",
+      "04 Heáfodbán - Incinerated Shape",
+      "05 Heáfodbán - Eviscerate Upon the Pleading",
+      "06 Heáfodbán - Hollow Fingers"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/heafodban_2e9750e6c87a"
+    }
+  }
+}
