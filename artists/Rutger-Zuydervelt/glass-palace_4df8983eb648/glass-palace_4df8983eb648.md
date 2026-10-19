@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/glass-palace_4df8983eb648)
 - [FileDitch](https://fileditchfiles.st/beta35/3bea595b728cd7edb28d/Glass_Palace.tar)
+- [Pomf](https://pomf2.lain.la/f/6lcit4y7.tar)
 
 ## Tracklist
 
