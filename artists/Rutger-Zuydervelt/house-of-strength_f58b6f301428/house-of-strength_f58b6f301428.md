@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/house-of-strength_f58b6f301428)
 - [FileDitch](https://fileditchfiles.st/beta35/207ac7b6127b7d9981db/House_of_Strength.tar)
+- [Pomf](https://pomf2.lain.la/f/7b7wjz6h.tar)
 
 ## Tracklist
 
