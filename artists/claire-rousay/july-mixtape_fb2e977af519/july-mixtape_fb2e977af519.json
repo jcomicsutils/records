@@ -1,0 +1,27 @@
+{
+  "id": "july-mixtape_fb2e977af519",
+  "fingerprint": "fb2e977af519ba1370a171fb4c8eb5ebfbb143a3382147c8cc23ab43232be648",
+  "archived_at": "2026-10-19T18:48:20Z",
+  "metadata": {
+    "title": "July Mixtape",
+    "artist": "claire rousay",
+    "year": "2024",
+    "codec": "AAC",
+    "num_tracks": 1,
+    "duration_seconds": 928,
+    "duration_human": "00:15:28",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Claire Rousay - July Mixtape"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/july-mixtape_fb2e977af519"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/0ba6lff4.tar"
+    }
+  }
+}
