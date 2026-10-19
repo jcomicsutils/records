@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/synchronicite_4c5e40cd72b3)
 - [FileDitch](https://fileditchfiles.st/alpha30/ca0159b0eb04f4fe8d71/Synchronicit.tar)
+- [Pomf](https://pomf2.lain.la/f/g9h38ja3.tar)
 
 ## Tracklist
 
