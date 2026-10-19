@@ -26,6 +26,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/crimson-ghosts_4bf9944929e2"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/xopn3a9n.tar"
     }
   }
 }
