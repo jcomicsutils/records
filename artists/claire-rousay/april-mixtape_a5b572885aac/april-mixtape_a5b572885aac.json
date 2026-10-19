@@ -1,0 +1,27 @@
+{
+  "id": "april-mixtape_a5b572885aac",
+  "fingerprint": "a5b572885aace1444a06a107c337986ba12bc71b96019b213fcf49298c1f0d51",
+  "archived_at": "2026-10-19T18:35:02Z",
+  "metadata": {
+    "title": "April Mixtape",
+    "artist": "claire rousay",
+    "year": "2024",
+    "codec": "AAC",
+    "num_tracks": 1,
+    "duration_seconds": 953,
+    "duration_human": "00:15:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Claire Rousay - April Mixtape"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/april-mixtape_a5b572885aac"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/dusv7g8h.tar"
+    }
+  }
+}

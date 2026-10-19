@@ -54,6 +54,7 @@
 | [Sunset Poem \(Claire Rousay Remixes\)](sunset-poem-claire-rousay-remixes_1791855887/sunset-poem-claire-rousay-remixes_1791855887.md) | 2022 | FLAC | 00:11:16 | [IA](https://archive.org/details/sunset-poem-claire-rousay-remixes_684de8081811) |
 | [Sigh in My Ear](sigh-in-my-ear_1791855879/sigh-in-my-ear_1791855879.md) | 2023 | FLAC | 00:09:46 | [IA](https://archive.org/details/sigh-in-my-ear_22b6846cbd6d) |
 | [Deceiver](deceiver_1791855791/deceiver_1791855791.md) | 2023 | FLAC | 00:03:44 | [IA](https://archive.org/details/deceiver_3924c63a5538) |
+| [April Mixtape](april-mixtape_a5b572885aac/april-mixtape_a5b572885aac.md) | 2024 | AAC | 00:15:53 | [IA](https://archive.org/details/april-mixtape_a5b572885aac) [Pomf](https://pomf2.lain.la/f/dusv7g8h.tar) |
 | [The Bloody Lady](the-bloody-lady_1791855893/the-bloody-lady_1791855893.md) | 2024 | FLAC | 00:35:10 | [IA](https://archive.org/details/the-bloody-lady_b6ccaa17f2a9) |
 | [Sentiment Remix](sentiment-remix_1791855874/sentiment-remix_1791855874.md) | 2024 | FLAC | 00:32:22 | [IA](https://archive.org/details/sentiment-remix_bba64b89fe30) |
 | [Sentiment](sentiment_1791855871/sentiment_1791855871.md) | 2024 | FLAC | 00:37:32 | [IA](https://archive.org/details/sentiment_17f61110d980) |
