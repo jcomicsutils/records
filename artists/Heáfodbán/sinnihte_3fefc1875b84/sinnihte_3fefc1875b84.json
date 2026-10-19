@@ -21,6 +21,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/sinnihte_3fefc1875b84"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/l10elapr.tar"
     }
   }
 }
