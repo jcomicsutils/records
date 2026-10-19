@@ -27,6 +27,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/blodwracu_a03b63fdf099"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/a0arw6pz.tar"
     }
   }
 }
