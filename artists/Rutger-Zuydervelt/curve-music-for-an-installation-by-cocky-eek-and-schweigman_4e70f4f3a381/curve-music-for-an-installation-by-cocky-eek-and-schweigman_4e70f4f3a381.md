@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/curve-music-for-an-installation-by-cocky-eek-and-schweigman_4e70f4f3a381)
 - [FileDitch](https://fileditchfiles.st/beta35/2dae454c9e7b977326a2/Curve_Music_for_an_Installation_by_Cocky_Eek_and_Schweigman.tar)
+- [Pomf](https://pomf2.lain.la/f/ppn61ee1.tar)
 
 ## Tracklist
 
