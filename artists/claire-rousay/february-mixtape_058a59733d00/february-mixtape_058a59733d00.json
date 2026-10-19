@@ -1,0 +1,27 @@
+{
+  "id": "february-mixtape_058a59733d00",
+  "fingerprint": "058a59733d005813d7f00812ad8669f28f97d2f0827c6fb7a658b5334eab0e34",
+  "archived_at": "2026-10-19T18:42:52Z",
+  "metadata": {
+    "title": "February Mixtape",
+    "artist": "claire rousay",
+    "year": "2024",
+    "codec": "AAC",
+    "num_tracks": 1,
+    "duration_seconds": 1554,
+    "duration_human": "00:25:54",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Claire Rousay - February Mixtape"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/february-mixtape_058a59733d00"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/2k5s2w3q.tar"
+    }
+  }
+}
