@@ -57,6 +57,7 @@
 | [August Mixtape](august-mixtape_c62bec606ff9/august-mixtape_c62bec606ff9.md) | 2024 | AAC | 00:17:20 | [IA](https://archive.org/details/august-mixtape_c62bec606ff9) [Pomf](https://pomf2.lain.la/f/zh6ngblr.tar) |
 | [April Mixtape](april-mixtape_a5b572885aac/april-mixtape_a5b572885aac.md) | 2024 | AAC | 00:15:53 | [IA](https://archive.org/details/april-mixtape_a5b572885aac) [Pomf](https://pomf2.lain.la/f/dusv7g8h.tar) |
 | [The Bloody Lady](the-bloody-lady_1791855893/the-bloody-lady_1791855893.md) | 2024 | FLAC | 00:35:10 | [IA](https://archive.org/details/the-bloody-lady_b6ccaa17f2a9) |
+| [January Mixtape](january-mixtape_2c3519e094a9/january-mixtape_2c3519e094a9.md) | 2024 | AAC | 00:29:59 | [IA](https://archive.org/details/january-mixtape_2c3519e094a9) [Pomf](https://pomf2.lain.la/f/q7pglo40.tar) |
 | [February Mixtape](february-mixtape_058a59733d00/february-mixtape_058a59733d00.md) | 2024 | AAC | 00:25:54 | [IA](https://archive.org/details/february-mixtape_058a59733d00) [Pomf](https://pomf2.lain.la/f/2k5s2w3q.tar) |
 | [December Mixtape](december-mixtape_18d4f28354ed/december-mixtape_18d4f28354ed.md) | 2024 | ALAC | 00:14:10 | [IA](https://archive.org/details/december-mixtape_18d4f28354ed) [Pomf](https://pomf2.lain.la/f/vqonetr6.tar) |
 | [Sentiment Remix](sentiment-remix_1791855874/sentiment-remix_1791855874.md) | 2024 | FLAC | 00:32:22 | [IA](https://archive.org/details/sentiment-remix_bba64b89fe30) |

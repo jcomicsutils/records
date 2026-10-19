@@ -1,0 +1,27 @@
+{
+  "id": "january-mixtape_2c3519e094a9",
+  "fingerprint": "2c3519e094a9c02312cfa99bb7d8b1149e908b1eab0f66d64b88551115e764d6",
+  "archived_at": "2026-10-19T18:45:24Z",
+  "metadata": {
+    "title": "January Mixtape",
+    "artist": "claire rousay",
+    "year": "2024",
+    "codec": "AAC",
+    "num_tracks": 1,
+    "duration_seconds": 1799,
+    "duration_human": "00:29:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Claire Rousay - January Mixtape"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/january-mixtape_2c3519e094a9"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/q7pglo40.tar"
+    }
+  }
+}
