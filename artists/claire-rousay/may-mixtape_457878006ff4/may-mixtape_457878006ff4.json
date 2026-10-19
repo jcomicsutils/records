@@ -1,0 +1,27 @@
+{
+  "id": "may-mixtape_457878006ff4",
+  "fingerprint": "457878006ff441af0054e12c4b02e2d030aa76a7ddc9b7afb530cd2a097067c3",
+  "archived_at": "2026-10-19T18:54:40Z",
+  "metadata": {
+    "title": "May Mixtape",
+    "artist": "claire rousay",
+    "year": "2024",
+    "codec": "AAC",
+    "num_tracks": 1,
+    "duration_seconds": 1035,
+    "duration_human": "00:17:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Claire Rousay - May Mixtape"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/may-mixtape_457878006ff4"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/wwdl4wzz.tar"
+    }
+  }
+}
