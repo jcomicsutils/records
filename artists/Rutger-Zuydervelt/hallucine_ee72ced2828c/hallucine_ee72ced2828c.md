@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/hallucine_ee72ced2828c)
 - [FileDitch](https://fileditchfiles.st/beta35/450b8e46b4c00dd3c444/Hallucine.tar)
+- [Pomf](https://pomf2.lain.la/f/oau38vfw.tar)
 
 ## Tracklist
 
