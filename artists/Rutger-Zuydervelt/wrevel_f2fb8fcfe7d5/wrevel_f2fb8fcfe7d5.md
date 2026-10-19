@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/wrevel_f2fb8fcfe7d5)
 - [FileDitch](https://fileditchfiles.st/alpha30/0ff216d680ca9b853695/Wrevel.tar)
+- [Pomf](https://pomf2.lain.la/f/qqi2ro00.tar)
 
 ## Tracklist
 
