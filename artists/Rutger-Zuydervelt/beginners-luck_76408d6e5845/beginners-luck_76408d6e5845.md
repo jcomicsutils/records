@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/beginners-luck_76408d6e5845)
 - [FileDitch](https://fileditchfiles.st/beta35/e244d774fecb41df99f1/Beginner_s_Luck.tar)
+- [Pomf](https://pomf2.lain.la/f/eb1sxb1o.tar)
 
 ## Tracklist
 
