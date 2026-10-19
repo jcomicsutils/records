@@ -29,6 +29,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/imprisoning-exile_765ba6f10a54"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/v3niknnx.tar"
     }
   }
 }
