@@ -51,6 +51,23 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/devouring_c3bd195c6b1b"
+    },
+    "pomf": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://pomf2.lain.la/f/7md553i0.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/dvumcb9d.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/cec8nfw5.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/x08z3stf.tar"
+        }
+      ]
     }
   }
 }
