@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/tides_8de78a9a0a6e)
 - [FileDitch](https://fileditchfiles.st/alpha30/4e856839302229db751e/Tides.tar)
+- [Pomf](https://pomf2.lain.la/f/u0pq9es1.tar)
 
 ## Tracklist
 
