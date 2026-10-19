@@ -1,0 +1,26 @@
+{
+  "id": "sinnihte_3fefc1875b84",
+  "fingerprint": "3fefc1875b84c9cf1502e51ecb4ad1ec62a893ff09cb6358657a727b050f8324",
+  "archived_at": "2026-10-19T05:22:25Z",
+  "metadata": {
+    "title": "Sinnihte",
+    "artist": "Heáfodbán",
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3129,
+    "duration_human": "00:52:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Heáfodbán - Carwielm",
+      "02 Heáfodbán - Sinnihte Pt. 1",
+      "03 Heáfodbán - Sinnihte Pt. 2"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sinnihte_3fefc1875b84"
+    }
+  }
+}
