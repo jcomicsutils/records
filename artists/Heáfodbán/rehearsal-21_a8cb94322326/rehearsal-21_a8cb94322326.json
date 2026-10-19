@@ -1,0 +1,27 @@
+{
+  "id": "rehearsal-21_a8cb94322326",
+  "fingerprint": "a8cb9432232648700f195db839d00872b221db4cf2755df7088af24579027a9f",
+  "archived_at": "2026-10-19T05:19:28Z",
+  "metadata": {
+    "title": "Rehearsal '21",
+    "artist": "Heáfodbán",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1162,
+    "duration_human": "00:19:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Heáfodbán - The Malice That Permeates",
+      "02 Heáfodbán - Behelit of Dreams",
+      "03 Heáfodbán - Alone for Eternity",
+      "04 Heáfodbán - Twin Sister Moon"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/rehearsal-21_a8cb94322326"
+    }
+  }
+}
