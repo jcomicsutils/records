@@ -26,6 +26,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/voids-or-pronoia_74a4a2d4fd91"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/equr95dk.tar"
     }
   }
 }

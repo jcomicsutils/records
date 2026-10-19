@@ -12,4 +12,4 @@
 | [Towering Black Spires](towering-black-spires_3b91a7b6869f/towering-black-spires_3b91a7b6869f.md) | 2017 | FLAC | 00:49:37 | [IA](https://archive.org/details/towering-black-spires_3b91a7b6869f) [Pomf](https://pomf2.lain.la/f/vv86l7ya.tar) |
 | [Gundahar](gundahar_4fa7b81d3645/gundahar_4fa7b81d3645.md) | 2019 | FLAC | 02:56:51 | [IA](https://archive.org/details/gundahar_4fa7b81d3645) [Pomf ×3](gundahar_4fa7b81d3645/gundahar_4fa7b81d3645.md) |
 | [Devouring](devouring_c3bd195c6b1b/devouring_c3bd195c6b1b.md) | 2021 | FLAC | 04:53:22 | [IA](https://archive.org/details/devouring_c3bd195c6b1b) [Pomf ×4](devouring_c3bd195c6b1b/devouring_c3bd195c6b1b.md) |
-| [Voids or Pronoia](voids-or-pronoia_74a4a2d4fd91/voids-or-pronoia_74a4a2d4fd91.md) | 2021 | FLAC | 01:38:35 | [IA](https://archive.org/details/voids-or-pronoia_74a4a2d4fd91) |
+| [Voids or Pronoia](voids-or-pronoia_74a4a2d4fd91/voids-or-pronoia_74a4a2d4fd91.md) | 2021 | FLAC | 01:38:35 | [IA](https://archive.org/details/voids-or-pronoia_74a4a2d4fd91) [Pomf](https://pomf2.lain.la/f/equr95dk.tar) |
