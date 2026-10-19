@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/lincertitude_d2194d926a1c)
 - [FileDitch](https://fileditchfiles.st/alpha30/845122c70e1d83f8f1d9/L_incertitude.tar)
+- [Pomf](https://pomf2.lain.la/f/r5p3ixt9.tar)
 
 ## Tracklist
 
