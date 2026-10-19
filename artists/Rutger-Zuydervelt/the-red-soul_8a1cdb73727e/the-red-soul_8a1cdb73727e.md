@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/the-red-soul_8a1cdb73727e)
 - [FileDitch](https://fileditchfiles.st/alpha30/65072744f0eb88a11371/The_Red_Soul.tar)
+- [Pomf](https://pomf2.lain.la/f/brn9gqt7.tar)
 
 ## Tracklist
 
