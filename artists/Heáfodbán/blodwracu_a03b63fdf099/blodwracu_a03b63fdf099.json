@@ -1,0 +1,32 @@
+{
+  "id": "blodwracu_a03b63fdf099",
+  "fingerprint": "a03b63fdf099dd4e2bf933c1bbe72799bf48f62f2a5f664ea3b62f14d7f14a6c",
+  "archived_at": "2026-10-19T05:05:24Z",
+  "metadata": {
+    "title": "Blódwracu",
+    "artist": "Heáfodbán",
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 7219,
+    "duration_human": "02:00:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Heáfodbán - Brand of Rope",
+      "02 Heáfodbán - Spears of Eternity",
+      "03 Heáfodbán - Thorns in Soles",
+      "04 Heáfodbán - The Wheel Bleeds Our Sacred Hearts",
+      "05 Heáfodbán - Arrow of Water",
+      "06 Heáfodbán - Reaping Nativity",
+      "07 Heáfodbán - A Trail on Your Skin",
+      "08 Heáfodbán - Heáfodbán",
+      "09 Heáfodbán - Sleep Has His House"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/blodwracu_a03b63fdf099"
+    }
+  }
+}

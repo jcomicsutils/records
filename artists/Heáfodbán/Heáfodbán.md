@@ -3,3 +3,4 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Bealusorg](bealusorg_7b48adaf77dc/bealusorg_7b48adaf77dc.md) | 2022 | FLAC | 00:22:58 | [IA](https://archive.org/details/bealusorg_7b48adaf77dc) |
+| [Blódwracu](blodwracu_a03b63fdf099/blodwracu_a03b63fdf099.md) | 2024 | FLAC | 02:00:19 | [IA](https://archive.org/details/blodwracu_a03b63fdf099) |
