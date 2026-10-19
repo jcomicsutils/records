@@ -14,6 +14,7 @@
 
 - [Archive.org](https://archive.org/details/edge-of-oblivion_84191e6f5908)
 - [FileDitch](https://fileditchfiles.st/beta35/3c7197ef380c904be9e6/Edge_of_Oblivion.tar)
+- [Pomf](https://pomf2.lain.la/f/okikct1t.tar)
 
 ## Tracklist
 
