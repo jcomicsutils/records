@@ -45,6 +45,20 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/gundahar_4fa7b81d3645"
+    },
+    "pomf": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://pomf2.lain.la/f/mli0yaey.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/6z1epmcj.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/g34mt5sr.tar"
+        }
+      ]
     }
   }
 }
