@@ -7,7 +7,7 @@
 | [Imprisoning Exile](imprisoning-exile_765ba6f10a54/imprisoning-exile_765ba6f10a54.md) | 2015 | FLAC | 00:45:22 | [IA](https://archive.org/details/imprisoning-exile_765ba6f10a54) [Pomf](https://pomf2.lain.la/f/v3niknnx.tar) |
 | [City of Light](city-of-light_50ae3387c9d6/city-of-light_50ae3387c9d6.md) | 2015 | FLAC | 00:17:26 | [IA](https://archive.org/details/city-of-light_50ae3387c9d6) [Pomf](https://pomf2.lain.la/f/9zwv20ij.tar) |
 | [Ascension](ascension_1d9e02ab8b17/ascension_1d9e02ab8b17.md) | 2015 | FLAC | 00:58:26 | [IA](https://archive.org/details/ascension_1d9e02ab8b17) [Pomf](https://pomf2.lain.la/f/2syjn7hi.tar) |
-| [Pale Watcher](pale-watcher_d4fba7dcb923/pale-watcher_d4fba7dcb923.md) | 2015 | FLAC | 00:29:51 | [IA](https://archive.org/details/pale-watcher_d4fba7dcb923) |
+| [Pale Watcher](pale-watcher_d4fba7dcb923/pale-watcher_d4fba7dcb923.md) | 2015 | FLAC | 00:29:51 | [IA](https://archive.org/details/pale-watcher_d4fba7dcb923) [Pomf](https://pomf2.lain.la/f/ey8hsegl.tar) |
 | [Crimson Ghosts](crimson-ghosts_4bf9944929e2/crimson-ghosts_4bf9944929e2.md) | 2016 | FLAC | 00:36:56 | [IA](https://archive.org/details/crimson-ghosts_4bf9944929e2) [Pomf](https://pomf2.lain.la/f/xopn3a9n.tar) |
 | [Towering Black Spires](towering-black-spires_3b91a7b6869f/towering-black-spires_3b91a7b6869f.md) | 2017 | FLAC | 00:49:37 | [IA](https://archive.org/details/towering-black-spires_3b91a7b6869f) |
 | [Gundahar](gundahar_4fa7b81d3645/gundahar_4fa7b81d3645.md) | 2019 | FLAC | 02:56:51 | [IA](https://archive.org/details/gundahar_4fa7b81d3645) [Pomf ×3](gundahar_4fa7b81d3645/gundahar_4fa7b81d3645.md) |
