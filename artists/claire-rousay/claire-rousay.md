@@ -46,6 +46,7 @@
 | [Demos, Experiments, Extras](demos-experiments-extras_1791855794/demos-experiments-extras_1791855794.md) | 2022 | MP3 | 00:24:17 | [IA](https://archive.org/details/demos-experiments-extras_90dcf551957e) |
 | [Never Stop Texting Me](never-stop-texting-me_1791855850/never-stop-texting-me_1791855850.md) | 2022 | FLAC | 00:30:29 | [IA](https://archive.org/details/never-stop-texting-me_3205874c30c2) |
 | [Everything Perfect Is Already Here](everything-perfect-is-already-here_1791855802/everything-perfect-is-already-here_1791855802.md) | 2022 | FLAC | 00:30:16 | [IA](https://archive.org/details/everything-perfect-is-already-here_5b79a9921d85) |
+| [17 Roles \(All Mapped Out\)](17-roles-all-mapped-out_1792434793/17-roles-all-mapped-out_1792434793.md) | 2022 | FLAC | 00:24:24 | [IA](https://archive.org/details/17-roles-all-mapped-out_0bb6bda018e1) |
 | [17 Roles \(All Mapped Out\)](17-roles-all-mapped-out_1791855742/17-roles-all-mapped-out_1791855742.md) | 2022 | FLAC | 00:24:24 | [IA](https://archive.org/details/17-roles-all-mapped-out_0bb6bda018e1) |
 | [Anything You Can Do...](anything-you-can-do_1791855774/anything-you-can-do_1791855774.md) | 2022 | FLAC | 00:39:30 | [IA](https://archive.org/details/anything-you-can-do_5eba0bd4c8e3) |
 | [Wouldn't Have to Hurt](wouldnt-have-to-hurt_1791855901/wouldnt-have-to-hurt_1791855901.md) | 2022 | FLAC | 00:34:08 | [IA](https://archive.org/details/wouldnt-have-to-hurt_32da6a94f8bc) |
