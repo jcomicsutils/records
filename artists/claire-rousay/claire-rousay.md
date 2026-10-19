@@ -20,6 +20,7 @@
 | [Santa Fe Live \(Theodore Cale Schafer Remix\)](santa-fe-live-theodore-cale-schafer-remix_1791855865/santa-fe-live-theodore-cale-schafer-remix_1791855865.md) | 2020 | ALAC | 01:14:53 | [IA](https://archive.org/details/santa-fe-live-theodore-cale-schafer-remix_40a75246bfe3) |
 | [Scholes](scholes_1791855867/scholes_1791855867.md) | 2020 | FLAC | 00:30:00 | [IA](https://archive.org/details/scholes_452a749dabf8) |
 | [Live at CO-OPt](live-at-co-opt_1791855839/live-at-co-opt_1791855839.md) | 2020 | MP3 | 00:28:25 | [IA](https://archive.org/details/live-at-co-opt_f5feb073c203) |
+| [</3](3_1792434790/3_1792434790.md) | 2020 | MP3 | 00:14:52 | [IA](https://archive.org/details/3_dab4e6aeb7c3) |
 | [If I Don't Let Myself Be Happy Now Then When?](if-i-dont-let-myself-be-happy-now-then-when_1791855820/if-i-dont-let-myself-be-happy-now-then-when_1791855820.md) | 2020 | FLAC | 00:34:49 | [IA](https://archive.org/details/if-i-dont-let-myself-be-happy-now-then-when_37a910517aea) |
 | [I'll Give You All of My Love](ill-give-you-all-of-my-love_1791855817/ill-give-you-all-of-my-love_1791855817.md) | 2020 | FLAC | 00:33:58 | [IA](https://archive.org/details/ill-give-you-all-of-my-love_ad2052161cd4) |
 | [Live in San Antonio, Texas](live-in-san-antonio-texas_1791855844/live-in-san-antonio-texas_1791855844.md) | 2020 | FLAC | 00:16:20 | [IA](https://archive.org/details/live-in-san-antonio-texas_4ff8110c7894) |
