@@ -64,6 +64,7 @@
 | [October Mixtape](october-mixtape_f06fd8ff4d3b/october-mixtape_f06fd8ff4d3b.md) | 2024 | ALAC | 00:18:28 | [IA](https://archive.org/details/october-mixtape_f06fd8ff4d3b) [Pomf](https://pomf2.lain.la/f/nb49cprv.tar) |
 | [December Mixtape](december-mixtape_18d4f28354ed/december-mixtape_18d4f28354ed.md) | 2024 | ALAC | 00:14:10 | [IA](https://archive.org/details/december-mixtape_18d4f28354ed) [Pomf](https://pomf2.lain.la/f/vqonetr6.tar) |
 | [July Mixtape](july-mixtape_fb2e977af519/july-mixtape_fb2e977af519.md) | 2024 | AAC | 00:15:28 | [IA](https://archive.org/details/july-mixtape_fb2e977af519) [Pomf](https://pomf2.lain.la/f/0ba6lff4.tar) |
+| [September Mixtape](september-mixtape_9e4919780bfe/september-mixtape_9e4919780bfe.md) | 2024 | AAC | 00:24:09 | [IA](https://archive.org/details/september-mixtape_9e4919780bfe) [Pomf](https://pomf2.lain.la/f/12s72ztr.tar) |
 | [March Mixtape](march-mixtape_4b7c93f81f04/march-mixtape_4b7c93f81f04.md) | 2024 | AAC | 00:22:02 | [IA](https://archive.org/details/march-mixtape_4b7c93f81f04) [Pomf](https://pomf2.lain.la/f/byvhn595.tar) |
 | [Sentiment Remix](sentiment-remix_1791855874/sentiment-remix_1791855874.md) | 2024 | FLAC | 00:32:22 | [IA](https://archive.org/details/sentiment-remix_bba64b89fe30) |
 | [Sentiment](sentiment_1791855871/sentiment_1791855871.md) | 2024 | FLAC | 00:37:32 | [IA](https://archive.org/details/sentiment_17f61110d980) |

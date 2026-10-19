@@ -1,0 +1,27 @@
+{
+  "id": "september-mixtape_9e4919780bfe",
+  "fingerprint": "9e4919780bfeb297cc7fa8bc340e758534d38033acf3c384757f2773adcf7b59",
+  "archived_at": "2026-10-19T19:10:38Z",
+  "metadata": {
+    "title": "September Mixtape",
+    "artist": "claire rousay",
+    "year": "2024",
+    "codec": "AAC",
+    "num_tracks": 1,
+    "duration_seconds": 1449,
+    "duration_human": "00:24:09",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Claire Rousay - September Mixtape"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/september-mixtape_9e4919780bfe"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/12s72ztr.tar"
+    }
+  }
+}
