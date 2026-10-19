@@ -19,6 +19,9 @@
   "hosts": {
     "archive_org": {
       "url": "https://archive.org/details/death-of-the-black-wizard_661acd623d2c"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/2472tupk.tar"
     }
   }
 }

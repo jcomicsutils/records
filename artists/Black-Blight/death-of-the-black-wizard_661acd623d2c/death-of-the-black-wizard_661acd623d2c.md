@@ -13,6 +13,7 @@
 ## Hosts
 
 - [Archive.org](https://archive.org/details/death-of-the-black-wizard_661acd623d2c)
+- [Pomf](https://pomf2.lain.la/f/2472tupk.tar)
 
 ## Tracklist
 

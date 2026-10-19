@@ -3,7 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Stone Forest](stone-forest_9a67e58683c0/stone-forest_9a67e58683c0.md) | 2014 | FLAC | 00:41:00 | [IA](https://archive.org/details/stone-forest_9a67e58683c0) |
-| [Death of the Black Wizard](death-of-the-black-wizard_661acd623d2c/death-of-the-black-wizard_661acd623d2c.md) | 2014 | FLAC | 00:20:35 | [IA](https://archive.org/details/death-of-the-black-wizard_661acd623d2c) |
+| [Death of the Black Wizard](death-of-the-black-wizard_661acd623d2c/death-of-the-black-wizard_661acd623d2c.md) | 2014 | FLAC | 00:20:35 | [IA](https://archive.org/details/death-of-the-black-wizard_661acd623d2c) [Pomf](https://pomf2.lain.la/f/2472tupk.tar) |
 | [Imprisoning Exile](imprisoning-exile_765ba6f10a54/imprisoning-exile_765ba6f10a54.md) | 2015 | FLAC | 00:45:22 | [IA](https://archive.org/details/imprisoning-exile_765ba6f10a54) |
 | [City of Light](city-of-light_50ae3387c9d6/city-of-light_50ae3387c9d6.md) | 2015 | FLAC | 00:17:26 | [IA](https://archive.org/details/city-of-light_50ae3387c9d6) [Pomf](https://pomf2.lain.la/f/9zwv20ij.tar) |
 | [Ascension](ascension_1d9e02ab8b17/ascension_1d9e02ab8b17.md) | 2015 | FLAC | 00:58:26 | [IA](https://archive.org/details/ascension_1d9e02ab8b17) [Pomf](https://pomf2.lain.la/f/2syjn7hi.tar) |
