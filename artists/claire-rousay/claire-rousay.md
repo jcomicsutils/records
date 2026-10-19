@@ -66,6 +66,7 @@
 | [March Mixtape](march-mixtape_4b7c93f81f04/march-mixtape_4b7c93f81f04.md) | 2024 | AAC | 00:22:02 | [IA](https://archive.org/details/march-mixtape_4b7c93f81f04) [Pomf](https://pomf2.lain.la/f/byvhn595.tar) |
 | [Sentiment Remix](sentiment-remix_1791855874/sentiment-remix_1791855874.md) | 2024 | FLAC | 00:32:22 | [IA](https://archive.org/details/sentiment-remix_bba64b89fe30) |
 | [Sentiment](sentiment_1791855871/sentiment_1791855871.md) | 2024 | FLAC | 00:37:32 | [IA](https://archive.org/details/sentiment_17f61110d980) |
+| [November Mixtape](november-mixtape_1eefe196a7e3/november-mixtape_1eefe196a7e3.md) | 2024 | ALAC | 00:25:07 | [IA](https://archive.org/details/november-mixtape_1eefe196a7e3) [Pomf](https://pomf2.lain.la/f/56t9acgd.tar) |
 | [Claire Rousay on Audiotree Live \(Audiotree Live Version\)](claire-rousay-on-audiotree-live-audiotree-live-version_1791855788/claire-rousay-on-audiotree-live-audiotree-live-version_1791855788.md) | 2024 | FLAC | 00:21:44 | [IA](https://archive.org/details/claire-rousay-on-audiotree-live-audiotree-live-version_0efa8c8e6bea) |
 | [A Little Death](a-little-death_1791855758/a-little-death_1791855758.md) | 2025 | FLAC | 00:31:09 | [IA](https://archive.org/details/a-little-death_e1116d8213cb) |
 | [South Pasadena, California \(USA\), 06/25/2025, 1.25pm](south-pasadena-california-usa-06252025-125pm_1791855881/south-pasadena-california-usa-06252025-125pm_1791855881.md) | 2025 | FLAC | 00:24:44 | [IA](https://archive.org/details/south-pasadena-california-usa-06252025-125pm_9d459cc71ae8) |

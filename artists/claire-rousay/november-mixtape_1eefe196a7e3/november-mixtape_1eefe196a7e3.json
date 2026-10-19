@@ -1,0 +1,27 @@
+{
+  "id": "november-mixtape_1eefe196a7e3",
+  "fingerprint": "1eefe196a7e336ffff78afa9572a01b01490728ab2a29d92215ebb9d751261d2",
+  "archived_at": "2026-10-19T19:01:05Z",
+  "metadata": {
+    "title": "November Mixtape",
+    "artist": "claire rousay",
+    "year": "2024",
+    "codec": "ALAC",
+    "num_tracks": 1,
+    "duration_seconds": 1507,
+    "duration_human": "00:25:07",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Claire Rousay - November Mixtape"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/november-mixtape_1eefe196a7e3"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/56t9acgd.tar"
+    }
+  }
+}
