@@ -61,6 +61,7 @@
 | [January Mixtape](january-mixtape_2c3519e094a9/january-mixtape_2c3519e094a9.md) | 2024 | AAC | 00:29:59 | [IA](https://archive.org/details/january-mixtape_2c3519e094a9) [Pomf](https://pomf2.lain.la/f/q7pglo40.tar) |
 | [May Mixtape](may-mixtape_457878006ff4/may-mixtape_457878006ff4.md) | 2024 | AAC | 00:17:15 | [IA](https://archive.org/details/may-mixtape_457878006ff4) [Pomf](https://pomf2.lain.la/f/wwdl4wzz.tar) |
 | [February Mixtape](february-mixtape_058a59733d00/february-mixtape_058a59733d00.md) | 2024 | AAC | 00:25:54 | [IA](https://archive.org/details/february-mixtape_058a59733d00) [Pomf](https://pomf2.lain.la/f/2k5s2w3q.tar) |
+| [October Mixtape](october-mixtape_f06fd8ff4d3b/october-mixtape_f06fd8ff4d3b.md) | 2024 | ALAC | 00:18:28 | [IA](https://archive.org/details/october-mixtape_f06fd8ff4d3b) [Pomf](https://pomf2.lain.la/f/nb49cprv.tar) |
 | [December Mixtape](december-mixtape_18d4f28354ed/december-mixtape_18d4f28354ed.md) | 2024 | ALAC | 00:14:10 | [IA](https://archive.org/details/december-mixtape_18d4f28354ed) [Pomf](https://pomf2.lain.la/f/vqonetr6.tar) |
 | [July Mixtape](july-mixtape_fb2e977af519/july-mixtape_fb2e977af519.md) | 2024 | AAC | 00:15:28 | [IA](https://archive.org/details/july-mixtape_fb2e977af519) [Pomf](https://pomf2.lain.la/f/0ba6lff4.tar) |
 | [March Mixtape](march-mixtape_4b7c93f81f04/march-mixtape_4b7c93f81f04.md) | 2024 | AAC | 00:22:02 | [IA](https://archive.org/details/march-mixtape_4b7c93f81f04) [Pomf](https://pomf2.lain.la/f/byvhn595.tar) |

@@ -1,0 +1,27 @@
+{
+  "id": "october-mixtape_f06fd8ff4d3b",
+  "fingerprint": "f06fd8ff4d3ba9b242e71cccf2b2853407af7bca0a5027a01f12a0755b838e92",
+  "archived_at": "2026-10-19T19:06:13Z",
+  "metadata": {
+    "title": "October Mixtape",
+    "artist": "claire rousay",
+    "year": "2024",
+    "codec": "ALAC",
+    "num_tracks": 1,
+    "duration_seconds": 1108,
+    "duration_human": "00:18:28",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Claire Rousay - October Mixtape"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/october-mixtape_f06fd8ff4d3b"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/nb49cprv.tar"
+    }
+  }
+}
