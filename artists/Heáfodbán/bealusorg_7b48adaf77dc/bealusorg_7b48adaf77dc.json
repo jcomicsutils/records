@@ -1,0 +1,27 @@
+{
+  "id": "bealusorg_7b48adaf77dc",
+  "fingerprint": "7b48adaf77dc227996c83d74b1cedde3e996ff8ac773572abdf9af85a4f298bd",
+  "archived_at": "2026-10-19T04:29:54Z",
+  "metadata": {
+    "title": "Bealusorg",
+    "artist": "Heáfodbán",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1378,
+    "duration_human": "00:22:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Heáfodbán - Black Eclipse",
+      "02 Heáfodbán - La Mitt Rike Komme",
+      "03 Heáfodbán - Behelit of Dreams",
+      "04 Heáfodbán - Winterbed"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bealusorg_7b48adaf77dc"
+    }
+  }
+}
