@@ -1,0 +1,27 @@
+{
+  "id": "june-mixtape_b350c0bd64fe",
+  "fingerprint": "b350c0bd64fef76aa30c2c5db8c585117b836c126f11c0db5a2fdf3af3fee1de",
+  "archived_at": "2026-10-19T18:50:31Z",
+  "metadata": {
+    "title": "June Mixtape",
+    "artist": "claire rousay",
+    "year": "2024",
+    "codec": "AAC",
+    "num_tracks": 1,
+    "duration_seconds": 1321,
+    "duration_human": "00:22:01",
+    "sampling_rate": "48kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Claire Rousay - June Mixtape"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/june-mixtape_b350c0bd64fe"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/qy5iu9y0.tar"
+    }
+  }
+}
