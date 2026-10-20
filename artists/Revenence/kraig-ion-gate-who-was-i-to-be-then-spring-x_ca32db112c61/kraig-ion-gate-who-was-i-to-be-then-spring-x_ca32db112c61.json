@@ -1,0 +1,70 @@
+{
+  "id": "kraig-ion-gate-who-was-i-to-be-then-spring-x_ca32db112c61",
+  "fingerprint": "ca32db112c61465e6a81b8dad437a7f6065b70e079533ff55ae41637875ce3f8",
+  "archived_at": "2026-10-20T03:37:06Z",
+  "metadata": {
+    "title": "Kraig Ion Gate (Who Was I to Be Then? / Spring X)",
+    "artist": "Revenence",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 33,
+    "duration_seconds": 37908,
+    "duration_human": "10:31:48",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Revenence - Summer Is Gone",
+      "02 Revenence - Stîbshêmô",
+      "03 Revenence - Dub (Eclipse / Deep Dark Rose)",
+      "04 Revenence - Hunnic Horseback Banter",
+      "05 Revenence - State of Pants III (George)",
+      "06 Revenence - 0x12_SHREW, Scalded the Devil's Lünch (Strange / 2019)",
+      "07 Revenence - So Malmnosî",
+      "08 Revenence - Violet and Gray Sand",
+      "09 Revenence - Honesty to Your Ideals",
+      "10 Revenence - We Do It One Way",
+      "11 Revenence - Dub (A Silent Prayer)",
+      "12 Revenence - MAOMIJCHI Comes for You (Samba 2)",
+      "13 Revenence - False Demon Ooipr",
+      "14 Revenence - Shââ Ophale",
+      "15 Revenence - ÜHOQ-HÜQO-OÜQH",
+      "16 Revenence - Nord522 (The Sun)",
+      "17 Revenence - History of Our Own Past",
+      "18 Revenence - Valley of Philosophers (Btwo Dub Ver. 3)",
+      "19 Revenence - Monopoly Child Made Me Lose My Sanity",
+      "20 Revenence - Demolition I",
+      "21 Revenence - Apple of the Eye",
+      "22 Revenence - Diumdiumdium",
+      "23 Revenence - Morph - 'Become an Email'",
+      "24 Revenence - Xhupashîvaîîz Ümnö",
+      "25 Revenence - Die Fi",
+      "26 Revenence - Aloraloralor",
+      "27 Revenence - Gyo Stûm Stuxnêt Yearlong",
+      "28 Revenence - Mentally Reevaluating Objects of Criticism",
+      "29 Revenence - False Demon Eamrn",
+      "30 Revenence - Yet Another Mundane Song About Autumn",
+      "31 Revenence - Obtuse Sewing (B250)",
+      "32 Revenence - Person Null Opaque",
+      "33 Revenence - ...Of the Corn / Devil's Ra (Bump)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kraig-ion-gate-who-was-i-to-be-then-spring-x_ca32db112c61"
+    },
+    "pomf": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://pomf2.lain.la/f/q55y1eps.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/kllqe2qg.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/evti44xy.tar"
+        }
+      ]
+    }
+  }
+}
