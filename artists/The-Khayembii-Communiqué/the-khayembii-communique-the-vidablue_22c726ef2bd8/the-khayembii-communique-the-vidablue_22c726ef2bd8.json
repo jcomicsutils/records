@@ -1,0 +1,34 @@
+{
+  "id": "the-khayembii-communique-the-vidablue_22c726ef2bd8",
+  "fingerprint": "22c726ef2bd88b86fa2070a2a19163786baa658c5b5d6d15978b0eaa6722e171",
+  "archived_at": "2026-10-20T02:24:13Z",
+  "metadata": {
+    "title": "The Khayembii Communiqué / The Vidablue",
+    "artist": "The Khayembii Communiqué",
+    "year": "2000",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1525,
+    "duration_human": "00:25:25",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Khayembii Communiqué - The Des Moines Tapes",
+      "02 The Khayembii Communiqué - Better Times Are Better Left Dead",
+      "03 The Khayembii Communiqué - Lacking",
+      "04 The Khayembii Communiqué - The Death of an Aspiring Icon",
+      "05 The Vidablue - Engine Down",
+      "06 The Vidablue - Me and Spike Lee",
+      "07 The Vidablue - The Dukes Are Trying to Corner the Market",
+      "08 The Vidablue - I Survived the Chair"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-khayembii-communique-the-vidablue_22c726ef2bd8"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/nhge45hb.tar"
+    }
+  }
+}
