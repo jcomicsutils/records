@@ -45,6 +45,17 @@
     },
     "fileditch": {
       "url": "https://fileditchfiles.me/beta11/ea2a1e472b5c36c41f3b/Saturnine_Autumn_XIII.tar"
+    },
+    "pomf": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://pomf2.lain.la/f/yy2ooepz.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/uoyuf98l.tar"
+        }
+      ]
     }
   }
 }
