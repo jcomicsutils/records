@@ -1,0 +1,30 @@
+{
+  "id": "the-khayembii-communique_a5d81dd2f9d3",
+  "fingerprint": "a5d81dd2f9d36ee3e74698663b9f1d9252c86839d6d79050ad0f89163eb5049d",
+  "archived_at": "2026-10-20T02:15:23Z",
+  "metadata": {
+    "title": "The Khayembii Communiqué",
+    "artist": "The Khayembii Communiqué",
+    "year": "1999",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 764,
+    "duration_human": "00:12:44",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Khayembii Communiqué - The Thirtieth",
+      "02 The Khayembii Communiqué - AM1200",
+      "03 The Khayembii Communiqué - A Year and an Ocean",
+      "04 The Khayembii Communiqué - How to Change Addiction"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-khayembii-communique_a5d81dd2f9d3"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/r0jdayz3.tar"
+    }
+  }
+}

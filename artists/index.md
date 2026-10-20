@@ -332,6 +332,7 @@
 - [The Dwarfs of East Agouza](The-Dwarfs-of-East-Agouza/The-Dwarfs-of-East-Agouza.md)
 - [The Fantastic Imagination](The-Fantastic-Imagination/The-Fantastic-Imagination.md)
 - [The Jim Yoshii Pile-Up / Xiu Xiu](The-Jim-Yoshii-Pile-Up-Xiu-Xiu/The-Jim-Yoshii-Pile-Up-Xiu-Xiu.md)
+- [The Khayembii Communiqué](The-Khayembii-Communiqué/The-Khayembii-Communiqué.md)
 - [The Lost Jockey](The-Lost-Jockey/The-Lost-Jockey.md)
 - [The Mystic Revelation of Teppo Repo](The-Mystic-Revelation-of-Teppo-Repo/The-Mystic-Revelation-of-Teppo-Repo.md)
 - [The No-Neck Blues Band](The-No-Neck-Blues-Band/The-No-Neck-Blues-Band.md)
