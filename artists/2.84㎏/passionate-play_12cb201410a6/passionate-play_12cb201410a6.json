@@ -1,0 +1,28 @@
+{
+  "id": "passionate-play_12cb201410a6",
+  "fingerprint": "12cb201410a6624f240ccc339ca5413358e334cc52342058bbc8f29da910aea9",
+  "archived_at": "2026-10-22T21:53:55Z",
+  "metadata": {
+    "title": "Passionate Play",
+    "artist": "2.84㎏",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2223,
+    "duration_human": "00:37:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Latex Priest & KG - Passionate Play",
+      "02 Latex Priest & KG - Post-Makeout"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/passionate-play_12cb201410a6"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/dvc5s39o.tar"
+    }
+  }
+}
