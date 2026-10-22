@@ -1,0 +1,28 @@
+{
+  "id": "glass-has-vanished_0d0a55fcc670",
+  "fingerprint": "0d0a55fcc670c60403c20682f4ee30802296a6b5363ca24e054c835d8c35b936",
+  "archived_at": "2026-10-22T21:34:37Z",
+  "metadata": {
+    "title": "Glass Has Vanished",
+    "artist": "2.84㎏",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1621,
+    "duration_human": "00:27:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Voyeur - Selective Suffering",
+      "02 KG - Apart"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/glass-has-vanished_0d0a55fcc670"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/db8be933.tar"
+    }
+  }
+}
