@@ -1,0 +1,27 @@
+{
+  "id": "lazy-pasi_9dcd7badf987",
+  "fingerprint": "9dcd7badf987e499662fd08c8d423687cb71a051aad48f102f43997dc37d6c20",
+  "archived_at": "2026-10-22T21:38:39Z",
+  "metadata": {
+    "title": "Lazy Pasi",
+    "artist": "2.84㎏",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1091,
+    "duration_human": "00:18:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 KG - Live 25.04.26"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lazy-pasi_9dcd7badf987"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/x0g7ora0.tar"
+    }
+  }
+}
