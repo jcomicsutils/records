@@ -1,0 +1,27 @@
+{
+  "id": "flechette-penetrator_6faa3f94da30",
+  "fingerprint": "6faa3f94da309f67203e1673271a7361ed27a7fe9f11e4722dcb12f7a26ccb1f",
+  "archived_at": "2026-10-22T21:26:37Z",
+  "metadata": {
+    "title": "Flechette Penetrator",
+    "artist": "2.84㎏",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2141,
+    "duration_human": "00:35:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 KG - Flechette Penetrator"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/flechette-penetrator_6faa3f94da30"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/526qv4sg.tar"
+    }
+  }
+}
