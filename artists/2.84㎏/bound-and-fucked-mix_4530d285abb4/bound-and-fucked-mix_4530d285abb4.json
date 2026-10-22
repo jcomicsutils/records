@@ -1,0 +1,27 @@
+{
+  "id": "bound-and-fucked-mix_4530d285abb4",
+  "fingerprint": "4530d285abb4417f254d608149cb66c10223eec96884e9a9ebeb52c17130f6f4",
+  "archived_at": "2026-10-22T21:19:04Z",
+  "metadata": {
+    "title": "\"Bound And Fucked\" Mix",
+    "artist": "2.84㎏",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2192,
+    "duration_human": "00:36:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 kole('s ghost) - B.A.F."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bound-and-fucked-mix_4530d285abb4"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/w95nvtdu.tar"
+    }
+  }
+}
