@@ -1,0 +1,28 @@
+{
+  "id": "xvii_64e239bf7edc",
+  "fingerprint": "64e239bf7edcd86b0605f64637a04af6797646180726cb8c366ab67bcd7436e8",
+  "archived_at": "2026-10-22T22:17:55Z",
+  "metadata": {
+    "title": "XVII",
+    "artist": "2.84㎏",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3437,
+    "duration_human": "00:57:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 kg - untitled",
+      "02 burning air - untitled"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xvii_64e239bf7edc"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/lecm17ch.tar"
+    }
+  }
+}
