@@ -1,0 +1,27 @@
+{
+  "id": "lurching-jellyfish-horde_9079101c4fae",
+  "fingerprint": "9079101c4faeb7e17582326193e40e23921cdca692469cef5bca76caed08a424",
+  "archived_at": "2026-10-22T21:41:53Z",
+  "metadata": {
+    "title": "Lurching Jellyfish Horde",
+    "artist": "2.84㎏",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2575,
+    "duration_human": "00:42:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 KG - Lurching Jellyfish Horde"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/lurching-jellyfish-horde_9079101c4fae"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/llec3udz.tar"
+    }
+  }
+}
