@@ -1,0 +1,27 @@
+{
+  "id": "mothspawn_fc441067d4a1",
+  "fingerprint": "fc441067d4a1ff12a9d78403ba650c5d9259a3d9280c8c665d483dfb706f2457",
+  "archived_at": "2026-10-22T21:46:40Z",
+  "metadata": {
+    "title": "Mothspawn",
+    "artist": "2.84㎏",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 620,
+    "duration_human": "00:10:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 KG - Live 15.06.26"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/mothspawn_fc441067d4a1"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/8ftu48zp.tar"
+    }
+  }
+}
