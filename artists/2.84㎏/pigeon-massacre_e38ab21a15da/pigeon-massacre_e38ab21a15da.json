@@ -1,0 +1,27 @@
+{
+  "id": "pigeon-massacre_e38ab21a15da",
+  "fingerprint": "e38ab21a15da4ba377e0390b186c05070a077702cee20b287623bd053e65ca3c",
+  "archived_at": "2026-10-22T22:00:48Z",
+  "metadata": {
+    "title": "Pigeon Massacre",
+    "artist": "2.84㎏",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1634,
+    "duration_human": "00:27:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 KG - Pigeon Massacre"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/pigeon-massacre_e38ab21a15da"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/myhbj2l7.tar"
+    }
+  }
+}
