@@ -1,0 +1,37 @@
+{
+  "id": "abyssal-tracks-recollected_7dbfa8dd3746",
+  "fingerprint": "7dbfa8dd374622584d5be735ea944762ebb3688b2f76526a9a9e124bc5d19e63",
+  "archived_at": "2026-10-22T21:02:45Z",
+  "metadata": {
+    "title": "Abyssal Tracks: Recollected",
+    "artist": "2.84㎏",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 11,
+    "duration_seconds": 5579,
+    "duration_human": "01:32:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 KG - Room For Skies: Cornered Pretty Skies",
+      "02 KG - Room For Skies: Away",
+      "03 KG - Hardcore Makeout: A",
+      "04 KG - Hardcore Makeout: B",
+      "05 KG - Banish Your Past: A",
+      "06 KG - Banish Your Past: B",
+      "07 KG - Fresh Blood: Fresh Blood On My Fur (Mania)",
+      "08 KG - Fresh Blood: Knife Scars On His Precious Chest",
+      "09 KG - Darling",
+      "10 KG - Drowning In The Arms Of A Sea Serpent",
+      "11 Black Leather Jesus - Anything Not of Traditional Interest (Remix)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/abyssal-tracks-recollected_7dbfa8dd3746"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/x90ehtgc.tar"
+    }
+  }
+}
