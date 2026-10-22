@@ -1,0 +1,27 @@
+{
+  "id": "bizarre-television-hijack-for-unbeyond-anthologies_e4c0c1bf8c16",
+  "fingerprint": "e4c0c1bf8c16eaea8ea44ca4a8aba227467f290cc963e52eb99ee2ef94114553",
+  "archived_at": "2026-10-22T21:12:18Z",
+  "metadata": {
+    "title": "Bizarre television hijack for Unbeyond Anthologies",
+    "artist": "2.84㎏",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2007,
+    "duration_human": "00:33:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 KG - Sometimes I Go About Pitying Myself While I Am Carried by the Wind Across the Sky"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/bizarre-television-hijack-for-unbeyond-anthologies_e4c0c1bf8c16"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/871g923i.tar"
+    }
+  }
+}
