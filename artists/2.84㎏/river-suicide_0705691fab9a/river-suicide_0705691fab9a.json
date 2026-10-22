@@ -1,0 +1,27 @@
+{
+  "id": "river-suicide_0705691fab9a",
+  "fingerprint": "0705691fab9a2068f9b7c67ae2fa5ce85b53924da6babae72f132de869f0f8a9",
+  "archived_at": "2026-10-22T22:05:34Z",
+  "metadata": {
+    "title": "River Suicide",
+    "artist": "2.84㎏",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1301,
+    "duration_human": "00:21:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 KG - Twisted River's Guts (You're The One To Blame)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/river-suicide_0705691fab9a"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/e210rlw2.tar"
+    }
+  }
+}
