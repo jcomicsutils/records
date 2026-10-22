@@ -1,0 +1,27 @@
+{
+  "id": "wont-do_28fb66ea75ed",
+  "fingerprint": "28fb66ea75eda889a25c74028fa526961a2922067a697c18586809eab0b375b0",
+  "archived_at": "2026-10-22T22:13:02Z",
+  "metadata": {
+    "title": "Won't Do",
+    "artist": "2.84㎏",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1947,
+    "duration_human": "00:32:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 KG - ————"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wont-do_28fb66ea75ed"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/y18xx6ds.tar"
+    }
+  }
+}
