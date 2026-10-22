@@ -1,0 +1,27 @@
+{
+  "id": "untitled-live-110126_75c72bdc14ed",
+  "fingerprint": "75c72bdc14eda092ee218d55f312b053dae4649aea293e1bee4cc78d3f29f4f0",
+  "archived_at": "2026-10-22T22:09:47Z",
+  "metadata": {
+    "title": "untitled live 11.01.26.",
+    "artist": "2.84㎏",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2222,
+    "duration_human": "00:37:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 kg - empty room @ NK. 11.01.26, 21:39:05."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/untitled-live-110126_75c72bdc14ed"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/2qsa99zs.tar"
+    }
+  }
+}
