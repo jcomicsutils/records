@@ -286,6 +286,7 @@
 - [Serpentmouth](Serpentmouth/Serpentmouth.md)
 - [Serpentmouth / Generated Missiân ZFN](Serpentmouth-Generated-Missiân-ZFN/Serpentmouth-Generated-Missiân-ZFN.md)
 - [Serpentmouth / Generated Missiân ZFN / Argon Lo Curránt](Serpentmouth-Generated-Missiân-ZFN-Argon-Lo-Curránt/Serpentmouth-Generated-Missiân-ZFN-Argon-Lo-Curránt.md)
+- [Serpentmouth / Revenence](Serpentmouth-Revenence/Serpentmouth-Revenence.md)
 - [Sesame](Sesame/Sesame.md)
 - [Sexo Explícito](Sexo-Explícito/Sexo-Explícito.md)
 - [Sha's Banryu](Sha's-Banryu/Sha's-Banryu.md)
