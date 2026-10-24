@@ -1,0 +1,27 @@
+{
+  "id": "xviii_bdfc4c6e33a9",
+  "fingerprint": "bdfc4c6e33a98389be7fb347f20a7839e23bc8ead13d63ee3c94e974b8162f5f",
+  "archived_at": "2026-10-24T16:34:04Z",
+  "metadata": {
+    "title": "XVIII",
+    "artist": "burning air",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2091,
+    "duration_human": "00:34:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 burning air - untitled"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xviii_bdfc4c6e33a9"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/hra0zajf.tar"
+    }
+  }
+}
