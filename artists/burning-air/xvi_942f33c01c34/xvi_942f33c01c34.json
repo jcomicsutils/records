@@ -1,0 +1,28 @@
+{
+  "id": "xvi_942f33c01c34",
+  "fingerprint": "942f33c01c34a2bd635305ef7da9131a970a2e3a81cb36a895b45910b92401df",
+  "archived_at": "2026-10-24T16:30:52Z",
+  "metadata": {
+    "title": "XVI",
+    "artist": "burning air",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3596,
+    "duration_human": "00:59:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 burning air - untitled",
+      "02 vhi - tarmac"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xvi_942f33c01c34"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/p6aa5ryk.tar"
+    }
+  }
+}
