@@ -1,0 +1,27 @@
+{
+  "id": "iii_7979db0f8e11",
+  "fingerprint": "7979db0f8e110b429b59b134b8dbef790db3a255329f93bc1ef93f61fe8bff34",
+  "archived_at": "2026-10-24T15:32:41Z",
+  "metadata": {
+    "title": "III",
+    "artist": "burning air",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3853,
+    "duration_human": "01:04:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 burning air - untitled"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/iii_7979db0f8e11"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/d514i3u7.tar"
+    }
+  }
+}
