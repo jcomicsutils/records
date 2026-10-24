@@ -1,0 +1,28 @@
+{
+  "id": "xiv_c4dfdbdb8f42",
+  "fingerprint": "c4dfdbdb8f420c44dea93cf12b2318dc32992104e6b3e2e898640502117263e4",
+  "archived_at": "2026-10-24T16:24:06Z",
+  "metadata": {
+    "title": "XIV",
+    "artist": "burning air",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3852,
+    "duration_human": "01:04:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Subdermatopneumohydroviscerocavitationalmycelio plasmodyspercolationmassonecrosanguinoglutinosis - untitled",
+      "02 burning air - untitled"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xiv_c4dfdbdb8f42"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/12iqbzbj.tar"
+    }
+  }
+}
