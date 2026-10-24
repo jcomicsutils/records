@@ -1,0 +1,27 @@
+{
+  "id": "vii_920b38114ea1",
+  "fingerprint": "920b38114ea18704a92ce049ef8eba7c07184607d1abc1a7315f53436526a73d",
+  "archived_at": "2026-10-24T15:52:00Z",
+  "metadata": {
+    "title": "VII",
+    "artist": "burning air",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2380,
+    "duration_human": "00:39:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 burning air - untitled"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/vii_920b38114ea1"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ts3429ht.tar"
+    }
+  }
+}
