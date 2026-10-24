@@ -1,0 +1,28 @@
+{
+  "id": "xiii_bd3114f7020d",
+  "fingerprint": "bd3114f7020df7d01bcde503a98c6f45394840ed742017544f500d2f1af98616",
+  "archived_at": "2026-10-24T16:19:27Z",
+  "metadata": {
+    "title": "XIII",
+    "artist": "burning air",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 5586,
+    "duration_human": "01:33:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 snowhowling - untitled",
+      "02 burning air - untitled"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xiii_bd3114f7020d"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/banrc97n.tar"
+    }
+  }
+}
