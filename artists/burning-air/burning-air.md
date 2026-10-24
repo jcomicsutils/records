@@ -13,3 +13,4 @@
 | [II](ii_41ddc6a2a6a5/ii_41ddc6a2a6a5.md) | 2025 | FLAC | 01:17:00 | [IA](https://archive.org/details/ii_41ddc6a2a6a5) [Pomf](https://pomf2.lain.la/f/yyst6nut.tar) |
 | [X](x_d18df1900f34/x_d18df1900f34.md) | 2026 | FLAC | 05:33:49 | [IA](https://archive.org/details/x_d18df1900f34) [Pomf](https://pomf2.lain.la/f/ezuqww55.tar) |
 | [XI](xi_c34c4be6b955/xi_c34c4be6b955.md) | 2026 | FLAC | 00:18:48 | [IA](https://archive.org/details/xi_c34c4be6b955) [Pomf](https://pomf2.lain.la/f/40a1inz4.tar) |
+| [XII](xii_33ffd91a8015/xii_33ffd91a8015.md) | 2026 | FLAC | 00:34:00 | [IA](https://archive.org/details/xii_33ffd91a8015) [Pomf](https://pomf2.lain.la/f/uvm1mo3f.tar) |

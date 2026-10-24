@@ -1,0 +1,27 @@
+{
+  "id": "xii_33ffd91a8015",
+  "fingerprint": "33ffd91a8015830c5405686c4a8de92cb5f5872ade1376481d473505d34b8410",
+  "archived_at": "2026-10-24T16:15:22Z",
+  "metadata": {
+    "title": "XII",
+    "artist": "burning air",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2040,
+    "duration_human": "00:34:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 burning air - untitled"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/xii_33ffd91a8015"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/uvm1mo3f.tar"
+    }
+  }
+}
