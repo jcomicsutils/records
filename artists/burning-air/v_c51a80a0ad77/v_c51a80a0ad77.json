@@ -1,0 +1,27 @@
+{
+  "id": "v_c51a80a0ad77",
+  "fingerprint": "c51a80a0ad773f8aa3fb34610c7d4a6d4f43206ff21a02316b8056db708d72cb",
+  "archived_at": "2026-10-24T15:44:20Z",
+  "metadata": {
+    "title": "V",
+    "artist": "burning air",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3355,
+    "duration_human": "00:55:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 burning air - untitled"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/v_c51a80a0ad77"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ym30uwr2.tar"
+    }
+  }
+}
