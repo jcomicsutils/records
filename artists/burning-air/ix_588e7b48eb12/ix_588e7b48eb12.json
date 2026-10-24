@@ -1,0 +1,27 @@
+{
+  "id": "ix_588e7b48eb12",
+  "fingerprint": "588e7b48eb1222c8632d4291405d7c62c121edbdf282848200fb7840c52ac825",
+  "archived_at": "2026-10-24T15:39:58Z",
+  "metadata": {
+    "title": "IX",
+    "artist": "burning air",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 6298,
+    "duration_human": "01:44:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 burning air - untitled"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/ix_588e7b48eb12"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/mh1czkbh.tar"
+    }
+  }
+}
