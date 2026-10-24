@@ -1,0 +1,28 @@
+{
+  "id": "viii_4f7a4dded178",
+  "fingerprint": "4f7a4dded1783189bcb6922fcee1f92be9480fe66f2f078cd5bc073fc3c658ad",
+  "archived_at": "2026-10-24T15:55:25Z",
+  "metadata": {
+    "title": "VIII",
+    "artist": "burning air",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2797,
+    "duration_human": "00:46:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 pinniped - untitled",
+      "02 burning air - untitled"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/viii_4f7a4dded178"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/pwcpc97q.tar"
+    }
+  }
+}

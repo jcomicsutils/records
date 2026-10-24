@@ -4,6 +4,7 @@
 |-------|------|-------|----------|-------|
 | [IX](ix_588e7b48eb12/ix_588e7b48eb12.md) | 2025 | FLAC | 01:44:58 | [IA](https://archive.org/details/ix_588e7b48eb12) [Pomf](https://pomf2.lain.la/f/mh1czkbh.tar) |
 | [VII](vii_920b38114ea1/vii_920b38114ea1.md) | 2025 | FLAC | 00:39:40 | [IA](https://archive.org/details/vii_920b38114ea1) [Pomf](https://pomf2.lain.la/f/ts3429ht.tar) |
+| [VIII](viii_4f7a4dded178/viii_4f7a4dded178.md) | 2025 | FLAC | 00:46:37 | [IA](https://archive.org/details/viii_4f7a4dded178) [Pomf](https://pomf2.lain.la/f/pwcpc97q.tar) |
 | [V](v_c51a80a0ad77/v_c51a80a0ad77.md) | 2025 | FLAC | 00:55:55 | [IA](https://archive.org/details/v_c51a80a0ad77) [Pomf](https://pomf2.lain.la/f/ym30uwr2.tar) |
 | [IV](iv_87d4c222d886/iv_87d4c222d886.md) | 2025 | FLAC | 00:41:59 | [IA](https://archive.org/details/iv_87d4c222d886) [Pomf](https://pomf2.lain.la/f/g5z1wxk9.tar) |
 | [VI](vi_dbea7b515808/vi_dbea7b515808.md) | 2025 | FLAC | 00:55:11 | [IA](https://archive.org/details/vi_dbea7b515808) [Pomf](https://pomf2.lain.la/f/c0q9cirt.tar) |
