@@ -1,0 +1,27 @@
+{
+  "id": "x_d18df1900f34",
+  "fingerprint": "d18df1900f34a6680db583ac3a6e31de381ce78e785377d2ececfc4f860976a5",
+  "archived_at": "2026-10-24T16:04:23Z",
+  "metadata": {
+    "title": "X",
+    "artist": "burning air",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 20029,
+    "duration_human": "05:33:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 burning air - untitled"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/x_d18df1900f34"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ezuqww55.tar"
+    }
+  }
+}
