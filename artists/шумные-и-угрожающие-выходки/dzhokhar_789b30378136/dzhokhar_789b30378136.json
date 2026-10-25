@@ -1,0 +1,30 @@
+{
+  "id": "dzhokhar_789b30378136",
+  "fingerprint": "789b30378136a3ebad5bc3683aa2662498747d0b04d87051ec2d559c570138c3",
+  "archived_at": "2026-10-25T00:48:17Z",
+  "metadata": {
+    "title": "Джохар",
+    "artist": "шумные и угрожающие выходки",
+    "year": "2020",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 587,
+    "duration_human": "00:09:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 шумные и угрожающие выходки - Джохар",
+      "02 шумные и угрожающие выходки - Помойка",
+      "03 шумные и угрожающие выходки - Что же останется после меня",
+      "04 шумные и угрожающие выходки - На север"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/dzhokhar_789b30378136"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/0n6aku2d.tar"
+    }
+  }
+}
