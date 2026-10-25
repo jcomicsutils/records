@@ -1,0 +1,29 @@
+{
+  "id": "sine-seryy-albom-split_52f6ba61d6ad",
+  "fingerprint": "52f6ba61d6ad95e67406140873ae72e2bfd30e2527e81e2f77d4f9221f7723d3",
+  "archived_at": "2026-10-25T01:11:49Z",
+  "metadata": {
+    "title": "Сине-серый альбом (сплит)",
+    "artist": "шумные и угрожающие выходки",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 927,
+    "duration_human": "00:15:27",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 День России - Иван Голунов",
+      "02 Позоры - Pussor",
+      "03 шумные и угрожающие выходки - пять утра (vs. позоры)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sine-seryy-albom-split_52f6ba61d6ad"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/toh1kxvj.tar"
+    }
+  }
+}
