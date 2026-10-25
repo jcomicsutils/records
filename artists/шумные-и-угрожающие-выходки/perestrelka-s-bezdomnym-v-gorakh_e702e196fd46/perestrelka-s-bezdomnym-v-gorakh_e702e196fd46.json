@@ -1,0 +1,33 @@
+{
+  "id": "perestrelka-s-bezdomnym-v-gorakh_e702e196fd46",
+  "fingerprint": "e702e196fd465db2afbb17055d7c7053af6ba467c5ebb218f5889b3fc31c4c81",
+  "archived_at": "2026-10-25T01:02:14Z",
+  "metadata": {
+    "title": "перестрелка с бездомным в горах",
+    "artist": "шумные и угрожающие выходки",
+    "year": "2019",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1293,
+    "duration_human": "00:21:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 шумные и угрожающие выходки - Детская смертность",
+      "02 шумные и угрожающие выходки - vegan daily",
+      "03 шумные и угрожающие выходки - Всё будет здорово",
+      "04 шумные и угрожающие выходки - Давайте же выпьем",
+      "05 шумные и угрожающие выходки - Сибирские догонялки (п.у. корабельные сосны)",
+      "06 шумные и угрожающие выходки - Полумна Лавгуд",
+      "07 шумные и угрожающие выходки - Следующий город (п.у. Црвених Цветова)"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/perestrelka-s-bezdomnym-v-gorakh_e702e196fd46"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/vcy5px7n.tar"
+    }
+  }
+}
