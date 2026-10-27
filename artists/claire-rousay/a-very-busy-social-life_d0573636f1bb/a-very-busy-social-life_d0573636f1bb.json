@@ -1,0 +1,30 @@
+{
+  "id": "a-very-busy-social-life_d0573636f1bb",
+  "fingerprint": "d0573636f1bbfc086fe874228c0b6573b9e3eabddd34f61793d20e074051b868",
+  "archived_at": "2026-10-27T21:40:40Z",
+  "metadata": {
+    "title": "A Very Busy Social Life",
+    "artist": "claire rousay",
+    "year": "2022",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2015,
+    "duration_human": "00:33:35",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Anne-F Jacques & claire rousay - And Yes Yes",
+      "02 Anne-F Jacques & claire rousay - Shy and Lazy and Well...",
+      "03 Anne-F Jacques & claire rousay - My Liver and I",
+      "04 Anne-F Jacques & claire rousay - Won't Be Home Tonight"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/a-very-busy-social-life_d0573636f1bb"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/vrh66jdg.tar"
+    }
+  }
+}
