@@ -79,3 +79,4 @@
 | [2026-07-18 Substation, Melbourne, Australia](2026-07-18-substation-melbourne-australia_1792434797/2026-07-18-substation-melbourne-australia_1792434797.md) | 2026 | FLAC | 00:39:20 | [IA](https://archive.org/details/2026-07-18-substation-melbourne-australia_40ba48475c70) |
 | [2026-07-18 Substation, Melbourne, Australia](2026-07-18-substation-melbourne-australia_1791855746/2026-07-18-substation-melbourne-australia_1791855746.md) | 2026 | FLAC | 00:39:20 | [IA](https://archive.org/details/2026-07-18-substation-melbourne-australia_40ba48475c70) |
 | [Live in NYC](live-in-nyc_fd2bd717b3ac/live-in-nyc_fd2bd717b3ac.md) | 2026 | FLAC | 00:35:48 | [IA](https://archive.org/details/live-in-nyc_fd2bd717b3ac) |
+| [On Holding](on-holding_9044996a89fb/on-holding_9044996a89fb.md) | 2026 | FLAC | 00:28:44 | [IA](https://archive.org/details/on-holding_9044996a89fb) [Pomf](https://pomf2.lain.la/f/ughfk75k.tar) |

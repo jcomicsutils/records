@@ -1,0 +1,31 @@
+{
+  "id": "on-holding_9044996a89fb",
+  "fingerprint": "9044996a89fbb368f030ae0964c011cdf7f440d0badc268c8995a2da11480403",
+  "archived_at": "2026-10-27T19:37:28Z",
+  "metadata": {
+    "title": "On Holding",
+    "artist": "claire rousay",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1724,
+    "duration_human": "00:28:44",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 claire rousay - New Escape",
+      "02 claire rousay - Holy Sedative",
+      "03 claire rousay - On Holding",
+      "04 claire rousay - Rekindle (For Guitar)",
+      "05 claire rousay - Ogden Home"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/on-holding_9044996a89fb"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ughfk75k.tar"
+    }
+  }
+}
