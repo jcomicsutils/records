@@ -1,0 +1,28 @@
+{
+  "id": "sometimes-i-feel-like-i-have-no-friends_6fa4842e6214",
+  "fingerprint": "6fa4842e62143d2a98948596cfb3deb84d9a1bf58189f634e8875beff94adf4a",
+  "archived_at": "2026-10-27T21:53:18Z",
+  "metadata": {
+    "title": "Sometimes I Feel Like I Have No Friends",
+    "artist": "claire rousay",
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1783,
+    "duration_human": "00:29:43",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 claire rousay - Sometimes I Feel Like I Have No Friends",
+      "02 claire rousay - I Need You More Than You Need Me"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/sometimes-i-feel-like-i-have-no-friends_6fa4842e6214"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/27oc96k0.tar"
+    }
+  }
+}

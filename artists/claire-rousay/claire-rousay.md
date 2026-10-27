@@ -33,6 +33,7 @@
 | [It Was Always Worth It](it-was-always-worth-it_1791855830/it-was-always-worth-it_1791855830.md) | 2020 | FLAC | 00:20:12 | [IA](https://archive.org/details/it-was-always-worth-it_f36db4e8fb11) |
 | [Both](both_1791855780/both_1791855780.md) | 2020 | FLAC | 00:34:24 | [IA](https://archive.org/details/both_8e87f08cc941) |
 | [A Collection](a-collection_1791855749/a-collection_1791855749.md) | 2021 | FLAC | 02:17:00 | [IA](https://archive.org/details/a-collection_c470c100bec6) |
+| [Sometimes I Feel Like I Have No Friends](sometimes-i-feel-like-i-have-no-friends_6fa4842e6214/sometimes-i-feel-like-i-have-no-friends_6fa4842e6214.md) | 2021 | FLAC | 00:29:43 | [IA](https://archive.org/details/sometimes-i-feel-like-i-have-no-friends_6fa4842e6214) [Pomf](https://pomf2.lain.la/f/27oc96k0.tar) |
 | [ilysm](ilysm_1791855822/ilysm_1791855822.md) | 2021 | FLAC | 00:20:10 | [IA](https://archive.org/details/ilysm_819c91f89067) |
 | [Gno](gno_1791855807/gno_1791855807.md) | 2021 | MP3 | 00:20:20 | [IA](https://archive.org/details/gno_5c13b2cd7193) |
 | [Now Am Found](now-am-found_1791855854/now-am-found_1791855854.md) | 2021 | ALAC | 00:34:17 | [IA](https://archive.org/details/now-am-found_847a13837b8c) |
