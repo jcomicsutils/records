@@ -1,0 +1,29 @@
+{
+  "id": "the-infernal-machine-machinemachinemachine_a80118251225",
+  "fingerprint": "a801182512252a3326aa695822a3c24cdb03db227a09c4ca3cc74bee0de9646e",
+  "archived_at": "2026-10-29T00:15:19Z",
+  "metadata": {
+    "title": "The Infernal Machine / MachineMachineMachine",
+    "artist": "Armchair Migraine Journey",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4242,
+    "duration_human": "01:10:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 AMJ / E. Ka-Spel / Paul J Rogers - Infernal Machine",
+      "02 AMJ / E. Ka-Spel / Paul J Rogers - Strands That Bind",
+      "03 AMJ / E. Ka-Spel / Paul J Rogers - MachineMachineMachine"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-infernal-machine-machinemachinemachine_a80118251225"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/wmohc8jp.tar"
+    }
+  }
+}
