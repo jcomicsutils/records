@@ -5,3 +5,4 @@
 | [Harshstyle](harshstyle_8d661bd4c83c/harshstyle_8d661bd4c83c.md) | 2017 | FLAC | 00:41:11 | [IA](https://archive.org/details/harshstyle_8d661bd4c83c) |
 | [Dancing Plague](dancing-plague_e4bbf4ecc94b/dancing-plague_e4bbf4ecc94b.md) | 2021 | FLAC | 00:25:44 | [IA](https://archive.org/details/dancing-plague_e4bbf4ecc94b) |
 | [Muros Diaboli](muros-diaboli_9403c5f51921/muros-diaboli_9403c5f51921.md) | 2022 | FLAC | 00:40:00 | [IA](https://archive.org/details/muros-diaboli_9403c5f51921) |
+| [Stena / Rave Exorcist](stena-rave-exorcist_4c621472877d/stena-rave-exorcist_4c621472877d.md) | 2026 | FLAC | 00:30:00 | [Pomf](https://pomf2.lain.la/f/7rk4ltv1.tar) [IA](https://archive.org/details/stena-rave-exorcist_4c621472877d) |

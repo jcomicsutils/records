@@ -1,0 +1,29 @@
+{
+  "id": "stena-rave-exorcist_4c621472877d",
+  "fingerprint": "4c621472877ddee58386c4aed9c59f45eb336770bb0adb0c50c8bc7fd07faae4",
+  "archived_at": "2026-10-30T20:01:08Z",
+  "metadata": {
+    "title": "Stena / Rave Exorcist",
+    "artist": "Stena",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Stena - Wallfall",
+      "02 Rave Exorcist - Techno Religion - Way Of The Future",
+      "03 Rave Exorcist - Alignment Problem"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/7rk4ltv1.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/stena-rave-exorcist_4c621472877d"
+    }
+  }
+}
