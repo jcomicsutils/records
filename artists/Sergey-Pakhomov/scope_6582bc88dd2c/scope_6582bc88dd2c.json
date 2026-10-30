@@ -1,0 +1,36 @@
+{
+  "id": "scope_6582bc88dd2c",
+  "fingerprint": "6582bc88dd2cd2cce92417ec238e5a2e7982771e5c057702d8a5159b1e1b42f5",
+  "archived_at": "2026-10-30T19:37:47Z",
+  "metadata": {
+    "title": "Scope",
+    "artist": "Sergey Pakhomov",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3000,
+    "duration_human": "00:50:00",
+    "sampling_rate": "96kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Scope I",
+      "02 Sergey Pakhomov - Scope II"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://pomf2.lain.la/f/hwf3uufp.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/v2lvyod3.tar"
+        }
+      ]
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/scope_6582bc88dd2c"
+    }
+  }
+}
