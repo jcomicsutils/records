@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Pillars](pillars_4b3795df3072/pillars_4b3795df3072.md) | 2025 | FLAC | 00:19:41 | [Pomf](https://pomf2.lain.la/f/xzgugc5g.tar) [IA](https://archive.org/details/pillars_4b3795df3072) |
 | [Frozen Grief](frozen-grief_c107d5b0ca97/frozen-grief_c107d5b0ca97.md) | 2025 | FLAC | 00:17:56 | [Pomf](https://pomf2.lain.la/f/rhjpxz5v.tar) [IA](https://archive.org/details/frozen-grief_c107d5b0ca97) |
 | [\[untitled\]](untitled_755c6e623090/untitled_755c6e623090.md) | 2025 | FLAC | 00:15:35 | [Pomf](https://pomf2.lain.la/f/lh5w32a9.tar) [IA](https://archive.org/details/untitled_755c6e623090) |
 | [Centurion](centurion_3abef7c9dea1/centurion_3abef7c9dea1.md) | 2025 | FLAC | 00:22:54 | [Pomf](https://pomf2.lain.la/f/1tmlwd19.tar) [IA](https://archive.org/details/centurion_3abef7c9dea1) |
