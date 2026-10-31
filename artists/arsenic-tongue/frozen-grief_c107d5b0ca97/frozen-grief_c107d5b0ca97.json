@@ -1,0 +1,27 @@
+{
+  "id": "frozen-grief_c107d5b0ca97",
+  "fingerprint": "c107d5b0ca9768641e36f7116eaf9b7458f506bc57538ca2a3858f2eb23c9075",
+  "archived_at": "2026-10-31T15:12:18Z",
+  "metadata": {
+    "title": "Frozen Grief",
+    "artist": "arsenic tongue",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1076,
+    "duration_human": "00:17:56",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 arsenic tongue - Frozen Grief"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/rhjpxz5v.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/frozen-grief_c107d5b0ca97"
+    }
+  }
+}
