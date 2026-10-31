@@ -1,0 +1,27 @@
+{
+  "id": "cosmotorium_37305465d6c2",
+  "fingerprint": "37305465d6c2e3796c83b8025033298795985608f117eb6d84ff7c653f1efd75",
+  "archived_at": "2026-10-31T15:10:57Z",
+  "metadata": {
+    "title": "Cosmotorium",
+    "artist": "arsenic tongue",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1188,
+    "duration_human": "00:19:48",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 arsenic tongue - Cosmotorium"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/7rb2a8qf.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/cosmotorium_37305465d6c2"
+    }
+  }
+}
