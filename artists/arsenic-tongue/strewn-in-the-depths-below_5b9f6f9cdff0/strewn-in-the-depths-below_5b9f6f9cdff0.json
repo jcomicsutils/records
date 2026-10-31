@@ -1,0 +1,27 @@
+{
+  "id": "strewn-in-the-depths-below_5b9f6f9cdff0",
+  "fingerprint": "5b9f6f9cdff0fb5385e1c34b443e91a1a02c98c37515ca289db28d3c7417b920",
+  "archived_at": "2026-10-31T15:19:38Z",
+  "metadata": {
+    "title": "Strewn in the Depths Below",
+    "artist": "arsenic tongue",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 950,
+    "duration_human": "00:15:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 arsenic tongue - Strewn in the Depths Below"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/9vtlkv4s.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/strewn-in-the-depths-below_5b9f6f9cdff0"
+    }
+  }
+}

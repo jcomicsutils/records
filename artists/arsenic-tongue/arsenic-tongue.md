@@ -9,3 +9,4 @@
 | [Immortal](immortal_6587856aa4d7/immortal_6587856aa4d7.md) | 2025 | FLAC | 00:35:56 | [Pomf](https://pomf2.lain.la/f/oa5sty4j.tar) [IA](https://archive.org/details/immortal_6587856aa4d7) |
 | [Shrine Memory](shrine-memory_763b48a0b00e/shrine-memory_763b48a0b00e.md) | 2025 | FLAC | 00:30:26 | [Pomf](https://pomf2.lain.la/f/dhlw7jlb.tar) [IA](https://archive.org/details/shrine-memory_763b48a0b00e) |
 | [Cosmotorium](cosmotorium_37305465d6c2/cosmotorium_37305465d6c2.md) | 2026 | FLAC | 00:19:48 | [Pomf](https://pomf2.lain.la/f/7rb2a8qf.tar) [IA](https://archive.org/details/cosmotorium_37305465d6c2) |
+| [Strewn in the Depths Below](strewn-in-the-depths-below_5b9f6f9cdff0/strewn-in-the-depths-below_5b9f6f9cdff0.md) | 2026 | FLAC | 00:15:50 | [Pomf](https://pomf2.lain.la/f/9vtlkv4s.tar) [IA](https://archive.org/details/strewn-in-the-depths-below_5b9f6f9cdff0) |
