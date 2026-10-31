@@ -1,0 +1,29 @@
+{
+  "id": "immortal_6587856aa4d7",
+  "fingerprint": "6587856aa4d7ac85618de911c093d92696c1eb5dac88a632caf9c6471c78ce4c",
+  "archived_at": "2026-10-31T15:13:51Z",
+  "metadata": {
+    "title": "Immortal",
+    "artist": "arsenic tongue",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2156,
+    "duration_human": "00:35:56",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 arsenic tongue - Drifter",
+      "02 arsenic tongue - Bloodstorm",
+      "03 arsenic tongue - Abyss"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/oa5sty4j.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/immortal_6587856aa4d7"
+    }
+  }
+}
