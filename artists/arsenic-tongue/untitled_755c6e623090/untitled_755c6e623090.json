@@ -1,0 +1,27 @@
+{
+  "id": "untitled_755c6e623090",
+  "fingerprint": "755c6e623090bfebb114d635c23b6aaf4f664c9a3f9391e17620f1f63b2cecb6",
+  "archived_at": "2026-10-31T15:06:58Z",
+  "metadata": {
+    "title": "[untitled]",
+    "artist": "arsenic tongue",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 935,
+    "duration_human": "00:15:35",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 arsenic tongue - [untitled]"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/lh5w32a9.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/untitled_755c6e623090"
+    }
+  }
+}
