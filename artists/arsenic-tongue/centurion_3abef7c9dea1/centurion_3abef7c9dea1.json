@@ -1,0 +1,27 @@
+{
+  "id": "centurion_3abef7c9dea1",
+  "fingerprint": "3abef7c9dea132bfa16309a0dc8f0b0337c1e60c1e88b87a19f78c41389393de",
+  "archived_at": "2026-10-31T15:08:24Z",
+  "metadata": {
+    "title": "Centurion",
+    "artist": "arsenic tongue",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1374,
+    "duration_human": "00:22:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 arsenic tongue - Centurion"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/1tmlwd19.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/centurion_3abef7c9dea1"
+    }
+  }
+}
