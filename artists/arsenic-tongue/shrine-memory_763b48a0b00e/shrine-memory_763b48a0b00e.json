@@ -1,0 +1,27 @@
+{
+  "id": "shrine-memory_763b48a0b00e",
+  "fingerprint": "763b48a0b00e8637b1a248ff8fe3c198a63b598a43985de3243517f277130d86",
+  "archived_at": "2026-10-31T15:17:58Z",
+  "metadata": {
+    "title": "Shrine Memory",
+    "artist": "arsenic tongue",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1826,
+    "duration_human": "00:30:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 arsenic tongue - Shrine Memory"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/dhlw7jlb.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/shrine-memory_763b48a0b00e"
+    }
+  }
+}
