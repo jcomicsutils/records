@@ -1,0 +1,27 @@
+{
+  "id": "379-we-heard-the-blow-but-could-not-get-a-glimpse-of-the-blowpipe_fdb642e8cf4a",
+  "fingerprint": "fdb642e8cf4a5034c8ecbad9d51804d3fc5c5d20ddf957076e24fde1a5d13c12",
+  "archived_at": "2026-11-01T09:03:32Z",
+  "metadata": {
+    "title": "#379: We Heard the Blow but Could Not Get a Glimpse of the Blowpipe",
+    "artist": "Body 13",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2252,
+    "duration_human": "00:37:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Body 13 - We Heard the Blow but Could Not Get a Glimpse of the Blowpipe"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/kz2f9dei.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/379-we-heard-the-blow-but-could-not-get-a-glimpse-of-the-blowpipe_fdb642e8cf4a"
+    }
+  }
+}
