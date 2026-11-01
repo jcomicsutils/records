@@ -1,0 +1,24 @@
+{
+  "id": "sunshine-system_4e22e7040ee3",
+  "fingerprint": "4e22e7040ee37fcd6f14851d4e276d6e623acc64b4a3d9fee4763a49602b1f32",
+  "archived_at": "2026-10-31T15:22:35Z",
+  "metadata": {
+    "title": "Sunshine System",
+    "artist": "arsenic tongue",
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2513,
+    "duration_human": "00:41:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 arsenic tongue - Sunshine System"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/rtea98w3.tar"
+    }
+  }
+}
