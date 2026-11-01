@@ -19,6 +19,9 @@
   "hosts": {
     "pomf": {
       "url": "https://pomf2.lain.la/f/rtea98w3.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/sunshine-system_4e22e7040ee3"
     }
   }
 }

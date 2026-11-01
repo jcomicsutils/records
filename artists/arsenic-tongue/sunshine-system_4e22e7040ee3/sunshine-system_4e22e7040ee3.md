@@ -1,5 +1,7 @@
 # arsenic tongue — Sunshine System (2025)
 
+![Cover](https://archive.org/download/sunshine-system_4e22e7040ee3/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Codec | FLAC |
@@ -11,6 +13,7 @@
 ## Hosts
 
 - [Pomf](https://pomf2.lain.la/f/rtea98w3.tar)
+- [Archive.org](https://archive.org/details/sunshine-system_4e22e7040ee3)
 
 ## Tracklist
 
