@@ -1,0 +1,37 @@
+{
+  "id": "lash-my-hands_82ae7bde79a1",
+  "fingerprint": "82ae7bde79a1680e8367e97c168ba2e1acea5114ad0f96d4406ca51bc04b8c55",
+  "archived_at": "2026-11-02T23:32:11Z",
+  "metadata": {
+    "title": "Lash My Hands",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Satanic Affliction"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2475,
+    "duration_human": "00:41:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Satanic Affliction - Forlorn Isolation",
+      "02 Satanic Affliction - Dripping Down in Triumphant Misery",
+      "03 Satanic Affliction - Lash My Hands",
+      "04 Satanic Affliction - Gloom of Sin",
+      "05 Satanic Affliction - Theotokion of the Unworthy",
+      "06 Satanic Affliction - Saith the Skull",
+      "07 Satanic Affliction - Fear"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/l1b4fxm2.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/lash-my-hands_82ae7bde79a1"
+    }
+  }
+}

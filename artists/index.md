@@ -329,6 +329,7 @@
 - [Sado Rituals](Sado-Rituals/Sado-Rituals.md)
 - [Salzig Noise](Salzig-Noise/Salzig-Noise.md)
 - [Sarin](Sarin/Sarin.md)
+- [Satanic Affliction](Satanic-Affliction/Satanic-Affliction.md)
 - [Scattered Castles](Scattered-Castles/Scattered-Castles.md)
 - [Secretum Omega](Secretum-Omega/Secretum-Omega.md)
 - [SEDEVECANTIST](SEDEVECANTIST/SEDEVECANTIST.md)
