@@ -1,0 +1,31 @@
+{
+  "id": "dies-irae_5183f3beca1c",
+  "fingerprint": "5183f3beca1c4179e4b12c155008ffa997e27d0b6c618ba28ad3b3e4216e1752",
+  "archived_at": "2026-11-02T20:00:42Z",
+  "metadata": {
+    "title": "Dies Irae",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Fabio Keiner"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2944,
+    "duration_human": "00:49:04",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Fabio Keiner - Dies Irae"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/gb07ot7s.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/dies-irae_5183f3beca1c"
+    }
+  }
+}

@@ -7,6 +7,7 @@
 | [Amor *(with Militia Dei)*](amor_2740aaa753b3/amor_2740aaa753b3.md) | 2024 | FLAC | 00:33:35 | [Pomf](https://pomf2.lain.la/f/ce68iiri.tar) [IA](https://archive.org/details/amor_2740aaa753b3) |
 | [Chants *(with Holy Hermit Humming)*](chants_16599ef49bc8/chants_16599ef49bc8.md) | 2024 | FLAC | 00:57:22 | [Pomf](https://pomf2.lain.la/f/3uav53ge.tar) [IA](https://archive.org/details/chants_16599ef49bc8) |
 | [Chants III *(with Holy Hermit Humming)*](chants-iii_21666b6fc27a/chants-iii_21666b6fc27a.md) | 2024 | FLAC | 00:57:48 | [Pomf](https://pomf2.lain.la/f/a7mgxuom.tar) [IA](https://archive.org/details/chants-iii_21666b6fc27a) |
+| [Dies Irae *(with Fabio Keiner)*](dies-irae_5183f3beca1c/dies-irae_5183f3beca1c.md) | 2025 | FLAC | 00:49:04 | [Pomf](https://pomf2.lain.la/f/gb07ot7s.tar) [IA](https://archive.org/details/dies-irae_5183f3beca1c) |
 | [Communion \(Reinterpreted\) *(with The Ambient Hermit)*](communion-reinterpreted_3db4217702f4/communion-reinterpreted_3db4217702f4.md) | 2025 | FLAC | 01:22:29 | [Pomf](https://pomf2.lain.la/f/iggivbw9.tar) [IA](https://archive.org/details/communion-reinterpreted_3db4217702f4) |
 | [Chants IV *(with Holy Hermit Humming)*](chants-iv_841c8a3dc5d9/chants-iv_841c8a3dc5d9.md) | 2025 | FLAC | 00:58:41 | [Pomf](https://pomf2.lain.la/f/l18u5b6m.tar) [IA](https://archive.org/details/chants-iv_841c8a3dc5d9) |
 | [Confiteor *(with AGDISTIZ)*](confiteor_62e9bd7b43d6/confiteor_62e9bd7b43d6.md) | 2025 | FLAC | 00:34:25 | [Pomf](https://pomf2.lain.la/f/wsaz075w.tar) [IA](https://archive.org/details/confiteor_62e9bd7b43d6) |
