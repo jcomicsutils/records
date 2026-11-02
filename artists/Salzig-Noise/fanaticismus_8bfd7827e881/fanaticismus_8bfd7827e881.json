@@ -1,0 +1,31 @@
+{
+  "id": "fanaticismus_8bfd7827e881",
+  "fingerprint": "8bfd7827e8813fb180629f8355237df2d0ce6422d657f2bfa6013ebe5264b73d",
+  "archived_at": "2026-11-02T20:26:26Z",
+  "metadata": {
+    "title": "Fanaticismus",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Salzig Noise"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 720,
+    "duration_human": "00:12:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Salzig Noise - Fanaticismus"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/vvqv8rjp.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/fanaticismus_8bfd7827e881"
+    }
+  }
+}
