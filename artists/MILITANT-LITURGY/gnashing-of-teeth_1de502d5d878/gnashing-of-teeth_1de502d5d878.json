@@ -1,0 +1,31 @@
+{
+  "id": "gnashing-of-teeth_1de502d5d878",
+  "fingerprint": "1de502d5d878c74d9151203d6b1ea08064cfa82cecae53322f399d6117c0be9d",
+  "archived_at": "2026-11-02T21:01:40Z",
+  "metadata": {
+    "title": "Gnashing of Teeth",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Hailing Her Heavens"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1563,
+    "duration_human": "00:26:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Hailing Her Heavens - Gnashing of Teeth"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/w562a77v.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/gnashing-of-teeth_1de502d5d878"
+    }
+  }
+}
