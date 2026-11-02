@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Lamentations for Good Friday - In Parasceve \(Reinterpreted\) *(with MILITANT LITURGY)*](lamentations-for-good-friday-in-parasceve-reinterpreted_bb5e9a0590f9/lamentations-for-good-friday-in-parasceve-reinterpreted_bb5e9a0590f9.md) | 2025 | FLAC | 01:40:00 | [Pomf](https://pomf2.lain.la/f/aed3unbl.tar) [IA](https://archive.org/details/lamentations-for-good-friday-in-parasceve-reinterpreted_bb5e9a0590f9) |
 | [Communion \(Reinterpreted\) *(with MILITANT LITURGY)*](communion-reinterpreted_3db4217702f4/communion-reinterpreted_3db4217702f4.md) | 2025 | FLAC | 01:22:29 | [Pomf](https://pomf2.lain.la/f/iggivbw9.tar) [IA](https://archive.org/details/communion-reinterpreted_3db4217702f4) |
 | [La Nativité du Seigneur \(Reinterpreted\) *(with MILITANT LITURGY)*](la-nativite-du-seigneur-reinterpreted_1dafb6610052/la-nativite-du-seigneur-reinterpreted_1dafb6610052.md) | 2025 | FLAC | 05:45:48 | [Pomf ×3](la-nativite-du-seigneur-reinterpreted_1dafb6610052/la-nativite-du-seigneur-reinterpreted_1dafb6610052.md) [IA](https://archive.org/details/la-nativite-du-seigneur-reinterpreted_1dafb6610052) |
 | [Hail, Bright Cecilia \(Reinterpreted\) *(with MILITANT LITURGY)*](hail-bright-cecilia-reinterpreted_abe4a83178a0/hail-bright-cecilia-reinterpreted_abe4a83178a0.md) | 2025 | FLAC | 03:03:35 | [Pomf](https://pomf2.lain.la/f/9i1gcc1q.tar) [IA](https://archive.org/details/hail-bright-cecilia-reinterpreted_abe4a83178a0) |
