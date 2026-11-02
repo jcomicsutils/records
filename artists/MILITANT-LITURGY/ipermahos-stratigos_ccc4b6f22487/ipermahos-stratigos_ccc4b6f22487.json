@@ -1,0 +1,32 @@
+{
+  "id": "ipermahos-stratigos_ccc4b6f22487",
+  "fingerprint": "ccc4b6f22487a1de5b0c9076f30f08938f82151a32244e94cf33d499d4db3b9a",
+  "archived_at": "2026-11-02T21:53:55Z",
+  "metadata": {
+    "title": "Ipermahos Stratigos",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "His Haunted Humming"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 His Haunted Humming - Ipermahos Stratigos I",
+      "02 His Haunted Humming - Ipermahos Stratigos II"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ttjqvx4y.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/ipermahos-stratigos_ccc4b6f22487"
+    }
+  }
+}
