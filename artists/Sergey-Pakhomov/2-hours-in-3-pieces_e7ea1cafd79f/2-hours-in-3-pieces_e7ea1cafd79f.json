@@ -1,0 +1,37 @@
+{
+  "id": "2-hours-in-3-pieces_e7ea1cafd79f",
+  "fingerprint": "e7ea1cafd79f67e045383e81a51b1bf9cdf57720cee77712823c1b8039fb9467",
+  "archived_at": "2026-11-02T01:45:49Z",
+  "metadata": {
+    "title": "2 Hours In 3 Pieces",
+    "artist": "Sergey Pakhomov",
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 7200,
+    "duration_human": "02:00:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sergey Pakhomov - Piece I",
+      "02 Sergey Pakhomov - Piece II",
+      "03 Sergey Pakhomov - Piece III"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://pomf2.lain.la/f/9tmkf0vz.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/xldm6kmv.tar"
+        }
+      ]
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/2-hours-in-3-pieces_e7ea1cafd79f"
+    }
+  }
+}
