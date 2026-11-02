@@ -1,0 +1,33 @@
+{
+  "id": "lamentations-for-holy-saturday-sabbato-sancto-reinterpreted_7910a2b27f20",
+  "fingerprint": "7910a2b27f2071f9783b25f545caf51c58364f5b76ebcb0b84b78d7eb4fa0a1b",
+  "archived_at": "2026-11-02T23:19:42Z",
+  "metadata": {
+    "title": "Lamentations for Holy Saturday - Sabbato Sancto (Reinterpreted)",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "The Ambient Hermit"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 6660,
+    "duration_human": "01:51:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Ambient Hermit - De Lamentatione Ieremiae Prophetae (Reinterpreted)",
+      "02 The Ambient Hermit - Aleph. Quomodo Obscuratum Est Aurum (Reinterpreted)",
+      "03 The Ambient Hermit - Incipit Oratio Ieremiae Prophetae (Reinterpreted)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ep4w4pvf.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/lamentations-for-holy-saturday-sabbato-sancto-reinterpreted_7910a2b27f20"
+    }
+  }
+}
