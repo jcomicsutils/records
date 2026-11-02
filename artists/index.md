@@ -81,6 +81,7 @@
 - [Cadu Tenório](Cadu-Tenório/Cadu-Tenório.md)
 - [Cages](Cages/Cages.md)
 - [Cannabis Rose](Cannabis-Rose/Cannabis-Rose.md)
+- [CARNAL DENIAL](CARNAL-DENIAL/CARNAL-DENIAL.md)
 - [Ceeys](Ceeys/Ceeys.md)
 - [Celestial Key](Celestial-Key/Celestial-Key.md)
 - [Chaos Royale](Chaos-Royale/Chaos-Royale.md)

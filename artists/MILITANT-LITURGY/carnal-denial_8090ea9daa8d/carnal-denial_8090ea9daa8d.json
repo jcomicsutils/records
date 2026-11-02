@@ -1,0 +1,33 @@
+{
+  "id": "carnal-denial_8090ea9daa8d",
+  "fingerprint": "8090ea9daa8d836240f1131ab09f4b74eb77aad7166238efe66852ca49d8da37",
+  "archived_at": "2026-11-02T07:40:16Z",
+  "metadata": {
+    "title": "Carnal Denial",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "CARNAL DENIAL"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3792,
+    "duration_human": "01:03:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 CARNAL DENIAL - Carnal Denial 1",
+      "02 CARNAL DENIAL - Carnal Denial 2",
+      "03 CARNAL DENIAL - Carnal Denial 3"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/y69jstsi.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/carnal-denial_8090ea9daa8d"
+    }
+  }
+}
