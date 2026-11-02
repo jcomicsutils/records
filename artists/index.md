@@ -364,6 +364,7 @@
 - [The Alvaret Ensemble](The-Alvaret-Ensemble/The-Alvaret-Ensemble.md)
 - [The Ambient Hermit](The-Ambient-Hermit/The-Ambient-Hermit.md)
 - [The Brave Little Abacus](The-Brave-Little-Abacus/The-Brave-Little-Abacus.md)
+- [The Desert Fathers](The-Desert-Fathers/The-Desert-Fathers.md)
 - [The Dreams Of Absolem](The-Dreams-Of-Absolem/The-Dreams-Of-Absolem.md)
 - [The Drones Of Absolem](The-Drones-Of-Absolem/The-Drones-Of-Absolem.md)
 - [The Dwarfs of East Agouza](The-Dwarfs-of-East-Agouza/The-Dwarfs-of-East-Agouza.md)
