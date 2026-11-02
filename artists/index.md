@@ -360,6 +360,7 @@
 - [Text of Light](Text-of-Light/Text-of-Light.md)
 - [The 365 Project](The-365-Project/The-365-Project.md)
 - [The Alvaret Ensemble](The-Alvaret-Ensemble/The-Alvaret-Ensemble.md)
+- [The Ambient Hermit](The-Ambient-Hermit/The-Ambient-Hermit.md)
 - [The Brave Little Abacus](The-Brave-Little-Abacus/The-Brave-Little-Abacus.md)
 - [The Dreams Of Absolem](The-Dreams-Of-Absolem/The-Dreams-Of-Absolem.md)
 - [The Drones Of Absolem](The-Drones-Of-Absolem/The-Drones-Of-Absolem.md)
