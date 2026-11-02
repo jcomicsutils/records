@@ -1,0 +1,31 @@
+{
+  "id": "digital-theosis_cb6c53e1d619",
+  "fingerprint": "cb6c53e1d619743ca425743a1ac01cc16e936958a757a3fa4f7401523676ba20",
+  "archived_at": "2026-11-02T20:02:12Z",
+  "metadata": {
+    "title": "Digital Theosis",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Rave Exorcist"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 658,
+    "duration_human": "00:10:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Rave Exorcist - Digital Theosis"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/0q8ei1i3.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/digital-theosis_cb6c53e1d619"
+    }
+  }
+}

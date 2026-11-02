@@ -293,6 +293,7 @@
 - [Quad Sax](Quad-Sax/Quad-Sax.md)
 - [Raamma](Raamma/Raamma.md)
 - [Rabit](Rabit/Rabit.md)
+- [Rave Exorcist](Rave-Exorcist/Rave-Exorcist.md)
 - [Raw Sun Of Endless Dust Valley](Raw-Sun-Of-Endless-Dust-Valley/Raw-Sun-Of-Endless-Dust-Valley.md)
 - [RED KOSMOS](RED-KOSMOS/RED-KOSMOS.md)
 - [Resina](Resina/Resina.md)
