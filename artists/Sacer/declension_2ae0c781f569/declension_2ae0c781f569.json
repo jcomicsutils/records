@@ -1,0 +1,33 @@
+{
+  "id": "declension_2ae0c781f569",
+  "fingerprint": "2ae0c781f569ffb60d6589b4118621fa2a8865364f991ab89bc246eecc4995b7",
+  "archived_at": "2026-11-02T19:42:58Z",
+  "metadata": {
+    "title": "Declension",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Sacer"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2850,
+    "duration_human": "00:47:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sacer - Tragedy Apparition",
+      "02 Sacer - Roman Law Punitive",
+      "03 Sacer - St,Petersburg Has Fallen"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ewmtqspl.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/declension_2ae0c781f569"
+    }
+  }
+}

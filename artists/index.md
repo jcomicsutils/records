@@ -307,6 +307,7 @@
 - [Russell Walker](Russell-Walker/Russell-Walker.md)
 - [Rutger Zuydervelt](Rutger-Zuydervelt/Rutger-Zuydervelt.md)
 - [Rắn Cạp Đuôi](Rắn-Cạp-Đuôi/Rắn-Cạp-Đuôi.md)
+- [Sacer](Sacer/Sacer.md)
 - [Sado Rituals](Sado-Rituals/Sado-Rituals.md)
 - [Sarin](Sarin/Sarin.md)
 - [Scattered Castles](Scattered-Castles/Scattered-Castles.md)
