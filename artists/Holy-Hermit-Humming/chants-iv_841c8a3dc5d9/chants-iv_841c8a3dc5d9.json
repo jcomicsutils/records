@@ -1,0 +1,32 @@
+{
+  "id": "chants-iv_841c8a3dc5d9",
+  "fingerprint": "841c8a3dc5d95b4eb6c1e02a67a387a24ac29a01776000d416c86568b0529457",
+  "archived_at": "2026-11-02T08:03:34Z",
+  "metadata": {
+    "title": "Chants IV",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Holy Hermit Humming"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3521,
+    "duration_human": "00:58:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Holy Hermit Humming - Chant 8 (Serbian)",
+      "02 Holy Hermit Humming - Chant 9 (Arabic)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/l18u5b6m.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/chants-iv_841c8a3dc5d9"
+    }
+  }
+}
