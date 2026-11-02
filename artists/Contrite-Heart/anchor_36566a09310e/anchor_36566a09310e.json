@@ -1,0 +1,31 @@
+{
+  "id": "anchor_36566a09310e",
+  "fingerprint": "36566a09310e948c468ee42c8d10ee69b978808052c49673efac0f67db99d63c",
+  "archived_at": "2026-11-02T07:06:56Z",
+  "metadata": {
+    "title": "Anchor",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Contrite Heart"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 867,
+    "duration_human": "00:14:27",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Contrite Heart - Anchor"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/01asbfwz.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/anchor_36566a09310e"
+    }
+  }
+}
