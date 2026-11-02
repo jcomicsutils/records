@@ -1,0 +1,31 @@
+{
+  "id": "deer_4d90efaa5b7f",
+  "fingerprint": "4d90efaa5b7f7c2a97ab7244f5082be02e88ceba4525b85b0193c856d17aa26f",
+  "archived_at": "2026-11-02T19:56:31Z",
+  "metadata": {
+    "title": "Deer",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Contrite Heart"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2123,
+    "duration_human": "00:35:23",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Contrite Heart - Deer"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/gyz0rfom.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/deer_4d90efaa5b7f"
+    }
+  }
+}
