@@ -63,6 +63,7 @@
 - [Black Magick SS](black-magick-ss/black-magick-ss.md)
 - [Blackhaine](Blackhaine/Blackhaine.md)
 - [BLARF](BLARF/BLARF.md)
+- [Blessed Nuns](Blessed-Nuns/Blessed-Nuns.md)
 - [Blood of a Pomegranate](Blood-of-a-Pomegranate/Blood-of-a-Pomegranate.md)
 - [Bloodz Boi](Bloodz-Boi/Bloodz-Boi.md)
 - [BLUE NOISE](BLUE-NOISE/BLUE-NOISE.md)

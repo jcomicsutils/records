@@ -1,0 +1,31 @@
+{
+  "id": "ad-te-levavi-oculos-meos-reinterpreted_8a6a5a8c3359",
+  "fingerprint": "8a6a5a8c33591817cc94796300b67621b0cceaa2164e1163f10f7b533d02906a",
+  "archived_at": "2026-11-02T06:42:30Z",
+  "metadata": {
+    "title": "Ad te levavi oculos meos (Reinterpreted)",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Blessed Nuns"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4086,
+    "duration_human": "01:08:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Blessed Nuns - Ad te levavi oculos meos (Reinterpreted)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/g28iqmtc.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/ad-te-levavi-oculos-meos-reinterpreted_8a6a5a8c3359"
+    }
+  }
+}
