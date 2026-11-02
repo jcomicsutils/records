@@ -1,0 +1,36 @@
+{
+  "id": "brighter-crowns_6a928998b8c2",
+  "fingerprint": "6a928998b8c23d73f13f74a2c21f36c8524a0d8bd2d49285be1c8e4051baae2e",
+  "archived_at": "2026-11-02T07:33:35Z",
+  "metadata": {
+    "title": "Brighter Crowns",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Scattered Castles"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 4082,
+    "duration_human": "01:08:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Scattered Castles - The Path of Sorrow",
+      "02 Scattered Castles - Snakes of the Panagia",
+      "03 Scattered Castles - Vivification of Sparrows",
+      "04 Scattered Castles - Neither Moth Nor Rust",
+      "05 Scattered Castles - Nature Is the Secret Gospel",
+      "06 Scattered Castles - Luminous Stars of the Spiritual Sky"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/te7tkpin.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/brighter-crowns_6a928998b8c2"
+    }
+  }
+}
