@@ -1,0 +1,50 @@
+{
+  "id": "la-nativite-du-seigneur-reinterpreted_1dafb6610052",
+  "fingerprint": "1dafb6610052f2eb86e516bf9b531117ff71eecd46f75a694d5530bd0a8faeaf",
+  "archived_at": "2026-11-02T22:38:00Z",
+  "metadata": {
+    "title": "La Nativité du Seigneur (Reinterpreted)",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "The Ambient Hermit"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 20748,
+    "duration_human": "05:45:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Ambient Hermit - La Vierge et l'Enfant (Reinterpreted)",
+      "02 The Ambient Hermit - Les Bergers (Reinterpreted)",
+      "03 The Ambient Hermit - Desseins eternels (Reinterpreted)",
+      "04 The Ambient Hermit - Le Verbe (Reinterpreted)",
+      "05 The Ambient Hermit - Les Enfants de Dieu (Reinterpreted)",
+      "06 The Ambient Hermit - Les Anges (Reinterpreted)",
+      "07 The Ambient Hermit - Jesus accepte la Souffragce (Reinterpreted)",
+      "08 The Ambient Hermit - Les Mages(Reinterpreted)",
+      "09 The Ambient Hermit - Dieu parmi nous (Reinterpreted)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://pomf2.lain.la/f/rkapyzrh.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/h9ga22ez.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/8yabjxo8.tar"
+        }
+      ]
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/la-nativite-du-seigneur-reinterpreted_1dafb6610052"
+    }
+  }
+}
