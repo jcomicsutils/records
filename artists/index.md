@@ -16,6 +16,7 @@
 - [Accident Prone Records](Accident-Prone-Records/Accident-Prone-Records.md)
 - [Adam Bosarge](Adam-Bosarge/Adam-Bosarge.md)
 - [African Imperial Wizard](African-Imperial-Wizard/African-Imperial-Wizard.md)
+- [AGDISTIZ](AGDISTIZ/AGDISTIZ.md)
 - [Agriculture](Agriculture/Agriculture.md)
 - [Ak'chamel](Ak'chamel/Ak'chamel.md)
 - [Akira Rabelais](Akira-Rabelais/Akira-Rabelais.md)

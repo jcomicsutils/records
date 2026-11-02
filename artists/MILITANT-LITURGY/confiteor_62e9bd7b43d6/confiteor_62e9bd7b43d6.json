@@ -1,0 +1,34 @@
+{
+  "id": "confiteor_62e9bd7b43d6",
+  "fingerprint": "62e9bd7b43d67f0a9f5cd6020d196d49be4d840a65f0521eff3a2c21cdc98b2d",
+  "archived_at": "2026-11-02T08:30:09Z",
+  "metadata": {
+    "title": "Confiteor",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "AGDISTIZ"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2065,
+    "duration_human": "00:34:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 AGDISTIZ - Confiteor - sed tantum dic verbo",
+      "02 AGDISTIZ - Confiteor - non sum dignus, ut intres sub tectum meum",
+      "03 AGDISTIZ - Confiteor - mortem tuam annuntiamus",
+      "04 AGDISTIZ - Confiteor - peccata mundi"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/wsaz075w.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/confiteor_62e9bd7b43d6"
+    }
+  }
+}
