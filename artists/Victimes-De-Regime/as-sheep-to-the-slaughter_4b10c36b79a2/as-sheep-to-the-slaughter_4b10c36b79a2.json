@@ -1,0 +1,42 @@
+{
+  "id": "as-sheep-to-the-slaughter_4b10c36b79a2",
+  "fingerprint": "4b10c36b79a227daa1b38d3da7bd0f7c69e95ba4dda3df762356fd51d660caa5",
+  "archived_at": "2026-11-02T07:18:55Z",
+  "metadata": {
+    "title": "As Sheep to the Slaughter",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Victimes De Regime"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 4494,
+    "duration_human": "01:14:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Victimes De Regime - A More Perfect Union",
+      "02 Victimes De Regime - Agenda 1",
+      "03 Victimes De Regime - American Combatants",
+      "04 Victimes De Regime - The Name of the Empire",
+      "05 Victimes De Regime - Don't Worry I Am God",
+      "06 Victimes De Regime - Peace and Safety",
+      "07 Victimes De Regime - Rights of One Man",
+      "08 Victimes De Regime - Sheep to the Slaughter",
+      "09 Victimes De Regime - When History Repeats Itself",
+      "10 Victimes De Regime - The Danger in Thought",
+      "11 Victimes De Regime - The Media Is a Lie",
+      "12 Victimes De Regime - It Will All End in Fire"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/d4erxiov.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/as-sheep-to-the-slaughter_4b10c36b79a2"
+    }
+  }
+}

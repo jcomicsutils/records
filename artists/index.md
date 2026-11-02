@@ -403,6 +403,7 @@
 - [Various Artists](Various-Artists/Various-Artists.md)
 - [Veil of Nature / Kara](Veil-of-Nature-Kara/Veil-of-Nature-Kara.md)
 - [Vesuvio](Vesuvio/Vesuvio.md)
+- [Victimes De Regime](Victimes-De-Regime/Victimes-De-Regime.md)
 - [Violent Magic Orchestra](violent-magic-orchestra/violent-magic-orchestra.md)
 - [Virvel](Virvel/Virvel.md)
 - [Vitor Cozilos Vitor](Vitor-Cozilos-Vitor/Vitor-Cozilos-Vitor.md)
