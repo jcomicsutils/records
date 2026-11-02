@@ -1,0 +1,37 @@
+{
+  "id": "holy-hermit-humming-katakombnaya-tserkov_3864292548f1",
+  "fingerprint": "3864292548f1a9b9cb912fc0e3403e8df2217cd42e74c3f79ae1e66f6c9d0e0e",
+  "archived_at": "2026-11-02T21:38:41Z",
+  "metadata": {
+    "title": "Holy Hermit Humming / Катакомбная Церковь",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Holy Hermit Humming",
+      "Катакомбная Церковь"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2554,
+    "duration_human": "00:42:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Holy Hermit Humming - Chant 3 (Arabic)",
+      "02 Holy Hermit Humming / Катакомбная Церковь - Тропари 1",
+      "03 Holy Hermit Humming / Катакомбная Церковь - Тропари 2",
+      "04 Holy Hermit Humming / Катакомбная Церковь - Тропари 3",
+      "05 Holy Hermit Humming / Катакомбная Церковь - Тропари 4",
+      "06 Holy Hermit Humming / Катакомбная Церковь - Тропари 5"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/4k6q5jaf.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/holy-hermit-humming-katakombnaya-tserkov_3864292548f1"
+    }
+  }
+}
