@@ -1,0 +1,32 @@
+{
+  "id": "foolish-anger_fbe0d872216f",
+  "fingerprint": "fbe0d872216fb1b8a43fd429e51293fe2e3cdf1e418aacb5878922ee1b6400ed",
+  "archived_at": "2026-11-02T20:42:27Z",
+  "metadata": {
+    "title": "Foolish Anger",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Contrite Heart"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2380,
+    "duration_human": "00:39:40",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Contrite Heart - Part 1",
+      "02 Contrite Heart - Part 2"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/bl5fv5zo.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/foolish-anger_fbe0d872216f"
+    }
+  }
+}
