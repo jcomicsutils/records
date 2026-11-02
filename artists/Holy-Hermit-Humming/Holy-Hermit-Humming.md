@@ -2,4 +2,5 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Chants II *(with MILITANT LITURGY)*](chants-ii_d24bf05419ac/chants-ii_d24bf05419ac.md) | 2024 | FLAC | 00:57:24 | [Pomf](https://pomf2.lain.la/f/9z482rk2.tar) [IA](https://archive.org/details/chants-ii_d24bf05419ac) |
 | [Chants *(with MILITANT LITURGY)*](chants_16599ef49bc8/chants_16599ef49bc8.md) | 2024 | FLAC | 00:57:22 | [Pomf](https://pomf2.lain.la/f/3uav53ge.tar) [IA](https://archive.org/details/chants_16599ef49bc8) |
