@@ -1,0 +1,32 @@
+{
+  "id": "chants-iii_21666b6fc27a",
+  "fingerprint": "21666b6fc27a0970aa3f50d377702075fe81bd4e14ccd95dfcdf68a367818648",
+  "archived_at": "2026-11-02T07:59:34Z",
+  "metadata": {
+    "title": "Chants III",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Holy Hermit Humming"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3468,
+    "duration_human": "00:57:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Holy Hermit Humming - Chant 6 (Greek)",
+      "02 Holy Hermit Humming - Chant 7 (Polish)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/a7mgxuom.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/chants-iii_21666b6fc27a"
+    }
+  }
+}
