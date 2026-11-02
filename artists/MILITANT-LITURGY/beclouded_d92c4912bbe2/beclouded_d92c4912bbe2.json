@@ -1,0 +1,37 @@
+{
+  "id": "beclouded_d92c4912bbe2",
+  "fingerprint": "d92c4912bbe2cd6eadda9d7267403106b0363e463b8b5809d9df200401561e1a",
+  "archived_at": "2026-11-02T07:28:42Z",
+  "metadata": {
+    "title": "Beclouded",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Scattered Castles"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2630,
+    "duration_human": "00:43:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Scattered Castles - Fatigued",
+      "02 Scattered Castles - Beclouded",
+      "03 Scattered Castles - Esoteric Hope",
+      "04 Scattered Castles - Transcendent",
+      "05 Scattered Castles - Bright Eschaton",
+      "06 Scattered Castles - Bruised and Bloody, Entrenched Upon the Front Lines of Nihilism",
+      "07 Scattered Castles - Memory Eternal"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/8fjvgro9.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/beclouded_d92c4912bbe2"
+    }
+  }
+}
