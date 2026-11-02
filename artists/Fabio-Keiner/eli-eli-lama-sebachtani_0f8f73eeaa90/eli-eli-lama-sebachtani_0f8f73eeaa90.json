@@ -1,0 +1,31 @@
+{
+  "id": "eli-eli-lama-sebachtani_0f8f73eeaa90",
+  "fingerprint": "0f8f73eeaa9034e03bec37b535946a941c6d09ef32f54ffa43c0096c7f2d30ac",
+  "archived_at": "2026-11-02T20:11:05Z",
+  "metadata": {
+    "title": "Eli, Eli Lama Sebachtani",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Fabio Keiner"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3484,
+    "duration_human": "00:58:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Fabio Keiner - Eli, eli lama sebachtani"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/817rh6bz.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/eli-eli-lama-sebachtani_0f8f73eeaa90"
+    }
+  }
+}
