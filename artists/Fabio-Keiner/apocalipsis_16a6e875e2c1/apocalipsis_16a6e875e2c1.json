@@ -1,0 +1,38 @@
+{
+  "id": "apocalipsis_16a6e875e2c1",
+  "fingerprint": "16a6e875e2c19699f2e322256fb0b390060e9ca83361bb2e599308d400325ed8",
+  "archived_at": "2026-11-02T07:12:03Z",
+  "metadata": {
+    "title": "Apocalipsis",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Fabio Keiner"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 3056,
+    "duration_human": "00:50:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Fabio Keiner - Et apertus est puteum abyssi",
+      "02 Fabio Keiner - Sicut habent potestatem scorpiones terrae",
+      "03 Fabio Keiner - Similes equis paratis in proelium",
+      "04 Fabio Keiner - Sicut dentes leonum erant",
+      "05 Fabio Keiner - Et vox alarum eorum sicut vox curruum equorum",
+      "06 Fabio Keiner - Et de ore eorum procedit ignis et fumus et sulphur",
+      "07 Fabio Keiner - Et ab his tribus plagis occisa est tertia pars hominum",
+      "08 Fabio Keiner - Potestas enim in ore eorum est et in caudis"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/gxcg3e9r.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/apocalipsis_16a6e875e2c1"
+    }
+  }
+}
