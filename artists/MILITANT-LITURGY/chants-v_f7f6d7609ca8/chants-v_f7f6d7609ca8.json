@@ -1,0 +1,32 @@
+{
+  "id": "chants-v_f7f6d7609ca8",
+  "fingerprint": "f7f6d7609ca82656d7652394a71ebdd8292f5198a68fe937f28965c45fbe0255",
+  "archived_at": "2026-11-02T08:08:14Z",
+  "metadata": {
+    "title": "Chants V",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Holy Hermit Humming"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3270,
+    "duration_human": "00:54:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Holy Hermit Humming - Chant 10 (Serbian)",
+      "02 Holy Hermit Humming - Chant 11 (Polish)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/c75hhztd.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/chants-v_f7f6d7609ca8"
+    }
+  }
+}
