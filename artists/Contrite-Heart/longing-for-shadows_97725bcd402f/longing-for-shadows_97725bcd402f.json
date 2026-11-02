@@ -1,0 +1,31 @@
+{
+  "id": "longing-for-shadows_97725bcd402f",
+  "fingerprint": "97725bcd402fa49c452fff96cae2aaadcadb34347698b3aeee63b69ebe0444d0",
+  "archived_at": "2026-11-02T23:56:15Z",
+  "metadata": {
+    "title": "Longing for Shadows",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Contrite Heart"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1818,
+    "duration_human": "00:30:18",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Contrite Heart - Longing for Shadows"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/2u0g7sgy.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/longing-for-shadows_97725bcd402f"
+    }
+  }
+}
