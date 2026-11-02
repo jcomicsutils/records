@@ -1,0 +1,33 @@
+{
+  "id": "holy-violence_00c426b8252a",
+  "fingerprint": "00c426b8252a84e4e835b284f357d454ddc5353747f3161969b0483d7872f55a",
+  "archived_at": "2026-11-02T21:44:45Z",
+  "metadata": {
+    "title": "Holy Violence",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Hailing Her Heavens",
+      "Contrite Heart"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3107,
+    "duration_human": "00:51:47",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Hailing Her Heavens & Contrite Heart - Holy Violence Part 1",
+      "02 Hailing Her Heavens & Contrite Heart - Holy Violence Part 2"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/eki0iasj.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/holy-violence_00c426b8252a"
+    }
+  }
+}
