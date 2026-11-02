@@ -158,6 +158,7 @@
 - [Grand Goat Glorification](Grand-Goat-Glorification/Grand-Goat-Glorification.md)
 - [Gravetemple](Gravetemple/Gravetemple.md)
 - [Grim](Grim/Grim.md)
+- [Hailing Her Heavens](Hailing-Her-Heavens/Hailing-Her-Heavens.md)
 - [Hanging Stars](Hanging-Stars/Hanging-Stars.md)
 - [Happy Halloween](Happy-Halloween/Happy-Halloween.md)
 - [Harakiri for the Sky](Harakiri-for-the-Sky/Harakiri-for-the-Sky.md)
