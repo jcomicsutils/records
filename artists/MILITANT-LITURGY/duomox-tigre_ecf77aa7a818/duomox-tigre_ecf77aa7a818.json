@@ -1,0 +1,33 @@
+{
+  "id": "duomox-tigre_ecf77aa7a818",
+  "fingerprint": "ecf77aa7a818f2191372554e3fbbf91c3989e43bdf3c73584adb50559d16028f",
+  "archived_at": "2026-11-02T20:04:45Z",
+  "metadata": {
+    "title": "Duomox Tigre",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Duomox Tigre"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1359,
+    "duration_human": "00:22:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Duomox Tigre - Tigre 1",
+      "02 Duomox Tigre - Tigre 2",
+      "03 Duomox Tigre - Fortaleza"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/vwayhiuq.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/duomox-tigre_ecf77aa7a818"
+    }
+  }
+}

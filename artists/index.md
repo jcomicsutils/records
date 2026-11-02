@@ -124,6 +124,7 @@
 - [Dosis Letalis](Dosis-Letalis/Dosis-Letalis.md)
 - [Drakengraf](Drakengraf/Drakengraf.md)
 - [Dropdead](Dropdead/Dropdead.md)
+- [Duomox Tigre](Duomox-Tigre/Duomox-Tigre.md)
 - [Durvena Cabina](Durvena-Cabina/Durvena-Cabina.md)
 - [E+E](E+E/E+E.md)
 - [EARTHFLESH](EARTHFLESH/EARTHFLESH.md)
