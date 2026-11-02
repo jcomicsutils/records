@@ -7,3 +7,4 @@
 | [Chants III *(with MILITANT LITURGY)*](chants-iii_21666b6fc27a/chants-iii_21666b6fc27a.md) | 2024 | FLAC | 00:57:48 | [Pomf](https://pomf2.lain.la/f/a7mgxuom.tar) [IA](https://archive.org/details/chants-iii_21666b6fc27a) |
 | [Chants IV *(with MILITANT LITURGY)*](chants-iv_841c8a3dc5d9/chants-iv_841c8a3dc5d9.md) | 2025 | FLAC | 00:58:41 | [Pomf](https://pomf2.lain.la/f/l18u5b6m.tar) [IA](https://archive.org/details/chants-iv_841c8a3dc5d9) |
 | [Chants V *(with MILITANT LITURGY)*](chants-v_f7f6d7609ca8/chants-v_f7f6d7609ca8.md) | 2025 | FLAC | 00:54:30 | [Pomf](https://pomf2.lain.la/f/c75hhztd.tar) [IA](https://archive.org/details/chants-v_f7f6d7609ca8) |
+| [Chants VI *(with MILITANT LITURGY)*](chants-vi_8ce3caf8e69d/chants-vi_8ce3caf8e69d.md) | 2026 | FLAC | 00:57:41 | [Pomf](https://pomf2.lain.la/f/wgxv9d0w.tar) [IA](https://archive.org/details/chants-vi_8ce3caf8e69d) |

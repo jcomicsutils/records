@@ -1,0 +1,32 @@
+{
+  "id": "chants-vi_8ce3caf8e69d",
+  "fingerprint": "8ce3caf8e69d7724126f6b16e94f223abe7e2198f0d3a15de23a034872e22878",
+  "archived_at": "2026-11-02T08:14:45Z",
+  "metadata": {
+    "title": "Chants VI",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Holy Hermit Humming"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3461,
+    "duration_human": "00:57:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Holy Hermit Humming - Chant 12 (Greek)",
+      "02 Holy Hermit Humming - Chant 13 (English)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/wgxv9d0w.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/chants-vi_8ce3caf8e69d"
+    }
+  }
+}
