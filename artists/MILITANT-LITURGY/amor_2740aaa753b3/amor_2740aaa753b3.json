@@ -1,0 +1,31 @@
+{
+  "id": "amor_2740aaa753b3",
+  "fingerprint": "2740aaa753b353f91ad28906f8f3b3002a56e864bed8e2ac994eaced3a5ec73b",
+  "archived_at": "2026-11-02T07:04:36Z",
+  "metadata": {
+    "title": "Amor",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Militia Dei"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2015,
+    "duration_human": "00:33:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Militia Dei - Amor"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ce68iiri.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/amor_2740aaa753b3"
+    }
+  }
+}

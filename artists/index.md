@@ -239,6 +239,7 @@
 - [Merzbow + Xiu Xiu](Merzbow-+-Xiu-Xiu/Merzbow-+-Xiu-Xiu.md)
 - [Midori Hirano](Midori-Hirano/Midori-Hirano.md)
 - [MILITANT LITURGY](MILITANT-LITURGY/MILITANT-LITURGY.md)
+- [Militia Dei](Militia-Dei/Militia-Dei.md)
 - [Minimalist](Minimalist/Minimalist.md)
 - [Minimalistic Sweden](Minimalistic-Sweden/Minimalistic-Sweden.md)
 - [Modest Mouse](Modest-Mouse/Modest-Mouse.md)
