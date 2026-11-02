@@ -1,0 +1,32 @@
+{
+  "id": "fear-of-death-fueled-by-self-righteousness_25c88812f517",
+  "fingerprint": "25c88812f51726a64948c9ba3388ff2c227ac3492a320fe543da1764c84fae88",
+  "archived_at": "2026-11-02T20:30:26Z",
+  "metadata": {
+    "title": "Fear of Death Fueled by Self Righteousness",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Contrite Heart"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3469,
+    "duration_human": "00:57:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Contrite Heart - Fear and Anxiety",
+      "02 Contrite Heart - My Wretched Pride"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/zlchers0.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/fear-of-death-fueled-by-self-righteousness_25c88812f517"
+    }
+  }
+}
