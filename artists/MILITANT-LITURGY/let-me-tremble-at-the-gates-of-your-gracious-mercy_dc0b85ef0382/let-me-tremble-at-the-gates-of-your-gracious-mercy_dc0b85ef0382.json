@@ -1,0 +1,31 @@
+{
+  "id": "let-me-tremble-at-the-gates-of-your-gracious-mercy_dc0b85ef0382",
+  "fingerprint": "dc0b85ef0382c75e1999eb2849d17d7fcdd0d52bc13fdba61e588b1ed8ca7ebc",
+  "archived_at": "2026-11-02T23:46:19Z",
+  "metadata": {
+    "title": "Let Me Tremble at the Gates of Your Gracious Mercy",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Contrite Heart"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1803,
+    "duration_human": "00:30:03",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Contrite Heart - Let Me Tremble at the Gates of Your Gracious Mercy"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/4zc4dpa1.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/let-me-tremble-at-the-gates-of-your-gracious-mercy_dc0b85ef0382"
+    }
+  }
+}
