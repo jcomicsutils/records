@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Conquering the Passions of the Flesh *(with Sado Rituals)*](conquering-the-passions-of-the-flesh_0f01e23637de/conquering-the-passions-of-the-flesh_0f01e23637de.md) | 2024 | FLAC | 00:40:00 | [Pomf](https://pomf2.lain.la/f/af0r7bhg.tar) [IA](https://archive.org/details/conquering-the-passions-of-the-flesh_0f01e23637de) |
 | [Chants II *(with Holy Hermit Humming)*](chants-ii_d24bf05419ac/chants-ii_d24bf05419ac.md) | 2024 | FLAC | 00:57:24 | [Pomf](https://pomf2.lain.la/f/9z482rk2.tar) [IA](https://archive.org/details/chants-ii_d24bf05419ac) |
 | [Amor *(with Militia Dei)*](amor_2740aaa753b3/amor_2740aaa753b3.md) | 2024 | FLAC | 00:33:35 | [Pomf](https://pomf2.lain.la/f/ce68iiri.tar) [IA](https://archive.org/details/amor_2740aaa753b3) |
 | [Chants *(with Holy Hermit Humming)*](chants_16599ef49bc8/chants_16599ef49bc8.md) | 2024 | FLAC | 00:57:22 | [Pomf](https://pomf2.lain.la/f/3uav53ge.tar) [IA](https://archive.org/details/chants_16599ef49bc8) |
