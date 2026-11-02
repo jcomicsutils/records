@@ -1,0 +1,33 @@
+{
+  "id": "decalogue_d58d19134b78",
+  "fingerprint": "d58d19134b78d7e6ab16fac8571de8b6c04c65678e84a4ad10fa15ed30b40d27",
+  "archived_at": "2026-11-02T19:33:04Z",
+  "metadata": {
+    "title": "Decalogue",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Fabio Keiner"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4083,
+    "duration_human": "01:08:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Fabio Keiner - Introitus",
+      "02 Fabio Keiner - Thou Shalt Not Kill",
+      "03 Fabio Keiner - Decalogue"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/sc60lnsw.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/decalogue_d58d19134b78"
+    }
+  }
+}

@@ -11,6 +11,7 @@
 | [Leiche 23 / Leiche 24](leiche-23-leiche-24_d27ea9fb410f/leiche-23-leiche-24_d27ea9fb410f.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-23-leiche-24_d27ea9fb410f) |
 | [Leiche 75 / Leiche 76](leiche-75-leiche-76_711b34a871be/leiche-75-leiche-76_711b34a871be.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-75-leiche-76_711b34a871be) |
 | [Leiche 25 / Leiche 26](leiche-25-leiche-26_d82f48e8defc/leiche-25-leiche-26_d82f48e8defc.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-25-leiche-26_d82f48e8defc) |
+| [Valvan / Leichen *(with Valvan)*](valvan-leichen_ed0d88d0a64f/valvan-leichen_ed0d88d0a64f.md) | 2017 | FLAC | 01:00:42 | [IA](https://archive.org/details/valvan-leichen_ed0d88d0a64f) |
 | [Leiche 21 / Leiche 22](leiche-21-leiche-22_8bb334c57b3a/leiche-21-leiche-22_8bb334c57b3a.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-21-leiche-22_8bb334c57b3a) |
 | [Leiche 35 / Leiche 36](leiche-35-leiche-36_2471edc29d0f/leiche-35-leiche-36_2471edc29d0f.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-35-leiche-36_2471edc29d0f) |
 | [Leiche 17 / Leiche 18](leiche-17-leiche-18_2a29e7b0dcd5/leiche-17-leiche-18_2a29e7b0dcd5.md) | 2017 | FLAC | 00:30:00 | [IA](https://archive.org/details/leiche-17-leiche-18_2a29e7b0dcd5) |

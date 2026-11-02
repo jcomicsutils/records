@@ -9,3 +9,4 @@
 | [Worms Whispers](worms-whispers_3e81d2b85a8d/worms-whispers_3e81d2b85a8d.md) | 2017 | FLAC | 03:00:00 | [IA](https://archive.org/details/worms-whispers_3e81d2b85a8d) |
 | [Darkness Pulsates](darkness-pulsates_802a4a102227/darkness-pulsates_802a4a102227.md) | 2017 | FLAC | 07:00:00 | [IA](https://archive.org/details/darkness-pulsates_802a4a102227) |
 | [Hoarfrost Chants](hoarfrost-chants_590d797d09dd/hoarfrost-chants_590d797d09dd.md) | 2018 | FLAC | 03:00:00 | [IA](https://archive.org/details/hoarfrost-chants_590d797d09dd) |
+| [Veil of Nature / Kara *(with Veil of Nature)*](veil-of-nature-kara_ea0aa7f99bf4/veil-of-nature-kara_ea0aa7f99bf4.md) | 2018 | FLAC | 01:20:00 | [IA](https://archive.org/details/veil-of-nature-kara_ea0aa7f99bf4) |
