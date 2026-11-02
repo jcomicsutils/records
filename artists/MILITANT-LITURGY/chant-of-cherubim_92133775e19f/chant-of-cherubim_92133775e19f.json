@@ -1,0 +1,35 @@
+{
+  "id": "chant-of-cherubim_92133775e19f",
+  "fingerprint": "92133775e19fdc41f1829e51f553013ff84bf22dd984c0980b99754b93e09e64",
+  "archived_at": "2026-11-02T07:45:22Z",
+  "metadata": {
+    "title": "Chant of Cherubim",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Fritz Gessler"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2487,
+    "duration_human": "00:41:27",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Fritz Gessler - Introitus",
+      "02 Fritz Gessler - Movement I",
+      "03 Fritz Gessler - Movement II",
+      "04 Fritz Gessler - Movement III",
+      "05 Fritz Gessler - Finis"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/n1yr7zph.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/chant-of-cherubim_92133775e19f"
+    }
+  }
+}
