@@ -83,6 +83,7 @@
 - [Chaos Royale](Chaos-Royale/Chaos-Royale.md)
 - [Chas Smith](Chas-Smith/Chas-Smith.md)
 - [Chino Amobi](Chino-Amobi/Chino-Amobi.md)
+- [Christian Brown](Christian-Brown/Christian-Brown.md)
 - [Chuquimamani-Condori](Chuquimamani-Condori/Chuquimamani-Condori.md)
 - [Circle of Shit](Circle-of-Shit/Circle-of-Shit.md)
 - [Claire Rousay](Claire-Rousay/Claire-Rousay.md)
