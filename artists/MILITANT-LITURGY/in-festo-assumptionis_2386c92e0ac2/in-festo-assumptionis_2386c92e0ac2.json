@@ -1,0 +1,34 @@
+{
+  "id": "in-festo-assumptionis_2386c92e0ac2",
+  "fingerprint": "2386c92e0ac24351f48fa8c4a0b96a9fc442c2b2cb336ebe925ee3e5c729e607",
+  "archived_at": "2026-11-02T21:49:22Z",
+  "metadata": {
+    "title": "In festo assumptionis",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Fabio Keiner"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2197,
+    "duration_human": "00:36:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Fabio Keiner - Dominus dabit benignitatem",
+      "02 Fabio Keiner - Assumptio Beatae Mariae Virginis",
+      "03 Fabio Keiner - Domine, exaudi orationem meam",
+      "04 Fabio Keiner - Christus regnat"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/lsb0w9x9.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/in-festo-assumptionis_2386c92e0ac2"
+    }
+  }
+}
