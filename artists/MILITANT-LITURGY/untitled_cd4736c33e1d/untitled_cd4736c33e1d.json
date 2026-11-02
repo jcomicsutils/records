@@ -1,0 +1,31 @@
+{
+  "id": "untitled_cd4736c33e1d",
+  "fingerprint": "cd4736c33e1dc25e993f1cf5bb17810398efa09a63769a967244ebd10b36896a",
+  "archived_at": "2026-11-02T06:30:12Z",
+  "metadata": {
+    "title": "[untitled]",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "monk illuminating a manuscript"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1242,
+    "duration_human": "00:20:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 monk illuminating a manuscript - Last Untitled. Ritual"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/nazr1quh.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/untitled_cd4736c33e1d"
+    }
+  }
+}
