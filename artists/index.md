@@ -176,6 +176,7 @@
 - [Heksemøte](Heksemøte/Heksemøte.md)
 - [Hermanos Gutiérrez](Hermanos-Gutiérrez/Hermanos-Gutiérrez.md)
 - [Heáfodbán](Heáfodbán/Heáfodbán.md)
+- [His Haunted Humming](His-Haunted-Humming/His-Haunted-Humming.md)
 - [Holy Hermit Humming](Holy-Hermit-Humming/Holy-Hermit-Humming.md)
 - [House of Low Culture](House-of-Low-Culture/House-of-Low-Culture.md)
 - [How I met Lauren](How-I-met-Lauren/How-I-met-Lauren.md)

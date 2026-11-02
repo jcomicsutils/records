@@ -1,0 +1,32 @@
+{
+  "id": "fulfillment_dc6a9296b054",
+  "fingerprint": "dc6a9296b054bbe24fa41723f8d02c55ad90e583a40f836124fc16e1d66f9afe",
+  "archived_at": "2026-11-02T20:48:52Z",
+  "metadata": {
+    "title": "Fulfillment",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "His Haunted Humming"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3580,
+    "duration_human": "00:59:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 His Haunted Humming - Fulfillment I",
+      "02 His Haunted Humming - Fulfillment II"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/qhvc1izj.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/fulfillment_dc6a9296b054"
+    }
+  }
+}
