@@ -92,6 +92,7 @@
 - [Club Rialto](Club-Rialto/Club-Rialto.md)
 - [CMKK](CMKK/CMKK.md)
 - [Coffret de Bijoux](Coffret-de-Bijoux/Coffret-de-Bijoux.md)
+- [Concealed By Leaves](Concealed-By-Leaves/Concealed-By-Leaves.md)
 - [Concepción Huerta](Concepción-Huerta/Concepción-Huerta.md)
 - [Condo Horro](Condo-Horro/Condo-Horro.md)
 - [Constellatia](Constellatia/Constellatia.md)

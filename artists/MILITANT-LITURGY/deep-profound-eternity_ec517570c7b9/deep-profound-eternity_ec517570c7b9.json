@@ -1,0 +1,36 @@
+{
+  "id": "deep-profound-eternity_ec517570c7b9",
+  "fingerprint": "ec517570c7b9bf7f3672bae1cab2dd222c9ad1e6f680d2abb93abc00fc9dfd21",
+  "archived_at": "2026-11-02T19:51:19Z",
+  "metadata": {
+    "title": "Deep, Profound Eternity",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Concealed By Leaves"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2047,
+    "duration_human": "00:34:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Concealed By Leaves - The Minor Death",
+      "02 Concealed By Leaves - Unconcealing",
+      "03 Concealed By Leaves - Deep, Profound Eternity",
+      "04 Concealed By Leaves - O Sinners Against the Blood",
+      "05 Concealed By Leaves - Back to Joy Again",
+      "06 Concealed By Leaves - Through Our Beauty, Through Our Love"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/mcj4lh1m.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/deep-profound-eternity_ec517570c7b9"
+    }
+  }
+}
