@@ -1,0 +1,38 @@
+{
+  "id": "eight-baptisms_932a8f0175ce",
+  "fingerprint": "932a8f0175ce6675fa07afb0af03d9057c87ec3aea5a87e7dcdf65f9e3ef8a13",
+  "archived_at": "2026-11-02T20:08:03Z",
+  "metadata": {
+    "title": "Eight Baptisms",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Scattered Castles"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2075,
+    "duration_human": "00:34:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Scattered Castles - Flood",
+      "02 Scattered Castles - By the Sea and the Cloud",
+      "03 Scattered Castles - Law & Ceremony",
+      "04 Scattered Castles - Forerunner",
+      "05 Scattered Castles - Theophany",
+      "06 Scattered Castles - Tears of Repentence",
+      "07 Scattered Castles - Blood and Martyrdom",
+      "08 Scattered Castles - Gehenna"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/2ykkyk2x.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/eight-baptisms_932a8f0175ce"
+    }
+  }
+}
