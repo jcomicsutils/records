@@ -1,0 +1,35 @@
+{
+  "id": "labor-pains_115c9c8a539d",
+  "fingerprint": "115c9c8a539db15367839fd0d3a7c6cf92786e6f9fa92fcc5ba9dd9a50db31c1",
+  "archived_at": "2026-11-02T23:01:10Z",
+  "metadata": {
+    "title": "Labor Pains",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Ivan Reash"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3493,
+    "duration_human": "00:58:13",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Ivan Reash - Pangs",
+      "02 Ivan Reash - Set as Head",
+      "03 Ivan Reash - Writhes and Cries",
+      "04 Ivan Reash - Is There No King in You",
+      "05 Ivan Reash - She Has Sorrow Because Her Hour Has Come"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/iyhcysoh.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/labor-pains_115c9c8a539d"
+    }
+  }
+}
