@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Amor *(with Militia Dei)*](amor_2740aaa753b3/amor_2740aaa753b3.md) | 2024 | FLAC | 00:33:35 | [Pomf](https://pomf2.lain.la/f/ce68iiri.tar) [IA](https://archive.org/details/amor_2740aaa753b3) |
+| [Chants *(with Holy Hermit Humming)*](chants_16599ef49bc8/chants_16599ef49bc8.md) | 2024 | FLAC | 00:57:22 | [Pomf](https://pomf2.lain.la/f/3uav53ge.tar) [IA](https://archive.org/details/chants_16599ef49bc8) |
 | [\[untitled\] *(with monk illuminating a manuscript)*](untitled_cd4736c33e1d/untitled_cd4736c33e1d.md) | 2025 | FLAC | 00:20:42 | [Pomf](https://pomf2.lain.la/f/nazr1quh.tar) [IA](https://archive.org/details/untitled_cd4736c33e1d) |
 | [Ascension Mass Disorder *(with EARTHFLESH)*](ascension-mass-disorder_6e059b9e630d/ascension-mass-disorder_6e059b9e630d.md) | 2025 | FLAC | 00:52:42 | [Pomf](https://pomf2.lain.la/f/gkqmp1mh.tar) [IA](https://archive.org/details/ascension-mass-disorder_6e059b9e630d) |
 | [A Christian Bedouin on Christmas *(with Sonic Archaeology)*](a-christian-bedouin-on-christmas_8f7b3949d220/a-christian-bedouin-on-christmas_8f7b3949d220.md) | 2025 | FLAC | 00:10:24 | [Pomf](https://pomf2.lain.la/f/bwt0o9np.tar) [IA](https://archive.org/details/a-christian-bedouin-on-christmas_8f7b3949d220) |

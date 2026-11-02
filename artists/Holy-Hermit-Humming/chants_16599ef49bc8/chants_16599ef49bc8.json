@@ -1,0 +1,32 @@
+{
+  "id": "chants_16599ef49bc8",
+  "fingerprint": "16599ef49bc825ccb90df26599c2b968034394de21edc3a35d1b772469a6ee5a",
+  "archived_at": "2026-11-02T07:49:22Z",
+  "metadata": {
+    "title": "Chants",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Holy Hermit Humming"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3442,
+    "duration_human": "00:57:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Holy Hermit Humming - Chant 1 (Syriac)",
+      "02 Holy Hermit Humming - Chant 2 (Serbian)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/3uav53ge.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/chants_16599ef49bc8"
+    }
+  }
+}
