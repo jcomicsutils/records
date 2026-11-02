@@ -1,0 +1,36 @@
+{
+  "id": "liberty-of-madness_37a09e4019fe",
+  "fingerprint": "37a09e4019fe2f94dbe85b126037f1c086a44e608b358fe14a6a54319866a135",
+  "archived_at": "2026-11-02T23:51:53Z",
+  "metadata": {
+    "title": "Liberty of Madness",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "REKOLLEKTOR"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1661,
+    "duration_human": "00:27:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 REKOLLEKTOR - Democracy Kills",
+      "02 REKOLLEKTOR - Lineage",
+      "03 REKOLLEKTOR - Liberty of Madness",
+      "04 REKOLLEKTOR - I On w tym Jest",
+      "05 REKOLLEKTOR - Because the Men Are Not Men",
+      "06 REKOLLEKTOR - Two Choices"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/q6ohp6us.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/liberty-of-madness_37a09e4019fe"
+    }
+  }
+}
