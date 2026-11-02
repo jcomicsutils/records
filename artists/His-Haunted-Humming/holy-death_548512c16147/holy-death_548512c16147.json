@@ -1,0 +1,32 @@
+{
+  "id": "holy-death_548512c16147",
+  "fingerprint": "548512c16147e437d19570bf9da3b36fa858a91105dbf3e059a070867c9cb384",
+  "archived_at": "2026-11-02T21:32:21Z",
+  "metadata": {
+    "title": "Holy Death",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "His Haunted Humming"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2400,
+    "duration_human": "00:40:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 His Haunted Humming - Holy Death I",
+      "02 His Haunted Humming - Holy Death II"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/5urlp1zv.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/holy-death_548512c16147"
+    }
+  }
+}
