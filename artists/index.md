@@ -215,6 +215,7 @@
 - [KTL](KTL/KTL.md)
 - [L](L/L.md)
 - [La Tène](La-Tène/La-Tène.md)
+- [Lars Haur](Lars-Haur/Lars-Haur.md)
 - [Left Alone...](Left-Alone.../Left-Alone....md)
 - [Leichen](Leichen/Leichen.md)
 - [Leo Fabriek](Leo-Fabriek/Leo-Fabriek.md)

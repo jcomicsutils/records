@@ -1,0 +1,37 @@
+{
+  "id": "gospel-haunted_e1a8e33f9355",
+  "fingerprint": "e1a8e33f93559674657ef16c709aa47f242f27f9ad2afb8a1c4487c3c9bb7e9d",
+  "archived_at": "2026-11-02T21:04:42Z",
+  "metadata": {
+    "title": "Gospel Haunted",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Lars Haur"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2413,
+    "duration_human": "00:40:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Lars Haur - Rugged Cross",
+      "02 Lars Haur - Mother's Prayers",
+      "03 Lars Haur - Gloryland",
+      "04 Lars Haur - Roadmap (Path)",
+      "05 Lars Haur - The Years",
+      "06 Lars Haur - Grace",
+      "07 Lars Haur - Thou Art"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/geem8nmk.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/gospel-haunted_e1a8e33f9355"
+    }
+  }
+}
