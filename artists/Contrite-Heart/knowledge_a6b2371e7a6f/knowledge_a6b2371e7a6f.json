@@ -1,0 +1,34 @@
+{
+  "id": "knowledge_a6b2371e7a6f",
+  "fingerprint": "a6b2371e7a6fd1c1c39476b113405f45dfdf88e662449e9d46c8e473096d1667",
+  "archived_at": "2026-11-02T22:22:57Z",
+  "metadata": {
+    "title": "Knowledge",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Contrite Heart"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3546,
+    "duration_human": "00:59:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Contrite Heart - Desire",
+      "02 Contrite Heart - Knowledge",
+      "03 Contrite Heart - Covetousness",
+      "04 Contrite Heart - Little God"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/5qculnzn.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/knowledge_a6b2371e7a6f"
+    }
+  }
+}
