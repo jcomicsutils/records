@@ -139,6 +139,7 @@
 - [Exhibit A](Exhibit-A/Exhibit-A.md)
 - [Exit Sense](Exit-Sense/Exit-Sense.md)
 - [Exploring Jezebel](Exploring-Jezebel/Exploring-Jezebel.md)
+- [Extensional Emanation](Extensional-Emanation/Extensional-Emanation.md)
 - [Extreme Kindness + Train Cemetery](Extreme-Kindness-+-Train-Cemetery/Extreme-Kindness-+-Train-Cemetery.md)
 - [Extreme Kindness / Чернограй](Extreme-Kindness-Чернограй/Extreme-Kindness-Чернограй.md)
 - [Fabio Keiner](Fabio-Keiner/Fabio-Keiner.md)

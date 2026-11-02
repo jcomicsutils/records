@@ -1,0 +1,31 @@
+{
+  "id": "belief-in-god_c5fd858139db",
+  "fingerprint": "c5fd858139db4440af2de55cf8119f08bd1a9e276832ca045c741a7bd325c42a",
+  "archived_at": "2026-11-02T07:31:09Z",
+  "metadata": {
+    "title": "Belief in God",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Extensional Emanation"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 290,
+    "duration_human": "00:04:50",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Extensional Emanation - Belief in God"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/mhm5uzda.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/belief-in-god_c5fd858139db"
+    }
+  }
+}
