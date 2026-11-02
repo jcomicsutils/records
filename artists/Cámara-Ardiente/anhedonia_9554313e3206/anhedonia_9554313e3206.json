@@ -1,0 +1,35 @@
+{
+  "id": "anhedonia_9554313e3206",
+  "fingerprint": "9554313e3206371079d8eba7cce37e6056463dc642e67b1596249ba531776d45",
+  "archived_at": "2026-11-02T07:08:23Z",
+  "metadata": {
+    "title": "Anhedonia",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Cámara Ardiente"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1576,
+    "duration_human": "00:26:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Cámara Ardiente - Cal Viva",
+      "02 Cámara Ardiente - Cristiano Viejo",
+      "03 Cámara Ardiente - Celeste",
+      "04 Cámara Ardiente - Daño",
+      "05 Cámara Ardiente - Aurora (Nuevo Mundo)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ky7rbcyw.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/anhedonia_9554313e3206"
+    }
+  }
+}

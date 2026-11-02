@@ -101,6 +101,7 @@
 - [Corpseincinerating Furnace / Train Cemetery](Corpseincinerating-Furnace-Train-Cemetery/Corpseincinerating-Furnace-Train-Cemetery.md)
 - [Crying Motherfuckers](Crying-Motherfuckers/Crying-Motherfuckers.md)
 - [Current 93](Current-93/Current-93.md)
+- [Cámara Ardiente](Cámara-Ardiente/Cámara-Ardiente.md)
 - [D. Haines](D.-Haines/D.-Haines.md)
 - [d.silvestre](d.silvestre/d.silvestre.md)
 - [Damien De Coene / Train Cemetery](Damien-De-Coene-Train-Cemetery/Damien-De-Coene-Train-Cemetery.md)
