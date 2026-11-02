@@ -1,0 +1,31 @@
+{
+  "id": "kotwica_67cf90800430",
+  "fingerprint": "67cf90800430df5a9a145c404d0b844ef3056e1e3f37e4a0c615b250e8dbbbf9",
+  "archived_at": "2026-11-02T22:28:58Z",
+  "metadata": {
+    "title": "Kotwica",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Salzig Noise"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 720,
+    "duration_human": "00:12:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Salzig Noise - Kotwica"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/7pni930z.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/kotwica_67cf90800430"
+    }
+  }
+}
