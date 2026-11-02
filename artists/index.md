@@ -320,6 +320,7 @@
 - [Sokushinbutsu](Sokushinbutsu/Sokushinbutsu.md)
 - [Solomon Solomon](Solomon-Solomon/Solomon-Solomon.md)
 - [sonhos tomam conta](sonhos-tomam-conta/sonhos-tomam-conta.md)
+- [Sonic Archaeology](Sonic-Archaeology/Sonic-Archaeology.md)
 - [Sopros](Sopros/Sopros.md)
 - [Sound Research Center](Sound-Research-Center/Sound-Research-Center.md)
 - [Splashgirl / Huntsville](Splashgirl-Huntsville/Splashgirl-Huntsville.md)
