@@ -1,0 +1,31 @@
+{
+  "id": "commitment_a1b4b14e53f8",
+  "fingerprint": "a1b4b14e53f816abaeeb5c7c360da6ee88ad35e1f87ae606d44aa0a79102153a",
+  "archived_at": "2026-11-02T08:23:11Z",
+  "metadata": {
+    "title": "Commitment",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Contrite Heart"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1749,
+    "duration_human": "00:29:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Contrite Heart - Commitment"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/9z7gdeyn.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/commitment_a1b4b14e53f8"
+    }
+  }
+}
