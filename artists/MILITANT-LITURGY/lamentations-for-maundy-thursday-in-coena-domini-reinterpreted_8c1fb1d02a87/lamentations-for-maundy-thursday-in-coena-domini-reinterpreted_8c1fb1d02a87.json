@@ -1,0 +1,33 @@
+{
+  "id": "lamentations-for-maundy-thursday-in-coena-domini-reinterpreted_8c1fb1d02a87",
+  "fingerprint": "8c1fb1d02a875b8c28dd6635c3af50343d1c10b3d2542838fe587feab66fa19f",
+  "archived_at": "2026-11-02T23:26:03Z",
+  "metadata": {
+    "title": "Lamentations for Maundy Thursday - In Coena Domini (Reinterpreted)",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "The Ambient Hermit"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 6522,
+    "duration_human": "01:48:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Ambient Hermit - Incipit Lamentatio Ieremiae Prophetae (Reinterpreted)",
+      "02 The Ambient Hermit - Vau, Et Egressus Est A Filia Sion (Reinterpreted)",
+      "03 The Ambient Hermit - Iod, Manum Suam Misit Hostis (Reinterpreted)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/oaiyq1qv.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/lamentations-for-maundy-thursday-in-coena-domini-reinterpreted_8c1fb1d02a87"
+    }
+  }
+}
