@@ -137,6 +137,7 @@
 - [Entrelacs](Entrelacs/Entrelacs.md)
 - [Espers](Espers/Espers.md)
 - [Eurymedon](Eurymedon/Eurymedon.md)
+- [EVE](EVE/EVE.md)
 - [Ever Present Orchestra](Ever-Present-Orchestra/Ever-Present-Orchestra.md)
 - [Exhibit A](Exhibit-A/Exhibit-A.md)
 - [Exit Sense](Exit-Sense/Exit-Sense.md)

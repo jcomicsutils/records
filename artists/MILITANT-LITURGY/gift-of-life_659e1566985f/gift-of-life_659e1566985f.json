@@ -1,0 +1,36 @@
+{
+  "id": "gift-of-life_659e1566985f",
+  "fingerprint": "659e1566985fe10ef62c192ae8fd4a1dbd35b5c81edd7ffb483b67d30b895372",
+  "archived_at": "2026-11-02T20:56:30Z",
+  "metadata": {
+    "title": "Gift of Life",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "EVE"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 2214,
+    "duration_human": "00:36:54",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 EVE - Gift of Life",
+      "02 EVE - Miracles",
+      "03 EVE - Water of Purification",
+      "04 EVE - Meditation Under the Sorm",
+      "05 EVE - Spiritual Essence",
+      "06 EVE - Omnipresence"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/b6o1cd5r.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/gift-of-life_659e1566985f"
+    }
+  }
+}
