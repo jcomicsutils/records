@@ -1,0 +1,43 @@
+{
+  "id": "hail-bright-cecilia-reinterpreted_abe4a83178a0",
+  "fingerprint": "abe4a83178a0a81b9d458c58309d5c82d08dcb9bdc6c1087994f84019881643f",
+  "archived_at": "2026-11-02T21:12:25Z",
+  "metadata": {
+    "title": "Hail, Bright Cecilia (Reinterpreted)",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "The Ambient Hermit"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 11015,
+    "duration_human": "03:03:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Ambient Hermit - Symphony (Reinterpreted)",
+      "02 The Ambient Hermit - Hail! Bright Cecilia (Reinterpreted)",
+      "03 The Ambient Hermit - Hark Each Tree (Reinterpreted)",
+      "04 The Ambient Hermit - 'Tis Nature's Voice (Reinterpreted)",
+      "05 The Ambient Hermit - Soul of the World (Reinterpreted)",
+      "06 The Ambient Hermit - Thou Tun'st This World (Reinterpreted)",
+      "07 The Ambient Hermit - With That Sublime Celestial Lay (Reinterpreted)",
+      "08 The Ambient Hermit - Wondrous Machine! (Reinterpreted)",
+      "09 The Ambient Hermit - The Airy Violin (Reinterpreted)",
+      "10 The Ambient Hermit - In Vain the Am'rous Flute (Reinterpreted)",
+      "11 The Ambient Hermit - The Fife and All the Harmony of War (Reinterpreted)",
+      "12 The Ambient Hermit - Let These Amongst Themselves Contest (Reinterpreted)",
+      "13 The Ambient Hermit - Hail! Bright Cecilia (Reinterpreted)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/9i1gcc1q.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/hail-bright-cecilia-reinterpreted_abe4a83178a0"
+    }
+  }
+}
