@@ -1,0 +1,34 @@
+{
+  "id": "famished_ba47a0b3a51b",
+  "fingerprint": "ba47a0b3a51bb8e8908e3a210f5aa60907f060cbd005a1531e57c95f8817fbfe",
+  "archived_at": "2026-11-02T20:24:00Z",
+  "metadata": {
+    "title": "Famished",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Ivan Reash"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3430,
+    "duration_human": "00:57:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Ivan Reash - Famished",
+      "02 Ivan Reash - In",
+      "03 Ivan Reash - Four",
+      "04 Ivan Reash - Parts"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/o7gs94nc.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/famished_ba47a0b3a51b"
+    }
+  }
+}
