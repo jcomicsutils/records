@@ -1,0 +1,31 @@
+{
+  "id": "faith-crisis_f4962a8155c5",
+  "fingerprint": "f4962a8155c5d6ce46ec5802671dd8381fc2263ca519ee4774b247bb60f1a390",
+  "archived_at": "2026-11-02T20:22:05Z",
+  "metadata": {
+    "title": "Faith Crisis",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Salzig Noise"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 180,
+    "duration_human": "00:03:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Salzig Noise - Faith Crisis"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ze8udgge.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/faith-crisis_f4962a8155c5"
+    }
+  }
+}

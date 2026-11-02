@@ -313,6 +313,7 @@
 - [Rắn Cạp Đuôi](Rắn-Cạp-Đuôi/Rắn-Cạp-Đuôi.md)
 - [Sacer](Sacer/Sacer.md)
 - [Sado Rituals](Sado-Rituals/Sado-Rituals.md)
+- [Salzig Noise](Salzig-Noise/Salzig-Noise.md)
 - [Sarin](Sarin/Sarin.md)
 - [Scattered Castles](Scattered-Castles/Scattered-Castles.md)
 - [Secretum Omega](Secretum-Omega/Secretum-Omega.md)
