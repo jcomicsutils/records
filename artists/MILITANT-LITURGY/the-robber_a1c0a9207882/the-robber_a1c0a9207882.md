@@ -1,5 +1,7 @@
 # MILITANT LITURGY, His Haunted Humming — The Robber (2025)
 
+![Cover](https://archive.org/download/the-robber_a1c0a9207882/__ia_thumb.jpg)
+
 | Field | Value |
 |-------|-------|
 | Creators | MILITANT LITURGY, His Haunted Humming |
@@ -12,6 +14,7 @@
 ## Hosts
 
 - [Pomf](https://pomf2.lain.la/f/1hhyn0bu.tar)
+- [Archive.org](https://archive.org/details/the-robber_a1c0a9207882)
 
 ## Tracklist
 

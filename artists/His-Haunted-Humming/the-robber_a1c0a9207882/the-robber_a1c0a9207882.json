@@ -24,6 +24,9 @@
   "hosts": {
     "pomf": {
       "url": "https://pomf2.lain.la/f/1hhyn0bu.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-robber_a1c0a9207882"
     }
   }
 }
