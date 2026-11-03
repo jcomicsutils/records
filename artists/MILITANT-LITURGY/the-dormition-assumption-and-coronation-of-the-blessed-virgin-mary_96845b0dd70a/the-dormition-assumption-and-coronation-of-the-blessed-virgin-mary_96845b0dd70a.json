@@ -1,0 +1,33 @@
+{
+  "id": "the-dormition-assumption-and-coronation-of-the-blessed-virgin-mary_96845b0dd70a",
+  "fingerprint": "96845b0dd70a8b15bf122619ffae957efc94f951ba7cc7591f5726a280b84e0b",
+  "archived_at": "2026-11-03T05:52:34Z",
+  "metadata": {
+    "title": "The Dormition, Assumption, and Coronation of the Blessed Virgin Mary",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Hailing Her Heavens"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1386,
+    "duration_human": "00:23:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Hailing Her Heavens - The Dormition of the Blessed Virgin Mary",
+      "02 Hailing Her Heavens - The Assumption of the Blessed Virgin Mary",
+      "03 Hailing Her Heavens - The Coronation of the Blessed Virgin Mary"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ojl3w0uc.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-dormition-assumption-and-coronation-of-the-blessed-virgin-mary_96845b0dd70a"
+    }
+  }
+}
