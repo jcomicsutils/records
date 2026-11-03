@@ -1,0 +1,33 @@
+{
+  "id": "the-music-of-josquin-desprez-reinterpreted-volume-5_d1739477eace",
+  "fingerprint": "d1739477eaceac29ee200e7250f6e2278f5ee3f4fa5d8b6fad0018e8024d854b",
+  "archived_at": "2026-11-03T06:31:52Z",
+  "metadata": {
+    "title": "The Music of Josquin Desprez (Reinterpreted), Volume 5",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "The Ambient Hermit"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4640,
+    "duration_human": "01:17:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Ambient Hermit - En l'ombre d'un buissonet (Reinterpreted)",
+      "02 The Ambient Hermit - A l'ombre d'ung buissonet (Reinterpreted)",
+      "03 The Ambient Hermit - Benedicta es, coelorum Regina (Reinterpreted)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/2hfg5h21.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-music-of-josquin-desprez-reinterpreted-volume-5_d1739477eace"
+    }
+  }
+}
