@@ -1,0 +1,31 @@
+{
+  "id": "nymphes-nappees-reinterpreted_99a5fd1738f2",
+  "fingerprint": "99a5fd1738f2e45e5dc8e9f91fac338590d469b54f265fad8dac0d62e520355f",
+  "archived_at": "2026-11-03T02:15:02Z",
+  "metadata": {
+    "title": "Nymphes nappees (Reinterpreted)",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "The Ambient Hermit"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4716,
+    "duration_human": "01:18:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Ambient Hermit - Nymphes nappees (Reinterpreted)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/av2u41sz.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/nymphes-nappees-reinterpreted_99a5fd1738f2"
+    }
+  }
+}
