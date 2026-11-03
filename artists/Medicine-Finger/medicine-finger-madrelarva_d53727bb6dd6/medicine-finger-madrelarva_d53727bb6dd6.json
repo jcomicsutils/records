@@ -1,0 +1,36 @@
+{
+  "id": "medicine-finger-madrelarva_d53727bb6dd6",
+  "fingerprint": "d53727bb6dd63be257a825ee132c1cddee9821aa95edcaf4b2d8399334bd2f59",
+  "archived_at": "2026-11-03T00:44:21Z",
+  "metadata": {
+    "title": "Medicine Finger / Madrelarva",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Medicine Finger",
+      "Madrelarva"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1851,
+    "duration_human": "00:30:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Medicine Finger - Clinic_vhs",
+      "02 Medicine Finger - Cruelty_vhs",
+      "03 Medicine Finger - Leanyfalu_demo_one-vhs",
+      "04 Medicine Finger - Scalpel Rough mic_vhs",
+      "05 Madrelarva - Una Gota de Decrepitud"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/iarg9rro.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/medicine-finger-madrelarva_d53727bb6dd6"
+    }
+  }
+}

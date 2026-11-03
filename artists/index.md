@@ -238,6 +238,7 @@
 - [Lupercais](Lupercais/Lupercais.md)
 - [Lástima](Lástima/Lástima.md)
 - [Mademoiselle Marchand](Mademoiselle-Marchand/Mademoiselle-Marchand.md)
+- [Madrelarva](Madrelarva/Madrelarva.md)
 - [Mailcop](Mailcop/Mailcop.md)
 - [Majdanek Waltz](Majdanek-Waltz/Majdanek-Waltz.md)
 - [Makers](Makers/Makers.md)
