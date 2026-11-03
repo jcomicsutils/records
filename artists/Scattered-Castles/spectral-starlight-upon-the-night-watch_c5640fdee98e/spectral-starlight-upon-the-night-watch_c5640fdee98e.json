@@ -1,0 +1,34 @@
+{
+  "id": "spectral-starlight-upon-the-night-watch_c5640fdee98e",
+  "fingerprint": "c5640fdee98e1bd5e4c8fe8e69d17d94608b24309d49cbf2d1928148a9e76bc3",
+  "archived_at": "2026-11-03T04:48:43Z",
+  "metadata": {
+    "title": "Spectral Starlight Upon the Night Watch",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Scattered Castles"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2666,
+    "duration_human": "00:44:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Scattered Castles - Bronze Tetrapylon",
+      "02 Scattered Castles - Golden Rectangle",
+      "03 Scattered Castles - Pearlescent Dawn",
+      "04 Scattered Castles - Silver Sea"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/1lpgyu2q.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/spectral-starlight-upon-the-night-watch_c5640fdee98e"
+    }
+  }
+}
