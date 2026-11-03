@@ -1,0 +1,46 @@
+{
+  "id": "missa-canonica-woo-18-reinterpreted_3126c8ddd06a",
+  "fingerprint": "3126c8ddd06a00f8f858f0b07964178d4f3ec4762f5540702153f48561dd59a4",
+  "archived_at": "2026-11-03T01:40:27Z",
+  "metadata": {
+    "title": "Missa Canonica, WoO 18 (Reinterpreted)",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Blessed Nuns"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 13124,
+    "duration_human": "03:38:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Blessed Nuns - Kyrie (Reinterpreted)",
+      "02 Blessed Nuns - Sanctus (Reinterpreted)",
+      "03 Blessed Nuns - Benedictus (Reinterpreted)",
+      "04 Blessed Nuns - Agnus Dei (Reinterpreted), Part 1",
+      "05 Blessed Nuns - Agnus Dei (Reinterpreted), Part 2"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://pomf2.lain.la/f/dbnsx61y.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/n9eqcx8t.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/utq98pax.tar"
+        }
+      ]
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/missa-canonica-woo-18-reinterpreted_3126c8ddd06a"
+    }
+  }
+}
