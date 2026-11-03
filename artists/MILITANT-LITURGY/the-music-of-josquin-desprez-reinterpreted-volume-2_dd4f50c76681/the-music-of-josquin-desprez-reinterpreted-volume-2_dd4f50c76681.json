@@ -1,0 +1,34 @@
+{
+  "id": "the-music-of-josquin-desprez-reinterpreted-volume-2_dd4f50c76681",
+  "fingerprint": "dd4f50c76681e2b3e2e491e73ccf7a9f653be1143bd30be40a965af803eb8ddc",
+  "archived_at": "2026-11-03T06:18:35Z",
+  "metadata": {
+    "title": "The Music of Josquin Desprez (Reinterpreted), Volume 2",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "The Ambient Hermit"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4460,
+    "duration_human": "01:14:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Ambient Hermit - A la mort · Monstra (Reinterpreted)",
+      "02 The Ambient Hermit - Ce povre · Pauper sum ego (Reinterpreted)",
+      "03 The Ambient Hermit - Basié moy (Reinterpreted)",
+      "04 The Ambient Hermit - Petite camusette (Reinterpreted)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/dp0lb6ka.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-music-of-josquin-desprez-reinterpreted-volume-2_dd4f50c76681"
+    }
+  }
+}
