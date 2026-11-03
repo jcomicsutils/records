@@ -1,0 +1,43 @@
+{
+  "id": "messe-de-la-pentecote-reinterpreted_734a9662412d",
+  "fingerprint": "734a9662412d0f33a56bb04400dd6f0c9d8ea6f01f59649b367a8a5c926f25d6",
+  "archived_at": "2026-11-03T00:49:30Z",
+  "metadata": {
+    "title": "Messe de la Pentecote (Reinterpreted)",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "The Ambient Hermit"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 6021,
+    "duration_human": "01:40:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Ambient Hermit - Entree, Les Langue de Feu (Reinterpreted)",
+      "02 The Ambient Hermit - Offertoire, Les Choses Visibles et Invisibles (Reinterpreted)",
+      "03 The Ambient Hermit - Consecation, Le don de Sagesse (Reinterpreted)",
+      "04 The Ambient Hermit - Communion, Les Oiseaux et les Sources (Reinterpreted)",
+      "05 The Ambient Hermit - Sortie, Le Vent de L'Esprit (Reinterpreted)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://pomf2.lain.la/f/11a75gyw.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/hbk34dsn.tar"
+        }
+      ]
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/messe-de-la-pentecote-reinterpreted_734a9662412d"
+    }
+  }
+}
