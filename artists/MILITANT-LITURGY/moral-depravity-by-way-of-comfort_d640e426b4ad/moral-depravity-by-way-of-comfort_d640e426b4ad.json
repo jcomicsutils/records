@@ -1,0 +1,32 @@
+{
+  "id": "moral-depravity-by-way-of-comfort_d640e426b4ad",
+  "fingerprint": "d640e426b4ade932067fd4cd8b0b0785305fb897c5dc89ef8d07148d3fcb1c58",
+  "archived_at": "2026-11-03T01:56:51Z",
+  "metadata": {
+    "title": "Moral Depravity by Way of Comfort",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Contrite Heart"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2273,
+    "duration_human": "00:37:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Contrite Heart - Moral Depravity",
+      "02 Contrite Heart - By Way of Comfort"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/tz9sxdc1.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/moral-depravity-by-way-of-comfort_d640e426b4ad"
+    }
+  }
+}
