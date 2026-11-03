@@ -1,0 +1,34 @@
+{
+  "id": "so-close-to-life_f2489e70f07a",
+  "fingerprint": "f2489e70f07ae978890ae9b2464cacd3a066a70423d145082b965f4827c98d77",
+  "archived_at": "2026-11-03T04:37:52Z",
+  "metadata": {
+    "title": "So Close to Life",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "veiled eternity",
+      "Scattered Castles"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2472,
+    "duration_human": "00:41:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 veiled eternity - Veiled Eternity",
+      "02 Scattered Castles - Veiled Eternity",
+      "03 Scattered Castles - Veiled Eternity"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/6zxsujt6.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/so-close-to-life_f2489e70f07a"
+    }
+  }
+}

@@ -434,6 +434,7 @@
 - [Valvan](Valvan/Valvan.md)
 - [Various Artists](Various-Artists/Various-Artists.md)
 - [Veil of Nature](Veil-of-Nature/Veil-of-Nature.md)
+- [veiled eternity](veiled-eternity/veiled-eternity.md)
 - [Vesuvio](Vesuvio/Vesuvio.md)
 - [Victimes De Regime](Victimes-De-Regime/Victimes-De-Regime.md)
 - [Violent Magic Orchestra](violent-magic-orchestra/violent-magic-orchestra.md)
