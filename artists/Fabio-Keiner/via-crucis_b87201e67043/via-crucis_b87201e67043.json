@@ -1,0 +1,37 @@
+{
+  "id": "via-crucis_b87201e67043",
+  "fingerprint": "b87201e6704380b7c4b9200c0739fce07eca72191abb3dc53eb9099cfb9a7cb9",
+  "archived_at": "2026-11-03T23:52:46Z",
+  "metadata": {
+    "title": "Via Crucis",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Fabio Keiner"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2496,
+    "duration_human": "00:41:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Fabio Keiner - Iesus damnatur in mortem",
+      "02 Fabio Keiner - Iesus cadit primo",
+      "03 Fabio Keiner - Iesus cadit secundo",
+      "04 Fabio Keiner - Iesus cadit tertio",
+      "05 Fabio Keiner - Iesus affigitur cruci",
+      "06 Fabio Keiner - Iesus moritur in cruce",
+      "07 Fabio Keiner - Iesus sepulcro conditur"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ux3y1e87.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/via-crucis_b87201e67043"
+    }
+  }
+}

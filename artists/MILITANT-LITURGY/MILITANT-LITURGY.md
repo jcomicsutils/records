@@ -143,3 +143,4 @@
 | [Portraits of Cain *(with Ivan Reash)*](portraits-of-cain_a943e4c8d616/portraits-of-cain_a943e4c8d616.md) | 2026 | FLAC | 00:27:34 | [Pomf](https://pomf2.lain.la/f/oxoy663g.tar) [IA](https://archive.org/details/portraits-of-cain_a943e4c8d616) |
 | [Patience *(with Contrite Heart)*](patience_d73ba0557ebb/patience_d73ba0557ebb.md) | 2026 | FLAC | 01:04:35 | [Pomf](https://pomf2.lain.la/f/2p3bjora.tar) [IA](https://archive.org/details/patience_d73ba0557ebb) |
 | [Anchor *(with Contrite Heart)*](anchor_36566a09310e/anchor_36566a09310e.md) | 2026 | FLAC | 00:14:27 | [Pomf](https://pomf2.lain.la/f/01asbfwz.tar) [IA](https://archive.org/details/anchor_36566a09310e) |
+| [Via Crucis *(with Fabio Keiner)*](via-crucis_b87201e67043/via-crucis_b87201e67043.md) | 2026 | FLAC | 00:41:36 | [Pomf](https://pomf2.lain.la/f/ux3y1e87.tar) [IA](https://archive.org/details/via-crucis_b87201e67043) |
