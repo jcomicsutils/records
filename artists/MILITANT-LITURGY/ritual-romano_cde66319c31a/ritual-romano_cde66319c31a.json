@@ -1,0 +1,36 @@
+{
+  "id": "ritual-romano_cde66319c31a",
+  "fingerprint": "cde66319c31aa70c595d3e63861cbbe149197281b8e16aa71dac23a4591add06",
+  "archived_at": "2026-11-03T03:51:54Z",
+  "metadata": {
+    "title": "Ritual Romano",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Kollaborateur"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1572,
+    "duration_human": "00:26:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kollaborateur - Kenosis",
+      "02 Kollaborateur - Padre Alegre",
+      "03 Kollaborateur - Bula",
+      "04 Kollaborateur - Martirologio",
+      "05 Kollaborateur - Reliquia Negra",
+      "06 Kollaborateur - Deus Absconditus"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/0frwmrj4.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/ritual-romano_cde66319c31a"
+    }
+  }
+}
