@@ -1,0 +1,36 @@
+{
+  "id": "mass-no-3-wab-28-reinterpreted_98dbc1744a68",
+  "fingerprint": "98dbc1744a68dc8219bcaf780b62ff26988683574d6146d74dfdbef8e59c8cd5",
+  "archived_at": "2026-11-03T00:39:15Z",
+  "metadata": {
+    "title": "Mass No. 3 WAB 28 (Reinterpreted)",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "The Ambient Hermit"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 5026,
+    "duration_human": "01:23:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Ambient Hermit - Kyrie (Reinterpreted)",
+      "02 The Ambient Hermit - Gloria (Reinterpreted)",
+      "03 The Ambient Hermit - Credo (Reinterpreted)",
+      "04 The Ambient Hermit - Sanctus (Reinterpreted)",
+      "05 The Ambient Hermit - Benedictus (Reinterpreted)",
+      "06 The Ambient Hermit - Agnus Dei (Reinterpreted)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/s4lm821v.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/mass-no-3-wab-28-reinterpreted_98dbc1744a68"
+    }
+  }
+}
