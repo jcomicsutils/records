@@ -1,0 +1,35 @@
+{
+  "id": "patience_d73ba0557ebb",
+  "fingerprint": "d73ba0557ebb6d118a7df713290c12c8a6d96ffed6d2fc3cad12f80dc6b020a6",
+  "archived_at": "2026-11-03T02:55:43Z",
+  "metadata": {
+    "title": "Patience",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Contrite Heart"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3875,
+    "duration_human": "01:04:35",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Contrite Heart - Job",
+      "02 Contrite Heart - Rabid Dog on a Leash",
+      "03 Contrite Heart - Patience",
+      "04 Contrite Heart - Discourse With the Four",
+      "05 Contrite Heart - Serenity"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/2p3bjora.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/patience_d73ba0557ebb"
+    }
+  }
+}
