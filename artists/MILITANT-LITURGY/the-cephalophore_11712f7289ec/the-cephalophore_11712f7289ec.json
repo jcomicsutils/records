@@ -1,0 +1,34 @@
+{
+  "id": "the-cephalophore_11712f7289ec",
+  "fingerprint": "11712f7289ec608f0e65cccb0291a505fcd325b2286125b2e0b1d7b177bb686c",
+  "archived_at": "2026-11-03T05:49:54Z",
+  "metadata": {
+    "title": "The Cephalophore",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "monk illuminating a manuscript"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 7200,
+    "duration_human": "02:00:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 monk illuminating a manuscript - Christ as a Jugular",
+      "02 monk illuminating a manuscript - Halo Positioning",
+      "03 monk illuminating a manuscript - Furta sacra",
+      "04 monk illuminating a manuscript - And in Thick Darkness the Light-Sources Were Escorted Out and Beheaded"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/zwygah7d.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-cephalophore_11712f7289ec"
+    }
+  }
+}
