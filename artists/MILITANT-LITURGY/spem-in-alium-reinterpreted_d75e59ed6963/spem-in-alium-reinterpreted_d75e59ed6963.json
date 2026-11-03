@@ -1,0 +1,31 @@
+{
+  "id": "spem-in-alium-reinterpreted_d75e59ed6963",
+  "fingerprint": "d75e59ed6963fa0d2a94522019587555b240190d6562ebb4aeebb9bf6be8fc37",
+  "archived_at": "2026-11-03T04:52:38Z",
+  "metadata": {
+    "title": "Spem in alium (Reinterpreted)",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "The Ambient Hermit"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 6354,
+    "duration_human": "01:45:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Ambient Hermit - Spem in alium (Reinterpreted)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/kpkjhc9n.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/spem-in-alium-reinterpreted_d75e59ed6963"
+    }
+  }
+}
