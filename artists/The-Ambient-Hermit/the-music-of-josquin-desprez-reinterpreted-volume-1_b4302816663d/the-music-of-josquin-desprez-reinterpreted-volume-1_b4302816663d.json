@@ -1,0 +1,33 @@
+{
+  "id": "the-music-of-josquin-desprez-reinterpreted-volume-1_b4302816663d",
+  "fingerprint": "b4302816663d69d2844329c39696de39af772e5aea9d21fb8bcc36933f5a0402",
+  "archived_at": "2026-11-03T06:12:50Z",
+  "metadata": {
+    "title": "The Music of Josquin Desprez (Reinterpreted), Volume 1",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "The Ambient Hermit"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4499,
+    "duration_human": "01:14:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Ambient Hermit - O virgo virginum (Reinterpreted)",
+      "02 The Ambient Hermit - Pour souhaitter (Reinterpreted)",
+      "03 The Ambient Hermit - Voud ne l'arez pas (Reinterpreted)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/pjy8pi0w.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-music-of-josquin-desprez-reinterpreted-volume-1_b4302816663d"
+    }
+  }
+}
