@@ -1,0 +1,31 @@
+{
+  "id": "troparion_731dde57dd36",
+  "fingerprint": "731dde57dd364d5e18fbaa7ceb511e955a1695a4e3912c138ab91d11f75db30d",
+  "archived_at": "2026-11-03T23:07:52Z",
+  "metadata": {
+    "title": "Troparion",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Fritz Gessler"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1559,
+    "duration_human": "00:25:59",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Fritz Gessler - Troparion"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/0cydddlj.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/troparion_731dde57dd36"
+    }
+  }
+}
