@@ -1,0 +1,32 @@
+{
+  "id": "symbols-materialize-upon-the-void_a43fd64a1c8c",
+  "fingerprint": "a43fd64a1c8c83a70c6b919c9a3cd17334f9c785e409d0719ba7b907e8bde9ba",
+  "archived_at": "2026-11-03T05:05:31Z",
+  "metadata": {
+    "title": "Symbols Materialize Upon the Void",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "monk illuminating a manuscript"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3400,
+    "duration_human": "00:56:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 monk illuminating a manuscript - Monotonously, but Not Mindlessly",
+      "02 monk illuminating a manuscript - Tired, but Not Weakened"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/tn3a8hzi.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/symbols-materialize-upon-the-void_a43fd64a1c8c"
+    }
+  }
+}
