@@ -1,0 +1,33 @@
+{
+  "id": "the-music-of-josquin-desprez-reinterpreted-volume-3_77b75dac6cd6",
+  "fingerprint": "77b75dac6cd6fa864f7d0abb4df10f1d7435594fc461318640f9b1452c87f614",
+  "archived_at": "2026-11-03T06:22:43Z",
+  "metadata": {
+    "title": "The Music of Josquin Desprez (Reinterpreted), Volume 3",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "The Ambient Hermit"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4660,
+    "duration_human": "01:17:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Ambient Hermit - Si congié prens (Reinterpreted)",
+      "02 The Ambient Hermit - Allegez moy (Reinterpreted)",
+      "03 The Ambient Hermit - Vous l'arez s'il vous plaist (Reinterpreted)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/5plp9nrf.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-music-of-josquin-desprez-reinterpreted-volume-3_77b75dac6cd6"
+    }
+  }
+}
