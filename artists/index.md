@@ -408,6 +408,7 @@
 - [Thee Angels ov Light Meet Thee Angry Love Orchestra](Thee-Angels-ov-Light-Meet-Thee-Angry-Love-Orchestra/Thee-Angels-ov-Light-Meet-Thee-Angry-Love-Orchestra.md)
 - [Thee Majesty](Thee-Majesty/Thee-Majesty.md)
 - [Thee Temple ov Psychick Youth](Thee-Temple-ov-Psychick-Youth/Thee-Temple-ov-Psychick-Youth.md)
+- [Theophany](Theophany/Theophany.md)
 - [Thinking Fellers Union Local 282](Thinking-Fellers-Union-Local-282/Thinking-Fellers-Union-Local-282.md)
 - [Third Ear Band](Third-Ear-Band/Third-Ear-Band.md)
 - [This Immortal Coil](This-Immortal-Coil/This-Immortal-Coil.md)

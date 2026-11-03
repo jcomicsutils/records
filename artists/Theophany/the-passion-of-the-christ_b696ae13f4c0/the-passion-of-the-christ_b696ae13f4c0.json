@@ -1,0 +1,35 @@
+{
+  "id": "the-passion-of-the-christ_b696ae13f4c0",
+  "fingerprint": "b696ae13f4c09077011f1592d140da933f76a29064610bf8eade08b94f9ad05b",
+  "archived_at": "2026-11-03T06:35:49Z",
+  "metadata": {
+    "title": "The Passion of the Christ",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Theophany"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 636,
+    "duration_human": "00:10:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Theophany - The Passion of the Christ",
+      "02 Theophany - Betrayal, Death and Resurrection",
+      "03 Theophany - Three Day Stay in the Coffin",
+      "04 Theophany - The Sheep Will Disperse",
+      "05 Theophany - Peter's Denial of Christ"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/gvlivwlk.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-passion-of-the-christ_b696ae13f4c0"
+    }
+  }
+}
