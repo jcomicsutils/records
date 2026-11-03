@@ -1,0 +1,35 @@
+{
+  "id": "veni-creator-spiritus_684b2531219d",
+  "fingerprint": "684b2531219d450f7a02531dae3d591fb439739a5680ee77c824c1a89ff45b4d",
+  "archived_at": "2026-11-03T23:22:47Z",
+  "metadata": {
+    "title": "Veni Creator Spiritus",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "The Ambient Hermit"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 5101,
+    "duration_human": "01:25:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Ambient Hermit - Guillaume de Machaut - Veni Creator Spiritus (Reworked)",
+      "02 The Ambient Hermit - Josquin Desprez - Veni Sancte Spiritus (Reworked)",
+      "03 The Ambient Hermit - Perotin - Veni Creator Spiritus (Reworked)",
+      "04 The Ambient Hermit - Thomas Tallis - Loquebantur Variis Linguis (Reworked)",
+      "05 The Ambient Hermit - William Byrd - Veni Sancte Spiritus (Reworked)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/tophnktm.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/veni-creator-spiritus_684b2531219d"
+    }
+  }
+}
