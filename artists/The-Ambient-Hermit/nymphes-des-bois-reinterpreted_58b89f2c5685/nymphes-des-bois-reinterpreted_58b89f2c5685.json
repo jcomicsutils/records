@@ -1,0 +1,31 @@
+{
+  "id": "nymphes-des-bois-reinterpreted_58b89f2c5685",
+  "fingerprint": "58b89f2c56854992c92f1160b36bc8f82b4c43a03ca0b1d11ecdea650c7569bf",
+  "archived_at": "2026-11-03T02:10:47Z",
+  "metadata": {
+    "title": "Nymphes des bois (Reinterpreted)",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "The Ambient Hermit"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2520,
+    "duration_human": "00:42:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Ambient Hermit - The Ambient Hermit - Nymphes des bois (Reinterpreted)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/cfdvtwww.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/nymphes-des-bois-reinterpreted_58b89f2c5685"
+    }
+  }
+}
