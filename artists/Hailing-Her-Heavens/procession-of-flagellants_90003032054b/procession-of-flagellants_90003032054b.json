@@ -1,0 +1,32 @@
+{
+  "id": "procession-of-flagellants_90003032054b",
+  "fingerprint": "90003032054b0b295cdbe368b9417be7d63304368ac659a2823e276481b44d61",
+  "archived_at": "2026-11-03T03:08:41Z",
+  "metadata": {
+    "title": "Procession of Flagellants",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Hailing Her Heavens"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1783,
+    "duration_human": "00:29:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Hailing Her Heavens - Procession of Flagellants I",
+      "02 Hailing Her Heavens - Procession of Flagellants II"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/121ga0mt.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/procession-of-flagellants_90003032054b"
+    }
+  }
+}
