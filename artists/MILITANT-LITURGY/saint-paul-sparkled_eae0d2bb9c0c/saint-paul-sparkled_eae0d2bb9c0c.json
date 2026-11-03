@@ -1,0 +1,31 @@
+{
+  "id": "saint-paul-sparkled_eae0d2bb9c0c",
+  "fingerprint": "eae0d2bb9c0c069a073547f9032504c5c6fbf53b30920187cf8a09f0a4003d94",
+  "archived_at": "2026-11-03T03:53:40Z",
+  "metadata": {
+    "title": "Saint Paul Sparkled",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Salzig Noise"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 720,
+    "duration_human": "00:12:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Salzig Noise - Saint Paul Sparkled"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/hcdxtus1.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/saint-paul-sparkled_eae0d2bb9c0c"
+    }
+  }
+}
