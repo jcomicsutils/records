@@ -1,0 +1,53 @@
+{
+  "id": "the-angel-that-loved-to-hurt-itself_4a83cc091a9d",
+  "fingerprint": "4a83cc091a9df6804588f9fb76b2288702b838ac7758759935fbe7f999f7da07",
+  "archived_at": "2026-11-03T05:31:54Z",
+  "metadata": {
+    "title": "The Angel That Loved to Hurt Itself",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Workerbee"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 21839,
+    "duration_human": "06:03:59",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Workerbee - Protect Me in Battle",
+      "02 Workerbee - My Pain Is Nothing Like Your Pain, Yours Is Worse",
+      "03 Workerbee - I Can't Feel at Home in This World Anymore, and Frankly I Never Did",
+      "04 Workerbee - All of This Shall Be Washed Away, Into the Open Mouth of the Pauper's Grave",
+      "05 Workerbee - Make Plans and God Laughs",
+      "06 Workerbee - The Angel That Loves to Hurt Itself",
+      "07 Workerbee - Palus somni",
+      "08 Workerbee - Clipped Wings, Replaced by Rope",
+      "09 Workerbee - Blood of the Lamb",
+      "10 Workerbee - I Hate You, Don't Leave Me",
+      "11 Workerbee - I Love You Don't Touch Me",
+      "12 Workerbee - I Need You Don't Save Me"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://pomf2.lain.la/f/mht3e3md.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/4s9m4qq6.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/clnm65k7.tar"
+        }
+      ]
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-angel-that-loved-to-hurt-itself_4a83cc091a9d"
+    }
+  }
+}
