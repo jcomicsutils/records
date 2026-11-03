@@ -1,0 +1,31 @@
+{
+  "id": "mother-of-sorrows_7d3b0888acfd",
+  "fingerprint": "7d3b0888acfd16335b22b33ee52434fd8e63f2a959ff6f39ea08704354c479bd",
+  "archived_at": "2026-11-03T02:03:13Z",
+  "metadata": {
+    "title": "Mother of Sorrows",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Hailing Her Heavens"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2403,
+    "duration_human": "00:40:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Hailing Her Heavens - Mother of Sorrows"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/692o0j2h.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/mother-of-sorrows_7d3b0888acfd"
+    }
+  }
+}
