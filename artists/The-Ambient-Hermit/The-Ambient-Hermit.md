@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Resurrectionis *(with MILITANT LITURGY)*](resurrectionis_dbcc254d50db/resurrectionis_dbcc254d50db.md) | 2024 | FLAC | 01:19:30 | [Pomf](https://pomf2.lain.la/f/zob9z97o.tar) [IA](https://archive.org/details/resurrectionis_dbcc254d50db) |
 | [Propers for the Annunciation to the Virgin *(with MILITANT LITURGY)*](propers-for-the-annunciation-to-the-virgin_aad77c43ecf9/propers-for-the-annunciation-to-the-virgin_aad77c43ecf9.md) | 2024 | FLAC | 01:12:17 | [Pomf](https://pomf2.lain.la/f/8uh42uvm.tar) [IA](https://archive.org/details/propers-for-the-annunciation-to-the-virgin_aad77c43ecf9) |
 | [Lamentations for Good Friday - In Parasceve \(Reinterpreted\) *(with MILITANT LITURGY)*](lamentations-for-good-friday-in-parasceve-reinterpreted_bb5e9a0590f9/lamentations-for-good-friday-in-parasceve-reinterpreted_bb5e9a0590f9.md) | 2025 | FLAC | 01:40:00 | [Pomf](https://pomf2.lain.la/f/aed3unbl.tar) [IA](https://archive.org/details/lamentations-for-good-friday-in-parasceve-reinterpreted_bb5e9a0590f9) |
 | [Communion \(Reinterpreted\) *(with MILITANT LITURGY)*](communion-reinterpreted_3db4217702f4/communion-reinterpreted_3db4217702f4.md) | 2025 | FLAC | 01:22:29 | [Pomf](https://pomf2.lain.la/f/iggivbw9.tar) [IA](https://archive.org/details/communion-reinterpreted_3db4217702f4) |
