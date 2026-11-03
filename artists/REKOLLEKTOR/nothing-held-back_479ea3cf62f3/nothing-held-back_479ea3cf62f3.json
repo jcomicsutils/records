@@ -1,0 +1,34 @@
+{
+  "id": "nothing-held-back_479ea3cf62f3",
+  "fingerprint": "479ea3cf62f37b213e53017a73be035a0da9521a9cab877334edf9be5a53d25a",
+  "archived_at": "2026-11-03T02:07:42Z",
+  "metadata": {
+    "title": "Nothing Held Back",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "REKOLLEKTOR"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1192,
+    "duration_human": "00:19:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 REKOLLEKTOR - Nothing Held Back",
+      "02 REKOLLEKTOR - Manifestations",
+      "03 REKOLLEKTOR - Life Becomes Mechanical",
+      "04 REKOLLEKTOR - Your Opinion"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/gb236m8q.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/nothing-held-back_479ea3cf62f3"
+    }
+  }
+}
