@@ -1,0 +1,31 @@
+{
+  "id": "transcendental-cyber-spiritualism_df74676f8034",
+  "fingerprint": "df74676f80346dfdf57c3067a28f0057387106933448d6586f9adcb21c588af7",
+  "archived_at": "2026-11-03T22:28:49Z",
+  "metadata": {
+    "title": "Transcendental Cyber Spiritualism",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Rave Exorcist"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 901,
+    "duration_human": "00:15:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rave Exorcist - Transcendental Cyber Spiritualism"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/vkeyyb6t.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/transcendental-cyber-spiritualism_df74676f8034"
+    }
+  }
+}
