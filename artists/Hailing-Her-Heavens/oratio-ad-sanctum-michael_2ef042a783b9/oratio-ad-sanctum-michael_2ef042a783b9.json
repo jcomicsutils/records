@@ -1,0 +1,31 @@
+{
+  "id": "oratio-ad-sanctum-michael_2ef042a783b9",
+  "fingerprint": "2ef042a783b9c36327ccc158e66ffab867eed1cfa0892c41ad03f73639aaf46c",
+  "archived_at": "2026-11-03T02:40:13Z",
+  "metadata": {
+    "title": "Oratio ad Sanctum Michael",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Hailing Her Heavens"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2688,
+    "duration_human": "00:44:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Hailing Her Heavens - Oratio ad Sanctum Michael"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/f4x9b7ib.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/oratio-ad-sanctum-michael_2ef042a783b9"
+    }
+  }
+}
