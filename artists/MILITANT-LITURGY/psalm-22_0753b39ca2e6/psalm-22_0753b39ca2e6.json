@@ -1,0 +1,34 @@
+{
+  "id": "psalm-22_0753b39ca2e6",
+  "fingerprint": "0753b39ca2e6690786788d9b88d2bcf01326e18b4bf6d642017d06b8b8e115bb",
+  "archived_at": "2026-11-03T03:22:44Z",
+  "metadata": {
+    "title": "Psalm 22",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "STGLTZ"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2989,
+    "duration_human": "00:49:49",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 STGLTZ - I - I Am Poured Out Like Water...",
+      "02 STGLTZ - II - For He Has Not Despised or Abhorred the Affliction of the Afflicted...",
+      "03 STGLTZ - III - All the Ends of the Earth Shall Remember...",
+      "04 STGLTZ - IV - But I Am a Worm and Not a Man..."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/6c93pv1o.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/psalm-22_0753b39ca2e6"
+    }
+  }
+}

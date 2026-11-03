@@ -365,6 +365,7 @@
 - [Steinbrüchel](Steinbrüchel/Steinbrüchel.md)
 - [Stena](Stena/Stena.md)
 - [Stephen O'Malley](Stephen-O'Malley/Stephen-O'Malley.md)
+- [STGLTZ](STGLTZ/STGLTZ.md)
 - [Stillife](Stillife/Stillife.md)
 - [Stilluppsteypa](Stilluppsteypa/Stilluppsteypa.md)
 - [Stimmenwald](Stimmenwald/Stimmenwald.md)
