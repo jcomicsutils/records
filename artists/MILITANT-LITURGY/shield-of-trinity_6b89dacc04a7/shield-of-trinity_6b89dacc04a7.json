@@ -1,0 +1,33 @@
+{
+  "id": "shield-of-trinity_6b89dacc04a7",
+  "fingerprint": "6b89dacc04a7096619a71561a63e0a63be81aada04e51075df43044af1969070",
+  "archived_at": "2026-11-03T04:15:14Z",
+  "metadata": {
+    "title": "Shield of Trinity",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Warrior Priest"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Warrior Priest - The Father",
+      "02 Warrior Priest - The Son",
+      "03 Warrior Priest - The Holy Spirit"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/7mfwatxe.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/shield-of-trinity_6b89dacc04a7"
+    }
+  }
+}

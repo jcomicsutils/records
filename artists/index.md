@@ -443,6 +443,7 @@
 - [vogsma](vogsma/vogsma.md)
 - [Vomir](Vomir/Vomir.md)
 - [Vomit-Self](Vomit-Self/Vomit-Self.md)
+- [Warrior Priest](Warrior-Priest/Warrior-Priest.md)
 - [XIU XIU](XIU-XIU/XIU-XIU.md)
 - [Xiu Xiu](Xiu-Xiu/Xiu-Xiu.md)
 - [XXL](XXL/XXL.md)
