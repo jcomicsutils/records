@@ -4,6 +4,7 @@
 |-------|------|-------|----------|-------|
 | [Moral Depravity by Way of Comfort *(with MILITANT LITURGY)*](moral-depravity-by-way-of-comfort_d640e426b4ad/moral-depravity-by-way-of-comfort_d640e426b4ad.md) | 2025 | FLAC | 00:37:53 | [Pomf](https://pomf2.lain.la/f/tz9sxdc1.tar) [IA](https://archive.org/details/moral-depravity-by-way-of-comfort_d640e426b4ad) |
 | [Holy Violence *(with MILITANT LITURGY, Hailing Her Heavens)*](holy-violence_00c426b8252a/holy-violence_00c426b8252a.md) | 2025 | FLAC | 00:51:47 | [Pomf](https://pomf2.lain.la/f/eki0iasj.tar) [IA](https://archive.org/details/holy-violence_00c426b8252a) |
+| [Ox 4 *(with MILITANT LITURGY)*](ox-4_fe525e56676d/ox-4_fe525e56676d.md) | 2025 | FLAC | 00:15:20 | [Pomf](https://pomf2.lain.la/f/jwbbt29c.tar) [IA](https://archive.org/details/ox-4_fe525e56676d) |
 | [Ox 2 *(with MILITANT LITURGY)*](ox-2_cd6857c9d34b/ox-2_cd6857c9d34b.md) | 2025 | FLAC | 00:18:27 | [Pomf](https://pomf2.lain.la/f/aboqjhnx.tar) [IA](https://archive.org/details/ox-2_cd6857c9d34b) |
 | [Deer *(with MILITANT LITURGY)*](deer_4d90efaa5b7f/deer_4d90efaa5b7f.md) | 2025 | FLAC | 00:35:23 | [Pomf](https://pomf2.lain.la/f/gyz0rfom.tar) [IA](https://archive.org/details/deer_4d90efaa5b7f) |
 | [Longing for Shadows *(with MILITANT LITURGY)*](longing-for-shadows_97725bcd402f/longing-for-shadows_97725bcd402f.md) | 2025 | FLAC | 00:30:18 | [Pomf](https://pomf2.lain.la/f/2u0g7sgy.tar) [IA](https://archive.org/details/longing-for-shadows_97725bcd402f) |
