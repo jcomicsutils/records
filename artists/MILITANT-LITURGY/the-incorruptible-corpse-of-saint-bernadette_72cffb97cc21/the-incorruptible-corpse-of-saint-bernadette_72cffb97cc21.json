@@ -1,0 +1,31 @@
+{
+  "id": "the-incorruptible-corpse-of-saint-bernadette_72cffb97cc21",
+  "fingerprint": "72cffb97cc2176c8f98ae625efb8e759829ec579f42d1a662eee18b418951751",
+  "archived_at": "2026-11-03T06:09:10Z",
+  "metadata": {
+    "title": "The Incorruptible Corpse of Saint Bernadette",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "The Incorruptible Corpse of Saint Bernadette"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4073,
+    "duration_human": "01:07:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Incorruptible Corpse of Saint Bernadette - The Incorruptible Corpse of Saint Bernadette"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/x7x4c5ef.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-incorruptible-corpse-of-saint-bernadette_72cffb97cc21"
+    }
+  }
+}

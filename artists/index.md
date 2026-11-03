@@ -396,6 +396,7 @@
 - [The Drones Of Absolem](The-Drones-Of-Absolem/The-Drones-Of-Absolem.md)
 - [The Dwarfs of East Agouza](The-Dwarfs-of-East-Agouza/The-Dwarfs-of-East-Agouza.md)
 - [The Fantastic Imagination](The-Fantastic-Imagination/The-Fantastic-Imagination.md)
+- [The Incorruptible Corpse of Saint Bernadette](The-Incorruptible-Corpse-of-Saint-Bernadette/The-Incorruptible-Corpse-of-Saint-Bernadette.md)
 - [The Jim Yoshii Pile-Up](The-Jim-Yoshii-Pile-Up/The-Jim-Yoshii-Pile-Up.md)
 - [The Khayembii Communiqué](The-Khayembii-Communiqué/The-Khayembii-Communiqué.md)
 - [The Lost Jockey](The-Lost-Jockey/The-Lost-Jockey.md)
