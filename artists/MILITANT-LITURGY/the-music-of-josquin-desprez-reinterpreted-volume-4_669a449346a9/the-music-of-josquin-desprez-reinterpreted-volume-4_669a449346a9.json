@@ -1,0 +1,32 @@
+{
+  "id": "the-music-of-josquin-desprez-reinterpreted-volume-4_669a449346a9",
+  "fingerprint": "669a449346a932969f218e0602dccd136921b3abee5f9506f830a7c6c3d5796c",
+  "archived_at": "2026-11-03T06:27:14Z",
+  "metadata": {
+    "title": "The Music of Josquin Desprez (Reinterpreted), Volume 4",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "The Ambient Hermit"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4770,
+    "duration_human": "01:19:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Ambient Hermit - O virgo prudentissima (Reinterpreted)",
+      "02 The Ambient Hermit - Absolve quesumus (Reinterpreted)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ilth3z1v.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-music-of-josquin-desprez-reinterpreted-volume-4_669a449346a9"
+    }
+  }
+}
