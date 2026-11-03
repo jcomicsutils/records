@@ -1,0 +1,34 @@
+{
+  "id": "st-joan-of-arc_9becdc08de24",
+  "fingerprint": "9becdc08de2484bf95d314024126a8977ac4094181f899932c9917f6fff7debf",
+  "archived_at": "2026-11-03T04:57:20Z",
+  "metadata": {
+    "title": "St. Joan of Arc",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Samira Arianne"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1215,
+    "duration_human": "00:20:15",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Samira Arianne - St. Joan of Arc",
+      "02 Samira Arianne - A Woman and Their Vision",
+      "03 Samira Arianne - Calvary of Death",
+      "04 Samira Arianne - Triumphant and Successful"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ys1tdu75.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/st-joan-of-arc_9becdc08de24"
+    }
+  }
+}
