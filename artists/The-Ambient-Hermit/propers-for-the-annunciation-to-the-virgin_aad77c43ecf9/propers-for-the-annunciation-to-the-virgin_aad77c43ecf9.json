@@ -1,0 +1,37 @@
+{
+  "id": "propers-for-the-annunciation-to-the-virgin_aad77c43ecf9",
+  "fingerprint": "aad77c43ecf932e81d769229e0ab203dcbe13e52e9751d91321c2c791a1c1e16",
+  "archived_at": "2026-11-03T03:12:33Z",
+  "metadata": {
+    "title": "Propers for the Annunciation to the Virgin",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "The Ambient Hermit"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 4337,
+    "duration_human": "01:12:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Ambient Hermit - Vultum Tuum (Reworked)",
+      "02 The Ambient Hermit - Diffusa Est Gratia (Reworked)",
+      "03 The Ambient Hermit - Ave Maria (Reworked)",
+      "04 The Ambient Hermit - Ecce Virgo Concipiet (Reworked)",
+      "05 The Ambient Hermit - Memento Salutis Auctor (Reworked)",
+      "06 The Ambient Hermit - Salve Sola Dei Genetrix (Reworked)",
+      "07 The Ambient Hermit - Ave Maris Stella (Reworked)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/8uh42uvm.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/propers-for-the-annunciation-to-the-virgin_aad77c43ecf9"
+    }
+  }
+}
