@@ -1,0 +1,32 @@
+{
+  "id": "the-story-of-the-birth-of-christ_47f70c5956c4",
+  "fingerprint": "47f70c5956c4dd11a7ab6bcd15af69147f577a0e0a46990e46031ba222eb247d",
+  "archived_at": "2026-11-03T22:19:27Z",
+  "metadata": {
+    "title": "The Story of the Birth of Christ",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Sonic Archaeology"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 891,
+    "duration_human": "00:14:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sonic Archaeology - Luke Chapter 2",
+      "02 Sonic Archaeology - The Winds Through the Outskirts of Bethlehem"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/hhhgiupr.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-story-of-the-birth-of-christ_47f70c5956c4"
+    }
+  }
+}
