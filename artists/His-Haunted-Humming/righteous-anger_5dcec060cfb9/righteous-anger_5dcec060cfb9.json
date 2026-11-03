@@ -1,0 +1,32 @@
+{
+  "id": "righteous-anger_5dcec060cfb9",
+  "fingerprint": "5dcec060cfb9ac86c2af76de4a016889e33d52234168855fb08d3921098d81fe",
+  "archived_at": "2026-11-03T03:48:29Z",
+  "metadata": {
+    "title": "Righteous Anger",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "His Haunted Humming"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2400,
+    "duration_human": "00:40:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 His Haunted Humming - Righteous Anger I",
+      "02 His Haunted Humming - Righteous Anger II"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/9dxhd1r8.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/righteous-anger_5dcec060cfb9"
+    }
+  }
+}
