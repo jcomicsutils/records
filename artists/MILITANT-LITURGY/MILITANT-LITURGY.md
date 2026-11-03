@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Conquering the Passions of the Flesh *(with Sado Rituals)*](conquering-the-passions-of-the-flesh_0f01e23637de/conquering-the-passions-of-the-flesh_0f01e23637de.md) | 2024 | FLAC | 00:40:00 | [Pomf](https://pomf2.lain.la/f/af0r7bhg.tar) [IA](https://archive.org/details/conquering-the-passions-of-the-flesh_0f01e23637de) |
+| [Swords *(with His Haunted Humming)*](swords_67bdfe5b8414/swords_67bdfe5b8414.md) | 2024 | FLAC | 00:59:40 | [Pomf](https://pomf2.lain.la/f/3pv9eody.tar) [IA](https://archive.org/details/swords_67bdfe5b8414) |
 | [Sedevacantist *(with Sedevacantist)*](sedevacantist_8c6f1a788566/sedevacantist_8c6f1a788566.md) | 2024 | FLAC | 00:50:09 | [Pomf](https://pomf2.lain.la/f/09avjzne.tar) [IA](https://archive.org/details/sedevacantist_8c6f1a788566) |
 | [Resurrectionis *(with The Ambient Hermit)*](resurrectionis_dbcc254d50db/resurrectionis_dbcc254d50db.md) | 2024 | FLAC | 01:19:30 | [Pomf](https://pomf2.lain.la/f/zob9z97o.tar) [IA](https://archive.org/details/resurrectionis_dbcc254d50db) |
 | [Chants II *(with Holy Hermit Humming)*](chants-ii_d24bf05419ac/chants-ii_d24bf05419ac.md) | 2024 | FLAC | 00:57:24 | [Pomf](https://pomf2.lain.la/f/9z482rk2.tar) [IA](https://archive.org/details/chants-ii_d24bf05419ac) |
