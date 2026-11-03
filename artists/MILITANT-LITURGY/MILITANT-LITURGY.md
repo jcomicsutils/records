@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Conquering the Passions of the Flesh *(with Sado Rituals)*](conquering-the-passions-of-the-flesh_0f01e23637de/conquering-the-passions-of-the-flesh_0f01e23637de.md) | 2024 | FLAC | 00:40:00 | [Pomf](https://pomf2.lain.la/f/af0r7bhg.tar) [IA](https://archive.org/details/conquering-the-passions-of-the-flesh_0f01e23637de) |
+| [Tristitia et anxietas \(Reinterpreted\) *(with The Ambient Hermit)*](tristitia-et-anxietas-reinterpreted_ac3d1d98b4ba/tristitia-et-anxietas-reinterpreted_ac3d1d98b4ba.md) | 2024 | FLAC | 00:54:53 | [Pomf](https://pomf2.lain.la/f/4jf2hjy3.tar) [IA](https://archive.org/details/tristitia-et-anxietas-reinterpreted_ac3d1d98b4ba) |
 | [Swords *(with His Haunted Humming)*](swords_67bdfe5b8414/swords_67bdfe5b8414.md) | 2024 | FLAC | 00:59:40 | [Pomf](https://pomf2.lain.la/f/3pv9eody.tar) [IA](https://archive.org/details/swords_67bdfe5b8414) |
 | [Sedevacantist *(with Sedevacantist)*](sedevacantist_8c6f1a788566/sedevacantist_8c6f1a788566.md) | 2024 | FLAC | 00:50:09 | [Pomf](https://pomf2.lain.la/f/09avjzne.tar) [IA](https://archive.org/details/sedevacantist_8c6f1a788566) |
 | [The Cephalophore *(with monk illuminating a manuscript)*](the-cephalophore_11712f7289ec/the-cephalophore_11712f7289ec.md) | 2024 | FLAC | 02:00:00 | [Pomf](https://pomf2.lain.la/f/zwygah7d.tar) [IA](https://archive.org/details/the-cephalophore_11712f7289ec) |

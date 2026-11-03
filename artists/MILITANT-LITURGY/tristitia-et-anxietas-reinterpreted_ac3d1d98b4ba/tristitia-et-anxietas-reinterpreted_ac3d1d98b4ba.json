@@ -1,0 +1,31 @@
+{
+  "id": "tristitia-et-anxietas-reinterpreted_ac3d1d98b4ba",
+  "fingerprint": "ac3d1d98b4ba5450e5dfaea78b5c12eff3a88a280dd59ce00db8a9971cc51df0",
+  "archived_at": "2026-11-03T23:00:19Z",
+  "metadata": {
+    "title": "Tristitia et anxietas (Reinterpreted)",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "The Ambient Hermit"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3293,
+    "duration_human": "00:54:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Ambient Hermit - Tristitia et anxietas (Reinterpreted)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/4jf2hjy3.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/tristitia-et-anxietas-reinterpreted_ac3d1d98b4ba"
+    }
+  }
+}
