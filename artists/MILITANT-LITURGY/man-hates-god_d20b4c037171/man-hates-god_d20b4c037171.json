@@ -1,0 +1,40 @@
+{
+  "id": "man-hates-god_d20b4c037171",
+  "fingerprint": "d20b4c03717140c25cb17728303be77bee016e45dca1b2fadb23fb537cdbb287",
+  "archived_at": "2026-11-03T00:01:00Z",
+  "metadata": {
+    "title": "Man Hates God",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Ivan Reash"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 5933,
+    "duration_human": "01:38:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Ivan Reash - Shelter",
+      "02 Ivan Reash - Secret",
+      "03 Ivan Reash - Hiding",
+      "04 Ivan Reash - Missing, Toy No.1",
+      "05 Ivan Reash - Missing, Toy No.2",
+      "06 Ivan Reash - Missing, Toy No.3",
+      "07 Ivan Reash - Missing, Toy No.4",
+      "08 Ivan Reash - Missing, Toy No.5",
+      "09 Ivan Reash - Missing, Toy No.6",
+      "10 Ivan Reash - Man Hates God"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/esckszvt.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/man-hates-god_d20b4c037171"
+    }
+  }
+}
