@@ -1,0 +1,31 @@
+{
+  "id": "they-met-in-a-church-nearby_32d6aa12b05e",
+  "fingerprint": "32d6aa12b05e8f3df73ea791774b11b886df1f884042d85dc93f7a62f4da8452",
+  "archived_at": "2026-11-03T22:23:20Z",
+  "metadata": {
+    "title": "They Met in a Church Nearby",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "P~R~Z"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 P~R~Z - They Met in a Church Nearby"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/s1oup9ga.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/they-met-in-a-church-nearby_32d6aa12b05e"
+    }
+  }
+}

@@ -307,6 +307,7 @@
 - [Pink Siifu](Pink-Siifu/Pink-Siifu.md)
 - [Protomit](Protomit/Protomit.md)
 - [Psycodrama](Psycodrama/Psycodrama.md)
+- [P~R~Z](P~R~Z/P~R~Z.md)
 - [Quad Sax](Quad-Sax/Quad-Sax.md)
 - [Raamma](Raamma/Raamma.md)
 - [Rabit](Rabit/Rabit.md)
