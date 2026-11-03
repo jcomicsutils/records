@@ -1,0 +1,31 @@
+{
+  "id": "san-sebastian_5c92725b6b05",
+  "fingerprint": "5c92725b6b05ae17e1664aa5d14916bc0aeb486a377d7cd3cbe74fe77b4e273a",
+  "archived_at": "2026-11-03T03:57:17Z",
+  "metadata": {
+    "title": "San Sebastian",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "JEAN ALBA"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 306,
+    "duration_human": "00:05:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 JEAN ALBA - San Sebastian"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/e9e5dag0.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/san-sebastian_5c92725b6b05"
+    }
+  }
+}
