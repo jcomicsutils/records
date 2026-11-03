@@ -1,0 +1,32 @@
+{
+  "id": "two-crowns_d60077049246",
+  "fingerprint": "d60077049246df4fb975c86e8093b28cafeb1fc0e266b440f085bacedde11b07",
+  "archived_at": "2026-11-03T23:13:00Z",
+  "metadata": {
+    "title": "Two Crowns",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "His Haunted Humming"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3582,
+    "duration_human": "00:59:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 His Haunted Humming - Crown I: Purity",
+      "02 His Haunted Humming - Crown II: Martyrdom"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/6uu2mlzr.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/two-crowns_d60077049246"
+    }
+  }
+}
