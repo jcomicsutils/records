@@ -1,0 +1,37 @@
+{
+  "id": "millstone_ef2a06ab39e2",
+  "fingerprint": "ef2a06ab39e22c0ad92195e96cd4d79519db1916bd8a8463d024d356cff577a1",
+  "archived_at": "2026-11-03T01:25:32Z",
+  "metadata": {
+    "title": "Millstone",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Salzig Noise",
+      "Samira Arianne",
+      "Hailing Her Heavens",
+      "Sedevacantist"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4915,
+    "duration_human": "01:21:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Salzig Noise - Millstone",
+      "02 Samira Arianne - Millstone",
+      "03 Hailing Her Heavens - Millstone",
+      "04 Sedevacantist - Millstone"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/jmw82snl.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/millstone_ef2a06ab39e2"
+    }
+  }
+}
