@@ -1,0 +1,35 @@
+{
+  "id": "martyrdom_c121b3add87c",
+  "fingerprint": "c121b3add87cff3c2eec15a68fc342d1cb155d3c28bb9aeb609ac762ea7f8e92",
+  "archived_at": "2026-11-03T00:11:19Z",
+  "metadata": {
+    "title": "Martyrdom",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Contrite Heart",
+      "Hailing Her Heavens"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1167,
+    "duration_human": "00:19:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Contrite Heart & Hailing Her Heavens - Martyrdom I",
+      "02 Contrite Heart & Hailing Her Heavens - Martyrdom II",
+      "03 Contrite Heart & Hailing Her Heavens - Martyrdom III",
+      "04 Contrite Heart & Hailing Her Heavens - The Trembling Joy"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/r4xhe9nk.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/martyrdom_c121b3add87c"
+    }
+  }
+}
