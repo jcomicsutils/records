@@ -1,0 +1,31 @@
+{
+  "id": "salt-the-holy-nerve-exposed_d5e6e72804cb",
+  "fingerprint": "d5e6e72804cb9d8acb34cb8a2c4626faf53247a07316f8872800bfde73f5f5ae",
+  "archived_at": "2026-11-03T03:55:47Z",
+  "metadata": {
+    "title": "Salt (The Holy Nerve, Exposed)",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "monk illuminating a manuscript"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 649,
+    "duration_human": "00:10:49",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 monk illuminating a manuscript - Salt (The Holy Nerve, Exposed)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/zvs5ltzf.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/salt-the-holy-nerve-exposed_d5e6e72804cb"
+    }
+  }
+}
