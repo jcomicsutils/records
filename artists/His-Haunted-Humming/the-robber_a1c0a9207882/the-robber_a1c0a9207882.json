@@ -1,0 +1,29 @@
+{
+  "id": "the-robber_a1c0a9207882",
+  "fingerprint": "a1c0a9207882b17fe1667461c977992d09e663694070738cba18e18ee5a31fee",
+  "archived_at": "2026-11-03T06:38:56Z",
+  "metadata": {
+    "title": "The Robber",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "His Haunted Humming"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3580,
+    "duration_human": "00:59:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 His Haunted Humming - The Robber",
+      "02 His Haunted Humming - The Robber II"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/1hhyn0bu.tar"
+    }
+  }
+}
