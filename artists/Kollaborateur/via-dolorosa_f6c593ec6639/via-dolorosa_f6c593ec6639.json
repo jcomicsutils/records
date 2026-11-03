@@ -1,0 +1,35 @@
+{
+  "id": "via-dolorosa_f6c593ec6639",
+  "fingerprint": "f6c593ec66398794e65f252d7b3414ea7af7787448bac8e1fc5ee67a622d194c",
+  "archived_at": "2026-11-03T23:57:52Z",
+  "metadata": {
+    "title": "Vía Dolorosa",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Kollaborateur"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1395,
+    "duration_human": "00:23:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 KOLLABORATEUR - In Nomine Nihil",
+      "02 KOLLABORATEUR - Sin Remission",
+      "03 KOLLABORATEUR - 14 Cruces",
+      "04 KOLLABORATEUR - Tanatocracia",
+      "05 KOLLABORATEUR - La Caída de los 9 Coros"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/8n0mu4hg.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/via-dolorosa_f6c593ec6639"
+    }
+  }
+}
