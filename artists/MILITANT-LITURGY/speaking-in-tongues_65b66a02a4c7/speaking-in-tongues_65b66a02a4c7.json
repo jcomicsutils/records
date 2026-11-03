@@ -1,0 +1,37 @@
+{
+  "id": "speaking-in-tongues_65b66a02a4c7",
+  "fingerprint": "65b66a02a4c753aba927f78a1380414b52095b7b84f3835899ed619dee866079",
+  "archived_at": "2026-11-03T04:44:07Z",
+  "metadata": {
+    "title": "Speaking in Tongues",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Fabio Keiner"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2374,
+    "duration_human": "00:39:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Fabio Keiner - Veni, sancte spiritus",
+      "02 Fabio Keiner - Veni, paper pauperum",
+      "03 Fabio Keiner - O, Lux Beatissima",
+      "04 Fabio Keiner - Nihil est in homine",
+      "05 Fabio Keiner - Pentecostes",
+      "06 Fabio Keiner - Da virtutis meritum",
+      "07 Fabio Keiner - Sacrum Septenarium"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/itrjgf18.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/speaking-in-tongues_65b66a02a4c7"
+    }
+  }
+}
