@@ -1,0 +1,33 @@
+{
+  "id": "the-flight-into-egypt_326f971f0d96",
+  "fingerprint": "326f971f0d96b2cd05a3b7cca7a32d3d2e3d26c2b798c899a4a4398bfb6fa4c4",
+  "archived_at": "2026-11-03T05:58:00Z",
+  "metadata": {
+    "title": "The Flight Into Egypt",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "The Desert Fathers"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4259,
+    "duration_human": "01:10:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Desert Fathers - The Slaughter",
+      "02 The Desert Fathers - The Flight",
+      "03 The Desert Fathers - The Egypt Years"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/hu0975bm.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-flight-into-egypt_326f971f0d96"
+    }
+  }
+}
