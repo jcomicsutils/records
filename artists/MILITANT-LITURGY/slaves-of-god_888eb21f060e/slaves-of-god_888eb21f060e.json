@@ -1,0 +1,34 @@
+{
+  "id": "slaves-of-god_888eb21f060e",
+  "fingerprint": "888eb21f060e819761dd5422fad1378c84d201b1e2bea859b919bdc5ea2456e7",
+  "archived_at": "2026-11-03T04:30:42Z",
+  "metadata": {
+    "title": "Slaves of God",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Christian Brown"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 737,
+    "duration_human": "00:12:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Christian Brown - Let Your Flesh Die Pt.1",
+      "02 Christian Brown - Let Your Flesh Die Pt.2",
+      "03 Christian Brown - By Any Means Necessary",
+      "04 Christian Brown - Concrete Faith Despite Failure"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/k1xs0ezl.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/slaves-of-god_888eb21f060e"
+    }
+  }
+}
