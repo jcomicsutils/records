@@ -1,0 +1,36 @@
+{
+  "id": "mass-no-2-wab-27-reinterpreted_c596aae8bfc7",
+  "fingerprint": "c596aae8bfc7eba5d4f28a526ee309827018a5bce5d01f307cf9491c512b2612",
+  "archived_at": "2026-11-03T00:26:05Z",
+  "metadata": {
+    "title": "Mass No. 2 WAB 27 (Reinterpreted)",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "The Ambient Hermit"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3757,
+    "duration_human": "01:02:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 The Ambient Hermit - Kyrie (Reinterpreted)",
+      "02 The Ambient Hermit - Gloria (Reinterpreted)",
+      "03 The Ambient Hermit - Credo (Reinterpreted)",
+      "04 The Ambient Hermit - Sanctus (Reinterpreted)",
+      "05 The Ambient Hermit - Benedictus (Reinterpreted)",
+      "06 The Ambient Hermit - Agnus Dei (Reinterpreted)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/a6bytp03.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/mass-no-2-wab-27-reinterpreted_c596aae8bfc7"
+    }
+  }
+}
