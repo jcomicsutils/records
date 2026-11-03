@@ -1,0 +1,32 @@
+{
+  "id": "the-sorcerer_6e9f1576b448",
+  "fingerprint": "6e9f1576b448ff44b3ea09ee38b1b3f66c8ce6dc29e3087ee970db69c089e884",
+  "archived_at": "2026-11-03T21:58:29Z",
+  "metadata": {
+    "title": "The Sorcerer",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "His Haunted Humming"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 His Haunted Humming - The Sorcerer I",
+      "02 His Haunted Humming - The Sorcerer II"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/lx2cf3db.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-sorcerer_6e9f1576b448"
+    }
+  }
+}
