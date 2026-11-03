@@ -1,0 +1,33 @@
+{
+  "id": "o-nata-lux-de-lumine-reinterpreted_e021890d0b2d",
+  "fingerprint": "e021890d0b2d0fa25327510da63577f180d53b942b542e71caf46331eb9f61c5",
+  "archived_at": "2026-11-03T02:20:25Z",
+  "metadata": {
+    "title": "O nata lux de lumine (Reinterpreted)",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Blessed Nuns"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 5371,
+    "duration_human": "01:29:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Blessed Nuns - O Nata Lux de Lumine, Part 1 (Reinterpreted)",
+      "02 Blessed Nuns - O Nata Lux de Lumine, Part 2 (Reinterpreted)",
+      "03 Blessed Nuns - O Nata Lux de Lumine, Part 3 (Reinterpreted)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/3025xylz.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/o-nata-lux-de-lumine-reinterpreted_e021890d0b2d"
+    }
+  }
+}
