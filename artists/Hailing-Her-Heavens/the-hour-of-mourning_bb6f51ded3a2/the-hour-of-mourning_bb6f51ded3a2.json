@@ -1,0 +1,31 @@
+{
+  "id": "the-hour-of-mourning_bb6f51ded3a2",
+  "fingerprint": "bb6f51ded3a20e9d01e538d674211dc192e893b5d98da6f05f7b7a6189425933",
+  "archived_at": "2026-11-03T06:03:52Z",
+  "metadata": {
+    "title": "The Hour of Mourning",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Hailing Her Heavens"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3599,
+    "duration_human": "00:59:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Hailing Her Heavens - The Hour of Mourning"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/cj1xoi1n.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-hour-of-mourning_bb6f51ded3a2"
+    }
+  }
+}
