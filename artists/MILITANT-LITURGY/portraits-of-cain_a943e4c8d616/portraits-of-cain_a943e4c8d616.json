@@ -1,0 +1,36 @@
+{
+  "id": "portraits-of-cain_a943e4c8d616",
+  "fingerprint": "a943e4c8d616f1abf9c7fdc704f82259ce7146ff1cec0bb7bf526538c1e7dba1",
+  "archived_at": "2026-11-03T03:06:23Z",
+  "metadata": {
+    "title": "Portraits of Cain",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Ivan Reash"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1654,
+    "duration_human": "00:27:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Ivan Reash - Portrait 1",
+      "02 Ivan Reash - Portrait 2",
+      "03 Ivan Reash - Portrait 3",
+      "04 Ivan Reash - Portrait 4",
+      "05 Ivan Reash - Portrait 5",
+      "06 Ivan Reash - Portrait 6"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/oxoy663g.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/portraits-of-cain_a943e4c8d616"
+    }
+  }
+}
