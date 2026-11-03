@@ -1,0 +1,31 @@
+{
+  "id": "slaying-the-prophets-of-baal_c999d4ae5da6",
+  "fingerprint": "c999d4ae5da678abd4b4f70f6b264d25d670fe9241cba007519d1a123cca32f0",
+  "archived_at": "2026-11-03T04:33:47Z",
+  "metadata": {
+    "title": "Slaying the Prophets of Baal",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Sado Rituals"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2684,
+    "duration_human": "00:44:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Sado Rituals - Slaying the Prophets of Baal"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/g96e2m0p.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/slaying-the-prophets-of-baal_c999d4ae5da6"
+    }
+  }
+}
