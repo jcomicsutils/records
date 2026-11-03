@@ -1,0 +1,34 @@
+{
+  "id": "moses_6795bee4c66b",
+  "fingerprint": "6795bee4c66bafc04f0d7a491ffddd93c0d03db4579e2d086e24bc60a54c19f7",
+  "archived_at": "2026-11-03T01:59:19Z",
+  "metadata": {
+    "title": "Moses",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Samira Arianne"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1443,
+    "duration_human": "00:24:03",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Samira Arianne - Mount Sinai",
+      "02 Samira Arianne - Ten Commandments",
+      "03 Samira Arianne - Covenant",
+      "04 Samira Arianne - Canaan"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/7v5lgnsp.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/moses_6795bee4c66b"
+    }
+  }
+}
