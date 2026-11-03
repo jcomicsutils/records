@@ -1,0 +1,32 @@
+{
+  "id": "versets-reinterpreted_f88d4844d768",
+  "fingerprint": "f88d4844d7682f2aa9a34c0fecea703d6ec89d651e144193266f9081e45fa705",
+  "archived_at": "2026-11-03T23:44:21Z",
+  "metadata": {
+    "title": "Versets (Reinterpreted)",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "The Ambient Hermit"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 7320,
+    "duration_human": "02:02:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Ambient Hermit - Premier Verset (Reinterpreted)",
+      "02 The Ambient Hermit - Deuxième Verset (Reinterpreted)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/3bb8jxat.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/versets-reinterpreted_f88d4844d768"
+    }
+  }
+}
