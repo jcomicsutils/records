@@ -1,0 +1,31 @@
+{
+  "id": "ox-2_cd6857c9d34b",
+  "fingerprint": "cd6857c9d34b8ce92150dba753bf98004395187c925dfcb123f6648f20114605",
+  "archived_at": "2026-11-03T02:48:31Z",
+  "metadata": {
+    "title": "Ox 2",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Contrite Heart"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1107,
+    "duration_human": "00:18:27",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Contrite Heart - Contrite Heart - Ox 2"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/aboqjhnx.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/ox-2_cd6857c9d34b"
+    }
+  }
+}
