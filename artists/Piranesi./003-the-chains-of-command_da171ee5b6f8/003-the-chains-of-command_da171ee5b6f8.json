@@ -1,0 +1,30 @@
+{
+  "id": "003-the-chains-of-command_da171ee5b6f8",
+  "fingerprint": "da171ee5b6f84faff693f0edea004cd03fdec393a63ab81fe9b65fac7539867e",
+  "archived_at": "2026-11-04T00:38:30Z",
+  "metadata": {
+    "title": "003. The Chains of Command.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 540,
+    "duration_human": "00:09:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - The Chains of Command."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/7i59s730.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/003-the-chains-of-command_da171ee5b6f8"
+    }
+  }
+}
