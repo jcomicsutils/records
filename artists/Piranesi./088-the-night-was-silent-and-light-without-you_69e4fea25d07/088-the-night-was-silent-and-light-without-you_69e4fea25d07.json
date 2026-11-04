@@ -1,0 +1,30 @@
+{
+  "id": "088-the-night-was-silent-and-light-without-you_69e4fea25d07",
+  "fingerprint": "69e4fea25d07a2b419a474ef3e7e11c188b5e8e38b912d645eff7a71e2135648",
+  "archived_at": "2026-11-04T19:22:30Z",
+  "metadata": {
+    "title": "088. The Night Was Silent and Light Without You.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1009,
+    "duration_human": "00:16:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - The Night Was Silent and Light Without You."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/bkw5jfo0.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/088-the-night-was-silent-and-light-without-you_69e4fea25d07"
+    }
+  }
+}
