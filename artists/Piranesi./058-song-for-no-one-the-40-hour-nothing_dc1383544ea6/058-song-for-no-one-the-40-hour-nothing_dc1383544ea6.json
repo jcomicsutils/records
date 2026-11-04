@@ -1,0 +1,30 @@
+{
+  "id": "058-song-for-no-one-the-40-hour-nothing_dc1383544ea6",
+  "fingerprint": "dc1383544ea6f65daf0fd25a3ce64fd7a5daffdc987c302e260939d1989fff86",
+  "archived_at": "2026-11-04T05:09:15Z",
+  "metadata": {
+    "title": "058. Song for No One. (The 40-Hour Nothing)",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1883,
+    "duration_human": "00:31:23",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Song for No One. (The 40-Hour Nothing)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/kksfq16w.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/058-song-for-no-one-the-40-hour-nothing_dc1383544ea6"
+    }
+  }
+}
