@@ -1,0 +1,47 @@
+{
+  "id": "litaneia_79ab619bf4d6",
+  "fingerprint": "79ab619bf4d6f8513f8bc274ef62854a86d76df3910417e531157f354b214ee5",
+  "archived_at": "2026-11-04T00:20:40Z",
+  "metadata": {
+    "title": "Λιτανεία",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Moral Revulsion"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 5623,
+    "duration_human": "01:33:43",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Moral Revulsion - Λιτανεία",
+      "02 Moral Revulsion - Λιτανεία00001",
+      "03 Moral Revulsion - Λιτανεία00002",
+      "04 Moral Revulsion - Λιτανεία00003",
+      "05 Moral Revulsion - Λιτανεία00004",
+      "06 Moral Revulsion - Λιτανεία00005",
+      "07 Moral Revulsion - Beautiful in Everything",
+      "08 Moral Revulsion - Λιτανεία00006",
+      "09 Moral Revulsion - Λιτανεία 4_6-7"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://pomf2.lain.la/f/l6smg75r.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/d9s2ucdc.tar"
+        }
+      ]
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/litaneia_79ab619bf4d6"
+    }
+  }
+}
