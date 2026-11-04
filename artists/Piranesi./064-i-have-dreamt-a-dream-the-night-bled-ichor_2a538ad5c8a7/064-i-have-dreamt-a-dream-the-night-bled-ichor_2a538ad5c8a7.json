@@ -1,0 +1,30 @@
+{
+  "id": "064-i-have-dreamt-a-dream-the-night-bled-ichor_2a538ad5c8a7",
+  "fingerprint": "2a538ad5c8a79d366dea497bc1c53d2826183dd28590e1adc725d115db561d03",
+  "archived_at": "2026-11-04T05:31:25Z",
+  "metadata": {
+    "title": "064. I Have Dreamt a Dream... The Night Bled Ichor.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 724,
+    "duration_human": "00:12:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - I Have Dreamt a Dream... The Night Bled Ichor."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/vdcseyc6.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/064-i-have-dreamt-a-dream-the-night-bled-ichor_2a538ad5c8a7"
+    }
+  }
+}
