@@ -1,0 +1,30 @@
+{
+  "id": "050-the-fire-next-time_d210ec9218a9",
+  "fingerprint": "d210ec9218a9ccb12b0144298874ae2dad74cbd0f6590f0532c81152523831be",
+  "archived_at": "2026-11-04T04:14:47Z",
+  "metadata": {
+    "title": "050. The Fire Next Time.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3449,
+    "duration_human": "00:57:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - The Fire Next Time."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/wj7oh8wd.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/050-the-fire-next-time_d210ec9218a9"
+    }
+  }
+}
