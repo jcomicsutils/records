@@ -1,0 +1,30 @@
+{
+  "id": "026-i-have-seen-many-miracles-and-tried-to-explain-them_fa6bd5decb14",
+  "fingerprint": "fa6bd5decb14b49f76f26de7f6c00fad41f37c644a15e745c4993d905ba74506",
+  "archived_at": "2026-11-04T02:13:38Z",
+  "metadata": {
+    "title": "026. I Have Seen Many Miracles and Tried to Explain Them.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2527,
+    "duration_human": "00:42:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - I Have Seen Many Miracles and Tried to Explain Them."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/4tkyaayw.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/026-i-have-seen-many-miracles-and-tried-to-explain-them_fa6bd5decb14"
+    }
+  }
+}
