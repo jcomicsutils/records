@@ -1,0 +1,30 @@
+{
+  "id": "001-sweetly-in-the-early-hours-is-the-mist-of-morning-dew_d2d851cce4c3",
+  "fingerprint": "d2d851cce4c31d1bc2b083137d2505291ad0867c07e1b44f86a2484a2606427d",
+  "archived_at": "2026-11-04T00:28:32Z",
+  "metadata": {
+    "title": "001. Sweetly in the Early Hours Is the Mist of Morning Dew.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 17084,
+    "duration_human": "04:44:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Sweetly in the Early Hours Is the Mist of Morning Dew."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/wu4r6gj4.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/001-sweetly-in-the-early-hours-is-the-mist-of-morning-dew_d2d851cce4c3"
+    }
+  }
+}
