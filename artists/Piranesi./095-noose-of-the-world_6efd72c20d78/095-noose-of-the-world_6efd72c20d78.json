@@ -1,0 +1,30 @@
+{
+  "id": "095-noose-of-the-world_6efd72c20d78",
+  "fingerprint": "6efd72c20d782a0ce740a8e7801a5c9c8cb1c17aaa555ec69fc0782ef964ee7a",
+  "archived_at": "2026-11-04T19:41:46Z",
+  "metadata": {
+    "title": "095. Noose of the World.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2247,
+    "duration_human": "00:37:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Noose of the World."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/6gicvk2a.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/095-noose-of-the-world_6efd72c20d78"
+    }
+  }
+}
