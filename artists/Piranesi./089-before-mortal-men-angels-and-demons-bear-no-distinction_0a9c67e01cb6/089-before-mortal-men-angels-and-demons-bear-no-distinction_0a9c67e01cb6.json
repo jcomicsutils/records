@@ -1,0 +1,30 @@
+{
+  "id": "089-before-mortal-men-angels-and-demons-bear-no-distinction_0a9c67e01cb6",
+  "fingerprint": "0a9c67e01cb6893a98ac329cf9d9b0de7114702b1b3bb8a6e60ff4eb4e465fc5",
+  "archived_at": "2026-11-04T19:24:49Z",
+  "metadata": {
+    "title": "089. Before Mortal Men, Angels and Demons Bear No Distinction.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3191,
+    "duration_human": "00:53:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Before Mortal Men, Angels and Demons Bear No Distinction."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/3mmg5m9k.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/089-before-mortal-men-angels-and-demons-bear-no-distinction_0a9c67e01cb6"
+    }
+  }
+}
