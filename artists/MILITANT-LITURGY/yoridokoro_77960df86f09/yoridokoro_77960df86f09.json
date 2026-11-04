@@ -1,0 +1,38 @@
+{
+  "id": "yoridokoro_77960df86f09",
+  "fingerprint": "77960df86f09c33aeae8ad3c69158c7ccd2eab5a122a4de6dae1d2e3cdffd1b9",
+  "archived_at": "2026-11-04T00:07:45Z",
+  "metadata": {
+    "title": "Yoridokoro",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Ivan Reash"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 4061,
+    "duration_human": "01:07:41",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Ivan Reash - Kogarashi",
+      "02 Ivan Reash - The Good That I Would Not Do (Lyrics by John Newton)",
+      "03 Ivan Reash - The Old Man (feat. Woods Mattress)",
+      "04 Ivan Reash - Little Black Book",
+      "05 Ivan Reash - Apricity",
+      "06 Ivan Reash - Rock of Ages (Lyrics by Augustus Toplady)",
+      "07 Ivan Reash - Author",
+      "08 Ivan Reash - Wisdom Tooth"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/757p84qc.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/yoridokoro_77960df86f09"
+    }
+  }
+}
