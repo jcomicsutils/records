@@ -1,0 +1,30 @@
+{
+  "id": "032-pray-for-me-poltergeist-stay-away-from-me-poltergeist_c0a5b43887a3",
+  "fingerprint": "c0a5b43887a3d8d792c485a43692d5721e5854f6a429379fbcc27701c8f98ee9",
+  "archived_at": "2026-11-04T02:37:10Z",
+  "metadata": {
+    "title": "032. Pray for Me, Poltergeist! (Stay Away From Me, Poltergeist!)",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2270,
+    "duration_human": "00:37:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Pray for Me, Poltergeist! (Stay Away From Me, Poltergeist!)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/vd9n21l1.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/032-pray-for-me-poltergeist-stay-away-from-me-poltergeist_c0a5b43887a3"
+    }
+  }
+}
