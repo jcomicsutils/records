@@ -1,0 +1,33 @@
+{
+  "id": "virtual-reality-church_00bd85995ec6",
+  "fingerprint": "00bd85995ec663eed8848ce47ba7f763f9920a23992cd48859b9ccc2d87c4b06",
+  "archived_at": "2026-11-04T00:00:01Z",
+  "metadata": {
+    "title": "Virtual Reality Church",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Rave Exorcist"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1008,
+    "duration_human": "00:16:48",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rave Exorcist - Cybertheologist",
+      "02 Rave Exorcist - Virtual Reality Church",
+      "03 Rave Exorcist - Confusion {Physical Shell Splitting Mix}"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/eip41vba.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/virtual-reality-church_00bd85995ec6"
+    }
+  }
+}
