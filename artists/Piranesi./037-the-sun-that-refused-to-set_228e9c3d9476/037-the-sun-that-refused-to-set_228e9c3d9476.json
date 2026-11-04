@@ -1,0 +1,30 @@
+{
+  "id": "037-the-sun-that-refused-to-set_228e9c3d9476",
+  "fingerprint": "228e9c3d9476ec4134e5d8936bc32eea2ffc5c9eccfed4acf6ed0d66664150a2",
+  "archived_at": "2026-11-04T02:52:39Z",
+  "metadata": {
+    "title": "037. The Sun That Refused to Set.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2640,
+    "duration_human": "00:44:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - The Sun That Refused to Set."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/byauy2w3.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/037-the-sun-that-refused-to-set_228e9c3d9476"
+    }
+  }
+}
