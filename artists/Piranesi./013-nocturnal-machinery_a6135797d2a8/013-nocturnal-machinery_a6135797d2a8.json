@@ -1,0 +1,30 @@
+{
+  "id": "013-nocturnal-machinery_a6135797d2a8",
+  "fingerprint": "a6135797d2a85d36cde87326c68fe3d3d0ff21ba2ba8ea4d16ea7a8fea5943cf",
+  "archived_at": "2026-11-04T01:21:19Z",
+  "metadata": {
+    "title": "013. Nocturnal Machinery.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4871,
+    "duration_human": "01:21:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Nocturnal Machinery."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/365i866b.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/013-nocturnal-machinery_a6135797d2a8"
+    }
+  }
+}
