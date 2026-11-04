@@ -1,0 +1,30 @@
+{
+  "id": "077-no-greater-love-none-so-vile_c54c21f2cf46",
+  "fingerprint": "c54c21f2cf46b013eeac715c8853bff60a7cbf02dc96c5078c11a9194dbc28cd",
+  "archived_at": "2026-11-04T06:30:02Z",
+  "metadata": {
+    "title": "077. No Greater Love, None So Vile.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2469,
+    "duration_human": "00:41:09",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - No Greater Love, None So Vile."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/lgphgwlu.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/077-no-greater-love-none-so-vile_c54c21f2cf46"
+    }
+  }
+}
