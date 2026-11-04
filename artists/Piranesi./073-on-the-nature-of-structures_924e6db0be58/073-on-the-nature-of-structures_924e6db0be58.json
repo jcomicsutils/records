@@ -1,0 +1,30 @@
+{
+  "id": "073-on-the-nature-of-structures_924e6db0be58",
+  "fingerprint": "924e6db0be587bcceaacfcb91483be2213b389181abed5b1aa4d518975ee451d",
+  "archived_at": "2026-11-04T06:19:17Z",
+  "metadata": {
+    "title": "073. On the Nature of Structures.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4538,
+    "duration_human": "01:15:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - On the Nature of Structures."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ifgg9bkl.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/073-on-the-nature-of-structures_924e6db0be58"
+    }
+  }
+}
