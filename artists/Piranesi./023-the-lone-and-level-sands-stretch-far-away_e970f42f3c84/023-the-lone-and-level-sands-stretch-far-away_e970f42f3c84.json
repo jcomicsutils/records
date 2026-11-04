@@ -1,0 +1,30 @@
+{
+  "id": "023-the-lone-and-level-sands-stretch-far-away_e970f42f3c84",
+  "fingerprint": "e970f42f3c848ba0f522342a5d4103029b50779d6f139088c59caa78960149ff",
+  "archived_at": "2026-11-04T02:05:34Z",
+  "metadata": {
+    "title": "023. The Lone and Level Sands Stretch Far Away.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2640,
+    "duration_human": "00:44:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - The Lone and Level Sands Stretch Far Away."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/tq6jg642.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/023-the-lone-and-level-sands-stretch-far-away_e970f42f3c84"
+    }
+  }
+}
