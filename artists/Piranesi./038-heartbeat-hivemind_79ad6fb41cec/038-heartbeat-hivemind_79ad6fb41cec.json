@@ -1,0 +1,30 @@
+{
+  "id": "038-heartbeat-hivemind_79ad6fb41cec",
+  "fingerprint": "79ad6fb41cec17de932094a5cd27cd2d56e0dbf61bfc893bf5d4918cc4c36765",
+  "archived_at": "2026-11-04T02:55:32Z",
+  "metadata": {
+    "title": "038. Heartbeat Hivemind.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1120,
+    "duration_human": "00:18:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Heartbeat Hivemind."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/a3z70nvh.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/038-heartbeat-hivemind_79ad6fb41cec"
+    }
+  }
+}
