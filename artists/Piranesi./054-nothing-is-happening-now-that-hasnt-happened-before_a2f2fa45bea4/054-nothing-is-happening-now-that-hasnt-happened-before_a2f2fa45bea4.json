@@ -1,0 +1,30 @@
+{
+  "id": "054-nothing-is-happening-now-that-hasnt-happened-before_a2f2fa45bea4",
+  "fingerprint": "a2f2fa45bea455fad219f55580212fab78ce0a9b6e0b3948de61ff53d0dec4c2",
+  "archived_at": "2026-11-04T04:44:17Z",
+  "metadata": {
+    "title": "054. Nothing Is Happening Now That Hasn't Happened Before.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 5541,
+    "duration_human": "01:32:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Nothing Is Happening Now That Hasn't Happened Before."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/roci6o8c.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/054-nothing-is-happening-now-that-hasnt-happened-before_a2f2fa45bea4"
+    }
+  }
+}
