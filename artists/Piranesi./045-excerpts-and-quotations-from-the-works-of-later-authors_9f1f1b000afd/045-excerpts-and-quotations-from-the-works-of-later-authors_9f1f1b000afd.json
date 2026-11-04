@@ -1,0 +1,30 @@
+{
+  "id": "045-excerpts-and-quotations-from-the-works-of-later-authors_9f1f1b000afd",
+  "fingerprint": "9f1f1b000afd97d1b315da05e9a45820928f7ff28f42a3487a8d13d5dfc37bd5",
+  "archived_at": "2026-11-04T03:55:06Z",
+  "metadata": {
+    "title": "045. Excerpts and Quotations From the Works of Later Authors.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1294,
+    "duration_human": "00:21:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Excerpts and Quotations From the Works of Later Authors."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/j1g8c0n2.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/045-excerpts-and-quotations-from-the-works-of-later-authors_9f1f1b000afd"
+    }
+  }
+}
