@@ -1,0 +1,30 @@
+{
+  "id": "060-signal-from-the-arctic-colorful-cosmic-whispers_baff64dee2ee",
+  "fingerprint": "baff64dee2eeccd3dd64ed6b2fa603b2b7483e5f4f13bf92cab8f3d5239ac8b6",
+  "archived_at": "2026-11-04T05:18:07Z",
+  "metadata": {
+    "title": "060. Signal From the Arctic, Colorful Cosmic Whispers.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3610,
+    "duration_human": "01:00:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Signal From the Arctic, Colorful Cosmic Whispers."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/yf87axf1.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/060-signal-from-the-arctic-colorful-cosmic-whispers_baff64dee2ee"
+    }
+  }
+}
