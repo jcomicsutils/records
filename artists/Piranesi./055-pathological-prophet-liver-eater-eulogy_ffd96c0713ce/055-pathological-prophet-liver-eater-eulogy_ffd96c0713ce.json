@@ -1,0 +1,30 @@
+{
+  "id": "055-pathological-prophet-liver-eater-eulogy_ffd96c0713ce",
+  "fingerprint": "ffd96c0713ceeb2d1c22698097a0b92281694312f551946a605216d88f64cb33",
+  "archived_at": "2026-11-04T04:49:23Z",
+  "metadata": {
+    "title": "055. Pathological Prophet. (Liver Eater Eulogy)",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3315,
+    "duration_human": "00:55:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Pathological Prophet. (Liver Eater Eulogy)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/2enxex5l.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/055-pathological-prophet-liver-eater-eulogy_ffd96c0713ce"
+    }
+  }
+}
