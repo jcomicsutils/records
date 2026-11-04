@@ -1,0 +1,30 @@
+{
+  "id": "neuf_24e7729434ec",
+  "fingerprint": "24e7729434ec56df6aab3ef98fab859d947de21045e21f29c460ed9d82793131",
+  "archived_at": "2026-11-04T20:14:16Z",
+  "metadata": {
+    "title": "Neuf.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Neuf."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/7qn3oxxg.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/neuf_24e7729434ec"
+    }
+  }
+}
