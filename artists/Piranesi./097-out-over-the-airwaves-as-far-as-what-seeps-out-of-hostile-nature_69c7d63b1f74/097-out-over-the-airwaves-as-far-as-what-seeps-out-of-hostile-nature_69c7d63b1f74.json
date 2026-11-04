@@ -1,0 +1,30 @@
+{
+  "id": "097-out-over-the-airwaves-as-far-as-what-seeps-out-of-hostile-nature_69c7d63b1f74",
+  "fingerprint": "69c7d63b1f74933c9cd81e62a28dc399e628a71efa87c9150e6e6ff9e5dd4c0d",
+  "archived_at": "2026-11-04T19:48:49Z",
+  "metadata": {
+    "title": "097. Out Over the Airwaves, as Far as What Seeps Out of Hostile Nature.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1873,
+    "duration_human": "00:31:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Out Over the Airwaves, as Far as What Seeps Out of Hostile Nature."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/mvcgbicl.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/097-out-over-the-airwaves-as-far-as-what-seeps-out-of-hostile-nature_69c7d63b1f74"
+    }
+  }
+}
