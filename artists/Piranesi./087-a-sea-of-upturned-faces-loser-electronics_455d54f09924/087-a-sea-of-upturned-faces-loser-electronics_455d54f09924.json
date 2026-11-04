@@ -1,0 +1,30 @@
+{
+  "id": "087-a-sea-of-upturned-faces-loser-electronics_455d54f09924",
+  "fingerprint": "455d54f099243a1ca661a160807251bbca812c841718f19cfa1c74fb8cc691e2",
+  "archived_at": "2026-11-04T19:20:45Z",
+  "metadata": {
+    "title": "087. A Sea of Upturned Faces. (Loser Electronics)",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1147,
+    "duration_human": "00:19:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - A Sea of Upturned Faces. (Loser Electronics)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/l00en6sk.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/087-a-sea-of-upturned-faces-loser-electronics_455d54f09924"
+    }
+  }
+}
