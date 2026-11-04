@@ -1,0 +1,30 @@
+{
+  "id": "065-the-last-five-seconds-before-man-shot-an-arrow-into-the-air_fa2a42e02b29",
+  "fingerprint": "fa2a42e02b29fab17fc4bf7413d5885353b50901a45eff56b15279c16e144dbb",
+  "archived_at": "2026-11-04T05:35:32Z",
+  "metadata": {
+    "title": "065. The Last Five Seconds Before Man Shot an Arrow Into the Air.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 9900,
+    "duration_human": "02:45:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - The Last Five Seconds Before Man Shot an Arrow Into the Air."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/uf1vxus4.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/065-the-last-five-seconds-before-man-shot-an-arrow-into-the-air_fa2a42e02b29"
+    }
+  }
+}
