@@ -1,0 +1,30 @@
+{
+  "id": "027-divine-and-brittle-divisions_3e24697546e0",
+  "fingerprint": "3e24697546e05348ce8453bab2340420e21d4e7875aa05ccf418a3bbe5ed9d38",
+  "archived_at": "2026-11-04T02:16:18Z",
+  "metadata": {
+    "title": "027. Divine and Brittle Divisions.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 454,
+    "duration_human": "00:07:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Divine and Brittle Divisions."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/kpue15f0.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/027-divine-and-brittle-divisions_3e24697546e0"
+    }
+  }
+}
