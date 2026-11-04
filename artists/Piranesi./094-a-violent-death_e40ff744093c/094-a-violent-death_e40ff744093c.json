@@ -1,0 +1,30 @@
+{
+  "id": "094-a-violent-death_e40ff744093c",
+  "fingerprint": "e40ff744093c972d88f640b2d65bb621c32ea98d793f4ce53a2da111adcd7cfc",
+  "archived_at": "2026-11-04T19:39:09Z",
+  "metadata": {
+    "title": "094. A Violent Death.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1951,
+    "duration_human": "00:32:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - A Violent Death."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/vnl4sw55.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/094-a-violent-death_e40ff744093c"
+    }
+  }
+}
