@@ -1,0 +1,30 @@
+{
+  "id": "070-gratitude-and-a-misdemeanor-hail-mary-triumph-oer-death_70ae54861b82",
+  "fingerprint": "70ae54861b82cb071277668c450fade4defed35599b4ef0de3b090d54fa47e03",
+  "archived_at": "2026-11-04T06:03:09Z",
+  "metadata": {
+    "title": "070. Gratitude and a Misdemeanor. (Hail Mary, Triumph O'er Death!)",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4843,
+    "duration_human": "01:20:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Gratitude and a Misdemeanor. (Hail Mary, Triumph O'er Death!)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/zw6jemzf.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/070-gratitude-and-a-misdemeanor-hail-mary-triumph-oer-death_70ae54861b82"
+    }
+  }
+}
