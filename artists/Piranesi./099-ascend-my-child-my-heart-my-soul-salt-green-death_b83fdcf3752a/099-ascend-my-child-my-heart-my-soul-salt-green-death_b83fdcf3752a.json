@@ -1,0 +1,30 @@
+{
+  "id": "099-ascend-my-child-my-heart-my-soul-salt-green-death_b83fdcf3752a",
+  "fingerprint": "b83fdcf3752af9a93bc4386f33f76011807835f1a767c988cad29aa1174082bd",
+  "archived_at": "2026-11-04T19:56:07Z",
+  "metadata": {
+    "title": "099. Ascend, My Child! My Heart, My Soul: Salt Green Death.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2399,
+    "duration_human": "00:39:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Ascend, My Child! My Heart, My Soul: Salt Green Death."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/a7j7qjw8.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/099-ascend-my-child-my-heart-my-soul-salt-green-death_b83fdcf3752a"
+    }
+  }
+}
