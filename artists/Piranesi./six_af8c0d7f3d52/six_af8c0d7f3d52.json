@@ -1,0 +1,30 @@
+{
+  "id": "six_af8c0d7f3d52",
+  "fingerprint": "af8c0d7f3d52d48288002318cd8380e9dc194f5a637bfc05fbb900314fc595ea",
+  "archived_at": "2026-11-04T20:22:08Z",
+  "metadata": {
+    "title": "Six.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Six."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/u5czwh22.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/six_af8c0d7f3d52"
+    }
+  }
+}
