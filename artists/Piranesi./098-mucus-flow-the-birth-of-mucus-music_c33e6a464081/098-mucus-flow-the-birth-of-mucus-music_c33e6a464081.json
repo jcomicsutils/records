@@ -1,0 +1,30 @@
+{
+  "id": "098-mucus-flow-the-birth-of-mucus-music_c33e6a464081",
+  "fingerprint": "c33e6a464081d652910d05bf635bdbb6d7384d96474c224d6cae15ee7892d877",
+  "archived_at": "2026-11-04T19:52:54Z",
+  "metadata": {
+    "title": "098. Mucus Flow. (The Birth of Mucus Music)",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2054,
+    "duration_human": "00:34:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Mucus Flow. (The Birth of Mucus Music)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/4u9rna18.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/098-mucus-flow-the-birth-of-mucus-music_c33e6a464081"
+    }
+  }
+}
