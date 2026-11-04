@@ -1,0 +1,30 @@
+{
+  "id": "090-from-the-copper-mouth-of-the-brass-beast-flowed-honey_024f1be3cee8",
+  "fingerprint": "024f1be3cee8ad195d53202e22bc9401219ede55eae6ebebf01011d4a1e5b80e",
+  "archived_at": "2026-11-04T19:28:14Z",
+  "metadata": {
+    "title": "090. From the Copper Mouth of the Brass Beast Flowed Honey.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3310,
+    "duration_human": "00:55:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - From the Copper Mouth of the Brass Beast Flowed Honey."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/agouno2h.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/090-from-the-copper-mouth-of-the-brass-beast-flowed-honey_024f1be3cee8"
+    }
+  }
+}
