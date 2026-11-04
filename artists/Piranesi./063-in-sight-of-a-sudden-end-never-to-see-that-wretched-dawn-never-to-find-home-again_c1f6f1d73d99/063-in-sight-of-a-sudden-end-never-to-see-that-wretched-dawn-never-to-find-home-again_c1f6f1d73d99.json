@@ -1,0 +1,30 @@
+{
+  "id": "063-in-sight-of-a-sudden-end-never-to-see-that-wretched-dawn-never-to-find-home-again_c1f6f1d73d99",
+  "fingerprint": "c1f6f1d73d99dbfad64bddbe4449524914524814a747e86f82be033ff6b3aea6",
+  "archived_at": "2026-11-04T05:28:41Z",
+  "metadata": {
+    "title": "063. In Sight of a Sudden End — Never to See That Wretched Dawn, Never to Find Home Again.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1384,
+    "duration_human": "00:23:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - In Sight of a Sudden End — Never to See That Wretched Dawn, Never to Find Home Again."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/e2lyqoee.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/063-in-sight-of-a-sudden-end-never-to-see-that-wretched-dawn-never-to-find-home-again_c1f6f1d73d99"
+    }
+  }
+}
