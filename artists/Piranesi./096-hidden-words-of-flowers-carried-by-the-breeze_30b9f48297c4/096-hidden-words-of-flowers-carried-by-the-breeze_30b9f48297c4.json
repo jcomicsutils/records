@@ -1,0 +1,30 @@
+{
+  "id": "096-hidden-words-of-flowers-carried-by-the-breeze_30b9f48297c4",
+  "fingerprint": "30b9f48297c490362c41e2f567db1c8f7630c2189c7113d61f6b7ff8b6ad6604",
+  "archived_at": "2026-11-04T19:45:41Z",
+  "metadata": {
+    "title": "096. Hidden Words of Flowers, Carried by the Breeze.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2132,
+    "duration_human": "00:35:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Hidden Words of Flowers, Carried by the Breeze."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ae48o2cj.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/096-hidden-words-of-flowers-carried-by-the-breeze_30b9f48297c4"
+    }
+  }
+}
