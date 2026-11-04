@@ -1,0 +1,30 @@
+{
+  "id": "053-thrown-to-the-dunes-upon-the-throat-of-the-world_91b4dd04e608",
+  "fingerprint": "91b4dd04e60852ecdebaad6c0ec8fb30bf8cc0fb0fbf79f3e26419087cbfc0a7",
+  "archived_at": "2026-11-04T04:36:14Z",
+  "metadata": {
+    "title": "053. Thrown to the Dunes Upon the Throat of the World.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 10357,
+    "duration_human": "02:52:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Thrown to the Dunes Upon the Throat of the World."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/mtu555db.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/053-thrown-to-the-dunes-upon-the-throat-of-the-world_91b4dd04e608"
+    }
+  }
+}
