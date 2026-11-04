@@ -1,0 +1,30 @@
+{
+  "id": "011-it-was-murder-silent-and-slow_a7969db53950",
+  "fingerprint": "a7969db53950671b541eb6d1f01e8548b930c0219aa7661d642f71988ba9ad85",
+  "archived_at": "2026-11-04T01:12:34Z",
+  "metadata": {
+    "title": "011. It Was Murder, Silent and Slow.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1165,
+    "duration_human": "00:19:25",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - It Was Murder, Silent and Slow."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/6mpadliq.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/011-it-was-murder-silent-and-slow_a7969db53950"
+    }
+  }
+}
