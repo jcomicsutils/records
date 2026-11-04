@@ -1,0 +1,30 @@
+{
+  "id": "deux_341b2dde140d",
+  "fingerprint": "341b2dde140d297e79e8715cfa5661972abee8697c3784d242cd8dacf8a10c3e",
+  "archived_at": "2026-11-04T20:06:09Z",
+  "metadata": {
+    "title": "Deux.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Deux."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/nkwbetab.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/deux_341b2dde140d"
+    }
+  }
+}
