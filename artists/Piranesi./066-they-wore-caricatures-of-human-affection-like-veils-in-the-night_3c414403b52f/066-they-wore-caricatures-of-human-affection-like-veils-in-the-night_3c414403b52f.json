@@ -1,0 +1,30 @@
+{
+  "id": "066-they-wore-caricatures-of-human-affection-like-veils-in-the-night_3c414403b52f",
+  "fingerprint": "3c414403b52f0505d48b3e5e0dd1676b1441a39001e70126042e1076c73a5a56",
+  "archived_at": "2026-11-04T05:45:31Z",
+  "metadata": {
+    "title": "066. They Wore Caricatures of Human Affection Like Veils in the Night.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1830,
+    "duration_human": "00:30:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - They Wore Caricatures of Human Affection Like Veils in the Night."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/o6fe5g9b.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/066-they-wore-caricatures-of-human-affection-like-veils-in-the-night_3c414403b52f"
+    }
+  }
+}
