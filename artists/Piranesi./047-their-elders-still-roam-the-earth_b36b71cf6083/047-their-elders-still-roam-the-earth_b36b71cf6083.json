@@ -1,0 +1,30 @@
+{
+  "id": "047-their-elders-still-roam-the-earth_b36b71cf6083",
+  "fingerprint": "b36b71cf60830fa3645959d94a7068dcf08f9e4492d2e08ce3cc86070eb9883e",
+  "archived_at": "2026-11-04T04:00:36Z",
+  "metadata": {
+    "title": "047. Their Elders Still Roam the Earth.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4763,
+    "duration_human": "01:19:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Their Elders Still Roam the Earth."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/lye1l0rh.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/047-their-elders-still-roam-the-earth_b36b71cf6083"
+    }
+  }
+}
