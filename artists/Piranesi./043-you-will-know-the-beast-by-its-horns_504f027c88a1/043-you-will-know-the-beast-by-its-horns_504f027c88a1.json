@@ -1,0 +1,38 @@
+{
+  "id": "043-you-will-know-the-beast-by-its-horns_504f027c88a1",
+  "fingerprint": "504f027c88a174b9117db2f2859de3dd8956debfddb002d4a1fb416fa08a5f05",
+  "archived_at": "2026-11-04T03:17:34Z",
+  "metadata": {
+    "title": "043. You Will Know the Beast by Its Horns.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 21600,
+    "duration_human": "06:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - You Will Know the Beast by Its Horns."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://pomf2.lain.la/f/74kgljav.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/hjf1zqq4.tar"
+        }
+      ]
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/043-you-will-know-the-beast-by-its-horns_504f027c88a1"
+    }
+  }
+}
