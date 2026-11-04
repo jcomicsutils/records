@@ -1,0 +1,30 @@
+{
+  "id": "084-stones-have-been-known-to-move_96e5526f7836",
+  "fingerprint": "96e5526f783617b3b27269495bd86469e12d948667f00dddc036c309263b2d69",
+  "archived_at": "2026-11-04T19:12:53Z",
+  "metadata": {
+    "title": "084. Stones Have Been Known to Move.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1873,
+    "duration_human": "00:31:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Stones Have Been Known to Move."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/2qu7oydq.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/084-stones-have-been-known-to-move_96e5526f7836"
+    }
+  }
+}
