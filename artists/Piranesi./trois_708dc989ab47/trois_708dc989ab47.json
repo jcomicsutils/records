@@ -1,0 +1,30 @@
+{
+  "id": "trois_708dc989ab47",
+  "fingerprint": "708dc989ab47f190973c0f76a272b75d3e4f3625443f5cbf24a299fe90cc9c08",
+  "archived_at": "2026-11-04T20:24:53Z",
+  "metadata": {
+    "title": "Trois.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Trois."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/gik2c0bi.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/trois_708dc989ab47"
+    }
+  }
+}
