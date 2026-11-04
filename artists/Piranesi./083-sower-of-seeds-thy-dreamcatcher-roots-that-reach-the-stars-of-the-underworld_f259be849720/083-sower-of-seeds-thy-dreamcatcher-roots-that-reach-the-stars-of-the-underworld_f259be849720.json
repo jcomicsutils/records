@@ -1,0 +1,39 @@
+{
+  "id": "083-sower-of-seeds-thy-dreamcatcher-roots-that-reach-the-stars-of-the-underworld_f259be849720",
+  "fingerprint": "f259be849720a7d44c55a25f2ae48cfe91c41e5fb8af159fbabebd1f41bdc120",
+  "archived_at": "2026-11-04T07:02:43Z",
+  "metadata": {
+    "title": "083. Sower of Seeds, Thy Dreamcatcher: Roots That Reach the Stars of the Underworld.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 26640,
+    "duration_human": "07:24:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Sower of Seeds, Thy Dreamcatcher: Roots That Reach the Stars of the Underworld. I",
+      "02 Piranesi. - Sower of Seeds, Thy Dreamcatcher: Roots That Reach the Stars of the Underworld. II"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://pomf2.lain.la/f/925643jz.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/2mfidod5.tar"
+        }
+      ]
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/083-sower-of-seeds-thy-dreamcatcher-roots-that-reach-the-stars-of-the-underworld_f259be849720"
+    }
+  }
+}
