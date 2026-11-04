@@ -1,0 +1,30 @@
+{
+  "id": "078-harbinger-of-modernity-baptized-in-motor-oil-the-works-the-fire-the-fury_61cf39ea15a1",
+  "fingerprint": "61cf39ea15a13a33a006007674c4ad5d0d07c287ab1d9ec149dafea8451ebcfb",
+  "archived_at": "2026-11-04T06:34:10Z",
+  "metadata": {
+    "title": "078. Harbinger of Modernity, Baptized in Motor Oil: The Works! The Fire! The Fury!",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2275,
+    "duration_human": "00:37:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Harbinger of Modernity, Baptized in Motor Oil: The Works! The Fire! The Fury!"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/p2l5r44n.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/078-harbinger-of-modernity-baptized-in-motor-oil-the-works-the-fire-the-fury_61cf39ea15a1"
+    }
+  }
+}
