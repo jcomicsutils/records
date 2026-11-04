@@ -1,0 +1,30 @@
+{
+  "id": "005-sunrise-sunset-these-are-the-days-my-friends_6959d28c378a",
+  "fingerprint": "6959d28c378a847f8250aaef91a5998dfc1dd22faa3240507e38fce610ebbe2a",
+  "archived_at": "2026-11-04T00:44:09Z",
+  "metadata": {
+    "title": "005. Sunrise, Sunset. These Are the Days, My Friends.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3206,
+    "duration_human": "00:53:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Sunrise, Sunset. These Are the Days, My Friends."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/h4pcfrdn.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/005-sunrise-sunset-these-are-the-days-my-friends_6959d28c378a"
+    }
+  }
+}
