@@ -1,0 +1,30 @@
+{
+  "id": "028-i-will-never-forget-you_5e9be6527a2c",
+  "fingerprint": "5e9be6527a2cf7e7df420a4daafc4765ece68a54e94b656394eba01ed7f552ba",
+  "archived_at": "2026-11-04T02:19:16Z",
+  "metadata": {
+    "title": "028. I Will Never Forget You.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 11463,
+    "duration_human": "03:11:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - I Will Never Forget You."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/7628zq5z.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/028-i-will-never-forget-you_5e9be6527a2c"
+    }
+  }
+}
