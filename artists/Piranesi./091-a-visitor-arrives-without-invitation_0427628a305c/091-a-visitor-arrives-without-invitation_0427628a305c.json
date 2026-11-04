@@ -1,0 +1,30 @@
+{
+  "id": "091-a-visitor-arrives-without-invitation_0427628a305c",
+  "fingerprint": "0427628a305c80abd6b88aa8bbb6f4e6d0ccea89ecaa60e1e485081683d549b6",
+  "archived_at": "2026-11-04T19:32:56Z",
+  "metadata": {
+    "title": "091. A Visitor Arrives Without Invitation.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1891,
+    "duration_human": "00:31:31",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - A Visitor Arrives Without Invitation."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/53lgb82s.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/091-a-visitor-arrives-without-invitation_0427628a305c"
+    }
+  }
+}
