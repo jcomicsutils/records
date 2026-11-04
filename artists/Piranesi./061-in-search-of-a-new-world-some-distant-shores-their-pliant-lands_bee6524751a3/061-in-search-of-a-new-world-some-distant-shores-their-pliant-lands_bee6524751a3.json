@@ -1,0 +1,30 @@
+{
+  "id": "061-in-search-of-a-new-world-some-distant-shores-their-pliant-lands_bee6524751a3",
+  "fingerprint": "bee6524751a3c0ba4952593b3a9e2f8b3c7647177e152e098799eb652f131aa3",
+  "archived_at": "2026-11-04T05:22:20Z",
+  "metadata": {
+    "title": "061. In Search of a New World — Some Distant Shores, Their Pliant Lands.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1384,
+    "duration_human": "00:23:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - In Search of a New World — Some Distant Shores, Their Pliant Lands."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/m669iy3f.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/061-in-search-of-a-new-world-some-distant-shores-their-pliant-lands_bee6524751a3"
+    }
+  }
+}
