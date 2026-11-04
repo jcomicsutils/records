@@ -1,0 +1,30 @@
+{
+  "id": "016-in-the-wake-of-dreams-the-sleep-of-reason-part-iii_63ea90ef54d6",
+  "fingerprint": "63ea90ef54d6ef780d115daf77a5159b3fec481766c461bc4dc10e6868234f54",
+  "archived_at": "2026-11-04T01:34:57Z",
+  "metadata": {
+    "title": "016. In the Wake of Dreams, the Sleep of Reason, Part III.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2371,
+    "duration_human": "00:39:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - In the Wake of Dreams, the Sleep of Reason, Part III."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/jm7h5ub9.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/016-in-the-wake-of-dreams-the-sleep-of-reason-part-iii_63ea90ef54d6"
+    }
+  }
+}
