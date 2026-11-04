@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [007. A Portrait of the Creator of All Things, Whose Visage Is in All Things.](007-a-portrait-of-the-creator-of-all-things-whose-visage-is-in-all-things_134a8fc9ee6f/007-a-portrait-of-the-creator-of-all-things-whose-visage-is-in-all-things_134a8fc9ee6f.md) | 2025 | FLAC | 01:18:03 | [Pomf](https://pomf2.lain.la/f/d45gmirx.tar) [IA](https://archive.org/details/007-a-portrait-of-the-creator-of-all-things-whose-visage-is-in-all-things_134a8fc9ee6f) |
 | [004. Tender Rose, the Great Devourer.](004-tender-rose-the-great-devourer_0f2afdbe7bcb/004-tender-rose-the-great-devourer_0f2afdbe7bcb.md) | 2025 | FLAC | 00:27:00 | [Pomf](https://pomf2.lain.la/f/2w6jog3y.tar) [IA](https://archive.org/details/004-tender-rose-the-great-devourer_0f2afdbe7bcb) |
 | [001. Sweetly in the Early Hours Is the Mist of Morning Dew.](001-sweetly-in-the-early-hours-is-the-mist-of-morning-dew_d2d851cce4c3/001-sweetly-in-the-early-hours-is-the-mist-of-morning-dew_d2d851cce4c3.md) | 2025 | FLAC | 04:44:44 | [Pomf](https://pomf2.lain.la/f/wu4r6gj4.tar) [IA](https://archive.org/details/001-sweetly-in-the-early-hours-is-the-mist-of-morning-dew_d2d851cce4c3) |
 | [003. The Chains of Command.](003-the-chains-of-command_da171ee5b6f8/003-the-chains-of-command_da171ee5b6f8.md) | 2025 | FLAC | 00:09:00 | [Pomf](https://pomf2.lain.la/f/7i59s730.tar) [IA](https://archive.org/details/003-the-chains-of-command_da171ee5b6f8) |

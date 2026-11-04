@@ -1,0 +1,30 @@
+{
+  "id": "007-a-portrait-of-the-creator-of-all-things-whose-visage-is-in-all-things_134a8fc9ee6f",
+  "fingerprint": "134a8fc9ee6fa7e19c5a7a90d11050af7353679267c2a72fe630f5f29d52d845",
+  "archived_at": "2026-11-04T00:50:28Z",
+  "metadata": {
+    "title": "007. A Portrait of the Creator of All Things, Whose Visage Is in All Things.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4683,
+    "duration_human": "01:18:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - A Portrait of the Creator of All Things, Whose Visage Is in All Things."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/d45gmirx.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/007-a-portrait-of-the-creator-of-all-things-whose-visage-is-in-all-things_134a8fc9ee6f"
+    }
+  }
+}
