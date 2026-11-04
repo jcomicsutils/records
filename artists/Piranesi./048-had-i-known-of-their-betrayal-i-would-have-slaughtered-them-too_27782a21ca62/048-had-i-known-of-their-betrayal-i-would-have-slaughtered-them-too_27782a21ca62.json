@@ -1,0 +1,30 @@
+{
+  "id": "048-had-i-known-of-their-betrayal-i-would-have-slaughtered-them-too_27782a21ca62",
+  "fingerprint": "27782a21ca6297253f29d35c1751b2288ae17e691a90eda22354de7e73edb689",
+  "archived_at": "2026-11-04T04:07:17Z",
+  "metadata": {
+    "title": "048. Had I Known of Their Betrayal, I Would Have Slaughtered Them, Too.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2547,
+    "duration_human": "00:42:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Had I Known of Their Betrayal, I Would Have Slaughtered Them, Too."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/5jadba5w.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/048-had-i-known-of-their-betrayal-i-would-have-slaughtered-them-too_27782a21ca62"
+    }
+  }
+}
