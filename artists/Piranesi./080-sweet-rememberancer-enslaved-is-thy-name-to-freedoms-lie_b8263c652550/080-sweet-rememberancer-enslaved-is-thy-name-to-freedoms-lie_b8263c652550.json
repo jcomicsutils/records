@@ -1,0 +1,30 @@
+{
+  "id": "080-sweet-rememberancer-enslaved-is-thy-name-to-freedoms-lie_b8263c652550",
+  "fingerprint": "b8263c652550c6e3711ac085a98413923926c1363939f22064abb4ead559c4ce",
+  "archived_at": "2026-11-04T06:46:56Z",
+  "metadata": {
+    "title": "080. Sweet Rememberancer, Enslaved Is Thy Name to Freedom's Lie.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 803,
+    "duration_human": "00:13:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Sweet Rememberancer, Enslaved Is Thy Name to Freedom's Lie."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/n0unwch0.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/080-sweet-rememberancer-enslaved-is-thy-name-to-freedoms-lie_b8263c652550"
+    }
+  }
+}
