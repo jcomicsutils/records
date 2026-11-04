@@ -1,0 +1,30 @@
+{
+  "id": "041-there-will-come-soft-rains_57913e9ef073",
+  "fingerprint": "57913e9ef0730550e1272ddefe0f059f28db60811fffad5219b7c512b1858cd4",
+  "archived_at": "2026-11-04T03:07:24Z",
+  "metadata": {
+    "title": "041. There Will Come Soft Rains.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1317,
+    "duration_human": "00:21:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - There Will Come Soft Rains."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/d9hp3scu.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/041-there-will-come-soft-rains_57913e9ef073"
+    }
+  }
+}
