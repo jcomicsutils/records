@@ -1,0 +1,33 @@
+{
+  "id": "apokryfa_ddceb8d02cf7",
+  "fingerprint": "ddceb8d02cf7a61387127c3cc5bcc63d85457f03aa1316697d8e596969ac7076",
+  "archived_at": "2026-11-04T00:15:18Z",
+  "metadata": {
+    "title": "Απόκρυφα",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "Егзорцизам"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1829,
+    "duration_human": "00:30:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Егзорцизам - Απόκρυφα / Апокриф",
+      "02 Егзорцизам - λείψανα / Мошти",
+      "03 Егзорцизам - Προσευχές εξ Ἄθω / Молитве са Атоса"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/eoylzpj9.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/apokryfa_ddceb8d02cf7"
+    }
+  }
+}
