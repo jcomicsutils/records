@@ -1,0 +1,27 @@
+{
+  "id": "046-upon-her-lips-was-thy-name-and-nothing-more_1410d5f93e04",
+  "fingerprint": "1410d5f93e042d7a3f1e4c592297b8a7eb13a65a422691bd0aa1f761ab21a481",
+  "archived_at": "2026-11-04T03:57:10Z",
+  "metadata": {
+    "title": "046. Upon Her Lips Was Thy Name, and Nothing More.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 398,
+    "duration_human": "00:06:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Upon Her Lips Was Thy Name, and Nothing More."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/4pxzvr9y.tar"
+    }
+  }
+}
