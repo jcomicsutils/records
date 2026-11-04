@@ -1,0 +1,30 @@
+{
+  "id": "002-fogged-void-oer-vantablack-waters_1201a54870ea",
+  "fingerprint": "1201a54870eadea06283bb327aab129596447c9bda30e2c43ff20f0363201e75",
+  "archived_at": "2026-11-04T00:36:06Z",
+  "metadata": {
+    "title": "002. Fogged Void O'er Vantablack Waters.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3489,
+    "duration_human": "00:58:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Fogged Void O'er Vantablack Waters."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/vbr4r8nd.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/002-fogged-void-oer-vantablack-waters_1201a54870ea"
+    }
+  }
+}
