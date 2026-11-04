@@ -1,0 +1,30 @@
+{
+  "id": "057-peregrinus-funeral-pyre-vituperative-void-the-immolation-artist_8e6e55895537",
+  "fingerprint": "8e6e55895537edd607edba96600c81ef1b317acb43e7085ad712d8caf643181c",
+  "archived_at": "2026-11-04T05:06:08Z",
+  "metadata": {
+    "title": "057. Peregrinus' Funeral Pyre, Vituperative Void: The Immolation Artist.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2474,
+    "duration_human": "00:41:14",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Peregrinus' Funeral Pyre, Vituperative Void: The Immolation Artist."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/jcdgnj7a.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/057-peregrinus-funeral-pyre-vituperative-void-the-immolation-artist_8e6e55895537"
+    }
+  }
+}
