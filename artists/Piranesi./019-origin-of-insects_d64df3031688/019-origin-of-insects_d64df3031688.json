@@ -1,0 +1,30 @@
+{
+  "id": "019-origin-of-insects_d64df3031688",
+  "fingerprint": "d64df3031688c6a139d24f9e40c38fb218f2bb353bc87aba63ab6e5884624444",
+  "archived_at": "2026-11-04T01:45:54Z",
+  "metadata": {
+    "title": "019. Origin of Insects.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 879,
+    "duration_human": "00:14:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Origin of Insects."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/b00ejp10.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/019-origin-of-insects_d64df3031688"
+    }
+  }
+}
