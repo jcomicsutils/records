@@ -1,0 +1,30 @@
+{
+  "id": "017-come-mourning-dawn-turn-and-face-the-night_2cc2a933ede6",
+  "fingerprint": "2cc2a933ede6338f04c1340da580f55c277c6987724c7fe3e8c1fbb3083b1ff1",
+  "archived_at": "2026-11-04T01:41:12Z",
+  "metadata": {
+    "title": "017. Come, Mourning Dawn... Turn and Face the Night.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 628,
+    "duration_human": "00:10:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Come, Mourning Dawn... Turn and Face the Night."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/o8e5zqbj.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/017-come-mourning-dawn-turn-and-face-the-night_2cc2a933ede6"
+    }
+  }
+}
