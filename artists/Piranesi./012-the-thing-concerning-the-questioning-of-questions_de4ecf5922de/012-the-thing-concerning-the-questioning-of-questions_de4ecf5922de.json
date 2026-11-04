@@ -1,0 +1,30 @@
+{
+  "id": "012-the-thing-concerning-the-questioning-of-questions_de4ecf5922de",
+  "fingerprint": "de4ecf5922de90c662b758aa8d926d77c857ac05db99e5220a5a56d124999dc7",
+  "archived_at": "2026-11-04T01:17:53Z",
+  "metadata": {
+    "title": "012. The Thing Concerning the Questioning of Questions.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1367,
+    "duration_human": "00:22:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - The Thing Concerning the Questioning of Questions."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/bunuct26.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/012-the-thing-concerning-the-questioning-of-questions_de4ecf5922de"
+    }
+  }
+}
