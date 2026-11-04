@@ -1,0 +1,30 @@
+{
+  "id": "022-nothing-beside-remains-boundless-and-bare_db5b701a6b50",
+  "fingerprint": "db5b701a6b50dc268f4dcf20e481dfae9ee777618b6335bf6fbaa59f3ad43908",
+  "archived_at": "2026-11-04T02:01:44Z",
+  "metadata": {
+    "title": "022. Nothing Beside Remains, Boundless and Bare.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2287,
+    "duration_human": "00:38:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Nothing Beside Remains, Boundless and Bare."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/mro7duim.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/022-nothing-beside-remains-boundless-and-bare_db5b701a6b50"
+    }
+  }
+}
