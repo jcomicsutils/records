@@ -1,0 +1,30 @@
+{
+  "id": "051-good-night-orpheus-let-the-darkness-lead-thee-home_96126e87e552",
+  "fingerprint": "96126e87e55257fe4eee0e3eb4978cd86d5c8478c9ef69a4b16404df7c7034fe",
+  "archived_at": "2026-11-04T04:24:24Z",
+  "metadata": {
+    "title": "051. Good Night, Orpheus. (Let the Darkness Lead Thee Home)",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2591,
+    "duration_human": "00:43:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Good Night, Orpheus. (Let the Darkness Lead Thee Home)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/wsb95u6s.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/051-good-night-orpheus-let-the-darkness-lead-thee-home_96126e87e552"
+    }
+  }
+}
