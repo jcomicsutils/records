@@ -1,0 +1,30 @@
+{
+  "id": "030-blame-not-the-beasts-for-their-hunger-for-they-know-not-the-morals-of-men_d999a5bffe92",
+  "fingerprint": "d999a5bffe92151012d89b839a967a6335b7655a52cb9dd54c6bcedaffcf2383",
+  "archived_at": "2026-11-04T02:27:39Z",
+  "metadata": {
+    "title": "030. Blame Not the Beasts for Their Hunger, for They Know Not the Morals of Men.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Blame Not the Beasts for Their Hunger, for They Know Not the Morals of Men."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/uota6jnh.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/030-blame-not-the-beasts-for-their-hunger-for-they-know-not-the-morals-of-men_d999a5bffe92"
+    }
+  }
+}
