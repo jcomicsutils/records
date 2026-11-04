@@ -1,0 +1,30 @@
+{
+  "id": "quatre_1254e258f4db",
+  "fingerprint": "1254e258f4dba9295053dd29eb0cc0571efb60a075bdde674f19802e3403b311",
+  "archived_at": "2026-11-04T20:17:51Z",
+  "metadata": {
+    "title": "Quatre.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Quatre."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/m2l427rh.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/quatre_1254e258f4db"
+    }
+  }
+}
