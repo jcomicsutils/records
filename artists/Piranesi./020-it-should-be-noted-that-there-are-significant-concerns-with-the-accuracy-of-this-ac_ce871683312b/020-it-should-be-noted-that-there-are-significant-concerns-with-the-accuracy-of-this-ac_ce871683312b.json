@@ -1,0 +1,30 @@
+{
+  "id": "020-it-should-be-noted-that-there-are-significant-concerns-with-the-accuracy-of-this-ac_ce871683312b",
+  "fingerprint": "ce871683312bf8d87b0a3d99b6acafc725d20a0dc6e33d980cf283eef880d2e9",
+  "archived_at": "2026-11-04T01:47:32Z",
+  "metadata": {
+    "title": "020. It Should Be Noted That There Are Significant Concerns With the Accuracy of This Account.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 817,
+    "duration_human": "00:13:37",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - It Should Be Noted That There Are Significant Concerns With the Accuracy of This Account."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/a9ldo9q5.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/020-it-should-be-noted-that-there-are-significant-concerns-with-the-accuracy-of-this-ac_ce871683312b"
+    }
+  }
+}
