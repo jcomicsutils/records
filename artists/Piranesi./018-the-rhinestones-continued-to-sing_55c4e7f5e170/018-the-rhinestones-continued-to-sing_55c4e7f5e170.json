@@ -1,0 +1,30 @@
+{
+  "id": "018-the-rhinestones-continued-to-sing_55c4e7f5e170",
+  "fingerprint": "55c4e7f5e1706cb253c3345fe41e8782c42da771a6e32cbcaa35ef634b451e0d",
+  "archived_at": "2026-11-04T01:43:32Z",
+  "metadata": {
+    "title": "018. The Rhinestones Continued to Sing.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2428,
+    "duration_human": "00:40:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - The Rhinestones Continued to Sing."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/oewep57y.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/018-the-rhinestones-continued-to-sing_55c4e7f5e170"
+    }
+  }
+}
