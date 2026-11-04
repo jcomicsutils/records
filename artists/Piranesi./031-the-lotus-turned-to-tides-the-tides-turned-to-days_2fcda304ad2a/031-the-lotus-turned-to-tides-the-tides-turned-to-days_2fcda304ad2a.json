@@ -1,0 +1,30 @@
+{
+  "id": "031-the-lotus-turned-to-tides-the-tides-turned-to-days_2fcda304ad2a",
+  "fingerprint": "2fcda304ad2ab2806966d48ecc074c9d65c5549c9936ffcbba056d992b12976f",
+  "archived_at": "2026-11-04T02:31:29Z",
+  "metadata": {
+    "title": "031. The Lotus Turned to Tides, the Tides Turned to Days.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 8542,
+    "duration_human": "02:22:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - The Lotus Turned to Tides, the Tides Turned to Days."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/p04hfaqq.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/031-the-lotus-turned-to-tides-the-tides-turned-to-days_2fcda304ad2a"
+    }
+  }
+}
