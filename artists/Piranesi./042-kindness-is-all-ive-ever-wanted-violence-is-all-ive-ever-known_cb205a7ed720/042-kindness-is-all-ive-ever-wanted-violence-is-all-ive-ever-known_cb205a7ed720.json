@@ -1,0 +1,30 @@
+{
+  "id": "042-kindness-is-all-ive-ever-wanted-violence-is-all-ive-ever-known_cb205a7ed720",
+  "fingerprint": "cb205a7ed720e3673619455317316d5f2955dfa24b1317b25776c33592085c8b",
+  "archived_at": "2026-11-04T03:09:56Z",
+  "metadata": {
+    "title": "042. Kindness Is All I've Ever Wanted, Violence Is All I've Ever Known.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2013,
+    "duration_human": "00:33:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Kindness Is All I've Ever Wanted, Violence Is All I've Ever Known."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/anevpinf.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/042-kindness-is-all-ive-ever-wanted-violence-is-all-ive-ever-known_cb205a7ed720"
+    }
+  }
+}
