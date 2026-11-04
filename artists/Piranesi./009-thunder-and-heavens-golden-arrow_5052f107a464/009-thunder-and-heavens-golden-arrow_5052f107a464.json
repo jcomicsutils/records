@@ -1,0 +1,30 @@
+{
+  "id": "009-thunder-and-heavens-golden-arrow_5052f107a464",
+  "fingerprint": "5052f107a464d025fe90bfbc6fd2c18125f273fde8b6e487951dcf1878bdfbb5",
+  "archived_at": "2026-11-04T01:00:44Z",
+  "metadata": {
+    "title": "009. Thunder and Heaven's Golden Arrow.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3548,
+    "duration_human": "00:59:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Thunder and Heaven's Golden Arrow."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/jlgwydl7.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/009-thunder-and-heavens-golden-arrow_5052f107a464"
+    }
+  }
+}
