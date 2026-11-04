@@ -1,0 +1,30 @@
+{
+  "id": "059-everything-will-be-alright-in-the-end_0e252abe7d8c",
+  "fingerprint": "0e252abe7d8c5ede13ecf99293c34759e8b8e5caf26825869b96800ebbe275e4",
+  "archived_at": "2026-11-04T05:12:07Z",
+  "metadata": {
+    "title": "059. Everything Will Be Alright in the End.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2849,
+    "duration_human": "00:47:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Everything Will Be Alright in the End."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/qclh54z9.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/059-everything-will-be-alright-in-the-end_0e252abe7d8c"
+    }
+  }
+}
