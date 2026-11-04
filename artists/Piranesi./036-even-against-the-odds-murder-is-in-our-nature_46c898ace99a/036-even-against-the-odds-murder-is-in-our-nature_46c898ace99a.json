@@ -1,0 +1,30 @@
+{
+  "id": "036-even-against-the-odds-murder-is-in-our-nature_46c898ace99a",
+  "fingerprint": "46c898ace99a617406d1a031ff780e0dbc3ffb57c121ec6ef8b2454c69899f2c",
+  "archived_at": "2026-11-04T02:48:34Z",
+  "metadata": {
+    "title": "036. Even Against the Odds, Murder Is in Our Nature.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2910,
+    "duration_human": "00:48:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Even Against the Odds, Murder Is in Our Nature."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/90m99nfi.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/036-even-against-the-odds-murder-is-in-our-nature_46c898ace99a"
+    }
+  }
+}
