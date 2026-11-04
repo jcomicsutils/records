@@ -1,0 +1,30 @@
+{
+  "id": "075-empty-is-the-bowl-that-feeds-its-dogs_d0cdcaa6f12e",
+  "fingerprint": "d0cdcaa6f12e0e70bba90f857a7e3e5de8fe86190c9bdd124cfbdc8a49b161cd",
+  "archived_at": "2026-11-04T06:25:31Z",
+  "metadata": {
+    "title": "075. Empty Is the Bowl That Feeds Its Dogs.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 407,
+    "duration_human": "00:06:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Empty Is the Bowl That Feeds Its Dogs."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/lvzvh40d.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/075-empty-is-the-bowl-that-feeds-its-dogs_d0cdcaa6f12e"
+    }
+  }
+}
