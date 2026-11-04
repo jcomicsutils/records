@@ -1,0 +1,30 @@
+{
+  "id": "un_4b57727b7421",
+  "fingerprint": "4b57727b742174954fb705e8ffaeab013589565358a06450fa0fdad6f222742c",
+  "archived_at": "2026-11-04T20:26:54Z",
+  "metadata": {
+    "title": "Un.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Un."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ecve5rmg.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/un_4b57727b7421"
+    }
+  }
+}
