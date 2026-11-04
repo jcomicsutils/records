@@ -1,0 +1,30 @@
+{
+  "id": "cinq_1c3bc4bb8ade",
+  "fingerprint": "1c3bc4bb8aded0297fdf3257b4247b5c4d05e30a817b5bc8726b479ad642d448",
+  "archived_at": "2026-11-04T20:03:50Z",
+  "metadata": {
+    "title": "Cinq.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Cinq."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/l9r26l7w.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/cinq_1c3bc4bb8ade"
+    }
+  }
+}
