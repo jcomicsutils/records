@@ -1,0 +1,32 @@
+{
+  "id": "we-are-alone-in-language_670dd89e3a47",
+  "fingerprint": "670dd89e3a4737f8ae22181870ac6e0286862ed6670a01b6d0e6bda70433b1b7",
+  "archived_at": "2026-11-04T00:02:31Z",
+  "metadata": {
+    "title": "We Are Alone in Language",
+    "artist": "MILITANT LITURGY",
+    "creators": [
+      "MILITANT LITURGY",
+      "monk illuminating a manuscript"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3606,
+    "duration_human": "01:00:06",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 monk illuminating a manuscript - Interpretation Is a Closed Chamber",
+      "02 monk illuminating a manuscript - Translation Is Its Own Exegesis"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/yzup2brf.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/we-are-alone-in-language_670dd89e3a47"
+    }
+  }
+}
