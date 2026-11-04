@@ -1,0 +1,30 @@
+{
+  "id": "085-the-last-answer_05fe8065ad71",
+  "fingerprint": "05fe8065ad71d7425d384eec9873e05c44d17966a9b1d221f1517e6c07b22a18",
+  "archived_at": "2026-11-04T19:15:08Z",
+  "metadata": {
+    "title": "085. The Last Answer.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2537,
+    "duration_human": "00:42:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - The Last Answer."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/1hedoqnk.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/085-the-last-answer_05fe8065ad71"
+    }
+  }
+}
