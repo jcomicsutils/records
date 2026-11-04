@@ -1,0 +1,30 @@
+{
+  "id": "069-i-stay-hidden-i-have-the-body-of-a-pig_29a88bff994b",
+  "fingerprint": "29a88bff994b5db98eb48c1d4fe19c80b27f2b599c7b0853183a61a0a478cc5d",
+  "archived_at": "2026-11-04T05:59:22Z",
+  "metadata": {
+    "title": "069. I Stay Hidden. I Have the Body of a Pig.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2013,
+    "duration_human": "00:33:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - I Stay Hidden. I Have the Body of a Pig."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/7tdm83bw.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/069-i-stay-hidden-i-have-the-body-of-a-pig_29a88bff994b"
+    }
+  }
+}
