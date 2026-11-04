@@ -1,0 +1,30 @@
+{
+  "id": "086-swept-from-their-place-in-the-heavens-they-fell-like-snow_4df46e045bb1",
+  "fingerprint": "4df46e045bb130184ed6ed3ce3fc8031c7e54d95cc600da6857463dfa8b29f91",
+  "archived_at": "2026-11-04T19:17:09Z",
+  "metadata": {
+    "title": "086. Swept From Their Place in the Heavens, They Fell Like Snow.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2441,
+    "duration_human": "00:40:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Swept From Their Place in the Heavens, They Fell Like Snow."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/aqnocxej.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/086-swept-from-their-place-in-the-heavens-they-fell-like-snow_4df46e045bb1"
+    }
+  }
+}
