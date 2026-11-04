@@ -1,0 +1,30 @@
+{
+  "id": "008-beyond-far-beyond_66bb8e822eea",
+  "fingerprint": "66bb8e822eea159164245dfcbd161d8b6ee9e7e88885dd23dcd0135fef8c1a0a",
+  "archived_at": "2026-11-04T00:57:24Z",
+  "metadata": {
+    "title": "008. Beyond, Far Beyond.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2147,
+    "duration_human": "00:35:47",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Beyond, Far Beyond."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/dlydbywq.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/008-beyond-far-beyond_66bb8e822eea"
+    }
+  }
+}
