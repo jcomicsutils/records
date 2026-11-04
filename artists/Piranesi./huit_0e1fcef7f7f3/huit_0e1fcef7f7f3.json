@@ -1,0 +1,30 @@
+{
+  "id": "huit_0e1fcef7f7f3",
+  "fingerprint": "0e1fcef7f7f38313104662b2e5832c6f467cd79b42610a8362e0ebe3e45eda1e",
+  "archived_at": "2026-11-04T20:11:13Z",
+  "metadata": {
+    "title": "Huit.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Huit."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/9eckmjrn.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/huit_0e1fcef7f7f3"
+    }
+  }
+}
