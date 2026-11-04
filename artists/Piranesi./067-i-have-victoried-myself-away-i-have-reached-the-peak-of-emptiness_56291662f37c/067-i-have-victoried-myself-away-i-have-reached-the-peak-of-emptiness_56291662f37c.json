@@ -1,0 +1,30 @@
+{
+  "id": "067-i-have-victoried-myself-away-i-have-reached-the-peak-of-emptiness_56291662f37c",
+  "fingerprint": "56291662f37c229ac076a65bb01446597a7773977866b3f8d9d42566b7bab3f4",
+  "archived_at": "2026-11-04T05:49:05Z",
+  "metadata": {
+    "title": "067. I Have Victoried Myself Away. I Have Reached the Peak of Emptiness.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4290,
+    "duration_human": "01:11:30",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - I Have Victoried Myself Away. I Have Reached the Peak of Emptiness."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/uycj2r0o.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/067-i-have-victoried-myself-away-i-have-reached-the-peak-of-emptiness_56291662f37c"
+    }
+  }
+}
