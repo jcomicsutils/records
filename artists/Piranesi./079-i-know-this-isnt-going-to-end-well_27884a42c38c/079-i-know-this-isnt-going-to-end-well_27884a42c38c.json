@@ -1,0 +1,38 @@
+{
+  "id": "079-i-know-this-isnt-going-to-end-well_27884a42c38c",
+  "fingerprint": "27884a42c38cb3983658eceb443aa0a5f9b92437e482f7262ecb5bf007f8bd9e",
+  "archived_at": "2026-11-04T06:39:41Z",
+  "metadata": {
+    "title": "079. I Know This Isn't Going to End Well.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 14870,
+    "duration_human": "04:07:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - I Know This Isn't Going to End Well."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://pomf2.lain.la/f/jedzhyno.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/3dn0ya5z.tar"
+        }
+      ]
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/079-i-know-this-isnt-going-to-end-well_27884a42c38c"
+    }
+  }
+}
