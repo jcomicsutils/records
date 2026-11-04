@@ -1,0 +1,30 @@
+{
+  "id": "049-music-for-the-modern-man_37abd70ee9f0",
+  "fingerprint": "37abd70ee9f0655e3d19c3409b572d1da65d2e28c89bc7d45924d7ec406ddcbc",
+  "archived_at": "2026-11-04T04:11:33Z",
+  "metadata": {
+    "title": "049. Music for the Modern Man.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1923,
+    "duration_human": "00:32:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Music for the Modern Man."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/30dfdykk.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/049-music-for-the-modern-man_37abd70ee9f0"
+    }
+  }
+}
