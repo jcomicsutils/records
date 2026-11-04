@@ -1,0 +1,30 @@
+{
+  "id": "081-in-empty-rooms-rhapsodists-holiest-and-unruly-hang-from-their-rafters_50f96e294ea3",
+  "fingerprint": "50f96e294ea3275492e559c949de268d10484440c4b60289745fb6ce8ca5e5a7",
+  "archived_at": "2026-11-04T06:49:49Z",
+  "metadata": {
+    "title": "081. In Empty Rooms... Rhapsodists Holiest and Unruly Hang From Their Rafters.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 5205,
+    "duration_human": "01:26:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - In Empty Rooms... Rhapsodists Holiest and Unruly Hang From Their Rafters."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/91xi1u3m.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/081-in-empty-rooms-rhapsodists-holiest-and-unruly-hang-from-their-rafters_50f96e294ea3"
+    }
+  }
+}
