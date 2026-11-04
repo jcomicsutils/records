@@ -1,0 +1,30 @@
+{
+  "id": "039-nocturnal-industry_52a12ad99cc8",
+  "fingerprint": "52a12ad99cc84c72532b4bc073cb4f5efc9d08b95d5180c0930a135f80843811",
+  "archived_at": "2026-11-04T02:58:52Z",
+  "metadata": {
+    "title": "039. Nocturnal Industry.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4871,
+    "duration_human": "01:21:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Nocturnal Industry."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/fqfyudy1.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/039-nocturnal-industry_52a12ad99cc8"
+    }
+  }
+}
