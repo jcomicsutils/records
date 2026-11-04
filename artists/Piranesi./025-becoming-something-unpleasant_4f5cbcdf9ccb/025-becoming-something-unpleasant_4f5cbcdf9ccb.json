@@ -1,0 +1,30 @@
+{
+  "id": "025-becoming-something-unpleasant_4f5cbcdf9ccb",
+  "fingerprint": "4f5cbcdf9ccbfc93ecb82b190aab490f9efc592bbb24f4b709e60b378f94deb2",
+  "archived_at": "2026-11-04T02:11:01Z",
+  "metadata": {
+    "title": "025. Becoming Something Unpleasant.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1423,
+    "duration_human": "00:23:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Becoming Something Unpleasant."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ql6l075s.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/025-becoming-something-unpleasant_4f5cbcdf9ccb"
+    }
+  }
+}
