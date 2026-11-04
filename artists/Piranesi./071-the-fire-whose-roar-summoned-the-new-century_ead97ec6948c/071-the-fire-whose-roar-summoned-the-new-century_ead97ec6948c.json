@@ -1,0 +1,30 @@
+{
+  "id": "071-the-fire-whose-roar-summoned-the-new-century_ead97ec6948c",
+  "fingerprint": "ead97ec6948cf1b6a6c05f7e148d616af09e30cbf227b190b90a1c6c501089da",
+  "archived_at": "2026-11-04T06:11:11Z",
+  "metadata": {
+    "title": "071. The Fire Whose Roar Summoned the New Century.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2875,
+    "duration_human": "00:47:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - The Fire Whose Roar Summoned the New Century."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/sfc183xx.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/071-the-fire-whose-roar-summoned-the-new-century_ead97ec6948c"
+    }
+  }
+}
