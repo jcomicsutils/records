@@ -1,0 +1,30 @@
+{
+  "id": "052-with-cruelest-intentions_8f04655d8612",
+  "fingerprint": "8f04655d86121a2512bcc80ab8d50957636663887ed9e1bdfd62ccb9517cb646",
+  "archived_at": "2026-11-04T04:32:06Z",
+  "metadata": {
+    "title": "052. With Cruelest Intentions.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3294,
+    "duration_human": "00:54:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - With Cruelest Intentions."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/t0iddwr4.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/052-with-cruelest-intentions_8f04655d8612"
+    }
+  }
+}
