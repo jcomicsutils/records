@@ -1,0 +1,30 @@
+{
+  "id": "092-a-visitor-leaves-without-a-trace_4280e4739df4",
+  "fingerprint": "4280e4739df4f13f02ca1439a95755ac5a0060751341816cd2adec9554f13543",
+  "archived_at": "2026-11-04T19:35:13Z",
+  "metadata": {
+    "title": "092. A Visitor Leaves Without a Trace.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1891,
+    "duration_human": "00:31:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - A Visitor Leaves Without a Trace."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/z38ylq03.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/092-a-visitor-leaves-without-a-trace_4280e4739df4"
+    }
+  }
+}
