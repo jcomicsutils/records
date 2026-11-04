@@ -1,0 +1,30 @@
+{
+  "id": "004-tender-rose-the-great-devourer_0f2afdbe7bcb",
+  "fingerprint": "0f2afdbe7bcb5a925387dc1d24efc3bca1073c27477ce08e9bd8c5208b378dfd",
+  "archived_at": "2026-11-04T00:40:09Z",
+  "metadata": {
+    "title": "004. Tender Rose, the Great Devourer.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1620,
+    "duration_human": "00:27:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Tender Rose, the Great Devourer."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/2w6jog3y.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/004-tender-rose-the-great-devourer_0f2afdbe7bcb"
+    }
+  }
+}
