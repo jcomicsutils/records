@@ -1,0 +1,30 @@
+{
+  "id": "082-sing-your-desires-to-the-salmon-and-the-trout-with-the-voice-of-a-snowslicked-saint_639d79412499",
+  "fingerprint": "639d794124994aca853de95349d21ae8885fcdd6bd1edbc2fb86c32bb4850aee",
+  "archived_at": "2026-11-04T06:55:38Z",
+  "metadata": {
+    "title": "082. Sing Your Desires to the Salmon and the Trout With the Voice of a Snowslicked Saint.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2568,
+    "duration_human": "00:42:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Sing Your Desires to the Salmon and the Trout With the Voice of a Snowslicked Saint."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/1r7n9ojo.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/082-sing-your-desires-to-the-salmon-and-the-trout-with-the-voice-of-a-snowslicked-saint_639d79412499"
+    }
+  }
+}
