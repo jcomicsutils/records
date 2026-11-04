@@ -1,0 +1,30 @@
+{
+  "id": "sept_bde051df8064",
+  "fingerprint": "bde051df8064e722a6f2a4ae8b9270b7d844415168cde2883692db87c4aa651a",
+  "archived_at": "2026-11-04T20:19:57Z",
+  "metadata": {
+    "title": "Sept.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Sept."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/6z7wmyg7.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/sept_bde051df8064"
+    }
+  }
+}
