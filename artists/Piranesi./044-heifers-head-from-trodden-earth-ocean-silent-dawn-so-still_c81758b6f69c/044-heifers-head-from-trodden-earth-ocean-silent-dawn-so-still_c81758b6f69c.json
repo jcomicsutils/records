@@ -1,0 +1,45 @@
+{
+  "id": "044-heifers-head-from-trodden-earth-ocean-silent-dawn-so-still_c81758b6f69c",
+  "fingerprint": "c81758b6f69c03d16d1dcd01f3e85ad3693faf4e655eae7cc59a30f2c480d808",
+  "archived_at": "2026-11-04T03:36:53Z",
+  "metadata": {
+    "title": "044. Heifer's Head From Trodden Earth, Ocean Silent, Dawn So Still...",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 43200,
+    "duration_human": "12:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Heifer's Head From Trodden Earth, Ocean Silent, Dawn So Still... I",
+      "02 Piranesi. - Heifer's Head From Trodden Earth, Ocean Silent, Dawn So Still... II"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://pomf2.lain.la/f/ro5zl7m3.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/j35squfx.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/wmoz8hbf.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/safwtm2o.tar"
+        }
+      ]
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/044-heifers-head-from-trodden-earth-ocean-silent-dawn-so-still_c81758b6f69c"
+    }
+  }
+}
