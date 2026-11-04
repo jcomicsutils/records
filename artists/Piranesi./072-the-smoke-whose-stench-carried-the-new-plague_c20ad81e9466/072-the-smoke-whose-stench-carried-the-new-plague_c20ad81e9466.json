@@ -1,0 +1,30 @@
+{
+  "id": "072-the-smoke-whose-stench-carried-the-new-plague_c20ad81e9466",
+  "fingerprint": "c20ad81e94661ebbdb82ffc96fa9f79a3a89629a26d20975299705467ae1fb7d",
+  "archived_at": "2026-11-04T06:14:55Z",
+  "metadata": {
+    "title": "072. The Smoke Whose Stench Carried the New Plague.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2875,
+    "duration_human": "00:47:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - The Smoke Whose Stench Carried the New Plague."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/19uqyvyh.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/072-the-smoke-whose-stench-carried-the-new-plague_c20ad81e9466"
+    }
+  }
+}
