@@ -1,0 +1,30 @@
+{
+  "id": "006-a-gaze-among-a-thousand-others_c4f9b7cc58cb",
+  "fingerprint": "c4f9b7cc58cbe39383ea49073c3797a489bb7717e737fe6162942574e3ea2b48",
+  "archived_at": "2026-11-04T00:47:09Z",
+  "metadata": {
+    "title": "006. A Gaze Among a Thousand Others.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2572,
+    "duration_human": "00:42:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - A Gaze Among a Thousand Others."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/e62h76yb.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/006-a-gaze-among-a-thousand-others_c4f9b7cc58cb"
+    }
+  }
+}
