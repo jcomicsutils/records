@@ -1,0 +1,38 @@
+{
+  "id": "021-everyhere-as-layclouds-upon-the-moors_b780f69e1d0b",
+  "fingerprint": "b780f69e1d0bae2d949041b2212b1cf2a9ec382e659a2b2e08d6f786c2e17ac2",
+  "archived_at": "2026-11-04T01:53:24Z",
+  "metadata": {
+    "title": "021. Everyhere as Layclouds Upon the Moors.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 18000,
+    "duration_human": "05:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Everyhere as Layclouds Upon the Moors."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://pomf2.lain.la/f/cuxr2jer.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/5gkmuauw.tar"
+        }
+      ]
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/021-everyhere-as-layclouds-upon-the-moors_b780f69e1d0b"
+    }
+  }
+}
