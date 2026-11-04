@@ -1,0 +1,30 @@
+{
+  "id": "024-a-triangle-with-four-sides-special-low-frequency-version_caa7b3beddc2",
+  "fingerprint": "caa7b3beddc25e288c1b06635b11afabe22d8d30f7594d42dcce342e1a42efe9",
+  "archived_at": "2026-11-04T02:08:40Z",
+  "metadata": {
+    "title": "024. A Triangle With Four Sides. (Special Low Frequency Version)",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2013,
+    "duration_human": "00:33:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - A Triangle With Four Sides. (Special Low Frequency Version)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/83wlf1fw.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/024-a-triangle-with-four-sides-special-low-frequency-version_caa7b3beddc2"
+    }
+  }
+}
