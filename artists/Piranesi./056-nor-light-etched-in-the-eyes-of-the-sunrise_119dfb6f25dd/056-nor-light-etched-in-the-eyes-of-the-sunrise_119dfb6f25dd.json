@@ -1,0 +1,38 @@
+{
+  "id": "056-nor-light-etched-in-the-eyes-of-the-sunrise_119dfb6f25dd",
+  "fingerprint": "119dfb6f25dd42423f61c44c7347b2a010f3d52450424e81f39754d2468a39cc",
+  "archived_at": "2026-11-04T04:59:12Z",
+  "metadata": {
+    "title": "056. Nor Light, Etched in the Eyes of the Sunrise.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 12813,
+    "duration_human": "03:33:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Nor Light, Etched in the Eyes of the Sunrise."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://pomf2.lain.la/f/45lc7o7i.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/zr59wvws.tar"
+        }
+      ]
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/056-nor-light-etched-in-the-eyes-of-the-sunrise_119dfb6f25dd"
+    }
+  }
+}
