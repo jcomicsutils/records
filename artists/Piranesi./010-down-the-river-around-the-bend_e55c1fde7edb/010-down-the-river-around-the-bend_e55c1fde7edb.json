@@ -1,0 +1,30 @@
+{
+  "id": "010-down-the-river-around-the-bend_e55c1fde7edb",
+  "fingerprint": "e55c1fde7edbf56535a8a664ce440e13c9d1d37c0e22ba6170b4dacb55fc1054",
+  "archived_at": "2026-11-04T01:09:53Z",
+  "metadata": {
+    "title": "010. Down the River, Around the Bend.",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2575,
+    "duration_human": "00:42:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - Down the River, Around the Bend."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/mj1d2esw.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/010-down-the-river-around-the-bend_e55c1fde7edb"
+    }
+  }
+}
