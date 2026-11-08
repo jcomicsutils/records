@@ -1,0 +1,31 @@
+{
+  "id": "hurler-sur-les-sourds_3de7a565d14c",
+  "fingerprint": "3de7a565d14c38f300bdbaef625e71d42b612dda4c322d5b895b824fa248ba0e",
+  "archived_at": "2026-11-08T12:47:51Z",
+  "metadata": {
+    "title": "Hurler sur les sourds",
+    "artist": "Deaf Ballerina",
+    "creators": [
+      "Deaf Ballerina"
+    ],
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deaf Ballerina - Du sang dans la bouche",
+      "02 Deaf Ballerina - Un crachat pour le geste"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/w94amt0o.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/hurler-sur-les-sourds_3de7a565d14c"
+    }
+  }
+}
