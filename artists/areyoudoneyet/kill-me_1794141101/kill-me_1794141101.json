@@ -1,0 +1,34 @@
+{
+  "id": "kill-me_1794141101",
+  "fingerprint": "b371bd339af34fb32c8daff27920a7f622dd50a943bb5d17955ca1c913e5cf50",
+  "archived_at": "2026-11-08T12:31:41Z",
+  "metadata": {
+    "title": "kill me",
+    "artist": "areyoudoneyet",
+    "creators": [
+      "areyoudoneyet",
+      "✩·͙*̩̩͙˚̩̥̩̥*̩̩̥͙ ✩*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙ ✩"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 5233,
+    "duration_human": "01:27:13",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 ✩·͙*̩̩͙˚̩̥̩̥*̩̩̥͙ ✩*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙ ✩ - death is beautiful",
+      "02 ✩·͙*̩̩͙˚̩̥̩̥*̩̩̥͙ ✩*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙ ✩ - ephemeral comforts, warm arms to keep you safe, i'll always be there for you",
+      "03 ✩·͙*̩̩͙˚̩̥̩̥*̩̩̥͙ ✩*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙ ✩ - hills",
+      "04 ✩·͙*̩̩͙˚̩̥̩̥*̩̩̥͙ ✩*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙ ✩ - i'm going to die here"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/kill-me_b371bd339af3"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha13/d6713751b048f862aacc/Kill_Me.tar"
+    }
+  }
+}
