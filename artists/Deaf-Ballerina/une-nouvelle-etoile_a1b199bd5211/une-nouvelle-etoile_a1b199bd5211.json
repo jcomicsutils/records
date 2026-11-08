@@ -1,0 +1,30 @@
+{
+  "id": "une-nouvelle-etoile_a1b199bd5211",
+  "fingerprint": "a1b199bd52110747a47602f15a96188c336ebae107617864f0855d31975e9061",
+  "archived_at": "2026-11-08T13:23:06Z",
+  "metadata": {
+    "title": "Une nouvelle étoile",
+    "artist": "Deaf Ballerina",
+    "creators": [
+      "Deaf Ballerina"
+    ],
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 900,
+    "duration_human": "00:15:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deaf Ballerina - Une nouvelle étoile"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/84fzyeos.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/une-nouvelle-etoile_a1b199bd5211"
+    }
+  }
+}

@@ -4,6 +4,7 @@
 |-------|------|-------|----------|-------|
 | [L'heure du choix](lheure-du-choix_9e96b65cdebb/lheure-du-choix_9e96b65cdebb.md) | 2017 | FLAC | 00:20:00 | [Pomf](https://pomf2.lain.la/f/7t0m74de.tar) [IA](https://archive.org/details/lheure-du-choix_9e96b65cdebb) |
 | [Le son des corps agonisants](le-son-des-corps-agonisants_85ac18f1e26f/le-son-des-corps-agonisants_85ac18f1e26f.md) | 2017 | FLAC | 00:58:51 | [Pomf](https://pomf2.lain.la/f/13aay5sr.tar) [IA](https://archive.org/details/le-son-des-corps-agonisants_85ac18f1e26f) |
+| [Une nouvelle étoile](une-nouvelle-etoile_a1b199bd5211/une-nouvelle-etoile_a1b199bd5211.md) | 2017 | FLAC | 00:15:00 | [Pomf](https://pomf2.lain.la/f/84fzyeos.tar) [IA](https://archive.org/details/une-nouvelle-etoile_a1b199bd5211) |
 | [Quand la danseuse tourne](quand-la-danseuse-tourne_048e51be68f8/quand-la-danseuse-tourne_048e51be68f8.md) | 2017 | FLAC | 00:15:00 | [Pomf](https://pomf2.lain.la/f/tma9gfdd.tar) [IA](https://archive.org/details/quand-la-danseuse-tourne_048e51be68f8) |
 | [Crevée](crevee_c4b2169f902e/crevee_c4b2169f902e.md) | 2017 | FLAC | 00:20:00 | [Pomf](https://pomf2.lain.la/f/hrf7b7al.tar) [IA](https://archive.org/details/crevee_c4b2169f902e) |
 | [Sous les décombres](sous-les-decombres_6a84d9b44f64/sous-les-decombres_6a84d9b44f64.md) | 2017 | FLAC | 00:20:02 | [Pomf](https://pomf2.lain.la/f/vb9bmwk2.tar) [IA](https://archive.org/details/sous-les-decombres_6a84d9b44f64) |
