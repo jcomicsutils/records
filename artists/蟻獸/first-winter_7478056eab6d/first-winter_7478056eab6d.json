@@ -1,0 +1,33 @@
+{
+  "id": "first-winter_7478056eab6d",
+  "fingerprint": "7478056eab6d023d8b9666aaebf825a8b57eb33651c32d82e71a133234d0d07b",
+  "archived_at": "2026-11-08T12:02:16Z",
+  "metadata": {
+    "title": "first winter",
+    "artist": "areyoudoneyet",
+    "creators": [
+      "areyoudoneyet",
+      "蟻獸"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 3472,
+    "duration_human": "00:57:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 蟻獸 - I",
+      "02 蟻獸 - II",
+      "03 蟻獸 - III"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/nth35ztz.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/first-winter_7478056eab6d"
+    }
+  }
+}
