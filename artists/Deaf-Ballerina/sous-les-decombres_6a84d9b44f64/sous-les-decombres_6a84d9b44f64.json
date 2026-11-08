@@ -1,0 +1,30 @@
+{
+  "id": "sous-les-decombres_6a84d9b44f64",
+  "fingerprint": "6a84d9b44f647a71a3a516ccacbc559803ac67abef2d9a6718047f14e5ea91ff",
+  "archived_at": "2026-11-08T13:09:53Z",
+  "metadata": {
+    "title": "Sous les décombres",
+    "artist": "Deaf Ballerina",
+    "creators": [
+      "Deaf Ballerina"
+    ],
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1202,
+    "duration_human": "00:20:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deaf Ballerina - Les ruines de la morte-née"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/vb9bmwk2.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/sous-les-decombres_6a84d9b44f64"
+    }
+  }
+}
