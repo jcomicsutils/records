@@ -1,0 +1,31 @@
+{
+  "id": "split-w-gvillotina_63ff58cff847",
+  "fingerprint": "63ff58cff847d4c237e72773d836f8d128c1c8e1814bc0e3aad073a40afe1369",
+  "archived_at": "2026-11-08T13:20:47Z",
+  "metadata": {
+    "title": "Split w/ Gvillotina",
+    "artist": "Deaf Ballerina",
+    "creators": [
+      "Deaf Ballerina"
+    ],
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2089,
+    "duration_human": "00:34:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deaf Ballerina - Une sourde envie",
+      "02 Deaf Ballerina - Mourir jeune"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/xxdl8p07.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/split-w-gvillotina_63ff58cff847"
+    }
+  }
+}
