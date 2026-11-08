@@ -1,0 +1,31 @@
+{
+  "id": "yishunjianbeifengchuisanlequanbude-dongtianshenzhihaimeiyoukaishi-shenghuodeyongqi_4b93d0d45d9d",
+  "fingerprint": "4b93d0d45d9d55f01b8107afdadf34a6c1b9040b23745e9fda5926af94d13b70",
+  "archived_at": "2026-11-08T12:43:03Z",
+  "metadata": {
+    "title": "一瞬间被风吹散了全部的, 冬天甚至还没有开始, 生活的勇气。",
+    "artist": "areyoudoneyet",
+    "creators": [
+      "areyoudoneyet",
+      "双胞无人机"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 311,
+    "duration_human": "00:05:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 双胞无人机 - 冬天甚至还没有开始"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/jcc41815.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/yishunjianbeifengchuisanlequanbude-dongtianshenzhihaimeiyoukaishi-shenghuodeyongqi_4b93d0d45d9d"
+    }
+  }
+}
