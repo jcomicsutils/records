@@ -1,0 +1,32 @@
+{
+  "id": "every-passing-second_1fb387cad38f",
+  "fingerprint": "1fb387cad38fd41705e889d562f2b4b4504c70f6638237bc675b6b06a716bc1e",
+  "archived_at": "2026-11-08T11:59:14Z",
+  "metadata": {
+    "title": "every passing second...",
+    "artist": "areyoudoneyet",
+    "creators": [
+      "areyoudoneyet",
+      "shivering fox"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2335,
+    "duration_human": "00:38:55",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 shivering fox - one",
+      "02 shivering fox - two"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/c51sgrfh.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/every-passing-second_1fb387cad38f"
+    }
+  }
+}

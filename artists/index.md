@@ -354,6 +354,7 @@
 - [Shadow Figures](Shadow-Figures/Shadow-Figures.md)
 - [Shear Mania 94](Shear-Mania-94/Shear-Mania-94.md)
 - [Shishanote](Shishanote/Shishanote.md)
+- [shivering fox](shivering-fox/shivering-fox.md)
 - [Shivers](Shivers/Shivers.md)
 - [Show Me a Dinosaur](Show-Me-a-Dinosaur/Show-Me-a-Dinosaur.md)
 - [Siouxsie and The Banshees](Siouxsie-and-The-Banshees/Siouxsie-and-The-Banshees.md)
