@@ -1,0 +1,35 @@
+{
+  "id": "today-forever_1794141627",
+  "fingerprint": "7a73e27266f0b02266167c09308afcaff5a348f3c53f0342921118dd953ef2a7",
+  "archived_at": "2026-11-08T12:40:27Z",
+  "metadata": {
+    "title": "today, forever",
+    "artist": "areyoudoneyet",
+    "creators": [
+      "areyoudoneyet",
+      "✩·͙*̩̩͙˚̩̥̩̥*̩̩̥͙ ✩*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙ ✩",
+      "silk fingers"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3237,
+    "duration_human": "00:53:57",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 ✩·͙*̩̩͙˚̩̥̩̥*̩̩̥͙ ✩*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙ ✩ - i long for days where i feel safe. though it seems so far, i can't help but keep hoping",
+      "02 ✩·͙*̩̩͙˚̩̥̩̥*̩̩̥͙ ✩*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙ ✩ - despite everything, you're still here, and i regret ever letting you into my life",
+      "03 silk fingers - outside, by your doorstep. i'll be waiting for you to come down",
+      "04 silk fingers - snow pillows"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/today-forever_7a73e27266f0"
+    },
+    "fileditch": {
+      "url": "https://fileditchfiles.st/alpha13/bae7e99e975c1278ddf8/Today_Forever.tar"
+    }
+  }
+}

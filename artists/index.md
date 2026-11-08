@@ -361,6 +361,7 @@
 - [shivering fox](shivering-fox/shivering-fox.md)
 - [Shivers](Shivers/Shivers.md)
 - [Show Me a Dinosaur](Show-Me-a-Dinosaur/Show-Me-a-Dinosaur.md)
+- [silk fingers](silk-fingers/silk-fingers.md)
 - [Siouxsie and The Banshees](Siouxsie-and-The-Banshees/Siouxsie-and-The-Banshees.md)
 - [Sleep Column](Sleep-Column/Sleep-Column.md)
 - [sleep serene](sleep-serene/sleep-serene.md)
