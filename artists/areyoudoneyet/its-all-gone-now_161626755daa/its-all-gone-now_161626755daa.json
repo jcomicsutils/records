@@ -1,0 +1,33 @@
+{
+  "id": "its-all-gone-now_161626755daa",
+  "fingerprint": "161626755daaf2ed3e9253a789c0452a27cbce4655d9e71374413990c8eebb6d",
+  "archived_at": "2026-11-08T12:27:51Z",
+  "metadata": {
+    "title": "it's all gone now",
+    "artist": "areyoudoneyet",
+    "creators": [
+      "areyoudoneyet",
+      "shivering fox",
+      "pinniped"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2400,
+    "duration_human": "00:40:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 shivering fox & pinniped - even as i hold onto our promises, i know they mean nothing to you",
+      "02 shivering fox & pinniped - if i could have shown you what i would have given up during our last hours together, i would have broken it all down and done something otherwise"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/wogft7hs.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/its-all-gone-now_161626755daa"
+    }
+  }
+}

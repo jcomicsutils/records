@@ -310,6 +310,7 @@
 - [Peter Michael Hamel](Peter-Michael-Hamel/Peter-Michael-Hamel.md)
 - [Piiptsjilling](Piiptsjilling/Piiptsjilling.md)
 - [Pink Siifu](Pink-Siifu/Pink-Siifu.md)
+- [pinniped](pinniped/pinniped.md)
 - [Piranesi.](Piranesi./Piranesi..md)
 - [Protomit](Protomit/Protomit.md)
 - [Psycodrama](Psycodrama/Psycodrama.md)
