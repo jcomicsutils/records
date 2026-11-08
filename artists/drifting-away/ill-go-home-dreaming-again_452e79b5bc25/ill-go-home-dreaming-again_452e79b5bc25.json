@@ -1,0 +1,35 @@
+{
+  "id": "ill-go-home-dreaming-again_452e79b5bc25",
+  "fingerprint": "452e79b5bc25f6690f1ae253db0f4a54823433566bc9db1f1e7e67c0ad07d8b4",
+  "archived_at": "2026-11-08T12:23:45Z",
+  "metadata": {
+    "title": "i'll go home dreaming again",
+    "artist": "areyoudoneyet",
+    "creators": [
+      "areyoudoneyet",
+      "drifting away"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1566,
+    "duration_human": "00:26:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 drifting away - and how much i know i'd let you down",
+      "02 drifting away - black cats inside my house / harvest moon outside the window",
+      "03 drifting away - winter stars on high",
+      "04 drifting away - holy night",
+      "05 drifting away - phases (everything, forever)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/xx3zsxqg.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/ill-go-home-dreaming-again_452e79b5bc25"
+    }
+  }
+}
