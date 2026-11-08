@@ -113,6 +113,7 @@
 - [Danshoku Dino](Danshoku-Dino/Danshoku-Dino.md)
 - [DATAMAFIA](DATAMAFIA/DATAMAFIA.md)
 - [De Mannen Broeders](De-Mannen-Broeders/De-Mannen-Broeders.md)
+- [Deaf Ballerina](Deaf-Ballerina/Deaf-Ballerina.md)
 - [Deafheaven](Deafheaven/Deafheaven.md)
 - [Death Ambient](Death-Ambient/Death-Ambient.md)
 - [Deerhoof](Deerhoof/Deerhoof.md)

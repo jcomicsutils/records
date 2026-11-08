@@ -1,0 +1,30 @@
+{
+  "id": "born-again_217eddbcd1fc",
+  "fingerprint": "217eddbcd1fc686b6ac20158ebfdcdcdf09fab47cf783f512766096b69e09366",
+  "archived_at": "2026-11-08T12:44:12Z",
+  "metadata": {
+    "title": "Born Again",
+    "artist": "Deaf Ballerina",
+    "creators": [
+      "Deaf Ballerina"
+    ],
+    "year": "2018",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1200,
+    "duration_human": "00:20:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deaf Ballerina - Born Again"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/u9fgha3t.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/born-again_217eddbcd1fc"
+    }
+  }
+}
