@@ -1,0 +1,33 @@
+{
+  "id": "grey_d1b24024e2e1",
+  "fingerprint": "d1b24024e2e12e6191aa0d3420675b2fc43337b19e4673ddf1a55c1066792eb6",
+  "archived_at": "2026-11-08T12:06:41Z",
+  "metadata": {
+    "title": "grey",
+    "artist": "areyoudoneyet",
+    "creators": [
+      "areyoudoneyet",
+      "hannah w."
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4015,
+    "duration_human": "01:06:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 hannah w. - regardless of how often you tell me you love me, it will never feel right",
+      "02 hannah w. - i feel so sick without you, yet i wouldn't want it to be any other way",
+      "03 hannah w. - please never let this end"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/gso7xpnz.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/grey_d1b24024e2e1"
+    }
+  }
+}
