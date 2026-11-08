@@ -1,0 +1,31 @@
+{
+  "id": "dynastics_5568edaacd43",
+  "fingerprint": "5568edaacd4385848d3cba95e3b160880b49cab0c8b2826ceefeca2dfec8afdf",
+  "archived_at": "2026-11-08T11:56:40Z",
+  "metadata": {
+    "title": "dynastics",
+    "artist": "areyoudoneyet",
+    "creators": [
+      "areyoudoneyet",
+      ".document"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 600,
+    "duration_human": "00:10:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 .document - dynastics"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/skphpecl.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/dynastics_5568edaacd43"
+    }
+  }
+}
