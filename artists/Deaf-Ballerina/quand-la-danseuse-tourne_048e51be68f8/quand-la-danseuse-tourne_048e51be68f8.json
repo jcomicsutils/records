@@ -1,0 +1,30 @@
+{
+  "id": "quand-la-danseuse-tourne_048e51be68f8",
+  "fingerprint": "048e51be68f892b8d017b4bf811577152d765de951e42e499d08b81db2499022",
+  "archived_at": "2026-11-08T13:08:40Z",
+  "metadata": {
+    "title": "Quand la danseuse tourne",
+    "artist": "Deaf Ballerina",
+    "creators": [
+      "Deaf Ballerina"
+    ],
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 900,
+    "duration_human": "00:15:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deaf Ballerina - Quand la danseuse tourne"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/tma9gfdd.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/quand-la-danseuse-tourne_048e51be68f8"
+    }
+  }
+}
