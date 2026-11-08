@@ -291,6 +291,7 @@
 - [nnaai](nnaai/nnaai.md)
 - [No-joy](No-joy/No-joy.md)
 - [Nocturnal Depression](Nocturnal-Depression/Nocturnal-Depression.md)
+- [Noir de Lampe](Noir-de-Lampe/Noir-de-Lampe.md)
 - [Noise](Noise/Noise.md)
 - [Noise/Girl](NoiseGirl/NoiseGirl.md)
 - [North Eurasia Found Tapes](North-Eurasia-Found-Tapes/North-Eurasia-Found-Tapes.md)
