@@ -1,0 +1,43 @@
+{
+  "id": "la-mue-dune-danseuse_34279f856ba9",
+  "fingerprint": "34279f856ba97d427911b78d46ebe660f16da7e7f9042eccf4eeb0b93e99629c",
+  "archived_at": "2026-11-08T12:54:56Z",
+  "metadata": {
+    "title": "La mue d'une danseuse",
+    "artist": "Deaf Ballerina",
+    "creators": [
+      "Deaf Ballerina"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 7200,
+    "duration_human": "02:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Deaf Ballerina - Elle s'éveille",
+      "02 Deaf Ballerina - Elle s'étire",
+      "03 Deaf Ballerina - Elle s'élève",
+      "04 Deaf Ballerina - Elle hurle",
+      "05 Deaf Ballerina - Elle gémit",
+      "06 Deaf Ballerina - Elle fane"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://pomf2.lain.la/f/8nedxn2e.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/f6yf5210.tar"
+        }
+      ]
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/la-mue-dune-danseuse_34279f856ba9"
+    }
+  }
+}
