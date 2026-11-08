@@ -374,6 +374,7 @@
 - [Sopros](Sopros/Sopros.md)
 - [Sound Research Center](Sound-Research-Center/Sound-Research-Center.md)
 - [Splashgirl](Splashgirl/Splashgirl.md)
+- [spo-kane](spo-kane/spo-kane.md)
 - [St. Francis Duo](St.-Francis-Duo/St.-Francis-Duo.md)
 - [State River Widening](State-River-Widening/State-River-Widening.md)
 - [Steinbrüchel](Steinbrüchel/Steinbrüchel.md)

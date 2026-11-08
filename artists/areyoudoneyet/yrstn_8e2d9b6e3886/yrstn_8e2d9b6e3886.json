@@ -1,0 +1,35 @@
+{
+  "id": "yrstn_8e2d9b6e3886",
+  "fingerprint": "8e2d9b6e38864add780ccbee3658a3bba0edb102220e65452b8928746e2e390b",
+  "archived_at": "2026-11-08T12:40:50Z",
+  "metadata": {
+    "title": "yrstn",
+    "artist": "areyoudoneyet",
+    "creators": [
+      "areyoudoneyet",
+      "spo-kane"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 926,
+    "duration_human": "00:15:26",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 spo-kane - A1",
+      "02 spo-kane - A2",
+      "03 spo-kane - A3",
+      "04 spo-kane - A4",
+      "05 spo-kane - A5"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/cq4n6j9b.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/yrstn_8e2d9b6e3886"
+    }
+  }
+}
