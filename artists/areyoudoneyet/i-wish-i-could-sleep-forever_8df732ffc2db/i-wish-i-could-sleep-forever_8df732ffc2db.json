@@ -1,0 +1,37 @@
+{
+  "id": "i-wish-i-could-sleep-forever_8df732ffc2db",
+  "fingerprint": "8df732ffc2db5242133b3fe52db366a4d992773bfcc0dacd3e229a31a7f3cc6d",
+  "archived_at": "2026-11-08T12:15:46Z",
+  "metadata": {
+    "title": "i wish i could sleep forever",
+    "artist": "areyoudoneyet",
+    "creators": [
+      "areyoudoneyet",
+      "sleep serene"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 4595,
+    "duration_human": "01:16:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 sleep serene - 1",
+      "02 sleep serene - 2",
+      "03 sleep serene - 3",
+      "04 sleep serene - 4",
+      "05 sleep serene - 5",
+      "06 sleep serene - 6",
+      "07 sleep serene - 7"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/2rj0qzsd.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/i-wish-i-could-sleep-forever_8df732ffc2db"
+    }
+  }
+}

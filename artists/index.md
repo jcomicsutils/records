@@ -360,6 +360,7 @@
 - [Show Me a Dinosaur](Show-Me-a-Dinosaur/Show-Me-a-Dinosaur.md)
 - [Siouxsie and The Banshees](Siouxsie-and-The-Banshees/Siouxsie-and-The-Banshees.md)
 - [Sleep Column](Sleep-Column/Sleep-Column.md)
+- [sleep serene](sleep-serene/sleep-serene.md)
 - [Soccer Committee](Soccer-Committee/Soccer-Committee.md)
 - [Sokushinbutsu](Sokushinbutsu/Sokushinbutsu.md)
 - [Solomon Solomon](Solomon-Solomon/Solomon-Solomon.md)
