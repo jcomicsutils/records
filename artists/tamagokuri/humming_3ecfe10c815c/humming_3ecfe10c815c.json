@@ -1,0 +1,32 @@
+{
+  "id": "humming_3ecfe10c815c",
+  "fingerprint": "3ecfe10c815ca624bf187ee7597c164723af962069eea3cc595fb940e9322e9b",
+  "archived_at": "2026-11-08T12:12:04Z",
+  "metadata": {
+    "title": "humming",
+    "artist": "areyoudoneyet",
+    "creators": [
+      "areyoudoneyet",
+      "tamagokuri"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2104,
+    "duration_human": "00:35:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 tamagokuri - untitled",
+      "02 tamagokuri - untitled"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/fh3x45qz.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/humming_3ecfe10c815c"
+    }
+  }
+}

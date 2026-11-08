@@ -387,6 +387,7 @@
 - [Sutekh Hexen](Sutekh-Hexen/Sutekh-Hexen.md)
 - [Tai Gostei](Tai-Gostei/Tai-Gostei.md)
 - [tam tam](tam-tam/tam-tam.md)
+- [tamagokuri](tamagokuri/tamagokuri.md)
 - [Tanya Tagaq](Tanya-Tagaq/Tanya-Tagaq.md)
 - [Tardigrada](Tardigrada/Tardigrada.md)
 - [Tarentel](Tarentel/Tarentel.md)
