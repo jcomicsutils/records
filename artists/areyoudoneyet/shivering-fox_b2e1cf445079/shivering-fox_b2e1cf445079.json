@@ -1,0 +1,33 @@
+{
+  "id": "shivering-fox_b2e1cf445079",
+  "fingerprint": "b2e1cf445079576412b17aca65556e60aaf785472d9cae360178731cf620c49f",
+  "archived_at": "2026-11-08T12:35:22Z",
+  "metadata": {
+    "title": "shivering fox",
+    "artist": "areyoudoneyet",
+    "creators": [
+      "areyoudoneyet",
+      "shivering fox"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 5437,
+    "duration_human": "01:30:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 shivering fox - one",
+      "02 shivering fox - two",
+      "03 shivering fox - three"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/shivering-fox_b2e1cf445079"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/jap7lavb.tar"
+    }
+  }
+}
