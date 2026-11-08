@@ -1,0 +1,30 @@
+{
+  "id": "crevee_c4b2169f902e",
+  "fingerprint": "c4b2169f902e832e5c246a69eb42b18f10fa7184a1e1b26dbe1dc9d7b622d9ca",
+  "archived_at": "2026-11-08T12:45:41Z",
+  "metadata": {
+    "title": "Crevée",
+    "artist": "Deaf Ballerina",
+    "creators": [
+      "Deaf Ballerina"
+    ],
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1200,
+    "duration_human": "00:20:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deaf Ballerina - Crevée"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/hrf7b7al.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/crevee_c4b2169f902e"
+    }
+  }
+}
