@@ -1,0 +1,30 @@
+{
+  "id": "le-son-des-corps-agonisants_85ac18f1e26f",
+  "fingerprint": "85ac18f1e26f41681387c7075b1f8193a1813955019bc830aee9db514a96a88e",
+  "archived_at": "2026-11-08T13:06:11Z",
+  "metadata": {
+    "title": "Le son des corps agonisants",
+    "artist": "Deaf Ballerina",
+    "creators": [
+      "Deaf Ballerina"
+    ],
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3531,
+    "duration_human": "00:58:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deaf Ballerina - Le son des corps agonisants"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/13aay5sr.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/le-son-des-corps-agonisants_85ac18f1e26f"
+    }
+  }
+}
