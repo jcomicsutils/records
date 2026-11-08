@@ -1,0 +1,30 @@
+{
+  "id": "lheure-du-choix_9e96b65cdebb",
+  "fingerprint": "9e96b65cdebbbee57f50745b98797f8a4e86691f2412e48a8c35dabd16672d77",
+  "archived_at": "2026-11-08T12:50:25Z",
+  "metadata": {
+    "title": "L'heure du choix",
+    "artist": "Deaf Ballerina",
+    "creators": [
+      "Deaf Ballerina"
+    ],
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1200,
+    "duration_human": "00:20:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Deaf Ballerina - L'heure du choix"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/7t0m74de.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/lheure-du-choix_9e96b65cdebb"
+    }
+  }
+}
