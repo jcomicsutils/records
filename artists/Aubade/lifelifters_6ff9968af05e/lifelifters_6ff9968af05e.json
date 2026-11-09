@@ -1,0 +1,35 @@
+{
+  "id": "lifelifters_6ff9968af05e",
+  "fingerprint": "6ff9968af05ef544a3a39c21d23cd11e5245d7e372b0a34f4418636004a34555",
+  "archived_at": "2026-11-09T20:05:18Z",
+  "metadata": {
+    "title": "Lifelifters",
+    "artist": "Aubade",
+    "creators": [
+      "Aubade"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3993,
+    "duration_human": "01:06:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aubade - I Agree With Sickness",
+      "02 Aubade - She Says There's a Fairy in Her Skull",
+      "03 Aubade - Skill Issue",
+      "04 Aubade - Controller",
+      "05 Aubade - Shipwreck Radio",
+      "06 Aubade - Murgha"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/xqjc9mib.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/lifelifters_6ff9968af05e"
+    }
+  }
+}
