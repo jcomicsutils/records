@@ -1,0 +1,30 @@
+{
+  "id": "worst-date-ever_8e0cdcc6075d",
+  "fingerprint": "8e0cdcc6075dd54c109278a030b916bd89aff092441b58e6f171edf2969307ee",
+  "archived_at": "2026-11-09T22:19:49Z",
+  "metadata": {
+    "title": "Worst date ever.",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2727,
+    "duration_human": "00:45:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - Worst date ever."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/bse1yegv.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/worst-date-ever_8e0cdcc6075d"
+    }
+  }
+}
