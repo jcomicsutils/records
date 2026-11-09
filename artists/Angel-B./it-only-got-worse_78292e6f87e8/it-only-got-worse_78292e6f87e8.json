@@ -1,0 +1,30 @@
+{
+  "id": "it-only-got-worse_78292e6f87e8",
+  "fingerprint": "78292e6f87e8ab70bc828542abae3d450d99ea9639e7f56bf6c4fd4a0f0f7bbb",
+  "archived_at": "2026-11-09T19:47:55Z",
+  "metadata": {
+    "title": "It only got worse.",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3465,
+    "duration_human": "00:57:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - It only got worse."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/cahflmvz.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/it-only-got-worse_78292e6f87e8"
+    }
+  }
+}
