@@ -1,0 +1,30 @@
+{
+  "id": "first-time_659133d60b27",
+  "fingerprint": "659133d60b2720cedca85c1804fbb83bb2b49f3dfbfde1c8c77f06390c90c6d4",
+  "archived_at": "2026-11-09T19:30:29Z",
+  "metadata": {
+    "title": "First Time",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2046,
+    "duration_human": "00:34:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - First Time"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/x99x90br.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/first-time_659133d60b27"
+    }
+  }
+}
