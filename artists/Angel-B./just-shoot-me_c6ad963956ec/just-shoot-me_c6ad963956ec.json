@@ -1,0 +1,30 @@
+{
+  "id": "just-shoot-me_c6ad963956ec",
+  "fingerprint": "c6ad963956ec2d7cbc9ecbf7006c6c9a08e5cf510e3d7a52836c987b2e5181ee",
+  "archived_at": "2026-11-09T19:55:04Z",
+  "metadata": {
+    "title": "Just Shoot Me",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2160,
+    "duration_human": "00:36:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - I Can't Buy a Gun Myself"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/a0pbqbqy.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/just-shoot-me_c6ad963956ec"
+    }
+  }
+}
