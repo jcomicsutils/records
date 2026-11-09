@@ -1,0 +1,30 @@
+{
+  "id": "necrophile_2b8abdadcfbe",
+  "fingerprint": "2b8abdadcfbe00c64e4d33907f2ad2046619f1fd809d84fa396a8583f38fbe74",
+  "archived_at": "2026-11-09T20:16:59Z",
+  "metadata": {
+    "title": "Necrophile",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - \"All happiness carries with it the seed of its own end​.​\""
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/4dhi9hsa.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/necrophile_2b8abdadcfbe"
+    }
+  }
+}
