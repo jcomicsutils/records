@@ -1,0 +1,30 @@
+{
+  "id": "mirror_1511de73d0ed",
+  "fingerprint": "1511de73d0ed1785f19b660b878c6924e7239280d8554fd7486c6d8c2191f695",
+  "archived_at": "2026-11-09T20:12:51Z",
+  "metadata": {
+    "title": "Mirror",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3010,
+    "duration_human": "00:50:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - Mirror"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/39chvhb6.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/mirror_1511de73d0ed"
+    }
+  }
+}
