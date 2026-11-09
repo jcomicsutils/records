@@ -1,0 +1,30 @@
+{
+  "id": "70th-love-song_a0491a84f697",
+  "fingerprint": "a0491a84f697643997ad7b35d306c8e49aca64983be0e0f815b8b8358fca9ffc",
+  "archived_at": "2026-11-09T18:52:11Z",
+  "metadata": {
+    "title": "70th Love Song",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3424,
+    "duration_human": "00:57:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - [untitled]"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/njnk4z4p.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/70th-love-song_a0491a84f697"
+    }
+  }
+}
