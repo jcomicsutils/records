@@ -1,0 +1,34 @@
+{
+  "id": "allison-kowtow_419481688c95",
+  "fingerprint": "419481688c95214bb3e1daa3534909f33b572c123f93e7e4e771ab05496cb75f",
+  "archived_at": "2026-11-09T22:31:41Z",
+  "metadata": {
+    "title": "ALLISON KOWTOW",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "rikardfvs"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1093,
+    "duration_human": "00:18:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 rikardfvs - i slept with Kate and found a corpse in my arms on awakening",
+      "02 rikardfvs - slaves shall serve masters smash",
+      "03 rikardfvs - every man and every woman is a bar",
+      "04 rikardfvs - do what ever filth shall be the whole of the Law"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/bwh49yow.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/allison-kowtow_419481688c95"
+    }
+  }
+}
