@@ -5,6 +5,7 @@
 | [Flotsam](flotsam_e27f737dcddd/flotsam_e27f737dcddd.md) | 2024 | FLAC | 00:40:01 | [Pomf](https://pomf2.lain.la/f/wwczawc1.tar) [IA](https://archive.org/details/flotsam_e27f737dcddd) |
 | [Just Shoot Me](just-shoot-me_c6ad963956ec/just-shoot-me_c6ad963956ec.md) | 2024 | FLAC | 00:36:00 | [Pomf](https://pomf2.lain.la/f/a0pbqbqy.tar) [IA](https://archive.org/details/just-shoot-me_c6ad963956ec) |
 | [Death's Milk](deaths-milk_a5cd9123da4c/deaths-milk_a5cd9123da4c.md) | 2024 | FLAC | 01:00:00 | [Pomf](https://pomf2.lain.la/f/6kos8n0o.tar) [IA](https://archive.org/details/deaths-milk_a5cd9123da4c) |
+| [One Bad Day](one-bad-day_1fa26892baf9/one-bad-day_1fa26892baf9.md) | 2024 | FLAC | 00:45:30 | [Pomf](https://pomf2.lain.la/f/0gzfl311.tar) [IA](https://archive.org/details/one-bad-day_1fa26892baf9) |
 | [Necrophile](necrophile_2b8abdadcfbe/necrophile_2b8abdadcfbe.md) | 2024 | FLAC | 00:30:00 | [Pomf](https://pomf2.lain.la/f/4dhi9hsa.tar) [IA](https://archive.org/details/necrophile_2b8abdadcfbe) |
 | [How It Is](how-it-is_1a0239a65712/how-it-is_1a0239a65712.md) | 2024 | FLAC | 00:42:08 | [Pomf](https://pomf2.lain.la/f/ouh47v89.tar) [IA](https://archive.org/details/how-it-is_1a0239a65712) |
 | [First Time](first-time_659133d60b27/first-time_659133d60b27.md) | 2024 | FLAC | 00:34:06 | [Pomf](https://pomf2.lain.la/f/x99x90br.tar) [IA](https://archive.org/details/first-time_659133d60b27) |

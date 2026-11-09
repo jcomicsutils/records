@@ -1,0 +1,30 @@
+{
+  "id": "one-bad-day_1fa26892baf9",
+  "fingerprint": "1fa26892baf9a303a1d179068c24ef5251d335535a7b086f1a70c4584d59b1d9",
+  "archived_at": "2026-11-09T20:22:45Z",
+  "metadata": {
+    "title": "One Bad Day",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2730,
+    "duration_human": "00:45:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - You’ll Find Me by the Shed"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/0gzfl311.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/one-bad-day_1fa26892baf9"
+    }
+  }
+}
