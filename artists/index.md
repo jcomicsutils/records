@@ -48,6 +48,7 @@
 - [Arthur Russell](Arthur-Russell/Arthur-Russell.md)
 - [Associated Sine Tone Services](Associated-Sine-Tone-Services/Associated-Sine-Tone-Services.md)
 - [ASSOCIAÇÃO DOS GAROTOS QUE SOFREM](ASSOCIAÇÃO-DOS-GAROTOS-QUE-SOFREM/ASSOCIAÇÃO-DOS-GAROTOS-QUE-SOFREM.md)
+- [Aubade](Aubade/Aubade.md)
 - [Austere](Austere/Austere.md)
 - [Banda do Casaco](Banda-do-Casaco/Banda-do-Casaco.md)
 - [Bardo Todol](Bardo-Todol/Bardo-Todol.md)

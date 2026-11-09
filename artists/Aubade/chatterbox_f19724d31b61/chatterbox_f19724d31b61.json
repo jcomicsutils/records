@@ -1,0 +1,35 @@
+{
+  "id": "chatterbox_f19724d31b61",
+  "fingerprint": "f19724d31b61595ff424ec358c113ae78caf4caa819164571b89154c37184b27",
+  "archived_at": "2026-11-09T18:59:06Z",
+  "metadata": {
+    "title": "Chatterbox",
+    "artist": "Aubade",
+    "creators": [
+      "Aubade"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 4306,
+    "duration_human": "01:11:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aubade - Peter Trains a Cat",
+      "02 Aubade - Watkins Oil",
+      "03 Aubade - Guest Anatomy",
+      "04 Aubade - The Forum",
+      "05 Aubade - Julien Donkey-Boy Country 3: Pearl's Double Trouble!",
+      "06 Aubade - Intitulada"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/y8gfsv4g.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/chatterbox_f19724d31b61"
+    }
+  }
+}
