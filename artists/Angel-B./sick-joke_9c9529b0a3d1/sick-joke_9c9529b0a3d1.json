@@ -1,0 +1,31 @@
+{
+  "id": "sick-joke_9c9529b0a3d1",
+  "fingerprint": "9c9529b0a3d18870ae84c784a02e1ffc1c5770614ea2b930d9b72c0df91227cd",
+  "archived_at": "2026-11-09T21:24:14Z",
+  "metadata": {
+    "title": "Sick Joke",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4320,
+    "duration_human": "01:12:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - Just Ignore Me",
+      "02 Angel B. - Everything is Fine"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/v7s8t8bt.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/sick-joke_9c9529b0a3d1"
+    }
+  }
+}
