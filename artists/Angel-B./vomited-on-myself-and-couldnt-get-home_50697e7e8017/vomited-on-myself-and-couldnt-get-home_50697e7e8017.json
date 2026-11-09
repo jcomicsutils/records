@@ -1,0 +1,32 @@
+{
+  "id": "vomited-on-myself-and-couldnt-get-home_50697e7e8017",
+  "fingerprint": "50697e7e801763146923d9bf9dee9d736cfcf5be2ac3d8d1221d73701b957a69",
+  "archived_at": "2026-11-09T22:09:25Z",
+  "metadata": {
+    "title": "Vomited on Myself and Couldn't Get Home",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 4947,
+    "duration_human": "01:22:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - Incapacitated",
+      "02 Angel B. - Self-Destructive Thoughts Are Winning",
+      "03 Angel B. - Vomited on Myself and Couldn't Get Home"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/s0tuzmjm.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/vomited-on-myself-and-couldnt-get-home_50697e7e8017"
+    }
+  }
+}
