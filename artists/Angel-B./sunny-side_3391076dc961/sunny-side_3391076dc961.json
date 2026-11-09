@@ -1,0 +1,31 @@
+{
+  "id": "sunny-side_3391076dc961",
+  "fingerprint": "3391076dc9611e2119b998525fa6e762b2a69892b697ef50dd110d5536e40038",
+  "archived_at": "2026-11-09T21:46:51Z",
+  "metadata": {
+    "title": "Sunny Side",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2218,
+    "duration_human": "00:36:58",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - Safety Net / Bruise Recognition",
+      "02 Angel B. - Pretty Face / Broken Face"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/u6bw651f.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/sunny-side_3391076dc961"
+    }
+  }
+}

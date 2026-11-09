@@ -3,6 +3,7 @@
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
 | [Flotsam](flotsam_e27f737dcddd/flotsam_e27f737dcddd.md) | 2024 | FLAC | 00:40:01 | [Pomf](https://pomf2.lain.la/f/wwczawc1.tar) [IA](https://archive.org/details/flotsam_e27f737dcddd) |
+| [Sunny Side](sunny-side_3391076dc961/sunny-side_3391076dc961.md) | 2024 | FLAC | 00:36:58 | [Pomf](https://pomf2.lain.la/f/u6bw651f.tar) [IA](https://archive.org/details/sunny-side_3391076dc961) |
 | [Pomegranate](pomegranate_dff6461cf2cf/pomegranate_dff6461cf2cf.md) | 2024 | FLAC | 00:40:00 | [Pomf](https://pomf2.lain.la/f/8i9ok1jn.tar) [IA](https://archive.org/details/pomegranate_dff6461cf2cf) |
 | [Just Shoot Me](just-shoot-me_c6ad963956ec/just-shoot-me_c6ad963956ec.md) | 2024 | FLAC | 00:36:00 | [Pomf](https://pomf2.lain.la/f/a0pbqbqy.tar) [IA](https://archive.org/details/just-shoot-me_c6ad963956ec) |
 | [Death's Milk](deaths-milk_a5cd9123da4c/deaths-milk_a5cd9123da4c.md) | 2024 | FLAC | 01:00:00 | [Pomf](https://pomf2.lain.la/f/6kos8n0o.tar) [IA](https://archive.org/details/deaths-milk_a5cd9123da4c) |
