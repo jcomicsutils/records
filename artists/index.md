@@ -106,6 +106,7 @@
 - [Contrite Heart](Contrite-Heart/Contrite-Heart.md)
 - [Corpseincinerating Furnace](Corpseincinerating-Furnace/Corpseincinerating-Furnace.md)
 - [Crying Motherfuckers](Crying-Motherfuckers/Crying-Motherfuckers.md)
+- [CTRL+R](CTRL+R/CTRL+R.md)
 - [Cultis Mortis](Cultis-Mortis/Cultis-Mortis.md)
 - [Current 93](Current-93/Current-93.md)
 - [Cámara Ardiente](Cámara-Ardiente/Cámara-Ardiente.md)
