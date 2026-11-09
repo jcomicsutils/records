@@ -1,0 +1,30 @@
+{
+  "id": "rain-only-makes-mud_b05faec36399",
+  "fingerprint": "b05faec36399a59915a1be080e87847acdc75957e798c22e4f3be2099ab0bc98",
+  "archived_at": "2026-11-09T20:43:39Z",
+  "metadata": {
+    "title": "Rain Only Makes Mud",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - Az eső csak sarat csinál"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/f4qgswuw.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/rain-only-makes-mud_b05faec36399"
+    }
+  }
+}
