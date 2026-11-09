@@ -2,6 +2,7 @@
 
 | Album | Year | Codec | Duration | Hosts |
 |-------|------|-------|----------|-------|
+| [Flotsam](flotsam_e27f737dcddd/flotsam_e27f737dcddd.md) | 2024 | FLAC | 00:40:01 | [Pomf](https://pomf2.lain.la/f/wwczawc1.tar) [IA](https://archive.org/details/flotsam_e27f737dcddd) |
 | [Death's Milk](deaths-milk_a5cd9123da4c/deaths-milk_a5cd9123da4c.md) | 2024 | FLAC | 01:00:00 | [Pomf](https://pomf2.lain.la/f/6kos8n0o.tar) [IA](https://archive.org/details/deaths-milk_a5cd9123da4c) |
 | [First Time](first-time_659133d60b27/first-time_659133d60b27.md) | 2024 | FLAC | 00:34:06 | [Pomf](https://pomf2.lain.la/f/x99x90br.tar) [IA](https://archive.org/details/first-time_659133d60b27) |
 | [Duet for Cyrano and Roxanne](duet-for-cyrano-and-roxanne_a39534b885e6/duet-for-cyrano-and-roxanne_a39534b885e6.md) | 2024 | FLAC | 00:24:45 | [Pomf](https://pomf2.lain.la/f/efteb2on.tar) [IA](https://archive.org/details/duet-for-cyrano-and-roxanne_a39534b885e6) |

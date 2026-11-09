@@ -1,0 +1,30 @@
+{
+  "id": "flotsam_e27f737dcddd",
+  "fingerprint": "e27f737dcddd15f24012768a49aa68ea907c515127bdf823684107ce54b0c55f",
+  "archived_at": "2026-11-09T19:39:30Z",
+  "metadata": {
+    "title": "Flotsam",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2401,
+    "duration_human": "00:40:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - Flotsam"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/wwczawc1.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/flotsam_e27f737dcddd"
+    }
+  }
+}
