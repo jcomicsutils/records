@@ -1,0 +1,30 @@
+{
+  "id": "not-i_6b9c6caf9447",
+  "fingerprint": "6b9c6caf9447597af8acd23235f8e6a5717d2d876075951dbeaf978cb025f962",
+  "archived_at": "2026-11-09T20:20:13Z",
+  "metadata": {
+    "title": "Not I",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 846,
+    "duration_human": "00:14:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - Not I"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/3ziuc2jz.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/not-i_6b9c6caf9447"
+    }
+  }
+}
