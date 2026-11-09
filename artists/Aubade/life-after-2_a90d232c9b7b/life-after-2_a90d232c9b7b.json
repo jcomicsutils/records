@@ -1,0 +1,35 @@
+{
+  "id": "life-after-2_a90d232c9b7b",
+  "fingerprint": "a90d232c9b7bb05dadb3c00528b82a42d4ef6bd70e12cfb510d97f098647166d",
+  "archived_at": "2026-11-09T19:59:24Z",
+  "metadata": {
+    "title": "Life After 2",
+    "artist": "Aubade",
+    "creators": [
+      "Aubade"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 3194,
+    "duration_human": "00:53:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aubade - Time Stopped on the Fifty-Sixth Second of the Thirty-Third Minute of the Fourth Hour of the Twenty-Second Day of the Sixth Month of the Year of the Horse",
+      "02 Aubade - Child Soldiers",
+      "03 Aubade - A Box That's in Constant Pain",
+      "04 Aubade - Pirate Software",
+      "05 Aubade - The Home Depot Suicide Supplies Shopping List",
+      "06 Aubade - Try Worrying About Someone Real for a Change"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ujv9f25o.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/life-after-2_a90d232c9b7b"
+    }
+  }
+}
