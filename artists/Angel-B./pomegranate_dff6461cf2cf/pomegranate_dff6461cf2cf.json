@@ -1,0 +1,30 @@
+{
+  "id": "pomegranate_dff6461cf2cf",
+  "fingerprint": "dff6461cf2cf4548a0125ee81faf7e38188fbedb27054c7987d2e1cb569a9a9b",
+  "archived_at": "2026-11-09T20:37:20Z",
+  "metadata": {
+    "title": "Pomegranate",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2400,
+    "duration_human": "00:40:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - 7,800 yen in total."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/8i9ok1jn.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/pomegranate_dff6461cf2cf"
+    }
+  }
+}
