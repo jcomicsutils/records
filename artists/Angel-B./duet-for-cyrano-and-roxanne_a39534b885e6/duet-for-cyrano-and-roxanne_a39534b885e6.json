@@ -1,0 +1,30 @@
+{
+  "id": "duet-for-cyrano-and-roxanne_a39534b885e6",
+  "fingerprint": "a39534b885e68c3c8c2e8ec912c2e48e90066c6a0ebce814aef79eb029292500",
+  "archived_at": "2026-11-09T19:27:31Z",
+  "metadata": {
+    "title": "Duet for Cyrano and Roxanne",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1485,
+    "duration_human": "00:24:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - Duet for Cyrano and Roxanne"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/efteb2on.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/duet-for-cyrano-and-roxanne_a39534b885e6"
+    }
+  }
+}
