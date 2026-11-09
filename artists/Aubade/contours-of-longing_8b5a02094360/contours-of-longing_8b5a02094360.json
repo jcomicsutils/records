@@ -1,0 +1,33 @@
+{
+  "id": "contours-of-longing_8b5a02094360",
+  "fingerprint": "8b5a020943609c772a91a762be4f461bf1834b8464d6682004eb26bed77e4788",
+  "archived_at": "2026-11-09T19:12:03Z",
+  "metadata": {
+    "title": "Contours of Longing",
+    "artist": "Aubade",
+    "creators": [
+      "Aubade"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3463,
+    "duration_human": "00:57:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Aubade - Maternity Song",
+      "02 Aubade - September",
+      "03 Aubade - Persona",
+      "04 Aubade - The Shirt You Made for Me"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ijtbsm6b.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/contours-of-longing_8b5a02094360"
+    }
+  }
+}
