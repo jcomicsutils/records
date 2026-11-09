@@ -1,0 +1,30 @@
+{
+  "id": "you-keep-celebrating-the-bare-minimum_71b7fbd083d3",
+  "fingerprint": "71b7fbd083d359d669d163d3cb6ccae390445a7ae66b9c26572ef29008d4c101",
+  "archived_at": "2026-11-09T22:26:15Z",
+  "metadata": {
+    "title": "You keep celebrating the bare minimum",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2111,
+    "duration_human": "00:35:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - and we all pay the price."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/aj71ayd0.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/you-keep-celebrating-the-bare-minimum_71b7fbd083d3"
+    }
+  }
+}
