@@ -1,0 +1,30 @@
+{
+  "id": "pipsqueak_8b83ceb96926",
+  "fingerprint": "8b83ceb96926be1b75abf0ae13d5db9649a4bce8436a708a768e3e9178541cc2",
+  "archived_at": "2026-11-09T20:26:04Z",
+  "metadata": {
+    "title": "Pipsqueak",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2496,
+    "duration_human": "00:41:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - Pipsqueak"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/zgchchic.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/pipsqueak_8b83ceb96926"
+    }
+  }
+}
