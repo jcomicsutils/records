@@ -1,0 +1,30 @@
+{
+  "id": "relapse_c3516454ab5d",
+  "fingerprint": "c3516454ab5d30291b83474153240e5310e6dc5763b5cc1e0972bf55204b4f9f",
+  "archived_at": "2026-11-09T20:51:29Z",
+  "metadata": {
+    "title": "Relapse",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2400,
+    "duration_human": "00:40:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - Relapse"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/fxr5x0th.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/relapse_c3516454ab5d"
+    }
+  }
+}
