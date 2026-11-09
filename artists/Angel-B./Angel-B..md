@@ -18,5 +18,6 @@
 | [Not I](not-i_6b9c6caf9447/not-i_6b9c6caf9447.md) | 2025 | FLAC | 00:14:06 | [Pomf](https://pomf2.lain.la/f/3ziuc2jz.tar) [IA](https://archive.org/details/not-i_6b9c6caf9447) |
 | [Pipsqueak](pipsqueak_8b83ceb96926/pipsqueak_8b83ceb96926.md) | 2025 | FLAC | 00:41:36 | [Pomf](https://pomf2.lain.la/f/zgchchic.tar) [IA](https://archive.org/details/pipsqueak_8b83ceb96926) |
 | [70th Love Song](70th-love-song_a0491a84f697/70th-love-song_a0491a84f697.md) | 2025 | FLAC | 00:57:04 | [Pomf](https://pomf2.lain.la/f/njnk4z4p.tar) [IA](https://archive.org/details/70th-love-song_a0491a84f697) |
+| [Scyliorhinidae](scyliorhinidae_ec17a667b79b/scyliorhinidae_ec17a667b79b.md) | 2025 | FLAC | 00:30:00 | [Pomf](https://pomf2.lain.la/f/c8rd8v0c.tar) [IA](https://archive.org/details/scyliorhinidae_ec17a667b79b) |
 | [It only got worse.](it-only-got-worse_78292e6f87e8/it-only-got-worse_78292e6f87e8.md) | 2025 | FLAC | 00:57:45 | [Pomf](https://pomf2.lain.la/f/cahflmvz.tar) [IA](https://archive.org/details/it-only-got-worse_78292e6f87e8) |
 | [\[untitled\]](untitled_8fbadb6389c0/untitled_8fbadb6389c0.md) | 2026 | FLAC | 00:15:00 | [Pomf](https://pomf2.lain.la/f/fkmsksxl.tar) [IA](https://archive.org/details/untitled_8fbadb6389c0) |

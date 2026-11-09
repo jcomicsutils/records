@@ -1,0 +1,30 @@
+{
+  "id": "scyliorhinidae_ec17a667b79b",
+  "fingerprint": "ec17a667b79b4268fcaa382bb9e75182489e4071cda8fc34865b4b76d49f67ae",
+  "archived_at": "2026-11-09T20:54:36Z",
+  "metadata": {
+    "title": "Scyliorhinidae",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - Scyliorhinidae"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/c8rd8v0c.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/scyliorhinidae_ec17a667b79b"
+    }
+  }
+}
