@@ -1,0 +1,30 @@
+{
+  "id": "untitled_8fbadb6389c0",
+  "fingerprint": "8fbadb6389c0473843d39c97ea0b93bc610d0840138e25f08a5ca9c64d7a6574",
+  "archived_at": "2026-11-09T18:48:45Z",
+  "metadata": {
+    "title": "[untitled]",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 900,
+    "duration_human": "00:15:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - [untitled]"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/fkmsksxl.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/untitled_8fbadb6389c0"
+    }
+  }
+}
