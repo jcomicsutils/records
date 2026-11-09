@@ -1,0 +1,30 @@
+{
+  "id": "point-of-origin_ab17b922dd6a",
+  "fingerprint": "ab17b922dd6a7944c3fdbb97ad3da2e4dadd651e5f48a3bf7310ee1746abc35f",
+  "archived_at": "2026-11-09T20:31:22Z",
+  "metadata": {
+    "title": "Point of Origin",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3215,
+    "duration_human": "00:53:35",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - Point of Origin"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/vkva4kq9.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/point-of-origin_ab17b922dd6a"
+    }
+  }
+}
