@@ -1,0 +1,30 @@
+{
+  "id": "time-infects-the-wound_19e870cf1270",
+  "fingerprint": "19e870cf1270cc7446f032b90790da3225679787fbb798ae4146860ccd245614",
+  "archived_at": "2026-11-09T21:58:03Z",
+  "metadata": {
+    "title": "Time Infects the Wound",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2023,
+    "duration_human": "00:33:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - Time Infects the Wound"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/66x2weo8.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/time-infects-the-wound_19e870cf1270"
+    }
+  }
+}

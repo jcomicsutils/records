@@ -28,4 +28,5 @@
 | [Scyliorhinidae](scyliorhinidae_ec17a667b79b/scyliorhinidae_ec17a667b79b.md) | 2025 | FLAC | 00:30:00 | [Pomf](https://pomf2.lain.la/f/c8rd8v0c.tar) [IA](https://archive.org/details/scyliorhinidae_ec17a667b79b) |
 | [It only got worse.](it-only-got-worse_78292e6f87e8/it-only-got-worse_78292e6f87e8.md) | 2025 | FLAC | 00:57:45 | [Pomf](https://pomf2.lain.la/f/cahflmvz.tar) [IA](https://archive.org/details/it-only-got-worse_78292e6f87e8) |
 | [\[untitled\]](untitled_8fbadb6389c0/untitled_8fbadb6389c0.md) | 2026 | FLAC | 00:15:00 | [Pomf](https://pomf2.lain.la/f/fkmsksxl.tar) [IA](https://archive.org/details/untitled_8fbadb6389c0) |
+| [Time Infects the Wound](time-infects-the-wound_19e870cf1270/time-infects-the-wound_19e870cf1270.md) | 2026 | FLAC | 00:33:43 | [Pomf](https://pomf2.lain.la/f/66x2weo8.tar) [IA](https://archive.org/details/time-infects-the-wound_19e870cf1270) |
 | [Self-Portrait](self-portrait_974bde9bb6b7/self-portrait_974bde9bb6b7.md) | 2026 | FLAC | 01:00:00 | [Pomf](https://pomf2.lain.la/f/kuni57an.tar) [IA](https://archive.org/details/self-portrait_974bde9bb6b7) |
