@@ -1,0 +1,31 @@
+{
+  "id": "self-portrait_974bde9bb6b7",
+  "fingerprint": "974bde9bb6b74cc7b0f4a99783b5bfd0d0825412b7e767b8a94bcdf49489943f",
+  "archived_at": "2026-11-09T20:58:41Z",
+  "metadata": {
+    "title": "Self-Portrait",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - Waiting for you to find out who I really am",
+      "02 Angel B. - So I can kill myself with a clean conscience"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/kuni57an.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/self-portrait_974bde9bb6b7"
+    }
+  }
+}
