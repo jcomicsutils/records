@@ -35,6 +35,7 @@
 - [And We Walk Endlessly Towards The Sun](And-We-Walk-Endlessly-Towards-The-Sun/And-We-Walk-Endlessly-Towards-The-Sun.md)
 - [Andy Boay](Andy-Boay/Andy-Boay.md)
 - [Angel B.](Angel-B./Angel-B..md)
+- [Angel Lyza Brügger](Angel-Lyza-Brügger/Angel-Lyza-Brügger.md)
 - [Ania Karpowicz](Ania-Karpowicz/Ania-Karpowicz.md)
 - [arai tasuku](arai-tasuku/arai-tasuku.md)
 - [Arbeitsheld](Arbeitsheld/Arbeitsheld.md)
