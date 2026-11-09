@@ -15,6 +15,7 @@
 | [Duet for Cyrano and Roxanne](duet-for-cyrano-and-roxanne_a39534b885e6/duet-for-cyrano-and-roxanne_a39534b885e6.md) | 2024 | FLAC | 00:24:45 | [Pomf](https://pomf2.lain.la/f/efteb2on.tar) [IA](https://archive.org/details/duet-for-cyrano-and-roxanne_a39534b885e6) |
 | [Relapse](relapse_c3516454ab5d/relapse_c3516454ab5d.md) | 2024 | FLAC | 00:40:00 | [Pomf](https://pomf2.lain.la/f/fxr5x0th.tar) [IA](https://archive.org/details/relapse_c3516454ab5d) |
 | [Mirror](mirror_1511de73d0ed/mirror_1511de73d0ed.md) | 2025 | FLAC | 00:50:10 | [Pomf](https://pomf2.lain.la/f/39chvhb6.tar) [IA](https://archive.org/details/mirror_1511de73d0ed) |
+| [Sofi](sofi_e9c0942beca5/sofi_e9c0942beca5.md) | 2025 | FLAC | 00:42:52 | [Pomf](https://pomf2.lain.la/f/5p2ujygv.tar) [IA](https://archive.org/details/sofi_e9c0942beca5) |
 | [Rain Only Makes Mud](rain-only-makes-mud_b05faec36399/rain-only-makes-mud_b05faec36399.md) | 2025 | FLAC | 01:00:00 | [Pomf](https://pomf2.lain.la/f/f4qgswuw.tar) [IA](https://archive.org/details/rain-only-makes-mud_b05faec36399) |
 | [Not I](not-i_6b9c6caf9447/not-i_6b9c6caf9447.md) | 2025 | FLAC | 00:14:06 | [Pomf](https://pomf2.lain.la/f/3ziuc2jz.tar) [IA](https://archive.org/details/not-i_6b9c6caf9447) |
 | [Pipsqueak](pipsqueak_8b83ceb96926/pipsqueak_8b83ceb96926.md) | 2025 | FLAC | 00:41:36 | [Pomf](https://pomf2.lain.la/f/zgchchic.tar) [IA](https://archive.org/details/pipsqueak_8b83ceb96926) |

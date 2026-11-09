@@ -1,0 +1,30 @@
+{
+  "id": "sofi_e9c0942beca5",
+  "fingerprint": "e9c0942beca5b1ac82ab42c9314880698771d1c7e5ab818969708884d832a1de",
+  "archived_at": "2026-11-09T21:32:53Z",
+  "metadata": {
+    "title": "Sofi",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2572,
+    "duration_human": "00:42:52",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - 2012 - 2025"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/5p2ujygv.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/sofi_e9c0942beca5"
+    }
+  }
+}
