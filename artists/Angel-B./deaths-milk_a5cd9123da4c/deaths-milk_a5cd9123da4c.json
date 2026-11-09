@@ -1,0 +1,30 @@
+{
+  "id": "deaths-milk_a5cd9123da4c",
+  "fingerprint": "a5cd9123da4cc6ebdcfc480498671bd5a21fecf4f093bbc74ad4dcd396c2bbab",
+  "archived_at": "2026-11-09T19:23:32Z",
+  "metadata": {
+    "title": "Death's Milk",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - Death's Milk"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/6kos8n0o.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/deaths-milk_a5cd9123da4c"
+    }
+  }
+}
