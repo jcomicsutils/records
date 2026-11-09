@@ -1,0 +1,30 @@
+{
+  "id": "how-it-is_1a0239a65712",
+  "fingerprint": "1a0239a65712fc5fc5757c749220c4737c9b0b5bc95d309f8b8da85b18678c01",
+  "archived_at": "2026-11-09T19:43:31Z",
+  "metadata": {
+    "title": "How It Is",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2528,
+    "duration_human": "00:42:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - How It Is"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ouh47v89.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/how-it-is_1a0239a65712"
+    }
+  }
+}
