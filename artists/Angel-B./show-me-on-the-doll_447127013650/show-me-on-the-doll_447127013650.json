@@ -1,0 +1,30 @@
+{
+  "id": "show-me-on-the-doll_447127013650",
+  "fingerprint": "4471270136503b17ccfa4c2617a1ad90d1f4e625ba43cd68d410b3222bb937e5",
+  "archived_at": "2026-11-09T21:17:32Z",
+  "metadata": {
+    "title": "Show Me on the Doll",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2401,
+    "duration_human": "00:40:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - If you think this is about you, it isn't."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ymxz5bfq.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/show-me-on-the-doll_447127013650"
+    }
+  }
+}

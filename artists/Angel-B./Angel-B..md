@@ -9,6 +9,7 @@
 | [One Bad Day](one-bad-day_1fa26892baf9/one-bad-day_1fa26892baf9.md) | 2024 | FLAC | 00:45:30 | [Pomf](https://pomf2.lain.la/f/0gzfl311.tar) [IA](https://archive.org/details/one-bad-day_1fa26892baf9) |
 | [Point of Origin](point-of-origin_ab17b922dd6a/point-of-origin_ab17b922dd6a.md) | 2024 | FLAC | 00:53:35 | [Pomf](https://pomf2.lain.la/f/vkva4kq9.tar) [IA](https://archive.org/details/point-of-origin_ab17b922dd6a) |
 | [Necrophile](necrophile_2b8abdadcfbe/necrophile_2b8abdadcfbe.md) | 2024 | FLAC | 00:30:00 | [Pomf](https://pomf2.lain.la/f/4dhi9hsa.tar) [IA](https://archive.org/details/necrophile_2b8abdadcfbe) |
+| [Show Me on the Doll](show-me-on-the-doll_447127013650/show-me-on-the-doll_447127013650.md) | 2024 | FLAC | 00:40:01 | [Pomf](https://pomf2.lain.la/f/ymxz5bfq.tar) [IA](https://archive.org/details/show-me-on-the-doll_447127013650) |
 | [How It Is](how-it-is_1a0239a65712/how-it-is_1a0239a65712.md) | 2024 | FLAC | 00:42:08 | [Pomf](https://pomf2.lain.la/f/ouh47v89.tar) [IA](https://archive.org/details/how-it-is_1a0239a65712) |
 | [First Time](first-time_659133d60b27/first-time_659133d60b27.md) | 2024 | FLAC | 00:34:06 | [Pomf](https://pomf2.lain.la/f/x99x90br.tar) [IA](https://archive.org/details/first-time_659133d60b27) |
 | [Duet for Cyrano and Roxanne](duet-for-cyrano-and-roxanne_a39534b885e6/duet-for-cyrano-and-roxanne_a39534b885e6.md) | 2024 | FLAC | 00:24:45 | [Pomf](https://pomf2.lain.la/f/efteb2on.tar) [IA](https://archive.org/details/duet-for-cyrano-and-roxanne_a39534b885e6) |
