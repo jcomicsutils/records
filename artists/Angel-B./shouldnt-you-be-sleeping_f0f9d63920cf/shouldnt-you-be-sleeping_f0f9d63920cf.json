@@ -1,0 +1,30 @@
+{
+  "id": "shouldnt-you-be-sleeping_f0f9d63920cf",
+  "fingerprint": "f0f9d63920cfd39532a4bc40808dce039e1c750908debc0dd430978556e7325d",
+  "archived_at": "2026-11-09T21:04:24Z",
+  "metadata": {
+    "title": "Shouldn't You Be Sleeping?",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2773,
+    "duration_human": "00:46:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - Shouldn't You Be Sleeping?"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/39wlpiqg.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/shouldnt-you-be-sleeping_f0f9d63920cf"
+    }
+  }
+}
