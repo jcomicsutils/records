@@ -1,0 +1,30 @@
+{
+  "id": "outflow_c8d7fc130932",
+  "fingerprint": "c8d7fc1309326be06efa7486673ee20d823118c347da8d4fd70e06fdd263da05",
+  "archived_at": "2026-11-14T22:14:39Z",
+  "metadata": {
+    "title": "Outflow",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2455,
+    "duration_human": "00:40:55",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Outflow"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/nhpyjanu.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/outflow_c8d7fc130932"
+    }
+  }
+}
