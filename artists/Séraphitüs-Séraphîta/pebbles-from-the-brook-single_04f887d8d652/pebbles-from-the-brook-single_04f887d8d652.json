@@ -1,0 +1,30 @@
+{
+  "id": "pebbles-from-the-brook-single_04f887d8d652",
+  "fingerprint": "04f887d8d6523752b0e0990a4ea60823afbf20b89e65bc6c2e61d216f96072f3",
+  "archived_at": "2026-11-14T22:16:36Z",
+  "metadata": {
+    "title": "Pebbles From The Brook (Single)",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 413,
+    "duration_human": "00:06:53",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Pebbles From The Brook [Single] from Sammelwerk I: Goliath​|​|​Koloss"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ddcu8b8m.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/pebbles-from-the-brook-single_04f887d8d652"
+    }
+  }
+}
