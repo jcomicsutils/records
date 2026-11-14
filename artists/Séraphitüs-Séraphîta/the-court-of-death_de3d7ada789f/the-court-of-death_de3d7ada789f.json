@@ -1,0 +1,30 @@
+{
+  "id": "the-court-of-death_de3d7ada789f",
+  "fingerprint": "de3d7ada789f6bb97c2e13430762c44c115f373f67f1c7631499fee1bee96fbf",
+  "archived_at": "2026-11-14T23:08:25Z",
+  "metadata": {
+    "title": "The Court of Death",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 692,
+    "duration_human": "00:11:32",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Delirium Tremens"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/eln37h9r.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-court-of-death_de3d7ada789f"
+    }
+  }
+}
