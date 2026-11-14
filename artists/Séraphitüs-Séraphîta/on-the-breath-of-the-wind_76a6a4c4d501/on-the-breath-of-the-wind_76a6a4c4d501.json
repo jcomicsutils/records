@@ -1,0 +1,30 @@
+{
+  "id": "on-the-breath-of-the-wind_76a6a4c4d501",
+  "fingerprint": "76a6a4c4d5014050d25125cb15928332222e12d86f5c80524d1c92aa045cb989",
+  "archived_at": "2026-11-14T22:07:48Z",
+  "metadata": {
+    "title": "On the Breath of the Wind",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 652,
+    "duration_human": "00:10:52",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - On the Breath of the Wind"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/vhben1qw.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/on-the-breath-of-the-wind_76a6a4c4d501"
+    }
+  }
+}
