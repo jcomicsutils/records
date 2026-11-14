@@ -1,0 +1,30 @@
+{
+  "id": "redshift-single-an-eclectic-collection-of-dust_5aaa13fee7eb",
+  "fingerprint": "5aaa13fee7eb6d1ec8e541419c599d5c3d8e8a75f126a3c1e84566b469f60bc0",
+  "archived_at": "2026-11-14T22:54:41Z",
+  "metadata": {
+    "title": "REDSHIFT (Single) [An Eclectic Collection Of Dust]",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 260,
+    "duration_human": "00:04:20",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - REDSHIFT"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/j36ms3ih.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/redshift-single-an-eclectic-collection-of-dust_5aaa13fee7eb"
+    }
+  }
+}
