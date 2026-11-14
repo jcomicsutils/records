@@ -1,0 +1,33 @@
+{
+  "id": "subterrestrial_36bc3f3e54b1",
+  "fingerprint": "36bc3f3e54b15fb4f51afa20082d36014b9e0bb8bc32433e984ad672a5bd8b13",
+  "archived_at": "2026-11-14T23:02:29Z",
+  "metadata": {
+    "title": "Subterrestrial",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1320,
+    "duration_human": "00:22:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Subterrestrial I",
+      "02 Séraphitüs-Séraphîta - Subterrestrial II",
+      "03 Séraphitüs-Séraphîta - Subterrestrial III",
+      "04 Séraphitüs-Séraphîta - Subterrestrial IV"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/0imr0g0g.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/subterrestrial_36bc3f3e54b1"
+    }
+  }
+}
