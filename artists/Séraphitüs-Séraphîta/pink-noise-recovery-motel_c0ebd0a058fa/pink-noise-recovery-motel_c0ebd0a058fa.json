@@ -1,0 +1,29 @@
+{
+  "id": "pink-noise-recovery-motel_c0ebd0a058fa",
+  "fingerprint": "c0ebd0a058fa98eb5472c264da8831bc6b8a7cc4dfd10d0c4448c162b3500d05",
+  "archived_at": "2026-11-14T22:32:32Z",
+  "metadata": {
+    "title": "𝓟𝓲𝓷𝓴 𝓝𝓸𝓲𝓼𝓮 𝓡𝓮𝓬𝓸𝓿𝓮𝓻𝔂 𝓜𝓸𝓽𝓮𝓵",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 2700,
+    "duration_human": "00:45:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - ɨ",
+      "02 Séraphitüs-Séraphîta - ɨɨ",
+      "03 Séraphitüs-Séraphîta - ɨɨɨ"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/w2io891z.tar"
+    }
+  }
+}
