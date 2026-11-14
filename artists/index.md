@@ -107,6 +107,7 @@
 - [Burial Garden](Burial-Garden/Burial-Garden.md)
 - [burning air](burning-air/burning-air.md)
 - [Burning Witch](Burning-Witch/Burning-Witch.md)
+- [C. Ward](C.-Ward/C.-Ward.md)
 - [Cadu Tenório](Cadu-Tenório/Cadu-Tenório.md)
 - [Cages](Cages/Cages.md)
 - [Cailc](Cailc/Cailc.md)

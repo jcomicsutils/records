@@ -1,0 +1,31 @@
+{
+  "id": "the-screamers_76b330d1b6fc",
+  "fingerprint": "76b330d1b6fc2ccfdf6ba51d1bd7d55d62eae41516cf68286d6fd4e1af530fdf",
+  "archived_at": "2026-11-14T23:28:01Z",
+  "metadata": {
+    "title": "the screamers",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta",
+      "C. Ward"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 127,
+    "duration_human": "00:02:07",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta + C. Ward - the screamers"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ul57qkuh.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-screamers_76b330d1b6fc"
+    }
+  }
+}
