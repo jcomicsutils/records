@@ -1,0 +1,39 @@
+{
+  "id": "oblivion_7d223beb5ea3",
+  "fingerprint": "7d223beb5ea379f3564fd7c1e8277c58fd51ab1a6c7c8061876158de1755a4d2",
+  "archived_at": "2026-11-14T21:51:20Z",
+  "metadata": {
+    "title": "Oblivion",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 4428,
+    "duration_human": "01:13:48",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - ░░",
+      "02 Séraphitüs-Séraphîta - ░░",
+      "03 Séraphitüs-Séraphîta - ░░",
+      "04 Séraphitüs-Séraphîta - ░░",
+      "05 Séraphitüs-Séraphîta - ░░",
+      "06 Séraphitüs-Séraphîta - ░░",
+      "07 Séraphitüs-Séraphîta - ░░",
+      "08 Séraphitüs-Séraphîta - ░░",
+      "09 Séraphitüs-Séraphîta - ░░",
+      "10 Séraphitüs-Séraphîta - ░░"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ziyn8i9y.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/oblivion_7d223beb5ea3"
+    }
+  }
+}

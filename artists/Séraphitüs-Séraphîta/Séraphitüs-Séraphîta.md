@@ -21,6 +21,7 @@
 | [numinous tapes III *(with anna bortionist)*](numinous-tapes-iii_ab021a62eea5/numinous-tapes-iii_ab021a62eea5.md) | 2024 | FLAC | 00:15:18 | [Pomf](https://pomf2.lain.la/f/k8sg8wvw.tar) |
 | [……](3939c11b468d_06c63fcb5907/3939c11b468d_06c63fcb5907.md) | 2024 | FLAC | 00:40:08 | [Pomf](https://pomf2.lain.la/f/7ks2qabf.tar) [IA](https://archive.org/details/3939c11b468d_06c63fcb5907) |
 | [A Reasoning Creature](a-reasoning-creature_e8f0fec35a4e/a-reasoning-creature_e8f0fec35a4e.md) | 2024 | FLAC | 00:10:19 | [Pomf](https://pomf2.lain.la/f/qocajpm0.tar) [IA](https://archive.org/details/a-reasoning-creature_e8f0fec35a4e) |
+| [Oblivion](oblivion_7d223beb5ea3/oblivion_7d223beb5ea3.md) | 2024 | FLAC | 01:13:48 | [Pomf](https://pomf2.lain.la/f/ziyn8i9y.tar) [IA](https://archive.org/details/oblivion_7d223beb5ea3) |
 | [In Memory of Emily Aideen](in-memory-of-emily-aideen_353e91b68007/in-memory-of-emily-aideen_353e91b68007.md) | 2024 | FLAC | 00:59:57 | [Pomf](https://pomf2.lain.la/f/shjrdlcz.tar) [IA](https://archive.org/details/in-memory-of-emily-aideen_353e91b68007) |
 | [In These Numbered Days](in-these-numbered-days_6a33f19de95b/in-these-numbered-days_6a33f19de95b.md) | 2024 | FLAC | 00:25:02 | [Pomf](https://pomf2.lain.la/f/cl0luuw2.tar) [IA](https://archive.org/details/in-these-numbered-days_6a33f19de95b) |
 | [ℕ𝕠𝕥𝕙𝕣𝕠𝕥𝕙𝕖𝕣𝕚𝕚𝕕𝕒𝕖](nothrotheriidae_686eb43f7d24/nothrotheriidae_686eb43f7d24.md) | 2024 | FLAC | 00:31:54 | [Pomf](https://pomf2.lain.la/f/phed1zac.tar) [IA](https://archive.org/details/nothrotheriidae_686eb43f7d24) |
