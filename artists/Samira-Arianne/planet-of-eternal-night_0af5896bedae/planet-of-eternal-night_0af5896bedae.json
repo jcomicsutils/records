@@ -1,0 +1,32 @@
+{
+  "id": "planet-of-eternal-night_0af5896bedae",
+  "fingerprint": "0af5896bedaecb35a8dad76f4bc5d3821cf56c6a601a8fddec96f74a796f1576",
+  "archived_at": "2026-11-14T22:35:28Z",
+  "metadata": {
+    "title": "Planet of Eternal Night",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta",
+      "Samira Arianne"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1576,
+    "duration_human": "00:26:16",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta + SAMIRA ARIANNE - GSC 03549-02811 - SAMIRA ARIANNE",
+      "02 Séraphitüs-Séraphîta + SAMIRA ARIANNE - TrES-2b - Séraphitüs-Séraphîta"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/t1p280h1.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/planet-of-eternal-night_0af5896bedae"
+    }
+  }
+}
