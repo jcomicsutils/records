@@ -1,0 +1,37 @@
+{
+  "id": "under-the-volcano_bf8bce30e8c2",
+  "fingerprint": "bf8bce30e8c258d0005e2851dfa1ae61e210756d68dcdf434d4c839ee014a298",
+  "archived_at": "2026-11-14T23:55:01Z",
+  "metadata": {
+    "title": "Under the Volcano",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2176,
+    "duration_human": "00:36:16",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Only in México is Death an Occasion for Laughter",
+      "02 Séraphitüs-Séraphîta - One Man’s Drunken Descent",
+      "03 Séraphitüs-Séraphîta - Noche de las Calaveras",
+      "04 Séraphitüs-Séraphîta - The Abyss of Too Much",
+      "05 Séraphitüs-Séraphîta - Under the Volcano",
+      "06 Séraphitüs-Séraphîta - Hell Is My Natural Habitat",
+      "07 Séraphitüs-Séraphîta - What a Dingy Way To Die",
+      "08 Séraphitüs-Séraphîta - No Se Puede Vivir Sin Amar"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/yfli17cs.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/under-the-volcano_bf8bce30e8c2"
+    }
+  }
+}
