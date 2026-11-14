@@ -34,6 +34,7 @@
 | [Desert Mother](desert-mother_1d653e2f0026/desert-mother_1d653e2f0026.md) | 2024 | FLAC | 01:03:16 | [Pomf](https://pomf2.lain.la/f/pnjoezf7.tar) [IA](https://archive.org/details/desert-mother_1d653e2f0026) |
 | [𝙼𝚢 𝚖𝚒𝚗𝚍 𝚒𝚜 𝚜𝚕𝚒𝚙𝚙𝚒𝚗𝚐...](my-mind-is-slipping_8074c141117c/my-mind-is-slipping_8074c141117c.md) | 2024 | FLAC | 00:10:43 | [Pomf](https://pomf2.lain.la/f/mwotxozg.tar) |
 | [Pebbles From The Brook \(Single\)](pebbles-from-the-brook-single_04f887d8d652/pebbles-from-the-brook-single_04f887d8d652.md) | 2024 | FLAC | 00:06:53 | [Pomf](https://pomf2.lain.la/f/ddcu8b8m.tar) [IA](https://archive.org/details/pebbles-from-the-brook-single_04f887d8d652) |
+| [Sea-fright \(Single\)](sea-fright-single_d4687d0dc6da/sea-fright-single_d4687d0dc6da.md) | 2024 | FLAC | 00:04:24 | [Pomf](https://pomf2.lain.la/f/y01vah22.tar) [IA](https://archive.org/details/sea-fright-single_d4687d0dc6da) |
 | [Mega Therion](mega-therion_2391310e23a0/mega-therion_2391310e23a0.md) | 2024 | FLAC | 00:11:32 | [Pomf](https://pomf2.lain.la/f/zqcmiw30.tar) [IA](https://archive.org/details/mega-therion_2391310e23a0) |
 | [Desert Of Macarius](desert-of-macarius_0a3d98cde398/desert-of-macarius_0a3d98cde398.md) | 2024 | FLAC | 00:59:09 | [Pomf](https://pomf2.lain.la/f/gnvg4y9l.tar) [IA](https://archive.org/details/desert-of-macarius_0a3d98cde398) |
 | [disorders](disorders_5d11a5c293b3/disorders_5d11a5c293b3.md) | 2024 | FLAC | 00:45:03 | [Pomf](https://pomf2.lain.la/f/8kk3c0zo.tar) [IA](https://archive.org/details/disorders_5d11a5c293b3) |

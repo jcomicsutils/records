@@ -1,0 +1,30 @@
+{
+  "id": "sea-fright-single_d4687d0dc6da",
+  "fingerprint": "d4687d0dc6dadbf849d7af2aed9a568bffd113f1c85984e2ca32b5e576939876",
+  "archived_at": "2026-11-14T22:58:09Z",
+  "metadata": {
+    "title": "Sea-fright (Single)",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 264,
+    "duration_human": "00:04:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Sea-fright [single]"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/y01vah22.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/sea-fright-single_d4687d0dc6da"
+    }
+  }
+}
