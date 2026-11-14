@@ -1,0 +1,31 @@
+{
+  "id": "subproject-119_b7217c5f8c67",
+  "fingerprint": "b7217c5f8c67da7d91d30289681d2ee328dc9bdf80fca8cdf7b31a56a9b8366d",
+  "archived_at": "2026-11-14T23:01:04Z",
+  "metadata": {
+    "title": "Subproject 119",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta",
+      "Eva Kadmon"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 303,
+    "duration_human": "00:05:03",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta + Eva Kadmon - Subproject 119"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/jhtlkiuw.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/subproject-119_b7217c5f8c67"
+    }
+  }
+}
