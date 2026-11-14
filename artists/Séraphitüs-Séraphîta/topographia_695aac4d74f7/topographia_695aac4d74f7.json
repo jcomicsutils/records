@@ -1,0 +1,30 @@
+{
+  "id": "topographia_695aac4d74f7",
+  "fingerprint": "695aac4d74f73d68d751dc0d78e398bec8c047a53cb78fae97bb82ae30dfb047",
+  "archived_at": "2026-11-14T23:39:59Z",
+  "metadata": {
+    "title": "Topographia",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1962,
+    "duration_human": "00:32:42",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Topographia"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ubvx5sc6.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/topographia_695aac4d74f7"
+    }
+  }
+}
