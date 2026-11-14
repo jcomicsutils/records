@@ -626,6 +626,7 @@
 - [Tanya Tagaq](Tanya-Tagaq/Tanya-Tagaq.md)
 - [Tardigrada](Tardigrada/Tardigrada.md)
 - [Tarentel](Tarentel/Tarentel.md)
+- [Teach Them To Weep \(feat. Séraphitüs-Séraphîta\)](Teach-Them-To-Weep-%28feat.-Séraphitüs-Séraphîta%29/Teach-Them-To-Weep-%28feat.-Séraphitüs-Séraphîta%29.md)
 - [Teeth Of Lions Rule The Divine](Teeth-Of-Lions-Rule-The-Divine/Teeth-Of-Lions-Rule-The-Divine.md)
 - [Tekhaaet](Tekhaaet/Tekhaaet.md)
 - [TENDENCIA IMPOSIBLE](TENDENCIA-IMPOSIBLE/TENDENCIA-IMPOSIBLE.md)

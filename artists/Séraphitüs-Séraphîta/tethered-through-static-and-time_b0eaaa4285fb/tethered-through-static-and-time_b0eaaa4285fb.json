@@ -1,0 +1,34 @@
+{
+  "id": "tethered-through-static-and-time_b0eaaa4285fb",
+  "fingerprint": "b0eaaa4285fbf8020c11c0b1c45c860c041d30fdacbdffc196626bd198d98f39",
+  "archived_at": "2026-11-14T23:04:49Z",
+  "metadata": {
+    "title": "Tethered Through Static and Time",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta",
+      "Teach Them To Weep (feat. Séraphitüs-Séraphîta)"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1050,
+    "duration_human": "00:17:30",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Teach Them To Weep (feat. Séraphitüs-Séraphîta) - Pangs of Conception",
+      "02 Teach Them To Weep (feat. Séraphitüs-Séraphîta) - A Televised End",
+      "03 Teach Them To Weep (feat. Séraphitüs-Séraphîta) - Ether Engine",
+      "04 Teach Them To Weep (feat. Séraphitüs-Séraphîta) - Christ Of Gloom Star"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/eeafsf2o.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/tethered-through-static-and-time_b0eaaa4285fb"
+    }
+  }
+}
