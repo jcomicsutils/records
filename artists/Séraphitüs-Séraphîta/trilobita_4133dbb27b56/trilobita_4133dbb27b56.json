@@ -1,0 +1,32 @@
+{
+  "id": "trilobita_4133dbb27b56",
+  "fingerprint": "4133dbb27b5666a35cab378aff87fb7a5838bc45043f15fa7589347aa6d6b6c5",
+  "archived_at": "2026-11-14T23:42:50Z",
+  "metadata": {
+    "title": "𝚃𝚁𝙸𝙻𝙾𝙱𝙸𝚃𝙰",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1883,
+    "duration_human": "00:31:23",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - 𝚃𝚁𝙸𝙻𝙾𝙱𝙸𝚃𝙰 𝙸",
+      "02 Séraphitüs-Séraphîta - 𝚃𝚁𝙸𝙻𝙾𝙱𝙸𝚃𝙰 𝙸𝙸",
+      "03 Séraphitüs-Séraphîta - 𝚃𝚁𝙸𝙻𝙾𝙱𝙸𝚃𝙰 𝙸𝙸𝙸",
+      "04 Séraphitüs-Séraphîta - 𝚃𝚁𝙸𝙻𝙾𝙱𝙸𝚃𝙰 𝙸𝚅",
+      "05 Séraphitüs-Séraphîta - 𝚃𝚁𝙸𝙻𝙾𝙱𝙸𝚃𝙰 𝚅",
+      "06 Séraphitüs-Séraphîta - 𝚃𝚁𝙸𝙻𝙾𝙱𝙸𝚃𝙰 𝚅𝙸"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ql6er9u4.tar"
+    }
+  }
+}
