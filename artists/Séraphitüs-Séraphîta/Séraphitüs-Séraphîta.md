@@ -22,6 +22,7 @@
 | [Phantoms of a Morbid Youth](phantoms-of-a-morbid-youth_f32057fc649d/phantoms-of-a-morbid-youth_f32057fc649d.md) | 2023 | FLAC | 00:08:35 | [Pomf](https://pomf2.lain.la/f/h1jsv32f.tar) [IA](https://archive.org/details/phantoms-of-a-morbid-youth_f32057fc649d) |
 | [GONELAND](goneland_55d479034baf/goneland_55d479034baf.md) | 2024 | FLAC | 00:31:48 | [Pomf](https://pomf2.lain.la/f/ee135fqb.tar) [IA](https://archive.org/details/goneland_55d479034baf) |
 | [Boskoi](boskoi_ed8f5d3fa090/boskoi_ed8f5d3fa090.md) | 2024 | FLAC | 00:29:56 | [Pomf](https://pomf2.lain.la/f/nfa4od0v.tar) [IA](https://archive.org/details/boskoi_ed8f5d3fa090) |
+| [Thunderous Surf](thunderous-surf_24dda4b6c0f9/thunderous-surf_24dda4b6c0f9.md) | 2024 | FLAC | 00:26:34 | [Pomf](https://pomf2.lain.la/f/lot6zhch.tar) [IA](https://archive.org/details/thunderous-surf_24dda4b6c0f9) |
 | [Glacier](glacier_5091b9b97d98/glacier_5091b9b97d98.md) | 2024 | FLAC | 00:20:45 | [Pomf](https://pomf2.lain.la/f/eerfnw9e.tar) [IA](https://archive.org/details/glacier_5091b9b97d98) |
 | [numinous tapes III *(with anna bortionist)*](numinous-tapes-iii_ab021a62eea5/numinous-tapes-iii_ab021a62eea5.md) | 2024 | FLAC | 00:15:18 | [Pomf](https://pomf2.lain.la/f/k8sg8wvw.tar) |
 | [……](3939c11b468d_06c63fcb5907/3939c11b468d_06c63fcb5907.md) | 2024 | FLAC | 00:40:08 | [Pomf](https://pomf2.lain.la/f/7ks2qabf.tar) [IA](https://archive.org/details/3939c11b468d_06c63fcb5907) |

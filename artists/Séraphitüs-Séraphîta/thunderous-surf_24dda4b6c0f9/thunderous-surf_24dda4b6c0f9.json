@@ -1,0 +1,30 @@
+{
+  "id": "thunderous-surf_24dda4b6c0f9",
+  "fingerprint": "24dda4b6c0f97a036e597933e246321c1929c8ca638fdf66db51591bb3ca658d",
+  "archived_at": "2026-11-14T23:35:35Z",
+  "metadata": {
+    "title": "Thunderous Surf",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1594,
+    "duration_human": "00:26:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Thunderous Surf"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/lot6zhch.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/thunderous-surf_24dda4b6c0f9"
+    }
+  }
+}
