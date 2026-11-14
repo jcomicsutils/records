@@ -1,0 +1,36 @@
+{
+  "id": "the-land-of-the-fallen-shall-be-consumed_eed15e0e2dd5",
+  "fingerprint": "eed15e0e2dd5ce033ae8a1f7507e1e4267b9446ca60ea54ef63f062caab819ea",
+  "archived_at": "2026-11-14T23:15:51Z",
+  "metadata": {
+    "title": "The Land of the Fallen Shall Be Consumed",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 3020,
+    "duration_human": "00:50:20",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Take Heed",
+      "02 Séraphitüs-Séraphîta - Last Few Ordinary Days",
+      "03 Séraphitüs-Séraphîta - Incoming",
+      "04 Séraphitüs-Séraphîta - The Takeover",
+      "05 Séraphitüs-Séraphîta - Irredeemable",
+      "06 Séraphitüs-Séraphîta - Arrival of the Locusts",
+      "07 Séraphitüs-Séraphîta - The Land of the Fallen Shall Be Consumed"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/9ohoy7xg.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-land-of-the-fallen-shall-be-consumed_eed15e0e2dd5"
+    }
+  }
+}
