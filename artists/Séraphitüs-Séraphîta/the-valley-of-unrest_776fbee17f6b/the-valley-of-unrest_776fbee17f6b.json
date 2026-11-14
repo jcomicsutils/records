@@ -1,0 +1,33 @@
+{
+  "id": "the-valley-of-unrest_776fbee17f6b",
+  "fingerprint": "776fbee17f6bae74fbc4b757b46552cff669b004e2e9253babb5b84662ae8bab",
+  "archived_at": "2026-11-14T23:29:22Z",
+  "metadata": {
+    "title": "The Valley of Unrest",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 911,
+    "duration_human": "00:15:11",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - The Sad Valley’s Restlessness (Live Improvisation)",
+      "02 Séraphitüs-Séraphîta - Each Visitor Shall Confess",
+      "03 Séraphitüs-Séraphîta - Eternal Dews",
+      "04 Séraphitüs-Séraphîta - Unquiet Heaven"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/1dryd96v.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-valley-of-unrest_776fbee17f6b"
+    }
+  }
+}
