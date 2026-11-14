@@ -1,0 +1,30 @@
+{
+  "id": "the-atlantic-at-eventide_dd461de36ceb",
+  "fingerprint": "dd461de36cebaae45b3819244c0fd4b4761bf2a5707c0fe60bf0355252ecc9e9",
+  "archived_at": "2026-11-14T23:06:45Z",
+  "metadata": {
+    "title": "The Atlantic at Eventide",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 894,
+    "duration_human": "00:14:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - The Atlantic at Eventide"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/x58i729j.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-atlantic-at-eventide_dd461de36ceb"
+    }
+  }
+}
