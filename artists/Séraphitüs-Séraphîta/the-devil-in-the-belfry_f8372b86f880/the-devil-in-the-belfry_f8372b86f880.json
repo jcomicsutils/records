@@ -1,0 +1,31 @@
+{
+  "id": "the-devil-in-the-belfry_f8372b86f880",
+  "fingerprint": "f8372b86f880d3e1d1e098f368bfa6508a85405ad0fabce34e680e4906ca9992",
+  "archived_at": "2026-11-14T23:11:33Z",
+  "metadata": {
+    "title": "The Devil in the Belfry",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2142,
+    "duration_human": "00:35:42",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Part I",
+      "02 Séraphitüs-Séraphîta - Part II"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/cuhtqcqb.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-devil-in-the-belfry_f8372b86f880"
+    }
+  }
+}
