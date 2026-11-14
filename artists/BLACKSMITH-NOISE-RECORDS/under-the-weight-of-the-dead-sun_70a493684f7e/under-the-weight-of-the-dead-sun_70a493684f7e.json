@@ -1,0 +1,37 @@
+{
+  "id": "under-the-weight-of-the-dead-sun_70a493684f7e",
+  "fingerprint": "70a493684f7edbdd1920c56d2901526507c392e34ba4025c62da9fbafa02a7dd",
+  "archived_at": "2026-11-10T05:32:11Z",
+  "metadata": {
+    "title": "Under the weight of the dead sun",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "Voluptas Carnis"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1478,
+    "duration_human": "00:24:38",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Voluptas Carnis - Hymn of The Penitents",
+      "02 Voluptas Carnis - Lethargy",
+      "03 Voluptas Carnis - Humana agonia et desiderium",
+      "04 Voluptas Carnis - Descending into the abyss",
+      "05 Voluptas Carnis - Sisyphus Pt.1",
+      "06 Voluptas Carnis - Sisyphus Pt.2",
+      "07 Voluptas Carnis - Under the weight of the dead sun"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/4zedyujk.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/under-the-weight-of-the-dead-sun_70a493684f7e"
+    }
+  }
+}

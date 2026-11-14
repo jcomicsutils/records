@@ -1,0 +1,42 @@
+{
+  "id": "arctic-resistance_2dfee9cba21c",
+  "fingerprint": "2dfee9cba21c856e8b7355c75a02149be81a3f726da69ebadfbd279e19f3fa79",
+  "archived_at": "2026-11-10T02:13:49Z",
+  "metadata": {
+    "title": "arctic resistance",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "juanito)))"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 7209,
+    "duration_human": "02:00:09",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 juanito))) - tundra doom",
+      "02 juanito))) - this world is a HARSH NOISE WALL",
+      "03 juanito))) - arctic resistance",
+      "04 juanito))) - battle over the viking permafrost",
+      "05 juanito))) - accelerated production of european thermonuclear bombs",
+      "06 juanito))) - wall of hypocrisy",
+      "07 juanito))) - the paradox of plenty",
+      "08 juanito))) - extreme cold as a weapon of war",
+      "09 juanito))) - Erik Thorvaldsson",
+      "10 juanito))) - polar drone blues",
+      "11 juanito))) - american apartheid wall",
+      "12 juanito))) - by hook or by crook"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/6i2idcx6.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/arctic-resistance_2dfee9cba21c"
+    }
+  }
+}

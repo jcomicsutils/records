@@ -1,0 +1,30 @@
+{
+  "id": "i-gave-in-to-my-fear-and-helped-him-make-these_7250c8235029",
+  "fingerprint": "7250c82350291d299aced807dfd97715c576db99227104a155b3336c4a0df41e",
+  "archived_at": "2026-11-10T12:03:48Z",
+  "metadata": {
+    "title": "I gave in to my fear and helped him make these.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3520,
+    "duration_human": "00:58:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - _"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/74egyjqe.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/i-gave-in-to-my-fear-and-helped-him-make-these_7250c8235029"
+    }
+  }
+}

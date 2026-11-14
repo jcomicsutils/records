@@ -1,0 +1,30 @@
+{
+  "id": "devotion_3f29073cde07",
+  "fingerprint": "3f29073cde07191a7aa9c7831921c4c2a1f30636ced57d5f653e6fd275556d03",
+  "archived_at": "2026-11-13T20:35:34Z",
+  "metadata": {
+    "title": "Devotion",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2142,
+    "duration_human": "00:35:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - Devotion"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/qw7h5e44.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/devotion_3f29073cde07"
+    }
+  }
+}

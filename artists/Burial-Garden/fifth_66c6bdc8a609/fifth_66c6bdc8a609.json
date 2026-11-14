@@ -1,0 +1,30 @@
+{
+  "id": "fifth_66c6bdc8a609",
+  "fingerprint": "66c6bdc8a609cc0a8876a9ee6c4e6a58f715fe4dc6c28f191859befeca554662",
+  "archived_at": "2026-11-13T20:57:02Z",
+  "metadata": {
+    "title": "Fifth",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1481,
+    "duration_human": "00:24:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - Fifth"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/7d7pwihp.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/fifth_66c6bdc8a609"
+    }
+  }
+}

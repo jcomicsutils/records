@@ -1,0 +1,32 @@
+{
+  "id": "new-ruins_4958af19cf49",
+  "fingerprint": "4958af19cf4909f02cf7b3c1f12a779bf5e73a0200d49a6f7ee14dc63a1b7718",
+  "archived_at": "2026-11-10T04:18:18Z",
+  "metadata": {
+    "title": "New Ruins",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "DARDIS"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2761,
+    "duration_human": "00:46:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 DARDIS - Flattening",
+      "02 DARDIS - Re-raising"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/kml0x02q.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/new-ruins_4958af19cf49"
+    }
+  }
+}

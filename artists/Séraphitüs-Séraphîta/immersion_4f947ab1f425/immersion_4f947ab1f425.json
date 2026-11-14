@@ -1,0 +1,31 @@
+{
+  "id": "immersion_4f947ab1f425",
+  "fingerprint": "4f947ab1f425d6bd973fcde988448cdc3568dd67e7f3be23633ea09b8dc6951f",
+  "archived_at": "2026-11-14T05:33:36Z",
+  "metadata": {
+    "title": "Immersion",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 961,
+    "duration_human": "00:16:01",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Immersion I",
+      "02 Séraphitüs-Séraphîta - Immersion II"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/9x8i8r0c.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/immersion_4f947ab1f425"
+    }
+  }
+}

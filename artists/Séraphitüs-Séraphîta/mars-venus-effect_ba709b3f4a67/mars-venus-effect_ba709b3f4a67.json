@@ -1,0 +1,36 @@
+{
+  "id": "mars-venus-effect_ba709b3f4a67",
+  "fingerprint": "ba709b3f4a672731a8ec7d12942acc0bac8d3a593a68c39fc610410241089086",
+  "archived_at": "2026-11-10T03:46:40Z",
+  "metadata": {
+    "title": "MARS • VENUS / EFFECT",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "Substak",
+      "Saint Elisabeth",
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4104,
+    "duration_human": "01:08:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Substak - Part I: In Search of Life On the Martian Surface ⟢ Reimagined",
+      "02 Substak - Part II: Passing Through the Venusian Atmosphere ⟢ Reimagined",
+      "03 Saint Elisabeth - In Search of Life On the Martian Surface",
+      "04 Séraphitüs-Séraphîta - Passing Through the Venusian Atmosphere"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/dd5n6oej.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/mars-venus-effect_ba709b3f4a67"
+    }
+  }
+}

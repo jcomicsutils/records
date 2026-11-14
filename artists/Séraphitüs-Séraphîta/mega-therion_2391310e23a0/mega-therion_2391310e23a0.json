@@ -1,0 +1,31 @@
+{
+  "id": "mega-therion_2391310e23a0",
+  "fingerprint": "2391310e23a0dc6cb945f05b391180ae1b66cd68d237347381ae55d3bebd64f8",
+  "archived_at": "2026-11-14T06:49:49Z",
+  "metadata": {
+    "title": "Mega Therion",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 692,
+    "duration_human": "00:11:32",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Mega Therion: Part I",
+      "02 Séraphitüs-Séraphîta - Mega Therion: Part II"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/zqcmiw30.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/mega-therion_2391310e23a0"
+    }
+  }
+}

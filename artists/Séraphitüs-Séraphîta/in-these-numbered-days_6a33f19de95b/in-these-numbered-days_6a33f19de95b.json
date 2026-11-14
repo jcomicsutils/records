@@ -1,0 +1,31 @@
+{
+  "id": "in-these-numbered-days_6a33f19de95b",
+  "fingerprint": "6a33f19de95bfe8716bff85794c417173b020cac2a381baa4525fbe77e1cde4f",
+  "archived_at": "2026-11-14T05:46:21Z",
+  "metadata": {
+    "title": "In These Numbered Days",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1502,
+    "duration_human": "00:25:02",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Dissolving",
+      "02 Séraphitüs-Séraphîta - In These Numbered Days"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/cl0luuw2.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/in-these-numbered-days_6a33f19de95b"
+    }
+  }
+}

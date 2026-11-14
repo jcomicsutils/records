@@ -1,0 +1,30 @@
+{
+  "id": "nepenthes-peltata_cce6a847ed4d",
+  "fingerprint": "cce6a847ed4dfdf79c4b3fa664c1c353d3df20a02603bf6f72ee0dafc9f691a8",
+  "archived_at": "2026-11-10T07:55:07Z",
+  "metadata": {
+    "title": "Nepenthes peltata",
+    "artist": "Carnivorae virentia",
+    "creators": [
+      "Carnivorae virentia"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2524,
+    "duration_human": "00:42:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Carnivorae virentia - Nepenthes peltata"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/shjuwvgc.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/nepenthes-peltata_cce6a847ed4d"
+    }
+  }
+}

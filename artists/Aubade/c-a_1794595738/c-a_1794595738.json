@@ -1,0 +1,32 @@
+{
+  "id": "c-a_1794595738",
+  "fingerprint": "e67ff4c475973434a2f8fa638048a930703eb3dd9268f41bc0afd3e6d17686cc",
+  "archived_at": "2026-11-13T18:48:58Z",
+  "metadata": {
+    "title": "(c) / / [A]",
+    "artist": "Aubade",
+    "creators": [
+      "Aubade",
+      "cazadoras"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2844,
+    "duration_human": "00:47:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 cazadoras - 3d custom girl",
+      "02 Aubade - For Cindy"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/vpxi6q9i.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/c-a_e67ff4c47597"
+    }
+  }
+}

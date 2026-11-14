@@ -1,0 +1,30 @@
+{
+  "id": "a-b-s-o-r-p-t-i-o-n_ea3ca5e3e275",
+  "fingerprint": "ea3ca5e3e275c3048e19ba0788a7192fc24935e72e5f9f4a6a0894f0eed45477",
+  "archived_at": "2026-11-10T16:21:51Z",
+  "metadata": {
+    "title": "A b s o r p t i o n",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 661,
+    "duration_human": "00:11:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - A b s o r p t i o n"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/4r6i3l67.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/a-b-s-o-r-p-t-i-o-n_ea3ca5e3e275"
+    }
+  }
+}

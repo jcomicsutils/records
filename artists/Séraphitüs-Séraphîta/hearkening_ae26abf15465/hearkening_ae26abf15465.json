@@ -1,0 +1,33 @@
+{
+  "id": "hearkening_ae26abf15465",
+  "fingerprint": "ae26abf154657d11da0a99425c395ed59946ddd9103af0d13d49dbbf6f6ad358",
+  "archived_at": "2026-11-14T04:46:31Z",
+  "metadata": {
+    "title": "Hearkening",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1324,
+    "duration_human": "00:22:04",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Dreadfully Nervous",
+      "02 Séraphitüs-Séraphîta - Sharpened Senses",
+      "03 Séraphitüs-Séraphîta - Disease",
+      "04 Séraphitüs-Séraphîta - Epilogue // Improvised"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/jnng2vws.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/hearkening_ae26abf15465"
+    }
+  }
+}

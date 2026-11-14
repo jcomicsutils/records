@@ -1,0 +1,38 @@
+{
+  "id": "zesck-enmioown_a1cd477728d7",
+  "fingerprint": "a1cd477728d758138aa819fd793d585dee9462b042d1f8df0860c92769183323",
+  "archived_at": "2026-11-10T07:41:39Z",
+  "metadata": {
+    "title": "Zesck Enmioown",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "SUERO",
+      "ILLMAN"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2618,
+    "duration_human": "00:43:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 SUERO & ILLMAN - Zesck",
+      "02 SUERO & ILLMAN - Flex your brain",
+      "03 SUERO & ILLMAN - A Hole",
+      "04 SUERO & ILLMAN - Foolish",
+      "05 SUERO & ILLMAN - Zesck Enmioown",
+      "06 SUERO & ILLMAN - Final Stage",
+      "07 SUERO & ILLMAN - Disappear"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/zesck-enmioown_a1cd477728d7"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/jym3h3ea.tar"
+    }
+  }
+}

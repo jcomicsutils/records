@@ -1,0 +1,42 @@
+{
+  "id": "your-prayers-your-ardent-desire-to-choose-your-own-paths-and-push-forward-they-surpasse_36e5d942bb27",
+  "fingerprint": "36e5d942bb279694407cf04e5efa414a8a1754ca05bcba74c4f23c0ec92ac201",
+  "archived_at": "2026-11-13T23:34:53Z",
+  "metadata": {
+    "title": "Your prayers, your ardent desire to choose your own paths and push forward, they surpassed even my own.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate",
+      "Angel B.",
+      "Sado Rituals"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 10800,
+    "duration_human": "03:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - May your journey overflow with curses and blessings",
+      "02 Angel B. & Sado Rituals - When the dwelling in the purgatory of 'it is, how it is' seems to be endless",
+      "03 Sado Rituals - Your final, painful effort to catch the last spark of anything meaningful"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://pomf2.lain.la/f/i7aebwm5.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/j0wdb82j.tar"
+        }
+      ]
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/your-prayers-your-ardent-desire-to-choose-your-own-paths-and-push-forward-they-surpasse_36e5d942bb27"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ela-nao-sabe-o-que-faz-remix_c654da96d443",
+  "fingerprint": "c654da96d4438cb4cb1f6cfb47acec13beccdfe9d7cc5365f564ac5086787053",
+  "archived_at": "2026-11-14T03:32:17Z",
+  "metadata": {
+    "title": "Ela não sabe o que faz (Remix)",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta",
+      "Eu queria que você pudesse se ver como eu te vejo"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 647,
+    "duration_human": "00:10:47",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta + Eu queria que você pudesse se ver como eu te vejo - Ela não sabe o que faz"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/f73t6e2e.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/ela-nao-sabe-o-que-faz-remix_c654da96d443"
+    }
+  }
+}

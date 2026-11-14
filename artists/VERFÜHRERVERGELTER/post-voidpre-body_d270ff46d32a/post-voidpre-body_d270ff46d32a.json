@@ -1,0 +1,36 @@
+{
+  "id": "post-voidpre-body_d270ff46d32a",
+  "fingerprint": "d270ff46d32a6c80cb43f3e1c1da56d29166ac9014a6a6f12a474b4eed48967a",
+  "archived_at": "2026-11-10T04:28:54Z",
+  "metadata": {
+    "title": "Post-Void\\/Pre-Body",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "VERFÜHRERVERGELTER"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1911,
+    "duration_human": "00:31:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 VERFÜHRERVERGELTER - Synaptic Drift",
+      "02 VERFÜHRERVERGELTER - Post Signal Debris",
+      "03 VERFÜHRERVERGELTER - Error Transmitter",
+      "04 VERFÜHRERVERGELTER - Collapsing Flesh",
+      "05 VERFÜHRERVERGELTER - Soft Tissue Reboot",
+      "06 VERFÜHRERVERGELTER - Singvlarity"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/27z5rj8f.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/post-voidpre-body_d270ff46d32a"
+    }
+  }
+}

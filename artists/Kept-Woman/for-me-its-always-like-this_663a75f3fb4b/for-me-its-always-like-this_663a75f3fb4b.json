@@ -1,0 +1,31 @@
+{
+  "id": "for-me-its-always-like-this_663a75f3fb4b",
+  "fingerprint": "663a75f3fb4b24d6377e925ab8757e132abf68ab0955520c0d8dc7135754073f",
+  "archived_at": "2026-11-10T08:41:41Z",
+  "metadata": {
+    "title": "\"For me, it's always like this.\"",
+    "artist": "Female Stint",
+    "creators": [
+      "Female Stint",
+      "Kept Woman"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3168,
+    "duration_human": "00:52:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kept Woman - For me, it's always like this."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/jkhmxhir.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/for-me-its-always-like-this_663a75f3fb4b"
+    }
+  }
+}

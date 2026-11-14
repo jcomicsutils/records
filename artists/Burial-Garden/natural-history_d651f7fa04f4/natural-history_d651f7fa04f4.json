@@ -1,0 +1,31 @@
+{
+  "id": "natural-history_d651f7fa04f4",
+  "fingerprint": "d651f7fa04f4482fb6cc003c1e6d3746599837e3e45024a29cb34aeb8416f7e4",
+  "archived_at": "2026-11-13T21:39:39Z",
+  "metadata": {
+    "title": "Natural History",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 4596,
+    "duration_human": "01:16:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - Natural History Pt 1",
+      "02 Burial Garden - Natural History Pt 2"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/yyz74rna.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/natural-history_d651f7fa04f4"
+    }
+  }
+}

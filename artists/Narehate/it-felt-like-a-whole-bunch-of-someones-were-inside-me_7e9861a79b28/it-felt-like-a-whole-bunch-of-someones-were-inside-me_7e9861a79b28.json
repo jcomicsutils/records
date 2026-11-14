@@ -1,0 +1,30 @@
+{
+  "id": "it-felt-like-a-whole-bunch-of-someones-were-inside-me_7e9861a79b28",
+  "fingerprint": "7e9861a79b2835c06e3517d20946ba0a827f34e424a0ad5f52e01d6a055b1ea6",
+  "archived_at": "2026-11-10T13:31:29Z",
+  "metadata": {
+    "title": "It felt like a whole bunch of \"someones\" were inside me.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2911,
+    "duration_human": "00:48:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - And then, one of them took control of my body and it was like peeking into my memories while in a dream-like state."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/klpi7nil.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/it-felt-like-a-whole-bunch-of-someones-were-inside-me_7e9861a79b28"
+    }
+  }
+}

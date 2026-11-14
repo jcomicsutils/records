@@ -1,0 +1,30 @@
+{
+  "id": "unearthed_a7d1790b5685",
+  "fingerprint": "a7d1790b5685d2b55c6e31932e985188d74c1e016798a249c23316f6eafa019a",
+  "archived_at": "2026-11-13T23:24:34Z",
+  "metadata": {
+    "title": "Unearthed",
+    "artist": "Olion + Manikin",
+    "creators": [
+      "Olion + Manikin"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1298,
+    "duration_human": "00:21:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Olion + Manikin - Unearthed"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/nv8jxtts.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/unearthed_a7d1790b5685"
+    }
+  }
+}

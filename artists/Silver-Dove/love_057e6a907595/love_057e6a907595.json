@@ -1,0 +1,37 @@
+{
+  "id": "love_057e6a907595",
+  "fingerprint": "057e6a9075956196fbf2454c8a0d7f0cf043ab37b3eccb52c9721f3f885fc0b9",
+  "archived_at": "2026-11-10T09:51:37Z",
+  "metadata": {
+    "title": "Love",
+    "artist": "Female Stint",
+    "creators": [
+      "Female Stint",
+      "Angel Brügger",
+      "Sado Rituals",
+      "Olion",
+      "Silver Dove"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 3593,
+    "duration_human": "00:59:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Angel Brügger - Sylvian (Marriage of Flesh)",
+      "02 Sado Rituals - Crucified on the Cross of Love",
+      "03 Olion - Towards Love",
+      "04 Silver Dove - i'll never miss you, forever moving on"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/wjodg5ie.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/love_057e6a907595"
+    }
+  }
+}

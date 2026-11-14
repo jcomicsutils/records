@@ -1,0 +1,31 @@
+{
+  "id": "prend-ca-dans-ta-gueule_8909c5e66150",
+  "fingerprint": "8909c5e66150edfed9fad59dcafb8c9c04737fc5e229ce423a223198217b049b",
+  "archived_at": "2026-11-10T10:12:06Z",
+  "metadata": {
+    "title": "Prend ça dans ta gueule",
+    "artist": "Female Stint",
+    "creators": [
+      "Female Stint",
+      "Kept Woman"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3881,
+    "duration_human": "01:04:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kept Woman - Ressens ce qu'elle a ressenti"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/5uvsrw9l.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/prend-ca-dans-ta-gueule_8909c5e66150"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "vasumitra_cf017a2de7aa",
+  "fingerprint": "cf017a2de7aa772ebf46c5d3435ea5882ca6248436c39cc26ef26d765126f0fc",
+  "archived_at": "2026-11-10T10:26:16Z",
+  "metadata": {
+    "title": "Vasumitra",
+    "artist": "Female Stint",
+    "creators": [
+      "Female Stint",
+      "Kept Woman"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kept Woman - Courtesan"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/wej2oskt.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/vasumitra_cf017a2de7aa"
+    }
+  }
+}

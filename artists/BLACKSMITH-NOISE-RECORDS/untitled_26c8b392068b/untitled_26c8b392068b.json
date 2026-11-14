@@ -1,0 +1,31 @@
+{
+  "id": "untitled_26c8b392068b",
+  "fingerprint": "26c8b392068ba8644846d4579c71eee8bfc657d2bd737ad30ada12a599ee8b52",
+  "archived_at": "2026-11-10T05:34:11Z",
+  "metadata": {
+    "title": "untitled",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "guizhou drainer"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1200,
+    "duration_human": "00:20:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 guizhou drainer - untitled"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/gvzagpib.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/untitled_26c8b392068b"
+    }
+  }
+}

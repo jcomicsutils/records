@@ -1,0 +1,30 @@
+{
+  "id": "besotted_1f1638cfef58",
+  "fingerprint": "1f1638cfef58695f563ef3f1ecbd81b4becc96ee59d09c306154e8fdbabafcbc",
+  "archived_at": "2026-11-13T23:12:20Z",
+  "metadata": {
+    "title": "Besotted",
+    "artist": "Manikin",
+    "creators": [
+      "Manikin"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1360,
+    "duration_human": "00:22:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Manikin - Besotted"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/dlnqxaz9.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/besotted_1f1638cfef58"
+    }
+  }
+}

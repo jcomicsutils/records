@@ -1,0 +1,30 @@
+{
+  "id": "given-the-alternative-i-guess-its-far-better-to-simply-tell-people-they-died_82ced2436df5",
+  "fingerprint": "82ced2436df56f82900cf17a8b1357f0e39d1d31c6fbc236f326973c1e0ca63f",
+  "archived_at": "2026-11-10T11:24:54Z",
+  "metadata": {
+    "title": "Given the alternative, I guess it's far better to simply tell people they died.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3296,
+    "duration_human": "00:54:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - _"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/x9dad72u.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/given-the-alternative-i-guess-its-far-better-to-simply-tell-people-they-died_82ced2436df5"
+    }
+  }
+}

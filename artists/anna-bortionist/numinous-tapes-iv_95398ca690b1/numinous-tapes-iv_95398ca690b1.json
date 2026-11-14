@@ -1,0 +1,32 @@
+{
+  "id": "numinous-tapes-iv_95398ca690b1",
+  "fingerprint": "95398ca690b122f1d0712aed85ea30f11f996d61ddd15af485616166dbb0c08e",
+  "archived_at": "2026-11-14T07:39:21Z",
+  "metadata": {
+    "title": "numinous tapes IV",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta",
+      "anna bortionist"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 971,
+    "duration_human": "00:16:11",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta + anna bortionist - new eve - anna bortionist",
+      "02 Séraphitüs-Séraphîta + anna bortionist - lacunae - anna bortionist",
+      "03 Séraphitüs-Séraphîta + anna bortionist - peccávimus - Séraphitüs-Séraphîta",
+      "04 Séraphitüs-Séraphîta + anna bortionist - lapsa - Séraphitüs-Séraphîta",
+      "05 Séraphitüs-Séraphîta + anna bortionist - antediluvian - Séraphitüs-Séraphîta"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/dwf1l1a0.tar"
+    }
+  }
+}

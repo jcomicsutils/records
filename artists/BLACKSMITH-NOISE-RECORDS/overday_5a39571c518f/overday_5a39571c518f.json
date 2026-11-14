@@ -1,0 +1,31 @@
+{
+  "id": "overday_5a39571c518f",
+  "fingerprint": "5a39571c518fdbe962b503b53ad4aba86b3cbad7eab5f1a13588c24569a32bec",
+  "archived_at": "2026-11-10T04:25:03Z",
+  "metadata": {
+    "title": "Overday",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "the microphone is 3 electric guitars"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 697,
+    "duration_human": "00:11:37",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 the microphone is 3 electric guitars - Overday"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/hjawl4mb.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/overday_5a39571c518f"
+    }
+  }
+}

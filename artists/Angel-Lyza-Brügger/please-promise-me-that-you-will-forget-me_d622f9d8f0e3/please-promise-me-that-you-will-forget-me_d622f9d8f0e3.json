@@ -1,0 +1,31 @@
+{
+  "id": "please-promise-me-that-you-will-forget-me_d622f9d8f0e3",
+  "fingerprint": "d622f9d8f0e346e4f29db02a41b36211db37dc4340c44f56dac353ad02bd98b6",
+  "archived_at": "2026-11-10T10:06:07Z",
+  "metadata": {
+    "title": "\"Please promise me that you will forget me.\"",
+    "artist": "Female Stint",
+    "creators": [
+      "Female Stint",
+      "Angel Lyza Brügger"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2488,
+    "duration_human": "00:41:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel Lyza Brügger - \"Please promise me that you will forget me.\""
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/in4ple3u.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/please-promise-me-that-you-will-forget-me_d622f9d8f0e3"
+    }
+  }
+}

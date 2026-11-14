@@ -1,0 +1,32 @@
+{
+  "id": "magic-skin_b18d8687c666",
+  "fingerprint": "b18d8687c666d5655544895660a5e36364141da2a1400070e74971f15e1f9bdb",
+  "archived_at": "2026-11-14T06:41:35Z",
+  "metadata": {
+    "title": "Magic Skin",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta",
+      "Auntsoot [curated by LOUDsilence]"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3367,
+    "duration_human": "00:56:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta + Auntsoot [curated by LOUDsilence] - Myrrhe - Auntsoot",
+      "02 Séraphitüs-Séraphîta + Auntsoot [curated by LOUDsilence] - The Talisman - Séraphitüs-Séraphîta"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/3jn8g9dz.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/magic-skin_b18d8687c666"
+    }
+  }
+}

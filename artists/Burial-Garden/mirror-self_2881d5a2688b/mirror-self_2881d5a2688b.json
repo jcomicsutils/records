@@ -1,0 +1,31 @@
+{
+  "id": "mirror-self_2881d5a2688b",
+  "fingerprint": "2881d5a2688b17e6b87063baf8be237fbf6519e992e909b683edcf52b1e668e3",
+  "archived_at": "2026-11-13T21:31:59Z",
+  "metadata": {
+    "title": "Mirror Self",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2918,
+    "duration_human": "00:48:38",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - Mirror Self Pt. 1",
+      "02 Burial Garden - Mirror Self Pt. 2"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/slc7dz45.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/mirror-self_2881d5a2688b"
+    }
+  }
+}

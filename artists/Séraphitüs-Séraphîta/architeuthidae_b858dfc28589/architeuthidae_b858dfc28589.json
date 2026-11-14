@@ -1,0 +1,30 @@
+{
+  "id": "architeuthidae_b858dfc28589",
+  "fingerprint": "b858dfc2858906bc6eebe6ed890e5dbeab03b1ff9fef23dd888617c88de41434",
+  "archived_at": "2026-11-10T16:31:29Z",
+  "metadata": {
+    "title": "Architeuthidae",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1235,
+    "duration_human": "00:20:35",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Architeuthidae"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/oxi1kq1m.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/architeuthidae_b858dfc28589"
+    }
+  }
+}

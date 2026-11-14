@@ -1,0 +1,30 @@
+{
+  "id": "her-limbs-which-should-have-been-mashed-up-have-started-to-grow-back_0c00cd8bae4e",
+  "fingerprint": "0c00cd8bae4e3b73e45e3fa797bffba98c377819ace5162561a813192e9812f2",
+  "archived_at": "2026-11-10T11:32:41Z",
+  "metadata": {
+    "title": "Her limbs, which should have been mashed up, have started to grow back.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3792,
+    "duration_human": "01:03:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - While this is now the ninth time she's been resurrected, the only change is that her form becomes slightly more distorted with each iteration."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/mjnlxojh.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/her-limbs-which-should-have-been-mashed-up-have-started-to-grow-back_0c00cd8bae4e"
+    }
+  }
+}

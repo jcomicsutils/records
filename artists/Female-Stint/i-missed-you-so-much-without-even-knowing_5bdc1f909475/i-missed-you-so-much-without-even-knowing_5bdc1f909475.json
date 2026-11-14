@@ -1,0 +1,31 @@
+{
+  "id": "i-missed-you-so-much-without-even-knowing_5bdc1f909475",
+  "fingerprint": "5bdc1f909475774fcfb4c765afb676ceebacd84e005285ebb812725c81fc3ed4",
+  "archived_at": "2026-11-10T08:51:41Z",
+  "metadata": {
+    "title": "i missed you so much without even knowing",
+    "artist": "Female Stint",
+    "creators": [
+      "Female Stint",
+      "pinniped"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1500,
+    "duration_human": "00:25:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 pinniped - catharsis"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/f296dgyy.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/i-missed-you-so-much-without-even-knowing_5bdc1f909475"
+    }
+  }
+}

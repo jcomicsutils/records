@@ -1,0 +1,30 @@
+{
+  "id": "no-matter-how-much-i-pounded-on-you-you-werent-breaking-so-i-got-more-and-more-into-it_7337912977c2",
+  "fingerprint": "7337912977c207c0ea0bc1aae06096a0507dc7907d409f7d43612d6cf1509c1e",
+  "archived_at": "2026-11-10T13:59:19Z",
+  "metadata": {
+    "title": "No matter how much I pounded on you, you weren't breaking, so I got more and more into it.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3840,
+    "duration_human": "01:04:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - _"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/v5iq5ix3.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/no-matter-how-much-i-pounded-on-you-you-werent-breaking-so-i-got-more-and-more-into-it_7337912977c2"
+    }
+  }
+}

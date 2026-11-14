@@ -1,0 +1,30 @@
+{
+  "id": "tragicomedy-humor-flows-indefinitely-again-being-kind-is-funny-certainly_c0611e41abe7",
+  "fingerprint": "c0611e41abe75ba60852104b3828b58ed33dfd8555bdc4a1acfa9c7baf1f6c78",
+  "archived_at": "2026-11-13T22:36:04Z",
+  "metadata": {
+    "title": "Tragicomedy / Humor Flows Indefinitely (Again?) / Being Kind Is Funny / Certainly...",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2355,
+    "duration_human": "00:39:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - You Can Alter My Course All You Like Baby"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/lrs4dhv3.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/tragicomedy-humor-flows-indefinitely-again-being-kind-is-funny-certainly_c0611e41abe7"
+    }
+  }
+}

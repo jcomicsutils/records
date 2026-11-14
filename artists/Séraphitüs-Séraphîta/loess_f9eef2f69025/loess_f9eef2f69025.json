@@ -1,0 +1,31 @@
+{
+  "id": "loess_f9eef2f69025",
+  "fingerprint": "f9eef2f69025aad38d00cfbe8f863c5f4f61be041183c2e0196854529116eaa2",
+  "archived_at": "2026-11-14T06:25:43Z",
+  "metadata": {
+    "title": "LOESS",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2423,
+    "duration_human": "00:40:23",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - 𝐈",
+      "02 Séraphitüs-Séraphîta - 𝐈𝐈"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/zu9bsqfw.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/loess_f9eef2f69025"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "may-your-journey-overflow-with-curses-and-blessings_507aed8ce536",
+  "fingerprint": "507aed8ce5360c1c26d2aff76666cbaf2746018270c4e7c6be1c8f045e21577b",
+  "archived_at": "2026-11-10T13:52:05Z",
+  "metadata": {
+    "title": "May your journey overflow with curses and blessings.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - _"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ng963ux2.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/may-your-journey-overflow-with-curses-and-blessings_507aed8ce536"
+    }
+  }
+}

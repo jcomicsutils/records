@@ -1,0 +1,31 @@
+{
+  "id": "vessel-enamored-with-moonlight_9089a2f6d25b",
+  "fingerprint": "9089a2f6d25b9b860553d9057df5e2b8ccb610db9cd4f943b6cdd7d8d750c544",
+  "archived_at": "2026-11-10T10:35:25Z",
+  "metadata": {
+    "title": "vessel enamored with moonlight",
+    "artist": "Female Stint",
+    "creators": [
+      "Female Stint",
+      "angel//vessel"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1194,
+    "duration_human": "00:19:54",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 angel//vessel - vessel enamored with moonlight"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/jw6glchb.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/vessel-enamored-with-moonlight_9089a2f6d25b"
+    }
+  }
+}

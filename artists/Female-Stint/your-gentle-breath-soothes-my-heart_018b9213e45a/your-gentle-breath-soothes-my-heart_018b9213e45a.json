@@ -1,0 +1,31 @@
+{
+  "id": "your-gentle-breath-soothes-my-heart_018b9213e45a",
+  "fingerprint": "018b9213e45a0bf30d06d8ebba6424e71d9cc5d35cf895b9e506ed61c905efab",
+  "archived_at": "2026-11-10T10:53:01Z",
+  "metadata": {
+    "title": "your gentle breath soothes my heart",
+    "artist": "Female Stint",
+    "creators": [
+      "Female Stint",
+      "pinniped"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 600,
+    "duration_human": "00:10:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 pinniped - the pure thin white of your hands in the dark"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/278iiq5j.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/your-gentle-breath-soothes-my-heart_018b9213e45a"
+    }
+  }
+}

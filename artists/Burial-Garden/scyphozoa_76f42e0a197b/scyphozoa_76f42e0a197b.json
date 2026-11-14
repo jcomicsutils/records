@@ -1,0 +1,31 @@
+{
+  "id": "scyphozoa_76f42e0a197b",
+  "fingerprint": "76f42e0a197b817a4af279c8e3bf92f81aa3711a13451bd7bf01371e1cf19ecf",
+  "archived_at": "2026-11-13T22:10:23Z",
+  "metadata": {
+    "title": "Scyphozoa",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2976,
+    "duration_human": "00:49:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - Scyphozoa Pt. 1",
+      "02 Burial Garden - Scyphozoa Pt. 2"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/2xj0o171.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/scyphozoa_76f42e0a197b"
+    }
+  }
+}

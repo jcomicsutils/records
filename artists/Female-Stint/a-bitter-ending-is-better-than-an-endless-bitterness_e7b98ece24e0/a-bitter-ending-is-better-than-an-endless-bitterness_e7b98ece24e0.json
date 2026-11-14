@@ -1,0 +1,31 @@
+{
+  "id": "a-bitter-ending-is-better-than-an-endless-bitterness_e7b98ece24e0",
+  "fingerprint": "e7b98ece24e066e1dcb4d3e0ff547f8923d9819a33bd420055d459b890b4cbce",
+  "archived_at": "2026-11-10T08:21:58Z",
+  "metadata": {
+    "title": "\"A bitter ending is better than an endless bitterness.\"",
+    "artist": "Female Stint",
+    "creators": [
+      "Female Stint",
+      "Kept Woman"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 5047,
+    "duration_human": "01:24:07",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kept Woman - \"A bitter ending is better than an endless bitterness.\""
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/7imqvcu6.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/a-bitter-ending-is-better-than-an-endless-bitterness_e7b98ece24e0"
+    }
+  }
+}

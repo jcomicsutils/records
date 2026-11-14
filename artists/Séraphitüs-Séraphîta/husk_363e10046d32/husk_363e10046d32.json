@@ -1,0 +1,33 @@
+{
+  "id": "husk_363e10046d32",
+  "fingerprint": "363e10046d32aefcbb14f76fd5b9d0aad0805956ffd1bbf79892daa12cd46091",
+  "archived_at": "2026-11-14T05:09:06Z",
+  "metadata": {
+    "title": "Husk",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1984,
+    "duration_human": "00:33:04",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Rapidly Declining Body Composition",
+      "02 Séraphitüs-Séraphîta - Immune Dysregulation",
+      "03 Séraphitüs-Séraphîta - Deficiencies",
+      "04 Séraphitüs-Séraphîta - Sarcopenia"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/0bv126wk.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/husk_363e10046d32"
+    }
+  }
+}

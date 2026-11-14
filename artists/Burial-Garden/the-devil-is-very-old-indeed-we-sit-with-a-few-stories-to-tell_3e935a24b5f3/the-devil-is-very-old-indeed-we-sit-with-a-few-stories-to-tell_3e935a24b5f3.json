@@ -1,0 +1,30 @@
+{
+  "id": "the-devil-is-very-old-indeed-we-sit-with-a-few-stories-to-tell_3e935a24b5f3",
+  "fingerprint": "3e935a24b5f38734ea8336643c2893e6c179a52db89998e38d7471992980a5cc",
+  "archived_at": "2026-11-13T22:26:05Z",
+  "metadata": {
+    "title": "The Devil Is Very Old Indeed (We Sit With a Few Stories to Tell)",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 980,
+    "duration_human": "00:16:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - The Meek Inherited the Earth and I Am Unimpressed With What They've Done With the Place"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/2n1tq0ra.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-devil-is-very-old-indeed-we-sit-with-a-few-stories-to-tell_3e935a24b5f3"
+    }
+  }
+}

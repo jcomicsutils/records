@@ -1,0 +1,35 @@
+{
+  "id": "nothrotheriidae_686eb43f7d24",
+  "fingerprint": "686eb43f7d240f388a55615ba2aff7f76c7be0711a7e3b4d0daf7dbed181ac93",
+  "archived_at": "2026-11-14T07:31:46Z",
+  "metadata": {
+    "title": "ℕ𝕠𝕥𝕙𝕣𝕠𝕥𝕙𝕖𝕣𝕚𝕚𝕕𝕒𝕖",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1914,
+    "duration_human": "00:31:54",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - ℕ𝕠𝕥𝕙𝕣𝕠𝕥𝕙𝕖𝕣𝕚𝕚𝕕𝕒𝕖 𝕀",
+      "02 Séraphitüs-Séraphîta - ℕ𝕠𝕥𝕙𝕣𝕠𝕥𝕙𝕖𝕣𝕚𝕚𝕕𝕒𝕖 𝕀𝕀",
+      "03 Séraphitüs-Séraphîta - ℕ𝕠𝕥𝕙𝕣𝕠𝕥𝕙𝕖𝕣𝕚𝕚𝕕𝕒𝕖 𝕀𝕀𝕀",
+      "04 Séraphitüs-Séraphîta - ℕ𝕠𝕥𝕙𝕣𝕠𝕥𝕙𝕖𝕣𝕚𝕚𝕕𝕒𝕖 𝕀𝕍",
+      "05 Séraphitüs-Séraphîta - ℕ𝕠𝕥𝕙𝕣𝕠𝕥𝕙𝕖𝕣𝕚𝕚𝕕𝕒𝕖 𝕍",
+      "06 Séraphitüs-Séraphîta - ℕ𝕠𝕥𝕙𝕣𝕠𝕥𝕙𝕖𝕣𝕚𝕚𝕕𝕒𝕖 𝕍𝕀"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/phed1zac.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/nothrotheriidae_686eb43f7d24"
+    }
+  }
+}

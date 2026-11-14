@@ -1,0 +1,31 @@
+{
+  "id": "rheonome-5_cd0f0e97de01",
+  "fingerprint": "cd0f0e97de017b7ea6599597c382ea23586f25b71514e28cb97c517a314d81b1",
+  "archived_at": "2026-11-11T03:39:29Z",
+  "metadata": {
+    "title": "Rheonome 5",
+    "artist": "Rheonome",
+    "creators": [
+      "Rheonome"
+    ],
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3621,
+    "duration_human": "01:00:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rheonome - Rheonome 5.1",
+      "02 Rheonome - Rheonome 5.2"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/34eec4nc.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/rheonome-5_cd0f0e97de01"
+    }
+  }
+}

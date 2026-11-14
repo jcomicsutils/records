@@ -1,0 +1,30 @@
+{
+  "id": "eleutheromania_783963e9bbe6",
+  "fingerprint": "783963e9bbe64cc9058db031e3483ea6e3a68b612c55d1a114200ea138899f99",
+  "archived_at": "2026-11-14T03:57:45Z",
+  "metadata": {
+    "title": "Eleutheromania",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2004,
+    "duration_human": "00:33:24",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Eleutheromania (Live)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/kyn384uc.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/eleutheromania_783963e9bbe6"
+    }
+  }
+}

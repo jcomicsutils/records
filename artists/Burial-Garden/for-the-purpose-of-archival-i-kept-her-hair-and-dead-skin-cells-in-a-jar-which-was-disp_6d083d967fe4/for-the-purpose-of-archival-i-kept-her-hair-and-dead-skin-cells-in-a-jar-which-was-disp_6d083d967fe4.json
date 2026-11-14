@@ -1,0 +1,30 @@
+{
+  "id": "for-the-purpose-of-archival-i-kept-her-hair-and-dead-skin-cells-in-a-jar-which-was-disp_6d083d967fe4",
+  "fingerprint": "6d083d967fe4d2d06a9499e3ba527b2b1176eff3204495859ad1418b42f8d615",
+  "archived_at": "2026-11-13T21:11:35Z",
+  "metadata": {
+    "title": "For the Purpose of Archival I Kept Her Hair and Dead Skin Cells in a Jar, Which Was Displayed on the Mantle Above My Fireplace",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 465,
+    "duration_human": "00:07:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - A River Runs Through My Heart and Explodes Through My Chest"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/0k8s6f2v.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/for-the-purpose-of-archival-i-kept-her-hair-and-dead-skin-cells-in-a-jar-which-was-disp_6d083d967fe4"
+    }
+  }
+}

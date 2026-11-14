@@ -1,0 +1,30 @@
+{
+  "id": "stage-blight_b2849f631926",
+  "fingerprint": "b2849f631926094253c1e23367f7f9800573f4a97fed94e9ee14b488964e43bb",
+  "archived_at": "2026-11-13T22:16:28Z",
+  "metadata": {
+    "title": "Stage Blight",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2446,
+    "duration_human": "00:40:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - Looming Eyes Lurching Jellyfish Horde Small Distraction Clouds Will Tell You Otherwise"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/no2xecxp.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/stage-blight_b2849f631926"
+    }
+  }
+}

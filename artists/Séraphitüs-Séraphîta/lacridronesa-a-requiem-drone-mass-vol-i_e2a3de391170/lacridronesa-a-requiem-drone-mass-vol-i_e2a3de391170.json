@@ -1,0 +1,33 @@
+{
+  "id": "lacridronesa-a-requiem-drone-mass-vol-i_e2a3de391170",
+  "fingerprint": "e2a3de3911701e8517c17d691eead0f5cc290eb921682e1541683e51c2a8bd61",
+  "archived_at": "2026-11-14T06:01:20Z",
+  "metadata": {
+    "title": "Lacridronesa | A Requiem Drone Mass, Vol. I",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2664,
+    "duration_human": "00:44:24",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Movement I",
+      "02 Séraphitüs-Séraphîta - Movement II",
+      "03 Séraphitüs-Séraphîta - Movement III",
+      "04 Séraphitüs-Séraphîta - Movement IV"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/2l4rptb4.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/lacridronesa-a-requiem-drone-mass-vol-i_e2a3de391170"
+    }
+  }
+}

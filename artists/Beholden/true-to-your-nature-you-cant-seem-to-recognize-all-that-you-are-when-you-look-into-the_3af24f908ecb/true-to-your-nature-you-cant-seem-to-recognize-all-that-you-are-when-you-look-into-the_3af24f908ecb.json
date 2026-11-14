@@ -1,0 +1,30 @@
+{
+  "id": "true-to-your-nature-you-cant-seem-to-recognize-all-that-you-are-when-you-look-into-the_3af24f908ecb",
+  "fingerprint": "3af24f908ecba4fdd6657f5908c5469aeb289817c45441ae4d8a39977c966cea",
+  "archived_at": "2026-11-13T19:13:55Z",
+  "metadata": {
+    "title": "True to your nature, you can't seem to recognize all that you are when you look into the mirror.",
+    "artist": "Beholden",
+    "creators": [
+      "Beholden"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3790,
+    "duration_human": "01:03:10",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Beholden - You might not see what I see, but I will always tell you all the same. You are marvelous, inspiring, and so comforting. I won't ask anything from you except that you know I will always love you. I am so grateful you were born."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ioo5g17a.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/true-to-your-nature-you-cant-seem-to-recognize-all-that-you-are-when-you-look-into-the_3af24f908ecb"
+    }
+  }
+}

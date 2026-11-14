@@ -1,0 +1,30 @@
+{
+  "id": "subtraction_968de756a6c2",
+  "fingerprint": "968de756a6c24229b86c7e6a56f6921bbbf212b068d888cb4574aaa8ceee4bcf",
+  "archived_at": "2026-11-14T02:30:59Z",
+  "metadata": {
+    "title": "subtraction",
+    "artist": "arboreal",
+    "creators": [
+      "arboreal"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 arboreal - subtraction"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/lbwxicgf.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/subtraction_968de756a6c2"
+    }
+  }
+}

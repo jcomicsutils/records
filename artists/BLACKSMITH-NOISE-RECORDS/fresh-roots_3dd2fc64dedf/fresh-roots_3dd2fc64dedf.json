@@ -1,0 +1,40 @@
+{
+  "id": "fresh-roots_3dd2fc64dedf",
+  "fingerprint": "3dd2fc64dedfbb32fa52ce515b96bfc8072b09e396056a2b656cd4d99738d630",
+  "archived_at": "2026-11-10T02:54:21Z",
+  "metadata": {
+    "title": "Fresh Roots",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "MCL"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2805,
+    "duration_human": "00:46:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 MCL - Canvas Soil",
+      "02 MCL - Aeration",
+      "03 MCL - Weather Favorable",
+      "04 MCL - Canvas Rhizogenesis",
+      "05 MCL - Gravitrop",
+      "06 MCL - Photoprop",
+      "07 MCL - Thigmotrop",
+      "08 MCL - Phonotrop",
+      "09 MCL - Ceramic Moss Angels",
+      "10 MCL - Adventitious"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/8pibu62b.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/fresh-roots_3dd2fc64dedf"
+    }
+  }
+}

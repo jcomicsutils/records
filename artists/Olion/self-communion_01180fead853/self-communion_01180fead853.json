@@ -1,0 +1,30 @@
+{
+  "id": "self-communion_01180fead853",
+  "fingerprint": "01180fead853ad621b2b75b07f34da5bf2f992452d7a52077f14403fb6837cc4",
+  "archived_at": "2026-11-14T02:21:20Z",
+  "metadata": {
+    "title": "Self-Communion",
+    "artist": "Olion",
+    "creators": [
+      "Olion"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2217,
+    "duration_human": "00:36:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Olion - Self-Communion"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/vvcnz98q.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/self-communion_01180fead853"
+    }
+  }
+}

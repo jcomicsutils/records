@@ -1,0 +1,33 @@
+{
+  "id": "viiib-autumn-vi_e670caad585f",
+  "fingerprint": "e670caad585f84c9917f9e9d074af3b507af6214a53cbb0631b90b4276d26451",
+  "archived_at": "2026-11-14T08:17:22Z",
+  "metadata": {
+    "title": "VIIIB (Autumn VI)",
+    "artist": "Zeffon",
+    "creators": [
+      "Zeffon"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 6802,
+    "duration_human": "01:53:22",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Maunorhbhhdubn-VIIB-2Ezajwajdub",
+      "02 Zeffon - Spiriixrbhban",
+      "03 Zeffon - Hidden Eye",
+      "04 Zeffon - Onbbhhhundaumr"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/6d502qrh.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/viiib-autumn-vi_e670caad585f"
+    }
+  }
+}

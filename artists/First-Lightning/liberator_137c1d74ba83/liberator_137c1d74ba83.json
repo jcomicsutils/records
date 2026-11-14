@@ -1,0 +1,33 @@
+{
+  "id": "liberator_137c1d74ba83",
+  "fingerprint": "137c1d74ba83da1039bbca7c0daf54f741f05fcb9075ee1c41234047cd7b7d91",
+  "archived_at": "2026-11-10T09:48:53Z",
+  "metadata": {
+    "title": "Liberator",
+    "artist": "Female Stint",
+    "creators": [
+      "Female Stint",
+      "First Lightning"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 545,
+    "duration_human": "00:09:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 First Lightning - Unraveling DNA",
+      "02 First Lightning - Robert Döpel",
+      "03 First Lightning - Victim of Circumstance"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/rwrsxi33.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/liberator_137c1d74ba83"
+    }
+  }
+}

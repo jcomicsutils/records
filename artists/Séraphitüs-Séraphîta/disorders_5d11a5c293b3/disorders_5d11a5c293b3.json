@@ -1,0 +1,33 @@
+{
+  "id": "disorders_5d11a5c293b3",
+  "fingerprint": "5d11a5c293b310eeb5f96a518090938cf7ffe962c2c885f31c9dda1bc9ed839d",
+  "archived_at": "2026-11-14T03:25:54Z",
+  "metadata": {
+    "title": "disorders",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2703,
+    "duration_human": "00:45:03",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - bruxism",
+      "02 Séraphitüs-Séraphîta - lockjaw",
+      "03 Séraphitüs-Séraphîta - orofacial pain",
+      "04 Séraphitüs-Séraphîta - temporomandibular joint dysfunction"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/8kk3c0zo.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/disorders_5d11a5c293b3"
+    }
+  }
+}

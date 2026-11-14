@@ -1,0 +1,32 @@
+{
+  "id": "hnb_f4f8de1d1c24",
+  "fingerprint": "f4f8de1d1c24b2f2a3cf1453f08ac0938477147b3100ab29e53e6be10697b608",
+  "archived_at": "2026-11-10T03:00:04Z",
+  "metadata": {
+    "title": "HNB",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "RDKPL"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1233,
+    "duration_human": "00:20:33",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 RDKPL - 251130_03",
+      "02 RDKPL - 251130_04"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/t7kwop9j.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/hnb_f4f8de1d1c24"
+    }
+  }
+}

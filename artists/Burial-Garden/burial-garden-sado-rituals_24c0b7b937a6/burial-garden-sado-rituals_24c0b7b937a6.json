@@ -1,0 +1,32 @@
+{
+  "id": "burial-garden-sado-rituals_24c0b7b937a6",
+  "fingerprint": "24c0b7b937a6c970e1c5cda8318ddece81aa8e75f5518194b98005f4085fa326",
+  "archived_at": "2026-11-13T19:58:43Z",
+  "metadata": {
+    "title": "Burial Garden / Sado Rituals",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden",
+      "Sado Rituals"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3650,
+    "duration_human": "01:00:50",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - Im Walking Until My Heels Bleed Just Trying to Find You",
+      "02 Sado Rituals - Misled by False Freedom I Wander Through the Debris of the Very Last Hope to Reach Your Divine, Healing Touch"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/q3gn1o61.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/burial-garden-sado-rituals_24c0b7b937a6"
+    }
+  }
+}

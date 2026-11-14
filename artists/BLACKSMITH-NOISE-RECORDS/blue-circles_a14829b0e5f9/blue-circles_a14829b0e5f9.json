@@ -1,0 +1,39 @@
+{
+  "id": "blue-circles_a14829b0e5f9",
+  "fingerprint": "a14829b0e5f9e4c0975e044d2130c7ad6b2fb6c73911f777d76440d49e6b29bd",
+  "archived_at": "2026-11-10T02:25:49Z",
+  "metadata": {
+    "title": "Blue Circles",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "dead garage"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2556,
+    "duration_human": "00:42:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 dead garage - Memories' Forecast",
+      "02 dead garage - Trust this door",
+      "03 dead garage - Safety if questioned",
+      "04 dead garage - Mademoiselle Hypnotique",
+      "05 dead garage - Action figures on the floor",
+      "06 dead garage - Find the arcade, and win",
+      "07 dead garage - Neon before departure",
+      "08 dead garage - No goodbye",
+      "09 dead garage - No escape"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/jspsvbs3.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/blue-circles_a14829b0e5f9"
+    }
+  }
+}

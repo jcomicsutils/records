@@ -1,0 +1,30 @@
+{
+  "id": "abandoned_df9131c5177c",
+  "fingerprint": "df9131c5177c057fc1a51969dc262fe6a03207afedad8331aa85d0a9715a1a7f",
+  "archived_at": "2026-11-13T23:10:02Z",
+  "metadata": {
+    "title": "Abandoned",
+    "artist": "Manikin",
+    "creators": [
+      "Manikin"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1799,
+    "duration_human": "00:29:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Manikin - Abandoned"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/0690lkpq.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/abandoned_df9131c5177c"
+    }
+  }
+}

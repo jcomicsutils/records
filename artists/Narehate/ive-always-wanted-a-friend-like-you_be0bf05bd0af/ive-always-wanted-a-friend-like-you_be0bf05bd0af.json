@@ -1,0 +1,30 @@
+{
+  "id": "ive-always-wanted-a-friend-like-you_be0bf05bd0af",
+  "fingerprint": "be0bf05bd0afcb15fa4716a7e12687d79e56510dd42680626bed61305ca82399",
+  "archived_at": "2026-11-10T12:42:57Z",
+  "metadata": {
+    "title": "I've always wanted a friend like you.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3924,
+    "duration_human": "01:05:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - _"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/93wodlvi.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/ive-always-wanted-a-friend-like-you_be0bf05bd0af"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "spectre-horsemen-pale-with-dust_7765f3284434",
+  "fingerprint": "7765f328443428a852b89d625acfa3bbcd9a9802d0215499093f2a5f4093fc14",
+  "archived_at": "2026-11-10T04:54:52Z",
+  "metadata": {
+    "title": "Spectre Horsemen, Pale With Dust",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "Spectre Horsemen, Pale With Dust"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2716,
+    "duration_human": "00:45:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Spectre Horsemen, Pale With Dust - Construct or Frequencies and White Noise",
+      "02 Spectre Horsemen, Pale With Dust - Parched, He Lay Down in the Ceaseless Dunes",
+      "03 Spectre Horsemen, Pale With Dust - Devorado por la Noche",
+      "04 Spectre Horsemen, Pale With Dust - Deconstruct or Substructure Interlude",
+      "05 Spectre Horsemen, Pale With Dust - Oh My God, It’s Me. I’m Dead. I’ve Been Dead All the Time.",
+      "06 Spectre Horsemen, Pale With Dust - The Stars Gaze Back",
+      "07 Spectre Horsemen, Pale With Dust - Reconstruct or the Ascension of Frequencies and White Noise"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/3f1mc8e0.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/spectre-horsemen-pale-with-dust_7765f3284434"
+    }
+  }
+}

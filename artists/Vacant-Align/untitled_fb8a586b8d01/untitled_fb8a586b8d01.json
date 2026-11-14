@@ -1,0 +1,30 @@
+{
+  "id": "untitled_fb8a586b8d01",
+  "fingerprint": "fb8a586b8d013f05ef775e2421b8dafae364e1b7810132826bc5873406b6c289",
+  "archived_at": "2026-11-14T01:36:01Z",
+  "metadata": {
+    "title": "[untitled]",
+    "artist": "Vacant Align",
+    "creators": [
+      "Vacant Align"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2700,
+    "duration_human": "00:45:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Vacant Align - [untitled]"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/nbpya9ep.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/untitled_fb8a586b8d01"
+    }
+  }
+}

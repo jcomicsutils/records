@@ -1,0 +1,31 @@
+{
+  "id": "johanna-beyers-music-of-the-spheres-reinterpreted-by-ugurgkuliktavikt_a8f4fc2f603c",
+  "fingerprint": "a8f4fc2f603cd1c82c9aa90a189cb5936ec1a8838d8daba4a593c7760d82739f",
+  "archived_at": "2026-11-10T03:21:34Z",
+  "metadata": {
+    "title": "Johanna Beyer's ‘Music of the Spheres’: reinterpreted by UgUrGkuliktavikt",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "UgUrGkuliktavikt"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3000,
+    "duration_human": "00:50:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 UgUrGkuliktavikt - Johanna"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/jlkpciov.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/johanna-beyers-music-of-the-spheres-reinterpreted-by-ugurgkuliktavikt_a8f4fc2f603c"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "is-my-face-supposed-to-be-farther-back_10e5bd9d951e",
+  "fingerprint": "10e5bd9d951eb7ea84411610be3bb871d0ba3c218f4ef7169b790a59afecc08f",
+  "archived_at": "2026-11-10T13:13:09Z",
+  "metadata": {
+    "title": "Is my face supposed to be farther back...?",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4444,
+    "duration_human": "01:14:04",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - Back... where is that again? Where... is where again?"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/4so4532p.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/is-my-face-supposed-to-be-farther-back_10e5bd9d951e"
+    }
+  }
+}

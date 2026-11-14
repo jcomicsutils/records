@@ -1,0 +1,30 @@
+{
+  "id": "im-so-depressed-single_66c0877aabda",
+  "fingerprint": "66c0877aabdafec16f3b1159a8f0a7d5a7f85f72b7c5031d1435dd216239e20f",
+  "archived_at": "2026-11-14T05:25:10Z",
+  "metadata": {
+    "title": "I’m so depressed… (Single)",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 812,
+    "duration_human": "00:13:32",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - \"I'm so depressed...\""
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/qwz35pyi.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/im-so-depressed-single_66c0877aabda"
+    }
+  }
+}

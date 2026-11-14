@@ -1,0 +1,30 @@
+{
+  "id": "cold-beers-in-my-kitchen_9c367ce63d53",
+  "fingerprint": "9c367ce63d539e13597818fb123b5072d9d11398dc85891006df47e4667f4de4",
+  "archived_at": "2026-11-13T20:27:19Z",
+  "metadata": {
+    "title": "Cold Beers in My Kitchen",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1303,
+    "duration_human": "00:21:43",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - We Played Plushies"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/jy4xeh0l.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/cold-beers-in-my-kitchen_9c367ce63d53"
+    }
+  }
+}

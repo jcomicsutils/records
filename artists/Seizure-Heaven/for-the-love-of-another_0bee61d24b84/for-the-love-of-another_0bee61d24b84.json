@@ -1,0 +1,33 @@
+{
+  "id": "for-the-love-of-another_0bee61d24b84",
+  "fingerprint": "0bee61d24b841b09010177ac941a1634e15ae943e8d1578470438e6ad2f5c174",
+  "archived_at": "2026-11-10T08:47:10Z",
+  "metadata": {
+    "title": "For the Love of Another",
+    "artist": "Female Stint",
+    "creators": [
+      "Female Stint",
+      "Seizure Heaven",
+      "Kept Woman"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3328,
+    "duration_human": "00:55:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Seizure Heaven - Between the Hours of 6:00 and 7:00",
+      "02 Kept Woman - \"Her garments, heavy with their drink\""
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/dvcn1vxe.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/for-the-love-of-another_0bee61d24b84"
+    }
+  }
+}

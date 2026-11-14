@@ -1,0 +1,34 @@
+{
+  "id": "shimarihaerrendattaat-first-we-were-two_ca5b9ea75b58",
+  "fingerprint": "ca5b9ea75b58c4c5a71f502291f9c92bac437e5e6c65e694358ac93b6c2f8d32",
+  "archived_at": "2026-11-10T08:11:07Z",
+  "metadata": {
+    "title": "「始まりは二人だった」At first, we were two.",
+    "artist": "Female Stint",
+    "creators": [
+      "Female Stint",
+      "Kept Woman"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 7200,
+    "duration_human": "02:00:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kept Woman - 「きらきらぽろぽろ」Glittering in pieces",
+      "02 Kept Woman - 「甘くてわらかい」Soft and sweet",
+      "03 Kept Woman - 「愛の色」The color of love",
+      "04 Kept Woman - 「私たちの世界の色」The color of our world"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/f9befndg.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/shimarihaerrendattaat-first-we-were-two_ca5b9ea75b58"
+    }
+  }
+}

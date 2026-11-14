@@ -1,0 +1,30 @@
+{
+  "id": "petals-trodden-into-the-carpet_8eeb4e789c12",
+  "fingerprint": "8eeb4e789c12c60c769902409e53ae8ed8089717ea8b18ff9b8bc2537f550439",
+  "archived_at": "2026-11-14T02:17:17Z",
+  "metadata": {
+    "title": "petals trodden into the carpet.",
+    "artist": "Silver Dove",
+    "creators": [
+      "Silver Dove"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1408,
+    "duration_human": "00:23:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Silver Dove - helpless"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/v9yrs5rp.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/petals-trodden-into-the-carpet_8eeb4e789c12"
+    }
+  }
+}

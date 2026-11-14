@@ -1,0 +1,30 @@
+{
+  "id": "ive-seen-off-all-kinds-of-people-setting-out-on-journeys-they-wont-ever-return-from_e0759b4c0929",
+  "fingerprint": "e0759b4c0929861f13c39dbe47f05c5a38cb56221bb7008b6349375644c7f57f",
+  "archived_at": "2026-11-10T12:51:08Z",
+  "metadata": {
+    "title": "I've seen off all kinds of people setting out on journeys they won't ever return from.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3864,
+    "duration_human": "01:04:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - But today is the saddest I've ever felt."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/3ufaka0g.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/ive-seen-off-all-kinds-of-people-setting-out-on-journeys-they-wont-ever-return-from_e0759b4c0929"
+    }
+  }
+}

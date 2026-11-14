@@ -1,0 +1,34 @@
+{
+  "id": "boskoi_ed8f5d3fa090",
+  "fingerprint": "ed8f5d3fa090eee43d2ea2ed150703a7a1a9641f67e73b1eea1cc8b1320daadc",
+  "archived_at": "2026-11-10T16:39:19Z",
+  "metadata": {
+    "title": "Boskoi",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1796,
+    "duration_human": "00:29:56",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Boskoi I",
+      "02 Séraphitüs-Séraphîta - Boskoi II",
+      "03 Séraphitüs-Séraphîta - Boskoi III",
+      "04 Séraphitüs-Séraphîta - Boskoi IV",
+      "05 Séraphitüs-Séraphîta - Boskoi V"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/nfa4od0v.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/boskoi_ed8f5d3fa090"
+    }
+  }
+}

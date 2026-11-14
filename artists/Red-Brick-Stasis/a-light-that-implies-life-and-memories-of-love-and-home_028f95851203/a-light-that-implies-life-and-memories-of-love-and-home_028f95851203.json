@@ -1,0 +1,30 @@
+{
+  "id": "a-light-that-implies-life-and-memories-of-love-and-home_028f95851203",
+  "fingerprint": "028f9585120348cfb33f30d24cb09463b92c2c4bc87d25fe82db79250f2eb953",
+  "archived_at": "2026-11-14T01:44:46Z",
+  "metadata": {
+    "title": "A Light That Implies Life and Memories of Love and Home",
+    "artist": "Red Brick Stasis",
+    "creators": [
+      "Red Brick Stasis"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1811,
+    "duration_human": "00:30:11",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Red Brick Stasis - Dust Motes Suspended in Golden Light"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/5b7kcrvb.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/a-light-that-implies-life-and-memories-of-love-and-home_028f95851203"
+    }
+  }
+}

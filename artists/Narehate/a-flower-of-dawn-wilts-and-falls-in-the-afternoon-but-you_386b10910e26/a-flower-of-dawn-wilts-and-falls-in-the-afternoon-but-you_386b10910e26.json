@@ -1,0 +1,30 @@
+{
+  "id": "a-flower-of-dawn-wilts-and-falls-in-the-afternoon-but-you_386b10910e26",
+  "fingerprint": "386b10910e26fae19df0bceaebb09216f3feafc583661c33a71f6ce0251c3e2f",
+  "archived_at": "2026-11-10T10:55:02Z",
+  "metadata": {
+    "title": "A \"flower of dawn\" wilts and falls in the afternoon, but you...",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3231,
+    "duration_human": "00:53:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - No matter how deep the darkness of the netherworld becomes, you'll be fine."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/u99ppx2j.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/a-flower-of-dawn-wilts-and-falls-in-the-afternoon-but-you_386b10910e26"
+    }
+  }
+}

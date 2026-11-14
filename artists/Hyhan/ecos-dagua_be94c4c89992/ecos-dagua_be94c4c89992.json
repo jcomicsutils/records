@@ -1,0 +1,31 @@
+{
+  "id": "ecos-dagua_be94c4c89992",
+  "fingerprint": "be94c4c89992ae05eb406e9bc6b3fb16d1ae6b9888041d41e50a988c869c7f55",
+  "archived_at": "2026-11-10T02:41:53Z",
+  "metadata": {
+    "title": "Ecos d'água",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "Hyhan"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 235,
+    "duration_human": "00:03:55",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Hyhan - Ecos d'água"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/5ctsk6im.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/ecos-dagua_be94c4c89992"
+    }
+  }
+}

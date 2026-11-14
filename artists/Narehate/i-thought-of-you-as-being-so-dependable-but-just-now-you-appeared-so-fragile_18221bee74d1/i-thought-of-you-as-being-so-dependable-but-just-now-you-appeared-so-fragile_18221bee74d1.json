@@ -1,0 +1,30 @@
+{
+  "id": "i-thought-of-you-as-being-so-dependable-but-just-now-you-appeared-so-fragile_18221bee74d1",
+  "fingerprint": "18221bee74d10ac58a1c88ba93c2ac43599a3fdd0b7f68ca10db618bae5ec33b",
+  "archived_at": "2026-11-10T12:35:57Z",
+  "metadata": {
+    "title": "I thought of you as being so dependable, but just now you appeared so fragile.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3744,
+    "duration_human": "01:02:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - _"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/sjc8eioi.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/i-thought-of-you-as-being-so-dependable-but-just-now-you-appeared-so-fragile_18221bee74d1"
+    }
+  }
+}

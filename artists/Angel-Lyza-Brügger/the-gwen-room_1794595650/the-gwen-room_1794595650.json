@@ -1,0 +1,31 @@
+{
+  "id": "the-gwen-room_1794595650",
+  "fingerprint": "0af02fd95718401d598f04475fd9132dbff8f5f30a383d966fd27b0e86f56ae4",
+  "archived_at": "2026-11-13T18:47:30Z",
+  "metadata": {
+    "title": "The Gwen Room",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B.",
+      "Angel Lyza Brügger"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2400,
+    "duration_human": "00:40:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel Lyza Brügger - The Gwen Room"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/j4asy46k.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-gwen-room_0af02fd95718"
+    }
+  }
+}

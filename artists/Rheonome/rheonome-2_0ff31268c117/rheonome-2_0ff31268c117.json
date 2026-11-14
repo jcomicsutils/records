@@ -1,0 +1,30 @@
+{
+  "id": "rheonome-2_0ff31268c117",
+  "fingerprint": "0ff31268c117b90e4656e7c496743778695362410e1e67efa7b89879ddbb6f39",
+  "archived_at": "2026-11-11T03:17:13Z",
+  "metadata": {
+    "title": "Rheonome 2",
+    "artist": "Rheonome",
+    "creators": [
+      "Rheonome"
+    ],
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rheonome - Rheonome 2"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/0v4bjdn9.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/rheonome-2_0ff31268c117"
+    }
+  }
+}

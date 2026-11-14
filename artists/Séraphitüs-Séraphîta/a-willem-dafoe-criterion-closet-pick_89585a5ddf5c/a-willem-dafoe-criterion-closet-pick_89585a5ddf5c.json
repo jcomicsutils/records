@@ -1,0 +1,32 @@
+{
+  "id": "a-willem-dafoe-criterion-closet-pick_89585a5ddf5c",
+  "fingerprint": "89585a5ddf5c1501957371f4c14b63818990c9b7e43825901815f4c60c9a9e12",
+  "archived_at": "2026-11-10T16:25:00Z",
+  "metadata": {
+    "title": "A Willem Dafoe Criterion Closet Pick",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1373,
+    "duration_human": "00:22:53",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Drei Klavierstücke, D. 946 - No. 1 in E-Flat (Allegro Assai — Tempo 1)",
+      "02 Séraphitüs-Séraphîta - A Willem Dafoe Criterion Closet Pick",
+      "03 Séraphitüs-Séraphîta - The Piano Teacher"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/qqi5g15t.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/a-willem-dafoe-criterion-closet-pick_89585a5ddf5c"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "well-always-be-together-okay_1021984e8443",
+  "fingerprint": "1021984e84437c5488c1ad7166696e98aae349cfeb5340cd9ae66ee7f8a7f1c9",
+  "archived_at": "2026-11-10T15:37:46Z",
+  "metadata": {
+    "title": "We'll always be together, okay?",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4928,
+    "duration_human": "01:22:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - _"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/xoberon7.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/well-always-be-together-okay_1021984e8443"
+    }
+  }
+}

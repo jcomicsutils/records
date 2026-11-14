@@ -1,0 +1,34 @@
+{
+  "id": "wrenched_3ce6c653eb89",
+  "fingerprint": "3ce6c653eb896c282e9402074c7bd522f5a4f838e162f0e3402ba3f1d979d12c",
+  "archived_at": "2026-11-10T07:30:07Z",
+  "metadata": {
+    "title": "WRENCHED",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "FREEBASS"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 822,
+    "duration_human": "00:13:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 FREEBASS - WRENCHED #1",
+      "02 FREEBASS - WRENCHED #2",
+      "03 FREEBASS - WRENCHED #3",
+      "04 FREEBASS - WRENCHED #4"
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/wrenched_3ce6c653eb89"
+    },
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/x1tgfjdk.tar"
+    }
+  }
+}

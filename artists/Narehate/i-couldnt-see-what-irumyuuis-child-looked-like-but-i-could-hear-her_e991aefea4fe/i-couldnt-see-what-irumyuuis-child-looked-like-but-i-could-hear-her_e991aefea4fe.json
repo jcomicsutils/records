@@ -1,0 +1,30 @@
+{
+  "id": "i-couldnt-see-what-irumyuuis-child-looked-like-but-i-could-hear-her_e991aefea4fe",
+  "fingerprint": "e991aefea4fe0e12c23345047fc5342909d5403faa9f2161587dce0e6e8a0d5e",
+  "archived_at": "2026-11-10T11:44:01Z",
+  "metadata": {
+    "title": "I couldn't see what Irumyuui's child looked like, but I could hear her.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3000,
+    "duration_human": "00:50:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - She was screaming out with her whole being about the regrets of her countless siblings, about how her mother's soul was imprisoned flesh turned into a place to live."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/jt59wyd7.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/i-couldnt-see-what-irumyuuis-child-looked-like-but-i-could-hear-her_e991aefea4fe"
+    }
+  }
+}

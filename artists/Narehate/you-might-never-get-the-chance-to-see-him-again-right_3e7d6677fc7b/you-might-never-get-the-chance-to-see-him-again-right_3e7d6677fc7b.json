@@ -1,0 +1,30 @@
+{
+  "id": "you-might-never-get-the-chance-to-see-him-again-right_3e7d6677fc7b",
+  "fingerprint": "3e7d6677fc7b2ae474cce5b5a0f8eb03d8e1f3ff3ed1919899110a83a4d5ac02",
+  "archived_at": "2026-11-10T15:52:02Z",
+  "metadata": {
+    "title": "You might never get the chance to see him again, right?",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3648,
+    "duration_human": "01:00:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - Do you really want to just leave things unresolved like this?"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/i0e3braw.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/you-might-never-get-the-chance-to-see-him-again-right_3e7d6677fc7b"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "split_963340c568ef",
+  "fingerprint": "963340c568ef81ccc5662ee33718e2e8129a6409402bd47465dc05b2cc124c51",
+  "archived_at": "2026-11-10T05:00:56Z",
+  "metadata": {
+    "title": "split",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "guizhou drainer",
+      "livingmyknife"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 3404,
+    "duration_human": "00:56:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 guizhou drainer - untitled",
+      "02 guizhou drainer - before i begin",
+      "03 guizhou drainer - cosmogonic hunchback",
+      "04 guizhou drainer - baryonic and fermionic mysticism",
+      "05 livingmyknife - extremespeedinternaldestruction",
+      "06 livingmyknife - localmassextinctionevent",
+      "07 livingmyknife - rottingpovertybody",
+      "08 livingmyknife - geneticpredispositiontodepression",
+      "09 livingmyknife - ecocide…",
+      "10 livingmyknife - aa!!+@"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/tp39x7br.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/split_963340c568ef"
+    }
+  }
+}

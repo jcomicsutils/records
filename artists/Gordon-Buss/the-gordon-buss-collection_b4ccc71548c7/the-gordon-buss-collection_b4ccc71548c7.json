@@ -1,0 +1,42 @@
+{
+  "id": "the-gordon-buss-collection_b4ccc71548c7",
+  "fingerprint": "b4ccc71548c7cb5fa280f8d72a7637da000b87e81eae191d7c4411ea9c5c6d95",
+  "archived_at": "2026-11-10T05:18:44Z",
+  "metadata": {
+    "title": "The Gordon Buss Collection",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "Gordon Buss"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 3171,
+    "duration_human": "00:52:51",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Gordon Buss - Black Vinyl",
+      "02 Gordon Buss - Spinning",
+      "03 Gordon Buss - Hello Dark Church",
+      "04 Gordon Buss - 16.4.25",
+      "05 Gordon Buss - The Oxford Trilogy",
+      "06 Gordon Buss - Second Four Minutes (from Twelve Minutes One Morning)",
+      "07 Gordon Buss - Sealed",
+      "08 Gordon Buss - Soft Skin in a Concrete World. Improvisation #7",
+      "09 Gordon Buss - All The Unheard Voices of the World are Deafening Me",
+      "10 Gordon Buss - Stone Pick. Improvisation #24",
+      "11 Gordon Buss - Improvisation #21 Into The Woods.",
+      "12 Gordon Buss - Fresh Water Pearls."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/nfj2zfle.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-gordon-buss-collection_b4ccc71548c7"
+    }
+  }
+}

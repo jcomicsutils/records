@@ -1,0 +1,37 @@
+{
+  "id": "iphigenia_b3c432c40623",
+  "fingerprint": "b3c432c4062352d625f2f886f3414ef74023f2fbf04b393e17cf074f5176f5e6",
+  "archived_at": "2026-11-14T05:54:08Z",
+  "metadata": {
+    "title": "IPHIGENIA",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 1291,
+    "duration_human": "00:21:31",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Intro: The Grecian Princess",
+      "02 Séraphitüs-Séraphîta - \"Oh, Immovable Law of Heaven!\"",
+      "03 Séraphitüs-Séraphîta - With Noble Blood",
+      "04 Séraphitüs-Séraphîta - To the Altar (Funereal Interlude)",
+      "05 Séraphitüs-Séraphîta - Taken to Live Amongst the Gods",
+      "06 Séraphitüs-Séraphîta - And In Her Place, A Deer",
+      "07 Séraphitüs-Séraphîta - Outro: Reunion With Orestes",
+      "08 Séraphitüs-Séraphîta - Bonus Track: Quotidian (Schwarzer Tag Remix) [Lydian Fields + Taken to Live Amongst the Gods]"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/m5laf0oz.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/iphigenia_b3c432c40623"
+    }
+  }
+}

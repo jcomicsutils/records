@@ -1,0 +1,32 @@
+{
+  "id": "yaumhum_2cd22c74ff15",
+  "fingerprint": "2cd22c74ff1570b298ad723f2ac6c8f1c73763fa07068baa9780e042e5191db0",
+  "archived_at": "2026-11-10T07:45:19Z",
+  "metadata": {
+    "title": "ЯUMHUM",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "Soloman Tump"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3222,
+    "duration_human": "00:53:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Soloman Tump - ЯUMHUM",
+      "02 Soloman Tump - MUHMUR"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/wy7p1ma4.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/yaumhum_2cd22c74ff15"
+    }
+  }
+}

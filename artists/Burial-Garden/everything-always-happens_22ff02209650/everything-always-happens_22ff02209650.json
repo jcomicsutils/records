@@ -1,0 +1,30 @@
+{
+  "id": "everything-always-happens_22ff02209650",
+  "fingerprint": "22ff022096502a5837498c681476f9fd6576b90c50a468e9f7923e82434a4f13",
+  "archived_at": "2026-11-13T20:54:10Z",
+  "metadata": {
+    "title": "Everything Always Happens",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1701,
+    "duration_human": "00:28:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - Everything Always Happens"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/sf892nb3.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/everything-always-happens_22ff02209650"
+    }
+  }
+}

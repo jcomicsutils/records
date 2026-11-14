@@ -1,0 +1,30 @@
+{
+  "id": "electroanaesthesia-single_28d9a54e4746",
+  "fingerprint": "28d9a54e474618d55db4ffb2e43c66bc416b6af6343a8bb362fdc68de3650fbe",
+  "archived_at": "2026-11-14T03:41:57Z",
+  "metadata": {
+    "title": "Electroanaesthesia (Single)",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 677,
+    "duration_human": "00:11:17",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Electroanaesthesia"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/n2em1aq2.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/electroanaesthesia-single_28d9a54e4746"
+    }
+  }
+}

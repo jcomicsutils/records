@@ -1,0 +1,31 @@
+{
+  "id": "music-box_6b194e9dbb2c",
+  "fingerprint": "6b194e9dbb2ce8ac51682cc4f3c7b5e323907ead7917ad544414eec7cec7328b",
+  "archived_at": "2026-11-10T09:56:21Z",
+  "metadata": {
+    "title": "Music Box",
+    "artist": "Female Stint",
+    "creators": [
+      "Female Stint",
+      "The Flesh, Full of Black Sand"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1022,
+    "duration_human": "00:17:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 The Flesh, Full of Black Sand - Music Box"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/3i8672ym.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/music-box_6b194e9dbb2c"
+    }
+  }
+}

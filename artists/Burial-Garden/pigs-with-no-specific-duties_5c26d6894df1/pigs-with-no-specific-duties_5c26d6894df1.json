@@ -1,0 +1,30 @@
+{
+  "id": "pigs-with-no-specific-duties_5c26d6894df1",
+  "fingerprint": "5c26d6894df1db24c75de92647761d94b9527cdf2a1d868bcf995c86f1abd79d",
+  "archived_at": "2026-11-13T22:00:11Z",
+  "metadata": {
+    "title": "Pigs With No Specific Duties",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2570,
+    "duration_human": "00:42:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - There Is No God and Mary Is His Mother"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/dn3meqrw.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/pigs-with-no-specific-duties_5c26d6894df1"
+    }
+  }
+}

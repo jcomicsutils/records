@@ -1,0 +1,34 @@
+{
+  "id": "dies-rationis_63e40e4ce02d",
+  "fingerprint": "63e40e4ce02d4eb315d0491fdb796dcf53f1a7dfc4c821d91cf13e54f3989774",
+  "archived_at": "2026-11-14T02:57:23Z",
+  "metadata": {
+    "title": "Dies Rationis",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta",
+      "Mass Graven Image"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 4377,
+    "duration_human": "01:12:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta + Mass Graven Image - Historic Traits - Mass Graven Image",
+      "02 Séraphitüs-Séraphîta + Mass Graven Image - Erratum - Mass Graven Image",
+      "03 Séraphitüs-Séraphîta + Mass Graven Image - Beauty! Terrible Beauty! - Séraphitüs-Séraphîta",
+      "04 Séraphitüs-Séraphîta + Mass Graven Image - Ichor - Séraphitüs-Séraphîta"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/4k1vy483.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/dies-rationis_63e40e4ce02d"
+    }
+  }
+}

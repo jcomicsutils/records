@@ -1,0 +1,30 @@
+{
+  "id": "charcoal_ae3a5776ceec",
+  "fingerprint": "ae3a5776ceec6317447e7117030602cdf488490622594e5562ab6beee1c88ce0",
+  "archived_at": "2026-11-14T02:03:42Z",
+  "metadata": {
+    "title": "Charcoal",
+    "artist": "Cailc",
+    "creators": [
+      "Cailc"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2012,
+    "duration_human": "00:33:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Cailc - Charcoal"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/5sx12n16.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/charcoal_ae3a5776ceec"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "burial-garden-olion_e3ba37f4866e",
+  "fingerprint": "e3ba37f4866e0bce4ec4dc7dbd99e33d564f827df305d0782de76ccdf7a1bc04",
+  "archived_at": "2026-11-13T19:53:04Z",
+  "metadata": {
+    "title": "Burial Garden / Olion",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden",
+      "Olion"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3150,
+    "duration_human": "00:52:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - 12th Wall 7.17.24",
+      "02 Olion - 7.25.24"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/bhzyx7vq.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/burial-garden-olion_e3ba37f4866e"
+    }
+  }
+}

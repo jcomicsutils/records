@@ -1,0 +1,36 @@
+{
+  "id": "mirror-shards_ccabdf6148a6",
+  "fingerprint": "ccabdf6148a6854045053b66b4e50a5c3dec7db7751183bb69deddd8663380a7",
+  "archived_at": "2026-11-10T04:12:04Z",
+  "metadata": {
+    "title": "Mirror Shards",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "Substak",
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1734,
+    "duration_human": "00:28:54",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Substak + Séraphitüs-Séraphîta - Shard I — Substak",
+      "02 Substak + Séraphitüs-Séraphîta - Shard II — Substak",
+      "03 Substak + Séraphitüs-Séraphîta - Shard III — Séraphitüs-Séraphîta",
+      "04 Substak + Séraphitüs-Séraphîta - Shard IV — Séraphitüs-Séraphîta",
+      "05 Substak + Séraphitüs-Séraphîta - Shard V — Séraphitüs-Séraphîta"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/rzwwqmrn.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/mirror-shards_ccabdf6148a6"
+    }
+  }
+}

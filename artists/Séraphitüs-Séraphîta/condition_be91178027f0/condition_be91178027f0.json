@@ -1,0 +1,34 @@
+{
+  "id": "condition_be91178027f0",
+  "fingerprint": "be91178027f0d7cf02a80be7602e00a427281f2724ab4fdb57410b5b62035f8d",
+  "archived_at": "2026-11-10T16:41:23Z",
+  "metadata": {
+    "title": "𝚌𝚘𝚗𝚍𝚒𝚝𝚒𝚘𝚗",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2275,
+    "duration_human": "00:37:55",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - 𝚝𝚛𝚎𝚊𝚝𝚖𝚎𝚗𝚝 𝙸",
+      "02 Séraphitüs-Séraphîta - 𝚝𝚛𝚎𝚊𝚝𝚖𝚎𝚗𝚝 𝙸𝙸",
+      "03 Séraphitüs-Séraphîta - 𝚝𝚛𝚎𝚊𝚝𝚖𝚎𝚗𝚝 𝙸𝙸𝙸",
+      "04 Séraphitüs-Séraphîta - 𝚝𝚛𝚎𝚊𝚝𝚖𝚎𝚗𝚝 𝙸𝚅",
+      "05 Séraphitüs-Séraphîta - 𝚝𝚛𝚎𝚊𝚝𝚖𝚎𝚗𝚝 𝚅",
+      "06 Séraphitüs-Séraphîta - 𝚝𝚛𝚎𝚊𝚝𝚖𝚎𝚗𝚝 𝚅𝙸",
+      "07 Séraphitüs-Séraphîta - 𝚝𝚛𝚎𝚊𝚝𝚖𝚎𝚗𝚝 𝚅𝙸𝙸",
+      "08 Séraphitüs-Séraphîta - 𝚝𝚛𝚎𝚊𝚝𝚖𝚎𝚗𝚝 𝚅𝙸𝙸𝙸"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/vmaoguda.tar"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "the-first-time-i-felt-anything_768d137888e8",
+  "fingerprint": "768d137888e80b9c28928627909600cc402c80ffc32ec29fd7d2a24c4573cfb4",
+  "archived_at": "2026-11-13T23:05:07Z",
+  "metadata": {
+    "title": "the first time I felt anything",
+    "artist": "Datamon",
+    "creators": [
+      "Datamon"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1808,
+    "duration_human": "00:30:08",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Datamon - クローンの空と捕獲者のデータモン"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/amrp9lbp.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-first-time-i-felt-anything_768d137888e8"
+    }
+  }
+}

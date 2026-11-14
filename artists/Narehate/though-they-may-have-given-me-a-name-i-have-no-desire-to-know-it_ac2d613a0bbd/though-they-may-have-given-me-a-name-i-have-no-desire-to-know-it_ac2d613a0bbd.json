@@ -1,0 +1,30 @@
+{
+  "id": "though-they-may-have-given-me-a-name-i-have-no-desire-to-know-it_ac2d613a0bbd",
+  "fingerprint": "ac2d613a0bbd4e4462cda82674e873a6e9e191932b6a5a847fa637ef5e4218aa",
+  "archived_at": "2026-11-10T15:26:47Z",
+  "metadata": {
+    "title": "Though they may have given me a name, I have no desire to know it.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3301,
+    "duration_human": "00:55:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - _"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/9b0j427f.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/though-they-may-have-given-me-a-name-i-have-no-desire-to-know-it_ac2d613a0bbd"
+    }
+  }
+}

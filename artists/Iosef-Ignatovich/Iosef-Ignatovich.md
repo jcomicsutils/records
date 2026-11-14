@@ -8,4 +8,5 @@
 | [Improvisation: May 11th 2024](improvisation-may-11th-2024_4dc4917e613c/improvisation-may-11th-2024_4dc4917e613c.md) | 2024 | FLAC | 00:30:30 | [IA](https://archive.org/details/improvisation-may-11th-2024_4dc4917e613c) |
 | [New Birth](new-birth_8cb9a258e8e0/new-birth_8cb9a258e8e0.md) | 2024 | FLAC | 00:45:41 | [IA](https://archive.org/details/new-birth_8cb9a258e8e0) |
 | [April 28th](april-28th_558cc5d67f4e/april-28th_558cc5d67f4e.md) | 2024 | FLAC | 00:40:11 | [IA](https://archive.org/details/april-28th_558cc5d67f4e) |
+| [Comment te dire adieu *(with Female Stint)*](comment-te-dire-adieu_1794300013/comment-te-dire-adieu_1794300013.md) | 2024 | FLAC | 00:41:27 | [IA](https://archive.org/details/comment-te-dire-adieu_9cd7a7252411) [Pomf](https://pomf2.lain.la/f/zq601rdk.tar) |
 | [Comment te dire adieu](comment-te-dire-adieu_9cd7a7252411/comment-te-dire-adieu_9cd7a7252411.md) | 2024 | FLAC | 00:41:27 | [IA](https://archive.org/details/comment-te-dire-adieu_9cd7a7252411) |

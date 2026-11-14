@@ -1,0 +1,30 @@
+{
+  "id": "no-dont-make-me-remember_b9337a40b793",
+  "fingerprint": "b9337a40b793fe8c8a87e16a6782f07d215c7514350c98428071eded34b48248",
+  "archived_at": "2026-11-10T14:11:16Z",
+  "metadata": {
+    "title": "No, don't make me remember.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3540,
+    "duration_human": "00:59:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - Because you and your friends will end up like this too."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/uizeubci.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/no-dont-make-me-remember_b9337a40b793"
+    }
+  }
+}

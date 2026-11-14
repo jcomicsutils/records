@@ -1,0 +1,30 @@
+{
+  "id": "arent-you-essentially-the-same-as-that-piece-of-meat_b40bceab1fc5",
+  "fingerprint": "b40bceab1fc59b29bdc7baaad15cd9bcb56e21c00481f2568021a829b96c7260",
+  "archived_at": "2026-11-10T11:02:57Z",
+  "metadata": {
+    "title": "Aren't you essentially the same as that piece of meat?",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3520,
+    "duration_human": "00:58:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - _"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/4pp2xj3c.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/arent-you-essentially-the-same-as-that-piece-of-meat_b40bceab1fc5"
+    }
+  }
+}

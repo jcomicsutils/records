@@ -1,0 +1,32 @@
+{
+  "id": "eleonora_15aba174045d",
+  "fingerprint": "15aba174045d124f8c91249881971cb930be9c573cf4db93c5c2e25bf4832811",
+  "archived_at": "2026-11-14T03:44:44Z",
+  "metadata": {
+    "title": "Eleonora",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1992,
+    "duration_human": "00:33:12",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Prologue: Eleonora (Improvisation)",
+      "02 Séraphitüs-Séraphîta - She whom I loved in my youth…",
+      "03 Séraphitüs-Séraphîta - “Sleep in peace! — for the Spirit of Love reigneth and ruleth…”"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/j0f8j5jk.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/eleonora_15aba174045d"
+    }
+  }
+}

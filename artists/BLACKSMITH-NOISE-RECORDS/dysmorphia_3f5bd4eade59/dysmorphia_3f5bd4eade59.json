@@ -1,0 +1,32 @@
+{
+  "id": "dysmorphia_3f5bd4eade59",
+  "fingerprint": "3f5bd4eade592f62506ffdb9824a4b2f198102f61194eeb319ec78febe58bd67",
+  "archived_at": "2026-11-10T02:39:48Z",
+  "metadata": {
+    "title": "Dysmorphia",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "Maximum Shame"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2004,
+    "duration_human": "00:33:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Maximum Shame - Skinny Like a Model",
+      "02 Maximum Shame - Not (Pretty) Enough"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/vm96vxj3.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/dysmorphia_3f5bd4eade59"
+    }
+  }
+}

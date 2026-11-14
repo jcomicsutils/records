@@ -1,0 +1,30 @@
+{
+  "id": "coin-eaters_5207166308a3",
+  "fingerprint": "5207166308a35259ebb87e01841a3b63266e9795739aecbd67420d6f12beeae3",
+  "archived_at": "2026-11-13T20:12:49Z",
+  "metadata": {
+    "title": "Coin Eaters",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2144,
+    "duration_human": "00:35:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - Coin Eaters"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/yh0i2zw7.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/coin-eaters_5207166308a3"
+    }
+  }
+}

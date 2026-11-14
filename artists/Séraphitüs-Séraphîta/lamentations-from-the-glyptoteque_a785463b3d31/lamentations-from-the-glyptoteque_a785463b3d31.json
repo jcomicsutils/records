@@ -1,0 +1,31 @@
+{
+  "id": "lamentations-from-the-glyptoteque_a785463b3d31",
+  "fingerprint": "a785463b3d317c8189a695b78486fff869acd2465d5bd0fa57a2fef24a08f5e3",
+  "archived_at": "2026-11-14T06:06:10Z",
+  "metadata": {
+    "title": "Lamentations from the Glyptoteque",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1743,
+    "duration_human": "00:29:03",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - 𝚂𝚌𝚞𝚕𝚙𝚝𝚞𝚛𝚎 𝙸",
+      "02 Séraphitüs-Séraphîta - 𝚂𝚌𝚞𝚕𝚙𝚝𝚞𝚛𝚎 𝙸𝙸",
+      "03 Séraphitüs-Séraphîta - 𝚂𝚌𝚞𝚕𝚙𝚝𝚞𝚛𝚎 𝙸𝙸𝙸",
+      "04 Séraphitüs-Séraphîta - 𝚂𝚌𝚞𝚕𝚙𝚝𝚞𝚛𝚎 𝙸𝚅",
+      "05 Séraphitüs-Séraphîta - 𝚂𝚌𝚞𝚕𝚙𝚝𝚞𝚛𝚎 𝚅"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/nfhi5jtd.tar"
+    }
+  }
+}

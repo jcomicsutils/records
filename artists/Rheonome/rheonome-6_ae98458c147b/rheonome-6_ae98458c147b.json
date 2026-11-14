@@ -1,0 +1,30 @@
+{
+  "id": "rheonome-6_ae98458c147b",
+  "fingerprint": "ae98458c147b50f03394502423916593de480a7f4e2f0afff5d9042b83d55a2e",
+  "archived_at": "2026-11-11T03:42:44Z",
+  "metadata": {
+    "title": "Rheonome 6",
+    "artist": "Rheonome",
+    "creators": [
+      "Rheonome"
+    ],
+    "year": "2017",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3300,
+    "duration_human": "00:55:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Rheonome - Rheonome 6"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/wure9qby.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/rheonome-6_ae98458c147b"
+    }
+  }
+}

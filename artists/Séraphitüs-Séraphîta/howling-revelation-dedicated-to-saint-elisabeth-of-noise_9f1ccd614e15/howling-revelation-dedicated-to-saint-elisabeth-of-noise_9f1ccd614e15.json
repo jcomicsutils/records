@@ -1,0 +1,30 @@
+{
+  "id": "howling-revelation-dedicated-to-saint-elisabeth-of-noise_9f1ccd614e15",
+  "fingerprint": "9f1ccd614e1572cc29cfa57662f0e21cd9d9130e97b84f66f05dcd84d5607fa8",
+  "archived_at": "2026-11-14T04:56:55Z",
+  "metadata": {
+    "title": "Howling Revelation: Dedicated to Saint Elisabeth of Noise",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2693,
+    "duration_human": "00:44:53",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - The Sevenfold Spirit"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/23grs87u.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/howling-revelation-dedicated-to-saint-elisabeth-of-noise_9f1ccd614e15"
+    }
+  }
+}

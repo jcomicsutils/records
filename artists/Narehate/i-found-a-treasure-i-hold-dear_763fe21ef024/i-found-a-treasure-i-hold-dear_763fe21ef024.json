@@ -1,0 +1,30 @@
+{
+  "id": "i-found-a-treasure-i-hold-dear_763fe21ef024",
+  "fingerprint": "763fe21ef024a1bb6ac5771fe98ee9d706343c3e0a193b2221380a733fbc5115",
+  "archived_at": "2026-11-10T11:56:25Z",
+  "metadata": {
+    "title": "I found a treasure I hold dear.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4685,
+    "duration_human": "01:18:05",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - _"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/lpphy010.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/i-found-a-treasure-i-hold-dear_763fe21ef024"
+    }
+  }
+}

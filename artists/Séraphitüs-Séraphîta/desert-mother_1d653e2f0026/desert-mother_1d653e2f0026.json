@@ -1,0 +1,34 @@
+{
+  "id": "desert-mother_1d653e2f0026",
+  "fingerprint": "1d653e2f0026d72f950debf6c9e2413812d9d0a28d15572a5321f0ad169bca29",
+  "archived_at": "2026-11-10T16:57:31Z",
+  "metadata": {
+    "title": "Desert Mother",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3796,
+    "duration_human": "01:03:16",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Into the Desert",
+      "02 Séraphitüs-Séraphîta - Asceticism & Autonomy",
+      "03 Séraphitüs-Séraphîta - Martyrs of Antioch and Ancyra",
+      "04 Séraphitüs-Séraphîta - “I am a woman in sex but not in spirit”",
+      "05 Séraphitüs-Séraphîta - Disguised Until Death"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/pnjoezf7.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/desert-mother_1d653e2f0026"
+    }
+  }
+}

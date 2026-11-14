@@ -1,0 +1,34 @@
+{
+  "id": "necro-benthic-micro-suites_2cf75a69064f",
+  "fingerprint": "2cf75a69064f78692475baf9da12a989bdcd326565ae507b81daeba9275d93be",
+  "archived_at": "2026-11-14T07:13:33Z",
+  "metadata": {
+    "title": "Necro-Benthic Micro Suites",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1840,
+    "duration_human": "00:30:40",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Marine Snow",
+      "02 Séraphitüs-Séraphîta - Autolysis",
+      "03 Séraphitüs-Séraphîta - Trench Rites of the Necro-Benthic",
+      "04 Séraphitüs-Séraphîta - Detritivores",
+      "05 Séraphitüs-Séraphîta - Necromass"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/yg8fnshr.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/necro-benthic-micro-suites_2cf75a69064f"
+    }
+  }
+}

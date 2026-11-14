@@ -1,0 +1,30 @@
+{
+  "id": "rat-patrol_73ce71b1037c",
+  "fingerprint": "73ce71b1037c4601fe975423d58dd476c0f23dc03af863bdc42f90b9fc2b60a4",
+  "archived_at": "2026-11-13T22:06:39Z",
+  "metadata": {
+    "title": "Rat Patrol",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2184,
+    "duration_human": "00:36:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - Rat Patrol"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/20nrink8.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/rat-patrol_73ce71b1037c"
+    }
+  }
+}

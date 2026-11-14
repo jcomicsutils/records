@@ -1,0 +1,36 @@
+{
+  "id": "electronic-mastabah_02e2074419a7",
+  "fingerprint": "02e2074419a7e0af69eaded7d120ce3ac90acbeb2d3f6b9febed3049eba09834",
+  "archived_at": "2026-11-10T02:43:07Z",
+  "metadata": {
+    "title": "ELECTRONIC MASTABAH",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "Biotroia"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 729,
+    "duration_human": "00:12:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Biotroia - Risveglio Di Un Lamassù",
+      "02 Biotroia - Mushushus Running Around",
+      "03 Biotroia - Shamash’s Authority",
+      "04 Biotroia - Sand Dunes",
+      "05 Biotroia - Assyrian Bas-relief Army",
+      "06 Biotroia - Another Imponent Mastabah"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/wsyj0gpq.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/electronic-mastabah_02e2074419a7"
+    }
+  }
+}

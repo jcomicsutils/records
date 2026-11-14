@@ -1,0 +1,41 @@
+{
+  "id": "goneland_55d479034baf",
+  "fingerprint": "55d479034baf6849d6abb59f5f729ce69027dd0dc851721545768ecc9ae7a7c8",
+  "archived_at": "2026-11-14T04:42:47Z",
+  "metadata": {
+    "title": "GONELAND",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 12,
+    "duration_seconds": 1908,
+    "duration_human": "00:31:48",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Tedium",
+      "02 Séraphitüs-Séraphîta - High Strung",
+      "03 Séraphitüs-Séraphîta - Mechanical Infusion #1",
+      "04 Séraphitüs-Séraphîta - Loss of Function",
+      "05 Séraphitüs-Séraphîta - GONELAND",
+      "06 Séraphitüs-Séraphîta - Unsustainable Consumption",
+      "07 Séraphitüs-Séraphîta - Mechanical Infusion #2",
+      "08 Séraphitüs-Séraphîta - Wholesale Control",
+      "09 Séraphitüs-Séraphîta - Mechanical Infusion #3",
+      "10 Séraphitüs-Séraphîta - Quality Assurance",
+      "11 Séraphitüs-Séraphîta - Mechanical Infusion #4",
+      "12 Séraphitüs-Séraphîta - In the Shadow of a Disaster of Our Own Making"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ee135fqb.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/goneland_55d479034baf"
+    }
+  }
+}

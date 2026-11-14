@@ -1,0 +1,37 @@
+{
+  "id": "john-1135_430bbf73e6f9",
+  "fingerprint": "430bbf73e6f9b7be26bb9f44401233d4f7390dc89fb8e68c441ca0fa226f318b",
+  "archived_at": "2026-11-10T03:25:24Z",
+  "metadata": {
+    "title": "John 11:35",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "Alta Silvae"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 1524,
+    "duration_human": "00:25:24",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Alta Silvae - Laughing Chance",
+      "02 Alta Silvae - Pendulum Itch",
+      "03 Alta Silvae - The Hollow",
+      "04 Alta Silvae - Sweet Lazarus",
+      "05 Alta Silvae - Time",
+      "06 Alta Silvae - Open Stone",
+      "07 Alta Silvae - Rows and Rows"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/lmdqfuj5.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/john-1135_430bbf73e6f9"
+    }
+  }
+}

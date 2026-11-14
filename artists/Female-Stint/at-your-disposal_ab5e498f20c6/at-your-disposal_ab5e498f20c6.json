@@ -1,0 +1,33 @@
+{
+  "id": "at-your-disposal_ab5e498f20c6",
+  "fingerprint": "ab5e498f20c6e58d41df665e1ee796e205678bedf6375b37490f4eb5331db83b",
+  "archived_at": "2026-11-10T08:35:04Z",
+  "metadata": {
+    "title": "At Your Disposal",
+    "artist": "Female Stint",
+    "creators": [
+      "Female Stint",
+      "Wound Policy",
+      "Kept Woman"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2936,
+    "duration_human": "00:48:56",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Wound Policy - Threnody for the Silenced Woman",
+      "02 Kept Woman - 23 quai du Commerce, 1080 Bruxelles"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/kfxw8y1i.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/at-your-disposal_ab5e498f20c6"
+    }
+  }
+}

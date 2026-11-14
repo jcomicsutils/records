@@ -1,0 +1,34 @@
+{
+  "id": "excerpts-from-the-great-cosmic-womb_6227b112899f",
+  "fingerprint": "6227b112899f98e60a32ed8a7dfc3a9164915f7fecdcfb0cb3340d34e6784cc0",
+  "archived_at": "2026-11-14T04:11:54Z",
+  "metadata": {
+    "title": "Excerpts from the Great Cosmic Womb",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 854,
+    "duration_human": "00:14:14",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Womb of the Celestial Architect",
+      "02 Séraphitüs-Séraphîta - Womb of Europa",
+      "03 Séraphitüs-Séraphîta - Womb of the Sun",
+      "04 Séraphitüs-Séraphîta - Womb of Jupiter",
+      "05 Séraphitüs-Séraphîta - Womb of Neptune"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/09f5rvqe.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/excerpts-from-the-great-cosmic-womb_6227b112899f"
+    }
+  }
+}

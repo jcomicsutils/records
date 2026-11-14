@@ -1,0 +1,30 @@
+{
+  "id": "dionaea-muscipula_d44d60be7d9a",
+  "fingerprint": "d44d60be7d9a1be648f3ae6b5278440e5bf62a9720fb486c12fbe5833813e438",
+  "archived_at": "2026-11-10T07:50:08Z",
+  "metadata": {
+    "title": "Dionaea muscipula",
+    "artist": "Carnivorae virentia",
+    "creators": [
+      "Carnivorae virentia"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2688,
+    "duration_human": "00:44:48",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Carnivorae virentia - Dionaea muscipula"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/c2eszzg4.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/dionaea-muscipula_d44d60be7d9a"
+    }
+  }
+}

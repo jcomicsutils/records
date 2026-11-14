@@ -1,0 +1,33 @@
+{
+  "id": "vishual_e3317cbf4411",
+  "fingerprint": "e3317cbf441171408fa316b720a7bbf09099a261a90a17f7e803b072fcc9e374",
+  "archived_at": "2026-11-14T08:25:08Z",
+  "metadata": {
+    "title": "Vishual",
+    "artist": "Zeffon / Argon Beams",
+    "creators": [
+      "Zeffon / Argon Beams",
+      "Zeffon",
+      "Argon Beams"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 6884,
+    "duration_human": "01:54:44",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Zeffon - Dragged Down the Forested Trail",
+      "02 Argon Beams - Apple Blossoms (Demonic Influence 4)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/br0i5tb2.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/vishual_e3317cbf4411"
+    }
+  }
+}

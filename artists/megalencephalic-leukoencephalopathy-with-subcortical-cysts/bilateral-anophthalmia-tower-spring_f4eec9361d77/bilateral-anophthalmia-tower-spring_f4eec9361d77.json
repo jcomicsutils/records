@@ -1,0 +1,31 @@
+{
+  "id": "bilateral-anophthalmia-tower-spring_f4eec9361d77",
+  "fingerprint": "f4eec9361d772c9f908300e87aaf74fd2bd489a93563948714a8541c960eb7d4",
+  "archived_at": "2026-11-10T08:38:24Z",
+  "metadata": {
+    "title": "bilateral anophthalmia (tower spring)",
+    "artist": "Female Stint",
+    "creators": [
+      "Female Stint",
+      "megalencephalic leukoencephalopathy with subcortical cysts"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 982,
+    "duration_human": "00:16:22",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 megalencephalic leukoencephalopathy with subcortical cysts - untitled"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/3zfl3kak.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/bilateral-anophthalmia-tower-spring_f4eec9361d77"
+    }
+  }
+}

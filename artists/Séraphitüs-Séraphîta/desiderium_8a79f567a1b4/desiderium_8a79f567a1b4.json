@@ -1,0 +1,30 @@
+{
+  "id": "desiderium_8a79f567a1b4",
+  "fingerprint": "8a79f567a1b47da020a62c6a2fcb3ef0959c5f6706312021eb67c1f358afc32b",
+  "archived_at": "2026-11-14T02:53:53Z",
+  "metadata": {
+    "title": "Desiderium",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 583,
+    "duration_human": "00:09:43",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Desiderium"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/md75zuzz.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/desiderium_8a79f567a1b4"
+    }
+  }
+}

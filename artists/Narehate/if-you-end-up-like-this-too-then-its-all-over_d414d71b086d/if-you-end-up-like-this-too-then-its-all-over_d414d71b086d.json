@@ -1,0 +1,30 @@
+{
+  "id": "if-you-end-up-like-this-too-then-its-all-over_d414d71b086d",
+  "fingerprint": "d414d71b086dd72c84f1f74a2915101811d95c9cb0a510b3d5a3efa5d5b7b364",
+  "archived_at": "2026-11-10T13:04:51Z",
+  "metadata": {
+    "title": "If you end up like this too, then it's all over.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3691,
+    "duration_human": "01:01:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - _"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/0q0b941s.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/if-you-end-up-like-this-too-then-its-all-over_d414d71b086d"
+    }
+  }
+}

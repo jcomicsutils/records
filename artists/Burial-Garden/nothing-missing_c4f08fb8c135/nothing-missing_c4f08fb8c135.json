@@ -1,0 +1,30 @@
+{
+  "id": "nothing-missing_c4f08fb8c135",
+  "fingerprint": "c4f08fb8c13527a1518ef571cf3406f094b02fb9c77027d078b16a0bc7f141af",
+  "archived_at": "2026-11-13T21:55:30Z",
+  "metadata": {
+    "title": "Nothing Missing",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2153,
+    "duration_human": "00:35:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - <3"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/1ly2qh7m.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/nothing-missing_c4f08fb8c135"
+    }
+  }
+}

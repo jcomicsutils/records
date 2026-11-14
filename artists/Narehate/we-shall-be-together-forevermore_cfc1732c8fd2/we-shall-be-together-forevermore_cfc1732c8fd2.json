@@ -1,0 +1,30 @@
+{
+  "id": "we-shall-be-together-forevermore_cfc1732c8fd2",
+  "fingerprint": "cfc1732c8fd260d5074789f9778b28cc6613aa385d89e852115b0bf1e229362f",
+  "archived_at": "2026-11-10T15:32:03Z",
+  "metadata": {
+    "title": "We shall be together forevermore.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3057,
+    "duration_human": "00:50:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - _"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/uliv3jis.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/we-shall-be-together-forevermore_cfc1732c8fd2"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "targeted_abdf9e8312dd",
+  "fingerprint": "abdf9e8312dd0aeaac98793f8b3eacc7e80e4d28d6674ed08b829a3297344527",
+  "archived_at": "2026-11-13T23:22:00Z",
+  "metadata": {
+    "title": "Targeted",
+    "artist": "Manikin",
+    "creators": [
+      "Manikin"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1440,
+    "duration_human": "00:24:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Manikin - Targeted"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/f691myhs.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/targeted_abdf9e8312dd"
+    }
+  }
+}

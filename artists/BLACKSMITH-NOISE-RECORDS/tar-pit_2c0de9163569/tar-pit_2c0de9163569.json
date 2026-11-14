@@ -1,0 +1,31 @@
+{
+  "id": "tar-pit_2c0de9163569",
+  "fingerprint": "2c0de916356986158f622d83dfb5e3feb1133dcf5c17d92f12789e978a6f0c1c",
+  "archived_at": "2026-11-10T05:16:18Z",
+  "metadata": {
+    "title": "Tar Pit",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "Absurd Reality"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 853,
+    "duration_human": "00:14:13",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Absurd Reality - Tar Pit"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ge3ppz00.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/tar-pit_2c0de9163569"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "you-see-people-around-here-dont-really-believe-in-god_18d6bc9bc5cc",
+  "fingerprint": "18d6bc9bc5cc4a159a07d2c3edcf373c45e127eee9c39cb060f412f6713de108",
+  "archived_at": "2026-11-10T16:04:24Z",
+  "metadata": {
+    "title": "You see, people around here don't really believe in God.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - _"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/pp6g771a.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/you-see-people-around-here-dont-really-believe-in-god_18d6bc9bc5cc"
+    }
+  }
+}

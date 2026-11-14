@@ -1,0 +1,30 @@
+{
+  "id": "industrial-etchings_3671710276dc",
+  "fingerprint": "3671710276dc4e27a9b44df6134df2f3baa0193c689636eec6ff18bb2bfe9b0b",
+  "archived_at": "2026-11-14T05:49:51Z",
+  "metadata": {
+    "title": "Industrial Etchings",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 636,
+    "duration_human": "00:10:36",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Industrial Etchings"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/j34jvryi.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/industrial-etchings_3671710276dc"
+    }
+  }
+}

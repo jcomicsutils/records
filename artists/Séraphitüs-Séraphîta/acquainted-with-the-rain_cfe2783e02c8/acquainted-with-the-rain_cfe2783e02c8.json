@@ -1,0 +1,30 @@
+{
+  "id": "acquainted-with-the-rain_cfe2783e02c8",
+  "fingerprint": "cfe2783e02c81336711e99bec3e2996453aa24156149b4be94e3966d306934c2",
+  "archived_at": "2026-11-10T16:27:54Z",
+  "metadata": {
+    "title": "Acquainted with the Rain",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 808,
+    "duration_human": "00:13:28",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Acquainted with the Rain"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/j3wyx3v9.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/acquainted-with-the-rain_cfe2783e02c8"
+    }
+  }
+}

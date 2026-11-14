@@ -1,0 +1,31 @@
+{
+  "id": "numinous-tapes-i_d5ae245fb5a5",
+  "fingerprint": "d5ae245fb5a5c6e88665dd249469f0875e7449ef64668580ff79e92309338a3e",
+  "archived_at": "2026-11-14T07:34:00Z",
+  "metadata": {
+    "title": "numinous tapes I",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta",
+      "anna bortionist"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 931,
+    "duration_human": "00:15:31",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta + anna bortionist - emergence - Séraphitüs-Séraphîta",
+      "02 Séraphitüs-Séraphîta + anna bortionist - somnus - Séraphitüs-Séraphîta",
+      "03 Séraphitüs-Séraphîta + anna bortionist - habit - anna bortionist",
+      "04 Séraphitüs-Séraphîta + anna bortionist - dependency - anna bortionist"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/kstbzzc4.tar"
+    }
+  }
+}

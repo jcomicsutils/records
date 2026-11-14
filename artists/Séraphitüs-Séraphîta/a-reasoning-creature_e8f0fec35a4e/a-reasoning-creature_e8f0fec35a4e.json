@@ -1,0 +1,30 @@
+{
+  "id": "a-reasoning-creature_e8f0fec35a4e",
+  "fingerprint": "e8f0fec35a4e5fe4eeae86aa176aa58fa0a1307379b1a71d8fe786ef1f821860",
+  "archived_at": "2026-11-10T16:22:59Z",
+  "metadata": {
+    "title": "A Reasoning Creature",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 619,
+    "duration_human": "00:10:19",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - A Reasoning Creature"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/qocajpm0.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/a-reasoning-creature_e8f0fec35a4e"
+    }
+  }
+}

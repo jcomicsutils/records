@@ -1,0 +1,34 @@
+{
+  "id": "desert-of-macarius_0a3d98cde398",
+  "fingerprint": "0a3d98cde39898b7cbe83dd64cb3f805f8cd6cd5848ee5f9887f40d7e12beee9",
+  "archived_at": "2026-11-14T02:47:21Z",
+  "metadata": {
+    "title": "Desert Of Macarius",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3549,
+    "duration_human": "00:59:09",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Call to Solitude",
+      "02 Séraphitüs-Séraphîta - “The young man with the elders’ wisdom”",
+      "03 Séraphitüs-Séraphîta - Innocence",
+      "04 Séraphitüs-Séraphîta - Escape to the Nitrian Desert",
+      "05 Séraphitüs-Séraphîta - The Daughter of a Pagan Priest"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/gnvg4y9l.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/desert-of-macarius_0a3d98cde398"
+    }
+  }
+}

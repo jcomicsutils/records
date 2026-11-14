@@ -1,0 +1,30 @@
+{
+  "id": "beam-my-beam_f056e9202f0e",
+  "fingerprint": "f056e9202f0e8ba0e7815eb9a2a6b831360b7371d3247c26b6b1efe5cd824f1e",
+  "archived_at": "2026-11-13T19:42:54Z",
+  "metadata": {
+    "title": "Beam My Beam",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3046,
+    "duration_human": "00:50:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - Beta Las Vegas"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/hrgttj99.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/beam-my-beam_f056e9202f0e"
+    }
+  }
+}

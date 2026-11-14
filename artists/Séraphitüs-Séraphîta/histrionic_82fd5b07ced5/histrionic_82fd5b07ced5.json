@@ -1,0 +1,33 @@
+{
+  "id": "histrionic_82fd5b07ced5",
+  "fingerprint": "82fd5b07ced58bac35ba254237c95292712f276855f81c3f36425b61e5f1e51b",
+  "archived_at": "2026-11-14T04:48:43Z",
+  "metadata": {
+    "title": "Histrionic",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta",
+      "Saint Elisabeth"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta + Saint Elisabeth - Side A: Untitled",
+      "02 Séraphitüs-Séraphîta + Saint Elisabeth - Side B: Self-dramatization & Exaggerated Emotionality",
+      "03 Séraphitüs-Séraphîta + Saint Elisabeth - Side B: Rapidly Shifting Shallow Expressions of Emotion"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/cqylvtdt.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/histrionic_82fd5b07ced5"
+    }
+  }
+}

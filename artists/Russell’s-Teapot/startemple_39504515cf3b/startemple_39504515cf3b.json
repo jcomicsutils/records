@@ -1,0 +1,33 @@
+{
+  "id": "startemple_39504515cf3b",
+  "fingerprint": "39504515cf3b63c4435c3174c355de7b97cf0d5e57b902f01b53b5ee986ba1e4",
+  "archived_at": "2026-11-10T05:04:58Z",
+  "metadata": {
+    "title": "StarTemple",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "Russell’s Teapot"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 5462,
+    "duration_human": "01:31:02",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Russell’s Teapot - Devilishly we go",
+      "02 Russell’s Teapot - In the same place as last time",
+      "03 Russell’s Teapot - My house is haunted"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/513sjj88.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/startemple_39504515cf3b"
+    }
+  }
+}

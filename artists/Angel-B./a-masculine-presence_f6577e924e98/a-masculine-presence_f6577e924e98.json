@@ -1,0 +1,31 @@
+{
+  "id": "a-masculine-presence_f6577e924e98",
+  "fingerprint": "f6577e924e98429681a9461b5a45738b237d3ebc179317004f35d1c2de6c6874",
+  "archived_at": "2026-11-10T08:29:36Z",
+  "metadata": {
+    "title": "A Masculine Presence",
+    "artist": "Female Stint",
+    "creators": [
+      "Female Stint",
+      "Angel B."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2621,
+    "duration_human": "00:43:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - A Masculine Presence"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/xz3jmcpb.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/a-masculine-presence_f6577e924e98"
+    }
+  }
+}

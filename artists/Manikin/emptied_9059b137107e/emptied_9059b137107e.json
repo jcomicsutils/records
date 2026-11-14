@@ -1,0 +1,30 @@
+{
+  "id": "emptied_9059b137107e",
+  "fingerprint": "9059b137107ece0f9ccb7e5d9ac3dc754ad0bbe4ce8d9c601aae5a75bd95af9b",
+  "archived_at": "2026-11-13T23:13:50Z",
+  "metadata": {
+    "title": "Emptied",
+    "artist": "Manikin",
+    "creators": [
+      "Manikin"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1839,
+    "duration_human": "00:30:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Manikin - Emptied"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ygt9dvoi.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/emptied_9059b137107e"
+    }
+  }
+}

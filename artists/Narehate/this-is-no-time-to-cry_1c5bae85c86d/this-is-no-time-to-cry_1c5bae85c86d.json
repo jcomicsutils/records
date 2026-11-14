@@ -1,0 +1,30 @@
+{
+  "id": "this-is-no-time-to-cry_1c5bae85c86d",
+  "fingerprint": "1c5bae85c86db4539e6801a7f05dd7e3512d38bc813d90edd196c140de44c3c8",
+  "archived_at": "2026-11-10T15:02:38Z",
+  "metadata": {
+    "title": "This is no time to cry.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3372,
+    "duration_human": "00:56:12",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - The more I hesitate, the more Riko suffers."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/lze3v8qt.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/this-is-no-time-to-cry_1c5bae85c86d"
+    }
+  }
+}

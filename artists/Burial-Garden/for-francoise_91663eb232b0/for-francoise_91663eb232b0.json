@@ -1,0 +1,30 @@
+{
+  "id": "for-francoise_91663eb232b0",
+  "fingerprint": "91663eb232b0ca955eaa99b16a3a0a91fe9ea0e1070dd03908a61f80167264fa",
+  "archived_at": "2026-11-13T21:01:50Z",
+  "metadata": {
+    "title": "For Françoise",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1654,
+    "duration_human": "00:27:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - For Françoise"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/dfi9gtwb.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/for-francoise_91663eb232b0"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "if-i-ever-find-you-in-your-current-form-again-im-sure-ill-have-trouble-deciding-what-to_fad6fd4e03fb",
+  "fingerprint": "fad6fd4e03fb1035f19079f24d9358c8f8ff93f836fbacb4286234321f3491de",
+  "archived_at": "2026-11-10T12:57:03Z",
+  "metadata": {
+    "title": "If I ever find you in your current form again, I'm sure I'll have trouble deciding what to do then, too.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3889,
+    "duration_human": "01:04:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - So, next time, really scold me, okay?"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/2t2q3jfi.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/if-i-ever-find-you-in-your-current-form-again-im-sure-ill-have-trouble-deciding-what-to_fad6fd4e03fb"
+    }
+  }
+}

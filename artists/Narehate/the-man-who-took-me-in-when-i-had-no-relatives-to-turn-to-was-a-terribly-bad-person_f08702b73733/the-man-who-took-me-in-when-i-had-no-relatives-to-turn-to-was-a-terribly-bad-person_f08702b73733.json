@@ -1,0 +1,39 @@
+{
+  "id": "the-man-who-took-me-in-when-i-had-no-relatives-to-turn-to-was-a-terribly-bad-person_f08702b73733",
+  "fingerprint": "f08702b737334aeccb8ad692857548e154c046f49273c46d507ed8c659c18072",
+  "archived_at": "2026-11-10T14:53:06Z",
+  "metadata": {
+    "title": "The man who took me in when I had no relatives to turn to was a terribly bad person.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 7230,
+    "duration_human": "02:00:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - He had this story he boasted about. It was the one time in his life where he could say, \"I played the leading role.\"",
+      "02 Narehate - I remember it well because he made me listen to the story every time it happened."
+    ]
+  },
+  "hosts": {
+    "archive_org": {
+      "url": "https://archive.org/details/the-man-who-took-me-in-when-i-had-no-relatives-to-turn-to-was-a-terribly-bad-person_f08702b73733"
+    },
+    "pomf": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://pomf2.lain.la/f/ossrt7ol.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/2znvlqnk.tar"
+        }
+      ]
+    }
+  }
+}

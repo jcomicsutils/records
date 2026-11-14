@@ -1,0 +1,30 @@
+{
+  "id": "the-way-of-tea_6a1bfffd8d1d",
+  "fingerprint": "6a1bfffd8d1d1c86bf807a821fb68f88ab87937ea141742e68682008bf3fb30e",
+  "archived_at": "2026-11-14T02:42:59Z",
+  "metadata": {
+    "title": "The Way of Tea",
+    "artist": "Dosis Letalis",
+    "creators": [
+      "Dosis Letalis"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1009,
+    "duration_human": "00:16:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Dosis Letalis - Chado"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/zqyrykkd.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-way-of-tea_6a1bfffd8d1d"
+    }
+  }
+}

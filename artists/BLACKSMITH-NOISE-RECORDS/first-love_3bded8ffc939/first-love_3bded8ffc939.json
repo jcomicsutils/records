@@ -1,0 +1,32 @@
+{
+  "id": "first-love_3bded8ffc939",
+  "fingerprint": "3bded8ffc93989a0a33887e312907c2f97bb44b217c009681c9526e9b447d6e6",
+  "archived_at": "2026-11-10T02:47:00Z",
+  "metadata": {
+    "title": "First Love",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "Stagn(ant)"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1459,
+    "duration_human": "00:24:19",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Stagn(ant) - First Love I",
+      "02 Stagn(ant) - First Love II"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/qqb13vwg.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/first-love_3bded8ffc939"
+    }
+  }
+}

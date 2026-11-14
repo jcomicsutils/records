@@ -1,0 +1,31 @@
+{
+  "id": "allegory-of-the-treacherous-torment_cdfb7412f9d8",
+  "fingerprint": "cdfb7412f9d830dc7a004ea1d5ec6c491677e38374d4141efe38e3bf79f8c9b6",
+  "archived_at": "2026-11-14T01:58:25Z",
+  "metadata": {
+    "title": "allegory of the treacherous torment",
+    "artist": "infect this pink server!",
+    "creators": [
+      "infect this pink server!"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2447,
+    "duration_human": "00:40:47",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 infect this pink server! - cocytean",
+      "02 infect this pink server! - chains of judecca"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/l53k0ixp.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/allegory-of-the-treacherous-torment_cdfb7412f9d8"
+    }
+  }
+}

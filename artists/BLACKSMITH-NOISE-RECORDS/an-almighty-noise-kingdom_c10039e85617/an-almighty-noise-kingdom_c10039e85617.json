@@ -1,0 +1,35 @@
+{
+  "id": "an-almighty-noise-kingdom_c10039e85617",
+  "fingerprint": "c10039e856174de3ac29c9df49217bd0312656a7205423446970de7eb53f1b65",
+  "archived_at": "2026-11-10T02:08:04Z",
+  "metadata": {
+    "title": "An Almighty Noise Kingdom",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "Iam Mortuo"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 3328,
+    "duration_human": "00:55:28",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Iam Mortuo - Waiting For The Lord",
+      "02 Iam Mortuo - The Revelation",
+      "03 Iam Mortuo - Moving",
+      "04 Iam Mortuo - Exiting",
+      "05 Iam Mortuo - An Almighty Noise Kingdom"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/8pi0lzmh.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/an-almighty-noise-kingdom_c10039e85617"
+    }
+  }
+}

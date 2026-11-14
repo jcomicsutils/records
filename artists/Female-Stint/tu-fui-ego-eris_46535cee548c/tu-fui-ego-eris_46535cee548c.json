@@ -1,0 +1,31 @@
+{
+  "id": "tu-fui-ego-eris_46535cee548c",
+  "fingerprint": "46535cee548c32479fe804ef81c8b6d16b64cf5ebc36f91ecc3dab3c74fcd96c",
+  "archived_at": "2026-11-10T10:21:03Z",
+  "metadata": {
+    "title": "Tu fui ego eris",
+    "artist": "Female Stint",
+    "creators": [
+      "Female Stint",
+      "Kept Woman"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3146,
+    "duration_human": "00:52:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Kept Woman - \"I was you, you will be me.\""
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/d9rmmndn.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/tu-fui-ego-eris_46535cee548c"
+    }
+  }
+}

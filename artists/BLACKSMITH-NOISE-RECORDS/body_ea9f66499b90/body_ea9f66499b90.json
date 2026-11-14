@@ -1,0 +1,38 @@
+{
+  "id": "body_ea9f66499b90",
+  "fingerprint": "ea9f66499b90c3d337adbc0ebd9a6639a811b7b9c8fc1483d3ff347b2ead64c1",
+  "archived_at": "2026-11-10T02:31:33Z",
+  "metadata": {
+    "title": "BODY",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "THE GOLDEN SPIRAL"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 5476,
+    "duration_human": "01:31:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 THE GOLDEN SPIRAL - TENDON",
+      "02 THE GOLDEN SPIRAL - NERVES",
+      "03 THE GOLDEN SPIRAL - MUSCLE",
+      "04 THE GOLDEN SPIRAL - HAIR",
+      "05 THE GOLDEN SPIRAL - NAILS",
+      "06 THE GOLDEN SPIRAL - ADIPOSE",
+      "07 THE GOLDEN SPIRAL - BONES",
+      "08 THE GOLDEN SPIRAL - BLOOD"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/gpq9nj5z.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/body_ea9f66499b90"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "frequency-ghosts_959b473690ec",
+  "fingerprint": "959b473690ec6ffbe8eadb84e3fdb1d52e080eef78f986ada91f573551105bd4",
+  "archived_at": "2026-11-10T02:51:14Z",
+  "metadata": {
+    "title": "Frequency Ghosts",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "Substak"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1964,
+    "duration_human": "00:32:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Substak - Dusty Dial",
+      "02 Substak - Broken Coil",
+      "03 Substak - Static Weave",
+      "04 Substak - Crackle Logic"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/4r6coai3.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/frequency-ghosts_959b473690ec"
+    }
+  }
+}

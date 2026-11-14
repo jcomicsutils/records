@@ -1,0 +1,31 @@
+{
+  "id": "as-we-run-from-the-day-single_45a876790a40",
+  "fingerprint": "45a876790a4095e9b431bf71f8220c790785564bbb2e58138b3eaaf2b4d9ceef",
+  "archived_at": "2026-11-10T16:34:09Z",
+  "metadata": {
+    "title": "As We Run From the Day (Single)",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta",
+      "David Dellacroce"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 151,
+    "duration_human": "00:02:31",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta + David Dellacroce - As We Run From the Day"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/22b499av.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/as-we-run-from-the-day-single_45a876790a40"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "the-microphone-is-3-electric-guitars-unit-0001-tape-edition_3c07f39b8836",
+  "fingerprint": "3c07f39b8836c1fa1da150ed243aa4cb0ba276aea837a58fd9dc9d85814a3de0",
+  "archived_at": "2026-11-10T05:26:00Z",
+  "metadata": {
+    "title": "the microphone is 3 electric guitars - UNIT 0001 (tape edition)",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "the microphone is 3 electric guitars"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 13,
+    "duration_seconds": 4542,
+    "duration_human": "01:15:42",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 the microphone is 3 electric guitars - ColdHearth (the microphone is 3 electric guitars)",
+      "02 the microphone is 3 electric guitars - Un (the microphone is 3 electric guitars)",
+      "03 the microphone is 3 electric guitars - neon snow (the microphone is 3 electric guitars)",
+      "04 the microphone is 3 electric guitars - BLIGHT (the microphone is 3 electric guitars)",
+      "05 the microphone is 3 electric guitars - potato^2 (the microphone is 3 electric guitars)",
+      "06 the microphone is 3 electric guitars - THE EGGMASTER (the microphone is 3 electric guitars)",
+      "07 the microphone is 3 electric guitars - DQEPALP (the microphone is 3 electric guitars)",
+      "08 the microphone is 3 electric guitars - Moonlight (the microphone is 3 electric guitars)",
+      "09 the microphone is 3 electric guitars - S p e c t r e (the microphone is 3 electric guitars)",
+      "10 the microphone is 3 electric guitars - Abyss Day (the microphone is 3 electric guitars)",
+      "11 the microphone is 3 electric guitars - BlackFire (the microphone is 3 electric guitars)",
+      "12 the microphone is 3 electric guitars - TMI3EGAT3EGAAR (the microphone is a radio)",
+      "13 the microphone is 3 electric guitars - THIS IS THE JUDGEMENT (the microphone is 3 electric guitars)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/hbfuss0x.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-microphone-is-3-electric-guitars-unit-0001-tape-edition_3c07f39b8836"
+    }
+  }
+}

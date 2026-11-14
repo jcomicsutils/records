@@ -1,0 +1,30 @@
+{
+  "id": "wooooooo-christmas_e73f67a035f8",
+  "fingerprint": "e73f67a035f8f48686cb7577e478235e480d3ce02142a3b7cec5938369bcf90e",
+  "archived_at": "2026-11-13T23:00:06Z",
+  "metadata": {
+    "title": "Wooooooo Christmas!",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2153,
+    "duration_human": "00:35:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - Wooooooo Christmas!"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/vpzpx1w0.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/wooooooo-christmas_e73f67a035f8"
+    }
+  }
+}

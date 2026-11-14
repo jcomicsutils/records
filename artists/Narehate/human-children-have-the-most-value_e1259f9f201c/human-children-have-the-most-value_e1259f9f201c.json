@@ -1,0 +1,30 @@
+{
+  "id": "human-children-have-the-most-value_e1259f9f201c",
+  "fingerprint": "e1259f9f201cf7e5d9cd7dd28a5f258cf0cd56a07a6926571c4f62321c9731fc",
+  "archived_at": "2026-11-10T11:39:52Z",
+  "metadata": {
+    "title": "Human children have the most value.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2869,
+    "duration_human": "00:47:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - _"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/xvq9j9ef.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/human-children-have-the-most-value_e1259f9f201c"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "stone-showers-starry-mountains-homesick-blues_4a66e15e65b9",
+  "fingerprint": "4a66e15e65b98742b4de49e773f01c8844030d6a5ae2ba89d29aff0acd745e2e",
+  "archived_at": "2026-11-10T05:09:26Z",
+  "metadata": {
+    "title": "stone showers, starry mountains (homesick blues)",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "palest blue"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2649,
+    "duration_human": "00:44:09",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 palest blue - stone showers, starry mountains (homesick blues)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/tptxp6bj.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/stone-showers-starry-mountains-homesick-blues_4a66e15e65b9"
+    }
+  }
+}

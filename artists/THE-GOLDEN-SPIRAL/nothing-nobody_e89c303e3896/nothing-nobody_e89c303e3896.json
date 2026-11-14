@@ -1,0 +1,34 @@
+{
+  "id": "nothing-nobody_e89c303e3896",
+  "fingerprint": "e89c303e3896f163810b4ec69f751531d578cac5fc5691c8029a89bad781cca1",
+  "archived_at": "2026-11-10T04:20:57Z",
+  "metadata": {
+    "title": "NOTHING & NOBODY",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "THE GOLDEN SPIRAL"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 2846,
+    "duration_human": "00:47:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 THE GOLDEN SPIRAL - PLEASE WAKE ME UP",
+      "02 THE GOLDEN SPIRAL - NOTHING & NOBODY",
+      "03 THE GOLDEN SPIRAL - DIGITALIS",
+      "04 THE GOLDEN SPIRAL - DEAD INK"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/0jhv9p15.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/nothing-nobody_e89c303e3896"
+    }
+  }
+}

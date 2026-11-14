@@ -1,0 +1,31 @@
+{
+  "id": "corrupted-coltrane_e3fd128229ae",
+  "fingerprint": "e3fd128229aecea7f5f025e62970ea7807c30193f03b08fac984ee28b6f0ecf9",
+  "archived_at": "2026-11-10T16:47:08Z",
+  "metadata": {
+    "title": "Corrupted Coltrane",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 821,
+    "duration_human": "00:13:41",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Corrupted Coltrane: Part I",
+      "02 Séraphitüs-Séraphîta - Corrupted Coltrane: Part II"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/j7tdhihd.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/corrupted-coltrane_e3fd128229ae"
+    }
+  }
+}

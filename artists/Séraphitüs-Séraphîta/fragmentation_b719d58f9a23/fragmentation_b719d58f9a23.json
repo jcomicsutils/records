@@ -1,0 +1,30 @@
+{
+  "id": "fragmentation_b719d58f9a23",
+  "fingerprint": "b719d58f9a236c493c3b4525671fd6d88194f8c6113ed294b9fa709544ac8f31",
+  "archived_at": "2026-11-14T04:20:35Z",
+  "metadata": {
+    "title": "Fragmentation",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2420,
+    "duration_human": "00:40:20",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Fragmentation"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/vw4dkbyv.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/fragmentation_b719d58f9a23"
+    }
+  }
+}

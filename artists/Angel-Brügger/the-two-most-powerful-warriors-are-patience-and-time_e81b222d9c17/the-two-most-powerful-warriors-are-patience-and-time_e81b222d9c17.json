@@ -1,0 +1,33 @@
+{
+  "id": "the-two-most-powerful-warriors-are-patience-and-time_e81b222d9c17",
+  "fingerprint": "e81b222d9c1796666ebbfb9cacde6362e6419f5bd9fb5af06573382d9e00f3c9",
+  "archived_at": "2026-11-10T03:57:52Z",
+  "metadata": {
+    "title": "The two most powerful warriors are patience and time",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B.",
+      "Sebastian Tomb",
+      "Angel Brügger"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2400,
+    "duration_human": "00:40:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Sebastian Tomb - Patience",
+      "02 Angel Brügger - Time"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/8kf89eft.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-two-most-powerful-warriors-are-patience-and-time_e81b222d9c17"
+    }
+  }
+}

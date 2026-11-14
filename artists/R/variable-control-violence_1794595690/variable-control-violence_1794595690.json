@@ -1,0 +1,40 @@
+{
+  "id": "variable-control-violence_1794595690",
+  "fingerprint": "a6105930d027d49b8cea055015862cfeae68d793d444c6f781c78f5ca1ab28cd",
+  "archived_at": "2026-11-13T18:48:10Z",
+  "metadata": {
+    "title": "Variable Control Violence",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B.",
+      "CTRL",
+      "R"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 3887,
+    "duration_human": "01:04:47",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 CTRL+R - untitled",
+      "02 CTRL+R - untitled",
+      "03 CTRL+R - untitled",
+      "04 CTRL+R - untitled",
+      "05 CTRL+R - untitled",
+      "06 CTRL+R - untitled",
+      "07 CTRL+R - untitled",
+      "08 CTRL+R - untitled",
+      "09 CTRL+R - untitled"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/13iv8dpl.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/variable-control-violence_a6105930d027"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "i-hope-you-can-wait-for-me-just-a-bit-longer_716ebf2ea7d9",
+  "fingerprint": "716ebf2ea7d96b901c67cabeb4739a2387c5c54abc1387e1212bbf196aab2d66",
+  "archived_at": "2026-11-10T12:09:57Z",
+  "metadata": {
+    "title": "I hope you can wait for me just a bit longer.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3046,
+    "duration_human": "00:50:46",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - _"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/8eumti5j.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/i-hope-you-can-wait-for-me-just-a-bit-longer_716ebf2ea7d9"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "the-faint-far-murmur-of-an-eroded-sea-shell_867ecf9dc25f",
+  "fingerprint": "867ecf9dc25f1d32032b16f2d9434bd609b824d75e9dd7a58fc1b255392ff988",
+  "archived_at": "2026-11-14T02:41:10Z",
+  "metadata": {
+    "title": "The faint far murmur of an eroded sea-shell",
+    "artist": "Dafake",
+    "creators": [
+      "Dafake"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1462,
+    "duration_human": "00:24:22",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Dafake - untitled #1"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/7vwg6tuu.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-faint-far-murmur-of-an-eroded-sea-shell_867ecf9dc25f"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "karpantir_41c2d6748eb5",
+  "fingerprint": "41c2d6748eb587adefca1599f78c0bd42a70a59271c4af5727c1ea61e08af070",
+  "archived_at": "2026-11-10T03:28:26Z",
+  "metadata": {
+    "title": "Karpantir",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "Handheld Simpleton"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 3,
+    "duration_seconds": 850,
+    "duration_human": "00:14:10",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Handheld Simpleton - Karpantir",
+      "02 Handheld Simpleton - Harlequin",
+      "03 Handheld Simpleton - Plastic Curtains"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/7o59wrg4.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/karpantir_41c2d6748eb5"
+    }
+  }
+}

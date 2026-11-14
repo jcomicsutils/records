@@ -1,0 +1,32 @@
+{
+  "id": "scolopendra_ab4926dcd8c8",
+  "fingerprint": "ab4926dcd8c8c43aac60647e604b9f15f0931adc60dc43bc7f544c8de7a3fbb0",
+  "archived_at": "2026-11-10T04:37:28Z",
+  "metadata": {
+    "title": "Scolopendra",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "Distorzce"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2670,
+    "duration_human": "00:44:30",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Distorzce - Aztec Blue",
+      "02 Distorzce - Centipede Chapel"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/72mwk5k4.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/scolopendra_ab4926dcd8c8"
+    }
+  }
+}

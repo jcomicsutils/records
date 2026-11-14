@@ -1,0 +1,30 @@
+{
+  "id": "there-was-one-thing-wasnt-there_2a881690f629",
+  "fingerprint": "2a881690f62967691a6e54c2e367543971c0f05376bb8d28d667eabf281db1e4",
+  "archived_at": "2026-11-10T14:55:13Z",
+  "metadata": {
+    "title": "There was one thing, wasn't there?",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4361,
+    "duration_human": "01:12:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - One thing I decided on my own."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/fdtm8g7y.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/there-was-one-thing-wasnt-there_2a881690f629"
+    }
+  }
+}

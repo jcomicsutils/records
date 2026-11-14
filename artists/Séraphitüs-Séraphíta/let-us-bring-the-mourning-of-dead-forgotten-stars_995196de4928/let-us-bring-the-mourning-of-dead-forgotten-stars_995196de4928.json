@@ -1,0 +1,33 @@
+{
+  "id": "let-us-bring-the-mourning-of-dead-forgotten-stars_995196de4928",
+  "fingerprint": "995196de4928764ef39b7c69f23452159a7a7dbe8d0dd56ed317d487d592e755",
+  "archived_at": "2026-11-14T06:08:57Z",
+  "metadata": {
+    "title": "Let us bring the mourning of dead forgotten stars",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta",
+      "Séraphitüs-Séraphíta",
+      "Apokryphos"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2401,
+    "duration_human": "00:40:01",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Séraphitüs-Séraphíta - Journey through the cosmic catacombs",
+      "02 Apokryphos - Laments of the ancient great Monolith"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/icu8wqwk.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/let-us-bring-the-mourning-of-dead-forgotten-stars_995196de4928"
+    }
+  }
+}

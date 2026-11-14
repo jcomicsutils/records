@@ -1,0 +1,39 @@
+{
+  "id": "4h_439ae6485ace",
+  "fingerprint": "439ae6485ace04d4ef82da743107ae1ad9eb39e5a64490a7686d69db87db652d",
+  "archived_at": "2026-11-10T16:19:33Z",
+  "metadata": {
+    "title": "᥊ׁׅ",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 1846,
+    "duration_human": "00:30:46",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - ᥊ׁׅ",
+      "02 Séraphitüs-Séraphîta - ᥊ׁׅ",
+      "03 Séraphitüs-Séraphîta - ᥊ׁׅ",
+      "04 Séraphitüs-Séraphîta - ᥊ׁׅ",
+      "05 Séraphitüs-Séraphîta - ᥊ׁׅ",
+      "06 Séraphitüs-Séraphîta - ᥊ׁׅ",
+      "07 Séraphitüs-Séraphîta - ᥊ׁׅ",
+      "08 Séraphitüs-Séraphîta - ᥊ׁׅ",
+      "09 Séraphitüs-Séraphîta - ᥊ׁׅ",
+      "10 Séraphitüs-Séraphîta - ᥊ׁׅ"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/qr4bn3w0.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/4h_439ae6485ace"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "was-wuerdest-du-denken_824e4845637f",
+  "fingerprint": "824e4845637f59c57344082e005061c374a20c2842597744acb2e53405978298",
+  "archived_at": "2026-11-10T05:40:44Z",
+  "metadata": {
+    "title": "Was wuerdest du denken?",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "Audible Masticators",
+      "INYAN"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2820,
+    "duration_human": "00:47:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Audible Masticators & INYAN - Was wuerdest du denken?"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/mbgq9exw.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/was-wuerdest-du-denken_824e4845637f"
+    }
+  }
+}

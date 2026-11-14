@@ -1,0 +1,43 @@
+{
+  "id": "nightbloom_22c439c2a9c3",
+  "fingerprint": "22c439c2a9c33e9e78faf1dbef5c836f94f6de9a951b8d5bcfb5ac39a358cef1",
+  "archived_at": "2026-11-14T07:22:49Z",
+  "metadata": {
+    "title": "NIGHTBLOOM",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 10804,
+    "duration_human": "03:00:04",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - [𝐚𝐥𝐲𝐬𝐬𝐮𝐦 𝐈]",
+      "02 Séraphitüs-Séraphîta - [𝐚𝐥𝐲𝐬𝐬𝐮𝐦 𝐈𝐈]",
+      "03 Séraphitüs-Séraphîta - [𝐩𝐫𝐢𝐦𝐫𝐨𝐬𝐞 𝐈]",
+      "04 Séraphitüs-Séraphîta - [𝐩𝐫𝐢𝐦𝐫𝐨𝐬𝐞 𝐈𝐈]",
+      "05 Séraphitüs-Séraphîta - [𝐦𝐨𝐨𝐧𝐟𝐥𝐨𝐰𝐞𝐫 𝐈]",
+      "06 Séraphitüs-Séraphîta - [𝐦𝐨𝐨𝐧𝐟𝐥𝐨𝐰𝐞𝐫 𝐈𝐈]",
+      "07 Séraphitüs-Séraphîta - [𝐦𝐨𝐨𝐧𝐟𝐥𝐨𝐰𝐞𝐫 𝐈𝐈𝐈]",
+      "08 Séraphitüs-Séraphîta - [𝐦𝐨𝐨𝐧𝐟𝐥𝐨𝐰𝐞𝐫 𝐈𝐕]",
+      "09 Séraphitüs-Séraphîta - [𝐦𝐨𝐨𝐧𝐟𝐥𝐨𝐰𝐞𝐫 𝐕]"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://pomf2.lain.la/f/j1zcxrjx.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/l21k4oyp.tar"
+        }
+      ]
+    }
+  }
+}

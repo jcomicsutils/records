@@ -1,0 +1,31 @@
+{
+  "id": "numinous-tapes-ii_93d7230428d2",
+  "fingerprint": "93d7230428d2686e951bba6819d41644a2ca614a578b96017b3960e2147c83c0",
+  "archived_at": "2026-11-14T07:35:10Z",
+  "metadata": {
+    "title": "numinous tapes II",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta",
+      "anna bortionist"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1010,
+    "duration_human": "00:16:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta + anna bortionist - thana - anna bortionist",
+      "02 Séraphitüs-Séraphîta + anna bortionist - lund - anna bortionist",
+      "03 Séraphitüs-Séraphîta + anna bortionist - confabulation - Séraphitüs-Séraphîta",
+      "04 Séraphitüs-Séraphîta + anna bortionist - hypnopompia - Séraphitüs-Séraphîta"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/cmqlfkjf.tar"
+    }
+  }
+}

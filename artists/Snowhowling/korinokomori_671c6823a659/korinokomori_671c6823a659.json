@@ -1,0 +1,30 @@
+{
+  "id": "korinokomori_671c6823a659",
+  "fingerprint": "671c6823a659d54696c1483bdd2bf010b46a280855f1c1804d17f01ea95a1559",
+  "archived_at": "2026-11-14T02:08:00Z",
+  "metadata": {
+    "title": "Korinokomori",
+    "artist": "Snowhowling",
+    "creators": [
+      "Snowhowling"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4800,
+    "duration_human": "01:20:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Snowhowling - Korinokomori"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/yzcnqpkp.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/korinokomori_671c6823a659"
+    }
+  }
+}

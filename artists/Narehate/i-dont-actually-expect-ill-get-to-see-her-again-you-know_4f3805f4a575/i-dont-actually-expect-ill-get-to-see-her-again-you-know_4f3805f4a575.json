@@ -1,0 +1,30 @@
+{
+  "id": "i-dont-actually-expect-ill-get-to-see-her-again-you-know_4f3805f4a575",
+  "fingerprint": "4f3805f4a575fb803a06a0082850ca9a2e18a92109158e21c08bd709a9083777",
+  "archived_at": "2026-11-10T11:50:36Z",
+  "metadata": {
+    "title": "I don't actually expect I'll get to see her again, you know.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 5401,
+    "duration_human": "01:30:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - That was just my heart speaking."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/xnf5xnfm.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/i-dont-actually-expect-ill-get-to-see-her-again-you-know_4f3805f4a575"
+    }
+  }
+}

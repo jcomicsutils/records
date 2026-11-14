@@ -1,0 +1,30 @@
+{
+  "id": "boo-2_c5cb33e3e749",
+  "fingerprint": "c5cb33e3e749d2fca85a51e41958adad1fe0cdce4b69238720bbdd1dc75f7ce7",
+  "archived_at": "2026-11-13T19:49:09Z",
+  "metadata": {
+    "title": "Boo 2",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2000,
+    "duration_human": "00:33:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - So Fucking Scary"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/l16ss9qi.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/boo-2_c5cb33e3e749"
+    }
+  }
+}

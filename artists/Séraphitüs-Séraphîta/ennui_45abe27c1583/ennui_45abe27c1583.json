@@ -1,0 +1,30 @@
+{
+  "id": "ennui_45abe27c1583",
+  "fingerprint": "45abe27c15831f0f92548e0afb5de65abaf0bb2895b1d68a95f49c0a54d7ad1a",
+  "archived_at": "2026-11-14T04:00:22Z",
+  "metadata": {
+    "title": "Ennui",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 914,
+    "duration_human": "00:15:14",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Ennui"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/df78l4xf.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/ennui_45abe27c1583"
+    }
+  }
+}

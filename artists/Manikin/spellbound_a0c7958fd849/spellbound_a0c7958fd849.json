@@ -1,0 +1,30 @@
+{
+  "id": "spellbound_a0c7958fd849",
+  "fingerprint": "a0c7958fd849f671a3548c4c22254b2d930d290b241faf39b272d4e1139030c1",
+  "archived_at": "2026-11-13T23:18:56Z",
+  "metadata": {
+    "title": "Spellbound",
+    "artist": "Manikin",
+    "creators": [
+      "Manikin"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1835,
+    "duration_human": "00:30:35",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Manikin - Spellbound"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/aezzerqe.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/spellbound_a0c7958fd849"
+    }
+  }
+}

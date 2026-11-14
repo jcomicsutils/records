@@ -1,0 +1,30 @@
+{
+  "id": "why-is-it-my-friends-are-always-there-for-me-when-im-never-there-for-them_1794610393",
+  "fingerprint": "8b6ceda617e7de92cd1d6f2cf3cde2a45685b4a131a3f4034f9c8898a2f45152",
+  "archived_at": "2026-11-13T22:53:13Z",
+  "metadata": {
+    "title": "Why Is It My Friends Are Always There for Me When I'm Never There for Them?",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2556,
+    "duration_human": "00:42:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - Why Is It My Friends Are Always There for Me When I'm Never There for Them?"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/0qv77ysm.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/why-is-it-my-friends-are-always-there-for-me-when-im-never-there-for-them_8b6ceda617e7"
+    }
+  }
+}

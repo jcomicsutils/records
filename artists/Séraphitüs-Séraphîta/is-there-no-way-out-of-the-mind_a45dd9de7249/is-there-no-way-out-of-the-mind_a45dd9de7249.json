@@ -1,0 +1,30 @@
+{
+  "id": "is-there-no-way-out-of-the-mind_a45dd9de7249",
+  "fingerprint": "a45dd9de724982683c5832ef33a0aea109496170f2001bb17fba9235c316dd49",
+  "archived_at": "2026-11-14T05:57:36Z",
+  "metadata": {
+    "title": "Is there no way out of the mind?",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1211,
+    "duration_human": "00:20:11",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Is there no way out of the mind?"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/hug9z5sr.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/is-there-no-way-out-of-the-mind_a45dd9de7249"
+    }
+  }
+}

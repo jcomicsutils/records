@@ -1,0 +1,34 @@
+{
+  "id": "vessels-more-wicked-than-the-earth-spreads-the-slime-that-comes-from-dust_8408091348cd",
+  "fingerprint": "8408091348cd874a676540166c39c8f6c137d11c705c8c914a469c1fed797108",
+  "archived_at": "2026-11-10T05:37:04Z",
+  "metadata": {
+    "title": "vessels - [more] - wicked than the earth - [spreads] - the slime that comes from dust",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "rikardfvs"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1609,
+    "duration_human": "00:26:49",
+    "sampling_rate": "96kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 rikardfvs - izizop (vessel)",
+      "02 rikardfvs - babalond (wicked)",
+      "03 rikardfvs - caosgin (than the earth)",
+      "04 rikardfvs - apachana (the slime that comes from dust)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/u8633cb8.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/vessels-more-wicked-than-the-earth-spreads-the-slime-that-comes-from-dust_8408091348cd"
+    }
+  }
+}

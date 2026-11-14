@@ -1,0 +1,30 @@
+{
+  "id": "coin-lickers_92d5e6af15e8",
+  "fingerprint": "92d5e6af15e8659cefcaad139f2dd1b607f8b345e23d242c561ad0ec0027ecfb",
+  "archived_at": "2026-11-13T20:20:24Z",
+  "metadata": {
+    "title": "Coin Lickers",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3366,
+    "duration_human": "00:56:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - Coin Lickers"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/3x8ylylp.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/coin-lickers_92d5e6af15e8"
+    }
+  }
+}

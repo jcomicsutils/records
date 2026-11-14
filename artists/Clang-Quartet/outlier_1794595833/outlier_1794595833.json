@@ -1,0 +1,32 @@
+{
+  "id": "outlier_1794595833",
+  "fingerprint": "e08d97b2029beed50d7b18321b5adc1779d42865a60c8e566a94015fc51f5d61",
+  "archived_at": "2026-11-13T18:50:33Z",
+  "metadata": {
+    "title": "Outlier",
+    "artist": "Aubade",
+    "creators": [
+      "Aubade",
+      "Clang Quartet"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Clang Quartet - STORM",
+      "02 Aubade - With & Without"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/c28webq8.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/outlier_e08d97b2029b"
+    }
+  }
+}

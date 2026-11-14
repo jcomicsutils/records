@@ -1,0 +1,30 @@
+{
+  "id": "nest-of-the-paper-hornet_6add947821e2",
+  "fingerprint": "6add947821e20c0b39ef6dd909820dcf3223feeca2acd22859842d3dcefa8ca5",
+  "archived_at": "2026-11-14T07:16:15Z",
+  "metadata": {
+    "title": "Nest of the Paper Hornet",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2999,
+    "duration_human": "00:49:59",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Nest of the Paper Hornet"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/9wnm5xcl.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/nest-of-the-paper-hornet_6add947821e2"
+    }
+  }
+}

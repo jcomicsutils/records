@@ -1,0 +1,30 @@
+{
+  "id": "those-days-i-spent-with-you-were-truly-my-haku_1c8482a303f5",
+  "fingerprint": "1c8482a303f574f6d6711bec1649f83d6e26f9a9ad6fcad46ac8730d7d760163",
+  "archived_at": "2026-11-10T15:19:27Z",
+  "metadata": {
+    "title": "Those days I spent with you were truly my Haku.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 4064,
+    "duration_human": "01:07:44",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - _"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/el1d281v.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/those-days-i-spent-with-you-were-truly-my-haku_1c8482a303f5"
+    }
+  }
+}

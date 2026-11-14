@@ -1,0 +1,30 @@
+{
+  "id": "even-the-sun-is-forbidden_1943bb260322",
+  "fingerprint": "1943bb260322167d359af4399dc09244eedb69781c7deadc3f2cd09fcbeaa24b",
+  "archived_at": "2026-11-14T04:03:06Z",
+  "metadata": {
+    "title": "Even The Sun Is Forbidden",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1800,
+    "duration_human": "00:30:00",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Even The Sun Is Forbidden"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/xpy96z1n.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/even-the-sun-is-forbidden_1943bb260322"
+    }
+  }
+}

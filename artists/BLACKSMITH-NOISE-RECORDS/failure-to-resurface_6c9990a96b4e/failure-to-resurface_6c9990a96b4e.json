@@ -1,0 +1,32 @@
+{
+  "id": "failure-to-resurface_6c9990a96b4e",
+  "fingerprint": "6c9990a96b4ea3ae93aaa68965be93b8a93e2a4aedba6c98cfcdd07b877bbd6b",
+  "archived_at": "2026-11-10T02:45:06Z",
+  "metadata": {
+    "title": "FAILURE TO RESURFACE",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "NIGHT PORTER"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1217,
+    "duration_human": "00:20:17",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 NIGHT PORTER - SIDE 1",
+      "02 NIGHT PORTER - SIDE 2"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/xf4wu11w.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/failure-to-resurface_6c9990a96b4e"
+    }
+  }
+}

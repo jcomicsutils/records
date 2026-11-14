@@ -1,0 +1,30 @@
+{
+  "id": "glacier_5091b9b97d98",
+  "fingerprint": "5091b9b97d9814e0fbb421e51d3490fbca8b309b96d35d588e53a5c49de51a15",
+  "archived_at": "2026-11-14T04:31:43Z",
+  "metadata": {
+    "title": "Glacier",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1245,
+    "duration_human": "00:20:45",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Glacier"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/eerfnw9e.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/glacier_5091b9b97d98"
+    }
+  }
+}

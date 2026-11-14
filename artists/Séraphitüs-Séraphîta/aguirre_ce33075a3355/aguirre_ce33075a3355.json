@@ -1,0 +1,30 @@
+{
+  "id": "aguirre_ce33075a3355",
+  "fingerprint": "ce33075a33552a0a96f8602eef8593a9f3bf464d40cfb04255f5899c519c2d27",
+  "archived_at": "2026-11-10T16:30:04Z",
+  "metadata": {
+    "title": "AGUIRRE",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 343,
+    "duration_human": "00:05:43",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - The Wrath of God"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/hdqr78lh.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/aguirre_ce33075a3355"
+    }
+  }
+}

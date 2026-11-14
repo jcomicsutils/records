@@ -1,0 +1,30 @@
+{
+  "id": "trust_95cde36ac7bd",
+  "fingerprint": "95cde36ac7bdc9884ef37b7b0c055cfbe603c25c63d35032e7541c7a739bb683",
+  "archived_at": "2026-11-13T22:45:11Z",
+  "metadata": {
+    "title": "Trust",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1829,
+    "duration_human": "00:30:29",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - Look Directly Into the Sun and Tell Me What You See"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/k0tm8g1q.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/trust_95cde36ac7bd"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "i-myself-will-die-somehow-or-other-one-of-these-days_d13e96c77cef",
+  "fingerprint": "d13e96c77cefedbddf368179939129075336ddc7e722eafecf47d398192bbb85",
+  "archived_at": "2026-11-10T12:22:21Z",
+  "metadata": {
+    "title": "I myself will die somehow or other one of these days.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3376,
+    "duration_human": "00:56:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - After that happens, Mitty will be all alone for eternity."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/pw9yyq55.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/i-myself-will-die-somehow-or-other-one-of-these-days_d13e96c77cef"
+    }
+  }
+}

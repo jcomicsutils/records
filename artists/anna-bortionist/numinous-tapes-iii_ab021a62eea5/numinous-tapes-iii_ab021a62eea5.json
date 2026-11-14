@@ -1,0 +1,31 @@
+{
+  "id": "numinous-tapes-iii_ab021a62eea5",
+  "fingerprint": "ab021a62eea585de312375b72eaba36dbd98d2f8232d8f991d786a7bad36375c",
+  "archived_at": "2026-11-14T07:36:34Z",
+  "metadata": {
+    "title": "numinous tapes III",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta",
+      "anna bortionist"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 918,
+    "duration_human": "00:15:18",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta + anna bortionist - unmovable ashes - Séraphitüs-Séraphîta",
+      "02 Séraphitüs-Séraphîta + anna bortionist - revenant - Séraphitüs-Séraphîta",
+      "03 Séraphitüs-Séraphîta + anna bortionist - drifa - anna bortionist",
+      "04 Séraphitüs-Séraphîta + anna bortionist - stulka - anna bortionist"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/k8sg8wvw.tar"
+    }
+  }
+}

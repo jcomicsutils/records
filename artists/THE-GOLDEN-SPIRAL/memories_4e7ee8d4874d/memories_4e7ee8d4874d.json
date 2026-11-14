@@ -1,0 +1,38 @@
+{
+  "id": "memories_4e7ee8d4874d",
+  "fingerprint": "4e7ee8d4874d11bbbd0a7dd05bd8b9d696b1e7ab6a05974dabfefcd83a31471c",
+  "archived_at": "2026-11-10T03:53:53Z",
+  "metadata": {
+    "title": "MEMORIES",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "THE GOLDEN SPIRAL"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 2397,
+    "duration_human": "00:39:57",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 THE GOLDEN SPIRAL - MEMORY ONE",
+      "02 THE GOLDEN SPIRAL - MEMORY TWO",
+      "03 THE GOLDEN SPIRAL - MEMORY THREE",
+      "04 THE GOLDEN SPIRAL - MEMORY FOUR",
+      "05 THE GOLDEN SPIRAL - MEMORY FIVE",
+      "06 THE GOLDEN SPIRAL - MEMORY SIX",
+      "07 THE GOLDEN SPIRAL - MEMORY SEVEN",
+      "08 THE GOLDEN SPIRAL - MEMORY EIGHT"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/l669me1o.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/memories_4e7ee8d4874d"
+    }
+  }
+}

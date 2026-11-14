@@ -1,0 +1,40 @@
+{
+  "id": "suggested-detour_e9e59861ccef",
+  "fingerprint": "e9e59861ccef006dce5c08be065d63142f9852549b37dcdcc04b42d1e4031632",
+  "archived_at": "2026-11-10T05:12:57Z",
+  "metadata": {
+    "title": "Suggested Detour",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "David Dellacroce"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 2441,
+    "duration_human": "00:40:41",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 David Dellacroce - Vacancy",
+      "02 David Dellacroce - Silt",
+      "03 David Dellacroce - Veil",
+      "04 David Dellacroce - Hollow",
+      "05 David Dellacroce - Tide",
+      "06 David Dellacroce - Absence",
+      "07 David Dellacroce - Ashes",
+      "08 David Dellacroce - Dawn",
+      "09 David Dellacroce - Orbit",
+      "10 David Dellacroce - Endnote"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/l2ik9ggv.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/suggested-detour_e9e59861ccef"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "bat-and-moon_b220721e95ff",
+  "fingerprint": "b220721e95ffe2f88a3f75414343bc28785be3df86088a9a724199abae4f8416",
+  "archived_at": "2026-11-10T16:35:53Z",
+  "metadata": {
+    "title": "𝐵𝒶𝓉 𝒶𝓃𝒹 𝑀𝑜𝑜𝓃",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1204,
+    "duration_human": "00:20:04",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - 𝐵𝒶𝓉",
+      "02 Séraphitüs-Séraphîta - 𝑀𝑜𝑜𝓃"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/67mcad9f.tar"
+    }
+  }
+}

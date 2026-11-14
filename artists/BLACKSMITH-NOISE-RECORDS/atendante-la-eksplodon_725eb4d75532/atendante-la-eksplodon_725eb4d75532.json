@@ -1,0 +1,34 @@
+{
+  "id": "atendante-la-eksplodon_725eb4d75532",
+  "fingerprint": "725eb4d755321f1c68bc4e6ae64361c857b230aecf65bd2e68612bbad35bbe1b",
+  "archived_at": "2026-11-10T02:20:40Z",
+  "metadata": {
+    "title": "ATENDANTE LA EKSPLODON",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "el_masmore"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1327,
+    "duration_human": "00:22:07",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 el_masmore - FAKE NOISE SYMPHONY",
+      "02 el_masmore - LA ESCALERA MECANICA",
+      "03 el_masmore - NOVA INDUSTRIA MASINO",
+      "04 el_masmore - PARTICLE ACCELERATOR"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/3ikjn7hd.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/atendante-la-eksplodon_725eb4d75532"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "inward-statis_bb6181e736c3",
+  "fingerprint": "bb6181e736c361f5119b48159c88fa8103c928dce90ed8cf46e923f72e330db1",
+  "archived_at": "2026-11-13T21:26:50Z",
+  "metadata": {
+    "title": "Inward Statis",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2025",
+    "codec": "MP3",
+    "num_tracks": 1,
+    "duration_seconds": 2329,
+    "duration_human": "00:38:49",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": null,
+    "tracklist": [
+      "01 Burial Garden - Inward Statis"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/w4nldfdl.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/inward-statis_bb6181e736c3"
+    }
+  }
+}

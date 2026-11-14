@@ -1,0 +1,35 @@
+{
+  "id": "le-cadeau_355f9bf03439",
+  "fingerprint": "355f9bf03439553bd073f0cf9647fee056a1831dc4ab6f1d9ad8c4a6218ecb41",
+  "archived_at": "2026-11-14T06:35:56Z",
+  "metadata": {
+    "title": "ʟᴇ ᴄᴀᴅᴇᴀᴜ",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta",
+      "Saint Elisabeth"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 8,
+    "duration_seconds": 4794,
+    "duration_human": "01:19:54",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta + Saint Elisabeth - 𝘙𝘶𝘮𝘪𝘯𝘢𝘵𝘪𝘰𝘯 𝘐 - Saint Elisabeth",
+      "02 Séraphitüs-Séraphîta + Saint Elisabeth - 𝘙𝘶𝘮𝘪𝘯𝘢𝘵𝘪𝘰𝘯 𝘐𝘐 - Séraphitüs-Séraphîta",
+      "03 Séraphitüs-Séraphîta + Saint Elisabeth - 𝘙𝘶𝘮𝘪𝘯𝘢𝘵𝘪𝘰𝘯 𝘐𝘐𝘐 - Saint Elisabeth",
+      "04 Séraphitüs-Séraphîta + Saint Elisabeth - 𝘙𝘶𝘮𝘪𝘯𝘢𝘵𝘪𝘰𝘯 𝘐𝘝 - Séraphitüs-Séraphîta",
+      "05 Séraphitüs-Séraphîta + Saint Elisabeth - 𝘙𝘶𝘮𝘪𝘯𝘢𝘵𝘪𝘰𝘯 𝘝 - Saint Elisabeth",
+      "06 Séraphitüs-Séraphîta + Saint Elisabeth - 𝘙𝘶𝘮𝘪𝘯𝘢𝘵𝘪𝘰𝘯 𝘝𝘐 - Séraphitüs-Séraphîta",
+      "07 Séraphitüs-Séraphîta + Saint Elisabeth - 𝘙𝘶𝘮𝘪𝘯𝘢𝘵𝘪𝘰𝘯 𝘝𝘐𝘐 - Saint Elisabeth",
+      "08 Séraphitüs-Séraphîta + Saint Elisabeth - 𝘙𝘶𝘮𝘪𝘯𝘢𝘵𝘪𝘰𝘯 𝘝𝘐𝘐𝘐 - Séraphitüs-Séraphîta"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/1fl9v7gj.tar"
+    }
+  }
+}

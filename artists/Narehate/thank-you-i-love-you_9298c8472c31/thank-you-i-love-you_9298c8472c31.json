@@ -1,0 +1,30 @@
+{
+  "id": "thank-you-i-love-you_9298c8472c31",
+  "fingerprint": "9298c8472c31555c105f2ccaf3b38b91ff15d599e05620cf74738fe3637e9131",
+  "archived_at": "2026-11-10T14:29:14Z",
+  "metadata": {
+    "title": "Thank you, I love you.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3626,
+    "duration_human": "01:00:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - My very own warm darkness."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/dzcx6jph.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/thank-you-i-love-you_9298c8472c31"
+    }
+  }
+}

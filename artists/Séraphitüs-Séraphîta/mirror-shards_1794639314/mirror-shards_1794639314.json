@@ -1,0 +1,35 @@
+{
+  "id": "mirror-shards_1794639314",
+  "fingerprint": "ccabdf6148a6854045053b66b4e50a5c3dec7db7751183bb69deddd8663380a7",
+  "archived_at": "2026-11-14T06:55:14Z",
+  "metadata": {
+    "title": "Mirror Shards",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta",
+      "Substak"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1734,
+    "duration_human": "00:28:54",
+    "sampling_rate": "48kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta + Substak - Shard I — Substak",
+      "02 Séraphitüs-Séraphîta + Substak - Shard II — Substak",
+      "03 Séraphitüs-Séraphîta + Substak - Shard III — Séraphitüs-Séraphîta",
+      "04 Séraphitüs-Séraphîta + Substak - Shard IV — Séraphitüs-Séraphîta",
+      "05 Séraphitüs-Séraphîta + Substak - Shard V — Séraphitüs-Séraphîta"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/rzwwqmrn.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/mirror-shards_ccabdf6148a6"
+    }
+  }
+}

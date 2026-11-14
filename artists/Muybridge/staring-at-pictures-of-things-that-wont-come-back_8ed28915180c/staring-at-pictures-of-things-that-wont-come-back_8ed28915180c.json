@@ -1,0 +1,33 @@
+{
+  "id": "staring-at-pictures-of-things-that-wont-come-back_8ed28915180c",
+  "fingerprint": "8ed28915180c1f532d6f680eaf4e8f9e2971131da8640f06cf13a82d32caf0bf",
+  "archived_at": "2026-11-10T10:17:33Z",
+  "metadata": {
+    "title": "Staring at Pictures of Things That Won't Come Back",
+    "artist": "Female Stint",
+    "creators": [
+      "Female Stint",
+      "Muybridge",
+      "pinniped"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3600,
+    "duration_human": "01:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Muybridge - Horses Ringing Bells",
+      "02 pinniped - what i feel for you can't be put into words"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/wljazsti.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/staring-at-pictures-of-things-that-wont-come-back_8ed28915180c"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "in-memory-of-emily-aideen_353e91b68007",
+  "fingerprint": "353e91b68007a70cbca1dbc31fd76687111a4a4db43e324ef235770f48aac3e3",
+  "archived_at": "2026-11-14T05:38:15Z",
+  "metadata": {
+    "title": "In Memory of Emily Aideen",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3597,
+    "duration_human": "00:59:57",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Sister in Noise I",
+      "02 Séraphitüs-Séraphîta - Sister in Noise II"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/shjrdlcz.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/in-memory-of-emily-aideen_353e91b68007"
+    }
+  }
+}

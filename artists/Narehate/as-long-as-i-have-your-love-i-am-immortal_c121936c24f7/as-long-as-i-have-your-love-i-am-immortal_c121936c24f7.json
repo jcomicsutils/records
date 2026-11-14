@@ -1,0 +1,30 @@
+{
+  "id": "as-long-as-i-have-your-love-i-am-immortal_c121936c24f7",
+  "fingerprint": "c121936c24f79e07ef9aa5aaf5d4c0e418b9421d2ca862e2db745f0505084ead",
+  "archived_at": "2026-11-10T11:07:54Z",
+  "metadata": {
+    "title": "As long as I have your love I am immortal.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3816,
+    "duration_human": "01:03:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - _"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/8okr8k3v.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/as-long-as-i-have-your-love-i-am-immortal_c121936c24f7"
+    }
+  }
+}

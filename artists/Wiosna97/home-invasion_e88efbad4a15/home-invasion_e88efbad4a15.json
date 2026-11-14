@@ -1,0 +1,37 @@
+{
+  "id": "home-invasion_e88efbad4a15",
+  "fingerprint": "e88efbad4a1522caddc6597e452ad7ad6883ed5cb4b9e4c6ce1b1843f9a3e06d",
+  "archived_at": "2026-11-10T03:04:02Z",
+  "metadata": {
+    "title": "Home Invasion",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "Wiosna97"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2667,
+    "duration_human": "00:44:27",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Wiosna97 - Home Invasion",
+      "02 Wiosna97 - Bloodbath",
+      "03 Wiosna97 - Left Side",
+      "04 Wiosna97 - The Killing Ground",
+      "05 Wiosna97 - Apparition Of Expressionless",
+      "06 Wiosna97 - False Reality",
+      "07 Wiosna97 - Exit from Monochrome Hell"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/x1zldh7a.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/home-invasion_e88efbad4a15"
+    }
+  }
+}

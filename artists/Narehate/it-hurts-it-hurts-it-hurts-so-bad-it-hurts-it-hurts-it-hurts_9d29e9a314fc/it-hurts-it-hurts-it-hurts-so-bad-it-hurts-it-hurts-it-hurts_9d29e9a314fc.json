@@ -1,0 +1,30 @@
+{
+  "id": "it-hurts-it-hurts-it-hurts-so-bad-it-hurts-it-hurts-it-hurts_9d29e9a314fc",
+  "fingerprint": "9d29e9a314fca3217b438acf53921f84b53d9010f89354544da76f5cc4fd4750",
+  "archived_at": "2026-11-10T13:40:29Z",
+  "metadata": {
+    "title": "IT HURTS! IT HURTS!! IT HURTS SO BAD!! IT HURTS!! IT HURTS! IT HURTS!!",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2985,
+    "duration_human": "00:49:45",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - AANH... ANH...!! KILL... KILL ME!! PLEASE..."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/d0b7cm6y.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/it-hurts-it-hurts-it-hurts-so-bad-it-hurts-it-hurts-it-hurts_9d29e9a314fc"
+    }
+  }
+}

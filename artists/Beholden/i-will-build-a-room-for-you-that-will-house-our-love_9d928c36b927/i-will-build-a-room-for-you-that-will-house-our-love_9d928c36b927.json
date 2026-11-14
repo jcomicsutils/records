@@ -1,0 +1,30 @@
+{
+  "id": "i-will-build-a-room-for-you-that-will-house-our-love_9d928c36b927",
+  "fingerprint": "9d928c36b927033d0217b6e430da5be75bcba6cecfe804f49847f45caccc48a9",
+  "archived_at": "2026-11-13T19:01:44Z",
+  "metadata": {
+    "title": "I will build a room for you that will house our love.",
+    "artist": "Beholden",
+    "creators": [
+      "Beholden"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3152,
+    "duration_human": "00:52:32",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Beholden - Soon the first piece of this puzzle will manifest, and with time a beautiful and eternal image of happiness shall form, waiting as patiently for you as you did for me."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/lds9i6vl.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/i-will-build-a-room-for-you-that-will-house-our-love_9d928c36b927"
+    }
+  }
+}

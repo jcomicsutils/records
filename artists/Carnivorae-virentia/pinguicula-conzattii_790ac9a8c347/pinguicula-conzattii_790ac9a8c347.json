@@ -1,0 +1,30 @@
+{
+  "id": "pinguicula-conzattii_790ac9a8c347",
+  "fingerprint": "790ac9a8c347f54d0ba01cdc4ea6a00fdcda8ec4f15582b53b2644cea801ffa3",
+  "archived_at": "2026-11-10T07:59:37Z",
+  "metadata": {
+    "title": "Pinguicula conzattii",
+    "artist": "Carnivorae virentia",
+    "creators": [
+      "Carnivorae virentia"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2240,
+    "duration_human": "00:37:20",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Carnivorae virentia - Pinguicula conzattii"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/86hb528w.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/pinguicula-conzattii_790ac9a8c347"
+    }
+  }
+}

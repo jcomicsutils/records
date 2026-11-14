@@ -1,0 +1,31 @@
+{
+  "id": "let-me-die-a-slow-painful-death_60fd59cda050",
+  "fingerprint": "60fd59cda050bb751686dc7ba71f19816d49d7bb85c4688ec21ee3eedd83696d",
+  "archived_at": "2026-11-10T09:36:29Z",
+  "metadata": {
+    "title": "let me die, a slow, painful, death.",
+    "artist": "Female Stint",
+    "creators": [
+      "Female Stint",
+      "Carved Wounds That Tell a Story Reminiscent of Emo Poetry"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2599,
+    "duration_human": "00:43:19",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Carved Wounds That Tell a Story Reminiscent of Emo Poetry - untitled"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/2uq7tetu.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/let-me-die-a-slow-painful-death_60fd59cda050"
+    }
+  }
+}

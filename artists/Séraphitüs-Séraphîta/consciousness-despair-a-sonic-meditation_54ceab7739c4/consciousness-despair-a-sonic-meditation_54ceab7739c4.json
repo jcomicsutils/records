@@ -1,0 +1,30 @@
+{
+  "id": "consciousness-despair-a-sonic-meditation_54ceab7739c4",
+  "fingerprint": "54ceab7739c4d36007f13f9072f522d74b6aa4f5b4e1e3b2c3074ffbf42a1d50",
+  "archived_at": "2026-11-10T16:43:58Z",
+  "metadata": {
+    "title": "Consciousness & Despair: A Sonic Meditation",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1209,
+    "duration_human": "00:20:09",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Consciousness & Despair: A Sonic Meditation"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/yoqa1ptd.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/consciousness-despair-a-sonic-meditation_54ceab7739c4"
+    }
+  }
+}

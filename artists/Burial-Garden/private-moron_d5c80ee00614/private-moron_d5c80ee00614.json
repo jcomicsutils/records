@@ -1,0 +1,30 @@
+{
+  "id": "private-moron_d5c80ee00614",
+  "fingerprint": "d5c80ee00614d23738b2e5abcff94bc88c640aa06b3aff495039dd5bccad6d7d",
+  "archived_at": "2026-11-13T22:04:58Z",
+  "metadata": {
+    "title": "Private Moron",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 683,
+    "duration_human": "00:11:23",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Burial Garden - Let's Make This One Spongebob Themed"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/bp7ewn4z.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/private-moron_d5c80ee00614"
+    }
+  }
+}

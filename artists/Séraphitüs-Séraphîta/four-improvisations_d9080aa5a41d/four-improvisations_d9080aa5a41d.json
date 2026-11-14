@@ -1,0 +1,30 @@
+{
+  "id": "four-improvisations_d9080aa5a41d",
+  "fingerprint": "d9080aa5a41d2187f4f4c2d9800074c031183c4a470304c24344a8e8743a8cbd",
+  "archived_at": "2026-11-14T04:17:45Z",
+  "metadata": {
+    "title": "Four Improvisations",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 830,
+    "duration_human": "00:13:50",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Four improvisations from a café table [Monday, August 31, 2026]"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/hcvip9vh.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/four-improvisations_d9080aa5a41d"
+    }
+  }
+}

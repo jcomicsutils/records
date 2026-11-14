@@ -1,0 +1,33 @@
+{
+  "id": "my-life-was-a-collapsing-building_7fe91f172f7a",
+  "fingerprint": "7fe91f172f7a6a2c02e3681642761a606939db1253746898d90d951dba869291",
+  "archived_at": "2026-11-10T09:57:44Z",
+  "metadata": {
+    "title": "My Life Was a Collapsing Building",
+    "artist": "Female Stint",
+    "creators": [
+      "Female Stint",
+      "Angel Brügger",
+      "Hannah W"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1201,
+    "duration_human": "00:20:01",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel Brügger & Hannah W - Freezing body, burning barrel",
+      "02 Hannah W & Angel Brügger - do you still need me?"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/1xb35axk.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/my-life-was-a-collapsing-building_7fe91f172f7a"
+    }
+  }
+}

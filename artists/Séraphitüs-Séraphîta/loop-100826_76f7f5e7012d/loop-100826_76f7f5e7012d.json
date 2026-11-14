@@ -1,0 +1,30 @@
+{
+  "id": "loop-100826_76f7f5e7012d",
+  "fingerprint": "76f7f5e7012d289af878957974e5524462e7b7b366073807ce384545d7c5c2f5",
+  "archived_at": "2026-11-14T06:28:14Z",
+  "metadata": {
+    "title": "loop_100826",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 903,
+    "duration_human": "00:15:03",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - loop_100826"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/mpygjanq.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/loop-100826_76f7f5e7012d"
+    }
+  }
+}

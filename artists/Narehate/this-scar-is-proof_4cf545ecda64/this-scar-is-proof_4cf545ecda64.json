@@ -1,0 +1,30 @@
+{
+  "id": "this-scar-is-proof_4cf545ecda64",
+  "fingerprint": "4cf545ecda6459299830ed2e874ddd0bef3420d562c61f09956cf0344ce8e1a2",
+  "archived_at": "2026-11-10T15:12:04Z",
+  "metadata": {
+    "title": "This scar is proof.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3456,
+    "duration_human": "00:57:36",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - It's precious proof that you protected me, Reg."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/rzz05i6f.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/this-scar-is-proof_4cf545ecda64"
+    }
+  }
+}

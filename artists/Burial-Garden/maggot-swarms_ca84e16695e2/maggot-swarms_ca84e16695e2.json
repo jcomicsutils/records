@@ -1,0 +1,30 @@
+{
+  "id": "maggot-swarms_ca84e16695e2",
+  "fingerprint": "ca84e16695e2124c4c3a1fa88a7bf8b29819fb2abac13211189a36d586cf1d5f",
+  "archived_at": "2026-11-13T21:29:12Z",
+  "metadata": {
+    "title": "Maggot Swarms",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 939,
+    "duration_human": "00:15:39",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - Maggot Swarms"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/9z1u8eqc.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/maggot-swarms_ca84e16695e2"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "with-love-passed-down-to-me_12f4d82b886e",
+  "fingerprint": "12f4d82b886e1645931afcf259713da728f84a72f1d16b25bc33aab50412290e",
+  "archived_at": "2026-11-13T22:54:26Z",
+  "metadata": {
+    "title": "With Love Passed Down to Me",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1935,
+    "duration_human": "00:32:15",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - How You Feel"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/0ateis8y.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/with-love-passed-down-to-me_12f4d82b886e"
+    }
+  }
+}

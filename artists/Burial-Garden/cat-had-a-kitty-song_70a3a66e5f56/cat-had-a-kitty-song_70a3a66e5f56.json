@@ -1,0 +1,30 @@
+{
+  "id": "cat-had-a-kitty-song_70a3a66e5f56",
+  "fingerprint": "70a3a66e5f567734df98b3c85e5782a73314671cdd46f9220563036b2c5856d7",
+  "archived_at": "2026-11-13T20:07:06Z",
+  "metadata": {
+    "title": "Cat Had a Kitty Song.",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2674,
+    "duration_human": "00:44:34",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - Cat Had a Kitty Song."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/swyntb0p.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/cat-had-a-kitty-song_70a3a66e5f56"
+    }
+  }
+}

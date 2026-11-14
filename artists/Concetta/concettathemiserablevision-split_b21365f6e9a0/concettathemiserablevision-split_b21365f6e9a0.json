@@ -1,0 +1,35 @@
+{
+  "id": "concettathemiserablevision-split_b21365f6e9a0",
+  "fingerprint": "b21365f6e9a0d7a3a0020785f2a5144a271109387bfadb344b1000342896e0a6",
+  "archived_at": "2026-11-10T02:37:21Z",
+  "metadata": {
+    "title": "Concetta/themiserablevision [split]",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "Concetta",
+      "themiserablevision"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1586,
+    "duration_human": "00:26:26",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Concetta - Frankie",
+      "02 Concetta - Beyond the Language of Love (Where the Boys Are Reprise)",
+      "03 themiserablevision - shattered porcelain.",
+      "04 themiserablevision - disorder."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/a31ocncl.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/concettathemiserablevision-split_b21365f6e9a0"
+    }
+  }
+}

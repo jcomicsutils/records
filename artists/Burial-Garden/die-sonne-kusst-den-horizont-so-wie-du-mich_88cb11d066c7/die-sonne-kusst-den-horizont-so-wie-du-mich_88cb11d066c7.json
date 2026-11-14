@@ -1,0 +1,30 @@
+{
+  "id": "die-sonne-kusst-den-horizont-so-wie-du-mich_88cb11d066c7",
+  "fingerprint": "88cb11d066c7cc74cf339192c954e6a2d1f997038f0ab38f31e0eeb176b0ae0c",
+  "archived_at": "2026-11-13T20:44:40Z",
+  "metadata": {
+    "title": "Die sonne küsst den horizont, so wie du mich",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2346,
+    "duration_human": "00:39:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - I Don't Think Chickens Have Traffic Rules"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/f53be7w6.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/die-sonne-kusst-den-horizont-so-wie-du-mich_88cb11d066c7"
+    }
+  }
+}

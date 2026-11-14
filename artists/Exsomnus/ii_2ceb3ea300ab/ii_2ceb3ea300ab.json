@@ -1,0 +1,32 @@
+{
+  "id": "ii_2ceb3ea300ab",
+  "fingerprint": "2ceb3ea300ab7f4980db31c7995cdf785d8ea3db14c2535ad03307172ae6f100",
+  "archived_at": "2026-11-10T03:11:42Z",
+  "metadata": {
+    "title": "II",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "Exsomnus"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2951,
+    "duration_human": "00:49:11",
+    "sampling_rate": "96kHz",
+    "bit_depth": "Mixed bit depth",
+    "tracklist": [
+      "01 Exsomnus - II-I",
+      "02 Exsomnus - II-II"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/zei8s629.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/ii_2ceb3ea300ab"
+    }
+  }
+}

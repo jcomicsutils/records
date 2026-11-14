@@ -1,0 +1,32 @@
+{
+  "id": "moctezuma-y-cortes_dbe93cf305d4",
+  "fingerprint": "dbe93cf305d4593ada21a4973a476e016c12365e264189d13520e89f99e18905",
+  "archived_at": "2026-11-14T06:56:35Z",
+  "metadata": {
+    "title": "Moctezuma y Cortés",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta",
+      "Saint Elisabeth"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2169,
+    "duration_human": "00:36:09",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta + Saint Elisabeth - Moctezuma",
+      "02 Séraphitüs-Séraphîta + Saint Elisabeth - Cortés"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/dcezmq44.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/moctezuma-y-cortes_dbe93cf305d4"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "field-notes-102326_1cf4baf9ebe1",
+  "fingerprint": "1cf4baf9ebe161a13771d803968c35eeb0ebea24882dabf6c999cdbad0dee312",
+  "archived_at": "2026-11-14T04:16:32Z",
+  "metadata": {
+    "title": "field notes | 102326",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 374,
+    "duration_human": "00:06:14",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - 102326"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/md5betpz.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/field-notes-102326_1cf4baf9ebe1"
+    }
+  }
+}

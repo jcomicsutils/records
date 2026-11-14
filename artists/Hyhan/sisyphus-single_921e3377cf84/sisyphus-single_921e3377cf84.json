@@ -1,0 +1,32 @@
+{
+  "id": "sisyphus-single_921e3377cf84",
+  "fingerprint": "921e3377cf84735e93df61b9a5d3e1eabac689702a3acc11fd7617f178195660",
+  "archived_at": "2026-11-10T04:42:17Z",
+  "metadata": {
+    "title": "Sisyphus [Single]",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "Voluptas Carnis",
+      "Hyhan"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 561,
+    "duration_human": "00:09:21",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Voluptas Carnis, Hyhan - Sisyphus"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/iyclilmy.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/sisyphus-single_921e3377cf84"
+    }
+  }
+}

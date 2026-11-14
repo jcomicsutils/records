@@ -1,0 +1,30 @@
+{
+  "id": "sorry-for-making-you-stick-around-here-with-me-all-this-time_2810c9ee5424",
+  "fingerprint": "2810c9ee5424e473421093e84cd4c86197f728a65c5f8aa4cf79621c9c3cc6ee",
+  "archived_at": "2026-11-10T14:20:05Z",
+  "metadata": {
+    "title": "Sorry for making you stick around here with me all this time.",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3657,
+    "duration_human": "01:00:57",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - _"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/svs8by5t.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/sorry-for-making-you-stick-around-here-with-me-all-this-time_2810c9ee5424"
+    }
+  }
+}

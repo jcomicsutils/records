@@ -1,0 +1,35 @@
+{
+  "id": "mars-venus_ab523a811536",
+  "fingerprint": "ab523a811536e3db4565bcacc03738733b7cba90023387c5d2f671094fd1bc89",
+  "archived_at": "2026-11-14T06:46:45Z",
+  "metadata": {
+    "title": "MARS • VENUS",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta",
+      "Saint Elisabeth"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 1774,
+    "duration_human": "00:29:34",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta + Saint Elisabeth - Saint Elisabeth - Martian Sunrise",
+      "02 Séraphitüs-Séraphîta + Saint Elisabeth - Saint Elisabeth - In Search of Life On the Martian Surface",
+      "03 Séraphitüs-Séraphîta + Saint Elisabeth - Séraphitüs-Séraphîta - Succumbing to the Harsh Venusian Environment",
+      "04 Séraphitüs-Séraphîta + Saint Elisabeth - Séraphitüs-Séraphîta - Venusian Regolith Collection",
+      "05 Séraphitüs-Séraphîta + Saint Elisabeth - Séraphitüs-Séraphîta - Passing Through the Venusian Atmosphere"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/u1nnkvqh.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/mars-venus_ab523a811536"
+    }
+  }
+}

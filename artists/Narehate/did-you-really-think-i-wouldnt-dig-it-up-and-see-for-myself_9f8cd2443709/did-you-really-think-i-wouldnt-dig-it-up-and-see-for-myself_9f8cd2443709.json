@@ -1,0 +1,30 @@
+{
+  "id": "did-you-really-think-i-wouldnt-dig-it-up-and-see-for-myself_9f8cd2443709",
+  "fingerprint": "9f8cd24437091ef00289426ddb5bfb91313ece7de63e123f46d3bd235706fce7",
+  "archived_at": "2026-11-10T11:13:22Z",
+  "metadata": {
+    "title": "Did you really think I wouldn't dig it up and see for myself?",
+    "artist": "Narehate",
+    "creators": [
+      "Narehate"
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3539,
+    "duration_human": "00:58:59",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Narehate - _"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/rioxk7gx.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/did-you-really-think-i-wouldnt-dig-it-up-and-see-for-myself_9f8cd2443709"
+    }
+  }
+}

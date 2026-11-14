@@ -1,0 +1,35 @@
+{
+  "id": "les-chansons-de-ma-vie_703b72e336e1",
+  "fingerprint": "703b72e336e1128b6c35c7d631ae1912a5abbfbf5b8498a6004a684316159d3f",
+  "archived_at": "2026-11-10T03:31:20Z",
+  "metadata": {
+    "title": "Les chansons de ma vie",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "rikardfvs"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 5,
+    "duration_seconds": 2591,
+    "duration_human": "00:43:11",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 rikardfvs - La pute de la côte normande",
+      "02 rikardfvs - Comme ils disent",
+      "03 rikardfvs - Café Crème",
+      "04 rikardfvs - Ne me quitte pas",
+      "05 rikardfvs - Quillebeuf-horn-speaker-jam"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/5fum9z1y.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/les-chansons-de-ma-vie_703b72e336e1"
+    }
+  }
+}

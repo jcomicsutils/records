@@ -1,0 +1,27 @@
+{
+  "id": "my-mind-is-slipping_8074c141117c",
+  "fingerprint": "8074c141117cb2246f28248c6c570445434e1485786927028a0587647811fa9d",
+  "archived_at": "2026-11-14T07:11:50Z",
+  "metadata": {
+    "title": "𝙼𝚢 𝚖𝚒𝚗𝚍 𝚒𝚜 𝚜𝚕𝚒𝚙𝚙𝚒𝚗𝚐...",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 643,
+    "duration_human": "00:10:43",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - 𝙼𝚢 𝚖𝚒𝚗𝚍 𝚒𝚜 𝚜𝚕𝚒𝚙𝚙𝚒𝚗𝚐..."
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/mwotxozg.tar"
+    }
+  }
+}

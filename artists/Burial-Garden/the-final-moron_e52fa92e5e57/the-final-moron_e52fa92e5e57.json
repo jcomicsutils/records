@@ -1,0 +1,30 @@
+{
+  "id": "the-final-moron_e52fa92e5e57",
+  "fingerprint": "e52fa92e5e57725487acae45dcbda00c7643cd7461386513c4be260ae8b6894f",
+  "archived_at": "2026-11-13T22:28:49Z",
+  "metadata": {
+    "title": "The Final Moron",
+    "artist": "Burial Garden",
+    "creators": [
+      "Burial Garden"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 3976,
+    "duration_human": "01:06:16",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Burial Garden - Walking"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/7bvv9raa.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-final-moron_e52fa92e5e57"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "locust-eater_ea8f778482f3",
+  "fingerprint": "ea8f778482f36e322e6b20572e80f79454edbdb475aaa0a28144a11f978662b6",
+  "archived_at": "2026-11-10T03:37:24Z",
+  "metadata": {
+    "title": "LOCUST EATER",
+    "artist": "BLACKSMITH NOISE RECORDS",
+    "creators": [
+      "BLACKSMITH NOISE RECORDS",
+      "Alta Silvae"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 10,
+    "duration_seconds": 1865,
+    "duration_human": "00:31:05",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Alta Silvae - Dreams of My Own",
+      "02 Alta Silvae - No Warning",
+      "03 Alta Silvae - Locust Eater",
+      "04 Alta Silvae - Lost Signals",
+      "05 Alta Silvae - Today I Feel",
+      "06 Alta Silvae - Simply Feral",
+      "07 Alta Silvae - Bitter",
+      "08 Alta Silvae - Boomerang",
+      "09 Alta Silvae - Katastrophe",
+      "10 Alta Silvae - The Shape"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/q8rofabt.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/locust-eater_ea8f778482f3"
+    }
+  }
+}
