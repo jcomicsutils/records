@@ -1,0 +1,30 @@
+{
+  "id": "prometheus_824326803dd7",
+  "fingerprint": "824326803dd787909ae7014dc703270c062cc5539647c61332d81bc28d433ae6",
+  "archived_at": "2026-11-14T22:39:18Z",
+  "metadata": {
+    "title": "𝕻𝖗𝖔𝖒𝖊𝖙𝖍𝖊𝖚𝖘",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 978,
+    "duration_human": "00:16:18",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - 𝕱𝖔𝖗𝖊𝖙𝖍𝖔𝖚𝖌𝖍𝖙",
+      "02 Séraphitüs-Séraphîta - 𝕷𝖎𝖌𝖍𝖙𝖇𝖗𝖎𝖓𝖌𝖊𝖗",
+      "03 Séraphitüs-Séraphîta - 𝕻𝖆𝖓𝖉𝖔𝖗𝖆: 𝕿𝖍𝖊 𝕱𝖎𝖗𝖘𝖙 𝖂𝖔𝖒𝖆𝖓",
+      "04 Séraphitüs-Séraphîta - 𝕴𝖒𝖒𝖔𝖗𝖙𝖆𝖑 𝕷𝖎𝖛𝖊𝖗"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/6qmkq4tz.tar"
+    }
+  }
+}

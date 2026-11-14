@@ -66,6 +66,7 @@
 | [IPHIGENIA](iphigenia_b3c432c40623/iphigenia_b3c432c40623.md) | 2025 | FLAC | 00:21:31 | [Pomf](https://pomf2.lain.la/f/m5laf0oz.tar) [IA](https://archive.org/details/iphigenia_b3c432c40623) |
 | [◌](45be24b68951_4f3a12f21bbf/45be24b68951_4f3a12f21bbf.md) | 2025 | FLAC | 00:21:26 | [Pomf](https://pomf2.lain.la/f/7x2bvmgn.tar) [IA](https://archive.org/details/45be24b68951_4f3a12f21bbf) |
 | [NIGHTBLOOM](nightbloom_22c439c2a9c3/nightbloom_22c439c2a9c3.md) | 2025 | FLAC | 03:00:04 | [Pomf ×2](nightbloom_22c439c2a9c3/nightbloom_22c439c2a9c3.md) |
+| [𝕻𝖗𝖔𝖒𝖊𝖙𝖍𝖊𝖚𝖘](prometheus_824326803dd7/prometheus_824326803dd7.md) | 2025 | FLAC | 00:16:18 | [Pomf](https://pomf2.lain.la/f/6qmkq4tz.tar) |
 | [Histrionic *(with Saint Elisabeth)*](histrionic_82fd5b07ced5/histrionic_82fd5b07ced5.md) | 2025 | FLAC | 00:30:00 | [Pomf](https://pomf2.lain.la/f/cqylvtdt.tar) [IA](https://archive.org/details/histrionic_82fd5b07ced5) |
 | [ʟᴇ ᴄᴀᴅᴇᴀᴜ *(with Saint Elisabeth)*](le-cadeau_355f9bf03439/le-cadeau_355f9bf03439.md) | 2025 | FLAC | 01:19:54 | [Pomf](https://pomf2.lain.la/f/1fl9v7gj.tar) |
 | [Architeuthidae](architeuthidae_b858dfc28589/architeuthidae_b858dfc28589.md) | 2026 | FLAC | 00:20:35 | [Pomf](https://pomf2.lain.la/f/oxi1kq1m.tar) [IA](https://archive.org/details/architeuthidae_b858dfc28589) |
