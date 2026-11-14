@@ -82,6 +82,7 @@
 | [Even The Sun Is Forbidden](even-the-sun-is-forbidden_1943bb260322/even-the-sun-is-forbidden_1943bb260322.md) | 2026 | FLAC | 00:30:00 | [Pomf](https://pomf2.lain.la/f/xpy96z1n.tar) [IA](https://archive.org/details/even-the-sun-is-forbidden_1943bb260322) |
 | [Electroanaesthesia \(Single\)](electroanaesthesia-single_28d9a54e4746/electroanaesthesia-single_28d9a54e4746.md) | 2026 | FLAC | 00:11:17 | [Pomf](https://pomf2.lain.la/f/n2em1aq2.tar) [IA](https://archive.org/details/electroanaesthesia-single_28d9a54e4746) |
 | [loop_100826](loop-100826_76f7f5e7012d/loop-100826_76f7f5e7012d.md) | 2026 | FLAC | 00:15:03 | [Pomf](https://pomf2.lain.la/f/mpygjanq.tar) [IA](https://archive.org/details/loop-100826_76f7f5e7012d) |
+| [𝓼𝓽𝓸𝓷𝓮 𝓽𝓪𝓹𝓮 𝓽𝓱𝓮𝓸𝓻𝔂](stone-tape-theory_d5e18dd7a330/stone-tape-theory_d5e18dd7a330.md) | 2026 | FLAC | 00:39:00 | [Pomf](https://pomf2.lain.la/f/s1aqs5h5.tar) |
 | [Necro-Benthic Micro Suites](necro-benthic-micro-suites_2cf75a69064f/necro-benthic-micro-suites_2cf75a69064f.md) | 2026 | FLAC | 00:30:40 | [Pomf](https://pomf2.lain.la/f/yg8fnshr.tar) [IA](https://archive.org/details/necro-benthic-micro-suites_2cf75a69064f) |
 | [𝐵𝒶𝓉 𝒶𝓃𝒹 𝑀𝑜𝑜𝓃](bat-and-moon_b220721e95ff/bat-and-moon_b220721e95ff.md) | 2026 | FLAC | 00:20:04 | [Pomf](https://pomf2.lain.la/f/67mcad9f.tar) |
 | [field notes | 062426](field-notes-062426_d6516a987f18/field-notes-062426_d6516a987f18.md) | 2026 | FLAC | 00:18:02 | [Pomf](https://pomf2.lain.la/f/afduczkh.tar) [IA](https://archive.org/details/field-notes-062426_d6516a987f18) |
