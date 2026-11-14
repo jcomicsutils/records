@@ -1,0 +1,33 @@
+{
+  "id": "the-politics-of-cultural-despair_22dbc75c573e",
+  "fingerprint": "22dbc75c573e4c8bf0a043709ef4de3026275c2e3d288f7d10a396aaf6b54406",
+  "archived_at": "2026-11-14T23:25:59Z",
+  "metadata": {
+    "title": "The Politics of Cultural Despair",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1174,
+    "duration_human": "00:19:34",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - The Politics of Cultural Despair",
+      "02 Séraphitüs-Séraphîta - Harbinger",
+      "03 Séraphitüs-Séraphîta - Betraying the Working Class",
+      "04 Séraphitüs-Séraphîta - Despiritualized Nihilism"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/50tnw9if.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/the-politics-of-cultural-despair_22dbc75c573e"
+    }
+  }
+}
