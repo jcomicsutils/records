@@ -1,0 +1,30 @@
+{
+  "id": "through-static-mist-fog_bf6d3b5e7fb8",
+  "fingerprint": "bf6d3b5e7fb87edec1eceb4db99776eb9d9bfddfc28c495f341deebe9efd45f7",
+  "archived_at": "2026-11-14T23:32:33Z",
+  "metadata": {
+    "title": "Through Static Mist & Fog",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 868,
+    "duration_human": "00:14:28",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Through Static Mist & Fog"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/j99g79bj.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/through-static-mist-fog_bf6d3b5e7fb8"
+    }
+  }
+}
