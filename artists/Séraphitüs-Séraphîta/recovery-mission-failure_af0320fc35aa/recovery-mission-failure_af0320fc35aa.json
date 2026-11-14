@@ -1,0 +1,35 @@
+{
+  "id": "recovery-mission-failure_af0320fc35aa",
+  "fingerprint": "af0320fc35aad07006491d3836068c35359b0473a352780ca89b31af6fec2924",
+  "archived_at": "2026-11-14T22:50:26Z",
+  "metadata": {
+    "title": "Recovery Mission Failure",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 6,
+    "duration_seconds": 1753,
+    "duration_human": "00:29:13",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Cosmic Debris",
+      "02 Séraphitüs-Séraphîta - Artificial Gravity",
+      "03 Séraphitüs-Séraphîta - Manumala Noxhydria",
+      "04 Séraphitüs-Séraphîta - Fault Detection, Isolation, and Recovery",
+      "05 Séraphitüs-Séraphîta - Futile Medical Droids",
+      "06 Séraphitüs-Séraphîta - Mutagenic Substance"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/526da9ad.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/recovery-mission-failure_af0320fc35aa"
+    }
+  }
+}
