@@ -15,6 +15,7 @@
 | [Is there no way out of the mind?](is-there-no-way-out-of-the-mind_a45dd9de7249/is-there-no-way-out-of-the-mind_a45dd9de7249.md) | 2023 | FLAC | 00:20:11 | [Pomf](https://pomf2.lain.la/f/hug9z5sr.tar) [IA](https://archive.org/details/is-there-no-way-out-of-the-mind_a45dd9de7249) |
 | [AGUIRRE](aguirre_ce33075a3355/aguirre_ce33075a3355.md) | 2023 | FLAC | 00:05:43 | [Pomf](https://pomf2.lain.la/f/hdqr78lh.tar) [IA](https://archive.org/details/aguirre_ce33075a3355) |
 | [Acquainted with the Rain](acquainted-with-the-rain_cfe2783e02c8/acquainted-with-the-rain_cfe2783e02c8.md) | 2023 | FLAC | 00:13:28 | [Pomf](https://pomf2.lain.la/f/j3wyx3v9.tar) [IA](https://archive.org/details/acquainted-with-the-rain_cfe2783e02c8) |
+| [Phantoms of a Morbid Youth](phantoms-of-a-morbid-youth_f32057fc649d/phantoms-of-a-morbid-youth_f32057fc649d.md) | 2023 | FLAC | 00:08:35 | [Pomf](https://pomf2.lain.la/f/h1jsv32f.tar) [IA](https://archive.org/details/phantoms-of-a-morbid-youth_f32057fc649d) |
 | [GONELAND](goneland_55d479034baf/goneland_55d479034baf.md) | 2024 | FLAC | 00:31:48 | [Pomf](https://pomf2.lain.la/f/ee135fqb.tar) [IA](https://archive.org/details/goneland_55d479034baf) |
 | [Boskoi](boskoi_ed8f5d3fa090/boskoi_ed8f5d3fa090.md) | 2024 | FLAC | 00:29:56 | [Pomf](https://pomf2.lain.la/f/nfa4od0v.tar) [IA](https://archive.org/details/boskoi_ed8f5d3fa090) |
 | [Glacier](glacier_5091b9b97d98/glacier_5091b9b97d98.md) | 2024 | FLAC | 00:20:45 | [Pomf](https://pomf2.lain.la/f/eerfnw9e.tar) [IA](https://archive.org/details/glacier_5091b9b97d98) |

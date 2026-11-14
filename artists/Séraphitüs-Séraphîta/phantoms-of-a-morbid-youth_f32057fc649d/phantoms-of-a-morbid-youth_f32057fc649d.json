@@ -1,0 +1,30 @@
+{
+  "id": "phantoms-of-a-morbid-youth_f32057fc649d",
+  "fingerprint": "f32057fc649d507d57d15a30d0ec5c42b01bbf4e391db1a96e94acb6a88138aa",
+  "archived_at": "2026-11-14T22:22:47Z",
+  "metadata": {
+    "title": "Phantoms of a Morbid Youth",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 515,
+    "duration_human": "00:08:35",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Phantoms of a Morbid Youth"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/h1jsv32f.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/phantoms-of-a-morbid-youth_f32057fc649d"
+    }
+  }
+}
