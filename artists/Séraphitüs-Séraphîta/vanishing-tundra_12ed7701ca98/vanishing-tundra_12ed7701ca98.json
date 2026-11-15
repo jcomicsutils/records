@@ -1,0 +1,28 @@
+{
+  "id": "vanishing-tundra_12ed7701ca98",
+  "fingerprint": "12ed7701ca982d17e5d405a8714d0465ec6a72d9e7a3cebdd85c43741136b8fa",
+  "archived_at": "2026-11-15T00:06:33Z",
+  "metadata": {
+    "title": "Vanishing Tundra",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 3675,
+    "duration_human": "01:01:15",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - 𝐈",
+      "02 Séraphitüs-Séraphîta - 𝐈𝐈"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/0b71ky32.tar"
+    }
+  }
+}

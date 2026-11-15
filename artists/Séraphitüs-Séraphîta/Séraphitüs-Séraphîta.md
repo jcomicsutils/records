@@ -69,6 +69,7 @@
 | [᥊ׁׅ](4h_439ae6485ace/4h_439ae6485ace.md) | 2025 | FLAC | 00:30:46 | [Pomf](https://pomf2.lain.la/f/qr4bn3w0.tar) [IA](https://archive.org/details/4h_439ae6485ace) |
 | [MORTIFICATION ✧ 𝘏𝘢𝘳𝘴𝘩 𝘕𝘰𝘪𝘴𝘦 𝘞𝘢𝘭𝘭 𝘧𝘰𝘳 𝘗𝘦𝘰𝘱𝘭𝘦 𝘌𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘪𝘯𝘨 𝘕𝘢𝘳𝘤𝘪𝘴𝘴𝘪𝘵𝘪𝘤 𝘈𝘣𝘶𝘴𝘦](mortification-harsh-noise-wall-for-people-experiencing-narcissitic-abuse_1c3e0acbb9ad/mortification-harsh-noise-wall-for-people-experiencing-narcissitic-abuse_1c3e0acbb9ad.md) | 2025 | FLAC | 01:00:46 | [Pomf](https://pomf2.lain.la/f/6c32ahlj.tar) |
 | [A b s o r p t i o n](a-b-s-o-r-p-t-i-o-n_ea3ca5e3e275/a-b-s-o-r-p-t-i-o-n_ea3ca5e3e275.md) | 2025 | FLAC | 00:11:01 | [Pomf](https://pomf2.lain.la/f/4r6i3l67.tar) [IA](https://archive.org/details/a-b-s-o-r-p-t-i-o-n_ea3ca5e3e275) |
+| [Vanishing Tundra](vanishing-tundra_12ed7701ca98/vanishing-tundra_12ed7701ca98.md) | 2025 | FLAC | 01:01:15 | [Pomf](https://pomf2.lain.la/f/0b71ky32.tar) |
 | [Dawn of Grief](dawn-of-grief_755a5d571a6f/dawn-of-grief_755a5d571a6f.md) | 2025 | FLAC | 00:35:10 | [Pomf](https://pomf2.lain.la/f/4af7mbuu.tar) [IA](https://archive.org/details/dawn-of-grief_755a5d571a6f) |
 | [Lamentations from the Glyptoteque](lamentations-from-the-glyptoteque_a785463b3d31/lamentations-from-the-glyptoteque_a785463b3d31.md) | 2025 | FLAC | 00:29:03 | [Pomf](https://pomf2.lain.la/f/nfhi5jtd.tar) |
 | [numinous tapes IV *(with anna bortionist)*](numinous-tapes-iv_95398ca690b1/numinous-tapes-iv_95398ca690b1.md) | 2025 | FLAC | 00:16:11 | [Pomf](https://pomf2.lain.la/f/dwf1l1a0.tar) |
