@@ -1,0 +1,28 @@
+{
+  "id": "understory_d8d511028279",
+  "fingerprint": "d8d5110282792b2022ccfa4ba6a35664bea19bc4c008f661af0373687954f5fa",
+  "archived_at": "2026-11-14T23:58:49Z",
+  "metadata": {
+    "title": "Understory",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 2755,
+    "duration_human": "00:45:55",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - 𝕌𝕟𝕕𝕖𝕣𝕤𝕥𝕠𝕣𝕪 𝕀",
+      "02 Séraphitüs-Séraphîta - 𝕌𝕟𝕕𝕖𝕣𝕤𝕥𝕠𝕣𝕪 𝕀𝕀"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/w4cgzwap.tar"
+    }
+  }
+}
