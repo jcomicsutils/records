@@ -1,0 +1,36 @@
+{
+  "id": "titania_a53d892e5725",
+  "fingerprint": "a53d892e57259419ba0c674a9d76fd1141648a0991e538cfa6d47e4024b40b7a",
+  "archived_at": "2026-11-17T20:54:35Z",
+  "metadata": {
+    "title": "𐌕𐌉𐌕𐌀𐌍𐌉𐌀",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 7,
+    "duration_seconds": 2428,
+    "duration_human": "00:40:28",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - 𝙸",
+      "02 Séraphitüs-Séraphîta - 𝙸𝙸",
+      "03 Séraphitüs-Séraphîta - 𝙸𝙸𝙸",
+      "04 Séraphitüs-Séraphîta - 𝙸𝚅",
+      "05 Séraphitüs-Séraphîta - 𝚅",
+      "06 Séraphitüs-Séraphîta - 𝚅𝙸",
+      "07 Séraphitüs-Séraphîta - 𝚅𝙸𝙸"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/bm8lc4hm.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/titania_a53d892e5725"
+    }
+  }
+}
