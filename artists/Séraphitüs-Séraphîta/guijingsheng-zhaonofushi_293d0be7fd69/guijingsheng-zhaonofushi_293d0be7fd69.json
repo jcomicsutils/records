@@ -1,0 +1,31 @@
+{
+  "id": "guijingsheng-zhaonofushi_293d0be7fd69",
+  "fingerprint": "293d0be7fd69070ced5b6b44735fc6cd59fd9683070494ba58a1e69d93f921bc",
+  "archived_at": "2026-11-17T21:08:52Z",
+  "metadata": {
+    "title": "貴景勝 // 照ノ富士",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 1466,
+    "duration_human": "00:24:26",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - 貴景勝 (Takakeisho)",
+      "02 Séraphitüs-Séraphîta - 照ノ富士 (Terunofuji)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/q6tsqfjp.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/guijingsheng-zhaonofushi_293d0be7fd69"
+    }
+  }
+}
