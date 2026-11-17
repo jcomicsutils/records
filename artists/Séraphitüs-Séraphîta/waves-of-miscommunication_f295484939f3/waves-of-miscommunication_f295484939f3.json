@@ -1,0 +1,30 @@
+{
+  "id": "waves-of-miscommunication_f295484939f3",
+  "fingerprint": "f295484939f39e87a50c8fa6be52350cc43c2edbcbc9c783101a9202e9761d4a",
+  "archived_at": "2026-11-17T20:46:14Z",
+  "metadata": {
+    "title": "Waves of Miscommunication",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 851,
+    "duration_human": "00:14:11",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Waves of Miscommunication"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ybelxbvd.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/waves-of-miscommunication_f295484939f3"
+    }
+  }
+}
