@@ -1,0 +1,33 @@
+{
+  "id": "yanpeng_a15e85cbf110",
+  "fingerprint": "a15e85cbf1105540b7fa6603a79f92827ac3e67e8f4e394f190ddce45a9e9b75",
+  "archived_at": "2026-11-17T21:04:42Z",
+  "metadata": {
+    "title": "炎鵬",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 1127,
+    "duration_human": "00:18:47",
+    "sampling_rate": "48kHz",
+    "bit_depth": "24-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - 炎鵬 (Enhō) Part I",
+      "02 Séraphitüs-Séraphîta - 炎鵬 (Enhō) Part II",
+      "03 Séraphitüs-Séraphîta - 炎鵬 (Enhō) Part III",
+      "04 Séraphitüs-Séraphîta - 炎鵬 (Enhō) Part IV"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/w22abjbd.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/yanpeng_a15e85cbf110"
+    }
+  }
+}

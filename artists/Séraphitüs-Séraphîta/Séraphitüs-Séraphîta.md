@@ -78,6 +78,7 @@
 | [Vanishing Tundra](vanishing-tundra_12ed7701ca98/vanishing-tundra_12ed7701ca98.md) | 2025 | FLAC | 01:01:15 | [Pomf](https://pomf2.lain.la/f/0b71ky32.tar) |
 | [Dawn of Grief](dawn-of-grief_755a5d571a6f/dawn-of-grief_755a5d571a6f.md) | 2025 | FLAC | 00:35:10 | [Pomf](https://pomf2.lain.la/f/4af7mbuu.tar) [IA](https://archive.org/details/dawn-of-grief_755a5d571a6f) |
 | [Lamentations from the Glyptoteque](lamentations-from-the-glyptoteque_a785463b3d31/lamentations-from-the-glyptoteque_a785463b3d31.md) | 2025 | FLAC | 00:29:03 | [Pomf](https://pomf2.lain.la/f/nfhi5jtd.tar) |
+| [炎鵬](yanpeng_a15e85cbf110/yanpeng_a15e85cbf110.md) | 2025 | FLAC | 00:18:47 | [Pomf](https://pomf2.lain.la/f/w22abjbd.tar) [IA](https://archive.org/details/yanpeng_a15e85cbf110) |
 | [numinous tapes IV *(with anna bortionist)*](numinous-tapes-iv_95398ca690b1/numinous-tapes-iv_95398ca690b1.md) | 2025 | FLAC | 00:16:11 | [Pomf](https://pomf2.lain.la/f/dwf1l1a0.tar) |
 | [Ela não sabe o que faz \(Remix\) *(with Eu queria que você pudesse se ver como eu te vejo)*](ela-nao-sabe-o-que-faz-remix_c654da96d443/ela-nao-sabe-o-que-faz-remix_c654da96d443.md) | 2025 | FLAC | 00:10:47 | [Pomf](https://pomf2.lain.la/f/f73t6e2e.tar) [IA](https://archive.org/details/ela-nao-sabe-o-que-faz-remix_c654da96d443) |
 | [LOESS](loess_f9eef2f69025/loess_f9eef2f69025.md) | 2025 | FLAC | 00:40:23 | [Pomf](https://pomf2.lain.la/f/zu9bsqfw.tar) [IA](https://archive.org/details/loess_f9eef2f69025) |
