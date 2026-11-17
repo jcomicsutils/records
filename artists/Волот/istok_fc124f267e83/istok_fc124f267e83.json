@@ -1,0 +1,30 @@
+{
+  "id": "istok_fc124f267e83",
+  "fingerprint": "fc124f267e83a95fd0422ad25d088095bb3f3af1fe2bf285c4a6cd9c24ea02f3",
+  "archived_at": "2026-11-17T21:36:23Z",
+  "metadata": {
+    "title": "Исток",
+    "artist": "Волот",
+    "creators": [
+      "Волот"
+    ],
+    "year": "2021",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1026,
+    "duration_human": "00:17:06",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Волот - Исток (Source)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/noh4c5cx.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/istok_fc124f267e83"
+    }
+  }
+}
