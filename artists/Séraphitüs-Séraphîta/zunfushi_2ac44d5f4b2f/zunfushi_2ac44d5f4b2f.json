@@ -1,0 +1,31 @@
+{
+  "id": "zunfushi_2ac44d5f4b2f",
+  "fingerprint": "2ac44d5f4b2f2a436fa503c432fbd736cbdfe4212ee4763276be0c7385466aca",
+  "archived_at": "2026-11-17T21:00:51Z",
+  "metadata": {
+    "title": "尊富士",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 2,
+    "duration_seconds": 743,
+    "duration_human": "00:12:23",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - 尊富士 (Takerufuji) Pt. I",
+      "02 Séraphitüs-Séraphîta - 尊富士 (Takerufuji) Pt. II"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/ovafytl6.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/zunfushi_2ac44d5f4b2f"
+    }
+  }
+}
