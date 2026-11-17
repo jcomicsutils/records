@@ -1,0 +1,38 @@
+{
+  "id": "voluspa-prophecy-of-the-seeress_61e2377db5d2",
+  "fingerprint": "61e2377db5d27e9ecaa245f3195dd0e76a485019690f6c56f26c3760c0fba0a8",
+  "archived_at": "2026-11-17T20:41:22Z",
+  "metadata": {
+    "title": "VÖLUSPÁ (Prophecy of the Seeress)",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 9,
+    "duration_seconds": 2481,
+    "duration_human": "00:41:21",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - The Old North Spirit",
+      "02 Séraphitüs-Séraphîta - Valfather (Valföðr)",
+      "03 Séraphitüs-Séraphîta - The Tale of the North Wind",
+      "04 Séraphitüs-Séraphîta - The Seeress (Völva)",
+      "05 Séraphitüs-Séraphîta - Jörmungandr (World Serpent)",
+      "06 Séraphitüs-Séraphîta - The Final Destiny of the Gods",
+      "07 Séraphitüs-Séraphîta - Ill Days Among Men",
+      "08 Séraphitüs-Séraphîta - A Thousand Years Are Swept Away",
+      "09 Séraphitüs-Séraphîta - Líf and Lífþrasir (Lif and Lifrasir)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/nh3uzhna.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/voluspa-prophecy-of-the-seeress_61e2377db5d2"
+    }
+  }
+}
