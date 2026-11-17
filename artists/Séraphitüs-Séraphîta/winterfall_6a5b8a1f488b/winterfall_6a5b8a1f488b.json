@@ -1,0 +1,30 @@
+{
+  "id": "winterfall_6a5b8a1f488b",
+  "fingerprint": "6a5b8a1f488ba49994b8d746691ab1d7eeccfa80c02ea0998c5ccfdb3f948ff4",
+  "archived_at": "2026-11-17T20:48:53Z",
+  "metadata": {
+    "title": "Winterfall",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2025",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 2624,
+    "duration_human": "00:43:44",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - Winterfall"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/mdhv6tqw.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/winterfall_6a5b8a1f488b"
+    }
+  }
+}
