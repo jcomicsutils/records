@@ -1,0 +1,30 @@
+{
+  "id": "you-are-a-little-soul-carrying-around-a-corpse_7b0d7439fff4",
+  "fingerprint": "7b0d7439fff4dfd8280dd9f1f1455f77ad829daa5d8edebbef2fe28f45736315",
+  "archived_at": "2026-11-17T20:50:58Z",
+  "metadata": {
+    "title": "You are a little soul carrying around a corpse",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 691,
+    "duration_human": "00:11:31",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - “You are a little soul carrying around a corpse.”"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/aua7l8rj.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/you-are-a-little-soul-carrying-around-a-corpse_7b0d7439fff4"
+    }
+  }
+}
