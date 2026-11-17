@@ -1,0 +1,30 @@
+{
+  "id": "linoxin_1e85f3eed028",
+  "fingerprint": "1e85f3eed028b5d812007be3fa6fde2eec85a65a8f2f53e996c20a58330260f4",
+  "archived_at": "2026-11-17T21:02:51Z",
+  "metadata": {
+    "title": "栃ノ心",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2023",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 492,
+    "duration_human": "00:08:12",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Séraphitüs-Séraphîta - 栃ノ心 (Tochinoshin)"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/lrybtqyv.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/linoxin_1e85f3eed028"
+    }
+  }
+}
