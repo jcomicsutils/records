@@ -1,0 +1,56 @@
+{
+  "id": "100-all-light-is-golden-in-the-eyes-of-oxen-for-clayton-counts_3d8ef17b7ad8",
+  "fingerprint": "3d8ef17b7ad8ce1c22ebaaba09c6a7a8dd102cbe8aab186e51cabb3e42367bb7",
+  "archived_at": "2026-11-23T20:44:10Z",
+  "metadata": {
+    "title": "100. All Light Is Golden in the Eyes of Oxen. (For Clayton Counts)",
+    "artist": "Piranesi.",
+    "creators": [
+      "Piranesi."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 4,
+    "duration_seconds": 86400,
+    "duration_human": "24:00:00",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Piranesi. - All Light Is Golden in the Eyes of Oxen. (For Clayton Counts) I",
+      "02 Piranesi. - All Light Is Golden in the Eyes of Oxen. (For Clayton Counts) II",
+      "03 Piranesi. - All Light Is Golden in the Eyes of Oxen. (For Clayton Counts) III",
+      "04 Piranesi. - All Light Is Golden in the Eyes of Oxen. (For Clayton Counts) IV"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "type": "split_archive",
+      "parts": [
+        {
+          "url": "https://pomf2.lain.la/f/4ril3ead.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/1eqid8qk.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/0vznycyf.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/lctju5df.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/ak6w5us1.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/9gc0wksj.tar"
+        },
+        {
+          "url": "https://pomf2.lain.la/f/exudg4aa.tar"
+        }
+      ]
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/100-all-light-is-golden-in-the-eyes-of-oxen-for-clayton-counts_3d8ef17b7ad8"
+    }
+  }
+}
