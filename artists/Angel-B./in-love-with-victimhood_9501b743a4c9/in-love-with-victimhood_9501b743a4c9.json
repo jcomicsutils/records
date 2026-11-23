@@ -1,0 +1,30 @@
+{
+  "id": "in-love-with-victimhood_9501b743a4c9",
+  "fingerprint": "9501b743a4c960e3157f80c01750be93edb87579333ce5ac8a5935d004695b83",
+  "archived_at": "2026-11-23T20:21:31Z",
+  "metadata": {
+    "title": "In Love With Victimhood",
+    "artist": "Angel B.",
+    "creators": [
+      "Angel B."
+    ],
+    "year": "2026",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 1350,
+    "duration_human": "00:22:30",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "01 Angel B. - In Love With Victimhood"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/rfujreo6.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/in-love-with-victimhood_9501b743a4c9"
+    }
+  }
+}
