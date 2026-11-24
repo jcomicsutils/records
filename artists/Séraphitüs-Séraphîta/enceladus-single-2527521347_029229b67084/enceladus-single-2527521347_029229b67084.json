@@ -1,0 +1,30 @@
+{
+  "id": "enceladus-single-2527521347_029229b67084",
+  "fingerprint": "029229b67084a1d9d18779a937a9c54334cbd59f84d4af092099b71af728d56b",
+  "archived_at": "2026-11-23T23:58:06Z",
+  "metadata": {
+    "title": "Enceladus (Single) [2527521347]",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 223,
+    "duration_human": "00:03:43",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "00 Séraphitüs-Séraphîta - Enceladus"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/amyz216g.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/enceladus-single-2527521347_029229b67084"
+    }
+  }
+}
