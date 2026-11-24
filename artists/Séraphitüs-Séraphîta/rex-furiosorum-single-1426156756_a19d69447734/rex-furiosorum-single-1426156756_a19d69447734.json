@@ -1,0 +1,27 @@
+{
+  "id": "rex-furiosorum-single-1426156756_a19d69447734",
+  "fingerprint": "a19d6944773434b36d814dcd58f10910f5e828e025f65d446fb377161ea971f5",
+  "archived_at": "2026-11-24T00:01:52Z",
+  "metadata": {
+    "title": "Rex Furiosorum (Single) [1426156756]",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 245,
+    "duration_human": "00:04:05",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "00 Séraphitüs-Séraphîta - Rex Furiosorum"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/nh4hr8ax.tar"
+    }
+  }
+}
