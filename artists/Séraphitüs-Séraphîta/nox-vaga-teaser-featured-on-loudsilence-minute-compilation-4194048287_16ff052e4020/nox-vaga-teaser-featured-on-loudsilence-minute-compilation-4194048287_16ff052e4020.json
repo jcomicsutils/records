@@ -1,0 +1,30 @@
+{
+  "id": "nox-vaga-teaser-featured-on-loudsilence-minute-compilation-4194048287_16ff052e4020",
+  "fingerprint": "16ff052e4020f1d5d573fb8c2fd9d1e31c66e1623b1b7d5a54fc92271bcfe8fd",
+  "archived_at": "2026-11-24T00:00:53Z",
+  "metadata": {
+    "title": "Nox Vaga (teaser) featured on LOUDsilence MINUTE Compilation [4194048287]",
+    "artist": "Séraphitüs-Séraphîta",
+    "creators": [
+      "Séraphitüs-Séraphîta"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 52,
+    "duration_human": "00:00:52",
+    "sampling_rate": "48kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "00 Séraphitüs-Séraphîta - Nox Vaga"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/u61mcp5t.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/nox-vaga-teaser-featured-on-loudsilence-minute-compilation-4194048287_16ff052e4020"
+    }
+  }
+}
