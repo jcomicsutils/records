@@ -1,0 +1,30 @@
+{
+  "id": "seraphitus-seraphita-auntsoot-de-priant-a-martyr-single-1850990448_a7146a74636a",
+  "fingerprint": "a7146a74636a0d3bbdf4c02e0a2ec5f637db53e82f9b4f62f791ba25bcc2714c",
+  "archived_at": "2026-11-24T00:04:07Z",
+  "metadata": {
+    "title": "Séraphitüs-Séraphîta + Auntsoot - De priant à martyr (single) [1850990448]",
+    "artist": "Séraphitüs-Séraphîta + Auntsoot",
+    "creators": [
+      "Séraphitüs-Séraphîta + Auntsoot"
+    ],
+    "year": "2024",
+    "codec": "FLAC",
+    "num_tracks": 1,
+    "duration_seconds": 713,
+    "duration_human": "00:11:53",
+    "sampling_rate": "44.1kHz",
+    "bit_depth": "16-bit",
+    "tracklist": [
+      "00 Séraphitüs-Séraphîta + Auntsoot - De priant à martyr"
+    ]
+  },
+  "hosts": {
+    "pomf": {
+      "url": "https://pomf2.lain.la/f/efj7aive.tar"
+    },
+    "archive_org": {
+      "url": "https://archive.org/details/seraphitus-seraphita-auntsoot-de-priant-a-martyr-single-1850990448_a7146a74636a"
+    }
+  }
+}
